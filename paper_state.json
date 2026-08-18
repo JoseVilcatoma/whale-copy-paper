@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.12849876281376,
+  "bankroll": 507.03565333747974,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15,6 +15,16 @@
       "timestamp": 1787082775.606134,
       "bankroll": 504.13,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Dusan Lajovic vs Taro Daniel"
+    },
+    {
+      "timestamp": 1787083459.6432488,
+      "bankroll": 505.91,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Garrett Johns vs Paulo Dos Santos"
+    },
+    {
+      "timestamp": 1787083460.0438068,
+      "bankroll": 507.04,
+      "event": "won: swisstony \u2014 Kingston: Garrett Johns vs Paulo Dos Santos"
     }
   ]
 }
