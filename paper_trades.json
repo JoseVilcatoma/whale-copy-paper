@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 75531.82758699999,
-    "whale_pct": 30.347,
+    "whale_usd": 76512.016714,
+    "whale_pct": 30.741,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787083646.6895115,
-    "fills": 29
+    "last_fill_at": 1787083837.023751,
+    "fills": 30
   },
   {
     "timestamp": 1787079628,
@@ -544,8 +544,8 @@
     "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 7399.634300000001,
-    "whale_pct": 2.916,
+    "whale_usd": 8371.982100000001,
+    "whale_pct": 3.299,
     "whale_value_at_open": 253778.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -556,8 +556,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787083642.4551136,
-    "fills": 7
+    "last_fill_at": 1787083762.474029,
+    "fills": 8
   },
   {
     "timestamp": 1787079812,
@@ -1757,6 +1757,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787083460.7820334,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787083800,
+    "timestamp_added": 1787083800.9355233,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-atl-min-2026-08-18",
+    "title": "Atlanta Braves vs. Minnesota Twins",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 59151.213,
+    "whale_pct": 139.755,
+    "whale_value_at_open": 42325.0791,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787083800.935536,
     "fills": 1
   }
 ]

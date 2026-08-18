@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 15:08:44 (hora de Perú)
+Actualizado: 2026-08-18 15:10:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 15:08:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $177.18)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $172.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,6 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 1 | 0 | 1 | +7.05 USD |
 | swisstony | 2 | 0 | 24 | +1.28 USD |
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | ferrariChampions2026 | 2 | 1 | 40 | -1.14 USD |
 
 ## Análisis general
@@ -59,6 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-pls-aek1-2026-08-18-aek1 | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-lyo | ferrariChampions2026, swisstony |
 | atp-nakashi-medvede-2026-08-18 | ferrariChampions2026, swisstony |
+| mlb-atl-min-2026-08-18 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
 | ucl-fen-lyo-2026-08-18-fen | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-total-1pt5 | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-spread-home-1pt5 | ferrariChampions2026, swisstony |
@@ -69,6 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 5.00 | 139.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Jurij Rodionov vs Rei Sakam | Rei Sakamoto (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Ann Li | Coco Gauff (BUY) | 98% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -98,4 +101,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Nakashima vs Medvedev | Nakashima (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Spread: GNK Dinamo Zagreb (-2.5) | Viking FK (BUY) | 52% | 5.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
