@@ -2016,8 +2016,8 @@
     "title": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
     "outcome": "Ekaterina Alexandrova",
     "side": "BUY",
-    "whale_usd": 11619.173411,
-    "whale_pct": 4.15,
+    "whale_usd": 12204.173411,
+    "whale_pct": 4.359,
     "whale_value_at_open": 279948.6729,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -2030,8 +2030,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787091116.5184193,
-    "fills": 5
+    "last_fill_at": 1787092322.1943011,
+    "fills": 6
   },
   {
     "timestamp": 1787087345,
