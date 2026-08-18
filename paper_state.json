@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.50943868950174,
+  "bankroll": 503.4758831339462,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -330,6 +330,26 @@
       "timestamp": 1787091478.8759258,
       "bankroll": 504.51,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C"
+    },
+    {
+      "timestamp": 1787091604.3333325,
+      "bankroll": 510.48,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Brandon Nakashima vs Daniil Medvedev"
+    },
+    {
+      "timestamp": 1787091604.5336168,
+      "bankroll": 505.37,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Brandon Nakashima vs Daniil Medvedev"
+    },
+    {
+      "timestamp": 1787091605.0252137,
+      "bankroll": 508.6,
+      "event": "won: swisstony \u2014 Cincinnati Open: Brandon Nakashima vs Daniil Medvedev"
+    },
+    {
+      "timestamp": 1787091608.110261,
+      "bankroll": 503.48,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Faria vs Walton"
     }
   ]
 }
