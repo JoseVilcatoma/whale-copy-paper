@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 16:51:14 (hora de Perú)
+Actualizado: 2026-08-18 16:53:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.01
-**Retorno acumulado:** -1.20%
+**Bankroll actual:** $495.20
+**Retorno acumulado:** -0.96%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 16:51:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $299.01)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $310.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 1 | 2 | -5.09 USD |
-| ferrariChampions2026 | 22 | 12 | 27 | -34.43 USD |
+| ferrariChampions2026 | 23 | 13 | 25 | -33.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 60
-- **Aciertos:** 45 (75.0%)
-- **Cuota promedio de entrada:** 74.7%
+- **Apuestas resueltas:** 62
+- **Aciertos:** 46 (74.2%)
+- **Cuota promedio de entrada:** 74.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $300.00
-- **ROI sobre lo apostado:** -2.00%
-- **Comisiones pagadas (taker fee):** $3.80 (1.27% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.74% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $310.00
+- **ROI sobre lo apostado:** -1.55%
+- **Comisiones pagadas (taker fee):** $3.97 (1.28% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,9 +45,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 13 | 38.5% | 48.4% | -9.9 pp |
+| 40-59% | 14 | 42.9% | 48.1% | -5.2 pp |
 | 60-79% | 21 | 76.2% | 70.3% | +5.9 pp |
-| 80-94% | 18 | 88.9% | 88.2% | +0.7 pp |
+| 80-94% | 19 | 84.2% | 88.2% | -4.0 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 98.2% | +1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -91,8 +91,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | alaskabaked | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 59% | 5.00 | 23.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Andrea Pellegrino vs Nishes | Andrea Pellegrino (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Ekaterina Alexandrova (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Andrea Pellegrino vs Nishes | Andrea Pellegrino (BUY) | 44% | 5.00 | 0.4% | ✅ ganada | +6.22 |
+| ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Ekaterina Alexandrova (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Sara Bejlek vs Ekaterin | Ekaterina Alexandrova (BUY) | 50% | 5.00 | 40.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: INTZ e-Sports vs 7REX (BO3) - Circu | INTZ e-Sports (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
