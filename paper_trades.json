@@ -2188,8 +2188,8 @@
     "title": "Cancun: Dali Blanch vs Felipe Meligeni Alves",
     "outcome": "Felipe Meligeni Alves",
     "side": "BUY",
-    "whale_usd": 5070.899285,
-    "whale_pct": 2.311,
+    "whale_usd": 6318.899285,
+    "whale_pct": 2.879,
     "whale_value_at_open": 219446.0021,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -2200,8 +2200,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787096667.0242107,
-    "fills": 4
+    "last_fill_at": 1787096744.3100526,
+    "fills": 5
   },
   {
     "timestamp": 1787087900,
@@ -3181,5 +3181,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787096672.483383,
     "fills": 1
+  },
+  {
+    "timestamp": 1787096698,
+    "timestamp_added": 1787096698.5814402,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-oak-kc-2026-08-18",
+    "title": "Athletics vs. Kansas City Royals",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 8203.278699999999,
+    "whale_pct": 2.151,
+    "whale_value_at_open": 381356.5345,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787096748.6837578,
+    "fills": 3
   }
 ]
