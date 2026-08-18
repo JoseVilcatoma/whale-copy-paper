@@ -2236,8 +2236,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 35273.872898,
-    "whale_pct": 15.312,
+    "whale_usd": 36099.806498,
+    "whale_pct": 15.671,
     "whale_value_at_open": 230366.5987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -2250,8 +2250,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787094664.3586843,
-    "fills": 20
+    "last_fill_at": 1787095026.709997,
+    "fills": 21
   },
   {
     "timestamp": 1787088142,
@@ -2927,8 +2927,8 @@
     "title": "Kingston: Lucas Da Silva vs Tyler Zink",
     "outcome": "Tyler Zink",
     "side": "BUY",
-    "whale_usd": 4705.8782,
-    "whale_pct": 1.115,
+    "whale_usd": 8356.6986,
+    "whale_pct": 1.98,
     "whale_value_at_open": 422036.0094,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -2939,7 +2939,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787094735.828199,
-    "fills": 1
+    "last_fill_at": 1787095073.9654534,
+    "fills": 2
   }
 ]
