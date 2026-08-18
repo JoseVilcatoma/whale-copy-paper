@@ -2226,5 +2226,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787087901.1618555,
     "fills": 1
+  },
+  {
+    "timestamp": 1787088097,
+    "timestamp_added": 1787088097.5330522,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-faria-walton-2026-08-18",
+    "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
+    "outcome": "Jaime Faria",
+    "side": "BUY",
+    "whale_usd": 6365.980500000001,
+    "whale_pct": 2.763,
+    "whale_value_at_open": 230366.5987,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "alaskabaked"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787088097.5330627,
+    "fills": 1
   }
 ]
