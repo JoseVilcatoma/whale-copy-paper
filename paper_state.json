@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.04425481427535,
+  "bankroll": 498.0917598647804,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -315,6 +315,11 @@
       "timestamp": 1787090053.6146185,
       "bankroll": 498.04,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Jurij Rodionov vs Rei Sakamoto"
+    },
+    {
+      "timestamp": 1787090614.718404,
+      "bankroll": 498.09,
+      "event": "won: swisstony \u2014 Will Al Diraiyah Saudi Club vs. Al Nassr Saudi Club end in a draw?"
     }
   ]
 }
