@@ -374,8 +374,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 44541.495152,
-    "whale_pct": 20.266,
+    "whale_usd": 45730.642152,
+    "whale_pct": 20.807,
     "whale_value_at_open": 219784.3957,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -386,8 +386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080949.9649646,
-    "fills": 18
+    "last_fill_at": 1787082148.4939806,
+    "fills": 19
   },
   {
     "timestamp": 1787079396,
@@ -472,8 +472,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 12585.089998999998,
-    "whale_pct": 5.395,
+    "whale_usd": 18733.209998,
+    "whale_pct": 8.03,
     "whale_value_at_open": 233275.7657,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -484,8 +484,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079628.9919395,
-    "fills": 1
+    "last_fill_at": 1787082176.4736576,
+    "fills": 2
   },
   {
     "timestamp": 1787079728,
@@ -1635,6 +1635,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787081902.716463,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787082155,
+    "timestamp_added": 1787082155.6170983,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-pellegr-basavar-2026-08-18",
+    "title": "Quebec City: Andrea Pellegrino vs Nishesh Basavareddy",
+    "outcome": "Nishesh Basavareddy",
+    "side": "BUY",
+    "whale_usd": 1061.1281999999999,
+    "whale_pct": 0.41,
+    "whale_value_at_open": 258816.1813,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787082155.6171072,
     "fills": 1
   }
 ]
