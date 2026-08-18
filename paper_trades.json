@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 74102.069987,
-    "whale_pct": 29.772,
+    "whale_usd": 75531.82758699999,
+    "whale_pct": 30.347,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787083390.2537954,
-    "fills": 28
+    "last_fill_at": 1787083646.6895115,
+    "fills": 29
   },
   {
     "timestamp": 1787079628,
@@ -544,8 +544,8 @@
     "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 6714.8159000000005,
-    "whale_pct": 2.646,
+    "whale_usd": 7399.634300000001,
+    "whale_pct": 2.916,
     "whale_value_at_open": 253778.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -556,8 +556,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787081846.5706491,
-    "fills": 6
+    "last_fill_at": 1787083642.4551136,
+    "fills": 7
   },
   {
     "timestamp": 1787079812,
@@ -690,8 +690,8 @@
     "title": "Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1367.3410999999999,
-    "whale_pct": 0.579,
+    "whale_usd": 2378.2635,
+    "whale_pct": 1.008,
     "whale_value_at_open": 236030.4622,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -702,8 +702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080283.3221822,
-    "fills": 1
+    "last_fill_at": 1787083611.1781843,
+    "fills": 2
   },
   {
     "timestamp": 1787080346,
@@ -934,8 +934,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1607.3219,
-    "whale_pct": 0.653,
+    "whale_usd": 3820.8644000000004,
+    "whale_pct": 1.553,
     "whale_value_at_open": 245971.6757,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -946,8 +946,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787082409.5871036,
-    "fills": 3
+    "last_fill_at": 1787083642.673669,
+    "fills": 7
   },
   {
     "timestamp": 1787080548,
