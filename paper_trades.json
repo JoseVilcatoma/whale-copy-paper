@@ -180,8 +180,8 @@
     "title": "Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "Metizport",
     "side": "BUY",
-    "whale_usd": 3981.8,
-    "whale_pct": 1.732,
+    "whale_usd": 4589.99,
+    "whale_pct": 1.997,
     "whale_value_at_open": 229864.0213,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -192,8 +192,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787081774.600751,
-    "fills": 4
+    "last_fill_at": 1787082517.6315627,
+    "fills": 5
   },
   {
     "timestamp": 1787078852,
@@ -374,8 +374,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 45730.642152,
-    "whale_pct": 20.807,
+    "whale_usd": 49316.390552,
+    "whale_pct": 22.439,
     "whale_value_at_open": 219784.3957,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -386,8 +386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787082148.4939806,
-    "fills": 19
+    "last_fill_at": 1787082554.4279504,
+    "fills": 20
   },
   {
     "timestamp": 1787079396,
@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 21929.292,
-    "whale_pct": 8.811,
+    "whale_usd": 25382.777000000002,
+    "whale_pct": 10.198,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787082463.4613464,
-    "fills": 8
+    "last_fill_at": 1787082588.8616633,
+    "fills": 10
   },
   {
     "timestamp": 1787079628,
@@ -568,8 +568,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4064.7622999999994,
-    "whale_pct": 1.602,
+    "whale_usd": 6088.132599999999,
+    "whale_pct": 2.399,
     "whale_value_at_open": 253778.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -580,8 +580,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080385.9284692,
-    "fills": 5
+    "last_fill_at": 1787082588.784265,
+    "fills": 7
   },
   {
     "timestamp": 1787079814,
