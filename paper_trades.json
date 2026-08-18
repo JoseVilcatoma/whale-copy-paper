@@ -544,8 +544,8 @@
     "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 5651.5694,
-    "whale_pct": 2.227,
+    "whale_usd": 6714.8159000000005,
+    "whale_pct": 2.646,
     "whale_value_at_open": 253778.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -556,8 +556,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080524.946585,
-    "fills": 5
+    "last_fill_at": 1787081846.5706491,
+    "fills": 6
   },
   {
     "timestamp": 1787079812,
@@ -838,8 +838,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2253.9805,
-    "whale_pct": 0.923,
+    "whale_usd": 3073.433833,
+    "whale_pct": 1.259,
     "whale_value_at_open": 244154.204,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -850,8 +850,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080704.1855578,
-    "fills": 2
+    "last_fill_at": 1787081900.907849,
+    "fills": 3
   },
   {
     "timestamp": 1787080458,
@@ -1611,6 +1611,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787081444.946708,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787081902,
+    "timestamp_added": 1787081902.7164536,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-din-vf-2026-08-18-din",
+    "title": "Will GNK Dinamo Zagreb win on 2026-08-18?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1505.0343,
+    "whale_pct": 0.56,
+    "whale_value_at_open": 268660.5424,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787081902.716463,
     "fills": 1
   }
 ]
