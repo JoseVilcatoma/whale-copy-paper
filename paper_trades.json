@@ -1646,8 +1646,8 @@
     "title": "Quebec City: Andrea Pellegrino vs Nishesh Basavareddy",
     "outcome": "Nishesh Basavareddy",
     "side": "BUY",
-    "whale_usd": 8310.288876,
-    "whale_pct": 3.211,
+    "whale_usd": 11891.094876000001,
+    "whale_pct": 4.594,
     "whale_value_at_open": 258816.1813,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -1658,8 +1658,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787083282.3631601,
-    "fills": 2
+    "last_fill_at": 1787084526.663073,
+    "fills": 4
   },
   {
     "timestamp": 1787082362,
@@ -1844,8 +1844,8 @@
     "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
     "outcome": "Marta Kostyuk",
     "side": "BUY",
-    "whale_usd": 5585.949599999999,
-    "whale_pct": 2.029,
+    "whale_usd": 6142.928422999999,
+    "whale_pct": 2.231,
     "whale_value_at_open": 275334.3352,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -1856,7 +1856,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084479.3303626,
-    "fills": 1
+    "last_fill_at": 1787084512.247647,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787084523,
+    "timestamp_added": 1787084524.017607,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-din-vf-2026-08-18-spread-home-2pt5",
+    "title": "Spread: GNK Dinamo Zagreb (-2.5)",
+    "outcome": "Viking FK",
+    "side": "BUY",
+    "whale_usd": 1105.6799999999998,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 284095.605,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787084544.8135343,
+    "fills": 2
   }
 ]
