@@ -374,8 +374,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 99918.61232499997,
-    "whale_pct": 45.462,
+    "whale_usd": 101573.31178499997,
+    "whale_pct": 46.215,
     "whale_value_at_open": 219784.3957,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -386,8 +386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787089211.434973,
-    "fills": 42
+    "last_fill_at": 1787089396.1567688,
+    "fills": 43
   },
   {
     "timestamp": 1787079396,
@@ -2236,8 +2236,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 11083.643547000001,
-    "whale_pct": 4.811,
+    "whale_usd": 14443.643547000001,
+    "whale_pct": 6.27,
     "whale_value_at_open": 230366.5987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -2250,8 +2250,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787089219.5732937,
-    "fills": 6
+    "last_fill_at": 1787089440.0997381,
+    "fills": 7
   },
   {
     "timestamp": 1787088142,
