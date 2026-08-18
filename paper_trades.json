@@ -2236,8 +2236,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 38860.869697999995,
-    "whale_pct": 16.869,
+    "whale_usd": 39473.589697999996,
+    "whale_pct": 17.135,
     "whale_value_at_open": 230366.5987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -2250,8 +2250,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787095092.6918085,
-    "fills": 22
+    "last_fill_at": 1787095247.589361,
+    "fills": 23
   },
   {
     "timestamp": 1787088142,
