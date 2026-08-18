@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 16:24:15 (hora de Perú)
+Actualizado: 2026-08-18 16:26:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.02
-**Retorno acumulado:** +0.60%
+**Bankroll actual:** $497.96
+**Retorno acumulado:** -0.41%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 16:24:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $313.02)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $312.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 1 | 2 | -5.09 USD |
-| ferrariChampions2026 | 20 | 10 | 28 | -25.42 USD |
+| ferrariChampions2026 | 20 | 11 | 27 | -30.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 56
-- **Aciertos:** 43 (76.8%)
+- **Apuestas resueltas:** 57
+- **Aciertos:** 43 (75.4%)
 - **Cuota promedio de entrada:** 74.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $280.00
-- **ROI sobre lo apostado:** +1.07%
-- **Comisiones pagadas (taker fee):** $3.60 (1.29% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $285.00
+- **ROI sobre lo apostado:** -0.72%
+- **Comisiones pagadas (taker fee):** $3.66 (1.28% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.56% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,7 +46,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 13 | 38.5% | 48.4% | -9.9 pp |
-| 60-79% | 19 | 84.2% | 70.4% | +13.8 pp |
+| 60-79% | 20 | 80.0% | 70.7% | +9.3 pp |
 | 80-94% | 16 | 87.5% | 88.1% | -0.6 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 98.2% | +1.8 pp |
 
@@ -78,8 +78,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | swisstony | Will Gimnasia y Esgrima La Plata win on  | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Faria vs Walton | Faria (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 56% | 5.00 | 2.8% | ⏳ pendiente | — |
-| swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 56% | 5.00 | 3.3% | ⏳ pendiente | — |
+| swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Dali Blanch vs Felipe Meligeni A | Felipe Meligeni Alves (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Over (BUY) | 59% | 5.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |

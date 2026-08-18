@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.0178129397374,
+  "bankroll": 497.9578129397374,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -280,6 +280,11 @@
       "timestamp": 1787088249.1346538,
       "bankroll": 503.02,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Marta Kostyuk vs Sloane Stephens"
+    },
+    {
+      "timestamp": 1787088372.618559,
+      "bankroll": 497.96,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC - Map 2 Winner"
     }
   ]
 }
