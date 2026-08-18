@@ -788,8 +788,8 @@
     "title": "PFK Levski Sofia vs. AEK: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1271.87,
-    "whale_pct": 0.333,
+    "whale_usd": 1967.86,
+    "whale_pct": 0.515,
     "whale_value_at_open": 381767.5713,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -800,8 +800,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080551.8435256,
-    "fills": 2
+    "last_fill_at": 1787081243.537389,
+    "fills": 3
   },
   {
     "timestamp": 1787080435,
@@ -1514,5 +1514,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787081103.4545338,
     "fills": 1
+  },
+  {
+    "timestamp": 1787081252,
+    "timestamp_added": 1787081252.5465155,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "argcopa-rie-glp-2026-08-18-total-1pt5",
+    "title": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 15279.7422,
+    "whale_pct": 99.802,
+    "whale_value_at_open": 15310.0813,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787081292.0094328,
+    "fills": 7
   }
 ]
