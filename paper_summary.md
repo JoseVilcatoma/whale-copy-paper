@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 15:15:02 (hora de Perú)
+Actualizado: 2026-08-18 15:17:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $496.91
-**Retorno acumulado:** -0.62%
+**Bankroll actual:** $497.27
+**Retorno acumulado:** -0.55%
 **Peor caída desde un máximo (drawdown):** 2.02%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 15:15:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $171.91)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $167.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,18 +25,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 2 | 0 | 24 | +1.28 USD |
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 2 | 2 | 39 | -6.28 USD |
+| alaskabaked | 0 | 0 | 1 | +0.00 USD |
+| ferrariChampions2026 | 3 | 2 | 39 | -5.92 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 8
-- **Aciertos:** 5 (62.5%)
-- **Cuota promedio de entrada:** 64.5%
+- **Apuestas resueltas:** 9
+- **Aciertos:** 6 (66.7%)
+- **Cuota promedio de entrada:** 67.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $40.00
-- **ROI sobre lo apostado:** -7.73%
-- **Comisiones pagadas (taker fee):** $0.71 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -5.95% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $45.00
+- **ROI sobre lo apostado:** -6.07%
+- **Comisiones pagadas (taker fee):** $0.73 (1.62% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -4.45% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,7 +47,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 3 | 33.3% | 43.7% | -10.3 pp |
 | 60-79% | 3 | 66.7% | 69.0% | -2.3 pp |
-| 80-94% | 1 | 100.0% | 81.0% | +19.0 pp |
+| 80-94% | 2 | 100.0% | 87.0% | +13.0 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 97.0% | +3.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -64,6 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-fen-lyo-2026-08-18-fen | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-total-1pt5 | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-spread-home-1pt5 | ferrariChampions2026, swisstony |
+| ucl-pls-aek1-2026-08-18-pls | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-total-2pt5 | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-spread-home-2pt5 | ferrariChampions2026, swisstony |
 
@@ -71,6 +73,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will PFK Levski Sofia win on 2026-08-18? | No (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
+| alaskabaked | Set Handicap: Gauff (-1.5) vs Li (+1.5) | Li (BUY) | 65% | 5.00 | 4.9% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 5.00 | 139.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Jurij Rodionov vs Rei Sakam | Rei Sakamoto (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -99,5 +103,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | GNK Dinamo Zagreb vs. Viking FK: Both Te | Yes (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Nakashima vs Medvedev | Nakashima (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
-| swisstony | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
-| swisstony | Spread: GNK Dinamo Zagreb (-2.5) | Viking FK (BUY) | 52% | 5.00 | 0.1% | ⏳ pendiente | — |
