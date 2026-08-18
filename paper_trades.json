@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 80919.066614,
-    "whale_pct": 32.511,
+    "whale_usd": 82571.832014,
+    "whale_pct": 33.175,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084456.6998863,
-    "fills": 33
+    "last_fill_at": 1787084688.8354058,
+    "fills": 34
   },
   {
     "timestamp": 1787079628,
@@ -1884,5 +1884,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787084544.8135343,
     "fills": 2
+  },
+  {
+    "timestamp": 1787084643,
+    "timestamp_added": 1787084643.7482004,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-fen-lyo-2026-08-18-total-2pt5",
+    "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 881.2162000000001,
+    "whale_pct": 0.301,
+    "whale_value_at_open": 292369.2875,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787084643.7482114,
+    "fills": 1
   }
 ]
