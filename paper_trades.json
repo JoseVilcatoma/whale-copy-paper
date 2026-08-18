@@ -2701,8 +2701,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3577.42,
-    "whale_pct": 1.565,
+    "whale_usd": 10069.892100000001,
+    "whale_pct": 4.405,
     "whale_value_at_open": 228585.7923,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -2713,7 +2713,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787092798.0877066,
-    "fills": 1
+    "last_fill_at": 1787092948.4121547,
+    "fills": 2
   }
 ]
