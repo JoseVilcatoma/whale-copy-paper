@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.42028802279384,
+  "bankroll": 502.2388594513653,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -270,6 +270,11 @@
       "timestamp": 1787087868.8511097,
       "bankroll": 498.42,
       "event": "lost: ferrariChampions2026 \u2014 Will GNK Dinamo Zagreb win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087927.7794816,
+      "bankroll": 502.24,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Metizport vs SPARTA - Map 2 Winner"
     }
   ]
 }

@@ -309,8 +309,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -374,8 +374,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 67424.03066199999,
-    "whale_pct": 30.677,
+    "whale_usd": 70374.74082499999,
+    "whale_pct": 32.02,
     "whale_value_at_open": 219784.3957,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -386,8 +386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787087713.0170386,
-    "fills": 29
+    "last_fill_at": 1787087935.336224,
+    "fills": 31
   },
   {
     "timestamp": 1787079396,
@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 112483.800971,
-    "whale_pct": 45.193,
+    "whale_usd": 113015.100971,
+    "whale_pct": 45.407,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787086960.1164494,
-    "fills": 48
+    "last_fill_at": 1787087958.8090763,
+    "fills": 49
   },
   {
     "timestamp": 1787079628,
@@ -2090,8 +2090,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Adam Walton",
     "side": "BUY",
-    "whale_usd": 8778.069049,
-    "whale_pct": 3.908,
+    "whale_usd": 13529.764049,
+    "whale_pct": 6.024,
     "whale_value_at_open": 224599.0726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -2102,8 +2102,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787087658.055012,
-    "fills": 3
+    "last_fill_at": 1787087913.9946165,
+    "fills": 4
   },
   {
     "timestamp": 1787087638,
@@ -2202,5 +2202,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787087842.3670945,
     "fills": 2
+  },
+  {
+    "timestamp": 1787087900,
+    "timestamp_added": 1787087901.1618445,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "argcopa-rie-glp-2026-08-18-total-4pt5",
+    "title": "Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 844.8299999999999,
+    "whale_pct": 0.343,
+    "whale_value_at_open": 245970.4458,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787087901.1618555,
+    "fills": 1
   }
 ]
