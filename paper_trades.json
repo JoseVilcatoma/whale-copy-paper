@@ -194,5 +194,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787078607.1337168,
     "fills": 1
+  },
+  {
+    "timestamp": 1787078852,
+    "timestamp_added": 1787078852.7707257,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-royer-miguel-2026-08-17",
+    "title": "Kingston: Valentin Royer vs Luis Guto Miguel",
+    "outcome": "Valentin Royer",
+    "side": "BUY",
+    "whale_usd": 625.931616,
+    "whale_pct": 0.27,
+    "whale_value_at_open": 231813.0015,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787078852.770736,
+    "fills": 1
   }
 ]
