@@ -2236,8 +2236,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 16582.810347000002,
-    "whale_pct": 7.198,
+    "whale_usd": 17205.503964000003,
+    "whale_pct": 7.469,
     "whale_value_at_open": 230366.5987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -2250,8 +2250,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787091568.791797,
-    "fills": 8
+    "last_fill_at": 1787092051.1998303,
+    "fills": 9
   },
   {
     "timestamp": 1787088142,
@@ -2505,8 +2505,8 @@
     "title": "Cancun: Roman Safiullin vs Sebastian Ofner",
     "outcome": "Roman Safiullin",
     "side": "BUY",
-    "whale_usd": 2051.0685,
-    "whale_pct": 0.773,
+    "whale_usd": 4584.401833,
+    "whale_pct": 1.729,
     "whale_value_at_open": 265218.7334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -2517,8 +2517,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787091163.9562662,
-    "fills": 1
+    "last_fill_at": 1787092076.6720603,
+    "fills": 3
   },
   {
     "timestamp": 1787091321,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 17:26:31 (hora de Perú)
+Actualizado: 2026-08-18 17:28:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $503.48
@@ -79,7 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Sara Bejlek (BUY) | 60% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 43% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Luis Carlos Alvarez vs Rio Noguc | Rio Noguchi (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Roman Safiullin vs Sebastian Ofn | Roman Safiullin (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Roman Safiullin vs Sebastian Ofn | Roman Safiullin (BUY) | 66% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Fluminense FC win on 2026-08-18? | No (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Jesper de Jong vs Dane Swee | Jesper de Jong (BUY) | 42% | 5.00 | 5.1% | ⏳ pendiente | — |
@@ -90,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Deportivo Riestra AFBC win on 2026- | No (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Gimnasia y Esgrima La Plata win on  | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Faria vs Walton | Faria (BUY) | 49% | 5.00 | 0.5% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 56% | 5.00 | 7.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 56% | 5.00 | 7.5% | ⏳ pendiente | — |
 | swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 96% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Dali Blanch vs Felipe Meligeni A | Felipe Meligeni Alves (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Over (BUY) | 59% | 5.00 | 1.2% | ⏳ pendiente | — |
