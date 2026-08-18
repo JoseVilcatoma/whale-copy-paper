@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.8214558978554,
+  "bankroll": 505.421213624652,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -175,6 +175,56 @@
       "timestamp": 1787087499.2841704,
       "bankroll": 497.82,
       "event": "won: ferrariChampions2026 \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 4.5"
+    },
+    {
+      "timestamp": 1787087558.205228,
+      "bankroll": 499.34,
+      "event": "won: swisstony \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 3.5"
+    },
+    {
+      "timestamp": 1787087558.6806023,
+      "bankroll": 494.2,
+      "event": "lost: ferrariChampions2026 \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5"
+    },
+    {
+      "timestamp": 1787087559.3820958,
+      "bankroll": 497.17,
+      "event": "won: swisstony \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5"
+    },
+    {
+      "timestamp": 1787087561.8235333,
+      "bankroll": 503.39,
+      "event": "won: ferrariChampions2026 \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5"
+    },
+    {
+      "timestamp": 1787087620.4377582,
+      "bankroll": 507.89,
+      "event": "won: swisstony \u2014 Spread: GNK Dinamo Zagreb (-2.5)"
+    },
+    {
+      "timestamp": 1787087620.7087436,
+      "bankroll": 510.27,
+      "event": "won: swisstony \u2014 GNK Dinamo Zagreb vs. Viking FK: Both Teams to Score"
+    },
+    {
+      "timestamp": 1787087621.7793255,
+      "bankroll": 510.31,
+      "event": "won: ferrariChampions2026 \u2014 Will Viking FK win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087622.8498454,
+      "bankroll": 510.41,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Coco Gauff vs Ann Li"
+    },
+    {
+      "timestamp": 1787087623.4421797,
+      "bankroll": 505.32,
+      "event": "lost: alaskabaked \u2014 Set Handicap: Gauff (-1.5) vs Li (+1.5)"
+    },
+    {
+      "timestamp": 1787087623.8562427,
+      "bankroll": 505.42,
+      "event": "won: ferrariChampions2026 \u2014 Spread: GNK Dinamo Zagreb (-2.5)"
     }
   ]
 }
