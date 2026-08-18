@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.1822925127375,
+  "bankroll": 496.90629251273754,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -30,6 +30,16 @@
       "timestamp": 1787083593.90965,
       "bankroll": 507.18,
       "event": "won: swisstony \u2014 ITF M25 Ueberlingen Men: Calvin Mueller vs Daniel Masur"
+    },
+    {
+      "timestamp": 1787084027.7423775,
+      "bankroll": 502.04,
+      "event": "lost: ferrariChampions2026 \u2014 Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate"
+    },
+    {
+      "timestamp": 1787084027.842586,
+      "bankroll": 496.91,
+      "event": "lost: RN1 \u2014 Quebec City: Stefanos Sakellaridis vs Tristan Schoolkate"
     }
   ]
 }
