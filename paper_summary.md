@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 13:50:04 (hora de Perú)
+Actualizado: 2026-08-18 13:52:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.00
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 13:50:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $445.00)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $435.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 7 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 8 | +0.00 USD |
 | RN1 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 2 | +0.00 USD |
+| swisstony | 0 | 0 | 3 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -37,6 +37,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Metizport vs SPARTA - Ma | SPARTA (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will AEK win on 2026-08-18? | No (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Spread: AEK (-2.5) | PFK Levski Sofia (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Kingston: Garrett Johns vs Paulo Dos San | Garrett Johns (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
