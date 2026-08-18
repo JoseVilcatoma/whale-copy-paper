@@ -39,8 +39,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -113,8 +113,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "RN1"
     ],
@@ -429,8 +429,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "RN1"
     ],
@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 25382.777000000002,
-    "whale_pct": 10.198,
+    "whale_usd": 26007.191412,
+    "whale_pct": 10.449,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787082588.8616633,
-    "fills": 10
+    "last_fill_at": 1787082826.6921709,
+    "fills": 11
   },
   {
     "timestamp": 1787079628,

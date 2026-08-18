@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 14:52:01 (hora de Perú)
+Actualizado: 2026-08-18 14:54:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $500.00
-**Retorno acumulado:** +0.00%
-**Peor caída desde un máximo (drawdown):** 0.00%
+**Bankroll actual:** $504.13
+**Retorno acumulado:** +0.83%
+**Peor caída desde un máximo (drawdown):** 1.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 14:52:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $155.00)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $174.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,10 +21,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 40 | +0.00 USD |
-| RN1 | 0 | 0 | 2 | +0.00 USD |
+| RN1 | 1 | 0 | 1 | +7.05 USD |
 | swisstony | 0 | 0 | 26 | +0.00 USD |
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
+| ferrariChampions2026 | 1 | 1 | 38 | -2.92 USD |
+
+## Análisis general
+
+- **Apuestas resueltas:** 3
+- **Aciertos:** 2 (66.7%)
+- **Cuota promedio de entrada:** 58.3%
+- **Stake promedio:** $5.00
+- **Total apostado (suma de stakes):** $15.00
+- **ROI sobre lo apostado:** +27.53%
+- **Comisiones pagadas (taker fee):** $0.31 (2.09% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +29.62% _(referencia: cuánto pesan las comisiones)_
+
+### ¿Aciertan más o menos de lo que promete la cuota?
+
+_Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo que dice la cuota significa que la señal pierde plata a la larga._
+
+| Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
+|---|---|---|---|---|
+| 40-59% | 1 | 100.0% | 41.0% | +59.0 pp |
+| 60-79% | 2 | 50.0% | 67.0% | -17.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 

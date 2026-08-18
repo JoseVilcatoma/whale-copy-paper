@@ -1,4 +1,20 @@
 {
-  "bankroll": 500.0,
-  "history": []
+  "bankroll": 504.12849876281376,
+  "history": [
+    {
+      "timestamp": 1787082773.8926868,
+      "bankroll": 507.05,
+      "event": "won: RN1 \u2014 Quebec City: Dusan Lajovic vs Taro Daniel"
+    },
+    {
+      "timestamp": 1787082774.258305,
+      "bankroll": 501.96,
+      "event": "lost: ferrariChampions2026 \u2014 Quebec City: Dusan Lajovic vs Taro Daniel"
+    },
+    {
+      "timestamp": 1787082775.606134,
+      "bankroll": 504.13,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Dusan Lajovic vs Taro Daniel"
+    }
+  ]
 }
