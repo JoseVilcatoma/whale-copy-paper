@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 14:29:01 (hora de Perú)
+Actualizado: 2026-08-18 14:31:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.00
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 14:29:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $185.00)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $170.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 34 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 37 | +0.00 USD |
 | RN1 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 26 | +0.00 USD |
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
@@ -47,6 +47,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Donstu Esports vs MOUZ N | MOUZ NXT (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Arizona Diamondbacks (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | theowalcott | Deportivo Riestra AFBC vs. Gimnasia y Es | Over (BUY) | 57% | 5.00 | 99.8% | ⏳ pendiente | — |
 | swisstony | GNK Dinamo Zagreb vs. Viking FK: O/U 3.5 | Over (BUY) | 71% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -74,6 +77,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | GNK Dinamo Zagreb vs. Viking FK: 1st Hal | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | GNK Dinamo Zagreb vs. Viking FK: O/U 2.5 | Over (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Spread: Olympique Lyonnais (-2.5) | Fenerbahçe SK (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
-| swisstony | Will Fenerbahçe SK win on 2026-08-18? | Yes (BUY) | 53% | 5.00 | 0.1% | ⏳ pendiente | — |
