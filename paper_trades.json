@@ -2593,5 +2593,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787091891.1067543,
     "fills": 1
+  },
+  {
+    "timestamp": 1787092143,
+    "timestamp_added": 1787092144.5079796,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "atp-tien-tiafoe-2026-08-18",
+    "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
+    "outcome": "Frances Tiafoe",
+    "side": "BUY",
+    "whale_usd": 540.0952,
+    "whale_pct": 0.471,
+    "whale_value_at_open": 114615.9743,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787092144.507987,
+    "fills": 1
   }
 ]
