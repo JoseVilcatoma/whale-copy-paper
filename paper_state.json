@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.4758831339462,
+  "bankroll": 498.4108831339462,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -350,6 +350,11 @@
       "timestamp": 1787091608.110261,
       "bankroll": 503.48,
       "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Faria vs Walton"
+    },
+    {
+      "timestamp": 1787093105.2619731,
+      "bankroll": 498.41,
+      "event": "lost: ferrariChampions2026 \u2014 Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?"
     }
   ]
 }
