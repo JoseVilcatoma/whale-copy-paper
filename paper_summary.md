@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 15:04:31 (hora de Perú)
+Actualizado: 2026-08-18 15:06:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $507.04
-**Retorno acumulado:** +1.41%
+**Bankroll actual:** $507.18
+**Retorno acumulado:** +1.44%
 **Peor caída desde un máximo (drawdown):** 1.00%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 15:04:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $172.04)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $177.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,20 +22,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | RN1 | 1 | 0 | 1 | +7.05 USD |
-| swisstony | 1 | 0 | 25 | +1.13 USD |
+| swisstony | 2 | 0 | 24 | +1.28 USD |
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | ferrariChampions2026 | 2 | 1 | 40 | -1.14 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 5
-- **Aciertos:** 4 (80.0%)
-- **Cuota promedio de entrada:** 65.8%
+- **Apuestas resueltas:** 6
+- **Aciertos:** 5 (83.3%)
+- **Cuota promedio de entrada:** 71.0%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $25.00
-- **ROI sobre lo apostado:** +28.16%
-- **Comisiones pagadas (taker fee):** $0.43 (1.71% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +29.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $30.00
+- **ROI sobre lo apostado:** +23.97%
+- **Comisiones pagadas (taker fee):** $0.44 (1.45% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +25.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,6 +46,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1 | 100.0% | 41.0% | +59.0 pp |
 | 60-79% | 3 | 66.7% | 69.0% | -2.3 pp |
 | 80-94% | 1 | 100.0% | 81.0% | +19.0 pp |
+| 95-99% (casi seguro) | 1 | 100.0% | 97.0% | +3.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -89,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Al Diraiyah Saudi Club vs. Al Nassr | No (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | ITF M25 Ueberlingen Men: Calvin Mueller  | Daniel Masur (BUY) | 97% | 5.00 | 1.9% | ⏳ pendiente | — |
+| swisstony | ITF M25 Ueberlingen Men: Calvin Mueller  | Daniel Masur (BUY) | 97% | 5.00 | 1.9% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |

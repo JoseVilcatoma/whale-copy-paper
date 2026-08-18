@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.03565333747974,
+  "bankroll": 507.1822925127375,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -25,6 +25,11 @@
       "timestamp": 1787083460.0438068,
       "bankroll": 507.04,
       "event": "won: swisstony \u2014 Kingston: Garrett Johns vs Paulo Dos Santos"
+    },
+    {
+      "timestamp": 1787083593.90965,
+      "bankroll": 507.18,
+      "event": "won: swisstony \u2014 ITF M25 Ueberlingen Men: Calvin Mueller vs Daniel Masur"
     }
   ]
 }
