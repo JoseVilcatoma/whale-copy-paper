@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.47098018306446,
+  "bankroll": 496.30131503374747,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -70,6 +70,66 @@
       "timestamp": 1787086551.8235528,
       "bankroll": 483.47,
       "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Esport Academy Copenhagen vs OG - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787087306.582424,
+      "bankroll": 486.57,
+      "event": "won: swisstony \u2014 Will AEK win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087309.0600286,
+      "bankroll": 488.35,
+      "event": "won: swisstony \u2014 Will PFK Levski Sofia win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087310.1617,
+      "bankroll": 491.2,
+      "event": "won: ferrariChampions2026 \u2014 Will AEK win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087314.4251006,
+      "bankroll": 492.25,
+      "event": "won: ferrariChampions2026 \u2014 Will PFK Levski Sofia win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087372.2821395,
+      "bankroll": 493.53,
+      "event": "won: ferrariChampions2026 \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5"
+    },
+    {
+      "timestamp": 1787087373.059794,
+      "bankroll": 495.22,
+      "event": "won: swisstony \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5"
+    },
+    {
+      "timestamp": 1787087373.460541,
+      "bankroll": 497.28,
+      "event": "won: swisstony \u2014 PFK Levski Sofia vs. AEK: O/U 2.5"
+    },
+    {
+      "timestamp": 1787087373.865632,
+      "bankroll": 497.59,
+      "event": "won: ferrariChampions2026 \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 0.5"
+    },
+    {
+      "timestamp": 1787087374.135891,
+      "bankroll": 497.64,
+      "event": "won: swisstony \u2014 Spread: Olympique Lyonnais (-2.5)"
+    },
+    {
+      "timestamp": 1787087376.3975751,
+      "bankroll": 500.74,
+      "event": "won: swisstony \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK O/U 1.5"
+    },
+    {
+      "timestamp": 1787087376.6746697,
+      "bankroll": 501.45,
+      "event": "won: swisstony \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: Fenerbah\u00e7e SK O/U 2.5"
+    },
+    {
+      "timestamp": 1787087377.4560082,
+      "bankroll": 496.3,
+      "event": "lost: ferrariChampions2026 \u2014 Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5"
     }
   ]
 }
