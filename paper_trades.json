@@ -1744,8 +1744,8 @@
     "title": "Quebec City: Jurij Rodionov vs Rei Sakamoto",
     "outcome": "Rei Sakamoto",
     "side": "BUY",
-    "whale_usd": 510.8738,
-    "whale_pct": 0.19,
+    "whale_usd": 2217.0643,
+    "whale_pct": 0.824,
     "whale_value_at_open": 268913.622,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -1756,8 +1756,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787083460.7820334,
-    "fills": 1
+    "last_fill_at": 1787085803.7605703,
+    "fills": 2
   },
   {
     "timestamp": 1787083800,
@@ -1844,8 +1844,8 @@
     "title": "Cincinnati Open: Marta Kostyuk vs Sloane Stephens",
     "outcome": "Marta Kostyuk",
     "side": "BUY",
-    "whale_usd": 6142.928422999999,
-    "whale_pct": 2.231,
+    "whale_usd": 7453.203412999999,
+    "whale_pct": 2.707,
     "whale_value_at_open": 275334.3352,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -1856,8 +1856,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084512.247647,
-    "fills": 2
+    "last_fill_at": 1787085752.6954386,
+    "fills": 3
   },
   {
     "timestamp": 1787084523,
