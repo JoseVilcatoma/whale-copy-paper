@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.73298018306446,
+  "bankroll": 493.62298018306444,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -55,6 +55,11 @@
       "timestamp": 1787084851.877458,
       "bankroll": 498.73,
       "event": "won: swisstony \u2014 Kingston: Valentin Royer vs Luis Guto Miguel"
+    },
+    {
+      "timestamp": 1787085166.7016926,
+      "bankroll": 493.62,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Kostyuk vs Stephens"
     }
   ]
 }

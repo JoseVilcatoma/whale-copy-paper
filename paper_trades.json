@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 82571.832014,
-    "whale_pct": 33.175,
+    "whale_usd": 83527.992014,
+    "whale_pct": 33.559,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084688.8354058,
-    "fills": 34
+    "last_fill_at": 1787085123.7593887,
+    "fills": 35
   },
   {
     "timestamp": 1787079628,
@@ -1328,8 +1328,8 @@
     "title": "Will Viking FK win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 958.92,
-    "whale_pct": 0.339,
+    "whale_usd": 1729.1399999999999,
+    "whale_pct": 0.611,
     "whale_value_at_open": 282777.0197,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -1340,8 +1340,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787081004.168271,
-    "fills": 1
+    "last_fill_at": 1787085132.068972,
+    "fills": 2
   },
   {
     "timestamp": 1787081057,
@@ -1457,8 +1457,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1933,6 +1933,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787084821.6183946,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787085114,
+    "timestamp_added": 1787085114.8594635,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-fen-lyo-2026-08-18-total-4pt5",
+    "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1215.24,
+    "whale_pct": 0.435,
+    "whale_value_at_open": 279257.9666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787085114.8594728,
     "fills": 1
   }
 ]
