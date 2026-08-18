@@ -2188,8 +2188,8 @@
     "title": "Cancun: Dali Blanch vs Felipe Meligeni Alves",
     "outcome": "Felipe Meligeni Alves",
     "side": "BUY",
-    "whale_usd": 17702.153285,
-    "whale_pct": 8.067,
+    "whale_usd": 19255.692885,
+    "whale_pct": 8.775,
     "whale_value_at_open": 219446.0021,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -2200,8 +2200,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787096982.9588392,
-    "fills": 7
+    "last_fill_at": 1787097173.6656525,
+    "fills": 8
   },
   {
     "timestamp": 1787087900,
@@ -3253,5 +3253,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787096963.900347,
     "fills": 1
+  },
+  {
+    "timestamp": 1787097153,
+    "timestamp_added": 1787097154.0109208,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-atl-min-2026-08-18",
+    "title": "Atlanta Braves vs. Minnesota Twins",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "whale_usd": 25018.176,
+    "whale_pct": 6.168,
+    "whale_value_at_open": 405642.3035,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787097154.457888,
+    "fills": 2
   }
 ]
