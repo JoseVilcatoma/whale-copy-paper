@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 108860.849971,
-    "whale_pct": 43.738,
+    "whale_usd": 109492.860971,
+    "whale_pct": 43.991,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787086607.8858483,
-    "fills": 44
+    "last_fill_at": 1787086824.2702384,
+    "fills": 45
   },
   {
     "timestamp": 1787079628,
