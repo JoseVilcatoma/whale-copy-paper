@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 16:15:51 (hora de Perú)
+Actualizado: 2026-08-18 16:17:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.47
-**Retorno acumulado:** +0.69%
+**Bankroll actual:** $498.42
+**Retorno acumulado:** -0.32%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 16:15:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $333.47)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $318.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,23 +21,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 22 | 1 | 3 | +31.60 USD |
+| swisstony | 22 | 1 | 4 | +31.60 USD |
 | RN1 | 1 | 1 | 0 | +1.91 USD |
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 1 | 2 | -5.09 USD |
-| ferrariChampions2026 | 18 | 9 | 27 | -24.97 USD |
+| ferrariChampions2026 | 18 | 10 | 28 | -30.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 53
-- **Aciertos:** 41 (77.4%)
-- **Cuota promedio de entrada:** 74.3%
+- **Apuestas resueltas:** 54
+- **Aciertos:** 41 (75.9%)
+- **Cuota promedio de entrada:** 74.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $265.00
-- **ROI sobre lo apostado:** +1.30%
-- **Comisiones pagadas (taker fee):** $3.40 (1.28% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.59% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $270.00
+- **ROI sobre lo apostado:** -0.59%
+- **Comisiones pagadas (taker fee):** $3.46 (1.28% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.69% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,7 +46,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 12 | 33.3% | 47.8% | -14.4 pp |
-| 60-79% | 18 | 88.9% | 69.9% | +19.0 pp |
+| 60-79% | 19 | 84.2% | 70.4% | +13.8 pp |
 | 80-94% | 15 | 86.7% | 88.2% | -1.5 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 98.2% | +1.8 pp |
 
@@ -76,6 +76,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cancun: Dali Blanch vs Felipe Meligeni A | Felipe Meligeni Alves (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Over (BUY) | 59% | 5.00 | 1.2% | ⏳ pendiente | — |
+| swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 59% | 5.00 | 23.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -96,13 +99,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Ann Li | Coco Gauff (BUY) | 98% | 5.00 | 4.2% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Andrea Pellegrino vs Nishes | Nishesh Basavareddy (BUY) | 88% | 5.00 | 5.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 79% | 5.00 | 0.6% | ❌ perdida | -5.05 |
 | ferrariChampions2026 | Counter-Strike: Donstu Esports vs MOUZ N | MOUZ NXT (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Arizona Diamondbacks (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | theowalcott | Deportivo Riestra AFBC vs. Gimnasia y Es | Over (BUY) | 57% | 5.00 | 99.8% | ⏳ pendiente | — |
 | swisstony | GNK Dinamo Zagreb vs. Viking FK: O/U 3.5 | Over (BUY) | 71% | 5.00 | 0.1% | ✅ ganada | +1.97 |
 | swisstony | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 51% | 5.00 | 0.4% | ✅ ganada | +4.68 |
-| ferrariChampions2026 | Set 1 Winner: Kostyuk vs Stephens | Stephens (BUY) | 56% | 5.00 | 0.2% | ❌ perdida | -5.11 |
-| swisstony | Spread: Fenerbahçe SK (-1.5) | Olympique Lyonnais (BUY) | 78% | 5.00 | 0.2% | ✅ ganada | +1.36 |
-| swisstony | Fenerbahçe SK vs. Olympique Lyonnais: Fe | Under (BUY) | 87% | 5.00 | 0.2% | ✅ ganada | +0.71 |

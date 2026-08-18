@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.47228802279386,
+  "bankroll": 498.42028802279384,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -265,6 +265,11 @@
       "timestamp": 1787087744.1968253,
       "bankroll": 503.47,
       "event": "won: swisstony \u2014 GNK Dinamo Zagreb vs. Viking FK: O/U 3.5"
+    },
+    {
+      "timestamp": 1787087868.8511097,
+      "bankroll": 498.42,
+      "event": "lost: ferrariChampions2026 \u2014 Will GNK Dinamo Zagreb win on 2026-08-18?"
     }
   ]
 }
