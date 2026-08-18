@@ -2941,5 +2941,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787095073.9654534,
     "fills": 2
+  },
+  {
+    "timestamp": 1787095766,
+    "timestamp_added": 1787095767.4438264,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "lib-tol-ind1-2026-08-11-total-1pt5",
+    "title": "CD Tolima vs. Independiente del Valle: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2153.2928,
+    "whale_pct": 7.615,
+    "whale_value_at_open": 28277.8621,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787095767.4438367,
+    "fills": 1
   }
 ]
