@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.66140261446566,
+  "bankroll": 500.647735947799,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -365,6 +365,21 @@
       "timestamp": 1787095377.9967148,
       "bankroll": 507.66,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Jesper de Jong vs Dane Sweeny"
+    },
+    {
+      "timestamp": 1787096173.7964265,
+      "bankroll": 502.54,
+      "event": "lost: alaskabaked \u2014 Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova"
+    },
+    {
+      "timestamp": 1787096173.8965728,
+      "bankroll": 497.41,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova"
+    },
+    {
+      "timestamp": 1787096176.1245315,
+      "bankroll": 500.65,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova"
     }
   ]
 }

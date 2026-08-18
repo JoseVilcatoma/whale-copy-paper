@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 18:34:20 (hora de Perú)
+Actualizado: 2026-08-18 18:36:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $507.66
-**Retorno acumulado:** +1.53%
+**Bankroll actual:** $500.65
+**Retorno acumulado:** +0.13%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 18:34:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $262.66)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $270.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,19 +27,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 5 | +0.00 USD |
 | sentrio | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 1 | +0.00 USD |
-| alaskabaked | 0 | 1 | 2 | -5.09 USD |
-| ferrariChampions2026 | 29 | 16 | 30 | -24.07 USD |
+| alaskabaked | 0 | 2 | 1 | -10.21 USD |
+| ferrariChampions2026 | 30 | 17 | 28 | -25.96 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 73
-- **Aciertos:** 54 (74.0%)
-- **Cuota promedio de entrada:** 72.5%
+- **Apuestas resueltas:** 76
+- **Aciertos:** 55 (72.4%)
+- **Cuota promedio de entrada:** 71.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $365.00
-- **ROI sobre lo apostado:** +2.09%
-- **Comisiones pagadas (taker fee):** $5.01 (1.37% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +3.46% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $380.00
+- **ROI sobre lo apostado:** +0.16%
+- **Comisiones pagadas (taker fee):** $5.36 (1.41% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.57% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,8 +47,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 19 | 47.4% | 47.9% | -0.6 pp |
-| 60-79% | 25 | 76.0% | 69.6% | +6.4 pp |
+| 40-59% | 21 | 42.9% | 48.2% | -5.3 pp |
+| 60-79% | 26 | 76.9% | 69.2% | +7.7 pp |
 | 80-94% | 20 | 85.0% | 88.0% | -3.0 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 98.3% | +1.7 pp |
 
@@ -96,7 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 54% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 47% | 5.00 | 19.2% | ⏳ pendiente | — |
 | sentrio | Cincinnati Open: Learner Tien vs Frances | Frances Tiafoe (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Sara Bejlek (BUY) | 60% | 5.00 | 3.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Sara Bejlek (BUY) | 60% | 5.00 | 3.7% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 43% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Luis Carlos Alvarez vs Rio Noguc | Rio Noguchi (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Roman Safiullin vs Sebastian Ofn | Roman Safiullin (BUY) | 66% | 5.00 | 1.7% | ✅ ganada | +2.49 |
