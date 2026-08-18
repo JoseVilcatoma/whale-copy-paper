@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.62298018306444,
+  "bankroll": 488.59598018306446,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -60,6 +60,11 @@
       "timestamp": 1787085166.7016926,
       "bankroll": 493.62,
       "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Kostyuk vs Stephens"
+    },
+    {
+      "timestamp": 1787085420.7036054,
+      "bankroll": 488.6,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Nakashima vs Medvedev"
     }
   ]
 }
