@@ -2188,8 +2188,8 @@
     "title": "Cancun: Dali Blanch vs Felipe Meligeni Alves",
     "outcome": "Felipe Meligeni Alves",
     "side": "BUY",
-    "whale_usd": 6318.899285,
-    "whale_pct": 2.879,
+    "whale_usd": 14199.759285,
+    "whale_pct": 6.471,
     "whale_value_at_open": 219446.0021,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -2200,8 +2200,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787096744.3100526,
-    "fills": 5
+    "last_fill_at": 1787096885.8156674,
+    "fills": 6
   },
   {
     "timestamp": 1787087900,
@@ -2529,8 +2529,8 @@
     "title": "Cancun: Luis Carlos Alvarez vs Rio Noguchi",
     "outcome": "Rio Noguchi",
     "side": "BUY",
-    "whale_usd": 1726.4626999999998,
-    "whale_pct": 0.656,
+    "whale_usd": 2728.0231,
+    "whale_pct": 1.037,
     "whale_value_at_open": 263074.6492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -2541,8 +2541,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787095153.9479492,
-    "fills": 2
+    "last_fill_at": 1787096831.5032334,
+    "fills": 3
   },
   {
     "timestamp": 1787091420,
@@ -2777,8 +2777,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 35397.9408,
-    "whale_pct": 9.383,
+    "whale_usd": 36276.290799999995,
+    "whale_pct": 9.616,
     "whale_value_at_open": 377247.0216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -2789,8 +2789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787094239.9396617,
-    "fills": 8
+    "last_fill_at": 1787096846.9999561,
+    "fills": 9
   },
   {
     "timestamp": 1787093565,
