@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.59598018306446,
+  "bankroll": 483.47098018306446,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -65,6 +65,11 @@
       "timestamp": 1787085420.7036054,
       "bankroll": 488.6,
       "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Nakashima vs Medvedev"
+    },
+    {
+      "timestamp": 1787086551.8235528,
+      "bankroll": 483.47,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Esport Academy Copenhagen vs OG - Map 2 Winner"
     }
   ]
 }

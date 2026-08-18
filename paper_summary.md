@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 15:55:00 (hora de Perú)
+Actualizado: 2026-08-18 15:57:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.60
-**Retorno acumulado:** -2.28%
-**Peor caída desde un máximo (drawdown):** 3.66%
+**Bankroll actual:** $483.47
+**Retorno acumulado:** -3.31%
+**Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 15:55:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $153.60)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $148.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 4 | 4 | 41 | -15.65 USD |
+| ferrariChampions2026 | 4 | 5 | 41 | -20.77 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 13
-- **Aciertos:** 8 (61.5%)
-- **Cuota promedio de entrada:** 71.4%
+- **Apuestas resueltas:** 14
+- **Aciertos:** 8 (57.1%)
+- **Cuota promedio de entrada:** 69.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $65.00
-- **ROI sobre lo apostado:** -17.55%
-- **Comisiones pagadas (taker fee):** $0.93 (1.43% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -16.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $70.00
+- **ROI sobre lo apostado:** -23.61%
+- **Comisiones pagadas (taker fee):** $1.06 (1.51% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -22.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -45,7 +45,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 4 | 25.0% | 46.8% | -21.8 pp |
+| 40-59% | 5 | 20.0% | 47.4% | -27.4 pp |
 | 60-79% | 3 | 66.7% | 69.0% | -2.3 pp |
 | 80-94% | 5 | 80.0% | 87.4% | -7.4 pp |
 | 95-99% (casi seguro) | 1 | 100.0% | 97.0% | +3.0 pp |
@@ -74,6 +74,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: INTZ e-Sports vs 7REX (BO3) - Circu | INTZ e-Sports (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Lucas Da Silva vs Tyler Zink | Lucas Da Silva (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 44% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -103,4 +104,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 82% | 5.00 | 0.1% | ✅ ganada | +1.05 |
 | swisstony | Will Al Diraiyah Saudi Club vs. Al Nassr | No (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | ITF M25 Ueberlingen Men: Calvin Mueller  | Daniel Masur (BUY) | 97% | 5.00 | 1.9% | ✅ ganada | +0.15 |

@@ -15,8 +15,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 105617.105718,
-    "whale_pct": 42.434,
+    "whale_usd": 108860.849971,
+    "whale_pct": 43.738,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787086435.2878342,
-    "fills": 41
+    "last_fill_at": 1787086607.8858483,
+    "fills": 44
   },
   {
     "timestamp": 1787079628,
@@ -1957,6 +1957,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787085114.8594728,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787086580,
+    "timestamp_added": 1787086581.2110112,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-itz-7rex-2026-08-18",
+    "title": "LoL: INTZ e-Sports vs 7REX (BO3) - Circuito Desafiante Playoffs",
+    "outcome": "INTZ e-Sports",
+    "side": "BUY",
+    "whale_usd": 1383.677244,
+    "whale_pct": 0.52,
+    "whale_value_at_open": 266024.8667,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787086581.2110207,
     "fills": 1
   }
 ]
