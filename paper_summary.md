@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 14:20:45 (hora de Perú)
+Actualizado: 2026-08-18 14:22:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.00
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 14:20:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $240.00)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $230.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | ferrariChampions2026 | 0 | 0 | 31 | +0.00 USD |
 | RN1 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 19 | +0.00 USD |
+| swisstony | 0 | 0 | 21 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | atp-lajovic-daniel-2026-08-18 | RN1, ferrariChampions2026 |
 | atp-sakella-schoolk-2026-08-18 | RN1, ferrariChampions2026 |
 | atp-johns-santos-2026-08-18 | ferrariChampions2026, swisstony |
+| atp-royer-miguel-2026-08-17 | ferrariChampions2026, swisstony |
 | ucl-pls-aek1-2026-08-18-aek1 | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-lyo | ferrariChampions2026, swisstony |
 | atp-nakashi-medvede-2026-08-18 | ferrariChampions2026, swisstony |
@@ -44,11 +45,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 82% | 5.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Will Al Diraiyah Saudi Club vs. Al Nassr | No (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | ITF M25 Ueberlingen Men: Calvin Mueller  | Daniel Masur (BUY) | 97% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
-| swisstony | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 74% | 5.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | GNK Dinamo Zagreb vs. Viking FK: Both Te | Yes (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Nakashima vs Medvedev | Nakashima (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Spread: Fenerbahçe SK (-2.5) | Olympique Lyonnais (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -72,5 +75,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | LoL: Galions vs Karmine Corp Blue - Game | Galions (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Fenerbahçe SK (-1.5) | Olympique Lyonnais (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Olympique Lyonnais (-1.5) | Fenerbahçe SK (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 79% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Fenerbahçe SK win on 2026-08-18? | Yes (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
