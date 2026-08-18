@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 18:48:48 (hora de Perú)
+Actualizado: 2026-08-18 18:50:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 18:48:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $225.65)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $215.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
 | alaskabaked | 0 | 2 | 1 | -10.21 USD |
-| ferrariChampions2026 | 30 | 17 | 36 | -25.96 USD |
+| ferrariChampions2026 | 30 | 17 | 38 | -25.96 USD |
 
 ## Análisis general
 
@@ -80,9 +80,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Indiana Fever vs. Toronto Tempo: O/U 191 | Over (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Milwaukee Brewers (-2.5) | Seattle Mariners (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Athletics vs. Kansas City Royals | Athletics (BUY) | 46% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Joel Schwaerzler vs Kenta Miyo | Kenta Miyoshi (BUY) | 81% | 5.00 | 1.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Washington Nationals vs. Texas Rangers:  | Over (BUY) | 44% | 5.00 | 2.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Washington Nationals vs. Texas Rangers:  | Over (BUY) | 44% | 5.00 | 8.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Sparks vs. Connecticut Sun | Connecticut Sun (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Juan Manuel Cerundolo v | Felix Auger-Aliassime (BUY) | 73% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -108,5 +110,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Sara Bejlek (BUY) | 60% | 5.00 | 3.7% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 43% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Luis Carlos Alvarez vs Rio Noguc | Rio Noguchi (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Roman Safiullin vs Sebastian Ofn | Roman Safiullin (BUY) | 66% | 5.00 | 1.7% | ✅ ganada | +2.49 |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
