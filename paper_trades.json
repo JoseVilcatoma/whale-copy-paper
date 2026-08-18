@@ -2965,5 +2965,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787095767.4438367,
     "fills": 1
+  },
+  {
+    "timestamp": 1787095964,
+    "timestamp_added": 1787095964.7486014,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-nyl-chi-2026-08-18-total-179pt5",
+    "title": "New York Liberty vs. Chicago Sky: O/U 179.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3839.5197000000003,
+    "whale_pct": 22.363,
+    "whale_value_at_open": 17169.2863,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787095964.748608,
+    "fills": 1
   }
 ]
