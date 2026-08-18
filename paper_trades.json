@@ -374,8 +374,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 18381.672167000004,
-    "whale_pct": 8.364,
+    "whale_usd": 19228.729967000003,
+    "whale_pct": 8.749,
     "whale_value_at_open": 219784.3957,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -386,8 +386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079951.9230354,
-    "fills": 8
+    "last_fill_at": 1787080097.99574,
+    "fills": 9
   },
   {
     "timestamp": 1787079396,
@@ -629,6 +629,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787079886.3159597,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787080049,
+    "timestamp_added": 1787080050.2868626,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-gal-kcb-2026-08-18-game2",
+    "title": "LoL: Galions vs Karmine Corp Blue - Game 2 Winner",
+    "outcome": "Galions",
+    "side": "BUY",
+    "whale_usd": 761.0735999999999,
+    "whale_pct": 0.297,
+    "whale_value_at_open": 255949.2513,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787080050.2868714,
     "fills": 1
   }
 ]
