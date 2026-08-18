@@ -2651,8 +2651,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2397.7465,
-    "whale_pct": 1.062,
+    "whale_usd": 8654.170399999999,
+    "whale_pct": 3.834,
     "whale_value_at_open": 225746.1013,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -2665,8 +2665,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787092699.1257896,
-    "fills": 1
+    "last_fill_at": 1787093175.0946352,
+    "fills": 2
   },
   {
     "timestamp": 1787092787,
@@ -2701,8 +2701,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 13769.2255,
-    "whale_pct": 6.024,
+    "whale_usd": 18127.849000000002,
+    "whale_pct": 7.93,
     "whale_value_at_open": 228585.7923,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -2713,8 +2713,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787093044.8080506,
-    "fills": 3
+    "last_fill_at": 1787093156.3086827,
+    "fills": 5
   },
   {
     "timestamp": 1787093022,
