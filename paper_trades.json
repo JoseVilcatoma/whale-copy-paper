@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 109492.860971,
-    "whale_pct": 43.991,
+    "whale_usd": 112483.800971,
+    "whale_pct": 45.193,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787086824.2702384,
-    "fills": 45
+    "last_fill_at": 1787086960.1164494,
+    "fills": 48
   },
   {
     "timestamp": 1787079628,
@@ -1981,6 +1981,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787086581.2110207,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787086973,
+    "timestamp_added": 1787086973.7278724,
+    "username": "alaskabaked",
+    "wallet": "0xaa7789219c17e180dcb5933099c90d885f1d15a5",
+    "slug": "wta-bejlek-alexand-2026-08-18",
+    "title": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
+    "outcome": "Ekaterina Alexandrova",
+    "side": "BUY",
+    "whale_usd": 9999.999999,
+    "whale_pct": 40.322,
+    "whale_value_at_open": 24800.4298,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787086973.7278821,
     "fills": 1
   }
 ]
