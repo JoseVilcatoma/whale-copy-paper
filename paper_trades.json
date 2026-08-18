@@ -2188,8 +2188,8 @@
     "title": "Cancun: Dali Blanch vs Felipe Meligeni Alves",
     "outcome": "Felipe Meligeni Alves",
     "side": "BUY",
-    "whale_usd": 19255.692885,
-    "whale_pct": 8.775,
+    "whale_usd": 20403.24434,
+    "whale_pct": 9.298,
     "whale_value_at_open": 219446.0021,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -2200,8 +2200,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787097173.6656525,
-    "fills": 8
+    "last_fill_at": 1787097212.438835,
+    "fills": 9
   },
   {
     "timestamp": 1787087900,
