@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 16:53:20 (hora de Perú)
+Actualizado: 2026-08-18 16:55:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.20
-**Retorno acumulado:** -0.96%
+**Bankroll actual:** $498.04
+**Retorno acumulado:** -0.39%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 16:53:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $310.20)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $318.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,18 +26,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 1 | 2 | -5.09 USD |
-| ferrariChampions2026 | 23 | 13 | 25 | -33.24 USD |
+| ferrariChampions2026 | 24 | 13 | 24 | -30.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 62
-- **Aciertos:** 46 (74.2%)
-- **Cuota promedio de entrada:** 74.4%
+- **Apuestas resueltas:** 63
+- **Aciertos:** 47 (74.6%)
+- **Cuota promedio de entrada:** 74.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $310.00
-- **ROI sobre lo apostado:** -1.55%
-- **Comisiones pagadas (taker fee):** $3.97 (1.28% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $315.00
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $4.07 (1.29% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,7 +46,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 14 | 42.9% | 48.1% | -5.2 pp |
-| 60-79% | 21 | 76.2% | 70.3% | +5.9 pp |
+| 60-79% | 22 | 77.3% | 70.0% | +7.3 pp |
 | 80-94% | 19 | 84.2% | 88.2% | -4.0 pp |
 | 95-99% (casi seguro) | 8 | 100.0% | 98.2% | +1.8 pp |
 
@@ -103,6 +103,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will PFK Levski Sofia win on 2026-08-18? | No (BUY) | 82% | 5.00 | 1.2% | ✅ ganada | +1.05 |
 | alaskabaked | Set Handicap: Gauff (-1.5) vs Li (+1.5) | Li (BUY) | 65% | 5.00 | 4.9% | ❌ perdida | -5.09 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 56% | 5.00 | 139.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Jurij Rodionov vs Rei Sakam | Rei Sakamoto (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Jurij Rodionov vs Rei Sakam | Rei Sakamoto (BUY) | 63% | 5.00 | 1.2% | ✅ ganada | +2.84 |
 | ferrariChampions2026 | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 83% | 5.00 | 0.8% | ✅ ganada | +0.98 |
 | ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Ann Li | Coco Gauff (BUY) | 98% | 5.00 | 4.2% | ✅ ganada | +0.10 |

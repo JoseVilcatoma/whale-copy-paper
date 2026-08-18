@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.19974687776744,
+  "bankroll": 498.04425481427535,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -310,6 +310,11 @@
       "timestamp": 1787089993.160462,
       "bankroll": 495.2,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Andrea Pellegrino vs Nishesh Basavareddy"
+    },
+    {
+      "timestamp": 1787090053.6146185,
+      "bankroll": 498.04,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Jurij Rodionov vs Rei Sakamoto"
     }
   ]
 }
