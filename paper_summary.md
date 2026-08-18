@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 14:24:48 (hora de Perú)
+Actualizado: 2026-08-18 14:26:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.00
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 14:24:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $195.00)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $190.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | ferrariChampions2026 | 0 | 0 | 34 | +0.00 USD |
 | RN1 | 0 | 0 | 2 | +0.00 USD |
-| swisstony | 0 | 0 | 25 | +0.00 USD |
+| swisstony | 0 | 0 | 26 | +0.00 USD |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -46,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | GNK Dinamo Zagreb vs. Viking FK: O/U 3.5 | Over (BUY) | 71% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Kostyuk vs Stephens | Stephens (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Fenerbahçe SK (-1.5) | Olympique Lyonnais (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -75,4 +76,3 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | Will Fenerbahçe SK win on 2026-08-18? | Yes (BUY) | 53% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | PFK Levski Sofia vs. AEK: O/U 2.5 | Under (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |

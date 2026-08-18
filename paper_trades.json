@@ -180,8 +180,8 @@
     "title": "Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C",
     "outcome": "Metizport",
     "side": "BUY",
-    "whale_usd": 1797.4399999999998,
-    "whale_pct": 0.782,
+    "whale_usd": 2516.84,
+    "whale_pct": 1.095,
     "whale_value_at_open": 229864.0213,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -192,8 +192,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787078607.1337168,
-    "fills": 1
+    "last_fill_at": 1787081117.2268438,
+    "fills": 2
   },
   {
     "timestamp": 1787078852,
@@ -1489,6 +1489,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787081081.215513,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787081103,
+    "timestamp_added": 1787081103.4545264,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "ucl-din-vf-2026-08-18-total-3pt5",
+    "title": "GNK Dinamo Zagreb vs. Viking FK: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 634.5899979999999,
+    "whale_pct": 0.146,
+    "whale_value_at_open": 433946.7319,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787081103.4545338,
     "fills": 1
   }
 ]
