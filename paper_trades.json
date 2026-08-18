@@ -2567,5 +2567,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787091421.1194856,
     "fills": 1
+  },
+  {
+    "timestamp": 1787091890,
+    "timestamp_added": 1787091891.1067445,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-bejlek-alexand-2026-08-18",
+    "title": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
+    "outcome": "Sara Bejlek",
+    "side": "BUY",
+    "whale_usd": 6837.8108999999995,
+    "whale_pct": 2.418,
+    "whale_value_at_open": 282818.0432,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "alaskabaked"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787091891.1067543,
+    "fills": 1
   }
 ]
