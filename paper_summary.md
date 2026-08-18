@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 17:57:31 (hora de Perú)
+Actualizado: 2026-08-18 17:59:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.41
@@ -102,10 +102,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Deportivo Riestra AFBC win on 2026- | No (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Gimnasia y Esgrima La Plata win on  | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Faria vs Walton | Faria (BUY) | 49% | 5.00 | 0.5% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 56% | 5.00 | 8.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 56% | 5.00 | 8.7% | ⏳ pendiente | — |
 | swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 96% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Dali Blanch vs Felipe Meligeni A | Felipe Meligeni Alves (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Over (BUY) | 59% | 5.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 59% | 5.00 | 23.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 5.00 | 18.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 5.00 | 19.6% | ⏳ pendiente | — |
