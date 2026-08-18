@@ -422,8 +422,8 @@
     "title": "Quebec City: Dusan Lajovic vs Taro Daniel",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 37797.4951,
-    "whale_pct": 16.789,
+    "whale_usd": 40828.4201,
+    "whale_pct": 18.135,
     "whale_value_at_open": 225136.6324,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -436,8 +436,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079518.7072585,
-    "fills": 5
+    "last_fill_at": 1787080147.366559,
+    "fills": 7
   },
   {
     "timestamp": 1787079522,
@@ -544,8 +544,8 @@
     "title": "Will Fenerbah\u00e7e SK win on 2026-08-18?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 661.0722000000001,
-    "whale_pct": 0.26,
+    "whale_usd": 2919.3906,
+    "whale_pct": 1.15,
     "whale_value_at_open": 253778.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -556,8 +556,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079812.8261938,
-    "fills": 1
+    "last_fill_at": 1787080222.1263087,
+    "fills": 3
   },
   {
     "timestamp": 1787079812,
@@ -568,8 +568,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1494.1619,
-    "whale_pct": 0.589,
+    "whale_usd": 2248.9019,
+    "whale_pct": 0.886,
     "whale_value_at_open": 253778.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -580,8 +580,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079884.4855976,
-    "fills": 2
+    "last_fill_at": 1787080168.4991398,
+    "fills": 3
   },
   {
     "timestamp": 1787079814,
@@ -653,6 +653,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787080050.2868714,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787080166,
+    "timestamp_added": 1787080166.5026531,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-fen-lyo-2026-08-18-lyo",
+    "title": "Will Olympique Lyonnais win on 2026-08-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1363.392,
+    "whale_pct": 0.528,
+    "whale_value_at_open": 258067.7211,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787080166.5026624,
     "fills": 1
   }
 ]
