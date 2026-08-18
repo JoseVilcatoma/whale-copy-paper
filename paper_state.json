@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.4108831339462,
+  "bankroll": 500.90164070970377,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -355,6 +355,11 @@
       "timestamp": 1787093105.2619731,
       "bankroll": 498.41,
       "event": "lost: ferrariChampions2026 \u2014 Will Fenerbah\u00e7e SK vs. Olympique Lyonnais end in a draw?"
+    },
+    {
+      "timestamp": 1787094579.7646809,
+      "bankroll": 500.9,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Roman Safiullin vs Sebastian Ofner"
     }
   ]
 }
