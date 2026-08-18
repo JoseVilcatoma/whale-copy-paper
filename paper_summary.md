@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 14:02:18 (hora de Perú)
+Actualizado: 2026-08-18 14:04:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.00
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 14:02:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $395.00)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $375.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| ferrariChampions2026 | 0 | 0 | 15 | +0.00 USD |
+| ferrariChampions2026 | 0 | 0 | 19 | +0.00 USD |
 | RN1 | 0 | 0 | 2 | +0.00 USD |
 | swisstony | 0 | 0 | 4 | +0.00 USD |
 
@@ -37,6 +37,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Olympique Lyonnais (-1.5) | Fenerbahçe SK (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Over (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Fenerbahçe SK win on 2026-08-18? | Yes (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF M25 Idanha-a-Nova 2 Men: Abdulhamid  | Tiago Boschmans (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Evan Zhu vs Pedro Martinez | Pedro Martinez (BUY) | 93% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 55% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Brandon Nakashima vs Da | Daniil Medvedev (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -51,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Kingston: Garrett Johns vs Paulo Dos San | Garrett Johns (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Metizport vs SPARTA (BO3 | Metizport (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Donstu Esports vs MOUZ N | Donstu Esports (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Donstu Esports vs MOUZ N | Donstu Esports (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Garrett Johns vs Paulo Dos San | Garrett Johns (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Dusan Lajovic vs Taro Danie | Dusan Lajovic (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Quebec City: Stefanos Sakellaridis vs Tr | Tristan Schoolkate (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
