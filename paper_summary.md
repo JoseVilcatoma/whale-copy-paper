@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 17:36:55 (hora de Perú)
+Actualizado: 2026-08-18 17:39:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $503.48
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 17:36:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $313.48)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $308.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 24 | 1 | 6 | +34.88 USD |
 | RN1 | 1 | 1 | 0 | +1.91 USD |
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 2 | +0.00 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 3 | +0.00 USD |
 | sentrio | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 1 | 2 | -5.09 USD |
 | ferrariChampions2026 | 27 | 15 | 26 | -28.25 USD |
@@ -71,12 +71,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-fen-lyo-2026-08-18-spread-home-2pt5 | ferrariChampions2026, swisstony |
 | ucl-din-vf-2026-08-18-spread-home-2pt5 | ferrariChampions2026, swisstony |
 | wta-bejlek-alexand-2026-08-18 | alaskabaked, ferrariChampions2026 |
+| mlb-mia-phi-2026-08-18-total-8pt5 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
 | atp-faria-walton-2026-08-18 | alaskabaked, ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 47% | 5.00 | 19.2% | ⏳ pendiente | — |
 | sentrio | Cincinnati Open: Learner Tien vs Frances | Frances Tiafoe (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Sara Bejlek (BUY) | 60% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -106,4 +108,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | alaskabaked | Cincinnati Open: Sara Bejlek vs Ekaterin | Ekaterina Alexandrova (BUY) | 50% | 5.00 | 40.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: INTZ e-Sports vs 7REX (BO3) - Circu | INTZ e-Sports (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
-| ferrariChampions2026 | Kingston: Lucas Da Silva vs Tyler Zink | Lucas Da Silva (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -2641,5 +2641,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787092599.2857072,
     "fills": 1
+  },
+  {
+    "timestamp": 1787092698,
+    "timestamp_added": 1787092699.125781,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-mia-phi-2026-08-18-total-8pt5",
+    "title": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2397.7465,
+    "whale_pct": 1.062,
+    "whale_value_at_open": 225746.1013,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787092699.1257896,
+    "fills": 1
   }
 ]
