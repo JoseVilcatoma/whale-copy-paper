@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 10606.1037,
-    "whale_pct": 4.261,
+    "whale_usd": 21929.292,
+    "whale_pct": 8.811,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787082071.0985277,
-    "fills": 5
+    "last_fill_at": 1787082463.4613464,
+    "fills": 8
   },
   {
     "timestamp": 1787079628,
@@ -664,8 +664,8 @@
     "title": "Will Olympique Lyonnais win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5253.6842,
-    "whale_pct": 2.036,
+    "whale_usd": 5764.9802,
+    "whale_pct": 2.234,
     "whale_value_at_open": 258067.7211,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -678,8 +678,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080844.4342737,
-    "fills": 3
+    "last_fill_at": 1787082451.0378537,
+    "fills": 4
   },
   {
     "timestamp": 1787080283,
@@ -934,8 +934,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1014.8587,
-    "whale_pct": 0.413,
+    "whale_usd": 1607.3219,
+    "whale_pct": 0.653,
     "whale_value_at_open": 245971.6757,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -946,8 +946,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080657.2061415,
-    "fills": 2
+    "last_fill_at": 1787082409.5871036,
+    "fills": 3
   },
   {
     "timestamp": 1787080548,
@@ -1659,6 +1659,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787082155.6171072,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787082362,
+    "timestamp_added": 1787082363.0456834,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-bal-2026-08-18",
+    "title": "New York Yankees vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 1782.7474,
+    "whale_pct": 0.734,
+    "whale_value_at_open": 242797.6023,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787082363.0456908,
     "fills": 1
   }
 ]
