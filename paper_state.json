@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.2388594513653,
+  "bankroll": 503.0178129397374,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -275,6 +275,11 @@
       "timestamp": 1787087927.7794816,
       "bankroll": 502.24,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Metizport vs SPARTA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787088249.1346538,
+      "bankroll": 503.02,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Marta Kostyuk vs Sloane Stephens"
     }
   ]
 }
