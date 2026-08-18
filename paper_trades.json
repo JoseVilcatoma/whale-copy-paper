@@ -1646,8 +1646,8 @@
     "title": "Quebec City: Andrea Pellegrino vs Nishesh Basavareddy",
     "outcome": "Nishesh Basavareddy",
     "side": "BUY",
-    "whale_usd": 11891.094876000001,
-    "whale_pct": 4.594,
+    "whale_usd": 12782.155808000001,
+    "whale_pct": 4.939,
     "whale_value_at_open": 258816.1813,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -1658,8 +1658,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084526.663073,
-    "fills": 4
+    "last_fill_at": 1787085555.8647761,
+    "fills": 5
   },
   {
     "timestamp": 1787082362,
