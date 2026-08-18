@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.2271570257589,
+  "bankroll": 494.006110514131,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -295,6 +295,11 @@
       "timestamp": 1787089245.907439,
       "bankroll": 493.23,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Donstu Esports vs MOUZ NXT - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787089805.5448909,
+      "bankroll": 494.01,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Galions vs Karmine Corp Blue - Game 2 Winner"
     }
   ]
 }
