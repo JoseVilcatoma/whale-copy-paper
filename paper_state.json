@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.0917598647804,
+  "bankroll": 504.50943868950174,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -320,6 +320,16 @@
       "timestamp": 1787090614.718404,
       "bankroll": 498.09,
       "event": "won: swisstony \u2014 Will Al Diraiyah Saudi Club vs. Al Nassr Saudi Club end in a draw?"
+    },
+    {
+      "timestamp": 1787091415.5514698,
+      "bankroll": 503.6,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC (BO3) - ESL Challenger League Europe Cup #4 Group A"
+    },
+    {
+      "timestamp": 1787091478.8759258,
+      "bankroll": 504.51,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Metizport vs SPARTA (BO3) - ESL Challenger League Europe Cup #4 Group C"
     }
   ]
 }
