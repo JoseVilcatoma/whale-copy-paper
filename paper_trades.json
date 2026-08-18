@@ -1694,8 +1694,8 @@
     "title": "Cincinnati Open: Coco Gauff vs Ann Li",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 8578.00229,
-    "whale_pct": 3.526,
+    "whale_usd": 10276.722290000002,
+    "whale_pct": 4.225,
     "whale_value_at_open": 243259.4301,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -1706,8 +1706,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084305.9434025,
-    "fills": 4
+    "last_fill_at": 1787084960.635056,
+    "fills": 6
   },
   {
     "timestamp": 1787083399,
