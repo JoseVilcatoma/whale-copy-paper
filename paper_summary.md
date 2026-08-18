@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 15:00:24 (hora de Perú)
+Actualizado: 2026-08-18 15:02:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.13
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Ann Li | Coco Gauff (BUY) | 98% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Andrea Pellegrino vs Nishes | Nishesh Basavareddy (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Andrea Pellegrino vs Nishes | Nishesh Basavareddy (BUY) | 88% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will GNK Dinamo Zagreb win on 2026-08-18 | Yes (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Donstu Esports vs MOUZ N | MOUZ NXT (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |

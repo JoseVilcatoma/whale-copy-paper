@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 40122.913887,
-    "whale_pct": 16.12,
+    "whale_usd": 64946.349187,
+    "whale_pct": 26.094,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787083221.4528916,
-    "fills": 21
+    "last_fill_at": 1787083347.1668286,
+    "fills": 27
   },
   {
     "timestamp": 1787079628,
@@ -1646,8 +1646,8 @@
     "title": "Quebec City: Andrea Pellegrino vs Nishesh Basavareddy",
     "outcome": "Nishesh Basavareddy",
     "side": "BUY",
-    "whale_usd": 1061.1281999999999,
-    "whale_pct": 0.41,
+    "whale_usd": 8310.288876,
+    "whale_pct": 3.211,
     "whale_value_at_open": 258816.1813,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -1658,8 +1658,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787082155.6171072,
-    "fills": 1
+    "last_fill_at": 1787083282.3631601,
+    "fills": 2
   },
   {
     "timestamp": 1787082362,
