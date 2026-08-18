@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 13:54:12 (hora de Perú)
+Actualizado: 2026-08-18 13:56:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.00
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | Will Olympique Lyonnais win on 2026-08-1 | No (BUY) | 75% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Fire Flux Esports vs WRA | WRAITH PCIFIC (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Metizport vs SPARTA - Ma | SPARTA (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will AEK win on 2026-08-18? | No (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Will AEK win on 2026-08-18? | No (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Spread: AEK (-2.5) | PFK Levski Sofia (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Kingston: Garrett Johns vs Paulo Dos San | Garrett Johns (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Valentin Royer vs Luis Guto Mi | Valentin Royer (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |

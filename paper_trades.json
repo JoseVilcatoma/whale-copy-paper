@@ -278,8 +278,8 @@
     "title": "Will AEK win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1045.8,
-    "whale_pct": 0.334,
+    "whale_usd": 1578.229999,
+    "whale_pct": 0.504,
     "whale_value_at_open": 313015.1623,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -290,8 +290,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079096.0211315,
-    "fills": 1
+    "last_fill_at": 1787079325.3688002,
+    "fills": 2
   },
   {
     "timestamp": 1787079097,
