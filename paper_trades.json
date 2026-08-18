@@ -211,8 +211,8 @@
     "odds_at_bet": 92,
     "fee_usd": 0.02,
     "odds_ballena": 90,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.41,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -1309,8 +1309,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.05,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -1818,8 +1818,8 @@
     "title": "Will PFK Levski Sofia win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2141.1811,
-    "whale_pct": 0.798,
+    "whale_usd": 3099.7715,
+    "whale_pct": 1.156,
     "whale_value_at_open": 268259.2073,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -1832,8 +1832,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084318.7892659,
-    "fills": 2
+    "last_fill_at": 1787084852.8517485,
+    "fills": 3
   },
   {
     "timestamp": 1787084478,
@@ -1909,6 +1909,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787084643.7482114,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787084820,
+    "timestamp_added": 1787084821.6183867,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-si-zink-2026-08-18",
+    "title": "Kingston: Lucas Da Silva vs Tyler Zink",
+    "outcome": "Lucas Da Silva",
+    "side": "BUY",
+    "whale_usd": 557.141,
+    "whale_pct": 0.198,
+    "whale_value_at_open": 282019.0649,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787084821.6183946,
     "fills": 1
   }
 ]

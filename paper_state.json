@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.26563659875904,
+  "bankroll": 498.73298018306446,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -45,6 +45,16 @@
       "timestamp": 1787084156.2953544,
       "bankroll": 497.27,
       "event": "won: ferrariChampions2026 \u2014 Kingston: Evan Zhu vs Pedro Martinez"
+    },
+    {
+      "timestamp": 1787084846.4906373,
+      "bankroll": 497.68,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Valentin Royer vs Luis Guto Miguel"
+    },
+    {
+      "timestamp": 1787084851.877458,
+      "bankroll": 498.73,
+      "event": "won: swisstony \u2014 Kingston: Valentin Royer vs Luis Guto Miguel"
     }
   ]
 }
