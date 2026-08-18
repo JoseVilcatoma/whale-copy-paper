@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.9578129397374,
+  "bankroll": 493.2271570257589,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -285,6 +285,16 @@
       "timestamp": 1787088372.618559,
       "bankroll": 497.96,
       "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Fire Flux Esports vs WRAITH PCIFIC - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787089243.895064,
+      "bankroll": 492.87,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Donstu Esports vs MOUZ NXT - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787089245.907439,
+      "bankroll": 493.23,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Donstu Esports vs MOUZ NXT - Map 2 Winner"
     }
   ]
 }
