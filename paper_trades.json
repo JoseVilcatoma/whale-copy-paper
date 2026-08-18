@@ -2300,5 +2300,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787088220.0592015,
     "fills": 1
+  },
+  {
+    "timestamp": 1787088456,
+    "timestamp_added": 1787088456.7903929,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "argcopa-rie-glp-2026-08-18-rie",
+    "title": "Will Deportivo Riestra AFBC win on 2026-08-18?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 538.12,
+    "whale_pct": 0.228,
+    "whale_value_at_open": 235816.6133,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787088456.7903996,
+    "fills": 1
   }
 ]
