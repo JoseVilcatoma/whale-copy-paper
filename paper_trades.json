@@ -374,8 +374,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 6337.0672,
-    "whale_pct": 2.883,
+    "whale_usd": 16651.715244000003,
+    "whale_pct": 7.576,
     "whale_value_at_open": 219784.3957,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -386,8 +386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079461.9767127,
-    "fills": 2
+    "last_fill_at": 1787079606.624803,
+    "fills": 6
   },
   {
     "timestamp": 1787079396,
@@ -422,8 +422,8 @@
     "title": "Quebec City: Dusan Lajovic vs Taro Daniel",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 20849.6413,
-    "whale_pct": 9.261,
+    "whale_usd": 37797.4951,
+    "whale_pct": 16.789,
     "whale_value_at_open": 225136.6324,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -436,7 +436,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079483.2540293,
-    "fills": 3
+    "last_fill_at": 1787079518.7072585,
+    "fills": 5
+  },
+  {
+    "timestamp": 1787079522,
+    "timestamp_added": 1787079523.2725394,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-nakashi-medvede-2026-08-18",
+    "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "whale_usd": 840.7206000000001,
+    "whale_pct": 0.338,
+    "whale_value_at_open": 248895.7763,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787079523.272555,
+    "fills": 1
   }
 ]
