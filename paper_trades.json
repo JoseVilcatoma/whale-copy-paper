@@ -132,8 +132,8 @@
     "title": "Kingston: Garrett Johns vs Paulo Dos Santos",
     "outcome": "Garrett Johns",
     "side": "BUY",
-    "whale_usd": 1153.090285,
-    "whale_pct": 0.498,
+    "whale_usd": 11405.057185,
+    "whale_pct": 4.924,
     "whale_value_at_open": 231632.8513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -144,8 +144,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787078414.9263034,
-    "fills": 1
+    "last_fill_at": 1787079913.2992349,
+    "fills": 3
   },
   {
     "timestamp": 1787078554,
@@ -374,8 +374,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 16651.715244000003,
-    "whale_pct": 7.576,
+    "whale_usd": 18381.672167000004,
+    "whale_pct": 8.364,
     "whale_value_at_open": 219784.3957,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -386,8 +386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079606.624803,
-    "fills": 6
+    "last_fill_at": 1787079951.9230354,
+    "fills": 8
   },
   {
     "timestamp": 1787079396,
@@ -448,8 +448,8 @@
     "title": "Cincinnati Open: Brandon Nakashima vs Daniil Medvedev",
     "outcome": "Daniil Medvedev",
     "side": "BUY",
-    "whale_usd": 840.7206000000001,
-    "whale_pct": 0.338,
+    "whale_usd": 5737.2561000000005,
+    "whale_pct": 2.305,
     "whale_value_at_open": 248895.7763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -460,8 +460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079523.272555,
-    "fills": 1
+    "last_fill_at": 1787079929.6451452,
+    "fills": 3
   },
   {
     "timestamp": 1787079628,
@@ -496,8 +496,8 @@
     "title": "Kingston: Evan Zhu vs Pedro Martinez",
     "outcome": "Pedro Martinez",
     "side": "BUY",
-    "whale_usd": 5018.2455549999995,
-    "whale_pct": 2.03,
+    "whale_usd": 5667.111954999999,
+    "whale_pct": 2.292,
     "whale_value_at_open": 247257.0174,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -508,8 +508,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079728.9331033,
-    "fills": 1
+    "last_fill_at": 1787079962.66836,
+    "fills": 2
   },
   {
     "timestamp": 1787079749,
@@ -568,8 +568,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 764.2019,
-    "whale_pct": 0.301,
+    "whale_usd": 1494.1619,
+    "whale_pct": 0.589,
     "whale_value_at_open": 253778.4538,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -580,8 +580,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787079813.4532342,
-    "fills": 1
+    "last_fill_at": 1787079884.4855976,
+    "fills": 2
   },
   {
     "timestamp": 1787079814,
@@ -605,6 +605,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787079814.8147988,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787079885,
+    "timestamp_added": 1787079886.315948,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ucl-fen-lyo-2026-08-18-spread-home-1pt5",
+    "title": "Spread: Fenerbah\u00e7e SK (-1.5)",
+    "outcome": "Olympique Lyonnais",
+    "side": "BUY",
+    "whale_usd": 757.5,
+    "whale_pct": 0.327,
+    "whale_value_at_open": 231574.6491,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787079886.3159597,
     "fills": 1
   }
 ]
