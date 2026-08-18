@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 18:22:02 (hora de Perú)
+Actualizado: 2026-08-18 18:24:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $500.90
-**Retorno acumulado:** +0.18%
+**Bankroll actual:** $507.66
+**Retorno acumulado:** +1.53%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 18:22:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $260.90)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $272.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,18 +27,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 5 | +0.00 USD |
 | sentrio | 0 | 0 | 3 | +0.00 USD |
 | alaskabaked | 0 | 1 | 2 | -5.09 USD |
-| ferrariChampions2026 | 28 | 16 | 31 | -30.83 USD |
+| ferrariChampions2026 | 29 | 16 | 30 | -24.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 72
-- **Aciertos:** 53 (73.6%)
-- **Cuota promedio de entrada:** 73.0%
+- **Apuestas resueltas:** 73
+- **Aciertos:** 54 (74.0%)
+- **Cuota promedio de entrada:** 72.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $360.00
-- **ROI sobre lo apostado:** +0.24%
-- **Comisiones pagadas (taker fee):** $4.87 (1.35% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.59% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $365.00
+- **ROI sobre lo apostado:** +2.09%
+- **Comisiones pagadas (taker fee):** $5.01 (1.37% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +3.46% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -46,7 +46,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 18 | 44.4% | 48.3% | -3.8 pp |
+| 40-59% | 19 | 47.4% | 47.9% | -0.6 pp |
 | 60-79% | 25 | 76.0% | 69.6% | +6.4 pp |
 | 80-94% | 20 | 85.0% | 88.0% | -3.0 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 98.3% | +1.7 pp |
@@ -99,7 +99,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cancun: Roman Safiullin vs Sebastian Ofn | Roman Safiullin (BUY) | 66% | 5.00 | 1.7% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Fluminense FC win on 2026-08-18? | No (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Jesper de Jong vs Dane Swee | Jesper de Jong (BUY) | 42% | 5.00 | 5.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Jesper de Jong vs Dane Swee | Jesper de Jong (BUY) | 42% | 5.00 | 5.1% | ✅ ganada | +6.76 |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Luis Carlos Alvarez vs Rio Noguc | Luis Carlos Alvarez (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Dali Blanch vs Felipe Meligeni A | Dali Blanch (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.90164070970377,
+  "bankroll": 507.66140261446566,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -360,6 +360,11 @@
       "timestamp": 1787094579.7646809,
       "bankroll": 500.9,
       "event": "won: ferrariChampions2026 \u2014 Cancun: Roman Safiullin vs Sebastian Ofner"
+    },
+    {
+      "timestamp": 1787095377.9967148,
+      "bankroll": 507.66,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Jesper de Jong vs Dane Sweeny"
     }
   ]
 }
