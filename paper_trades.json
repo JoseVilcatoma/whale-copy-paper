@@ -2090,8 +2090,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Adam Walton",
     "side": "BUY",
-    "whale_usd": 43952.108027,
-    "whale_pct": 19.569,
+    "whale_usd": 45314.026127000005,
+    "whale_pct": 20.176,
     "whale_value_at_open": 224599.0726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -2102,8 +2102,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787093888.7141268,
-    "fills": 15
+    "last_fill_at": 1787094336.8762195,
+    "fills": 17
   },
   {
     "timestamp": 1787087638,
@@ -2236,8 +2236,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 19928.657964,
-    "whale_pct": 8.651,
+    "whale_usd": 21645.847164000003,
+    "whale_pct": 9.396,
     "whale_value_at_open": 230366.5987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -2250,8 +2250,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787093900.2603083,
-    "fills": 11
+    "last_fill_at": 1787094310.00545,
+    "fills": 13
   },
   {
     "timestamp": 1787088142,
@@ -2777,8 +2777,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 667.272,
-    "whale_pct": 0.177,
+    "whale_usd": 35397.9408,
+    "whale_pct": 9.383,
     "whale_value_at_open": 377247.0216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -2789,8 +2789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787093472.2177343,
-    "fills": 1
+    "last_fill_at": 1787094239.9396617,
+    "fills": 8
   },
   {
     "timestamp": 1787093565,
@@ -2817,5 +2817,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787093566.0111637,
     "fills": 1
+  },
+  {
+    "timestamp": 1787094228,
+    "timestamp_added": 1787094228.9673626,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-la-conn-2026-08-18-total-171pt5",
+    "title": "Los Angeles Sparks vs. Connecticut Sun: O/U 171.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 591.0645000000001,
+    "whale_pct": 0.161,
+    "whale_value_at_open": 367762.2297,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787094228.9673698,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787094326,
+    "timestamp_added": 1787094326.2013361,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "atp-faria-walton-2026-08-18",
+    "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
+    "outcome": "Jaime Faria",
+    "side": "BUY",
+    "whale_usd": 3572.889,
+    "whale_pct": 3.107,
+    "whale_value_at_open": 114993.5903,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "alaskabaked",
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787094326.675171,
+    "fills": 3
   }
 ]
