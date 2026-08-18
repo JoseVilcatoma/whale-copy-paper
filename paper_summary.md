@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 16:40:53 (hora de Perú)
+Actualizado: 2026-08-18 16:42:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.23
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 16:40:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $298.23)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $293.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 0 | 0 | 1 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 1 | +0.00 USD |
 | alaskabaked | 0 | 1 | 2 | -5.09 USD |
-| ferrariChampions2026 | 21 | 12 | 27 | -35.21 USD |
+| ferrariChampions2026 | 21 | 12 | 28 | -35.21 USD |
 
 ## Análisis general
 
@@ -76,6 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Luis Carlos Alvarez vs Rio Noguc | Luis Carlos Alvarez (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Dali Blanch vs Felipe Meligeni A | Dali Blanch (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -105,4 +106,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Quebec City: Jurij Rodionov vs Rei Sakam | Rei Sakamoto (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Fenerbahçe SK win on 2026-08-18? | No (BUY) | 83% | 5.00 | 0.8% | ✅ ganada | +0.98 |
 | ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Ann Li | Coco Gauff (BUY) | 98% | 5.00 | 4.2% | ✅ ganada | +0.10 |
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
