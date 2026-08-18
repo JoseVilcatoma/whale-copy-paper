@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 15:29:44 (hora de Perú)
+Actualizado: 2026-08-18 15:31:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.73
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Kingston: Lucas Da Silva vs Tyler Zink | Lucas Da Silva (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Fenerbahçe SK vs. Olympique Lyonnais: O/ | Under (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: GNK Dinamo Zagreb (-2.5) | Viking FK (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Marta Kostyuk vs Sloane | Marta Kostyuk (BUY) | 86% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will PFK Levski Sofia win on 2026-08-18? | No (BUY) | 82% | 5.00 | 1.2% | ⏳ pendiente | — |

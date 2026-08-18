@@ -1894,8 +1894,8 @@
     "title": "Fenerbah\u00e7e SK vs. Olympique Lyonnais: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 881.2162000000001,
-    "whale_pct": 0.301,
+    "whale_usd": 4379.881600000001,
+    "whale_pct": 1.498,
     "whale_value_at_open": 292369.2875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -1908,8 +1908,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084643.7482114,
-    "fills": 1
+    "last_fill_at": 1787085060.1010077,
+    "fills": 2
   },
   {
     "timestamp": 1787084820,
