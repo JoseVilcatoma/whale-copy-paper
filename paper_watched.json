@@ -8,7 +8,7 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787077817.1179783,
-    "roi_pct": 622.84,
+    "roi_pct": 622.74,
     "short_term_pct": 70.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
@@ -20,43 +20,43 @@
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1787077817.1179802,
-    "roi_pct": 280.73,
+    "roi_pct": 248.09,
     "short_term_pct": 100.0
   },
   "0x9cb990f1862568a63d8601efeebe0304225c32f2": {
     "username": "jtwyslljy",
     "added_at": 1787078432.5932736,
-    "roi_pct": 504.35,
-    "short_term_pct": 100.0
-  },
-  "0xd3b034d7bfb2473fb252d0414646d9786bac329e": {
-    "username": "Sunshine.Smile",
-    "added_at": 1787078432.5932922,
-    "roi_pct": 576.27,
+    "roi_pct": 376.56,
     "short_term_pct": 100.0
   },
   "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa": {
     "username": "theowalcott",
     "added_at": 1787081244.027516,
-    "roi_pct": 1147.31,
+    "roi_pct": 1267.02,
     "short_term_pct": 100.0
   },
   "0x2f44fa076c8d2976ac6bea0ddfd9502bad2b93c2": {
     "username": "TennisLove",
     "added_at": 1787084057.890219,
-    "roi_pct": 365.33,
+    "roi_pct": 1656.15,
     "short_term_pct": 100.0
-  },
-  "0x204f72f35326db932158cba6adff0b9a1da95e14": {
-    "username": "swisstony",
-    "added_at": 1787087804.5529406,
-    "roi_pct": 431.34,
-    "short_term_pct": 90.0
   },
   "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
     "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
     "added_at": 1787087804.5529473,
-    "roi_pct": 242.08,
+    "roi_pct": 278.39,
+    "short_term_pct": 100.0
+  },
+  "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
+    "username": "HVAB",
+    "added_at": 1787089674.2378666,
+    "roi_pct": 1637.42,
+    "short_term_pct": 100.0
+  },
+  "0xaa7789219c17e180dcb5933099c90d885f1d15a5": {
+    "username": "alaskabaked",
+    "added_at": 1787089674.237883,
+    "roi_pct": 149.08,
     "short_term_pct": 100.0
   }
 }

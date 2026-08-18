@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 16:47:06 (hora de Perú)
+Actualizado: 2026-08-18 16:49:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.23
@@ -89,7 +89,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs: O/U  | Over (BUY) | 59% | 5.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Deportivo Riestra AFBC vs. Gimnasia y Es | Under (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | alaskabaked | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 59% | 5.00 | 23.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 5.00 | 6.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 44% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Andrea Pellegrino vs Nishes | Andrea Pellegrino (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Sara Bejlek vs Ekaterin | Ekaterina Alexandrova (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
