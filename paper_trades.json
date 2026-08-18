@@ -2097,8 +2097,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -2121,8 +2121,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -2243,8 +2243,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [
       "alaskabaked"
     ],
@@ -2341,8 +2341,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [
       "alaskabaked",
       "ferrariChampions2026"
@@ -2732,8 +2732,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "alaskabaked",
       "ferrariChampions2026",
@@ -2858,8 +2858,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [
       "alaskabaked",
       "ferrariChampions2026",

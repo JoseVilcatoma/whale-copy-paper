@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 18:57:07 (hora de Perú)
+Actualizado: 2026-08-18 18:59:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $500.65
-**Retorno acumulado:** +0.13%
+**Bankroll actual:** $505.69
+**Retorno acumulado:** +1.14%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 18:57:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $210.65)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $245.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,25 +21,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 24 | 1 | 6 | +34.88 USD |
+| swisstony | 25 | 1 | 5 | +37.49 USD |
 | RN1 | 1 | 1 | 0 | +1.91 USD |
+| sentrio | 1 | 1 | 1 | +0.39 USD |
 | theowalcott | 0 | 0 | 2 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 0 | 0 | 5 | +0.00 USD |
-| sentrio | 0 | 0 | 3 | +0.00 USD |
 | Sassy-Bucket | 0 | 0 | 2 | +0.00 USD |
-| alaskabaked | 0 | 2 | 1 | -10.21 USD |
-| ferrariChampions2026 | 30 | 17 | 39 | -25.96 USD |
+| alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| ferrariChampions2026 | 31 | 18 | 37 | -27.28 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 76
-- **Aciertos:** 55 (72.4%)
-- **Cuota promedio de entrada:** 71.8%
+- **Apuestas resueltas:** 82
+- **Aciertos:** 59 (72.0%)
+- **Cuota promedio de entrada:** 70.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $380.00
-- **ROI sobre lo apostado:** +0.16%
-- **Comisiones pagadas (taker fee):** $5.36 (1.41% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.57% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $410.00
+- **ROI sobre lo apostado:** +1.38%
+- **Comisiones pagadas (taker fee):** $6.06 (1.48% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +2.86% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -47,8 +47,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 21 | 42.9% | 48.2% | -5.3 pp |
-| 60-79% | 26 | 76.9% | 69.2% | +7.7 pp |
+| 40-59% | 26 | 46.2% | 48.8% | -2.7 pp |
+| 60-79% | 27 | 77.8% | 69.1% | +8.7 pp |
 | 80-94% | 20 | 85.0% | 88.0% | -3.0 pp |
 | 95-99% (casi seguro) | 9 | 100.0% | 98.3% | +1.7 pp |
 
@@ -97,12 +97,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Lucas Da Silva vs Tyler Zink | Tyler Zink (BUY) | 47% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | Cleveland Guardians (BUY) | 84% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
-| sentrio | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 47% | 5.00 | 3.1% | ⏳ pendiente | — |
+| sentrio | Cincinnati Open: Jaime Faria vs Adam Wal | Jaime Faria (BUY) | 47% | 5.00 | 3.1% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Los Angeles Sparks vs. Connecticut Sun:  | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 49% | 5.00 | 9.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 7.0% | ⏳ pendiente | — |
-| sentrio | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
+| sentrio | Cincinnati Open: Jaime Faria vs Adam Wal | Adam Walton (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 47% | 5.00 | 7.9% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Toronto Blue Jays vs. Tampa Bay Rays | Toronto Blue Jays (BUY) | 46% | 5.00 | 12.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 54% | 5.00 | 3.8% | ⏳ pendiente | — |

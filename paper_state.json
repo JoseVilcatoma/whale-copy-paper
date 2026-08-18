@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.647735947799,
+  "bankroll": 505.68648921220495,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -380,6 +380,36 @@
       "timestamp": 1787096176.1245315,
       "bankroll": 500.65,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova"
+    },
+    {
+      "timestamp": 1787097480.6008296,
+      "bankroll": 495.51,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Jaime Faria vs Adam Walton"
+    },
+    {
+      "timestamp": 1787097480.7009559,
+      "bankroll": 498.88,
+      "event": "won: alaskabaked \u2014 Cincinnati Open: Jaime Faria vs Adam Walton"
+    },
+    {
+      "timestamp": 1787097481.4407675,
+      "bankroll": 502.7,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Jaime Faria vs Adam Walton"
+    },
+    {
+      "timestamp": 1787097481.8984344,
+      "bankroll": 505.3,
+      "event": "won: swisstony \u2014 Cincinnati Open: Jaime Faria vs Adam Walton"
+    },
+    {
+      "timestamp": 1787097483.382467,
+      "bankroll": 500.18,
+      "event": "lost: sentrio \u2014 Cincinnati Open: Jaime Faria vs Adam Walton"
+    },
+    {
+      "timestamp": 1787097483.8831668,
+      "bankroll": 505.69,
+      "event": "won: sentrio \u2014 Cincinnati Open: Jaime Faria vs Adam Walton"
     }
   ]
 }
