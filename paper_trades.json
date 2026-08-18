@@ -984,8 +984,8 @@
     "title": "Will AEK win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 562.34,
-    "whale_pct": 0.229,
+    "whale_usd": 1200.22,
+    "whale_pct": 0.488,
     "whale_value_at_open": 245971.6757,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -998,8 +998,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787080552.562442,
-    "fills": 1
+    "last_fill_at": 1787084281.0400114,
+    "fills": 2
   },
   {
     "timestamp": 1787080552,
@@ -1694,8 +1694,8 @@
     "title": "Cincinnati Open: Coco Gauff vs Ann Li",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 6924.909712,
-    "whale_pct": 2.847,
+    "whale_usd": 8578.00229,
+    "whale_pct": 3.526,
     "whale_value_at_open": 243259.4301,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -1706,8 +1706,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787083365.939663,
-    "fills": 3
+    "last_fill_at": 1787084305.9434025,
+    "fills": 4
   },
   {
     "timestamp": 1787083399,
@@ -1818,8 +1818,8 @@
     "title": "Will PFK Levski Sofia win on 2026-08-18?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1054.72,
-    "whale_pct": 0.393,
+    "whale_usd": 2141.1811,
+    "whale_pct": 0.798,
     "whale_value_at_open": 268259.2073,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -1832,7 +1832,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787084180.8481398,
-    "fills": 1
+    "last_fill_at": 1787084318.7892659,
+    "fills": 2
   }
 ]
