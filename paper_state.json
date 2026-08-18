@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.421213624652,
+  "bankroll": 503.47228802279386,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -225,6 +225,46 @@
       "timestamp": 1787087623.8562427,
       "bankroll": 505.42,
       "event": "won: ferrariChampions2026 \u2014 Spread: GNK Dinamo Zagreb (-2.5)"
+    },
+    {
+      "timestamp": 1787087682.4361222,
+      "bankroll": 500.3,
+      "event": "lost: ferrariChampions2026 \u2014 Will Fenerbah\u00e7e SK win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087682.7066953,
+      "bankroll": 500.61,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Olympique Lyonnais (-1.5)"
+    },
+    {
+      "timestamp": 1787087683.007191,
+      "bankroll": 495.49,
+      "event": "lost: swisstony \u2014 Will Fenerbah\u00e7e SK win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087684.1590958,
+      "bankroll": 500.17,
+      "event": "won: swisstony \u2014 Will Fenerbah\u00e7e SK win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087685.0033758,
+      "bankroll": 501.15,
+      "event": "won: ferrariChampions2026 \u2014 Will Fenerbah\u00e7e SK win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787087743.0376823,
+      "bankroll": 501.46,
+      "event": "won: swisstony \u2014 GNK Dinamo Zagreb vs. Viking FK: O/U 2.5"
+    },
+    {
+      "timestamp": 1787087743.3175838,
+      "bankroll": 501.5,
+      "event": "won: swisstony \u2014 GNK Dinamo Zagreb vs. Viking FK: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1787087744.1968253,
+      "bankroll": 503.47,
+      "event": "won: swisstony \u2014 GNK Dinamo Zagreb vs. Viking FK: O/U 3.5"
     }
   ]
 }
