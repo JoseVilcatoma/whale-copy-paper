@@ -1,0 +1,43 @@
+name: Paper Trading
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: whale-paper
+  cancel-in-progress: true
+
+jobs:
+  paper:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - name: Descargar el repo
+        uses: actions/checkout@v4
+
+      - name: Instalar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: pip install -r requirements.txt
+
+      - name: Correr el bot de paper trading
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          INITIAL_BANKROLL: "500"
+          FIXED_STAKE_USD: "5"
+          MIN_WHALE_USD: "500"
+          MIN_ODDS_PCT: "40"
+          SLIPPAGE_PCT: "2"
+          TAKER_FEE_COEF: "0.05"
+          MIN_SHARES: "5"
+          PYTHONUNBUFFERED: "1"
+        run: python -u whale_copy_paper.py
