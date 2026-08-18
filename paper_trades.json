@@ -2016,8 +2016,8 @@
     "title": "Cincinnati Open: Sara Bejlek vs Ekaterina Alexandrova",
     "outcome": "Ekaterina Alexandrova",
     "side": "BUY",
-    "whale_usd": 10385.453411,
-    "whale_pct": 3.71,
+    "whale_usd": 11619.173411,
+    "whale_pct": 4.15,
     "whale_value_at_open": 279948.6729,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -2030,8 +2030,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787090607.1634855,
-    "fills": 4
+    "last_fill_at": 1787091116.5184193,
+    "fills": 5
   },
   {
     "timestamp": 1787087345,
@@ -2090,8 +2090,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Adam Walton",
     "side": "BUY",
-    "whale_usd": 21425.230827,
-    "whale_pct": 9.539,
+    "whale_usd": 31819.158227,
+    "whale_pct": 14.167,
     "whale_value_at_open": 224599.0726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -2102,8 +2102,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787089679.7403293,
-    "fills": 8
+    "last_fill_at": 1787091194.8056219,
+    "fills": 10
   },
   {
     "timestamp": 1787087638,
@@ -2494,6 +2494,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787090702.5600708,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787091163,
+    "timestamp_added": 1787091163.956257,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-safiull-ofner-2026-08-18",
+    "title": "Cancun: Roman Safiullin vs Sebastian Ofner",
+    "outcome": "Roman Safiullin",
+    "side": "BUY",
+    "whale_usd": 2051.0685,
+    "whale_pct": 0.773,
+    "whale_value_at_open": 265218.7334,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787091163.9562662,
     "fills": 1
   }
 ]
