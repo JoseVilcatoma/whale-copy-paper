@@ -2236,8 +2236,8 @@
     "title": "Cincinnati Open: Jaime Faria vs Adam Walton",
     "outcome": "Jaime Faria",
     "side": "BUY",
-    "whale_usd": 36099.806498,
-    "whale_pct": 15.671,
+    "whale_usd": 38860.869697999995,
+    "whale_pct": 16.869,
     "whale_value_at_open": 230366.5987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -2250,8 +2250,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787095026.709997,
-    "fills": 21
+    "last_fill_at": 1787095092.6918085,
+    "fills": 22
   },
   {
     "timestamp": 1787088142,
@@ -2529,8 +2529,8 @@
     "title": "Cancun: Luis Carlos Alvarez vs Rio Noguchi",
     "outcome": "Rio Noguchi",
     "side": "BUY",
-    "whale_usd": 957.0698999999998,
-    "whale_pct": 0.364,
+    "whale_usd": 1726.4626999999998,
+    "whale_pct": 0.656,
     "whale_value_at_open": 263074.6492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -2541,8 +2541,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787091321.7995996,
-    "fills": 1
+    "last_fill_at": 1787095153.9479492,
+    "fills": 2
   },
   {
     "timestamp": 1787091420,
