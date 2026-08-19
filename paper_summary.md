@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:57:41 (hora de Perú)
+Actualizado: 2026-08-19 18:59:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:57:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $437.61 en 88 posiciones abiertas (disponible para nuevas apuestas: $24.47)
+**Capital comprometido ahora mismo:** $452.61 en 91 posiciones abiertas (disponible para nuevas apuestas: $9.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,6 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
+| dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 | theowalcott | 1 | 1 | 7 | -1.43 USD |
@@ -42,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 22 | 11 | 19 | -13.74 USD |
 | Sassy-Bucket | 0 | 3 | 3 | -15.38 USD |
 | RN1 | 68 | 35 | 5 | -18.39 USD |
-| ferrariChampions2026 | 121 | 72 | 39 | -35.99 USD |
+| ferrariChampions2026 | 121 | 72 | 41 | -35.99 USD |
 
 ## Análisis general
 
@@ -161,6 +162,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| dauntlesswitness | Counter-Strike: Team Falcons vs TheMongo | Team Falcons (BUY) | 81% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Columbus Crew vs. CF Montréal: O/U 4.5 | Under (BUY) | 73% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | M80 (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Nongshim Red Force vs Kiwoom DRX (B | Kiwoom DRX (BUY) | 42% | 5.00 | 6.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Alexis Galarneau vs Dino Pr | Alexis Galarneau (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA Challengers vs DN SOOPers | DN SOOPers Challengers (BUY) | 43% | 5.00 | 25.0% | ⏳ pendiente | — |
@@ -188,6 +192,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will CA Platense win on 2026-08-19? | No (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | theowalcott | New York Red Bulls vs. Nashville SC: O/U | Over (BUY) | 44% | 5.00 | 30.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Columbus Crew win on 2026-08-19? | No (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | BESTIA (BUY) | 69% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Kyrian Jacquet vs Aleksanda | Aleksandar Vukic (BUY) | 96% | 5.00 | 0.2% | ✅ ganada | +0.20 |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
