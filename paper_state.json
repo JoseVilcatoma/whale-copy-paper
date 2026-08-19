@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.3178740146855,
+  "bankroll": 529.4556718870258,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -670,6 +670,21 @@
       "timestamp": 1787108569.3007421,
       "bankroll": 526.32,
       "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Texas Rangers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787108881.3673189,
+      "bankroll": 531.82,
+      "event": "won: sentrio \u2014 Cincinnati Open: Learner Tien vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1787108883.982172,
+      "bankroll": 534.55,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Learner Tien vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1787108884.701518,
+      "bankroll": 529.46,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Learner Tien vs Frances Tiafoe"
     }
   ]
 }
