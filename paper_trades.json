@@ -7682,8 +7682,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 20142.612673000003,
-    "whale_pct": 13.683,
+    "whale_usd": 21385.732673000002,
+    "whale_pct": 14.528,
     "whale_value_at_open": 147204.3037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -7697,8 +7697,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159755.0798814,
-    "fills": 12
+    "last_fill_at": 1787159863.3816447,
+    "fills": 13
   },
   {
     "timestamp": 1787153353,
@@ -8497,6 +8497,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787159475.6470532,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787159958,
+    "timestamp_added": 1787159959.1343231,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-det-pit-2026-08-19-total-9pt5",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2029.6,
+    "whale_pct": 1.391,
+    "whale_value_at_open": 145868.4772,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787159959.1343334,
     "fills": 1
   }
 ]
