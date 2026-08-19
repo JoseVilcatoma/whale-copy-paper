@@ -3095,8 +3095,8 @@
     "title": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
     "outcome": "Felix Auger-Aliassime",
     "side": "BUY",
-    "whale_usd": 542.425885,
-    "whale_pct": 0.145,
+    "whale_usd": 9466.317785000001,
+    "whale_pct": 2.539,
     "whale_value_at_open": 372871.3902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -3107,8 +3107,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787096443.6407108,
-    "fills": 1
+    "last_fill_at": 1787097597.2302115,
+    "fills": 2
   },
   {
     "timestamp": 1787096511,
@@ -3167,8 +3167,8 @@
     "title": "Kingston: Joel Schwaerzler vs Kenta Miyoshi",
     "outcome": "Kenta Miyoshi",
     "side": "BUY",
-    "whale_usd": 7092.256222999999,
-    "whale_pct": 1.86,
+    "whale_usd": 8371.203591,
+    "whale_pct": 2.195,
     "whale_value_at_open": 381356.5345,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -3179,8 +3179,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787096672.483383,
-    "fills": 1
+    "last_fill_at": 1787097557.5124795,
+    "fills": 2
   },
   {
     "timestamp": 1787096698,
