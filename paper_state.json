@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.2095991569875,
+  "bankroll": 455.5317149214675,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1950,6 +1950,26 @@
       "timestamp": 1787178411.3572822,
       "bankroll": 447.21,
       "event": "won: RN1 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1787179288.001597,
+      "bankroll": 450.58,
+      "event": "won: RN1 \u2014 Cincinnati Open: Arthur Fils vs Alex de Minaur"
+    },
+    {
+      "timestamp": 1787179288.1018174,
+      "bankroll": 453.68,
+      "event": "won:  \u2014 Cincinnati Open: Arthur Fils vs Alex de Minaur"
+    },
+    {
+      "timestamp": 1787179289.2035878,
+      "bankroll": 454.88,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Arthur Fils vs Alex de Minaur"
+    },
+    {
+      "timestamp": 1787179352.3188508,
+      "bankroll": 455.53,
+      "event": "won: RN1 \u2014 Will FC Barcelona win on 2026-08-19?"
     }
   ]
 }
