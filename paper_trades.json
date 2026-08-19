@@ -4855,8 +4855,8 @@
     "title": "Roehampton: Lui Maxted vs Patrick Brady",
     "outcome": "Lui Maxted",
     "side": "BUY",
-    "whale_usd": 4242.672684,
-    "whale_pct": 7.166,
+    "whale_usd": 5033.226084,
+    "whale_pct": 8.501,
     "whale_value_at_open": 59205.9848,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -4867,8 +4867,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787140786.0794725,
-    "fills": 2
+    "last_fill_at": 1787144920.2162907,
+    "fills": 3
   },
   {
     "timestamp": 1787140331,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:08:32 (hora de Perú)
+Actualizado: 2026-08-19 08:10:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.19
@@ -131,4 +131,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Sion: Jeffrey von der Schulenburg vs Geo | Geoffrey Blancaneaux (BUY) | 69% | 5.00 | 2.8% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: WE (-1.5) vs EDward Gamin | EDward Gaming (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 72% | 5.00 | 7.2% | ⏳ pendiente | — |
+| RN1 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 72% | 5.00 | 8.5% | ⏳ pendiente | — |
