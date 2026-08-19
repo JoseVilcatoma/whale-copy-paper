@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:18:41 (hora de Perú)
+Actualizado: 2026-08-19 08:20:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.19
@@ -104,7 +104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Henry Bernet (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Henry Bernet (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | SPARTA (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies | Miami Marlins (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF W15 Wanfercée-Baulet Women: Galatea  | Galatea Ferro (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |

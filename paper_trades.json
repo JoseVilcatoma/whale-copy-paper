@@ -5734,8 +5734,8 @@
     "title": "Sion: Lorenzo Giustino vs Henry Bernet",
     "outcome": "Henry Bernet",
     "side": "BUY",
-    "whale_usd": 575.609756,
-    "whale_pct": 0.239,
+    "whale_usd": 1255.983894,
+    "whale_pct": 0.521,
     "whale_value_at_open": 241302.5787,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -5748,7 +5748,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787145438.6904325,
-    "fills": 1
+    "last_fill_at": 1787145530.1287816,
+    "fills": 2
   }
 ]
