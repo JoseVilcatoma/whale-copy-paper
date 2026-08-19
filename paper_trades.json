@@ -3555,8 +3555,8 @@
     "title": "Atlanta Dream vs. Las Vegas Aces",
     "outcome": "Atlanta Dream",
     "side": "BUY",
-    "whale_usd": 4673.6765000000005,
-    "whale_pct": 0.808,
+    "whale_usd": 5766.8223,
+    "whale_pct": 0.997,
     "whale_value_at_open": 578141.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -3567,8 +3567,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787104435.4481025,
-    "fills": 6
+    "last_fill_at": 1787104654.2575464,
+    "fills": 8
   },
   {
     "timestamp": 1787102393,
@@ -3825,8 +3825,8 @@
     "title": "LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs",
     "outcome": "3v Team",
     "side": "BUY",
-    "whale_usd": 594.636178,
-    "whale_pct": 0.125,
+    "whale_usd": 1111.4281780000001,
+    "whale_pct": 0.234,
     "whale_value_at_open": 474955.7071,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -3837,8 +3837,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787103412.7566288,
-    "fills": 1
+    "last_fill_at": 1787104692.7490587,
+    "fills": 2
   },
   {
     "timestamp": 1787103446,
