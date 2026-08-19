@@ -4757,8 +4757,8 @@
     "title": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng",
     "outcome": "Chun-Hsin Tseng",
     "side": "BUY",
-    "whale_usd": 6273.282039999999,
-    "whale_pct": 15.437,
+    "whale_usd": 13048.58204,
+    "whale_pct": 32.11,
     "whale_value_at_open": 40636.7238,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -4769,8 +4769,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787139080.5862818,
-    "fills": 5
+    "last_fill_at": 1787139733.6165063,
+    "fills": 7
   },
   {
     "timestamp": 1787138511,
