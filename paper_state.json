@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.0704602005737,
+  "bankroll": 449.3206180953105,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2010,6 +2010,11 @@
       "timestamp": 1787179987.560284,
       "bankroll": 449.07,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Diana Shnaider vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1787181112.6510384,
+      "bankroll": 449.32,
+      "event": "won: HomeRunHazard \u2014 Cancun: Alexandre Muller vs Coleman Wong"
     }
   ]
 }
