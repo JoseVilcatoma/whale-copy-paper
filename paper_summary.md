@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:37:13 (hora de Perú)
+Actualizado: 2026-08-19 14:39:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.27
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 14:37:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $471.62 en 95 posiciones abiertas (disponible para nuevas apuestas: $10.65)
+**Capital comprometido ahora mismo:** $476.62 en 96 posiciones abiertas (disponible para nuevas apuestas: $5.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 1 | 4 | +2.27 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
-|  | 1 | 0 | 2 | +0.53 USD |
+|  | 1 | 0 | 3 | +0.53 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
 | predictionlegend | 0 | 0 | 4 | +0.00 USD |
@@ -137,11 +137,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-mad-mala-2026-08-19-spread-home-1pt5 | RN1, predictionlegend |
 | ucl-sba-cel1-2026-08-19-sba | RN1, predictionlegend |
 | wta-noskova-anisimo-2026-08-19 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, RN1 |
+| atp-fils-minaur-2026-08-19 | , RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 79% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -171,4 +173,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Kingston: Igor Ribeiro Marcondes vs Laut | Lautaro Midon (BUY) | 90% | 5.00 | 0.6% | ✅ ganada | +0.53 |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Marta Kostyuk (BUY) | 63% | 5.00 | 10.5% | ✅ ganada | +2.84 |
