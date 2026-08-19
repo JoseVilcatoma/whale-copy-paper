@@ -1,5 +1,5 @@
 {
-  "bankroll": 513.3606957474834,
+  "bankroll": 514.074822184265,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -935,6 +935,11 @@
       "timestamp": 1787145990.6589315,
       "bankroll": 513.36,
       "event": "won: RN1 \u2014 ITF W35 Bistrita Women: Giulia Safina Popa vs Teodora Miron"
+    },
+    {
+      "timestamp": 1787146297.6590784,
+      "bankroll": 514.07,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Cezar Cretu vs Maxim Mrva"
     }
   ]
 }
