@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.08417280748824,
+  "bankroll": 501.67144031462897,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1000,6 +1000,31 @@
       "timestamp": 1787148663.308456,
       "bankroll": 506.08,
       "event": "venta anticipada: HVAB \u2014 ITF W35 Krakow Women: Oriana Gniewkowska vs Georgina Garcia Perez (+1.03 USD)"
+    },
+    {
+      "timestamp": 1787150976.7232945,
+      "bankroll": 508.57,
+      "event": "won: RN1 \u2014 Sion: Lorenzo Giustino vs Henry Bernet"
+    },
+    {
+      "timestamp": 1787150977.228588,
+      "bankroll": 510.54,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Lorenzo Giustino vs Henry Bernet"
+    },
+    {
+      "timestamp": 1787150980.157249,
+      "bankroll": 505.44,
+      "event": "lost: ferrariChampions2026 \u2014 Sion: Lorenzo Giustino vs Henry Bernet"
+    },
+    {
+      "timestamp": 1787150982.8611848,
+      "bankroll": 500.32,
+      "event": "lost: HomeRunHazard \u2014 Sion: Lorenzo Giustino vs Henry Bernet"
+    },
+    {
+      "timestamp": 1787150983.0615337,
+      "bankroll": 501.67,
+      "event": "won: HomeRunHazard \u2014 Sion: Lorenzo Giustino vs Henry Bernet"
     }
   ]
 }

@@ -4958,8 +4958,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5152,8 +5152,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [
       "RN1"
     ],
@@ -5741,8 +5741,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "RN1"
     ],
@@ -6248,8 +6248,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3546.0,
-    "whale_pct": 6.942,
+    "whale_usd": 5180.6723999999995,
+    "whale_pct": 10.142,
     "whale_value_at_open": 51081.4949,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -6262,8 +6262,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148375.3498797,
-    "fills": 1
+    "last_fill_at": 1787150890.328357,
+    "fills": 2
   },
   {
     "timestamp": 1787148376,
@@ -6429,8 +6429,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -6480,8 +6480,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -6752,8 +6752,8 @@
     "title": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend",
     "outcome": "EDward Gaming",
     "side": "BUY",
-    "whale_usd": 3874.4793,
-    "whale_pct": 1.15,
+    "whale_usd": 5241.3273,
+    "whale_pct": 1.556,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -6764,8 +6764,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150730.4219048,
-    "fills": 3
+    "last_fill_at": 1787150957.841534,
+    "fills": 5
   },
   {
     "timestamp": 1787149911,
@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 26829.322375999996,
-    "whale_pct": 7.963,
+    "whale_usd": 39099.352375999995,
+    "whale_pct": 11.605,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,8 +6838,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150739.031425,
-    "fills": 30
+    "last_fill_at": 1787150927.9872847,
+    "fills": 31
   },
   {
     "timestamp": 1787150162,
