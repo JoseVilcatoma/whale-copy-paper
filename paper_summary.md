@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:56:48 (hora de Perú)
+Actualizado: 2026-08-19 15:58:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $434.35
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 15:56:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $413.25 en 83 posiciones abiertas (disponible para nuevas apuestas: $21.10)
+**Capital comprometido ahora mismo:** $428.25 en 86 posiciones abiertas (disponible para nuevas apuestas: $6.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | SDTrading | 1 | 2 | 4 | -5.95 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 44 | 22 | 36 | -7.00 USD |
+| RN1 | 44 | 22 | 39 | -7.00 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 15 | 11 | 6 | -29.68 USD |
 | ferrariChampions2026 | 107 | 66 | 18 | -49.33 USD |
@@ -148,6 +148,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CA Mineiro win on 2026-08-19? | Yes (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Celtic FC win on 2026-08-19? | Yes (BUY) | 98% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -175,6 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 79% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 59% | 5.00 | 4.9% | ⏳ pendiente | — |
-|  | LoL: BIG vs Unicorns Of Love Sexy Editio | BIG (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
