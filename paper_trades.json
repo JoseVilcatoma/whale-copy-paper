@@ -5512,8 +5512,8 @@
     "title": "Roehampton: Michael Geerts vs Radu Albot",
     "outcome": "Radu Albot",
     "side": "BUY",
-    "whale_usd": 760.0,
-    "whale_pct": 0.782,
+    "whale_usd": 2130.3689999999997,
+    "whale_pct": 2.193,
     "whale_value_at_open": 97124.8525,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -5524,8 +5524,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787144633.8826396,
-    "fills": 1
+    "last_fill_at": 1787145377.4470818,
+    "fills": 2
   },
   {
     "timestamp": 1787144678,
@@ -5649,6 +5649,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787145231.119256,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787145344,
+    "timestamp_added": 1787145345.3671606,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ferro-lopez-2026-08-19",
+    "title": "ITF W15 Wanferc\u00e9e-Baulet Women: Galatea Ferro vs Chrystal Lopez",
+    "outcome": "Galatea Ferro",
+    "side": "BUY",
+    "whale_usd": 1510.37263,
+    "whale_pct": 1.374,
+    "whale_value_at_open": 109934.9581,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787145345.367171,
     "fills": 1
   }
 ]

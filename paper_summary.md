@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:14:36 (hora de Perú)
+Actualizado: 2026-08-19 08:16:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.19
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:14:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $280.19)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $275.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
-| RN1 | 5 | 1 | 12 | +6.29 USD |
+| RN1 | 5 | 1 | 13 | +6.29 USD |
 | sentrio | 2 | 1 | 4 | +5.90 USD |
 | HomeRunHazard | 4 | 1 | 1 | +2.93 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
@@ -103,12 +103,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W15 Wanfercée-Baulet Women: Galatea  | Galatea Ferro (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: FUT Esports vs magic (BO | FUT Esports (BUY) | 66% | 5.00 | 7.4% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Anna Siskova vs Ye | Anna Siskova (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 56% | 5.00 | 39.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 78% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Dalian Yingbo FC win on 2026-07-12? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Lui Maxted vs Patrick Brady | Patrick Brady (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Bistrita Women: Mariia Drobyshev | Mariia Drobysheva (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -132,4 +133,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Ueberlingen Men: Manuel Plunger  | Adrian Oetzbach (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
 | RN1 | Roehampton: Gabi Boitan vs Alastair Gray | Gabi Boitan (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
 | RN1 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 66% | 5.00 | 14.5% | ⏳ pendiente | — |
-| Lakersfan111 | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
