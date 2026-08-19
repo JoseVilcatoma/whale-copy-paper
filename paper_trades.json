@@ -11436,8 +11436,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 121351.26134099999,
-    "whale_pct": 240.754,
+    "whale_usd": 140074.906341,
+    "whale_pct": 277.901,
     "whale_value_at_open": 50404.5951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -11448,8 +11448,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179526.710337,
-    "fills": 16
+    "last_fill_at": 1787179854.3121505,
+    "fills": 19
   },
   {
     "timestamp": 1787179083,
@@ -11460,8 +11460,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 4631.9984,
-    "whale_pct": 1.437,
+    "whale_usd": 5789.9984,
+    "whale_pct": 1.797,
     "whale_value_at_open": 322278.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -11474,8 +11474,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179524.6607158,
-    "fills": 4
+    "last_fill_at": 1787179853.6178305,
+    "fills": 5
   },
   {
     "timestamp": 1787179121,
@@ -11892,6 +11892,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787179720.3934026,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787179797,
+    "timestamp_added": 1787179797.9667773,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-cle-2026-08-19-spread-home-1pt5",
+    "title": "Spread: Cleveland Guardians (-1.5)",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "whale_usd": 2659.9503,
+    "whale_pct": 0.67,
+    "whale_value_at_open": 397052.2472,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787179797.9667883,
     "fills": 1
   }
 ]

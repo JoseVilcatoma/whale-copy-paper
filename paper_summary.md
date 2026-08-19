@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:48:58 (hora de Perú)
+Actualizado: 2026-08-19 17:51:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $450.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 17:48:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $413.25 en 83 posiciones abiertas (disponible para nuevas apuestas: $36.83)
+**Capital comprometido ahora mismo:** $418.25 en 84 posiciones abiertas (disponible para nuevas apuestas: $31.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 67 | 34 | 7 | -14.13 USD |
 | Sassy-Bucket | 0 | 3 | 2 | -15.38 USD |
 | HomeRunHazard | 18 | 11 | 19 | -21.43 USD |
-| ferrariChampions2026 | 116 | 70 | 34 | -42.57 USD |
+| ferrariChampions2026 | 116 | 70 | 35 | -42.57 USD |
 
 ## Análisis general
 
@@ -157,6 +157,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | San Francisco Giants (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Platense win on 2026-08-19? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -174,8 +175,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Marie Bou | Coco Gauff (BUY) | 76% | 5.00 | 2.3% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 48% | 5.00 | 24.0% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 44% | 5.00 | 8.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | Yes (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
-| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 240.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | Yes (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
+| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 277.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 63% | 5.00 | 25.0% | ⏳ pendiente | — |
 | SDTrading | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -186,4 +187,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 64% | 5.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 58% | 5.00 | 4.4% | ⏳ pendiente | — |
