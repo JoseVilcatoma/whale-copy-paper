@@ -1,5 +1,5 @@
 {
-  "bankroll": 529.4556718870258,
+  "bankroll": 532.6890052203591,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -685,6 +685,11 @@
       "timestamp": 1787108884.701518,
       "bankroll": 529.46,
       "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Learner Tien vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1787108946.708113,
+      "bankroll": 532.69,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Benjamin Bonzi vs Justin Boulais"
     }
   ]
 }
