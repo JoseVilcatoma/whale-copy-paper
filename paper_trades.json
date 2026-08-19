@@ -6207,8 +6207,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6602,8 +6602,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 32711.842648,
-    "whale_pct": 10.502,
+    "whale_usd": 43380.64808400001,
+    "whale_pct": 13.927,
     "whale_value_at_open": 311477.4235,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -6617,8 +6617,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787156050.5092442,
-    "fills": 10
+    "last_fill_at": 1787156517.2614295,
+    "fills": 16
   },
   {
     "timestamp": 1787149150,
@@ -8066,6 +8066,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787156470.5659044,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787156508,
+    "timestamp_added": 1787156508.424004,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kopp-hassan-2026-08-19",
+    "title": "Sion: Sandro Kopp vs Benjamin Hassan",
+    "outcome": "Sandro Kopp",
+    "side": "BUY",
+    "whale_usd": 3477.5200000000004,
+    "whale_pct": 2.186,
+    "whale_value_at_open": 159064.111,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787156508.4240186,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787156543,
+    "timestamp_added": 1787156544.4170516,
+    "username": "ic4cream",
+    "wallet": "0x27f738fe203827445690339104aae35b20bc44b0",
+    "slug": "lal-mad-mala-2026-08-19-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 738.0,
+    "whale_pct": 3.848,
+    "whale_value_at_open": 19177.4364,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787156544.4170656,
     "fills": 1
   }
 ]

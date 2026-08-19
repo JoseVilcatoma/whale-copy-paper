@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:21:18 (hora de Perú)
+Actualizado: 2026-08-19 11:23:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $497.39
-**Retorno acumulado:** -0.52%
+**Bankroll actual:** $492.31
+**Retorno acumulado:** -1.54%
 **Peor caída desde un máximo (drawdown):** 10.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 11:21:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $473.25 en 95 posiciones abiertas (disponible para nuevas apuestas: $24.14)
+**Capital comprometido ahora mismo:** $478.25 en 96 posiciones abiertas (disponible para nuevas apuestas: $14.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,11 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
 | ChonkyChocolateCake | 0 | 0 | 2 | +0.00 USD |
-| RN1 | 18 | 8 | 18 | -0.03 USD |
+| ic4cream | 0 | 0 | 1 | +0.00 USD |
 | HomeRunHazard | 7 | 2 | 12 | -0.33 USD |
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
+| RN1 | 18 | 9 | 18 | -5.11 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
@@ -44,14 +45,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 232
-- **Aciertos:** 155 (66.8%)
+- **Apuestas resueltas:** 233
+- **Aciertos:** 155 (66.5%)
 - **Cuota promedio de entrada:** 65.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,160.00
-- **ROI sobre lo apostado:** -0.31%
-- **Comisiones pagadas (taker fee):** $20.14 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.43% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,165.00
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $20.22 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,7 +61,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 99 | 46.5% | 49.8% | -3.4 pp |
-| 60-79% | 82 | 75.6% | 68.4% | +7.2 pp |
+| 60-79% | 83 | 74.7% | 68.4% | +6.3 pp |
 | 80-94% | 36 | 88.9% | 87.1% | +1.8 pp |
 | 95-99% (casi seguro) | 15 | 100.0% | 97.7% | +2.3 pp |
 
@@ -84,6 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-fen-lyo-2026-08-18-total-2pt5 | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-spread-home-2pt5 | ferrariChampions2026, swisstony |
 | ucl-din-vf-2026-08-18-spread-home-2pt5 | ferrariChampions2026, swisstony |
+| lal-mad-mala-2026-08-19-mad | ic4cream, swisstony |
 | wta-bejlek-alexand-2026-08-18 | alaskabaked, ferrariChampions2026 |
 | mlb-mia-phi-2026-08-18-total-8pt5 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
 | atp-faria-walton-2026-08-18 | alaskabaked, ferrariChampions2026, sentrio, swisstony |
@@ -121,11 +123,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-nyy-bal-2026-08-19 | Satisfied, ferrariChampions2026 |
 | atp-jodar-cobolli-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
+| atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ic4cream | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
+| RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Marcelina Podlinsk | Dalila Jakupovic (BUY) | 91% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BIG vs Unicorns Of Love Sexy Editio | Unicorns Of Love Sexy Edition (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 6.2% | ⏳ pendiente | — |
@@ -154,5 +159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 5.00 | 38.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 18.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 2 W | G2 (BUY) | 70% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 93% | 5.00 | 3.0% | ⏳ pendiente | — |

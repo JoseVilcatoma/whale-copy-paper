@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.3867016736848,
+  "bankroll": 492.3087016736848,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1165,6 +1165,11 @@
       "timestamp": 1787155713.2667537,
       "bankroll": 497.39,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: SPARTA vs MOUZ NXT - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787156528.2363336,
+      "bankroll": 492.31,
+      "event": "lost: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Mathieu Scaglia vs Maxwell McKennon"
     }
   ]
 }
