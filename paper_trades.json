@@ -6866,5 +6866,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787150162.6712558,
     "fills": 1
+  },
+  {
+    "timestamp": 1787150243,
+    "timestamp_added": 1787150243.8954234,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-cin-2026-08-19",
+    "title": "St. Louis Cardinals vs. Cincinnati Reds",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 15999.999999,
+    "whale_pct": 4.424,
+    "whale_value_at_open": 361688.0268,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787150243.8954372,
+    "fills": 1
   }
 ]
