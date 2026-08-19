@@ -5667,8 +5667,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6004,8 +6004,8 @@
     "title": "LoL: Team WE vs EDward Gaming - Game 1 Winner",
     "outcome": "EDward Gaming",
     "side": "BUY",
-    "whale_usd": 6366.3526999999995,
-    "whale_pct": 2.565,
+    "whale_usd": 7649.6026999999995,
+    "whale_pct": 3.082,
     "whale_value_at_open": 248217.5419,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -6016,8 +6016,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787147650.5596986,
-    "fills": 7
+    "last_fill_at": 1787147789.6409588,
+    "fills": 8
   },
   {
     "timestamp": 1787147010,

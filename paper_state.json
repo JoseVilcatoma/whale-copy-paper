@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.25890765435054,
+  "bankroll": 502.1712886067315,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -980,6 +980,11 @@
       "timestamp": 1787147227.377598,
       "bankroll": 501.26,
       "event": "won: ferrariChampions2026 \u2014 Roehampton: Lui Maxted vs Patrick Brady"
+    },
+    {
+      "timestamp": 1787147851.4256723,
+      "bankroll": 502.17,
+      "event": "won: RN1 \u2014 ITF W15 Wanferc\u00e9e-Baulet Women: Galatea Ferro vs Chrystal Lopez"
     }
   ]
 }
