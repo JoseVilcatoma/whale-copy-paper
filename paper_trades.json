@@ -9385,8 +9385,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 17370.459215000003,
-    "whale_pct": 6.536,
+    "whale_usd": 24428.959215000003,
+    "whale_pct": 9.191,
     "whale_value_at_open": 265783.6938,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -9399,8 +9399,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166998.124439,
-    "fills": 4
+    "last_fill_at": 1787175180.2039707,
+    "fills": 5
   },
   {
     "timestamp": 1787166781,
@@ -9641,8 +9641,8 @@
     "title": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 19632.5213,
-    "whale_pct": 6.757,
+    "whale_usd": 20442.5213,
+    "whale_pct": 7.036,
     "whale_value_at_open": 290545.5585,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -9653,8 +9653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787174709.419354,
-    "fills": 7
+    "last_fill_at": 1787175228.4980955,
+    "fills": 8
   },
   {
     "timestamp": 1787167819,
@@ -10013,8 +10013,8 @@
     "title": "Arizona Diamondbacks vs. Boston Red Sox",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 5258.6259,
-    "whale_pct": 2.0,
+    "whale_usd": 6186.0759,
+    "whale_pct": 2.353,
     "whale_value_at_open": 262874.1041,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -10027,8 +10027,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787172682.0044358,
-    "fills": 3
+    "last_fill_at": 1787175229.8927114,
+    "fills": 4
   },
   {
     "timestamp": 1787170621,
@@ -10515,8 +10515,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 2216.1216,
-    "whale_pct": 0.705,
+    "whale_usd": 13141.615600000001,
+    "whale_pct": 4.179,
     "whale_value_at_open": 314501.4031,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -10530,8 +10530,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787175026.8634114,
-    "fills": 2
+    "last_fill_at": 1787175180.288126,
+    "fills": 3
   },
   {
     "timestamp": 1787175100,
@@ -10542,8 +10542,8 @@
     "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 524.9970000000001,
-    "whale_pct": 0.164,
+    "whale_usd": 1859.077,
+    "whale_pct": 0.58,
     "whale_value_at_open": 320341.4079,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -10554,7 +10554,60 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787175100.8455534,
+    "last_fill_at": 1787175148.2727203,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787175147,
+    "timestamp_added": 1787175147.8174164,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-ari-bos-2026-08-19-total-9pt5",
+    "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 889.68,
+    "whale_pct": 0.451,
+    "whale_value_at_open": 197277.2533,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787175147.8174298,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787175194,
+    "timestamp_added": 1787175195.2019851,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fils-minaur-2026-08-19",
+    "title": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "whale_usd": 1314.6042000000002,
+    "whale_pct": 0.387,
+    "whale_value_at_open": 339999.9262,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787175195.201996,
     "fills": 1
   }
 ]
