@@ -1,5 +1,5 @@
 {
-  "bankroll": 419.032412769363,
+  "bankroll": 412.5543834102509,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1900,6 +1900,26 @@
       "timestamp": 1787177466.118054,
       "bankroll": 419.03,
       "event": "won: RN1 \u2014 FC Barcelona vs. AL Ahly SC (EGY): 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1787177588.0809994,
+      "bankroll": 413.91,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Linda Noskova vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787177588.1811786,
+      "bankroll": 408.79,
+      "event": "lost: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Cincinnati Open: Linda Noskova vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787177588.2813244,
+      "bankroll": 412.46,
+      "event": "won: RN1 \u2014 Cincinnati Open: Linda Noskova vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787177589.8839035,
+      "bankroll": 412.55,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Linda Noskova vs Amanda Anisimova"
     }
   ]
 }
