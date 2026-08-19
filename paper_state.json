@@ -1,5 +1,5 @@
 {
-  "bankroll": 529.5546975280515,
+  "bankroll": 525.5133338916879,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -710,6 +710,21 @@
       "timestamp": 1787110132.8771148,
       "bankroll": 529.55,
       "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1787110443.731107,
+      "bankroll": 524.42,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: New York Liberty (-3.5)"
+    },
+    {
+      "timestamp": 1787110504.3431695,
+      "bankroll": 530.65,
+      "event": "won: ferrariChampions2026 \u2014 New York Liberty vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1787110506.1230717,
+      "bankroll": 525.51,
+      "event": "lost: ferrariChampions2026 \u2014 New York Liberty vs. Chicago Sky"
     }
   ]
 }
