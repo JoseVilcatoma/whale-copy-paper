@@ -8808,8 +8808,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 6967.7706,
-    "whale_pct": 3.92,
+    "whale_usd": 8054.0506,
+    "whale_pct": 4.532,
     "whale_value_at_open": 177732.2235,
     "paper_stake_usd": 3.37,
     "odds_at_bet": 52,
@@ -8824,8 +8824,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167634.3419962,
-    "fills": 7
+    "last_fill_at": 1787167865.7016304,
+    "fills": 8
   },
   {
     "timestamp": 1787161661,
@@ -9411,8 +9411,8 @@
     "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 12558.27,
-    "whale_pct": 4.621,
+    "whale_usd": 14660.418000000001,
+    "whale_pct": 5.395,
     "whale_value_at_open": 271763.0691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -9426,8 +9426,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167685.920665,
-    "fills": 11
+    "last_fill_at": 1787167948.4880846,
+    "fills": 13
   },
   {
     "timestamp": 1787166786,
@@ -9438,8 +9438,8 @@
     "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2167.75,
-    "whale_pct": 0.798,
+    "whale_usd": 3169.4,
+    "whale_pct": 1.166,
     "whale_value_at_open": 271763.0691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -9450,8 +9450,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167830.3604903,
-    "fills": 2
+    "last_fill_at": 1787167894.5084321,
+    "fills": 3
   },
   {
     "timestamp": 1787167031,
@@ -9512,8 +9512,8 @@
     "title": "Will Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1193.2,
-    "whale_pct": 0.429,
+    "whale_usd": 2355.0,
+    "whale_pct": 0.847,
     "whale_value_at_open": 277965.7436,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -9524,8 +9524,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167303.3782043,
-    "fills": 1
+    "last_fill_at": 1787167909.997372,
+    "fills": 2
   },
   {
     "timestamp": 1787167331,
@@ -9641,8 +9641,8 @@
     "title": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 2982.3599999999997,
-    "whale_pct": 1.026,
+    "whale_usd": 11233.7213,
+    "whale_pct": 3.866,
     "whale_value_at_open": 290545.5585,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -9653,8 +9653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167687.7512648,
-    "fills": 1
+    "last_fill_at": 1787167972.1490145,
+    "fills": 4
   },
   {
     "timestamp": 1787167819,

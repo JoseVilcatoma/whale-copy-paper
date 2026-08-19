@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:30:54 (hora de Perú)
+Actualizado: 2026-08-19 14:33:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.27
@@ -143,16 +143,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 59% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 59% | 5.00 | 3.9% | ⏳ pendiente | — |
 |  | LoL: BIG vs Unicorns Of Love Sexy Editio | BIG (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Spread: ŠK Slovan Bratislava (-1.5) | ŠK Slovan Bratislava (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Will Club Atlético de Madrid vs. Málaga  | No (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will Club Atlético de Madrid vs. Málaga  | No (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-19? | No (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Club Atlético de Madrid (-1.5) | Club Atlético de Madrid (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 66% | 5.00 | 4.6% | ⏳ pendiente | — |
+| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 79% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 66% | 5.00 | 5.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 57% | 5.00 | 6.5% | ⏳ pendiente | — |
 | RN1 | NEC vs. FK Bodø/Glimt: O/U 3.5 | Under (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Celtic FC vs. LASK Linz: Both Teams to S | Yes (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
