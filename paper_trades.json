@@ -10592,8 +10592,8 @@
     "title": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 4291.270866000001,
-    "whale_pct": 1.262,
+    "whale_usd": 7844.063532000001,
+    "whale_pct": 2.307,
     "whale_value_at_open": 339999.9262,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -10607,8 +10607,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176463.2458243,
-    "fills": 4
+    "last_fill_at": 1787176508.7338285,
+    "fills": 6
   },
   {
     "timestamp": 1787175598,
@@ -10667,8 +10667,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 4133.1844,
-    "whale_pct": 1.219,
+    "whale_usd": 7612.0594,
+    "whale_pct": 2.245,
     "whale_value_at_open": 339113.3087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -10681,8 +10681,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176446.3077967,
-    "fills": 4
+    "last_fill_at": 1787176608.9095235,
+    "fills": 6
   },
   {
     "timestamp": 1787175978,
@@ -10717,8 +10717,8 @@
     "title": "Will CA Mineiro win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 10726.24,
-    "whale_pct": 33.458,
+    "whale_usd": 11450.92,
+    "whale_pct": 35.718,
     "whale_value_at_open": 32059.0492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -10731,8 +10731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176143.664942,
-    "fills": 6
+    "last_fill_at": 1787176570.2855399,
+    "fills": 7
   },
   {
     "timestamp": 1787176200,
@@ -10759,5 +10759,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787176431.0412874,
     "fills": 5
+  },
+  {
+    "timestamp": 1787176502,
+    "timestamp_added": 1787176502.5586236,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-c9-bst1-2026-08-19",
+    "title": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "BESTIA",
+    "side": "BUY",
+    "whale_usd": 2070.6,
+    "whale_pct": 0.562,
+    "whale_value_at_open": 368688.4095,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787176502.5586357,
+    "fills": 1
   }
 ]
