@@ -4338,8 +4338,8 @@
     "title": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana",
     "outcome": "Pablo Llamas Ruiz",
     "side": "BUY",
-    "whale_usd": 2619.0003,
-    "whale_pct": 0.747,
+    "whale_usd": 4783.2611,
+    "whale_pct": 1.364,
     "whale_value_at_open": 350719.3871,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -4352,8 +4352,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787109664.2641034,
-    "fills": 1
+    "last_fill_at": 1787110159.693895,
+    "fills": 2
   },
   {
     "timestamp": 1787109684,
