@@ -1,5 +1,5 @@
 {
-  "bankroll": 532.4060967476712,
+  "bankroll": 536.8928949822237,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -595,6 +595,36 @@
       "timestamp": 1787106088.1834805,
       "bankroll": 532.41,
       "event": "won: ferrariChampions2026 \u2014 Will Fluminense FC win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787106395.1398847,
+      "bankroll": 527.26,
+      "event": "lost: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1787106397.0076911,
+      "bankroll": 530.36,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1787106397.9711022,
+      "bankroll": 525.3,
+      "event": "lost: ferrariChampions2026 \u2014 Cancun: Dalibor Svrcina vs Stan Wawrinka"
+    },
+    {
+      "timestamp": 1787106398.6435742,
+      "bankroll": 527.9,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Boston Red Sox (-2.5)"
+    },
+    {
+      "timestamp": 1787106400.6014695,
+      "bankroll": 532.4,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1787106402.073045,
+      "bankroll": 536.89,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 Cancun: Dalibor Svrcina vs Stan Wawrinka"
     }
   ]
 }
