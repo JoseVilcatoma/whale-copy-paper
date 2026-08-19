@@ -6999,8 +6999,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 15689.353841,
-    "whale_pct": 3.619,
+    "whale_usd": 21012.862675,
+    "whale_pct": 4.846,
     "whale_value_at_open": 433574.8881,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -7014,8 +7014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152789.6592534,
-    "fills": 11
+    "last_fill_at": 1787152900.789775,
+    "fills": 12
   },
   {
     "timestamp": 1787150676,
@@ -7351,8 +7351,8 @@
     "title": "Counter-Strike: G2 vs Astralis - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 9404.705517,
-    "whale_pct": 1.765,
+    "whale_usd": 14967.768797,
+    "whale_pct": 2.809,
     "whale_value_at_open": 532860.0637,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -7363,8 +7363,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152804.9114528,
-    "fills": 7
+    "last_fill_at": 1787152964.4534194,
+    "fills": 14
   },
   {
     "timestamp": 1787152475,
@@ -7401,8 +7401,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Diane Parry",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 4209.5133,
-    "whale_pct": 5.095,
+    "whale_usd": 7867.9938,
+    "whale_pct": 9.522,
     "whale_value_at_open": 82626.8811,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -7416,8 +7416,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152567.7720873,
-    "fills": 3
+    "last_fill_at": 1787152919.5666375,
+    "fills": 4
   },
   {
     "timestamp": 1787152589,
@@ -7454,8 +7454,8 @@
     "title": "Minnesota Lynx vs. Golden State Valkyries: O/U 164.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3016.9984000000004,
-    "whale_pct": 3.463,
+    "whale_usd": 4524.997,
+    "whale_pct": 5.194,
     "whale_value_at_open": 87122.8681,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -7466,8 +7466,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152622.924743,
-    "fills": 2
+    "last_fill_at": 1787152962.833102,
+    "fills": 3
   },
   {
     "timestamp": 1787152615,
@@ -7570,6 +7570,32 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1787152739.004578,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787152963,
+    "timestamp_added": 1787152963.5919092,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-jodar-cobolli-2026-08-19",
+    "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "whale_usd": 6345.999,
+    "whale_pct": 6.934,
+    "whale_value_at_open": 91522.0922,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152963.5919201,
     "fills": 1
   }
 ]
