@@ -6643,5 +6643,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787149175.0407763,
     "fills": 5
+  },
+  {
+    "timestamp": 1787149445,
+    "timestamp_added": 1787149446.3641372,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-gombos-cuenin-2026-08-19",
+    "title": "Prague 2: Norbert Gombos vs Sean Cuenin",
+    "outcome": "Sean Cuenin",
+    "side": "BUY",
+    "whale_usd": 661.044487,
+    "whale_pct": 0.191,
+    "whale_value_at_open": 346607.3623,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787149446.3641498,
+    "fills": 1
   }
 ]
