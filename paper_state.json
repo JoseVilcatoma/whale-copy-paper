@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.8136172598886,
+  "bankroll": 462.07735447607314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2035,6 +2035,46 @@
       "timestamp": 1787182479.0394864,
       "bankroll": 453.81,
       "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787183410.6625412,
+      "bankroll": 460.3,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1787183412.9158678,
+      "bankroll": 463.67,
+      "event": "won: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1787183413.3971584,
+      "bankroll": 458.57,
+      "event": "lost: RN1 \u2014 Arizona Diamondbacks vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1787183413.4973953,
+      "bankroll": 462.39,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1787183414.3170538,
+      "bankroll": 457.36,
+      "event": "lost:  \u2014 Arizona Diamondbacks vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1787183414.654434,
+      "bankroll": 452.29,
+      "event": "lost: ferrariChampions2026 \u2014 Cancun: Otto Virtanen vs Moez Echargui"
+    },
+    {
+      "timestamp": 1787183415.6262434,
+      "bankroll": 458.26,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Otto Virtanen vs Moez Echargui"
+    },
+    {
+      "timestamp": 1787183420.6806476,
+      "bankroll": 462.08,
+      "event": "won: HomeRunHazard \u2014 Cancun: Otto Virtanen vs Moez Echargui"
     }
   ]
 }

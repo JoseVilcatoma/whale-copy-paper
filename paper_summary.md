@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:49:23 (hora de Perú)
+Actualizado: 2026-08-19 18:51:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $453.81
-**Retorno acumulado:** -9.24%
+**Bankroll actual:** $462.08
+**Retorno acumulado:** -7.58%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:49:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $452.61 en 91 posiciones abiertas (disponible para nuevas apuestas: $1.20)
+**Capital comprometido ahora mismo:** $412.61 en 83 posiciones abiertas (disponible para nuevas apuestas: $49.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,32 +28,32 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 1 | 0 | 2 | +4.88 USD |
 | sentrio | 3 | 2 | 2 | +3.16 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-|  | 3 | 1 | 1 | +1.45 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 | theowalcott | 1 | 1 | 6 | -1.43 USD |
+|  | 3 | 2 | 0 | -3.59 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 3 | 1 | -6.79 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 68 | 34 | 6 | -13.29 USD |
+| HomeRunHazard | 22 | 11 | 19 | -13.74 USD |
 | Sassy-Bucket | 0 | 3 | 3 | -15.38 USD |
-| HomeRunHazard | 20 | 11 | 21 | -20.93 USD |
-| ferrariChampions2026 | 118 | 71 | 41 | -47.19 USD |
+| RN1 | 68 | 35 | 5 | -18.39 USD |
+| ferrariChampions2026 | 121 | 72 | 37 | -35.99 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 406
-- **Aciertos:** 265 (65.3%)
-- **Cuota promedio de entrada:** 65.3%
+- **Apuestas resueltas:** 414
+- **Aciertos:** 270 (65.2%)
+- **Cuota promedio de entrada:** 65.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $2,028.37
-- **ROI sobre lo apostado:** -2.33%
-- **Comisiones pagadas (taker fee):** $35.15 (1.73% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.59% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,068.37
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $35.96 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,9 +61,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 178 | 46.6% | 50.2% | -3.6 pp |
-| 60-79% | 136 | 72.1% | 68.1% | +3.9 pp |
-| 80-94% | 62 | 87.1% | 87.3% | -0.2 pp |
+| 40-59% | 183 | 48.1% | 50.2% | -2.2 pp |
+| 60-79% | 138 | 71.0% | 68.1% | +2.9 pp |
+| 80-94% | 63 | 85.7% | 87.3% | -1.6 pp |
 | 95-99% (casi seguro) | 30 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 57% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Soon-Woo Kwon vs Shintaro M | Soon-Woo Kwon (BUY) | 88% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 56% | 5.00 | 1.3% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 53% | 5.00 | 8.1% | ⏳ pendiente | — |
 | theowalcott | Orlando City SC vs. Chicago Fire FC: O/U | Under (BUY) | 53% | 5.00 | 13.3% | ⏳ pendiente | — |
