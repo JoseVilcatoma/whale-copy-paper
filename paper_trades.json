@@ -6298,8 +6298,8 @@
     "title": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet",
     "outcome": "Oliver Tarvet",
     "side": "BUY",
-    "whale_usd": 3261.8874000000005,
-    "whale_pct": 6.386,
+    "whale_usd": 3891.8383000000003,
+    "whale_pct": 7.619,
     "whale_value_at_open": 51081.4949,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -6312,8 +6312,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149192.5439444,
-    "fills": 3
+    "last_fill_at": 1787149581.813019,
+    "fills": 4
   },
   {
     "timestamp": 1787148561,
@@ -6666,6 +6666,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787149446.3641498,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787149580,
+    "timestamp_added": 1787149581.160787,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-pit-2026-08-19-total-8pt5",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3573.0003,
+    "whale_pct": 5.298,
+    "whale_value_at_open": 67438.6806,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787149581.1608,
     "fills": 1
   }
 ]
