@@ -4699,5 +4699,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787126803.3255563,
     "fills": 1
+  },
+  {
+    "timestamp": 1787127732,
+    "timestamp_added": 1787127732.8932617,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-staehel-serna-2026-08-19",
+    "title": "Sion: Luca Staeheli vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "whale_usd": 4186.0,
+    "whale_pct": 11.842,
+    "whale_value_at_open": 35348.5714,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787127732.8932698,
+    "fills": 1
   }
 ]

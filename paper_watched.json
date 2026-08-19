@@ -2,25 +2,19 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787077817.1179783,
-    "roi_pct": 949.42,
+    "roi_pct": 949.44,
     "short_term_pct": 70.0
-  },
-  "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
-    "username": "WTSA",
-    "added_at": 1787077817.117979,
-    "roi_pct": 557.63,
-    "short_term_pct": 100.0
   },
   "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
     "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
     "added_at": 1787087804.5529473,
-    "roi_pct": 275.59,
+    "roi_pct": 275.81,
     "short_term_pct": 80.0
   },
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787092478.7651718,
-    "roi_pct": 764.68,
+    "roi_pct": 811.13,
     "short_term_pct": 100.0
   },
   "0x27f738fe203827445690339104aae35b20bc44b0": {
@@ -32,19 +26,19 @@
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1787109011.458279,
-    "roi_pct": 432.75,
+    "roi_pct": 425.76,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1787112769.2459674,
-    "roi_pct": 1496.32,
+    "roi_pct": 1449.91,
     "short_term_pct": 100.0
   },
   "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
     "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
     "added_at": 1787120284.9801056,
-    "roi_pct": 328.14,
+    "roi_pct": 328.48,
     "short_term_pct": 100.0
   },
   "0x3eb095d871501a1d7a3cb086a22d174b52356a68": {
@@ -53,10 +47,16 @@
     "roi_pct": 10004.74,
     "short_term_pct": 100.0
   },
-  "0xcf609d3256f0f37f0595e5dc64012fa3a8fea6f5": {
-    "username": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
-    "added_at": 1787123965.6583374,
-    "roi_pct": 304.38,
+  "0x9cb990f1862568a63d8601efeebe0304225c32f2": {
+    "username": "jtwyslljy",
+    "added_at": 1787127778.3256347,
+    "roi_pct": 198.75,
+    "short_term_pct": 100.0
+  },
+  "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
+    "username": "BOOMBOYS.Kiritych",
+    "added_at": 1787127778.325637,
+    "roi_pct": 191.34,
     "short_term_pct": 100.0
   }
 }
