@@ -6999,8 +6999,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 921.182727,
-    "whale_pct": 0.212,
+    "whale_usd": 2595.073708,
+    "whale_pct": 0.599,
     "whale_value_at_open": 433574.8881,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -7014,8 +7014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150665.02691,
-    "fills": 1
+    "last_fill_at": 1787152470.452019,
+    "fills": 3
   },
   {
     "timestamp": 1787150676,
@@ -7341,5 +7341,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787152310.828346,
     "fills": 3
+  },
+  {
+    "timestamp": 1787152461,
+    "timestamp_added": 1787152461.8109012,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-g2-ast10-2026-08-19-game2",
+    "title": "Counter-Strike: G2 vs Astralis - Map 2 Winner",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 3852.1411250000006,
+    "whale_pct": 0.723,
+    "whale_value_at_open": 532860.0637,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152461.8109167,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787152475,
+    "timestamp_added": 1787152475.6781158,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-swiatek-parry-2026-08-19",
+    "title": "Cincinnati Open: Iga Swiatek vs Diane Parry",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 1095.0833329999998,
+    "whale_pct": 0.206,
+    "whale_value_at_open": 532860.0637,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152475.6781268,
+    "fills": 1
   }
 ]
