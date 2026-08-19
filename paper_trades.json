@@ -10013,8 +10013,8 @@
     "title": "Arizona Diamondbacks vs. Boston Red Sox",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 3112.998,
-    "whale_pct": 1.184,
+    "whale_usd": 4191.4059,
+    "whale_pct": 1.594,
     "whale_value_at_open": 262874.1041,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -10027,8 +10027,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170559.805445,
-    "fills": 1
+    "last_fill_at": 1787171526.8943164,
+    "fills": 2
   },
   {
     "timestamp": 1787170621,
