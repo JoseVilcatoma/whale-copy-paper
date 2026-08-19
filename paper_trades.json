@@ -9085,8 +9085,8 @@
     "title": "\u0160K Slovan Bratislava vs. NK Celje: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 12817.959640000003,
-    "whale_pct": 43.583,
+    "whale_usd": 13488.279640000002,
+    "whale_pct": 45.862,
     "whale_value_at_open": 29410.4961,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -9097,8 +9097,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787165303.437424,
-    "fills": 10
+    "last_fill_at": 1787165798.1962197,
+    "fills": 11
   },
   {
     "timestamp": 1787164247,
