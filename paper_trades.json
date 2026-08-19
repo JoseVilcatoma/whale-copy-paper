@@ -4838,8 +4838,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6728,8 +6728,8 @@
     "title": "Prague 2: Norbert Gombos vs Sean Cuenin",
     "outcome": "Norbert Gombos",
     "side": "BUY",
-    "whale_usd": 10725.858163,
-    "whale_pct": 3.117,
+    "whale_usd": 12872.512563,
+    "whale_pct": 3.741,
     "whale_value_at_open": 344079.3083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -6740,8 +6740,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151091.1267376,
-    "fills": 3
+    "last_fill_at": 1787155065.4370053,
+    "fills": 4
   },
   {
     "timestamp": 1787149909,
@@ -7773,6 +7773,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787154786.2150025,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787155063,
+    "timestamp_added": 1787155063.7808595,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-ucam1-hrts-2026-08-19",
+    "title": "LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs",
+    "outcome": "Team Heretics Academy",
+    "side": "BUY",
+    "whale_usd": 936.9165,
+    "whale_pct": 0.201,
+    "whale_value_at_open": 465956.5611,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787155063.7808719,
     "fills": 1
   }
 ]

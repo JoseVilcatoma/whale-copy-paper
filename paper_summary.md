@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:56:11 (hora de Perú)
+Actualizado: 2026-08-19 10:58:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.89
-**Retorno acumulado:** -1.62%
+**Bankroll actual:** $495.87
+**Retorno acumulado:** -0.83%
 **Peor caída desde un máximo (drawdown):** 10.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 10:56:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $423.25 en 85 posiciones abiertas (disponible para nuevas apuestas: $68.64)
+**Capital comprometido ahora mismo:** $423.25 en 85 posiciones abiertas (disponible para nuevas apuestas: $72.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,24 +33,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 18 | 8 | 14 | -0.03 USD |
 | HomeRunHazard | 7 | 2 | 10 | -0.33 USD |
+| BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
-| BOOMBOYS.Kiritych | 0 | 1 | 2 | -5.14 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 89 | 52 | 36 | -23.02 USD |
+| ferrariChampions2026 | 89 | 52 | 37 | -23.02 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 230
-- **Aciertos:** 153 (66.5%)
-- **Cuota promedio de entrada:** 65.3%
+- **Apuestas resueltas:** 231
+- **Aciertos:** 154 (66.7%)
+- **Cuota promedio de entrada:** 65.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,150.00
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $19.97 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,155.00
+- **ROI sobre lo apostado:** -0.44%
+- **Comisiones pagadas (taker fee):** $20.08 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,7 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 98 | 45.9% | 49.8% | -3.9 pp |
+| 40-59% | 99 | 46.5% | 49.8% | -3.4 pp |
 | 60-79% | 81 | 75.3% | 68.3% | +7.0 pp |
 | 80-94% | 36 | 88.9% | 87.1% | +1.8 pp |
 | 95-99% (casi seguro) | 15 | 100.0% | 97.7% | +2.3 pp |
@@ -124,6 +124,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: UCAM Esports Club vs Team Heretics  | Team Heretics Academy (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 53% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Satisfied | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -153,4 +154,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Logrono Women: Jordina Font vs S | Jordina Font (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Satisfied | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 48% | 5.00 | 300.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
-| SDTrading | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 44.4% | ⏳ pendiente | — |

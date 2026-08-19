@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.88884521435466,
+  "bankroll": 495.86775430526376,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1155,6 +1155,11 @@
       "timestamp": 1787154960.6841564,
       "bankroll": 491.89,
       "event": "lost: ferrariChampions2026 \u2014 ITF W75 Kursumlijska Banja 3 Women: Beatrice Ricci vs Varvara Panshina"
+    },
+    {
+      "timestamp": 1787155021.0089672,
+      "bankroll": 495.87,
+      "event": "won: BOOMBOYS.Kiritych \u2014 LoL: Anyone's Legend vs Top Esports - Game 2 Winner"
     }
   ]
 }
