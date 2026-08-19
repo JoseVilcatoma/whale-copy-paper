@@ -6176,8 +6176,8 @@
     "title": "ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova",
     "outcome": "Radka Zelnickova",
     "side": "BUY",
-    "whale_usd": 2218.645554,
-    "whale_pct": 1.907,
+    "whale_usd": 3092.245554,
+    "whale_pct": 2.658,
     "whale_value_at_open": 116343.3404,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -6188,8 +6188,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148097.4855676,
-    "fills": 3
+    "last_fill_at": 1787148867.4123049,
+    "fills": 4
   },
   {
     "timestamp": 1787148062,
@@ -6298,8 +6298,8 @@
     "title": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet",
     "outcome": "Oliver Tarvet",
     "side": "BUY",
-    "whale_usd": 1824.9974000000002,
-    "whale_pct": 3.573,
+    "whale_usd": 2665.8374000000003,
+    "whale_pct": 5.219,
     "whale_value_at_open": 51081.4949,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -6312,8 +6312,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148390.516717,
-    "fills": 1
+    "last_fill_at": 1787148938.9200835,
+    "fills": 2
   },
   {
     "timestamp": 1787148561,
@@ -6489,6 +6489,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787148769.8396072,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787148945,
+    "timestamp_added": 1787148946.251061,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-g2-ast10-2026-08-19-map-handicap-away-1pt5",
+    "title": "Map Handicap: G2 (-1.5) vs Astralis (+1.5)",
+    "outcome": "Astralis",
+    "side": "BUY",
+    "whale_usd": 4800.0,
+    "whale_pct": 1.681,
+    "whale_value_at_open": 285625.6925,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787148946.2510707,
     "fills": 1
   }
 ]

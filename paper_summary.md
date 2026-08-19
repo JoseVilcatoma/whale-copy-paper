@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 09:14:19 (hora de Perú)
+Actualizado: 2026-08-19 09:16:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 09:14:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $181.08)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $176.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 80 | 48 | 24 | -21.80 USD |
+| ferrariChampions2026 | 80 | 48 | 25 | -21.80 USD |
 
 ## Análisis general
 
@@ -111,6 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 78% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will FC Barcelona win on 2026-08-19? | Yes (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Lorenzo Giustino vs Henry Bernet | Henry Bernet (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -118,12 +119,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 43% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Beat | Beatrice Ricci (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Vasco Leote | Vasco Leote Prata (BUY) | 62% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 88% | 5.00 | 3.6% | ⏳ pendiente | — |
+| HomeRunHazard | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 88% | 5.00 | 5.2% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Over (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 51% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Mathieu Sca | Maxwell McKennon (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Oriana Gniewkowska | Oriana Gniewkowska (BUY) | 59% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Anna Siskova vs Ye | Yelyzaveta Kotliar (BUY) | 42% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Oriana Gniewkowska | Oriana Gniewkowska (BUY) | 63% | 5.00 | 1642.1% | 💰 vendida anticipada | +1.03 |
@@ -140,4 +141,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton: Mark Ceban vs Iliyan Radulov | Mark Ceban (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Dalian Yingbo FC win on 2026-07-12? | No (BUY) | 94% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Prague 2: Radu Mihai Papoe vs Javier Bar | Radu Mihai Papoe (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Radu Mihai Papoe vs Javier Bar | Radu Mihai Papoe (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
