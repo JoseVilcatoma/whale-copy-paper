@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:23:03 (hora de Perú)
+Actualizado: 2026-08-19 10:25:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $495.23
@@ -141,12 +141,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | EDward Gaming (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 72% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 72% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | ITF W15 Logrono Women: Jordina Font vs S | Jordina Font (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Satisfied | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 48% | 5.00 | 300.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 44.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | Astralis (BUY) | 46% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | Astralis (BUY) | 46% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | ITF M25 Lesa Men: Stefano Reitano vs Fed | Federico Arnaboldi (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | Team WE (BUY) | 89% | 5.00 | 1.7% | ⏳ pendiente | — |

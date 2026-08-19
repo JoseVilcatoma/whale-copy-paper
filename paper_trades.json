@@ -6999,8 +6999,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 21012.862675,
-    "whale_pct": 4.846,
+    "whale_usd": 21625.424078,
+    "whale_pct": 4.988,
     "whale_value_at_open": 433574.8881,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -7014,8 +7014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152900.789775,
-    "fills": 12
+    "last_fill_at": 1787152987.7629063,
+    "fills": 13
   },
   {
     "timestamp": 1787150676,
@@ -7124,8 +7124,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 2829.2464,
-    "whale_pct": 0.72,
+    "whale_usd": 5998.033542,
+    "whale_pct": 1.526,
     "whale_value_at_open": 393072.2108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -7136,8 +7136,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152543.4390633,
-    "fills": 2
+    "last_fill_at": 1787153084.5366778,
+    "fills": 3
   },
   {
     "timestamp": 1787151205,
