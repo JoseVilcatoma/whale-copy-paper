@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.1391555175984,
+  "bankroll": 501.9041555175984,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -955,6 +955,16 @@
       "timestamp": 1787146606.518309,
       "bankroll": 512.14,
       "event": "won: RN1 \u2014 Prague 2: Rudolf Molleker vs Filip Jianu"
+    },
+    {
+      "timestamp": 1787146909.9601035,
+      "bankroll": 507.02,
+      "event": "lost: ferrariChampions2026 \u2014 ITF M25 Idanha-a-Nova 2 Men: Abdulhamid Mubarak vs Tiago Boschmans"
+    },
+    {
+      "timestamp": 1787146912.0875888,
+      "bankroll": 501.9,
+      "event": "lost: sentrio \u2014 ITF M25 Idanha-a-Nova 2 Men: Abdulhamid Mubarak vs Tiago Boschmans"
     }
   ]
 }

@@ -527,8 +527,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -4544,8 +4544,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -5884,8 +5884,8 @@
     "title": "ITF M25 Santander Men: Pedro Rodenas vs Alejandro Juan Mano",
     "outcome": "Pedro Rodenas",
     "side": "BUY",
-    "whale_usd": 1041.485714,
-    "whale_pct": 0.937,
+    "whale_usd": 1892.6607139999999,
+    "whale_pct": 1.704,
     "whale_value_at_open": 111101.9353,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -5896,8 +5896,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787146453.0215018,
-    "fills": 1
+    "last_fill_at": 1787146948.1367717,
+    "fills": 2
   },
   {
     "timestamp": 1787146519,
@@ -5994,5 +5994,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787146711.4925005,
     "fills": 1
+  },
+  {
+    "timestamp": 1787146919,
+    "timestamp_added": 1787146920.1936653,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-we-edg-2026-08-19-game1",
+    "title": "LoL: Team WE vs EDward Gaming - Game 1 Winner",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "whale_usd": 2162.607,
+    "whale_pct": 0.871,
+    "whale_value_at_open": 248217.5419,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787146980.1084754,
+    "fills": 4
   }
 ]
