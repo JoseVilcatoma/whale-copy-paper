@@ -4903,8 +4903,8 @@
     "title": "Sion: Jeffrey von der Schulenburg vs Geoffrey Blancaneaux",
     "outcome": "Geoffrey Blancaneaux",
     "side": "BUY",
-    "whale_usd": 639.2,
-    "whale_pct": 0.922,
+    "whale_usd": 1150.2,
+    "whale_pct": 1.659,
     "whale_value_at_open": 69346.9209,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -4915,8 +4915,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787140413.7949753,
-    "fills": 1
+    "last_fill_at": 1787140982.6830215,
+    "fills": 2
   },
   {
     "timestamp": 1787140662,
