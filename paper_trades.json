@@ -7931,8 +7931,8 @@
     "title": "Spread: Boston Red Sox (-1.5)",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 5785.0012,
-    "whale_pct": 4.128,
+    "whale_usd": 6611.6212,
+    "whale_pct": 4.718,
     "whale_value_at_open": 140128.5572,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -7943,8 +7943,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787155841.1381333,
-    "fills": 1
+    "last_fill_at": 1787178748.2925675,
+    "fills": 2
   },
   {
     "timestamp": 1787156204,
@@ -10793,8 +10793,8 @@
     "title": "Cancun: Otto Virtanen vs Moez Echargui",
     "outcome": "Moez Echargui",
     "side": "BUY",
-    "whale_usd": 19017.765191000002,
-    "whale_pct": 4.916,
+    "whale_usd": 22003.721191,
+    "whale_pct": 5.688,
     "whale_value_at_open": 386862.8992,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -10805,8 +10805,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787177448.0157804,
-    "fills": 5
+    "last_fill_at": 1787178792.1209047,
+    "fills": 6
   },
   {
     "timestamp": 1787176927,
