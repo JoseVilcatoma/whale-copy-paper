@@ -6150,8 +6150,8 @@
     "title": "ITF W35 Krakow Women: Oriana Gniewkowska vs Georgina Garcia Perez",
     "outcome": "Oriana Gniewkowska",
     "side": "BUY",
-    "whale_usd": 2076.010247,
-    "whale_pct": 1.911,
+    "whale_usd": 4544.680247,
+    "whale_pct": 4.183,
     "whale_value_at_open": 108648.4295,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -6164,8 +6164,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148670.2453012,
-    "fills": 2
+    "last_fill_at": 1787149019.9308927,
+    "fills": 4
   },
   {
     "timestamp": 1787147875,
@@ -6514,5 +6514,83 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787148946.2510707,
     "fills": 1
+  },
+  {
+    "timestamp": 1787148985,
+    "timestamp_added": 1787148985.7124214,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-geerts-albot-2026-08-19",
+    "title": "Roehampton: Michael Geerts vs Radu Albot",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "whale_usd": 1184.5344999999998,
+    "whale_pct": 0.41,
+    "whale_value_at_open": 289126.8563,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787148986.4370832,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787149013,
+    "timestamp_added": 1787149014.1926455,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-durasov-poullai-2026-08-19",
+    "title": "Roehampton: Viktor Durasovic vs Lucas Poullain",
+    "outcome": "Lucas Poullain",
+    "side": "BUY",
+    "whale_usd": 893.62,
+    "whale_pct": 1.447,
+    "whale_value_at_open": 61742.0121,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787149014.1926603,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787149030,
+    "timestamp_added": 1787149030.94355,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-geerts-albot-2026-08-19",
+    "title": "Roehampton: Michael Geerts vs Radu Albot",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "whale_usd": 3525.12,
+    "whale_pct": 2.756,
+    "whale_value_at_open": 127913.15,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787149031.5483298,
+    "fills": 3
   }
 ]
