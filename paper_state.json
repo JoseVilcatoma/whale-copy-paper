@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.5530876385971,
+  "bankroll": 502.0438452143547,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1140,6 +1140,11 @@
       "timestamp": 1787154336.0643718,
       "bankroll": 499.55,
       "event": "lost: RN1 \u2014 ITF M15 Lambermont Men: Nicolas Robert vs Benoit Torcq"
+    },
+    {
+      "timestamp": 1787154399.348771,
+      "bankroll": 502.04,
+      "event": "won: ferrariChampions2026 \u2014 Will Shanghai Haigang FC win on 2026-07-12?"
     }
   ]
 }
