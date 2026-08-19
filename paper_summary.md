@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:02:20 (hora de Perú)
+Actualizado: 2026-08-19 15:04:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $448.15
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 15:02:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $366.62 en 74 posiciones abiertas (disponible para nuevas apuestas: $81.53)
+**Capital comprometido ahora mismo:** $371.62 en 75 posiciones abiertas (disponible para nuevas apuestas: $76.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
-| RN1 | 41 | 20 | 30 | -6.76 USD |
+| RN1 | 41 | 20 | 31 | -6.76 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 15 | 10 | 7 | -24.57 USD |
@@ -143,7 +143,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -172,4 +173,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 | predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 45.9% | ⏳ pendiente | — |
-|  | Kingston: Igor Ribeiro Marcondes vs Laut | Lautaro Midon (BUY) | 90% | 5.00 | 0.6% | ✅ ganada | +0.53 |
