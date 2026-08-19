@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 12:27:48 (hora de Perú)
+Actualizado: 2026-08-19 12:29:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.62
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 12:27:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $423.25 en 85 posiciones abiertas (disponible para nuevas apuestas: $43.37)
+**Capital comprometido ahora mismo:** $428.25 en 86 posiciones abiertas (disponible para nuevas apuestas: $38.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | RN1 | 26 | 12 | 19 | -2.25 USD |
-| HomeRunHazard | 10 | 3 | 13 | -3.86 USD |
+| HomeRunHazard | 10 | 3 | 14 | -3.86 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 1 | 5 | -5.10 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -131,6 +131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Pittsburgh Pirates (-2.5) | Detroit Tigers (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | New York Mets (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -160,4 +161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Vitality.Bee vs Ici Japon Corp. Esp | Ici Japon Corp. Esport (BUY) | 51% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: UCAM Esports Club vs Team Heretics  | UCAM Esports Club (BUY) | 51% | 5.00 | 11.5% | ⏳ pendiente | — |
-| RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 78% | 5.00 | 1.8% | ✅ ganada | +1.36 |
