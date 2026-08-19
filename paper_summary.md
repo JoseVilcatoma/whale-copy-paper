@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 07:25:30 (hora de Perú)
+Actualizado: 2026-08-19 07:27:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 07:25:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $352.46)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $332.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 2 | 0 | 1 | +9.36 USD |
 | sentrio | 2 | 1 | 4 | +5.90 USD |
-| RN1 | 2 | 1 | 8 | +4.40 USD |
+| RN1 | 2 | 1 | 9 | +4.40 USD |
 | HomeRunHazard | 4 | 1 | 1 | +2.93 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 3 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 75 | 47 | 6 | -23.51 USD |
+| ferrariChampions2026 | 75 | 47 | 9 | -23.51 USD |
 
 ## Análisis general
 
@@ -91,14 +91,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-bouzkov-jovic-2026-08-18 | HomeRunHazard, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | atp-ruiz-comesan-2026-08-18 | HomeRunHazard, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | cs2-g2-ast10-2026-08-19 | BOOMBOYS.Kiritych, sentrio |
-| lol-al-tes-2026-08-19 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, jtwyslljy |
+| lol-al-tes-2026-08-19 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, ferrariChampions2026, jtwyslljy |
 | lol-we-edg-2026-08-19-game-handicap-away-1pt5 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, Lakersfan111 |
 | atp-giustin-bernet-2026-08-19 | RN1, ferrariChampions2026 |
+| atp-molleke-jianu-2026-08-19 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: HANJIN BRION vs DN SOOPers - Game 2 | HANJIN BRION (BUY) | 68% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-07- | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Prague 2: Rudolf Molleker vs Filip Jianu | Filip Jianu (BUY) | 75% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: HANJIN BRION vs DN SOOPers (BO3) -  | HANJIN BRION (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Rudolf Molleker vs Filip Jianu | Filip Jianu (BUY) | 75% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -125,7 +130,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Will Celtic FC win on 2026-08-19? | No (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports Challengers vs  | BNK FearX Youth (BUY) | 51% | 5.00 | 37.0% | ✅ ganada | +4.68 |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: KT Rolster Challengers vs T1 Academ | KT Rolster Challengers (BUY) | 51% | 5.00 | 9.2% | ✅ ganada | +4.68 |
-| sentrio | ITF M25 Idanha-a-Nova 2 Men: Abdulhamid  | Tiago Boschmans (BUY) | 54% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | Will AL Ahly SC (EGY) win on 2026-08-19? | No (BUY) | 97% | 5.00 | 2.9% | ⏳ pendiente | — |
-| sentrio | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Nippon Ham Fighters vs. Fukuoka SoftBank | Fukuoka SoftBank Hawks (BUY) | 53% | 5.00 | 0.5% | ❌ perdida | -5.12 |
