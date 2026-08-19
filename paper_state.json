@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.8349420976348,
+  "bankroll": 524.1942861836562,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -495,6 +495,11 @@
       "timestamp": 1787102678.421313,
       "bankroll": 523.83,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787103295.4921064,
+      "bankroll": 524.19,
+      "event": "won: ferrariChampions2026 \u2014 LoL: INTZ e-Sports vs 7REX (BO3) - Circuito Desafiante Playoffs"
     }
   ]
 }

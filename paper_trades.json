@@ -1975,8 +1975,8 @@
     "odds_at_bet": 93,
     "fee_usd": 0.017,
     "odds_ballena": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3725,8 +3725,8 @@
     "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 1657.8828,
-    "whale_pct": 0.283,
+    "whale_usd": 6289.8828,
+    "whale_pct": 1.074,
     "whale_value_at_open": 585451.5702,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -3739,8 +3739,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787103065.5048077,
-    "fills": 2
+    "last_fill_at": 1787103304.0293946,
+    "fills": 3
   },
   {
     "timestamp": 1787103080,
@@ -3790,6 +3790,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787103108.2458627,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787103251,
+    "timestamp_added": 1787103252.2607682,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-nyl-chi-2026-08-18-spread-away-3pt5",
+    "title": "Spread: New York Liberty (-3.5)",
+    "outcome": "New York Liberty",
+    "side": "BUY",
+    "whale_usd": 1088.52,
+    "whale_pct": 0.177,
+    "whale_value_at_open": 616257.1126,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787103252.260777,
     "fills": 1
   }
 ]

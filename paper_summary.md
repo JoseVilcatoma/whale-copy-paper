@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 20:33:41 (hora de Perú)
+Actualizado: 2026-08-18 20:35:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $523.83
-**Retorno acumulado:** +4.77%
+**Bankroll actual:** $524.19
+**Retorno acumulado:** +4.84%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 20:33:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $243.83)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $244.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,18 +29,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 0 | 3 | +0.00 USD |
 | danielwolfmorales3pddb6dl6 | 0 | 0 | 2 | +0.00 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 38 | 21 | 45 | -17.63 USD |
+| ferrariChampions2026 | 39 | 21 | 45 | -17.27 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 99
-- **Aciertos:** 72 (72.7%)
-- **Cuota promedio de entrada:** 69.3%
+- **Apuestas resueltas:** 100
+- **Aciertos:** 73 (73.0%)
+- **Cuota promedio de entrada:** 69.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $495.00
-- **ROI sobre lo apostado:** +4.82%
-- **Comisiones pagadas (taker fee):** $7.62 (1.54% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +6.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $500.00
+- **ROI sobre lo apostado:** +4.84%
+- **Comisiones pagadas (taker fee):** $7.63 (1.53% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +6.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -50,7 +50,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 34 | 52.9% | 49.1% | +3.9 pp |
 | 60-79% | 33 | 75.8% | 69.2% | +6.6 pp |
-| 80-94% | 22 | 86.4% | 87.4% | -1.0 pp |
+| 80-94% | 23 | 87.0% | 87.7% | -0.7 pp |
 | 95-99% (casi seguro) | 10 | 100.0% | 98.1% | +1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -85,9 +85,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: New York Liberty (-3.5) | New York Liberty (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers:  | Under (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Learner Tien vs Frances | Frances Tiafoe (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Learner Tien vs Frances | Frances Tiafoe (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels (BUY) | 65% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Las Vegas Aces | Las Vegas Aces (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -114,4 +115,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Washington Nationals vs. Texas Rangers:  | Over (BUY) | 44% | 5.00 | 14.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Sparks vs. Connecticut Sun | Connecticut Sun (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Juan Manuel Cerundolo v | Felix Auger-Aliassime (BUY) | 73% | 5.00 | 3.7% | ✅ ganada | +1.78 |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 50% | 5.00 | 0.1% | ✅ ganada | +4.88 |
