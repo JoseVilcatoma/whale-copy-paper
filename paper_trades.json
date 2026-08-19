@@ -3899,8 +3899,8 @@
     "title": "Quebec City: Benjamin Bonzi vs Justin Boulais",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 3041.43659,
-    "whale_pct": 0.597,
+    "whale_usd": 3953.8892149999997,
+    "whale_pct": 0.776,
     "whale_value_at_open": 509440.6833,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -3911,8 +3911,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787104463.228956,
-    "fills": 3
+    "last_fill_at": 1787104981.3573804,
+    "fills": 4
   },
   {
     "timestamp": 1787103752,
@@ -4019,8 +4019,8 @@
     "title": "Will Independiente del Valle win on 2026-08-11?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 924.4057,
-    "whale_pct": 0.167,
+    "whale_usd": 1706.5357,
+    "whale_pct": 0.308,
     "whale_value_at_open": 554575.1696,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -4031,8 +4031,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787103973.473575,
-    "fills": 1
+    "last_fill_at": 1787104997.765034,
+    "fills": 2
   },
   {
     "timestamp": 1787104205,
