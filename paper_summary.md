@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 04:05:58 (hora de Perú)
+Actualizado: 2026-08-19 04:08:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.84
-**Retorno acumulado:** +1.17%
+**Bankroll actual:** $510.52
+**Retorno acumulado:** +2.10%
 **Peor caída desde un máximo (drawdown):** 8.35%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 04:05:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $415.84)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $425.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | HomeRunHazard | 4 | 0 | 2 | +8.05 USD |
 | sentrio | 2 | 1 | 4 | +5.90 USD |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 1 | 0 | 2 | +4.68 USD |
 | RN1 | 1 | 1 | 3 | +1.91 USD |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
@@ -37,14 +37,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 176
-- **Aciertos:** 116 (65.9%)
-- **Cuota promedio de entrada:** 64.3%
+- **Apuestas resueltas:** 177
+- **Aciertos:** 117 (66.1%)
+- **Cuota promedio de entrada:** 64.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $880.00
-- **ROI sobre lo apostado:** +0.67%
-- **Comisiones pagadas (taker fee):** $15.73 (1.79% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.46% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $885.00
+- **ROI sobre lo apostado:** +1.20%
+- **Comisiones pagadas (taker fee):** $15.85 (1.79% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +2.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -52,7 +52,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 82 | 48.8% | 49.7% | -0.9 pp |
+| 40-59% | 83 | 49.4% | 49.7% | -0.3 pp |
 | 60-79% | 57 | 73.7% | 68.1% | +5.6 pp |
 | 80-94% | 25 | 88.0% | 87.3% | +0.7 pp |
 | 95-99% (casi seguro) | 12 | 100.0% | 97.8% | +2.2 pp |
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 59% | 5.00 | 5.1% | ⏳ pendiente | — |
 | jtwyslljy | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 59% | 5.00 | 324.1% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Will Celtic FC win on 2026-08-19? | No (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports Challengers vs  | BNK FearX Youth (BUY) | 51% | 5.00 | 37.0% | ⏳ pendiente | — |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports Challengers vs  | BNK FearX Youth (BUY) | 51% | 5.00 | 37.0% | ✅ ganada | +4.68 |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: KT Rolster Challengers vs T1 Academ | KT Rolster Challengers (BUY) | 51% | 5.00 | 9.2% | ⏳ pendiente | — |
 | sentrio | ITF M25 Idanha-a-Nova 2 Men: Abdulhamid  | Tiago Boschmans (BUY) | 54% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Will AL Ahly SC (EGY) win on 2026-08-19? | No (BUY) | 97% | 5.00 | 2.9% | ⏳ pendiente | — |
