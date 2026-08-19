@@ -12156,8 +12156,8 @@
     "title": "Will CD Coquimbo Unido win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 650.0,
-    "whale_pct": 0.183,
+    "whale_usd": 1233.05,
+    "whale_pct": 0.348,
     "whale_value_at_open": 354682.6315,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -12168,8 +12168,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787180827.4180295,
-    "fills": 1
+    "last_fill_at": 1787181332.3981895,
+    "fills": 2
   },
   {
     "timestamp": 1787181140,
