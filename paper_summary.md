@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 06:12:02 (hora de Perú)
+Actualizado: 2026-08-19 06:14:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $517.69
-**Retorno acumulado:** +3.54%
+**Bankroll actual:** $512.57
+**Retorno acumulado:** +2.51%
 **Peor caída desde un máximo (drawdown):** 8.35%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 06:12:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $437.69)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $437.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,9 +23,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 2 | 0 | 1 | +9.36 USD |
-| HomeRunHazard | 4 | 0 | 2 | +8.05 USD |
 | sentrio | 2 | 1 | 4 | +5.90 USD |
 | RN1 | 2 | 1 | 3 | +4.40 USD |
+| HomeRunHazard | 4 | 1 | 1 | +2.93 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
@@ -37,14 +37,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 179
-- **Aciertos:** 119 (66.5%)
+- **Apuestas resueltas:** 180
+- **Aciertos:** 119 (66.1%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $895.00
-- **ROI sobre lo apostado:** +1.99%
-- **Comisiones pagadas (taker fee):** $16.06 (1.79% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +3.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $900.00
+- **ROI sobre lo apostado:** +1.41%
+- **Comisiones pagadas (taker fee):** $16.18 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +3.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -52,7 +52,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 84 | 50.0% | 49.7% | +0.3 pp |
+| 40-59% | 85 | 49.4% | 49.7% | -0.3 pp |
 | 60-79% | 58 | 74.1% | 68.0% | +6.1 pp |
 | 80-94% | 25 | 88.0% | 87.3% | +0.7 pp |
 | 95-99% (casi seguro) | 12 | 100.0% | 97.8% | +2.2 pp |
@@ -106,7 +106,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sentrio | ITF M25 Idanha-a-Nova 2 Men: Abdulhamid  | Tiago Boschmans (BUY) | 54% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Will AL Ahly SC (EGY) win on 2026-08-19? | No (BUY) | 97% | 5.00 | 2.9% | ⏳ pendiente | — |
 | sentrio | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Nippon Ham Fighters vs. Fukuoka SoftBank | Fukuoka SoftBank Hawks (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Nippon Ham Fighters vs. Fukuoka SoftBank | Fukuoka SoftBank Hawks (BUY) | 53% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 | sentrio | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Pablo Llamas Ruiz vs Francisco C | Pablo Llamas Ruiz (BUY) | 69% | 5.00 | 1.0% | ✅ ganada | +2.17 |
 | HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 95% | 5.00 | 3.0% | ✅ ganada | +0.25 |
