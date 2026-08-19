@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.3914422263566,
+  "bankroll": 513.3606957474834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -930,6 +930,11 @@
       "timestamp": 1787145682.6800203,
       "bankroll": 511.39,
       "event": "won: ferrariChampions2026 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rada Zolotareva vs Chloe Paquet"
+    },
+    {
+      "timestamp": 1787145990.6589315,
+      "bankroll": 513.36,
+      "event": "won: RN1 \u2014 ITF W35 Bistrita Women: Giulia Safina Popa vs Teodora Miron"
     }
   ]
 }
