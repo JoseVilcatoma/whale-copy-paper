@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 22:41:29 (hora de Perú)
+Actualizado: 2026-08-18 22:43:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $520.39
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 22:41:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $350.39)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $345.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 0 | 0 | 5 | +0.00 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 0 | -4.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 62 | 36 | 24 | -11.16 USD |
+| ferrariChampions2026 | 62 | 36 | 25 | -11.16 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 
 ## Análisis general
@@ -83,12 +83,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-wsh-tex-2026-08-18-total-8pt5 | Sassy-Bucket, ferrariChampions2026 |
 | mlb-lad-col-2026-08-18-total-11pt5 | Sassy-Bucket, ferrariChampions2026 |
 | wta-bouzkov-jovic-2026-08-18 | HomeRunHazard, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
-| atp-ruiz-comesan-2026-08-18 | HomeRunHazard, danielwolfmorales3pddb6dl6 |
+| atp-ruiz-comesan-2026-08-18 | HomeRunHazard, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cancun: Pablo Llamas Ruiz vs Francisco C | Pablo Llamas Ruiz (BUY) | 69% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 95% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Detroit Tigers (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Pablo Llamas Ruiz vs Francisco C | Pablo Llamas Ruiz (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -118,4 +119,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers:  | Under (BUY) | 56% | 5.00 | 0.2% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Cincinnati Open: Learner Tien vs Frances | Frances Tiafoe (BUY) | 64% | 5.00 | 3.1% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros | Los Angeles Angels (BUY) | 65% | 5.00 | 8.2% | ✅ ganada | +2.61 |
-| ferrariChampions2026 | Atlanta Dream vs. Las Vegas Aces | Las Vegas Aces (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |

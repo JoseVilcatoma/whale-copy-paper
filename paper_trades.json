@@ -4404,5 +4404,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787110554.9660444,
     "fills": 2
+  },
+  {
+    "timestamp": 1787110967,
+    "timestamp_added": 1787110967.4865932,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-ruiz-comesan-2026-08-18",
+    "title": "Cancun: Pablo Llamas Ruiz vs Francisco Comesana",
+    "outcome": "Pablo Llamas Ruiz",
+    "side": "BUY",
+    "whale_usd": 2040.61625,
+    "whale_pct": 0.754,
+    "whale_value_at_open": 270542.0561,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787110967.4866042,
+    "fills": 1
   }
 ]
