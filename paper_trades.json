@@ -5980,8 +5980,8 @@
     "title": "Sion: Mika Brunold vs Calvin Hemery",
     "outcome": "Mika Brunold",
     "side": "BUY",
-    "whale_usd": 30040.450366,
-    "whale_pct": 12.332,
+    "whale_usd": 31239.604002,
+    "whale_pct": 12.824,
     "whale_value_at_open": 243593.6738,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -5992,8 +5992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149257.587742,
-    "fills": 6
+    "last_fill_at": 1787151880.2947948,
+    "fills": 7
   },
   {
     "timestamp": 1787146919,
@@ -7274,8 +7274,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 18592.09,
-    "whale_pct": 4.105,
+    "whale_usd": 41592.09,
+    "whale_pct": 9.184,
     "whale_value_at_open": 452884.5496,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -7288,7 +7288,34 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151833.6148944,
+    "last_fill_at": 1787151972.1349847,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787151901,
+    "timestamp_added": 1787151901.932401,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-det-pit-2026-08-19",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 3907.0,
+    "whale_pct": 4.909,
+    "whale_value_at_open": 79580.9696,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151901.9324124,
     "fills": 1
   }
 ]
