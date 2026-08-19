@@ -8532,8 +8532,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 1816.6399999999999,
-    "whale_pct": 1.202,
+    "whale_usd": 2731.5616,
+    "whale_pct": 1.808,
     "whale_value_at_open": 151089.4757,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -8548,8 +8548,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787160856.4946547,
-    "fills": 2
+    "last_fill_at": 1787161364.0627372,
+    "fills": 3
   },
   {
     "timestamp": 1787160066,
@@ -8808,8 +8808,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 1051.6200000000001,
-    "whale_pct": 0.592,
+    "whale_usd": 4103.38,
+    "whale_pct": 2.309,
     "whale_value_at_open": 177732.2235,
     "paper_stake_usd": 3.37,
     "odds_at_bet": 52,
@@ -8824,7 +8824,7 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787161333.9486167,
-    "fills": 1
+    "last_fill_at": 1787161396.7854488,
+    "fills": 4
   }
 ]
