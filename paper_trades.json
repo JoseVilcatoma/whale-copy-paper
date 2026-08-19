@@ -5145,8 +5145,8 @@
     "title": "Sion: Lorenzo Giustino vs Henry Bernet",
     "outcome": "Lorenzo Giustino",
     "side": "BUY",
-    "whale_usd": 1057.4199999999998,
-    "whale_pct": 0.462,
+    "whale_usd": 6268.42,
+    "whale_pct": 2.742,
     "whale_value_at_open": 228639.1934,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -5159,8 +5159,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787142259.9201672,
-    "fills": 1
+    "last_fill_at": 1787144737.3272045,
+    "fills": 2
   },
   {
     "timestamp": 1787142309,
@@ -5525,6 +5525,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787144633.8826396,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787144678,
+    "timestamp_added": 1787144678.8203447,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-maxted-brady-2026-08-19",
+    "title": "Roehampton: Lui Maxted vs Patrick Brady",
+    "outcome": "Lui Maxted",
+    "side": "BUY",
+    "whale_usd": 510.336,
+    "whale_pct": 0.195,
+    "whale_value_at_open": 261395.971,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787144678.8203561,
     "fills": 1
   }
 ]

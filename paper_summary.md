@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:04:30 (hora de Perú)
+Actualizado: 2026-08-19 08:06:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.19
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:04:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $305.19)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $300.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 75 | 47 | 14 | -23.51 USD |
+| ferrariChampions2026 | 75 | 47 | 15 | -23.51 USD |
 
 ## Análisis general
 
@@ -92,6 +92,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-ruiz-comesan-2026-08-18 | HomeRunHazard, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | cs2-g2-ast10-2026-08-19 | BOOMBOYS.Kiritych, sentrio |
 | lol-al-tes-2026-08-19 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, ferrariChampions2026, jtwyslljy |
+| atp-maxted-brady-2026-08-19 | RN1, ferrariChampions2026 |
 | lol-we-edg-2026-08-19-game-handicap-away-1pt5 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, Lakersfan111 |
 | atp-giustin-bernet-2026-08-19 | RN1, ferrariChampions2026 |
 | atp-molleke-jianu-2026-08-19 | RN1, ferrariChampions2026 |
@@ -100,6 +101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Dalian Yingbo FC win on 2026-07-12? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Lui Maxted vs Patrick Brady | Patrick Brady (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
@@ -115,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-07- | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Prague 2: Rudolf Molleker vs Filip Jianu | Filip Jianu (BUY) | 75% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: HANJIN BRION vs DN SOOPers (BO3) -  | HANJIN BRION (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 71% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Rudolf Molleker vs Filip Jianu | Filip Jianu (BUY) | 75% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Cezar Cretu vs Maxim Mrva | Maxim Mrva (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 80% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -129,4 +131,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: WE (-1.5) vs EDward Gamin | EDward Gaming (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 72% | 5.00 | 7.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Anyone's Legend vs Top Esports - Ga | Anyone's Legend (BUY) | 55% | 5.00 | 36.0% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | LoL: HANJIN BRION vs DN SOOPers - Game 1 | DN SOOPers (BUY) | 44% | 5.00 | 20.7% | ⏳ pendiente | — |
