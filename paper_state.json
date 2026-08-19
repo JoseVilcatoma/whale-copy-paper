@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.586440314629,
+  "bankroll": 498.24820221939086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1030,6 +1030,16 @@
       "timestamp": 1787151474.9181535,
       "bankroll": 496.59,
       "event": "lost: RN1 \u2014 ITF M25 Santander Men: Pedro Rodenas vs Alejandro Juan Mano"
+    },
+    {
+      "timestamp": 1787151719.2005944,
+      "bankroll": 491.49,
+      "event": "lost: RN1 \u2014 ITF W50 Prague Women: Anna Siskova vs Yelyzaveta Kotliar"
+    },
+    {
+      "timestamp": 1787151721.3562016,
+      "bankroll": 498.25,
+      "event": "won: RN1 \u2014 ITF W50 Prague Women: Anna Siskova vs Yelyzaveta Kotliar"
     }
   ]
 }
