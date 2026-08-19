@@ -3555,8 +3555,8 @@
     "title": "Atlanta Dream vs. Las Vegas Aces",
     "outcome": "Atlanta Dream",
     "side": "BUY",
-    "whale_usd": 3423.0432,
-    "whale_pct": 0.592,
+    "whale_usd": 4673.6765000000005,
+    "whale_pct": 0.808,
     "whale_value_at_open": 578141.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -3567,8 +3567,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787103957.0227385,
-    "fills": 4
+    "last_fill_at": 1787104435.4481025,
+    "fills": 6
   },
   {
     "timestamp": 1787102393,
