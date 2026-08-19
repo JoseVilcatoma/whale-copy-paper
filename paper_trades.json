@@ -4989,5 +4989,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787141332.1341922,
     "fills": 1
+  },
+  {
+    "timestamp": 1787141369,
+    "timestamp_added": 1787141370.1395621,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-plunger-oetzbac-2026-08-19",
+    "title": "ITF M25 Ueberlingen Men: Manuel Plunger vs Adrian Oetzbach",
+    "outcome": "Adrian Oetzbach",
+    "side": "BUY",
+    "whale_usd": 634.35,
+    "whale_pct": 0.762,
+    "whale_value_at_open": 83292.4304,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787141370.1395707,
+    "fills": 1
   }
 ]
