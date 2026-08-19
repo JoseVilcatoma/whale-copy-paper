@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.1712886067315,
+  "bankroll": 505.0537918551073,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -985,6 +985,16 @@
       "timestamp": 1787147851.4256723,
       "bankroll": 502.17,
       "event": "won: RN1 \u2014 ITF W15 Wanferc\u00e9e-Baulet Women: Galatea Ferro vs Chrystal Lopez"
+    },
+    {
+      "timestamp": 1787148161.4607747,
+      "bankroll": 504.34,
+      "event": "won: RN1 \u2014 Sion: Jeffrey von der Schulenburg vs Geoffrey Blancaneaux"
+    },
+    {
+      "timestamp": 1787148165.0152667,
+      "bankroll": 505.05,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Bistrita Women: Mariia Drobysheva vs Ilinca Sagmar"
     }
   ]
 }
