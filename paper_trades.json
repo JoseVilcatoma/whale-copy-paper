@@ -6776,8 +6776,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 2679.813053,
-    "whale_pct": 0.795,
+    "whale_usd": 4419.396912,
+    "whale_pct": 1.312,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -6788,8 +6788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149968.706406,
-    "fills": 3
+    "last_fill_at": 1787150124.8483293,
+    "fills": 4
   },
   {
     "timestamp": 1787149911,
@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 6198.285713000001,
-    "whale_pct": 1.84,
+    "whale_usd": 10196.345199000001,
+    "whale_pct": 3.026,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,7 +6838,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149960.2514381,
-    "fills": 8
+    "last_fill_at": 1787150217.189261,
+    "fills": 13
+  },
+  {
+    "timestamp": 1787150162,
+    "timestamp_added": 1787150162.6712468,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-fut-mgc-2026-08-19",
+    "title": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
+    "outcome": "magic",
+    "side": "BUY",
+    "whale_usd": 3687.0479,
+    "whale_pct": 1.063,
+    "whale_value_at_open": 346842.7006,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787150162.6712558,
+    "fills": 1
   }
 ]
