@@ -4527,5 +4527,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787118588.1016855,
     "fills": 1
+  },
+  {
+    "timestamp": 1787118848,
+    "timestamp_added": 1787118849.3106267,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "itf-mubarak-boschma-2026-08-19",
+    "title": "ITF M25 Idanha-a-Nova 2 Men: Abdulhamid Mubarak vs Tiago Boschmans",
+    "outcome": "Tiago Boschmans",
+    "side": "BUY",
+    "whale_usd": 1156.0,
+    "whale_pct": 2.022,
+    "whale_value_at_open": 57183.0427,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787118904.4457333,
+    "fills": 2
   }
 ]
