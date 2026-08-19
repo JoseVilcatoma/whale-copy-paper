@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 12:07:06 (hora de Perú)
+Actualizado: 2026-08-19 12:09:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.29
-**Retorno acumulado:** -6.14%
+**Bankroll actual:** $475.00
+**Retorno acumulado:** -5.00%
 **Peor caída desde un máximo (drawdown):** 13.99%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 12:07:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $458.25 en 92 posiciones abiertas (disponible para nuevas apuestas: $11.04)
+**Capital comprometido ahora mismo:** $453.25 en 91 posiciones abiertas (disponible para nuevas apuestas: $21.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,9 +23,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
+| RN1 | 24 | 11 | 17 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
-| HomeRunHazard | 8 | 2 | 15 | +0.32 USD |
+| HomeRunHazard | 9 | 2 | 15 | +0.52 USD |
 | Lakersfan111 | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
@@ -35,7 +36,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
-| RN1 | 23 | 11 | 18 | -4.38 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 1 | 5 | -5.10 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
@@ -45,14 +45,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 250
-- **Aciertos:** 164 (65.6%)
+- **Apuestas resueltas:** 252
+- **Aciertos:** 166 (65.9%)
 - **Cuota promedio de entrada:** 65.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,250.00
-- **ROI sobre lo apostado:** -2.54%
-- **Comisiones pagadas (taker fee):** $21.58 (1.73% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.81% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,260.00
+- **ROI sobre lo apostado:** -2.06%
+- **Comisiones pagadas (taker fee):** $21.73 (1.72% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,10 +60,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 105 | 44.8% | 50.0% | -5.2 pp |
+| 40-59% | 106 | 45.3% | 50.0% | -4.7 pp |
 | 60-79% | 89 | 74.2% | 68.3% | +5.9 pp |
 | 80-94% | 40 | 87.5% | 87.0% | +0.5 pp |
-| 95-99% (casi seguro) | 16 | 100.0% | 97.6% | +2.4 pp |
+| 95-99% (casi seguro) | 17 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -131,6 +131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 42% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: GamerLegion vs MOUZ (BO3 | MOUZ (BUY) | 80% | 5.00 | 11.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cirstea vs. Pegula: Match O/U 21.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -149,7 +150,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Krakow Women: Marcelina Podlinsk | Dalila Jakupovic (BUY) | 91% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BIG vs Unicorns Of Love Sexy Editio | Unicorns Of Love Sexy Edition (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 6.2% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Mark Ceban vs Iliyan Radulov | Mark Ceban (BUY) | 96% | 5.00 | 4.3% | ⏳ pendiente | — |
+| HomeRunHazard | Roehampton: Mark Ceban vs Iliyan Radulov | Mark Ceban (BUY) | 96% | 5.00 | 4.3% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Counter-Strike: Black Phoenix vs Bushido | Black Phoenix (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Vitality.Bee vs Ici Japon Corp. Esp | Ici Japon Corp. Esport (BUY) | 51% | 5.00 | 5.6% | ⏳ pendiente | — |
@@ -160,4 +161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: UCAM Esports Club vs Team Heretics  | Team Heretics Academy (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 53% | 5.00 | 0.1% | ❌ perdida | -5.12 |
-| Satisfied | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |

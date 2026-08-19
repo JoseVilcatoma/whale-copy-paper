@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.294748619709,
+  "bankroll": 474.99837982538276,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1255,6 +1255,16 @@
       "timestamp": 1787159158.5866425,
       "bankroll": 469.29,
       "event": "won: RN1 \u2014 Sion: Sandro Kopp vs Benjamin Hassan"
+    },
+    {
+      "timestamp": 1787159277.4133272,
+      "bankroll": 474.8,
+      "event": "won: RN1 \u2014 Roehampton: Mark Ceban vs Iliyan Radulov"
+    },
+    {
+      "timestamp": 1787159284.7249749,
+      "bankroll": 475.0,
+      "event": "won: HomeRunHazard \u2014 Roehampton: Mark Ceban vs Iliyan Radulov"
     }
   ]
 }
