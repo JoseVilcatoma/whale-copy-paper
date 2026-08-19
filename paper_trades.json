@@ -8334,8 +8334,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 17147.400073,
-    "whale_pct": 12.739,
+    "whale_usd": 18326.710417000002,
+    "whale_pct": 13.615,
     "whale_value_at_open": 134604.8578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -8346,8 +8346,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787165371.1586537,
-    "fills": 12
+    "last_fill_at": 1787166110.9137933,
+    "fills": 13
   },
   {
     "timestamp": 1787158925,
@@ -9183,8 +9183,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 966.2800000000001,
-    "whale_pct": 0.514,
+    "whale_usd": 2019.75,
+    "whale_pct": 1.074,
     "whale_value_at_open": 188101.2726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -9197,8 +9197,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164775.1657434,
-    "fills": 1
+    "last_fill_at": 1787166118.1138737,
+    "fills": 2
   },
   {
     "timestamp": 1787164847,
@@ -9300,6 +9300,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787165911.671552,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787166121,
+    "timestamp_added": 1787166121.7496762,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-mad-mala-2026-08-19-total-2pt5",
+    "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 831.6299999999999,
+    "whale_pct": 0.353,
+    "whale_value_at_open": 235613.2481,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "predictionlegend"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787166121.749689,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:00:18 (hora de Perú)
+Actualizado: 2026-08-19 14:02:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.62
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 14:00:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $451.62 en 91 posiciones abiertas (disponible para nuevas apuestas: $31.00)
+**Capital comprometido ahora mismo:** $456.62 en 92 posiciones abiertas (disponible para nuevas apuestas: $26.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
-| RN1 | 32 | 13 | 29 | +5.19 USD |
+| RN1 | 32 | 13 | 30 | +5.19 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
@@ -126,6 +126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-jodar-cobolli-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-ari-bos-2026-08-19-total-8pt5 | HomeRunHazard, SDTrading |
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
+| lal-mad-mala-2026-08-19-total-2pt5 | RN1, predictionlegend |
 | atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
 | mlb-det-pit-2026-08-19-total-7pt5 | HomeRunHazard, RN1 |
 | wta-cirstea-pegula-2026-08-19 | HomeRunHazard, RN1 |
@@ -138,11 +139,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Sorana Cirstea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -167,4 +169,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Marta Kostyuk vs Mirra  | Mirra Andreeva (BUY) | 74% | 5.00 | 6.1% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Pittsburgh Pirates (-2.5) | Detroit Tigers (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Spread: San Diego Padres (-1.5) | New York Mets (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
