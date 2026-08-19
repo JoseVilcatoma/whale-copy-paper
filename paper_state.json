@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.7997670708121,
+  "bankroll": 531.9247082472826,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -560,6 +560,16 @@
       "timestamp": 1787103919.0383623,
       "bankroll": 534.8,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-4.5)"
+    },
+    {
+      "timestamp": 1787105155.7796257,
+      "bankroll": 537.07,
+      "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787105158.9342098,
+      "bankroll": 531.92,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies"
     }
   ]
 }
