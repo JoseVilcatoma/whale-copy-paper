@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.15147585536545,
+  "bankroll": 447.7113974239929,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1615,6 +1615,16 @@
       "timestamp": 1787169358.4772458,
       "bankroll": 448.15,
       "event": "won: RN1 \u2014 Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik"
+    },
+    {
+      "timestamp": 1787169987.9693425,
+      "bankroll": 443.03,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: UCAM Esports Club vs Team Heretics Academy - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787169988.2551208,
+      "bankroll": 447.71,
+      "event": "won: ChonkyChocolateCake \u2014 LoL: Vitality.Bee vs Ici Japon Corp. Esport - Game 1 Winner"
     }
   ]
 }

@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:04:27 (hora de Perú)
+Actualizado: 2026-08-19 15:06:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $448.15
-**Retorno acumulado:** -10.37%
-**Peor caída desde un máximo (drawdown):** 18.42%
+**Bankroll actual:** $447.71
+**Retorno acumulado:** -10.46%
+**Peor caída desde un máximo (drawdown):** 18.71%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 15:04:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $371.62 en 75 posiciones abiertas (disponible para nuevas apuestas: $76.53)
+**Capital comprometido ahora mismo:** $371.62 en 75 posiciones abiertas (disponible para nuevas apuestas: $76.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,14 +31,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 1 | 0 | 3 | +0.53 USD |
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
 | predictionlegend | 0 | 0 | 4 | +0.00 USD |
-| ChonkyChocolateCake | 0 | 0 | 2 | +0.00 USD |
 | ic4cream | 0 | 0 | 1 | +0.00 USD |
+| ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | SDTrading | 1 | 1 | 5 | -0.83 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
-| RN1 | 41 | 20 | 31 | -6.76 USD |
+| RN1 | 41 | 20 | 33 | -6.76 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 15 | 10 | 7 | -24.57 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 322
-- **Aciertos:** 209 (64.9%)
-- **Cuota promedio de entrada:** 65.2%
+- **Apuestas resueltas:** 324
+- **Aciertos:** 210 (64.8%)
+- **Cuota promedio de entrada:** 65.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,610.00
-- **ROI sobre lo apostado:** -3.28%
-- **Comisiones pagadas (taker fee):** $28.00 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.54% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,620.00
+- **ROI sobre lo apostado:** -3.29%
+- **Comisiones pagadas (taker fee):** $28.24 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.55% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,7 +61,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 134 | 45.5% | 50.0% | -4.5 pp |
+| 40-59% | 136 | 45.6% | 50.0% | -4.4 pp |
 | 60-79% | 120 | 71.7% | 68.1% | +3.6 pp |
 | 80-94% | 49 | 87.8% | 87.4% | +0.3 pp |
 | 95-99% (casi seguro) | 19 | 100.0% | 97.6% | +2.4 pp |
@@ -143,6 +143,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -171,5 +173,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 3.6% | ⏳ pendiente | — |
-| RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
-| predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 45.9% | ⏳ pendiente | — |
