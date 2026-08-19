@@ -4141,8 +4141,8 @@
     "title": "Cincinnati Open: Marie Bouzkova vs Iva Jovic",
     "outcome": "Marie Bouzkova",
     "side": "BUY",
-    "whale_usd": 7603.607433,
-    "whale_pct": 1.528,
+    "whale_usd": 9732.707076,
+    "whale_pct": 1.956,
     "whale_value_at_open": 497693.9835,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -4155,8 +4155,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787105475.1286225,
-    "fills": 3
+    "last_fill_at": 1787105830.4979205,
+    "fills": 4
   },
   {
     "timestamp": 1787105210,
