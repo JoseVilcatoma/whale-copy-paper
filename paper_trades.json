@@ -4448,8 +4448,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.38,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -4788,8 +4788,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.38,
     "overlaps_with": [
       "sentrio"
     ],
@@ -6507,8 +6507,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6609,8 +6609,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [
       "BOOMBOYS.Kiritych",
       "sentrio"
@@ -7006,8 +7006,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "BOOMBOYS.Kiritych",
       "sentrio"
@@ -8186,8 +8186,8 @@
     "odds_at_bet": 93,
     "fee_usd": 0.017,
     "odds_ballena": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9133,8 +9133,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 1233.999,
-    "whale_pct": 0.744,
+    "whale_usd": 5893.299,
+    "whale_pct": 3.553,
     "whale_value_at_open": 165873.9216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -9145,8 +9145,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164398.5500968,
-    "fills": 1
+    "last_fill_at": 1787166186.7005398,
+    "fills": 2
   },
   {
     "timestamp": 1787164714,
@@ -9259,8 +9259,8 @@
     "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
     "outcome": "Thiago Agustin Tirante",
     "side": "BUY",
-    "whale_usd": 2179.783837,
-    "whale_pct": 1.082,
+    "whale_usd": 3386.931667,
+    "whale_pct": 1.68,
     "whale_value_at_open": 201546.1839,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -9273,8 +9273,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787165653.9820085,
-    "fills": 3
+    "last_fill_at": 1787166230.54895,
+    "fills": 4
   },
   {
     "timestamp": 1787165911,
@@ -9326,6 +9326,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787166121.749689,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787166149,
+    "timestamp_added": 1787166149.5131829,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ucl-cel-lin2-2026-08-19-btts",
+    "title": "Celtic FC vs. LASK Linz: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 863.76,
+    "whale_pct": 0.36,
+    "whale_value_at_open": 239810.232,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787166149.5131967,
     "fills": 1
   }
 ]

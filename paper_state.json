@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.6165805787496,
+  "bankroll": 488.30632680288255,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1430,6 +1430,36 @@
       "timestamp": 1787165920.3265417,
       "bankroll": 482.62,
       "event": "won: RN1 \u2014 ITF M15 B\u00e5stad Men: Jonathan Mridha vs Oren Vasser"
+    },
+    {
+      "timestamp": 1787166220.174485,
+      "bankroll": 485.0,
+      "event": "won: sentrio \u2014 Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787166220.968339,
+      "bankroll": 487.38,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787166223.924755,
+      "bankroll": 490.48,
+      "event": "won: ferrariChampions2026 \u2014 Map Handicap: G2 (-1.5) vs Astralis (+1.5)"
+    },
+    {
+      "timestamp": 1787166224.024958,
+      "bankroll": 493.08,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787166224.9999332,
+      "bankroll": 487.95,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787166229.6759598,
+      "bankroll": 488.31,
+      "event": "won: RN1 \u2014 ITF M15 B\u00e5stad Men: Leo Borg vs Lucas Renard"
     }
   ]
 }
