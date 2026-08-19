@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 19:28:19 (hora de Perú)
+Actualizado: 2026-08-18 19:29:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $514.25
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers:  | Under (BUY) | 52% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Chicago Cubs (-2.5) | Chicago White Sox (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Toronto Blue Jays (-4.5) | Tampa Bay Rays (BUY) | 54% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Seattle Mariners (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
