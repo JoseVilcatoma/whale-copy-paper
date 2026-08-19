@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.6586226352346,
+  "bankroll": 505.83625870608813,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -865,6 +865,21 @@
       "timestamp": 1787124201.0401845,
       "bankroll": 504.66,
       "event": "won: ferrariChampions2026 \u2014 LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs"
+    },
+    {
+      "timestamp": 1787126400.877219,
+      "bankroll": 499.52,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cancun: Pablo Llamas Ruiz vs Francisco Comesana"
+    },
+    {
+      "timestamp": 1787126400.977387,
+      "bankroll": 503.67,
+      "event": "won: HomeRunHazard \u2014 Cancun: Pablo Llamas Ruiz vs Francisco Comesana"
+    },
+    {
+      "timestamp": 1787126401.4630277,
+      "bankroll": 505.84,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Pablo Llamas Ruiz vs Francisco Comesana"
     }
   ]
 }
