@@ -4675,5 +4675,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787123805.140562,
     "fills": 1
+  },
+  {
+    "timestamp": 1787126803,
+    "timestamp_added": 1787126803.3255398,
+    "username": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+    "wallet": "0xcf609d3256f0f37f0595e5dc64012fa3a8fea6f5",
+    "slug": "lol-gen-kt-2026-08-19-game1",
+    "title": "LoL: Gen.G vs KT Rolster - Game 1 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 8131.178,
+    "whale_pct": 33.072,
+    "whale_value_at_open": 24586.1883,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787126803.3255563,
+    "fills": 1
   }
 ]
