@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.6777305740248,
+  "bankroll": 476.45904564251794,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1400,6 +1400,11 @@
       "timestamp": 1787163522.0283327,
       "bankroll": 474.68,
       "event": "won: HomeRunHazard \u2014 Cincinnati Open: Rafael Jodar vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1787163892.9174867,
+      "bankroll": 476.46,
+      "event": "won: HomeRunHazard \u2014 Quebec City: Duncan Chan vs Taro Daniel"
     }
   ]
 }
