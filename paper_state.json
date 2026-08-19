@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.5317149214675,
+  "bankroll": 450.0774421941947,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1970,6 +1970,26 @@
       "timestamp": 1787179352.3188508,
       "bankroll": 455.53,
       "event": "won: RN1 \u2014 Will FC Barcelona win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787179667.6434927,
+      "bankroll": 450.48,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Alexander Zverev vs Tommy Paul"
+    },
+    {
+      "timestamp": 1787179669.6952834,
+      "bankroll": 445.45,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Alexander Zverev vs Tommy Paul"
+    },
+    {
+      "timestamp": 1787179671.430558,
+      "bankroll": 449.43,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Alexander Zverev vs Tommy Paul"
+    },
+    {
+      "timestamp": 1787179671.630899,
+      "bankroll": 450.08,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Tommy Paul"
     }
   ]
 }
