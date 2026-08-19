@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:29:15 (hora de Perú)
+Actualizado: 2026-08-19 10:31:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $490.09
-**Retorno acumulado:** -1.98%
+**Bankroll actual:** $493.07
+**Retorno acumulado:** -1.39%
 **Peor caída desde un máximo (drawdown):** 10.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 10:29:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $488.25 en 98 posiciones abiertas (disponible para nuevas apuestas: $1.84)
+**Capital comprometido ahora mismo:** $478.25 en 96 posiciones abiertas (disponible para nuevas apuestas: $14.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,18 +39,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 83 | 50 | 43 | -25.48 USD |
+| ferrariChampions2026 | 85 | 50 | 41 | -22.50 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 215
-- **Aciertos:** 142 (66.0%)
-- **Cuota promedio de entrada:** 65.0%
+- **Apuestas resueltas:** 217
+- **Aciertos:** 144 (66.4%)
+- **Cuota promedio de entrada:** 65.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,075.00
-- **ROI sobre lo apostado:** -1.01%
-- **Comisiones pagadas (taker fee):** $18.81 (1.75% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.74% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,085.00
+- **ROI sobre lo apostado:** -0.73%
+- **Comisiones pagadas (taker fee):** $18.92 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -59,8 +59,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 93 | 46.2% | 49.6% | -3.4 pp |
-| 60-79% | 76 | 73.7% | 68.5% | +5.2 pp |
-| 80-94% | 32 | 90.6% | 87.2% | +3.4 pp |
+| 60-79% | 77 | 74.0% | 68.5% | +5.5 pp |
+| 80-94% | 33 | 90.9% | 87.2% | +3.7 pp |
 | 95-99% (casi seguro) | 14 | 100.0% | 97.8% | +2.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Satisfied | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 60% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | predictionlegend | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.08669286077634,
+  "bankroll": 493.0737604740285,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1080,6 +1080,16 @@
       "timestamp": 1787153153.2711658,
       "bankroll": 490.09,
       "event": "lost: BOOMBOYS.Kiritych \u2014 LoL: HANJIN BRION vs DN SOOPers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787153467.9877744,
+      "bankroll": 490.8,
+      "event": "won: ferrariChampions2026 \u2014 LoL: HANJIN BRION vs DN SOOPers (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1787153468.7624192,
+      "bankroll": 493.07,
+      "event": "won: ferrariChampions2026 \u2014 LoL: HANJIN BRION vs DN SOOPers - Game 2 Winner"
     }
   ]
 }
