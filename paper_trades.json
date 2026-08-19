@@ -5956,8 +5956,8 @@
     "title": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend",
     "outcome": "Team WE",
     "side": "BUY",
-    "whale_usd": 11679.639299999999,
-    "whale_pct": 4.795,
+    "whale_usd": 12433.122399999998,
+    "whale_pct": 5.104,
     "whale_value_at_open": 243593.6738,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -5968,8 +5968,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150460.2190416,
-    "fills": 9
+    "last_fill_at": 1787150549.924138,
+    "fills": 10
   },
   {
     "timestamp": 1787146711,
@@ -6200,8 +6200,8 @@
     "title": "ITF M25 Idanha-a-Nova 2 Men: Mathieu Scaglia vs Maxwell McKennon",
     "outcome": "Maxwell McKennon",
     "side": "BUY",
-    "whale_usd": 1175.0400000000002,
-    "whale_pct": 1.017,
+    "whale_usd": 1908.15387,
+    "whale_pct": 1.651,
     "whale_value_at_open": 115565.739,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -6212,8 +6212,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148062.9211388,
-    "fills": 1
+    "last_fill_at": 1787150525.847091,
+    "fills": 2
   },
   {
     "timestamp": 1787148323,
@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 10196.345199000001,
-    "whale_pct": 3.026,
+    "whale_usd": 15078.400805000003,
+    "whale_pct": 4.475,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,8 +6838,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150217.189261,
-    "fills": 13
+    "last_fill_at": 1787150514.335562,
+    "fills": 18
   },
   {
     "timestamp": 1787150162,
@@ -6924,8 +6924,8 @@
     "title": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
     "outcome": "Team WE",
     "side": "BUY",
-    "whale_usd": 2284.353646,
-    "whale_pct": 0.572,
+    "whale_usd": 6169.477546,
+    "whale_pct": 1.544,
     "whale_value_at_open": 399581.4335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -6936,7 +6936,58 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150467.7368279,
-    "fills": 2
+    "last_fill_at": 1787150552.897324,
+    "fills": 5
+  },
+  {
+    "timestamp": 1787150509,
+    "timestamp_added": 1787150509.4338791,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-durasov-poullai-2026-08-19",
+    "title": "Roehampton: Viktor Durasovic vs Lucas Poullain",
+    "outcome": "Lucas Poullain",
+    "side": "BUY",
+    "whale_usd": 738.0,
+    "whale_pct": 0.463,
+    "whale_value_at_open": 159237.5754,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787150509.4338882,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787150592,
+    "timestamp_added": 1787150592.602495,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-reitano-arnabol-2026-08-19",
+    "title": "ITF M25 Lesa Men: Stefano Reitano vs Federico Arnaboldi",
+    "outcome": "Federico Arnaboldi",
+    "side": "BUY",
+    "whale_usd": 1082.1,
+    "whale_pct": 0.668,
+    "whale_value_at_open": 162006.772,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787150592.6025074,
+    "fills": 1
   }
 ]
