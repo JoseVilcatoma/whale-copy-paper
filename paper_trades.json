@@ -12081,8 +12081,8 @@
     "title": "Quebec City: Soon-Woo Kwon vs Shintaro Mochizuki",
     "outcome": "Soon-Woo Kwon",
     "side": "BUY",
-    "whale_usd": 1823.9997999999998,
-    "whale_pct": 0.882,
+    "whale_usd": 3422.4398,
+    "whale_pct": 1.654,
     "whale_value_at_open": 206857.0611,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -12093,8 +12093,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787180658.970955,
-    "fills": 1
+    "last_fill_at": 1787180887.675317,
+    "fills": 2
   },
   {
     "timestamp": 1787180671,

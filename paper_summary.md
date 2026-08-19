@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:07:56 (hora de Perú)
+Actualizado: 2026-08-19 18:09:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.07
@@ -162,7 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will CD Coquimbo Unido win on 2026-08-19 | No (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 57% | 5.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | Quebec City: Soon-Woo Kwon vs Shintaro M | Soon-Woo Kwon (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Quebec City: Soon-Woo Kwon vs Shintaro M | Soon-Woo Kwon (BUY) | 88% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 53% | 5.00 | 8.1% | ⏳ pendiente | — |
