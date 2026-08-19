@@ -8334,8 +8334,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 13222.953113,
-    "whale_pct": 9.824,
+    "whale_usd": 14390.216953000001,
+    "whale_pct": 10.691,
     "whale_value_at_open": 134604.8578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -8346,8 +8346,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787165145.9356678,
-    "fills": 9
+    "last_fill_at": 1787165278.2192507,
+    "fills": 11
   },
   {
     "timestamp": 1787158925,
@@ -9085,8 +9085,8 @@
     "title": "\u0160K Slovan Bratislava vs. NK Celje: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 11326.332386000002,
-    "whale_pct": 38.511,
+    "whale_usd": 11830.744150000002,
+    "whale_pct": 40.226,
     "whale_value_at_open": 29410.4961,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -9097,8 +9097,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164470.204506,
-    "fills": 8
+    "last_fill_at": 1787165291.507593,
+    "fills": 9
   },
   {
     "timestamp": 1787164247,
