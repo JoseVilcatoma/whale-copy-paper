@@ -9411,8 +9411,8 @@
     "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 14660.418000000001,
-    "whale_pct": 5.395,
+    "whale_usd": 15606.528000000002,
+    "whale_pct": 5.743,
     "whale_value_at_open": 271763.0691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -9426,8 +9426,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167948.4880846,
-    "fills": 13
+    "last_fill_at": 1787167985.7120492,
+    "fills": 14
   },
   {
     "timestamp": 1787166786,
@@ -9680,6 +9680,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787167820.331211,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787168066,
+    "timestamp_added": 1787168067.1633177,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-mad-mala-2026-08-19-total-0pt5",
+    "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1377.72,
+    "whale_pct": 0.448,
+    "whale_value_at_open": 307675.8723,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787168067.163331,
     "fills": 1
   }
 ]
