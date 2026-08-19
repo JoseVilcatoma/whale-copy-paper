@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.5738594191006,
+  "bankroll": 507.45685941910057,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -900,6 +900,11 @@
       "timestamp": 1787138008.5491445,
       "bankroll": 512.57,
       "event": "lost: HomeRunHazard \u2014 Nippon Ham Fighters vs. Fukuoka SoftBank Hawks"
+    },
+    {
+      "timestamp": 1787138943.6524103,
+      "bankroll": 507.46,
+      "event": "lost: ferrariChampions2026 \u2014 ITF M25 Idanha-a-Nova 2 Men: Tiago Silva vs Rocco Piatti"
     }
   ]
 }
