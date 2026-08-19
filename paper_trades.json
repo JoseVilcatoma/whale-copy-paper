@@ -7682,8 +7682,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 11237.392573000001,
-    "whale_pct": 7.634,
+    "whale_usd": 14809.929973000002,
+    "whale_pct": 10.061,
     "whale_value_at_open": 147204.3037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -7697,8 +7697,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787155812.2115405,
-    "fills": 8
+    "last_fill_at": 1787157464.2823741,
+    "fills": 9
   },
   {
     "timestamp": 1787153353,
