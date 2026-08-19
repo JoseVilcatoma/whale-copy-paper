@@ -4893,5 +4893,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787140332.3182793,
     "fills": 1
+  },
+  {
+    "timestamp": 1787140413,
+    "timestamp_added": 1787140413.7949634,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-schulen-blancan-2026-08-19",
+    "title": "Sion: Jeffrey von der Schulenburg vs Geoffrey Blancaneaux",
+    "outcome": "Geoffrey Blancaneaux",
+    "side": "BUY",
+    "whale_usd": 639.2,
+    "whale_pct": 0.922,
+    "whale_value_at_open": 69346.9209,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787140413.7949753,
+    "fills": 1
   }
 ]
