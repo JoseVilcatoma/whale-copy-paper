@@ -9133,8 +9133,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 6501.299,
-    "whale_pct": 3.919,
+    "whale_usd": 12936.051,
+    "whale_pct": 7.799,
     "whale_value_at_open": 165873.9216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -9145,8 +9145,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787171702.5451612,
-    "fills": 3
+    "last_fill_at": 1787172391.1769428,
+    "fills": 5
   },
   {
     "timestamp": 1787164714,
@@ -9157,8 +9157,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago White Sox",
     "side": "BUY",
-    "whale_usd": 1331.4641,
-    "whale_pct": 0.715,
+    "whale_usd": 3254.9521,
+    "whale_pct": 1.748,
     "whale_value_at_open": 186180.2302,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -9171,8 +9171,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170584.9059448,
-    "fills": 2
+    "last_fill_at": 1787172487.5554519,
+    "fills": 3
   },
   {
     "timestamp": 1787164774,
@@ -9488,8 +9488,8 @@
     "title": "Will M\u00e1laga CF win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2267.21,
-    "whale_pct": 0.872,
+    "whale_usd": 3792.359,
+    "whale_pct": 1.458,
     "whale_value_at_open": 260065.048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -9500,8 +9500,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787172185.9528053,
-    "fills": 2
+    "last_fill_at": 1787172437.3095367,
+    "fills": 3
   },
   {
     "timestamp": 1787167302,
