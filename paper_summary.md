@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:52:43 (hora de Perú)
+Actualizado: 2026-08-19 16:54:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.04
@@ -152,13 +152,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 94% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 94% | 5.00 | 2.7% | ⏳ pendiente | — |
 | theowalcott | Will CA Mineiro win on 2026-08-19? | No (BUY) | 62% | 5.00 | 33.5% | ⏳ pendiente | — |
 | theowalcott | CA Mineiro vs. Red Bull Bragantino: O/U  | Over (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 86% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 80% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 98% | 5.00 | 4.2% | ⏳ pendiente | — |

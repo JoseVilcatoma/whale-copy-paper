@@ -10592,8 +10592,8 @@
     "title": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 1314.6042000000002,
-    "whale_pct": 0.387,
+    "whale_usd": 4291.270866000001,
+    "whale_pct": 1.262,
     "whale_value_at_open": 339999.9262,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -10607,8 +10607,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787175195.201996,
-    "fills": 1
+    "last_fill_at": 1787176463.2458243,
+    "fills": 4
   },
   {
     "timestamp": 1787175598,
@@ -10667,8 +10667,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 3588.4804000000004,
-    "whale_pct": 1.058,
+    "whale_usd": 4133.1844,
+    "whale_pct": 1.219,
     "whale_value_at_open": 339113.3087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -10681,8 +10681,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787175955.3529925,
-    "fills": 3
+    "last_fill_at": 1787176446.3077967,
+    "fills": 4
   },
   {
     "timestamp": 1787175978,
@@ -10743,8 +10743,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 7270.023999999999,
-    "whale_pct": 2.082,
+    "whale_usd": 9343.521442,
+    "whale_pct": 2.675,
     "whale_value_at_open": 349258.5717,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -10757,7 +10757,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176268.850118,
-    "fills": 4
+    "last_fill_at": 1787176431.0412874,
+    "fills": 5
   }
 ]
