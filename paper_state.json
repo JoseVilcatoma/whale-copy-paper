@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.4588873228393,
+  "bankroll": 477.4284034518716,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1370,6 +1370,11 @@
       "timestamp": 1787162399.367456,
       "bankroll": 474.46,
       "event": "won: RN1 \u2014 ITF W35 Krakow Women: Marcelina Podlinska vs Dalila Jakupovic"
+    },
+    {
+      "timestamp": 1787163148.2070582,
+      "bankroll": 477.43,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic - Map 2 Winner"
     }
   ]
 }
