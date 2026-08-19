@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.40302961151775,
+  "bankroll": 499.5530876385971,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1125,6 +1125,21 @@
       "timestamp": 1787154217.1455119,
       "bankroll": 500.4,
       "event": "won: RN1 \u2014 Sion: Mika Brunold vs Calvin Hemery"
+    },
+    {
+      "timestamp": 1787154273.344685,
+      "bankroll": 504.38,
+      "event": "won: ferrariChampions2026 \u2014 Will Dalian Yingbo FC win on 2026-07-12?"
+    },
+    {
+      "timestamp": 1787154274.31021,
+      "bankroll": 504.69,
+      "event": "won: RN1 \u2014 Will Dalian Yingbo FC win on 2026-07-12?"
+    },
+    {
+      "timestamp": 1787154336.0643718,
+      "bankroll": 499.55,
+      "event": "lost: RN1 \u2014 ITF M15 Lambermont Men: Nicolas Robert vs Benoit Torcq"
     }
   ]
 }

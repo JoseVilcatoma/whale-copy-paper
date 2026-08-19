@@ -5495,8 +5495,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5817,8 +5817,8 @@
     "odds_at_bet": 94,
     "fee_usd": 0.015,
     "odds_ballena": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.3,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -6059,8 +6059,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6800,8 +6800,8 @@
     "title": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 15843.944877999998,
-    "whale_pct": 4.703,
+    "whale_usd": 16705.907142,
+    "whale_pct": 4.959,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -6814,8 +6814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151801.4529562,
-    "fills": 11
+    "last_fill_at": 1787154263.9586756,
+    "fills": 12
   },
   {
     "timestamp": 1787149916,
@@ -7124,8 +7124,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 5998.033542,
-    "whale_pct": 1.526,
+    "whale_usd": 22258.603342000002,
+    "whale_pct": 5.663,
     "whale_value_at_open": 393072.2108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -7136,8 +7136,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787153084.5366778,
-    "fills": 3
+    "last_fill_at": 1787154293.1582487,
+    "fills": 6
   },
   {
     "timestamp": 1787151205,
