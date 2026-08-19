@@ -9259,8 +9259,8 @@
     "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
     "outcome": "Thiago Agustin Tirante",
     "side": "BUY",
-    "whale_usd": 795.3488369999999,
-    "whale_pct": 0.395,
+    "whale_usd": 1586.033837,
+    "whale_pct": 0.787,
     "whale_value_at_open": 201546.1839,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -9273,7 +9273,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787165154.3441243,
-    "fills": 1
+    "last_fill_at": 1787165629.1836975,
+    "fills": 2
   }
 ]
