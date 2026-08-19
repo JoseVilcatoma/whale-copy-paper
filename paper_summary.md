@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:36:27 (hora de Perú)
+Actualizado: 2026-08-19 13:39:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.11
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 13:36:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $436.62 en 88 posiciones abiertas (disponible para nuevas apuestas: $41.49)
+**Capital comprometido ahora mismo:** $446.62 en 90 posiciones abiertas (disponible para nuevas apuestas: $31.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
-| RN1 | 30 | 13 | 26 | +1.53 USD |
+| RN1 | 30 | 13 | 28 | +1.53 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
@@ -118,6 +118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-gniewko-pere-2026-08-19 | HVAB, RN1 |
 | itf-paszun-zelnick-2026-08-19 | RN1, ferrariChampions2026 |
 | atp-almeida-tarvet-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
+| mlb-cws-chc-2026-08-19 | RN1, SDTrading |
 | atp-gombos-cuenin-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-det-pit-2026-08-19-total-8pt5 | HomeRunHazard, RN1, SDTrading |
 | mlb-det-pit-2026-08-19 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026 |
@@ -135,13 +136,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 | predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 38.5% | ⏳ pendiente | — |
 |  | Kingston: Igor Ribeiro Marcondes vs Laut | Lautaro Midon (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Marta Kostyuk (BUY) | 63% | 5.00 | 10.0% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Marta Kostyuk (BUY) | 63% | 5.00 | 10.5% | ⏳ pendiente | — |
 | predictionlegend | Will ŠK Slovan Bratislava win on 2026-08 | No (BUY) | 50% | 5.00 | 142.0% | ⏳ pendiente | — |
 | predictionlegend | Spread: Club Atlético de Madrid (-1.5) | Málaga CF (BUY) | 55% | 5.00 | 130.7% | ⏳ pendiente | — |
 | RN1 | FC Barcelona vs. AL Ahly SC (EGY): 1st H | Under (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -163,5 +166,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF W15 Wanfercée-Baulet Women: Delia Ga | Margaux Maquet (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 11.8% | ✅ ganada | +5.73 |
-| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 42% | 5.00 | 12.7% | ✅ ganada | +6.76 |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: GamerLegion vs MOUZ (BO3 | MOUZ (BUY) | 80% | 5.00 | 11.3% | ⏳ pendiente | — |

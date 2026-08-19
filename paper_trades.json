@@ -8334,8 +8334,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 3513.901922,
-    "whale_pct": 2.611,
+    "whale_usd": 5500.857786,
+    "whale_pct": 4.087,
     "whale_value_at_open": 134604.8578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -8346,8 +8346,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164461.443588,
-    "fills": 4
+    "last_fill_at": 1787164768.400303,
+    "fills": 5
   },
   {
     "timestamp": 1787158925,
@@ -8985,8 +8985,8 @@
     "title": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
     "outcome": "Marta Kostyuk",
     "side": "BUY",
-    "whale_usd": 22622.989500000003,
-    "whale_pct": 10.025,
+    "whale_usd": 23795.968500000003,
+    "whale_pct": 10.545,
     "whale_value_at_open": 225657.5634,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -8999,8 +8999,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164518.0297937,
-    "fills": 5
+    "last_fill_at": 1787164667.9332016,
+    "fills": 6
   },
   {
     "timestamp": 1787163585,
@@ -9146,6 +9146,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787164398.5500968,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787164714,
+    "timestamp_added": 1787164715.1165133,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cws-chc-2026-08-19",
+    "title": "Chicago White Sox vs. Chicago Cubs",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 637.3340999999999,
+    "whale_pct": 0.342,
+    "whale_value_at_open": 186180.2302,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787164715.1165273,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787164774,
+    "timestamp_added": 1787164775.1657307,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cws-chc-2026-08-19",
+    "title": "Chicago White Sox vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 966.2800000000001,
+    "whale_pct": 0.514,
+    "whale_value_at_open": 188101.2726,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787164775.1657434,
     "fills": 1
   }
 ]
