@@ -10167,8 +10167,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 28819.959999,
-    "whale_pct": 7.489,
+    "whale_usd": 29391.478188999998,
+    "whale_pct": 7.637,
     "whale_value_at_open": 384831.4475,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -10181,8 +10181,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170884.1373,
-    "fills": 2
+    "last_fill_at": 1787179591.5137,
+    "fills": 3
   },
   {
     "timestamp": 1787170893,
@@ -10793,8 +10793,8 @@
     "title": "Cancun: Otto Virtanen vs Moez Echargui",
     "outcome": "Moez Echargui",
     "side": "BUY",
-    "whale_usd": 22003.721191,
-    "whale_pct": 5.688,
+    "whale_usd": 23581.436765,
+    "whale_pct": 6.096,
     "whale_value_at_open": 386862.8992,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -10805,8 +10805,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787178792.1209047,
-    "fills": 6
+    "last_fill_at": 1787179607.197872,
+    "fills": 7
   },
   {
     "timestamp": 1787176927,
@@ -10918,8 +10918,8 @@
     "title": "Valorant: Cloud9 vs BESTIA - Map 2 Winner",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 11059.730649000001,
-    "whale_pct": 3.013,
+    "whale_usd": 11673.604118000001,
+    "whale_pct": 3.181,
     "whale_value_at_open": 367030.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -10930,8 +10930,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179096.5315316,
-    "fills": 10
+    "last_fill_at": 1787179515.9336567,
+    "fills": 11
   },
   {
     "timestamp": 1787177327,
@@ -11436,8 +11436,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 95335.077714,
-    "whale_pct": 189.14,
+    "whale_usd": 121351.26134099999,
+    "whale_pct": 240.754,
     "whale_value_at_open": 50404.5951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -11448,8 +11448,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179429.9721763,
-    "fills": 13
+    "last_fill_at": 1787179526.710337,
+    "fills": 16
   },
   {
     "timestamp": 1787179083,
@@ -11460,8 +11460,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 3473.9984000000004,
-    "whale_pct": 1.078,
+    "whale_usd": 4631.9984,
+    "whale_pct": 1.437,
     "whale_value_at_open": 322278.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -11474,8 +11474,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179430.5312963,
-    "fills": 3
+    "last_fill_at": 1787179524.6607158,
+    "fills": 4
   },
   {
     "timestamp": 1787179121,
@@ -11536,8 +11536,8 @@
     "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 3941.4031999999997,
-    "whale_pct": 1.211,
+    "whale_usd": 7622.2244,
+    "whale_pct": 2.342,
     "whale_value_at_open": 325436.5132,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -11548,8 +11548,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179467.803819,
-    "fills": 2
+    "last_fill_at": 1787179513.201055,
+    "fills": 3
   },
   {
     "timestamp": 1787179135,
@@ -11759,8 +11759,8 @@
     "title": "Valorant: Cloud9 vs BESTIA - Map 2 Winner",
     "outcome": "BESTIA",
     "side": "BUY",
-    "whale_usd": 1733.2775000000001,
-    "whale_pct": 0.471,
+    "whale_usd": 2622.9775,
+    "whale_pct": 0.712,
     "whale_value_at_open": 368348.4344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -11771,8 +11771,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179361.3916616,
-    "fills": 1
+    "last_fill_at": 1787179533.769671,
+    "fills": 2
   },
   {
     "timestamp": 1787179363,
@@ -11807,8 +11807,8 @@
     "title": "New York Red Bulls vs. Nashville SC: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 26708.871468,
-    "whale_pct": 21.374,
+    "whale_usd": 37027.256368,
+    "whale_pct": 29.631,
     "whale_value_at_open": 124959.8245,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -11819,7 +11819,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179467.1641955,
-    "fills": 6
+    "last_fill_at": 1787179562.8002403,
+    "fills": 8
+  },
+  {
+    "timestamp": 1787179531,
+    "timestamp_added": 1787179531.666856,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-coq-cp-2026-08-19-cp",
+    "title": "Will CA Platense win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 603.52,
+    "whale_pct": 0.157,
+    "whale_value_at_open": 383644.305,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787179531.6668665,
+    "fills": 1
   }
 ]
