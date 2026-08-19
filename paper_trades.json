@@ -4157,5 +4157,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787105173.3813655,
     "fills": 1
+  },
+  {
+    "timestamp": 1787105210,
+    "timestamp_added": 1787105211.0886037,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-onclin-canas-2026-08-18",
+    "title": "Cancun: Gauthier Onclin vs Alejandro Moro Canas",
+    "outcome": "Gauthier Onclin",
+    "side": "BUY",
+    "whale_usd": 839.3087999999999,
+    "whale_pct": 0.169,
+    "whale_value_at_open": 497693.9835,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787105211.088615,
+    "fills": 1
   }
 ]
