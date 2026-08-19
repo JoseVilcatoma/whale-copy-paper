@@ -7050,8 +7050,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 7102.539998000001,
-    "whale_pct": 1.703,
+    "whale_usd": 9330.707198000002,
+    "whale_pct": 2.238,
     "whale_value_at_open": 417004.3297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -7062,8 +7062,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150741.8040407,
-    "fills": 1
+    "last_fill_at": 1787180396.6866145,
+    "fills": 3
   },
   {
     "timestamp": 1787150741,
@@ -12017,6 +12017,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787180335.5398355,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787180391,
+    "timestamp_added": 1787180392.1931434,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-phi-2026-08-19",
+    "title": "Miami Marlins vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 511.50780000000003,
+    "whale_pct": 0.136,
+    "whale_value_at_open": 377084.4604,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787180392.1931539,
     "fills": 1
   }
 ]
