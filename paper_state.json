@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.50568512764556,
+  "bankroll": 478.95919306415345,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1215,6 +1215,31 @@
       "timestamp": 1787158659.0241873,
       "bankroll": 496.51,
       "event": "won: RN1 \u2014 Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet"
+    },
+    {
+      "timestamp": 1787158777.792056,
+      "bankroll": 491.4,
+      "event": "lost: jtwyslljy \u2014 LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787158777.8921814,
+      "bankroll": 486.3,
+      "event": "lost: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787158779.1459103,
+      "bankroll": 481.25,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787158842.9213035,
+      "bankroll": 476.11,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: G2 vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787158844.1196172,
+      "bankroll": 478.96,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: G2 vs Astralis - Map 1 Winner"
     }
   ]
 }
