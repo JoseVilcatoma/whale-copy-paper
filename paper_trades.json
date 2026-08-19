@@ -8169,5 +8169,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787157099.3944666,
     "fills": 1
+  },
+  {
+    "timestamp": 1787157296,
+    "timestamp_added": 1787157297.2957058,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-borg-renar-2026-08-19",
+    "title": "ITF M15 B\u00e5stad Men: Leo Borg vs Lucas Renard",
+    "outcome": "Leo Borg",
+    "side": "BUY",
+    "whale_usd": 534.271111,
+    "whale_pct": 0.325,
+    "whale_value_at_open": 164637.0104,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787157297.295716,
+    "fills": 1
   }
 ]
