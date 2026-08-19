@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 09:53:57 (hora de Perú)
+Actualizado: 2026-08-19 09:55:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.67
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 09:53:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $61.67)
+**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $56.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
-| RN1 | 11 | 3 | 21 | +7.04 USD |
+| RN1 | 11 | 3 | 22 | +7.04 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
@@ -110,12 +110,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-gniewko-pere-2026-08-19 | HVAB, RN1 |
 | itf-paszun-zelnick-2026-08-19 | RN1, ferrariChampions2026 |
 | atp-almeida-tarvet-2026-08-19 | HomeRunHazard, ferrariChampions2026 |
+| atp-gombos-cuenin-2026-08-19 | RN1, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-19 | Satisfied, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | EDward Gaming (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -130,14 +132,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 1 W | Astralis (BUY) | 63% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 43% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | magic (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | magic (BUY) | 56% | 5.00 | 12.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | magic (BUY) | 56% | 5.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | FUT Esports (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming (BO3) - LP | EDward Gaming (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 52% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Radu Mihai Papoe vs Javier Bar | Radu Mihai Papoe (BUY) | 97% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 5.00 | 5.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 45% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 65% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 69% | 5.00 | 9.6% | ⏳ pendiente | — |
@@ -145,4 +147,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 78% | 5.00 | 2.2% | ✅ ganada | +1.36 |
-| RN1 | Will FC Barcelona win on 2026-08-19? | Yes (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |

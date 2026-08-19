@@ -6653,8 +6653,8 @@
     "title": "Prague 2: Norbert Gombos vs Sean Cuenin",
     "outcome": "Sean Cuenin",
     "side": "BUY",
-    "whale_usd": 661.044487,
-    "whale_pct": 0.191,
+    "whale_usd": 7377.444487,
+    "whale_pct": 2.128,
     "whale_value_at_open": 346607.3623,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -6665,8 +6665,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149446.3641498,
-    "fills": 1
+    "last_fill_at": 1787151314.7107675,
+    "fills": 2
   },
   {
     "timestamp": 1787149580,
@@ -6776,8 +6776,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 4419.396912,
-    "whale_pct": 1.312,
+    "whale_usd": 6175.46834,
+    "whale_pct": 1.833,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -6788,8 +6788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150124.8483293,
-    "fills": 4
+    "last_fill_at": 1787151358.073955,
+    "fills": 5
   },
   {
     "timestamp": 1787149911,
@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 40773.929285,
-    "whale_pct": 12.102,
+    "whale_usd": 45266.959385,
+    "whale_pct": 13.436,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,8 +6838,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151219.3340092,
-    "fills": 33
+    "last_fill_at": 1787151357.8829515,
+    "fills": 35
   },
   {
     "timestamp": 1787150162,
@@ -7187,6 +7187,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787151226.418947,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787151314,
+    "timestamp_added": 1787151314.714667,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gombos-cuenin-2026-08-19",
+    "title": "Prague 2: Norbert Gombos vs Sean Cuenin",
+    "outcome": "Sean Cuenin",
+    "side": "BUY",
+    "whale_usd": 3016.6699999999996,
+    "whale_pct": 2.185,
+    "whale_value_at_open": 138063.36,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151314.714677,
     "fills": 1
   }
 ]
