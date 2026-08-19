@@ -1,5 +1,5 @@
 {
-  "bankroll": 416.04126565759736,
+  "bankroll": 419.032412769363,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1890,6 +1890,16 @@
       "timestamp": 1787175001.3632784,
       "bankroll": 416.04,
       "event": "lost: ferrariChampions2026 \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787177461.3502045,
+      "bankroll": 416.19,
+      "event": "won: RN1 \u2014 Will AL Ahly SC (EGY) win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787177466.118054,
+      "bankroll": 419.03,
+      "event": "won: RN1 \u2014 FC Barcelona vs. AL Ahly SC (EGY): 1st Half O/U 2.5"
     }
   ]
 }
