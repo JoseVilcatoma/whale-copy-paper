@@ -6728,8 +6728,8 @@
     "title": "Prague 2: Norbert Gombos vs Sean Cuenin",
     "outcome": "Norbert Gombos",
     "side": "BUY",
-    "whale_usd": 4820.058163,
-    "whale_pct": 1.401,
+    "whale_usd": 10725.858163,
+    "whale_pct": 3.117,
     "whale_value_at_open": 344079.3083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -6740,8 +6740,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150473.6405544,
-    "fills": 2
+    "last_fill_at": 1787151091.1267376,
+    "fills": 3
   },
   {
     "timestamp": 1787149909,
@@ -6752,8 +6752,8 @@
     "title": "LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend",
     "outcome": "EDward Gaming",
     "side": "BUY",
-    "whale_usd": 5241.3273,
-    "whale_pct": 1.556,
+    "whale_usd": 7508.0021,
+    "whale_pct": 2.228,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -6764,8 +6764,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150957.841534,
-    "fills": 5
+    "last_fill_at": 1787151013.4122036,
+    "fills": 9
   },
   {
     "timestamp": 1787149911,
@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 39099.352375999995,
-    "whale_pct": 11.605,
+    "whale_usd": 39928.688933,
+    "whale_pct": 11.851,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,8 +6838,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150927.9872847,
-    "fills": 31
+    "last_fill_at": 1787151013.515149,
+    "fills": 32
   },
   {
     "timestamp": 1787150162,
@@ -7113,6 +7113,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787150761.5184472,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787151041,
+    "timestamp_added": 1787151041.7181787,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-jodar-cobolli-2026-08-19",
+    "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+    "outcome": "Rafael Jodar",
+    "side": "BUY",
+    "whale_usd": 1701.0606,
+    "whale_pct": 0.433,
+    "whale_value_at_open": 393072.2108,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151041.7181878,
     "fills": 1
   }
 ]
