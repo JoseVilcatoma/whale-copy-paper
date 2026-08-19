@@ -1670,8 +1670,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 1782.7474,
-    "whale_pct": 0.734,
+    "whale_usd": 2681.5474,
+    "whale_pct": 1.104,
     "whale_value_at_open": 242797.6023,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -1682,8 +1682,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787082363.0456908,
-    "fills": 1
+    "last_fill_at": 1787099215.7701757,
+    "fills": 2
   },
   {
     "timestamp": 1787082880,
@@ -3023,8 +3023,8 @@
     "title": "Athletics vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 23949.161999999997,
-    "whale_pct": 6.547,
+    "whale_usd": 28616.679938999998,
+    "whale_pct": 7.823,
     "whale_value_at_open": 365812.1772,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -3035,8 +3035,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787096284.965879,
-    "fills": 2
+    "last_fill_at": 1787099261.6818526,
+    "fills": 4
   },
   {
     "timestamp": 1787096375,
@@ -3520,6 +3520,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787099110.22396,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787099280,
+    "timestamp_added": 1787099281.5164423,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-wsh-tex-2026-08-18-total-7pt5",
+    "title": "Washington Nationals vs. Texas Rangers: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2028.4989789999997,
+    "whale_pct": 0.512,
+    "whale_value_at_open": 395859.744,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787099281.5164495,
     "fills": 1
   }
 ]
