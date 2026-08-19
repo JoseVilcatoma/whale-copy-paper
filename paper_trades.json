@@ -3095,8 +3095,8 @@
     "title": "Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime",
     "outcome": "Felix Auger-Aliassime",
     "side": "BUY",
-    "whale_usd": 9466.317785000001,
-    "whale_pct": 2.539,
+    "whale_usd": 9970.317785000001,
+    "whale_pct": 2.674,
     "whale_value_at_open": 372871.3902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -3107,8 +3107,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787097597.2302115,
-    "fills": 2
+    "last_fill_at": 1787098104.7970023,
+    "fills": 3
   },
   {
     "timestamp": 1787096511,
