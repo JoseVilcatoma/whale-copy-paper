@@ -10817,8 +10817,8 @@
     "title": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 46464.288562,
-    "whale_pct": 197.72,
+    "whale_usd": 52640.216362,
+    "whale_pct": 224.001,
     "whale_value_at_open": 23499.9927,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -10829,8 +10829,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787177812.3965547,
-    "fills": 6
+    "last_fill_at": 1787177960.7464683,
+    "fills": 7
   },
   {
     "timestamp": 1787176927,
@@ -10841,8 +10841,8 @@
     "title": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 13730.0022,
-    "whale_pct": 16.09,
+    "whale_usd": 20980.0044,
+    "whale_pct": 24.586,
     "whale_value_at_open": 85334.3087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -10855,8 +10855,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787177532.8034997,
-    "fills": 2
+    "last_fill_at": 1787177960.814799,
+    "fills": 3
   },
   {
     "timestamp": 1787177069,
@@ -10918,8 +10918,8 @@
     "title": "Valorant: Cloud9 vs BESTIA - Map 2 Winner",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 5286.298916000001,
-    "whale_pct": 1.44,
+    "whale_usd": 7907.518916000001,
+    "whale_pct": 2.154,
     "whale_value_at_open": 367030.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -10930,8 +10930,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787177423.817955,
-    "fills": 5
+    "last_fill_at": 1787177886.3392253,
+    "fills": 7
   },
   {
     "timestamp": 1787177327,
