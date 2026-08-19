@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:04:21 (hora de Perú)
+Actualizado: 2026-08-19 14:06:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.31
@@ -142,17 +142,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Celtic FC vs. LASK Linz: Both Teams to S | Yes (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 2.4% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Sorana Cirstea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 | predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 45.9% | ⏳ pendiente | — |
 |  | Kingston: Igor Ribeiro Marcondes vs Laut | Lautaro Midon (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Marta Kostyuk (BUY) | 63% | 5.00 | 10.5% | ⏳ pendiente | — |
 | predictionlegend | Will ŠK Slovan Bratislava win on 2026-08 | No (BUY) | 50% | 5.00 | 142.0% | ⏳ pendiente | — |
 | predictionlegend | Spread: Club Atlético de Madrid (-1.5) | Málaga CF (BUY) | 55% | 5.00 | 130.7% | ⏳ pendiente | — |
@@ -161,7 +161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Mirra Andreeva (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-2.5) | Chicago White Sox (BUY) | 72% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 3.37 | 2.9% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Alessandro Battiston | Alessandro Battiston (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Jakub Mensik (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |

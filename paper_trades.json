@@ -8532,8 +8532,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 7076.0616,
-    "whale_pct": 4.683,
+    "whale_usd": 8165.7516,
+    "whale_pct": 5.405,
     "whale_value_at_open": 151089.4757,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -8548,8 +8548,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164406.1635344,
-    "fills": 6
+    "last_fill_at": 1787166334.1664176,
+    "fills": 7
   },
   {
     "timestamp": 1787160066,
@@ -8780,8 +8780,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 2762.1440000000002,
-    "whale_pct": 1.58,
+    "whale_usd": 4349.784000000001,
+    "whale_pct": 2.489,
     "whale_value_at_open": 174789.6746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -8796,8 +8796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787163789.2093296,
-    "fills": 3
+    "last_fill_at": 1787166383.445518,
+    "fills": 4
   },
   {
     "timestamp": 1787161333,
@@ -9011,8 +9011,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 688.5,
-    "whale_pct": 0.445,
+    "whale_usd": 1228.1999999999998,
+    "whale_pct": 0.795,
     "whale_value_at_open": 154573.0153,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -9023,8 +9023,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787163586.2688644,
-    "fills": 1
+    "last_fill_at": 1787166352.1332414,
+    "fills": 2
   },
   {
     "timestamp": 1787163681,
@@ -9183,8 +9183,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 2019.75,
-    "whale_pct": 1.074,
+    "whale_usd": 2872.68,
+    "whale_pct": 1.527,
     "whale_value_at_open": 188101.2726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -9197,8 +9197,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166118.1138737,
-    "fills": 2
+    "last_fill_at": 1787166332.135856,
+    "fills": 3
   },
   {
     "timestamp": 1787164847,
@@ -9235,8 +9235,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 844.94,
-    "whale_pct": 0.435,
+    "whale_usd": 7402.6,
+    "whale_pct": 3.807,
     "whale_value_at_open": 194436.0456,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -9247,8 +9247,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787165090.7225962,
-    "fills": 1
+    "last_fill_at": 1787166331.278245,
+    "fills": 3
   },
   {
     "timestamp": 1787165153,
@@ -9259,8 +9259,8 @@
     "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
     "outcome": "Thiago Agustin Tirante",
     "side": "BUY",
-    "whale_usd": 3386.931667,
-    "whale_pct": 1.68,
+    "whale_usd": 4801.941976,
+    "whale_pct": 2.383,
     "whale_value_at_open": 201546.1839,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -9273,8 +9273,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166230.54895,
-    "fills": 4
+    "last_fill_at": 1787166308.8283813,
+    "fills": 6
   },
   {
     "timestamp": 1787165911,
