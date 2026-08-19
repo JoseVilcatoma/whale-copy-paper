@@ -8282,8 +8282,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 1207.2,
-    "whale_pct": 0.783,
+    "whale_usd": 2354.04,
+    "whale_pct": 1.528,
     "whale_value_at_open": 154095.5016,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -8298,8 +8298,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787158370.2930667,
-    "fills": 1
+    "last_fill_at": 1787161088.6307015,
+    "fills": 2
   },
   {
     "timestamp": 1787158596,
@@ -8358,8 +8358,8 @@
     "title": "Quebec City: Duncan Chan vs Taro Daniel",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 1167.819428,
-    "whale_pct": 0.56,
+    "whale_usd": 1751.223928,
+    "whale_pct": 0.84,
     "whale_value_at_open": 208524.6336,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -8370,8 +8370,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787158925.9669237,
-    "fills": 1
+    "last_fill_at": 1787161090.5663984,
+    "fills": 2
   },
   {
     "timestamp": 1787159090,
@@ -8457,8 +8457,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 22582.551382,
-    "whale_pct": 10.194,
+    "whale_usd": 26100.777382,
+    "whale_pct": 11.782,
     "whale_value_at_open": 221529.3987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -8472,8 +8472,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787160889.5913477,
-    "fills": 10
+    "last_fill_at": 1787161068.1288688,
+    "fills": 11
   },
   {
     "timestamp": 1787159475,
@@ -8695,6 +8695,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787160736.3564978,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787161061,
+    "timestamp_added": 1787161061.7001843,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sd-nym-2026-08-19",
+    "title": "San Diego Padres vs. New York Mets",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 1040.0,
+    "whale_pct": 0.6,
+    "whale_value_at_open": 173281.996,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787161061.7001946,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787161088,
+    "timestamp_added": 1787161089.010768,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-tirante-mensik-2026-08-19",
+    "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
+    "outcome": "Jakub Mensik",
+    "side": "BUY",
+    "whale_usd": 776.470588,
+    "whale_pct": 0.307,
+    "whale_value_at_open": 252988.8004,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787161089.0107818,
     "fills": 1
   }
 ]
