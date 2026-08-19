@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:25:25 (hora de Perú)
+Actualizado: 2026-08-19 11:27:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.39
@@ -134,7 +134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Krakow Women: Marcelina Podlinsk | Dalila Jakupovic (BUY) | 91% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BIG vs Unicorns Of Love Sexy Editio | Unicorns Of Love Sexy Edition (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 6.2% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Mark Ceban vs Iliyan Radulov | Mark Ceban (BUY) | 96% | 5.00 | 2.1% | ⏳ pendiente | — |
+| HomeRunHazard | Roehampton: Mark Ceban vs Iliyan Radulov | Mark Ceban (BUY) | 96% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Black Phoenix vs Bushido | Black Phoenix (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Vitality.Bee vs Ici Japon Corp. Esp | Ici Japon Corp. Esport (BUY) | 51% | 5.00 | 5.6% | ⏳ pendiente | — |

@@ -7979,8 +7979,8 @@
     "title": "Roehampton: Mark Ceban vs Iliyan Radulov",
     "outcome": "Mark Ceban",
     "side": "BUY",
-    "whale_usd": 3154.9972,
-    "whale_pct": 2.12,
+    "whale_usd": 6470.9976,
+    "whale_pct": 4.348,
     "whale_value_at_open": 148827.5812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -7993,8 +7993,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787156237.702155,
-    "fills": 1
+    "last_fill_at": 1787156824.0719888,
+    "fills": 2
   },
   {
     "timestamp": 1787156246,
