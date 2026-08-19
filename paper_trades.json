@@ -8780,8 +8780,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 1562.27,
-    "whale_pct": 0.894,
+    "whale_usd": 2762.1440000000002,
+    "whale_pct": 1.58,
     "whale_value_at_open": 174789.6746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -8796,8 +8796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787162486.8675885,
-    "fills": 2
+    "last_fill_at": 1787163789.2093296,
+    "fills": 3
   },
   {
     "timestamp": 1787161333,
@@ -9050,6 +9050,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787163682.430807,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787163727,
+    "timestamp_added": 1787163727.349136,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-marcond-midon-2026-08-19",
+    "title": "Kingston: Igor Ribeiro Marcondes vs Lautaro Midon",
+    "outcome": "Lautaro Midon",
+    "side": "BUY",
+    "whale_usd": 857.399997,
+    "whale_pct": 0.573,
+    "whale_value_at_open": 149722.1314,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787163727.349149,
     "fills": 1
   }
 ]
