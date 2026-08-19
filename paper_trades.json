@@ -11460,8 +11460,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 8105.9916,
-    "whale_pct": 2.515,
+    "whale_usd": 11579.989000000001,
+    "whale_pct": 3.593,
     "whale_value_at_open": 322278.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -11474,8 +11474,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787181950.376258,
-    "fills": 7
+    "last_fill_at": 1787182197.8763213,
+    "fills": 10
   },
   {
     "timestamp": 1787179121,
@@ -11831,8 +11831,8 @@
     "title": "Will CA Platense win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 603.52,
-    "whale_pct": 0.157,
+    "whale_usd": 1477.8507999999997,
+    "whale_pct": 0.385,
     "whale_value_at_open": 383644.305,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -11843,8 +11843,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179531.6668665,
-    "fills": 1
+    "last_fill_at": 1787182244.913037,
+    "fills": 2
   },
   {
     "timestamp": 1787179685,
