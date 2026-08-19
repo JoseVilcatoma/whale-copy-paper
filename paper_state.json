@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.7113974239929,
+  "bankroll": 450.20215499975046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1625,6 +1625,11 @@
       "timestamp": 1787169988.2551208,
       "bankroll": 447.71,
       "event": "won: ChonkyChocolateCake \u2014 LoL: Vitality.Bee vs Ici Japon Corp. Esport - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787170303.4585254,
+      "bankroll": 450.2,
+      "event": "won: ferrariChampions2026 \u2014 LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs"
     }
   ]
 }
