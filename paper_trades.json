@@ -5519,8 +5519,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5593,8 +5593,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "RN1"
     ],
@@ -5915,8 +5915,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6531,8 +6531,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [
       "RN1"
     ],
@@ -6557,8 +6557,8 @@
     "odds_at_bet": 93,
     "fee_usd": 0.017,
     "odds_ballena": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -6583,8 +6583,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -6955,8 +6955,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -6999,8 +6999,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 14468.973840999999,
-    "whale_pct": 3.337,
+    "whale_usd": 15689.353841,
+    "whale_pct": 3.619,
     "whale_value_at_open": 433574.8881,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -7014,8 +7014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152726.9726121,
-    "fills": 10
+    "last_fill_at": 1787152789.6592534,
+    "fills": 11
   },
   {
     "timestamp": 1787150676,
@@ -7351,8 +7351,8 @@
     "title": "Counter-Strike: G2 vs Astralis - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 4731.317791,
-    "whale_pct": 0.888,
+    "whale_usd": 9404.705517,
+    "whale_pct": 1.765,
     "whale_value_at_open": 532860.0637,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -7363,8 +7363,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152582.189936,
-    "fills": 2
+    "last_fill_at": 1787152804.9114528,
+    "fills": 7
   },
   {
     "timestamp": 1787152475,
@@ -7546,6 +7546,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787152627.8998718,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787152738,
+    "timestamp_added": 1787152739.0045674,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-wsh-tex-2026-08-19",
+    "title": "Washington Nationals vs. Texas Rangers",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 1250.3025,
+    "whale_pct": 0.672,
+    "whale_value_at_open": 186007.0288,
+    "paper_stake_usd": 3.25,
+    "odds_at_bet": 46,
+    "fee_usd": 0.088,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152739.004578,
     "fills": 1
   }
 ]

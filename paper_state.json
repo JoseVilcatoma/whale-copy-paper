@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.24820221939086,
+  "bankroll": 495.2266928607763,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1040,6 +1040,41 @@
       "timestamp": 1787151721.3562016,
       "bankroll": 498.25,
       "event": "won: RN1 \u2014 ITF W50 Prague Women: Anna Siskova vs Yelyzaveta Kotliar"
+    },
+    {
+      "timestamp": 1787152781.1181967,
+      "bankroll": 493.19,
+      "event": "lost: RN1 \u2014 Roehampton: Michael Geerts vs Radu Albot"
+    },
+    {
+      "timestamp": 1787152781.3186042,
+      "bankroll": 488.12,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton: Michael Geerts vs Radu Albot"
+    },
+    {
+      "timestamp": 1787152782.6685967,
+      "bankroll": 490.96,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Viktor Durasovic vs Lucas Poullain"
+    },
+    {
+      "timestamp": 1787152785.6707501,
+      "bankroll": 492.65,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Michael Geerts vs Radu Albot"
+    },
+    {
+      "timestamp": 1787152785.7709389,
+      "bankroll": 493.01,
+      "event": "won: HomeRunHazard \u2014 Roehampton: Viktor Durasovic vs Lucas Poullain"
+    },
+    {
+      "timestamp": 1787152785.8711362,
+      "bankroll": 495.18,
+      "event": "won: RN1 \u2014 Roehampton: Michael Geerts vs Radu Albot"
+    },
+    {
+      "timestamp": 1787152787.373436,
+      "bankroll": 495.23,
+      "event": "won: RN1 \u2014 Roehampton: Viktor Durasovic vs Lucas Poullain"
     }
   ]
 }

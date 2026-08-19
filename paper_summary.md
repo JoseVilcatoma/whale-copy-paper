@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:18:56 (hora de Perú)
+Actualizado: 2026-08-19 10:20:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $498.25
-**Retorno acumulado:** -0.35%
-**Peor caída desde un máximo (drawdown):** 9.82%
+**Bankroll actual:** $495.23
+**Retorno acumulado:** -0.95%
+**Peor caída desde un máximo (drawdown):** 10.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 10:18:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $495.00 en 99 posiciones abiertas (disponible para nuevas apuestas: $3.25)
+**Capital comprometido ahora mismo:** $463.25 en 93 posiciones abiertas (disponible para nuevas apuestas: $31.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,33 +23,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
-| RN1 | 12 | 5 | 21 | +3.62 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
+| RN1 | 14 | 6 | 18 | +0.79 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
 | BOOMBOYS.Kiritych | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 2 | +0.00 USD |
-| SDTrading | 0 | 0 | 6 | +0.00 USD |
+| SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 2 | +0.00 USD |
-| HomeRunHazard | 5 | 2 | 10 | -0.84 USD |
+| HomeRunHazard | 6 | 2 | 9 | -0.48 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 81 | 49 | 45 | -24.93 USD |
+| ferrariChampions2026 | 83 | 50 | 42 | -25.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 207
-- **Aciertos:** 137 (66.2%)
-- **Cuota promedio de entrada:** 64.7%
+- **Apuestas resueltas:** 214
+- **Aciertos:** 142 (66.4%)
+- **Cuota promedio de entrada:** 65.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,035.00
-- **ROI sobre lo apostado:** -0.26%
-- **Comisiones pagadas (taker fee):** $18.28 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.50% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,070.00
+- **ROI sobre lo apostado:** -0.54%
+- **Comisiones pagadas (taker fee):** $18.67 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,9 +58,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 92 | 46.7% | 49.7% | -2.9 pp |
-| 60-79% | 71 | 74.6% | 68.4% | +6.3 pp |
-| 80-94% | 31 | 90.3% | 87.0% | +3.3 pp |
-| 95-99% (casi seguro) | 13 | 100.0% | 97.7% | +2.3 pp |
+| 60-79% | 76 | 73.7% | 68.5% | +5.2 pp |
+| 80-94% | 32 | 90.6% | 87.2% | +3.4 pp |
+| 95-99% (casi seguro) | 14 | 100.0% | 97.8% | +2.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -122,6 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 46% | 3.25 | 0.7% | ⏳ pendiente | — |
 | Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 217.5% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 5.00 | 19.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Amelia Paszun (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -129,7 +130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 5.00 | 38.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 2 W | G2 (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 2 W | G2 (BUY) | 70% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 93% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 9.2% | ⏳ pendiente | — |
@@ -143,12 +144,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Satisfied | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 48% | 5.00 | 300.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 44.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | Astralis (BUY) | 46% | 5.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | Astralis (BUY) | 46% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Lesa Men: Stefano Reitano vs Fed | Federico Arnaboldi (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | Team WE (BUY) | 89% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 1 W | Astralis (BUY) | 63% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 43% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | magic (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | magic (BUY) | 56% | 5.00 | 23.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | FUT Esports (BUY) | 59% | 5.00 | 4.7% | ⏳ pendiente | — |
