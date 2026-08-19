@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:07:25 (hora de Perú)
+Actualizado: 2026-08-19 13:09:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.46
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Mirra Andreeva (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Cubs (-2.5) | Chicago White Sox (BUY) | 72% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 3.37 | 2.3% | ⏳ pendiente | — |
+| RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 3.37 | 2.9% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Alessandro Battiston | Alessandro Battiston (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Jakub Mensik (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -159,7 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: GamerLegion vs MOUZ (BO3 | MOUZ (BUY) | 80% | 5.00 | 11.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cirstea vs. Pegula: Match O/U 21.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Duncan Chan vs Taro Daniel | Taro Daniel (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Jessica Pegula (BUY) | 72% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Jessica Pegula (BUY) | 72% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Counter-Strike: FURIA vs Aurora Gaming ( | FURIA (BUY) | 63% | 5.00 | 13.1% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
