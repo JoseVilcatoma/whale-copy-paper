@@ -4587,8 +4587,8 @@
     "title": "LoL: Hanwha Life Esports Challengers vs BNK FearX Youth - Game 2 Winner",
     "outcome": "BNK FearX Youth",
     "side": "BUY",
-    "whale_usd": 3637.17,
-    "whale_pct": 27.399,
+    "whale_usd": 4917.355500000001,
+    "whale_pct": 37.042,
     "whale_value_at_open": 13274.9861,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -4599,7 +4599,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787119762.6777394,
-    "fills": 1
+    "last_fill_at": 1787119880.9619539,
+    "fills": 2
   }
 ]
