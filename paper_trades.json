@@ -8780,8 +8780,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 5577.024,
-    "whale_pct": 3.191,
+    "whale_usd": 6558.854,
+    "whale_pct": 3.752,
     "whale_value_at_open": 174789.6746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -8796,8 +8796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166814.0223687,
-    "fills": 5
+    "last_fill_at": 1787168115.4298556,
+    "fills": 6
   },
   {
     "timestamp": 1787161333,
@@ -8808,8 +8808,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 8054.0506,
-    "whale_pct": 4.532,
+    "whale_usd": 11318.970599999999,
+    "whale_pct": 6.369,
     "whale_value_at_open": 177732.2235,
     "paper_stake_usd": 3.37,
     "odds_at_bet": 52,
@@ -8824,8 +8824,8 @@
     ],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167865.7016304,
-    "fills": 8
+    "last_fill_at": 1787168230.46308,
+    "fills": 11
   },
   {
     "timestamp": 1787161661,
@@ -9641,8 +9641,8 @@
     "title": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 11233.7213,
-    "whale_pct": 3.866,
+    "whale_usd": 14318.921299999998,
+    "whale_pct": 4.928,
     "whale_value_at_open": 290545.5585,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -9653,8 +9653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167972.1490145,
-    "fills": 4
+    "last_fill_at": 1787168209.2016683,
+    "fills": 5
   },
   {
     "timestamp": 1787167819,
@@ -9665,8 +9665,8 @@
     "title": "Will \u0160K Slovan Bratislava win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1170.4,
-    "whale_pct": 0.393,
+    "whale_usd": 3499.7861,
+    "whale_pct": 1.175,
     "whale_value_at_open": 297734.7252,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -9679,8 +9679,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167820.331211,
-    "fills": 1
+    "last_fill_at": 1787168187.2298408,
+    "fills": 3
   },
   {
     "timestamp": 1787168066,
@@ -9704,6 +9704,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787168067.163331,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787168158,
+    "timestamp_added": 1787168158.588074,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sd-nym-2026-08-19",
+    "title": "San Diego Padres vs. New York Mets",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 1324.332,
+    "whale_pct": 0.521,
+    "whale_value_at_open": 254090.335,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787168158.5880868,
     "fills": 1
   }
 ]
