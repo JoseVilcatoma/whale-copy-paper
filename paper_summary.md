@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:17:12 (hora de Perú)
+Actualizado: 2026-08-19 15:19:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $450.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 15:17:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $401.62 en 81 posiciones abiertas (disponible para nuevas apuestas: $48.58)
+**Capital comprometido ahora mismo:** $416.62 en 84 posiciones abiertas (disponible para nuevas apuestas: $33.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,11 +38,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
-| RN1 | 41 | 20 | 36 | -6.76 USD |
+| RN1 | 41 | 20 | 37 | -6.76 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 15 | 10 | 7 | -24.57 USD |
-| ferrariChampions2026 | 107 | 65 | 12 | -44.21 USD |
+| ferrariChampions2026 | 107 | 65 | 14 | -44.21 USD |
 
 ## Análisis general
 
@@ -86,7 +86,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ucl-fen-lyo-2026-08-18-total-2pt5 | ferrariChampions2026, swisstony |
 | ucl-fen-lyo-2026-08-18-spread-home-2pt5 | ferrariChampions2026, swisstony |
 | ucl-din-vf-2026-08-18-spread-home-2pt5 | ferrariChampions2026, swisstony |
-| lal-mad-mala-2026-08-19-mad | RN1, ic4cream, swisstony |
+| lal-mad-mala-2026-08-19-mad | RN1, ferrariChampions2026, ic4cream, swisstony |
 | wta-bejlek-alexand-2026-08-18 | alaskabaked, ferrariChampions2026 |
 | mlb-mia-phi-2026-08-18-total-8pt5 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, ferrariChampions2026 |
 | atp-faria-walton-2026-08-18 | alaskabaked, ferrariChampions2026, sentrio, swisstony |
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-det-pit-2026-08-19 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-19 | Satisfied, ferrariChampions2026 |
 | atp-jodar-cobolli-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
-| mlb-ari-bos-2026-08-19-total-8pt5 | HomeRunHazard, SDTrading |
+| mlb-ari-bos-2026-08-19-total-8pt5 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lal-mad-mala-2026-08-19-total-2pt5 | RN1, predictionlegend |
 | atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
@@ -147,6 +147,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | ITF W15 Campos do Jordão 2 Women: Camila | Camila Romero (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -172,8 +175,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Málaga CF win on 2026-08-19? | No (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Club Atlético de Madrid (-1.5) | Club Atlético de Madrid (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 66% | 5.00 | 5.7% | ⏳ pendiente | — |
+| RN1 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 66% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 57% | 5.00 | 6.5% | ⏳ pendiente | — |
-| RN1 | NEC vs. FK Bodø/Glimt: O/U 3.5 | Under (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Celtic FC vs. LASK Linz: Both Teams to S | Yes (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
