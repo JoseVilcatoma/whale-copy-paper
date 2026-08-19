@@ -8985,8 +8985,8 @@
     "title": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
     "outcome": "Marta Kostyuk",
     "side": "BUY",
-    "whale_usd": 6964.6027,
-    "whale_pct": 3.086,
+    "whale_usd": 12111.542700000002,
+    "whale_pct": 5.367,
     "whale_value_at_open": 225657.5634,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -8999,8 +8999,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787163224.130473,
-    "fills": 2
+    "last_fill_at": 1787164084.0470152,
+    "fills": 3
   },
   {
     "timestamp": 1787163585,
@@ -9085,8 +9085,8 @@
     "title": "\u0160K Slovan Bratislava vs. NK Celje: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 6115.9318,
-    "whale_pct": 20.795,
+    "whale_usd": 8147.423759,
+    "whale_pct": 27.702,
     "whale_value_at_open": 29410.4961,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -9097,7 +9097,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787163895.1225016,
-    "fills": 2
+    "last_fill_at": 1787164036.1466515,
+    "fills": 4
   }
 ]
