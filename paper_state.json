@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.2513120727507,
+  "bankroll": 525.4472524424624,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -445,6 +445,46 @@
       "timestamp": 1787098481.5249956,
       "bankroll": 514.25,
       "event": "won: swisstony \u2014 Will Gimnasia y Esgrima La Plata win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787102373.1402125,
+      "bankroll": 516.42,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Dali Blanch vs Felipe Meligeni Alves"
+    },
+    {
+      "timestamp": 1787102373.2403383,
+      "bankroll": 511.32,
+      "event": "lost: ferrariChampions2026 \u2014 Cancun: Dali Blanch vs Felipe Meligeni Alves"
+    },
+    {
+      "timestamp": 1787102374.53935,
+      "bankroll": 517.29,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787102375.4372783,
+      "bankroll": 522.8,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1787102376.1810594,
+      "bankroll": 517.67,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1787102378.9646297,
+      "bankroll": 522.54,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1787102379.0648296,
+      "bankroll": 524.32,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Juan Manuel Cerundolo vs Felix Auger-Aliassime"
+    },
+    {
+      "timestamp": 1787102380.019274,
+      "bankroll": 525.45,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Joel Schwaerzler vs Kenta Miyoshi"
     }
   ]
 }
