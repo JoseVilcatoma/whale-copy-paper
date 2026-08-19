@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:40:25 (hora de Perú)
+Actualizado: 2026-08-19 16:42:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.04
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 16:40:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $258.25 en 52 posiciones abiertas (disponible para nuevas apuestas: $157.79)
+**Capital comprometido ahora mismo:** $268.25 en 54 posiciones abiertas (disponible para nuevas apuestas: $147.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | RN1 | 60 | 32 | 16 | -26.33 USD |
 | HomeRunHazard | 16 | 11 | 5 | -27.81 USD |
-| ferrariChampions2026 | 111 | 69 | 15 | -54.51 USD |
+| ferrariChampions2026 | 111 | 69 | 17 | -54.51 USD |
 
 ## Análisis general
 
@@ -140,6 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-tirante-mensik-2026-08-19 | HomeRunHazard, RN1 |
 | lal-mad-mala-2026-08-19-spread-home-1pt5 | RN1, predictionlegend |
 | ucl-sba-cel1-2026-08-19-sba | RN1, predictionlegend |
+| atp-zverev-paul-2026-08-19 | RN1, ferrariChampions2026 |
 | wta-noskova-anisimo-2026-08-19 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, RN1, ferrariChampions2026 |
 | lal-mad-mala-2026-08-19-total-1pt5 | RN1, ferrariChampions2026 |
 | atp-fils-minaur-2026-08-19 | , RN1, ferrariChampions2026 |
@@ -149,7 +150,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -177,5 +180,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 46% | 5.00 | 0.4% | ✅ ganada | +5.73 |
 | RN1 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Celtic FC vs. LASK Linz end in a dr | No (BUY) | 96% | 5.00 | 0.1% | ✅ ganada | +0.20 |
-| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | Spread: Club Atlético de Madrid (-2.5) | Málaga CF (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
