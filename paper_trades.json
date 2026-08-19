@@ -4503,5 +4503,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787118076.742625,
     "fills": 1
+  },
+  {
+    "timestamp": 1787118587,
+    "timestamp_added": 1787118588.1016786,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "clf-bar-ahl-2026-08-19-ahl",
+    "title": "Will AL Ahly SC (EGY) win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1400.3,
+    "whale_pct": 2.919,
+    "whale_value_at_open": 47964.4765,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787118588.1016855,
+    "fills": 1
   }
 ]
