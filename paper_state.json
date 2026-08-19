@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.0286606498266,
+  "bankroll": 481.7431685863345,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1475,6 +1475,21 @@
       "timestamp": 1787166846.1239665,
       "bankroll": 489.03,
       "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787167166.3146086,
+      "bankroll": 483.96,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Marta Kostyuk vs Mirra Andreeva"
+    },
+    {
+      "timestamp": 1787167167.1965632,
+      "bankroll": 478.9,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Marta Kostyuk vs Mirra Andreeva"
+    },
+    {
+      "timestamp": 1787167168.2612557,
+      "bankroll": 481.74,
+      "event": "won: RN1 \u2014 Cincinnati Open: Marta Kostyuk vs Mirra Andreeva"
     }
   ]
 }
