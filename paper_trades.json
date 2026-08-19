@@ -4479,5 +4479,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787114575.4129643,
     "fills": 1
+  },
+  {
+    "timestamp": 1787118076,
+    "timestamp_added": 1787118076.7426152,
+    "username": "sentrio",
+    "wallet": "0xdb83e85ffd22faa4009273034770f96ffc5b1e50",
+    "slug": "mlb-sea-mil-2026-08-19-total-7pt5",
+    "title": "Seattle Mariners vs. Milwaukee Brewers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 793.3068000000001,
+    "whale_pct": 1.483,
+    "whale_value_at_open": 53482.3046,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787118076.742625,
+    "fills": 1
   }
 ]
