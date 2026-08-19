@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:45:26 (hora de Perú)
+Actualizado: 2026-08-19 08:47:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $501.90
-**Retorno acumulado:** +0.38%
-**Peor caída desde un máximo (drawdown):** 8.35%
+**Bankroll actual:** $501.26
+**Retorno acumulado:** +0.25%
+**Peor caída desde un máximo (drawdown):** 8.51%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:45:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $231.90)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $236.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,8 +23,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
-| RN1 | 7 | 2 | 15 | +4.72 USD |
 | HomeRunHazard | 4 | 1 | 1 | +2.93 USD |
+| RN1 | 8 | 3 | 14 | +1.47 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
@@ -36,18 +36,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 78 | 48 | 22 | -25.12 USD |
+| ferrariChampions2026 | 79 | 48 | 22 | -22.51 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 193
-- **Aciertos:** 128 (66.3%)
+- **Apuestas resueltas:** 196
+- **Aciertos:** 130 (66.3%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $965.00
-- **ROI sobre lo apostado:** +0.20%
-- **Comisiones pagadas (taker fee):** $17.08 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.97% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $980.00
+- **ROI sobre lo apostado:** +0.13%
+- **Comisiones pagadas (taker fee):** $17.36 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -55,8 +55,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 89 | 47.2% | 49.8% | -2.6 pp |
-| 60-79% | 62 | 75.8% | 68.5% | +7.3 pp |
+| 40-59% | 90 | 46.7% | 49.8% | -3.1 pp |
+| 60-79% | 64 | 76.6% | 68.5% | +8.1 pp |
 | 80-94% | 29 | 89.7% | 87.1% | +2.5 pp |
 | 95-99% (casi seguro) | 13 | 100.0% | 97.7% | +2.3 pp |
 
@@ -106,11 +106,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | KBO: KT Wiz vs. LG Twins | LG Twins (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | ITF M15 Lambermont Men: Nicolas Robert v | Nicolas Robert (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | EDward Gaming (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 83% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming (BO3) - LP | Team WE (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | Team WE (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | Team WE (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Pedro Rodenas vs  | Pedro Rodenas (BUY) | 66% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Beat | Beatrice Ricci (BUY) | 81% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -126,13 +128,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W50 Prague Women: Anna Siskova vs Ye | Anna Siskova (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 56% | 5.00 | 39.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 65% | 5.00 | 0.2% | ✅ ganada | +2.61 |
 | RN1 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 78% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Dalian Yingbo FC win on 2026-07-12? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Roehampton: Lui Maxted vs Patrick Brady | Patrick Brady (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
+| RN1 | Roehampton: Lui Maxted vs Patrick Brady | Patrick Brady (BUY) | 50% | 5.00 | 4.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | ITF W35 Bistrita Women: Mariia Drobyshev | Mariia Drobysheva (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Arizona Diamondbacks (BUY) | 43% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | ITF W15 Logrono Women: Jordina Font vs S | Sayaka Ishii (BUY) | 96% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | Roehampton: Elmer Moeller vs Anton Matus | Anton Matusevich (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |

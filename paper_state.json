@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.9041555175984,
+  "bankroll": 501.25890765435054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -965,6 +965,21 @@
       "timestamp": 1787146912.0875888,
       "bankroll": 501.9,
       "event": "lost: sentrio \u2014 ITF M25 Idanha-a-Nova 2 Men: Abdulhamid Mubarak vs Tiago Boschmans"
+    },
+    {
+      "timestamp": 1787147222.6330101,
+      "bankroll": 503.78,
+      "event": "won: RN1 \u2014 Roehampton: Lui Maxted vs Patrick Brady"
+    },
+    {
+      "timestamp": 1787147227.0770679,
+      "bankroll": 498.65,
+      "event": "lost: RN1 \u2014 Roehampton: Lui Maxted vs Patrick Brady"
+    },
+    {
+      "timestamp": 1787147227.377598,
+      "bankroll": 501.26,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Lui Maxted vs Patrick Brady"
     }
   ]
 }
