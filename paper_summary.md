@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:34:23 (hora de Perú)
+Actualizado: 2026-08-19 13:36:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $476.51
-**Retorno acumulado:** -4.70%
+**Bankroll actual:** $478.11
+**Retorno acumulado:** -4.38%
 **Peor caída desde un máximo (drawdown):** 15.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 13:34:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $441.62 en 89 posiciones abiertas (disponible para nuevas apuestas: $34.89)
+**Capital comprometido ahora mismo:** $436.62 en 88 posiciones abiertas (disponible para nuevas apuestas: $41.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,6 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
+| RN1 | 30 | 13 | 26 | +1.53 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
@@ -32,7 +33,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 0 | 0 | 2 | +0.00 USD |
 | ic4cream | 0 | 0 | 1 | +0.00 USD |
 |  | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 29 | 13 | 27 | -0.07 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 1 | 4 | -0.22 USD |
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | HomeRunHazard | 12 | 4 | 16 | -1.43 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 281
-- **Aciertos:** 185 (65.8%)
-- **Cuota promedio de entrada:** 65.7%
+- **Apuestas resueltas:** 282
+- **Aciertos:** 186 (66.0%)
+- **Cuota promedio de entrada:** 65.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,405.00
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $24.09 (1.71% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,410.00
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $24.15 (1.71% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,7 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 115 | 48.7% | 50.0% | -1.3 pp |
-| 60-79% | 102 | 69.6% | 68.1% | +1.5 pp |
+| 60-79% | 103 | 69.9% | 68.2% | +1.7 pp |
 | 80-94% | 46 | 87.0% | 87.3% | -0.4 pp |
 | 95-99% (casi seguro) | 18 | 100.0% | 97.6% | +2.4 pp |
 
@@ -137,11 +137,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
-| predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 33.5% | ⏳ pendiente | — |
+| predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 38.5% | ⏳ pendiente | — |
 |  | Kingston: Igor Ribeiro Marcondes vs Laut | Lautaro Midon (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins: O/U  | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Marta Kostyuk (BUY) | 63% | 5.00 | 5.6% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Marta Kostyuk (BUY) | 63% | 5.00 | 10.0% | ⏳ pendiente | — |
 | predictionlegend | Will ŠK Slovan Bratislava win on 2026-08 | No (BUY) | 50% | 5.00 | 142.0% | ⏳ pendiente | — |
 | predictionlegend | Spread: Club Atlético de Madrid (-1.5) | Málaga CF (BUY) | 55% | 5.00 | 130.7% | ⏳ pendiente | — |
 | RN1 | FC Barcelona vs. AL Ahly SC (EGY): 1st H | Under (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |

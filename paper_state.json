@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.506550693023,
+  "bankroll": 478.11121735968965,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1410,6 +1410,11 @@
       "timestamp": 1787164455.4027085,
       "bankroll": 476.51,
       "event": "won: RN1 \u2014 ITF W15 Wanferc\u00e9e-Baulet Women: Delia Gaillard vs Margaux Maquet"
+    },
+    {
+      "timestamp": 1787164576.848609,
+      "bankroll": 478.11,
+      "event": "won: RN1 \u2014 ITF M25 Santander Men: Bernardo Munk Mesa vs Sergi Perez Contri"
     }
   ]
 }
