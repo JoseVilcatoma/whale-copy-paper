@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:11:24 (hora de Perú)
+Actualizado: 2026-08-19 16:13:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.85
-**Retorno acumulado:** -11.63%
+**Bankroll actual:** $440.47
+**Retorno acumulado:** -11.91%
 **Peor caída desde un máximo (drawdown):** 20.55%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 16:11:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $393.25 en 79 posiciones abiertas (disponible para nuevas apuestas: $48.60)
+**Capital comprometido ahora mismo:** $378.25 en 76 posiciones abiertas (disponible para nuevas apuestas: $62.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,21 +39,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 48 | 24 | 33 | -7.86 USD |
+| RN1 | 50 | 25 | 30 | -9.23 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 16 | 11 | 5 | -27.81 USD |
 | ferrariChampions2026 | 107 | 66 | 18 | -49.33 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 343
-- **Aciertos:** 221 (64.4%)
+- **Apuestas resueltas:** 346
+- **Aciertos:** 223 (64.5%)
 - **Cuota promedio de entrada:** 64.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,713.37
-- **ROI sobre lo apostado:** -3.45%
-- **Comisiones pagadas (taker fee):** $30.11 (1.76% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.70% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,728.37
+- **ROI sobre lo apostado:** -3.50%
+- **Comisiones pagadas (taker fee):** $30.32 (1.75% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,10 +61,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 149 | 45.0% | 50.1% | -5.1 pp |
-| 60-79% | 123 | 72.4% | 68.0% | +4.3 pp |
+| 40-59% | 150 | 45.3% | 50.1% | -4.8 pp |
+| 60-79% | 124 | 71.8% | 68.0% | +3.8 pp |
 | 80-94% | 51 | 88.2% | 87.6% | +0.6 pp |
-| 95-99% (casi seguro) | 20 | 100.0% | 97.5% | +2.5 pp |
+| 95-99% (casi seguro) | 21 | 100.0% | 97.4% | +2.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -172,8 +172,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Spread: Club Atlético de Madrid (-2.5) | Málaga CF (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ✅ ganada | +3.52 |
+| RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |

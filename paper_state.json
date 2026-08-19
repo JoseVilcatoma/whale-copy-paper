@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.8500104255377,
+  "bankroll": 440.4690334140434,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1720,6 +1720,21 @@
       "timestamp": 1787173872.4646041,
       "bankroll": 441.85,
       "event": "won: RN1 \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: O/U 4.5"
+    },
+    {
+      "timestamp": 1787173936.8181841,
+      "bankroll": 442.05,
+      "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs: O/U 7.5"
+    },
+    {
+      "timestamp": 1787173998.3454628,
+      "bankroll": 436.95,
+      "event": "lost: RN1 \u2014 Celtic FC vs. LASK Linz: Both Teams to Score"
+    },
+    {
+      "timestamp": 1787174000.5287054,
+      "bankroll": 440.47,
+      "event": "won: RN1 \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: O/U 3.5"
     }
   ]
 }
