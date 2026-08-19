@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:46:32 (hora de Perú)
+Actualizado: 2026-08-19 16:48:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.04
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 16:46:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $273.25 en 55 posiciones abiertas (disponible para nuevas apuestas: $142.79)
+**Capital comprometido ahora mismo:** $278.25 en 56 posiciones abiertas (disponible para nuevas apuestas: $137.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 2 | 3 | +0.53 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| theowalcott | 1 | 1 | 1 | -1.43 USD |
+| theowalcott | 1 | 1 | 2 | -1.43 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 2 | 3 | -2.87 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 |  | 1 | 1 | 3 | -4.62 USD |
@@ -144,12 +144,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-noskova-anisimo-2026-08-19 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, RN1, ferrariChampions2026 |
 | lal-mad-mala-2026-08-19-total-1pt5 | RN1, ferrariChampions2026 |
 | atp-fils-minaur-2026-08-19 | , RN1, ferrariChampions2026 |
+| sud-cam-bra-2026-08-19-cam | RN1, theowalcott |
 | mlb-ari-bos-2026-08-19-total-9pt5 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | Will CA Mineiro win on 2026-08-19? | No (BUY) | 62% | 5.00 | 1.7% | ⏳ pendiente | — |
 | theowalcott | CA Mineiro vs. Red Bull Bragantino: O/U  | Over (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -179,4 +181,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 46% | 5.00 | 0.4% | ✅ ganada | +5.73 |
-| RN1 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |

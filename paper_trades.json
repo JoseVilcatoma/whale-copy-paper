@@ -10707,5 +10707,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787175978.587317,
     "fills": 1
+  },
+  {
+    "timestamp": 1787176040,
+    "timestamp_added": 1787176041.2113051,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "sud-cam-bra-2026-08-19-cam",
+    "title": "Will CA Mineiro win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 530.09,
+    "whale_pct": 1.653,
+    "whale_value_at_open": 32059.0492,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787176041.2113202,
+    "fills": 1
   }
 ]
