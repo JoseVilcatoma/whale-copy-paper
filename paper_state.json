@@ -1,5 +1,5 @@
 {
-  "bankroll": 420.7348661025804,
+  "bankroll": 417.42787816368997,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1795,6 +1795,36 @@
       "timestamp": 1787174383.7850046,
       "bankroll": 420.73,
       "event": "lost: ferrariChampions2026 \u2014 Will \u0160K Slovan Bratislava vs. NK Celje end in a draw?"
+    },
+    {
+      "timestamp": 1787174689.3597755,
+      "bankroll": 415.63,
+      "event": "lost: predictionlegend \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1787174691.8495352,
+      "bankroll": 410.52,
+      "event": "lost: predictionlegend \u2014 Spread: Club Atl\u00e9tico de Madrid (-1.5)"
+    },
+    {
+      "timestamp": 1787174692.2882676,
+      "bankroll": 405.41,
+      "event": "lost: RN1 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1787174692.6888256,
+      "bankroll": 412.46,
+      "event": "won: RN1 \u2014 Spread: Club Atl\u00e9tico de Madrid (-1.5)"
+    },
+    {
+      "timestamp": 1787174692.9893029,
+      "bankroll": 416.96,
+      "event": "won: RN1 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1787174693.4434764,
+      "bankroll": 417.43,
+      "event": "won: RN1 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 0.5"
     }
   ]
 }

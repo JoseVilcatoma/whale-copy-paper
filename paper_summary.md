@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:23:59 (hora de Perú)
+Actualizado: 2026-08-19 16:26:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $420.73
-**Retorno acumulado:** -15.85%
-**Peor caída desde un máximo (drawdown):** 22.81%
+**Bankroll actual:** $417.43
+**Retorno acumulado:** -16.51%
+**Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 16:23:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $318.25 en 64 posiciones abiertas (disponible para nuevas apuestas: $102.48)
+**Capital comprometido ahora mismo:** $293.25 en 59 posiciones abiertas (disponible para nuevas apuestas: $124.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
-| predictionlegend | 2 | 0 | 2 | +9.76 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
 | Satisfied | 1 | 0 | 2 | +4.88 USD |
 | sentrio | 3 | 2 | 2 | +3.16 USD |
@@ -32,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 2 | 2 | 3 | +0.53 USD |
 | ic4cream | 0 | 0 | 1 | +0.00 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
+| predictionlegend | 2 | 2 | 0 | -0.46 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 2 | 3 | -2.87 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
@@ -40,20 +40,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
+| RN1 | 56 | 30 | 20 | -21.74 USD |
 | HomeRunHazard | 16 | 11 | 5 | -27.81 USD |
-| RN1 | 53 | 29 | 23 | -28.65 USD |
 | ferrariChampions2026 | 108 | 67 | 16 | -54.25 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 358
-- **Aciertos:** 229 (64.0%)
-- **Cuota promedio de entrada:** 65.1%
+- **Apuestas resueltas:** 364
+- **Aciertos:** 232 (63.7%)
+- **Cuota promedio de entrada:** 65.0%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,788.37
-- **ROI sobre lo apostado:** -4.49%
-- **Comisiones pagadas (taker fee):** $31.23 (1.75% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -2.74% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,818.37
+- **ROI sobre lo apostado:** -4.60%
+- **Comisiones pagadas (taker fee):** $31.84 (1.75% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -2.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,9 +61,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 156 | 44.9% | 50.2% | -5.3 pp |
+| 40-59% | 161 | 44.7% | 50.2% | -5.5 pp |
 | 60-79% | 126 | 70.6% | 68.1% | +2.5 pp |
-| 80-94% | 52 | 88.5% | 87.6% | +0.9 pp |
+| 80-94% | 53 | 88.7% | 87.6% | +1.1 pp |
 | 95-99% (casi seguro) | 24 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -148,10 +148,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 86% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will CA Mineiro win on 2026-08-19? | Yes (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Red Bull Bragantino win on 2026-08- | No (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 73% | 5.00 | 0.2% | ❌ perdida | -5.07 |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | RN1 | Will Celtic FC win on 2026-08-19? | Yes (BUY) | 98% | 5.00 | 3.0% | ✅ ganada | +0.10 |
@@ -177,4 +178,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 2.5% | ✅ ganada | +0.78 |
 | RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |

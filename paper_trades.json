@@ -7638,8 +7638,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8944,8 +8944,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9133,8 +9133,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 12936.051,
-    "whale_pct": 7.799,
+    "whale_usd": 14915.097399999999,
+    "whale_pct": 8.992,
     "whale_value_at_open": 165873.9216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -9145,8 +9145,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787172391.1769428,
-    "fills": 5
+    "last_fill_at": 1787174652.2688909,
+    "fills": 6
   },
   {
     "timestamp": 1787164714,
@@ -9318,8 +9318,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "predictionlegend"
     ],
@@ -9469,8 +9469,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [
       "predictionlegend"
     ],
@@ -9572,8 +9572,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.5,
     "overlaps_with": [
       "predictionlegend"
     ],
@@ -9641,8 +9641,8 @@
     "title": "Cincinnati Open: Arthur Fils vs Alex de Minaur",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 14318.921299999998,
-    "whale_pct": 4.928,
+    "whale_usd": 19632.5213,
+    "whale_pct": 6.757,
     "whale_value_at_open": 290545.5585,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -9653,8 +9653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787168209.2016683,
-    "fills": 5
+    "last_fill_at": 1787174709.419354,
+    "fills": 7
   },
   {
     "timestamp": 1787167819,
@@ -9698,8 +9698,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10368,8 +10368,8 @@
     "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 867.812727,
-    "whale_pct": 0.279,
+    "whale_usd": 1778.162727,
+    "whale_pct": 0.572,
     "whale_value_at_open": 310718.6033,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -10380,8 +10380,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787173082.1342866,
-    "fills": 1
+    "last_fill_at": 1787174709.4962358,
+    "fills": 2
   },
   {
     "timestamp": 1787173093,
@@ -10456,6 +10456,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787173728.3315673,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787174744,
+    "timestamp_added": 1787174745.1498466,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-cep-pal-2026-08-19-spread-away-1pt5",
+    "title": "Spread: SE Palmeiras (-1.5)",
+    "outcome": "Club Cerro Porte\u00f1o",
+    "side": "BUY",
+    "whale_usd": 801.713577,
+    "whale_pct": 0.38,
+    "whale_value_at_open": 210740.0053,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787174745.149857,
     "fills": 1
   }
 ]
