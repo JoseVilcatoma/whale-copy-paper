@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:37:35 (hora de Perú)
+Actualizado: 2026-08-19 10:39:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.59
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Satisfied | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 60% | 5.00 | 5.3% | ⏳ pendiente | — |
 | RN1 | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 74% | 5.00 | 2.3% | ⏳ pendiente | — |
 | predictionlegend | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -134,7 +134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 217.5% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 5.00 | 19.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Amelia Paszun (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 53% | 5.00 | 5.2% | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 53% | 5.00 | 6.8% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 5.00 | 38.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
