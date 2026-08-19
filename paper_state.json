@@ -1,5 +1,5 @@
 {
-  "bankroll": 524.1942861836562,
+  "bankroll": 536.6868941611131,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -500,6 +500,46 @@
       "timestamp": 1787103295.4921064,
       "bankroll": 524.19,
       "event": "won: ferrariChampions2026 \u2014 LoL: INTZ e-Sports vs 7REX (BO3) - Circuito Desafiante Playoffs"
+    },
+    {
+      "timestamp": 1787103602.5870914,
+      "bankroll": 519.07,
+      "event": "lost: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787103603.0189748,
+      "bankroll": 524.15,
+      "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787103605.2691112,
+      "bankroll": 519.03,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787103605.7726061,
+      "bankroll": 524.11,
+      "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787103606.199115,
+      "bankroll": 528.6,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Sparks vs. Connecticut Sun: O/U 171.5"
+    },
+    {
+      "timestamp": 1787103606.809459,
+      "bankroll": 529.51,
+      "event": "won: ferrariChampions2026 \u2014 San Francisco Giants vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1787103608.7377417,
+      "bankroll": 532.0,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Sparks vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1787103609.8440704,
+      "bankroll": 536.69,
+      "event": "won: ferrariChampions2026 \u2014 Indiana Fever vs. Toronto Tempo: O/U 191.5"
     }
   ]
 }
