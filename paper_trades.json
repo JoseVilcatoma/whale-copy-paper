@@ -8860,8 +8860,8 @@
     "title": "Cincinnati Open: Marta Kostyuk vs Mirra Andreeva",
     "outcome": "Mirra Andreeva",
     "side": "BUY",
-    "whale_usd": 5624.65,
-    "whale_pct": 2.938,
+    "whale_usd": 6233.613318,
+    "whale_pct": 3.256,
     "whale_value_at_open": 191469.5678,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -8874,8 +8874,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787161949.6885872,
-    "fills": 1
+    "last_fill_at": 1787162659.911989,
+    "fills": 2
   },
   {
     "timestamp": 1787161955,
@@ -8951,5 +8951,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787162519.2995095,
     "fills": 2
+  },
+  {
+    "timestamp": 1787162710,
+    "timestamp_added": 1787162711.2871504,
+    "username": "predictionlegend",
+    "wallet": "0x3eb095d871501a1d7a3cb086a22d174b52356a68",
+    "slug": "ucl-sba-cel1-2026-08-19-sba",
+    "title": "Will \u0160K Slovan Bratislava win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 10715.876699999999,
+    "whale_pct": 70.147,
+    "whale_value_at_open": 15276.297,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787162711.287163,
+    "fills": 1
   }
 ]
