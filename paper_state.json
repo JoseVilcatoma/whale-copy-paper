@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.8928949822237,
+  "bankroll": 534.991228315557,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -625,6 +625,16 @@
       "timestamp": 1787106402.073045,
       "bankroll": 536.89,
       "event": "won: danielwolfmorales3pddb6dl6 \u2014 Cancun: Dalibor Svrcina vs Stan Wawrinka"
+    },
+    {
+      "timestamp": 1787107325.826306,
+      "bankroll": 540.13,
+      "event": "won: ferrariChampions2026 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787107326.298732,
+      "bankroll": 534.99,
+      "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Kansas City Royals"
     }
   ]
 }
