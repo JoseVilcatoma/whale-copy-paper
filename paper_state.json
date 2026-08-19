@@ -1,5 +1,5 @@
 {
-  "bankroll": 530.5316523032268,
+  "bankroll": 532.4060967476712,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -590,6 +590,11 @@
       "timestamp": 1787105781.4889014,
       "bankroll": 530.53,
       "event": "won: ferrariChampions2026 \u2014 Atlanta Braves vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1787106088.1834805,
+      "bankroll": 532.41,
+      "event": "won: ferrariChampions2026 \u2014 Will Fluminense FC win on 2026-08-18?"
     }
   ]
 }
