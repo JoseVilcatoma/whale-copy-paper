@@ -5552,5 +5552,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787144678.8203561,
     "fills": 1
+  },
+  {
+    "timestamp": 1787144910,
+    "timestamp_added": 1787144910.8640673,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-mia-phi-2026-08-19",
+    "title": "Miami Marlins vs. Philadelphia Phillies",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 21261.46,
+    "whale_pct": 39.462,
+    "whale_value_at_open": 53878.9622,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787144910.8640776,
+    "fills": 1
   }
 ]
