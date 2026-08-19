@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:55:22 (hora de Perú)
+Actualizado: 2026-08-19 17:57:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 17:55:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $408.25 en 82 posiciones abiertas (disponible para nuevas apuestas: $40.82)
+**Capital comprometido ahora mismo:** $413.25 en 83 posiciones abiertas (disponible para nuevas apuestas: $35.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| theowalcott | 1 | 1 | 5 | -1.43 USD |
+| theowalcott | 1 | 1 | 6 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
@@ -158,6 +158,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | Orlando City SC vs. Chicago Fire FC: O/U | Under (BUY) | 53% | 5.00 | 9.2% | ⏳ pendiente | — |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes (BUY) | 59% | 5.00 | 20.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Coquimbo Unido vs. CA Platense: O/U 2 | Under (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -166,7 +167,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will CA Platense win on 2026-08-19? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | New York Red Bulls vs. Nashville SC: O/U | Over (BUY) | 44% | 5.00 | 30.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Columbus Crew win on 2026-08-19? | No (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | BESTIA (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | BESTIA (BUY) | 69% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Kyrian Jacquet vs Aleksanda | Aleksandar Vukic (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -178,8 +179,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Marie Bou | Coco Gauff (BUY) | 76% | 5.00 | 2.3% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 48% | 5.00 | 24.0% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 44% | 5.00 | 8.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | Yes (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
-| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 280.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | Yes (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
+| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 344.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 63% | 5.00 | 25.0% | ⏳ pendiente | — |
 | SDTrading | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -187,4 +188,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Minnesota Lynx vs. Golden State Valkyrie | Over (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 62% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-08-19? | Yes (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 64% | 5.00 | 4.5% | ⏳ pendiente | — |

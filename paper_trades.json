@@ -6876,8 +6876,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds",
     "outcome": "St. Louis Cardinals",
     "side": "BUY",
-    "whale_usd": 15999.999999,
-    "whale_pct": 4.424,
+    "whale_usd": 17390.003999,
+    "whale_pct": 4.808,
     "whale_value_at_open": 361688.0268,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -6888,8 +6888,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150243.8954372,
-    "fills": 1
+    "last_fill_at": 1787180177.7445216,
+    "fills": 2
   },
   {
     "timestamp": 1787150452,
@@ -11436,8 +11436,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 141175.906341,
-    "whale_pct": 280.085,
+    "whale_usd": 173524.696341,
+    "whale_pct": 344.264,
     "whale_value_at_open": 50404.5951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -11448,8 +11448,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179925.5190234,
-    "fills": 20
+    "last_fill_at": 1787180220.9595993,
+    "fills": 23
   },
   {
     "timestamp": 1787179083,
@@ -11460,8 +11460,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 5789.9984,
-    "whale_pct": 1.797,
+    "whale_usd": 6947.995800000001,
+    "whale_pct": 2.156,
     "whale_value_at_open": 322278.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -11474,8 +11474,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179853.6178305,
-    "fills": 5
+    "last_fill_at": 1787180203.182095,
+    "fills": 6
   },
   {
     "timestamp": 1787179121,
@@ -11759,8 +11759,8 @@
     "title": "Valorant: Cloud9 vs BESTIA - Map 2 Winner",
     "outcome": "BESTIA",
     "side": "BUY",
-    "whale_usd": 3964.8175,
-    "whale_pct": 1.076,
+    "whale_usd": 7373.009038,
+    "whale_pct": 2.002,
     "whale_value_at_open": 368348.4344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -11771,8 +11771,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787180050.8630524,
-    "fills": 4
+    "last_fill_at": 1787180144.5840018,
+    "fills": 6
   },
   {
     "timestamp": 1787179363,
@@ -11970,5 +11970,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787179972.6706276,
     "fills": 8
+  },
+  {
+    "timestamp": 1787180125,
+    "timestamp_added": 1787180126.2525563,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-orl-chi-2026-08-19-total-3pt5",
+    "title": "Orlando City SC vs. Chicago Fire FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 32435.296066,
+    "whale_pct": 9.191,
+    "whale_value_at_open": 352901.9826,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787180178.028979,
+    "fills": 9
   }
 ]
