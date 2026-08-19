@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.9185246854767,
+  "bankroll": 473.98638182833383,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1360,6 +1360,11 @@
       "timestamp": 1787161956.1032546,
       "bankroll": 471.92,
       "event": "won: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787162332.8680372,
+      "bankroll": 473.99,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: G2 vs Astralis - Map 2 Winner"
     }
   ]
 }
