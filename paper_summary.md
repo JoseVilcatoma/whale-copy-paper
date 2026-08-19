@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 12:31:57 (hora de Perú)
+Actualizado: 2026-08-19 12:34:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.62
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 12:31:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $438.25 en 88 posiciones abiertas (disponible para nuevas apuestas: $28.37)
+**Capital comprometido ahora mismo:** $443.25 en 89 posiciones abiertas (disponible para nuevas apuestas: $23.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | RN1 | 26 | 12 | 20 | -2.25 USD |
-| HomeRunHazard | 10 | 3 | 15 | -3.86 USD |
+| HomeRunHazard | 10 | 3 | 16 | -3.86 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 1 | 5 | -5.10 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -126,11 +126,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
 | mlb-det-pit-2026-08-19-total-7pt5 | HomeRunHazard, RN1 |
+| wta-cirstea-pegula-2026-08-19 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Sorana Cirstea vs Jessi | Jessica Pegula (BUY) | 97% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Jonathan Mridha vs O | Jonathan Mridha (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Marta Kostyuk vs Mirra  | Mirra Andreeva (BUY) | 74% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -160,4 +162,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 6.2% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Mark Ceban vs Iliyan Radulov | Mark Ceban (BUY) | 96% | 5.00 | 4.3% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Counter-Strike: Black Phoenix vs Bushido | Black Phoenix (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
