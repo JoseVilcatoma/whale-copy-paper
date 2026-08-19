@@ -6660,8 +6660,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6735,8 +6735,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.5,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7205,8 +7205,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -7682,8 +7682,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 18723.838273,
-    "whale_pct": 12.72,
+    "whale_usd": 20142.612673000003,
+    "whale_pct": 13.683,
     "whale_value_at_open": 147204.3037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -7697,8 +7697,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159551.9490829,
-    "fills": 11
+    "last_fill_at": 1787159755.0798814,
+    "fills": 12
   },
   {
     "timestamp": 1787153353,
@@ -7764,8 +7764,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -7863,8 +7863,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -8430,8 +8430,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 9473.754467,
-    "whale_pct": 7.181,
+    "whale_usd": 9994.656467,
+    "whale_pct": 7.576,
     "whale_value_at_open": 131920.1476,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -8445,8 +8445,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159192.964722,
-    "fills": 6
+    "last_fill_at": 1787159766.702207,
+    "fills": 7
   },
   {
     "timestamp": 1787159336,

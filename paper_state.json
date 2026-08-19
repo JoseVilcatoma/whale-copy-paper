@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.0605257416288,
+  "bankroll": 466.62116676726976,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1295,6 +1295,31 @@
       "timestamp": 1787159591.9307597,
       "bankroll": 476.06,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787159778.5536191,
+      "bankroll": 470.97,
+      "event": "lost: ferrariChampions2026 \u2014 Prague 2: Norbert Gombos vs Sean Cuenin"
+    },
+    {
+      "timestamp": 1787159778.753935,
+      "bankroll": 475.46,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Norbert Gombos vs Sean Cuenin"
+    },
+    {
+      "timestamp": 1787159780.7497942,
+      "bankroll": 470.36,
+      "event": "lost: RN1 \u2014 Prague 2: Norbert Gombos vs Sean Cuenin"
+    },
+    {
+      "timestamp": 1787159782.2522297,
+      "bankroll": 465.27,
+      "event": "lost: HomeRunHazard \u2014 Prague 2: Norbert Gombos vs Sean Cuenin"
+    },
+    {
+      "timestamp": 1787159783.1423585,
+      "bankroll": 466.62,
+      "event": "won: RN1 \u2014 Prague 2: Norbert Gombos vs Sean Cuenin"
     }
   ]
 }
