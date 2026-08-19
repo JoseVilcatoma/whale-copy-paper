@@ -7530,8 +7530,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 22046.17992,
-    "whale_pct": 238.016,
+    "whale_usd": 22956.07072,
+    "whale_pct": 247.84,
     "whale_value_at_open": 9262.4619,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -7545,8 +7545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787158204.5747075,
-    "fills": 3
+    "last_fill_at": 1787160211.1571977,
+    "fills": 4
   },
   {
     "timestamp": 1787152738,
@@ -7581,8 +7581,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 48696.313050000004,
-    "whale_pct": 53.207,
+    "whale_usd": 49250.19915000001,
+    "whale_pct": 53.812,
     "whale_value_at_open": 91522.0922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -7595,8 +7595,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159434.6123204,
-    "fills": 13
+    "last_fill_at": 1787160177.2399573,
+    "fills": 14
   },
   {
     "timestamp": 1787153127,
