@@ -5643,8 +5643,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6807,8 +6807,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436"
     ],
@@ -6857,8 +6857,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436"
     ],
@@ -8780,8 +8780,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 4349.784000000001,
-    "whale_pct": 2.489,
+    "whale_usd": 5577.024,
+    "whale_pct": 3.191,
     "whale_value_at_open": 174789.6746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -8796,8 +8796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166383.445518,
-    "fills": 4
+    "last_fill_at": 1787166814.0223687,
+    "fills": 5
   },
   {
     "timestamp": 1787161333,
@@ -9400,6 +9400,57 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787166634.2481434,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787166781,
+    "timestamp_added": 1787166781.7588265,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-mad-mala-2026-08-19-mad",
+    "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 3283.15,
+    "whale_pct": 1.208,
+    "whale_value_at_open": 271763.0691,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ic4cream",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787166840.0316043,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787166786,
+    "timestamp_added": 1787166786.9843678,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-mad-mala-2026-08-19-total-1pt5",
+    "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1151.15,
+    "whale_pct": 0.424,
+    "whale_value_at_open": 271763.0691,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787166786.9843793,
     "fills": 1
   }
 ]

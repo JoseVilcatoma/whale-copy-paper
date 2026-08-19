@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.30632680288255,
+  "bankroll": 489.0286606498266,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1460,6 +1460,21 @@
       "timestamp": 1787166229.6759598,
       "bankroll": 488.31,
       "event": "won: RN1 \u2014 ITF M15 B\u00e5stad Men: Leo Borg vs Lucas Renard"
+    },
+    {
+      "timestamp": 1787166844.4894538,
+      "bankroll": 490.8,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787166846.0237465,
+      "bankroll": 494.17,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787166846.1239665,
+      "bankroll": 489.03,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs"
     }
   ]
 }
