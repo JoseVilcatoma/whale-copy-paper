@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:16:39 (hora de Perú)
+Actualizado: 2026-08-19 08:18:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.19
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:16:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $275.19)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $260.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 75 | 47 | 16 | -23.51 USD |
+| ferrariChampions2026 | 75 | 47 | 19 | -23.51 USD |
 
 ## Análisis general
 
@@ -98,11 +98,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-giustin-bernet-2026-08-19 | RN1, ferrariChampions2026 |
 | atp-molleke-jianu-2026-08-19 | RN1, ferrariChampions2026 |
 | atp-geerts-albot-2026-08-19 | RN1, ferrariChampions2026 |
+| mlb-mia-phi-2026-08-19 | SDTrading, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Henry Bernet (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT - Map | SPARTA (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies | Miami Marlins (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF W15 Wanfercée-Baulet Women: Galatea  | Galatea Ferro (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: FUT Esports vs magic (BO | FUT Esports (BUY) | 66% | 5.00 | 7.4% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Anna Siskova vs Ye | Anna Siskova (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -130,6 +134,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 80% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 51% | 5.00 | 30.6% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Game Handicap: WE (-1.5) vs EDward Gamin | EDward Gaming (BUY) | 50% | 5.00 | 3.7% | ⏳ pendiente | — |
-| RN1 | ITF M25 Ueberlingen Men: Manuel Plunger  | Adrian Oetzbach (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
-| RN1 | Roehampton: Gabi Boitan vs Alastair Gray | Gabi Boitan (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
-| RN1 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 66% | 5.00 | 14.5% | ⏳ pendiente | — |
