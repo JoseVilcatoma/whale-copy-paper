@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.4690334140434,
+  "bankroll": 425.8498661025804,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1735,6 +1735,61 @@
       "timestamp": 1787174000.5287054,
       "bankroll": 440.47,
       "event": "won: RN1 \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: O/U 3.5"
+    },
+    {
+      "timestamp": 1787174060.4575315,
+      "bankroll": 435.33,
+      "event": "lost: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Will Celtic FC win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174067.2561536,
+      "bankroll": 440.21,
+      "event": "won: predictionlegend \u2014 Will \u0160K Slovan Bratislava win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174067.5109951,
+      "bankroll": 445.08,
+      "event": "won: predictionlegend \u2014 \u0160K Slovan Bratislava vs. NK Celje: O/U 2.5"
+    },
+    {
+      "timestamp": 1787174068.3117833,
+      "bankroll": 439.98,
+      "event": "lost: RN1 \u2014 NEC vs. FK Bod\u00f8/Glimt: O/U 3.5"
+    },
+    {
+      "timestamp": 1787174069.296673,
+      "bankroll": 434.85,
+      "event": "lost: RN1 \u2014 Spread: \u0160K Slovan Bratislava (-1.5)"
+    },
+    {
+      "timestamp": 1787174069.5971038,
+      "bankroll": 429.8,
+      "event": "lost: RN1 \u2014 Will \u0160K Slovan Bratislava win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174070.6284184,
+      "bankroll": 429.99,
+      "event": "won: ferrariChampions2026 \u2014 Will Celtic FC vs. LASK Linz end in a draw?"
+    },
+    {
+      "timestamp": 1787174072.0799017,
+      "bankroll": 430.09,
+      "event": "won: RN1 \u2014 Will Celtic FC win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174072.3369918,
+      "bankroll": 425.02,
+      "event": "lost: RN1 \u2014 Will MH Hapoel Be'er Sheva win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174128.359453,
+      "bankroll": 425.8,
+      "event": "won: RN1 \u2014 Will NK Celje win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174129.2097325,
+      "bankroll": 425.85,
+      "event": "won: RN1 \u2014 ITF W15 Campos do Jord\u00e3o 2 Women: Camila Romero vs Ana Julia Sartori"
     }
   ]
 }
