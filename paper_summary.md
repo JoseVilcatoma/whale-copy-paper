@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:27:56 (hora de Perú)
+Actualizado: 2026-08-19 17:30:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.21
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 17:27:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $323.25 en 65 posiciones abiertas (disponible para nuevas apuestas: $123.96)
+**Capital comprometido ahora mismo:** $343.25 en 69 posiciones abiertas (disponible para nuevas apuestas: $103.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
-| SDTrading | 3 | 2 | 2 | +6.04 USD |
+| SDTrading | 3 | 2 | 3 | +6.04 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
 | Satisfied | 1 | 0 | 2 | +4.88 USD |
 | sentrio | 3 | 2 | 2 | +3.16 USD |
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 3 | 2 | -7.99 USD |
 | RN1 | 65 | 33 | 10 | -13.10 USD |
-| Sassy-Bucket | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 17 | 11 | 12 | -22.08 USD |
-| ferrariChampions2026 | 114 | 69 | 26 | -42.71 USD |
+| Sassy-Bucket | 0 | 3 | 2 | -15.38 USD |
+| HomeRunHazard | 17 | 11 | 13 | -22.08 USD |
+| ferrariChampions2026 | 114 | 69 | 27 | -42.71 USD |
 
 ## Análisis general
 
@@ -153,9 +153,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 47% | 5.00 | 34.0% | ⏳ pendiente | — |
+| Sassy-Bucket | Minnesota Lynx vs. Golden State Valkyrie | Over (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 62% | 5.00 | 3.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will SE Palmeiras win on 2026-08-19? | Yes (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 64% | 5.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 58% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 55% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Kansas City Royals: O/U 7. | Over (BUY) | 59% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -179,7 +183,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 86% | 5.00 | 10.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 80% | 5.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 0.5% | ✅ ganada | +5.97 |
-| ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 1.2% | ✅ ganada | +5.73 |
-| ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 98% | 5.00 | 4.2% | ✅ ganada | +0.10 |
