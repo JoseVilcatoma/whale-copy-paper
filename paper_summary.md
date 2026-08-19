@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 07:27:32 (hora de Perú)
+Actualizado: 2026-08-19 07:29:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.46
@@ -100,8 +100,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: HANJIN BRION vs DN SOOPers - Game 2 | HANJIN BRION (BUY) | 68% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: HANJIN BRION vs DN SOOPers - Game 2 | HANJIN BRION (BUY) | 68% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 81% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-07- | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Prague 2: Rudolf Molleker vs Filip Jianu | Filip Jianu (BUY) | 75% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: HANJIN BRION vs DN SOOPers (BO3) -  | HANJIN BRION (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -113,9 +113,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Game Handicap: WE (-1.5) vs EDward Gamin | EDward Gaming (BUY) | 50% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Manuel Plunger  | Adrian Oetzbach (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Roehampton: Gabi Boitan vs Alastair Gray | Gabi Boitan (BUY) | 96% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 66% | 5.00 | 12.7% | ⏳ pendiente | — |
+| RN1 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 66% | 5.00 | 14.5% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 47% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Sion: Jeffrey von der Schulenburg vs Geo | Geoffrey Blancaneaux (BUY) | 69% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Sion: Jeffrey von der Schulenburg vs Geo | Geoffrey Blancaneaux (BUY) | 69% | 5.00 | 2.8% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: WE (-1.5) vs EDward Gamin | EDward Gaming (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 72% | 5.00 | 7.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Anyone's Legend vs Top Esports - Ga | Anyone's Legend (BUY) | 55% | 5.00 | 36.0% | ⏳ pendiente | — |

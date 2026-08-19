@@ -4903,8 +4903,8 @@
     "title": "Sion: Jeffrey von der Schulenburg vs Geoffrey Blancaneaux",
     "outcome": "Geoffrey Blancaneaux",
     "side": "BUY",
-    "whale_usd": 1150.2,
-    "whale_pct": 1.659,
+    "whale_usd": 1940.22,
+    "whale_pct": 2.798,
     "whale_value_at_open": 69346.9209,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -4915,8 +4915,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787140982.6830215,
-    "fills": 2
+    "last_fill_at": 1787142531.0823514,
+    "fills": 3
   },
   {
     "timestamp": 1787140662,
@@ -4951,8 +4951,8 @@
     "title": "Sion: Lorenzo Giustino vs Henry Bernet",
     "outcome": "Lorenzo Giustino",
     "side": "BUY",
-    "whale_usd": 8917.343,
-    "whale_pct": 12.7,
+    "whale_usd": 10210.843,
+    "whale_pct": 14.542,
     "whale_value_at_open": 70215.5943,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -4963,8 +4963,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787142259.685064,
-    "fills": 3
+    "last_fill_at": 1787142553.12894,
+    "fills": 4
   },
   {
     "timestamp": 1787141331,
@@ -5245,8 +5245,8 @@
     "title": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 783.9565,
-    "whale_pct": 0.325,
+    "whale_usd": 11281.811628,
+    "whale_pct": 4.68,
     "whale_value_at_open": 241065.3707,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -5260,8 +5260,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787142432.0468373,
-    "fills": 1
+    "last_fill_at": 1787142564.2702405,
+    "fills": 8
   },
   {
     "timestamp": 1787142442,
@@ -5272,8 +5272,8 @@
     "title": "LoL: HANJIN BRION vs DN SOOPers - Game 2 Winner",
     "outcome": "HANJIN BRION",
     "side": "BUY",
-    "whale_usd": 2332.2799999999997,
-    "whale_pct": 0.967,
+    "whale_usd": 5380.686299999999,
+    "whale_pct": 2.232,
     "whale_value_at_open": 241065.3707,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -5284,7 +5284,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787142443.2198768,
-    "fills": 2
+    "last_fill_at": 1787142545.9942691,
+    "fills": 4
   }
 ]
