@@ -1,5 +1,5 @@
 {
-  "bankroll": 524.771228315557,
+  "bankroll": 526.3178740146855,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -645,6 +645,31 @@
       "timestamp": 1787108257.9748116,
       "bankroll": 524.77,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1787108565.3965864,
+      "bankroll": 519.63,
+      "event": "lost: ferrariChampions2026 \u2014 Washington Nationals vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1787108566.757171,
+      "bankroll": 514.49,
+      "event": "lost: Sassy-Bucket \u2014 Washington Nationals vs. Texas Rangers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787108566.8574052,
+      "bankroll": 518.0,
+      "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1787108568.0255432,
+      "bankroll": 522.5,
+      "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787108569.3007421,
+      "bankroll": 526.32,
+      "event": "won: ferrariChampions2026 \u2014 Washington Nationals vs. Texas Rangers: O/U 8.5"
     }
   ]
 }
