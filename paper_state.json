@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.95919306415345,
+  "bankroll": 469.294748619709,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1240,6 +1240,21 @@
       "timestamp": 1787158844.1196172,
       "bankroll": 478.96,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: G2 vs Astralis - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787159156.2777545,
+      "bankroll": 473.84,
+      "event": "lost: ferrariChampions2026 \u2014 Sion: Sandro Kopp vs Benjamin Hassan"
+    },
+    {
+      "timestamp": 1787159158.3863792,
+      "bankroll": 468.76,
+      "event": "lost: RN1 \u2014 Sion: Sandro Kopp vs Benjamin Hassan"
+    },
+    {
+      "timestamp": 1787159158.5866425,
+      "bankroll": 469.29,
+      "event": "won: RN1 \u2014 Sion: Sandro Kopp vs Benjamin Hassan"
     }
   ]
 }

@@ -7740,8 +7740,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8084,8 +8084,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -8136,8 +8136,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -8420,5 +8420,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787159093.7247105,
     "fills": 1
+  },
+  {
+    "timestamp": 1787159120,
+    "timestamp_added": 1787159120.621411,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-jodar-cobolli-2026-08-19",
+    "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
+    "outcome": "Flavio Cobolli",
+    "side": "BUY",
+    "whale_usd": 9473.754467,
+    "whale_pct": 7.181,
+    "whale_value_at_open": 131920.1476,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787159192.964722,
+    "fills": 6
   }
 ]
