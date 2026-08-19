@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.991228315557,
+  "bankroll": 524.771228315557,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -635,6 +635,16 @@
       "timestamp": 1787107326.298732,
       "bankroll": 534.99,
       "event": "lost: ferrariChampions2026 \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787108257.084682,
+      "bankroll": 529.91,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-2.5)"
+    },
+    {
+      "timestamp": 1787108257.9748116,
+      "bankroll": 524.77,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Milwaukee Brewers (-1.5)"
     }
   ]
 }
