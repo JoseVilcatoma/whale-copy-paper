@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.45685941910057,
+  "bankroll": 509.57832628432766,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -905,6 +905,16 @@
       "timestamp": 1787138943.6524103,
       "bankroll": 507.46,
       "event": "lost: ferrariChampions2026 \u2014 ITF M25 Idanha-a-Nova 2 Men: Tiago Silva vs Rocco Piatti"
+    },
+    {
+      "timestamp": 1787143808.6552033,
+      "bankroll": 508.3,
+      "event": "won: 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 \u2014 LoL: Gen.G vs KT Rolster - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787143809.2750177,
+      "bankroll": 509.58,
+      "event": "won: RN1 \u2014 Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng"
     }
   ]
 }
