@@ -7334,8 +7334,8 @@
     "odds_at_bet": 93,
     "fee_usd": 0.017,
     "odds_ballena": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7382,8 +7382,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [
       "RN1"
     ],
@@ -7408,8 +7408,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.71,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -7581,8 +7581,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 40528.22445,
-    "whale_pct": 44.282,
+    "whale_usd": 48696.313050000004,
+    "whale_pct": 53.207,
     "whale_value_at_open": 91522.0922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -7595,8 +7595,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159255.690266,
-    "fills": 11
+    "last_fill_at": 1787159434.6123204,
+    "fills": 13
   },
   {
     "timestamp": 1787153127,
@@ -7709,8 +7709,8 @@
     "title": "Seattle Mariners vs. Milwaukee Brewers",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 511.111111,
-    "whale_pct": 1.708,
+    "whale_usd": 2044.444444,
+    "whale_pct": 6.833,
     "whale_value_at_open": 29919.0836,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -7721,8 +7721,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787153354.428946,
-    "fills": 1
+    "last_fill_at": 1787159470.5829725,
+    "fills": 2
   },
   {
     "timestamp": 1787154739,
@@ -8155,8 +8155,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 12257.9992,
-    "whale_pct": 7.515,
+    "whale_usd": 13593.48203,
+    "whale_pct": 8.333,
     "whale_value_at_open": 163122.9087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -8167,8 +8167,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787158218.941198,
-    "fills": 2
+    "last_fill_at": 1787159423.0131717,
+    "fills": 3
   },
   {
     "timestamp": 1787157296,
@@ -8457,8 +8457,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 2798.811,
-    "whale_pct": 1.263,
+    "whale_usd": 7559.8123,
+    "whale_pct": 3.413,
     "whale_value_at_open": 221529.3987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -8472,7 +8472,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159336.5104575,
+    "last_fill_at": 1787159366.7870038,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787159475,
+    "timestamp_added": 1787159475.6470408,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-gailla-maquet-2026-08-19",
+    "title": "ITF W15 Wanferc\u00e9e-Baulet Women: Delia Gaillard vs Margaux Maquet",
+    "outcome": "Margaux Maquet",
+    "side": "BUY",
+    "whale_usd": 1654.584,
+    "whale_pct": 1.153,
+    "whale_value_at_open": 143549.7078,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787159475.6470532,
     "fills": 1
   }
 ]

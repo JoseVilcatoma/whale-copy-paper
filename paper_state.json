@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.99837982538276,
+  "bankroll": 476.7859767849675,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1265,6 +1265,21 @@
       "timestamp": 1787159284.7249749,
       "bankroll": 475.0,
       "event": "won: HomeRunHazard \u2014 Roehampton: Mark Ceban vs Iliyan Radulov"
+    },
+    {
+      "timestamp": 1787159469.7811007,
+      "bankroll": 475.36,
+      "event": "won: RN1 \u2014 Cincinnati Open: Iga Swiatek vs Diane Parry"
+    },
+    {
+      "timestamp": 1787159469.9814718,
+      "bankroll": 476.07,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Iga Swiatek vs Diane Parry"
+    },
+    {
+      "timestamp": 1787159470.081671,
+      "bankroll": 476.79,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Iga Swiatek vs Diane Parry"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 12:09:12 (hora de Perú)
+Actualizado: 2026-08-19 12:11:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $475.00
-**Retorno acumulado:** -5.00%
+**Bankroll actual:** $476.79
+**Retorno acumulado:** -4.64%
 **Peor caída desde un máximo (drawdown):** 13.99%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 12:09:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $453.25 en 91 posiciones abiertas (disponible para nuevas apuestas: $21.75)
+**Capital comprometido ahora mismo:** $443.25 en 89 posiciones abiertas (disponible para nuevas apuestas: $33.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,10 +23,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
-| RN1 | 24 | 11 | 17 | +1.13 USD |
+| RN1 | 25 | 11 | 17 | +1.49 USD |
+| HomeRunHazard | 10 | 2 | 14 | +1.23 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
-| HomeRunHazard | 9 | 2 | 15 | +0.52 USD |
 | Lakersfan111 | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
@@ -41,18 +41,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 93 | 56 | 31 | -35.70 USD |
+| ferrariChampions2026 | 94 | 56 | 30 | -34.99 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 252
-- **Aciertos:** 166 (65.9%)
-- **Cuota promedio de entrada:** 65.5%
+- **Apuestas resueltas:** 255
+- **Aciertos:** 169 (66.3%)
+- **Cuota promedio de entrada:** 65.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,260.00
-- **ROI sobre lo apostado:** -2.06%
-- **Comisiones pagadas (taker fee):** $21.73 (1.72% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,275.00
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $21.81 (1.71% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,7 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 106 | 45.3% | 50.0% | -4.7 pp |
 | 60-79% | 89 | 74.2% | 68.3% | +5.9 pp |
-| 80-94% | 40 | 87.5% | 87.0% | +0.5 pp |
+| 80-94% | 43 | 88.4% | 87.2% | +1.2 pp |
 | 95-99% (casi seguro) | 17 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -131,7 +131,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF W15 Wanfercée-Baulet Women: Delia Ga | Margaux Maquet (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 42% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: GamerLegion vs MOUZ (BO3 | MOUZ (BUY) | 80% | 5.00 | 11.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cirstea vs. Pegula: Match O/U 21.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -143,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Lucas Re | Leo Borg (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 57% | 5.00 | 7.5% | ⏳ pendiente | — |
+| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 57% | 5.00 | 8.3% | ⏳ pendiente | — |
 | RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Benjamin Hassan (BUY) | 90% | 5.00 | 1.3% | ✅ ganada | +0.53 |
 | ic4cream | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 69% | 5.00 | 2.2% | ❌ perdida | -5.08 |
@@ -160,4 +161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Ueberlingen Men: Moritz Hoffmann | Christian Djonov (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: UCAM Esports Club vs Team Heretics  | Team Heretics Academy (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 53% | 5.00 | 0.1% | ❌ perdida | -5.12 |
