@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 22:49:52 (hora de Perú)
+Actualizado: 2026-08-18 22:51:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $520.39
@@ -90,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | sentrio | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 67% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Pablo Llamas Ruiz vs Francisco C | Pablo Llamas Ruiz (BUY) | 69% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Pablo Llamas Ruiz vs Francisco C | Pablo Llamas Ruiz (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 95% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Detroit Tigers (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Pablo Llamas Ruiz vs Francisco C | Pablo Llamas Ruiz (BUY) | 54% | 5.00 | 2.4% | ⏳ pendiente | — |
