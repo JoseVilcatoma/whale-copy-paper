@@ -4740,8 +4740,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5128,8 +5128,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -5145,8 +5145,8 @@
     "title": "Sion: Lorenzo Giustino vs Henry Bernet",
     "outcome": "Lorenzo Giustino",
     "side": "BUY",
-    "whale_usd": 6810.086666,
-    "whale_pct": 2.979,
+    "whale_usd": 12947.486666,
+    "whale_pct": 5.663,
     "whale_value_at_open": 228639.1934,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -5159,8 +5159,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787146033.2628777,
-    "fills": 3
+    "last_fill_at": 1787146574.446016,
+    "fills": 4
   },
   {
     "timestamp": 1787142309,
@@ -5202,8 +5202,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -5586,8 +5586,8 @@
     "title": "Roehampton: Michael Geerts vs Radu Albot",
     "outcome": "Radu Albot",
     "side": "BUY",
-    "whale_usd": 2060.6040000000003,
-    "whale_pct": 0.854,
+    "whale_usd": 4535.604,
+    "whale_pct": 1.879,
     "whale_value_at_open": 241335.4332,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -5600,8 +5600,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787145125.2544897,
-    "fills": 1
+    "last_fill_at": 1787146565.785379,
+    "fills": 2
   },
   {
     "timestamp": 1787145174,
@@ -5897,6 +5897,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787146453.0215018,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787146519,
+    "timestamp_added": 1787146520.0220127,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-durasov-poullai-2026-08-19",
+    "title": "Roehampton: Viktor Durasovic vs Lucas Poullain",
+    "outcome": "Lucas Poullain",
+    "side": "BUY",
+    "whale_usd": 3871.8442,
+    "whale_pct": 1.693,
+    "whale_value_at_open": 228757.0046,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787146520.022024,
     "fills": 1
   }
 ]

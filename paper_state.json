@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.074822184265,
+  "bankroll": 512.1391555175984,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -940,6 +940,21 @@
       "timestamp": 1787146297.6590784,
       "bankroll": 514.07,
       "event": "won: ferrariChampions2026 \u2014 Prague 2: Cezar Cretu vs Maxim Mrva"
+    },
+    {
+      "timestamp": 1787146602.8437276,
+      "bankroll": 508.93,
+      "event": "lost: RN1 \u2014 ITF M15 Arad Men: Jacopo Bilardo vs Jeremy Gschwendtner"
+    },
+    {
+      "timestamp": 1787146605.9269345,
+      "bankroll": 510.53,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Rudolf Molleker vs Filip Jianu"
+    },
+    {
+      "timestamp": 1787146606.518309,
+      "bankroll": 512.14,
+      "event": "won: RN1 \u2014 Prague 2: Rudolf Molleker vs Filip Jianu"
     }
   ]
 }
