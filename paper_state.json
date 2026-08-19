@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.1067870845454,
+  "bankroll": 512.3768676283063,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -420,6 +420,26 @@
       "timestamp": 1787098233.2354527,
       "bankroll": 506.11,
       "event": "won: ferrariChampions2026 \u2014 Kingston: Lucas Da Silva vs Tyler Zink"
+    },
+    {
+      "timestamp": 1787098355.6968482,
+      "bankroll": 507.46,
+      "event": "won: swisstony \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: O/U 3.5"
+    },
+    {
+      "timestamp": 1787098356.1601467,
+      "bankroll": 507.66,
+      "event": "won: swisstony \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: O/U 4.5"
+    },
+    {
+      "timestamp": 1787098417.0238473,
+      "bankroll": 511.32,
+      "event": "won: theowalcott \u2014 Deportivo Riestra AFBC vs. Gimnasia y Esgrima La Plata: O/U 1.5"
+    },
+    {
+      "timestamp": 1787098418.5764563,
+      "bankroll": 512.38,
+      "event": "won: swisstony \u2014 Will Deportivo Riestra AFBC win on 2026-08-18?"
     }
   ]
 }
