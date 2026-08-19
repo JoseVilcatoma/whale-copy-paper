@@ -9565,8 +9565,8 @@
     "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2347.53,
-    "whale_pct": 0.84,
+    "whale_usd": 3470.226,
+    "whale_pct": 1.242,
     "whale_value_at_open": 279346.1792,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -9579,8 +9579,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167347.9877195,
-    "fills": 2
+    "last_fill_at": 1787170117.6135268,
+    "fills": 3
   },
   {
     "timestamp": 1787167437,
@@ -9793,8 +9793,8 @@
     "title": "Will NK Celje win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 4877.93,
-    "whale_pct": 1.946,
+    "whale_usd": 5736.548400000001,
+    "whale_pct": 2.288,
     "whale_value_at_open": 250715.0012,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -9805,8 +9805,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787169770.5722892,
-    "fills": 3
+    "last_fill_at": 1787170021.7031758,
+    "fills": 4
   },
   {
     "timestamp": 1787169853,
@@ -9841,8 +9841,8 @@
     "title": "MH Hapoel Be'er Sheva vs. Sabah FK: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 803.6087999999999,
-    "whale_pct": 0.318,
+    "whale_usd": 1696.8687999999997,
+    "whale_pct": 0.671,
     "whale_value_at_open": 252976.15,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -9853,8 +9853,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787169919.3303792,
-    "fills": 1
+    "last_fill_at": 1787170066.6291592,
+    "fills": 2
   },
   {
     "timestamp": 1787169928,

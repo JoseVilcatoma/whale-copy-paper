@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:06:42 (hora de Perú)
+Actualizado: 2026-08-19 15:08:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.71
@@ -144,9 +144,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -155,7 +155,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 59% | 5.00 | 4.9% | ⏳ pendiente | — |
 |  | LoL: BIG vs Unicorns Of Love Sexy Editio | BIG (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Spread: ŠK Slovan Bratislava (-1.5) | ŠK Slovan Bratislava (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Club Atlético de Madrid vs. Málaga  | No (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-19? | No (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
