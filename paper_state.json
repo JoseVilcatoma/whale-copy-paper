@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.6868941611131,
+  "bankroll": 534.7997670708121,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -540,6 +540,26 @@
       "timestamp": 1787103609.8440704,
       "bankroll": 536.69,
       "event": "won: ferrariChampions2026 \u2014 Indiana Fever vs. Toronto Tempo: O/U 191.5"
+    },
+    {
+      "timestamp": 1787103914.0880244,
+      "bankroll": 542.42,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Toronto Blue Jays vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1787103914.2883193,
+      "bankroll": 545.03,
+      "event": "won: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1787103917.8405662,
+      "bankroll": 539.91,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Indiana Fever (-10.5)"
+    },
+    {
+      "timestamp": 1787103919.0383623,
+      "bankroll": 534.8,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Toronto Blue Jays (-4.5)"
     }
   ]
 }
