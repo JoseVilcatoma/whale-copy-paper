@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.0438452143547,
+  "bankroll": 491.88884521435466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1145,6 +1145,16 @@
       "timestamp": 1787154399.348771,
       "bankroll": 502.04,
       "event": "won: ferrariChampions2026 \u2014 Will Shanghai Haigang FC win on 2026-07-12?"
+    },
+    {
+      "timestamp": 1787154958.7340841,
+      "bankroll": 497.0,
+      "event": "lost: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Beatrice Ricci vs Varvara Panshina"
+    },
+    {
+      "timestamp": 1787154960.6841564,
+      "bankroll": 491.89,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W75 Kursumlijska Banja 3 Women: Beatrice Ricci vs Varvara Panshina"
     }
   ]
 }
