@@ -8334,8 +8334,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 7639.148805999999,
-    "whale_pct": 5.675,
+    "whale_usd": 13222.953113,
+    "whale_pct": 9.824,
     "whale_value_at_open": 134604.8578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -8346,8 +8346,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164895.4267316,
-    "fills": 6
+    "last_fill_at": 1787165145.9356678,
+    "fills": 9
   },
   {
     "timestamp": 1787158925,
@@ -9224,6 +9224,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787164847.671113,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787165090,
+    "timestamp_added": 1787165090.7225838,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-noskova-anisimo-2026-08-19",
+    "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
+    "outcome": "Linda Noskova",
+    "side": "BUY",
+    "whale_usd": 844.94,
+    "whale_pct": 0.435,
+    "whale_value_at_open": 194436.0456,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787165090.7225962,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787165153,
+    "timestamp_added": 1787165154.344113,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-tirante-mensik-2026-08-19",
+    "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
+    "outcome": "Thiago Agustin Tirante",
+    "side": "BUY",
+    "whale_usd": 795.3488369999999,
+    "whale_pct": 0.395,
+    "whale_value_at_open": 201546.1839,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787165154.3441243,
     "fills": 1
   }
 ]

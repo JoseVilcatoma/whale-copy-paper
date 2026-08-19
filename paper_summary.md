@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:43:56 (hora de Perú)
+Actualizado: 2026-08-19 13:46:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 13:43:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $441.62 en 89 posiciones abiertas (disponible para nuevas apuestas: $39.03)
+**Capital comprometido ahora mismo:** $451.62 en 91 posiciones abiertas (disponible para nuevas apuestas: $29.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
-| RN1 | 31 | 13 | 28 | +3.22 USD |
+| RN1 | 31 | 13 | 30 | +3.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
@@ -131,11 +131,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-cirstea-pegula-2026-08-19 | HomeRunHazard, RN1 |
 | mlb-sd-nym-2026-08-19 | HomeRunHazard, RN1 |
 | wta-kostyuk-andreev-2026-08-19 | HomeRunHazard, RN1 |
+| atp-tirante-mensik-2026-08-19 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Sorana Cirstea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -164,5 +167,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Pittsburgh Pirates (-2.5) | Detroit Tigers (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | New York Mets (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 50% | 5.00 | 4.7% | ⏳ pendiente | — |
-| RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | ITF W15 Wanfercée-Baulet Women: Delia Ga | Margaux Maquet (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
