@@ -5049,8 +5049,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 10752.91,
-    "whale_pct": 49.876,
+    "whale_usd": 15044.91,
+    "whale_pct": 69.784,
     "whale_value_at_open": 21559.3561,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -5061,8 +5061,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148451.6452892,
-    "fills": 4
+    "last_fill_at": 1787150800.3950808,
+    "fills": 7
   },
   {
     "timestamp": 1787142129,
@@ -6298,8 +6298,8 @@
     "title": "Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet",
     "outcome": "Oliver Tarvet",
     "side": "BUY",
-    "whale_usd": 3891.8383000000003,
-    "whale_pct": 7.619,
+    "whale_usd": 4811.7739,
+    "whale_pct": 9.42,
     "whale_value_at_open": 51081.4949,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -6312,8 +6312,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149581.813019,
-    "fills": 4
+    "last_fill_at": 1787150848.2027495,
+    "fills": 5
   },
   {
     "timestamp": 1787148561,
@@ -6602,8 +6602,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 12546.732800000002,
-    "whale_pct": 4.028,
+    "whale_usd": 13330.732800000002,
+    "whale_pct": 4.28,
     "whale_value_at_open": 311477.4235,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -6617,8 +6617,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149171.427663,
-    "fills": 3
+    "last_fill_at": 1787150746.2375064,
+    "fills": 4
   },
   {
     "timestamp": 1787149150,
@@ -6900,8 +6900,8 @@
     "title": "Counter-Strike: G2 vs Astralis - Map 1 Winner",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 6490.4064419999995,
-    "whale_pct": 1.624,
+    "whale_usd": 7266.933642,
+    "whale_pct": 1.819,
     "whale_value_at_open": 399581.4335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -6912,8 +6912,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150677.9564807,
-    "fills": 3
+    "last_fill_at": 1787150837.9485192,
+    "fills": 4
   },
   {
     "timestamp": 1787150455,
@@ -7063,6 +7063,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787150741.8040407,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787150741,
+    "timestamp_added": 1787150742.6623526,
+    "username": "Satisfied",
+    "wallet": "0x1ab3580b6d258e31ca0a3efdb93173d081dd64af",
+    "slug": "mlb-nyy-bal-2026-08-19",
+    "title": "New York Yankees vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 6298.478867,
+    "whale_pct": 300.155,
+    "whale_value_at_open": 2098.4114,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787150742.6623611,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787150761,
+    "timestamp_added": 1787150761.5184336,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-fon-ishii-2026-08-19",
+    "title": "ITF W15 Logrono Women: Jordina Font vs Sayaka Ishii",
+    "outcome": "Jordina Font",
+    "side": "BUY",
+    "whale_usd": 645.170963,
+    "whale_pct": 0.392,
+    "whale_value_at_open": 164619.9661,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787150761.5184472,
     "fills": 1
   }
 ]
