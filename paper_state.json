@@ -1,5 +1,5 @@
 {
-  "bankroll": 520.3933338916879,
+  "bankroll": 519.6184552806826,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -730,6 +730,41 @@
       "timestamp": 1787110754.7137156,
       "bankroll": 520.39,
       "event": "lost: Sassy-Bucket \u2014 New York Liberty vs. Chicago Sky: O/U 179.5"
+    },
+    {
+      "timestamp": 1787111692.5659108,
+      "bankroll": 526.37,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Dream vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1787111693.1877127,
+      "bankroll": 521.28,
+      "event": "lost: ferrariChampions2026 \u2014 Atlanta Dream vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1787111752.706032,
+      "bankroll": 516.16,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Marie Bouzkova vs Iva Jovic"
+    },
+    {
+      "timestamp": 1787111753.8341973,
+      "bankroll": 511.08,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Marie Bouzkova vs Iva Jovic"
+    },
+    {
+      "timestamp": 1787111754.1516068,
+      "bankroll": 515.96,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-4.5)"
+    },
+    {
+      "timestamp": 1787111754.3519661,
+      "bankroll": 517.93,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Marie Bouzkova vs Iva Jovic"
+    },
+    {
+      "timestamp": 1787111755.306709,
+      "bankroll": 519.62,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Marie Bouzkova vs Iva Jovic"
     }
   ]
 }
