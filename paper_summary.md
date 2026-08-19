@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:12:03 (hora de Perú)
+Actualizado: 2026-08-19 18:14:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:12:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $443.25 en 89 posiciones abiertas (disponible para nuevas apuestas: $6.07)
+**Capital comprometido ahora mismo:** $448.25 en 90 posiciones abiertas (disponible para nuevas apuestas: $1.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 3 | 2 | -7.99 USD |
 | RN1 | 68 | 34 | 6 | -13.29 USD |
 | Sassy-Bucket | 0 | 3 | 3 | -15.38 USD |
-| HomeRunHazard | 19 | 11 | 21 | -21.18 USD |
+| HomeRunHazard | 19 | 11 | 22 | -21.18 USD |
 | ferrariChampions2026 | 117 | 71 | 37 | -47.39 USD |
 
 ## Análisis general
@@ -123,6 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cws-chc-2026-08-19 | RN1, SDTrading |
 | atp-gombos-cuenin-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-det-pit-2026-08-19-total-8pt5 | HomeRunHazard, RN1, SDTrading |
+| mlb-stl-cin-2026-08-19 | HomeRunHazard, ferrariChampions2026 |
 | mlb-det-pit-2026-08-19 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-19 | HomeRunHazard, Satisfied, ferrariChampions2026 |
 | atp-jodar-cobolli-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
@@ -159,6 +160,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Coquimbo Unido win on 2026-08-19 | No (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 57% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -188,4 +190,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 48% | 5.00 | 24.0% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 44% | 5.00 | 8.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | Yes (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
-| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 344.3% | ⏳ pendiente | — |
