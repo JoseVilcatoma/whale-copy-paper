@@ -2409,8 +2409,8 @@
     "title": "Los Angeles Dodgers vs. Colorado Rockies",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 13514.859998,
-    "whale_pct": 5.047,
+    "whale_usd": 15523.459998,
+    "whale_pct": 5.798,
     "whale_value_at_open": 267759.4169,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -2421,8 +2421,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787089296.3613644,
-    "fills": 1
+    "last_fill_at": 1787102812.5512726,
+    "fills": 2
   },
   {
     "timestamp": 1787090431,
@@ -3555,8 +3555,8 @@
     "title": "Atlanta Dream vs. Las Vegas Aces",
     "outcome": "Atlanta Dream",
     "side": "BUY",
-    "whale_usd": 1991.7599999999998,
-    "whale_pct": 0.345,
+    "whale_usd": 2756.04,
+    "whale_pct": 0.477,
     "whale_value_at_open": 578141.4789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -3567,8 +3567,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787102466.0657997,
-    "fills": 2
+    "last_fill_at": 1787102780.9217513,
+    "fills": 3
   },
   {
     "timestamp": 1787102393,
@@ -3642,6 +3642,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787102723.759655,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787102790,
+    "timestamp_added": 1787102790.568552,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cws-chc-2026-08-18",
+    "title": "Chicago White Sox vs. Chicago Cubs",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 1325.2608,
+    "whale_pct": 0.227,
+    "whale_value_at_open": 584971.2446,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787102790.5685644,
     "fills": 1
   }
 ]
