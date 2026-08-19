@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:15:00 (hora de Perú)
+Actualizado: 2026-08-19 15:17:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $450.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 15:15:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $386.62 en 78 posiciones abiertas (disponible para nuevas apuestas: $63.58)
+**Capital comprometido ahora mismo:** $401.62 en 81 posiciones abiertas (disponible para nuevas apuestas: $48.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,11 +38,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
-| RN1 | 41 | 20 | 35 | -6.76 USD |
+| RN1 | 41 | 20 | 36 | -6.76 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 15 | 10 | 7 | -24.57 USD |
-| ferrariChampions2026 | 107 | 65 | 10 | -44.21 USD |
+| ferrariChampions2026 | 107 | 65 | 12 | -44.21 USD |
 
 ## Análisis general
 
@@ -105,6 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-giustin-bernet-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-mia-phi-2026-08-19-total-8pt5 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, HomeRunHazard |
 | atp-molleke-jianu-2026-08-19 | RN1, ferrariChampions2026 |
+| mlb-ari-bos-2026-08-19 | RN1, ferrariChampions2026 |
 | mlb-atl-min-2026-08-19 | , RN1, SDTrading, Satisfied, ferrariChampions2026 |
 | chi-shp-ygb-2026-07-12-ygb | RN1, ferrariChampions2026 |
 | atp-geerts-albot-2026-08-19 | RN1, ferrariChampions2026 |
@@ -128,6 +129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lal-mad-mala-2026-08-19-total-2pt5 | RN1, predictionlegend |
 | atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
+| mlb-ari-bos-2026-08-19-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
 | mls-phi-mia-2026-08-19-mia | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, RN1 |
 | lol-big1-use1-2026-08-19 | , ferrariChampions2026 |
 | mlb-det-pit-2026-08-19-total-7pt5 | HomeRunHazard, RN1 |
@@ -138,12 +140,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-mad-mala-2026-08-19-spread-home-1pt5 | RN1, predictionlegend |
 | ucl-sba-cel1-2026-08-19-sba | RN1, predictionlegend |
 | wta-noskova-anisimo-2026-08-19 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, RN1 |
+| lal-mad-mala-2026-08-19-total-1pt5 | RN1, ferrariChampions2026 |
 | atp-fils-minaur-2026-08-19 | , RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Celtic FC vs. LASK Linz end in a dr | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -152,7 +158,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -165,12 +171,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Club Atlético de Madrid vs. Málaga  | No (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-19? | No (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Club Atlético de Madrid (-1.5) | Club Atlético de Madrid (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 79% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 66% | 5.00 | 5.7% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 57% | 5.00 | 6.5% | ⏳ pendiente | — |
 | RN1 | NEC vs. FK Bodø/Glimt: O/U 3.5 | Under (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Celtic FC vs. LASK Linz: Both Teams to S | Yes (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 4.5% | ✅ ganada | +3.52 |
-| RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
