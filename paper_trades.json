@@ -6728,8 +6728,8 @@
     "title": "Prague 2: Norbert Gombos vs Sean Cuenin",
     "outcome": "Norbert Gombos",
     "side": "BUY",
-    "whale_usd": 12872.512563,
-    "whale_pct": 3.741,
+    "whale_usd": 21673.312563,
+    "whale_pct": 6.299,
     "whale_value_at_open": 344079.3083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -6740,8 +6740,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787155065.4370053,
-    "fills": 4
+    "last_fill_at": 1787155570.7882679,
+    "fills": 5
   },
   {
     "timestamp": 1787149909,
@@ -7124,8 +7124,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 22258.603342000002,
-    "whale_pct": 5.663,
+    "whale_usd": 25437.599942,
+    "whale_pct": 6.471,
     "whale_value_at_open": 393072.2108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -7136,8 +7136,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787154293.1582487,
-    "fills": 6
+    "last_fill_at": 1787155542.02286,
+    "fills": 7
   },
   {
     "timestamp": 1787151205,
@@ -7821,6 +7821,57 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787155405.7905648,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787155527,
+    "timestamp_added": 1787155528.5277216,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mesa-contri-2026-08-19",
+    "title": "ITF M25 Santander Men: Bernardo Munk Mesa vs Sergi Perez Contri",
+    "outcome": "Sergi Perez Contri",
+    "side": "BUY",
+    "whale_usd": 735.56,
+    "whale_pct": 0.513,
+    "whale_value_at_open": 143329.4206,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787155528.5277352,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787155570,
+    "timestamp_added": 1787155570.9146955,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gombos-cuenin-2026-08-19",
+    "title": "Prague 2: Norbert Gombos vs Sean Cuenin",
+    "outcome": "Norbert Gombos",
+    "side": "BUY",
+    "whale_usd": 2579.3108,
+    "whale_pct": 1.8,
+    "whale_value_at_open": 143329.4206,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787155570.9147098,
     "fills": 1
   }
 ]

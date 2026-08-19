@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:04:38 (hora de Perú)
+Actualizado: 2026-08-19 11:06:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $495.87
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 11:04:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $428.25 en 86 posiciones abiertas (disponible para nuevas apuestas: $67.62)
+**Capital comprometido ahora mismo:** $438.25 en 88 posiciones abiertas (disponible para nuevas apuestas: $57.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 18 | 8 | 15 | -0.03 USD |
+| RN1 | 18 | 8 | 17 | -0.03 USD |
 | HomeRunHazard | 7 | 2 | 10 | -0.33 USD |
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
@@ -124,6 +124,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 78% | 5.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | ITF M25 Santander Men: Bernardo Munk Mes | Sergi Perez Contri (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Moritz Hoffmann | Christian Djonov (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: UCAM Esports Club vs Team Heretics  | Team Heretics Academy (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -151,6 +153,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | EDward Gaming (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 72% | 5.00 | 5.7% | ⏳ pendiente | — |
-| RN1 | ITF W15 Logrono Women: Jordina Font vs S | Jordina Font (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Satisfied | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 48% | 5.00 | 300.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 72% | 5.00 | 6.5% | ⏳ pendiente | — |
