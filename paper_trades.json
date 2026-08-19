@@ -5145,8 +5145,8 @@
     "title": "Sion: Lorenzo Giustino vs Henry Bernet",
     "outcome": "Lorenzo Giustino",
     "side": "BUY",
-    "whale_usd": 14403.656666,
-    "whale_pct": 6.3,
+    "whale_usd": 15742.275766,
+    "whale_pct": 6.885,
     "whale_value_at_open": 228639.1934,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -5159,8 +5159,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148563.204467,
-    "fills": 5
+    "last_fill_at": 1787148855.081651,
+    "fills": 6
   },
   {
     "timestamp": 1787142309,
@@ -6462,6 +6462,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787148708.8978984,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787148769,
+    "timestamp_added": 1787148769.839595,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-giustin-bernet-2026-08-19",
+    "title": "Sion: Lorenzo Giustino vs Henry Bernet",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "whale_usd": 1310.5675999999999,
+    "whale_pct": 2.237,
+    "whale_value_at_open": 58582.5954,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787148769.8396072,
     "fills": 1
   }
 ]

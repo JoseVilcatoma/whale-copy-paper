@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 09:12:13 (hora de Perú)
+Actualizado: 2026-08-19 09:14:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 09:12:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $186.08)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $181.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
 | RN1 | 10 | 3 | 18 | +4.55 USD |
-| HomeRunHazard | 4 | 1 | 5 | +2.93 USD |
+| HomeRunHazard | 4 | 1 | 6 | +2.93 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
@@ -111,6 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 78% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will FC Barcelona win on 2026-08-19? | Yes (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Lorenzo Giustino vs Henry Bernet | Henry Bernet (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Mika Brunold vs Calvin Hemery | Calvin Hemery (BUY) | 46% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -140,4 +141,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Dalian Yingbo FC win on 2026-07-12? | No (BUY) | 94% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Prague 2: Radu Mihai Papoe vs Javier Bar | Radu Mihai Papoe (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Radu Mihai Papoe vs Javier Bar | Radu Mihai Papoe (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Henry Bernet (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
