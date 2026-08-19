@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.67752624969245,
+  "bankroll": 504.6586226352346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -860,6 +860,11 @@
       "timestamp": 1787115848.18154,
       "bankroll": 503.68,
       "event": "won: ferrariChampions2026 \u2014 Will Independiente del Valle win on 2026-08-11?"
+    },
+    {
+      "timestamp": 1787124201.0401845,
+      "bankroll": 504.66,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Kits Esports vs 3v Team (BO5) - LRN Playoffs"
     }
   ]
 }
