@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:39:39 (hora de Perú)
+Actualizado: 2026-08-19 10:41:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.59
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Satisfied | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 60% | 5.00 | 5.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 60% | 5.00 | 6.5% | ⏳ pendiente | — |
 | RN1 | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 74% | 5.00 | 2.3% | ⏳ pendiente | — |
 | predictionlegend | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |

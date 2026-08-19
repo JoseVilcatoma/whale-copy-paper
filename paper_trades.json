@@ -6176,8 +6176,8 @@
     "title": "ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova",
     "outcome": "Radka Zelnickova",
     "side": "BUY",
-    "whale_usd": 5990.183954,
-    "whale_pct": 5.149,
+    "whale_usd": 7464.383954,
+    "whale_pct": 6.416,
     "whale_value_at_open": 116343.3404,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -6188,8 +6188,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787153288.8570874,
-    "fills": 7
+    "last_fill_at": 1787154004.748597,
+    "fills": 8
   },
   {
     "timestamp": 1787148062,
@@ -7682,8 +7682,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 7870.214835000001,
-    "whale_pct": 5.346,
+    "whale_usd": 9578.109835000001,
+    "whale_pct": 6.507,
     "whale_value_at_open": 147204.3037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -7697,8 +7697,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787153958.1743064,
-    "fills": 5
+    "last_fill_at": 1787154100.4132547,
+    "fills": 6
   },
   {
     "timestamp": 1787153353,
