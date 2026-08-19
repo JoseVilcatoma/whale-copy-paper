@@ -8780,8 +8780,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 8355.394,
-    "whale_pct": 4.78,
+    "whale_usd": 10256.384,
+    "whale_pct": 5.868,
     "whale_value_at_open": 174789.6746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -8796,8 +8796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787169913.6393034,
-    "fills": 7
+    "last_fill_at": 1787171046.8582232,
+    "fills": 8
   },
   {
     "timestamp": 1787161333,
@@ -9411,8 +9411,8 @@
     "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 16444.068000000003,
-    "whale_pct": 6.051,
+    "whale_usd": 17123.9592,
+    "whale_pct": 6.301,
     "whale_value_at_open": 271763.0691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -9426,8 +9426,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170714.4660585,
-    "fills": 15
+    "last_fill_at": 1787171033.3474185,
+    "fills": 16
   },
   {
     "timestamp": 1787166786,
@@ -9865,8 +9865,8 @@
     "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1442.4218,
-    "whale_pct": 0.563,
+    "whale_usd": 2348.719367,
+    "whale_pct": 0.917,
     "whale_value_at_open": 256260.3726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -9877,8 +9877,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170990.1816602,
-    "fills": 2
+    "last_fill_at": 1787171023.497215,
+    "fills": 3
   },
   {
     "timestamp": 1787170426,
@@ -10039,8 +10039,8 @@
     "title": "Spread: Boston Red Sox (-1.5)",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 3098.9805000000006,
-    "whale_pct": 0.774,
+    "whale_usd": 3911.4601000000007,
+    "whale_pct": 0.977,
     "whale_value_at_open": 400209.4864,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -10053,8 +10053,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170621.9439638,
-    "fills": 1
+    "last_fill_at": 1787171069.2256854,
+    "fills": 2
   },
   {
     "timestamp": 1787170655,
@@ -10283,6 +10283,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787170990.337939,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787171033,
+    "timestamp_added": 1787171033.5103295,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ucl-cel-lin2-2026-08-19-cel",
+    "title": "Will Celtic FC win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 8018.068399999999,
+    "whale_pct": 3.028,
+    "whale_value_at_open": 264831.9778,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787171033.5103397,
     "fills": 1
   }
 ]
