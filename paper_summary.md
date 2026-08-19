@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:32:47 (hora de Perú)
+Actualizado: 2026-08-19 18:34:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $452.61
-**Retorno acumulado:** -9.48%
+**Bankroll actual:** $453.81
+**Retorno acumulado:** -9.24%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:32:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $452.61 en 91 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $447.61 en 90 posiciones abiertas (disponible para nuevas apuestas: $6.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,8 +37,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 3 | 1 | -6.79 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 3 | 2 | -7.99 USD |
 | RN1 | 68 | 34 | 6 | -13.29 USD |
 | Sassy-Bucket | 0 | 3 | 3 | -15.38 USD |
 | HomeRunHazard | 20 | 11 | 21 | -20.93 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 405
-- **Aciertos:** 264 (65.2%)
+- **Apuestas resueltas:** 406
+- **Aciertos:** 265 (65.3%)
 - **Cuota promedio de entrada:** 65.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $2,023.37
-- **ROI sobre lo apostado:** -2.39%
-- **Comisiones pagadas (taker fee):** $35.10 (1.73% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,028.37
+- **ROI sobre lo apostado:** -2.33%
+- **Comisiones pagadas (taker fee):** $35.15 (1.73% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.59% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -63,7 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 178 | 46.6% | 50.2% | -3.6 pp |
 | 60-79% | 136 | 72.1% | 68.1% | +3.9 pp |
-| 80-94% | 61 | 86.9% | 87.5% | -0.6 pp |
+| 80-94% | 62 | 87.1% | 87.3% | -0.2 pp |
 | 95-99% (casi seguro) | 30 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -161,7 +161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |

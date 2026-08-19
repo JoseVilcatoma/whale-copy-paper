@@ -1,5 +1,5 @@
 {
-  "bankroll": 452.6136172598886,
+  "bankroll": 453.8136172598886,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2030,6 +2030,11 @@
       "timestamp": 1787181858.058194,
       "bankroll": 452.61,
       "event": "won: 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 \u2014 Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787182479.0394864,
+      "bankroll": 453.81,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Counter-Strike: GamerLegion vs MOUZ (BO3) - Esports World Cup Playoffs"
     }
   ]
 }
