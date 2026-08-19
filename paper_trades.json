@@ -6176,8 +6176,8 @@
     "title": "ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova",
     "outcome": "Radka Zelnickova",
     "side": "BUY",
-    "whale_usd": 7464.383954,
-    "whale_pct": 6.416,
+    "whale_usd": 8974.983954,
+    "whale_pct": 7.714,
     "whale_value_at_open": 116343.3404,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -6188,8 +6188,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787154004.748597,
-    "fills": 8
+    "last_fill_at": 1787156057.623004,
+    "fills": 9
   },
   {
     "timestamp": 1787148062,
@@ -6602,8 +6602,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 30187.960623000003,
-    "whale_pct": 9.692,
+    "whale_usd": 32711.842648,
+    "whale_pct": 10.502,
     "whale_value_at_open": 311477.4235,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -6617,8 +6617,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787155962.7027545,
-    "fills": 8
+    "last_fill_at": 1787156050.5092442,
+    "fills": 10
   },
   {
     "timestamp": 1787149150,
@@ -6999,8 +6999,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 21625.424078,
-    "whale_pct": 4.988,
+    "whale_usd": 22141.424078,
+    "whale_pct": 5.107,
     "whale_value_at_open": 433574.8881,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -7014,8 +7014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152987.7629063,
-    "fills": 13
+    "last_fill_at": 1787156014.5433228,
+    "fills": 14
   },
   {
     "timestamp": 1787150676,
@@ -7124,8 +7124,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 25437.599942,
-    "whale_pct": 6.471,
+    "whale_usd": 25939.136775,
+    "whale_pct": 6.599,
     "whale_value_at_open": 393072.2108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -7136,8 +7136,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787155542.02286,
-    "fills": 7
+    "last_fill_at": 1787156023.032485,
+    "fills": 8
   },
   {
     "timestamp": 1787151205,
