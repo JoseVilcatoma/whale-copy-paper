@@ -9259,8 +9259,8 @@
     "title": "Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik",
     "outcome": "Thiago Agustin Tirante",
     "side": "BUY",
-    "whale_usd": 8283.590694,
-    "whale_pct": 4.11,
+    "whale_usd": 9071.036116000001,
+    "whale_pct": 4.501,
     "whale_value_at_open": 201546.1839,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -9273,8 +9273,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166961.5298283,
-    "fills": 9
+    "last_fill_at": 1787167002.421392,
+    "fills": 10
   },
   {
     "timestamp": 1787165911,
@@ -9385,8 +9385,8 @@
     "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
     "outcome": "Amanda Anisimova",
     "side": "BUY",
-    "whale_usd": 7583.407015000001,
-    "whale_pct": 2.853,
+    "whale_usd": 17370.459215000003,
+    "whale_pct": 6.536,
     "whale_value_at_open": 265783.6938,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -9399,8 +9399,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166952.7594562,
-    "fills": 2
+    "last_fill_at": 1787166998.124439,
+    "fills": 4
   },
   {
     "timestamp": 1787166781,
@@ -9411,8 +9411,8 @@
     "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 7574.450000000001,
-    "whale_pct": 2.787,
+    "whale_usd": 11596.65,
+    "whale_pct": 4.267,
     "whale_value_at_open": 271763.0691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -9426,8 +9426,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166943.564884,
-    "fills": 7
+    "last_fill_at": 1787167102.5746646,
+    "fills": 10
   },
   {
     "timestamp": 1787166786,
@@ -9451,6 +9451,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787166786.9843793,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787167031,
+    "timestamp_added": 1787167031.7030554,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-mad-mala-2026-08-19-spread-home-1pt5",
+    "title": "Spread: Club Atl\u00e9tico de Madrid (-1.5)",
+    "outcome": "Club Atl\u00e9tico de Madrid",
+    "side": "BUY",
+    "whale_usd": 582.8000000000001,
+    "whale_pct": 0.235,
+    "whale_value_at_open": 247473.6087,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "predictionlegend"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787167031.7030675,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787167046,
+    "timestamp_added": 1787167046.3628128,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-mad-mala-2026-08-19-mala",
+    "title": "Will M\u00e1laga CF win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 743.6,
+    "whale_pct": 0.286,
+    "whale_value_at_open": 260065.048,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787167046.36282,
     "fills": 1
   }
 ]
