@@ -3913,5 +3913,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787103637.386949,
     "fills": 2
+  },
+  {
+    "timestamp": 1787103752,
+    "timestamp_added": 1787103753.1731856,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sud-sao-bol-2026-08-18-total-2pt5",
+    "title": "S\u00e3o Paulo FC vs. Club Bol\u00edvar: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 593.96,
+    "whale_pct": 0.12,
+    "whale_value_at_open": 495703.8195,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787103753.1731958,
+    "fills": 1
   }
 ]
