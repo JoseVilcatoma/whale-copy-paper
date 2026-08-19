@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.5874170969433,
+  "bankroll": 500.40302961151775,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1110,6 +1110,21 @@
       "timestamp": 1787153842.7270474,
       "bankroll": 501.59,
       "event": "won: RN1 \u2014 ITF W35 Krakow Women: Oriana Gniewkowska vs Georgina Garcia Perez"
+    },
+    {
+      "timestamp": 1787154212.427804,
+      "bankroll": 502.57,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Mika Brunold vs Calvin Hemery"
+    },
+    {
+      "timestamp": 1787154214.541525,
+      "bankroll": 497.43,
+      "event": "lost: ferrariChampions2026 \u2014 Sion: Mika Brunold vs Calvin Hemery"
+    },
+    {
+      "timestamp": 1787154217.1455119,
+      "bankroll": 500.4,
+      "event": "won: RN1 \u2014 Sion: Mika Brunold vs Calvin Hemery"
     }
   ]
 }

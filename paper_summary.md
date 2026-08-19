@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:41:45 (hora de Perú)
+Actualizado: 2026-08-19 10:43:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $501.59
-**Retorno acumulado:** +0.32%
+**Bankroll actual:** $500.40
+**Retorno acumulado:** +0.08%
 **Peor caída desde un máximo (drawdown):** 10.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 10:41:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $458.25 en 92 posiciones abiertas (disponible para nuevas apuestas: $43.34)
+**Capital comprometido ahora mismo:** $443.25 en 89 posiciones abiertas (disponible para nuevas apuestas: $57.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
-| RN1 | 16 | 6 | 18 | +6.88 USD |
+| RN1 | 17 | 6 | 17 | +9.85 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
@@ -39,18 +39,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 86 | 50 | 40 | -20.23 USD |
+| ferrariChampions2026 | 87 | 51 | 38 | -24.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 221
-- **Aciertos:** 148 (67.0%)
-- **Cuota promedio de entrada:** 65.3%
+- **Apuestas resueltas:** 224
+- **Aciertos:** 150 (67.0%)
+- **Cuota promedio de entrada:** 65.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,105.00
-- **ROI sobre lo apostado:** +0.06%
-- **Comisiones pagadas (taker fee):** $19.20 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.79% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,120.00
+- **ROI sobre lo apostado:** -0.05%
+- **Comisiones pagadas (taker fee):** $19.47 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.69% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -58,9 +58,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 94 | 46.8% | 49.7% | -2.9 pp |
-| 60-79% | 79 | 74.7% | 68.4% | +6.2 pp |
-| 80-94% | 33 | 90.9% | 87.2% | +3.7 pp |
+| 40-59% | 95 | 46.3% | 49.7% | -3.4 pp |
+| 60-79% | 80 | 75.0% | 68.4% | +6.6 pp |
+| 80-94% | 34 | 91.2% | 87.1% | +4.1 pp |
 | 95-99% (casi seguro) | 15 | 100.0% | 97.7% | +2.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -143,7 +143,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 9.2% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 47% | 5.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 62% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 62% | 5.00 | 2.0% | ✅ ganada | +2.97 |
 | RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | EDward Gaming (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
