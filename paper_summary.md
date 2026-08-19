@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 22:56:01 (hora de Perú)
+Actualizado: 2026-08-18 22:58:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $519.62
-**Retorno acumulado:** +3.92%
+**Bankroll actual:** $523.94
+**Retorno acumulado:** +4.79%
 **Peor caída desde un máximo (drawdown):** 6.23%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 22:56:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $374.62)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $383.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,20 +28,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 1 | 0 | 4 | +1.69 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 1 | 1 | -0.62 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 0 | -4.12 USD |
+| ferrariChampions2026 | 66 | 38 | 19 | -4.18 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 65 | 38 | 20 | -8.50 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 153
-- **Aciertos:** 103 (67.3%)
-- **Cuota promedio de entrada:** 64.8%
+- **Apuestas resueltas:** 154
+- **Aciertos:** 104 (67.5%)
+- **Cuota promedio de entrada:** 64.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $765.00
-- **ROI sobre lo apostado:** +2.57%
-- **Comisiones pagadas (taker fee):** $13.46 (1.76% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +4.33% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $770.00
+- **ROI sobre lo apostado:** +3.12%
+- **Comisiones pagadas (taker fee):** $13.58 (1.76% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +4.88% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,7 +49,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 68 | 50.0% | 49.4% | +0.6 pp |
+| 40-59% | 69 | 50.7% | 49.4% | +1.3 pp |
 | 60-79% | 51 | 74.5% | 68.2% | +6.3 pp |
 | 80-94% | 24 | 87.5% | 87.5% | +0.0 pp |
 | 95-99% (casi seguro) | 10 | 100.0% | 98.1% | +1.9 pp |
@@ -116,6 +116,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Liberty vs. Chicago Sky | Chicago Sky (BUY) | 44% | 5.00 | 0.1% | ✅ ganada | +6.22 |
 | ferrariChampions2026 | LoL: Kits Esports vs 3v Team (BO5) - LRN | 3v Team (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Liberty (-3.5) | New York Liberty (BUY) | 48% | 5.00 | 0.2% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Over (BUY) | 53% | 5.00 | 0.8% | ✅ ganada | +4.32 |
 | ferrariChampions2026 | Washington Nationals vs. Texas Rangers:  | Under (BUY) | 56% | 5.00 | 0.2% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Cincinnati Open: Learner Tien vs Frances | Frances Tiafoe (BUY) | 64% | 5.00 | 3.1% | ✅ ganada | +2.72 |

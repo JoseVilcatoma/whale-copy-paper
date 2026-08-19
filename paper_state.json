@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.6184552806826,
+  "bankroll": 523.9354175448335,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -765,6 +765,11 @@
       "timestamp": 1787111755.306709,
       "bankroll": 519.62,
       "event": "won: HomeRunHazard \u2014 Cincinnati Open: Marie Bouzkova vs Iva Jovic"
+    },
+    {
+      "timestamp": 1787111814.1351025,
+      "bankroll": 523.94,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 12.5"
     }
   ]
 }
