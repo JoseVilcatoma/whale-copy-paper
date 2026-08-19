@@ -1,5 +1,5 @@
 {
-  "bankroll": 412.5543834102509,
+  "bankroll": 447.2095991569875,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1920,6 +1920,36 @@
       "timestamp": 1787177589.8839035,
       "bankroll": 412.55,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Linda Noskova vs Amanda Anisimova"
+    },
+    {
+      "timestamp": 1787178406.9728467,
+      "bankroll": 418.06,
+      "event": "won: SDTrading \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787178408.2641757,
+      "bankroll": 423.79,
+      "event": "won: HomeRunHazard \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787178409.6534364,
+      "bankroll": 429.77,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787178409.991944,
+      "bankroll": 435.5,
+      "event": "won: RN1 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1787178411.2570767,
+      "bankroll": 441.24,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5"
+    },
+    {
+      "timestamp": 1787178411.3572822,
+      "bankroll": 447.21,
+      "event": "won: RN1 \u2014 Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5"
     }
   ]
 }
