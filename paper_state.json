@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.4472524424624,
+  "bankroll": 523.8349420976348,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -485,6 +485,16 @@
       "timestamp": 1787102380.019274,
       "bankroll": 525.45,
       "event": "won: ferrariChampions2026 \u2014 Kingston: Joel Schwaerzler vs Kenta Miyoshi"
+    },
+    {
+      "timestamp": 1787102678.1083932,
+      "bankroll": 528.96,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787102678.421313,
+      "bankroll": 523.83,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 20:23:40 (hora de Perú)
+Actualizado: 2026-08-18 20:25:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $525.45
-**Retorno acumulado:** +5.09%
+**Bankroll actual:** $523.83
+**Retorno acumulado:** +4.77%
 **Peor caída desde un máximo (drawdown):** 4.67%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 20:23:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $270.45)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $273.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,20 +27,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 1 | 1 | 1 | +0.39 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 1 | 1 | 3 | +0.38 USD |
 | Sassy-Bucket | 0 | 0 | 3 | +0.00 USD |
-| danielwolfmorales3pddb6dl6 | 0 | 0 | 1 | +0.00 USD |
+| danielwolfmorales3pddb6dl6 | 0 | 0 | 2 | +0.00 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 37 | 20 | 41 | -16.02 USD |
+| ferrariChampions2026 | 38 | 21 | 39 | -17.63 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 97
-- **Aciertos:** 71 (73.2%)
-- **Cuota promedio de entrada:** 69.6%
+- **Apuestas resueltas:** 99
+- **Aciertos:** 72 (72.7%)
+- **Cuota promedio de entrada:** 69.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $485.00
-- **ROI sobre lo apostado:** +5.25%
-- **Comisiones pagadas (taker fee):** $7.38 (1.52% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +6.77% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $495.00
+- **ROI sobre lo apostado:** +4.82%
+- **Comisiones pagadas (taker fee):** $7.62 (1.54% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +6.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -48,7 +48,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 32 | 53.1% | 48.8% | +4.3 pp |
+| 40-59% | 34 | 52.9% | 49.1% | +3.9 pp |
 | 60-79% | 33 | 75.8% | 69.2% | +6.6 pp |
 | 80-94% | 22 | 86.4% | 87.4% | -1.0 pp |
 | 95-99% (casi seguro) | 10 | 100.0% | 98.1% | +1.9 pp |
@@ -83,6 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Marie Bouzkova vs Iva J | Iva Jovic (BUY) | 53% | 5.00 | 34.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cancun: Dalibor Svrcina vs Stan Wawrinka | Stan Wawrinka (BUY) | 52% | 5.00 | 29.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Las Vegas Aces: O/U 17 | Over (BUY) | 52% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Las Vegas Aces | Atlanta Dream (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -112,4 +113,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | New York Liberty vs. Chicago Sky: O/U 17 | Over (BUY) | 52% | 5.00 | 22.4% | ⏳ pendiente | — |
 | theowalcott | CD Tolima vs. Independiente del Valle: O | Over (BUY) | 65% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Lucas Da Silva vs Tyler Zink | Tyler Zink (BUY) | 47% | 5.00 | 2.0% | ✅ ganada | +5.51 |
-| ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | Cleveland Guardians (BUY) | 84% | 5.00 | 5.2% | ⏳ pendiente | — |
