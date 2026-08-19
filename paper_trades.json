@@ -9488,8 +9488,8 @@
     "title": "Will M\u00e1laga CF win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 743.6,
-    "whale_pct": 0.286,
+    "whale_usd": 2267.21,
+    "whale_pct": 0.872,
     "whale_value_at_open": 260065.048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -9500,8 +9500,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787167046.36282,
-    "fills": 1
+    "last_fill_at": 1787172185.9528053,
+    "fills": 2
   },
   {
     "timestamp": 1787167302,
