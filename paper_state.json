@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.0737604740285,
+  "bankroll": 498.21584082575686,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1090,6 +1090,21 @@
       "timestamp": 1787153468.7624192,
       "bankroll": 493.07,
       "event": "won: ferrariChampions2026 \u2014 LoL: HANJIN BRION vs DN SOOPers - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787153528.0239706,
+      "bankroll": 495.35,
+      "event": "won: ferrariChampions2026 \u2014 Prague 2: Radu Mihai Papoe vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1787153528.1241403,
+      "bankroll": 498.07,
+      "event": "won: RN1 \u2014 Prague 2: Radu Mihai Papoe vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1787153532.6843922,
+      "bankroll": 498.22,
+      "event": "won: HomeRunHazard \u2014 Prague 2: Radu Mihai Papoe vs Javier Barranco Cosano"
     }
   ]
 }
