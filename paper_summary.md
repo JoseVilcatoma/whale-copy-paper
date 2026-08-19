@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:50:37 (hora de Perú)
+Actualizado: 2026-08-19 15:52:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $443.24
@@ -161,7 +161,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Campos do Jordão 2 Women: Camila | Camila Romero (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Celtic FC vs. LASK Linz end in a dr | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
