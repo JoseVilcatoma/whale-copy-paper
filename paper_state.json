@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.7859767849675,
+  "bankroll": 476.0605257416288,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1280,6 +1280,21 @@
       "timestamp": 1787159470.081671,
       "bankroll": 476.79,
       "event": "won: HomeRunHazard \u2014 Cincinnati Open: Iga Swiatek vs Diane Parry"
+    },
+    {
+      "timestamp": 1787159528.4938552,
+      "bankroll": 477.38,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C"
+    },
+    {
+      "timestamp": 1787159591.7304056,
+      "bankroll": 472.24,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787159591.9307597,
+      "bankroll": 476.06,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic - Map 1 Winner"
     }
   ]
 }
