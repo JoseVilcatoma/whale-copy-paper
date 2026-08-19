@@ -1,5 +1,5 @@
 {
-  "bankroll": 419.5638480242388,
+  "bankroll": 416.04126565759736,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1840,6 +1840,56 @@
       "timestamp": 1787174873.4108279,
       "bankroll": 419.56,
       "event": "won: RN1 \u2014 Will Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF end in a draw?"
+    },
+    {
+      "timestamp": 1787174935.6167324,
+      "bankroll": 420.84,
+      "event": "won: RN1 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5"
+    },
+    {
+      "timestamp": 1787174936.1589098,
+      "bankroll": 415.73,
+      "event": "lost: RN1 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5"
+    },
+    {
+      "timestamp": 1787174936.3593175,
+      "bankroll": 421.46,
+      "event": "won: ferrariChampions2026 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5"
+    },
+    {
+      "timestamp": 1787174937.1604228,
+      "bankroll": 416.37,
+      "event": "lost: ferrariChampions2026 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5"
+    },
+    {
+      "timestamp": 1787174992.948131,
+      "bankroll": 418.06,
+      "event": "won: swisstony \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174998.5885167,
+      "bankroll": 419.84,
+      "event": "won: ic4cream \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787175000.1611598,
+      "bankroll": 422.34,
+      "event": "won: RN1 \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787175000.5619502,
+      "bankroll": 417.19,
+      "event": "lost: RN1 \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787175001.062866,
+      "bankroll": 421.17,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787175001.3632784,
+      "bankroll": 416.04,
+      "event": "lost: ferrariChampions2026 \u2014 Will Club Atl\u00e9tico de Madrid win on 2026-08-19?"
     }
   ]
 }

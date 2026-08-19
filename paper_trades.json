@@ -1163,8 +1163,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8110,8 +8110,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [
       "swisstony"
     ],
@@ -9133,8 +9133,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 22891.9022,
-    "whale_pct": 13.801,
+    "whale_usd": 27030.1022,
+    "whale_pct": 16.296,
     "whale_value_at_open": 165873.9216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -9145,8 +9145,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787174855.7393913,
-    "fills": 9
+    "last_fill_at": 1787174959.354276,
+    "fills": 11
   },
   {
     "timestamp": 1787164714,
@@ -9418,8 +9418,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [
       "ic4cream",
       "swisstony"
@@ -9445,8 +9445,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.28,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9774,8 +9774,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "ic4cream"
     ],
@@ -9872,8 +9872,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9994,8 +9994,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [
       "RN1"
     ],
@@ -10123,8 +10123,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [
       "RN1",
       "ic4cream"
@@ -10248,8 +10248,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "RN1",
       "ic4cream"
@@ -10275,8 +10275,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "RN1"
     ],
@@ -10480,6 +10480,57 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787174745.149857,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787174975,
+    "timestamp_added": 1787174975.5038662,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-virtane-echargu-2026-08-18",
+    "title": "Cancun: Otto Virtanen vs Moez Echargui",
+    "outcome": "Otto Virtanen",
+    "side": "BUY",
+    "whale_usd": 1017.7424,
+    "whale_pct": 0.324,
+    "whale_value_at_open": 314501.4031,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787174975.5038772,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787175005,
+    "timestamp_added": 1787175006.2027123,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-noskova-anisimo-2026-08-19",
+    "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 968.1216,
+    "whale_pct": 0.308,
+    "whale_value_at_open": 314501.4031,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787175006.2027223,
     "fills": 1
   }
 ]
