@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 23:29:39 (hora de Perú)
+Actualizado: 2026-08-18 23:31:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $521.67
-**Retorno acumulado:** +4.33%
+**Bankroll actual:** $511.44
+**Retorno acumulado:** +2.29%
 **Peor caída desde un máximo (drawdown):** 6.23%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 23:29:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $436.67)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $436.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,24 +24,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | sentrio | 2 | 1 | 2 | +5.90 USD |
 | HomeRunHazard | 3 | 0 | 2 | +3.91 USD |
-| theowalcott | 1 | 0 | 1 | +3.66 USD |
 | RN1 | 1 | 1 | 0 | +1.91 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 1 | 1 | -0.62 USD |
+| theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 0 | -4.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 71 | 42 | 10 | -8.64 USD |
+| ferrariChampions2026 | 71 | 43 | 9 | -13.78 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 165
-- **Aciertos:** 111 (67.3%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 167
+- **Aciertos:** 111 (66.5%)
+- **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $825.00
-- **ROI sobre lo apostado:** +2.64%
-- **Comisiones pagadas (taker fee):** $14.60 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +4.41% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $835.00
+- **ROI sobre lo apostado:** +1.38%
+- **Comisiones pagadas (taker fee):** $14.83 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +3.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,8 +49,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 76 | 50.0% | 49.7% | +0.3 pp |
-| 60-79% | 53 | 75.5% | 68.2% | +7.3 pp |
+| 40-59% | 77 | 49.4% | 49.6% | -0.2 pp |
+| 60-79% | 54 | 74.1% | 68.1% | +5.9 pp |
 | 80-94% | 24 | 87.5% | 87.5% | +0.0 pp |
 | 95-99% (casi seguro) | 12 | 100.0% | 97.8% | +2.2 pp |
 
@@ -102,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Liberty vs. Chicago Sky | New York Liberty (BUY) | 46% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Cancun: Gauthier Onclin vs Alejandro Mor | Gauthier Onclin (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Cincinnati Open: Marie Bouzkova vs Iva J | Marie Bouzkova (BUY) | 71% | 5.00 | 2.1% | ✅ ganada | +1.97 |
-| ferrariChampions2026 | Will São Paulo FC vs. Club Bolívar end i | Yes (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will São Paulo FC vs. Club Bolívar end i | Yes (BUY) | 42% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-4.5) | Colorado Rockies (BUY) | 50% | 5.00 | 0.2% | ✅ ganada | +4.88 |
 | ferrariChampions2026 | Cincinnati Open: Marie Bouzkova vs Iva J | Iva Jovic (BUY) | 67% | 5.00 | 0.1% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 56% | 5.00 | 0.2% | ❌ perdida | -5.11 |

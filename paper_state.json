@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.6729184065551,
+  "bankroll": 511.44091840655517,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -825,6 +825,16 @@
       "timestamp": 1787112068.4307978,
       "bankroll": 521.67,
       "event": "lost: ferrariChampions2026 \u2014 Cancun: Gauthier Onclin vs Alejandro Moro Canas"
+    },
+    {
+      "timestamp": 1787113899.136007,
+      "bankroll": 516.59,
+      "event": "lost: theowalcott \u2014 CD Tolima vs. Independiente del Valle: O/U 1.5"
+    },
+    {
+      "timestamp": 1787113900.2047796,
+      "bankroll": 511.44,
+      "event": "lost: ferrariChampions2026 \u2014 Will S\u00e3o Paulo FC vs. Club Bol\u00edvar end in a draw?"
     }
   ]
 }
