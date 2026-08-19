@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:10:38 (hora de Perú)
+Actualizado: 2026-08-19 10:12:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 10:10:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $48.25)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $43.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
-| RN1 | 12 | 5 | 20 | +3.62 USD |
+| RN1 | 12 | 5 | 21 | +3.62 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
@@ -119,6 +119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 93% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 9.2% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 47% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -148,4 +149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 45% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 65% | 5.00 | 4.3% | ⏳ pendiente | — |
-| RN1 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 69% | 5.00 | 9.6% | ⏳ pendiente | — |

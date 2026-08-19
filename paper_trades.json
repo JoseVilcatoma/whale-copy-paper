@@ -7317,5 +7317,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787151901.9324124,
     "fills": 1
+  },
+  {
+    "timestamp": 1787152272,
+    "timestamp_added": 1787152272.7730684,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-swiatek-parry-2026-08-19",
+    "title": "Cincinnati Open: Iga Swiatek vs Diane Parry",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 4754.6741999999995,
+    "whale_pct": 3.05,
+    "whale_value_at_open": 155901.4905,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152310.828346,
+    "fills": 3
   }
 ]
