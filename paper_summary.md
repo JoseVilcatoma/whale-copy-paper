@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:41:54 (hora de Perú)
+Actualizado: 2026-08-19 13:43:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $478.11
-**Retorno acumulado:** -4.38%
+**Bankroll actual:** $480.65
+**Retorno acumulado:** -3.87%
 **Peor caída desde un máximo (drawdown):** 15.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 13:41:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $451.62 en 91 posiciones abiertas (disponible para nuevas apuestas: $26.49)
+**Capital comprometido ahora mismo:** $441.62 en 89 posiciones abiertas (disponible para nuevas apuestas: $39.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
-| RN1 | 30 | 13 | 29 | +1.53 USD |
+| RN1 | 31 | 13 | 28 | +3.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
@@ -42,18 +42,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 102 | 62 | 16 | -41.20 USD |
+| ferrariChampions2026 | 103 | 62 | 15 | -40.36 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 282
-- **Aciertos:** 186 (66.0%)
-- **Cuota promedio de entrada:** 65.8%
+- **Apuestas resueltas:** 284
+- **Aciertos:** 188 (66.2%)
+- **Cuota promedio de entrada:** 65.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,410.00
-- **ROI sobre lo apostado:** -1.62%
-- **Comisiones pagadas (taker fee):** $24.15 (1.71% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,420.00
+- **ROI sobre lo apostado:** -1.43%
+- **Comisiones pagadas (taker fee):** $24.25 (1.71% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,8 +62,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 115 | 48.7% | 50.0% | -1.3 pp |
-| 60-79% | 103 | 69.9% | 68.2% | +1.7 pp |
-| 80-94% | 46 | 87.0% | 87.3% | -0.4 pp |
+| 60-79% | 104 | 70.2% | 68.3% | +1.9 pp |
+| 80-94% | 47 | 87.2% | 87.3% | -0.0 pp |
 | 95-99% (casi seguro) | 18 | 100.0% | 97.6% | +2.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -154,7 +154,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Chicago Cubs (-2.5) | Chicago White Sox (BUY) | 72% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 3.37 | 2.9% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | ITF M15 Båstad Men: Alessandro Battiston | Alessandro Battiston (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | ITF M15 Båstad Men: Alessandro Battiston | Alessandro Battiston (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Jakub Mensik (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Sorana Cirstea vs Jessi | Jessica Pegula (BUY) | 97% | 5.00 | 1.7% | ⏳ pendiente | — |

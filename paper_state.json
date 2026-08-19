@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.11121735968965,
+  "bankroll": 480.6473270576229,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1415,6 +1415,16 @@
       "timestamp": 1787164576.848609,
       "bankroll": 478.11,
       "event": "won: RN1 \u2014 ITF M25 Santander Men: Bernardo Munk Mesa vs Sergi Perez Contri"
+    },
+    {
+      "timestamp": 1787164974.4694946,
+      "bankroll": 478.96,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Black Phoenix vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage"
+    },
+    {
+      "timestamp": 1787164978.8826783,
+      "bankroll": 480.65,
+      "event": "won: RN1 \u2014 ITF M15 B\u00e5stad Men: Alessandro Battiston vs Andreja Petrovic"
     }
   ]
 }
