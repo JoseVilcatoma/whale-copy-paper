@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 12:29:51 (hora de Perú)
+Actualizado: 2026-08-19 12:31:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.62
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 12:29:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $428.25 en 86 posiciones abiertas (disponible para nuevas apuestas: $38.37)
+**Capital comprometido ahora mismo:** $438.25 en 88 posiciones abiertas (disponible para nuevas apuestas: $28.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,8 +33,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 0 | 0 | 1 | +0.00 USD |
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
-| RN1 | 26 | 12 | 19 | -2.25 USD |
-| HomeRunHazard | 10 | 3 | 14 | -3.86 USD |
+| RN1 | 26 | 12 | 20 | -2.25 USD |
+| HomeRunHazard | 10 | 3 | 15 | -3.86 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 1 | 5 | -5.10 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -131,14 +131,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Båstad Men: Jonathan Mridha vs O | Jonathan Mridha (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Marta Kostyuk vs Mirra  | Mirra Andreeva (BUY) | 74% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Pittsburgh Pirates (-2.5) | Detroit Tigers (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | New York Mets (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF W15 Wanfercée-Baulet Women: Delia Ga | Margaux Maquet (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 6.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 42% | 5.00 | 7.6% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 7.0% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 42% | 5.00 | 12.7% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: GamerLegion vs MOUZ (BO3 | MOUZ (BUY) | 80% | 5.00 | 11.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cirstea vs. Pegula: Match O/U 21.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Duncan Chan vs Taro Daniel | Taro Daniel (BUY) | 73% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -159,5 +161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Roehampton: Mark Ceban vs Iliyan Radulov | Mark Ceban (BUY) | 96% | 5.00 | 4.3% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Counter-Strike: Black Phoenix vs Bushido | Black Phoenix (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
-| ChonkyChocolateCake | LoL: Vitality.Bee vs Ici Japon Corp. Esp | Ici Japon Corp. Esport (BUY) | 51% | 5.00 | 5.6% | ⏳ pendiente | — |
-| ChonkyChocolateCake | LoL: UCAM Esports Club vs Team Heretics  | UCAM Esports Club (BUY) | 51% | 5.00 | 11.5% | ⏳ pendiente | — |
