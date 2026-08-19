@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:02:25 (hora de Perú)
+Actualizado: 2026-08-19 08:04:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.19
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:02:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $315.19)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $305.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
-| RN1 | 5 | 1 | 10 | +6.29 USD |
+| RN1 | 5 | 1 | 11 | +6.29 USD |
 | sentrio | 2 | 1 | 4 | +5.90 USD |
 | HomeRunHazard | 4 | 1 | 1 | +2.93 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 3 | +0.00 USD |
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 75 | 47 | 13 | -23.51 USD |
+| ferrariChampions2026 | 75 | 47 | 14 | -23.51 USD |
 
 ## Análisis general
 
@@ -100,7 +100,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Roehampton: Lui Maxted vs Patrick Brady | Patrick Brady (BUY) | 50% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Dalian Yingbo FC win on 2026-07-12? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Roehampton: Lui Maxted vs Patrick Brady | Patrick Brady (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Bistrita Women: Mariia Drobyshev | Mariia Drobysheva (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -128,5 +130,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 72% | 5.00 | 7.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Anyone's Legend vs Top Esports - Ga | Anyone's Legend (BUY) | 55% | 5.00 | 36.0% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs DN SOOPers - Game 1 | DN SOOPers (BUY) | 44% | 5.00 | 20.7% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 67% | 5.00 | 5.7% | ⏳ pendiente | — |
-| RN1 | Prague 2: Juan Bautista Torres vs Chun-H | Chun-Hsin Tseng (BUY) | 79% | 5.00 | 33.7% | ✅ ganada | +1.28 |
