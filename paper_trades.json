@@ -10667,8 +10667,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 16895.893399,
-    "whale_pct": 4.982,
+    "whale_usd": 25174.524399,
+    "whale_pct": 7.424,
     "whale_value_at_open": 339113.3087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -10681,8 +10681,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176710.4284809,
-    "fills": 9
+    "last_fill_at": 1787176807.3218675,
+    "fills": 12
   },
   {
     "timestamp": 1787175978,
@@ -10782,6 +10782,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787176502.5586357,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787176793,
+    "timestamp_added": 1787176793.3216212,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-virtane-echargu-2026-08-18",
+    "title": "Cancun: Otto Virtanen vs Moez Echargui",
+    "outcome": "Moez Echargui",
+    "side": "BUY",
+    "whale_usd": 5095.2,
+    "whale_pct": 1.317,
+    "whale_value_at_open": 386862.8992,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787176793.321633,
     "fills": 1
   }
 ]
