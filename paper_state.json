@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.6473270576229,
+  "bankroll": 482.6165805787496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1425,6 +1425,11 @@
       "timestamp": 1787164978.8826783,
       "bankroll": 480.65,
       "event": "won: RN1 \u2014 ITF M15 B\u00e5stad Men: Alessandro Battiston vs Andreja Petrovic"
+    },
+    {
+      "timestamp": 1787165920.3265417,
+      "bankroll": 482.62,
+      "event": "won: RN1 \u2014 ITF M15 B\u00e5stad Men: Jonathan Mridha vs Oren Vasser"
     }
   ]
 }

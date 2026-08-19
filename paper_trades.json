@@ -8663,8 +8663,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9275,5 +9275,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787165653.9820085,
     "fills": 3
+  },
+  {
+    "timestamp": 1787165911,
+    "timestamp_added": 1787165911.6715384,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "wta-noskova-anisimo-2026-08-19",
+    "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
+    "outcome": "Linda Noskova",
+    "side": "BUY",
+    "whale_usd": 837.2156,
+    "whale_pct": 3.076,
+    "whale_value_at_open": 27221.6824,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787165911.671552,
+    "fills": 1
   }
 ]
