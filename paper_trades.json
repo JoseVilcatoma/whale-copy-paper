@@ -8798,5 +8798,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787161207.6126864,
     "fills": 1
+  },
+  {
+    "timestamp": 1787161333,
+    "timestamp_added": 1787161333.9486077,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-atl-min-2026-08-19",
+    "title": "Atlanta Braves vs. Minnesota Twins",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 1051.6200000000001,
+    "whale_pct": 0.592,
+    "whale_value_at_open": 177732.2235,
+    "paper_stake_usd": 3.37,
+    "odds_at_bet": 52,
+    "fee_usd": 0.081,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading",
+      "Satisfied",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787161333.9486167,
+    "fills": 1
   }
 ]
