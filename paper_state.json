@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.717786200193,
+  "bankroll": 448.15147585536545,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1605,6 +1605,16 @@
       "timestamp": 1787169046.1485062,
       "bankroll": 449.72,
       "event": "won: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1787169356.142248,
+      "bankroll": 444.64,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik"
+    },
+    {
+      "timestamp": 1787169358.4772458,
+      "bankroll": 448.15,
+      "event": "won: RN1 \u2014 Cincinnati Open: Thiago Agustin Tirante vs Jakub Mensik"
     }
   ]
 }

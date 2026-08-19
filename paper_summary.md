@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:53:53 (hora de Perú)
+Actualizado: 2026-08-19 14:56:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $449.72
-**Retorno acumulado:** -10.06%
-**Peor caída desde un máximo (drawdown):** 17.99%
+**Bankroll actual:** $448.15
+**Retorno acumulado:** -10.37%
+**Peor caída desde un máximo (drawdown):** 18.42%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 14:53:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $371.62 en 75 posiciones abiertas (disponible para nuevas apuestas: $78.10)
+**Capital comprometido ahora mismo:** $361.62 en 73 posiciones abiertas (disponible para nuevas apuestas: $86.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,22 +38,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
+| RN1 | 41 | 20 | 29 | -6.76 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 40 | 20 | 30 | -10.28 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| HomeRunHazard | 15 | 9 | 8 | -19.49 USD |
+| HomeRunHazard | 15 | 10 | 7 | -24.57 USD |
 | ferrariChampions2026 | 106 | 65 | 9 | -46.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 320
-- **Aciertos:** 208 (65.0%)
-- **Cuota promedio de entrada:** 65.3%
+- **Apuestas resueltas:** 322
+- **Aciertos:** 209 (64.9%)
+- **Cuota promedio de entrada:** 65.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,600.00
-- **ROI sobre lo apostado:** -3.21%
-- **Comisiones pagadas (taker fee):** $27.81 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.47% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,610.00
+- **ROI sobre lo apostado:** -3.28%
+- **Comisiones pagadas (taker fee):** $28.00 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.54% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,8 +61,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 133 | 45.1% | 49.9% | -4.8 pp |
-| 60-79% | 119 | 72.3% | 68.1% | +4.2 pp |
+| 40-59% | 134 | 45.5% | 50.0% | -4.5 pp |
+| 60-79% | 120 | 71.7% | 68.1% | +3.6 pp |
 | 80-94% | 49 | 87.8% | 87.4% | +0.3 pp |
 | 95-99% (casi seguro) | 19 | 100.0% | 97.6% | +2.4 pp |
 
@@ -163,7 +163,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Celtic FC vs. LASK Linz: Both Teams to S | Yes (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 4.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 4.5% | ✅ ganada | +3.52 |
 | RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Sorana Cirstea (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 2.1% | ⏳ pendiente | — |
