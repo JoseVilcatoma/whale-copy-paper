@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-18 23:00:14 (hora de Perú)
+Actualizado: 2026-08-18 23:02:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $526.69
-**Retorno acumulado:** +5.34%
+**Bankroll actual:** $521.67
+**Retorno acumulado:** +4.33%
 **Peor caída desde un máximo (drawdown):** 6.23%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-18 23:00:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $431.69)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $436.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,21 +27,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 1 | 0 | 1 | +3.66 USD |
 | RN1 | 1 | 1 | 0 | +1.91 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 1 | 1 | -0.62 USD |
-| ferrariChampions2026 | 70 | 41 | 12 | -3.63 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 0 | -4.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| ferrariChampions2026 | 71 | 42 | 10 | -8.64 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 163
-- **Aciertos:** 110 (67.5%)
-- **Cuota promedio de entrada:** 64.5%
+- **Apuestas resueltas:** 165
+- **Aciertos:** 111 (67.3%)
+- **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $815.00
-- **ROI sobre lo apostado:** +3.28%
-- **Comisiones pagadas (taker fee):** $14.48 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +5.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $825.00
+- **ROI sobre lo apostado:** +2.64%
+- **Comisiones pagadas (taker fee):** $14.60 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +4.41% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -49,10 +49,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 75 | 50.7% | 49.6% | +1.1 pp |
+| 40-59% | 76 | 50.0% | 49.7% | +0.3 pp |
 | 60-79% | 53 | 75.5% | 68.2% | +7.3 pp |
 | 80-94% | 24 | 87.5% | 87.5% | +0.0 pp |
-| 95-99% (casi seguro) | 11 | 100.0% | 97.8% | +2.2 pp |
+| 95-99% (casi seguro) | 12 | 100.0% | 97.8% | +2.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -97,10 +97,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cancun: Pablo Llamas Ruiz vs Francisco C | Francisco Comesana (BUY) | 46% | 5.00 | 84.9% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Marie Bouzkova vs Iva J | Marie Bouzkova (BUY) | 74% | 5.00 | 0.5% | ✅ ganada | +1.69 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Colorado Rockies (BUY) | 71% | 5.00 | 4.2% | ✅ ganada | +1.97 |
-| ferrariChampions2026 | Cancun: Gauthier Onclin vs Alejandro Mor | Alejandro Moro Canas (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Gauthier Onclin vs Alejandro Mor | Alejandro Moro Canas (BUY) | 55% | 5.00 | 0.6% | ❌ perdida | -5.11 |
 | sentrio | Spread: Milwaukee Brewers (-2.5) | Seattle Mariners (BUY) | 78% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Liberty vs. Chicago Sky | New York Liberty (BUY) | 46% | 5.00 | 0.3% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Cancun: Gauthier Onclin vs Alejandro Mor | Gauthier Onclin (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Gauthier Onclin vs Alejandro Mor | Gauthier Onclin (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Cincinnati Open: Marie Bouzkova vs Iva J | Marie Bouzkova (BUY) | 71% | 5.00 | 2.1% | ✅ ganada | +1.97 |
 | ferrariChampions2026 | Will São Paulo FC vs. Club Bolívar end i | Yes (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-4.5) | Colorado Rockies (BUY) | 50% | 5.00 | 0.2% | ✅ ganada | +4.88 |

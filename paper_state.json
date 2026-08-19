@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.6878775902286,
+  "bankroll": 521.6729184065551,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -815,6 +815,16 @@
       "timestamp": 1787112009.6653626,
       "bankroll": 526.69,
       "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1787112067.9824753,
+      "bankroll": 526.78,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Gauthier Onclin vs Alejandro Moro Canas"
+    },
+    {
+      "timestamp": 1787112068.4307978,
+      "bankroll": 521.67,
+      "event": "lost: ferrariChampions2026 \u2014 Cancun: Gauthier Onclin vs Alejandro Moro Canas"
     }
   ]
 }
