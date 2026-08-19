@@ -4965,5 +4965,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787140717.8220053,
     "fills": 2
+  },
+  {
+    "timestamp": 1787141331,
+    "timestamp_added": 1787141332.1341798,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-boitan-gray-2026-08-19",
+    "title": "Roehampton: Gabi Boitan vs Alastair Gray",
+    "outcome": "Gabi Boitan",
+    "side": "BUY",
+    "whale_usd": 940.0,
+    "whale_pct": 1.146,
+    "whale_value_at_open": 82004.0882,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787141332.1341922,
+    "fills": 1
   }
 ]
