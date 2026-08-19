@@ -5399,8 +5399,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7511,8 +7511,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -7537,8 +7537,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "SDTrading",
       "ferrariChampions2026"
@@ -8787,8 +8787,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [
       "SDTrading",
       "Satisfied",
@@ -8815,8 +8815,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.081,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -3.45,
     "overlaps_with": [
       "SDTrading",
       "Satisfied",
@@ -9488,8 +9488,8 @@
     "title": "Will M\u00e1laga CF win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5320.586,
-    "whale_pct": 2.046,
+    "whale_usd": 6853.43,
+    "whale_pct": 2.635,
     "whale_value_at_open": 260065.048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -9500,8 +9500,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787172608.0327506,
-    "fills": 4
+    "last_fill_at": 1787172811.4301841,
+    "fills": 5
   },
   {
     "timestamp": 1787167302,
@@ -9543,8 +9543,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [
       "RN1",
       "SDTrading",

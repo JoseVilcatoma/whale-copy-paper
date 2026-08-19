@@ -1,5 +1,5 @@
 {
-  "bankroll": 443.239445544954,
+  "bankroll": 434.351527177607,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1650,6 +1650,36 @@
       "timestamp": 1787170940.2159991,
       "bankroll": 443.24,
       "event": "won: RN1 \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787172812.1682656,
+      "bankroll": 438.12,
+      "event": "lost: ferrariChampions2026 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787172815.0788743,
+      "bankroll": 433.0,
+      "event": "lost: SDTrading \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787172815.179081,
+      "bankroll": 437.87,
+      "event": "won: Satisfied \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787172817.7567782,
+      "bankroll": 442.95,
+      "event": "won: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787172817.8570108,
+      "bankroll": 439.5,
+      "event": "lost: RN1 \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787172821.1874378,
+      "bankroll": 434.35,
+      "event": "lost:  \u2014 Atlanta Braves vs. Minnesota Twins"
     }
   ]
 }
