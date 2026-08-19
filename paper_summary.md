@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:49:46 (hora de Perú)
+Actualizado: 2026-08-19 14:51:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.62
-**Retorno acumulado:** -5.28%
-**Peor caída desde un máximo (drawdown):** 15.31%
+**Bankroll actual:** $449.72
+**Retorno acumulado:** -10.06%
+**Peor caída desde un máximo (drawdown):** 17.99%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 14:49:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $451.62 en 91 posiciones abiertas (disponible para nuevas apuestas: $22.00)
+**Capital comprometido ahora mismo:** $371.62 en 75 posiciones abiertas (disponible para nuevas apuestas: $78.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,31 +29,31 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 |  | 1 | 0 | 3 | +0.53 USD |
-| SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
 | predictionlegend | 0 | 0 | 4 | +0.00 USD |
 | ChonkyChocolateCake | 0 | 0 | 2 | +0.00 USD |
 | ic4cream | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 36 | 16 | 38 | -0.37 USD |
+| SDTrading | 1 | 1 | 5 | -0.83 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 13 | 6 | 13 | -11.47 USD |
+| RN1 | 40 | 20 | 30 | -10.28 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 106 | 64 | 10 | -41.55 USD |
+| HomeRunHazard | 15 | 9 | 8 | -19.49 USD |
+| ferrariChampions2026 | 106 | 65 | 9 | -46.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 304
-- **Aciertos:** 201 (66.1%)
-- **Cuota promedio de entrada:** 65.9%
+- **Apuestas resueltas:** 320
+- **Aciertos:** 208 (65.0%)
+- **Cuota promedio de entrada:** 65.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,520.00
-- **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $25.96 (1.71% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,600.00
+- **ROI sobre lo apostado:** -3.21%
+- **Comisiones pagadas (taker fee):** $27.81 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.47% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,8 +61,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 122 | 47.5% | 50.0% | -2.5 pp |
-| 60-79% | 114 | 71.1% | 68.2% | +2.8 pp |
+| 40-59% | 133 | 45.1% | 49.9% | -4.8 pp |
+| 60-79% | 119 | 72.3% | 68.1% | +4.2 pp |
 | 80-94% | 49 | 87.8% | 87.4% | +0.3 pp |
 | 95-99% (casi seguro) | 19 | 100.0% | 97.6% | +2.4 pp |
 
@@ -172,4 +172,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 | predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 45.9% | ⏳ pendiente | — |
 |  | Kingston: Igor Ribeiro Marcondes vs Laut | Lautaro Midon (BUY) | 90% | 5.00 | 0.6% | ✅ ganada | +0.53 |
-| RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 64% | 5.00 | 0.4% | ✅ ganada | +2.72 |

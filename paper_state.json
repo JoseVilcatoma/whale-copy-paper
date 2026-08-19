@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.6217293302197,
+  "bankroll": 449.717786200193,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1525,6 +1525,86 @@
       "timestamp": 1787168725.9153965,
       "bankroll": 473.62,
       "event": "won: RN1 \u2014 ITF M25 Ueberlingen Men: Moritz Hoffmann vs Christian Djonov"
+    },
+    {
+      "timestamp": 1787169033.6394944,
+      "bankroll": 476.86,
+      "event": "won: HomeRunHazard \u2014 Spread: Pittsburgh Pirates (-1.5)"
+    },
+    {
+      "timestamp": 1787169037.6356175,
+      "bankroll": 481.0,
+      "event": "won: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1787169038.064954,
+      "bankroll": 475.85,
+      "event": "lost: SDTrading \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787169038.7592647,
+      "bankroll": 470.7,
+      "event": "lost: ferrariChampions2026 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787169038.8594015,
+      "bankroll": 465.56,
+      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787169038.9595952,
+      "bankroll": 469.87,
+      "event": "won: SDTrading \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1787169042.0684903,
+      "bankroll": 464.76,
+      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1787169042.2687588,
+      "bankroll": 459.65,
+      "event": "lost: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1787169042.3691278,
+      "bankroll": 454.52,
+      "event": "lost: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1787169042.469279,
+      "bankroll": 457.62,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787169043.3425817,
+      "bankroll": 460.85,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 9.5"
+    },
+    {
+      "timestamp": 1787169043.4427652,
+      "bankroll": 455.73,
+      "event": "lost: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1787169043.9781535,
+      "bankroll": 457.25,
+      "event": "won: RN1 \u2014 Spread: Pittsburgh Pirates (-2.5)"
+    },
+    {
+      "timestamp": 1787169044.904679,
+      "bankroll": 452.12,
+      "event": "lost: HomeRunHazard \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5"
+    },
+    {
+      "timestamp": 1787169046.0483139,
+      "bankroll": 447.0,
+      "event": "lost: RN1 \u2014 Atlanta Braves vs. Minnesota Twins: O/U 7.5"
+    },
+    {
+      "timestamp": 1787169046.1485062,
+      "bankroll": 449.72,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5"
     }
   ]
 }
