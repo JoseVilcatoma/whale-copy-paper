@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:59:53 (hora de Perú)
+Actualizado: 2026-08-19 09:01:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:59:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $222.17)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $217.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
 | HomeRunHazard | 4 | 1 | 1 | +2.93 USD |
-| RN1 | 9 | 3 | 16 | +2.38 USD |
+| RN1 | 9 | 3 | 17 | +2.38 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
@@ -108,15 +108,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Mathieu Sca | Maxwell McKennon (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Oriana Gniewkowska | Oriana Gniewkowska (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | ITF W50 Prague Women: Anna Siskova vs Ye | Yelyzaveta Kotliar (BUY) | 42% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF W50 Prague Women: Anna Siskova vs Ye | Yelyzaveta Kotliar (BUY) | 42% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HVAB | ITF W35 Krakow Women: Oriana Gniewkowska | Oriana Gniewkowska (BUY) | 63% | 5.00 | 1642.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: KT Wiz vs. LG Twins | LG Twins (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF M15 Lambermont Men: Nicolas Robert v | Nicolas Robert (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | EDward Gaming (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 83% | 5.00 | 3.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 83% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming (BO3) - LP | Team WE (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | Team WE (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -137,4 +138,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Lui Maxted vs Patrick Brady | Lui Maxted (BUY) | 65% | 5.00 | 0.2% | ✅ ganada | +2.61 |
 | RN1 | Roehampton: Michael Geerts vs Radu Albot | Radu Albot (BUY) | 78% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Dalian Yingbo FC win on 2026-07-12? | No (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Roehampton: Lui Maxted vs Patrick Brady | Patrick Brady (BUY) | 50% | 5.00 | 4.2% | ❌ perdida | -5.12 |
