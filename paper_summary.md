@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 09:20:37 (hora de Perú)
+Actualizado: 2026-08-19 09:22:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.08
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 1 W | G2 (BUY) | 45% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 65% | 5.00 | 4.0% | ⏳ pendiente | — |
-| RN1 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 69% | 5.00 | 4.7% | ⏳ pendiente | — |
+| RN1 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 69% | 5.00 | 9.6% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 93% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 74% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: G2 (-1.5) vs Astralis (+1. | Astralis (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -138,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Lambermont Men: Nicolas Robert v | Nicolas Robert (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: SPARTA vs MOUZ NXT (BO3) | SPARTA (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | EDward Gaming (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 83% | 5.00 | 10.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 83% | 5.00 | 12.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming (BO3) - LP | Team WE (BUY) | 74% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | Team WE (BUY) | 60% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |

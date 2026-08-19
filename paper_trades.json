@@ -5980,8 +5980,8 @@
     "title": "Sion: Mika Brunold vs Calvin Hemery",
     "outcome": "Mika Brunold",
     "side": "BUY",
-    "whale_usd": 25973.7837,
-    "whale_pct": 10.663,
+    "whale_usd": 30040.450366,
+    "whale_pct": 12.332,
     "whale_value_at_open": 243593.6738,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -5992,8 +5992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148547.0114434,
-    "fills": 5
+    "last_fill_at": 1787149257.587742,
+    "fills": 6
   },
   {
     "timestamp": 1787146919,
@@ -6576,8 +6576,8 @@
     "title": "Roehampton: Michael Geerts vs Radu Albot",
     "outcome": "Michael Geerts",
     "side": "BUY",
-    "whale_usd": 5955.4858,
-    "whale_pct": 4.656,
+    "whale_usd": 12304.3658,
+    "whale_pct": 9.619,
     "whale_value_at_open": 127913.15,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -6590,8 +6590,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149173.1310618,
-    "fills": 4
+    "last_fill_at": 1787149279.4832938,
+    "fills": 6
   },
   {
     "timestamp": 1787149139,
