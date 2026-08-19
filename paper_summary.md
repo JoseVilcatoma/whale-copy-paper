@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:22:26 (hora de Perú)
+Actualizado: 2026-08-19 18:24:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $449.77
-**Retorno acumulado:** -10.05%
+**Bankroll actual:** $452.61
+**Retorno acumulado:** -9.48%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:22:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $448.25 en 90 posiciones abiertas (disponible para nuevas apuestas: $1.52)
+**Capital comprometido ahora mismo:** $443.25 en 89 posiciones abiertas (disponible para nuevas apuestas: $9.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 3 | 2 | 6 | +6.04 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
 | Satisfied | 1 | 0 | 2 | +4.88 USD |
@@ -46,14 +46,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 404
-- **Aciertos:** 263 (65.1%)
+- **Apuestas resueltas:** 405
+- **Aciertos:** 264 (65.2%)
 - **Cuota promedio de entrada:** 65.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $2,018.37
-- **ROI sobre lo apostado:** -2.54%
-- **Comisiones pagadas (taker fee):** $35.01 (1.73% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.80% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,023.37
+- **ROI sobre lo apostado:** -2.39%
+- **Comisiones pagadas (taker fee):** $35.10 (1.73% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,7 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 178 | 46.6% | 50.2% | -3.6 pp |
-| 60-79% | 135 | 71.9% | 68.2% | +3.7 pp |
+| 60-79% | 136 | 72.1% | 68.1% | +3.9 pp |
 | 80-94% | 61 | 86.9% | 87.5% | -0.6 pp |
 | 95-99% (casi seguro) | 30 | 100.0% | 97.2% | +2.8 pp |
 
@@ -164,7 +164,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Coquimbo Unido win on 2026-08-19 | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 57% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Soon-Woo Kwon vs Shintaro M | Soon-Woo Kwon (BUY) | 88% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
