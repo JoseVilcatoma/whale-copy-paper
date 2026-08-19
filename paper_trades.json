@@ -3899,8 +3899,8 @@
     "title": "Quebec City: Benjamin Bonzi vs Justin Boulais",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 1439.0243899999998,
-    "whale_pct": 0.282,
+    "whale_usd": 3041.43659,
+    "whale_pct": 0.597,
     "whale_value_at_open": 509440.6833,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -3911,8 +3911,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787103637.386949,
-    "fills": 2
+    "last_fill_at": 1787104463.228956,
+    "fills": 3
   },
   {
     "timestamp": 1787103752,
@@ -4106,6 +4106,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787104295.8793766,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787104495,
+    "timestamp_added": 1787104496.3326993,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sud-sao-bol-2026-08-18-draw",
+    "title": "Will S\u00e3o Paulo FC vs. Club Bol\u00edvar end in a draw?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 809.039999,
+    "whale_pct": 0.158,
+    "whale_value_at_open": 512381.6995,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787104496.3327081,
     "fills": 1
   }
 ]
