@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 39928.688933,
-    "whale_pct": 11.851,
+    "whale_usd": 40773.929285,
+    "whale_pct": 12.102,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,8 +6838,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151013.515149,
-    "fills": 32
+    "last_fill_at": 1787151219.3340092,
+    "fills": 33
   },
   {
     "timestamp": 1787150162,
@@ -7137,6 +7137,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787151041.7181878,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787151205,
+    "timestamp_added": 1787151206.443718,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-we-edg-2026-08-19-game2",
+    "title": "LoL: Team WE vs EDward Gaming - Game 2 Winner",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "whale_usd": 6272.716899999999,
+    "whale_pct": 1.588,
+    "whale_value_at_open": 395023.272,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151221.7010725,
+    "fills": 9
+  },
+  {
+    "timestamp": 1787151226,
+    "timestamp_added": 1787151226.4189374,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-paszun-zelnick-2026-08-19",
+    "title": "ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova",
+    "outcome": "Radka Zelnickova",
+    "side": "BUY",
+    "whale_usd": 1190.4,
+    "whale_pct": 0.301,
+    "whale_value_at_open": 395023.272,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151226.418947,
     "fills": 1
   }
 ]
