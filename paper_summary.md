@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 06:30:19 (hora de Perú)
+Actualizado: 2026-08-19 06:32:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.46
@@ -99,7 +99,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BOOMBOYS.Kiritych | LoL: Anyone's Legend vs Top Esports - Ga | Anyone's Legend (BUY) | 55% | 5.00 | 36.0% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: HANJIN BRION vs DN SOOPers - Game 1 | DN SOOPers (BUY) | 44% | 5.00 | 20.7% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 67% | 5.00 | 5.7% | ⏳ pendiente | — |
-| RN1 | Prague 2: Juan Bautista Torres vs Chun-H | Chun-Hsin Tseng (BUY) | 79% | 5.00 | 9.7% | ⏳ pendiente | — |
+| RN1 | Prague 2: Juan Bautista Torres vs Chun-H | Chun-Hsin Tseng (BUY) | 79% | 5.00 | 15.4% | ⏳ pendiente | — |
 | RN1 | ITF M15 Arad Men: Jacopo Bilardo vs Jere | Jeremy Gschwendtner (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
 | RN1 | Sion: Luca Staeheli vs Juan Manuel La Se | Juan Manuel La Serna (BUY) | 66% | 5.00 | 11.8% | ✅ ganada | +2.49 |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 85% | 5.00 | 33.1% | ⏳ pendiente | — |
