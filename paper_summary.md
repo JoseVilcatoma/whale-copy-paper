@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:12:52 (hora de Perú)
+Actualizado: 2026-08-19 15:15:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $450.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 15:12:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $366.62 en 74 posiciones abiertas (disponible para nuevas apuestas: $83.58)
+**Capital comprometido ahora mismo:** $386.62 en 78 posiciones abiertas (disponible para nuevas apuestas: $63.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,11 +38,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
-| RN1 | 41 | 20 | 33 | -6.76 USD |
+| RN1 | 41 | 20 | 35 | -6.76 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 15 | 10 | 7 | -24.57 USD |
-| ferrariChampions2026 | 107 | 65 | 8 | -44.21 USD |
+| ferrariChampions2026 | 107 | 65 | 10 | -44.21 USD |
 
 ## Análisis general
 
@@ -128,6 +128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lal-mad-mala-2026-08-19-total-2pt5 | RN1, predictionlegend |
 | atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
+| mls-phi-mia-2026-08-19-mia | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, RN1 |
 | lol-big1-use1-2026-08-19 | , ferrariChampions2026 |
 | mlb-det-pit-2026-08-19-total-7pt5 | HomeRunHazard, RN1 |
 | wta-cirstea-pegula-2026-08-19 | HomeRunHazard, RN1 |
@@ -143,6 +144,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Celtic FC vs. LASK Linz end in a dr | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Club Atlético de Madrid (-2.5) | Málaga CF (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -169,7 +174,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 4.5% | ✅ ganada | +3.52 |
 | RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Sorana Cirstea (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
-| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | Chicago White Sox vs. Chicago Cubs | Chicago White Sox (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 3.6% | ⏳ pendiente | — |
