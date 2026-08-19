@@ -1,5 +1,5 @@
 {
-  "bankroll": 425.8498661025804,
+  "bankroll": 420.7348661025804,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1790,6 +1790,11 @@
       "timestamp": 1787174129.2097325,
       "bankroll": 425.85,
       "event": "won: RN1 \u2014 ITF W15 Campos do Jord\u00e3o 2 Women: Camila Romero vs Ana Julia Sartori"
+    },
+    {
+      "timestamp": 1787174383.7850046,
+      "bankroll": 420.73,
+      "event": "lost: ferrariChampions2026 \u2014 Will \u0160K Slovan Bratislava vs. NK Celje end in a draw?"
     }
   ]
 }
