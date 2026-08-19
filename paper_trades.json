@@ -8780,8 +8780,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 557.28,
-    "whale_pct": 0.319,
+    "whale_usd": 1562.27,
+    "whale_pct": 0.894,
     "whale_value_at_open": 174789.6746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -8796,8 +8796,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787161207.6126864,
-    "fills": 1
+    "last_fill_at": 1787162486.8675885,
+    "fills": 2
   },
   {
     "timestamp": 1787161333,
@@ -8937,8 +8937,8 @@
     "title": "Spread: Club Atl\u00e9tico de Madrid (-1.5)",
     "outcome": "M\u00e1laga CF",
     "side": "BUY",
-    "whale_usd": 4755.5208,
-    "whale_pct": 115.629,
+    "whale_usd": 5376.0008,
+    "whale_pct": 130.715,
     "whale_value_at_open": 4112.7554,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -8949,7 +8949,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787162211.341831,
-    "fills": 1
+    "last_fill_at": 1787162519.2995095,
+    "fills": 2
   }
 ]
