@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.21584082575686,
+  "bankroll": 501.5874170969433,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1105,6 +1105,11 @@
       "timestamp": 1787153532.6843922,
       "bankroll": 498.22,
       "event": "won: HomeRunHazard \u2014 Prague 2: Radu Mihai Papoe vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1787153842.7270474,
+      "bankroll": 501.59,
+      "event": "won: RN1 \u2014 ITF W35 Krakow Women: Oriana Gniewkowska vs Georgina Garcia Perez"
     }
   ]
 }
