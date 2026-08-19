@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:24:46 (hora de Perú)
+Actualizado: 2026-08-19 14:26:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.74
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 14:24:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $451.62 en 91 posiciones abiertas (disponible para nuevas apuestas: $30.12)
+**Capital comprometido ahora mismo:** $456.62 en 92 posiciones abiertas (disponible para nuevas apuestas: $25.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 0 | 0 | 4 | +0.00 USD |
 | ChonkyChocolateCake | 0 | 0 | 2 | +0.00 USD |
 | ic4cream | 0 | 0 | 1 | +0.00 USD |
-|  | 0 | 0 | 2 | +0.00 USD |
+|  | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -128,6 +128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lal-mad-mala-2026-08-19-total-2pt5 | RN1, predictionlegend |
 | atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
+| lol-big1-use1-2026-08-19 | , ferrariChampions2026 |
 | mlb-det-pit-2026-08-19-total-7pt5 | HomeRunHazard, RN1 |
 | wta-cirstea-pegula-2026-08-19 | HomeRunHazard, RN1 |
 | mlb-sd-nym-2026-08-19 | HomeRunHazard, RN1 |
@@ -140,6 +141,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | LoL: BIG vs Unicorns Of Love Sexy Editio | BIG (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Spread: ŠK Slovan Bratislava (-1.5) | ŠK Slovan Bratislava (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 52% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -169,4 +171,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | predictionlegend | Spread: Club Atlético de Madrid (-1.5) | Málaga CF (BUY) | 55% | 5.00 | 130.7% | ⏳ pendiente | — |
 | RN1 | FC Barcelona vs. AL Ahly SC (EGY): 1st H | Under (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Marta Kostyuk vs Mirra  | Mirra Andreeva (BUY) | 74% | 5.00 | 3.3% | ❌ perdida | -5.07 |

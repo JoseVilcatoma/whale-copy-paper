@@ -9605,5 +9605,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787167437.8448308,
     "fills": 1
+  },
+  {
+    "timestamp": 1787167583,
+    "timestamp_added": 1787167583.8902838,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "lol-big1-use1-2026-08-19",
+    "title": "LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Prime League 1st Division Playoffs",
+    "outcome": "BIG",
+    "side": "BUY",
+    "whale_usd": 570.8299989999999,
+    "whale_pct": 0.527,
+    "whale_value_at_open": 108405.8809,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787167583.8902936,
+    "fills": 1
   }
 ]
