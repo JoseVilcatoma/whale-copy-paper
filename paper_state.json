@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.45904564251794,
+  "bankroll": 476.506550693023,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1405,6 +1405,11 @@
       "timestamp": 1787163892.9174867,
       "bankroll": 476.46,
       "event": "won: HomeRunHazard \u2014 Quebec City: Duncan Chan vs Taro Daniel"
+    },
+    {
+      "timestamp": 1787164455.4027085,
+      "bankroll": 476.51,
+      "event": "won: RN1 \u2014 ITF W15 Wanferc\u00e9e-Baulet Women: Delia Gaillard vs Margaux Maquet"
     }
   ]
 }

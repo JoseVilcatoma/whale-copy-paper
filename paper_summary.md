@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:32:17 (hora de Perú)
+Actualizado: 2026-08-19 13:34:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $476.46
-**Retorno acumulado:** -4.71%
+**Bankroll actual:** $476.51
+**Retorno acumulado:** -4.70%
 **Peor caída desde un máximo (drawdown):** 15.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 13:32:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $441.62 en 89 posiciones abiertas (disponible para nuevas apuestas: $34.84)
+**Capital comprometido ahora mismo:** $441.62 en 89 posiciones abiertas (disponible para nuevas apuestas: $34.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 0 | 0 | 2 | +0.00 USD |
 | ic4cream | 0 | 0 | 1 | +0.00 USD |
 |  | 0 | 0 | 1 | +0.00 USD |
-| RN1 | 28 | 13 | 27 | -0.12 USD |
+| RN1 | 29 | 13 | 27 | -0.07 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 1 | 1 | 4 | -0.22 USD |
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | HomeRunHazard | 12 | 4 | 16 | -1.43 USD |
@@ -46,13 +46,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 280
-- **Aciertos:** 184 (65.7%)
-- **Cuota promedio de entrada:** 65.6%
+- **Apuestas resueltas:** 281
+- **Aciertos:** 185 (65.8%)
+- **Cuota promedio de entrada:** 65.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,400.00
-- **ROI sobre lo apostado:** -1.75%
-- **Comisiones pagadas (taker fee):** $24.09 (1.72% del capital apostado)
+- **Total apostado (suma de stakes):** $1,405.00
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $24.09 (1.71% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -64,7 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 115 | 48.7% | 50.0% | -1.3 pp |
 | 60-79% | 102 | 69.6% | 68.1% | +1.5 pp |
 | 80-94% | 46 | 87.0% | 87.3% | -0.4 pp |
-| 95-99% (casi seguro) | 17 | 100.0% | 97.5% | +2.5 pp |
+| 95-99% (casi seguro) | 18 | 100.0% | 97.6% | +2.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -135,6 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Chicago Cubs (-1.5) | Chicago White Sox (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 | predictionlegend | ŠK Slovan Bratislava vs. NK Celje: O/U 2 | Under (BUY) | 50% | 5.00 | 33.5% | ⏳ pendiente | — |
 |  | Kingston: Igor Ribeiro Marcondes vs Laut | Lautaro Midon (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -158,10 +159,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Pittsburgh Pirates (-2.5) | Detroit Tigers (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | New York Mets (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 50% | 5.00 | 3.7% | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 50% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | ITF W15 Wanfercée-Baulet Women: Delia Ga | Margaux Maquet (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | ITF W15 Wanfercée-Baulet Women: Delia Ga | Margaux Maquet (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 11.8% | ✅ ganada | +5.73 |
 | RN1 | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 42% | 5.00 | 12.7% | ✅ ganada | +6.76 |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Counter-Strike: GamerLegion vs MOUZ (BO3 | MOUZ (BUY) | 80% | 5.00 | 11.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cirstea vs. Pegula: Match O/U 21.5 | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |

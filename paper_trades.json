@@ -8334,8 +8334,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 2085.175873,
-    "whale_pct": 1.549,
+    "whale_usd": 3513.901922,
+    "whale_pct": 2.611,
     "whale_value_at_open": 134604.8578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -8346,8 +8346,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787162888.8793623,
-    "fills": 3
+    "last_fill_at": 1787164461.443588,
+    "fills": 4
   },
   {
     "timestamp": 1787158925,
@@ -8491,8 +8491,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -8532,8 +8532,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 5539.2616,
-    "whale_pct": 3.666,
+    "whale_usd": 7076.0616,
+    "whale_pct": 4.683,
     "whale_value_at_open": 151089.4757,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -8548,8 +8548,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787163355.3935506,
-    "fills": 5
+    "last_fill_at": 1787164406.1635344,
+    "fills": 6
   },
   {
     "timestamp": 1787160066,
@@ -9123,5 +9123,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787164248.950671,
     "fills": 2
+  },
+  {
+    "timestamp": 1787164397,
+    "timestamp_added": 1787164398.5500844,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-zverev-paul-2026-08-19",
+    "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "whale_usd": 1233.999,
+    "whale_pct": 0.744,
+    "whale_value_at_open": 165873.9216,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787164398.5500968,
+    "fills": 1
   }
 ]
