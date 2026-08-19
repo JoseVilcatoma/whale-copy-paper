@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:15:23 (hora de Perú)
+Actualizado: 2026-08-19 17:17:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $412.55
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 17:15:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $338.25 en 68 posiciones abiertas (disponible para nuevas apuestas: $74.30)
+**Capital comprometido ahora mismo:** $348.25 en 70 posiciones abiertas (disponible para nuevas apuestas: $64.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,8 +41,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 3 | 2 | -7.99 USD |
 | Sassy-Bucket | 0 | 3 | 1 | -15.38 USD |
 | RN1 | 63 | 33 | 12 | -24.80 USD |
-| HomeRunHazard | 16 | 11 | 11 | -27.81 USD |
-| ferrariChampions2026 | 112 | 69 | 27 | -54.41 USD |
+| HomeRunHazard | 16 | 11 | 12 | -27.81 USD |
+| ferrariChampions2026 | 112 | 69 | 28 | -54.41 USD |
 
 ## Análisis general
 
@@ -153,6 +153,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 58% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 55% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Kansas City Royals: O/U 7. | Over (BUY) | 59% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -167,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Cerro Porteño vs. SE Palmeiras: O/U | Under (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 55% | 5.00 | 16.1% | ⏳ pendiente | — |
-| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 5.00 | 97.1% | ⏳ pendiente | — |
+| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 5.00 | 197.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 45% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs BESTIA (BO3) - VCT A | BESTIA (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 94% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -181,5 +183,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 98% | 5.00 | 4.2% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Cancun: Otto Virtanen vs Moez Echargui | Otto Virtanen (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Spread: SE Palmeiras (-1.5) | Club Cerro Porteño (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
-|  | Arizona Diamondbacks vs. Boston Red Sox | Boston Red Sox (BUY) | 86% | 5.00 | 0.9% | ⏳ pendiente | — |
