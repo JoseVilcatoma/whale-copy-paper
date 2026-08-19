@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.67144031462897,
+  "bankroll": 496.586440314629,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1025,6 +1025,11 @@
       "timestamp": 1787150983.0615337,
       "bankroll": 501.67,
       "event": "won: HomeRunHazard \u2014 Sion: Lorenzo Giustino vs Henry Bernet"
+    },
+    {
+      "timestamp": 1787151474.9181535,
+      "bankroll": 496.59,
+      "event": "lost: RN1 \u2014 ITF M25 Santander Men: Pedro Rodenas vs Alejandro Juan Mano"
     }
   ]
 }

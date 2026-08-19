@@ -5891,8 +5891,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -6348,8 +6348,8 @@
     "title": "ITF W75 Kursumlijska Banja 3 Women: Beatrice Ricci vs Varvara Panshina",
     "outcome": "Beatrice Ricci",
     "side": "BUY",
-    "whale_usd": 1577.429999,
-    "whale_pct": 0.562,
+    "whale_usd": 2113.619999,
+    "whale_pct": 0.753,
     "whale_value_at_open": 280708.5685,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -6362,8 +6362,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787148693.5357003,
-    "fills": 3
+    "last_fill_at": 1787151483.3381002,
+    "fills": 4
   },
   {
     "timestamp": 1787148604,
@@ -6776,8 +6776,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 6175.46834,
-    "whale_pct": 1.833,
+    "whale_usd": 10296.366340000002,
+    "whale_pct": 3.056,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -6788,8 +6788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151358.073955,
-    "fills": 5
+    "last_fill_at": 1787151438.2398245,
+    "fills": 8
   },
   {
     "timestamp": 1787149911,
@@ -6800,8 +6800,8 @@
     "title": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 574.1999999999999,
-    "whale_pct": 0.17,
+    "whale_usd": 1946.4523799999997,
+    "whale_pct": 0.578,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -6814,8 +6814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149913.2954233,
-    "fills": 1
+    "last_fill_at": 1787151359.955305,
+    "fills": 2
   },
   {
     "timestamp": 1787149916,
@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 45266.959385,
-    "whale_pct": 13.436,
+    "whale_usd": 60157.91046200001,
+    "whale_pct": 17.856,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,8 +6838,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151357.8829515,
-    "fills": 35
+    "last_fill_at": 1787151456.046747,
+    "fills": 47
   },
   {
     "timestamp": 1787150162,
@@ -7172,8 +7172,8 @@
     "title": "ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova",
     "outcome": "Radka Zelnickova",
     "side": "BUY",
-    "whale_usd": 1190.4,
-    "whale_pct": 0.301,
+    "whale_usd": 2466.9,
+    "whale_pct": 0.624,
     "whale_value_at_open": 395023.272,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -7186,8 +7186,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151226.418947,
-    "fills": 1
+    "last_fill_at": 1787151386.6563141,
+    "fills": 2
   },
   {
     "timestamp": 1787151314,
@@ -7213,6 +7213,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787151314.714677,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787151485,
+    "timestamp_added": 1787151485.9225507,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-brunold-hemery-2026-08-19",
+    "title": "Sion: Mika Brunold vs Calvin Hemery",
+    "outcome": "Mika Brunold",
+    "side": "BUY",
+    "whale_usd": 2845.65,
+    "whale_pct": 1.957,
+    "whale_value_at_open": 145417.6005,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151485.9225605,
     "fills": 1
   }
 ]
