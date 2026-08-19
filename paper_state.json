@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.3206180953105,
+  "bankroll": 449.7691093233807,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2015,6 +2015,16 @@
       "timestamp": 1787181112.6510384,
       "bankroll": 449.32,
       "event": "won: HomeRunHazard \u2014 Cancun: Alexandre Muller vs Coleman Wong"
+    },
+    {
+      "timestamp": 1787181678.7852025,
+      "bankroll": 449.57,
+      "event": "won: HomeRunHazard \u2014 Quebec City: Kyrian Jacquet vs Aleksandar Vukic"
+    },
+    {
+      "timestamp": 1787181679.3862264,
+      "bankroll": 449.77,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Kyrian Jacquet vs Aleksandar Vukic"
     }
   ]
 }
