@@ -4757,8 +4757,8 @@
     "title": "Prague 2: Juan Bautista Torres vs Chun-Hsin Tseng",
     "outcome": "Chun-Hsin Tseng",
     "side": "BUY",
-    "whale_usd": 13048.58204,
-    "whale_pct": 32.11,
+    "whale_usd": 13686.070978,
+    "whale_pct": 33.679,
     "whale_value_at_open": 40636.7238,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -4769,8 +4769,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787139733.6165063,
-    "fills": 7
+    "last_fill_at": 1787140810.576781,
+    "fills": 8
   },
   {
     "timestamp": 1787138511,
@@ -4855,8 +4855,8 @@
     "title": "Roehampton: Lui Maxted vs Patrick Brady",
     "outcome": "Lui Maxted",
     "side": "BUY",
-    "whale_usd": 3507.2509,
-    "whale_pct": 5.924,
+    "whale_usd": 4242.672684,
+    "whale_pct": 7.166,
     "whale_value_at_open": 59205.9848,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -4867,8 +4867,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787140042.4304254,
-    "fills": 1
+    "last_fill_at": 1787140786.0794725,
+    "fills": 2
   },
   {
     "timestamp": 1787140331,
