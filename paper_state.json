@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.27372414189006,
+  "bankroll": 474.04480776159227,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1495,6 +1495,26 @@
       "timestamp": 1787167791.9944482,
       "bankroll": 482.27,
       "event": "won:  \u2014 Kingston: Igor Ribeiro Marcondes vs Lautaro Midon"
+    },
+    {
+      "timestamp": 1787168415.3524096,
+      "bankroll": 484.15,
+      "event": "won: RN1 \u2014 Cincinnati Open: Sorana Cirstea vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787168415.6064258,
+      "bankroll": 479.03,
+      "event": "lost: HomeRunHazard \u2014 Cirstea vs. Pegula: Match O/U 21.5"
+    },
+    {
+      "timestamp": 1787168416.8271134,
+      "bankroll": 479.17,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Sorana Cirstea vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787168419.9096932,
+      "bankroll": 474.04,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Sorana Cirstea vs Jessica Pegula"
     }
   ]
 }
