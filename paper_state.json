@@ -1,5 +1,5 @@
 {
-  "bankroll": 434.54986051094033,
+  "bankroll": 441.3194548699821,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1685,6 +1685,36 @@
       "timestamp": 1787173500.2490532,
       "bankroll": 434.55,
       "event": "won: RN1 \u2014 ITF W15 Wanferc\u00e9e-Baulet Women: Daphnee Mpetshi Perricard vs Salma Djoubri"
+    },
+    {
+      "timestamp": 1787173744.7475305,
+      "bankroll": 441.03,
+      "event": "won: SDTrading \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787173748.3707652,
+      "bankroll": 442.91,
+      "event": "won: HomeRunHazard \u2014 Spread: Chicago Cubs (-2.5)"
+    },
+    {
+      "timestamp": 1787173749.7531264,
+      "bankroll": 446.28,
+      "event": "won: RN1 \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1787173749.9929667,
+      "bankroll": 451.57,
+      "event": "won: RN1 \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787173750.0932178,
+      "bankroll": 446.46,
+      "event": "lost: RN1 \u2014 Chicago White Sox vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1787173755.062373,
+      "bankroll": 441.32,
+      "event": "lost: RN1 \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: O/U 2.5"
     }
   ]
 }
