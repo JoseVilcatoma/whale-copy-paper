@@ -5836,8 +5836,8 @@
     "title": "Roehampton: Mark Ceban vs Iliyan Radulov",
     "outcome": "Mark Ceban",
     "side": "BUY",
-    "whale_usd": 837.3805920000001,
-    "whale_pct": 0.765,
+    "whale_usd": 1408.824192,
+    "whale_pct": 1.286,
     "whale_value_at_open": 109520.7289,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -5848,8 +5848,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787146145.1718333,
-    "fills": 1
+    "last_fill_at": 1787156164.06869,
+    "fills": 2
   },
   {
     "timestamp": 1787146193,
@@ -7808,8 +7808,8 @@
     "title": "ITF M25 Ueberlingen Men: Moritz Hoffmann vs Christian Djonov",
     "outcome": "Christian Djonov",
     "side": "BUY",
-    "whale_usd": 830.0,
-    "whale_pct": 0.591,
+    "whale_usd": 1430.0,
+    "whale_pct": 1.019,
     "whale_value_at_open": 140332.2276,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -7820,8 +7820,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787155405.7905648,
-    "fills": 1
+    "last_fill_at": 1787156209.6076555,
+    "fills": 2
   },
   {
     "timestamp": 1787155527,
@@ -7944,6 +7944,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787155841.1381333,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787156204,
+    "timestamp_added": 1787156204.485028,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-blackp-bw-2026-08-19",
+    "title": "Counter-Strike: Black Phoenix vs Bushido Wildcats (BO3) - CCT Europe Series #7 Group Stage",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "whale_usd": 1201.595882,
+    "whale_pct": 0.248,
+    "whale_value_at_open": 484630.0727,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787156204.4850426,
     "fills": 1
   }
 ]

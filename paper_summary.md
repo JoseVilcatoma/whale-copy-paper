@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:15:01 (hora de Perú)
+Actualizado: 2026-08-19 11:17:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.39
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 11:15:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $448.25 en 90 posiciones abiertas (disponible para nuevas apuestas: $49.14)
+**Capital comprometido ahora mismo:** $453.25 en 91 posiciones abiertas (disponible para nuevas apuestas: $44.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 90 | 52 | 36 | -21.50 USD |
+| ferrariChampions2026 | 90 | 52 | 37 | -21.50 USD |
 
 ## Análisis general
 
@@ -125,12 +125,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Counter-Strike: Black Phoenix vs Bushido | Black Phoenix (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Arizona Diamondbacks (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Vitality.Bee vs Ici Japon Corp. Esp | Ici Japon Corp. Esport (BUY) | 51% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: UCAM Esports Club vs Team Heretics  | UCAM Esports Club (BUY) | 51% | 5.00 | 11.5% | ⏳ pendiente | — |
 | RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 78% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Bernardo Munk Mes | Sergi Perez Contri (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | ITF M25 Ueberlingen Men: Moritz Hoffmann | Christian Djonov (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF M25 Ueberlingen Men: Moritz Hoffmann | Christian Djonov (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: UCAM Esports Club vs Team Heretics  | Team Heretics Academy (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 53% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -154,4 +155,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 9.2% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 47% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 62% | 5.00 | 2.0% | ✅ ganada | +2.97 |
-| RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
