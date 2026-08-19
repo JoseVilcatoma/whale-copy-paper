@@ -7530,8 +7530,8 @@
     "title": "Atlanta Braves vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 20145.566,
-    "whale_pct": 217.497,
+    "whale_usd": 21453.145410999998,
+    "whale_pct": 231.614,
     "whale_value_at_open": 9262.4619,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -7545,8 +7545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152627.8998718,
-    "fills": 1
+    "last_fill_at": 1787157664.3888392,
+    "fills": 2
   },
   {
     "timestamp": 1787152738,
@@ -8193,5 +8193,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787157297.295716,
     "fills": 1
+  },
+  {
+    "timestamp": 1787157623,
+    "timestamp_added": 1787157624.0279465,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-ari-bos-2026-08-19-total-8pt5",
+    "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4413.0015,
+    "whale_pct": 2.473,
+    "whale_value_at_open": 178465.4045,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787157624.0279598,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787157708,
+    "timestamp_added": 1787157709.5112686,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-det-pit-2026-08-19-total-8pt5",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2064.12,
+    "whale_pct": 1.214,
+    "whale_value_at_open": 170025.8545,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787157710.402927,
+    "fills": 2
   }
 ]
