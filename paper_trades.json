@@ -3725,8 +3725,8 @@
     "title": "Cincinnati Open: Learner Tien vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 12758.147494,
-    "whale_pct": 2.179,
+    "whale_usd": 18116.847494,
+    "whale_pct": 3.095,
     "whale_value_at_open": 585451.5702,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -3739,8 +3739,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787106540.299135,
-    "fills": 6
+    "last_fill_at": 1787106565.5679038,
+    "fills": 7
   },
   {
     "timestamp": 1787103080,
