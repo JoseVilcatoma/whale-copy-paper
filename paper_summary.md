@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 07:52:13 (hora de Perú)
+Actualizado: 2026-08-19 07:54:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $509.58
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 07:52:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $319.58)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $314.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 75 | 47 | 11 | -23.51 USD |
+| ferrariChampions2026 | 75 | 47 | 12 | -23.51 USD |
 
 ## Análisis general
 
@@ -100,6 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox | Arizona Diamondbacks (BUY) | 43% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF W15 Logrono Women: Jordina Font vs S | Sayaka Ishii (BUY) | 96% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -129,4 +130,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague 2: Juan Bautista Torres vs Chun-H | Chun-Hsin Tseng (BUY) | 79% | 5.00 | 33.7% | ✅ ganada | +1.28 |
 | RN1 | ITF M15 Arad Men: Jacopo Bilardo vs Jere | Jeremy Gschwendtner (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
 | RN1 | Sion: Luca Staeheli vs Juan Manuel La Se | Juan Manuel La Serna (BUY) | 66% | 5.00 | 11.8% | ✅ ganada | +2.49 |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 85% | 5.00 | 33.1% | ✅ ganada | +0.84 |
