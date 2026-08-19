@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:53:18 (hora de Perú)
+Actualizado: 2026-08-19 17:55:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.07
@@ -160,13 +160,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes (BUY) | 59% | 5.00 | 20.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Coquimbo Unido vs. CA Platense: O/U 2 | Under (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | San Francisco Giants (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Platense win on 2026-08-19? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | New York Red Bulls vs. Nashville SC: O/U | Over (BUY) | 44% | 5.00 | 30.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Columbus Crew win on 2026-08-19? | No (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | BESTIA (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | BESTIA (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Kyrian Jacquet vs Aleksanda | Aleksandar Vukic (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |

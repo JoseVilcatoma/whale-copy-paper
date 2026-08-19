@@ -11759,8 +11759,8 @@
     "title": "Valorant: Cloud9 vs BESTIA - Map 2 Winner",
     "outcome": "BESTIA",
     "side": "BUY",
-    "whale_usd": 2622.9775,
-    "whale_pct": 0.712,
+    "whale_usd": 3964.8175,
+    "whale_pct": 1.076,
     "whale_value_at_open": 368348.4344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -11771,8 +11771,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179533.769671,
-    "fills": 2
+    "last_fill_at": 1787180050.8630524,
+    "fills": 4
   },
   {
     "timestamp": 1787179363,
@@ -11903,8 +11903,8 @@
     "title": "Spread: Cleveland Guardians (-1.5)",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 2659.9503,
-    "whale_pct": 0.67,
+    "whale_usd": 6516.0828,
+    "whale_pct": 1.641,
     "whale_value_at_open": 397052.2472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -11918,8 +11918,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179797.9667883,
-    "fills": 1
+    "last_fill_at": 1787180099.449818,
+    "fills": 2
   },
   {
     "timestamp": 1787179870,
