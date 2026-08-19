@@ -6999,8 +6999,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "Astralis",
     "side": "BUY",
-    "whale_usd": 2595.073708,
-    "whale_pct": 0.599,
+    "whale_usd": 8190.727841,
+    "whale_pct": 1.889,
     "whale_value_at_open": 433574.8881,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -7014,8 +7014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152470.452019,
-    "fills": 3
+    "last_fill_at": 1787152564.7920349,
+    "fills": 5
   },
   {
     "timestamp": 1787150676,
@@ -7026,8 +7026,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 16000.0,
-    "whale_pct": 20.311,
+    "whale_usd": 34990.044,
+    "whale_pct": 44.418,
     "whale_value_at_open": 78774.1637,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -7038,8 +7038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150677.3135452,
-    "fills": 1
+    "last_fill_at": 1787152561.412369,
+    "fills": 2
   },
   {
     "timestamp": 1787150741,
@@ -7124,8 +7124,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 1701.0606,
-    "whale_pct": 0.433,
+    "whale_usd": 2829.2464,
+    "whale_pct": 0.72,
     "whale_value_at_open": 393072.2108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -7136,8 +7136,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151041.7181878,
-    "fills": 1
+    "last_fill_at": 1787152543.4390633,
+    "fills": 2
   },
   {
     "timestamp": 1787151205,
@@ -7351,8 +7351,8 @@
     "title": "Counter-Strike: G2 vs Astralis - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 3852.1411250000006,
-    "whale_pct": 0.723,
+    "whale_usd": 4731.317791,
+    "whale_pct": 0.888,
     "whale_value_at_open": 532860.0637,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -7363,8 +7363,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152461.8109167,
-    "fills": 1
+    "last_fill_at": 1787152582.189936,
+    "fills": 2
   },
   {
     "timestamp": 1787152475,
@@ -7390,6 +7390,83 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787152475.6781268,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787152499,
+    "timestamp_added": 1787152499.9615614,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-swiatek-parry-2026-08-19",
+    "title": "Cincinnati Open: Iga Swiatek vs Diane Parry",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 4209.5133,
+    "whale_pct": 5.095,
+    "whale_value_at_open": 82626.8811,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152567.7720873,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787152589,
+    "timestamp_added": 1787152590.0820518,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-det-pit-2026-08-19-total-8pt5",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 37653.564,
+    "whale_pct": 38.555,
+    "whale_value_at_open": 97661.0573,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152590.0820625,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787152595,
+    "timestamp_added": 1787152595.7709794,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-min-gsv-2026-08-19-total-164pt5",
+    "title": "Minnesota Lynx vs. Golden State Valkyries: O/U 164.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1472.9988,
+    "whale_pct": 1.691,
+    "whale_value_at_open": 87122.8681,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787152595.770989,
     "fills": 1
   }
 ]
