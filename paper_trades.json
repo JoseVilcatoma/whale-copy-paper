@@ -6691,5 +6691,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787149581.1608,
     "fills": 1
+  },
+  {
+    "timestamp": 1787149698,
+    "timestamp_added": 1787149698.8886726,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-papoe-cosano-2026-08-19",
+    "title": "Prague 2: Radu Mihai Papoe vs Javier Barranco Cosano",
+    "outcome": "Radu Mihai Papoe",
+    "side": "BUY",
+    "whale_usd": 545.243,
+    "whale_pct": 0.75,
+    "whale_value_at_open": 72743.5368,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787149698.8886862,
+    "fills": 1
   }
 ]
