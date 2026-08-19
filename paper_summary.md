@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:15:45 (hora de Perú)
+Actualizado: 2026-08-19 13:17:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.43
@@ -152,7 +152,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: Pittsburgh Pirates (-2.5) | Detroit Tigers (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | New York Mets (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 50% | 5.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 50% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF W15 Wanfercée-Baulet Women: Delia Ga | Margaux Maquet (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Flavio Cobolli (BUY) | 46% | 5.00 | 11.8% | ⏳ pendiente | — |

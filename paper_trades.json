@@ -8532,8 +8532,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates",
     "outcome": "Detroit Tigers",
     "side": "BUY",
-    "whale_usd": 4068.5616,
-    "whale_pct": 2.693,
+    "whale_usd": 5539.2616,
+    "whale_pct": 3.666,
     "whale_value_at_open": 151089.4757,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -8548,8 +8548,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787162023.9820545,
-    "fills": 4
+    "last_fill_at": 1787163355.3935506,
+    "fills": 5
   },
   {
     "timestamp": 1787160066,
