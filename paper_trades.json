@@ -8119,5 +8119,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787156544.4170656,
     "fills": 1
+  },
+  {
+    "timestamp": 1787156904,
+    "timestamp_added": 1787156904.7943697,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kopp-hassan-2026-08-19",
+    "title": "Sion: Sandro Kopp vs Benjamin Hassan",
+    "outcome": "Benjamin Hassan",
+    "side": "BUY",
+    "whale_usd": 2196.788,
+    "whale_pct": 1.318,
+    "whale_value_at_open": 166733.5883,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787156936.4056146,
+    "fills": 2
   }
 ]

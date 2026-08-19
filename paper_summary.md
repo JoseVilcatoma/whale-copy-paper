@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:27:30 (hora de Perú)
+Actualizado: 2026-08-19 11:29:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.39
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 11:27:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $463.25 en 93 posiciones abiertas (disponible para nuevas apuestas: $27.14)
+**Capital comprometido ahora mismo:** $468.25 en 94 posiciones abiertas (disponible para nuevas apuestas: $22.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 20 | 10 | 15 | -7.03 USD |
+| RN1 | 20 | 10 | 16 | -7.03 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | ferrariChampions2026 | 90 | 52 | 38 | -21.50 USD |
 
@@ -129,6 +129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Benjamin Hassan (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ic4cream | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Marcelina Podlinsk | Dalila Jakupovic (BUY) | 91% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -158,4 +159,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 53% | 5.00 | 6.8% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 5.00 | 38.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 18.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
