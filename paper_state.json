@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.3087016736848,
+  "bankroll": 490.38955113605044,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1170,6 +1170,21 @@
       "timestamp": 1787156528.2363336,
       "bankroll": 492.31,
       "event": "lost: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Mathieu Scaglia vs Maxwell McKennon"
+    },
+    {
+      "timestamp": 1787156648.0511997,
+      "bankroll": 492.51,
+      "event": "won: RN1 \u2014 ITF W15 Logrono Women: Jordina Font vs Sayaka Ishii"
+    },
+    {
+      "timestamp": 1787156654.4073424,
+      "bankroll": 487.42,
+      "event": "lost: RN1 \u2014 ITF W15 Logrono Women: Jordina Font vs Sayaka Ishii"
+    },
+    {
+      "timestamp": 1787156713.686242,
+      "bankroll": 490.39,
+      "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Vasco Leote Prata vs Jeffrey Fradkin"
     }
   ]
 }
