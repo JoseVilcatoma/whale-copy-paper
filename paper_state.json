@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.9354175448335,
+  "bankroll": 526.6878775902286,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -770,6 +770,51 @@
       "timestamp": 1787111814.1351025,
       "bankroll": 523.94,
       "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 12.5"
+    },
+    {
+      "timestamp": 1787112005.6272118,
+      "bankroll": 518.81,
+      "event": "lost: ferrariChampions2026 \u2014 Cancun: Luis Carlos Alvarez vs Rio Noguchi"
+    },
+    {
+      "timestamp": 1787112005.9810183,
+      "bankroll": 521.41,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1787112006.0812395,
+      "bankroll": 524.93,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Luis Carlos Alvarez vs Rio Noguchi"
+    },
+    {
+      "timestamp": 1787112007.1012561,
+      "bankroll": 529.42,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Dream vs. Las Vegas Aces: O/U 178.5"
+    },
+    {
+      "timestamp": 1787112007.7344217,
+      "bankroll": 534.71,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1787112008.0699117,
+      "bankroll": 529.59,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 13.5"
+    },
+    {
+      "timestamp": 1787112008.1700985,
+      "bankroll": 524.47,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1787112009.264669,
+      "bankroll": 526.44,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1787112009.6653626,
+      "bankroll": 526.69,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Colorado Rockies"
     }
   ]
 }
