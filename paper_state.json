@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.86775430526376,
+  "bankroll": 497.3867016736848,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1160,6 +1160,11 @@
       "timestamp": 1787155021.0089672,
       "bankroll": 495.87,
       "event": "won: BOOMBOYS.Kiritych \u2014 LoL: Anyone's Legend vs Top Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787155713.2667537,
+      "bankroll": 497.39,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: SPARTA vs MOUZ NXT - Map 1 Winner"
     }
   ]
 }

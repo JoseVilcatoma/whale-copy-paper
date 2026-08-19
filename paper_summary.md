@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:06:40 (hora de Perú)
+Actualizado: 2026-08-19 11:08:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.87
-**Retorno acumulado:** -0.83%
+**Bankroll actual:** $497.39
+**Retorno acumulado:** -0.52%
 **Peor caída desde un máximo (drawdown):** 10.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 11:06:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $438.25 en 88 posiciones abiertas (disponible para nuevas apuestas: $57.62)
+**Capital comprometido ahora mismo:** $438.25 en 88 posiciones abiertas (disponible para nuevas apuestas: $59.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 3 | +0.00 USD |
 | predictionlegend | 0 | 0 | 1 | +0.00 USD |
+| ChonkyChocolateCake | 0 | 0 | 1 | +0.00 USD |
 | RN1 | 18 | 8 | 17 | -0.03 USD |
 | HomeRunHazard | 7 | 2 | 10 | -0.33 USD |
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
@@ -39,18 +40,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 89 | 52 | 37 | -23.02 USD |
+| ferrariChampions2026 | 90 | 52 | 36 | -21.50 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 231
-- **Aciertos:** 154 (66.7%)
-- **Cuota promedio de entrada:** 65.2%
+- **Apuestas resueltas:** 232
+- **Aciertos:** 155 (66.8%)
+- **Cuota promedio de entrada:** 65.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,155.00
-- **ROI sobre lo apostado:** -0.44%
-- **Comisiones pagadas (taker fee):** $20.08 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,160.00
+- **ROI sobre lo apostado:** -0.31%
+- **Comisiones pagadas (taker fee):** $20.14 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.43% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -59,7 +60,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 99 | 46.5% | 49.8% | -3.4 pp |
-| 60-79% | 81 | 75.3% | 68.3% | +7.0 pp |
+| 60-79% | 82 | 75.6% | 68.4% | +7.2 pp |
 | 80-94% | 36 | 88.9% | 87.1% | +1.8 pp |
 | 95-99% (casi seguro) | 15 | 100.0% | 97.7% | +2.3 pp |
 
@@ -124,6 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ChonkyChocolateCake | LoL: UCAM Esports Club vs Team Heretics  | UCAM Esports Club (BUY) | 51% | 5.00 | 11.5% | ⏳ pendiente | — |
 | RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 78% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Bernardo Munk Mes | Sergi Perez Contri (BUY) | 75% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Moritz Hoffmann | Christian Djonov (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -142,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Amelia Paszun (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 53% | 5.00 | 6.8% | ⏳ pendiente | — |
 | SDTrading | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 53% | 5.00 | 38.6% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 9.5% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 18.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 2 W | G2 (BUY) | 70% | 5.00 | 2.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Diane Pa | Iga Swiatek (BUY) | 93% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -153,4 +155,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | EDward Gaming (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 72% | 5.00 | 6.5% | ⏳ pendiente | — |

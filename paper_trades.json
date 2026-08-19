@@ -5717,8 +5717,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7401,8 +7401,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Diane Parry",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 7867.9938,
-    "whale_pct": 9.522,
+    "whale_usd": 15352.89876,
+    "whale_pct": 18.581,
     "whale_value_at_open": 82626.8811,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -7416,8 +7416,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787152919.5666375,
-    "fills": 4
+    "last_fill_at": 1787155656.9540973,
+    "fills": 6
   },
   {
     "timestamp": 1787152589,
@@ -7873,5 +7873,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787155570.9147098,
     "fills": 1
+  },
+  {
+    "timestamp": 1787155640,
+    "timestamp_added": 1787155640.904017,
+    "username": "ChonkyChocolateCake",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-ucam1-hrts-2026-08-19-game2",
+    "title": "LoL: UCAM Esports Club vs Team Heretics Academy - Game 2 Winner",
+    "outcome": "UCAM Esports Club",
+    "side": "BUY",
+    "whale_usd": 2094.1618000000003,
+    "whale_pct": 11.521,
+    "whale_value_at_open": 18177.3282,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787155645.5316164,
+    "fills": 2
   }
 ]
