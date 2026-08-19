@@ -8334,8 +8334,8 @@
     "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 5500.857786,
-    "whale_pct": 4.087,
+    "whale_usd": 7639.148805999999,
+    "whale_pct": 5.675,
     "whale_value_at_open": 134604.8578,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -8346,8 +8346,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787164768.400303,
-    "fills": 5
+    "last_fill_at": 1787164895.4267316,
+    "fills": 6
   },
   {
     "timestamp": 1787158925,
@@ -9198,6 +9198,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787164775.1657434,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787164847,
+    "timestamp_added": 1787164847.6710985,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-cirstea-pegula-2026-08-19",
+    "title": "Cincinnati Open: Sorana Cirstea vs Jessica Pegula",
+    "outcome": "Sorana Cirstea",
+    "side": "BUY",
+    "whale_usd": 522.868073,
+    "whale_pct": 0.272,
+    "whale_value_at_open": 192031.6939,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787164847.671113,
     "fills": 1
   }
 ]
