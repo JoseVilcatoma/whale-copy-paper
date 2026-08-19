@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.04480776159227,
+  "bankroll": 473.6217293302197,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1515,6 +1515,16 @@
       "timestamp": 1787168419.9096932,
       "bankroll": 474.04,
       "event": "lost: RN1 \u2014 Cincinnati Open: Sorana Cirstea vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787168723.162231,
+      "bankroll": 468.94,
+      "event": "lost: RN1 \u2014 ITF M25 Lesa Men: Stefano Reitano vs Federico Arnaboldi"
+    },
+    {
+      "timestamp": 1787168725.9153965,
+      "bankroll": 473.62,
+      "event": "won: RN1 \u2014 ITF M25 Ueberlingen Men: Moritz Hoffmann vs Christian Djonov"
     }
   ]
 }
