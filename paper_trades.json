@@ -7682,8 +7682,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 22092.649473,
-    "whale_pct": 15.008,
+    "whale_usd": 23012.819685000002,
+    "whale_pct": 15.633,
     "whale_value_at_open": 147204.3037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -7697,8 +7697,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159995.3291337,
-    "fills": 14
+    "last_fill_at": 1787160319.596533,
+    "fills": 15
   },
   {
     "timestamp": 1787153353,
@@ -8457,8 +8457,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Flavio Cobolli",
     "side": "BUY",
-    "whale_usd": 7559.8123,
-    "whale_pct": 3.413,
+    "whale_usd": 8687.471873999999,
+    "whale_pct": 3.922,
     "whale_value_at_open": 221529.3987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -8472,8 +8472,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159366.7870038,
-    "fills": 2
+    "last_fill_at": 1787160335.5519657,
+    "fills": 3
   },
   {
     "timestamp": 1787159475,
@@ -8573,6 +8573,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787160066.786114,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787160230,
+    "timestamp_added": 1787160231.3102732,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-det-pit-2026-08-19-spread-home-2pt5",
+    "title": "Spread: Pittsburgh Pirates (-2.5)",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 1451.25,
+    "whale_pct": 0.96,
+    "whale_value_at_open": 151165.3192,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787160231.3102849,
     "fills": 1
   }
 ]
