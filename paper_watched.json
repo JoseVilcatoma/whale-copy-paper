@@ -26,13 +26,13 @@
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787092478.7651718,
-    "roi_pct": 864.42,
+    "roi_pct": 864.43,
     "short_term_pct": 100.0
   },
   "0xdb83e85ffd22faa4009273034770f96ffc5b1e50": {
     "username": "sentrio",
     "added_at": 1787104306.6374917,
-    "roi_pct": 108.73,
+    "roi_pct": 109.62,
     "short_term_pct": 100.0
   },
   "0xd0fd38536e7447899e4924963098bf02fe81a7da": {
@@ -56,7 +56,7 @@
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1787112769.2459674,
-    "roi_pct": 423.32,
+    "roi_pct": 442.73,
     "short_term_pct": 100.0
   }
 }
