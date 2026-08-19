@@ -1,5 +1,5 @@
 {
-  "bankroll": 510.1914422263566,
+  "bankroll": 511.3914422263566,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -925,6 +925,11 @@
       "timestamp": 1787144121.3713791,
       "bankroll": 510.19,
       "event": "won: RN1 \u2014 ITF M25 Ueberlingen Men: Manuel Plunger vs Adrian Oetzbach"
+    },
+    {
+      "timestamp": 1787145682.6800203,
+      "bankroll": 511.39,
+      "event": "won: ferrariChampions2026 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rada Zolotareva vs Chloe Paquet"
     }
   ]
 }

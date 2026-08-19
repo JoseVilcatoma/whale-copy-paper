@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:20:44 (hora de Perú)
+Actualizado: 2026-08-19 08:22:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $510.19
-**Retorno acumulado:** +2.04%
+**Bankroll actual:** $511.39
+**Retorno acumulado:** +2.28%
 **Peor caída desde un máximo (drawdown):** 8.35%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:20:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $260.19)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $266.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,18 +36,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 75 | 47 | 19 | -23.51 USD |
+| ferrariChampions2026 | 76 | 47 | 18 | -22.31 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 185
-- **Aciertos:** 123 (66.5%)
-- **Cuota promedio de entrada:** 64.5%
+- **Apuestas resueltas:** 186
+- **Aciertos:** 124 (66.7%)
+- **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $925.00
-- **ROI sobre lo apostado:** +1.11%
-- **Comisiones pagadas (taker fee):** $16.42 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.88% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $930.00
+- **ROI sobre lo apostado:** +1.23%
+- **Comisiones pagadas (taker fee):** $16.47 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +3.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -57,7 +57,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 86 | 48.8% | 49.8% | -0.9 pp |
 | 60-79% | 59 | 74.6% | 68.2% | +6.4 pp |
-| 80-94% | 27 | 88.9% | 87.4% | +1.5 pp |
+| 80-94% | 28 | 89.3% | 87.1% | +2.1 pp |
 | 95-99% (casi seguro) | 13 | 100.0% | 97.7% | +2.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -131,6 +131,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Lorenzo Giustino vs Henry Bernet | Lorenzo Giustino (BUY) | 71% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Rudolf Molleker vs Filip Jianu | Filip Jianu (BUY) | 75% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Cezar Cretu vs Maxim Mrva | Maxim Mrva (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 80% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 80% | 5.00 | 1.6% | ✅ ganada | +1.20 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Miami Marlins vs. Philadelphia Phillies: | Under (BUY) | 51% | 5.00 | 30.6% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Game Handicap: WE (-1.5) vs EDward Gamin | EDward Gaming (BUY) | 50% | 5.00 | 3.7% | ⏳ pendiente | — |
