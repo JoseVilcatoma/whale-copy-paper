@@ -4831,8 +4831,8 @@
     "title": "LoL: Anyone's Legend vs Top Esports - Game 2 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 66027.093,
-    "whale_pct": 27.576,
+    "whale_usd": 86167.093,
+    "whale_pct": 35.988,
     "whale_value_at_open": 239434.5736,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -4843,7 +4843,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787138644.5761354,
-    "fills": 8
+    "last_fill_at": 1787138702.87444,
+    "fills": 11
   }
 ]
