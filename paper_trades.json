@@ -1927,8 +1927,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -2934,8 +2934,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -3167,8 +3167,8 @@
     "title": "Kingston: Joel Schwaerzler vs Kenta Miyoshi",
     "outcome": "Kenta Miyoshi",
     "side": "BUY",
-    "whale_usd": 8371.203591,
-    "whale_pct": 2.195,
+    "whale_usd": 12672.714091,
+    "whale_pct": 3.323,
     "whale_value_at_open": 381356.5345,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -3179,8 +3179,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787097557.5124795,
-    "fills": 2
+    "last_fill_at": 1787098282.3210485,
+    "fills": 3
   },
   {
     "timestamp": 1787096698,
@@ -3289,8 +3289,8 @@
     "title": "Washington Nationals vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 2025.0275999999997,
-    "whale_pct": 0.559,
+    "whale_usd": 4361.542799999999,
+    "whale_pct": 1.204,
     "whale_value_at_open": 362328.1786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -3301,8 +3301,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787097858.1544776,
-    "fills": 1
+    "last_fill_at": 1787098255.2608855,
+    "fills": 2
   },
   {
     "timestamp": 1787097876,
@@ -3313,8 +3313,8 @@
     "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 11076.5088,
-    "whale_pct": 34.862,
+    "whale_usd": 13499.385858,
+    "whale_pct": 42.488,
     "whale_value_at_open": 31772.1877,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -3325,8 +3325,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787097877.306646,
-    "fills": 1
+    "last_fill_at": 1787098248.1241512,
+    "fills": 2
   },
   {
     "timestamp": 1787097917,
@@ -3398,6 +3398,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787097984.4211962,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787098247,
+    "timestamp_added": 1787098248.126027,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-lad-col-2026-08-18-total-11pt5",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2521.7699990000006,
+    "whale_pct": 0.712,
+    "whale_value_at_open": 354190.9341,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787098248.1260333,
     "fills": 1
   }
 ]

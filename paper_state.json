@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.68648921220495,
+  "bankroll": 506.1067870845454,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -410,6 +410,16 @@
       "timestamp": 1787097483.8831668,
       "bankroll": 505.69,
       "event": "won: sentrio \u2014 Cincinnati Open: Jaime Faria vs Adam Walton"
+    },
+    {
+      "timestamp": 1787098230.195581,
+      "bankroll": 500.6,
+      "event": "lost: ferrariChampions2026 \u2014 Kingston: Lucas Da Silva vs Tyler Zink"
+    },
+    {
+      "timestamp": 1787098233.2354527,
+      "bankroll": 506.11,
+      "event": "won: ferrariChampions2026 \u2014 Kingston: Lucas Da Silva vs Tyler Zink"
     }
   ]
 }
