@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.5133338916879,
+  "bankroll": 520.3933338916879,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -725,6 +725,11 @@
       "timestamp": 1787110506.1230717,
       "bankroll": 525.51,
       "event": "lost: ferrariChampions2026 \u2014 New York Liberty vs. Chicago Sky"
+    },
+    {
+      "timestamp": 1787110754.7137156,
+      "bankroll": 520.39,
+      "event": "lost: Sassy-Bucket \u2014 New York Liberty vs. Chicago Sky: O/U 179.5"
     }
   ]
 }
