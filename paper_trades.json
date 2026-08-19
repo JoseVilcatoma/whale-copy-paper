@@ -9183,8 +9183,8 @@
     "title": "Chicago White Sox vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 2872.68,
-    "whale_pct": 1.527,
+    "whale_usd": 3939.13,
+    "whale_pct": 2.094,
     "whale_value_at_open": 188101.2726,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -9197,8 +9197,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166332.135856,
-    "fills": 3
+    "last_fill_at": 1787166660.0736809,
+    "fills": 4
   },
   {
     "timestamp": 1787164847,
@@ -9375,5 +9375,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787166608.456648,
     "fills": 3
+  },
+  {
+    "timestamp": 1787166633,
+    "timestamp_added": 1787166634.2481296,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-noskova-anisimo-2026-08-19",
+    "title": "Cincinnati Open: Linda Noskova vs Amanda Anisimova",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 4160.8,
+    "whale_pct": 1.565,
+    "whale_value_at_open": 265783.6938,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787166634.2481434,
+    "fills": 1
   }
 ]
