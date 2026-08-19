@@ -10167,8 +10167,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 29391.478188999998,
-    "whale_pct": 7.637,
+    "whale_usd": 35665.41815899999,
+    "whale_pct": 9.268,
     "whale_value_at_open": 384831.4475,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -10181,8 +10181,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179591.5137,
-    "fills": 3
+    "last_fill_at": 1787180836.2621725,
+    "fills": 5
   },
   {
     "timestamp": 1787170893,
@@ -12105,8 +12105,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 627.9224,
-    "whale_pct": 0.304,
+    "whale_usd": 6352.9226,
+    "whale_pct": 3.071,
     "whale_value_at_open": 206857.0611,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -12120,8 +12120,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787180671.4568033,
-    "fills": 1
+    "last_fill_at": 1787180766.0005252,
+    "fills": 2
   },
   {
     "timestamp": 1787180693,
@@ -12145,6 +12145,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787180694.0881262,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787180826,
+    "timestamp_added": 1787180827.4180162,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-coq-cp-2026-08-19-coq",
+    "title": "Will CD Coquimbo Unido win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 650.0,
+    "whale_pct": 0.183,
+    "whale_value_at_open": 354682.6315,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787180827.4180295,
     "fills": 1
   }
 ]
