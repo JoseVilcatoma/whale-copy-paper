@@ -5013,5 +5013,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787141370.1395707,
     "fills": 1
+  },
+  {
+    "timestamp": 1787141671,
+    "timestamp_added": 1787141672.1179204,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "lol-we-edg-2026-08-19-game-handicap-away-1pt5",
+    "title": "Game Handicap: WE (-1.5) vs EDward Gaming (+1.5)",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "whale_usd": 742.5068,
+    "whale_pct": 3.687,
+    "whale_value_at_open": 20139.8525,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787141672.1179316,
+    "fills": 1
   }
 ]
