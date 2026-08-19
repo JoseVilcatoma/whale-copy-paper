@@ -1,5 +1,5 @@
 {
-  "bankroll": 417.42787816368997,
+  "bankroll": 419.5638480242388,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1825,6 +1825,21 @@
       "timestamp": 1787174693.4434764,
       "bankroll": 417.43,
       "event": "won: RN1 \u2014 Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 0.5"
+    },
+    {
+      "timestamp": 1787174812.797551,
+      "bankroll": 417.68,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Club Atl\u00e9tico de Madrid (-2.5)"
+    },
+    {
+      "timestamp": 1787174873.1510613,
+      "bankroll": 418.21,
+      "event": "won: RN1 \u2014 Will M\u00e1laga CF win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787174873.4108279,
+      "bankroll": 419.56,
+      "event": "won: RN1 \u2014 Will Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF end in a draw?"
     }
   ]
 }

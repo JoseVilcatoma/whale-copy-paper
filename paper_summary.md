@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:26:01 (hora de Perú)
+Actualizado: 2026-08-19 16:28:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $417.43
-**Retorno acumulado:** -16.51%
+**Bankroll actual:** $419.56
+**Retorno acumulado:** -16.09%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 16:26:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $293.25 en 59 posiciones abiertas (disponible para nuevas apuestas: $124.18)
+**Capital comprometido ahora mismo:** $278.25 en 56 posiciones abiertas (disponible para nuevas apuestas: $141.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,20 +40,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| RN1 | 56 | 30 | 20 | -21.74 USD |
+| RN1 | 58 | 30 | 18 | -19.85 USD |
 | HomeRunHazard | 16 | 11 | 5 | -27.81 USD |
-| ferrariChampions2026 | 108 | 67 | 16 | -54.25 USD |
+| ferrariChampions2026 | 109 | 67 | 15 | -54.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 364
-- **Aciertos:** 232 (63.7%)
-- **Cuota promedio de entrada:** 65.0%
+- **Apuestas resueltas:** 367
+- **Aciertos:** 235 (64.0%)
+- **Cuota promedio de entrada:** 65.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,818.37
-- **ROI sobre lo apostado:** -4.60%
-- **Comisiones pagadas (taker fee):** $31.84 (1.75% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -2.84% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,833.37
+- **ROI sobre lo apostado:** -4.44%
+- **Comisiones pagadas (taker fee):** $31.93 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -2.70% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,9 +62,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 161 | 44.7% | 50.2% | -5.5 pp |
-| 60-79% | 126 | 70.6% | 68.1% | +2.5 pp |
-| 80-94% | 53 | 88.7% | 87.6% | +1.1 pp |
-| 95-99% (casi seguro) | 24 | 100.0% | 97.5% | +2.5 pp |
+| 60-79% | 127 | 70.9% | 68.2% | +2.7 pp |
+| 80-94% | 54 | 88.9% | 87.7% | +1.2 pp |
+| 95-99% (casi seguro) | 25 | 100.0% | 97.4% | +2.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Celtic FC vs. LASK Linz end in a dr | No (BUY) | 96% | 5.00 | 0.1% | ✅ ganada | +0.20 |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | Spread: Club Atlético de Madrid (-2.5) | Málaga CF (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Club Atlético de Madrid (-2.5) | Málaga CF (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ✅ ganada | +3.52 |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
