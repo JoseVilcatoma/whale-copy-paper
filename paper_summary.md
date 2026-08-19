@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 09:39:32 (hora de Perú)
+Actualizado: 2026-08-19 09:41:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 09:39:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $101.08)
+**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $91.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 80 | 48 | 36 | -21.80 USD |
+| ferrariChampions2026 | 80 | 48 | 38 | -21.80 USD |
 
 ## Análisis general
 
@@ -113,13 +113,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | Team WE (BUY) | 89% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 1 W | Astralis (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 43% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | magic (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | magic (BUY) | 56% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | FUT Esports (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming (BO3) - LP | EDward Gaming (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 52% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Prague 2: Radu Mihai Papoe vs Javier Bar | Radu Mihai Papoe (BUY) | 97% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Under (BUY) | 54% | 5.00 | 5.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 62% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -141,5 +143,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 51% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Mathieu Sca | Maxwell McKennon (BUY) | 69% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF W35 Krakow Women: Amelia Paszun vs R | Radka Zelnickova (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | ITF W35 Krakow Women: Oriana Gniewkowska | Oriana Gniewkowska (BUY) | 59% | 5.00 | 4.2% | ⏳ pendiente | — |
