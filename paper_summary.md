@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:09:21 (hora de Perú)
+Actualizado: 2026-08-19 16:11:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.32
-**Retorno acumulado:** -11.74%
+**Bankroll actual:** $441.85
+**Retorno acumulado:** -11.63%
 **Peor caída desde un máximo (drawdown):** 20.55%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 16:09:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $398.25 en 80 posiciones abiertas (disponible para nuevas apuestas: $43.07)
+**Capital comprometido ahora mismo:** $393.25 en 79 posiciones abiertas (disponible para nuevas apuestas: $48.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,21 +39,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 47 | 24 | 34 | -8.39 USD |
+| RN1 | 48 | 24 | 33 | -7.86 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 16 | 11 | 5 | -27.81 USD |
 | ferrariChampions2026 | 107 | 66 | 18 | -49.33 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 342
-- **Aciertos:** 220 (64.3%)
-- **Cuota promedio de entrada:** 64.8%
+- **Apuestas resueltas:** 343
+- **Aciertos:** 221 (64.4%)
+- **Cuota promedio de entrada:** 64.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,708.37
-- **ROI sobre lo apostado:** -3.49%
-- **Comisiones pagadas (taker fee):** $30.09 (1.76% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.73% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,713.37
+- **ROI sobre lo apostado:** -3.45%
+- **Comisiones pagadas (taker fee):** $30.11 (1.76% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.70% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -63,7 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 149 | 45.0% | 50.1% | -5.1 pp |
 | 60-79% | 123 | 72.4% | 68.0% | +4.3 pp |
-| 80-94% | 50 | 88.0% | 87.5% | +0.5 pp |
+| 80-94% | 51 | 88.2% | 87.6% | +0.6 pp |
 | 95-99% (casi seguro) | 20 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -169,7 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Celtic FC vs. LASK Linz end in a dr | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Spread: Club Atlético de Madrid (-2.5) | Málaga CF (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |

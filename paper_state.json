@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.3194548699821,
+  "bankroll": 441.8500104255377,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1715,6 +1715,11 @@
       "timestamp": 1787173755.062373,
       "bankroll": 441.32,
       "event": "lost: RN1 \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: O/U 2.5"
+    },
+    {
+      "timestamp": 1787173872.4646041,
+      "bankroll": 441.85,
+      "event": "won: RN1 \u2014 MH Hapoel Be'er Sheva vs. Sabah FK: O/U 4.5"
     }
   ]
 }

@@ -7709,8 +7709,8 @@
     "title": "Seattle Mariners vs. Milwaukee Brewers",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 2044.444444,
-    "whale_pct": 6.833,
+    "whale_usd": 13970.370369,
+    "whale_pct": 46.694,
     "whale_value_at_open": 29919.0836,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -7721,8 +7721,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787159470.5829725,
-    "fills": 2
+    "last_fill_at": 1787173839.1815634,
+    "fills": 3
   },
   {
     "timestamp": 1787154739,
@@ -9920,8 +9920,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
