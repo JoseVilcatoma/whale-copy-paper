@@ -10542,8 +10542,8 @@
     "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1859.077,
-    "whale_pct": 0.58,
+    "whale_usd": 3900.8385,
+    "whale_pct": 1.218,
     "whale_value_at_open": 320341.4079,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -10554,8 +10554,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787175148.2727203,
-    "fills": 2
+    "last_fill_at": 1787176223.3793552,
+    "fills": 3
   },
   {
     "timestamp": 1787175147,
@@ -10717,8 +10717,8 @@
     "title": "Will CA Mineiro win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 530.09,
-    "whale_pct": 1.653,
+    "whale_usd": 10726.24,
+    "whale_pct": 33.458,
     "whale_value_at_open": 32059.0492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -10731,7 +10731,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176041.2113202,
-    "fills": 1
+    "last_fill_at": 1787176143.664942,
+    "fills": 6
+  },
+  {
+    "timestamp": 1787176200,
+    "timestamp_added": 1787176201.085988,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-shnaide-rybakin-2026-08-19",
+    "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
+    "outcome": "Elena Rybakina",
+    "side": "BUY",
+    "whale_usd": 1782.5,
+    "whale_pct": 0.51,
+    "whale_value_at_open": 349258.5717,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787176201.5163774,
+    "fills": 2
   }
 ]
