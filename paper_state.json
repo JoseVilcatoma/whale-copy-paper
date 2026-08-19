@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.3831567006985,
+  "bankroll": 496.50568512764556,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1200,6 +1200,21 @@
       "timestamp": 1787158225.609893,
       "bankroll": 493.38,
       "event": "lost: ferrariChampions2026 \u2014 ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova"
+    },
+    {
+      "timestamp": 1787158653.7449973,
+      "bankroll": 494.16,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet"
+    },
+    {
+      "timestamp": 1787158654.0454023,
+      "bankroll": 494.81,
+      "event": "won: HomeRunHazard \u2014 Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet"
+    },
+    {
+      "timestamp": 1787158659.0241873,
+      "bankroll": 496.51,
+      "event": "won: RN1 \u2014 Roehampton: Matheus Pucinelli de Almeida vs Oliver Tarvet"
     }
   ]
 }
