@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 08:37:10 (hora de Perú)
+Actualizado: 2026-08-19 08:39:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $512.14
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 08:37:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $257.14)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $242.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 78 | 47 | 18 | -20.00 USD |
+| ferrariChampions2026 | 78 | 47 | 21 | -20.00 USD |
 
 ## Análisis general
 
@@ -106,6 +106,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 83% | 5.00 | 3.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team WE vs EDward Gaming (BO3) - LP | Team WE (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 1 W | Team WE (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Pedro Rodenas vs  | Pedro Rodenas (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Beat | Beatrice Ricci (BUY) | 81% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -133,6 +136,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton: Elmer Moeller vs Anton Matus | Anton Matusevich (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Giulia Safina Po | Teodora Miron (BUY) | 71% | 5.00 | 1.6% | ✅ ganada | +1.97 |
 | ferrariChampions2026 | LoL: HANJIN BRION vs DN SOOPers - Game 2 | HANJIN BRION (BUY) | 68% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 81% | 5.00 | 11.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Shanghai Haigang FC win on 2026-07- | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Prague 2: Rudolf Molleker vs Filip Jianu | Filip Jianu (BUY) | 75% | 5.00 | 2.5% | ✅ ganada | +1.60 |
