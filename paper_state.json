@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.0537918551073,
+  "bankroll": 506.08417280748824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -995,6 +995,11 @@
       "timestamp": 1787148165.0152667,
       "bankroll": 505.05,
       "event": "won: ferrariChampions2026 \u2014 ITF W35 Bistrita Women: Mariia Drobysheva vs Ilinca Sagmar"
+    },
+    {
+      "timestamp": 1787148663.308456,
+      "bankroll": 506.08,
+      "event": "venta anticipada: HVAB \u2014 ITF W35 Krakow Women: Oriana Gniewkowska vs Georgina Garcia Perez (+1.03 USD)"
     }
   ]
 }
