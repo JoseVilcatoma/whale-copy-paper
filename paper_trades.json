@@ -11436,8 +11436,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 70335.077714,
-    "whale_pct": 139.541,
+    "whale_usd": 95335.077714,
+    "whale_pct": 189.14,
     "whale_value_at_open": 50404.5951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -11448,8 +11448,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179293.0982955,
-    "fills": 12
+    "last_fill_at": 1787179429.9721763,
+    "fills": 13
   },
   {
     "timestamp": 1787179083,
@@ -11460,8 +11460,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2315.9984000000004,
-    "whale_pct": 0.719,
+    "whale_usd": 3473.9984000000004,
+    "whale_pct": 1.078,
     "whale_value_at_open": 322278.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -11474,8 +11474,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179293.1427062,
-    "fills": 2
+    "last_fill_at": 1787179430.5312963,
+    "fills": 3
   },
   {
     "timestamp": 1787179121,
@@ -11536,8 +11536,8 @@
     "title": "Cincinnati Open: Coco Gauff vs Marie Bouzkova",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 2400.0,
-    "whale_pct": 0.737,
+    "whale_usd": 3941.4031999999997,
+    "whale_pct": 1.211,
     "whale_value_at_open": 325436.5132,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -11548,8 +11548,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179124.3743193,
-    "fills": 1
+    "last_fill_at": 1787179467.803819,
+    "fills": 2
   },
   {
     "timestamp": 1787179135,
@@ -11797,5 +11797,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787179363.6102142,
     "fills": 1
+  },
+  {
+    "timestamp": 1787179461,
+    "timestamp_added": 1787179461.451327,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-nyr-nas-2026-08-19-total-3pt5",
+    "title": "New York Red Bulls vs. Nashville SC: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 26708.871468,
+    "whale_pct": 21.374,
+    "whale_value_at_open": 124959.8245,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787179467.1641955,
+    "fills": 6
   }
 ]
