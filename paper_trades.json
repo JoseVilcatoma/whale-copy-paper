@@ -8036,8 +8036,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -9622,8 +9622,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -10626,8 +10626,8 @@
     "odds_at_bet": 85,
     "fee_usd": 0.038,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10750,8 +10750,8 @@
     "odds_at_bet": 94,
     "fee_usd": 0.015,
     "odds_ballena": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.3,
     "overlaps_with": [
       "RN1"
     ],
@@ -11436,8 +11436,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 140074.906341,
-    "whale_pct": 277.901,
+    "whale_usd": 141175.906341,
+    "whale_pct": 280.085,
     "whale_value_at_open": 50404.5951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -11448,8 +11448,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179854.3121505,
-    "fills": 19
+    "last_fill_at": 1787179925.5190234,
+    "fills": 20
   },
   {
     "timestamp": 1787179083,
@@ -11783,8 +11783,8 @@
     "title": "Will Columbus Crew win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1048.2927,
-    "whale_pct": 0.285,
+    "whale_usd": 2054.5539,
+    "whale_pct": 0.558,
     "whale_value_at_open": 368348.4344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -11795,8 +11795,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179363.6102142,
-    "fills": 1
+    "last_fill_at": 1787179959.5264232,
+    "fills": 2
   },
   {
     "timestamp": 1787179461,
@@ -11807,8 +11807,8 @@
     "title": "New York Red Bulls vs. Nashville SC: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 37820.606368,
-    "whale_pct": 30.266,
+    "whale_usd": 38377.886368,
+    "whale_pct": 30.712,
     "whale_value_at_open": 124959.8245,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -11819,8 +11819,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787179637.0995846,
-    "fills": 9
+    "last_fill_at": 1787179949.882422,
+    "fills": 10
   },
   {
     "timestamp": 1787179531,
@@ -11920,5 +11920,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787179797.9667883,
     "fills": 1
+  },
+  {
+    "timestamp": 1787179870,
+    "timestamp_added": 1787179870.7896078,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-coq-cp-2026-08-19-total-2pt5",
+    "title": "CD Coquimbo Unido vs. CA Platense: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 507.6708,
+    "whale_pct": 0.129,
+    "whale_value_at_open": 393567.0754,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787179870.7896247,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787179957,
+    "timestamp_added": 1787179957.491321,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-clb-mim-2026-08-19-clb",
+    "title": "Will Columbus Crew win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 52754.02759999999,
+    "whale_pct": 20.947,
+    "whale_value_at_open": 251850.229,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787179972.6706276,
+    "fills": 8
   }
 ]

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:51:09 (hora de Perú)
+Actualizado: 2026-08-19 17:53:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $450.08
-**Retorno acumulado:** -9.98%
+**Bankroll actual:** $449.07
+**Retorno acumulado:** -10.19%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 17:51:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $418.25 en 84 posiciones abiertas (disponible para nuevas apuestas: $31.83)
+**Capital comprometido ahora mismo:** $408.25 en 82 posiciones abiertas (disponible para nuevas apuestas: $40.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,32 +28,32 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 1 | 0 | 2 | +4.88 USD |
 | sentrio | 3 | 2 | 2 | +3.16 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
+|  | 3 | 1 | 1 | +1.45 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| theowalcott | 1 | 1 | 4 | -1.43 USD |
-|  | 2 | 1 | 2 | -1.52 USD |
+| theowalcott | 1 | 1 | 5 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 3 | 2 | -7.99 USD |
-| RN1 | 67 | 34 | 7 | -14.13 USD |
+| RN1 | 68 | 34 | 6 | -13.29 USD |
 | Sassy-Bucket | 0 | 3 | 2 | -15.38 USD |
 | HomeRunHazard | 18 | 11 | 19 | -21.43 USD |
-| ferrariChampions2026 | 116 | 70 | 35 | -42.57 USD |
+| ferrariChampions2026 | 117 | 71 | 34 | -47.39 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 397
-- **Aciertos:** 257 (64.7%)
-- **Cuota promedio de entrada:** 65.0%
+- **Apuestas resueltas:** 401
+- **Aciertos:** 260 (64.8%)
+- **Cuota promedio de entrada:** 65.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,983.37
-- **ROI sobre lo apostado:** -2.57%
-- **Comisiones pagadas (taker fee):** $34.70 (1.75% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.82% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,003.37
+- **ROI sobre lo apostado:** -2.59%
+- **Comisiones pagadas (taker fee):** $34.98 (1.75% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.85% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,9 +61,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 177 | 46.9% | 50.2% | -3.3 pp |
-| 60-79% | 134 | 71.6% | 68.2% | +3.4 pp |
-| 80-94% | 59 | 86.4% | 87.4% | -0.9 pp |
+| 40-59% | 178 | 46.6% | 50.2% | -3.6 pp |
+| 60-79% | 135 | 71.9% | 68.2% | +3.7 pp |
+| 80-94% | 61 | 86.9% | 87.5% | -0.6 pp |
 | 95-99% (casi seguro) | 27 | 100.0% | 97.4% | +2.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -152,17 +152,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sf-cle-2026-08-19-spread-home-1pt5 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | mls-fcc-nyc-2026-08-19-fcc | ferrariChampions2026, theowalcott |
 | atp-jacquet-vukic-2026-08-18 | HomeRunHazard, ferrariChampions2026 |
+| mls-clb-mim-2026-08-19-clb | ferrariChampions2026, theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| theowalcott | Will Columbus Crew win on 2026-08-19? | Yes (BUY) | 59% | 5.00 | 20.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | CD Coquimbo Unido vs. CA Platense: O/U 2 | Under (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | San Francisco Giants (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Platense win on 2026-08-19? | No (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
-| theowalcott | New York Red Bulls vs. Nashville SC: O/U | Over (BUY) | 44% | 5.00 | 30.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Columbus Crew win on 2026-08-19? | No (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
+| theowalcott | New York Red Bulls vs. Nashville SC: O/U | Over (BUY) | 44% | 5.00 | 30.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Columbus Crew win on 2026-08-19? | No (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | BESTIA (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Kyrian Jacquet vs Aleksanda | Aleksandar Vukic (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -176,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 48% | 5.00 | 24.0% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 44% | 5.00 | 8.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | Yes (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
-| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 277.9% | ⏳ pendiente | — |
+| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 280.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 63% | 5.00 | 25.0% | ⏳ pendiente | — |
 | SDTrading | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -185,5 +188,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 62% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will SE Palmeiras win on 2026-08-19? | Yes (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 64% | 5.00 | 4.5% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Club Cerro Porteño win on 2026-08-1 | No (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |

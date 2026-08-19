@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.0774421941947,
+  "bankroll": 449.0704602005737,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1990,6 +1990,26 @@
       "timestamp": 1787179671.630899,
       "bankroll": 450.08,
       "event": "won: HomeRunHazard \u2014 Cincinnati Open: Alexander Zverev vs Tommy Paul"
+    },
+    {
+      "timestamp": 1787179984.4305725,
+      "bankroll": 444.95,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Prime League 1st Division Playoffs"
+    },
+    {
+      "timestamp": 1787179985.056126,
+      "bankroll": 447.92,
+      "event": "won:  \u2014 LoL: BIG vs Unicorns Of Love Sexy Edition (BO5) - Prime League 1st Division Playoffs"
+    },
+    {
+      "timestamp": 1787179986.8155148,
+      "bankroll": 448.77,
+      "event": "won: RN1 \u2014 Cincinnati Open: Diana Shnaider vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1787179987.560284,
+      "bankroll": 449.07,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Diana Shnaider vs Elena Rybakina"
     }
   ]
 }
