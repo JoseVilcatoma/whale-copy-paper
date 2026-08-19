@@ -6800,8 +6800,8 @@
     "title": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 10250.564878,
-    "whale_pct": 3.043,
+    "whale_usd": 15843.944877999998,
+    "whale_pct": 4.703,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -6814,8 +6814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151616.1473186,
-    "fills": 9
+    "last_fill_at": 1787151801.4529562,
+    "fills": 11
   },
   {
     "timestamp": 1787149916,
@@ -7263,6 +7263,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787151496.8420568,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787151833,
+    "timestamp_added": 1787151833.6148844,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-det-pit-2026-08-19",
+    "title": "Detroit Tigers vs. Pittsburgh Pirates",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 18592.09,
+    "whale_pct": 4.105,
+    "whale_value_at_open": 452884.5496,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151833.6148944,
     "fills": 1
   }
 ]

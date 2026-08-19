@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:02:16 (hora de Perú)
+Actualizado: 2026-08-19 10:04:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 10:02:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $58.25)
+**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $53.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 81 | 49 | 41 | -24.93 USD |
+| ferrariChampions2026 | 81 | 49 | 42 | -24.93 USD |
 
 ## Análisis general
 
@@ -112,12 +112,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-paszun-zelnick-2026-08-19 | RN1, ferrariChampions2026 |
 | atp-almeida-tarvet-2026-08-19 | HomeRunHazard, ferrariChampions2026 |
 | atp-gombos-cuenin-2026-08-19 | RN1, ferrariChampions2026 |
+| mlb-det-pit-2026-08-19 | SDTrading, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-19 | Satisfied, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Detroit Tigers vs. Pittsburgh Pirates | Detroit Tigers (BUY) | 41% | 5.00 | 4.1% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 47% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Sion: Mika Brunold vs Calvin Hemery | Mika Brunold (BUY) | 62% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Prague 2: Norbert Gombos vs Sean Cuenin | Sean Cuenin (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -136,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 43% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | magic (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | magic (BUY) | 56% | 5.00 | 23.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | FUT Esports (BUY) | 59% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | FUT Esports (BUY) | 59% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming (BO3) - LP | EDward Gaming (BUY) | 52% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Prague 2: Norbert Gombos vs Sean Cuenin | Norbert Gombos (BUY) | 52% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -147,4 +149,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis (BO3) - E | G2 (BUY) | 65% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 69% | 5.00 | 9.6% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 93% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton: Michael Geerts vs Radu Albot | Michael Geerts (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
