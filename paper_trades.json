@@ -10918,8 +10918,8 @@
     "title": "Valorant: Cloud9 vs BESTIA - Map 2 Winner",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 9688.402249,
-    "whale_pct": 2.64,
+    "whale_usd": 11059.730649000001,
+    "whale_pct": 3.013,
     "whale_value_at_open": 367030.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -10930,8 +10930,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787178137.6075103,
-    "fills": 9
+    "last_fill_at": 1787179096.5315316,
+    "fills": 10
   },
   {
     "timestamp": 1787177327,
@@ -11425,6 +11425,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787178961.4697225,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787179080,
+    "timestamp_added": 1787179081.4914258,
+    "username": "theowalcott",
+    "wallet": "0x7ad71d79a3bb90d0a87a06500fa0fe11663842aa",
+    "slug": "mls-fcc-nyc-2026-08-19-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 46855.077714,
+    "whale_pct": 92.958,
+    "whale_value_at_open": 50404.5951,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787179090.4914331,
+    "fills": 9
+  },
+  {
+    "timestamp": 1787179083,
+    "timestamp_added": 1787179083.500639,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-fcc-nyc-2026-08-19-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-19?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1157.9984000000002,
+    "whale_pct": 0.359,
+    "whale_value_at_open": 322278.1082,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "theowalcott"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787179083.50065,
     "fills": 1
   }
 ]
