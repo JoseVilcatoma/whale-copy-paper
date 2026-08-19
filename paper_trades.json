@@ -10743,8 +10743,8 @@
     "title": "Cincinnati Open: Diana Shnaider vs Elena Rybakina",
     "outcome": "Elena Rybakina",
     "side": "BUY",
-    "whale_usd": 1782.5,
-    "whale_pct": 0.51,
+    "whale_usd": 7270.023999999999,
+    "whale_pct": 2.082,
     "whale_value_at_open": 349258.5717,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -10757,7 +10757,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176201.5163774,
-    "fills": 2
+    "last_fill_at": 1787176268.850118,
+    "fills": 4
   }
 ]
