@@ -7581,8 +7581,8 @@
     "title": "Cincinnati Open: Rafael Jodar vs Flavio Cobolli",
     "outcome": "Rafael Jodar",
     "side": "BUY",
-    "whale_usd": 12857.356435999998,
-    "whale_pct": 14.048,
+    "whale_usd": 28688.957135999997,
+    "whale_pct": 31.346,
     "whale_value_at_open": 91522.0922,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -7595,8 +7595,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787157733.4882832,
-    "fills": 5
+    "last_fill_at": 1787157948.3282642,
+    "fills": 7
   },
   {
     "timestamp": 1787153127,
@@ -8229,8 +8229,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2064.12,
-    "whale_pct": 1.214,
+    "whale_usd": 3106.2,
+    "whale_pct": 1.827,
     "whale_value_at_open": 170025.8545,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -8244,7 +8244,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787157710.402927,
-    "fills": 2
+    "last_fill_at": 1787157895.0042775,
+    "fills": 3
   }
 ]
