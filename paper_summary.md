@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:51:25 (hora de Perú)
+Actualizado: 2026-08-19 18:53:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:51:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $412.61 en 83 posiciones abiertas (disponible para nuevas apuestas: $49.47)
+**Capital comprometido ahora mismo:** $422.61 en 85 posiciones abiertas (disponible para nuevas apuestas: $39.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| theowalcott | 1 | 1 | 6 | -1.43 USD |
+| theowalcott | 1 | 1 | 7 | -1.43 USD |
 |  | 3 | 2 | 0 | -3.59 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 22 | 11 | 19 | -13.74 USD |
 | Sassy-Bucket | 0 | 3 | 3 | -15.38 USD |
 | RN1 | 68 | 35 | 5 | -18.39 USD |
-| ferrariChampions2026 | 121 | 72 | 37 | -35.99 USD |
+| ferrariChampions2026 | 121 | 72 | 38 | -35.99 USD |
 
 ## Análisis general
 
@@ -161,6 +161,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Toronto FC vs. Charlotte FC: O/U 1.5 | Over (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
+| theowalcott | Montevideo City Torque vs. CA Tigre: O/U | Over (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Nuno Borges vs Brandon  | Brandon Nakashima (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -189,5 +191,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | Cleveland Guardians (BUY) | 78% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Nuno Borges vs Brandon  | Nuno Borges (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: New York Yankees (-2.5) | Baltimore Orioles (BUY) | 71% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Quebec City: Kyrian Jacquet vs Aleksanda | Aleksandar Vukic (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
