@@ -6018,5 +6018,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787146980.1084754,
     "fills": 4
+  },
+  {
+    "timestamp": 1787147010,
+    "timestamp_added": 1787147010.5804641,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-sparta-mouzn-2026-08-19",
+    "title": "Counter-Strike: SPARTA vs MOUZ NXT (BO3) - ESL Challenger League Europe Cup #4 Group C",
+    "outcome": "SPARTA",
+    "side": "BUY",
+    "whale_usd": 1089.9012,
+    "whale_pct": 0.433,
+    "whale_value_at_open": 251468.2274,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787147010.5804784,
+    "fills": 1
   }
 ]
