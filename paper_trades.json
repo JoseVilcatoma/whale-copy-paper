@@ -9438,8 +9438,8 @@
     "title": "Club Atl\u00e9tico de Madrid vs. M\u00e1laga CF: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3842.15,
-    "whale_pct": 1.414,
+    "whale_usd": 4523.631481,
+    "whale_pct": 1.665,
     "whale_value_at_open": 271763.0691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -9450,8 +9450,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170534.6551752,
-    "fills": 4
+    "last_fill_at": 1787172577.1625924,
+    "fills": 5
   },
   {
     "timestamp": 1787167031,
@@ -9488,8 +9488,8 @@
     "title": "Will M\u00e1laga CF win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3792.359,
-    "whale_pct": 1.458,
+    "whale_usd": 5320.586,
+    "whale_pct": 2.046,
     "whale_value_at_open": 260065.048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -9500,8 +9500,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787172437.3095367,
-    "fills": 3
+    "last_fill_at": 1787172608.0327506,
+    "fills": 4
   },
   {
     "timestamp": 1787167302,
@@ -9793,8 +9793,8 @@
     "title": "Will NK Celje win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5736.548400000001,
-    "whale_pct": 2.288,
+    "whale_usd": 6310.6284000000005,
+    "whale_pct": 2.517,
     "whale_value_at_open": 250715.0012,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -9805,8 +9805,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787170021.7031758,
-    "fills": 4
+    "last_fill_at": 1787172596.8443856,
+    "fills": 5
   },
   {
     "timestamp": 1787169853,
