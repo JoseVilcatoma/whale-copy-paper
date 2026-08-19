@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.7431685863345,
+  "bankroll": 482.27372414189006,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1490,6 +1490,11 @@
       "timestamp": 1787167168.2612557,
       "bankroll": 481.74,
       "event": "won: RN1 \u2014 Cincinnati Open: Marta Kostyuk vs Mirra Andreeva"
+    },
+    {
+      "timestamp": 1787167791.9944482,
+      "bankroll": 482.27,
+      "event": "won:  \u2014 Kingston: Igor Ribeiro Marcondes vs Lautaro Midon"
     }
   ]
 }
