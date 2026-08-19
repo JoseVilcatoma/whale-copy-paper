@@ -4601,5 +4601,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787119880.9619539,
     "fills": 2
+  },
+  {
+    "timestamp": 1787123138,
+    "timestamp_added": 1787123138.8110325,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "ucl-cel-lin2-2026-08-19-cel",
+    "title": "Will Celtic FC win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 592.262,
+    "whale_pct": 2.933,
+    "whale_value_at_open": 20194.709,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787123138.8110437,
+    "fills": 1
   }
 ]
