@@ -1,5 +1,5 @@
 {
-  "bankroll": 434.351527177607,
+  "bankroll": 434.54986051094033,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1680,6 +1680,11 @@
       "timestamp": 1787172821.1874378,
       "bankroll": 434.35,
       "event": "lost:  \u2014 Atlanta Braves vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1787173500.2490532,
+      "bankroll": 434.55,
+      "event": "won: RN1 \u2014 ITF W15 Wanferc\u00e9e-Baulet Women: Daphnee Mpetshi Perricard vs Salma Djoubri"
     }
   ]
 }

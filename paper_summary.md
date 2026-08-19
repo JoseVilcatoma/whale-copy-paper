@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:03:06 (hora de Perú)
+Actualizado: 2026-08-19 16:05:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $434.35
-**Retorno acumulado:** -13.13%
+**Bankroll actual:** $434.55
+**Retorno acumulado:** -13.09%
 **Peor caída desde un máximo (drawdown):** 20.55%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 16:03:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $428.25 en 86 posiciones abiertas (disponible para nuevas apuestas: $6.10)
+**Capital comprometido ahora mismo:** $423.25 en 85 posiciones abiertas (disponible para nuevas apuestas: $11.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,22 +38,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | SDTrading | 1 | 2 | 4 | -5.95 USD |
+| RN1 | 45 | 22 | 38 | -6.80 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 44 | 22 | 39 | -7.00 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
 | HomeRunHazard | 15 | 11 | 6 | -29.68 USD |
 | ferrariChampions2026 | 107 | 66 | 18 | -49.33 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 335
-- **Aciertos:** 215 (64.2%)
-- **Cuota promedio de entrada:** 64.9%
+- **Apuestas resueltas:** 336
+- **Aciertos:** 216 (64.3%)
+- **Cuota promedio de entrada:** 65.0%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,673.37
-- **ROI sobre lo apostado:** -3.98%
-- **Comisiones pagadas (taker fee):** $29.38 (1.76% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -2.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,678.37
+- **ROI sobre lo apostado:** -3.96%
+- **Comisiones pagadas (taker fee):** $29.39 (1.75% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -2.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,7 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 144 | 44.4% | 50.1% | -5.6 pp |
 | 60-79% | 122 | 72.1% | 68.0% | +4.1 pp |
 | 80-94% | 50 | 88.0% | 87.5% | +0.5 pp |
-| 95-99% (casi seguro) | 19 | 100.0% | 97.6% | +2.4 pp |
+| 95-99% (casi seguro) | 20 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -156,7 +156,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Celtic FC win on 2026-08-19? | Yes (BUY) | 98% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | ITF W15 Wanfercée-Baulet Women: Daphnee  | Salma Djoubri (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF W15 Wanfercée-Baulet Women: Daphnee  | Salma Djoubri (BUY) | 96% | 5.00 | 0.7% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Will ŠK Slovan Bratislava vs. NK Celje e | No (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 49% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
