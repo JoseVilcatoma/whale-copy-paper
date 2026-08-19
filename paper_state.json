@@ -1,5 +1,5 @@
 {
-  "bankroll": 530.1843129126669,
+  "bankroll": 529.5546975280515,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -700,6 +700,16 @@
       "timestamp": 1787109253.8730764,
       "bankroll": 530.18,
       "event": "won: ferrariChampions2026 \u2014 Los Angeles Angels vs. Houston Astros"
+    },
+    {
+      "timestamp": 1787110132.7769382,
+      "bankroll": 525.06,
+      "event": "lost: Sassy-Bucket \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1787110132.8771148,
+      "bankroll": 529.55,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5"
     }
   ]
 }
