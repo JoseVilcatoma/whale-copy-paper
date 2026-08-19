@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 10:25:08 (hora de Perú)
+Actualizado: 2026-08-19 10:27:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.23
-**Retorno acumulado:** -0.95%
+**Bankroll actual:** $490.09
+**Retorno acumulado:** -1.98%
 **Peor caída desde un máximo (drawdown):** 10.44%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 10:25:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $468.25 en 94 posiciones abiertas (disponible para nuevas apuestas: $26.98)
+**Capital comprometido ahora mismo:** $473.25 en 95 posiciones abiertas (disponible para nuevas apuestas: $16.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,28 +28,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 4 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
-| BOOMBOYS.Kiritych | 0 | 0 | 3 | +0.00 USD |
 | Lakersfan111 | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 0 | 0 | 7 | +0.00 USD |
 | Satisfied | 0 | 0 | 2 | +0.00 USD |
+| predictionlegend | 0 | 0 | 1 | +0.00 USD |
 | HomeRunHazard | 6 | 2 | 10 | -0.48 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
+| BOOMBOYS.Kiritych | 0 | 1 | 2 | -5.14 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 83 | 50 | 42 | -25.48 USD |
+| ferrariChampions2026 | 83 | 50 | 43 | -25.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 214
-- **Aciertos:** 142 (66.4%)
-- **Cuota promedio de entrada:** 65.1%
+- **Apuestas resueltas:** 215
+- **Aciertos:** 142 (66.0%)
+- **Cuota promedio de entrada:** 65.0%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,070.00
-- **ROI sobre lo apostado:** -0.54%
-- **Comisiones pagadas (taker fee):** $18.67 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,075.00
+- **ROI sobre lo apostado:** -1.01%
+- **Comisiones pagadas (taker fee):** $18.81 (1.75% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.74% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -57,7 +58,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 92 | 46.7% | 49.7% | -2.9 pp |
+| 40-59% | 93 | 46.2% | 49.6% | -3.4 pp |
 | 60-79% | 76 | 73.7% | 68.5% | +5.2 pp |
 | 80-94% | 32 | 90.6% | 87.2% | +3.4 pp |
 | 95-99% (casi seguro) | 14 | 100.0% | 97.8% | +2.2 pp |
@@ -123,6 +124,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| predictionlegend | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 15.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 70% | 5.00 | 6.9% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 46% | 3.25 | 0.7% | ⏳ pendiente | — |
 | Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 217.5% | ⏳ pendiente | — |
@@ -151,5 +154,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton: Viktor Durasovic vs Lucas Po | Lucas Poullain (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | LoL: Team WE vs EDward Gaming - Game 2 W | Team WE (BUY) | 89% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Astralis - Map 1 W | Astralis (BUY) | 63% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds | St. Louis Cardinals (BUY) | 43% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: FUT Esports vs magic (BO | magic (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
