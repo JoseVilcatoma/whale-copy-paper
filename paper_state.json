@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.38955113605044,
+  "bankroll": 493.3831567006985,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1185,6 +1185,21 @@
       "timestamp": 1787156713.686242,
       "bankroll": 490.39,
       "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Vasco Leote Prata vs Jeffrey Fradkin"
+    },
+    {
+      "timestamp": 1787158219.8560042,
+      "bankroll": 495.89,
+      "event": "won: RN1 \u2014 ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova"
+    },
+    {
+      "timestamp": 1787158224.2954175,
+      "bankroll": 498.5,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova"
+    },
+    {
+      "timestamp": 1787158225.609893,
+      "bankroll": 493.38,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova"
     }
   ]
 }

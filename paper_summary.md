@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:48:26 (hora de Perú)
+Actualizado: 2026-08-19 11:50:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $490.39
-**Retorno acumulado:** -1.92%
+**Bankroll actual:** $493.38
+**Retorno acumulado:** -1.32%
 **Peor caída desde un máximo (drawdown):** 10.57%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 11:48:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $488.25 en 98 posiciones abiertas (disponible para nuevas apuestas: $2.14)
+**Capital comprometido ahora mismo:** $473.25 en 95 posiciones abiertas (disponible para nuevas apuestas: $20.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,23 +36,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 7 | 2 | 14 | -0.33 USD |
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
+| RN1 | 21 | 10 | 17 | -1.52 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| RN1 | 20 | 10 | 18 | -7.03 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 90 | 52 | 38 | -21.50 USD |
+| ferrariChampions2026 | 91 | 53 | 36 | -24.01 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 236
-- **Aciertos:** 157 (66.5%)
-- **Cuota promedio de entrada:** 65.4%
+- **Apuestas resueltas:** 239
+- **Aciertos:** 159 (66.5%)
+- **Cuota promedio de entrada:** 65.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,180.00
-- **ROI sobre lo apostado:** -0.90%
-- **Comisiones pagadas (taker fee):** $20.41 (1.73% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,195.00
+- **ROI sobre lo apostado:** -0.64%
+- **Comisiones pagadas (taker fee):** $20.75 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,8 +60,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 99 | 46.5% | 49.8% | -3.4 pp |
-| 60-79% | 85 | 74.1% | 68.3% | +5.8 pp |
+| 40-59% | 101 | 46.5% | 49.8% | -3.3 pp |
+| 60-79% | 86 | 74.4% | 68.3% | +6.1 pp |
 | 80-94% | 36 | 88.9% | 87.1% | +1.8 pp |
 | 95-99% (casi seguro) | 16 | 100.0% | 97.6% | +2.4 pp |
 
@@ -133,7 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Lucas Re | Leo Borg (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
+| HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 57% | 5.00 | 7.5% | ⏳ pendiente | — |
 | RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Benjamin Hassan (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ic4cream | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -156,7 +156,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton: Matheus Pucinelli de Almeida | Oliver Tarvet (BUY) | 74% | 5.00 | 2.3% | ⏳ pendiente | — |
 | predictionlegend | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 70% | 5.00 | 32.5% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 70% | 5.00 | 33.7% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 46% | 3.25 | 0.7% | ⏳ pendiente | — |
-| Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 231.6% | ⏳ pendiente | — |
+| Satisfied | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 238.0% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 5.00 | 19.9% | ⏳ pendiente | — |
