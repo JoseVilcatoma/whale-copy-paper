@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:38:25 (hora de Perú)
+Actualizado: 2026-08-19 17:40:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.21
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 17:38:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $368.25 en 74 posiciones abiertas (disponible para nuevas apuestas: $78.96)
+**Capital comprometido ahora mismo:** $403.25 en 81 posiciones abiertas (disponible para nuevas apuestas: $43.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
-| SDTrading | 3 | 2 | 5 | +6.04 USD |
+| SDTrading | 3 | 2 | 6 | +6.04 USD |
 | Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
 | Satisfied | 1 | 0 | 2 | +4.88 USD |
 | sentrio | 3 | 2 | 2 | +3.16 USD |
@@ -41,8 +41,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 3 | 2 | -7.99 USD |
 | RN1 | 65 | 33 | 10 | -13.10 USD |
 | Sassy-Bucket | 0 | 3 | 2 | -15.38 USD |
-| HomeRunHazard | 17 | 11 | 14 | -22.08 USD |
-| ferrariChampions2026 | 114 | 69 | 28 | -42.71 USD |
+| HomeRunHazard | 17 | 11 | 18 | -22.08 USD |
+| ferrariChampions2026 | 114 | 69 | 30 | -42.71 USD |
 
 ## Análisis general
 
@@ -129,6 +129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-ari-bos-2026-08-19-total-8pt5 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | wta-swiatek-parry-2026-08-19 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lal-mad-mala-2026-08-19-total-2pt5 | RN1, predictionlegend |
+| mlb-sea-mil-2026-08-19 | SDTrading, Satisfied |
 | atp-kopp-hassan-2026-08-19 | RN1, ferrariChampions2026 |
 | mlb-ari-bos-2026-08-19-spread-home-1pt5 | HomeRunHazard, ferrariChampions2026 |
 | mls-phi-mia-2026-08-19-mia | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436, RN1 |
@@ -154,8 +155,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Nuno Borges vs Brandon  | Nuno Borges (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: New York Yankees (-2.5) | Baltimore Orioles (BUY) | 71% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Quebec City: Kyrian Jacquet vs Aleksanda | Aleksandar Vukic (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Coco Gauff vs Marie Bou | Coco Gauff (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
+| SDTrading | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 48% | 5.00 | 24.0% | ⏳ pendiente | — |
+| HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 44% | 5.00 | 8.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | Yes (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
-| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 93.0% | ⏳ pendiente | — |
+| theowalcott | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 50% | 5.00 | 94.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 63% | 5.00 | 25.0% | ⏳ pendiente | — |
 | SDTrading | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -177,10 +185,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cancun: Alexandre Muller vs Coleman Wong | Coleman Wong (BUY) | 95% | 5.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Miami Marlins (-2.5) | Philadelphia Phillies (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | Cloud9 (BUY) | 67% | 5.00 | 3.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Club Cerro Porteño vs. SE Palmeiras: O/U | Under (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 55% | 5.00 | 24.6% | ⏳ pendiente | — |
-| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 5.00 | 383.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 45% | 5.00 | 5.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA (BO3) - VCT A | BESTIA (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 94% | 5.00 | 2.7% | ⏳ pendiente | — |
