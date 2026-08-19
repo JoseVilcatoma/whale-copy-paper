@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.53258507322187,
+  "bankroll": 501.4045850732219,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -850,6 +850,11 @@
       "timestamp": 1787115472.184529,
       "bankroll": 506.53,
       "event": "won: ferrariChampions2026 \u2014 Spread: Chicago Cubs (-2.5)"
+    },
+    {
+      "timestamp": 1787115598.3223674,
+      "bankroll": 501.4,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Chicago Cubs"
     }
   ]
 }
