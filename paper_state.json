@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.62116676726976,
+  "bankroll": 465.2580965918312,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1320,6 +1320,16 @@
       "timestamp": 1787159783.1423585,
       "bankroll": 466.62,
       "event": "won: RN1 \u2014 Prague 2: Norbert Gombos vs Sean Cuenin"
+    },
+    {
+      "timestamp": 1787161641.6084507,
+      "bankroll": 461.59,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787161642.7873638,
+      "bankroll": 465.26,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming - Game 2 Winner"
     }
   ]
 }

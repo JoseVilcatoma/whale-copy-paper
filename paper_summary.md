@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 12:46:35 (hora de Perú)
+Actualizado: 2026-08-19 12:48:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $466.62
-**Retorno acumulado:** -6.68%
-**Peor caída desde un máximo (drawdown):** 14.63%
+**Bankroll actual:** $465.26
+**Retorno acumulado:** -6.95%
+**Peor caída desde un máximo (drawdown):** 15.31%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 12:46:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $466.62 en 94 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $461.62 en 93 posiciones abiertas (disponible para nuevas apuestas: $3.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,25 +34,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 1 | 1 | 1 | -1.16 USD |
 | theowalcott | 1 | 1 | 0 | -1.43 USD |
 | RN1 | 26 | 12 | 24 | -2.25 USD |
-| HomeRunHazard | 10 | 3 | 17 | -3.86 USD |
+| HomeRunHazard | 10 | 3 | 18 | -3.86 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 1 | 5 | -5.10 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| ferrariChampions2026 | 97 | 58 | 25 | -36.30 USD |
+| ferrariChampions2026 | 98 | 59 | 23 | -37.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 263
-- **Aciertos:** 173 (65.8%)
-- **Cuota promedio de entrada:** 65.7%
+- **Apuestas resueltas:** 265
+- **Aciertos:** 174 (65.7%)
+- **Cuota promedio de entrada:** 65.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,315.00
-- **ROI sobre lo apostado:** -2.61%
-- **Comisiones pagadas (taker fee):** $22.55 (1.71% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.90% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,325.00
+- **ROI sobre lo apostado:** -2.70%
+- **Comisiones pagadas (taker fee):** $22.68 (1.71% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -60,9 +60,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 109 | 45.9% | 50.0% | -4.1 pp |
+| 40-59% | 110 | 46.4% | 50.1% | -3.7 pp |
 | 60-79% | 93 | 72.0% | 68.2% | +3.9 pp |
-| 80-94% | 44 | 88.6% | 87.2% | +1.4 pp |
+| 80-94% | 45 | 86.7% | 87.2% | -0.6 pp |
 | 95-99% (casi seguro) | 17 | 100.0% | 97.5% | +2.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -133,6 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Chicago Cubs (-2.5) | Chicago White Sox (BUY) | 72% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 52% | 3.37 | 2.3% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Alessandro Battiston | Alessandro Battiston (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -162,4 +163,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 57% | 5.00 | 8.3% | ⏳ pendiente | — |
 | RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Benjamin Hassan (BUY) | 90% | 5.00 | 1.3% | ✅ ganada | +0.53 |
 | ic4cream | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
-| RN1 | Sion: Sandro Kopp vs Benjamin Hassan | Sandro Kopp (BUY) | 69% | 5.00 | 2.2% | ❌ perdida | -5.08 |
