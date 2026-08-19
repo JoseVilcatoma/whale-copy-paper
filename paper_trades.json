@@ -5684,8 +5684,8 @@
     "title": "Miami Marlins vs. Philadelphia Phillies",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 1086.291,
-    "whale_pct": 0.45,
+    "whale_usd": 6134.862157,
+    "whale_pct": 2.542,
     "whale_value_at_open": 241302.5787,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -5698,8 +5698,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787145401.0250165,
-    "fills": 1
+    "last_fill_at": 1787178019.496306,
+    "fills": 2
   },
   {
     "timestamp": 1787145435,
@@ -10769,8 +10769,8 @@
     "title": "Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "BESTIA",
     "side": "BUY",
-    "whale_usd": 2070.6,
-    "whale_pct": 0.562,
+    "whale_usd": 3830.6040000000003,
+    "whale_pct": 1.039,
     "whale_value_at_open": 368688.4095,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -10781,8 +10781,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176502.5586357,
-    "fills": 1
+    "last_fill_at": 1787178000.4969635,
+    "fills": 2
   },
   {
     "timestamp": 1787176793,
@@ -10817,8 +10817,8 @@
     "title": "Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 52640.216362,
-    "whale_pct": 224.001,
+    "whale_usd": 90029.306162,
+    "whale_pct": 383.104,
     "whale_value_at_open": 23499.9927,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -10829,8 +10829,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787177960.7464683,
-    "fills": 7
+    "last_fill_at": 1787177994.889825,
+    "fills": 9
   },
   {
     "timestamp": 1787176927,
@@ -10918,8 +10918,8 @@
     "title": "Valorant: Cloud9 vs BESTIA - Map 2 Winner",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 7907.518916000001,
-    "whale_pct": 2.154,
+    "whale_usd": 8796.098916,
+    "whale_pct": 2.397,
     "whale_value_at_open": 367030.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -10930,8 +10930,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787177886.3392253,
-    "fills": 7
+    "last_fill_at": 1787178052.0070026,
+    "fills": 8
   },
   {
     "timestamp": 1787177327,

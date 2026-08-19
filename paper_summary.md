@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 17:19:33 (hora de Perú)
+Actualizado: 2026-08-19 17:21:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $412.55
@@ -165,13 +165,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Valorant: Cloud9 vs BESTIA (BO3) - VCT A | Cloud9 (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Alexandre Muller vs Coleman Wong | Coleman Wong (BUY) | 95% | 5.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Miami Marlins (-2.5) | Philadelphia Phillies (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | Cloud9 (BUY) | 67% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA - Map 2 Winne | Cloud9 (BUY) | 67% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Club Cerro Porteño vs. SE Palmeiras: O/U | Under (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Under (BUY) | 55% | 5.00 | 24.6% | ⏳ pendiente | — |
-| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 5.00 | 224.0% | ⏳ pendiente | — |
+| Sassy-Bucket | Toronto Blue Jays vs. Tampa Bay Rays: O/ | Over (BUY) | 47% | 5.00 | 383.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 45% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA (BO3) - VCT A | BESTIA (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Cloud9 vs BESTIA (BO3) - VCT A | BESTIA (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 94% | 5.00 | 2.7% | ⏳ pendiente | — |
 | theowalcott | Will CA Mineiro win on 2026-08-19? | No (BUY) | 62% | 5.00 | 35.7% | ⏳ pendiente | — |
 | theowalcott | CA Mineiro vs. Red Bull Bragantino: O/U  | Over (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
