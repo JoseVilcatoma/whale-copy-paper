@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.4284034518716,
+  "bankroll": 474.6777305740248,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1375,6 +1375,31 @@
       "timestamp": 1787163148.2070582,
       "bankroll": 477.43,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: FUT Esports vs magic - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787163517.6065161,
+      "bankroll": 472.36,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Open: Rafael Jodar vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1787163518.5079198,
+      "bankroll": 467.28,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Rafael Jodar vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1787163518.708236,
+      "bankroll": 462.18,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Rafael Jodar vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1787163521.9280746,
+      "bankroll": 468.94,
+      "event": "won: RN1 \u2014 Cincinnati Open: Rafael Jodar vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1787163522.0283327,
+      "bankroll": 474.68,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Rafael Jodar vs Flavio Cobolli"
     }
   ]
 }

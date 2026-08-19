@@ -7131,8 +7131,8 @@
     "odds_at_bet": 72,
     "fee_usd": 0.07,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -7588,8 +7588,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -7689,8 +7689,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -8437,8 +8437,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.76,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -8464,8 +8464,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -9001,5 +9001,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787163224.130473,
     "fills": 2
+  },
+  {
+    "timestamp": 1787163585,
+    "timestamp_added": 1787163586.2688518,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-atl-min-2026-08-19-total-7pt5",
+    "title": "Atlanta Braves vs. Minnesota Twins: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 688.5,
+    "whale_pct": 0.445,
+    "whale_value_at_open": 154573.0153,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787163586.2688644,
+    "fills": 1
   }
 ]
