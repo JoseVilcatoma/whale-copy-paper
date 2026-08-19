@@ -8256,8 +8256,8 @@
     "title": "Detroit Tigers vs. Pittsburgh Pirates: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1675.8,
-    "whale_pct": 1.106,
+    "whale_usd": 2757.4,
+    "whale_pct": 1.82,
     "whale_value_at_open": 151482.7304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -8270,8 +8270,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787158247.0111532,
-    "fills": 2
+    "last_fill_at": 1787158504.9982479,
+    "fills": 3
   },
   {
     "timestamp": 1787158370,
@@ -8299,6 +8299,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787158370.2930667,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787158596,
+    "timestamp_added": 1787158597.6271667,
+    "username": "0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847",
+    "wallet": "0xcf609d3256f0f37f0595e5dc64012fa3a8fea6f5",
+    "slug": "cs2-furia-aur1-2026-08-19",
+    "title": "Counter-Strike: FURIA vs Aurora Gaming (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "whale_usd": 6200.0,
+    "whale_pct": 13.066,
+    "whale_value_at_open": 47451.4765,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787158597.6271806,
     "fills": 1
   }
 ]

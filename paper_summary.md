@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 11:54:41 (hora de Perú)
+Actualizado: 2026-08-19 11:56:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.38
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 11:54:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $483.25 en 97 posiciones abiertas (disponible para nuevas apuestas: $10.13)
+**Capital comprometido ahora mismo:** $488.25 en 98 posiciones abiertas (disponible para nuevas apuestas: $5.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 29 | 1 | 1 | +41.97 USD |
-| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 0 | +10.20 USD |
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 3 | 0 | 1 | +10.20 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | sentrio | 2 | 2 | 3 | +0.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 5 | +0.00 USD |
@@ -131,8 +131,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | Counter-Strike: FURIA vs Aurora Gaming ( | FURIA (BUY) | 63% | 5.00 | 13.1% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates | Pittsburgh Pirates (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 50% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Pittsburgh Pirates: O | Over (BUY) | 53% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Lucas Re | Leo Borg (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -160,4 +161,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | predictionlegend | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: FUT Esports vs magic - M | FUT Esports (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Rafael Jodar vs Flavio  | Rafael Jodar (BUY) | 70% | 5.00 | 33.7% | ⏳ pendiente | — |
-| SDTrading | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 46% | 3.25 | 0.7% | ⏳ pendiente | — |
