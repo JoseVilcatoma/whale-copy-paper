@@ -9133,8 +9133,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 5893.299,
-    "whale_pct": 3.553,
+    "whale_usd": 6501.299,
+    "whale_pct": 3.919,
     "whale_value_at_open": 165873.9216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -9145,8 +9145,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787166186.7005398,
-    "fills": 2
+    "last_fill_at": 1787171702.5451612,
+    "fills": 3
   },
   {
     "timestamp": 1787164714,
@@ -9411,8 +9411,8 @@
     "title": "Will Club Atl\u00e9tico de Madrid win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 17640.328800000003,
-    "whale_pct": 6.491,
+    "whale_usd": 18462.3588,
+    "whale_pct": 6.794,
     "whale_value_at_open": 271763.0691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -9426,8 +9426,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787171294.5868633,
-    "fills": 17
+    "last_fill_at": 1787171704.6278453,
+    "fills": 18
   },
   {
     "timestamp": 1787166786,
