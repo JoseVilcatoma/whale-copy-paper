@@ -11354,5 +11354,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787178559.0602734,
     "fills": 1
+  },
+  {
+    "timestamp": 1787178623,
+    "timestamp_added": 1787178623.688829,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sf-cle-2026-08-19-spread-home-1pt5",
+    "title": "Spread: Cleveland Guardians (-1.5)",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "whale_usd": 1459.1759,
+    "whale_pct": 1.345,
+    "whale_value_at_open": 108474.6897,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787178623.6888387,
+    "fills": 1
   }
 ]
