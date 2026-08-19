@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:34:52 (hora de Perú)
+Actualizado: 2026-08-19 18:36:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $453.81
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:34:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $447.61 en 90 posiciones abiertas (disponible para nuevas apuestas: $6.20)
+**Capital comprometido ahora mismo:** $452.61 en 91 posiciones abiertas (disponible para nuevas apuestas: $1.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 68 | 34 | 6 | -13.29 USD |
 | Sassy-Bucket | 0 | 3 | 3 | -15.38 USD |
 | HomeRunHazard | 20 | 11 | 21 | -20.93 USD |
-| ferrariChampions2026 | 118 | 71 | 40 | -47.19 USD |
+| ferrariChampions2026 | 118 | 71 | 41 | -47.19 USD |
 
 ## Análisis general
 
@@ -154,19 +154,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sf-cle-2026-08-19-spread-home-1pt5 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | mls-fcc-nyc-2026-08-19-fcc | ferrariChampions2026, theowalcott |
 | atp-jacquet-vukic-2026-08-18 | HomeRunHazard, ferrariChampions2026 |
+| atp-borges-nakashi-2026-08-19 | HomeRunHazard, ferrariChampions2026 |
 | mls-clb-mim-2026-08-19-clb | ferrariChampions2026, theowalcott |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Open: Nuno Borges vs Brandon  | Brandon Nakashima (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Coquimbo Unido win on 2026-08-19 | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 2.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 57% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Soon-Woo Kwon vs Shintaro M | Soon-Woo Kwon (BUY) | 88% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -189,4 +191,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Nuno Borges vs Brandon  | Nuno Borges (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | Baltimore Orioles (BUY) | 71% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Kyrian Jacquet vs Aleksanda | Aleksandar Vukic (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 54% | 5.00 | 3.5% | ⏳ pendiente | — |

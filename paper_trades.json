@@ -12132,8 +12132,8 @@
     "title": "Cancun: Rodrigo Pacheco vs Tomas Barrios",
     "outcome": "Rodrigo Pacheco",
     "side": "BUY",
-    "whale_usd": 9423.520798,
-    "whale_pct": 2.587,
+    "whale_usd": 10309.106398,
+    "whale_pct": 2.83,
     "whale_value_at_open": 364220.5479,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -12144,8 +12144,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787181776.903348,
-    "fills": 3
+    "last_fill_at": 1787182592.5656226,
+    "fills": 4
   },
   {
     "timestamp": 1787180826,
@@ -12294,5 +12294,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787181893.6373248,
     "fills": 1
+  },
+  {
+    "timestamp": 1787182533,
+    "timestamp_added": 1787182533.8952885,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-borges-nakashi-2026-08-19",
+    "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "whale_usd": 2606.483478,
+    "whale_pct": 0.578,
+    "whale_value_at_open": 451125.2183,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787182546.3345094,
+    "fills": 2
   }
 ]
