@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 13:05:19 (hora de Perú)
+Actualizado: 2026-08-19 13:07:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.46
@@ -144,7 +144,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Atlanta Braves vs. Minnesota Twins | Minnesota Twins (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Alessandro Battiston | Alessandro Battiston (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Thiago Agustin Tirante  | Jakub Mensik (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | San Diego Padres vs. New York Mets | San Diego Padres (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Sorana Cirstea vs Jessi | Jessica Pegula (BUY) | 97% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Jonathan Mridha vs O | Jonathan Mridha (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Marta Kostyuk vs Mirra  | Mirra Andreeva (BUY) | 74% | 5.00 | 6.1% | ⏳ pendiente | — |

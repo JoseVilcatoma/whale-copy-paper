@@ -8706,8 +8706,8 @@
     "title": "San Diego Padres vs. New York Mets",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 1040.0,
-    "whale_pct": 0.6,
+    "whale_usd": 2193.4432,
+    "whale_pct": 1.266,
     "whale_value_at_open": 173281.996,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -8720,8 +8720,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787161061.7001946,
-    "fills": 1
+    "last_fill_at": 1787162826.0191102,
+    "fills": 3
   },
   {
     "timestamp": 1787161088,
