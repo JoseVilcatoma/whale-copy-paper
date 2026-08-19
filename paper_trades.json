@@ -12256,8 +12256,8 @@
     "title": "Valorant: G2 Esports vs M80 - Map 1 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 6000.650205,
-    "whale_pct": 1.343,
+    "whale_usd": 8403.871805,
+    "whale_pct": 1.881,
     "whale_value_at_open": 446664.6773,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -12268,8 +12268,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787182483.43889,
-    "fills": 6
+    "last_fill_at": 1787182841.8645391,
+    "fills": 9
   },
   {
     "timestamp": 1787181893,
