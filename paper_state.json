@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.2580965918312,
+  "bankroll": 471.9185246854767,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1330,6 +1330,36 @@
       "timestamp": 1787161642.7873638,
       "bankroll": 465.26,
       "event": "won: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787161891.5236845,
+      "bankroll": 470.54,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: WE (-1.5) vs EDward Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1787161891.963189,
+      "bankroll": 475.42,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Game Handicap: WE (-1.5) vs EDward Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1787161954.536357,
+      "bankroll": 470.32,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787161954.8599253,
+      "bankroll": 465.25,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787161954.960101,
+      "bankroll": 467.42,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787161956.1032546,
+      "bankroll": 471.92,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Team WE vs EDward Gaming (BO3) - LPL Group Ascend"
     }
   ]
 }
