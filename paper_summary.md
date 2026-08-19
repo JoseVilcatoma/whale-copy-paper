@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 03:59:48 (hora de Perú)
+Actualizado: 2026-08-19 04:01:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.84
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 03:59:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $420.84)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $415.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 29 | 1 | 1 | +41.97 USD |
 | HomeRunHazard | 4 | 0 | 2 | +8.05 USD |
 | sentrio | 2 | 1 | 4 | +5.90 USD |
-| RN1 | 1 | 1 | 2 | +1.91 USD |
+| RN1 | 1 | 1 | 3 | +1.91 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 0 | 0 | 3 | +0.00 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 0 | 0 | 2 | +0.00 USD |
 | jtwyslljy | 0 | 0 | 1 | +0.00 USD |
@@ -94,6 +94,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Arad Men: Jacopo Bilardo vs Jere | Jeremy Gschwendtner (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
 | RN1 | Sion: Luca Staeheli vs Juan Manuel La Se | Juan Manuel La Serna (BUY) | 66% | 5.00 | 11.8% | ⏳ pendiente | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 85% | 5.00 | 33.1% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 59% | 5.00 | 5.1% | ⏳ pendiente | — |
@@ -123,4 +124,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Marie Bouzkova vs Iva J | Iva Jovic (BUY) | 67% | 5.00 | 0.1% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 56% | 5.00 | 0.2% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Will Independiente del Valle win on 2026 | Yes (BUY) | 68% | 5.00 | 0.3% | ✅ ganada | +2.27 |
-| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 53% | 5.00 | 0.2% | ❌ perdida | -5.12 |
