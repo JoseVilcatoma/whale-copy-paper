@@ -9783,5 +9783,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787168380.0417352,
     "fills": 1
+  },
+  {
+    "timestamp": 1787169722,
+    "timestamp_added": 1787169722.9363337,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ucl-sba-cel1-2026-08-19-cel1",
+    "title": "Will NK Celje win on 2026-08-19?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3622.13,
+    "whale_pct": 1.445,
+    "whale_value_at_open": 250715.0012,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787169723.3830037,
+    "fills": 2
   }
 ]
