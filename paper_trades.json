@@ -6602,8 +6602,8 @@
     "title": "Counter-Strike: G2 vs Astralis (BO3) - Esports World Cup Playoffs",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 13330.732800000002,
-    "whale_pct": 4.28,
+    "whale_usd": 22024.512000000002,
+    "whale_pct": 7.071,
     "whale_value_at_open": 311477.4235,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -6617,8 +6617,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150746.2375064,
-    "fills": 4
+    "last_fill_at": 1787154669.6428976,
+    "fills": 5
   },
   {
     "timestamp": 1787149150,
