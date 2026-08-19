@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 18:01:35 (hora de Perú)
+Actualizado: 2026-08-19 18:03:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 18:01:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $423.25 en 85 posiciones abiertas (disponible para nuevas apuestas: $25.82)
+**Capital comprometido ahora mismo:** $428.25 en 86 posiciones abiertas (disponible para nuevas apuestas: $20.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 2 | 3 | 2 | -7.99 USD |
 | RN1 | 68 | 34 | 6 | -13.29 USD |
 | Sassy-Bucket | 0 | 3 | 3 | -15.38 USD |
-| HomeRunHazard | 18 | 11 | 19 | -21.43 USD |
+| HomeRunHazard | 18 | 11 | 20 | -21.43 USD |
 | ferrariChampions2026 | 117 | 71 | 35 | -47.39 USD |
 
 ## Análisis general
@@ -146,6 +146,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-mad-mala-2026-08-19-total-1pt5 | RN1, ferrariChampions2026 |
 | atp-fils-minaur-2026-08-19 | , RN1, ferrariChampions2026 |
 | sud-cam-bra-2026-08-19-cam | RN1, theowalcott |
+| atp-virtane-echargu-2026-08-18 | HomeRunHazard, ferrariChampions2026 |
 | mlb-ari-bos-2026-08-19-total-9pt5 | RN1, ferrariChampions2026 |
 | wta-shnaide-rybakin-2026-08-19 | RN1, ferrariChampions2026 |
 | mlb-tor-tb-2026-08-19-total-7pt5 | HomeRunHazard, Sassy-Bucket, ferrariChampions2026 |
@@ -158,6 +159,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 89% | 5.00 | 0.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 53% | 5.00 | 8.1% | ⏳ pendiente | — |
 | theowalcott | Orlando City SC vs. Chicago Fire FC: O/U | Under (BUY) | 53% | 5.00 | 13.3% | ⏳ pendiente | — |
@@ -187,4 +189,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Spread: Cincinnati Reds (-1.5) | St. Louis Cardinals (BUY) | 63% | 5.00 | 25.0% | ⏳ pendiente | — |
 | SDTrading | Spread: Cleveland Guardians (-1.5) | Cleveland Guardians (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | SDTrading | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 47% | 5.00 | 34.0% | ⏳ pendiente | — |
-| Sassy-Bucket | Minnesota Lynx vs. Golden State Valkyrie | Over (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |

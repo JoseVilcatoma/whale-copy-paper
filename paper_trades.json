@@ -10491,8 +10491,8 @@
     "title": "Cancun: Otto Virtanen vs Moez Echargui",
     "outcome": "Otto Virtanen",
     "side": "BUY",
-    "whale_usd": 1017.7424,
-    "whale_pct": 0.324,
+    "whale_usd": 5861.572399,
+    "whale_pct": 1.864,
     "whale_value_at_open": 314501.4031,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -10503,8 +10503,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787174975.5038772,
-    "fills": 1
+    "last_fill_at": 1787180556.3673542,
+    "fills": 3
   },
   {
     "timestamp": 1787175005,
@@ -12044,6 +12044,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787180392.1931539,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787180555,
+    "timestamp_added": 1787180555.9243941,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-virtane-echargu-2026-08-18",
+    "title": "Cancun: Otto Virtanen vs Moez Echargui",
+    "outcome": "Moez Echargui",
+    "side": "BUY",
+    "whale_usd": 2678.3166659999997,
+    "whale_pct": 1.28,
+    "whale_value_at_open": 209249.7572,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787180555.924404,
     "fills": 1
   }
 ]
