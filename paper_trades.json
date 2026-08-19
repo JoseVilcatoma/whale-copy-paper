@@ -10667,8 +10667,8 @@
     "title": "Cincinnati Open: Alexander Zverev vs Tommy Paul",
     "outcome": "Alexander Zverev",
     "side": "BUY",
-    "whale_usd": 7612.0594,
-    "whale_pct": 2.245,
+    "whale_usd": 16895.893399,
+    "whale_pct": 4.982,
     "whale_value_at_open": 339113.3087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -10681,8 +10681,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787176608.9095235,
-    "fills": 6
+    "last_fill_at": 1787176710.4284809,
+    "fills": 9
   },
   {
     "timestamp": 1787175978,

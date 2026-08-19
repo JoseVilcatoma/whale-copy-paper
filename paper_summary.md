@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 16:56:49 (hora de Perú)
+Actualizado: 2026-08-19 16:58:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.04
@@ -156,7 +156,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 94% | 5.00 | 2.7% | ⏳ pendiente | — |
 | theowalcott | Will CA Mineiro win on 2026-08-19? | No (BUY) | 62% | 5.00 | 35.7% | ⏳ pendiente | — |
 | theowalcott | CA Mineiro vs. Red Bull Bragantino: O/U  | Over (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 86% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Alexander Zverev vs Tom | Alexander Zverev (BUY) | 86% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies: | Over (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Diana Shnaider vs Elena | Elena Rybakina (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 80% | 5.00 | 2.3% | ⏳ pendiente | — |
