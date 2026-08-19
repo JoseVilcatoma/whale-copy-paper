@@ -6398,8 +6398,8 @@
     "title": "Sion: Mika Brunold vs Calvin Hemery",
     "outcome": "Calvin Hemery",
     "side": "BUY",
-    "whale_usd": 7759.7195,
-    "whale_pct": 2.831,
+    "whale_usd": 8440.079499,
+    "whale_pct": 3.079,
     "whale_value_at_open": 274135.1129,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -6410,8 +6410,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787149962.1150615,
-    "fills": 3
+    "last_fill_at": 1787151510.260912,
+    "fills": 4
   },
   {
     "timestamp": 1787148692,
@@ -6800,8 +6800,8 @@
     "title": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 1946.4523799999997,
-    "whale_pct": 0.578,
+    "whale_usd": 9551.552634,
+    "whale_pct": 2.835,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -6814,8 +6814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151359.955305,
-    "fills": 2
+    "last_fill_at": 1787151564.5186079,
+    "fills": 8
   },
   {
     "timestamp": 1787149916,
@@ -6826,8 +6826,8 @@
     "title": "Counter-Strike: FUT Esports vs magic - Map 1 Winner",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 60157.91046200001,
-    "whale_pct": 17.856,
+    "whale_usd": 79122.33071499999,
+    "whale_pct": 23.485,
     "whale_value_at_open": 336909.9812,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -6838,8 +6838,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151456.046747,
-    "fills": 47
+    "last_fill_at": 1787151603.7463393,
+    "fills": 58
   },
   {
     "timestamp": 1787150162,
@@ -6850,8 +6850,8 @@
     "title": "Counter-Strike: FUT Esports vs magic (BO3) - Esports World Cup Playoffs",
     "outcome": "magic",
     "side": "BUY",
-    "whale_usd": 3687.0479,
-    "whale_pct": 1.063,
+    "whale_usd": 5357.456011,
+    "whale_pct": 1.545,
     "whale_value_at_open": 346842.7006,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -6864,8 +6864,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787150162.6712558,
-    "fills": 1
+    "last_fill_at": 1787151568.5406425,
+    "fills": 3
   },
   {
     "timestamp": 1787150243,
@@ -7172,8 +7172,8 @@
     "title": "ITF W35 Krakow Women: Amelia Paszun vs Radka Zelnickova",
     "outcome": "Radka Zelnickova",
     "side": "BUY",
-    "whale_usd": 2466.9,
-    "whale_pct": 0.624,
+    "whale_usd": 3792.4700000000003,
+    "whale_pct": 0.96,
     "whale_value_at_open": 395023.272,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -7186,8 +7186,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787151386.6563141,
-    "fills": 2
+    "last_fill_at": 1787151507.0168242,
+    "fills": 3
   },
   {
     "timestamp": 1787151314,
@@ -7239,6 +7239,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787151485.9225605,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787151496,
+    "timestamp_added": 1787151496.8420455,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-ari-bos-2026-08-19-total-8pt5",
+    "title": "Arizona Diamondbacks vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3071.7328,
+    "whale_pct": 3.248,
+    "whale_value_at_open": 94572.9087,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787151496.8420568,
     "fills": 1
   }
 ]
