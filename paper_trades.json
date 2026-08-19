@@ -4635,8 +4635,8 @@
     "title": "LoL: Anyone's Legend vs Top Esports (BO3) - LPL Group Ascend",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 30159.999999999996,
-    "whale_pct": 324.127,
+    "whale_usd": 34010.0,
+    "whale_pct": 365.502,
     "whale_value_at_open": 9305,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -4647,8 +4647,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787123776.3498259,
-    "fills": 1
+    "last_fill_at": 1787140545.0313826,
+    "fills": 2
   },
   {
     "timestamp": 1787123804,

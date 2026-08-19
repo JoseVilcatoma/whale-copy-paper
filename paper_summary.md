@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 06:54:44 (hora de Perú)
+Actualizado: 2026-08-19 06:56:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.46
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Luca Staeheli vs Juan Manuel La Se | Juan Manuel La Serna (BUY) | 66% | 5.00 | 11.8% | ✅ ganada | +2.49 |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 85% | 5.00 | 33.1% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 59% | 5.00 | 5.1% | ⏳ pendiente | — |
-| jtwyslljy | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 59% | 5.00 | 324.1% | ⏳ pendiente | — |
+| jtwyslljy | LoL: Anyone's Legend vs Top Esports (BO3 | Anyone's Legend (BUY) | 59% | 5.00 | 365.5% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Will Celtic FC win on 2026-08-19? | No (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: Hanwha Life Esports Challengers vs  | BNK FearX Youth (BUY) | 51% | 5.00 | 37.0% | ✅ ganada | +4.68 |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | LoL: KT Rolster Challengers vs T1 Academ | KT Rolster Challengers (BUY) | 51% | 5.00 | 9.2% | ✅ ganada | +4.68 |
