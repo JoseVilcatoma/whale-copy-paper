@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 14:14:33 (hora de Perú)
+Actualizado: 2026-08-19 14:16:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $489.03
@@ -140,13 +140,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 79% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 66% | 5.00 | 2.8% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Linda Noskova vs Amanda | Amanda Anisimova (BUY) | 57% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | NEC vs. FK Bodø/Glimt: O/U 3.5 | Under (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Celtic FC vs. LASK Linz: Both Teams to S | Yes (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 3.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Thiago Agustin Tirante  | Thiago Agustin Tirante (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Linda Noskova vs Amanda | Linda Noskova (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sorana Cirstea vs Jessi | Sorana Cirstea (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs | Chicago Cubs (BUY) | 57% | 5.00 | 2.1% | ⏳ pendiente | — |
