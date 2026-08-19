@@ -5145,8 +5145,8 @@
     "title": "Sion: Lorenzo Giustino vs Henry Bernet",
     "outcome": "Lorenzo Giustino",
     "side": "BUY",
-    "whale_usd": 6268.42,
-    "whale_pct": 2.742,
+    "whale_usd": 6810.086666,
+    "whale_pct": 2.979,
     "whale_value_at_open": 228639.1934,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -5159,8 +5159,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787144737.3272045,
-    "fills": 2
+    "last_fill_at": 1787146033.2628777,
+    "fills": 3
   },
   {
     "timestamp": 1787142309,
@@ -5799,6 +5799,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787146007.8046696,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787146082,
+    "timestamp_added": 1787146083.0678732,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "chi-shp-ygb-2026-07-12-ygb",
+    "title": "Will Dalian Yingbo FC win on 2026-07-12?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 576.84,
+    "whale_pct": 0.538,
+    "whale_value_at_open": 107240.0004,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787146083.067887,
     "fills": 1
   }
 ]
