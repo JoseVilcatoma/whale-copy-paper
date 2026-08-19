@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 15:21:21 (hora de Perú)
+Actualizado: 2026-08-19 15:23:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $450.20
-**Retorno acumulado:** -9.96%
-**Peor caída desde un máximo (drawdown):** 18.71%
+**Bankroll actual:** $443.24
+**Retorno acumulado:** -11.35%
+**Peor caída desde un máximo (drawdown):** 18.75%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 15:21:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $426.62 en 86 posiciones abiertas (disponible para nuevas apuestas: $23.58)
+**Capital comprometido ahora mismo:** $426.62 en 86 posiciones abiertas (disponible para nuevas apuestas: $16.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,22 +38,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 2 | 3 | 1 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 0 | -5.75 USD |
-| RN1 | 41 | 20 | 37 | -6.76 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| RN1 | 43 | 21 | 35 | -8.63 USD |
 | Sassy-Bucket | 0 | 3 | 0 | -15.38 USD |
-| HomeRunHazard | 15 | 10 | 7 | -24.57 USD |
-| ferrariChampions2026 | 107 | 65 | 16 | -44.21 USD |
+| HomeRunHazard | 15 | 11 | 6 | -29.68 USD |
+| ferrariChampions2026 | 107 | 65 | 19 | -44.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 325
-- **Aciertos:** 211 (64.9%)
+- **Apuestas resueltas:** 329
+- **Aciertos:** 213 (64.7%)
 - **Cuota promedio de entrada:** 65.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $1,625.00
-- **ROI sobre lo apostado:** -3.13%
-- **Comisiones pagadas (taker fee):** $28.33 (1.74% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $1,645.00
+- **ROI sobre lo apostado:** -3.51%
+- **Comisiones pagadas (taker fee):** $28.66 (1.74% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -61,9 +61,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 136 | 45.6% | 50.0% | -4.4 pp |
-| 60-79% | 121 | 71.9% | 68.0% | +3.9 pp |
-| 80-94% | 49 | 87.8% | 87.4% | +0.3 pp |
+| 40-59% | 138 | 44.9% | 50.1% | -5.2 pp |
+| 60-79% | 122 | 72.1% | 68.0% | +4.1 pp |
+| 80-94% | 50 | 88.0% | 87.5% | +0.5 pp |
 | 95-99% (casi seguro) | 19 | 100.0% | 97.6% | +2.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -147,7 +147,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 49% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 49% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | ITF W15 Wanfercée-Baulet Women: Daphnee  | Salma Djoubri (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will ŠK Slovan Bratislava vs. NK Celje e | No (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 49% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Baltimore Orioles (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Club Atlético de Madrid win on 2026 | Yes (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. Boston Red Sox: | Over (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -159,13 +163,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Celtic FC vs. LASK Linz end in a dr | No (BUY) | 96% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Club Atlético de Madrid (-2.5) | Málaga CF (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 55% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | MH Hapoel Be'er Sheva vs. Sabah FK: O/U  | Under (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Chicago White Sox vs. Chicago Cubs: O/U  | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will NK Celje win on 2026-08-19? | No (BUY) | 86% | 5.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will Club Atlético de Madrid win on 2026 | No (BUY) | 42% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | San Diego Padres vs. New York Mets | New York Mets (BUY) | 92% | 5.00 | 0.5% | ✅ ganada | +0.41 |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will ŠK Slovan Bratislava win on 2026-08 | Yes (BUY) | 79% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Arthur Fils vs Alex de  | Arthur Fils (BUY) | 59% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -173,7 +177,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: ŠK Slovan Bratislava (-1.5) | ŠK Slovan Bratislava (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Club Atlético de Madrid vs. Málaga CF: O | Under (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Atlanta Braves vs. Minnesota Twins | Atlanta Braves (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Will Club Atlético de Madrid vs. Málaga  | No (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Will Málaga CF win on 2026-08-19? | No (BUY) | 90% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Spread: Club Atlético de Madrid (-1.5) | Club Atlético de Madrid (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Club Atlético de Madrid vs. Málaga CF: O | Over (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |

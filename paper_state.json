@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.20215499975046,
+  "bankroll": 443.239445544954,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -1630,6 +1630,26 @@
       "timestamp": 1787170303.4585254,
       "bankroll": 450.2,
       "event": "won: ferrariChampions2026 \u2014 LoL: UCAM Esports Club vs Team Heretics Academy (BO5) - LES Playoffs"
+    },
+    {
+      "timestamp": 1787170935.294835,
+      "bankroll": 453.05,
+      "event": "won: RN1 \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1787170935.545315,
+      "bankroll": 447.94,
+      "event": "lost: HomeRunHazard \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787170935.6454968,
+      "bankroll": 442.82,
+      "event": "lost: RN1 \u2014 San Diego Padres vs. New York Mets"
+    },
+    {
+      "timestamp": 1787170940.2159991,
+      "bankroll": 443.24,
+      "event": "won: RN1 \u2014 San Diego Padres vs. New York Mets"
     }
   ]
 }
