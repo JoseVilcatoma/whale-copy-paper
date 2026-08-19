@@ -12132,8 +12132,8 @@
     "title": "Cancun: Rodrigo Pacheco vs Tomas Barrios",
     "outcome": "Rodrigo Pacheco",
     "side": "BUY",
-    "whale_usd": 5908.659997999999,
-    "whale_pct": 1.622,
+    "whale_usd": 7503.520798,
+    "whale_pct": 2.06,
     "whale_value_at_open": 364220.5479,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -12144,8 +12144,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787180694.0881262,
-    "fills": 1
+    "last_fill_at": 1787181557.7243578,
+    "fills": 2
   },
   {
     "timestamp": 1787180826,
