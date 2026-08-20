@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 23:31:18 (hora de Perú)
+Actualizado: 2026-08-19 23:33:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $498.00
-**Retorno acumulado:** -0.40%
+**Bankroll actual:** $497.73
+**Retorno acumulado:** -0.45%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 23:31:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $353.00)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $367.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,29 +33,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 2 | +0.00 USD |
+| theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 | Sassy-Bucket | 3 | 3 | 1 | -1.23 USD |
 |  | 4 | 2 | 3 | -2.07 USD |
-| theowalcott | 4 | 4 | 1 | -3.28 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 3 | 0 | -4.18 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | HomeRunHazard | 34 | 18 | 4 | -11.85 USD |
-| RN1 | 82 | 39 | 12 | -20.95 USD |
+| RN1 | 83 | 40 | 10 | -24.06 USD |
 | ferrariChampions2026 | 149 | 87 | 1 | -33.59 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 516
-- **Aciertos:** 340 (65.9%)
+- **Apuestas resueltas:** 519
+- **Aciertos:** 342 (65.9%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,575.45
-- **ROI sobre lo apostado:** -0.12%
-- **Comisiones pagadas (taker fee):** $45.57 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.65% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,590.45
+- **ROI sobre lo apostado:** -0.13%
+- **Comisiones pagadas (taker fee):** $45.82 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.64% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,7 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 238 | 48.3% | 50.2% | -1.9 pp |
-| 60-79% | 170 | 74.7% | 68.3% | +6.4 pp |
+| 60-79% | 173 | 74.6% | 68.3% | +6.3 pp |
 | 80-94% | 71 | 85.9% | 87.2% | -1.2 pp |
 | 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
 
@@ -175,7 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 56% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Colorado Rockies (BUY) | 45% | 5.00 | 0.9% | ❌ perdida | -5.14 |
 |  | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alan Magadan (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alan Magadan (BUY) | 71% | 5.00 | 1.3% | ✅ ganada | +1.97 |
 | RN1 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Quebec City: Jacob Fearnley vs Mackenzie | Jacob Fearnley (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |
 | RN1 | Spread: Los Angeles Dodgers (-2.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.4% | ✅ ganada | +4.32 |
@@ -188,7 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Montevideo City Torque vs. CA Tigre: O/U | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 99% | 5.00 | 2.1% | ✅ ganada | +0.05 |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alex Hernandez (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alex Hernandez (BUY) | 67% | 5.00 | 0.4% | ❌ perdida | -5.08 |
 | RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Over (BUY) | 68% | 5.00 | 0.3% | ✅ ganada | +2.27 |
 | RN1 | Cincinnati Open: Taylor Fritz vs Christo | Taylor Fritz (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
 | RN1 | Will Los Angeles Galaxy win on 2026-08-1 | No (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |

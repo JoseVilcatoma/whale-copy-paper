@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.9957700434641,
+  "bankroll": 497.7275315010988,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2585,6 +2585,21 @@
       "timestamp": 1787200272.2125092,
       "bankroll": 498.0,
       "event": "won: RN1 \u2014 CR Flamengo vs. Cruzeiro EC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787200336.620063,
+      "bankroll": 500.84,
+      "event": "won: theowalcott \u2014 Montevideo City Torque vs. CA Tigre: O/U 1.5"
+    },
+    {
+      "timestamp": 1787200338.7287188,
+      "bankroll": 495.76,
+      "event": "lost: RN1 \u2014 Cancun: Alan Magadan vs Alex Hernandez"
+    },
+    {
+      "timestamp": 1787200339.4851837,
+      "bankroll": 497.73,
+      "event": "won: RN1 \u2014 Cancun: Alan Magadan vs Alex Hernandez"
     }
   ]
 }
