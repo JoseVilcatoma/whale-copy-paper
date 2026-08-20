@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.2335373474302,
+  "bankroll": 494.7594671719916,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3245,6 +3245,16 @@
       "timestamp": 1787259144.4815838,
       "bankroll": 496.23,
       "event": "lost:  \u2014 KF Egnatia Rrogozhin\u00eb vs. Lillestr\u00f8m SK: O/U 2.5"
+    },
+    {
+      "timestamp": 1787259461.3475955,
+      "bankroll": 499.9,
+      "event": "won: casualbet2020 \u2014 Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787259463.915257,
+      "bankroll": 494.76,
+      "event": "lost: CORGI8 \u2014 Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs"
     }
   ]
 }
