@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 03:22:53 (hora de Perú)
+Actualizado: 2026-08-20 03:24:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.64
@@ -173,14 +173,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | ITF M15 Lambermont Men: Noah Schlagenhau | Stijn Paardekooper (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports (B | Hanwha Life Esports (BUY) | 46% | 5.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF M15 Lambermont Men: Noah Schlagenhau | Stijn Paardekooper (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports (B | Hanwha Life Esports (BUY) | 46% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 64% | 5.00 | 70.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 50% | 5.00 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 50% | 5.00 | 6.2% | ⏳ pendiente | — |
 | SineNooneEI | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 52% | 5.00 | 108.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 51% | 5.00 | 8.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | TEAM VISION (BUY) | 66% | 5.00 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | TEAM VISION (BUY) | 66% | 5.00 | 14.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-8.5) | Los Angeles Sparks (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-14.5) | Las Vegas Aces (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Spread: KAA Gent (-1.5) | Hibernian FC (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |

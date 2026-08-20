@@ -13972,8 +13972,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 7543.764324,
-    "whale_pct": 5.733,
+    "whale_usd": 18690.580081999997,
+    "whale_pct": 14.204,
     "whale_value_at_open": 131586.5998,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -13984,8 +13984,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787214153.0663402,
-    "fills": 7
+    "last_fill_at": 1787214193.2174928,
+    "fills": 14
   },
   {
     "timestamp": 1787213267,
@@ -14046,8 +14046,8 @@
     "title": "LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 8039.6424050000005,
-    "whale_pct": 5.651,
+    "whale_usd": 8779.946405,
+    "whale_pct": 6.172,
     "whale_value_at_open": 142262.5157,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -14060,8 +14060,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787213720.4680924,
-    "fills": 5
+    "last_fill_at": 1787214240.9589033,
+    "fills": 6
   },
   {
     "timestamp": 1787213816,
@@ -14125,8 +14125,8 @@
     "title": "LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 2966.4045,
-    "whale_pct": 1.982,
+    "whale_usd": 4946.404500000001,
+    "whale_pct": 3.304,
     "whale_value_at_open": 149693.1797,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -14137,8 +14137,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787214142.1544504,
-    "fills": 1
+    "last_fill_at": 1787214227.3542862,
+    "fills": 2
   },
   {
     "timestamp": 1787214143,
@@ -14149,8 +14149,8 @@
     "title": "ITF M15 Lambermont Men: Noah Schlagenhauf vs Stijn Paardekooper",
     "outcome": "Stijn Paardekooper",
     "side": "BUY",
-    "whale_usd": 994.2026,
-    "whale_pct": 0.664,
+    "whale_usd": 1868.0778,
+    "whale_pct": 1.248,
     "whale_value_at_open": 149693.1797,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -14161,7 +14161,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787214143.9456835,
-    "fills": 1
+    "last_fill_at": 1787214177.8265054,
+    "fills": 2
   }
 ]
