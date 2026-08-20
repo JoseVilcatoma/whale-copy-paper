@@ -15137,8 +15137,8 @@
     "title": "LoL: Nongshim Red Force vs Kiwoom DRX - Game 2 Winner",
     "outcome": "Nongshim Red Force",
     "side": "BUY",
-    "whale_usd": 1613.3494999999998,
-    "whale_pct": 3.235,
+    "whale_usd": 5533.3495,
+    "whale_pct": 11.095,
     "whale_value_at_open": 49870.4646,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -15149,8 +15149,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787226075.1696382,
-    "fills": 2
+    "last_fill_at": 1787226389.4713218,
+    "fills": 6
   },
   {
     "timestamp": 1787226111,

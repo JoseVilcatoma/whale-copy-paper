@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 06:45:41 (hora de Perú)
+Actualizado: 2026-08-20 06:47:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $460.37
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Matias Reyn | Matias Reyniak (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs Kiwoom DRX -  | Nongshim Red Force (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs Kiwoom DRX -  | Nongshim Red Force (BUY) | 50% | 5.00 | 11.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 99% | 5.00 | 153.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 51% | 5.00 | 12.3% | ⏳ pendiente | — |
 |  | Counter-Strike: Natus Vincere vs Legacy  | Natus Vincere (BUY) | 53% | 5.00 | 0.9% | ⏳ pendiente | — |
