@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 04:42:37 (hora de Perú)
+Actualizado: 2026-08-20 04:44:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.81
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 04:42:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $329.81)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $324.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 7 | 4 | 3 | -6.97 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| RN1 | 91 | 44 | 1 | -29.77 USD |
+| RN1 | 91 | 44 | 2 | -29.77 USD |
 | ferrariChampions2026 | 151 | 89 | 14 | -38.72 USD |
 
 ## Análisis general
@@ -176,6 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W35 Bistrita Women: Diana-Ioana Simi | Carolina Kuhl (BUY) | 71% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 62% | 5.00 | 2.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 60% | 5.00 | 27.5% | ⏳ pendiente | — |
@@ -205,4 +206,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 7.7% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | ITF M25 Ueberlingen Men: Tim Handel vs A | Tim Handel (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |

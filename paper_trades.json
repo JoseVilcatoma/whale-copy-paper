@@ -14368,5 +14368,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787218456.85756,
     "fills": 1
+  },
+  {
+    "timestamp": 1787219042,
+    "timestamp_added": 1787219043.195475,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-simione-kuhl-2026-08-20",
+    "title": "ITF W35 Bistrita Women: Diana-Ioana Simionescu vs Carolina Kuhl",
+    "outcome": "Carolina Kuhl",
+    "side": "BUY",
+    "whale_usd": 1181.6,
+    "whale_pct": 2.063,
+    "whale_value_at_open": 57279.0058,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787219043.1954932,
+    "fills": 1
   }
 ]
