@@ -14980,8 +14980,8 @@
     "title": "ITF W50 Prague Women: Yelyzaveta Kotliar vs Pia Lovric",
     "outcome": "Yelyzaveta Kotliar",
     "side": "BUY",
-    "whale_usd": 4166.16,
-    "whale_pct": 5.027,
+    "whale_usd": 5049.92,
+    "whale_pct": 6.094,
     "whale_value_at_open": 82870.1884,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -14994,8 +14994,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787224340.5317633,
-    "fills": 4
+    "last_fill_at": 1787224374.5983288,
+    "fills": 5
   },
   {
     "timestamp": 1787224308,
@@ -15020,5 +15020,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787224309.0746417,
     "fills": 1
+  },
+  {
+    "timestamp": 1787224391,
+    "timestamp_added": 1787224392.1937184,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-liquid-ty-2026-08-20-game1",
+    "title": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 1740.152768,
+    "whale_pct": 19.353,
+    "whale_value_at_open": 8991.6695,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "cerrada_venta",
+    "profit_usd": 0.77,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787224399.2628074,
+    "fills": 2,
+    "fee_total_usd": 0.251,
+    "closed_price": 59
   }
 ]
