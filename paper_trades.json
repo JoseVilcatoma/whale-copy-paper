@@ -13584,8 +13584,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 8179.8692,
-    "whale_pct": 7.185,
+    "whale_usd": 9492.2415,
+    "whale_pct": 8.338,
     "whale_value_at_open": 113845.4497,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -13596,8 +13596,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787207489.404239,
-    "fills": 7
+    "last_fill_at": 1787208719.8059504,
+    "fills": 9
   },
   {
     "timestamp": 1787206078,
@@ -13802,8 +13802,8 @@
     "title": "ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan-Shou Chen",
     "outcome": "Yu Hsiou Hsu",
     "side": "BUY",
-    "whale_usd": 3601.4399999999996,
-    "whale_pct": 4.599,
+    "whale_usd": 5424.819984,
+    "whale_pct": 6.927,
     "whale_value_at_open": 78310.0104,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -13814,7 +13814,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787208649.4634094,
-    "fills": 2
+    "last_fill_at": 1787208672.8129714,
+    "fills": 3
   }
 ]
