@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 23:47:50 (hora de Perú)
+Actualizado: 2026-08-19 23:49:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $485.97
-**Retorno acumulado:** -2.81%
+**Bankroll actual:** $480.03
+**Retorno acumulado:** -3.99%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 23:47:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $375.97)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $385.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,27 +35,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| Sassy-Bucket | 3 | 3 | 1 | -1.23 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 1 | 1 | 0 | -3.51 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 3 | 0 | -4.18 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
+| Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 |  | 4 | 3 | 2 | -7.15 USD |
-| HomeRunHazard | 34 | 18 | 4 | -11.85 USD |
+| HomeRunHazard | 35 | 19 | 2 | -12.66 USD |
 | RN1 | 84 | 41 | 8 | -27.23 USD |
 | ferrariChampions2026 | 149 | 87 | 2 | -33.59 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 524
-- **Aciertos:** 344 (65.6%)
-- **Cuota promedio de entrada:** 64.7%
+- **Apuestas resueltas:** 527
+- **Aciertos:** 345 (65.5%)
+- **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,615.45
-- **ROI sobre lo apostado:** -0.57%
-- **Comisiones pagadas (taker fee):** $46.18 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,630.45
+- **ROI sobre lo apostado:** -0.80%
+- **Comisiones pagadas (taker fee):** $46.56 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -63,7 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 239 | 48.1% | 50.2% | -2.1 pp |
+| 40-59% | 242 | 47.9% | 50.2% | -2.3 pp |
 | 60-79% | 176 | 74.4% | 68.3% | +6.1 pp |
 | 80-94% | 72 | 84.7% | 87.1% | -2.4 pp |
 | 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
@@ -168,7 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 63% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 63% | 5.00 | 2.9% | ⏳ pendiente | — |
 |  | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Sara Bejlek (BUY) | 75% | 5.00 | 9.3% | ✅ ganada | +1.60 |

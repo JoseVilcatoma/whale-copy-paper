@@ -1,5 +1,5 @@
 {
-  "bankroll": 485.9736426122099,
+  "bankroll": 480.0296048763609,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2625,6 +2625,21 @@
       "timestamp": 1787200967.6883888,
       "bankroll": 485.97,
       "event": "won: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Cincinnati Open: Aryna Sabalenka vs Sara Bejlek"
+    },
+    {
+      "timestamp": 1787201282.8852985,
+      "bankroll": 480.85,
+      "event": "lost: HomeRunHazard \u2014 Minnesota Lynx vs. Golden State Valkyries: O/U 164.5"
+    },
+    {
+      "timestamp": 1787201282.9854956,
+      "bankroll": 485.16,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Golden State Valkyries: O/U 164.5"
+    },
+    {
+      "timestamp": 1787201283.3324425,
+      "bankroll": 480.03,
+      "event": "lost: Sassy-Bucket \u2014 Minnesota Lynx vs. Golden State Valkyries: O/U 163.5"
     }
   ]
 }
