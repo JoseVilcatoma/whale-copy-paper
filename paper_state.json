@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.7156490588815,
+  "bankroll": 505.0664066346391,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3085,6 +3085,16 @@
       "timestamp": 1787240620.3551736,
       "bankroll": 507.72,
       "event": "won: ferrariChampions2026 \u2014 LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787241242.858532,
+      "bankroll": 502.58,
+      "event": "lost: ferrariChampions2026 \u2014 KBO: KT Wiz vs. LG Twins"
+    },
+    {
+      "timestamp": 1787241245.7541118,
+      "bankroll": 505.07,
+      "event": "won: ferrariChampions2026 \u2014 LoL: CTBC Flying Oyster vs MVK Esports (BO5) - LCP Playoffs"
     }
   ]
 }
