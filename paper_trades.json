@@ -17489,8 +17489,8 @@
     "title": "Cancun: Alan Magadan vs Coleman Wong",
     "outcome": "Coleman Wong",
     "side": "BUY",
-    "whale_usd": 7677.3423999999995,
-    "whale_pct": 2.971,
+    "whale_usd": 13288.823,
+    "whale_pct": 5.143,
     "whale_value_at_open": 258399.1521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -17503,8 +17503,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787268453.808844,
-    "fills": 3
+    "last_fill_at": 1787269607.7881782,
+    "fills": 5
   },
   {
     "timestamp": 1787268900,

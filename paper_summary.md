@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:46:07 (hora de Perú)
+Actualizado: 2026-08-20 18:48:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $483.88
@@ -204,7 +204,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M - Map | KRÜ Esports (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 93% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 93% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 54% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M (BO3) | KRÜ Esports (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
