@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.2043228726504,
+  "bankroll": 481.0693228726504,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2655,6 +2655,11 @@
       "timestamp": 1787201411.7163372,
       "bankroll": 486.2,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Yidi Yang vs Chenting Zhu"
+    },
+    {
+      "timestamp": 1787201663.9294033,
+      "bankroll": 481.07,
+      "event": "lost: RN1 \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: O/U 3.5"
     }
   ]
 }
