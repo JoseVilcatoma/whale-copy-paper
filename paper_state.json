@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.9174192581926,
+  "bankroll": 477.6963727465647,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2670,6 +2670,11 @@
       "timestamp": 1787202227.1375666,
       "bankroll": 476.92,
       "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787202914.2056246,
+      "bankroll": 477.7,
+      "event": "won: RN1 \u2014 Will Montevideo City Torque win on 2026-08-19?"
     }
   ]
 }
