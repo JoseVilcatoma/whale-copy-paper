@@ -2,7 +2,7 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787077817.1179783,
-    "roi_pct": 744.79,
+    "roi_pct": 716.1,
     "short_term_pct": 100.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
@@ -32,31 +32,31 @@
   "0xf377b9fb12a4b7507a4f997461a73eb30b564159": {
     "username": "danielwolfmorales3pddb6dl6",
     "added_at": 1787220729.49539,
-    "roi_pct": 617.74,
+    "roi_pct": 532.49,
     "short_term_pct": 100.0
   },
   "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff": {
     "username": "sulumos",
     "added_at": 1787226333.518112,
-    "roi_pct": 2506.21,
-    "short_term_pct": 100.0
-  },
-  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
-    "username": "RN1",
-    "added_at": 1787229138.3558667,
-    "roi_pct": 443.39,
+    "roi_pct": 364.94,
     "short_term_pct": 100.0
   },
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787230381.9858499,
-    "roi_pct": 7871.18,
+    "roi_pct": 4495.56,
     "short_term_pct": 100.0
   },
-  "0xc69bd5567b40ef4d11922eaa57e1f9be1c642076": {
-    "username": "vtcchampion52",
-    "added_at": 1787230381.9858625,
-    "roi_pct": 647.61,
-    "short_term_pct": 30.0
+  "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
+    "username": "",
+    "added_at": 1787231319.365008,
+    "roi_pct": 345.81,
+    "short_term_pct": 90.0
+  },
+  "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "added_at": 1787231319.3650107,
+    "roi_pct": 329.67,
+    "short_term_pct": 100.0
   }
 }
