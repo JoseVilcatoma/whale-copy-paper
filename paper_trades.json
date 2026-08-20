@@ -15521,5 +15521,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787233246.9274576,
     "fills": 1
+  },
+  {
+    "timestamp": 1787233397,
+    "timestamp_added": 1787233397.993648,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-mikovic-aboian-2026-08-20",
+    "title": "ITF M25 Slovenj Gradec Men: Nik Mikovic vs Valerio Aboian",
+    "outcome": "Valerio Aboian",
+    "side": "BUY",
+    "whale_usd": 664.285714,
+    "whale_pct": 0.523,
+    "whale_value_at_open": 126923.1074,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787233397.9936638,
+    "fills": 1
   }
 ]
