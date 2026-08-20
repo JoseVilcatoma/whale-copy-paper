@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 16:50:24 (hora de Perú)
+Actualizado: 2026-08-20 16:52:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $487.14
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 41% | 5.00 | 2.6% | ⏳ pendiente | — |
+| Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 41% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 52% | 5.00 | 35.3% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 49% | 5.00 | 26.1% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 68% | 5.00 | 5.8% | ⏳ pendiente | — |
