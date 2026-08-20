@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:08:55 (hora de Perú)
+Actualizado: 2026-08-20 18:11:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 18:08:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $323.92)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $308.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 4 | 6 | 5 | -12.97 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 9 | 2 | -20.16 USD |
-| RN1 | 105 | 50 | 3 | -38.22 USD |
+| RN1 | 105 | 50 | 6 | -38.22 USD |
 
 ## Análisis general
 
@@ -188,16 +188,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-g2-furia-2026-08-20 | CORGI8, casualbet2020 |
 | cs2-faze-vit-2026-08-20-game2 | , casualbet2020 |
 | mlb-oak-kc-2026-08-20-total-8pt5 | SDTrading, Sassy-Bucket |
+| wta-swiatek-rybakin-2026-08-20 | RN1, danielwolfmorales3pddb6dl6 |
 | dota2-ngx-flc-2026-08-20 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake, IMAREALPERSON |
 | lol-koia-hrts-2026-08-20 | ChonkyChocolateCake, danielwolfmorales3pddb6dl6 |
 | val-sen-2game-2026-08-20-game2 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20-total-7pt5 | RN1, Sassy-Bucket |
-| mlb-nyy-bal-2026-08-20 | Sassy-Bucket, ferrariChampions2026 |
+| mlb-nyy-bal-2026-08-20 | RN1, Sassy-Bucket, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Elena Rybakina (BUY) | 44% | 5.00 | 3.5% | ⏳ pendiente | — |
+| RN1 | Will CR Vasco da Gama win on 2026-08-20? | No (BUY) | 42% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 52% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 85% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
@@ -225,6 +229,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 46% | 5.00 | 31.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: ⁠Movistar KOI Fénix vs Team Heretic | ⁠Movistar KOI Fénix (BUY) | 55% | 5.00 | 21.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
-| SDTrading | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 54% | 5.00 | 17.9% | ✅ ganada | +4.14 |
-| IMAREALPERSON | Valorant: Team Liquid vs FUT Esports (BO | FUT Esports (BUY) | 44% | 5.00 | 2.5% | ✅ ganada | +6.22 |
-| predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 124.3% | ✅ ganada | +3.10 |
