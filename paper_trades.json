@@ -13972,8 +13972,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 3342.8571420000003,
-    "whale_pct": 2.54,
+    "whale_usd": 5600.0043239999995,
+    "whale_pct": 4.256,
     "whale_value_at_open": 131586.5998,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -13984,8 +13984,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787213069.3949354,
-    "fills": 1
+    "last_fill_at": 1787214001.730818,
+    "fills": 5
   },
   {
     "timestamp": 1787213267,
