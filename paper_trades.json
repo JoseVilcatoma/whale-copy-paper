@@ -17375,5 +17375,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787267909.9257317,
     "fills": 1
+  },
+  {
+    "timestamp": 1787267985,
+    "timestamp_added": 1787267985.7931137,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-mac-san-2026-08-20-mac",
+    "title": "Will CSyD Macar\u00e1 win on 2026-08-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 938.79,
+    "whale_pct": 0.995,
+    "whale_value_at_open": 94343.1495,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787267985.7931228,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787268017,
+    "timestamp_added": 1787268018.2271738,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-swiatek-rybakin-2026-08-20",
+    "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 638.82,
+    "whale_pct": 0.265,
+    "whale_value_at_open": 241278.9171,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787268018.2271855,
+    "fills": 1
   }
 ]
