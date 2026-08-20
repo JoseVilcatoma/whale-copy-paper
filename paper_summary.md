@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 03:37:12 (hora de Perú)
+Actualizado: 2026-08-20 03:39:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.69
@@ -180,7 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SineNooneEI | Valorant: ZETA DIVISION vs Xipto Esports | Xipto Esports (BUY) | 45% | 5.00 | 18.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 59% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF M15 Lambermont Men: Noah Schlagenhau | Stijn Paardekooper (BUY) | 47% | 5.00 | 2.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports (B | Hanwha Life Esports (BUY) | 46% | 5.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports (B | Hanwha Life Esports (BUY) | 46% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 64% | 5.00 | 70.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 50% | 5.00 | 6.2% | ⏳ pendiente | — |
