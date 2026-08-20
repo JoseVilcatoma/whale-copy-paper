@@ -14476,8 +14476,8 @@
     "title": "LoL: JD Gaming vs ThunderTalk Gaming - Game 2 Winner",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 5204.115,
-    "whale_pct": 2.42,
+    "whale_usd": 10933.1598,
+    "whale_pct": 5.083,
     "whale_value_at_open": 215072.3288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -14488,8 +14488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787221138.0508456,
-    "fills": 3
+    "last_fill_at": 1787221278.2041807,
+    "fills": 7
   },
   {
     "timestamp": 1787220761,

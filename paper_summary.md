@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 05:19:26 (hora de Perú)
+Actualizado: 2026-08-20 05:21:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.81
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Pia Lovric (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | JD Gaming (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | ThunderTalk Gaming (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
