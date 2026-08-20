@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 13:55:44 (hora de Perú)
+Actualizado: 2026-08-20 13:57:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $516.83
-**Retorno acumulado:** +3.37%
+**Bankroll actual:** $523.31
+**Retorno acumulado:** +4.66%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 13:55:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $326.83)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $338.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,20 +48,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 3 | 4 | 3 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
+|  | 11 | 7 | 8 | -12.06 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-|  | 10 | 7 | 9 | -18.54 USD |
 | RN1 | 105 | 50 | 1 | -38.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 617
-- **Aciertos:** 404 (65.5%)
-- **Cuota promedio de entrada:** 64.3%
+- **Apuestas resueltas:** 618
+- **Aciertos:** 405 (65.5%)
+- **Cuota promedio de entrada:** 64.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,080.45
-- **ROI sobre lo apostado:** -0.16%
-- **Comisiones pagadas (taker fee):** $55.03 (1.79% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,085.45
+- **ROI sobre lo apostado:** +0.05%
+- **Comisiones pagadas (taker fee):** $55.17 (1.79% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 288 | 48.3% | 50.1% | -1.9 pp |
+| 40-59% | 289 | 48.4% | 50.1% | -1.7 pp |
 | 60-79% | 204 | 74.5% | 68.1% | +6.4 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
@@ -222,5 +222,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will FC København win on 2026-08-20? | Yes (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Tommy Paul vs Flavio Co | Tommy Paul (BUY) | 61% | 5.00 | 130.7% | ⏳ pendiente | — |
 |  | PAOK vs. SK Brann: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
-|  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 6.9% | ⏳ pendiente | — |
+|  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 6.9% | ✅ ganada | +6.48 |
 |  | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
