@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:07:58 (hora de Perú)
+Actualizado: 2026-08-19 21:10:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $467.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 21:07:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $218.25 en 44 posiciones abiertas (disponible para nuevas apuestas: $249.67)
+**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $244.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
 | Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
-| RN1 | 71 | 36 | 10 | -19.78 USD |
+| RN1 | 71 | 36 | 11 | -19.78 USD |
 | ferrariChampions2026 | 141 | 84 | 12 | -37.86 USD |
 
 ## Análisis general
@@ -163,6 +163,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alex Hernandez (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Over (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Taylor Fritz vs Christo | Taylor Fritz (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Los Angeles Galaxy win on 2026-08-1 | No (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -192,4 +193,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Nuno Borges vs Brandon  | Brandon Nakashima (BUY) | 79% | 5.00 | 1.9% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ❌ perdida | -4.46 |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.5% | ❌ perdida | -5.13 |

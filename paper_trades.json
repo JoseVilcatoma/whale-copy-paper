@@ -12953,5 +12953,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787190571.800681,
     "fills": 1
+  },
+  {
+    "timestamp": 1787191781,
+    "timestamp_added": 1787191781.9936287,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-magadan-hernand-2026-08-19",
+    "title": "Cancun: Alan Magadan vs Alex Hernandez",
+    "outcome": "Alex Hernandez",
+    "side": "BUY",
+    "whale_usd": 895.851,
+    "whale_pct": 0.361,
+    "whale_value_at_open": 248413.113,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787191781.9936404,
+    "fills": 1
   }
 ]
