@@ -15653,8 +15653,8 @@
     "title": "Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 1712.9381810000002,
-    "whale_pct": 24.323,
+    "whale_usd": 2801.119999,
+    "whale_pct": 39.775,
     "whale_value_at_open": 7042.3878,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -15665,8 +15665,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787235759.708768,
-    "fills": 1
+    "last_fill_at": 1787237907.1345935,
+    "fills": 2
   },
   {
     "timestamp": 1787235858,
@@ -15886,6 +15886,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787237621.7402213,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787237897,
+    "timestamp_added": 1787237898.3414328,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "col-it-kob-2026-08-20-kob",
+    "title": "Will FC K\u00f8benhavn win on 2026-08-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 7920.419998,
+    "whale_pct": 7.447,
+    "whale_value_at_open": 106362.6183,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787237898.3414502,
     "fills": 1
   }
 ]
