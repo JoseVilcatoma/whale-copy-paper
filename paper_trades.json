@@ -13256,8 +13256,8 @@
     "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
     "outcome": "Aryna Sabalenka",
     "side": "BUY",
-    "whale_usd": 678.8800000000001,
-    "whale_pct": 0.263,
+    "whale_usd": 1398.8161,
+    "whale_pct": 0.541,
     "whale_value_at_open": 258378.1817,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -13268,7 +13268,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787194408.484889,
-    "fills": 1
+    "last_fill_at": 1787194480.4268885,
+    "fills": 2
   }
 ]
