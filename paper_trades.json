@@ -14418,5 +14418,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787219611.2315447,
     "fills": 1
+  },
+  {
+    "timestamp": 1787220105,
+    "timestamp_added": 1787220106.645844,
+    "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+    "wallet": "0x547f2917d51f2e63ab382dcf641d4e0240162937",
+    "slug": "dota2-liquid-ty-2026-08-20",
+    "title": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 614.7022,
+    "whale_pct": 3.307,
+    "whale_value_at_open": 18590.1864,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787220106.6458552,
+    "fills": 1
   }
 ]
