@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.3505373474302,
+  "bankroll": 496.2335373474302,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3240,6 +3240,11 @@
       "timestamp": 1787258829.3770587,
       "bankroll": 501.35,
       "event": "won: ChonkyChocolateCake \u2014 LoL: G2 NORD vs Eintracht Spandau - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787259144.4815838,
+      "bankroll": 496.23,
+      "event": "lost:  \u2014 KF Egnatia Rrogozhin\u00eb vs. Lillestr\u00f8m SK: O/U 2.5"
     }
   ]
 }
