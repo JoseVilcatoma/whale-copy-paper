@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:03:50 (hora de Perú)
+Actualizado: 2026-08-19 21:05:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $464.02
-**Retorno acumulado:** -7.20%
+**Bankroll actual:** $467.92
+**Retorno acumulado:** -6.42%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 21:03:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $278.25 en 56 posiciones abiertas (disponible para nuevas apuestas: $185.77)
+**Capital comprometido ahora mismo:** $218.25 en 44 posiciones abiertas (disponible para nuevas apuestas: $249.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,36 +25,36 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 4 | 2 | 1 | +9.13 USD |
 | Lakersfan111 | 1 | 0 | 2 | +5.29 USD |
-| Satisfied | 1 | 0 | 2 | +4.88 USD |
 | SDTrading | 5 | 4 | 2 | +2.45 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
+| Satisfied | 1 | 1 | 1 | -0.25 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 |  | 3 | 2 | 0 | -3.59 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
+| HomeRunHazard | 33 | 16 | 7 | -5.88 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 3 | 1 | -6.79 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 30 | 15 | 11 | -9.77 USD |
+| theowalcott | 3 | 4 | 2 | -7.60 USD |
 | Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
-| RN1 | 69 | 35 | 13 | -16.70 USD |
-| theowalcott | 1 | 4 | 4 | -16.79 USD |
-| ferrariChampions2026 | 140 | 83 | 14 | -36.87 USD |
+| RN1 | 71 | 36 | 10 | -19.78 USD |
+| ferrariChampions2026 | 141 | 84 | 12 | -37.86 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 467
-- **Aciertos:** 303 (64.9%)
-- **Cuota promedio de entrada:** 64.5%
+- **Apuestas resueltas:** 479
+- **Aciertos:** 311 (64.9%)
+- **Cuota promedio de entrada:** 64.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,332.20
-- **ROI sobre lo apostado:** -1.58%
-- **Comisiones pagadas (taker fee):** $41.41 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,392.20
+- **ROI sobre lo apostado:** -1.38%
+- **Comisiones pagadas (taker fee):** $42.64 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,10 +62,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 216 | 47.2% | 50.1% | -2.9 pp |
-| 60-79% | 154 | 73.4% | 68.3% | +5.1 pp |
+| 40-59% | 224 | 47.3% | 50.1% | -2.8 pp |
+| 60-79% | 157 | 73.9% | 68.3% | +5.6 pp |
 | 80-94% | 66 | 86.4% | 87.3% | -1.0 pp |
-| 95-99% (casi seguro) | 31 | 100.0% | 97.1% | +2.9 pp |
+| 95-99% (casi seguro) | 32 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -166,7 +166,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Over (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Taylor Fritz vs Christo | Taylor Fritz (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Los Angeles Galaxy win on 2026-08-1 | No (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | RN1 | Will Portland Timbers win on 2026-08-19? | No (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |

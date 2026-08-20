@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.0228985287741,
+  "bankroll": 467.92036423502987,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2340,6 +2340,66 @@
       "timestamp": 1787191242.9002008,
       "bankroll": 464.02,
       "event": "won: ferrariChampions2026 \u2014 Toronto FC vs. Charlotte FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1787191544.1339617,
+      "bankroll": 468.17,
+      "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787191544.2342052,
+      "bankroll": 463.04,
+      "event": "lost: Satisfied \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787191545.2161913,
+      "bankroll": 457.91,
+      "event": "lost: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787191545.5100803,
+      "bankroll": 459.88,
+      "event": "won: RN1 \u2014 Will Red Bull Bragantino win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191545.7701964,
+      "bankroll": 454.73,
+      "event": "lost: RN1 \u2014 Will CA Mineiro win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191546.0391026,
+      "bankroll": 460.95,
+      "event": "won: theowalcott \u2014 CA Mineiro vs. Red Bull Bragantino: O/U 2.5"
+    },
+    {
+      "timestamp": 1787191546.139352,
+      "bankroll": 463.92,
+      "event": "won: theowalcott \u2014 Will CA Mineiro win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191546.403067,
+      "bankroll": 467.3,
+      "event": "won: HomeRunHazard \u2014 Athletics vs. Kansas City Royals: O/U 7.5"
+    },
+    {
+      "timestamp": 1787191546.6525927,
+      "bankroll": 462.19,
+      "event": "lost: HomeRunHazard \u2014 New York Yankees vs. Baltimore Orioles: O/U 8.5"
+    },
+    {
+      "timestamp": 1787191547.5859184,
+      "bankroll": 464.16,
+      "event": "won: HomeRunHazard \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1787191548.909389,
+      "bankroll": 467.82,
+      "event": "won: HomeRunHazard \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787191552.918256,
+      "bankroll": 467.92,
+      "event": "won: RN1 \u2014 New York Yankees vs. Baltimore Orioles"
     }
   ]
 }
