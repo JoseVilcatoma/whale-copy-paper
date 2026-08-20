@@ -13061,8 +13061,8 @@
     "title": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 7458.007100000001,
-    "whale_pct": 2.953,
+    "whale_usd": 11639.669080000001,
+    "whale_pct": 4.609,
     "whale_value_at_open": 252554.7216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -13073,8 +13073,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787193301.1620438,
-    "fills": 3
+    "last_fill_at": 1787194151.315492,
+    "fills": 4
   },
   {
     "timestamp": 1787192629,
