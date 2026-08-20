@@ -13075,5 +13075,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787192541.9531636,
     "fills": 2
+  },
+  {
+    "timestamp": 1787192629,
+    "timestamp_added": 1787192629.4968095,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-laa-hou-2026-08-19",
+    "title": "Los Angeles Angels vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 842.229999,
+    "whale_pct": 0.597,
+    "whale_value_at_open": 140995.3404,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787192629.496823,
+    "fills": 1
   }
 ]
