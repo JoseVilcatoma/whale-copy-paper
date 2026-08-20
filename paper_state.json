@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.1672346663613,
+  "bankroll": 498.2433162990144,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3050,6 +3050,11 @@
       "timestamp": 1787238817.6012125,
       "bankroll": 493.17,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner (+0.08 USD)"
+    },
+    {
+      "timestamp": 1787238890.5747576,
+      "bankroll": 498.24,
+      "event": "venta anticipada: danielwolfmorales3pddb6dl6 \u2014 Sion: Benjamin Hassan vs Geoffrey Blancaneaux (+5.08 USD)"
     }
   ]
 }

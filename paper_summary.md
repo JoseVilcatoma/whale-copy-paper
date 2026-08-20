@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 10:14:27 (hora de Perú)
+Actualizado: 2026-08-20 10:16:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $493.17
-**Retorno acumulado:** -1.37%
+**Bankroll actual:** $498.24
+**Retorno acumulado:** -0.35%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 10:14:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $308.17)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $318.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,11 +42,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 1 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
+| danielwolfmorales3pddb6dl6 | 6 | 6 | 1 | -4.80 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | SineNooneEI | 0 | 1 | 1 | -5.12 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| danielwolfmorales3pddb6dl6 | 5 | 6 | 2 | -9.88 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 8 | 7 | 11 | -21.79 USD |
 | RN1 | 103 | 50 | 3 | -45.70 USD |
@@ -200,7 +200,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cancun: Moise Kouame vs Roman Andres Bur | Roman Andres Burruchaga (BUY) | 61% | 5.00 | 3.2% | ⏳ pendiente | — |
 |  | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 49% | 5.00 | 28.3% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 49% | 5.00 | 28.3% | 💰 vendida anticipada | +5.08 |
 | casualbet2020 | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 60% | 5.00 | 458.7% | ⏳ pendiente | — |
 |  | LoL: Solary vs Skillcamp Esport (BO3) -  | Solary (BUY) | 87% | 5.00 | 1.5% | ⏳ pendiente | — |
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Espo | FURIA (BUY) | 57% | 5.00 | 39.8% | ⏳ pendiente | — |
