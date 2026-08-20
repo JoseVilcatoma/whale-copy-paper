@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:29:33 (hora de Perú)
+Actualizado: 2026-08-20 18:31:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.92
@@ -223,7 +223,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Pedro Mar | Juan Carlos Prado (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Henrique Rocha vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 95% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Santos FC win on 2026-08-20? | No (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Mirassol FC win on 2026-08-20? | No (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Mirassol FC win on 2026-08-20? | No (BUY) | 90% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will LDU de Quito win on 2026-08-20? | Yes (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 78% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Team Falcons (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
