@@ -1,5 +1,5 @@
 {
-  "bankroll": 522.3254246317849,
+  "bankroll": 517.1955062644381,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3165,6 +3165,21 @@
       "timestamp": 1787253159.6349156,
       "bankroll": 522.33,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Roehampton: Michael Geerts vs Lucas Poullain"
+    },
+    {
+      "timestamp": 1787253786.2788885,
+      "bankroll": 517.22,
+      "event": "lost: ChonkyChocolateCake \u2014 Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787253786.3790565,
+      "bankroll": 512.12,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787253787.6764839,
+      "bankroll": 517.2,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs"
     }
   ]
 }
