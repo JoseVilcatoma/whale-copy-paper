@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.88343382101993,
+  "bankroll": 470.84126715435326,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2935,6 +2935,11 @@
       "timestamp": 1787231273.0125422,
       "bankroll": 468.88,
       "event": "lost: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Matias Reyniak vs Andrea Colombo"
+    },
+    {
+      "timestamp": 1787232172.1314151,
+      "bankroll": 470.84,
+      "event": "venta anticipada: sulumos \u2014 LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend (+1.96 USD)"
     }
   ]
 }
