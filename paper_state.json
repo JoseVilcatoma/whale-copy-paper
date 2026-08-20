@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.7717765133841,
+  "bankroll": 479.62877651338414,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2735,6 +2735,11 @@
       "timestamp": 1787216546.491452,
       "bankroll": 484.77,
       "event": "won:  \u2014 ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan-Shou Chen"
+    },
+    {
+      "timestamp": 1787216737.7105215,
+      "bankroll": 479.63,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
     }
   ]
 }
