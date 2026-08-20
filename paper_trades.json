@@ -15443,5 +15443,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787231017.899398,
     "fills": 1
+  },
+  {
+    "timestamp": 1787231648,
+    "timestamp_added": 1787231648.9055026,
+    "username": "sulumos",
+    "wallet": "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff",
+    "slug": "lol-lgd-blg-2026-08-20",
+    "title": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 6600.0,
+    "whale_pct": 19.391,
+    "whale_value_at_open": 34037.1386,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787231648.905521,
+    "fills": 1
   }
 ]

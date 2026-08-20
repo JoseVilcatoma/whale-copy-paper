@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 08:12:43 (hora de Perú)
+Actualizado: 2026-08-20 08:14:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.88
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 08:12:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $283.88)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $278.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 2 | +0.00 USD |
 | casualbet2020 | 0 | 0 | 1 | +0.00 USD |
+| sulumos | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
@@ -179,11 +180,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-kotliar-lovric-2026-08-20 | RN1, ferrariChampions2026 |
 | atp-tarvet-broom-2026-08-20 | RN1, ferrariChampions2026 |
 | dota2-liquid-ty-2026-08-20-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, ferrariChampions2026 |
+| lol-lgd-blg-2026-08-20 | danielwolfmorales3pddb6dl6, sulumos |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sulumos | LoL: LGD Gaming vs Bilibili Gaming (BO3) | LGD Gaming (BUY) | 45% | 5.00 | 19.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: LGD Gaming vs Bilibili Gaming (BO3) | Bilibili Gaming (BUY) | 56% | 5.00 | 75.8% | ⏳ pendiente | — |
 | casualbet2020 | Map Handicap: TS (-1.5) vs B8 (+1.5) | Spirit (BUY) | 54% | 5.00 | 38.3% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Semen Pankin (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -213,4 +216,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton: Oliver Tarvet vs Charles Bro | Oliver Tarvet (BUY) | 71% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: SSG Landers vs. Samsung Lions | Samsung Lions (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: CTBC Flying Oyster vs MVK Esports ( | CTBC Flying Oyster (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
