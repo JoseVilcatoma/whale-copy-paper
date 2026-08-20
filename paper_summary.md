@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:13:07 (hora de Perú)
+Actualizado: 2026-08-20 18:15:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 18:13:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $308.92)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $293.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 13 | 1 | 0 | +19.00 USD |
-| Lakersfan111 | 3 | 0 | 8 | +16.77 USD |
+| Lakersfan111 | 3 | 0 | 10 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 4 | 6 | 5 | -12.97 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 9 | 2 | -20.16 USD |
-| RN1 | 105 | 50 | 6 | -38.22 USD |
+| RN1 | 105 | 50 | 7 | -38.22 USD |
 
 ## Análisis general
 
@@ -199,6 +199,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 62% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Elena Rybakina (BUY) | 44% | 5.00 | 3.5% | ⏳ pendiente | — |
 | RN1 | Will CR Vasco da Gama win on 2026-08-20? | No (BUY) | 42% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 52% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -226,6 +229,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 1 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 47% | 5.00 | 8.2% | ⏳ pendiente | — |
-| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 46% | 5.00 | 31.6% | ⏳ pendiente | — |
-| ChonkyChocolateCake | LoL: ⁠Movistar KOI Fénix vs Team Heretic | ⁠Movistar KOI Fénix (BUY) | 55% | 5.00 | 21.5% | ⏳ pendiente | — |
-| Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
