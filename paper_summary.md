@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 12:19:14 (hora de Perú)
+Actualizado: 2026-08-20 12:21:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.51
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 49% | 5.00 | 8.1% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 49% | 5.00 | 14.4% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: G2 vs FURIA - Map 2 Winn | G2 (BUY) | 41% | 5.00 | 9.7% | ⏳ pendiente | — |
 | CORGI8 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 46% | 5.00 | 35.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 43% | 5.00 | 56.5% | 💰 vendida anticipada | +0.18 |
