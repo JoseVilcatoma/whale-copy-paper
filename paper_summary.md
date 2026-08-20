@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 11:23:15 (hora de Perú)
+Actualizado: 2026-08-20 11:25:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $501.59
-**Retorno acumulado:** +0.32%
+**Bankroll actual:** $504.96
+**Retorno acumulado:** +0.99%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 11:23:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $331.59)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $339.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,9 +26,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 7 | 4 | 4 | +11.47 USD |
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| IMAREALPERSON | 9 | 1 | 0 | +7.15 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 1 | +7.07 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| IMAREALPERSON | 8 | 1 | 1 | +3.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -54,14 +54,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 611
-- **Aciertos:** 399 (65.3%)
+- **Apuestas resueltas:** 612
+- **Aciertos:** 400 (65.4%)
 - **Cuota promedio de entrada:** 64.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,050.45
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $54.34 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,055.45
+- **ROI sobre lo apostado:** -0.53%
+- **Comisiones pagadas (taker fee):** $54.45 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 284 | 47.9% | 50.1% | -2.2 pp |
+| 40-59% | 285 | 48.1% | 50.1% | -2.1 pp |
 | 60-79% | 202 | 74.3% | 68.2% | +6.1 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
@@ -218,7 +218,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | LoL: Solary vs Skillcamp Esport (BO3) -  | Solary (BUY) | 87% | 5.00 | 1.5% | ⏳ pendiente | — |
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Espo | FURIA (BUY) | 57% | 5.00 | 39.8% | ⏳ pendiente | — |
 |  | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ✅ ganada | +3.37 |
 |  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ✅ ganada | +0.15 |
 | RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ✅ ganada | +0.25 |

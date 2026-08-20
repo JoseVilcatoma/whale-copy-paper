@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.588168539401,
+  "bankroll": 504.95974481058744,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3110,6 +3110,11 @@
       "timestamp": 1787242492.8067648,
       "bankroll": 501.59,
       "event": "lost: SineNooneEI \u2014 Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In"
+    },
+    {
+      "timestamp": 1787243114.8883522,
+      "bankroll": 504.96,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner"
     }
   ]
 }
