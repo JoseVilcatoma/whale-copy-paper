@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.5098333806023,
+  "bankroll": 511.84188802541104,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3125,6 +3125,16 @@
       "timestamp": 1787246022.166487,
       "bankroll": 505.51,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs (+0.18 USD)"
+    },
+    {
+      "timestamp": 1787246908.1429634,
+      "bankroll": 508.74,
+      "event": "won: casualbet2020 \u2014 Counter-Strike: FaZe vs Vitality - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787246908.2431214,
+      "bankroll": 511.84,
+      "event": "won:  \u2014 Counter-Strike: FaZe vs Vitality - Map 2 Winner"
     }
   ]
 }

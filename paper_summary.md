@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 12:27:34 (hora de Perú)
+Actualizado: 2026-08-20 12:29:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.51
-**Retorno acumulado:** +1.10%
+**Bankroll actual:** $511.84
+**Retorno acumulado:** +2.37%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 12:27:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $315.51)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $331.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,6 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 11 | 1 | 1 | +7.70 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 1 | +7.07 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| casualbet2020 | 1 | 0 | 2 | +3.23 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -36,7 +37,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| casualbet2020 | 0 | 0 | 3 | +0.00 USD |
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 1 | 1 | -0.23 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -49,19 +49,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-|  | 9 | 7 | 10 | -21.64 USD |
+|  | 10 | 7 | 9 | -18.54 USD |
 | RN1 | 105 | 50 | 1 | -38.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 612
-- **Aciertos:** 400 (65.4%)
+- **Apuestas resueltas:** 614
+- **Aciertos:** 402 (65.5%)
 - **Cuota promedio de entrada:** 64.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,055.45
-- **ROI sobre lo apostado:** -0.53%
-- **Comisiones pagadas (taker fee):** $54.45 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,065.45
+- **ROI sobre lo apostado:** -0.33%
+- **Comisiones pagadas (taker fee):** $54.65 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.46% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 285 | 48.1% | 50.1% | -2.1 pp |
-| 60-79% | 202 | 74.3% | 68.2% | +6.1 pp |
+| 60-79% | 204 | 74.5% | 68.1% | +6.4 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
 
@@ -219,7 +219,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 6.9% | ⏳ pendiente | — |
 |  | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cancun: Moise Kouame vs Roman Andres Bur | Roman Andres Burruchaga (BUY) | 61% | 5.00 | 3.2% | ⏳ pendiente | — |
-|  | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
+|  | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 61% | 5.00 | 0.7% | ✅ ganada | +3.10 |
 | danielwolfmorales3pddb6dl6 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 49% | 5.00 | 28.3% | 💰 vendida anticipada | +5.08 |
-| casualbet2020 | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 60% | 5.00 | 458.7% | ⏳ pendiente | — |
+| casualbet2020 | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 60% | 5.00 | 458.7% | ✅ ganada | +3.23 |
 |  | LoL: Solary vs Skillcamp Esport (BO3) -  | Solary (BUY) | 87% | 5.00 | 1.5% | ⏳ pendiente | — |
