@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 16:23:03 (hora de Perú)
+Actualizado: 2026-08-20 16:25:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.76
-**Retorno acumulado:** -1.05%
+**Bankroll actual:** $497.86
+**Retorno acumulado:** -0.43%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 16:23:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $374.76)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $382.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,6 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | SDTrading | 8 | 6 | 2 | +5.37 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| predictionlegend | 3 | 2 | 1 | +2.64 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -38,7 +39,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| predictionlegend | 2 | 2 | 2 | -0.46 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ChonkyChocolateCake | 3 | 3 | 1 | -5.17 USD |
@@ -54,14 +54,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 638
-- **Aciertos:** 413 (64.7%)
+- **Apuestas resueltas:** 639
+- **Aciertos:** 414 (64.8%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,185.45
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $57.52 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,190.45
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $57.61 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 306 | 47.7% | 50.2% | -2.5 pp |
-| 60-79% | 207 | 74.4% | 68.0% | +6.3 pp |
+| 60-79% | 208 | 74.5% | 68.0% | +6.5 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
 
@@ -205,7 +205,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 54% | 5.00 | 17.9% | ✅ ganada | +4.14 |
 | IMAREALPERSON | Valorant: Team Liquid vs FUT Esports (BO | FUT Esports (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
-| predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 124.3% | ⏳ pendiente | — |
+| predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 124.3% | ✅ ganada | +3.10 |
 | danielwolfmorales3pddb6dl6 | LoL: ⁠Movistar KOI Fénix vs Team Heretic | Team Heretics Academy (BUY) | 47% | 5.00 | 11.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 49% | 5.00 | 21.1% | ✅ ganada | +5.08 |
 | CORGI8 | Counter-Strike: G2 vs FURIA - Map 2 Winn | G2 (BUY) | 41% | 5.00 | 9.7% | ✅ ganada | +7.05 |

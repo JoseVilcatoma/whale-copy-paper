@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.7594671719916,
+  "bankroll": 497.858188483467,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3255,6 +3255,11 @@
       "timestamp": 1787259463.915257,
       "bankroll": 494.76,
       "event": "lost: CORGI8 \u2014 Counter-Strike: G2 vs FURIA (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787261044.6836467,
+      "bankroll": 497.86,
+      "event": "won: predictionlegend \u2014 Will Rayo Vallecano de Madrid win on 2026-08-20?"
     }
   ]
 }
