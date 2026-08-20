@@ -13622,5 +13622,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787206079.679991,
     "fills": 1
+  },
+  {
+    "timestamp": 1787206218,
+    "timestamp_added": 1787206219.2877808,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-anisimo-pegula-2026-08-21",
+    "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 510.46977100000004,
+    "whale_pct": 3.698,
+    "whale_value_at_open": 13804.3978,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787206219.2877922,
+    "fills": 1
   }
 ]
