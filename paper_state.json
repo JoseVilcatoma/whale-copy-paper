@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.99420483494333,
+  "bankroll": 498.9065857873243,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2540,6 +2540,11 @@
       "timestamp": 1787197060.6746633,
       "bankroll": 497.99,
       "event": "won: RN1 \u2014 Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime"
+    },
+    {
+      "timestamp": 1787199646.2303371,
+      "bankroll": 498.91,
+      "event": "won: RN1 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 10.5"
     }
   ]
 }

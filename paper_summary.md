@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 23:18:47 (hora de Perú)
+Actualizado: 2026-08-19 23:20:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $497.99
-**Retorno acumulado:** -0.40%
+**Bankroll actual:** $498.91
+**Retorno acumulado:** -0.22%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 23:18:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $317.99)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $323.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,19 +43,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | HomeRunHazard | 34 | 18 | 4 | -11.85 USD |
-| RN1 | 78 | 36 | 19 | -14.13 USD |
+| RN1 | 79 | 36 | 18 | -13.22 USD |
 | ferrariChampions2026 | 148 | 87 | 2 | -36.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 507
-- **Aciertos:** 334 (65.9%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 508
+- **Aciertos:** 335 (65.9%)
+- **Cuota promedio de entrada:** 64.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,530.45
-- **ROI sobre lo apostado:** -0.12%
-- **Comisiones pagadas (taker fee):** $44.73 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.65% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,535.45
+- **ROI sobre lo apostado:** -0.08%
+- **Comisiones pagadas (taker fee):** $44.77 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.68% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -65,7 +65,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 233 | 48.5% | 50.1% | -1.6 pp |
 | 60-79% | 168 | 74.4% | 68.3% | +6.1 pp |
-| 80-94% | 69 | 85.5% | 87.3% | -1.8 pp |
+| 80-94% | 70 | 85.7% | 87.2% | -1.5 pp |
 | 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -168,7 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Sara Bejlek (BUY) | 75% | 5.00 | 9.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 84% | 5.00 | 0.6% | ✅ ganada | +0.91 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 56% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Colorado Rockies (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
