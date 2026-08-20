@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.25449958504316,
+  "bankroll": 467.75979745738357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2920,6 +2920,11 @@
       "timestamp": 1787230340.2162359,
       "bankroll": 462.25,
       "event": "lost: RN1 \u2014 ITF W35 Bistrita Women: Mariia Drobysheva vs Adrienn Nagy"
+    },
+    {
+      "timestamp": 1787230645.169783,
+      "bankroll": 467.76,
+      "event": "won: ferrariChampions2026 \u2014 ITF M15 Lambermont Men: Noah Schlagenhauf vs Stijn Paardekooper"
     }
   ]
 }
