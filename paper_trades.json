@@ -12505,8 +12505,8 @@
     "odds_at_bet": 81,
     "fee_usd": 0.047,
     "odds_ballena": 79,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -15739,5 +15739,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787236633.4955504,
     "fills": 2
+  },
+  {
+    "timestamp": 1787236763,
+    "timestamp_added": 1787236763.6785433,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-faze-vit-2026-08-20-game2",
+    "title": "Counter-Strike: FaZe vs Vitality - Map 2 Winner",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 570.81,
+    "whale_pct": 0.713,
+    "whale_value_at_open": 80076.6389,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787236763.6785564,
+    "fills": 1
   }
 ]
