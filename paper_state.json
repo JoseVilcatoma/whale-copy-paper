@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.6869248533067,
+  "bankroll": 474.85740325862236,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2220,6 +2220,21 @@
       "timestamp": 1787188750.9729383,
       "bankroll": 469.69,
       "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Keys vs Wang"
+    },
+    {
+      "timestamp": 1787189053.5443077,
+      "bankroll": 464.55,
+      "event": "lost: SDTrading \u2014 San Francisco Giants vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1787189057.9423149,
+      "bankroll": 471.04,
+      "event": "won: ferrariChampions2026 \u2014 San Francisco Giants vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1787189059.5709145,
+      "bankroll": 474.86,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Alexis Galarneau vs Dino Prizmic"
     }
   ]
 }

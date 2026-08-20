@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 20:22:59 (hora de Perú)
+Actualizado: 2026-08-19 20:25:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.69
-**Retorno acumulado:** -6.06%
+**Bankroll actual:** $474.86
+**Retorno acumulado:** -5.03%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 20:22:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $327.72 en 66 posiciones abiertas (disponible para nuevas apuestas: $141.97)
+**Capital comprometido ahora mismo:** $317.72 en 64 posiciones abiertas (disponible para nuevas apuestas: $157.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,14 +24,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 4 | 2 | 1 | +9.13 USD |
-| Lakersfan111 | 1 | 0 | 1 | +5.29 USD |
+| Lakersfan111 | 1 | 0 | 2 | +5.29 USD |
 | Satisfied | 1 | 0 | 2 | +4.88 USD |
-| SDTrading | 4 | 3 | 4 | +4.74 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
+| SDTrading | 4 | 4 | 3 | -0.39 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 | theowalcott | 1 | 1 | 7 | -1.43 USD |
@@ -43,18 +43,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
 | RN1 | 68 | 35 | 5 | -18.39 USD |
-| ferrariChampions2026 | 129 | 80 | 28 | -52.81 USD |
+| ferrariChampions2026 | 131 | 80 | 26 | -42.51 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 443
-- **Aciertos:** 288 (65.0%)
-- **Cuota promedio de entrada:** 64.7%
+- **Apuestas resueltas:** 446
+- **Aciertos:** 290 (65.0%)
+- **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,212.73
-- **ROI sobre lo apostado:** -1.41%
-- **Comisiones pagadas (taker fee):** $39.04 (1.76% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,227.73
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $39.43 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,7 +62,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 202 | 48.0% | 50.2% | -2.2 pp |
+| 40-59% | 205 | 48.3% | 50.2% | -1.9 pp |
 | 60-79% | 147 | 72.1% | 68.2% | +3.9 pp |
 | 80-94% | 64 | 85.9% | 87.3% | -1.4 pp |
 | 95-99% (casi seguro) | 30 | 100.0% | 97.2% | +2.8 pp |
@@ -162,6 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 (BO3) - VCT  | G2 Esports (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 53% | 5.00 | 19.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Madison Keys vs Xiyu Wa | Madison Keys (BUY) | 74% | 4.47 | 0.2% | ⏳ pendiente | — |
@@ -170,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Columbus Crew vs. CF Montréal: O/U 4.5 | Under (BUY) | 73% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | M80 (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Nongshim Red Force vs Kiwoom DRX (B | Kiwoom DRX (BUY) | 42% | 5.00 | 6.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Quebec City: Alexis Galarneau vs Dino Pr | Alexis Galarneau (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Quebec City: Alexis Galarneau vs Dino Pr | Alexis Galarneau (BUY) | 56% | 5.00 | 0.2% | ✅ ganada | +3.82 |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA Challengers vs DN SOOPers | DN SOOPers Challengers (BUY) | 43% | 5.00 | 25.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto FC vs. Charlotte FC: O/U 1.5 | Over (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Montevideo City Torque vs. CA Tigre: O/U | Over (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -178,7 +179,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ❌ perdida | -4.46 |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 1.9% | ✅ ganada | +6.48 |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Coquimbo Unido win on 2026-08-19 | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -191,4 +192,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes (BUY) | 59% | 5.00 | 20.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Coquimbo Unido vs. CA Platense: O/U 2 | Under (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 1.6% | ✅ ganada | +4.88 |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | San Francisco Giants (BUY) | 62% | 5.00 | 1.1% | ✅ ganada | +2.97 |
