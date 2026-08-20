@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 07:08:22 (hora de Perú)
+Actualizado: 2026-08-20 07:10:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $463.20
-**Retorno acumulado:** -7.36%
+**Bankroll actual:** $467.99
+**Retorno acumulado:** -6.40%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 07:08:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $233.20)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $252.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,33 +32,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 2 | 1 | 2 | +0.31 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
 | SineNooneEI | 0 | 0 | 2 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 1 | 1 | 3 | -3.51 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 3 | 1 | -4.18 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| danielwolfmorales3pddb6dl6 | 1 | 3 | 5 | -10.89 USD |
-|  | 8 | 5 | 2 | -11.55 USD |
+|  | 8 | 5 | 3 | -11.55 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| ferrariChampions2026 | 154 | 91 | 18 | -36.05 USD |
-| RN1 | 95 | 47 | 9 | -40.75 USD |
+| danielwolfmorales3pddb6dl6 | 1 | 4 | 4 | -16.02 USD |
+| ferrariChampions2026 | 155 | 91 | 17 | -31.91 USD |
+| RN1 | 96 | 47 | 8 | -38.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 563
-- **Aciertos:** 367 (65.2%)
+- **Apuestas resueltas:** 567
+- **Aciertos:** 370 (65.3%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,810.45
-- **ROI sobre lo apostado:** -1.46%
-- **Comisiones pagadas (taker fee):** $49.73 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.31% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,830.45
+- **ROI sobre lo apostado:** -1.28%
+- **Comisiones pagadas (taker fee):** $50.16 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -66,8 +66,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 259 | 47.1% | 50.2% | -3.1 pp |
-| 60-79% | 187 | 74.3% | 68.4% | +5.9 pp |
+| 40-59% | 262 | 47.3% | 50.3% | -2.9 pp |
+| 60-79% | 188 | 74.5% | 68.4% | +6.1 pp |
 | 80-94% | 78 | 85.9% | 86.9% | -1.1 pp |
 | 95-99% (casi seguro) | 39 | 100.0% | 97.2% | +2.8 pp |
 
@@ -183,6 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | ITF W35 Erwitte Women: Eva Bennemann vs  | Eva Bennemann (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 44% | 5.00 | 41.6% | ⏳ pendiente | — |
 | RN1 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Matias Reyn | Matias Reyniak (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -210,6 +211,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Slovenj Gradec Men: Kirill Kivat | Kirill Kivattsev (BUY) | 99% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
 | RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Pia Lovric (BUY) | 57% | 5.00 | 6.5% | ❌ perdida | -5.11 |
-| RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 16.5% | ⏳ pendiente | — |
+| RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 16.5% | ✅ ganada | +1.97 |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | JD Gaming (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 9.3% | ⏳ pendiente | — |

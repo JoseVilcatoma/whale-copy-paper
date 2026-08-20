@@ -13883,8 +13883,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14106,8 +14106,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.14,
     "overlaps_with": [
       "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653"
     ],
@@ -14284,8 +14284,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
       "ferrariChampions2026"
@@ -14531,8 +14531,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [
       "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
       "danielwolfmorales3pddb6dl6",
@@ -15224,6 +15224,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787227392.0612326,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787227751,
+    "timestamp_added": 1787227752.0695276,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-bennema-kokkini-2026-08-20",
+    "title": "ITF W35 Erwitte Women: Eva Bennemann vs Tahlia Kokkinis",
+    "outcome": "Eva Bennemann",
+    "side": "BUY",
+    "whale_usd": 948.22,
+    "whale_pct": 1.209,
+    "whale_value_at_open": 78459.8445,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787227752.0695393,
     "fills": 1
   }
 ]

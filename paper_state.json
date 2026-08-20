@@ -1,5 +1,5 @@
 {
-  "bankroll": 463.19786152107093,
+  "bankroll": 467.9949457300284,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2845,6 +2845,26 @@
       "timestamp": 1787227511.903972,
       "bankroll": 463.2,
       "event": "won: RN1 \u2014 ITF W50 Prague Women: Yelyzaveta Kotliar vs Pia Lovric"
+    },
+    {
+      "timestamp": 1787227754.7893043,
+      "bankroll": 467.02,
+      "event": "won: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Sion: Tommaso Compagnucci vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1787227755.7998743,
+      "bankroll": 471.16,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Tommaso Compagnucci vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1787227756.2005432,
+      "bankroll": 466.03,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Sion: Tommaso Compagnucci vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1787227756.9014792,
+      "bankroll": 467.99,
+      "event": "won: RN1 \u2014 Sion: Tommaso Compagnucci vs Juan Manuel La Serna"
     }
   ]
 }
