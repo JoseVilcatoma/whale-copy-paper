@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 19:01:48 (hora de Perú)
+Actualizado: 2026-08-19 19:03:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.08
@@ -170,9 +170,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA Challengers vs DN SOOPers | DN SOOPers Challengers (BUY) | 43% | 5.00 | 25.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto FC vs. Charlotte FC: O/U 1.5 | Over (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | theowalcott | Montevideo City Torque vs. CA Tigre: O/U | Over (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Nuno Borges vs Brandon  | Brandon Nakashima (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Open: Nuno Borges vs Brandon  | Brandon Nakashima (BUY) | 79% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |

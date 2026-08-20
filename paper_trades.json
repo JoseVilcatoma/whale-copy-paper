@@ -12256,8 +12256,8 @@
     "title": "Valorant: G2 Esports vs M80 - Map 1 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 8403.871805,
-    "whale_pct": 1.881,
+    "whale_usd": 9701.210005,
+    "whale_pct": 2.172,
     "whale_value_at_open": 446664.6773,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -12268,8 +12268,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787182841.8645391,
-    "fills": 9
+    "last_fill_at": 1787184161.9314845,
+    "fills": 10
   },
   {
     "timestamp": 1787181893,
@@ -12304,8 +12304,8 @@
     "title": "Cincinnati Open: Nuno Borges vs Brandon Nakashima",
     "outcome": "Brandon Nakashima",
     "side": "BUY",
-    "whale_usd": 7854.264478,
-    "whale_pct": 1.741,
+    "whale_usd": 8412.405644,
+    "whale_pct": 1.865,
     "whale_value_at_open": 451125.2183,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -12318,8 +12318,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787182933.5166454,
-    "fills": 3
+    "last_fill_at": 1787184195.3605285,
+    "fills": 4
   },
   {
     "timestamp": 1787183554,
