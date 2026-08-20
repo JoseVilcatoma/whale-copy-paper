@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 08:00:29 (hora de Perú)
+Actualizado: 2026-08-20 08:02:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $467.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 08:00:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $287.76)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $282.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 2 | 5 | 3 | -17.88 USD |
 | ferrariChampions2026 | 159 | 92 | 12 | -17.94 USD |
-| RN1 | 98 | 49 | 4 | -46.00 USD |
+| RN1 | 98 | 49 | 5 | -46.00 USD |
 
 ## Análisis general
 
@@ -183,6 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Semen Pankin (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 47% | 5.00 | 19.7% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 57% | 5.00 | 8.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 10.3% | ⏳ pendiente | — |
@@ -212,4 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: CTBC Flying Oyster vs MVK Esports ( | CTBC Flying Oyster (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 44% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Mili Poljica | Sebastian Dominko (BUY) | 81% | 5.00 | 1.7% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | Roehampton: Oliver Tarvet vs Charles Bro | Oliver Tarvet (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |

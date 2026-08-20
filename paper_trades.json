@@ -15369,5 +15369,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787230749.939166,
     "fills": 5
+  },
+  {
+    "timestamp": 1787230837,
+    "timestamp_added": 1787230837.857913,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-pankin-petrovi-2026-08-20",
+    "title": "ITF M15 Kursumlijska Banja 12 Men: Semen Pankin vs Drazen Petrovic",
+    "outcome": "Semen Pankin",
+    "side": "BUY",
+    "whale_usd": 621.571,
+    "whale_pct": 0.519,
+    "whale_value_at_open": 119798.3675,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787230837.8579283,
+    "fills": 1
   }
 ]
