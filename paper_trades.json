@@ -14476,8 +14476,8 @@
     "title": "LoL: JD Gaming vs ThunderTalk Gaming - Game 2 Winner",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 2874.112,
-    "whale_pct": 1.336,
+    "whale_usd": 5204.115,
+    "whale_pct": 2.42,
     "whale_value_at_open": 215072.3288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -14488,8 +14488,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787220849.3004947,
-    "fills": 2
+    "last_fill_at": 1787221138.0508456,
+    "fills": 3
   },
   {
     "timestamp": 1787220761,
@@ -14616,5 +14616,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787221033.7074773,
     "fills": 3
+  },
+  {
+    "timestamp": 1787221161,
+    "timestamp_added": 1787221162.4758868,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tarvet-broom-2026-08-20",
+    "title": "Roehampton: Oliver Tarvet vs Charles Broom",
+    "outcome": "Oliver Tarvet",
+    "side": "BUY",
+    "whale_usd": 730.9250000000001,
+    "whale_pct": 0.318,
+    "whale_value_at_open": 229810.6481,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787221162.4758968,
+    "fills": 1
   }
 ]

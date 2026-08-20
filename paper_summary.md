@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 05:17:24 (hora de Perú)
+Actualizado: 2026-08-20 05:19:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.81
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 05:17:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $279.81)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $274.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 91 | 44 | 6 | -29.77 USD |
-| ferrariChampions2026 | 151 | 89 | 18 | -38.72 USD |
+| ferrariChampions2026 | 151 | 89 | 19 | -38.72 USD |
 
 ## Análisis general
 
@@ -178,12 +178,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton: Oliver Tarvet vs Charles Bro | Oliver Tarvet (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Kirill Kivat | Kirill Kivattsev (BUY) | 99% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Pia Lovric (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 12.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | JD Gaming (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | ThunderTalk Gaming (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -207,4 +208,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Atlanta Dream (-8.5) | Los Angeles Sparks (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-14.5) | Las Vegas Aces (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Spread: KAA Gent (-1.5) | Hibernian FC (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 56% | 5.00 | 16.9% | ⏳ pendiente | — |
