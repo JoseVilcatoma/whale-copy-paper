@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.81405021817403,
+  "bankroll": 469.74105021817405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2760,6 +2760,11 @@
       "timestamp": 1787218317.8779287,
       "bankroll": 474.81,
       "event": "won:  \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787222326.9422941,
+      "bankroll": 469.74,
+      "event": "lost: RN1 \u2014 ITF W35 Bistrita Women: Diana-Ioana Simionescu vs Carolina Kuhl"
     }
   ]
 }
