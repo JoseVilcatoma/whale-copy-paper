@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 14:38:54 (hora de Perú)
+Actualizado: 2026-08-20 14:40:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $512.09
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 46% | 5.00 | 21.1% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 46% | 5.00 | 31.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: ⁠Movistar KOI Fénix vs Team Heretic | ⁠Movistar KOI Fénix (BUY) | 55% | 5.00 | 21.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 54% | 5.00 | 17.9% | ✅ ganada | +4.14 |
