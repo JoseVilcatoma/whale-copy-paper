@@ -1,5 +1,5 @@
 {
-  "bankroll": 509.370007517571,
+  "bankroll": 501.0111294687906,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3205,6 +3205,26 @@
       "timestamp": 1787255666.7006338,
       "bankroll": 509.37,
       "event": "won: Sassy-Bucket \u2014 San Francisco Giants vs. Cleveland Guardians: O/U 6.5"
+    },
+    {
+      "timestamp": 1787255977.0637314,
+      "bankroll": 504.23,
+      "event": "lost: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Cincinnati Open: Amanda Anisimova vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787255982.0919871,
+      "bankroll": 499.1,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Amanda Anisimova vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787255983.7117481,
+      "bankroll": 493.96,
+      "event": "lost: CORGI8 \u2014 Cincinnati Open: Amanda Anisimova vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787255984.0701644,
+      "bankroll": 501.01,
+      "event": "won: CORGI8 \u2014 Counter-Strike: G2 vs FURIA - Map 2 Winner"
     }
   ]
 }
