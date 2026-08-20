@@ -17349,5 +17349,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787267785.3366976,
     "fills": 1
+  },
+  {
+    "timestamp": 1787267909,
+    "timestamp_added": 1787267909.9257207,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sud-mac-san-2026-08-20-mac",
+    "title": "Will CSyD Macar\u00e1 win on 2026-08-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 545.16,
+    "whale_pct": 0.24,
+    "whale_value_at_open": 227027.0056,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787267909.9257317,
+    "fills": 1
   }
 ]
