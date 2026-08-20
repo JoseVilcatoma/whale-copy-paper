@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.62877651338414,
+  "bankroll": 474.49877651338414,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2740,6 +2740,11 @@
       "timestamp": 1787216737.7105215,
       "bankroll": 479.63,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 LoL: Dplus KIA Challengers vs DN SOOPers Challengers (BO3) - LCK Challengers League Rounds 3-4 Challenge Group"
+    },
+    {
+      "timestamp": 1787217051.7908378,
+      "bankroll": 474.5,
+      "event": "lost: RN1 \u2014 Will Portland Timbers win on 2026-08-19?"
     }
   ]
 }
