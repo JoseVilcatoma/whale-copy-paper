@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.9949457300284,
+  "bankroll": 468.14158490528615,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2865,6 +2865,11 @@
       "timestamp": 1787227756.9014792,
       "bankroll": 467.99,
       "event": "won: RN1 \u2014 Sion: Tommaso Compagnucci vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1787228374.7649875,
+      "bankroll": 468.14,
+      "event": "won: RN1 \u2014 Sion: Dominic Stephan Stricker vs Mika Brunold"
     }
   ]
 }
