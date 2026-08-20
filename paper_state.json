@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.3168170815023,
+  "bankroll": 462.9387685136318,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2265,6 +2265,31 @@
       "timestamp": 1787190618.2990198,
       "bankroll": 470.32,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5"
+    },
+    {
+      "timestamp": 1787190928.350014,
+      "bankroll": 465.18,
+      "event": "lost: HomeRunHazard \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 7.5"
+    },
+    {
+      "timestamp": 1787190928.9756472,
+      "bankroll": 471.4,
+      "event": "won: ferrariChampions2026 \u2014 Will Columbus Crew win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787190929.232564,
+      "bankroll": 466.26,
+      "event": "lost: theowalcott \u2014 New York Red Bulls vs. Nashville SC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787190930.2116165,
+      "bankroll": 461.16,
+      "event": "lost: theowalcott \u2014 Will Columbus Crew win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787190933.2389224,
+      "bankroll": 462.94,
+      "event": "won: ferrariChampions2026 \u2014 Columbus Crew vs. CF Montr\u00e9al: O/U 4.5"
     }
   ]
 }

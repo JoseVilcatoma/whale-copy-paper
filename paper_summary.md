@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 20:53:36 (hora de Perú)
+Actualizado: 2026-08-19 20:55:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $470.32
-**Retorno acumulado:** -5.94%
+**Bankroll actual:** $462.94
+**Retorno acumulado:** -7.41%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 20:53:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $353.25 en 71 posiciones abiertas (disponible para nuevas apuestas: $117.07)
+**Capital comprometido ahora mismo:** $328.25 en 66 posiciones abiertas (disponible para nuevas apuestas: $134.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,27 +34,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 4 | 4 | 3 | -0.39 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| theowalcott | 1 | 1 | 7 | -1.43 USD |
 |  | 3 | 2 | 0 | -3.59 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 3 | 1 | -6.79 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 29 | 14 | 13 | -8.61 USD |
 | Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
+| theowalcott | 1 | 3 | 5 | -11.67 USD |
+| HomeRunHazard | 29 | 15 | 12 | -13.75 USD |
 | RN1 | 68 | 35 | 14 | -18.39 USD |
-| ferrariChampions2026 | 134 | 81 | 22 | -42.57 USD |
+| ferrariChampions2026 | 136 | 81 | 20 | -34.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 452
-- **Aciertos:** 294 (65.0%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 457
+- **Aciertos:** 296 (64.8%)
+- **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,257.20
-- **ROI sobre lo apostado:** -1.36%
-- **Comisiones pagadas (taker fee):** $39.91 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.41% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,282.20
+- **ROI sobre lo apostado:** -1.67%
+- **Comisiones pagadas (taker fee):** $40.50 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,8 +62,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 207 | 47.8% | 50.2% | -2.3 pp |
-| 60-79% | 150 | 72.7% | 68.3% | +4.4 pp |
+| 40-59% | 211 | 47.4% | 50.1% | -2.7 pp |
+| 60-79% | 151 | 72.8% | 68.3% | +4.5 pp |
 | 80-94% | 65 | 86.2% | 87.4% | -1.2 pp |
 | 95-99% (casi seguro) | 30 | 100.0% | 97.2% | +2.8 pp |
 
@@ -182,7 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Open: Madison Keys vs Xiyu Wa | Madison Keys (BUY) | 74% | 4.47 | 0.2% | ✅ ganada | +1.51 |
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongo | Team Falcons (BUY) | 81% | 5.00 | 9.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Columbus Crew vs. CF Montréal: O/U 4.5 | Under (BUY) | 73% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Columbus Crew vs. CF Montréal: O/U 4.5 | Under (BUY) | 73% | 5.00 | 0.1% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | M80 (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Nongshim Red Force vs Kiwoom DRX (B | Kiwoom DRX (BUY) | 42% | 5.00 | 13.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Alexis Galarneau vs Dino Pr | Alexis Galarneau (BUY) | 56% | 5.00 | 0.2% | ✅ ganada | +3.82 |
