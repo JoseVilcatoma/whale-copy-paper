@@ -14733,8 +14733,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -16095,8 +16095,8 @@
     "title": "San Francisco Giants vs. Cleveland Guardians: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 8459.682399999998,
-    "whale_pct": 41.842,
+    "whale_usd": 12550.719599999999,
+    "whale_pct": 62.077,
     "whale_value_at_open": 20218.035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -16107,8 +16107,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787240127.454122,
-    "fills": 2
+    "last_fill_at": 1787241752.779864,
+    "fills": 3
   },
   {
     "timestamp": 1787240111,
@@ -16159,5 +16159,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787241543.1534095,
     "fills": 3
+  },
+  {
+    "timestamp": 1787241786,
+    "timestamp_added": 1787241786.7139783,
+    "username": "ChonkyChocolateCake",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-g2nord-es1-2026-08-20-game2",
+    "title": "LoL: G2 NORD vs Eintracht Spandau - Game 2 Winner",
+    "outcome": "G2 NORD",
+    "side": "BUY",
+    "whale_usd": 5282.544,
+    "whale_pct": 20.972,
+    "whale_value_at_open": 25188.8385,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787241845.4095495,
+    "fills": 2
   }
 ]

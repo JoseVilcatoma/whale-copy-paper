@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.0664066346391,
+  "bankroll": 499.9664066346391,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3095,6 +3095,11 @@
       "timestamp": 1787241245.7541118,
       "bankroll": 505.07,
       "event": "won: ferrariChampions2026 \u2014 LoL: CTBC Flying Oyster vs MVK Esports (BO5) - LCP Playoffs"
+    },
+    {
+      "timestamp": 1787241869.6572669,
+      "bankroll": 499.97,
+      "event": "lost: ferrariChampions2026 \u2014 KBO: SSG Landers vs. Samsung Lions"
     }
   ]
 }
