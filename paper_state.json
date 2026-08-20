@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.39577770777873,
+  "bankroll": 469.6459356025156,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2990,6 +2990,11 @@
       "timestamp": 1787236860.2039628,
       "bankroll": 469.4,
       "event": "won: dauntlesswitness \u2014 Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787236924.1934292,
+      "bankroll": 469.65,
+      "event": "won: RN1 \u2014 ITF M25 Slovenj Gradec Men: Nik Mikovic vs Valerio Aboian"
     }
   ]
 }

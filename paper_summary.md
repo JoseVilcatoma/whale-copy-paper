@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 09:41:14 (hora de Perú)
+Actualizado: 2026-08-20 09:43:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.40
-**Retorno acumulado:** -6.12%
+**Bankroll actual:** $469.65
+**Retorno acumulado:** -6.07%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 09:41:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $274.40)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $279.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,18 +49,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 3 | 5 | 4 | -11.66 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 8 | 6 | 7 | -16.67 USD |
-| RN1 | 101 | 50 | 5 | -48.56 USD |
+| RN1 | 102 | 50 | 4 | -48.31 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 590
-- **Aciertos:** 384 (65.1%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 591
+- **Aciertos:** 385 (65.1%)
+- **Cuota promedio de entrada:** 64.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,945.45
-- **ROI sobre lo apostado:** -1.46%
-- **Comisiones pagadas (taker fee):** $52.13 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.31% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,950.45
+- **ROI sobre lo apostado:** -1.45%
+- **Comisiones pagadas (taker fee):** $52.14 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 272 | 47.4% | 50.3% | -2.8 pp |
 | 60-79% | 195 | 73.8% | 68.2% | +5.6 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
-| 95-99% (casi seguro) | 43 | 97.7% | 97.3% | +0.3 pp |
+| 95-99% (casi seguro) | 44 | 97.7% | 97.3% | +0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -198,7 +198,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ⏳ pendiente | — |
 |  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
-| RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ✅ ganada | +0.25 |
 | RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Lisa | Lisa Zaar (BUY) | 73% | 5.00 | 0.8% | ✅ ganada | +1.78 |
 | sulumos | LoL: LGD Gaming vs Bilibili Gaming (BO3) | LGD Gaming (BUY) | 45% | 5.00 | 24.1% | 💰 vendida anticipada | +1.96 |
