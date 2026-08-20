@@ -1,5 +1,5 @@
 {
-  "bankroll": 508.3552644434969,
+  "bankroll": 507.7156490588815,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3075,6 +3075,16 @@
       "timestamp": 1787239993.67559,
       "bankroll": 508.36,
       "event": "won: RN1 \u2014 Sion: Benjamin Hassan vs Geoffrey Blancaneaux"
+    },
+    {
+      "timestamp": 1787240620.2549388,
+      "bankroll": 503.22,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787240620.3551736,
+      "bankroll": 507.72,
+      "event": "won: ferrariChampions2026 \u2014 LoL: JD Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
     }
   ]
 }
