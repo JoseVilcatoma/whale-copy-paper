@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.464507031087,
+  "bankroll": 473.194507031087,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3000,6 +3000,16 @@
       "timestamp": 1787237001.6667721,
       "bankroll": 473.46,
       "event": "venta anticipada: danielwolfmorales3pddb6dl6 \u2014 LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend (+3.82 USD)"
+    },
+    {
+      "timestamp": 1787237171.7710772,
+      "bankroll": 468.32,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 LoL: Nongshim Red Force vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1787237177.1330063,
+      "bankroll": 473.19,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Nongshim Red Force vs Kiwoom DRX - Game 2 Winner"
     }
   ]
 }
