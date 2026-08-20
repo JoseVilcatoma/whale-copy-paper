@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.3111653725257,
+  "bankroll": 527.4554246317849,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3155,6 +3155,11 @@
       "timestamp": 1787252224.3843617,
       "bankroll": 523.31,
       "event": "won:  \u2014 Will RSC Anderlecht win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787252852.8014114,
+      "bankroll": 527.46,
+      "event": "won: SDTrading \u2014 Seattle Mariners vs. Milwaukee Brewers: O/U 7.5"
     }
   ]
 }
