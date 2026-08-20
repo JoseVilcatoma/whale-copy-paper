@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 16:16:42 (hora de Perú)
+Actualizado: 2026-08-20 16:18:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 16:16:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $379.76)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $374.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 3 | 0 | 4 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | IMAREALPERSON | 12 | 1 | 1 | +12.78 USD |
-| casualbet2020 | 3 | 0 | 0 | +11.03 USD |
+| casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | SDTrading | 8 | 6 | 2 | +5.37 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -195,6 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 68% | 5.00 | 5.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Washington Nationals vs. Texas Rangers:  | Over (BUY) | 49% | 5.00 | 1655.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 1 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -224,4 +225,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 59% | 5.00 | 78.0% | ⏳ pendiente | — |
 | SDTrading | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SDTrading | Athletics vs. Kansas City Royals | Athletics (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Nigma Galaxy (BUY) | 74% | 5.00 | 30.2% | 💰 vendida anticipada | +0.08 |
