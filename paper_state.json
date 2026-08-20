@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.8711294687906,
+  "bankroll": 498.2518160359548,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3230,6 +3230,11 @@
       "timestamp": 1787256611.8350286,
       "bankroll": 495.87,
       "event": "lost: Sassy-Bucket \u2014 San Francisco Giants vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1787258198.01974,
+      "bankroll": 498.25,
+      "event": "won: ChonkyChocolateCake \u2014 LoL: Karmine Corp Blue vs Ici Japon Corp. Esport - Game 2 Winner"
     }
   ]
 }
