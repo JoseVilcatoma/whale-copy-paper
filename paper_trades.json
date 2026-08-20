@@ -15049,5 +15049,29 @@
     "fills": 2,
     "fee_total_usd": 0.251,
     "closed_price": 59
+  },
+  {
+    "timestamp": 1787224887,
+    "timestamp_added": 1787224888.2380013,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-navi-lgc-2026-08-20",
+    "title": "Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 704.2199990000001,
+    "whale_pct": 0.921,
+    "whale_value_at_open": 76453.7321,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787224888.2380128,
+    "fills": 1
   }
 ]
