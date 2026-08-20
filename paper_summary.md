@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 11:54:22 (hora de Perú)
+Actualizado: 2026-08-20 11:56:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.33
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 11:54:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $340.33)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $330.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,8 +40,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 1 | +0.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 1 | 1 | -0.23 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| ChonkyChocolateCake | 1 | 1 | 3 | -0.44 USD |
-| predictionlegend | 2 | 2 | 0 | -0.46 USD |
+| ChonkyChocolateCake | 1 | 1 | 4 | -0.44 USD |
+| predictionlegend | 2 | 2 | 1 | -0.46 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 6 | 4 | -4.80 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ferrariChampions2026 | 166 | 95 | 2 | -6.06 USD |
@@ -193,6 +193,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ChonkyChocolateCake | LoL: Karmine Corp Blue vs Ici Japon Corp | Karmine Corp Blue (BUY) | 67% | 5.00 | 3.2% | ⏳ pendiente | — |
+| predictionlegend | K. Sint-Truidense VV vs. AS Omónoia Leuk | Over (BUY) | 44% | 5.00 | 64.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 47% | 5.00 | 60.8% | 💰 vendida anticipada | +0.37 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 67.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 32.6% | ⏳ pendiente | — |
@@ -221,5 +223,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ✅ ganada | +3.37 |
 |  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ✅ ganada | +0.15 |
-| RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
-| RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ✅ ganada | +0.25 |
