@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 03:53:26 (hora de Perú)
+Actualizado: 2026-08-20 03:55:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $484.63
@@ -175,7 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| danielwolfmorales3pddb6dl6 | Sion: Tommaso Compagnucci vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 14.3% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Sion: Tommaso Compagnucci vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 30.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 60% | 5.00 | 120.5% | 💰 vendida anticipada | +1.93 |
 | IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 61% | 5.00 | 10.1% | 💰 vendida anticipada | +0.05 |
 | SineNooneEI | Valorant: ZETA DIVISION vs Xipto Esports | Xipto Esports (BUY) | 45% | 5.00 | 18.8% | ⏳ pendiente | — |
