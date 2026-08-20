@@ -16145,8 +16145,8 @@
     "title": "San Francisco Giants vs. Cleveland Guardians: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 12083.306836000002,
-    "whale_pct": 40.782,
+    "whale_usd": 13763.306836000002,
+    "whale_pct": 46.452,
     "whale_value_at_open": 29629.1552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -16157,8 +16157,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787241543.1534095,
-    "fills": 3
+    "last_fill_at": 1787242291.595776,
+    "fills": 4
   },
   {
     "timestamp": 1787241786,
