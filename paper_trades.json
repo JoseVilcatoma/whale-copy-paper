@@ -17505,5 +17505,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787268453.808844,
     "fills": 3
+  },
+  {
+    "timestamp": 1787268900,
+    "timestamp_added": 1787268901.6443639,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-w7m-2026-08-20-game1",
+    "title": "Valorant: KR\u00dc Esports vs Fluxo W7M - Map 1 Winner",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "whale_usd": 1684.7862309999998,
+    "whale_pct": 0.68,
+    "whale_value_at_open": 247628.7224,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787268938.1893733,
+    "fills": 2
   }
 ]
