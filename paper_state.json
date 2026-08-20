@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.5092214404405,
+  "bankroll": 475.4318170815023,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2240,6 +2240,26 @@
       "timestamp": 1787189365.8632898,
       "bankroll": 475.51,
       "event": "won: HomeRunHazard \u2014 Quebec City: Soon-Woo Kwon vs Shintaro Mochizuki"
+    },
+    {
+      "timestamp": 1787189675.4775472,
+      "bankroll": 470.37,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Nuno Borges vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1787189677.6708717,
+      "bankroll": 472.64,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Rodrigo Pacheco vs Tomas Barrios"
+    },
+    {
+      "timestamp": 1787189678.6611407,
+      "bankroll": 473.92,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Nuno Borges vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1787189680.713665,
+      "bankroll": 475.43,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Madison Keys vs Xiyu Wang"
     }
   ]
 }
