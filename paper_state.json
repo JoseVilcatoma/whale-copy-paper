@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.1277464157309,
+  "bankroll": 485.40068759220145,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3295,6 +3295,11 @@
       "timestamp": 1787264499.2123628,
       "bankroll": 483.13,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Tommy Paul vs Flavio Cobolli"
+    },
+    {
+      "timestamp": 1787264813.8085394,
+      "bankroll": 485.4,
+      "event": "won:  \u2014 Spread: KAA Gent (-1.5)"
     }
   ]
 }
