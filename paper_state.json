@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.2833632667339,
+  "bankroll": 497.1055907590483,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2490,6 +2490,21 @@
       "timestamp": 1787194992.5275023,
       "bankroll": 493.28,
       "event": "won: RN1 \u2014 Seattle Mariners vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787195300.5563235,
+      "bankroll": 497.01,
+      "event": "won: SDTrading \u2014 Washington Nationals vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1787195304.96443,
+      "bankroll": 497.06,
+      "event": "won: RN1 \u2014 Washington Nationals vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1787195305.5715625,
+      "bankroll": 497.11,
+      "event": "won: RN1 \u2014 Cincinnati Open: Jaime Faria vs Lorenzo Musetti"
     }
   ]
 }

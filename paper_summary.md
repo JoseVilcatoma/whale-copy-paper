@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 22:06:23 (hora de Perú)
+Actualizado: 2026-08-19 22:08:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $493.28
-**Retorno acumulado:** -1.34%
+**Bankroll actual:** $497.11
+**Retorno acumulado:** -0.58%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 22:06:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $290.03)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $302.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,8 +23,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| SDTrading | 7 | 4 | 0 | +11.47 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| SDTrading | 6 | 4 | 1 | +7.74 USD |
 | Lakersfan111 | 1 | 0 | 2 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -42,19 +42,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 34 | 17 | 5 | -6.78 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
-| RN1 | 74 | 36 | 20 | -16.87 USD |
+| RN1 | 76 | 36 | 19 | -16.77 USD |
 | ferrariChampions2026 | 147 | 86 | 4 | -33.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 497
-- **Aciertos:** 326 (65.6%)
-- **Cuota promedio de entrada:** 64.5%
+- **Apuestas resueltas:** 500
+- **Aciertos:** 329 (65.8%)
+- **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,482.20
-- **ROI sobre lo apostado:** -0.31%
-- **Comisiones pagadas (taker fee):** $44.08 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.47% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,495.45
+- **ROI sobre lo apostado:** -0.15%
+- **Comisiones pagadas (taker fee):** $44.18 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,10 +62,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 230 | 48.3% | 50.1% | -1.9 pp |
+| 40-59% | 231 | 48.5% | 50.1% | -1.6 pp |
 | 60-79% | 164 | 74.4% | 68.2% | +6.1 pp |
 | 80-94% | 69 | 85.5% | 87.3% | -1.8 pp |
-| 95-99% (casi seguro) | 34 | 100.0% | 97.1% | +2.9 pp |
+| 95-99% (casi seguro) | 36 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -165,6 +165,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Colorado Rockies (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alan Magadan (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 82% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -173,11 +174,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 3 Women: Yidi Yang vs Ch | Chenting Zhu (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
 | RN1 | Los Angeles Galaxy vs. San Jose Earthqua | Over (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 2.3% | ✅ ganada | +0.05 |
 |  | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 76% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Frances Tiafoe vs Felix | Frances Tiafoe (BUY) | 66% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Montevideo City Torque vs. CA Tigre: O/U | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 99% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 99% | 5.00 | 2.1% | ✅ ganada | +0.05 |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alex Hernandez (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Over (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -194,4 +195,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Over (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: G2 Esports vs M80 (BO3) - VCT  | G2 Esports (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |

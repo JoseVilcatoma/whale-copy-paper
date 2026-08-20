@@ -7564,8 +7564,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.088,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.73,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -13018,8 +13018,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "SDTrading"
     ],
@@ -13116,8 +13116,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -13320,5 +13320,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787194840.907238,
     "fills": 1
+  },
+  {
+    "timestamp": 1787195235,
+    "timestamp_added": 1787195235.944972,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-lad-col-2026-08-19",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 1624.1892,
+    "whale_pct": 0.652,
+    "whale_value_at_open": 249121.3117,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787195258.6531842,
+    "fills": 2
   }
 ]
