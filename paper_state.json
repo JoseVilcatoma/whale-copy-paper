@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.8731501226775,
+  "bankroll": 464.6189995850431,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2880,6 +2880,36 @@
       "timestamp": 1787228800.0378616,
       "bankroll": 468.87,
       "event": "won: ferrariChampions2026 \u2014 LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1787228863.5599837,
+      "bankroll": 463.75,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787228863.6601853,
+      "bankroll": 458.63,
+      "event": "lost: SineNooneEI \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787228863.7603858,
+      "bankroll": 463.51,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787228863.860583,
+      "bankroll": 458.42,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787228864.3329613,
+      "bankroll": 461.65,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787228864.433149,
+      "bankroll": 464.62,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 2 Winner"
     }
   ]
 }
