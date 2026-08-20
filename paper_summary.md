@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 19:12:06 (hora de Perú)
+Actualizado: 2026-08-19 19:14:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $457.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 19:12:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $452.08 en 91 posiciones abiertas (disponible para nuevas apuestas: $5.28)
+**Capital comprometido ahora mismo:** $457.08 en 92 posiciones abiertas (disponible para nuevas apuestas: $0.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
 | RN1 | 68 | 35 | 5 | -18.39 USD |
 | HomeRunHazard | 22 | 12 | 18 | -18.85 USD |
-| ferrariChampions2026 | 121 | 73 | 42 | -41.10 USD |
+| ferrariChampions2026 | 121 | 73 | 43 | -41.10 USD |
 
 ## Análisis general
 
@@ -162,6 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Valorant: G2 Esports vs M80 (BO3) - VCT  | G2 Esports (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 53% | 5.00 | 19.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Madison Keys vs Xiyu Wa | Madison Keys (BUY) | 74% | 4.47 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -175,8 +176,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Montevideo City Torque vs. CA Tigre: O/U | Over (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Nuno Borges vs Brandon  | Brandon Nakashima (BUY) | 79% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CD Coquimbo Unido win on 2026-08-19 | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -191,4 +192,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | CD Coquimbo Unido vs. CA Platense: O/U 2 | Under (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-2.5) | San Francisco Giants (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |

@@ -12230,8 +12230,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1068.9216,
-    "whale_pct": 0.254,
+    "whale_usd": 1961.1924999999999,
+    "whale_pct": 0.467,
     "whale_value_at_open": 420246.9549,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -12244,8 +12244,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787181740.1227872,
-    "fills": 1
+    "last_fill_at": 1787184827.7059095,
+    "fills": 2
   },
   {
     "timestamp": 1787181888,
@@ -12256,8 +12256,8 @@
     "title": "Valorant: G2 Esports vs M80 - Map 1 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 13634.645705,
-    "whale_pct": 3.053,
+    "whale_usd": 15613.515705,
+    "whale_pct": 3.496,
     "whale_value_at_open": 446664.6773,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -12268,8 +12268,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787184467.2130492,
-    "fills": 14
+    "last_fill_at": 1787184836.5384624,
+    "fills": 16
   },
   {
     "timestamp": 1787181893,
@@ -12587,5 +12587,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787184691.7378511,
     "fills": 1
+  },
+  {
+    "timestamp": 1787184840,
+    "timestamp_added": 1787184841.28304,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-g21-m80-2026-08-19",
+    "title": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 3468.8127999999997,
+    "whale_pct": 0.911,
+    "whale_value_at_open": 380683.6522,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787184841.7056653,
+    "fills": 2
   }
 ]
