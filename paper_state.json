@@ -1,5 +1,5 @@
 {
-  "bankroll": 463.13858490528617,
+  "bankroll": 468.8731501226775,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2875,6 +2875,11 @@
       "timestamp": 1787228619.226868,
       "bankroll": 463.14,
       "event": "lost: RN1 \u2014 ITF M25 Slovenj Gradec Men: Kirill Kivattsev vs Frederic Schlossmann"
+    },
+    {
+      "timestamp": 1787228800.0378616,
+      "bankroll": 468.87,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Dplus KIA vs Hanwha Life Esports (BO3) - LCK Round 3-4 Legend Group"
     }
   ]
 }
