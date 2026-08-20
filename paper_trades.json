@@ -14814,5 +14814,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787221645.727256,
     "fills": 1
+  },
+  {
+    "timestamp": 1787222027,
+    "timestamp_added": 1787222028.127386,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-drobysh-nag-2026-08-20",
+    "title": "ITF W35 Bistrita Women: Mariia Drobysheva vs Adrienn Nagy",
+    "outcome": "Mariia Drobysheva",
+    "side": "BUY",
+    "whale_usd": 674.6303999999999,
+    "whale_pct": 0.834,
+    "whale_value_at_open": 80921.6416,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787222028.1274009,
+    "fills": 1
   }
 ]
