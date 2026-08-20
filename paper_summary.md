@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 14:53:09 (hora de Perú)
+Actualizado: 2026-08-20 14:55:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $506.98
-**Retorno acumulado:** +1.40%
+**Bankroll actual:** $509.37
+**Retorno acumulado:** +1.87%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 14:53:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $346.98)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $364.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,28 +40,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 2 | -0.46 USD |
+| Sassy-Bucket | 4 | 4 | 2 | -2.70 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | ferrariChampions2026 | 166 | 95 | 2 | -6.06 USD |
-| Sassy-Bucket | 3 | 4 | 3 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 7 | 4 | -9.93 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | ChonkyChocolateCake | 1 | 3 | 3 | -10.65 USD |
-|  | 11 | 7 | 8 | -12.06 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+|  | 12 | 8 | 6 | -13.33 USD |
 | RN1 | 105 | 50 | 1 | -38.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 625
-- **Aciertos:** 407 (65.1%)
+- **Apuestas resueltas:** 628
+- **Aciertos:** 409 (65.1%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,120.45
-- **ROI sobre lo apostado:** -0.48%
-- **Comisiones pagadas (taker fee):** $55.97 (1.79% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,135.45
+- **ROI sobre lo apostado:** -0.40%
+- **Comisiones pagadas (taker fee):** $56.28 (1.79% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,8 +69,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 296 | 48.0% | 50.2% | -2.2 pp |
-| 60-79% | 204 | 74.5% | 68.1% | +6.4 pp |
+| 40-59% | 298 | 48.3% | 50.2% | -1.9 pp |
+| 60-79% | 205 | 74.1% | 68.1% | +6.1 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
 
@@ -212,7 +212,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 67.2% | ❌ perdida | -5.10 |
 | ChonkyChocolateCake | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 32.6% | ❌ perdida | -5.10 |
 | ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 61% | 5.00 | 31.0% | ⏳ pendiente | — |
-| Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 57% | 5.00 | 86.0% | ⏳ pendiente | — |
+| Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 57% | 5.00 | 86.0% | ✅ ganada | +3.66 |
 | CORGI8 | Counter-Strike: G2 vs FURIA (BO3) - Espo | G2 (BUY) | 45% | 5.00 | 163.0% | ⏳ pendiente | — |
 | Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 44% | 5.00 | 216.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Roehampton: Michael Geerts vs Lucas Poul | Michael Geerts (BUY) | 48% | 5.00 | 18.7% | ❌ perdida | -5.13 |
@@ -222,6 +222,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Athletics vs. Kansas City Royals | Athletics (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Nigma Galaxy (BUY) | 74% | 5.00 | 30.2% | 💰 vendida anticipada | +0.08 |
 | ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 57% | 5.00 | 8.5% | ❌ perdida | -5.11 |
-|  | Will FC København win on 2026-08-20? | Yes (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
+|  | Will FC København win on 2026-08-20? | Yes (BUY) | 63% | 5.00 | 7.4% | ❌ perdida | -5.09 |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Tommy Paul vs Flavio Co | Tommy Paul (BUY) | 61% | 5.00 | 130.7% | ⏳ pendiente | — |
 |  | PAOK vs. SK Brann: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |

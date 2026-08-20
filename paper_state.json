@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.97950626443816,
+  "bankroll": 509.370007517571,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3190,6 +3190,21 @@
       "timestamp": 1787255350.6606526,
       "bankroll": 506.98,
       "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 NORD vs Eintracht Spandau - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787255663.2886918,
+      "bankroll": 510.8,
+      "event": "won:  \u2014 Will FC Red Bull Salzburg win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787255664.3792977,
+      "bankroll": 505.71,
+      "event": "lost:  \u2014 Will FC K\u00f8benhavn win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787255666.7006338,
+      "bankroll": 509.37,
+      "event": "won: Sassy-Bucket \u2014 San Francisco Giants vs. Cleveland Guardians: O/U 6.5"
     }
   ]
 }
