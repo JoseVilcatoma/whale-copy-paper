@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 16:27:15 (hora de Perú)
+Actualizado: 2026-08-20 16:29:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $497.86
-**Retorno acumulado:** -0.43%
+**Bankroll actual:** $482.46
+**Retorno acumulado:** -3.51%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 16:27:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $382.86)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $377.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 12 | 1 | 1 | +12.78 USD |
 | casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| SDTrading | 8 | 6 | 2 | +5.37 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | predictionlegend | 3 | 2 | 1 | +2.64 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -40,28 +39,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| SDTrading | 8 | 8 | 0 | -4.90 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ChonkyChocolateCake | 3 | 3 | 1 | -5.17 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | ferrariChampions2026 | 166 | 95 | 2 | -6.06 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Sassy-Bucket | 4 | 5 | 2 | -7.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+| Sassy-Bucket | 4 | 6 | 2 | -12.97 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 8 | 3 | -15.06 USD |
 |  | 12 | 9 | 5 | -18.45 USD |
 | RN1 | 105 | 50 | 1 | -38.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 639
-- **Aciertos:** 414 (64.8%)
-- **Cuota promedio de entrada:** 63.9%
+- **Apuestas resueltas:** 642
+- **Aciertos:** 414 (64.5%)
+- **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,190.45
-- **ROI sobre lo apostado:** -0.75%
-- **Comisiones pagadas (taker fee):** $57.61 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,205.45
+- **ROI sobre lo apostado:** -1.23%
+- **Comisiones pagadas (taker fee):** $58.01 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 306 | 47.7% | 50.2% | -2.5 pp |
+| 40-59% | 309 | 47.2% | 50.1% | -2.9 pp |
 | 60-79% | 208 | 74.5% | 68.0% | +6.5 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
@@ -195,6 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 49% | 5.00 | 11.1% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 68% | 5.00 | 5.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Washington Nationals vs. Texas Rangers:  | Over (BUY) | 49% | 5.00 | 1655.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -202,7 +203,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 47% | 5.00 | 8.2% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 46% | 5.00 | 31.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: ⁠Movistar KOI Fénix vs Team Heretic | ⁠Movistar KOI Fénix (BUY) | 55% | 5.00 | 21.5% | ⏳ pendiente | — |
-| Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 54% | 5.00 | 17.9% | ✅ ganada | +4.14 |
 | IMAREALPERSON | Valorant: Team Liquid vs FUT Esports (BO | FUT Esports (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 124.3% | ✅ ganada | +3.10 |
@@ -223,5 +224,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Roehampton: Michael Geerts vs Lucas Poul | Michael Geerts (BUY) | 48% | 5.00 | 18.7% | ❌ perdida | -5.13 |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 47% | 5.00 | 73.9% | ❌ perdida | -5.13 |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 59% | 5.00 | 78.0% | ⏳ pendiente | — |
-| SDTrading | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
-| SDTrading | Athletics vs. Kansas City Royals | Athletics (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
+| SDTrading | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
