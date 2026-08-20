@@ -14552,8 +14552,8 @@
     "title": "ITF W50 Prague Women: Yelyzaveta Kotliar vs Pia Lovric",
     "outcome": "Pia Lovric",
     "side": "BUY",
-    "whale_usd": 2796.1200000000003,
-    "whale_pct": 4.007,
+    "whale_usd": 4552.662,
+    "whale_pct": 6.525,
     "whale_value_at_open": 69775.4224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -14564,8 +14564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787222503.7008119,
-    "fills": 3
+    "last_fill_at": 1787222594.413381,
+    "fills": 5
   },
   {
     "timestamp": 1787220863,
@@ -14602,8 +14602,8 @@
     "title": "ITF M25 Slovenj Gradec Men: Kirill Kivattsev vs Frederic Schlossmann",
     "outcome": "Kirill Kivattsev",
     "side": "BUY",
-    "whale_usd": 3922.679999,
-    "whale_pct": 5.622,
+    "whale_usd": 7250.666209,
+    "whale_pct": 10.391,
     "whale_value_at_open": 69775.4224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -14614,8 +14614,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787221033.7074773,
-    "fills": 3
+    "last_fill_at": 1787222554.3479412,
+    "fills": 6
   },
   {
     "timestamp": 1787221161,
