@@ -13222,5 +13222,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787194010.8238654,
     "fills": 1
+  },
+  {
+    "timestamp": 1787194209,
+    "timestamp_added": 1787194210.3343172,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fearnle-mcdonal-2026-08-18",
+    "title": "Quebec City: Jacob Fearnley vs Mackenzie McDonald",
+    "outcome": "Jacob Fearnley",
+    "side": "BUY",
+    "whale_usd": 908.1999999999999,
+    "whale_pct": 0.354,
+    "whale_value_at_open": 256686.8984,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787194210.3343306,
+    "fills": 1
   }
 ]

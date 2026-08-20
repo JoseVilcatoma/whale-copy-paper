@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:49:43 (hora de Perú)
+Actualizado: 2026-08-19 21:51:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.89
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 21:49:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $277.64)
+**Capital comprometido ahora mismo:** $208.25 en 42 posiciones abiertas (disponible para nuevas apuestas: $272.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 34 | 17 | 5 | -6.78 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
-| RN1 | 73 | 36 | 18 | -17.12 USD |
+| RN1 | 73 | 36 | 19 | -17.12 USD |
 | ferrariChampions2026 | 147 | 86 | 4 | -33.57 USD |
 
 ## Análisis general
@@ -164,6 +164,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Quebec City: Jacob Fearnley vs Mackenzie | Jacob Fearnley (BUY) | 97% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Dodgers (-2.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Yidi Yang vs Ch | Chenting Zhu (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 95% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -193,4 +194,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 53% | 5.00 | 19.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Madison Keys vs Xiyu Wa | Madison Keys (BUY) | 74% | 4.47 | 0.2% | ✅ ganada | +1.51 |
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.4% | ✅ ganada | +2.61 |
-| dauntlesswitness | Counter-Strike: Team Falcons vs TheMongo | Team Falcons (BUY) | 81% | 5.00 | 9.5% | ⏳ pendiente | — |
