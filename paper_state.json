@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.84126715435326,
+  "bankroll": 465.72426715435324,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2940,6 +2940,11 @@
       "timestamp": 1787232172.1314151,
       "bankroll": 470.84,
       "event": "venta anticipada: sulumos \u2014 LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend (+1.96 USD)"
+    },
+    {
+      "timestamp": 1787232821.830172,
+      "bankroll": 465.72,
+      "event": "lost:  \u2014 ITF W35 Erwitte Women: Eva Bennemann vs Tahlia Kokkinis"
     }
   ]
 }
