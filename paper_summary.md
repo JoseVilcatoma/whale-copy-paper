@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 06:00:26 (hora de Perú)
+Actualizado: 2026-08-20 06:02:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.54
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Ueberlingen Men: Denis Yevseyev  | Jannik Maute (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 46% | 5.00 | 6.3% | 💰 vendida anticipada | +0.27 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 52% | 5.00 | 13.7% | 💰 vendida anticipada | +0.24 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 56% | 5.00 | 29.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 56% | 5.00 | 32.5% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Mariia Drobyshev | Mariia Drobysheva (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Rosi | Luna Vujovic (BUY) | 71% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Roehampton: Oliver Tarvet vs Charles Bro | Oliver Tarvet (BUY) | 71% | 5.00 | 1.7% | ⏳ pendiente | — |

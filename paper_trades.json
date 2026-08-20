@@ -14848,8 +14848,8 @@
     "title": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 5849.9229,
-    "whale_pct": 29.574,
+    "whale_usd": 6420.2967,
+    "whale_pct": 32.458,
     "whale_value_at_open": 19780.5112,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -14862,8 +14862,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787223360.9793873,
-    "fills": 6
+    "last_fill_at": 1787223700.4228368,
+    "fills": 7
   },
   {
     "timestamp": 1787223147,
