@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 17:04:58 (hora de Perú)
+Actualizado: 2026-08-20 17:07:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.00
-**Retorno acumulado:** -3.60%
+**Bankroll actual:** $488.23
+**Retorno acumulado:** -2.35%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 17:04:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $377.00)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $388.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,9 +22,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
+| IMAREALPERSON | 13 | 1 | 0 | +19.00 USD |
 | Lakersfan111 | 3 | 0 | 4 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| IMAREALPERSON | 12 | 1 | 1 | +12.78 USD |
 | casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -54,14 +54,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 644
-- **Aciertos:** 415 (64.4%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 645
+- **Aciertos:** 416 (64.5%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,215.45
-- **ROI sobre lo apostado:** -1.24%
-- **Comisiones pagadas (taker fee):** $58.27 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.57% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,220.45
+- **ROI sobre lo apostado:** -1.04%
+- **Comisiones pagadas (taker fee):** $58.41 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 311 | 47.3% | 50.1% | -2.9 pp |
+| 40-59% | 312 | 47.4% | 50.1% | -2.7 pp |
 | 60-79% | 208 | 74.5% | 68.0% | +6.5 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
@@ -207,7 +207,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ChonkyChocolateCake | LoL: ⁠Movistar KOI Fénix vs Team Heretic | ⁠Movistar KOI Fénix (BUY) | 55% | 5.00 | 21.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ❌ perdida | -5.13 |
 | SDTrading | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 54% | 5.00 | 17.9% | ✅ ganada | +4.14 |
-| IMAREALPERSON | Valorant: Team Liquid vs FUT Esports (BO | FUT Esports (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
+| IMAREALPERSON | Valorant: Team Liquid vs FUT Esports (BO | FUT Esports (BUY) | 44% | 5.00 | 2.5% | ✅ ganada | +6.22 |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 124.3% | ✅ ganada | +3.10 |
 | danielwolfmorales3pddb6dl6 | LoL: ⁠Movistar KOI Fénix vs Team Heretic | Team Heretics Academy (BUY) | 47% | 5.00 | 11.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 49% | 5.00 | 21.1% | ✅ ganada | +5.08 |

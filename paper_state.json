@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.0021100520945,
+  "bankroll": 488.2257464157309,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3285,6 +3285,11 @@
       "timestamp": 1787263247.7420647,
       "bankroll": 482.0,
       "event": "lost: predictionlegend \u2014 K. Sint-Truidense VV vs. AS Om\u00f3noia Leukos\u00edas: O/U 2.5"
+    },
+    {
+      "timestamp": 1787263559.0226145,
+      "bankroll": 488.23,
+      "event": "won: IMAREALPERSON \u2014 Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs"
     }
   ]
 }
