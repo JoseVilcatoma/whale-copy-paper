@@ -16169,8 +16169,8 @@
     "title": "LoL: G2 NORD vs Eintracht Spandau - Game 2 Winner",
     "outcome": "G2 NORD",
     "side": "BUY",
-    "whale_usd": 5282.544,
-    "whale_pct": 20.972,
+    "whale_usd": 6019.3436,
+    "whale_pct": 23.897,
     "whale_value_at_open": 25188.8385,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -16181,7 +16181,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787241845.4095495,
-    "fills": 2
+    "last_fill_at": 1787241974.5438857,
+    "fills": 3
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 11:04:38 (hora de Perú)
+Actualizado: 2026-08-20 11:06:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.97
@@ -192,7 +192,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 61% | 5.00 | 21.0% | ⏳ pendiente | — |
+| ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 61% | 5.00 | 23.9% | ⏳ pendiente | — |
 | Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 57% | 5.00 | 40.8% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: G2 vs FURIA (BO3) - Espo | G2 (BUY) | 45% | 5.00 | 163.0% | ⏳ pendiente | — |
 | Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 44% | 5.00 | 62.1% | ⏳ pendiente | — |
