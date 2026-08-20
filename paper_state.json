@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.3122120210648,
+  "bankroll": 460.2230515272376,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2790,6 +2790,21 @@
       "timestamp": 1787224437.7754505,
       "bankroll": 469.31,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner (+0.77 USD)"
+    },
+    {
+      "timestamp": 1787224667.404329,
+      "bankroll": 464.2,
+      "event": "lost:  \u2014 ITF M25 Slovenj Gradec Men: Mili Poljicak vs Sebastian Dominko"
+    },
+    {
+      "timestamp": 1787224667.5045202,
+      "bankroll": 459.1,
+      "event": "lost: RN1 \u2014 ITF M25 Slovenj Gradec Men: Mili Poljicak vs Sebastian Dominko"
+    },
+    {
+      "timestamp": 1787224668.5065267,
+      "bankroll": 460.22,
+      "event": "won: RN1 \u2014 ITF M25 Slovenj Gradec Men: Mili Poljicak vs Sebastian Dominko"
     }
   ]
 }
