@@ -14602,8 +14602,8 @@
     "title": "ITF M25 Slovenj Gradec Men: Kirill Kivattsev vs Frederic Schlossmann",
     "outcome": "Kirill Kivattsev",
     "side": "BUY",
-    "whale_usd": 1705.583333,
-    "whale_pct": 2.444,
+    "whale_usd": 3922.679999,
+    "whale_pct": 5.622,
     "whale_value_at_open": 69775.4224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -14614,7 +14614,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787220892.351572,
-    "fills": 1
+    "last_fill_at": 1787221033.7074773,
+    "fills": 3
   }
 ]
