@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 02:15:36 (hora de Perú)
+Actualizado: 2026-08-20 02:17:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.50
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 02:15:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $364.50)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $359.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-|  | 4 | 3 | 4 | -7.15 USD |
+|  | 4 | 3 | 5 | -7.15 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 89 | 43 | 4 | -27.70 USD |
 | ferrariChampions2026 | 149 | 87 | 8 | -33.59 USD |
@@ -164,11 +164,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-sabalen-bejlek-2026-08-19 | , 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, RN1 |
 | dota2-ironwi-ts8-2026-08-19-game2 | , ferrariChampions2026 |
 | dota2-vsn2-boombo-2026-08-20-game1 | , ferrariChampions2026 |
+| dota2-vsn2-boombo-2026-08-20 | , ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 90% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Prague 2: Norbert Gombos vs Radu Mihai P | Norbert Gombos (BUY) | 42% | 5.00 | 24.5% | ⏳ pendiente | — |
 |  | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan | Yu Hsiou Hsu (BUY) | 97% | 5.00 | 6.9% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Tiana Tian Deng | Peangtarn Plipuech (BUY) | 73% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -198,4 +200,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Tianjin 3 Women: Yidi Yang vs Ch | Chenting Zhu (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
 | RN1 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
 | RN1 | Los Angeles Galaxy vs. San Jose Earthqua | Over (BUY) | 46% | 5.00 | 0.6% | ❌ perdida | -5.13 |
-| RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 2.3% | ✅ ganada | +0.05 |
