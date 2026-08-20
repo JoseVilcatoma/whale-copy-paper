@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.356808083928,
+  "bankroll": 495.50344725918575,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2530,6 +2530,11 @@
       "timestamp": 1787196548.73048,
       "bankroll": 495.36,
       "event": "won: theowalcott \u2014 Orlando City SC vs. Chicago Fire FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787196741.6150012,
+      "bankroll": 495.5,
+      "event": "won: RN1 \u2014 Quebec City: Jacob Fearnley vs Mackenzie McDonald"
     }
   ]
 }
