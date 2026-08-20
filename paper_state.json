@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.14158490528615,
+  "bankroll": 463.13858490528617,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2870,6 +2870,11 @@
       "timestamp": 1787228374.7649875,
       "bankroll": 468.14,
       "event": "won: RN1 \u2014 Sion: Dominic Stephan Stricker vs Mika Brunold"
+    },
+    {
+      "timestamp": 1787228619.226868,
+      "bankroll": 463.14,
+      "event": "lost: RN1 \u2014 ITF M25 Slovenj Gradec Men: Kirill Kivattsev vs Frederic Schlossmann"
     }
   ]
 }
