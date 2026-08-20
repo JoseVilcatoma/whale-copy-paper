@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.0296048763609,
+  "bankroll": 486.2043228726504,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2640,6 +2640,21 @@
       "timestamp": 1787201283.3324425,
       "bankroll": 480.03,
       "event": "lost: Sassy-Bucket \u2014 Minnesota Lynx vs. Golden State Valkyries: O/U 163.5"
+    },
+    {
+      "timestamp": 1787201410.786522,
+      "bankroll": 474.9,
+      "event": "lost: HomeRunHazard \u2014 Minnesota Lynx vs. Golden State Valkyries: O/U 162.5"
+    },
+    {
+      "timestamp": 1787201410.9869509,
+      "bankroll": 479.98,
+      "event": "won: HomeRunHazard \u2014 Minnesota Lynx vs. Golden State Valkyries: O/U 162.5"
+    },
+    {
+      "timestamp": 1787201411.7163372,
+      "bankroll": 486.2,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Yidi Yang vs Chenting Zhu"
     }
   ]
 }

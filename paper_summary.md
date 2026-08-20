@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 23:49:53 (hora de Perú)
+Actualizado: 2026-08-19 23:51:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $480.03
-**Retorno acumulado:** -3.99%
+**Bankroll actual:** $486.20
+**Retorno acumulado:** -2.76%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 23:49:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $385.03)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $406.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,20 +42,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 |  | 4 | 3 | 2 | -7.15 USD |
-| HomeRunHazard | 35 | 19 | 2 | -12.66 USD |
-| RN1 | 84 | 41 | 8 | -27.23 USD |
+| HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+| RN1 | 85 | 41 | 7 | -21.01 USD |
 | ferrariChampions2026 | 149 | 87 | 2 | -33.59 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 527
-- **Aciertos:** 345 (65.5%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 530
+- **Aciertos:** 347 (65.5%)
+- **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,630.45
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $46.56 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,645.45
+- **ROI sobre lo apostado:** -0.56%
+- **Comisiones pagadas (taker fee):** $46.95 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -63,7 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 242 | 47.9% | 50.2% | -2.3 pp |
+| 40-59% | 245 | 48.2% | 50.2% | -2.0 pp |
 | 60-79% | 176 | 74.4% | 68.3% | +6.1 pp |
 | 80-94% | 72 | 84.7% | 87.1% | -2.4 pp |
 | 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 82% | 5.00 | 1.7% | ❌ perdida | -5.04 |
 | RN1 | Quebec City: Jacob Fearnley vs Mackenzie | Jacob Fearnley (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |
 | RN1 | Spread: Los Angeles Dodgers (-2.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.4% | ✅ ganada | +4.32 |
-| RN1 | ITF W15 Tianjin 3 Women: Yidi Yang vs Ch | Chenting Zhu (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Yidi Yang vs Ch | Chenting Zhu (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
 | RN1 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
 | RN1 | Los Angeles Galaxy vs. San Jose Earthqua | Over (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 2.3% | ✅ ganada | +0.05 |
@@ -197,4 +197,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | RN1 | Will Portland Timbers win on 2026-08-19? | No (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ❌ perdida | -5.04 |
-| HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 49% | 5.00 | 0.3% | ✅ ganada | +5.08 |
