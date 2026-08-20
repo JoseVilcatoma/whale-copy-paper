@@ -14062,5 +14062,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787213720.4680924,
     "fills": 5
+  },
+  {
+    "timestamp": 1787213816,
+    "timestamp_added": 1787213816.9121034,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "lol-dk-hle1-2026-08-20-game1",
+    "title": "LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 6277.2002999999995,
+    "whale_pct": 70.089,
+    "whale_value_at_open": 8956.0864,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SineNooneEI",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787213817.3410661,
+    "fills": 4
   }
 ]
