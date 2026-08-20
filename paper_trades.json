@@ -15249,5 +15249,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787227752.0695393,
     "fills": 1
+  },
+  {
+    "timestamp": 1787228013,
+    "timestamp_added": 1787228014.3591266,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "uel-egn-lil1-2026-08-20-total-2pt5",
+    "title": "KF Egnatia Rrogozhin\u00eb vs. Lillestr\u00f8m SK: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 950.639999,
+    "whale_pct": 1.188,
+    "whale_value_at_open": 80001.2941,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787228014.3591383,
+    "fills": 1
   }
 ]
