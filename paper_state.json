@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.9387685136318,
+  "bankroll": 464.0228985287741,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2290,6 +2290,56 @@
       "timestamp": 1787190933.2389224,
       "bankroll": 462.94,
       "event": "won: ferrariChampions2026 \u2014 Columbus Crew vs. CF Montr\u00e9al: O/U 4.5"
+    },
+    {
+      "timestamp": 1787191234.3985858,
+      "bankroll": 457.8,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787191236.9539962,
+      "bankroll": 459.49,
+      "event": "won: RN1 \u2014 Spread: SE Palmeiras (-1.5)"
+    },
+    {
+      "timestamp": 1787191237.572004,
+      "bankroll": 462.09,
+      "event": "won: ferrariChampions2026 \u2014 Club Cerro Porte\u00f1o vs. SE Palmeiras: O/U 2.5"
+    },
+    {
+      "timestamp": 1787191238.3595657,
+      "bankroll": 462.94,
+      "event": "won: ferrariChampions2026 \u2014 Will Club Cerro Porte\u00f1o win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191239.3378458,
+      "bankroll": 465.78,
+      "event": "won: SDTrading \u2014 Spread: Cincinnati Reds (-1.5)"
+    },
+    {
+      "timestamp": 1787191239.5917943,
+      "bankroll": 460.66,
+      "event": "lost: theowalcott \u2014 Will FC Cincinnati win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191239.6919851,
+      "bankroll": 464.97,
+      "event": "won: ferrariChampions2026 \u2014 Will FC Cincinnati win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191241.9204698,
+      "bankroll": 468.95,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1787191242.020683,
+      "bankroll": 463.82,
+      "event": "lost: ferrariChampions2026 \u2014 Will FC Cincinnati win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191242.9002008,
+      "bankroll": 464.02,
+      "event": "won: ferrariChampions2026 \u2014 Toronto FC vs. Charlotte FC: O/U 1.5"
     }
   ]
 }
