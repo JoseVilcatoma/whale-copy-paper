@@ -1,5 +1,5 @@
 {
-  "bankroll": 461.75919651398027,
+  "bankroll": 466.4411180826077,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2970,6 +2970,11 @@
       "timestamp": 1787235176.914258,
       "bankroll": 461.76,
       "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Semen Pankin vs Drazen Petrovic"
+    },
+    {
+      "timestamp": 1787235610.7005513,
+      "bankroll": 466.44,
+      "event": "won: ferrariChampions2026 \u2014 ITF M25 Ueberlingen Men: Tim Handel vs Adrian Oetzbach"
     }
   ]
 }
