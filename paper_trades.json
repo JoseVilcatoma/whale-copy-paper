@@ -13574,5 +13574,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787204425.4519885,
     "fills": 1
+  },
+  {
+    "timestamp": 1787205986,
+    "timestamp_added": 1787205987.013549,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-vsn2-boombo-2026-08-20-game1",
+    "title": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "whale_usd": 968.6456,
+    "whale_pct": 0.851,
+    "whale_value_at_open": 113845.4497,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787205987.0135608,
+    "fills": 1
   }
 ]
