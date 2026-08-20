@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 06:41:35 (hora de Perú)
+Actualizado: 2026-08-20 06:43:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $460.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 06:41:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $205.22)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $200.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
 |  | 7 | 5 | 3 | -12.08 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| RN1 | 92 | 46 | 11 | -38.81 USD |
+| RN1 | 92 | 46 | 12 | -38.81 USD |
 | ferrariChampions2026 | 152 | 90 | 21 | -40.43 USD |
 
 ## Análisis general
@@ -182,8 +182,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Matias Reyn | Matias Reyniak (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs Kiwoom DRX -  | Nongshim Red Force (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 99% | 5.00 | 144.6% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 99% | 5.00 | 153.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 51% | 5.00 | 12.3% | ⏳ pendiente | — |
 |  | Counter-Strike: Natus Vincere vs Legacy  | Natus Vincere (BUY) | 53% | 5.00 | 0.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 49% | 5.00 | 19.4% | 💰 vendida anticipada | +0.77 |
@@ -211,4 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 9.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | ThunderTalk Gaming (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 44% | 5.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 59% | 5.00 | 1.1% | ❌ perdida | -5.10 |

@@ -15110,8 +15110,8 @@
     "title": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 17943.0471,
-    "whale_pct": 144.578,
+    "whale_usd": 19032.0372,
+    "whale_pct": 153.353,
     "whale_value_at_open": 12410.5963,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -15125,8 +15125,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787226016.6713269,
-    "fills": 7
+    "last_fill_at": 1787226097.782221,
+    "fills": 8
   },
   {
     "timestamp": 1787226073,
@@ -15150,6 +15150,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787226075.1696382,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787226111,
+    "timestamp_added": 1787226111.9980404,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-reyniak-colombo-2026-08-20",
+    "title": "ITF M25 Idanha-a-Nova 2 Men: Matias Reyniak vs Andrea Colombo",
+    "outcome": "Matias Reyniak",
+    "side": "BUY",
+    "whale_usd": 1828.4277,
+    "whale_pct": 1.44,
+    "whale_value_at_open": 127005.3072,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787226148.117932,
     "fills": 2
   }
 ]
