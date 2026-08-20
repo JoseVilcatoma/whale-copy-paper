@@ -14378,8 +14378,8 @@
     "title": "ITF W35 Bistrita Women: Diana-Ioana Simionescu vs Carolina Kuhl",
     "outcome": "Carolina Kuhl",
     "side": "BUY",
-    "whale_usd": 1181.6,
-    "whale_pct": 2.063,
+    "whale_usd": 1901.1121949999997,
+    "whale_pct": 3.319,
     "whale_value_at_open": 57279.0058,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -14390,7 +14390,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787219043.1954932,
-    "fills": 1
+    "last_fill_at": 1787219428.7221124,
+    "fills": 2
   }
 ]

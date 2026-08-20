@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 04:48:53 (hora de Perú)
+Actualizado: 2026-08-20 04:50:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.81
@@ -176,7 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF W35 Bistrita Women: Diana-Ioana Simi | Carolina Kuhl (BUY) | 71% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | ITF W35 Bistrita Women: Diana-Ioana Simi | Carolina Kuhl (BUY) | 71% | 5.00 | 3.3% | ⏳ pendiente | — |
 |  | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 62% | 5.00 | 2.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 60% | 5.00 | 27.5% | ⏳ pendiente | — |
