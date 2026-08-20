@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:27:28 (hora de Perú)
+Actualizado: 2026-08-20 18:29:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 18:27:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $263.92)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $258.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ChonkyChocolateCake | 3 | 3 | 1 | -5.17 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
-| ferrariChampions2026 | 166 | 95 | 14 | -6.06 USD |
+| ferrariChampions2026 | 166 | 95 | 15 | -6.06 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 |  | 15 | 9 | 2 | -7.98 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -194,19 +194,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | val-sen-2game-2026-08-20-game2 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20-total-7pt5 | RN1, Sassy-Bucket |
 | mlb-nyy-bal-2026-08-20 | RN1, Sassy-Bucket, ferrariChampions2026 |
+| atp-magadan-wong-2026-08-20 | RN1, ferrariChampions2026 |
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 93% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 54% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M (BO3) | KRÜ Esports (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 62% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CSyD Macará win on 2026-08-20? | Yes (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 62% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Elena Rybakina (BUY) | 44% | 5.00 | 3.5% | ⏳ pendiente | — |
@@ -219,7 +221,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Spread: LV (-1.5) | LV (BUY) | 50% | 5.00 | 35.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LDU de Quito vs. Mirassol FC: O/U 2.5 | Under (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Pedro Mar | Juan Carlos Prado (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Henrique Rocha vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 95% | 5.00 | 2.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Henrique Rocha vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 95% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Santos FC win on 2026-08-20? | No (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Mirassol FC win on 2026-08-20? | No (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will LDU de Quito win on 2026-08-20? | Yes (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -229,4 +231,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: BB (-1.5) vs Iron Wing (+ | Iron Wing (BUY) | 71% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Lakersfan111 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 63% | 5.00 | 4.1% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 41% | 5.00 | 3.9% | ⏳ pendiente | — |
-| Sassy-Bucket | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 52% | 5.00 | 36.8% | ⏳ pendiente | — |

@@ -16988,8 +16988,8 @@
     "title": "Cancun: Henrique Rocha vs Hubert Hurkacz",
     "outcome": "Hubert Hurkacz",
     "side": "BUY",
-    "whale_usd": 5139.426808,
-    "whale_pct": 2.285,
+    "whale_usd": 6585.426808,
+    "whale_pct": 2.928,
     "whale_value_at_open": 224926.697,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -17000,8 +17000,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787268228.978494,
-    "fills": 4
+    "last_fill_at": 1787268451.157265,
+    "fills": 5
   },
   {
     "timestamp": 1787266225,
@@ -17311,8 +17311,8 @@
     "title": "Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 966.1929999999999,
-    "whale_pct": 0.426,
+    "whale_usd": 1668.9674,
+    "whale_pct": 0.736,
     "whale_value_at_open": 226800.3083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -17323,8 +17323,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787267641.3915613,
-    "fills": 1
+    "last_fill_at": 1787268541.084164,
+    "fills": 2
   },
   {
     "timestamp": 1787267784,
@@ -17462,8 +17462,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 5486.515907999999,
-    "whale_pct": 2.123,
+    "whale_usd": 9969.533086,
+    "whale_pct": 3.858,
     "whale_value_at_open": 258399.1521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -17477,7 +17477,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787268447.097143,
-    "fills": 2
+    "last_fill_at": 1787268457.405416,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787268452,
+    "timestamp_added": 1787268452.9619496,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-magadan-wong-2026-08-20",
+    "title": "Cancun: Alan Magadan vs Coleman Wong",
+    "outcome": "Coleman Wong",
+    "side": "BUY",
+    "whale_usd": 7677.3423999999995,
+    "whale_pct": 2.971,
+    "whale_value_at_open": 258399.1521,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787268453.808844,
+    "fills": 3
   }
 ]
