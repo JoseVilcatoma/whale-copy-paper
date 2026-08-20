@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.49877651338414,
+  "bankroll": 474.81405021817403,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2745,6 +2745,21 @@
       "timestamp": 1787217051.7908378,
       "bankroll": 474.5,
       "event": "lost: RN1 \u2014 Will Portland Timbers win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787218316.9730897,
+      "bankroll": 476.99,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787218317.4809334,
+      "bankroll": 471.84,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787218317.8779287,
+      "bankroll": 474.81,
+      "event": "won:  \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner"
     }
   ]
 }

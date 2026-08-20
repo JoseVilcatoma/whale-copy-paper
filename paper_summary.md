@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 04:30:20 (hora de Perú)
+Actualizado: 2026-08-20 04:32:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $474.50
-**Retorno acumulado:** -5.10%
+**Bankroll actual:** $474.81
+**Retorno acumulado:** -5.04%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 04:30:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $319.50)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $334.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,22 +42,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-|  | 6 | 4 | 3 | -9.94 USD |
+|  | 7 | 4 | 2 | -6.97 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 91 | 44 | 1 | -29.77 USD |
-| ferrariChampions2026 | 150 | 88 | 16 | -36.07 USD |
+| ferrariChampions2026 | 151 | 89 | 14 | -38.72 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 546
-- **Aciertos:** 357 (65.4%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 549
+- **Aciertos:** 359 (65.4%)
+- **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,725.45
-- **ROI sobre lo apostado:** -1.04%
-- **Comisiones pagadas (taker fee):** $48.28 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.73% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,740.45
+- **ROI sobre lo apostado:** -1.03%
+- **Comisiones pagadas (taker fee):** $48.60 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -65,8 +65,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 251 | 47.4% | 50.1% | -2.7 pp |
-| 60-79% | 182 | 74.7% | 68.4% | +6.3 pp |
+| 40-59% | 252 | 47.2% | 50.1% | -2.9 pp |
+| 60-79% | 184 | 75.0% | 68.4% | +6.6 pp |
 | 80-94% | 75 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 38 | 100.0% | 97.2% | +2.8 pp |
 
@@ -200,9 +200,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan | Yu Hsiou Hsu (BUY) | 97% | 5.00 | 6.9% | ✅ ganada | +0.15 |
 | RN1 | ITF W15 Tianjin 3 Women: Tiana Tian Deng | Peangtarn Plipuech (BUY) | 73% | 5.00 | 4.3% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 58% | 5.00 | 3.1% | ⏳ pendiente | — |
-|  | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 62% | 5.00 | 2.5% | ⏳ pendiente | — |
+|  | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 62% | 5.00 | 2.5% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 7.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 7.7% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | ITF M25 Ueberlingen Men: Tim Handel vs A | Tim Handel (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Weiyi Kong vs M  | M Rifqi Fitriadi (BUY) | 79% | 5.00 | 1.5% | ✅ ganada | +1.28 |
