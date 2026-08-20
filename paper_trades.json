@@ -15436,13 +15436,15 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787231017.899398,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.11,
+    "closed_price": 100
   },
   {
     "timestamp": 1787231648,
@@ -15764,6 +15766,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787236763.6785564,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787237003,
+    "timestamp_added": 1787237003.9701662,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-kouame-burruch-2026-08-20",
+    "title": "Cancun: Moise Kouame vs Roman Andres Burruchaga",
+    "outcome": "Roman Andres Burruchaga",
+    "side": "BUY",
+    "whale_usd": 2597.4,
+    "whale_pct": 3.173,
+    "whale_value_at_open": 81862.8971,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787237003.970211,
     "fills": 1
   }
 ]
