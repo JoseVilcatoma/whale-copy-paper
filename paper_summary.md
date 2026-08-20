@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:37:50 (hora de Perú)
+Actualizado: 2026-08-20 18:39:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.92
-**Retorno acumulado:** -2.22%
+**Bankroll actual:** $483.88
+**Retorno acumulado:** -3.22%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 18:37:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $248.92)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $248.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,23 +45,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | ferrariChampions2026 | 166 | 95 | 17 | -6.06 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-|  | 15 | 9 | 2 | -7.98 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 4 | 6 | 5 | -12.97 USD |
+|  | 15 | 10 | 1 | -13.01 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 9 | 2 | -20.16 USD |
 | RN1 | 105 | 50 | 9 | -38.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 648
-- **Aciertos:** 418 (64.5%)
-- **Cuota promedio de entrada:** 63.7%
+- **Apuestas resueltas:** 649
+- **Aciertos:** 418 (64.4%)
+- **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,235.45
-- **ROI sobre lo apostado:** -1.02%
-- **Comisiones pagadas (taker fee):** $58.70 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,240.45
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $58.73 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 313 | 47.6% | 50.1% | -2.5 pp |
 | 60-79% | 210 | 74.3% | 68.0% | +6.3 pp |
-| 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
+| 80-94% | 81 | 85.2% | 86.9% | -1.7 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -219,7 +219,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 85% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 3.5% | ⏳ pendiente | — |
 | SDTrading | Spread: LV (-1.5) | LV (BUY) | 50% | 5.00 | 35.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LDU de Quito vs. Mirassol FC: O/U 2.5 | Under (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Pedro Mar | Juan Carlos Prado (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |

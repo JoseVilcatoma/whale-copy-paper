@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.9163772473739,
+  "bankroll": 483.88337724737386,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3305,6 +3305,11 @@
       "timestamp": 1787266709.3899717,
       "bankroll": 488.92,
       "event": "won:  \u2014 Will Shamrock Rovers FC win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787269183.4612947,
+      "bankroll": 483.88,
+      "event": "lost:  \u2014 LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs"
     }
   ]
 }

@@ -15684,8 +15684,8 @@
     "odds_at_bet": 87,
     "fee_usd": 0.033,
     "odds_ballena": 85,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -17084,8 +17084,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 1250.42,
-    "whale_pct": 0.534,
+    "whale_usd": 8088.237800000001,
+    "whale_pct": 3.457,
     "whale_value_at_open": 233958.6927,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -17098,8 +17098,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787266429.0002644,
-    "fills": 2
+    "last_fill_at": 1787269127.3798354,
+    "fills": 3
   },
   {
     "timestamp": 1787266962,
