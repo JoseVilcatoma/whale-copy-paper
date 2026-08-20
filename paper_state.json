@@ -1,5 +1,5 @@
 {
-  "bankroll": 485.40068759220145,
+  "bankroll": 488.9163772473739,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3300,6 +3300,11 @@
       "timestamp": 1787264813.8085394,
       "bankroll": 485.4,
       "event": "won:  \u2014 Spread: KAA Gent (-1.5)"
+    },
+    {
+      "timestamp": 1787266709.3899717,
+      "bankroll": 488.92,
+      "event": "won:  \u2014 Will Shamrock Rovers FC win on 2026-08-20?"
     }
   ]
 }
