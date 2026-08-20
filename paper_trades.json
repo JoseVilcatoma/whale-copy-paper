@@ -13996,8 +13996,8 @@
     "title": "LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 11371.378997,
-    "whale_pct": 8.081,
+    "whale_usd": 12866.343397,
+    "whale_pct": 9.144,
     "whale_value_at_open": 140715.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -14008,8 +14008,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787214159.1819754,
-    "fills": 8
+    "last_fill_at": 1787214428.3447936,
+    "fills": 9
   },
   {
     "timestamp": 1787213273,
@@ -14173,8 +14173,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 1413.167317,
-    "whale_pct": 0.774,
+    "whale_usd": 3357.715317,
+    "whale_pct": 1.84,
     "whale_value_at_open": 182462.7553,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -14185,7 +14185,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787214338.334823,
-    "fills": 2
+    "last_fill_at": 1787214529.4717495,
+    "fills": 4
+  },
+  {
+    "timestamp": 1787214450,
+    "timestamp_added": 1787214451.0829117,
+    "username": "SineNooneEI",
+    "wallet": "0x38337de21ff0bb0a11a40761507d51e318d633d1",
+    "slug": "val-zeta2-xe-2026-08-20",
+    "title": "Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In",
+    "outcome": "Xipto Esports",
+    "side": "BUY",
+    "whale_usd": 3520.0,
+    "whale_pct": 18.824,
+    "whale_value_at_open": 18700,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787214451.0829265,
+    "fills": 1
   }
 ]

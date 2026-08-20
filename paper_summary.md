@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 03:27:01 (hora de Perú)
+Actualizado: 2026-08-20 03:29:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 03:27:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $332.64)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $327.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
-| SineNooneEI | 0 | 0 | 1 | +0.00 USD |
+| SineNooneEI | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
@@ -173,14 +173,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
+| SineNooneEI | Valorant: ZETA DIVISION vs Xipto Esports | Xipto Esports (BUY) | 45% | 5.00 | 18.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF M15 Lambermont Men: Noah Schlagenhau | Stijn Paardekooper (BUY) | 47% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports (B | Hanwha Life Esports (BUY) | 46% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 64% | 5.00 | 70.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 50% | 5.00 | 6.2% | ⏳ pendiente | — |
 | SineNooneEI | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 52% | 5.00 | 108.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 51% | 5.00 | 8.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 51% | 5.00 | 9.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | TEAM VISION (BUY) | 66% | 5.00 | 14.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-8.5) | Los Angeles Sparks (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-14.5) | Las Vegas Aces (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -202,4 +203,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Team Spirit (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 63% | 5.00 | 2.9% | ❌ perdida | -5.09 |
 |  | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 69% | 5.00 | 0.5% | ✅ ganada | +2.17 |
-|  | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 57% | 5.00 | 1.2% | ❌ perdida | -5.11 |
