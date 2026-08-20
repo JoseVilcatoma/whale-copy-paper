@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.9065857873243,
+  "bankroll": 505.94582886699357,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2545,6 +2545,31 @@
       "timestamp": 1787199646.2303371,
       "bankroll": 498.91,
       "event": "won: RN1 \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 10.5"
+    },
+    {
+      "timestamp": 1787199703.858827,
+      "bankroll": 501.4,
+      "event": "won: ferrariChampions2026 \u2014 Los Angeles Dodgers vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1787199705.1469235,
+      "bankroll": 505.71,
+      "event": "won: Sassy-Bucket \u2014 Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1787199705.8403583,
+      "bankroll": 506.77,
+      "event": "won: RN1 \u2014 Los Angeles Dodgers vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1787199707.4903762,
+      "bankroll": 511.08,
+      "event": "won: RN1 \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1787199707.940396,
+      "bankroll": 505.95,
+      "event": "lost: RN1 \u2014 Los Angeles Dodgers vs. Colorado Rockies"
     }
   ]
 }
