@@ -13914,5 +13914,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787212316.8152745,
     "fills": 1
+  },
+  {
+    "timestamp": 1787212424,
+    "timestamp_added": 1787212424.7985573,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-conn-las-2026-08-20-spread-home-14pt5",
+    "title": "Spread: Las Vegas Aces (-14.5)",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 1034.9823000000001,
+    "whale_pct": 0.843,
+    "whale_value_at_open": 122817.2577,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787212424.798569,
+    "fills": 1
   }
 ]

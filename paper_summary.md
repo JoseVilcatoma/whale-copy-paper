@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 02:52:12 (hora de Perú)
+Actualizado: 2026-08-20 02:54:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 02:52:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $387.64)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $382.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 5 | 4 | 4 | -10.09 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 91 | 43 | 2 | -24.64 USD |
-| ferrariChampions2026 | 150 | 88 | 6 | -36.07 USD |
+| ferrariChampions2026 | 150 | 88 | 7 | -36.07 USD |
 
 ## Análisis general
 
@@ -170,6 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Las Vegas Aces (-14.5) | Las Vegas Aces (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Spread: KAA Gent (-1.5) | Hibernian FC (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 56% | 5.00 | 16.9% | ⏳ pendiente | — |
 |  | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 90% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -199,4 +200,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 82% | 5.00 | 1.7% | ❌ perdida | -5.04 |
 | RN1 | Quebec City: Jacob Fearnley vs Mackenzie | Jacob Fearnley (BUY) | 97% | 5.00 | 0.4% | ✅ ganada | +0.15 |
 | RN1 | Spread: Los Angeles Dodgers (-2.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.4% | ✅ ganada | +4.32 |
-| RN1 | ITF W15 Tianjin 3 Women: Yidi Yang vs Ch | Chenting Zhu (BUY) | 44% | 5.00 | 0.6% | ✅ ganada | +6.22 |
