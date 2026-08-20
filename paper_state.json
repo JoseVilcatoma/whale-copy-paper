@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.95787331162245,
+  "bankroll": 474.91287331162243,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2460,6 +2460,11 @@
       "timestamp": 1787192797.0546248,
       "bankroll": 479.96,
       "event": "lost: ferrariChampions2026 \u2014 Valorant: G2 Esports vs M80 - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787193171.9720342,
+      "bankroll": 474.91,
+      "event": "lost: HomeRunHazard \u2014 Athletics vs. Kansas City Royals"
     }
   ]
 }

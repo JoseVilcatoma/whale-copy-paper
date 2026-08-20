@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:30:55 (hora de Perú)
+Actualizado: 2026-08-19 21:32:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $479.96
-**Retorno acumulado:** -4.01%
+**Bankroll actual:** $474.91
+**Retorno acumulado:** -5.02%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 21:30:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $198.25 en 40 posiciones abiertas (disponible para nuevas apuestas: $281.71)
+**Capital comprometido ahora mismo:** $193.25 en 39 posiciones abiertas (disponible para nuevas apuestas: $281.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 1 | 1 | 1 | -0.25 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| HomeRunHazard | 34 | 16 | 6 | -1.74 USD |
 |  | 3 | 2 | 1 | -3.59 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 3 | 0 | -4.18 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Sassy-Bucket | 2 | 3 | 2 | -5.55 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
+| HomeRunHazard | 34 | 17 | 5 | -6.78 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
 | RN1 | 73 | 36 | 15 | -17.12 USD |
@@ -47,14 +47,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 491
-- **Aciertos:** 321 (65.4%)
+- **Apuestas resueltas:** 492
+- **Aciertos:** 321 (65.2%)
 - **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,452.20
-- **ROI sobre lo apostado:** -0.86%
-- **Comisiones pagadas (taker fee):** $43.57 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,457.20
+- **ROI sobre lo apostado:** -1.06%
+- **Comisiones pagadas (taker fee):** $43.62 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.71% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,7 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 227 | 47.6% | 50.2% | -2.6 pp |
 | 60-79% | 163 | 74.2% | 68.2% | +6.0 pp |
-| 80-94% | 68 | 86.8% | 87.4% | -0.6 pp |
+| 80-94% | 69 | 85.5% | 87.3% | -1.8 pp |
 | 95-99% (casi seguro) | 33 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -177,7 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Los Angeles Galaxy win on 2026-08-1 | No (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | RN1 | Will Portland Timbers win on 2026-08-19? | No (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ⏳ pendiente | — |
+| HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ❌ perdida | -5.04 |
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-19? | Yes (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
