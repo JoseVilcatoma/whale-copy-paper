@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 06:23:02 (hora de Perú)
+Actualizado: 2026-08-20 06:25:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $460.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 06:23:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $220.22)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $215.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| IMAREALPERSON | 5 | 0 | 0 | +3.26 USD |
+| IMAREALPERSON | 5 | 0 | 1 | +3.26 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
@@ -182,6 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 51% | 5.00 | 12.3% | ⏳ pendiente | — |
 |  | Counter-Strike: Natus Vincere vs Legacy  | Natus Vincere (BUY) | 53% | 5.00 | 0.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 49% | 5.00 | 19.4% | 💰 vendida anticipada | +0.77 |
 | RN1 | Sion: Dominic Stephan Stricker vs Mika B | Dominic Stephan Stricker (BUY) | 97% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -211,4 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 59% | 5.00 | 1.1% | ❌ perdida | -5.10 |
 | RN1 | ITF W35 Bistrita Women: Diana-Ioana Simi | Carolina Kuhl (BUY) | 71% | 5.00 | 3.3% | ❌ perdida | -5.07 |
 |  | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 55% | 5.00 | 0.8% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 62% | 5.00 | 2.2% | ⏳ pendiente | — |

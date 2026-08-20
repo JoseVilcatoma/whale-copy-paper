@@ -15073,5 +15073,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787224888.2380128,
     "fills": 1
+  },
+  {
+    "timestamp": 1787225094,
+    "timestamp_added": 1787225095.3058162,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-liquid-ty-2026-08-20-game1",
+    "title": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 1127.425,
+    "whale_pct": 12.287,
+    "whale_value_at_open": 9175.3988,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787225095.3058307,
+    "fills": 1
   }
 ]
