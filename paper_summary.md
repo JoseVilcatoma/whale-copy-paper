@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 09:34:55 (hora de Perú)
+Actualizado: 2026-08-20 09:36:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $466.49
-**Retorno acumulado:** -6.70%
+**Bankroll actual:** $468.27
+**Retorno acumulado:** -6.35%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 09:34:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $276.49)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $283.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,18 +49,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 3 | 5 | 3 | -11.66 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 8 | 6 | 6 | -16.67 USD |
-| RN1 | 100 | 50 | 6 | -50.34 USD |
+| RN1 | 101 | 50 | 5 | -48.56 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 588
-- **Aciertos:** 382 (65.0%)
+- **Apuestas resueltas:** 589
+- **Aciertos:** 383 (65.0%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,935.45
-- **ROI sobre lo apostado:** -1.56%
-- **Comisiones pagadas (taker fee):** $52.01 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,940.45
+- **ROI sobre lo apostado:** -1.50%
+- **Comisiones pagadas (taker fee):** $52.08 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 272 | 47.4% | 50.3% | -2.8 pp |
-| 60-79% | 194 | 73.7% | 68.2% | +5.5 pp |
+| 60-79% | 195 | 73.8% | 68.2% | +5.6 pp |
 | 80-94% | 79 | 86.1% | 86.9% | -0.9 pp |
 | 95-99% (casi seguro) | 43 | 97.7% | 97.3% | +0.3 pp |
 
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | ITF W75 Kursumlijska Banja 3 Women: Lisa | Lisa Zaar (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | ITF W75 Kursumlijska Banja 3 Women: Lisa | Lisa Zaar (BUY) | 73% | 5.00 | 0.8% | ✅ ganada | +1.78 |
 | sulumos | LoL: LGD Gaming vs Bilibili Gaming (BO3) | LGD Gaming (BUY) | 45% | 5.00 | 24.1% | 💰 vendida anticipada | +1.96 |
 | danielwolfmorales3pddb6dl6 | LoL: LGD Gaming vs Bilibili Gaming (BO3) | Bilibili Gaming (BUY) | 56% | 5.00 | 75.8% | ⏳ pendiente | — |
 | casualbet2020 | Map Handicap: TS (-1.5) vs B8 (+1.5) | Spirit (BUY) | 54% | 5.00 | 38.3% | ⏳ pendiente | — |

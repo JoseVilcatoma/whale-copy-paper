@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.48862313311275,
+  "bankroll": 468.2699382016059,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2980,6 +2980,11 @@
       "timestamp": 1787235803.5227447,
       "bankroll": 466.49,
       "event": "won: RN1 \u2014 Roehampton: Lui Maxted vs Gabi Boitan"
+    },
+    {
+      "timestamp": 1787236611.4133937,
+      "bankroll": 468.27,
+      "event": "won: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Lisa Zaar vs Sofya Lansere"
     }
   ]
 }
