@@ -13866,5 +13866,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787210215.8612096,
     "fills": 1
+  },
+  {
+    "timestamp": 1787210871,
+    "timestamp_added": 1787210872.3416536,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-compagn-serna-2026-08-20",
+    "title": "Sion: Tommaso Compagnucci vs Juan Manuel La Serna",
+    "outcome": "Tommaso Compagnucci",
+    "side": "BUY",
+    "whale_usd": 4318.0665,
+    "whale_pct": 16.891,
+    "whale_value_at_open": 25564.7881,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787210872.3416662,
+    "fills": 1
   }
 ]
