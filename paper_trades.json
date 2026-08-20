@@ -15911,5 +15911,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787237898.3414502,
     "fills": 1
+  },
+  {
+    "timestamp": 1787238585,
+    "timestamp_added": 1787238586.4941509,
+    "username": "ChonkyChocolateCake",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-g2nord-es1-2026-08-20-game1",
+    "title": "LoL: G2 NORD vs Eintracht Spandau - Game 1 Winner",
+    "outcome": "G2 NORD",
+    "side": "BUY",
+    "whale_usd": 3436.363636,
+    "whale_pct": 8.492,
+    "whale_value_at_open": 40467.6961,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787238586.4941635,
+    "fills": 1
   }
 ]
