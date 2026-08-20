@@ -13524,5 +13524,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787201273.9064198,
     "fills": 3
+  },
+  {
+    "timestamp": 1787201543,
+    "timestamp_added": 1787201543.536627,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ironwi-ts8-2026-08-19-game2",
+    "title": "Dota 2: Iron Wing vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 831.128888,
+    "whale_pct": 0.55,
+    "whale_value_at_open": 151091.6071,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787201543.536644,
+    "fills": 1
   }
 ]

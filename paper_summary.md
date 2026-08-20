@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 23:51:54 (hora de Perú)
+Actualizado: 2026-08-19 23:53:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 23:51:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $406.20)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $401.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 4 | 3 | 2 | -7.15 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 85 | 41 | 7 | -21.01 USD |
-| ferrariChampions2026 | 149 | 87 | 2 | -33.59 USD |
+| ferrariChampions2026 | 149 | 87 | 3 | -33.59 USD |
 
 ## Análisis general
 
@@ -168,6 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Team Spirit (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 63% | 5.00 | 2.9% | ⏳ pendiente | — |
 |  | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -197,4 +198,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | RN1 | Will Portland Timbers win on 2026-08-19? | No (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ❌ perdida | -5.04 |
-| HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 49% | 5.00 | 0.3% | ✅ ganada | +5.08 |
