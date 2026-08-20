@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.86013852646386,
+  "bankroll": 482.641453594957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2715,6 +2715,11 @@
       "timestamp": 1787211689.1417851,
       "bankroll": 480.86,
       "event": "won: RN1 \u2014 ITF M15 Maanshan 7 Men: Weiyi Kong vs M Rifqi Fitriadi"
+    },
+    {
+      "timestamp": 1787212316.7542405,
+      "bankroll": 482.64,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Tiana Tian Deng vs Peangtarn Plipuech"
     }
   ]
 }
