@@ -1,5 +1,5 @@
 {
-  "bankroll": 457.3586523484135,
+  "bankroll": 469.6869248533067,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2090,6 +2090,136 @@
       "timestamp": 1787184655.469876,
       "bankroll": 457.36,
       "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5"
+    },
+    {
+      "timestamp": 1787188735.6207225,
+      "bankroll": 463.33,
+      "event": "won: sentrio \u2014 Seattle Mariners vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787188736.1784136,
+      "bankroll": 468.01,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787188736.743203,
+      "bankroll": 471.83,
+      "event": "won: SDTrading \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787188736.8433976,
+      "bankroll": 466.7,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787188737.2379603,
+      "bankroll": 461.58,
+      "event": "lost: HomeRunHazard \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787188740.2957385,
+      "bankroll": 456.43,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1787188740.9031177,
+      "bankroll": 460.93,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787188741.2647107,
+      "bankroll": 455.81,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787188741.5483146,
+      "bankroll": 450.73,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Cloud9 vs BESTIA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787188741.809517,
+      "bankroll": 452.08,
+      "event": "won: HomeRunHazard \u2014 Spread: Miami Marlins (-2.5)"
+    },
+    {
+      "timestamp": 1787188741.9096591,
+      "bankroll": 446.94,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: Cloud9 vs BESTIA (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787188742.2238886,
+      "bankroll": 448.91,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Miami Marlins (-1.5)"
+    },
+    {
+      "timestamp": 1787188742.3240376,
+      "bankroll": 453.78,
+      "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787188743.3703377,
+      "bankroll": 456.5,
+      "event": "won: HomeRunHazard \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787188743.872723,
+      "bankroll": 459.47,
+      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Milwaukee Brewers: O/U 6.5"
+    },
+    {
+      "timestamp": 1787188744.4248142,
+      "bankroll": 454.35,
+      "event": "lost: SDTrading \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1787188744.922131,
+      "bankroll": 461.11,
+      "event": "won: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1787188745.871149,
+      "bankroll": 462.63,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Coco Gauff vs Marie Bouzkova"
+    },
+    {
+      "timestamp": 1787188746.7706015,
+      "bankroll": 463.98,
+      "event": "won: HomeRunHazard \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1787188746.8708715,
+      "bankroll": 468.66,
+      "event": "won: HomeRunHazard \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1787188746.9710093,
+      "bankroll": 463.54,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1787188747.0712025,
+      "bankroll": 465.71,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Cloud9 vs BESTIA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787188748.2016592,
+      "bankroll": 468.68,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-2.5)"
+    },
+    {
+      "timestamp": 1787188748.301807,
+      "bankroll": 473.55,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1787188749.3703632,
+      "bankroll": 474.14,
+      "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787188750.9729383,
+      "bankroll": 469.69,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Keys vs Wang"
     }
   ]
 }
