@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:18:28 (hora de Perú)
+Actualizado: 2026-08-19 21:20:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 21:18:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $188.25 en 38 posiciones abiertas (disponible para nuevas apuestas: $294.61)
+**Capital comprometido ahora mismo:** $198.25 en 40 posiciones abiertas (disponible para nuevas apuestas: $284.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
-| RN1 | 72 | 36 | 12 | -17.17 USD |
+| RN1 | 72 | 36 | 14 | -17.17 USD |
 | ferrariChampions2026 | 145 | 85 | 7 | -36.59 USD |
 
 ## Análisis general
@@ -164,6 +164,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Frances Tiafoe vs Felix | Frances Tiafoe (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Montevideo City Torque vs. CA Tigre: O/U | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alex Hernandez (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -175,7 +177,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-19? | Yes (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Independiente Santa Fe vs. CA River Plat | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -192,5 +194,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Quebec City: Alexis Galarneau vs Dino Pr | Alexis Galarneau (BUY) | 56% | 5.00 | 0.2% | ✅ ganada | +3.82 |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA Challengers vs DN SOOPers | DN SOOPers Challengers (BUY) | 43% | 5.00 | 25.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto FC vs. Charlotte FC: O/U 1.5 | Over (BUY) | 96% | 5.00 | 0.2% | ✅ ganada | +0.20 |
-| theowalcott | Montevideo City Torque vs. CA Tigre: O/U | Over (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Open: Nuno Borges vs Brandon  | Brandon Nakashima (BUY) | 79% | 5.00 | 1.9% | ✅ ganada | +1.28 |
