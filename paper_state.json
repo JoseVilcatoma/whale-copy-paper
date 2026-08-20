@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.9664066346391,
+  "bankroll": 501.588168539401,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3100,6 +3100,16 @@
       "timestamp": 1787241869.6572669,
       "bankroll": 499.97,
       "event": "lost: ferrariChampions2026 \u2014 KBO: SSG Landers vs. Samsung Lions"
+    },
+    {
+      "timestamp": 1787242491.3978965,
+      "bankroll": 506.73,
+      "event": "won: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Prague 2: Norbert Gombos vs Radu Mihai Papoe"
+    },
+    {
+      "timestamp": 1787242492.8067648,
+      "bankroll": 501.59,
+      "event": "lost: SineNooneEI \u2014 Valorant: ZETA DIVISION vs Xipto Esports (BO3) - VCT Pacific Play-In"
     }
   ]
 }
