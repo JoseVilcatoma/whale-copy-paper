@@ -1,5 +1,5 @@
 {
-  "bankroll": 460.2230515272376,
+  "bankroll": 460.36969070249535,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2805,6 +2805,11 @@
       "timestamp": 1787224668.5065267,
       "bankroll": 460.22,
       "event": "won: RN1 \u2014 ITF M25 Slovenj Gradec Men: Mili Poljicak vs Sebastian Dominko"
+    },
+    {
+      "timestamp": 1787226335.8753448,
+      "bankroll": 460.37,
+      "event": "won: RN1 \u2014 ITF W35 Krakow Women: Anna Kmiecik vs Dalila Jakupovic"
     }
   ]
 }
