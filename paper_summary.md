@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 11:19:07 (hora de Perú)
+Actualizado: 2026-08-20 11:21:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.59
@@ -193,7 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 45.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 67.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 32.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 61% | 5.00 | 31.0% | ⏳ pendiente | — |
 | Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 57% | 5.00 | 50.2% | ⏳ pendiente | — |

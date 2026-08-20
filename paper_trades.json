@@ -16217,8 +16217,8 @@
     "title": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 4579.906199999999,
-    "whale_pct": 45.28,
+    "whale_usd": 6795.084799999999,
+    "whale_pct": 67.181,
     "whale_value_at_open": 10114.5893,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -16231,7 +16231,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787242711.287747,
-    "fills": 2
+    "last_fill_at": 1787242839.386744,
+    "fills": 3
   }
 ]
