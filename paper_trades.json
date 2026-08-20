@@ -14848,8 +14848,8 @@
     "title": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 2909.9229,
-    "whale_pct": 14.711,
+    "whale_usd": 5849.9229,
+    "whale_pct": 29.574,
     "whale_value_at_open": 19780.5112,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -14862,8 +14862,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787223097.140332,
-    "fills": 3
+    "last_fill_at": 1787223360.9793873,
+    "fills": 6
   },
   {
     "timestamp": 1787223147,
@@ -14881,8 +14881,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.24,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ferrariChampions2026"
@@ -14890,7 +14890,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787223175.6945183,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.238,
+    "closed_price": 57
   },
   {
     "timestamp": 1787223170,
@@ -14908,8 +14910,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.27,
     "overlaps_with": [
       "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
       "ferrariChampions2026"
@@ -14917,6 +14919,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787223170.7817018,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.271,
+    "closed_price": 51
   }
 ]

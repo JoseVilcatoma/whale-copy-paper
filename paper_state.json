@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.74105021817405,
+  "bankroll": 470.25664595396,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2765,6 +2765,16 @@
       "timestamp": 1787222326.9422941,
       "bankroll": 469.74,
       "event": "lost: RN1 \u2014 ITF W35 Bistrita Women: Diana-Ioana Simionescu vs Carolina Kuhl"
+    },
+    {
+      "timestamp": 1787223341.958695,
+      "bankroll": 470.01,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs (+0.27 USD)"
+    },
+    {
+      "timestamp": 1787223353.6499584,
+      "bankroll": 470.26,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner (+0.24 USD)"
     }
   ]
 }
