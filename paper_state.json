@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.194507031087,
+  "bankroll": 468.077507031087,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3010,6 +3010,11 @@
       "timestamp": 1787237177.1330063,
       "bankroll": 473.19,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Nongshim Red Force vs Kiwoom DRX - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787237490.8932965,
+      "bankroll": 468.08,
+      "event": "lost:  \u2014 Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs"
     }
   ]
 }
