@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 03:12:40 (hora de Perú)
+Actualizado: 2026-08-20 03:14:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 03:12:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $362.64)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $357.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 5 | 4 | 4 | -10.09 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 91 | 43 | 2 | -24.64 USD |
-| ferrariChampions2026 | 150 | 88 | 10 | -36.07 USD |
+| ferrariChampions2026 | 150 | 88 | 11 | -36.07 USD |
 
 ## Análisis general
 
@@ -172,6 +172,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | SineNooneEI | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 52% | 5.00 | 108.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 51% | 5.00 | 5.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | TEAM VISION (BUY) | 66% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -201,4 +202,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 84% | 5.00 | 0.6% | ✅ ganada | +0.91 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 56% | 5.00 | 1.4% | ❌ perdida | -5.11 |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Colorado Rockies (BUY) | 45% | 5.00 | 0.9% | ❌ perdida | -5.14 |
-|  | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 69% | 5.00 | 1.4% | ❌ perdida | -5.08 |
