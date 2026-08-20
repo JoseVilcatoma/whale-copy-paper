@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 12:13:02 (hora de Perú)
+Actualizado: 2026-08-20 12:15:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.33
-**Retorno acumulado:** +1.07%
+**Bankroll actual:** $505.51
+**Retorno acumulado:** +1.10%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 12:13:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $315.33)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $320.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 7 | 4 | 4 | +11.47 USD |
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| IMAREALPERSON | 10 | 1 | 1 | +7.52 USD |
+| IMAREALPERSON | 11 | 1 | 0 | +7.70 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 1 | +7.07 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -195,7 +195,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | CORGI8 | Counter-Strike: G2 vs FURIA - Map 2 Winn | G2 (BUY) | 41% | 5.00 | 9.7% | ⏳ pendiente | — |
 | CORGI8 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 46% | 5.00 | 35.7% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 43% | 5.00 | 56.5% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 43% | 5.00 | 56.5% | 💰 vendida anticipada | +0.18 |
 | ChonkyChocolateCake | LoL: Karmine Corp Blue vs Ici Japon Corp | Karmine Corp Blue (BUY) | 67% | 5.00 | 3.2% | ⏳ pendiente | — |
 | predictionlegend | K. Sint-Truidense VV vs. AS Omónoia Leuk | Over (BUY) | 44% | 5.00 | 67.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 47% | 5.00 | 60.8% | 💰 vendida anticipada | +0.37 |

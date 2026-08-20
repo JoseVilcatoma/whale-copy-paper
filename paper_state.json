@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.33254268292785,
+  "bankroll": 505.5098333806023,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3120,6 +3120,11 @@
       "timestamp": 1787243207.655092,
       "bankroll": 505.33,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs (+0.37 USD)"
+    },
+    {
+      "timestamp": 1787246022.166487,
+      "bankroll": 505.51,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs (+0.18 USD)"
     }
   ]
 }

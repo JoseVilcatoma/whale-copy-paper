@@ -16327,8 +16327,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.18,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ChonkyChocolateCake"
@@ -16336,7 +16336,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787245953.3475363,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.288,
+    "closed_price": 47
   },
   {
     "timestamp": 1787245580,
