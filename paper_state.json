@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.0875062644382,
+  "bankroll": 506.97950626443816,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3185,6 +3185,11 @@
       "timestamp": 1787254093.252843,
       "bankroll": 512.09,
       "event": "lost: SDTrading \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1787255350.6606526,
+      "bankroll": 506.98,
+      "event": "lost: ChonkyChocolateCake \u2014 LoL: G2 NORD vs Eintracht Spandau - Game 1 Winner"
     }
   ]
 }
