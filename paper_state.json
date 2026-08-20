@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.4411180826077,
+  "bankroll": 466.48862313311275,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2975,6 +2975,11 @@
       "timestamp": 1787235610.7005513,
       "bankroll": 466.44,
       "event": "won: ferrariChampions2026 \u2014 ITF M25 Ueberlingen Men: Tim Handel vs Adrian Oetzbach"
+    },
+    {
+      "timestamp": 1787235803.5227447,
+      "bankroll": 466.49,
+      "event": "won: RN1 \u2014 Roehampton: Lui Maxted vs Gabi Boitan"
     }
   ]
 }

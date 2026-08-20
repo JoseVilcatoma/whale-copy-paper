@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 09:22:28 (hora de Perú)
+Actualizado: 2026-08-20 09:24:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $466.44
-**Retorno acumulado:** -6.71%
+**Bankroll actual:** $466.49
+**Retorno acumulado:** -6.70%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 09:22:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $281.44)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $276.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 2 | 1 | 2 | +0.31 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
-| casualbet2020 | 0 | 0 | 1 | +0.00 USD |
+| casualbet2020 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
@@ -48,17 +48,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 161 | 92 | 10 | -7.75 USD |
 | danielwolfmorales3pddb6dl6 | 3 | 5 | 3 | -11.66 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-|  | 8 | 6 | 5 | -16.67 USD |
-| RN1 | 99 | 50 | 7 | -50.39 USD |
+|  | 8 | 6 | 6 | -16.67 USD |
+| RN1 | 100 | 50 | 6 | -50.34 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 587
-- **Aciertos:** 381 (64.9%)
-- **Cuota promedio de entrada:** 64.5%
+- **Apuestas resueltas:** 588
+- **Aciertos:** 382 (65.0%)
+- **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,930.45
-- **ROI sobre lo apostado:** -1.57%
+- **Total apostado (suma de stakes):** $2,935.45
+- **ROI sobre lo apostado:** -1.56%
 - **Comisiones pagadas (taker fee):** $52.01 (1.77% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 272 | 47.4% | 50.3% | -2.8 pp |
 | 60-79% | 194 | 73.7% | 68.2% | +5.5 pp |
 | 80-94% | 79 | 86.1% | 86.9% | -0.9 pp |
-| 95-99% (casi seguro) | 42 | 97.6% | 97.3% | +0.3 pp |
+| 95-99% (casi seguro) | 43 | 97.7% | 97.3% | +0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -187,10 +187,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | LoL: Solary vs Skillcamp Esport (BO3) -  | Solary (BUY) | 87% | 5.00 | 1.5% | ⏳ pendiente | — |
+| casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Espo | FURIA (BUY) | 57% | 5.00 | 24.3% | ⏳ pendiente | — |
 |  | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ⏳ pendiente | — |
 |  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ⏳ pendiente | — |
+| RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Lisa | Lisa Zaar (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -215,5 +217,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Dominic Stephan Stricker vs Mika B | Dominic Stephan Stricker (BUY) | 97% | 5.00 | 3.1% | ✅ ganada | +0.15 |
 | RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 82% | 5.00 | 6.1% | ✅ ganada | +1.05 |
 | RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Da | Dalila Jakupovic (BUY) | 97% | 5.00 | 1.9% | ✅ ganada | +0.15 |
-| RN1 | ITF M25 Ueberlingen Men: Denis Yevseyev  | Jannik Maute (BUY) | 64% | 5.00 | 0.7% | ✅ ganada | +2.72 |
-| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 46% | 5.00 | 6.3% | 💰 vendida anticipada | +0.27 |
