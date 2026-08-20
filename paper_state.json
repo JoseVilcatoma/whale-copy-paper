@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.3389442236221,
+  "bankroll": 461.28018943435006,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2815,6 +2815,21 @@
       "timestamp": 1787226583.9904573,
       "bankroll": 462.34,
       "event": "won: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rositsa Dencheva vs Luna Vujovic"
+    },
+    {
+      "timestamp": 1787227015.392628,
+      "bankroll": 457.23,
+      "event": "lost: ferrariChampions2026 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1787227015.6532638,
+      "bankroll": 460.75,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787227016.0227604,
+      "bankroll": 461.28,
+      "event": "won:  \u2014 Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs"
     }
   ]
 }
