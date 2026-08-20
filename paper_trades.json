@@ -16095,8 +16095,8 @@
     "title": "San Francisco Giants vs. Cleveland Guardians: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 12550.719599999999,
-    "whale_pct": 62.077,
+    "whale_usd": 20425.7525,
+    "whale_pct": 101.027,
     "whale_value_at_open": 20218.035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -16107,8 +16107,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787241752.779864,
-    "fills": 3
+    "last_fill_at": 1787243723.947776,
+    "fills": 5
   },
   {
     "timestamp": 1787240111,
@@ -16145,8 +16145,8 @@
     "title": "San Francisco Giants vs. Cleveland Guardians: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 14883.306836000002,
-    "whale_pct": 50.232,
+    "whale_usd": 25495.306836000003,
+    "whale_pct": 86.048,
     "whale_value_at_open": 29629.1552,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -16157,8 +16157,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787242442.5184977,
-    "fills": 5
+    "last_fill_at": 1787243723.7565935,
+    "fills": 7
   },
   {
     "timestamp": 1787241786,
