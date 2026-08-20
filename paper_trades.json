@@ -12426,8 +12426,8 @@
     "title": "LoL: Nongshim Red Force vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
     "outcome": "Kiwoom DRX",
     "side": "BUY",
-    "whale_usd": 1078.7018,
-    "whale_pct": 5.963,
+    "whale_usd": 2464.4539999999997,
+    "whale_pct": 13.623,
     "whale_value_at_open": 18091.0346,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -12438,8 +12438,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787183730.12673,
-    "fills": 1
+    "last_fill_at": 1787189176.2471347,
+    "fills": 2
   },
   {
     "timestamp": 1787183867,
