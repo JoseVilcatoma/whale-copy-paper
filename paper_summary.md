@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 08:45:27 (hora de Perú)
+Actualizado: 2026-08-20 08:47:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $461.05
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 08:45:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $286.05)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $281.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 160 | 92 | 11 | -12.43 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 8 | 6 | 3 | -16.67 USD |
-| RN1 | 98 | 50 | 7 | -51.10 USD |
+| RN1 | 98 | 50 | 8 | -51.10 USD |
 
 ## Análisis general
 
@@ -187,6 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Lisa | Lisa Zaar (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -216,4 +217,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 52% | 5.00 | 13.7% | 💰 vendida anticipada | +0.24 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 56% | 5.00 | 32.5% | ❌ perdida | -5.11 |
 | RN1 | ITF W35 Bistrita Women: Mariia Drobyshev | Mariia Drobysheva (BUY) | 65% | 5.00 | 0.8% | ❌ perdida | -5.09 |
-| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rosi | Luna Vujovic (BUY) | 71% | 5.00 | 1.6% | ✅ ganada | +1.97 |
