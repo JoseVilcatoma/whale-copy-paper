@@ -13680,8 +13680,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 3015.819832,
-    "whale_pct": 2.355,
+    "whale_usd": 6971.604232000001,
+    "whale_pct": 5.443,
     "whale_value_at_open": 128074.9077,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -13692,8 +13692,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787207650.4019752,
-    "fills": 4
+    "last_fill_at": 1787208896.2943275,
+    "fills": 5
   },
   {
     "timestamp": 1787207299,
@@ -13816,5 +13816,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787208672.8129714,
     "fills": 3
+  },
+  {
+    "timestamp": 1787208834,
+    "timestamp_added": 1787208835.3757367,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "atp-gombos-papoe-2026-08-20",
+    "title": "Prague 2: Norbert Gombos vs Radu Mihai Papoe",
+    "outcome": "Norbert Gombos",
+    "side": "BUY",
+    "whale_usd": 3622.6779999999994,
+    "whale_pct": 24.527,
+    "whale_value_at_open": 14769.971,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787208835.3757496,
+    "fills": 1
   }
 ]
