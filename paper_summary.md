@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 10:31:12 (hora de Perú)
+Actualizado: 2026-08-20 10:33:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $498.39
-**Retorno acumulado:** -0.32%
+**Bankroll actual:** $508.36
+**Retorno acumulado:** +1.67%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 10:31:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $308.39)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $333.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,6 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | IMAREALPERSON | 8 | 1 | 1 | +3.78 USD |
+| ferrariChampions2026 | 164 | 92 | 7 | +2.32 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -37,7 +38,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 2 | 1 | 2 | +0.31 USD |
 | casualbet2020 | 0 | 0 | 3 | +0.00 USD |
-| ferrariChampions2026 | 163 | 92 | 8 | -0.17 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 1 | 0 | -0.23 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 1 | -0.44 USD |
@@ -49,18 +49,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 9 | 7 | 10 | -21.64 USD |
-| RN1 | 103 | 50 | 3 | -45.70 USD |
+| RN1 | 105 | 50 | 1 | -38.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 601
-- **Aciertos:** 393 (65.4%)
+- **Apuestas resueltas:** 604
+- **Aciertos:** 396 (65.6%)
 - **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,000.45
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $53.19 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,015.45
+- **ROI sobre lo apostado:** -0.43%
+- **Comisiones pagadas (taker fee):** $53.48 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,8 +68,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 278 | 47.8% | 50.2% | -2.3 pp |
-| 60-79% | 198 | 74.2% | 68.2% | +6.0 pp |
+| 40-59% | 279 | 48.0% | 50.2% | -2.2 pp |
+| 60-79% | 200 | 74.5% | 68.2% | +6.3 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
 

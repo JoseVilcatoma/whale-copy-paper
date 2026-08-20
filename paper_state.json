@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.38995547427214,
+  "bankroll": 508.3552644434969,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3060,6 +3060,21 @@
       "timestamp": 1787239298.8471532,
       "bankroll": 498.39,
       "event": "won:  \u2014 ITF M25 Idanha-a-Nova 2 Men: Alberto Barroso Campos vs Pavlos Tsitsipas"
+    },
+    {
+      "timestamp": 1787239992.5429525,
+      "bankroll": 500.88,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton: Oliver Tarvet vs Charles Broom"
+    },
+    {
+      "timestamp": 1787239993.328045,
+      "bankroll": 502.85,
+      "event": "won: RN1 \u2014 Roehampton: Oliver Tarvet vs Charles Broom"
+    },
+    {
+      "timestamp": 1787239993.67559,
+      "bankroll": 508.36,
+      "event": "won: RN1 \u2014 Sion: Benjamin Hassan vs Geoffrey Blancaneaux"
     }
   ]
 }
