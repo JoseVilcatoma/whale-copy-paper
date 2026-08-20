@@ -16061,5 +16061,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787239222.6306942,
     "fills": 1
+  },
+  {
+    "timestamp": 1787239744,
+    "timestamp_added": 1787239744.9528315,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "atp-geerts-poullai-2026-08-20",
+    "title": "Roehampton: Michael Geerts vs Lucas Poullain",
+    "outcome": "Michael Geerts",
+    "side": "BUY",
+    "whale_usd": 3619.6391999999996,
+    "whale_pct": 18.729,
+    "whale_value_at_open": 19326.0373,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787239744.9528432,
+    "fills": 1
   }
 ]
