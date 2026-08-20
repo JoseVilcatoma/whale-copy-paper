@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 17:52:36 (hora de Perú)
+Actualizado: 2026-08-20 17:54:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $485.40
@@ -197,12 +197,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | SDTrading | Spread: LV (-1.5) | LV (BUY) | 50% | 5.00 | 35.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LDU de Quito vs. Mirassol FC: O/U 2.5 | Under (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Pedro Mar | Juan Carlos Prado (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Henrique Rocha vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 95% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Santos FC win on 2026-08-20? | No (BUY) | 87% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Santos FC win on 2026-08-20? | No (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Mirassol FC win on 2026-08-20? | No (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will LDU de Quito win on 2026-08-20? | Yes (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 78% | 5.00 | 1.7% | ⏳ pendiente | — |
