@@ -16233,5 +16233,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787242839.386744,
     "fills": 3
+  },
+  {
+    "timestamp": 1787243177,
+    "timestamp_added": 1787243178.129759,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-ngx-flc-2026-08-20",
+    "title": "Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Nigma Galaxy",
+    "side": "BUY",
+    "whale_usd": 5500.106679,
+    "whale_pct": 60.757,
+    "whale_value_at_open": 9052.6511,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "cerrada_venta",
+    "profit_usd": 0.37,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ChonkyChocolateCake"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787243179.9252648,
+    "fills": 2,
+    "fee_total_usd": 0.266,
+    "closed_price": 53
   }
 ]

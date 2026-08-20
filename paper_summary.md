@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 11:25:22 (hora de Perú)
+Actualizado: 2026-08-20 11:27:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $504.96
-**Retorno acumulado:** +0.99%
+**Bankroll actual:** $505.33
+**Retorno acumulado:** +1.07%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 11:25:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $339.96)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $340.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 7 | 4 | 4 | +11.47 USD |
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| IMAREALPERSON | 9 | 1 | 0 | +7.15 USD |
+| IMAREALPERSON | 10 | 1 | 0 | +7.52 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 1 | +7.07 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -187,12 +187,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-lgd-blg-2026-08-20 | danielwolfmorales3pddb6dl6, sulumos |
 | cs2-g2-furia-2026-08-20 | CORGI8, casualbet2020 |
 | cs2-faze-vit-2026-08-20-game2 | , casualbet2020 |
-| dota2-ngx-flc-2026-08-20 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake |
+| dota2-ngx-flc-2026-08-20 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 47% | 5.00 | 60.8% | 💰 vendida anticipada | +0.37 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 67.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 32.6% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 61% | 5.00 | 31.0% | ⏳ pendiente | — |
@@ -222,4 +223,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ✅ ganada | +0.15 |
 | RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ✅ ganada | +0.25 |
-| RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ✅ ganada | +2.61 |
