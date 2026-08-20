@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.25664595396,
+  "bankroll": 468.54322222514645,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2775,6 +2775,16 @@
       "timestamp": 1787223353.6499584,
       "bankroll": 470.26,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner (+0.24 USD)"
+    },
+    {
+      "timestamp": 1787223432.8334124,
+      "bankroll": 465.17,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787223433.6346886,
+      "bankroll": 468.54,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner"
     }
   ]
 }

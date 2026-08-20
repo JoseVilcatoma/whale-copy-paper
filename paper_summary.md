@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 05:56:19 (hora de Perú)
+Actualizado: 2026-08-20 05:58:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $470.26
-**Retorno acumulado:** -5.95%
+**Bankroll actual:** $468.54
+**Retorno acumulado:** -6.29%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 05:56:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $230.26)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $238.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,18 +47,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 91 | 45 | 9 | -34.84 USD |
-| ferrariChampions2026 | 151 | 89 | 23 | -38.72 USD |
+| ferrariChampions2026 | 152 | 90 | 21 | -40.43 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 550
-- **Aciertos:** 359 (65.3%)
+- **Apuestas resueltas:** 552
+- **Aciertos:** 360 (65.2%)
 - **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,745.45
-- **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $48.67 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.56% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,755.45
+- **ROI sobre lo apostado:** -1.27%
+- **Comisiones pagadas (taker fee):** $48.86 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -66,8 +66,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 252 | 47.2% | 50.1% | -2.9 pp |
-| 60-79% | 185 | 74.6% | 68.4% | +6.2 pp |
+| 40-59% | 253 | 47.4% | 50.1% | -2.7 pp |
+| 60-79% | 186 | 74.2% | 68.4% | +5.8 pp |
 | 80-94% | 75 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 38 | 100.0% | 97.2% | +2.8 pp |
 
@@ -211,4 +211,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 60% | 5.00 | 120.5% | 💰 vendida anticipada | +1.93 |
 | IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 61% | 5.00 | 10.1% | 💰 vendida anticipada | +0.05 |
 | SineNooneEI | Valorant: ZETA DIVISION vs Xipto Esports | Xipto Esports (BUY) | 45% | 5.00 | 18.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 59% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 59% | 5.00 | 2.1% | ✅ ganada | +3.37 |
