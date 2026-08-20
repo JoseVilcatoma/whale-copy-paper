@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 09:55:45 (hora de Perú)
+Actualizado: 2026-08-20 09:57:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $468.08
-**Retorno acumulado:** -6.38%
+**Bankroll actual:** $493.09
+**Retorno acumulado:** -1.38%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 09:55:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $273.08)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $328.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,6 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| IMAREALPERSON | 7 | 1 | 1 | +3.70 USD |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
@@ -35,32 +37,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 2 | 1 | 2 | +0.31 USD |
 | casualbet2020 | 0 | 0 | 3 | +0.00 USD |
+| ferrariChampions2026 | 163 | 92 | 8 | -0.17 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 1 | 0 | -0.23 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| IMAREALPERSON | 6 | 1 | 2 | -1.81 USD |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 3 | 1 | -4.18 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | SineNooneEI | 0 | 1 | 1 | -5.12 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 161 | 92 | 10 | -7.75 USD |
+| danielwolfmorales3pddb6dl6 | 5 | 6 | 2 | -9.88 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| danielwolfmorales3pddb6dl6 | 4 | 6 | 3 | -12.98 USD |
 |  | 8 | 7 | 10 | -21.79 USD |
-| RN1 | 102 | 50 | 4 | -48.31 USD |
+| RN1 | 103 | 50 | 3 | -45.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 594
-- **Aciertos:** 386 (65.0%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 600
+- **Aciertos:** 392 (65.3%)
+- **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,965.45
-- **ROI sobre lo apostado:** -1.62%
-- **Comisiones pagadas (taker fee):** $52.53 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,995.45
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $53.18 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -68,8 +68,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 275 | 47.3% | 50.2% | -3.0 pp |
-| 60-79% | 195 | 73.8% | 68.2% | +5.6 pp |
+| 40-59% | 278 | 47.8% | 50.2% | -2.3 pp |
+| 60-79% | 198 | 74.2% | 68.2% | +6.0 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 44 | 97.7% | 97.3% | +0.4 pp |
 
@@ -191,7 +191,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Tommy Paul vs Flavio Co | Tommy Paul (BUY) | 61% | 5.00 | 72.1% | ⏳ pendiente | — |
 |  | PAOK vs. SK Brann: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
-|  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
+|  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 6.9% | ⏳ pendiente | — |
 |  | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cancun: Moise Kouame vs Roman Andres Bur | Roman Andres Burruchaga (BUY) | 61% | 5.00 | 3.2% | ⏳ pendiente | — |
 |  | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -204,7 +204,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ✅ ganada | +0.25 |
-| RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ✅ ganada | +2.61 |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Lisa | Lisa Zaar (BUY) | 73% | 5.00 | 0.8% | ✅ ganada | +1.78 |
 | sulumos | LoL: LGD Gaming vs Bilibili Gaming (BO3) | LGD Gaming (BUY) | 45% | 5.00 | 24.1% | 💰 vendida anticipada | +1.96 |
 | danielwolfmorales3pddb6dl6 | LoL: LGD Gaming vs Bilibili Gaming (BO3) | Bilibili Gaming (BUY) | 56% | 5.00 | 75.8% | 💰 vendida anticipada | +3.82 |
@@ -212,8 +212,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Semen Pankin (BUY) | 87% | 5.00 | 0.5% | ✅ ganada | +0.71 |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 47% | 5.00 | 70.8% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 57% | 5.00 | 48.2% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 10.3% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 61% | 5.00 | 30.7% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 10.3% | ✅ ganada | +5.51 |
+| danielwolfmorales3pddb6dl6 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 61% | 5.00 | 30.7% | ✅ ganada | +3.10 |
 |  | KF Egnatia Rrogozhinë vs. Lillestrøm SK: | Over (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | ITF W35 Erwitte Women: Eva Bennemann vs  | Eva Bennemann (BUY) | 53% | 5.00 | 1.2% | ❌ perdida | -5.12 |
 | danielwolfmorales3pddb6dl6 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 44% | 5.00 | 41.6% | 💰 vendida anticipada | +6.22 |

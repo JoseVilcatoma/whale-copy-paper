@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.077507031087,
+  "bankroll": 493.0893630447397,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3015,6 +3015,36 @@
       "timestamp": 1787237490.8932965,
       "bankroll": 468.08,
       "event": "lost:  \u2014 Counter-Strike: Natus Vincere vs Legacy (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787237799.9325252,
+      "bankroll": 474.3,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787237800.5789473,
+      "bankroll": 475.66,
+      "event": "won: ferrariChampions2026 \u2014 LoL: JD Gaming vs ThunderTalk Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787237801.1239676,
+      "bankroll": 481.88,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787237802.8721256,
+      "bankroll": 484.98,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 Sion: Lorenzo Giustino vs Dimitar Kuzmanov"
+    },
+    {
+      "timestamp": 1787237803.1996613,
+      "bankroll": 490.48,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787237804.0198689,
+      "bankroll": 493.09,
+      "event": "won: RN1 \u2014 Sion: Lorenzo Giustino vs Dimitar Kuzmanov"
     }
   ]
 }
