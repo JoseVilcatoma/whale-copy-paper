@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 13:00:47 (hora de Perú)
+Actualizado: 2026-08-20 13:02:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $521.96
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 13:00:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $336.96)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $331.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | Lakersfan111 | 3 | 0 | 0 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| SDTrading | 7 | 4 | 4 | +11.47 USD |
+| SDTrading | 7 | 4 | 5 | +11.47 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | IMAREALPERSON | 11 | 1 | 2 | +7.70 USD |
 | casualbet2020 | 2 | 0 | 1 | +7.37 USD |
@@ -193,6 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Seattle Mariners vs. Milwaukee Brewers:  | Over (BUY) | 54% | 5.00 | 17.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Team Liquid vs FUT Esports (BO | FUT Esports (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
 | predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 124.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: ⁠Movistar KOI Fénix vs Team Heretic | Team Heretics Academy (BUY) | 47% | 5.00 | 11.2% | ⏳ pendiente | — |
@@ -222,4 +223,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 6.9% | ⏳ pendiente | — |
 |  | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cancun: Moise Kouame vs Roman Andres Bur | Roman Andres Burruchaga (BUY) | 61% | 5.00 | 3.2% | ⏳ pendiente | — |
-|  | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 61% | 5.00 | 0.7% | ✅ ganada | +3.10 |
