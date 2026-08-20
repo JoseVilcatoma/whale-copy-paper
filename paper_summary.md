@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 09:51:39 (hora de Perú)
+Actualizado: 2026-08-20 09:53:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 09:51:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $278.08)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $273.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 161 | 92 | 10 | -7.75 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| danielwolfmorales3pddb6dl6 | 4 | 6 | 2 | -12.98 USD |
+| danielwolfmorales3pddb6dl6 | 4 | 6 | 3 | -12.98 USD |
 |  | 8 | 7 | 10 | -21.79 USD |
 | RN1 | 102 | 50 | 4 | -48.31 USD |
 
@@ -189,6 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Tommy Paul vs Flavio Co | Tommy Paul (BUY) | 61% | 5.00 | 72.1% | ⏳ pendiente | — |
 |  | PAOK vs. SK Brann: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
 |  | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -218,4 +219,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 44% | 5.00 | 41.6% | 💰 vendida anticipada | +6.22 |
 | RN1 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Matias Reyn | Matias Reyniak (BUY) | 60% | 5.00 | 1.4% | ❌ perdida | -5.10 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs Kiwoom DRX -  | Nongshim Red Force (BUY) | 50% | 5.00 | 11.1% | ✅ ganada | +4.88 |

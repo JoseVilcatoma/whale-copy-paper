@@ -15863,5 +15863,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787237497.6044765,
     "fills": 1
+  },
+  {
+    "timestamp": 1787237621,
+    "timestamp_added": 1787237621.7402084,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "atp-paul-cobolli-2026-08-21",
+    "title": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "whale_usd": 6000.0,
+    "whale_pct": 72.087,
+    "whale_value_at_open": 8323.2203,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787237621.7402213,
+    "fills": 1
   }
 ]
