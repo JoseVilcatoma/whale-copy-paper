@@ -13792,5 +13792,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787208220.190191,
     "fills": 1
+  },
+  {
+    "timestamp": 1787208634,
+    "timestamp_added": 1787208634.4670417,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-hs-kuansho-2026-08-20",
+    "title": "ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan-Shou Chen",
+    "outcome": "Yu Hsiou Hsu",
+    "side": "BUY",
+    "whale_usd": 3601.4399999999996,
+    "whale_pct": 4.599,
+    "whale_value_at_open": 78310.0104,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787208649.4634094,
+    "fills": 2
   }
 ]

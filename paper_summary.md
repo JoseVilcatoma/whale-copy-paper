@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 01:47:11 (hora de Perú)
+Actualizado: 2026-08-20 01:51:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.50
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 01:47:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $374.50)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $369.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-|  | 4 | 3 | 3 | -7.15 USD |
+|  | 4 | 3 | 4 | -7.15 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 89 | 43 | 4 | -27.70 USD |
 | ferrariChampions2026 | 149 | 87 | 8 | -33.59 USD |
@@ -169,6 +169,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan | Yu Hsiou Hsu (BUY) | 97% | 5.00 | 4.6% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Tiana Tian Deng | Peangtarn Plipuech (BUY) | 73% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 58% | 5.00 | 3.1% | ⏳ pendiente | — |
 |  | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 62% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -198,4 +199,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Los Angeles Galaxy vs. San Jose Earthqua | Over (BUY) | 46% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 2.3% | ✅ ganada | +0.05 |
 |  | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 76% | 5.00 | 0.6% | ✅ ganada | +1.52 |
-| RN1 | Cincinnati Open: Frances Tiafoe vs Felix | Frances Tiafoe (BUY) | 66% | 5.00 | 6.0% | ✅ ganada | +2.49 |
