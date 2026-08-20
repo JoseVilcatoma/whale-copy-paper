@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.1055907590483,
+  "bankroll": 491.03984581977704,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2505,6 +2505,26 @@
       "timestamp": 1787195305.5715625,
       "bankroll": 497.11,
       "event": "won: RN1 \u2014 Cincinnati Open: Jaime Faria vs Lorenzo Musetti"
+    },
+    {
+      "timestamp": 1787196237.5782356,
+      "bankroll": 491.98,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Angels vs. Houston Astros: O/U 8.5"
+    },
+    {
+      "timestamp": 1787196240.2624042,
+      "bankroll": 494.59,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787196241.0273156,
+      "bankroll": 489.52,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Angels vs. Houston Astros: O/U 7.5"
+    },
+    {
+      "timestamp": 1787196242.7424247,
+      "bankroll": 491.04,
+      "event": "won:  \u2014 Los Angeles Angels vs. Houston Astros"
     }
   ]
 }
