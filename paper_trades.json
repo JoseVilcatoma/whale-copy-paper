@@ -15199,5 +15199,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787226292.3215744,
     "fills": 1
+  },
+  {
+    "timestamp": 1787227391,
+    "timestamp_added": 1787227392.0612218,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "lol-lgd-blg-2026-08-20-game-handicap-home-1pt5",
+    "title": "Game Handicap: BLG (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 4300.0,
+    "whale_pct": 41.621,
+    "whale_value_at_open": 10331.3758,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787227392.0612326,
+    "fills": 1
   }
 ]

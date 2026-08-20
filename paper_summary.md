@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 07:02:13 (hora de Perú)
+Actualizado: 2026-08-20 07:04:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $461.28
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 07:02:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $221.28)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $216.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
+| danielwolfmorales3pddb6dl6 | 1 | 3 | 5 | -10.89 USD |
 |  | 8 | 5 | 2 | -11.55 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 94 | 46 | 11 | -36.69 USD |
@@ -164,6 +164,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-borges-nakashi-2026-08-19 | HomeRunHazard, ferrariChampions2026 |
 | mls-clb-mim-2026-08-19-clb | ferrariChampions2026, theowalcott |
 | mlb-lad-col-2026-08-19 | RN1, ferrariChampions2026 |
+| lol-lgd-blg-2026-08-20-game-handicap-home-1pt5 | Lakersfan111, danielwolfmorales3pddb6dl6 |
 | wta-sabalen-bejlek-2026-08-19 | , 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653, RN1 |
 | dota2-ironwi-ts8-2026-08-19-game2 | , ferrariChampions2026 |
 | dota2-vsn2-boombo-2026-08-20-game1 | , ferrariChampions2026 |
@@ -182,6 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 44% | 5.00 | 41.6% | ⏳ pendiente | — |
 | RN1 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Matias Reyn | Matias Reyniak (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs Kiwoom DRX -  | Nongshim Red Force (BUY) | 50% | 5.00 | 11.1% | ⏳ pendiente | — |
@@ -211,4 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | JD Gaming (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 9.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | ThunderTalk Gaming (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
