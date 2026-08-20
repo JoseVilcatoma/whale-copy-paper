@@ -13147,5 +13147,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787192871.154826,
     "fills": 1
+  },
+  {
+    "timestamp": 1787193626,
+    "timestamp_added": 1787193626.4058292,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sea-mil-2026-08-19",
+    "title": "Seattle Mariners vs. Milwaukee Brewers",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 512.09655,
+    "whale_pct": 0.209,
+    "whale_value_at_open": 244816.417,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading",
+      "Satisfied"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787193626.4058437,
+    "fills": 1
   }
 ]
