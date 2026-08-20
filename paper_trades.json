@@ -13584,8 +13584,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 2704.6456,
-    "whale_pct": 2.376,
+    "whale_usd": 8179.8692,
+    "whale_pct": 7.185,
     "whale_value_at_open": 113845.4497,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -13596,8 +13596,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787207311.4672985,
-    "fills": 3
+    "last_fill_at": 1787207489.404239,
+    "fills": 7
   },
   {
     "timestamp": 1787206078,
@@ -13728,8 +13728,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 938.829998,
-    "whale_pct": 1.253,
+    "whale_usd": 1855.3599960000001,
+    "whale_pct": 2.477,
     "whale_value_at_open": 74901.5959,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -13742,7 +13742,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787207399.6638494,
-    "fills": 1
+    "last_fill_at": 1787207474.4358122,
+    "fills": 2
   }
 ]
