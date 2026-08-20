@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.0693228726504,
+  "bankroll": 475.9363228726504,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2660,6 +2660,11 @@
       "timestamp": 1787201663.9294033,
       "bankroll": 481.07,
       "event": "lost: RN1 \u2014 Los Angeles Galaxy vs. San Jose Earthquakes: O/U 3.5"
+    },
+    {
+      "timestamp": 1787201788.8946092,
+      "bankroll": 475.94,
+      "event": "lost: RN1 \u2014 Will Los Angeles Galaxy win on 2026-08-19?"
     }
   ]
 }

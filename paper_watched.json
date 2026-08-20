@@ -2,7 +2,7 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787077817.1179783,
-    "roi_pct": 985.0,
+    "roi_pct": 985.02,
     "short_term_pct": 100.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
@@ -14,49 +14,49 @@
   "0xf377b9fb12a4b7507a4f997461a73eb30b564159": {
     "username": "danielwolfmorales3pddb6dl6",
     "added_at": 1787168428.810401,
-    "roi_pct": 539.35,
-    "short_term_pct": 100.0
-  },
-  "0x1d1ade627d0bb0205758580b20d808573e720df6": {
-    "username": "Pwaddler",
-    "added_at": 1787193434.0746636,
-    "roi_pct": 583.41,
+    "roi_pct": 535.39,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1787197160.9816833,
-    "roi_pct": 1114.33,
+    "roi_pct": 1303.51,
     "short_term_pct": 100.0
   },
   "0x32b484581fc5606de9c1e43af4636b6be9bc8b21": {
     "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
     "added_at": 1787197160.9816906,
-    "roi_pct": 384.17,
-    "short_term_pct": 100.0
-  },
-  "0xc660ae71765d0d9eaf5fa8328c1c959841d2bd28": {
-    "username": "BoggsFromShawshank",
-    "added_at": 1787200888.3257327,
-    "roi_pct": 4268.75,
+    "roi_pct": 437.88,
     "short_term_pct": 100.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1787200888.3257737,
-    "roi_pct": 464.14,
+    "roi_pct": 536.46,
     "short_term_pct": 100.0
   },
   "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
     "username": "ferrariChampions2026",
     "added_at": 1787200888.3257754,
-    "roi_pct": 453.82,
+    "roi_pct": 571.89,
     "short_term_pct": 100.0
   },
   "0x21f333307ac6d2e65ac82f014b3dd2b64cbc35e3": {
     "username": "hi774c",
     "added_at": 1787200888.325779,
-    "roi_pct": 332.03,
+    "roi_pct": 1184.81,
     "short_term_pct": 90.0
+  },
+  "0xf5f92940519a72da460b1c2a606bc1230f0e87b0": {
+    "username": "kekasaur",
+    "added_at": 1787201822.9544318,
+    "roi_pct": 324.71,
+    "short_term_pct": 100.0
+  },
+  "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
+    "username": "",
+    "added_at": 1787201822.9544342,
+    "roi_pct": 269.83,
+    "short_term_pct": 100.0
   }
 }
