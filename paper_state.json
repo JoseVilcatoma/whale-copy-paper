@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.07735447607314,
+  "bankroll": 457.3586523484135,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2075,6 +2075,21 @@
       "timestamp": 1787183420.6806476,
       "bankroll": 462.08,
       "event": "won: HomeRunHazard \u2014 Cancun: Otto Virtanen vs Moez Echargui"
+    },
+    {
+      "timestamp": 1787184654.467827,
+      "bankroll": 467.58,
+      "event": "won: Sassy-Bucket \u2014 Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5"
+    },
+    {
+      "timestamp": 1787184654.568031,
+      "bankroll": 462.47,
+      "event": "lost: HomeRunHazard \u2014 Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5"
+    },
+    {
+      "timestamp": 1787184655.469876,
+      "bankroll": 457.36,
+      "event": "lost: ferrariChampions2026 \u2014 Toronto Blue Jays vs. Tampa Bay Rays: O/U 7.5"
     }
   ]
 }

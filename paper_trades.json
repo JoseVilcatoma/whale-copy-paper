@@ -10824,8 +10824,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -10848,8 +10848,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "Sassy-Bucket"
     ],
@@ -11149,8 +11149,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "HomeRunHazard",
       "Sassy-Bucket"
@@ -12450,8 +12450,8 @@
     "title": "Valorant: G2 Esports vs M80 - Map 1 Winner",
     "outcome": "M80",
     "side": "BUY",
-    "whale_usd": 4086.6467070000003,
-    "whale_pct": 1.156,
+    "whale_usd": 5722.3977,
+    "whale_pct": 1.619,
     "whale_value_at_open": 353545.0291,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -12462,8 +12462,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787184473.600373,
-    "fills": 5
+    "last_fill_at": 1787184637.4701307,
+    "fills": 6
   },
   {
     "timestamp": 1787183966,
@@ -12562,6 +12562,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1787184303.077667,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787184691,
+    "timestamp_added": 1787184691.7378361,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-lad-col-2026-08-19-total-11pt5",
+    "title": "Los Angeles Dodgers vs. Colorado Rockies: O/U 11.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 7238.5196,
+    "whale_pct": 19.383,
+    "whale_value_at_open": 37344.9169,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787184691.7378511,
     "fills": 1
   }
 ]
