@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 06:02:28 (hora de Perú)
+Actualizado: 2026-08-20 06:04:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.54
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 06:02:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $228.54)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $223.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 7 | 4 | 3 | -6.97 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| RN1 | 91 | 45 | 11 | -34.84 USD |
+| RN1 | 91 | 45 | 12 | -34.84 USD |
 | ferrariChampions2026 | 152 | 90 | 21 | -40.43 USD |
 
 ## Análisis general
@@ -182,6 +182,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 82% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Da | Dalila Jakupovic (BUY) | 97% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Denis Yevseyev  | Jannik Maute (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 46% | 5.00 | 6.3% | 💰 vendida anticipada | +0.27 |
@@ -211,4 +212,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 60% | 5.00 | 27.5% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Sion: Tommaso Compagnucci vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 30.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 60% | 5.00 | 120.5% | 💰 vendida anticipada | +1.93 |
-| IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 61% | 5.00 | 10.1% | 💰 vendida anticipada | +0.05 |
