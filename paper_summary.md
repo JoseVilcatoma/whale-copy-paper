@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:10:04 (hora de Perú)
+Actualizado: 2026-08-19 21:12:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $467.92
-**Retorno acumulado:** -6.42%
+**Bankroll actual:** $479.10
+**Retorno acumulado:** -4.18%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 21:10:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $244.67)
+**Capital comprometido ahora mismo:** $193.25 en 39 posiciones abiertas (disponible para nuevas apuestas: $285.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,27 +34,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 1 | 1 | 1 | -0.25 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
+| HomeRunHazard | 34 | 16 | 6 | -1.74 USD |
 |  | 3 | 2 | 0 | -3.59 USD |
+| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 4 | 3 | 0 | -4.18 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
+| Sassy-Bucket | 2 | 3 | 2 | -5.55 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
-| HomeRunHazard | 33 | 16 | 7 | -5.88 USD |
-| 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 3 | 1 | -6.79 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
-| Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
-| RN1 | 71 | 36 | 11 | -19.78 USD |
-| ferrariChampions2026 | 141 | 84 | 12 | -37.86 USD |
+| RN1 | 72 | 36 | 10 | -17.17 USD |
+| ferrariChampions2026 | 142 | 85 | 10 | -40.35 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 479
-- **Aciertos:** 311 (64.9%)
-- **Cuota promedio de entrada:** 64.4%
+- **Apuestas resueltas:** 485
+- **Aciertos:** 316 (65.2%)
+- **Cuota promedio de entrada:** 64.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,392.20
-- **ROI sobre lo apostado:** -1.38%
-- **Comisiones pagadas (taker fee):** $42.64 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,422.20
+- **ROI sobre lo apostado:** -0.90%
+- **Comisiones pagadas (taker fee):** $43.23 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.88% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,8 +62,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 224 | 47.3% | 50.1% | -2.8 pp |
-| 60-79% | 157 | 73.9% | 68.3% | +5.6 pp |
+| 40-59% | 226 | 47.8% | 50.2% | -2.4 pp |
+| 60-79% | 161 | 73.9% | 68.2% | +5.7 pp |
 | 80-94% | 66 | 86.4% | 87.3% | -1.0 pp |
 | 95-99% (casi seguro) | 32 | 100.0% | 97.2% | +2.8 pp |
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 (BO3) - VCT  | G2 Esports (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 53% | 5.00 | 19.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Madison Keys vs Xiyu Wa | Madison Keys (BUY) | 74% | 4.47 | 0.2% | ✅ ganada | +1.51 |
-| ferrariChampions2026 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.4% | ✅ ganada | +2.61 |
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongo | Team Falcons (BUY) | 81% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus Crew vs. CF Montréal: O/U 4.5 | Under (BUY) | 73% | 5.00 | 0.1% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | M80 (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |

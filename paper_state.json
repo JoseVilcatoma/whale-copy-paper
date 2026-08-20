@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.92036423502987,
+  "bankroll": 479.09950883536317,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2400,6 +2400,36 @@
       "timestamp": 1787191552.918256,
       "bankroll": 467.92,
       "event": "won: RN1 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787191858.429917,
+      "bankroll": 470.53,
+      "event": "won: 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 \u2014 Will Inter Miami CF win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191858.530094,
+      "bankroll": 473.13,
+      "event": "won: RN1 \u2014 Will Inter Miami CF win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787191858.789165,
+      "bankroll": 468.03,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1787191858.937424,
+      "bankroll": 472.18,
+      "event": "won: HomeRunHazard \u2014 New York Yankees vs. Baltimore Orioles: O/U 9.5"
+    },
+    {
+      "timestamp": 1787191860.8832138,
+      "bankroll": 476.49,
+      "event": "won: Sassy-Bucket \u2014 Athletics vs. Kansas City Royals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787191862.7803082,
+      "bankroll": 479.1,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-19?"
     }
   ]
 }
