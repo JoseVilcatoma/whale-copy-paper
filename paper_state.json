@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.9592583957815,
+  "bankroll": 516.8262583957815,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3145,6 +3145,11 @@
       "timestamp": 1787247783.8896873,
       "bankroll": 521.96,
       "event": "won: Lakersfan111 \u2014 Game Handicap: BLG (-1.5) vs LGD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1787251911.6816492,
+      "bankroll": 516.83,
+      "event": "lost: SDTrading \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5"
     }
   ]
 }
