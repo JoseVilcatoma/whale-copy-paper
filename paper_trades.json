@@ -13584,8 +13584,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 968.6456,
-    "whale_pct": 0.851,
+    "whale_usd": 2704.6456,
+    "whale_pct": 2.376,
     "whale_value_at_open": 113845.4497,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -13596,8 +13596,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787205987.0135608,
-    "fills": 1
+    "last_fill_at": 1787207311.4672985,
+    "fills": 3
   },
   {
     "timestamp": 1787206078,
@@ -13694,5 +13694,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787207288.5621896,
     "fills": 2
+  },
+  {
+    "timestamp": 1787207299,
+    "timestamp_added": 1787207299.5661676,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-vsn2-boombo-2026-08-20-total-games-2pt5",
+    "title": "Games Total: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 652.1312999999999,
+    "whale_pct": 0.464,
+    "whale_value_at_open": 140438.9265,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787207299.5661786,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787207399,
+    "timestamp_added": 1787207399.6638393,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "dota2-vsn2-boombo-2026-08-20-game1",
+    "title": "Dota 2: TEAM VISION vs BoomBoys - Game 1 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "whale_usd": 938.829998,
+    "whale_pct": 1.253,
+    "whale_value_at_open": 74901.5959,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787207399.6638494,
+    "fills": 1
   }
 ]
