@@ -15006,8 +15006,8 @@
     "title": "Sion: Dominic Stephan Stricker vs Mika Brunold",
     "outcome": "Dominic Stephan Stricker",
     "side": "BUY",
-    "whale_usd": 1439.04369,
-    "whale_pct": 1.486,
+    "whale_usd": 2964.781819,
+    "whale_pct": 3.062,
     "whale_value_at_open": 96821.8502,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -15018,8 +15018,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787224309.0746417,
-    "fills": 1
+    "last_fill_at": 1787225992.8117132,
+    "fills": 2
   },
   {
     "timestamp": 1787224391,
@@ -15100,5 +15100,56 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787225095.3058307,
     "fills": 1
+  },
+  {
+    "timestamp": 1787225987,
+    "timestamp_added": 1787225987.6855717,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-liquid-ty-2026-08-20-game1",
+    "title": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 17943.0471,
+    "whale_pct": 144.578,
+    "whale_value_at_open": 12410.5963,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787226016.6713269,
+    "fills": 7
+  },
+  {
+    "timestamp": 1787226073,
+    "timestamp_added": 1787226073.831302,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-ns-drx-2026-08-20-game2",
+    "title": "LoL: Nongshim Red Force vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "whale_usd": 1613.3494999999998,
+    "whale_pct": 3.235,
+    "whale_value_at_open": 49870.4646,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787226075.1696382,
+    "fills": 2
   }
 ]
