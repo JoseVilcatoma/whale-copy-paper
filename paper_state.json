@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.9363228726504,
+  "bankroll": 476.9174192581926,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2665,6 +2665,11 @@
       "timestamp": 1787201788.8946092,
       "bankroll": 475.94,
       "event": "lost: RN1 \u2014 Will Los Angeles Galaxy win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787202227.1375666,
+      "bankroll": 476.92,
+      "event": "won: RN1 \u2014 Will CR Flamengo win on 2026-08-19?"
     }
   ]
 }
