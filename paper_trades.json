@@ -12741,8 +12741,8 @@
     "title": "Los Angeles Dodgers vs. Colorado Rockies",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 9732.850900000001,
-    "whale_pct": 2.979,
+    "whale_usd": 11906.566900000002,
+    "whale_pct": 3.645,
     "whale_value_at_open": 326698.6742,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -12755,8 +12755,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787197822.4698155,
-    "fills": 8
+    "last_fill_at": 1787198165.6530313,
+    "fills": 10
   },
   {
     "timestamp": 1787189954,
@@ -13346,5 +13346,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787197326.3813436,
     "fills": 3
+  },
+  {
+    "timestamp": 1787198237,
+    "timestamp_added": 1787198237.3765764,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-sabalen-bejlek-2026-08-19",
+    "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
+    "outcome": "Aryna Sabalenka",
+    "side": "BUY",
+    "whale_usd": 580.0911110000001,
+    "whale_pct": 1.351,
+    "whale_value_at_open": 42938.6156,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787198237.376591,
+    "fills": 1
   }
 ]
