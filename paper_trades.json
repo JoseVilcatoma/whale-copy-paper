@@ -16272,8 +16272,8 @@
     "title": "K. Sint-Truidense VV vs. AS Om\u00f3noia Leukos\u00edas: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 15440.385999999999,
-    "whale_pct": 64.717,
+    "whale_usd": 16007.985999999999,
+    "whale_pct": 67.096,
     "whale_value_at_open": 23858.2637,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -16284,8 +16284,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787244890.924646,
-    "fills": 5
+    "last_fill_at": 1787245013.6702366,
+    "fills": 6
   },
   {
     "timestamp": 1787244926,

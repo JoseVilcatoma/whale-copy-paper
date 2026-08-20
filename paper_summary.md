@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 11:56:29 (hora de Perú)
+Actualizado: 2026-08-20 11:58:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.33
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ChonkyChocolateCake | LoL: Karmine Corp Blue vs Ici Japon Corp | Karmine Corp Blue (BUY) | 67% | 5.00 | 3.2% | ⏳ pendiente | — |
-| predictionlegend | K. Sint-Truidense VV vs. AS Omónoia Leuk | Over (BUY) | 44% | 5.00 | 64.7% | ⏳ pendiente | — |
+| predictionlegend | K. Sint-Truidense VV vs. AS Omónoia Leuk | Over (BUY) | 44% | 5.00 | 67.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 47% | 5.00 | 60.8% | 💰 vendida anticipada | +0.37 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 67.2% | ⏳ pendiente | — |
 | ChonkyChocolateCake | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 32.6% | ⏳ pendiente | — |
