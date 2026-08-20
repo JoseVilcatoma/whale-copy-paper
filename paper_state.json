@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.09950883536317,
+  "bankroll": 482.8619914495232,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2430,6 +2430,21 @@
       "timestamp": 1787191862.7803082,
       "bankroll": 479.1,
       "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787192172.9486022,
+      "bankroll": 480.01,
+      "event": "won: ferrariChampions2026 \u2014 Will CA Platense win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787192173.4289997,
+      "bankroll": 480.37,
+      "event": "won: ferrariChampions2026 \u2014 CD Coquimbo Unido vs. CA Platense: O/U 2.5"
+    },
+    {
+      "timestamp": 1787192174.1427095,
+      "bankroll": 482.86,
+      "event": "won: ferrariChampions2026 \u2014 Will CD Coquimbo Unido win on 2026-08-19?"
     }
   ]
 }
