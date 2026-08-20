@@ -16095,8 +16095,8 @@
     "title": "San Francisco Giants vs. Cleveland Guardians: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4180.0515,
-    "whale_pct": 20.675,
+    "whale_usd": 8459.682399999998,
+    "whale_pct": 41.842,
     "whale_value_at_open": 20218.035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -16107,8 +16107,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787240067.7940397,
-    "fills": 1
+    "last_fill_at": 1787240127.454122,
+    "fills": 2
   },
   {
     "timestamp": 1787240111,
@@ -16134,6 +16134,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787240111.897293,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787240126,
+    "timestamp_added": 1787240126.8416283,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-sf-cle-2026-08-20-total-6pt5",
+    "title": "San Francisco Giants vs. Cleveland Guardians: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5359.452000000001,
+    "whale_pct": 18.088,
+    "whale_value_at_open": 29629.1552,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787240126.8416386,
     "fills": 1
   }
 ]
