@@ -16841,8 +16841,8 @@
     "title": "Los Angeles Angels vs. Houston Astros: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 9831.24,
-    "whale_pct": 4.611,
+    "whale_usd": 11298.932307,
+    "whale_pct": 5.299,
     "whale_value_at_open": 213208.3747,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -16853,8 +16853,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787264299.6255324,
-    "fills": 1
+    "last_fill_at": 1787264632.3674757,
+    "fills": 2
   },
   {
     "timestamp": 1787264591,
@@ -16878,6 +16878,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787264591.9227128,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787264667,
+    "timestamp_added": 1787264668.148074,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-sen-2game-2026-08-20-game2",
+    "title": "Valorant: Sentinels vs 2GAME Esports - Map 2 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 787.2004,
+    "whale_pct": 0.322,
+    "whale_value_at_open": 244166.6447,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787264668.1480908,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 17:23:49 (hora de Perú)
+Actualizado: 2026-08-20 17:25:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $483.13
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 17:23:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $368.13)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $363.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ChonkyChocolateCake | 3 | 3 | 1 | -5.17 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
-| ferrariChampions2026 | 166 | 95 | 2 | -6.06 USD |
+| ferrariChampions2026 | 166 | 95 | 3 | -6.06 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
@@ -190,14 +190,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-kc-2026-08-20-total-8pt5 | SDTrading, Sassy-Bucket |
 | dota2-ngx-flc-2026-08-20 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake, IMAREALPERSON |
 | lol-koia-hrts-2026-08-20 | ChonkyChocolateCake, danielwolfmorales3pddb6dl6 |
-| val-sen-2game-2026-08-20-game2 | Lakersfan111, casualbet2020 |
+| val-sen-2game-2026-08-20-game2 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Team Falcons (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
-| Sassy-Bucket | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 49% | 5.00 | 4.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: BB (-1.5) vs Iron Wing (+ | Iron Wing (BUY) | 71% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Lakersfan111 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 63% | 5.00 | 4.1% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 41% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -225,4 +226,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 67.2% | ❌ perdida | -5.10 |
 | ChonkyChocolateCake | Dota 2: Nigma Galaxy vs Team Falcons (BO | Team Falcons (BUY) | 59% | 5.00 | 32.6% | ❌ perdida | -5.10 |
 | ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 61% | 5.00 | 31.0% | ✅ ganada | +3.10 |
-| Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 57% | 5.00 | 86.0% | ✅ ganada | +3.66 |
