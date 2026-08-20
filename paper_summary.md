@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 16:29:26 (hora de Perú)
+Actualizado: 2026-08-20 16:31:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 16:29:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $377.46)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $372.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| Sassy-Bucket | 4 | 6 | 2 | -12.97 USD |
+| Sassy-Bucket | 4 | 6 | 3 | -12.97 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 8 | 3 | -15.06 USD |
 |  | 12 | 9 | 5 | -18.45 USD |
 | RN1 | 105 | 50 | 1 | -38.22 USD |
@@ -195,7 +195,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 49% | 5.00 | 11.1% | ⏳ pendiente | — |
+| Sassy-Bucket | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 52% | 5.00 | 27.0% | ⏳ pendiente | — |
+| Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 49% | 5.00 | 16.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 68% | 5.00 | 5.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Washington Nationals vs. Texas Rangers:  | Over (BUY) | 49% | 5.00 | 1655.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -224,4 +225,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Roehampton: Michael Geerts vs Lucas Poul | Michael Geerts (BUY) | 48% | 5.00 | 18.7% | ❌ perdida | -5.13 |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 47% | 5.00 | 73.9% | ❌ perdida | -5.13 |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 59% | 5.00 | 78.0% | ⏳ pendiente | — |
-| SDTrading | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
