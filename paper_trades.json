@@ -16988,8 +16988,8 @@
     "title": "Cancun: Henrique Rocha vs Hubert Hurkacz",
     "outcome": "Hubert Hurkacz",
     "side": "BUY",
-    "whale_usd": 4602.835713,
-    "whale_pct": 2.046,
+    "whale_usd": 5139.426808,
+    "whale_pct": 2.285,
     "whale_value_at_open": 224926.697,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -17000,8 +17000,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787266223.5187838,
-    "fills": 3
+    "last_fill_at": 1787268228.978494,
+    "fills": 4
   },
   {
     "timestamp": 1787266225,
@@ -17385,8 +17385,8 @@
     "title": "Will CSyD Macar\u00e1 win on 2026-08-20?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 938.79,
-    "whale_pct": 0.995,
+    "whale_usd": 1939.1399999999999,
+    "whale_pct": 2.055,
     "whale_value_at_open": 94343.1495,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -17399,8 +17399,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787267985.7931228,
-    "fills": 1
+    "last_fill_at": 1787268251.5950234,
+    "fills": 2
   },
   {
     "timestamp": 1787268017,
@@ -17428,5 +17428,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787268018.2271855,
     "fills": 1
+  },
+  {
+    "timestamp": 1787268259,
+    "timestamp_added": 1787268259.9420755,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-kru1-w7m-2026-08-20",
+    "title": "Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "KR\u00dc Esports",
+    "side": "BUY",
+    "whale_usd": 1294.44,
+    "whale_pct": 0.527,
+    "whale_value_at_open": 245477.7369,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787268260.5948553,
+    "fills": 2
   }
 ]
