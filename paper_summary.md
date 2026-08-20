@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 09:36:57 (hora de Perú)
+Actualizado: 2026-08-20 09:39:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.27
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 09:36:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $283.27)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $273.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 2 | 1 | 2 | +0.31 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
-| casualbet2020 | 0 | 0 | 2 | +0.00 USD |
+| casualbet2020 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 161 | 92 | 10 | -7.75 USD |
-| danielwolfmorales3pddb6dl6 | 3 | 5 | 3 | -11.66 USD |
+| danielwolfmorales3pddb6dl6 | 3 | 5 | 4 | -11.66 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 8 | 6 | 6 | -16.67 USD |
 | RN1 | 101 | 50 | 5 | -48.56 USD |
@@ -180,6 +180,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-kotliar-lovric-2026-08-20 | RN1, ferrariChampions2026 |
 | atp-tarvet-broom-2026-08-20 | RN1, ferrariChampions2026 |
 | dota2-liquid-ty-2026-08-20-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, ferrariChampions2026 |
+| atp-hassan-blancan-2026-08-20 | RN1, danielwolfmorales3pddb6dl6 |
 | atp-giustin-kuzmano-2026-08-20 | RN1, danielwolfmorales3pddb6dl6 |
 | lol-lgd-blg-2026-08-20 | danielwolfmorales3pddb6dl6, sulumos |
 
@@ -187,6 +188,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 49% | 5.00 | 28.3% | ⏳ pendiente | — |
+| casualbet2020 | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 60% | 5.00 | 458.7% | ⏳ pendiente | — |
 |  | LoL: Solary vs Skillcamp Esport (BO3) -  | Solary (BUY) | 87% | 5.00 | 1.5% | ⏳ pendiente | — |
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Espo | FURIA (BUY) | 57% | 5.00 | 24.3% | ⏳ pendiente | — |
 |  | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -215,5 +218,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: Natus Vincere vs Legacy  | Natus Vincere (BUY) | 53% | 5.00 | 0.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 49% | 5.00 | 19.4% | 💰 vendida anticipada | +0.77 |
 | RN1 | Sion: Dominic Stephan Stricker vs Mika B | Dominic Stephan Stricker (BUY) | 97% | 5.00 | 3.1% | ✅ ganada | +0.15 |
-| RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 82% | 5.00 | 6.1% | ✅ ganada | +1.05 |
-| RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Da | Dalila Jakupovic (BUY) | 97% | 5.00 | 1.9% | ✅ ganada | +0.15 |
