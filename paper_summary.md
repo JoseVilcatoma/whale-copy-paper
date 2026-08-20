@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 02:19:38 (hora de Perú)
+Actualizado: 2026-08-20 02:21:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $479.50
-**Retorno acumulado:** -4.10%
+**Bankroll actual:** $479.58
+**Retorno acumulado:** -4.08%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 02:19:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $359.50)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $384.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 7 | 4 | 0 | +11.47 USD |
+| Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Lakersfan111 | 1 | 0 | 2 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
@@ -41,21 +41,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-|  | 4 | 3 | 5 | -7.15 USD |
+|  | 5 | 4 | 3 | -10.09 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 89 | 43 | 4 | -27.70 USD |
-| ferrariChampions2026 | 149 | 87 | 8 | -33.59 USD |
+| ferrariChampions2026 | 150 | 88 | 6 | -36.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 536
-- **Aciertos:** 351 (65.5%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 541
+- **Aciertos:** 354 (65.4%)
+- **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,675.45
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $47.38 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,700.45
+- **ROI sobre lo apostado:** -0.79%
+- **Comisiones pagadas (taker fee):** $47.87 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -63,8 +63,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 247 | 47.8% | 50.1% | -2.4 pp |
-| 60-79% | 177 | 74.6% | 68.4% | +6.2 pp |
+| 40-59% | 249 | 47.8% | 50.2% | -2.4 pp |
+| 60-79% | 180 | 74.4% | 68.3% | +6.1 pp |
 | 80-94% | 75 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
 
@@ -183,10 +183,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Maanshan 7 Men: Weiyi Kong vs M  | M Rifqi Fitriadi (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 66% | 5.00 | 8.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Dabin Kim vs Me | Meng Yi Chen (BUY) | 90% | 5.00 | 2.1% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Team Spirit (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 63% | 5.00 | 2.9% | ⏳ pendiente | — |
-|  | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
-|  | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 57% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Team Spirit (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
+| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 63% | 5.00 | 2.9% | ❌ perdida | -5.09 |
+|  | Dota 2: Iron Wing vs Team Spirit (BO3) - | Team Spirit (BUY) | 69% | 5.00 | 0.5% | ✅ ganada | +2.17 |
+|  | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 57% | 5.00 | 1.2% | ❌ perdida | -5.11 |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Sara Bejlek (BUY) | 75% | 5.00 | 9.3% | ✅ ganada | +1.60 |
 | RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 84% | 5.00 | 0.6% | ✅ ganada | +0.91 |

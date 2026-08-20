@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.5040422261709,
+  "bankroll": 479.5830246024132,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2685,6 +2685,31 @@
       "timestamp": 1787208236.5003116,
       "bankroll": 479.5,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen"
+    },
+    {
+      "timestamp": 1787210430.5045054,
+      "bankroll": 485.01,
+      "event": "won: Lakersfan111 \u2014 Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787210432.1613123,
+      "bankroll": 479.9,
+      "event": "lost:  \u2014 Dota 2: Iron Wing vs Team Spirit - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787210432.2615135,
+      "bankroll": 482.07,
+      "event": "won:  \u2014 Dota 2: Iron Wing vs Team Spirit (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787210432.3616662,
+      "bankroll": 476.98,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs Team Spirit - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787210432.4618134,
+      "bankroll": 479.58,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs Team Spirit - Game 2 Winner"
     }
   ]
 }
