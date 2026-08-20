@@ -16781,5 +16781,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787262671.9896429,
     "fills": 2
+  },
+  {
+    "timestamp": 1787263898,
+    "timestamp_added": 1787263898.351451,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "val-sen-2game-2026-08-20-game2",
+    "title": "Valorant: Sentinels vs 2GAME Esports - Map 2 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 8447.7014,
+    "whale_pct": 4.125,
+    "whale_value_at_open": 204797.6718,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787263936.2344594,
+    "fills": 5
   }
 ]

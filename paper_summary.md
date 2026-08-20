@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 17:11:18 (hora de Perú)
+Actualizado: 2026-08-20 17:13:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.23
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 17:11:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $388.23)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $383.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 13 | 1 | 0 | +19.00 USD |
-| Lakersfan111 | 3 | 0 | 4 | +16.77 USD |
+| Lakersfan111 | 3 | 0 | 5 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -190,11 +190,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-oak-kc-2026-08-20-total-8pt5 | SDTrading, Sassy-Bucket |
 | dota2-ngx-flc-2026-08-20 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake, IMAREALPERSON |
 | lol-koia-hrts-2026-08-20 | ChonkyChocolateCake, danielwolfmorales3pddb6dl6 |
+| val-sen-2game-2026-08-20-game2 | Lakersfan111, casualbet2020 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 63% | 5.00 | 4.1% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 41% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 52% | 5.00 | 36.8% | ⏳ pendiente | — |
 | Sassy-Bucket | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 49% | 5.00 | 26.9% | ⏳ pendiente | — |
@@ -224,4 +226,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | CORGI8 | Counter-Strike: G2 vs FURIA (BO3) - Espo | G2 (BUY) | 45% | 5.00 | 163.0% | ❌ perdida | -5.14 |
 | Sassy-Bucket | San Francisco Giants vs. Cleveland Guard | Over (BUY) | 44% | 5.00 | 216.9% | ❌ perdida | -5.14 |
 | danielwolfmorales3pddb6dl6 | Roehampton: Michael Geerts vs Lucas Poul | Michael Geerts (BUY) | 48% | 5.00 | 18.7% | ❌ perdida | -5.13 |
-| danielwolfmorales3pddb6dl6 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 47% | 5.00 | 73.9% | ❌ perdida | -5.13 |
