@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.4554246317849,
+  "bankroll": 522.3254246317849,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3160,6 +3160,11 @@
       "timestamp": 1787252852.8014114,
       "bankroll": 527.46,
       "event": "won: SDTrading \u2014 Seattle Mariners vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787253159.6349156,
+      "bankroll": 522.33,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Roehampton: Michael Geerts vs Lucas Poullain"
     }
   ]
 }
