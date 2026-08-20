@@ -13550,5 +13550,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787201543.536644,
     "fills": 1
+  },
+  {
+    "timestamp": 1787204424,
+    "timestamp_added": 1787204425.4519749,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-dabinki-che-2026-08-20",
+    "title": "ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen",
+    "outcome": "Meng Yi Chen",
+    "side": "BUY",
+    "whale_usd": 711.333333,
+    "whale_pct": 2.141,
+    "whale_value_at_open": 33220.3873,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787204425.4519885,
+    "fills": 1
   }
 ]
