@@ -11460,8 +11460,8 @@
     "title": "Will FC Cincinnati win on 2026-08-19?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 11579.989000000001,
-    "whale_pct": 3.593,
+    "whale_usd": 12290.077200000002,
+    "whale_pct": 3.814,
     "whale_value_at_open": 322278.1082,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -11474,8 +11474,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787182197.8763213,
-    "fills": 10
+    "last_fill_at": 1787184853.569445,
+    "fills": 11
   },
   {
     "timestamp": 1787179121,
@@ -12498,8 +12498,8 @@
     "title": "Counter-Strike: Team Falcons vs TheMongolz (BO3) - Esports World Cup Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 2684.6491,
-    "whale_pct": 4.761,
+    "whale_usd": 5357.3139,
+    "whale_pct": 9.501,
     "whale_value_at_open": 56386.9461,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -12510,8 +12510,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787183971.4577668,
-    "fills": 1
+    "last_fill_at": 1787184868.0981758,
+    "fills": 2
   },
   {
     "timestamp": 1787184281,
@@ -12597,8 +12597,8 @@
     "title": "Valorant: G2 Esports vs M80 (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 3468.8127999999997,
-    "whale_pct": 0.911,
+    "whale_usd": 4051.4352999999996,
+    "whale_pct": 1.064,
     "whale_value_at_open": 380683.6522,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -12609,7 +12609,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787184841.7056653,
-    "fills": 2
+    "last_fill_at": 1787184906.030473,
+    "fills": 3
   }
 ]
