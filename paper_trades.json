@@ -13996,8 +13996,8 @@
     "title": "LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 7456.618166,
-    "whale_pct": 5.299,
+    "whale_usd": 8082.208166,
+    "whale_pct": 5.744,
     "whale_value_at_open": 140715.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -14008,8 +14008,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787213553.2950861,
-    "fills": 4
+    "last_fill_at": 1787213728.8577242,
+    "fills": 5
   },
   {
     "timestamp": 1787213273,
@@ -14046,8 +14046,8 @@
     "title": "LoL: Dplus KIA vs Hanwha Life Esports - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 1793.8351390000003,
-    "whale_pct": 1.261,
+    "whale_usd": 8039.6424050000005,
+    "whale_pct": 5.651,
     "whale_value_at_open": 142262.5157,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -14060,7 +14060,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787213578.102935,
-    "fills": 1
+    "last_fill_at": 1787213720.4680924,
+    "fills": 5
   }
 ]

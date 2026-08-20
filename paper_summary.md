@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 03:14:43 (hora de Perú)
+Actualizado: 2026-08-20 03:16:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.64
@@ -172,9 +172,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 50% | 5.00 | 5.7% | ⏳ pendiente | — |
 | SineNooneEI | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 52% | 5.00 | 108.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 51% | 5.00 | 5.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Dplus KIA (BUY) | 51% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | TEAM VISION (BUY) | 66% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-8.5) | Los Angeles Sparks (BUY) | 47% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Las Vegas Aces (-14.5) | Las Vegas Aces (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
