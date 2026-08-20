@@ -2,19 +2,13 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787077817.1179783,
-    "roi_pct": 985.54,
+    "roi_pct": 984.97,
     "short_term_pct": 100.0
   },
   "0x04d5524a0a5af2eca6e39e03defc261d42fe66d8": {
     "username": "WTSA",
     "added_at": 1787128732.4644034,
-    "roi_pct": 557.18,
-    "short_term_pct": 100.0
-  },
-  "0xf377b9fb12a4b7507a4f997461a73eb30b564159": {
-    "username": "danielwolfmorales3pddb6dl6",
-    "added_at": 1787168428.810401,
-    "roi_pct": 333.08,
+    "roi_pct": 556.39,
     "short_term_pct": 100.0
   },
   "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
@@ -26,37 +20,43 @@
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787204608.9886894,
-    "roi_pct": 2978.44,
+    "roi_pct": 1632.82,
     "short_term_pct": 60.0
   },
   "0x38337de21ff0bb0a11a40761507d51e318d633d1": {
     "username": "SineNooneEI",
     "added_at": 1787213252.1909947,
-    "roi_pct": 6214.61,
+    "roi_pct": 6314.62,
     "short_term_pct": 100.0
   },
   "0x3eb095d871501a1d7a3cb086a22d174b52356a68": {
     "username": "predictionlegend",
     "added_at": 1787214186.4456692,
-    "roi_pct": 13485.65,
+    "roi_pct": 12799.73,
     "short_term_pct": 100.0
   },
   "0x547f2917d51f2e63ab382dcf641d4e0240162937": {
     "username": "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
     "added_at": 1787216054.7777152,
-    "roi_pct": 348.87,
+    "roi_pct": 348.84,
     "short_term_pct": 100.0
   },
   "0x27f738fe203827445690339104aae35b20bc44b0": {
     "username": "ic4cream",
     "added_at": 1787216054.7777188,
-    "roi_pct": 314.06,
+    "roi_pct": 314.28,
     "short_term_pct": 90.0
   },
-  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
-    "username": "ferrariChampions2026",
-    "added_at": 1787216054.7777216,
-    "roi_pct": 307.22,
+  "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
+    "username": "IMAREALPERSON",
+    "added_at": 1787216989.836341,
+    "roi_pct": 365.6,
+    "short_term_pct": 100.0
+  },
+  "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff": {
+    "username": "sulumos",
+    "added_at": 1787216989.8363454,
+    "roi_pct": 259.24,
     "short_term_pct": 100.0
   }
 }
