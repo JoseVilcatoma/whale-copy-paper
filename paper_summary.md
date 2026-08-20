@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:15:09 (hora de Perú)
+Actualizado: 2026-08-20 18:17:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 18:15:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $293.92)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $288.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 4 | 6 | 5 | -12.97 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 9 | 2 | -20.16 USD |
-| RN1 | 105 | 50 | 7 | -38.22 USD |
+| RN1 | 105 | 50 | 8 | -38.22 USD |
 
 ## Análisis general
 
@@ -199,6 +199,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CSyD Macará win on 2026-08-20? | Yes (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 62% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -228,4 +229,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Washington Nationals vs. Texas Rangers:  | Over (BUY) | 49% | 5.00 | 1655.4% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 2 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
 | Lakersfan111 | LoL: KT Rolster vs T1 - Game 1 Winner | T1 (BUY) | 63% | 5.00 | 5.7% | ⏳ pendiente | — |
-| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 47% | 5.00 | 8.2% | ⏳ pendiente | — |

@@ -13948,8 +13948,8 @@
     "title": "Spread: Atlanta Dream (-8.5)",
     "outcome": "Los Angeles Sparks",
     "side": "BUY",
-    "whale_usd": 940.1388000000001,
-    "whale_pct": 0.759,
+    "whale_usd": 3868.958799,
+    "whale_pct": 3.122,
     "whale_value_at_open": 123928.7618,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -13960,8 +13960,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787212480.758975,
-    "fills": 1
+    "last_fill_at": 1787267814.626347,
+    "fills": 2
   },
   {
     "timestamp": 1787213069,
@@ -17324,6 +17324,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787267641.3915613,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787267784,
+    "timestamp_added": 1787267785.3366823,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "sud-mac-san-2026-08-20-mac",
+    "title": "Will CSyD Macar\u00e1 win on 2026-08-20?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 661.77,
+    "whale_pct": 0.803,
+    "whale_value_at_open": 82413.5758,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787267785.3366976,
     "fills": 1
   }
 ]
