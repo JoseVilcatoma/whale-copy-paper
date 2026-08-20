@@ -16095,8 +16095,8 @@
     "title": "San Francisco Giants vs. Cleveland Guardians: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 43112.807708,
-    "whale_pct": 213.239,
+    "whale_usd": 43843.446508,
+    "whale_pct": 216.853,
     "whale_value_at_open": 20218.035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -16107,8 +16107,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787244787.610516,
-    "fills": 12
+    "last_fill_at": 1787245533.4476655,
+    "fills": 13
   },
   {
     "timestamp": 1787240111,
@@ -16336,6 +16336,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787245332.4275498,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787245580,
+    "timestamp_added": 1787245580.6620102,
+    "username": "CORGI8",
+    "wallet": "0x79ae097215202b5d01f98e4479fb219102469a4a",
+    "slug": "wta-anisimo-pegula-2026-08-21",
+    "title": "Cincinnati Open: Amanda Anisimova vs Jessica Pegula",
+    "outcome": "Amanda Anisimova",
+    "side": "BUY",
+    "whale_usd": 2666.953636,
+    "whale_pct": 6.166,
+    "whale_value_at_open": 43250.9973,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787245580.6620216,
     "fills": 1
   }
 ]
