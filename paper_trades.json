@@ -15453,8 +15453,8 @@
     "title": "LoL: LGD Gaming vs Bilibili Gaming (BO3) - LPL Group Ascend",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 6600.0,
-    "whale_pct": 19.391,
+    "whale_usd": 7479.9956,
+    "whale_pct": 21.976,
     "whale_value_at_open": 34037.1386,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -15467,7 +15467,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787231648.905521,
-    "fills": 1
+    "last_fill_at": 1787231744.4300535,
+    "fills": 2
   }
 ]

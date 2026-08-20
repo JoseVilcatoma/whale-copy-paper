@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 08:14:44 (hora de Perú)
+Actualizado: 2026-08-20 08:16:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.88
@@ -186,7 +186,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| sulumos | LoL: LGD Gaming vs Bilibili Gaming (BO3) | LGD Gaming (BUY) | 45% | 5.00 | 19.4% | ⏳ pendiente | — |
+| sulumos | LoL: LGD Gaming vs Bilibili Gaming (BO3) | LGD Gaming (BUY) | 45% | 5.00 | 22.0% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: LGD Gaming vs Bilibili Gaming (BO3) | Bilibili Gaming (BUY) | 56% | 5.00 | 75.8% | ⏳ pendiente | — |
 | casualbet2020 | Map Handicap: TS (-1.5) vs B8 (+1.5) | Spirit (BUY) | 54% | 5.00 | 38.3% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Semen Pankin (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
