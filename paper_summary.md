@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:24:36 (hora de Perú)
+Actualizado: 2026-08-19 21:26:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.86
-**Retorno acumulado:** -3.43%
+**Bankroll actual:** $479.96
+**Retorno acumulado:** -4.01%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 21:24:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $279.61)
+**Capital comprometido ahora mismo:** $193.25 en 39 posiciones abiertas (disponible para nuevas apuestas: $286.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,19 +42,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
-| RN1 | 72 | 36 | 14 | -17.17 USD |
-| ferrariChampions2026 | 145 | 85 | 7 | -36.59 USD |
+| RN1 | 73 | 36 | 14 | -17.12 USD |
+| ferrariChampions2026 | 146 | 86 | 5 | -39.54 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 488
-- **Aciertos:** 319 (65.4%)
-- **Cuota promedio de entrada:** 64.4%
+- **Apuestas resueltas:** 491
+- **Aciertos:** 321 (65.4%)
+- **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,437.20
-- **ROI sobre lo apostado:** -0.74%
-- **Comisiones pagadas (taker fee):** $43.37 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,452.20
+- **ROI sobre lo apostado:** -0.86%
+- **Comisiones pagadas (taker fee):** $43.57 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,10 +62,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 226 | 47.8% | 50.2% | -2.4 pp |
-| 60-79% | 162 | 74.1% | 68.2% | +5.9 pp |
+| 40-59% | 227 | 47.6% | 50.2% | -2.6 pp |
+| 60-79% | 163 | 74.2% | 68.2% | +6.0 pp |
 | 80-94% | 68 | 86.8% | 87.4% | -0.6 pp |
-| 95-99% (casi seguro) | 32 | 100.0% | 97.2% | +2.8 pp |
+| 95-99% (casi seguro) | 33 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -164,14 +164,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 76% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Frances Tiafoe vs Felix | Frances Tiafoe (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Montevideo City Torque vs. CA Tigre: O/U | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 99% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alex Hernandez (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Over (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Taylor Fritz vs Christo | Taylor Fritz (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Taylor Fritz vs Christo | Taylor Fritz (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
 | RN1 | Will Los Angeles Galaxy win on 2026-08-1 | No (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | RN1 | Will Portland Timbers win on 2026-08-19? | No (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -190,7 +191,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-19? | No (BUY) | 65% | 5.00 | 0.4% | ✅ ganada | +2.61 |
 | dauntlesswitness | Counter-Strike: Team Falcons vs TheMongo | Team Falcons (BUY) | 81% | 5.00 | 9.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Columbus Crew vs. CF Montréal: O/U 4.5 | Under (BUY) | 73% | 5.00 | 0.1% | ✅ ganada | +1.78 |
-| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | M80 (BUY) | 52% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | M80 (BUY) | 52% | 5.00 | 1.6% | ❌ perdida | -5.12 |
 | danielwolfmorales3pddb6dl6 | LoL: Nongshim Red Force vs Kiwoom DRX (B | Kiwoom DRX (BUY) | 42% | 5.00 | 13.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Alexis Galarneau vs Dino Pr | Alexis Galarneau (BUY) | 56% | 5.00 | 0.2% | ✅ ganada | +3.82 |
-| danielwolfmorales3pddb6dl6 | LoL: Dplus KIA Challengers vs DN SOOPers | DN SOOPers Challengers (BUY) | 43% | 5.00 | 25.0% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.8619914495232,
+  "bankroll": 479.95787331162245,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2445,6 +2445,21 @@
       "timestamp": 1787192174.1427095,
       "bankroll": 482.86,
       "event": "won: ferrariChampions2026 \u2014 Will CD Coquimbo Unido win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787192731.5572057,
+      "bankroll": 482.91,
+      "event": "won: RN1 \u2014 Cincinnati Open: Taylor Fritz vs Christopher O'Connell"
+    },
+    {
+      "timestamp": 1787192796.0068297,
+      "bankroll": 485.08,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: G2 Esports vs M80 - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787192797.0546248,
+      "bankroll": 479.96,
+      "event": "lost: ferrariChampions2026 \u2014 Valorant: G2 Esports vs M80 - Map 1 Winner"
     }
   ]
 }
