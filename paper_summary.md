@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 17:42:16 (hora de Perú)
+Actualizado: 2026-08-20 17:44:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $485.40
@@ -197,7 +197,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Will Mirassol FC win on 2026-08-20? | No (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will LDU de Quito win on 2026-08-20? | Yes (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will LDU de Quito win on 2026-08-20? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Sentinels vs 2GAME Esports - M | Sentinels (BUY) | 78% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Lakersfan111 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Team Falcons (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |

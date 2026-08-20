@@ -16916,8 +16916,8 @@
     "title": "Will LDU de Quito win on 2026-08-20?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 676.5785999999999,
-    "whale_pct": 0.282,
+    "whale_usd": 1293.3063,
+    "whale_pct": 0.539,
     "whale_value_at_open": 240036.8537,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -16928,8 +16928,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787264761.0368423,
-    "fills": 1
+    "last_fill_at": 1787265749.7130826,
+    "fills": 2
   },
   {
     "timestamp": 1787265104,
