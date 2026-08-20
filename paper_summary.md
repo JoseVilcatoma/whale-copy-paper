@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 12:00:39 (hora de Perú)
+Actualizado: 2026-08-20 12:02:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.33
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 12:00:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $330.33)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $325.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 7 | 4 | 4 | +11.47 USD |
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| IMAREALPERSON | 10 | 1 | 0 | +7.52 USD |
+| IMAREALPERSON | 10 | 1 | 1 | +7.52 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 1 | 1 | +7.07 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -193,6 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 43% | 5.00 | 7.4% | ⏳ pendiente | — |
 | ChonkyChocolateCake | LoL: Karmine Corp Blue vs Ici Japon Corp | Karmine Corp Blue (BUY) | 67% | 5.00 | 3.2% | ⏳ pendiente | — |
 | predictionlegend | K. Sint-Truidense VV vs. AS Omónoia Leuk | Over (BUY) | 44% | 5.00 | 67.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 47% | 5.00 | 60.8% | 💰 vendida anticipada | +0.37 |
@@ -222,4 +223,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Espo | FURIA (BUY) | 57% | 5.00 | 39.8% | ⏳ pendiente | — |
 |  | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ✅ ganada | +3.37 |
-|  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ✅ ganada | +0.15 |
