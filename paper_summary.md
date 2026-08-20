@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 12:52:30 (hora de Perú)
+Actualizado: 2026-08-20 12:54:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $521.96
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | IMAREALPERSON | Valorant: Team Liquid vs FUT Esports (BO | FUT Esports (BUY) | 44% | 5.00 | 2.5% | ⏳ pendiente | — |
-| predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 110.3% | ⏳ pendiente | — |
+| predictionlegend | Will Rayo Vallecano de Madrid win on 202 | No (BUY) | 61% | 5.00 | 124.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: ⁠Movistar KOI Fénix vs Team Heretic | Team Heretics Academy (BUY) | 47% | 5.00 | 11.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 49% | 5.00 | 21.1% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: G2 vs FURIA - Map 2 Winn | G2 (BUY) | 41% | 5.00 | 9.7% | ⏳ pendiente | — |
