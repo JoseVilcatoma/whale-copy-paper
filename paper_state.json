@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.84188802541104,
+  "bankroll": 515.9861472846703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3135,6 +3135,11 @@
       "timestamp": 1787246908.2431214,
       "bankroll": 511.84,
       "event": "won:  \u2014 Counter-Strike: FaZe vs Vitality - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787247217.2057953,
+      "bankroll": 515.99,
+      "event": "won: casualbet2020 \u2014 Map Handicap: TS (-1.5) vs B8 (+1.5)"
     }
   ]
 }
