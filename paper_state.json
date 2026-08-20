@@ -1,5 +1,5 @@
 {
-  "bankroll": 475.4318170815023,
+  "bankroll": 470.3168170815023,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2260,6 +2260,11 @@
       "timestamp": 1787189680.713665,
       "bankroll": 475.43,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Madison Keys vs Xiyu Wang"
+    },
+    {
+      "timestamp": 1787190618.2990198,
+      "bankroll": 470.32,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5"
     }
   ]
 }
