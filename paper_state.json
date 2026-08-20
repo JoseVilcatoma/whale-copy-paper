@@ -1,5 +1,5 @@
 {
-  "bankroll": 461.28018943435006,
+  "bankroll": 463.19786152107093,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2830,6 +2830,21 @@
       "timestamp": 1787227016.0227604,
       "bankroll": 461.28,
       "event": "won:  \u2014 Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787227510.5432994,
+      "bankroll": 456.17,
+      "event": "lost: RN1 \u2014 ITF W50 Prague Women: Yelyzaveta Kotliar vs Pia Lovric"
+    },
+    {
+      "timestamp": 1787227510.6434493,
+      "bankroll": 462.15,
+      "event": "won: ferrariChampions2026 \u2014 ITF W50 Prague Women: Yelyzaveta Kotliar vs Pia Lovric"
+    },
+    {
+      "timestamp": 1787227511.903972,
+      "bankroll": 463.2,
+      "event": "won: RN1 \u2014 ITF W50 Prague Women: Yelyzaveta Kotliar vs Pia Lovric"
     }
   ]
 }
