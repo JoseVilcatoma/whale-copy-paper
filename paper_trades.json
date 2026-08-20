@@ -16889,8 +16889,8 @@
     "title": "Valorant: Sentinels vs 2GAME Esports - Map 2 Winner",
     "outcome": "Sentinels",
     "side": "BUY",
-    "whale_usd": 2250.1112000000003,
-    "whale_pct": 0.922,
+    "whale_usd": 4040.001733,
+    "whale_pct": 1.655,
     "whale_value_at_open": 244166.6447,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -16904,8 +16904,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787264819.593557,
-    "fills": 3
+    "last_fill_at": 1787265060.1295013,
+    "fills": 5
   },
   {
     "timestamp": 1787264760,
@@ -16929,6 +16929,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787264761.0368423,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787265104,
+    "timestamp_added": 1787265105.4833326,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lib-lqu-mir-2026-08-20-mir",
+    "title": "Will Mirassol FC win on 2026-08-20?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1078.9504,
+    "whale_pct": 0.465,
+    "whale_value_at_open": 232057.1514,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787265105.483344,
     "fills": 1
   }
 ]
