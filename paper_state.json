@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.91287331162243,
+  "bankroll": 480.88598442273354,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2465,6 +2465,11 @@
       "timestamp": 1787193171.9720342,
       "bankroll": 474.91,
       "event": "lost: HomeRunHazard \u2014 Athletics vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787193733.8210952,
+      "bankroll": 480.89,
+      "event": "won: ferrariChampions2026 \u2014 Will SE Palmeiras win on 2026-08-19?"
     }
   ]
 }
