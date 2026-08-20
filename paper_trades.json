@@ -17110,8 +17110,8 @@
     "title": "New York Yankees vs. Baltimore Orioles: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1559.67,
-    "whale_pct": 1.919,
+    "whale_usd": 3261.3500000000004,
+    "whale_pct": 4.012,
     "whale_value_at_open": 81284.0118,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -17124,8 +17124,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787266986.9596047,
-    "fills": 2
+    "last_fill_at": 1787267129.4634001,
+    "fills": 4
   },
   {
     "timestamp": 1787267052,
