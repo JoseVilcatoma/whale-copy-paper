@@ -15357,8 +15357,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 10832.8482,
-    "whale_pct": 19.72,
+    "whale_usd": 38920.6486,
+    "whale_pct": 70.85,
     "whale_value_at_open": 54933.9093,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -15369,8 +15369,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787230749.939166,
-    "fills": 5
+    "last_fill_at": 1787234617.6883135,
+    "fills": 6
   },
   {
     "timestamp": 1787230837,
@@ -15592,6 +15592,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787233999.6354368,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787234628,
+    "timestamp_added": 1787234629.174484,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-ngx-flc-2026-08-20-game1",
+    "title": "Dota 2: Nigma Galaxy vs Team Falcons - Game 1 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 1787.9717999999998,
+    "whale_pct": 18.14,
+    "whale_value_at_open": 9856.2962,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787234629.1744938,
     "fills": 1
   }
 ]
