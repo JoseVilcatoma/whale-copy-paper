@@ -12741,8 +12741,8 @@
     "title": "Los Angeles Dodgers vs. Colorado Rockies",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 1604.8000000000002,
-    "whale_pct": 0.491,
+    "whale_usd": 3229.6600000000003,
+    "whale_pct": 0.989,
     "whale_value_at_open": 326698.6742,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -12755,8 +12755,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787189951.9323223,
-    "fills": 1
+    "last_fill_at": 1787191620.0405824,
+    "fills": 2
   },
   {
     "timestamp": 1787189954,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 21:05:58 (hora de Perú)
+Actualizado: 2026-08-19 21:07:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $467.92
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CR Flamengo win on 2026-08-19? | Yes (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 82% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Independiente Santa Fe vs. CA River Plat | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Angels vs. Houston Astros: O | Over (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
