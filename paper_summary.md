@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 09:12:12 (hora de Perú)
+Actualizado: 2026-08-20 09:14:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $461.05
-**Retorno acumulado:** -7.79%
+**Bankroll actual:** $461.76
+**Retorno acumulado:** -7.65%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 09:12:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $271.05)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $271.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,19 +48,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 3 | 5 | 3 | -11.66 USD |
 | ferrariChampions2026 | 160 | 92 | 11 | -12.43 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-|  | 8 | 6 | 4 | -16.67 USD |
-| RN1 | 98 | 50 | 8 | -51.10 USD |
+|  | 8 | 6 | 5 | -16.67 USD |
+| RN1 | 99 | 50 | 7 | -50.39 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 585
-- **Aciertos:** 379 (64.8%)
+- **Apuestas resueltas:** 586
+- **Aciertos:** 380 (64.8%)
 - **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,920.45
-- **ROI sobre lo apostado:** -1.76%
-- **Comisiones pagadas (taker fee):** $51.86 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,925.45
+- **ROI sobre lo apostado:** -1.73%
+- **Comisiones pagadas (taker fee):** $51.89 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 271 | 47.2% | 50.3% | -3.0 pp |
 | 60-79% | 194 | 73.7% | 68.2% | +5.5 pp |
-| 80-94% | 78 | 85.9% | 86.9% | -1.1 pp |
+| 80-94% | 79 | 86.1% | 86.9% | -0.9 pp |
 | 95-99% (casi seguro) | 42 | 97.6% | 97.3% | +0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -187,6 +187,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ⏳ pendiente | — |
 |  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ⏳ pendiente | — |
@@ -196,7 +197,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sulumos | LoL: LGD Gaming vs Bilibili Gaming (BO3) | LGD Gaming (BUY) | 45% | 5.00 | 24.1% | 💰 vendida anticipada | +1.96 |
 | danielwolfmorales3pddb6dl6 | LoL: LGD Gaming vs Bilibili Gaming (BO3) | Bilibili Gaming (BUY) | 56% | 5.00 | 75.8% | ⏳ pendiente | — |
 | casualbet2020 | Map Handicap: TS (-1.5) vs B8 (+1.5) | Spirit (BUY) | 54% | 5.00 | 38.3% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Semen Pankin (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Semen Pankin (BUY) | 87% | 5.00 | 0.5% | ✅ ganada | +0.71 |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 47% | 5.00 | 70.8% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 57% | 5.00 | 48.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 10.3% | ⏳ pendiente | — |
@@ -216,4 +217,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Da | Dalila Jakupovic (BUY) | 97% | 5.00 | 1.9% | ✅ ganada | +0.15 |
 | RN1 | ITF M25 Ueberlingen Men: Denis Yevseyev  | Jannik Maute (BUY) | 64% | 5.00 | 0.7% | ✅ ganada | +2.72 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 46% | 5.00 | 6.3% | 💰 vendida anticipada | +0.27 |
-| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 52% | 5.00 | 13.7% | 💰 vendida anticipada | +0.24 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 461.04507007719866,
+  "bankroll": 461.75919651398027,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2965,6 +2965,11 @@
       "timestamp": 1787233439.6105635,
       "bankroll": 461.05,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787235176.914258,
+      "bankroll": 461.76,
+      "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Semen Pankin vs Drazen Petrovic"
     }
   ]
 }
