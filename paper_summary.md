@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 10:16:34 (hora de Perú)
+Actualizado: 2026-08-20 10:18:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 10:16:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $318.24)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $313.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 1 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
-| danielwolfmorales3pddb6dl6 | 6 | 6 | 1 | -4.80 USD |
+| danielwolfmorales3pddb6dl6 | 6 | 6 | 2 | -4.80 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | SineNooneEI | 0 | 1 | 1 | -5.12 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
@@ -189,6 +189,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 59% | 5.00 | 78.0% | ⏳ pendiente | — |
 | SDTrading | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SDTrading | Athletics vs. Kansas City Royals | Athletics (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Nigma Galaxy (BUY) | 74% | 5.00 | 30.2% | 💰 vendida anticipada | +0.08 |
@@ -218,4 +219,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 47% | 5.00 | 70.8% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 57% | 5.00 | 48.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 10.3% | ✅ ganada | +5.51 |
-| danielwolfmorales3pddb6dl6 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 61% | 5.00 | 30.7% | ✅ ganada | +3.10 |

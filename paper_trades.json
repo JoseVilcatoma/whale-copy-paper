@@ -16011,5 +16011,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787238813.1583507,
     "fills": 1
+  },
+  {
+    "timestamp": 1787239063,
+    "timestamp_added": 1787239064.3575256,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "wta-swiatek-rybakin-2026-08-20",
+    "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
+    "outcome": "Iga Swiatek",
+    "side": "BUY",
+    "whale_usd": 5800.0,
+    "whale_pct": 77.953,
+    "whale_value_at_open": 7440.3875,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787239064.3575358,
+    "fills": 1
   }
 ]
