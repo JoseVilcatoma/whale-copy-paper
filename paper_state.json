@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.0111294687906,
+  "bankroll": 495.8711294687906,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3225,6 +3225,11 @@
       "timestamp": 1787255984.0701644,
       "bankroll": 501.01,
       "event": "won: CORGI8 \u2014 Counter-Strike: G2 vs FURIA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787256611.8350286,
+      "bankroll": 495.87,
+      "event": "lost: Sassy-Bucket \u2014 San Francisco Giants vs. Cleveland Guardians: O/U 7.5"
     }
   ]
 }
