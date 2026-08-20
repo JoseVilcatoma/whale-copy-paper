@@ -13011,8 +13011,8 @@
     "title": "Washington Nationals vs. Texas Rangers",
     "outcome": "Washington Nationals",
     "side": "BUY",
-    "whale_usd": 4622.409666,
-    "whale_pct": 1.852,
+    "whale_usd": 5268.476532,
+    "whale_pct": 2.111,
     "whale_value_at_open": 249525.4849,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -13025,8 +13025,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787193429.9857314,
-    "fills": 3
+    "last_fill_at": 1787193452.5277956,
+    "fills": 4
   },
   {
     "timestamp": 1787192336,
