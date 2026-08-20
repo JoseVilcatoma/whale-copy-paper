@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.60197594554324,
+  "bankroll": 485.9736426122099,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2605,6 +2605,26 @@
       "timestamp": 1787200524.3612056,
       "bankroll": 499.6,
       "event": "won: RN1 \u2014 Montevideo City Torque vs. CA Tigre: O/U 3.5"
+    },
+    {
+      "timestamp": 1787200967.2874966,
+      "bankroll": 494.56,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Aryna Sabalenka vs Sara Bejlek"
+    },
+    {
+      "timestamp": 1787200967.3877492,
+      "bankroll": 489.48,
+      "event": "lost:  \u2014 Cincinnati Open: Aryna Sabalenka vs Sara Bejlek"
+    },
+    {
+      "timestamp": 1787200967.4879787,
+      "bankroll": 484.37,
+      "event": "lost: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Cincinnati Open: Aryna Sabalenka vs Sara Bejlek"
+    },
+    {
+      "timestamp": 1787200967.6883888,
+      "bankroll": 485.97,
+      "event": "won: 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 \u2014 Cincinnati Open: Aryna Sabalenka vs Sara Bejlek"
     }
   ]
 }
