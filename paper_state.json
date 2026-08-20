@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.1955062644381,
+  "bankroll": 512.0875062644382,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3180,6 +3180,11 @@
       "timestamp": 1787253787.6764839,
       "bankroll": 517.2,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787254093.252843,
+      "bankroll": 512.09,
+      "event": "lost: SDTrading \u2014 St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5"
     }
   ]
 }
