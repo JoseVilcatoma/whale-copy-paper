@@ -15333,8 +15333,8 @@
     "title": "St. Louis Cardinals vs. Cincinnati Reds: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 26459.784,
-    "whale_pct": 48.167,
+    "whale_usd": 28955.9394,
+    "whale_pct": 52.711,
     "whale_value_at_open": 54933.9093,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -15345,8 +15345,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787234640.2511683,
-    "fills": 3
+    "last_fill_at": 1787240804.5815527,
+    "fills": 4
   },
   {
     "timestamp": 1787229016,
