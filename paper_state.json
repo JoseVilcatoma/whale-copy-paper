@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.97348667061533,
+  "bankroll": 479.5040422261709,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2680,6 +2680,11 @@
       "timestamp": 1787206158.159856,
       "bankroll": 478.97,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Rinko Matsuda vs Na Ri Kim"
+    },
+    {
+      "timestamp": 1787208236.5003116,
+      "bankroll": 479.5,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Dabin Kim vs Meng Yi Chen"
     }
   ]
 }
