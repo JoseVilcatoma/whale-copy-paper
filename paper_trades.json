@@ -15875,8 +15875,8 @@
     "title": "Cincinnati Open: Tommy Paul vs Flavio Cobolli",
     "outcome": "Tommy Paul",
     "side": "BUY",
-    "whale_usd": 6000.0,
-    "whale_pct": 72.087,
+    "whale_usd": 10880.0,
+    "whale_pct": 130.719,
     "whale_value_at_open": 8323.2203,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -15887,8 +15887,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787237621.7402213,
-    "fills": 1
+    "last_fill_at": 1787247370.342106,
+    "fills": 2
   },
   {
     "timestamp": 1787237897,

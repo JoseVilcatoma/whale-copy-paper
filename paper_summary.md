@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 12:35:51 (hora de Perú)
+Actualizado: 2026-08-20 12:37:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $515.99
@@ -214,7 +214,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Nigma Galaxy (BUY) | 74% | 5.00 | 30.2% | 💰 vendida anticipada | +0.08 |
 | ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 57% | 5.00 | 8.5% | ⏳ pendiente | — |
 |  | Will FC København win on 2026-08-20? | Yes (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Cincinnati Open: Tommy Paul vs Flavio Co | Tommy Paul (BUY) | 61% | 5.00 | 72.1% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Tommy Paul vs Flavio Co | Tommy Paul (BUY) | 61% | 5.00 | 130.7% | ⏳ pendiente | — |
 |  | PAOK vs. SK Brann: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Will RSC Anderlecht win on 2026-08-20? | Yes (BUY) | 43% | 5.00 | 6.9% | ⏳ pendiente | — |
 |  | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
