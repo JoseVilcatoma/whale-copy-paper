@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 10:20:45 (hora de Perú)
+Actualizado: 2026-08-20 10:22:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $498.24
-**Retorno acumulado:** -0.35%
+**Bankroll actual:** $498.39
+**Retorno acumulado:** -0.32%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 10:20:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $308.24)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $313.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,18 +48,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-|  | 8 | 7 | 11 | -21.79 USD |
+|  | 9 | 7 | 10 | -21.64 USD |
 | RN1 | 103 | 50 | 3 | -45.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 600
-- **Aciertos:** 392 (65.3%)
+- **Apuestas resueltas:** 601
+- **Aciertos:** 393 (65.4%)
 - **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,995.45
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $53.18 (1.78% del capital apostado)
+- **Total apostado (suma de stakes):** $3,000.45
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $53.19 (1.77% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 278 | 47.8% | 50.2% | -2.3 pp |
 | 60-79% | 198 | 74.2% | 68.2% | +6.0 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
-| 95-99% (casi seguro) | 44 | 97.7% | 97.3% | +0.4 pp |
+| 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -209,7 +209,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Counter-Strike: G2 vs FURIA (BO3) - Espo | FURIA (BUY) | 57% | 5.00 | 39.8% | ⏳ pendiente | — |
 |  | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Team Falcons (BUY) | 59% | 5.00 | 18.1% | ⏳ pendiente | — |
-|  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
+|  | ITF M25 Idanha-a-Nova 2 Men: Alberto Bar | Alberto Barroso Campos (BUY) | 97% | 5.00 | 0.7% | ✅ ganada | +0.15 |
 | RN1 | Roehampton: Lui Maxted vs Gabi Boitan | Lui Maxted (BUY) | 99% | 5.00 | 3.5% | ✅ ganada | +0.05 |
 | RN1 | ITF M25 Slovenj Gradec Men: Nik Mikovic  | Valerio Aboian (BUY) | 95% | 5.00 | 1.4% | ✅ ganada | +0.25 |
 | RN1 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 65% | 5.00 | 0.7% | ✅ ganada | +2.61 |

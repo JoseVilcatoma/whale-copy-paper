@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.2433162990144,
+  "bankroll": 498.38995547427214,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3055,6 +3055,11 @@
       "timestamp": 1787238890.5747576,
       "bankroll": 498.24,
       "event": "venta anticipada: danielwolfmorales3pddb6dl6 \u2014 Sion: Benjamin Hassan vs Geoffrey Blancaneaux (+5.08 USD)"
+    },
+    {
+      "timestamp": 1787239298.8471532,
+      "bankroll": 498.39,
+      "event": "won:  \u2014 ITF M25 Idanha-a-Nova 2 Men: Alberto Barroso Campos vs Pavlos Tsitsipas"
     }
   ]
 }
