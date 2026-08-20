@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 04:52:56 (hora de Perú)
+Actualizado: 2026-08-20 04:55:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.81
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 04:52:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $324.81)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $319.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 7 | 4 | 3 | -6.97 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 3 | 4 | -10.89 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| RN1 | 91 | 44 | 2 | -29.77 USD |
+| RN1 | 91 | 44 | 3 | -29.77 USD |
 | ferrariChampions2026 | 151 | 89 | 14 | -38.72 USD |
 
 ## Análisis general
@@ -171,11 +171,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-vsn2-boombo-2026-08-20-game2 | IMAREALPERSON, ferrariChampions2026 |
 | lol-dk-hle1-2026-08-20-game1 | SineNooneEI, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | lol-dk-hle1-2026-08-20-game2 | danielwolfmorales3pddb6dl6, ferrariChampions2026 |
+| itf-poljica-dominko-2026-08-20 | , RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Diana-Ioana Simi | Carolina Kuhl (BUY) | 71% | 5.00 | 3.3% | ⏳ pendiente | — |
 |  | ITF M25 Slovenj Gradec Men: Mili Poljica | Mili Poljicak (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs Hanwha Life Esports -  | Hanwha Life Esports (BUY) | 62% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -205,4 +207,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 62% | 5.00 | 2.5% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 7.7% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | ITF M25 Ueberlingen Men: Tim Handel vs A | Tim Handel (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
