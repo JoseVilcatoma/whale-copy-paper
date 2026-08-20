@@ -13754,8 +13754,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys (BO3) - The International Playoffs",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 2624.5055,
-    "whale_pct": 1.59,
+    "whale_usd": 5171.190500000001,
+    "whale_pct": 3.133,
     "whale_value_at_open": 165050.0432,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -13766,8 +13766,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787208201.1645207,
-    "fills": 2
+    "last_fill_at": 1787208318.6569917,
+    "fills": 4
   },
   {
     "timestamp": 1787208219,

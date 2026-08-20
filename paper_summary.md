@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 01:45:05 (hora de Perú)
+Actualizado: 2026-08-20 01:47:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.50
@@ -170,7 +170,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF W15 Tianjin 3 Women: Tiana Tian Deng | Peangtarn Plipuech (BUY) | 73% | 5.00 | 4.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 58% | 5.00 | 3.1% | ⏳ pendiente | — |
 |  | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 62% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
