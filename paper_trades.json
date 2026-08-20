@@ -17184,8 +17184,8 @@
     "title": "New York Yankees vs. Baltimore Orioles",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 2112.92,
-    "whale_pct": 2.382,
+    "whale_usd": 3200.76,
+    "whale_pct": 3.609,
     "whale_value_at_open": 88699.7105,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -17199,8 +17199,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787267440.2908657,
-    "fills": 2
+    "last_fill_at": 1787268418.9551754,
+    "fills": 3
   },
   {
     "timestamp": 1787267381,
@@ -17261,8 +17261,8 @@
     "title": "Cincinnati Open: Iga Swiatek vs Elena Rybakina",
     "outcome": "Iga Swiatek",
     "side": "BUY",
-    "whale_usd": 1116.91,
-    "whale_pct": 1.364,
+    "whale_usd": 2237.07,
+    "whale_pct": 2.731,
     "whale_value_at_open": 81901.2895,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -17275,8 +17275,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787267632.1797876,
-    "fills": 1
+    "last_fill_at": 1787268415.1601858,
+    "fills": 2
   },
   {
     "timestamp": 1787267637,
@@ -17451,6 +17451,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787268260.5948553,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787268446,
+    "timestamp_added": 1787268446.453383,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-nyy-bal-2026-08-20",
+    "title": "New York Yankees vs. Baltimore Orioles",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 5486.515907999999,
+    "whale_pct": 2.123,
+    "whale_value_at_open": 258399.1521,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787268447.097143,
     "fills": 2
   }
 ]
