@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.94582886699357,
+  "bankroll": 497.9957700434641,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2570,6 +2570,21 @@
       "timestamp": 1787199707.940396,
       "bankroll": 505.95,
       "event": "lost: RN1 \u2014 Los Angeles Dodgers vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1787200271.3972847,
+      "bankroll": 500.84,
+      "event": "lost: RN1 \u2014 CR Flamengo vs. Cruzeiro EC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787200271.7113273,
+      "bankroll": 495.72,
+      "event": "lost: RN1 \u2014 Independiente Santa Fe vs. CA River Plate: O/U 0.5"
+    },
+    {
+      "timestamp": 1787200272.2125092,
+      "bankroll": 498.0,
+      "event": "won: RN1 \u2014 CR Flamengo vs. Cruzeiro EC: O/U 2.5"
     }
   ]
 }
