@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:39:54 (hora de Perú)
+Actualizado: 2026-08-20 18:41:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $483.88
@@ -219,7 +219,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 85% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 4.7% | ⏳ pendiente | — |
 | SDTrading | Spread: LV (-1.5) | LV (BUY) | 50% | 5.00 | 35.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LDU de Quito vs. Mirassol FC: O/U 2.5 | Under (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Pedro Mar | Juan Carlos Prado (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
