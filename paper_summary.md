@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 20:35:16 (hora de Perú)
+Actualizado: 2026-08-19 20:37:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $475.43
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 20:35:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $293.25 en 59 posiciones abiertas (disponible para nuevas apuestas: $182.18)
+**Capital comprometido ahora mismo:** $298.25 en 60 posiciones abiertas (disponible para nuevas apuestas: $177.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 3 | 1 | -6.79 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 29 | 14 | 9 | -8.61 USD |
+| HomeRunHazard | 29 | 14 | 10 | -8.61 USD |
 | Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
 | RN1 | 68 | 35 | 5 | -18.39 USD |
 | ferrariChampions2026 | 134 | 80 | 23 | -37.45 USD |
@@ -162,6 +162,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Minnesota Lynx vs. Golden State Valkyrie | Over (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 (BO3) - VCT  | G2 Esports (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 53% | 5.00 | 19.4% | ⏳ pendiente | — |
@@ -191,4 +192,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | theowalcott | Orlando City SC vs. Chicago Fire FC: O/U | Under (BUY) | 53% | 5.00 | 13.3% | ⏳ pendiente | — |
 | theowalcott | Will Columbus Crew win on 2026-08-19? | Yes (BUY) | 59% | 5.00 | 20.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | CD Coquimbo Unido vs. CA Platense: O/U 2 | Under (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | San Francisco Giants (BUY) | 50% | 5.00 | 1.6% | ✅ ganada | +4.88 |

@@ -12635,5 +12635,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787189001.5448942,
     "fills": 1
+  },
+  {
+    "timestamp": 1787189750,
+    "timestamp_added": 1787189751.3760984,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-min-gsv-2026-08-19-total-162pt5",
+    "title": "Minnesota Lynx vs. Golden State Valkyries: O/U 162.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 871.1612,
+    "whale_pct": 0.248,
+    "whale_value_at_open": 350712.0754,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787189751.3761103,
+    "fills": 1
   }
 ]
