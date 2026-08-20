@@ -13508,8 +13508,8 @@
     "title": "Dota 2: Iron Wing vs Team Spirit - Game 2 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 2718.5822000000003,
-    "whale_pct": 1.847,
+    "whale_usd": 3626.2622,
+    "whale_pct": 2.464,
     "whale_value_at_open": 147195.2699,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -13522,7 +13522,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787200945.7106283,
-    "fills": 1
+    "last_fill_at": 1787201060.4871724,
+    "fills": 2
   }
 ]
