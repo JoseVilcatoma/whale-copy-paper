@@ -14757,8 +14757,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -14855,8 +14855,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -15090,8 +15090,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ferrariChampions2026"
@@ -15117,8 +15117,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "ferrariChampions2026"
@@ -15531,8 +15531,8 @@
     "title": "ITF M25 Slovenj Gradec Men: Nik Mikovic vs Valerio Aboian",
     "outcome": "Valerio Aboian",
     "side": "BUY",
-    "whale_usd": 664.285714,
-    "whale_pct": 0.523,
+    "whale_usd": 1790.6634909999998,
+    "whale_pct": 1.411,
     "whale_value_at_open": 126923.1074,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -15543,7 +15543,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787233397.9936638,
-    "fills": 1
+    "last_fill_at": 1787233519.9492917,
+    "fills": 2
   }
 ]

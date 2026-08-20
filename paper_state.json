@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.72426715435324,
+  "bankroll": 461.04507007719866,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2945,6 +2945,26 @@
       "timestamp": 1787232821.830172,
       "bankroll": 465.72,
       "event": "lost:  \u2014 ITF W35 Erwitte Women: Eva Bennemann vs Tahlia Kokkinis"
+    },
+    {
+      "timestamp": 1787233438.8484554,
+      "bankroll": 471.23,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787233439.0488696,
+      "bankroll": 466.12,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787233439.5103323,
+      "bankroll": 461.0,
+      "event": "lost: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787233439.6105635,
+      "bankroll": 461.05,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Yandex - Game 1 Winner"
     }
   ]
 }
