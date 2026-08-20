@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.85740325862236,
+  "bankroll": 475.5092214404405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2235,6 +2235,11 @@
       "timestamp": 1787189059.5709145,
       "bankroll": 474.86,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Alexis Galarneau vs Dino Prizmic"
+    },
+    {
+      "timestamp": 1787189365.8632898,
+      "bankroll": 475.51,
+      "event": "won: HomeRunHazard \u2014 Quebec City: Soon-Woo Kwon vs Shintaro Mochizuki"
     }
   ]
 }

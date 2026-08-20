@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 20:29:10 (hora de Perú)
+Actualizado: 2026-08-19 20:31:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $474.86
-**Retorno acumulado:** -5.03%
+**Bankroll actual:** $475.51
+**Retorno acumulado:** -4.90%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 20:29:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $317.72 en 64 posiciones abiertas (disponible para nuevas apuestas: $157.14)
+**Capital comprometido ahora mismo:** $312.72 en 63 posiciones abiertas (disponible para nuevas apuestas: $162.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,8 +35,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 | theowalcott | 1 | 1 | 7 | -1.43 USD |
+| HomeRunHazard | 29 | 13 | 10 | -3.47 USD |
 |  | 3 | 2 | 0 | -3.59 USD |
-| HomeRunHazard | 28 | 13 | 11 | -4.12 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 3 | 3 | 1 | -6.79 USD |
@@ -47,14 +47,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 446
-- **Aciertos:** 290 (65.0%)
-- **Cuota promedio de entrada:** 64.6%
+- **Apuestas resueltas:** 447
+- **Aciertos:** 291 (65.1%)
+- **Cuota promedio de entrada:** 64.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,227.73
-- **ROI sobre lo apostado:** -1.17%
-- **Comisiones pagadas (taker fee):** $39.43 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,232.73
+- **ROI sobre lo apostado:** -1.14%
+- **Comisiones pagadas (taker fee):** $39.46 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,7 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 205 | 48.3% | 50.2% | -1.9 pp |
 | 60-79% | 147 | 72.1% | 68.2% | +3.9 pp |
-| 80-94% | 64 | 85.9% | 87.3% | -1.4 pp |
+| 80-94% | 65 | 86.2% | 87.4% | -1.2 pp |
 | 95-99% (casi seguro) | 30 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -184,7 +184,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will CD Coquimbo Unido win on 2026-08-19 | No (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Rodrigo Pacheco vs Tomas Barrios | Rodrigo Pacheco (BUY) | 68% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 57% | 5.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | Quebec City: Soon-Woo Kwon vs Shintaro M | Soon-Woo Kwon (BUY) | 88% | 5.00 | 1.7% | ⏳ pendiente | — |
+| HomeRunHazard | Quebec City: Soon-Woo Kwon vs Shintaro M | Soon-Woo Kwon (BUY) | 88% | 5.00 | 1.7% | ✅ ganada | +0.65 |
 | HomeRunHazard | Cancun: Otto Virtanen vs Moez Echargui | Moez Echargui (BUY) | 56% | 5.00 | 1.3% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Miami Marlins vs. Philadelphia Phillies | Philadelphia Phillies (BUY) | 89% | 5.00 | 0.1% | ✅ ganada | +0.59 |
 | Sassy-Bucket | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 53% | 5.00 | 8.1% | ⏳ pendiente | — |
