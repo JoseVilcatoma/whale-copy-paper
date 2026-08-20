@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.2257464157309,
+  "bankroll": 483.1277464157309,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3290,6 +3290,11 @@
       "timestamp": 1787263559.0226145,
       "bankroll": 488.23,
       "event": "won: IMAREALPERSON \u2014 Valorant: Team Liquid vs FUT Esports (BO3) - VCT EMEA Playoffs"
+    },
+    {
+      "timestamp": 1787264499.2123628,
+      "bankroll": 483.13,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Tommy Paul vs Flavio Cobolli"
     }
   ]
 }
