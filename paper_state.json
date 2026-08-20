@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.2518160359548,
+  "bankroll": 501.3505373474302,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3235,6 +3235,11 @@
       "timestamp": 1787258198.01974,
       "bankroll": 498.25,
       "event": "won: ChonkyChocolateCake \u2014 LoL: Karmine Corp Blue vs Ici Japon Corp. Esport - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787258829.3770587,
+      "bankroll": 501.35,
+      "event": "won: ChonkyChocolateCake \u2014 LoL: G2 NORD vs Eintracht Spandau - Game 2 Winner"
     }
   ]
 }
