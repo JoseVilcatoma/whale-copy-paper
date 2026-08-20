@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.34149958504315,
+  "bankroll": 462.25449958504316,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2915,6 +2915,11 @@
       "timestamp": 1787229423.873871,
       "bankroll": 467.34,
       "event": "won: RN1 \u2014 ITF M25 Ueberlingen Men: Denis Yevseyev vs Jannik Maute"
+    },
+    {
+      "timestamp": 1787230340.2162359,
+      "bankroll": 462.25,
+      "event": "lost: RN1 \u2014 ITF W35 Bistrita Women: Mariia Drobysheva vs Adrienn Nagy"
     }
   ]
 }

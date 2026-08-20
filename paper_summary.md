@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 07:39:17 (hora de Perú)
+Actualizado: 2026-08-20 07:54:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $467.34
-**Retorno acumulado:** -6.53%
+**Bankroll actual:** $462.25
+**Retorno acumulado:** -7.55%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 07:39:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $277.34)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $277.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,18 +47,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 2 | 5 | 3 | -17.88 USD |
 | ferrariChampions2026 | 158 | 92 | 13 | -23.45 USD |
-| RN1 | 98 | 48 | 5 | -40.91 USD |
+| RN1 | 98 | 49 | 4 | -46.00 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 577
-- **Aciertos:** 376 (65.2%)
+- **Apuestas resueltas:** 578
+- **Aciertos:** 376 (65.1%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,880.45
-- **ROI sobre lo apostado:** -1.28%
-- **Comisiones pagadas (taker fee):** $51.05 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,885.45
+- **ROI sobre lo apostado:** -1.45%
+- **Comisiones pagadas (taker fee):** $51.14 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 266 | 47.4% | 50.3% | -2.9 pp |
-| 60-79% | 192 | 74.5% | 68.3% | +6.2 pp |
+| 60-79% | 193 | 74.1% | 68.3% | +5.8 pp |
 | 80-94% | 78 | 85.9% | 86.9% | -1.1 pp |
 | 95-99% (casi seguro) | 41 | 97.6% | 97.3% | +0.3 pp |
 
@@ -204,7 +204,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 46% | 5.00 | 6.3% | 💰 vendida anticipada | +0.27 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 52% | 5.00 | 13.7% | 💰 vendida anticipada | +0.24 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 56% | 5.00 | 32.5% | ⏳ pendiente | — |
-| RN1 | ITF W35 Bistrita Women: Mariia Drobyshev | Mariia Drobysheva (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | ITF W35 Bistrita Women: Mariia Drobyshev | Mariia Drobysheva (BUY) | 65% | 5.00 | 0.8% | ❌ perdida | -5.09 |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Rosi | Luna Vujovic (BUY) | 71% | 5.00 | 1.6% | ✅ ganada | +1.97 |
 | RN1 | Roehampton: Oliver Tarvet vs Charles Bro | Oliver Tarvet (BUY) | 71% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
