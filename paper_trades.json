@@ -13061,8 +13061,8 @@
     "title": "Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 11639.669080000001,
-    "whale_pct": 4.609,
+    "whale_usd": 15093.739960000003,
+    "whale_pct": 5.976,
     "whale_value_at_open": 252554.7216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -13073,8 +13073,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787194151.315492,
-    "fills": 4
+    "last_fill_at": 1787194816.650215,
+    "fills": 5
   },
   {
     "timestamp": 1787192629,
@@ -13293,6 +13293,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787194663.1351945,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787194840,
+    "timestamp_added": 1787194840.9072237,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-sabalen-bejlek-2026-08-19",
+    "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
+    "outcome": "Aryna Sabalenka",
+    "side": "BUY",
+    "whale_usd": 2118.079999,
+    "whale_pct": 1.426,
+    "whale_value_at_open": 148560.3119,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787194840.907238,
     "fills": 1
   }
 ]
