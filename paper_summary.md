@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 07:16:36 (hora de Perú)
+Actualizado: 2026-08-20 07:18:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $467.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 07:16:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $247.99)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $242.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 |  | 8 | 5 | 4 | -11.55 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| danielwolfmorales3pddb6dl6 | 1 | 4 | 4 | -16.02 USD |
+| danielwolfmorales3pddb6dl6 | 1 | 4 | 5 | -16.02 USD |
 | ferrariChampions2026 | 155 | 91 | 17 | -31.91 USD |
 | RN1 | 96 | 47 | 8 | -38.78 USD |
 
@@ -183,6 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 61% | 5.00 | 30.7% | ⏳ pendiente | — |
 |  | KF Egnatia Rrogozhinë vs. Lillestrøm SK: | Over (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | ITF W35 Erwitte Women: Eva Bennemann vs  | Eva Bennemann (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 44% | 5.00 | 41.6% | ⏳ pendiente | — |
@@ -212,4 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Slovenj Gradec Men: Kirill Kivat | Kirill Kivattsev (BUY) | 99% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
 | RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Pia Lovric (BUY) | 57% | 5.00 | 6.5% | ❌ perdida | -5.11 |
-| RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 16.5% | ✅ ganada | +1.97 |

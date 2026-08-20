@@ -17,46 +17,46 @@
     "roi_pct": 7382.29,
     "short_term_pct": 100.0
   },
-  "0x65c18d740c8246af3353741c0b32e4b6da552988": {
-    "username": "casualbet2020",
-    "added_at": 1787204608.9886894,
-    "roi_pct": 1060.67,
-    "short_term_pct": 100.0
-  },
   "0x3eb095d871501a1d7a3cb086a22d174b52356a68": {
     "username": "predictionlegend",
     "added_at": 1787214186.4456692,
-    "roi_pct": 10496.37,
+    "roi_pct": 10476.59,
     "short_term_pct": 100.0
   },
   "0xf201a19b43471261a3c1ba9247335d55270e527e": {
     "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
     "added_at": 1787217924.80228,
-    "roi_pct": 805.05,
+    "roi_pct": 786.45,
     "short_term_pct": 100.0
   },
   "0xf377b9fb12a4b7507a4f997461a73eb30b564159": {
     "username": "danielwolfmorales3pddb6dl6",
     "added_at": 1787220729.49539,
-    "roi_pct": 703.73,
+    "roi_pct": 510.61,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "",
     "added_at": 1787224465.053201,
-    "roi_pct": 339.07,
-    "short_term_pct": 90.0
+    "roi_pct": 325.67,
+    "short_term_pct": 80.0
   },
   "0x27f738fe203827445690339104aae35b20bc44b0": {
     "username": "ic4cream",
     "added_at": 1787226333.51811,
-    "roi_pct": 313.85,
-    "short_term_pct": 90.0
+    "roi_pct": 306.23,
+    "short_term_pct": 80.0
   },
   "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff": {
     "username": "sulumos",
     "added_at": 1787226333.518112,
     "roi_pct": 233.4,
+    "short_term_pct": 100.0
+  },
+  "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5": {
+    "username": "IMAREALPERSON",
+    "added_at": 1787228201.6734939,
+    "roi_pct": 227.38,
     "short_term_pct": 100.0
   }
 }

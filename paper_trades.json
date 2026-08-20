@@ -15273,5 +15273,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787228014.3591383,
     "fills": 1
+  },
+  {
+    "timestamp": 1787228315,
+    "timestamp_added": 1787228315.7677739,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "atp-giustin-kuzmano-2026-08-20",
+    "title": "Sion: Lorenzo Giustino vs Dimitar Kuzmanov",
+    "outcome": "Lorenzo Giustino",
+    "side": "BUY",
+    "whale_usd": 4374.599999999999,
+    "whale_pct": 30.68,
+    "whale_value_at_open": 14258.8248,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787228315.7677855,
+    "fills": 1
   }
 ]
