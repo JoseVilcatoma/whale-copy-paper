@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.62513733812636,
+  "bankroll": 484.7717765133841,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2730,6 +2730,11 @@
       "timestamp": 1787215646.9017012,
       "bankroll": 484.63,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner (+1.93 USD)"
+    },
+    {
+      "timestamp": 1787216546.491452,
+      "bankroll": 484.77,
+      "event": "won:  \u2014 ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan-Shou Chen"
     }
   ]
 }

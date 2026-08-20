@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 04:01:38 (hora de Perú)
+Actualizado: 2026-08-20 04:03:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $484.63
-**Retorno acumulado:** -3.07%
+**Bankroll actual:** $484.77
+**Retorno acumulado:** -3.05%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 04:01:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $324.63)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $329.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,20 +43,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 4 | -5.75 USD |
 | Sassy-Bucket | 3 | 4 | 0 | -6.36 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-|  | 5 | 4 | 4 | -10.09 USD |
+|  | 6 | 4 | 3 | -9.94 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | RN1 | 91 | 43 | 2 | -24.64 USD |
 | ferrariChampions2026 | 150 | 88 | 15 | -36.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 543
-- **Aciertos:** 356 (65.6%)
+- **Apuestas resueltas:** 544
+- **Aciertos:** 357 (65.6%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,710.45
-- **ROI sobre lo apostado:** -0.68%
-- **Comisiones pagadas (taker fee):** $47.99 (1.77% del capital apostado)
+- **Total apostado (suma de stakes):** $2,715.45
+- **ROI sobre lo apostado:** -0.67%
+- **Comisiones pagadas (taker fee):** $48.00 (1.77% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -68,7 +68,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 249 | 47.8% | 50.2% | -2.4 pp |
 | 60-79% | 182 | 74.7% | 68.4% | +6.3 pp |
 | 80-94% | 75 | 85.3% | 87.1% | -1.7 pp |
-| 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
+| 95-99% (casi seguro) | 38 | 100.0% | 97.2% | +2.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -194,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 56% | 5.00 | 16.9% | ⏳ pendiente | — |
 |  | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 90% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Prague 2: Norbert Gombos vs Radu Mihai P | Norbert Gombos (BUY) | 42% | 5.00 | 24.5% | ⏳ pendiente | — |
-|  | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan | Yu Hsiou Hsu (BUY) | 97% | 5.00 | 6.9% | ⏳ pendiente | — |
+|  | ITF M25 Taipei Men: Yu Hsiou Hsu vs Kuan | Yu Hsiou Hsu (BUY) | 97% | 5.00 | 6.9% | ✅ ganada | +0.15 |
 | RN1 | ITF W15 Tianjin 3 Women: Tiana Tian Deng | Peangtarn Plipuech (BUY) | 73% | 5.00 | 4.3% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys (BO3) -  | TEAM VISION (BUY) | 58% | 5.00 | 3.1% | ⏳ pendiente | — |
 |  | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 62% | 5.00 | 2.5% | ⏳ pendiente | — |
