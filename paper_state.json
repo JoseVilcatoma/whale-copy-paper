@@ -1,5 +1,5 @@
 {
-  "bankroll": 460.36969070249535,
+  "bankroll": 462.3389442236221,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2810,6 +2810,11 @@
       "timestamp": 1787226335.8753448,
       "bankroll": 460.37,
       "event": "won: RN1 \u2014 ITF W35 Krakow Women: Anna Kmiecik vs Dalila Jakupovic"
+    },
+    {
+      "timestamp": 1787226583.9904573,
+      "bankroll": 462.34,
+      "event": "won: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rositsa Dencheva vs Luna Vujovic"
     }
   ]
 }
