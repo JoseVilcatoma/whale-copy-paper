@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.1421100520945,
+  "bankroll": 482.0021100520945,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3280,6 +3280,11 @@
       "timestamp": 1787262303.2675622,
       "bankroll": 487.14,
       "event": "won:  \u2014 PAOK vs. SK Brann: O/U 2.5"
+    },
+    {
+      "timestamp": 1787263247.7420647,
+      "bankroll": 482.0,
+      "event": "lost: predictionlegend \u2014 K. Sint-Truidense VV vs. AS Om\u00f3noia Leukos\u00edas: O/U 2.5"
     }
   ]
 }
