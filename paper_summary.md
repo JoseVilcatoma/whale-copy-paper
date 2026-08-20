@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 01:26:17 (hora de Perú)
+Actualizado: 2026-08-20 01:28:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.97
@@ -168,7 +168,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF M25 Ueberlingen Men: Tim Handel vs A | Tim Handel (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Weiyi Kong vs M  | M Rifqi Fitriadi (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
