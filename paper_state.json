@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.50344725918575,
+  "bankroll": 497.99420483494333,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2535,6 +2535,11 @@
       "timestamp": 1787196741.6150012,
       "bankroll": 495.5,
       "event": "won: RN1 \u2014 Quebec City: Jacob Fearnley vs Mackenzie McDonald"
+    },
+    {
+      "timestamp": 1787197060.6746633,
+      "bankroll": 497.99,
+      "event": "won: RN1 \u2014 Cincinnati Open: Frances Tiafoe vs Felix Auger-Aliassime"
     }
   ]
 }

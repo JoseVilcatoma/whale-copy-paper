@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 22:37:26 (hora de Perú)
+Actualizado: 2026-08-19 22:39:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.50
-**Retorno acumulado:** -0.90%
+**Bankroll actual:** $497.99
+**Retorno acumulado:** -0.40%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 22:37:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $330.50)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $337.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,19 +42,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 1 | 2 | 2 | -5.75 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | HomeRunHazard | 34 | 18 | 4 | -11.85 USD |
-| RN1 | 77 | 36 | 18 | -16.62 USD |
+| RN1 | 78 | 36 | 17 | -14.13 USD |
 | ferrariChampions2026 | 148 | 87 | 2 | -36.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 506
-- **Aciertos:** 333 (65.8%)
+- **Apuestas resueltas:** 507
+- **Aciertos:** 334 (65.9%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,525.45
-- **ROI sobre lo apostado:** -0.22%
-- **Comisiones pagadas (taker fee):** $44.64 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.55% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,530.45
+- **ROI sobre lo apostado:** -0.12%
+- **Comisiones pagadas (taker fee):** $44.73 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.65% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -63,7 +63,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 233 | 48.5% | 50.1% | -1.6 pp |
-| 60-79% | 167 | 74.3% | 68.3% | +5.9 pp |
+| 60-79% | 168 | 74.4% | 68.3% | +6.1 pp |
 | 80-94% | 69 | 85.5% | 87.3% | -1.8 pp |
 | 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
 
@@ -176,7 +176,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Los Angeles Galaxy vs. San Jose Earthqua | Over (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 2.3% | ✅ ganada | +0.05 |
 |  | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 76% | 5.00 | 0.6% | ✅ ganada | +1.52 |
-| RN1 | Cincinnati Open: Frances Tiafoe vs Felix | Frances Tiafoe (BUY) | 66% | 5.00 | 6.0% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Frances Tiafoe vs Felix | Frances Tiafoe (BUY) | 66% | 5.00 | 6.0% | ✅ ganada | +2.49 |
 | RN1 | Montevideo City Torque vs. CA Tigre: O/U | Under (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Washington Nationals vs. Texas Rangers | Washington Nationals (BUY) | 99% | 5.00 | 2.1% | ✅ ganada | +0.05 |
 | RN1 | Will Montevideo City Torque win on 2026- | Yes (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
