@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.0893630447397,
+  "bankroll": 493.1672346663613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3045,6 +3045,11 @@
       "timestamp": 1787237804.0198689,
       "bankroll": 493.09,
       "event": "won: RN1 \u2014 Sion: Lorenzo Giustino vs Dimitar Kuzmanov"
+    },
+    {
+      "timestamp": 1787238817.6012125,
+      "bankroll": 493.17,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs Team Falcons - Game 2 Winner (+0.08 USD)"
     }
   ]
 }

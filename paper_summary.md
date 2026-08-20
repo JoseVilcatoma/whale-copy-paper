@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 10:12:26 (hora de Perú)
+Actualizado: 2026-08-20 10:14:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $493.09
-**Retorno acumulado:** -1.38%
+**Bankroll actual:** $493.17
+**Retorno acumulado:** -1.37%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 10:12:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $318.09)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $308.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,11 +23,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| SDTrading | 7 | 4 | 2 | +11.47 USD |
+| SDTrading | 7 | 4 | 4 | +11.47 USD |
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| IMAREALPERSON | 7 | 1 | 1 | +3.70 USD |
+| IMAREALPERSON | 8 | 1 | 1 | +3.78 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -189,6 +189,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Athletics vs. Kansas City Royals: O/U 8. | Over (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
+| SDTrading | Athletics vs. Kansas City Royals | Athletics (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons - G | Nigma Galaxy (BUY) | 74% | 5.00 | 30.2% | 💰 vendida anticipada | +0.08 |
 | ChonkyChocolateCake | LoL: G2 NORD vs Eintracht Spandau - Game | G2 NORD (BUY) | 57% | 5.00 | 8.5% | ⏳ pendiente | — |
 |  | Will FC København win on 2026-08-20? | Yes (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Tommy Paul vs Flavio Co | Tommy Paul (BUY) | 61% | 5.00 | 72.1% | ⏳ pendiente | — |
@@ -216,6 +219,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | St. Louis Cardinals vs. Cincinnati Reds: | Under (BUY) | 57% | 5.00 | 48.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 10.3% | ✅ ganada | +5.51 |
 | danielwolfmorales3pddb6dl6 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 61% | 5.00 | 30.7% | ✅ ganada | +3.10 |
-|  | KF Egnatia Rrogozhinë vs. Lillestrøm SK: | Over (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
-|  | ITF W35 Erwitte Women: Eva Bennemann vs  | Eva Bennemann (BUY) | 53% | 5.00 | 1.2% | ❌ perdida | -5.12 |
-| danielwolfmorales3pddb6dl6 | Game Handicap: BLG (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 44% | 5.00 | 41.6% | 💰 vendida anticipada | +6.22 |
