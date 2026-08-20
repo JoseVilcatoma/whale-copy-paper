@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 22:41:30 (hora de Perú)
+Actualizado: 2026-08-19 22:43:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.99
@@ -165,7 +165,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Colorado Rockies (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Los Angeles Dodgers vs. Colorado Rockies | Colorado Rockies (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Alex Hernandez | Alan Magadan (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
