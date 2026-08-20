@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 20:47:34 (hora de Perú)
+Actualizado: 2026-08-19 20:49:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $475.43
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 20:47:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $348.25 en 70 posiciones abiertas (disponible para nuevas apuestas: $127.18)
+**Capital comprometido ahora mismo:** $358.25 en 72 posiciones abiertas (disponible para nuevas apuestas: $117.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | HomeRunHazard | 29 | 14 | 13 | -8.61 USD |
 | Sassy-Bucket | 1 | 3 | 3 | -9.87 USD |
-| RN1 | 68 | 35 | 12 | -18.39 USD |
+| RN1 | 68 | 35 | 14 | -18.39 USD |
 | ferrariChampions2026 | 134 | 80 | 23 | -37.45 USD |
 
 ## Análisis general
@@ -163,7 +163,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will Los Angeles Galaxy win on 2026-08-1 | No (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Over (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Taylor Fritz vs Christo | Taylor Fritz (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Will Los Angeles Galaxy win on 2026-08-1 | No (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Portland Timbers win on 2026-08-19? | No (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Kansas City Royals | Athletics (BUY) | 82% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -191,5 +193,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Keys vs Wang | Wang (BUY) | 55% | 4.36 | 0.1% | ❌ perdida | -4.46 |
 | ferrariChampions2026 | Valorant: G2 Esports vs M80 - Map 1 Winn | G2 Esports (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Cincinnati win on 2026-08-19? | No (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Francisco Giants vs. Cleveland Guard | San Francisco Giants (BUY) | 43% | 5.00 | 1.9% | ✅ ganada | +6.48 |
-| HomeRunHazard | St. Louis Cardinals vs. Cincinnati Reds | Cincinnati Reds (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
