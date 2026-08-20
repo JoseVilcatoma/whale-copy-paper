@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.7275315010988,
+  "bankroll": 499.60197594554324,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2600,6 +2600,11 @@
       "timestamp": 1787200339.4851837,
       "bankroll": 497.73,
       "event": "won: RN1 \u2014 Cancun: Alan Magadan vs Alex Hernandez"
+    },
+    {
+      "timestamp": 1787200524.3612056,
+      "bankroll": 499.6,
+      "event": "won: RN1 \u2014 Montevideo City Torque vs. CA Tigre: O/U 3.5"
     }
   ]
 }
