@@ -20,13 +20,13 @@
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1787238862.7594883,
-    "roi_pct": 446.15,
+    "roi_pct": 397.62,
     "short_term_pct": 100.0
   },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787239815.7958739,
-    "roi_pct": 956.41,
+    "roi_pct": 956.17,
     "short_term_pct": 100.0
   },
   "0x1d1ade627d0bb0205758580b20d808573e720df6": {
@@ -38,25 +38,25 @@
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787259916.268196,
-    "roi_pct": 291.58,
+    "roi_pct": 282.96,
     "short_term_pct": 100.0
   },
   "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e": {
     "username": "Lakersfan111",
     "added_at": 1787261816.7979932,
-    "roi_pct": 247.85,
-    "short_term_pct": 100.0
-  },
-  "0x6d20c35f65d9899b6d6b74f8466e824580f9a165": {
-    "username": "Djdjdjekekek",
-    "added_at": 1787265590.9047725,
-    "roi_pct": 190.25,
+    "roi_pct": 246.53,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1787266537.905955,
-    "roi_pct": 339.31,
-    "short_term_pct": 90.0
+    "roi_pct": 621.01,
+    "short_term_pct": 100.0
+  },
+  "0xfe787d2da716d60e8acff57fb87eb13cd4d10319": {
+    "username": "ferrariChampions2026",
+    "added_at": 1787267486.0218134,
+    "roi_pct": 213.66,
+    "short_term_pct": 100.0
   }
 }
