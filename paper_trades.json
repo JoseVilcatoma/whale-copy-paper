@@ -14524,8 +14524,8 @@
     "title": "Sion: Tommaso Compagnucci vs Juan Manuel La Serna",
     "outcome": "Tommaso Compagnucci",
     "side": "BUY",
-    "whale_usd": 7179.9,
-    "whale_pct": 12.247,
+    "whale_usd": 9653.019999999999,
+    "whale_pct": 16.466,
     "whale_value_at_open": 58624.9165,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -14540,8 +14540,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787220772.846266,
-    "fills": 2
+    "last_fill_at": 1787224093.2894547,
+    "fills": 6
   },
   {
     "timestamp": 1787220862,

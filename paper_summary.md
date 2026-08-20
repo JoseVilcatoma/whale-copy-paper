@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 06:06:35 (hora de Perú)
+Actualizado: 2026-08-20 06:08:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.54
@@ -200,7 +200,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Slovenj Gradec Men: Kirill Kivat | Kirill Kivattsev (BUY) | 99% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Pia Lovric (BUY) | 57% | 5.00 | 6.5% | ⏳ pendiente | — |
-| RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 12.2% | ⏳ pendiente | — |
+| RN1 | Sion: Tommaso Compagnucci vs Juan Manuel | Tommaso Compagnucci (BUY) | 71% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | JD Gaming (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming - G | JD Gaming (BUY) | 78% | 5.00 | 9.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: JD Gaming vs ThunderTalk Gaming (BO | ThunderTalk Gaming (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
