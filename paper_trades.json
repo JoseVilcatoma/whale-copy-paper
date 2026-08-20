@@ -14864,5 +14864,59 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787223097.140332,
     "fills": 3
+  },
+  {
+    "timestamp": 1787223147,
+    "timestamp_added": 1787223147.5690494,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-liquid-ty-2026-08-20-game1",
+    "title": "Dota 2: Team Liquid vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 3401.273802,
+    "whale_pct": 13.727,
+    "whale_value_at_open": 24777.8985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787223175.6945183,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787223170,
+    "timestamp_added": 1787223170.781689,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-liquid-ty-2026-08-20",
+    "title": "Dota 2: Team Liquid vs Team Yandex (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 1561.077,
+    "whale_pct": 6.3,
+    "whale_value_at_open": 24777.8985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787223170.7817018,
+    "fills": 1
   }
 ]
