@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 02:40:03 (hora de Perú)
+Actualizado: 2026-08-20 02:42:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $479.58
-**Retorno acumulado:** -4.08%
+**Bankroll actual:** $480.86
+**Retorno acumulado:** -3.83%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 02:40:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $379.58)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $385.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,19 +43,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 |  | 5 | 4 | 3 | -10.09 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| RN1 | 89 | 43 | 4 | -27.70 USD |
+| RN1 | 90 | 43 | 3 | -26.42 USD |
 | ferrariChampions2026 | 150 | 88 | 6 | -36.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 541
-- **Aciertos:** 354 (65.4%)
-- **Cuota promedio de entrada:** 64.5%
+- **Apuestas resueltas:** 542
+- **Aciertos:** 355 (65.5%)
+- **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,700.45
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $47.87 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,705.45
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $47.93 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -64,7 +64,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 249 | 47.8% | 50.2% | -2.4 pp |
-| 60-79% | 180 | 74.4% | 68.3% | +6.1 pp |
+| 60-79% | 181 | 74.6% | 68.4% | +6.2 pp |
 | 80-94% | 75 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 37 | 100.0% | 97.2% | +2.8 pp |
 
@@ -181,7 +181,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | BoomBoys (BUY) | 42% | 5.00 | 7.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF M25 Ueberlingen Men: Tim Handel vs A | Tim Handel (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: Weiyi Kong vs M  | M Rifqi Fitriadi (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | ITF M15 Maanshan 7 Men: Weiyi Kong vs M  | M Rifqi Fitriadi (BUY) | 79% | 5.00 | 1.5% | ✅ ganada | +1.28 |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 66% | 5.00 | 8.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Dabin Kim vs Me | Meng Yi Chen (BUY) | 90% | 5.00 | 2.1% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Team Spirit (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
