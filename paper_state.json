@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.6189995850431,
+  "bankroll": 467.34149958504315,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2910,6 +2910,11 @@
       "timestamp": 1787228864.433149,
       "bankroll": 464.62,
       "event": "won: ferrariChampions2026 \u2014 LoL: Dplus KIA vs Hanwha Life Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787229423.873871,
+      "bankroll": 467.34,
+      "event": "won: RN1 \u2014 ITF M25 Ueberlingen Men: Denis Yevseyev vs Jannik Maute"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 07:35:04 (hora de Perú)
+Actualizado: 2026-08-20 07:37:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $464.62
-**Retorno acumulado:** -7.08%
+**Bankroll actual:** $467.34
+**Retorno acumulado:** -6.53%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 07:35:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $269.62)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $277.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,18 +47,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 2 | 5 | 3 | -17.88 USD |
 | ferrariChampions2026 | 158 | 92 | 13 | -23.45 USD |
-| RN1 | 97 | 48 | 6 | -43.63 USD |
+| RN1 | 98 | 48 | 5 | -40.91 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 576
-- **Aciertos:** 375 (65.1%)
+- **Apuestas resueltas:** 577
+- **Aciertos:** 376 (65.2%)
 - **Cuota promedio de entrada:** 64.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,875.45
-- **ROI sobre lo apostado:** -1.38%
-- **Comisiones pagadas (taker fee):** $50.96 (1.77% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,880.45
+- **ROI sobre lo apostado:** -1.28%
+- **Comisiones pagadas (taker fee):** $51.05 (1.77% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -67,7 +67,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 266 | 47.4% | 50.3% | -2.9 pp |
-| 60-79% | 191 | 74.3% | 68.3% | +6.0 pp |
+| 60-79% | 192 | 74.5% | 68.3% | +6.2 pp |
 | 80-94% | 78 | 85.9% | 86.9% | -1.1 pp |
 | 95-99% (casi seguro) | 41 | 97.6% | 97.3% | +0.3 pp |
 
@@ -200,7 +200,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Dominic Stephan Stricker vs Mika B | Dominic Stephan Stricker (BUY) | 97% | 5.00 | 3.1% | ✅ ganada | +0.15 |
 | RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 82% | 5.00 | 6.1% | ✅ ganada | +1.05 |
 | RN1 | ITF W35 Krakow Women: Anna Kmiecik vs Da | Dalila Jakupovic (BUY) | 97% | 5.00 | 1.9% | ✅ ganada | +0.15 |
-| RN1 | ITF M25 Ueberlingen Men: Denis Yevseyev  | Jannik Maute (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF M25 Ueberlingen Men: Denis Yevseyev  | Jannik Maute (BUY) | 64% | 5.00 | 0.7% | ✅ ganada | +2.72 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex (BO3) | Team Yandex (BUY) | 46% | 5.00 | 6.3% | 💰 vendida anticipada | +0.27 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 52% | 5.00 | 13.7% | 💰 vendida anticipada | +0.24 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Yandex - Gam | Team Liquid (BUY) | 56% | 5.00 | 32.5% | ⏳ pendiente | — |
