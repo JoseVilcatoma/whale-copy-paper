@@ -14239,5 +14239,31 @@
     "fills": 1,
     "fee_total_usd": 0.192,
     "closed_price": 64
+  },
+  {
+    "timestamp": 1787214797,
+    "timestamp_added": 1787214798.0090985,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-vsn2-boombo-2026-08-20-game2",
+    "title": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 5900.0,
+    "whale_pct": 74.631,
+    "whale_value_at_open": 7905.5459,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787214798.0091074,
+    "fills": 1
   }
 ]

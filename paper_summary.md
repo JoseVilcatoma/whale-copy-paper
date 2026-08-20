@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 03:33:08 (hora de Perú)
+Actualizado: 2026-08-20 03:35:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.69
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 03:33:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $327.69)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $322.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| IMAREALPERSON | 1 | 0 | 0 | +0.05 USD |
+| IMAREALPERSON | 1 | 0 | 1 | +0.05 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
 | SineNooneEI | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -175,6 +175,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 60% | 5.00 | 74.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 61% | 5.00 | 10.1% | 💰 vendida anticipada | +0.05 |
 | SineNooneEI | Valorant: ZETA DIVISION vs Xipto Esports | Xipto Esports (BUY) | 45% | 5.00 | 18.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 2 | BoomBoys (BUY) | 59% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -204,4 +205,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: TEAM VISION vs BoomBoys - Game 1 | TEAM VISION (BUY) | 66% | 5.00 | 8.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Dabin Kim vs Me | Meng Yi Chen (BUY) | 90% | 5.00 | 2.1% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Team Spirit (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
-| ferrariChampions2026 | Dota 2: Iron Wing vs Team Spirit - Game  | Iron Wing (BUY) | 63% | 5.00 | 2.9% | ❌ perdida | -5.09 |
