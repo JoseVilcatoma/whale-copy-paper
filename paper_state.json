@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.46018848346705,
+  "bankroll": 487.1421100520945,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3275,6 +3275,11 @@
       "timestamp": 1787261359.8695433,
       "bankroll": 482.46,
       "event": "lost: Sassy-Bucket \u2014 Athletics vs. Kansas City Royals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787262303.2675622,
+      "bankroll": 487.14,
+      "event": "won:  \u2014 PAOK vs. SK Brann: O/U 2.5"
     }
   ]
 }
