@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.69492900479304,
+  "bankroll": 484.62513733812636,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2725,6 +2725,11 @@
       "timestamp": 1787214752.7588408,
       "bankroll": 482.69,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner (+0.05 USD)"
+    },
+    {
+      "timestamp": 1787215646.9017012,
+      "bankroll": 484.63,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner (+1.93 USD)"
     }
   ]
 }
