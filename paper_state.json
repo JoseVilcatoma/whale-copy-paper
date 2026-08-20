@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.88598442273354,
+  "bankroll": 493.2833632667339,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -2470,6 +2470,26 @@
       "timestamp": 1787193733.8210952,
       "bankroll": 480.89,
       "event": "won: ferrariChampions2026 \u2014 Will SE Palmeiras win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787194984.9707236,
+      "bankroll": 482.24,
+      "event": "won: sentrio \u2014 Spread: Milwaukee Brewers (-2.5)"
+    },
+    {
+      "timestamp": 1787194986.6850502,
+      "bankroll": 487.75,
+      "event": "won: Satisfied \u2014 Seattle Mariners vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787194987.0772305,
+      "bankroll": 493.03,
+      "event": "won: SDTrading \u2014 Seattle Mariners vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787194992.5275023,
+      "bankroll": 493.28,
+      "event": "won: RN1 \u2014 Seattle Mariners vs. Milwaukee Brewers"
     }
   ]
 }

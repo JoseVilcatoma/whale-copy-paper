@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 22:02:13 (hora de Perú)
+Actualizado: 2026-08-19 22:04:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $480.89
-**Retorno acumulado:** -3.82%
+**Bankroll actual:** $493.28
+**Retorno acumulado:** -1.34%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 22:02:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $223.25 en 45 posiciones abiertas (disponible para nuevas apuestas: $257.64)
+**Capital comprometido ahora mismo:** $203.25 en 41 posiciones abiertas (disponible para nuevas apuestas: $290.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,15 +23,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| sentrio | 4 | 2 | 1 | +9.13 USD |
+| sentrio | 5 | 2 | 0 | +10.49 USD |
+| SDTrading | 6 | 4 | 1 | +7.74 USD |
 | Lakersfan111 | 1 | 0 | 2 | +5.29 USD |
-| SDTrading | 5 | 4 | 2 | +2.45 USD |
+| Satisfied | 2 | 1 | 0 | +5.26 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
-| Satisfied | 1 | 1 | 1 | -0.25 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 |  | 3 | 2 | 2 | -3.59 USD |
@@ -42,19 +42,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 34 | 17 | 5 | -6.78 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | theowalcott | 3 | 4 | 2 | -7.60 USD |
-| RN1 | 73 | 36 | 21 | -17.12 USD |
+| RN1 | 74 | 36 | 20 | -16.87 USD |
 | ferrariChampions2026 | 147 | 86 | 4 | -33.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 493
-- **Aciertos:** 322 (65.3%)
+- **Apuestas resueltas:** 497
+- **Aciertos:** 326 (65.6%)
 - **Cuota promedio de entrada:** 64.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $2,462.20
-- **ROI sobre lo apostado:** -0.82%
-- **Comisiones pagadas (taker fee):** $43.75 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $2,482.20
+- **ROI sobre lo apostado:** -0.31%
+- **Comisiones pagadas (taker fee):** $44.08 (1.78% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.47% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -62,10 +62,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 228 | 47.8% | 50.2% | -2.4 pp |
-| 60-79% | 163 | 74.2% | 68.2% | +6.0 pp |
+| 40-59% | 230 | 48.3% | 50.1% | -1.9 pp |
+| 60-79% | 164 | 74.4% | 68.2% | +6.1 pp |
 | 80-94% | 69 | 85.5% | 87.3% | -1.8 pp |
-| 95-99% (casi seguro) | 33 | 100.0% | 97.2% | +2.8 pp |
+| 95-99% (casi seguro) | 34 | 100.0% | 97.1% | +2.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -171,7 +171,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Quebec City: Jacob Fearnley vs Mackenzie | Jacob Fearnley (BUY) | 97% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Spread: Los Angeles Dodgers (-2.5) | Colorado Rockies (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Yidi Yang vs Ch | Chenting Zhu (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 95% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Seattle Mariners vs. Milwaukee Brewers | Seattle Mariners (BUY) | 95% | 5.00 | 0.2% | ✅ ganada | +0.25 |
 | RN1 | Los Angeles Galaxy vs. San Jose Earthqua | Over (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Jaime Faria vs Lorenzo  | Lorenzo Musetti (BUY) | 99% | 5.00 | 2.3% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 76% | 5.00 | 0.6% | ⏳ pendiente | — |
