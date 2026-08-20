@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-19 23:06:22 (hora de Perú)
+Actualizado: 2026-08-19 23:08:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-19 23:06:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $322.99)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $317.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | dauntlesswitness | 0 | 0 | 1 | +0.00 USD |
-| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 1 | +0.00 USD |
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 0 | 0 | 2 | +0.00 USD |
 | ChonkyChocolateCake | 1 | 1 | 0 | -0.44 USD |
 | predictionlegend | 2 | 2 | 0 | -0.46 USD |
 |  | 4 | 2 | 1 | -2.07 USD |
@@ -166,6 +166,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Sara Bejlek (BUY) | 75% | 5.00 | 9.3% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Under (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | Cincinnati Open: Aryna Sabalenka vs Sara | Aryna Sabalenka (BUY) | 56% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -195,4 +196,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CR Flamengo win on 2026-08-19? | Yes (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Colorado Rockies | Los Angeles Dodgers (BUY) | 82% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Independiente Santa Fe vs. CA River Plat | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | CR Flamengo vs. Cruzeiro EC: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |

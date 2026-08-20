@@ -13421,5 +13421,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787198644.5585778,
     "fills": 1
+  },
+  {
+    "timestamp": 1787198783,
+    "timestamp_added": 1787198784.0572639,
+    "username": "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+    "wallet": "0x32b484581fc5606de9c1e43af4636b6be9bc8b21",
+    "slug": "wta-sabalen-bejlek-2026-08-19",
+    "title": "Cincinnati Open: Aryna Sabalenka vs Sara Bejlek",
+    "outcome": "Sara Bejlek",
+    "side": "BUY",
+    "whale_usd": 3286.2955999999995,
+    "whale_pct": 9.335,
+    "whale_value_at_open": 35205.2338,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787198784.0572798,
+    "fills": 1
   }
 ]
