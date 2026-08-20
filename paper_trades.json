@@ -17553,5 +17553,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787268964.849281,
     "fills": 1
+  },
+  {
+    "timestamp": 1787269476,
+    "timestamp_added": 1787269476.8323455,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-fut-mouz-2026-08-21",
+    "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 623.3880999999999,
+    "whale_pct": 0.269,
+    "whale_value_at_open": 231873.241,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787269476.8323576,
+    "fills": 1
   }
 ]
