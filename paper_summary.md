@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 07:20:41 (hora de Perú)
+Actualizado: 2026-08-20 07:22:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.14
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 07:20:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $248.14)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $243.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| IMAREALPERSON | 5 | 0 | 2 | +3.26 USD |
+| IMAREALPERSON | 5 | 0 | 3 | +3.26 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
@@ -183,6 +183,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Team Liquid vs Team Yandex - Gam | Team Yandex (BUY) | 47% | 5.00 | 10.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Sion: Lorenzo Giustino vs Dimitar Kuzman | Lorenzo Giustino (BUY) | 61% | 5.00 | 30.7% | ⏳ pendiente | — |
 |  | KF Egnatia Rrogozhinë vs. Lillestrøm SK: | Over (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | ITF W35 Erwitte Women: Eva Bennemann vs  | Eva Bennemann (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -212,4 +213,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton: Oliver Tarvet vs Charles Bro | Oliver Tarvet (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Kirill Kivat | Kirill Kivattsev (BUY) | 99% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W50 Prague Women: Yelyzaveta Kotliar | Yelyzaveta Kotliar (BUY) | 45% | 5.00 | 0.3% | ✅ ganada | +5.97 |
-| RN1 | ITF W50 Prague Women: Yelyzaveta Kotliar | Pia Lovric (BUY) | 57% | 5.00 | 6.5% | ❌ perdida | -5.11 |
