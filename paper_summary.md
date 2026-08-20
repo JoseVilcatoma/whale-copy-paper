@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 12:42:11 (hora de Perú)
+Actualizado: 2026-08-20 12:44:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $515.99
-**Retorno acumulado:** +3.20%
+**Bankroll actual:** $521.96
+**Retorno acumulado:** +4.39%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 12:42:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $340.99)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $346.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,9 +22,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
+| Lakersfan111 | 3 | 0 | 0 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 7 | 4 | 4 | +11.47 USD |
-| Lakersfan111 | 2 | 0 | 1 | +10.80 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | IMAREALPERSON | 11 | 1 | 1 | +7.70 USD |
 | casualbet2020 | 2 | 0 | 1 | +7.37 USD |
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 1 | 1 | 4 | -0.44 USD |
 | predictionlegend | 2 | 2 | 1 | -0.46 USD |
-| danielwolfmorales3pddb6dl6 | 6 | 6 | 4 | -4.80 USD |
+| danielwolfmorales3pddb6dl6 | 6 | 6 | 5 | -4.80 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ferrariChampions2026 | 166 | 95 | 2 | -6.06 USD |
 | Sassy-Bucket | 3 | 4 | 2 | -6.36 USD |
@@ -54,14 +54,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 615
-- **Aciertos:** 403 (65.5%)
+- **Apuestas resueltas:** 616
+- **Aciertos:** 404 (65.6%)
 - **Cuota promedio de entrada:** 64.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,070.45
-- **ROI sobre lo apostado:** -0.19%
-- **Comisiones pagadas (taker fee):** $54.76 (1.78% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.59% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,075.45
+- **ROI sobre lo apostado:** +0.00%
+- **Comisiones pagadas (taker fee):** $54.90 (1.79% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.79% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 286 | 48.3% | 50.1% | -1.9 pp |
+| 40-59% | 287 | 48.4% | 50.1% | -1.7 pp |
 | 60-79% | 204 | 74.5% | 68.1% | +6.4 pp |
 | 80-94% | 80 | 86.2% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
@@ -193,6 +193,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | LoL: ⁠Movistar KOI Fénix vs Team Heretic | Team Heretics Academy (BUY) | 47% | 5.00 | 11.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs Team Falcons (BO | Nigma Galaxy (BUY) | 49% | 5.00 | 21.1% | ⏳ pendiente | — |
 | CORGI8 | Counter-Strike: G2 vs FURIA - Map 2 Winn | G2 (BUY) | 41% | 5.00 | 9.7% | ⏳ pendiente | — |
 | CORGI8 | Cincinnati Open: Amanda Anisimova vs Jes | Amanda Anisimova (BUY) | 46% | 5.00 | 35.7% | ⏳ pendiente | — |
@@ -222,4 +223,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 61% | 5.00 | 0.7% | ✅ ganada | +3.10 |
 | danielwolfmorales3pddb6dl6 | Sion: Benjamin Hassan vs Geoffrey Blanca | Benjamin Hassan (BUY) | 49% | 5.00 | 28.3% | 💰 vendida anticipada | +5.08 |
 | casualbet2020 | Counter-Strike: FaZe vs Vitality - Map 2 | Vitality (BUY) | 60% | 5.00 | 458.7% | ✅ ganada | +3.23 |
-|  | LoL: Solary vs Skillcamp Esport (BO3) -  | Solary (BUY) | 87% | 5.00 | 1.5% | ⏳ pendiente | — |

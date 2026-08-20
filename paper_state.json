@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.9861472846703,
+  "bankroll": 521.9592583957815,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3140,6 +3140,11 @@
       "timestamp": 1787247217.2057953,
       "bankroll": 515.99,
       "event": "won: casualbet2020 \u2014 Map Handicap: TS (-1.5) vs B8 (+1.5)"
+    },
+    {
+      "timestamp": 1787247783.8896873,
+      "bankroll": 521.96,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: BLG (-1.5) vs LGD Gaming (+1.5)"
     }
   ]
 }
