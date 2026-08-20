@@ -14249,8 +14249,8 @@
     "title": "Dota 2: TEAM VISION vs BoomBoys - Game 2 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 9016.10282,
-    "whale_pct": 114.048,
+    "whale_usd": 9528.491767,
+    "whale_pct": 120.529,
     "whale_value_at_open": 7905.5459,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -14263,7 +14263,34 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787215291.0724373,
-    "fills": 4
+    "last_fill_at": 1787215630.8864381,
+    "fills": 5
+  },
+  {
+    "timestamp": 1787215605,
+    "timestamp_added": 1787215605.6224098,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "atp-compagn-serna-2026-08-20",
+    "title": "Sion: Tommaso Compagnucci vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "whale_usd": 660.1949999999999,
+    "whale_pct": 5.645,
+    "whale_value_at_open": 11694.9518,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787215605.6224208,
+    "fills": 1
   }
 ]
