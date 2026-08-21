@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 11:49:43 (hora de Perú)
+Actualizado: 2026-08-21 11:51:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $401.34
-**Retorno acumulado:** -19.73%
+**Bankroll actual:** $396.29
+**Retorno acumulado:** -20.74%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 11:49:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $161.34)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $161.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,18 +55,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 19 | 2 | -49.09 USD |
-| RN1 | 109 | 55 | 21 | -56.19 USD |
+| RN1 | 109 | 56 | 20 | -61.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 774
-- **Aciertos:** 486 (62.8%)
+- **Apuestas resueltas:** 775
+- **Aciertos:** 486 (62.7%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,865.45
-- **ROI sobre lo apostado:** -3.40%
-- **Comisiones pagadas (taker fee):** $71.20 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.56% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,870.45
+- **ROI sobre lo apostado:** -3.52%
+- **Comisiones pagadas (taker fee):** $71.25 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.68% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 390 | 46.2% | 50.1% | -4.0 pp |
 | 60-79% | 239 | 73.2% | 67.8% | +5.4 pp |
-| 80-94% | 93 | 87.1% | 86.8% | +0.3 pp |
+| 80-94% | 94 | 86.2% | 86.8% | -0.6 pp |
 | 95-99% (casi seguro) | 52 | 96.2% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -257,7 +257,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Seinajoen JK vs. FC Lahti end in a  | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Lambermont Men: Deney Wassermann | Romain Faucon (BUY) | 84% | 5.00 | 1.4% | ✅ ganada | +0.91 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 51% | 5.00 | 1.6% | ✅ ganada | +4.68 |
-| RN1 | Sion: Lorenzo Giustino vs Benjamin Hassa | Lorenzo Giustino (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Sion: Lorenzo Giustino vs Benjamin Hassa | Lorenzo Giustino (BUY) | 81% | 5.00 | 1.6% | ❌ perdida | -5.05 |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 1 | Team Heretics (BUY) | 65% | 5.00 | 4.5% | ⏳ pendiente | — |
 | RN1 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Carlos Lopez Montagud (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |

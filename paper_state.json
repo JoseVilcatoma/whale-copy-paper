@@ -1,5 +1,5 @@
 {
-  "bankroll": 401.34074289191756,
+  "bankroll": 396.29374289191753,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3980,6 +3980,11 @@
       "timestamp": 1787329858.2320025,
       "bankroll": 401.34,
       "event": "won: RN1 \u2014 ITF M15 Lambermont Men: Deney Wassermann vs Romain Faucon"
+    },
+    {
+      "timestamp": 1787331101.305333,
+      "bankroll": 396.29,
+      "event": "lost: RN1 \u2014 Sion: Lorenzo Giustino vs Benjamin Hassan"
     }
   ]
 }
