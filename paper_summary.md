@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 04:48:49 (hora de Perú)
+Actualizado: 2026-08-21 04:50:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 04:48:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $299.93)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $294.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-|  | 21 | 13 | 6 | -21.39 USD |
+|  | 21 | 13 | 7 | -21.39 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | RN1 | 108 | 55 | 1 | -57.10 USD |
@@ -218,6 +218,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Arsenal FC vs. Coventry City FC: O/U 3.5 | Under (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 1 | Team WE (BUY) | 47% | 5.00 | 3.8% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 42% | 5.00 | 5.4% | 💰 vendida anticipada | -0.64 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 59% | 5.00 | 92.6% | ⏳ pendiente | — |
@@ -247,4 +248,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ✅ ganada | +5.51 |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |
-| ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 57% | 5.00 | 4.9% | ⏳ pendiente | — |

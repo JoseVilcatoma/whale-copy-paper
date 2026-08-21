@@ -19221,5 +19221,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787304721.3869944,
     "fills": 2
+  },
+  {
+    "timestamp": 1787305764,
+    "timestamp_added": 1787305765.6306136,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "epl-ars-cov-2026-08-21-total-3pt5",
+    "title": "Arsenal FC vs. Coventry City FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1201.7088,
+    "whale_pct": 1.652,
+    "whale_value_at_open": 72730.8549,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787305765.6306286,
+    "fills": 1
   }
 ]
