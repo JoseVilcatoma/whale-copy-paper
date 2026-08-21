@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 01:40:25 (hora de Perú)
+Actualizado: 2026-08-21 01:42:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $453.18
@@ -214,12 +214,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 49% | 5.00 | 9.4% | ⏳ pendiente | — |
 |  | Will FC Dinamo Batumi win on 2026-08-21? | Yes (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 48% | 5.00 | 13.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 48% | 5.00 | 17.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 146.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 49% | 5.00 | 13.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 49% | 5.00 | 14.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 4.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ✅ ganada | +5.51 |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |
