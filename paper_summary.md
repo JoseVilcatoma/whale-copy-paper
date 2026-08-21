@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 15:07:32 (hora de Perú)
+Actualizado: 2026-08-21 15:09:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $432.32
-**Retorno acumulado:** -13.54%
+**Bankroll actual:** $432.91
+**Retorno acumulado:** -13.42%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 15:07:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $282.32)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $287.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,18 +56,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 25 | 19 | 1 | -46.37 USD |
-| RN1 | 120 | 60 | 10 | -58.29 USD |
+| RN1 | 121 | 60 | 9 | -57.70 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 804
-- **Aciertos:** 509 (63.3%)
+- **Apuestas resueltas:** 805
+- **Aciertos:** 510 (63.4%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,015.45
-- **ROI sobre lo apostado:** -2.71%
-- **Comisiones pagadas (taker fee):** $73.77 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.88% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,020.45
+- **ROI sobre lo apostado:** -2.70%
+- **Comisiones pagadas (taker fee):** $73.80 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.86% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 399 | 46.6% | 50.1% | -3.5 pp |
 | 60-79% | 253 | 73.5% | 67.7% | +5.8 pp |
-| 80-94% | 98 | 86.7% | 86.7% | +0.0 pp |
+| 80-94% | 99 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 54 | 96.3% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -252,7 +252,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | IK Sirius vs. BK Hacken: O/U 3.5 | Under (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 56% | 5.00 | 143.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 48% | 5.00 | 17.8% | 💰 vendida anticipada | -0.78 |
-| RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | RN1 | Will Seinajoen JK win on 2026-08-21? | Yes (BUY) | 60% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ✅ ganada | +2.61 |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ✅ ganada | +4.68 |
