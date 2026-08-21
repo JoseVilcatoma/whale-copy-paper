@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.40182928363197,
+  "bankroll": 488.6821468594694,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3370,6 +3370,71 @@
       "timestamp": 1787277499.1415558,
       "bankroll": 497.4,
       "event": "venta anticipada: Djdjdjekekek \u2014 New York Yankees vs. Baltimore Orioles (+0.47 USD)"
+    },
+    {
+      "timestamp": 1787277802.2151206,
+      "bankroll": 492.27,
+      "event": "lost: Sassy-Bucket \u2014 New York Yankees vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1787277802.506549,
+      "bankroll": 496.77,
+      "event": "won: Sassy-Bucket \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787277804.1237664,
+      "bankroll": 497.48,
+      "event": "won: ferrariChampions2026 \u2014 Will Santos FC win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787277805.0896423,
+      "bankroll": 502.17,
+      "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787277805.1897988,
+      "bankroll": 497.04,
+      "event": "lost: RN1 \u2014 New York Yankees vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1787277805.8374977,
+      "bankroll": 491.92,
+      "event": "lost: RN1 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787277806.1245608,
+      "bankroll": 486.78,
+      "event": "lost: RN1 \u2014 Will CR Vasco da Gama win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787277806.9543397,
+      "bankroll": 481.64,
+      "event": "lost: RN1 \u2014 Will CSyD Macar\u00e1 win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787277807.054525,
+      "bankroll": 484.87,
+      "event": "won: ferrariChampions2026 \u2014 Will CSyD Macar\u00e1 win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787277807.1547325,
+      "bankroll": 487.84,
+      "event": "won: RN1 \u2014 Will CSyD Macar\u00e1 win on 2026-08-20?"
+    },
+    {
+      "timestamp": 1787277807.52894,
+      "bankroll": 482.72,
+      "event": "lost: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787277809.274503,
+      "bankroll": 487.41,
+      "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1787277810.8030438,
+      "bankroll": 488.68,
+      "event": "won:  \u2014 New York Yankees vs. Baltimore Orioles: O/U 7.5"
     }
   ]
 }
