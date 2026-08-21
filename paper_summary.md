@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 06:30:33 (hora de Perú)
+Actualizado: 2026-08-21 06:32:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $451.23
-**Retorno acumulado:** -9.75%
+**Bankroll actual:** $446.22
+**Retorno acumulado:** -10.76%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 06:30:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $316.23)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $316.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,19 +52,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
-|  | 23 | 15 | 5 | -29.09 USD |
+|  | 23 | 16 | 4 | -34.10 USD |
 | RN1 | 108 | 55 | 1 | -57.10 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 737
-- **Aciertos:** 470 (63.8%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 738
+- **Aciertos:** 470 (63.7%)
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,680.45
-- **ROI sobre lo apostado:** -2.07%
-- **Comisiones pagadas (taker fee):** $67.53 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.24% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,685.45
+- **ROI sobre lo apostado:** -2.21%
+- **Comisiones pagadas (taker fee):** $67.54 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.38% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 367 | 46.6% | 50.1% | -3.5 pp |
 | 60-79% | 230 | 74.8% | 67.8% | +7.0 pp |
 | 80-94% | 91 | 86.8% | 86.8% | +0.0 pp |
-| 95-99% (casi seguro) | 49 | 98.0% | 97.3% | +0.7 pp |
+| 95-99% (casi seguro) | 50 | 96.0% | 97.3% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -237,7 +237,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 143.2% | ✅ ganada | +3.98 |
 |  | ITF W35 Bistrita Women: Jessica Pieri vs | Jessica Pieri (BUY) | 85% | 5.00 | 1.5% | ✅ ganada | +0.84 |
 |  | ITF W75 Kursumlijska Banja 3 Women: Dary | Darya Astakhova (BUY) | 62% | 5.00 | 1.4% | ❌ perdida | -5.09 |
-|  | ITF M25 Idanha-a-Nova 2 Men: Philip Henn | Philip Henning (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
+|  | ITF M25 Idanha-a-Nova 2 Men: Philip Henn | Philip Henning (BUY) | 96% | 5.00 | 2.2% | ❌ perdida | -5.01 |
 | IMAREALPERSON | LoL: HANJIN BRION vs BNK FEARX - Game 1  | HANJIN BRION (BUY) | 45% | 5.00 | 132.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 42% | 5.00 | 3.9% | ❌ perdida | -5.14 |
 | TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 63% | 5.00 | 11.4% | 💰 vendida anticipada | +2.84 |
