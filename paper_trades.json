@@ -17790,8 +17790,8 @@
     "title": "Set Handicap: Fils (-1.5) vs Tirante (+1.5)",
     "outcome": "Tirante",
     "side": "BUY",
-    "whale_usd": 1593.535753,
-    "whale_pct": 15.567,
+    "whale_usd": 3422.637691,
+    "whale_pct": 33.436,
     "whale_value_at_open": 10236.416,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -17802,7 +17802,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787272059.3010027,
-    "fills": 1
+    "last_fill_at": 1787272103.8180356,
+    "fills": 2
   }
 ]
