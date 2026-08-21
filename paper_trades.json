@@ -20210,8 +20210,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Nigma Galaxy",
     "side": "BUY",
-    "whale_usd": 577702.8446000001,
-    "whale_pct": 177.752,
+    "whale_usd": 584991.7561000001,
+    "whale_pct": 179.995,
     "whale_value_at_open": 325005.2422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -20226,8 +20226,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787323090.8984644,
-    "fills": 12
+    "last_fill_at": 1787327851.5853696,
+    "fills": 13
   },
   {
     "timestamp": 1787323880,
@@ -20499,6 +20499,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787327513.9458125,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787327789,
+    "timestamp_added": 1787327789.7404385,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-bonzi-assche-2026-08-21",
+    "title": "Quebec City: Benjamin Bonzi vs Luca Van Assche",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "whale_usd": 1031.6575079999998,
+    "whale_pct": 0.97,
+    "whale_value_at_open": 106310.8503,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787327789.7404535,
     "fills": 1
   }
 ]
