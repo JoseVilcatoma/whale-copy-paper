@@ -16671,8 +16671,8 @@
     "title": "Washington Nationals vs. Texas Rangers: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 48000.0,
-    "whale_pct": 1655.4,
+    "whale_usd": 52376.3204,
+    "whale_pct": 1806.328,
     "whale_value_at_open": 2899.6016,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -16683,8 +16683,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787258433.1011,
-    "fills": 1
+    "last_fill_at": 1787270659.2018547,
+    "fills": 2
   },
   {
     "timestamp": 1787260611,
