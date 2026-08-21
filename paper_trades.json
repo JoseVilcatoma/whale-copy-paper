@@ -21422,5 +21422,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787342539.1053574,
     "fills": 1
+  },
+  {
+    "timestamp": 1787343086,
+    "timestamp_added": 1787343086.4739125,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-atl-mil-2026-08-21",
+    "title": "Atlanta Braves vs. Milwaukee Brewers",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 969.4599989999999,
+    "whale_pct": 0.787,
+    "whale_value_at_open": 123259.1607,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787343086.4739249,
+    "fills": 1
   }
 ]
