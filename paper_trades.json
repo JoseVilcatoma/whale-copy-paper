@@ -17881,5 +17881,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787274922.5730865,
     "fills": 1
+  },
+  {
+    "timestamp": 1787275470,
+    "timestamp_added": 1787275471.0820587,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-fearnle-galarne-2026-08-20",
+    "title": "Quebec City: Jacob Fearnley vs Alexis Galarneau",
+    "outcome": "Jacob Fearnley",
+    "side": "BUY",
+    "whale_usd": 627.469997,
+    "whale_pct": 0.725,
+    "whale_value_at_open": 86569.4737,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787275471.08207,
+    "fills": 1
   }
 ]
