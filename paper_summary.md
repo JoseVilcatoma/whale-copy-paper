@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 10:46:50 (hora de Perú)
+Actualizado: 2026-08-21 10:48:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $412.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 10:46:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $222.51)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $207.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| crisp1973 | 0 | 0 | 2 | +0.00 USD |
+| crisp1973 | 0 | 0 | 3 | +0.00 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 18 | 3 | -44.03 USD |
-| RN1 | 108 | 55 | 6 | -57.10 USD |
+| RN1 | 108 | 55 | 8 | -57.10 USD |
 
 ## Análisis general
 
@@ -224,14 +224,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-lgc-fal2-2026-08-21-game1 | Djdjdjekekek, ferrariChampions2026 |
 | atp-stricke-compagn-2026-08-21 | RN1, ferrariChampions2026 |
 | dota2-ty-ngx-2026-08-21-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON |
+| spl-haz-dir-2026-08-21-dir | RN1, crisp1973 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
+| crisp1973 | Will Al Diraiyah Saudi Club win on 2026- | Yes (BUY) | 50% | 5.00 | 45.3% | ⏳ pendiente | — |
+| RN1 | Will Seinajoen JK vs. FC Lahti end in a  | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Lambermont Men: Deney Wassermann | Romain Faucon (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | Sion: Lorenzo Giustino vs Benjamin Hassa | Lorenzo Giustino (BUY) | 81% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Sion: Lorenzo Giustino vs Benjamin Hassa | Lorenzo Giustino (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 1 | Team Heretics (BUY) | 65% | 5.00 | 4.5% | ⏳ pendiente | — |
 | RN1 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Carlos Lopez Montagud (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -256,6 +260,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 37.9% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 45% | 5.00 | 1.5% | ❌ perdida | -5.14 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 43% | 5.00 | 90.3% | ❌ perdida | -5.14 |
-| crisp1973 | Will Al Qadisiyah Saudi Club win on 2026 | Yes (BUY) | 66% | 5.00 | 34.7% | ⏳ pendiente | — |
