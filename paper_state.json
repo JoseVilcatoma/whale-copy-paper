@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.92578339814736,
+  "bankroll": 459.44539937456227,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3720,6 +3720,41 @@
       "timestamp": 1787304644.6282463,
       "bankroll": 449.93,
       "event": "venta anticipada: TeGeeLP \u2014 LoL: Anyone's Legend vs Team WE - Game 2 Winner (-0.64 USD)"
+    },
+    {
+      "timestamp": 1787307150.2844448,
+      "bankroll": 454.24,
+      "event": "won: Lakersfan111 \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787307152.2042654,
+      "bankroll": 458.39,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787307152.3044856,
+      "bankroll": 462.37,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787307152.6836593,
+      "bankroll": 457.24,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787307154.6360507,
+      "bankroll": 461.22,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787307154.7361941,
+      "bankroll": 456.07,
+      "event": "lost:  \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787307154.8363118,
+      "bankroll": 459.45,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
     }
   ]
 }

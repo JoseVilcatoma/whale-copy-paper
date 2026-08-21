@@ -17167,8 +17167,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -18541,8 +18541,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.14,
     "overlaps_with": [
       "Lakersfan111"
     ],
@@ -18591,8 +18591,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [
       "Djdjdjekekek",
       "Lakersfan111"
@@ -18694,8 +18694,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "Djdjdjekekek",
       "Lakersfan111"
@@ -19101,8 +19101,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [
       "Djdjdjekekek",
       "Lakersfan111",
@@ -19129,8 +19129,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "Djdjdjekekek",
@@ -19158,8 +19158,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "",
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
