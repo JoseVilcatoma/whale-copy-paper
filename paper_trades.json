@@ -19434,14 +19434,16 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.54,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787309739.8011072,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.293,
+    "closed_price": 39
   }
 ]

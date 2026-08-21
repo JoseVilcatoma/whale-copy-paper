@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.35039937456224,
+  "bankroll": 453.8134359599281,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3760,6 +3760,11 @@
       "timestamp": 1787307469.7159052,
       "bankroll": 454.35,
       "event": "lost:  \u2014 ITF W75 Kursumlijska Banja 3 Women: Darya Astakhova vs Rada Zolotareva"
+    },
+    {
+      "timestamp": 1787310359.6790314,
+      "bankroll": 453.81,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner (-0.54 USD)"
     }
   ]
 }
