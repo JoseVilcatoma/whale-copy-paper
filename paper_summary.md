@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 17:15:16 (hora de Perú)
+Actualizado: 2026-08-21 17:17:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.73
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 17:15:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $350.73)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $345.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
+| Sassy-Bucket | 6 | 10 | 1 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 26 | 19 | 1 | -43.53 USD |
 | RN1 | 125 | 62 | 7 | -55.43 USD |
@@ -236,6 +236,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies | Under (BUY) | 51% | 5.00 | 6.0% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Bilibili Gaming vs TYLOO (BO5) | TYLOO (BUY) | 58% | 5.00 | 34.5% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -265,4 +266,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ✅ ganada | +2.61 |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ✅ ganada | +4.68 |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 61.6% | ✅ ganada | +6.48 |
