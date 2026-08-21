@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:17:45 (hora de Perú)
+Actualizado: 2026-08-20 21:19:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.49
-**Retorno acumulado:** -3.50%
+**Bankroll actual:** $473.32
+**Retorno acumulado:** -5.34%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 21:17:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $287.49)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $293.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| ferrariChampions2026 | 175 | 97 | 15 | +3.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -38,6 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | Djdjdjekekek | 1 | 0 | 1 | +0.47 USD |
+| ferrariChampions2026 | 177 | 98 | 13 | -0.36 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 4 | 3 | 0 | -1.19 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -50,19 +50,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |  | 17 | 10 | 4 | -11.53 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 8 | 2 | -13.67 USD |
-| danielwolfmorales3pddb6dl6 | 7 | 10 | 1 | -21.92 USD |
+| danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | RN1 | 107 | 55 | 2 | -57.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 678
-- **Aciertos:** 437 (64.5%)
-- **Cuota promedio de entrada:** 63.6%
+- **Apuestas resueltas:** 682
+- **Aciertos:** 439 (64.4%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,385.45
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $61.56 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,405.45
+- **ROI sobre lo apostado:** -1.44%
+- **Comisiones pagadas (taker fee):** $61.84 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.38% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,9 +70,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 329 | 47.1% | 50.1% | -3.0 pp |
+| 40-59% | 331 | 46.8% | 50.1% | -3.3 pp |
 | 60-79% | 218 | 75.2% | 67.9% | +7.3 pp |
-| 80-94% | 84 | 85.7% | 86.8% | -1.1 pp |
+| 80-94% | 86 | 86.0% | 86.9% | -0.8 pp |
 | 95-99% (casi seguro) | 47 | 97.9% | 97.2% | +0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -206,6 +206,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Botafogo FR vs. CS Cienciano: O/U 1.5 | Under (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Moise Kouame vs Roman Andres Bur | Moise Kouame (BUY) | 67% | 5.00 | 6.7% | ⏳ pendiente | — |
@@ -218,7 +219,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Los Angeles Angels vs. Houston Astros | Los Angeles Angels (BUY) | 82% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Cancun: Alan Magadan vs Coleman Wong | Alan Magadan (BUY) | 42% | 5.00 | 5.2% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tirante (+1 | Tirante (BUY) | 49% | 5.00 | 33.4% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tirante (+1 | Tirante (BUY) | 49% | 5.00 | 33.4% | ❌ perdida | -5.13 |
 | Djdjdjekekek | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 91% | 5.00 | 4.1% | 💰 vendida anticipada | +0.47 |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 6.6% | ⏳ pendiente | — |
@@ -235,4 +236,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M (BO3) | KRÜ Esports (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 80% | 5.00 | 0.3% | ✅ ganada | +1.20 |
 | RN1 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 62% | 5.00 | 2.1% | ✅ ganada | +2.97 |
-| ferrariChampions2026 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 60% | 5.00 | 0.2% | ✅ ganada | +3.23 |
