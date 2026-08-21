@@ -18295,8 +18295,8 @@
     "title": "Game Handicap: VIT (-1.5) vs Natus Vincere (+1.5)",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 2070.0,
-    "whale_pct": 0.444,
+    "whale_usd": 4140.0,
+    "whale_pct": 0.888,
     "whale_value_at_open": 466082.5274,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -18307,7 +18307,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787281629.2051048,
-    "fills": 1
+    "last_fill_at": 1787282370.363992,
+    "fills": 2
   }
 ]
