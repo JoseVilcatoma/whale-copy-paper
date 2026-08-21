@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 00:50:52 (hora de Perú)
+Actualizado: 2026-08-21 00:52:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $457.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 00:50:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $342.09)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $337.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| Djdjdjekekek | 2 | 0 | 0 | +3.70 USD |
+| Djdjdjekekek | 2 | 0 | 1 | +3.70 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -202,6 +202,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-nyy-bal-2026-08-20-total-8pt5 | Sassy-Bucket, ferrariChampions2026 |
 | cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5 | Lakersfan111, casualbet2020 |
 | atp-magadan-wong-2026-08-20 | , RN1, ferrariChampions2026 |
+| dota2-liquid-flc-2026-08-21 | Djdjdjekekek, Lakersfan111 |
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 | cs2-fut-mouz-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
@@ -212,6 +213,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 57% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -241,4 +243,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | Cancun: Alan Magadan vs Coleman Wong | Alan Magadan (BUY) | 42% | 5.00 | 5.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tirante (+1 | Tirante (BUY) | 49% | 5.00 | 33.4% | ❌ perdida | -5.13 |
-| Djdjdjekekek | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 91% | 5.00 | 4.1% | 💰 vendida anticipada | +0.47 |

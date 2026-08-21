@@ -18524,5 +18524,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787290962.2351873,
     "fills": 14
+  },
+  {
+    "timestamp": 1787291478,
+    "timestamp_added": 1787291478.9136245,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-liquid-flc-2026-08-21",
+    "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 26279.8486,
+    "whale_pct": 0.822,
+    "whale_value_at_open": 3198400.0035,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787291478.913638,
+    "fills": 1
   }
 ]
