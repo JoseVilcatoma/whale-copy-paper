@@ -21330,8 +21330,8 @@
     "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 372072.9988,
-    "whale_pct": 3491.939,
+    "whale_usd": 380818.3001,
+    "whale_pct": 3574.015,
     "whale_value_at_open": 10655.1971,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -21346,7 +21346,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787340343.9520988,
-    "fills": 34
+    "last_fill_at": 1787340429.2275283,
+    "fills": 35
   }
 ]
