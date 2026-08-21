@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.66605579980535,
+  "bankroll": 405.7612752407732,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4030,6 +4030,21 @@
       "timestamp": 1787333929.6081161,
       "bankroll": 400.67,
       "event": "won: RN1 \u2014 Quebec City: Benjamin Bonzi vs Luca Van Assche"
+    },
+    {
+      "timestamp": 1787334485.728815,
+      "bankroll": 406.17,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth"
+    },
+    {
+      "timestamp": 1787334487.5595567,
+      "bankroll": 401.08,
+      "event": "lost: RN1 \u2014 ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth"
+    },
+    {
+      "timestamp": 1787334488.2607706,
+      "bankroll": 405.76,
+      "event": "won: RN1 \u2014 ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth"
     }
   ]
 }
