@@ -20376,5 +20376,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787326313.547489,
     "fills": 1
+  },
+  {
+    "timestamp": 1787326820,
+    "timestamp_added": 1787326820.9206235,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-wasserm-faucon-2026-08-21",
+    "title": "ITF M15 Lambermont Men: Deney Wassermann vs Romain Faucon",
+    "outcome": "Romain Faucon",
+    "side": "BUY",
+    "whale_usd": 569.444444,
+    "whale_pct": 0.61,
+    "whale_value_at_open": 93371.5056,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787326820.9206367,
+    "fills": 1
   }
 ]
