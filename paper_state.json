@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.65778890110454,
+  "bankroll": 451.2275456578613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3770,6 +3770,16 @@
       "timestamp": 1787310944.1058767,
       "bankroll": 454.66,
       "event": "won:  \u2014 ITF W35 Bistrita Women: Jessica Pieri vs Marie Mettraux"
+    },
+    {
+      "timestamp": 1787311577.0057006,
+      "bankroll": 449.54,
+      "event": "lost: MisterVision \u2014 LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787311577.5677547,
+      "bankroll": 451.23,
+      "event": "won:  \u2014 LoL: EDward Gaming vs ThunderTalk Gaming (BO3) - LPL Group Ascend"
     }
   ]
 }
