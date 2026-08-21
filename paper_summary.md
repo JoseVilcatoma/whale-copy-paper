@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 16:54:43 (hora de Perú)
+Actualizado: 2026-08-21 16:56:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 16:54:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $351.25)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $346.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 26 | 19 | 1 | -43.53 USD |
-| RN1 | 124 | 62 | 7 | -60.11 USD |
+| RN1 | 124 | 62 | 8 | -60.11 USD |
 
 ## Análisis general
 
@@ -230,11 +230,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ty-ngx-2026-08-21-game2 | BOOMBOYS.Kiritych, MisterVision |
 | lol-vit-navi-2026-08-21-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | val-bbl1-fut1-2026-08-21 | Djdjdjekekek, Wiretransferxyz |
+| mlb-atl-mil-2026-08-21 | , RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Taylor Fritz vs Brandon | Brandon Nakashima (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Taylor Fritz vs Brandon | Taylor Fritz (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -264,4 +266,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 61.6% | ✅ ganada | +6.48 |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
-| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ❌ perdida | -5.15 |
