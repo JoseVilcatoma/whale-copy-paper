@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:32:10 (hora de Perú)
+Actualizado: 2026-08-20 21:34:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.20
@@ -209,7 +209,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 4.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Botafogo FR vs. CS Cienciano: O/U 1.5 | Under (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |

@@ -18167,8 +18167,8 @@
     "title": "Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 9576.947470000001,
-    "whale_pct": 4.659,
+    "whale_usd": 12452.917733,
+    "whale_pct": 6.057,
     "whale_value_at_open": 205579.984,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -18181,8 +18181,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787279355.3724,
-    "fills": 4
+    "last_fill_at": 1787279595.074245,
+    "fills": 5
   },
   {
     "timestamp": 1787279363,
