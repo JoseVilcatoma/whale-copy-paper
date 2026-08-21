@@ -19801,8 +19801,8 @@
     "title": "Al Faisaly Saudi Club vs. NEOM SC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1058.8212,
-    "whale_pct": 8.139,
+    "whale_usd": 2852.5603300000002,
+    "whale_pct": 21.928,
     "whale_value_at_open": 13008.5877,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -19813,8 +19813,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787317204.2525082,
-    "fills": 1
+    "last_fill_at": 1787318823.2637823,
+    "fills": 2
   },
   {
     "timestamp": 1787318354,
