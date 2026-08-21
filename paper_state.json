@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.4521497562547,
+  "bankroll": 491.8532421564734,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3340,6 +3340,26 @@
       "timestamp": 1787274168.1068885,
       "bankroll": 489.45,
       "event": "won: ferrariChampions2026 \u2014 Valorant: Sentinels vs 2GAME Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787276272.1361494,
+      "bankroll": 492.82,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Iga Swiatek vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1787276277.305519,
+      "bankroll": 487.68,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Iga Swiatek vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1787276277.4057438,
+      "bankroll": 490.65,
+      "event": "won: RN1 \u2014 Cincinnati Open: Iga Swiatek vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1787276278.5317202,
+      "bankroll": 491.85,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Iga Swiatek vs Elena Rybakina"
     }
   ]
 }

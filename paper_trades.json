@@ -16028,8 +16028,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -17242,8 +17242,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "danielwolfmorales3pddb6dl6"
     ],
@@ -17268,8 +17268,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [
       "danielwolfmorales3pddb6dl6"
     ],
@@ -17287,8 +17287,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 3184.6545699999997,
-    "whale_pct": 1.404,
+    "whale_usd": 3792.9802839999998,
+    "whale_pct": 1.672,
     "whale_value_at_open": 226800.3083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -17299,8 +17299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787274949.3761218,
-    "fills": 4
+    "last_fill_at": 1787276294.0664911,
+    "fills": 5
   },
   {
     "timestamp": 1787267640,
@@ -17418,8 +17418,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": [
       "RN1",
       "danielwolfmorales3pddb6dl6"
@@ -17932,6 +17932,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787276126.6652358,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787276281,
+    "timestamp_added": 1787276281.4984765,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "dota2-ironwi-boombo-2026-08-20-game1",
+    "title": "Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 7868.9948,
+    "whale_pct": 2.444,
+    "whale_value_at_open": 321917.8342,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787276281.498487,
     "fills": 1
   }
 ]
