@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.6815628416837,
+  "bankroll": 451.22996220113185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3570,6 +3570,31 @@
       "timestamp": 1787286469.9832363,
       "bankroll": 444.68,
       "event": "lost: ferrariChampions2026 \u2014 Atlanta Dream vs. Los Angeles Sparks: O/U 182.5"
+    },
+    {
+      "timestamp": 1787286781.1906276,
+      "bankroll": 449.97,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Las Vegas Aces (-14.5)"
+    },
+    {
+      "timestamp": 1787286784.4304943,
+      "bankroll": 444.84,
+      "event": "lost: ferrariChampions2026 \u2014 Connecticut Sun vs. Las Vegas Aces: O/U 168.5"
+    },
+    {
+      "timestamp": 1787286784.954267,
+      "bankroll": 450.13,
+      "event": "won: ferrariChampions2026 \u2014 Connecticut Sun vs. Las Vegas Aces: O/U 169.5"
+    },
+    {
+      "timestamp": 1787286786.35306,
+      "bankroll": 451.18,
+      "event": "won: ferrariChampions2026 \u2014 Connecticut Sun vs. Las Vegas Aces"
+    },
+    {
+      "timestamp": 1787286787.1142483,
+      "bankroll": 451.23,
+      "event": "won:  \u2014 Connecticut Sun vs. Las Vegas Aces"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 23:31:01 (hora de Perú)
+Actualizado: 2026-08-20 23:33:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $444.68
-**Retorno acumulado:** -11.06%
+**Bankroll actual:** $451.23
+**Retorno acumulado:** -9.75%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 23:31:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $299.68)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $331.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,28 +42,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 4 | 3 | 0 | -1.19 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| ferrariChampions2026 | 185 | 104 | 4 | -3.53 USD |
 | SDTrading | 8 | 8 | 1 | -4.90 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 182 | 103 | 8 | -10.04 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-|  | 19 | 12 | 2 | -20.62 USD |
+|  | 20 | 12 | 1 | -20.57 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | RN1 | 107 | 55 | 2 | -57.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 700
-- **Aciertos:** 447 (63.9%)
+- **Apuestas resueltas:** 705
+- **Aciertos:** 451 (64.0%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,495.45
-- **ROI sobre lo apostado:** -2.22%
-- **Comisiones pagadas (taker fee):** $63.65 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,520.45
+- **ROI sobre lo apostado:** -2.02%
+- **Comisiones pagadas (taker fee):** $64.09 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,10 +71,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 341 | 46.3% | 50.1% | -3.8 pp |
+| 40-59% | 344 | 46.5% | 50.1% | -3.6 pp |
 | 60-79% | 224 | 74.6% | 67.9% | +6.7 pp |
-| 80-94% | 87 | 86.2% | 86.8% | -0.6 pp |
-| 95-99% (casi seguro) | 48 | 97.9% | 97.2% | +0.7 pp |
+| 80-94% | 88 | 86.4% | 86.8% | -0.4 pp |
+| 95-99% (casi seguro) | 49 | 98.0% | 97.3% | +0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -212,12 +212,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ExplosiveNinja | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 61% | 5.00 | 20.6% | ⏳ pendiente | — |
-|  | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
+|  | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | casualbet2020 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 55% | 5.00 | 23.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: VIT (-1.5) vs Natus Vince | Natus Vincere (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 10.5% | ✅ ganada | +2.38 |
