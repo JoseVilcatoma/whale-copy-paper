@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 19:29:59 (hora de Perú)
+Actualizado: 2026-08-20 19:31:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.98
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 19:29:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $212.98)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $207.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 4 | 6 | 5 | -12.97 USD |
-|  | 15 | 10 | 1 | -13.01 USD |
+|  | 15 | 10 | 2 | -13.01 USD |
 | danielwolfmorales3pddb6dl6 | 6 | 10 | 2 | -25.29 USD |
 | RN1 | 105 | 50 | 9 | -38.22 USD |
 
@@ -196,13 +196,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-nyy-bal-2026-08-20-total-7pt5 | RN1, Sassy-Bucket, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20 | Djdjdjekekek, RN1, Sassy-Bucket, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20-total-8pt5 | Sassy-Bucket, ferrariChampions2026 |
-| atp-magadan-wong-2026-08-20 | RN1, ferrariChampions2026 |
+| atp-magadan-wong-2026-08-20 | , RN1, ferrariChampions2026 |
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Cancun: Alan Magadan vs Coleman Wong | Alan Magadan (BUY) | 42% | 5.00 | 3.0% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tirante (+1 | Tirante (BUY) | 49% | 5.00 | 33.4% | ⏳ pendiente | — |
 | Djdjdjekekek | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 91% | 5.00 | 4.1% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -232,4 +233,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 85% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 4.7% | ⏳ pendiente | — |
-| SDTrading | Spread: LV (-1.5) | LV (BUY) | 50% | 5.00 | 35.9% | ⏳ pendiente | — |
