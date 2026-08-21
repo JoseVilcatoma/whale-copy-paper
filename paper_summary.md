@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 14:01:42 (hora de Perú)
+Actualizado: 2026-08-21 14:05:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $411.93
-**Retorno acumulado:** -17.61%
+**Bankroll actual:** $415.34
+**Retorno acumulado:** -16.93%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 14:01:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $196.93)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $205.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,12 +44,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 6 | 4 | 3 | -1.21 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
 | Lakersfan111 | 8 | 8 | 3 | -6.60 USD |
 | ferrariChampions2026 | 194 | 111 | 1 | -6.83 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 7 | 1 | -7.10 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
@@ -233,7 +233,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere (BO3 | Team Vitality (BUY) | 55% | 5.00 | 93.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere (BO3 | Team Vitality (BUY) | 55% | 5.00 | 93.5% | 💰 vendida anticipada | +3.41 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 99% | 5.00 | 345.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 59% | 5.00 | 81.8% | 💰 vendida anticipada | +2.31 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 54.5% | 💰 vendida anticipada | +0.46 |

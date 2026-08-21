@@ -1,5 +1,5 @@
 {
-  "bankroll": 411.9342210224757,
+  "bankroll": 415.3420392042939,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4070,6 +4070,11 @@
       "timestamp": 1787337076.024412,
       "bankroll": 411.93,
       "event": "lost: RN1 \u2014 ITF W35 Verbier Women: Ana Grubor vs Elsa Bonelli"
+    },
+    {
+      "timestamp": 1787339083.6845646,
+      "bankroll": 415.34,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season (+3.41 USD)"
     }
   ]
 }
