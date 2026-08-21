@@ -1,5 +1,5 @@
 {
-  "bankroll": 392.19999221588955,
+  "bankroll": 395.70940955858424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3935,6 +3935,36 @@
       "timestamp": 1787328293.2940052,
       "bankroll": 392.2,
       "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787328599.992108,
+      "bankroll": 387.06,
+      "event": "lost: Lakersfan111 \u2014 Map Handicap: FAL (-1.5) vs Legacy (+1.5)"
+    },
+    {
+      "timestamp": 1787328600.8149602,
+      "bankroll": 391.04,
+      "event": "won: casualbet2020 \u2014 Map Handicap: FAL (-1.5) vs Legacy (+1.5)"
+    },
+    {
+      "timestamp": 1787328604.598956,
+      "bankroll": 385.9,
+      "event": "lost: ferrariChampions2026 \u2014 Map Handicap: FAL (-1.5) vs Legacy (+1.5)"
+    },
+    {
+      "timestamp": 1787328604.699059,
+      "bankroll": 390.98,
+      "event": "won: ferrariChampions2026 \u2014 Map Handicap: FAL (-1.5) vs Legacy (+1.5)"
+    },
+    {
+      "timestamp": 1787328606.4723203,
+      "bankroll": 395.66,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787328607.1949058,
+      "bankroll": 395.71,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner"
     }
   ]
 }
