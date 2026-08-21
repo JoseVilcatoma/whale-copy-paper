@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 11:04:26 (hora de Perú)
+Actualizado: 2026-08-21 11:06:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $412.51
-**Retorno acumulado:** -17.50%
-**Peor caída desde un máximo (drawdown):** 25.62%
+**Bankroll actual:** $392.20
+**Retorno acumulado:** -21.56%
+**Peor caída desde un máximo (drawdown):** 28.04%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 11:04:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $167.51)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $167.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 5 | 0 | 2 | +20.35 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Lakersfan111 | 7 | 5 | 7 | +5.84 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Djdjdjekekek | 6 | 3 | 1 | +5.13 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -44,29 +43,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| Lakersfan111 | 7 | 7 | 5 | -4.31 USD |
 | ChonkyChocolateCake | 5 | 4 | 2 | -4.44 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 191 | 109 | 6 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+| ferrariChampions2026 | 191 | 110 | 5 | -13.64 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 6 | 1 | -14.66 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
-|  | 24 | 18 | 3 | -44.03 USD |
+|  | 24 | 19 | 2 | -49.09 USD |
 | RN1 | 108 | 55 | 14 | -57.10 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 761
-- **Aciertos:** 479 (62.9%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 765
+- **Aciertos:** 479 (62.6%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,800.45
-- **ROI sobre lo apostado:** -3.16%
-- **Comisiones pagadas (taker fee):** $70.05 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,820.45
+- **ROI sobre lo apostado:** -3.68%
+- **Comisiones pagadas (taker fee):** $70.36 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 385 | 46.0% | 50.2% | -4.2 pp |
-| 60-79% | 233 | 74.2% | 67.8% | +6.5 pp |
+| 60-79% | 237 | 73.0% | 67.8% | +5.2 pp |
 | 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 51 | 96.1% | 97.3% | -1.2 pp |
 
@@ -249,10 +249,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Carlos Lopez Montagud (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Sergi Perez Contri (BUY) | 59% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 41% | 5.00 | 186.2% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 41% | 5.00 | 189.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 56% | 5.00 | 260.5% | 💰 vendida anticipada | -0.49 |
 | ferrariChampions2026 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.9% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 49% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Team Falcons (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 412.5109922158896,
+  "bankroll": 392.19999221588955,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3915,6 +3915,26 @@
       "timestamp": 1787326252.0833373,
       "bankroll": 412.51,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner (-0.49 USD)"
+    },
+    {
+      "timestamp": 1787328287.7967103,
+      "bankroll": 407.42,
+      "event": "lost: Lakersfan111 \u2014 LoL: KT Rolster vs T1 - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787328288.8163261,
+      "bankroll": 402.36,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787328290.4911122,
+      "bankroll": 397.29,
+      "event": "lost:  \u2014 Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787328293.2940052,
+      "bankroll": 392.2,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs"
     }
   ]
 }

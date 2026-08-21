@@ -16630,8 +16630,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -17850,8 +17850,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.06,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -19410,8 +19410,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.06,
     "overlaps_with": [
       "Lakersfan111"
     ],
@@ -20140,8 +20140,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "",
       "Lakersfan111"
@@ -20210,8 +20210,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Nigma Galaxy",
     "side": "BUY",
-    "whale_usd": 605108.9691710001,
-    "whale_pct": 186.184,
+    "whale_usd": 615508.9691710001,
+    "whale_pct": 189.384,
     "whale_value_at_open": 325005.2422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -20226,8 +20226,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787328223.893549,
-    "fills": 15
+    "last_fill_at": 1787328309.0791824,
+    "fills": 16
   },
   {
     "timestamp": 1787323880,
