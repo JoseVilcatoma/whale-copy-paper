@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 13:11:51 (hora de Perú)
+Actualizado: 2026-08-21 13:13:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $410.44
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 13:11:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $190.44)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $185.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | casualbet2020 | 7 | 0 | 0 | +26.20 USD |
-| IMAREALPERSON | 20 | 6 | 1 | +20.56 USD |
+| IMAREALPERSON | 20 | 6 | 2 | +20.56 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -206,7 +206,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 | atp-magadan-wong-2026-08-20 | , RN1, ferrariChampions2026 |
 | dota2-liquid-flc-2026-08-21 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, IMAREALPERSON, Lakersfan111, ferrariChampions2026 |
-| dota2-ty-ngx-2026-08-21 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Djdjdjekekek, Lakersfan111, ferrariChampions2026 |
+| dota2-ty-ngx-2026-08-21 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Djdjdjekekek, IMAREALPERSON, Lakersfan111, ferrariChampions2026 |
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 | cs2-fut-mouz-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
@@ -233,6 +233,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 59% | 5.00 | 34.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 54.5% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 61% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ⏳ pendiente | — |
@@ -262,4 +263,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Mara Guth (BUY) | 63% | 5.00 | 0.6% | ❌ perdida | -5.09 |
 | RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Luca Van Assche (BUY) | 54% | 5.00 | 4.9% | ✅ ganada | +4.14 |
 | RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Benjamin Bonzi (BUY) | 44% | 5.00 | 1.0% | ❌ perdida | -5.14 |
-| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 99% | 5.00 | 15.0% | ✅ ganada | +0.05 |
