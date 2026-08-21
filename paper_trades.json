@@ -21456,8 +21456,8 @@
     "title": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 6448.84419,
-    "whale_pct": 2.039,
+    "whale_usd": 64511.414189999996,
+    "whale_pct": 20.395,
     "whale_value_at_open": 316306.9948,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -21468,7 +21468,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787344625.286929,
-    "fills": 2
+    "last_fill_at": 1787345936.8213036,
+    "fills": 5
   }
 ]

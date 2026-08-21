@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 15:56:56 (hora de Perú)
+Actualizado: 2026-08-21 15:59:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.24
@@ -235,7 +235,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: Team Spirit vs Team Liquid (BO3) | Team Spirit (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Spirit vs Team Liquid (BO3) | Team Spirit (BUY) | 60% | 5.00 | 20.4% | ⏳ pendiente | — |
 |  | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Wiretransferxyz | Will Team Spirit Win the CS2 EWC 2026? | Yes (BUY) | 46% | 5.00 | 9.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: BBL Esports vs FUT Esports (BO | BBL Esports (BUY) | 50% | 5.00 | 6.9% | ⏳ pendiente | — |
