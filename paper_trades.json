@@ -18304,8 +18304,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -21456,8 +21456,8 @@
     "title": "Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 538093.0312900001,
-    "whale_pct": 170.117,
+    "whale_usd": 782838.9736900001,
+    "whale_pct": 247.493,
     "whale_value_at_open": 316306.9948,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -21468,8 +21468,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787348880.934602,
-    "fills": 9
+    "last_fill_at": 1787348997.0299087,
+    "fills": 10
   },
   {
     "timestamp": 1787348714,
@@ -21493,6 +21493,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787348715.0225782,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787348934,
+    "timestamp_added": 1787348935.1803205,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-fritz-nakashi-2026-08-21",
+    "title": "Cincinnati Open: Taylor Fritz vs Brandon Nakashima",
+    "outcome": "Brandon Nakashima",
+    "side": "BUY",
+    "whale_usd": 2128.72,
+    "whale_pct": 0.812,
+    "whale_value_at_open": 262119.7275,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787348935.1803384,
     "fills": 1
   }
 ]

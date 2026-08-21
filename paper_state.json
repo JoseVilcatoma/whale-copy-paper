@@ -1,5 +1,5 @@
 {
-  "bankroll": 439.1775160287384,
+  "bankroll": 441.24537317159553,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4235,6 +4235,11 @@
       "timestamp": 1787348510.8762197,
       "bankroll": 439.18,
       "event": "won: MisterVision \u2014 LoL: Team Vitality vs Natus Vincere - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787348987.7450173,
+      "bankroll": 441.25,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: VIT (-1.5) vs Natus Vincere (+1.5)"
     }
   ]
 }
