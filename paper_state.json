@@ -1,5 +1,5 @@
 {
-  "bankroll": 423.6495884100972,
+  "bankroll": 426.25489610240487,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4110,6 +4110,11 @@
       "timestamp": 1787339334.3059564,
       "bankroll": 423.65,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787341558.5104914,
+      "bankroll": 426.25,
+      "event": "won: RN1 \u2014 Will CA Aldosivi win on 2026-08-21?"
     }
   ]
 }
