@@ -21004,8 +21004,8 @@
     "title": "LoL: Team Vitality vs Natus Vincere - Game 1 Winner",
     "outcome": "Team Vitality",
     "side": "BUY",
-    "whale_usd": 8809.129187,
-    "whale_pct": 41.005,
+    "whale_usd": 30717.367987,
+    "whale_pct": 142.984,
     "whale_value_at_open": 21483.108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -21016,8 +21016,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787331638.5365872,
-    "fills": 5
+    "last_fill_at": 1787331936.3818498,
+    "fills": 7
   },
   {
     "timestamp": 1787331605,
@@ -21052,8 +21052,8 @@
     "title": "LoL: Team Vitality vs Natus Vincere - Game 1 Winner",
     "outcome": "Team Vitality",
     "side": "BUY",
-    "whale_usd": 11150.9328,
-    "whale_pct": 92.139,
+    "whale_usd": 11830.1553,
+    "whale_pct": 97.751,
     "whale_value_at_open": 12102.3541,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -21066,8 +21066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787331683.6738646,
-    "fills": 2
+    "last_fill_at": 1787331847.4504929,
+    "fills": 3
   },
   {
     "timestamp": 1787331705,
@@ -21091,6 +21091,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787331706.4788404,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787331865,
+    "timestamp_added": 1787331865.7822945,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "swe-sir-hac-2026-08-21-first-half-total-0pt5",
+    "title": "IK Sirius vs. BK Hacken: 1st Half O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 540.54,
+    "whale_pct": 0.33,
+    "whale_value_at_open": 163600.7584,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787331865.7823079,
     "fills": 1
   }
 ]
