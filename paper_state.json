@@ -1,5 +1,5 @@
 {
-  "bankroll": 432.76443666365907,
+  "bankroll": 435.608944600167,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4215,6 +4215,11 @@
       "timestamp": 1787346001.3737872,
       "bankroll": 432.76,
       "event": "won: RN1 \u2014 IK Sirius vs. BK Hacken: O/U 2.5"
+    },
+    {
+      "timestamp": 1787346882.6853719,
+      "bankroll": 435.61,
+      "event": "won:  \u2014 Arsenal FC vs. Coventry City FC: O/U 3.5"
     }
   ]
 }
