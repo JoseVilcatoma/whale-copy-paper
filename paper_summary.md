@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 04:20:17 (hora de Perú)
+Actualizado: 2026-08-21 04:22:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $450.57
@@ -218,7 +218,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 59% | 5.00 | 57.9% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 59% | 5.00 | 92.6% | ⏳ pendiente | — |
 |  | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 100.9% | ⏳ pendiente | — |
 |  | ITF W35 Bistrita Women: Jessica Pieri vs | Jessica Pieri (BUY) | 85% | 5.00 | 1.5% | ⏳ pendiente | — |
