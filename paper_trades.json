@@ -21772,8 +21772,8 @@
     "title": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 6698.459525,
-    "whale_pct": 1.719,
+    "whale_usd": 8077.366925,
+    "whale_pct": 2.073,
     "whale_value_at_open": 389724.1565,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -21784,8 +21784,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787353298.733286,
-    "fills": 5
+    "last_fill_at": 1787353619.3376389,
+    "fills": 6
   },
   {
     "timestamp": 1787352311,
@@ -21942,8 +21942,8 @@
     "title": "Spread: AA Estudiantes (-1.5)",
     "outcome": "CA San Lorenzo de Almagro",
     "side": "BUY",
-    "whale_usd": 595.0605,
-    "whale_pct": 0.173,
+    "whale_usd": 1192.651928,
+    "whale_pct": 0.346,
     "whale_value_at_open": 344590.8755,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -21954,8 +21954,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787353499.7229433,
-    "fills": 1
+    "last_fill_at": 1787353659.8428137,
+    "fills": 2
   },
   {
     "timestamp": 1787353510,
@@ -21981,6 +21981,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787353511.2500014,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787353684,
+    "timestamp_added": 1787353685.339534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-phi-2026-08-21",
+    "title": "St. Louis Cardinals vs. Philadelphia Phillies",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 3301.036095,
+    "whale_pct": 0.9,
+    "whale_value_at_open": 366604.0876,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787353685.3395472,
     "fills": 1
   }
 ]
