@@ -18534,8 +18534,8 @@
     "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 289750.334886,
-    "whale_pct": 9.059,
+    "whale_usd": 293283.32688600005,
+    "whale_pct": 9.17,
     "whale_value_at_open": 3198400.0035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -18548,8 +18548,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787303289.1627362,
-    "fills": 8
+    "last_fill_at": 1787303402.7699857,
+    "fills": 9
   },
   {
     "timestamp": 1787293698,
