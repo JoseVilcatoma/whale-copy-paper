@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 00:32:34 (hora de Perú)
+Actualizado: 2026-08-21 00:34:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $453.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 00:32:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $338.86)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $333.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | Lakersfan111 | 5 | 1 | 13 | +20.00 USD |
-| IMAREALPERSON | 14 | 1 | 0 | +19.40 USD |
+| IMAREALPERSON | 14 | 1 | 1 | +19.40 USD |
 | casualbet2020 | 4 | 0 | 1 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -212,6 +212,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 36.6% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 57% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 55% | 5.00 | 67.9% | ⏳ pendiente | — |
@@ -241,4 +242,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Cancun: Alan Magadan vs Coleman Wong | Alan Magadan (BUY) | 42% | 5.00 | 5.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tirante (+1 | Tirante (BUY) | 49% | 5.00 | 33.4% | ❌ perdida | -5.13 |
 | Djdjdjekekek | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 91% | 5.00 | 4.1% | 💰 vendida anticipada | +0.47 |
-| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
