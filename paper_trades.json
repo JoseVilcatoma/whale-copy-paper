@@ -21215,8 +21215,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.46,
     "overlaps_with": [
       "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
       "BOOMBOYS.Kiritych",
@@ -21227,7 +21227,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787335256.179957,
-    "fills": 6
+    "fills": 6,
+    "fee_total_usd": 0.254,
+    "closed_price": 56
   },
   {
     "timestamp": 1787335926,
@@ -21238,8 +21240,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 7724.809751000001,
-    "whale_pct": 34.442,
+    "whale_usd": 18355.338043000003,
+    "whale_pct": 81.839,
     "whale_value_at_open": 22428.6569,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -21257,7 +21259,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787336010.2343216,
-    "fills": 4
+    "last_fill_at": 1787336275.615097,
+    "fills": 7
   }
 ]

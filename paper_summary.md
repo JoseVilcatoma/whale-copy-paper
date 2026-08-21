@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 13:15:58 (hora de Perú)
+Actualizado: 2026-08-21 13:17:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $410.44
-**Retorno acumulado:** -17.91%
+**Bankroll actual:** $410.90
+**Retorno acumulado:** -17.82%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 13:15:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $185.44)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $190.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 8 | 8 | 3 | -6.60 USD |
 | ferrariChampions2026 | 194 | 111 | 1 | -6.83 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 6 | 7 | 1 | -7.56 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 7 | 7 | 0 | -7.10 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
@@ -233,8 +233,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 59% | 5.00 | 34.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 54.5% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 59% | 5.00 | 81.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 54.5% | 💰 vendida anticipada | +0.46 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 61% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 1.5 | Over (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
