@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 12:32:50 (hora de Perú)
+Actualizado: 2026-08-21 12:34:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $401.66
@@ -246,7 +246,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 17.4% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 18.3% | ⏳ pendiente | — |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ❌ perdida | -5.15 |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
