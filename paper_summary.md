@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 07:49:42 (hora de Perú)
+Actualizado: 2026-08-21 07:51:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $449.72
-**Retorno acumulado:** -10.06%
+**Bankroll actual:** $446.46
+**Retorno acumulado:** -10.71%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 07:49:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $304.72)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $311.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 18 | 4 | 1 | +26.09 USD |
+| IMAREALPERSON | 18 | 5 | 0 | +20.95 USD |
 | casualbet2020 | 5 | 0 | 2 | +20.35 USD |
 | Lakersfan111 | 7 | 3 | 9 | +16.04 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -45,8 +45,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 3 | 3 | 3 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| ChonkyChocolateCake | 5 | 4 | 0 | -4.44 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| ChonkyChocolateCake | 4 | 4 | 1 | -6.31 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 190 | 108 | 0 | -7.93 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -58,14 +58,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 746
-- **Aciertos:** 474 (63.5%)
+- **Apuestas resueltas:** 748
+- **Aciertos:** 475 (63.5%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,725.45
-- **ROI sobre lo apostado:** -2.24%
-- **Comisiones pagadas (taker fee):** $68.44 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,735.45
+- **ROI sobre lo apostado:** -2.32%
+- **Comisiones pagadas (taker fee):** $68.65 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -73,8 +73,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 374 | 46.5% | 50.1% | -3.6 pp |
-| 60-79% | 230 | 74.8% | 67.8% | +7.0 pp |
+| 40-59% | 375 | 46.4% | 50.1% | -3.7 pp |
+| 60-79% | 231 | 74.9% | 67.8% | +7.0 pp |
 | 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 50 | 96.0% | 97.3% | -1.3 pp |
 
@@ -227,7 +227,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 43% | 5.00 | 20.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 43% | 5.00 | 90.3% | ⏳ pendiente | — |
 | crisp1973 | Will Al Qadisiyah Saudi Club win on 2026 | Yes (BUY) | 66% | 5.00 | 34.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | 💰 vendida anticipada | -1.43 |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ❌ perdida | -5.12 |

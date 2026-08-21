@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.71922276574156,
+  "bankroll": 446.45566721018605,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3835,6 +3835,16 @@
       "timestamp": 1787316513.7255955,
       "bankroll": 449.72,
       "event": "lost:  \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: O/U 1.5"
+    },
+    {
+      "timestamp": 1787316642.6868846,
+      "bankroll": 451.59,
+      "event": "won: MisterVision \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787316642.7870183,
+      "bankroll": 446.46,
+      "event": "lost: IMAREALPERSON \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner"
     }
   ]
 }

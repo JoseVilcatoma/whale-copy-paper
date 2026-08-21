@@ -18899,8 +18899,8 @@
     "odds_at_bet": 72,
     "fee_usd": 0.07,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -19003,8 +19003,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "MisterVision"
     ],
@@ -19679,8 +19679,8 @@
     "title": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 4001.7389999999996,
-    "whale_pct": 20.144,
+    "whale_usd": 17947.231315999998,
+    "whale_pct": 90.342,
     "whale_value_at_open": 19865.9708,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -19691,8 +19691,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787316419.7060921,
-    "fills": 2
+    "last_fill_at": 1787316698.690606,
+    "fills": 9
   },
   {
     "timestamp": 1787316331,
