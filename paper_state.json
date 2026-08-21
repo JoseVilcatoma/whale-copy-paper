@@ -1,5 +1,5 @@
 {
-  "bankroll": 415.3420392042939,
+  "bankroll": 423.6495884100972,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4075,6 +4075,41 @@
       "timestamp": 1787339083.6845646,
       "bankroll": 415.34,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season (+3.41 USD)"
+    },
+    {
+      "timestamp": 1787339320.8931706,
+      "bankroll": 417.83,
+      "event": "won: Lakersfan111 \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787339325.060497,
+      "bankroll": 420.32,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787339325.1606498,
+      "bankroll": 423.05,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787339325.2608356,
+      "bankroll": 417.9,
+      "event": "lost: Djdjdjekekek \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787339326.288511,
+      "bankroll": 420.5,
+      "event": "won: MisterVision \u2014 LoL: Team Heretics vs SK Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787339334.2057612,
+      "bankroll": 423.6,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787339334.3059564,
+      "bankroll": 423.65,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs"
     }
   ]
 }
