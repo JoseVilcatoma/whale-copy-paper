@@ -20632,8 +20632,8 @@
     "title": "Will Al Riyadh Saudi Club win on 2026-08-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 7014.6669999999995,
-    "whale_pct": 6.347,
+    "whale_usd": 8487.235999999999,
+    "whale_pct": 7.679,
     "whale_value_at_open": 110519.6009,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -20644,8 +20644,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787332210.6421561,
-    "fills": 5
+    "last_fill_at": 1787332220.512695,
+    "fills": 6
   },
   {
     "timestamp": 1787328208,
