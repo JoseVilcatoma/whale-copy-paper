@@ -1,5 +1,5 @@
 {
-  "bankroll": 401.15045279054607,
+  "bankroll": 400.37196320721273,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4000,6 +4000,11 @@
       "timestamp": 1787332014.1598377,
       "bankroll": 401.15,
       "event": "won:  \u2014 Will FC Dinamo Batumi win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787332142.9917974,
+      "bankroll": 400.37,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs (-0.78 USD)"
     }
   ]
 }

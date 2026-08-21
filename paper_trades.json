@@ -20632,8 +20632,8 @@
     "title": "Will Al Riyadh Saudi Club win on 2026-08-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 4069.529,
-    "whale_pct": 3.682,
+    "whale_usd": 7014.6669999999995,
+    "whale_pct": 6.347,
     "whale_value_at_open": 110519.6009,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -20644,8 +20644,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787331998.8247614,
-    "fills": 3
+    "last_fill_at": 1787332210.6421561,
+    "fills": 5
   },
   {
     "timestamp": 1787328208,
@@ -20728,8 +20728,8 @@
     "title": "ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth",
     "outcome": "Anastasija Cvetkovic",
     "side": "BUY",
-    "whale_usd": 1613.8402999999998,
-    "whale_pct": 1.197,
+    "whale_usd": 3268.6844999999994,
+    "whale_pct": 2.425,
     "whale_value_at_open": 134792.2222,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -20742,8 +20742,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787329885.1323292,
-    "fills": 2
+    "last_fill_at": 1787332148.4379241,
+    "fills": 3
   },
   {
     "timestamp": 1787329523,
@@ -20982,8 +20982,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.78,
     "overlaps_with": [
       "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
       "Djdjdjekekek",
@@ -20993,7 +20993,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787331616.3314373,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.258,
+    "closed_price": 43
   },
   {
     "timestamp": 1787331590,
@@ -21052,8 +21054,8 @@
     "title": "LoL: Team Vitality vs Natus Vincere - Game 1 Winner",
     "outcome": "Team Vitality",
     "side": "BUY",
-    "whale_usd": 11830.1553,
-    "whale_pct": 97.751,
+    "whale_usd": 12400.1553,
+    "whale_pct": 102.461,
     "whale_value_at_open": 12102.3541,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -21066,8 +21068,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787331847.4504929,
-    "fills": 3
+    "last_fill_at": 1787332100.75083,
+    "fills": 4
   },
   {
     "timestamp": 1787331705,
@@ -21140,5 +21142,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787332033.2648704,
     "fills": 1
+  },
+  {
+    "timestamp": 1787332103,
+    "timestamp_added": 1787332103.5113246,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-bejlek-keys-2026-08-21",
+    "title": "Cincinnati Open: Sara Bejlek vs Madison Keys",
+    "outcome": "Madison Keys",
+    "side": "BUY",
+    "whale_usd": 9823.295505000002,
+    "whale_pct": 6.021,
+    "whale_value_at_open": 163158.4033,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787332197.8908792,
+    "fills": 3
   }
 ]
