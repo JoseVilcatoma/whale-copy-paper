@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 04:30:27 (hora de Perú)
+Actualizado: 2026-08-21 04:32:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $450.57
-**Retorno acumulado:** -9.89%
+**Bankroll actual:** $449.93
+**Retorno acumulado:** -10.01%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 04:30:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $300.57)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $299.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 6 | 3 | 10 | +11.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| TeGeeLP | 1 | 0 | 1 | +2.84 USD |
+| TeGeeLP | 1 | 1 | 1 | +2.20 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -218,7 +218,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 42% | 5.00 | 5.4% | ⏳ pendiente | — |
+| TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 1 | Team WE (BUY) | 47% | 5.00 | 3.8% | ⏳ pendiente | — |
+| TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 42% | 5.00 | 5.4% | 💰 vendida anticipada | -0.64 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 59% | 5.00 | 92.6% | ⏳ pendiente | — |
 |  | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 143.2% | ⏳ pendiente | — |
@@ -247,4 +248,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ✅ ganada | +5.51 |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 57% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 55% | 5.00 | 67.9% | ✅ ganada | +3.98 |

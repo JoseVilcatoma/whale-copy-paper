@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.56953339814737,
+  "bankroll": 449.92578339814736,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3715,6 +3715,11 @@
       "timestamp": 1787302857.1867414,
       "bankroll": 450.57,
       "event": "venta anticipada: TeGeeLP \u2014 LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner (+2.84 USD)"
+    },
+    {
+      "timestamp": 1787304644.6282463,
+      "bankroll": 449.93,
+      "event": "venta anticipada: TeGeeLP \u2014 LoL: Anyone's Legend vs Team WE - Game 2 Winner (-0.64 USD)"
     }
   ]
 }
