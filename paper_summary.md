@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 01:32:18 (hora de Perú)
+Actualizado: 2026-08-21 01:34:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $453.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 01:32:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $348.18)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $343.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 187 | 106 | 3 | -7.30 USD |
+| ferrariChampions2026 | 187 | 106 | 4 | -7.30 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 20 | 12 | 1 | -20.57 USD |
@@ -214,7 +214,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 48% | 5.00 | 4.4% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 123.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -243,4 +244,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 54% | 5.00 | 2.4% | ❌ perdida | -5.12 |
 |  | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 79% | 5.00 | 0.7% | ✅ ganada | +1.28 |
 |  | Quebec City: Jacob Fearnley vs Alexis Ga | Jacob Fearnley (BUY) | 96% | 5.00 | 0.7% | ✅ ganada | +0.20 |
-|  | Los Angeles Angels vs. Houston Astros | Los Angeles Angels (BUY) | 82% | 5.00 | 1.2% | ✅ ganada | +1.05 |
