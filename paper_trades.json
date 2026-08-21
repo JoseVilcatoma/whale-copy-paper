@@ -21626,8 +21626,8 @@
     "title": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 5187.3075,
-    "whale_pct": 1.366,
+    "whale_usd": 6654.961071,
+    "whale_pct": 1.752,
     "whale_value_at_open": 379805.0313,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -21640,8 +21640,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787352122.74658,
-    "fills": 5
+    "last_fill_at": 1787352372.6325958,
+    "fills": 6
   },
   {
     "timestamp": 1787351913,
