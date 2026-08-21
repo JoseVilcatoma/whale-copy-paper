@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 14:24:06 (hora de Perú)
+Actualizado: 2026-08-21 14:26:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $423.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 14:24:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $248.65)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $243.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | crisp1973 | 0 | 0 | 3 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
-| Djdjdjekekek | 6 | 4 | 0 | -0.02 USD |
+| Djdjdjekekek | 6 | 4 | 1 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -212,7 +212,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
 | cs2-lgc-fal2-2026-08-21 | , Lakersfan111, ferrariChampions2026 |
 | wnba-conn-las-2026-08-20 | , ferrariChampions2026 |
-| cs2-vit-ts7-2026-08-21 | BOOMBOYS.Kiritych, ExplosiveNinja, Lakersfan111 |
+| cs2-vit-ts7-2026-08-21 | BOOMBOYS.Kiritych, Djdjdjekekek, ExplosiveNinja, Lakersfan111 |
 | dota2-liquid-flc-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON, ferrariChampions2026 |
 | dota2-liquid-flc-2026-08-21-game2 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, IMAREALPERSON |
 | lol-edg-tt-2026-08-21-game2 | MisterVision, TeGeeLP |
@@ -233,6 +233,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 51% | 5.00 | 3491.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere (BO3 | Team Vitality (BUY) | 55% | 5.00 | 93.5% | 💰 vendida anticipada | +3.41 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 99% | 5.00 | 345.6% | ✅ ganada | +0.05 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 59% | 5.00 | 81.8% | 💰 vendida anticipada | +2.31 |
@@ -262,4 +263,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Al Riyadh Saudi Club win on 2026-08 | No (BUY) | 94% | 5.00 | 7.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 2 | SK Gaming (BUY) | 63% | 5.00 | 8.3% | ⏳ pendiente | — |
 | RN1 | Will Al Nassr Saudi Club win on 2026-08- | Yes (BUY) | 80% | 5.00 | 2.2% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Mara Guth (BUY) | 63% | 5.00 | 0.6% | ❌ perdida | -5.09 |
