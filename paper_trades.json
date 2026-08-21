@@ -16865,8 +16865,8 @@
     "title": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 1939.752,
-    "whale_pct": 0.867,
+    "whale_usd": 2491.263,
+    "whale_pct": 1.114,
     "whale_value_at_open": 223661.9341,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -16877,8 +16877,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787281144.561889,
-    "fills": 3
+    "last_fill_at": 1787282041.560151,
+    "fills": 4
   },
   {
     "timestamp": 1787264667,
@@ -17843,8 +17843,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 2009.7364,
-    "whale_pct": 0.781,
+    "whale_usd": 3202.6607999999997,
+    "whale_pct": 1.244,
     "whale_value_at_open": 257425.2535,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -17855,8 +17855,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787277544.0855737,
-    "fills": 2
+    "last_fill_at": 1787282046.817853,
+    "fills": 3
   },
   {
     "timestamp": 1787274922,
