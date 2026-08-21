@@ -18258,5 +18258,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787280128.270356,
     "fills": 2
+  },
+  {
+    "timestamp": 1787281352,
+    "timestamp_added": 1787281352.2445629,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "dota2-ironwi-boombo-2026-08-20-game1",
+    "title": "Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 613.789998,
+    "whale_pct": 1.026,
+    "whale_value_at_open": 59819.151,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787281352.2445726,
+    "fills": 1
   }
 ]
