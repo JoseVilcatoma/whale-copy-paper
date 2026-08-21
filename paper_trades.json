@@ -18930,5 +18930,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787300097.401978,
     "fills": 1
+  },
+  {
+    "timestamp": 1787300507,
+    "timestamp_added": 1787300508.4307523,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-edg-tt-2026-08-21-game2",
+    "title": "LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "whale_usd": 2483.1,
+    "whale_pct": 3.759,
+    "whale_value_at_open": 66065.9413,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "MisterVision"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787300508.4307625,
+    "fills": 1
   }
 ]

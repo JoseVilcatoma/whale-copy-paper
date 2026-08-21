@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 03:20:04 (hora de Perú)
+Actualizado: 2026-08-21 03:22:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.38
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 03:20:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $317.38)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $312.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,6 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
+| TeGeeLP | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 9 | 8 | 0 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 4 | 3 | 2 | -1.19 USD |
@@ -210,11 +211,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-vit-ts7-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | dota2-liquid-flc-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON, ferrariChampions2026 |
 | dota2-liquid-flc-2026-08-21-game2 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek |
+| lol-edg-tt-2026-08-21-game2 | MisterVision, TeGeeLP |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 63% | 5.00 | 3.8% | ⏳ pendiente | — |
 |  | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | MisterVision | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 72% | 5.00 | 105.7% | ⏳ pendiente | — |
 | MisterVision | LoL: EDward Gaming vs ThunderTalk Gaming | ThunderTalk Gaming (BUY) | 51% | 5.00 | 54.1% | ⏳ pendiente | — |
@@ -244,4 +247,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 11.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 10.5% | ✅ ganada | +2.38 |
