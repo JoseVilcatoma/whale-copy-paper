@@ -19541,5 +19541,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787312582.09611,
     "fills": 1
+  },
+  {
+    "timestamp": 1787312984,
+    "timestamp_added": 1787312984.6636155,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-ts8-vsn2-2026-08-21-game2",
+    "title": "Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 4002.739999,
+    "whale_pct": 1.773,
+    "whale_value_at_open": 225708.4012,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787312984.6636317,
+    "fills": 1
   }
 ]

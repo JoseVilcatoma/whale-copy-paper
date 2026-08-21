@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 06:49:27 (hora de Perú)
+Actualizado: 2026-08-21 06:51:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 06:49:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $296.09)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $291.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| Djdjdjekekek | 4 | 2 | 0 | +0.08 USD |
+| Djdjdjekekek | 4 | 2 | 1 | +0.08 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 9 | 8 | 2 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -221,6 +221,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. Miami Marlins | Washington Nationals (BUY) | 43% | 5.00 | 35.8% | ⏳ pendiente | — |
 |  | FC Tōkyō vs. JEF United Ichihara Chiba:  | Under (BUY) | 52% | 5.00 | 12.0% | ⏳ pendiente | — |
@@ -250,4 +251,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: EDward Gaming vs ThunderTalk Gaming | ThunderTalk Gaming (BUY) | 51% | 5.00 | 54.1% | ❌ perdida | -5.12 |
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 66% | 5.00 | 11.2% | ✅ ganada | +2.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 46% | 5.00 | 16.6% | ❌ perdida | -5.13 |
-| casualbet2020 | Valorant: JD Gaming vs Bilibili Gaming ( | JD Gaming (BUY) | 41% | 5.00 | 6.2% | ⏳ pendiente | — |
