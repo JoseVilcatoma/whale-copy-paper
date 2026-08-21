@@ -20174,5 +20174,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787322226.3337057,
     "fills": 2
+  },
+  {
+    "timestamp": 1787322778,
+    "timestamp_added": 1787322778.6139154,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-ty-ngx-2026-08-21-game1",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 3127.942888,
+    "whale_pct": 28.101,
+    "whale_value_at_open": 11130.9427,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787322778.6139276,
+    "fills": 1
   }
 ]
