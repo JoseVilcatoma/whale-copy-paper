@@ -15786,8 +15786,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -16606,8 +16606,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -17952,8 +17952,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -18050,8 +18050,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.38,
     "overlaps_with": [
       ""
     ],
@@ -18148,8 +18148,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "Lakersfan111"
     ],
@@ -18174,8 +18174,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.38,
     "overlaps_with": [
       "Lakersfan111"
     ],
@@ -18275,8 +18275,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "Lakersfan111",
       "ferrariChampions2026"

@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.9285856510029,
+  "bankroll": 445.7442566576716,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3515,6 +3515,41 @@
       "timestamp": 1787282513.6649423,
       "bankroll": 455.93,
       "event": "won:  \u2014 Los Angeles Angels vs. Houston Astros"
+    },
+    {
+      "timestamp": 1787282825.9015536,
+      "bankroll": 450.83,
+      "event": "lost:  \u2014 Cancun: Moise Kouame vs Roman Andres Burruchaga"
+    },
+    {
+      "timestamp": 1787282826.27315,
+      "bankroll": 456.34,
+      "event": "won: Lakersfan111 \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787282830.1247911,
+      "bankroll": 451.22,
+      "event": "lost: Lakersfan111 \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787282830.600835,
+      "bankroll": 453.6,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Moise Kouame vs Roman Andres Burruchaga"
+    },
+    {
+      "timestamp": 1787282831.1654375,
+      "bankroll": 448.46,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787282831.2656178,
+      "bankroll": 450.84,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787282831.8455675,
+      "bankroll": 445.74,
+      "event": "lost:  \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner"
     }
   ]
 }

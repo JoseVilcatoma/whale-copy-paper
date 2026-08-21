@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 22:26:13 (hora de Perú)
+Actualizado: 2026-08-20 22:28:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $455.93
-**Retorno acumulado:** -8.81%
+**Bankroll actual:** $445.74
+**Retorno acumulado:** -10.85%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 22:26:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $265.93)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $290.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| Lakersfan111 | 4 | 0 | 15 | +19.61 USD |
+| Lakersfan111 | 5 | 1 | 13 | +20.00 USD |
 | IMAREALPERSON | 13 | 1 | 0 | +19.00 USD |
 | casualbet2020 | 4 | 0 | 1 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -46,23 +46,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-|  | 19 | 10 | 3 | -10.43 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| ferrariChampions2026 | 178 | 101 | 14 | -13.72 USD |
+| ferrariChampions2026 | 180 | 102 | 11 | -14.10 USD |
 | Sassy-Bucket | 6 | 9 | 1 | -18.80 USD |
+|  | 19 | 12 | 1 | -20.62 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | RN1 | 107 | 55 | 2 | -57.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 689
-- **Aciertos:** 442 (64.2%)
+- **Apuestas resueltas:** 696
+- **Aciertos:** 445 (63.9%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,440.45
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $62.42 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,475.45
+- **ROI sobre lo apostado:** -2.20%
+- **Comisiones pagadas (taker fee):** $63.17 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.39% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,8 +70,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 334 | 46.4% | 50.1% | -3.7 pp |
-| 60-79% | 220 | 75.0% | 67.9% | +7.1 pp |
+| 40-59% | 337 | 46.3% | 50.1% | -3.8 pp |
+| 60-79% | 224 | 74.6% | 67.9% | +6.7 pp |
 | 80-94% | 87 | 86.2% | 86.8% | -0.6 pp |
 | 95-99% (casi seguro) | 48 | 97.9% | 97.2% | +0.7 pp |
 
@@ -211,20 +211,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 55% | 5.00 | 23.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Lakersfan111 | Game Handicap: VIT (-1.5) vs Natus Vince | Natus Vincere (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
-|  | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 62% | 5.00 | 1.0% | ⏳ pendiente | — |
+|  | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 10.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 43% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 10.5% | ✅ ganada | +2.38 |
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 43% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Botafogo FR vs. CS Cienciano: O/U 1.5 | Under (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Moise Kouame vs Roman Andres Bur | Moise Kouame (BUY) | 67% | 5.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Moise Kouame vs Roman Andres Bur | Moise Kouame (BUY) | 67% | 5.00 | 6.7% | ✅ ganada | +2.38 |
 |  | Indiana Fever vs. Dallas Wings | Dallas Wings (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
 | Djdjdjekekek | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 60% | 5.00 | 31.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 22.2% | ⏳ pendiente | — |
-| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 54% | 5.00 | 2.4% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 54% | 5.00 | 2.4% | ❌ perdida | -5.12 |
 |  | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 79% | 5.00 | 0.7% | ✅ ganada | +1.28 |
 |  | Quebec City: Jacob Fearnley vs Alexis Ga | Jacob Fearnley (BUY) | 96% | 5.00 | 0.7% | ✅ ganada | +0.20 |
 |  | Los Angeles Angels vs. Houston Astros | Los Angeles Angels (BUY) | 82% | 5.00 | 1.2% | ✅ ganada | +1.05 |
