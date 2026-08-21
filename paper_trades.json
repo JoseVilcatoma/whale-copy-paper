@@ -20632,8 +20632,8 @@
     "title": "Will Al Riyadh Saudi Club win on 2026-08-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1131.3700000000001,
-    "whale_pct": 1.024,
+    "whale_usd": 2596.96,
+    "whale_pct": 2.35,
     "whale_value_at_open": 110519.6009,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -20644,8 +20644,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787328203.867628,
-    "fills": 1
+    "last_fill_at": 1787331578.382952,
+    "fills": 2
   },
   {
     "timestamp": 1787328208,
@@ -20993,6 +20993,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787331434.6506257,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787331590,
+    "timestamp_added": 1787331591.2640789,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-vit-navi-2026-08-21-game1",
+    "title": "LoL: Team Vitality vs Natus Vincere - Game 1 Winner",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "whale_usd": 1583.032,
+    "whale_pct": 7.369,
+    "whale_value_at_open": 21483.108,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787331591.2640927,
     "fills": 1
   }
 ]
