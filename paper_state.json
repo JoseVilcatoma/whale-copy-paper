@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.72502546163946,
+  "bankroll": 450.56953339814737,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3710,6 +3710,11 @@
       "timestamp": 1787302552.172235,
       "bankroll": 447.73,
       "event": "lost: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787302857.1867414,
+      "bankroll": 450.57,
+      "event": "venta anticipada: TeGeeLP \u2014 LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner (+2.84 USD)"
     }
   ]
 }
