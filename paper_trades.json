@@ -18359,5 +18359,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787282771.7954547,
     "fills": 1
+  },
+  {
+    "timestamp": 1787283404,
+    "timestamp_added": 1787283404.8705354,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-conn-las-2026-08-20",
+    "title": "Connecticut Sun vs. Las Vegas Aces",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 696.869966,
+    "whale_pct": 1.27,
+    "whale_value_at_open": 54882.0763,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787283404.8705482,
+    "fills": 1
   }
 ]
