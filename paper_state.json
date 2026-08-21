@@ -1,5 +1,5 @@
 {
-  "bankroll": 421.60374993735564,
+  "bankroll": 426.57338801760744,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4285,6 +4285,21 @@
       "timestamp": 1787352767.2598295,
       "bankroll": 421.6,
       "event": "won: RN1 \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787355541.859324,
+      "bankroll": 424.57,
+      "event": "won: RN1 \u2014 Quebec City: Zizou Bergs vs Stefanos Sakellaridis"
+    },
+    {
+      "timestamp": 1787355542.1597853,
+      "bankroll": 419.53,
+      "event": "lost: ferrariChampions2026 \u2014 Quebec City: Zizou Bergs vs Stefanos Sakellaridis"
+    },
+    {
+      "timestamp": 1787355542.9610562,
+      "bankroll": 426.57,
+      "event": "won: ferrariChampions2026 \u2014 Quebec City: Zizou Bergs vs Stefanos Sakellaridis"
     }
   ]
 }
