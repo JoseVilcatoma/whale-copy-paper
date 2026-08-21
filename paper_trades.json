@@ -19445,5 +19445,29 @@
     "fills": 3,
     "fee_total_usd": 0.293,
     "closed_price": 39
+  },
+  {
+    "timestamp": 1787312042,
+    "timestamp_added": 1787312042.990772,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-kovack-kovacko-2026-08-21",
+    "title": "ITF W50 Prague Women: Alena Kovackova vs Jana Kovackova",
+    "outcome": "Jana Kovackova",
+    "side": "BUY",
+    "whale_usd": 798.119998,
+    "whale_pct": 1.341,
+    "whale_value_at_open": 59538.0281,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787312042.9907877,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 06:32:37 (hora de Perú)
+Actualizado: 2026-08-21 06:34:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 06:32:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $316.22)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $311.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
-|  | 23 | 16 | 4 | -34.10 USD |
+|  | 23 | 16 | 5 | -34.10 USD |
 | RN1 | 108 | 55 | 1 | -57.10 USD |
 
 ## Análisis general
@@ -221,6 +221,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | ITF W50 Prague Women: Alena Kovackova vs | Jana Kovackova (BUY) | 94% | 5.00 | 1.3% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 41% | 5.00 | 19.6% | 💰 vendida anticipada | -0.54 |
 |  | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -250,4 +251,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 56% | 5.00 | 37.6% | ✅ ganada | +3.82 |
 |  | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 5.7% | ✅ ganada | +4.32 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 61% | 5.00 | 63.3% | ✅ ganada | +3.10 |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 49% | 5.00 | 9.4% | ❌ perdida | -5.13 |
