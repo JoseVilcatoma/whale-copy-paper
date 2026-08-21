@@ -16575,8 +16575,8 @@
     "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 153229.369634,
-    "whale_pct": 125.308,
+    "whale_usd": 165229.369634,
+    "whale_pct": 135.121,
     "whale_value_at_open": 122282.5434,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -16587,8 +16587,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787275541.3908002,
-    "fills": 10
+    "last_fill_at": 1787277519.2585902,
+    "fills": 11
   },
   {
     "timestamp": 1787255991,
@@ -17769,8 +17769,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.47,
     "overlaps_with": [
       "RN1",
       "Sassy-Bucket",
@@ -17779,7 +17779,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787271265.4970713,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.022,
+    "closed_price": 100
   },
   {
     "timestamp": 1787272058,
@@ -17841,8 +17843,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 925.0,
-    "whale_pct": 0.359,
+    "whale_usd": 2009.7364,
+    "whale_pct": 0.781,
     "whale_value_at_open": 257425.2535,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -17853,8 +17855,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787273958.8301387,
-    "fills": 1
+    "last_fill_at": 1787277544.0855737,
+    "fills": 2
   },
   {
     "timestamp": 1787274922,
@@ -17967,8 +17969,8 @@
     "title": "Atlanta Dream vs. Los Angeles Sparks: O/U 181.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 25500.0,
-    "whale_pct": 13.907,
+    "whale_usd": 40787.25,
+    "whale_pct": 22.243,
     "whale_value_at_open": 183367.4047,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -17979,7 +17981,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787277151.5032806,
-    "fills": 1
+    "last_fill_at": 1787277555.0590158,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787277518,
+    "timestamp_added": 1787277519.4161792,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-ironwi-boombo-2026-08-20",
+    "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 455896.97789999994,
+    "whale_pct": 31.372,
+    "whale_value_at_open": 1453202.8687,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787277545.857168,
+    "fills": 5
   }
 ]

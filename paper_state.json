@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.9293237891265,
+  "bankroll": 497.40182928363197,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3365,6 +3365,11 @@
       "timestamp": 1787276579.1520243,
       "bankroll": 496.93,
       "event": "won: Sassy-Bucket \u2014 Los Angeles Angels vs. Houston Astros: O/U 8.5"
+    },
+    {
+      "timestamp": 1787277499.1415558,
+      "bankroll": 497.4,
+      "event": "venta anticipada: Djdjdjekekek \u2014 New York Yankees vs. Baltimore Orioles (+0.47 USD)"
     }
   ]
 }
