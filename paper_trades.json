@@ -16865,8 +16865,8 @@
     "title": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 1397.358,
-    "whale_pct": 0.625,
+    "whale_usd": 1939.752,
+    "whale_pct": 0.867,
     "whale_value_at_open": 223661.9341,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -16877,8 +16877,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787280243.1490092,
-    "fills": 2
+    "last_fill_at": 1787281144.561889,
+    "fills": 3
   },
   {
     "timestamp": 1787264667,
