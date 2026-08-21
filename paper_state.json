@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.31626610376134,
+  "bankroll": 468.1992661037613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3480,6 +3480,11 @@
       "timestamp": 1787278753.4154072,
       "bankroll": 473.32,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Set Handicap: Fils (-1.5) vs Tirante (+1.5)"
+    },
+    {
+      "timestamp": 1787279066.4132154,
+      "bankroll": 468.2,
+      "event": "lost: ferrariChampions2026 \u2014 Kingston: Juan Carlos Prado vs Pedro Martinez"
     }
   ]
 }
