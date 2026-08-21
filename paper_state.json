@@ -1,5 +1,5 @@
 {
-  "bankroll": 398.42795279054604,
+  "bankroll": 401.15045279054607,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3995,6 +3995,11 @@
       "timestamp": 1787331712.5039911,
       "bankroll": 398.43,
       "event": "won: RN1 \u2014 Sion: Dominic Stephan Stricker vs Tommaso Compagnucci"
+    },
+    {
+      "timestamp": 1787332014.1598377,
+      "bankroll": 401.15,
+      "event": "won:  \u2014 Will FC Dinamo Batumi win on 2026-08-21?"
     }
   ]
 }

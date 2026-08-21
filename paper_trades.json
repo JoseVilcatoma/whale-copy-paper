@@ -18670,8 +18670,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -20632,8 +20632,8 @@
     "title": "Will Al Riyadh Saudi Club win on 2026-08-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2596.96,
-    "whale_pct": 2.35,
+    "whale_usd": 4069.529,
+    "whale_pct": 3.682,
     "whale_value_at_open": 110519.6009,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -20644,8 +20644,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787331578.382952,
-    "fills": 2
+    "last_fill_at": 1787331998.8247614,
+    "fills": 3
   },
   {
     "timestamp": 1787328208,
@@ -21115,6 +21115,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787331865.7823079,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787332032,
+    "timestamp_added": 1787332033.2648559,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "fin1-sei-lah-2026-08-21-total-1pt5",
+    "title": "Seinajoen JK vs. FC Lahti: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 690.7439999999999,
+    "whale_pct": 0.435,
+    "whale_value_at_open": 158749.3001,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787332033.2648704,
     "fills": 1
   }
 ]
