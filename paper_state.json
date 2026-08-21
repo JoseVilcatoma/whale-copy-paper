@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.7092015042781,
+  "bankroll": 482.4881549926502,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3455,6 +3455,11 @@
       "timestamp": 1787278123.7905257,
       "bankroll": 481.71,
       "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles: O/U 8.5"
+    },
+    {
+      "timestamp": 1787278440.0001473,
+      "bankroll": 482.49,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: KR\u00dc Esports vs Fluxo W7M - Map 1 Winner"
     }
   ]
 }

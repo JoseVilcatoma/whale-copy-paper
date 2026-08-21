@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:13:38 (hora de Perú)
+Actualizado: 2026-08-20 21:15:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $481.71
-**Retorno acumulado:** -3.66%
+**Bankroll actual:** $482.49
+**Retorno acumulado:** -3.50%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 21:13:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $296.71)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $287.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| ferrariChampions2026 | 174 | 97 | 13 | +2.91 USD |
+| ferrariChampions2026 | 175 | 97 | 15 | +3.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -55,14 +55,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 677
-- **Aciertos:** 436 (64.4%)
+- **Apuestas resueltas:** 678
+- **Aciertos:** 437 (64.5%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,380.45
-- **ROI sobre lo apostado:** -1.20%
-- **Comisiones pagadas (taker fee):** $61.53 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,385.45
+- **ROI sobre lo apostado:** -1.18%
+- **Comisiones pagadas (taker fee):** $61.56 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -72,7 +72,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 329 | 47.1% | 50.1% | -3.0 pp |
 | 60-79% | 218 | 75.2% | 67.9% | +7.3 pp |
-| 80-94% | 83 | 85.5% | 86.8% | -1.3 pp |
+| 80-94% | 84 | 85.7% | 86.8% | -1.1 pp |
 | 95-99% (casi seguro) | 47 | 97.9% | 97.2% | +0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -188,6 +188,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-lgd-blg-2026-08-20 | danielwolfmorales3pddb6dl6, sulumos |
 | cs2-g2-furia-2026-08-20 | CORGI8, casualbet2020 |
 | cs2-faze-vit-2026-08-20-game2 | , casualbet2020 |
+| atp-kouame-burruch-2026-08-20 | , ferrariChampions2026 |
 | mlb-oak-kc-2026-08-20-total-8pt5 | SDTrading, Sassy-Bucket |
 | wta-swiatek-rybakin-2026-08-20 | RN1, danielwolfmorales3pddb6dl6, ferrariChampions2026 |
 | dota2-ngx-flc-2026-08-20 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake, IMAREALPERSON |
@@ -205,6 +206,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cancun: Moise Kouame vs Roman Andres Bur | Moise Kouame (BUY) | 67% | 5.00 | 6.7% | ⏳ pendiente | — |
 |  | Indiana Fever vs. Dallas Wings | Dallas Wings (BUY) | 99% | 5.00 | 3.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 60% | 5.00 | 31.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 22.2% | ⏳ pendiente | — |
@@ -225,13 +229,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Indiana Fever vs. Dallas Wings: O/U 185. | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M - Map | KRÜ Esports (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M - Map | KRÜ Esports (BUY) | 86% | 5.00 | 0.7% | ✅ ganada | +0.78 |
 | ferrariChampions2026 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 93% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 54% | 5.00 | 3.9% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M (BO3) | KRÜ Esports (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 80% | 5.00 | 0.3% | ✅ ganada | +1.20 |
 | RN1 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 62% | 5.00 | 2.1% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 60% | 5.00 | 0.2% | ✅ ganada | +3.23 |
-| RN1 | Will CSyD Macará win on 2026-08-20? | Yes (BUY) | 44% | 5.00 | 0.8% | ❌ perdida | -5.14 |
-| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Lakersfan111 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 1.7% | ⏳ pendiente | — |
