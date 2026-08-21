@@ -20386,8 +20386,8 @@
     "title": "ITF M15 Lambermont Men: Deney Wassermann vs Romain Faucon",
     "outcome": "Romain Faucon",
     "side": "BUY",
-    "whale_usd": 569.444444,
-    "whale_pct": 0.61,
+    "whale_usd": 1337.301586,
+    "whale_pct": 1.432,
     "whale_value_at_open": 93371.5056,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -20398,7 +20398,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787326820.9206367,
-    "fills": 1
+    "last_fill_at": 1787326962.1457343,
+    "fills": 2
   }
 ]
