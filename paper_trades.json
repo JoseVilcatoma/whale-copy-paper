@@ -20828,8 +20828,8 @@
     "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 133642.98945000002,
-    "whale_pct": 43.415,
+    "whale_usd": 161057.02121400004,
+    "whale_pct": 52.321,
     "whale_value_at_open": 307826.9354,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -20843,8 +20843,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787334044.798804,
-    "fills": 38
+    "last_fill_at": 1787334154.1523533,
+    "fills": 43
   },
   {
     "timestamp": 1787330015,
@@ -21168,5 +21168,35 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787332197.8908792,
     "fills": 3
+  },
+  {
+    "timestamp": 1787334131,
+    "timestamp_added": 1787334131.7971652,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ty-ngx-2026-08-21",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 23709.135299999998,
+    "whale_pct": 4.323,
+    "whale_value_at_open": 548464.4057,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "Djdjdjekekek",
+      "Lakersfan111",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787334179.0640893,
+    "fills": 5
   }
 ]

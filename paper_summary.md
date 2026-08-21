@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 12:41:00 (hora de Perú)
+Actualizado: 2026-08-21 12:43:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $400.67
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 12:41:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $170.67)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $165.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 6 | 4 | 3 | -1.21 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| BOOMBOYS.Kiritych | 2 | 2 | 2 | -3.93 USD |
+| BOOMBOYS.Kiritych | 2 | 2 | 3 | -3.93 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
 | Lakersfan111 | 8 | 8 | 3 | -6.60 USD |
@@ -206,7 +206,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 | atp-magadan-wong-2026-08-20 | , RN1, ferrariChampions2026 |
 | dota2-liquid-flc-2026-08-21 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, IMAREALPERSON, Lakersfan111, ferrariChampions2026 |
-| dota2-ty-ngx-2026-08-21 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, Lakersfan111, ferrariChampions2026 |
+| dota2-ty-ngx-2026-08-21 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Djdjdjekekek, Lakersfan111, ferrariChampions2026 |
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 | cs2-fut-mouz-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
@@ -233,6 +233,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 61% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 1.5 | Over (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. BK Hacken: 1st Half O/U 0. | Over (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -246,7 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 43.4% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 52.3% | ⏳ pendiente | — |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ❌ perdida | -5.15 |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -262,4 +263,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Benjamin Bonzi (BUY) | 44% | 5.00 | 1.0% | ❌ perdida | -5.14 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 99% | 5.00 | 15.0% | ✅ ganada | +0.05 |
 | RN1 | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 52% | 5.00 | 4.6% | ⏳ pendiente | — |
-| crisp1973 | Will Al Diraiyah Saudi Club win on 2026- | Yes (BUY) | 50% | 5.00 | 80.1% | ⏳ pendiente | — |
