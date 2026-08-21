@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:26:00 (hora de Perú)
+Actualizado: 2026-08-20 21:28:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 21:26:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $293.20)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $288.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 8 | 8 | 1 | -4.90 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
-| ferrariChampions2026 | 177 | 99 | 12 | -5.48 USD |
+| ferrariChampions2026 | 177 | 99 | 13 | -5.48 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 |  | 17 | 10 | 4 | -11.53 USD |
@@ -194,6 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ngx-flc-2026-08-20 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ChonkyChocolateCake, IMAREALPERSON |
 | lol-koia-hrts-2026-08-20 | ChonkyChocolateCake, danielwolfmorales3pddb6dl6 |
 | dota2-ironwi-boombo-2026-08-20 | Djdjdjekekek, Lakersfan111 |
+| dota2-ironwi-boombo-2026-08-20-game1 | Lakersfan111, ferrariChampions2026 |
 | val-sen-2game-2026-08-20-game2 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20-total-7pt5 | , RN1, Sassy-Bucket, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20 | Djdjdjekekek, RN1, Sassy-Bucket, ferrariChampions2026 |
@@ -206,6 +207,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Botafogo FR vs. CS Cienciano: O/U 1.5 | Under (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -235,4 +237,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | Baltimore Orioles (BUY) | 54% | 5.00 | 3.9% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M (BO3) | KRÜ Esports (BUY) | 71% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 80% | 5.00 | 0.3% | ✅ ganada | +1.20 |
-| RN1 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 62% | 5.00 | 2.1% | ✅ ganada | +2.97 |
