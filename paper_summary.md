@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 15:15:43 (hora de Perú)
+Actualizado: 2026-08-21 15:17:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $432.91
-**Retorno acumulado:** -13.42%
+**Bankroll actual:** $435.39
+**Retorno acumulado:** -12.92%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 15:15:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $282.91)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $305.39)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,10 +26,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 7 | 0 | 0 | +26.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| BOOMBOYS.Kiritych | 5 | 2 | 0 | +10.33 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| BOOMBOYS.Kiritych | 4 | 2 | 1 | +3.85 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 0 | +2.49 USD |
+| Lakersfan111 | 10 | 8 | 1 | +2.11 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -41,16 +42,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 0 | 0 | 3 | +0.00 USD |
 | Wiretransferxyz | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
-| Djdjdjekekek | 6 | 4 | 2 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
-| Lakersfan111 | 9 | 8 | 2 | -4.11 USD |
 | ferrariChampions2026 | 195 | 111 | 0 | -4.11 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
+| Djdjdjekekek | 6 | 5 | 1 | -5.14 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
@@ -60,14 +60,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 805
-- **Aciertos:** 510 (63.4%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 809
+- **Aciertos:** 512 (63.3%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,020.45
-- **ROI sobre lo apostado:** -2.70%
-- **Comisiones pagadas (taker fee):** $73.80 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,040.45
+- **ROI sobre lo apostado:** -2.62%
+- **Comisiones pagadas (taker fee):** $74.31 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.78% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 399 | 46.6% | 50.1% | -3.5 pp |
+| 40-59% | 403 | 46.7% | 50.1% | -3.4 pp |
 | 60-79% | 253 | 73.5% | 67.7% | +5.8 pp |
 | 80-94% | 99 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 54 | 96.3% | 97.3% | -1.0 pp |
@@ -239,7 +239,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Will Team Spirit Win the CS2 EWC 2026? | Yes (BUY) | 46% | 5.00 | 9.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: BBL Esports vs FUT Esports (BO | BBL Esports (BUY) | 50% | 5.00 | 6.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Valorant: BBL Esports vs FUT Esports (BO | FUT Esports (BUY) | 50% | 5.00 | 705.8% | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 51% | 5.00 | 3574.0% | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 51% | 5.00 | 3574.0% | ❌ perdida | -5.12 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere (BO3 | Team Vitality (BUY) | 55% | 5.00 | 93.5% | 💰 vendida anticipada | +3.41 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 99% | 5.00 | 345.6% | ✅ ganada | +0.05 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 59% | 5.00 | 81.8% | 💰 vendida anticipada | +2.31 |
@@ -258,7 +258,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ✅ ganada | +2.61 |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ✅ ganada | +4.68 |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 61.6% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 61.6% | ✅ ganada | +6.48 |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ❌ perdida | -5.15 |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ✅ ganada | +1.20 |

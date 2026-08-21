@@ -1,5 +1,5 @@
 {
-  "bankroll": 432.9128335728044,
+  "bankroll": 435.39137691318496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4160,6 +4160,26 @@
       "timestamp": 1787342867.0971482,
       "bankroll": 432.91,
       "event": "won: RN1 \u2014 SC Preu\u00dfen M\u00fcnster vs. Karlsruher SC: O/U 1.5"
+    },
+    {
+      "timestamp": 1787343434.1392958,
+      "bankroll": 439.14,
+      "event": "won: Lakersfan111 \u2014 Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787343434.2394834,
+      "bankroll": 434.03,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787343439.329465,
+      "bankroll": 440.51,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787343440.0305831,
+      "bankroll": 435.39,
+      "event": "lost: Djdjdjekekek \u2014 Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs"
     }
   ]
 }
