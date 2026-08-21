@@ -18450,8 +18450,8 @@
     "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 819.3696000000001,
-    "whale_pct": 4.944,
+    "whale_usd": 5383.1286,
+    "whale_pct": 32.484,
     "whale_value_at_open": 16571.8331,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -18464,8 +18464,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787288369.7197936,
-    "fills": 1
+    "last_fill_at": 1787309733.1823568,
+    "fills": 2
   },
   {
     "timestamp": 1787288553,
@@ -19427,8 +19427,8 @@
     "title": "Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 609.6,
-    "whale_pct": 7.319,
+    "whale_usd": 1631.822222,
+    "whale_pct": 19.591,
     "whale_value_at_open": 8329.5749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -19441,7 +19441,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787309638.5355906,
-    "fills": 1
+    "last_fill_at": 1787309739.8011072,
+    "fills": 3
   }
 ]

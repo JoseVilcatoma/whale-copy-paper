@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 05:54:41 (hora de Perú)
+Actualizado: 2026-08-21 05:56:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.35
@@ -221,7 +221,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 41% | 5.00 | 7.3% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 41% | 5.00 | 19.6% | ⏳ pendiente | — |
 |  | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | LoL: KT Rolster vs T1 (BO3) - LCK Round  | T1 (BUY) | 72% | 5.00 | 237.9% | ⏳ pendiente | — |
