@@ -1,5 +1,5 @@
 {
-  "bankroll": 457.99677115426636,
+  "bankroll": 455.9285856510029,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3500,6 +3500,21 @@
       "timestamp": 1787280692.4789689,
       "bankroll": 458.0,
       "event": "won:  \u2014 Indiana Fever vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1787282511.690566,
+      "bankroll": 459.97,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: KR\u00dc Esports vs Fluxo W7M (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787282512.9068065,
+      "bankroll": 454.88,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Angels vs. Houston Astros"
+    },
+    {
+      "timestamp": 1787282513.6649423,
+      "bankroll": 455.93,
+      "event": "won:  \u2014 Los Angeles Angels vs. Houston Astros"
     }
   ]
 }
