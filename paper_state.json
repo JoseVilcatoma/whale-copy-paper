@@ -1,5 +1,5 @@
 {
-  "bankroll": 417.0322210224757,
+  "bankroll": 411.9342210224757,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4065,6 +4065,11 @@
       "timestamp": 1787336952.2487724,
       "bankroll": 417.03,
       "event": "won: IMAREALPERSON \u2014 Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs"
+    },
+    {
+      "timestamp": 1787337076.024412,
+      "bankroll": 411.93,
+      "event": "lost: RN1 \u2014 ITF W35 Verbier Women: Ana Grubor vs Elsa Bonelli"
     }
   ]
 }

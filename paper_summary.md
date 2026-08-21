@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 13:30:21 (hora de Perú)
+Actualizado: 2026-08-21 13:32:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $417.03
-**Retorno acumulado:** -16.59%
+**Bankroll actual:** $411.93
+**Retorno acumulado:** -17.61%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 13:30:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $202.03)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $201.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,18 +55,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 25 | 19 | 1 | -46.37 USD |
-| RN1 | 112 | 58 | 20 | -61.87 USD |
+| RN1 | 112 | 59 | 19 | -66.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 787
-- **Aciertos:** 495 (62.9%)
+- **Apuestas resueltas:** 788
+- **Aciertos:** 495 (62.8%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,930.45
-- **ROI sobre lo apostado:** -3.08%
-- **Comisiones pagadas (taker fee):** $72.51 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,935.45
+- **ROI sobre lo apostado:** -3.20%
+- **Comisiones pagadas (taker fee):** $72.61 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.36% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 397 | 46.6% | 50.1% | -3.5 pp |
-| 60-79% | 243 | 73.3% | 67.8% | +5.5 pp |
+| 60-79% | 244 | 73.0% | 67.7% | +5.2 pp |
 | 80-94% | 95 | 86.3% | 86.8% | -0.4 pp |
 | 95-99% (casi seguro) | 52 | 96.2% | 97.3% | -1.2 pp |
 
@@ -256,7 +256,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 51% | 5.00 | 2.4% | ✅ ganada | +4.68 |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Ana Grubor vs Els | Elsa Bonelli (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Ana Grubor vs Els | Elsa Bonelli (BUY) | 61% | 5.00 | 1.4% | ❌ perdida | -5.10 |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 5.5 | Under (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will Al Riyadh Saudi Club win on 2026-08 | No (BUY) | 94% | 5.00 | 7.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 2 | SK Gaming (BUY) | 63% | 5.00 | 8.3% | ⏳ pendiente | — |
