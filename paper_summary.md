@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 11:28:56 (hora de Perú)
+Actualizado: 2026-08-21 11:31:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $400.43
-**Retorno acumulado:** -19.91%
+**Bankroll actual:** $401.34
+**Retorno acumulado:** -19.73%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 11:28:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $185.43)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $186.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| BOOMBOYS.Kiritych | 2 | 1 | 1 | +1.22 USD |
+| BOOMBOYS.Kiritych | 2 | 1 | 2 | +1.22 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -55,18 +55,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 19 | 2 | -49.09 USD |
-| RN1 | 108 | 55 | 18 | -57.10 USD |
+| RN1 | 109 | 55 | 17 | -56.19 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 773
-- **Aciertos:** 485 (62.7%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 774
+- **Aciertos:** 486 (62.8%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,860.45
-- **ROI sobre lo apostado:** -3.43%
-- **Comisiones pagadas (taker fee):** $71.16 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.58% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,865.45
+- **ROI sobre lo apostado:** -3.40%
+- **Comisiones pagadas (taker fee):** $71.20 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.56% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 390 | 46.2% | 50.1% | -4.0 pp |
 | 60-79% | 239 | 73.2% | 67.8% | +5.4 pp |
-| 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
+| 80-94% | 93 | 87.1% | 86.8% | +0.3 pp |
 | 95-99% (casi seguro) | 52 | 96.2% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -212,7 +212,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
 | cs2-lgc-fal2-2026-08-21 | , Lakersfan111, ferrariChampions2026 |
 | wnba-conn-las-2026-08-20 | , ferrariChampions2026 |
-| cs2-vit-ts7-2026-08-21 | ExplosiveNinja, Lakersfan111 |
+| cs2-vit-ts7-2026-08-21 | BOOMBOYS.Kiritych, ExplosiveNinja, Lakersfan111 |
 | dota2-liquid-flc-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON, ferrariChampions2026 |
 | dota2-liquid-flc-2026-08-21-game2 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, IMAREALPERSON |
 | lol-edg-tt-2026-08-21-game2 | MisterVision, TeGeeLP |
@@ -232,6 +232,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 3.5% | ⏳ pendiente | — |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ⏳ pendiente | — |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -249,7 +250,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 52% | 5.00 | 4.6% | ⏳ pendiente | — |
 | crisp1973 | Will Al Diraiyah Saudi Club win on 2026- | Yes (BUY) | 50% | 5.00 | 80.1% | ⏳ pendiente | — |
 | RN1 | Will Seinajoen JK vs. FC Lahti end in a  | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | ITF M15 Lambermont Men: Deney Wassermann | Romain Faucon (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | ITF M15 Lambermont Men: Deney Wassermann | Romain Faucon (BUY) | 84% | 5.00 | 1.4% | ✅ ganada | +0.91 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 51% | 5.00 | 1.6% | ✅ ganada | +4.68 |
 | RN1 | Sion: Lorenzo Giustino vs Benjamin Hassa | Lorenzo Giustino (BUY) | 81% | 5.00 | 1.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 1 | Team Heretics (BUY) | 65% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -261,4 +262,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.9% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 49% | 5.00 | 0.1% | ✅ ganada | +5.08 |

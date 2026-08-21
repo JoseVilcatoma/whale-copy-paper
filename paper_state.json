@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.4283619395366,
+  "bankroll": 401.34074289191756,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3975,6 +3975,11 @@
       "timestamp": 1787329540.5978158,
       "bankroll": 400.43,
       "event": "won: casualbet2020 \u2014 LoL: KT Rolster vs T1 (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1787329858.2320025,
+      "bankroll": 401.34,
+      "event": "won: RN1 \u2014 ITF M15 Lambermont Men: Deney Wassermann vs Romain Faucon"
     }
   ]
 }
