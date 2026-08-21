@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.3457485318776,
+  "bankroll": 424.24274853187757,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3875,6 +3875,11 @@
       "timestamp": 1787321100.2477465,
       "bankroll": 429.35,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787321729.1134531,
+      "bankroll": 424.24,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner"
     }
   ]
 }

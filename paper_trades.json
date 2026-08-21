@@ -17318,8 +17318,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -20106,8 +20106,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 13809.6126,
-    "whale_pct": 2.847,
+    "whale_usd": 27102.425000000003,
+    "whale_pct": 5.588,
     "whale_value_at_open": 485026.1324,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -20121,7 +20121,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787321637.2632086,
-    "fills": 1
+    "last_fill_at": 1787321726.8669055,
+    "fills": 2
   }
 ]
