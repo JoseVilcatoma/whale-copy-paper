@@ -18841,8 +18841,8 @@
     "title": "Dota 2: Team Liquid vs Team Falcons - Game 2 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 32023.392784000003,
-    "whale_pct": 5.08,
+    "whale_usd": 70713.79518400003,
+    "whale_pct": 11.217,
     "whale_value_at_open": 630403.608,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -18856,7 +18856,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787299896.6975713,
-    "fills": 11
+    "last_fill_at": 1787299977.7609184,
+    "fills": 27
   }
 ]

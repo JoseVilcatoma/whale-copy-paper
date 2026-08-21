@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 03:11:43 (hora de Perú)
+Actualizado: 2026-08-21 03:13:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.38
@@ -215,7 +215,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 66% | 5.00 | 5.1% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 66% | 5.00 | 11.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 46% | 5.00 | 16.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: JD Gaming vs Bilibili Gaming ( | JD Gaming (BUY) | 41% | 5.00 | 6.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 56% | 5.00 | 37.6% | ⏳ pendiente | — |
