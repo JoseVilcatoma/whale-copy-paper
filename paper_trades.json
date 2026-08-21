@@ -16841,8 +16841,8 @@
     "title": "Los Angeles Angels vs. Houston Astros: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 46878.476307000004,
-    "whale_pct": 21.987,
+    "whale_usd": 92878.476307,
+    "whale_pct": 43.562,
     "whale_value_at_open": 213208.3747,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -16853,8 +16853,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787266690.1007266,
-    "fills": 3
+    "last_fill_at": 1787270820.0895433,
+    "fills": 4
   },
   {
     "timestamp": 1787264591,
@@ -17703,6 +17703,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787270496.0791717,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787270912,
+    "timestamp_added": 1787270912.7030287,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-laa-hou-2026-08-20",
+    "title": "Los Angeles Angels vs. Houston Astros",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 13112.757,
+    "whale_pct": 6.562,
+    "whale_value_at_open": 199842.8703,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787270913.3635938,
     "fills": 2
   }
 ]
