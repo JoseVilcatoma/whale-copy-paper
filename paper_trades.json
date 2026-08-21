@@ -22054,5 +22054,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787354273.189794,
     "fills": 1
+  },
+  {
+    "timestamp": 1787354828,
+    "timestamp_added": 1787354829.046479,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-det-kc-2026-08-21",
+    "title": "Detroit Tigers vs. Kansas City Royals",
+    "outcome": "Detroit Tigers",
+    "side": "BUY",
+    "whale_usd": 34236.9076,
+    "whale_pct": 24.534,
+    "whale_value_at_open": 139548.1306,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787354829.0464933,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 18:27:02 (hora de Perú)
+Actualizado: 2026-08-21 18:29:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $421.60
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 18:27:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $271.60)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $266.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 9 | 10 | 4 | -10.26 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| Sassy-Bucket | 6 | 10 | 6 | -23.92 USD |
+| Sassy-Bucket | 6 | 10 | 7 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 127 | 63 | 4 | -54.18 USD |
@@ -238,6 +238,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -267,4 +268,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Will Team Spirit Win the CS2 EWC 2026? | Yes (BUY) | 46% | 5.00 | 9.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: BBL Esports vs FUT Esports (BO | BBL Esports (BUY) | 50% | 5.00 | 6.9% | ❌ perdida | -5.12 |
 | Djdjdjekekek | Valorant: BBL Esports vs FUT Esports (BO | FUT Esports (BUY) | 50% | 5.00 | 705.8% | ✅ ganada | +4.88 |
-| Djdjdjekekek | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 51% | 5.00 | 3574.0% | ❌ perdida | -5.12 |
