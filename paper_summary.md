@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 00:48:51 (hora de Perú)
+Actualizado: 2026-08-21 00:50:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $453.86
-**Retorno acumulado:** -9.23%
+**Bankroll actual:** $457.09
+**Retorno acumulado:** -8.58%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 00:48:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $333.86)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $342.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,6 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| Djdjdjekekek | 2 | 0 | 0 | +3.70 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -36,7 +37,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| Djdjdjekekek | 1 | 0 | 1 | +0.47 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 9 | 8 | 0 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -232,7 +232,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 51% | 5.00 | 0.6% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Cancun: Moise Kouame vs Roman Andres Bur | Moise Kouame (BUY) | 67% | 5.00 | 6.7% | ✅ ganada | +2.38 |
 |  | Indiana Fever vs. Dallas Wings | Dallas Wings (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
-| Djdjdjekekek | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 60% | 5.00 | 31.8% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 60% | 5.00 | 31.8% | 💰 vendida anticipada | +3.23 |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 22.2% | ❌ perdida | -5.12 |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 54% | 5.00 | 2.4% | ❌ perdida | -5.12 |
 |  | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 79% | 5.00 | 0.7% | ✅ ganada | +1.28 |

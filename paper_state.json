@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.8578553701098,
+  "bankroll": 457.09118870344315,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3615,6 +3615,11 @@
       "timestamp": 1787289296.948102,
       "bankroll": 453.86,
       "event": "won: SDTrading \u2014 Spread: LV (-1.5)"
+    },
+    {
+      "timestamp": 1787291425.209986,
+      "bankroll": 457.09,
+      "event": "venta anticipada: Djdjdjekekek \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs (+3.23 USD)"
     }
   ]
 }

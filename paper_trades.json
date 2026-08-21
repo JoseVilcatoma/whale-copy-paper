@@ -18000,15 +18000,17 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.23,
     "overlaps_with": [
       "Lakersfan111"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787277633.9810627,
-    "fills": 6
+    "fills": 6,
+    "fee_total_usd": 0.1,
+    "closed_price": 100
   },
   {
     "timestamp": 1787277845,
