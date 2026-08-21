@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.358944600167,
+  "bankroll": 439.1775160287384,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4230,6 +4230,11 @@
       "timestamp": 1787347321.9519577,
       "bankroll": 435.36,
       "event": "lost: Wiretransferxyz \u2014 Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs"
+    },
+    {
+      "timestamp": 1787348510.8762197,
+      "bankroll": 439.18,
+      "event": "won: MisterVision \u2014 LoL: Team Vitality vs Natus Vincere - Game 1 Winner"
     }
   ]
 }

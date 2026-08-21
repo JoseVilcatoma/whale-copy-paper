@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 16:40:57 (hora de Perú)
+Actualizado: 2026-08-21 16:42:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $435.36
-**Retorno acumulado:** -12.93%
+**Bankroll actual:** $439.18
+**Retorno acumulado:** -12.16%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 16:40:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $350.36)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $359.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,13 +39,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| ChonkyChocolateCake | 8 | 5 | 0 | +0.13 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
 | Djdjdjekekek | 7 | 5 | 1 | -0.26 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
-| ChonkyChocolateCake | 7 | 5 | 1 | -3.69 USD |
 | ferrariChampions2026 | 195 | 111 | 0 | -4.11 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
@@ -60,14 +60,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 819
-- **Aciertos:** 518 (63.2%)
+- **Apuestas resueltas:** 820
+- **Aciertos:** 519 (63.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,090.45
-- **ROI sobre lo apostado:** -2.59%
-- **Comisiones pagadas (taker fee):** $75.33 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.75% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,095.45
+- **ROI sobre lo apostado:** -2.49%
+- **Comisiones pagadas (taker fee):** $75.44 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.65% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 408 | 46.8% | 50.1% | -3.3 pp |
+| 40-59% | 409 | 46.9% | 50.1% | -3.2 pp |
 | 60-79% | 258 | 73.3% | 67.7% | +5.6 pp |
 | 80-94% | 99 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 54 | 96.3% | 97.3% | -1.0 pp |
@@ -252,7 +252,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | IK Sirius vs. BK Hacken: O/U 2.5 | Over (BUY) | 67% | 5.00 | 0.4% | ✅ ganada | +2.38 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 57% | 5.00 | 102.5% | 💰 vendida anticipada | +3.20 |
 | RN1 | IK Sirius vs. BK Hacken: O/U 3.5 | Under (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
-| MisterVision | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 56% | 5.00 | 143.0% | ⏳ pendiente | — |
+| MisterVision | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 56% | 5.00 | 143.0% | ✅ ganada | +3.82 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 48% | 5.00 | 17.8% | 💰 vendida anticipada | -0.78 |
 | RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | RN1 | Will Seinajoen JK win on 2026-08-21? | Yes (BUY) | 60% | 5.00 | 0.6% | ❌ perdida | -5.10 |
