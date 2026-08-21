@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 07:35:23 (hora de Perú)
+Actualizado: 2026-08-21 07:37:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $450.38
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 07:35:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $305.38)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $300.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | Djdjdjekekek | 4 | 2 | 1 | +0.08 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
+| crisp1973 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 9 | 8 | 2 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -222,6 +223,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| crisp1973 | Will Al Qadisiyah Saudi Club win on 2026 | Yes (BUY) | 66% | 5.00 | 34.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 992.8% | ⏳ pendiente | — |
@@ -251,4 +253,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 42% | 5.00 | 3.9% | ❌ perdida | -5.14 |
 | TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 63% | 5.00 | 11.4% | 💰 vendida anticipada | +2.84 |
 |  | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 74% | 5.00 | 1.0% | ✅ ganada | +1.69 |
-| MisterVision | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 72% | 5.00 | 105.7% | ⏳ pendiente | — |

@@ -19643,5 +19643,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787315509.1899018,
     "fills": 1
+  },
+  {
+    "timestamp": 1787315723,
+    "timestamp_added": 1787315723.804519,
+    "username": "crisp1973",
+    "wallet": "0xde3131239a358be036397ee2c152e256e6b3df79",
+    "slug": "spl-qad-ith-2026-08-21-qad",
+    "title": "Will Al Qadisiyah Saudi Club win on 2026-08-21?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 2750.802,
+    "whale_pct": 34.735,
+    "whale_value_at_open": 7919.3815,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787315723.804531,
+    "fills": 1
   }
 ]
