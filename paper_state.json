@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.83922276574157,
+  "bankroll": 449.71922276574156,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3830,6 +3830,11 @@
       "timestamp": 1787316064.8230069,
       "bankroll": 454.84,
       "event": "venta anticipada: TeGeeLP \u2014 LoL: Top Esports vs Bilibili Gaming - Game 1 Winner (-1.43 USD)"
+    },
+    {
+      "timestamp": 1787316513.7255955,
+      "bankroll": 449.72,
+      "event": "lost:  \u2014 FC T\u014dky\u014d vs. JEF United Ichihara Chiba: O/U 1.5"
     }
   ]
 }
