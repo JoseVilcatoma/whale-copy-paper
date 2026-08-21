@@ -1,5 +1,5 @@
 {
-  "bankroll": 410.9037682379721,
+  "bankroll": 413.2136495939043,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4055,6 +4055,11 @@
       "timestamp": 1787336185.5012727,
       "bankroll": 410.9,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs (+0.46 USD)"
+    },
+    {
+      "timestamp": 1787336327.8696706,
+      "bankroll": 413.21,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs (+2.31 USD)"
     }
   ]
 }
