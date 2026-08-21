@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.88337724737386,
+  "bankroll": 482.729286338283,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3310,6 +3310,16 @@
       "timestamp": 1787269183.4612947,
       "bankroll": 483.88,
       "event": "lost:  \u2014 LoL: Solary vs Skillcamp Esport (BO3) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1787270431.3833663,
+      "bankroll": 478.75,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs"
+    },
+    {
+      "timestamp": 1787270431.4834845,
+      "bankroll": 482.73,
+      "event": "won: ChonkyChocolateCake \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs"
     }
   ]
 }

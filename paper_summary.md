@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 18:58:37 (hora de Perú)
+Actualizado: 2026-08-20 19:00:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $483.88
-**Retorno acumulado:** -3.22%
+**Bankroll actual:** $482.73
+**Retorno acumulado:** -3.45%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 18:58:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $228.88)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $237.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,11 +37,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
+| ChonkyChocolateCake | 4 | 3 | 0 | -1.19 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | SDTrading | 8 | 8 | 1 | -4.90 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| ChonkyChocolateCake | 3 | 3 | 1 | -5.17 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | ferrariChampions2026 | 166 | 95 | 20 | -6.06 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -49,19 +49,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 4 | 6 | 5 | -12.97 USD |
 |  | 15 | 10 | 1 | -13.01 USD |
-| danielwolfmorales3pddb6dl6 | 6 | 9 | 2 | -20.16 USD |
+| danielwolfmorales3pddb6dl6 | 6 | 10 | 1 | -25.29 USD |
 | RN1 | 105 | 50 | 9 | -38.22 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 649
-- **Aciertos:** 418 (64.4%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 651
+- **Aciertos:** 419 (64.4%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,240.45
-- **ROI sobre lo apostado:** -1.17%
-- **Comisiones pagadas (taker fee):** $58.73 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,250.45
+- **ROI sobre lo apostado:** -1.20%
+- **Comisiones pagadas (taker fee):** $58.98 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -69,7 +69,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 313 | 47.6% | 50.1% | -2.5 pp |
+| 40-59% | 315 | 47.6% | 50.1% | -2.5 pp |
 | 60-79% | 210 | 74.3% | 68.0% | +6.3 pp |
 | 80-94% | 81 | 85.2% | 86.9% | -1.7 pp |
 | 95-99% (casi seguro) | 45 | 97.8% | 97.3% | +0.5 pp |
@@ -205,7 +205,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Over (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 51% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Indiana Fever vs. Dallas Wings: O/U 185. | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M - Map | KRÜ Esports (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 93% | 5.00 | 5.1% | ⏳ pendiente | — |

@@ -16434,8 +16434,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -16556,8 +16556,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [
       "danielwolfmorales3pddb6dl6"
     ],
@@ -17563,8 +17563,8 @@
     "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 623.3880999999999,
-    "whale_pct": 0.269,
+    "whale_usd": 2192.9946,
+    "whale_pct": 0.946,
     "whale_value_at_open": 231873.241,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -17575,8 +17575,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787269476.8323576,
-    "fills": 1
+    "last_fill_at": 1787270341.11798,
+    "fills": 2
   },
   {
     "timestamp": 1787269959,
