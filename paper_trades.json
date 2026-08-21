@@ -19391,5 +19391,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787308958.8558233,
     "fills": 1
+  },
+  {
+    "timestamp": 1787309048,
+    "timestamp_added": 1787309048.4410958,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-lgc-fal2-2026-08-21",
+    "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 691.4299970000001,
+    "whale_pct": 1.012,
+    "whale_value_at_open": 68349.0266,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787309048.4411104,
+    "fills": 1
   }
 ]

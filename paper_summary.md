@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 05:44:06 (hora de Perú)
+Actualizado: 2026-08-21 05:46:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.35
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 05:44:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $309.35)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $304.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
-|  | 21 | 15 | 6 | -31.62 USD |
+|  | 21 | 15 | 7 | -31.62 USD |
 | RN1 | 108 | 55 | 1 | -57.10 USD |
 
 ## Análisis general
@@ -207,6 +207,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 | cs2-fut-mouz-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
+| cs2-lgc-fal2-2026-08-21 | , Lakersfan111 |
 | wnba-conn-las-2026-08-20 | , ferrariChampions2026 |
 | cs2-vit-ts7-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | dota2-liquid-flc-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON, ferrariChampions2026 |
@@ -219,6 +220,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | LoL: KT Rolster vs T1 (BO3) - LCK Round  | T1 (BUY) | 72% | 5.00 | 237.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Anyone's Legend vs Team WE - Game 2 | Anyone's Legend (BUY) | 58% | 5.00 | 18.0% | ⏳ pendiente | — |
@@ -248,4 +250,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 61% | 5.00 | 63.3% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 49% | 5.00 | 9.4% | ❌ perdida | -5.13 |
 |  | Will FC Dinamo Batumi win on 2026-08-21? | Yes (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 48% | 5.00 | 17.5% | ✅ ganada | +5.29 |
