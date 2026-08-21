@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 09:23:02 (hora de Perú)
+Actualizado: 2026-08-21 09:25:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $424.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 09:23:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $254.24)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $244.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 5 | 4 | 0 | -4.44 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 190 | 108 | 6 | -7.93 USD |
+| ferrariChampions2026 | 190 | 108 | 8 | -7.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 5 | 1 | -9.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
@@ -210,7 +210,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 | cs2-fut-mouz-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
-| cs2-lgc-fal2-2026-08-21 | , Lakersfan111 |
+| cs2-lgc-fal2-2026-08-21 | , Lakersfan111, ferrariChampions2026 |
 | wnba-conn-las-2026-08-20 | , ferrariChampions2026 |
 | cs2-vit-ts7-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | dota2-liquid-flc-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON, ferrariChampions2026 |
@@ -227,6 +227,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 49% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Team Falcons (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -255,5 +257,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | FC Tōkyō vs. JEF United Ichihara Chiba:  | Under (BUY) | 52% | 5.00 | 12.0% | ❌ perdida | -5.12 |
 |  | ITF W50 Prague Women: Alena Kovackova vs | Jana Kovackova (BUY) | 94% | 5.00 | 1.3% | ✅ ganada | +0.30 |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 41% | 5.00 | 19.6% | 💰 vendida anticipada | -0.54 |
-|  | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
-|  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ❌ perdida | -5.11 |
