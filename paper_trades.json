@@ -18411,5 +18411,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787285894.711485,
     "fills": 4
+  },
+  {
+    "timestamp": 1787287886,
+    "timestamp_added": 1787287886.7057436,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ironwi-boombo-2026-08-20",
+    "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 838.1502000000002,
+    "whale_pct": 0.503,
+    "whale_value_at_open": 166688.5105,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787287886.7057562,
+    "fills": 1
   }
 ]
