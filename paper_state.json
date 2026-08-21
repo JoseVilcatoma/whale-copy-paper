@@ -1,5 +1,5 @@
 {
-  "bankroll": 430.5405409762214,
+  "bankroll": 432.32185604471454,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4150,6 +4150,11 @@
       "timestamp": 1787342560.7013612,
       "bankroll": 430.54,
       "event": "won: RN1 \u2014 Seinajoen JK vs. FC Lahti: O/U 1.5"
+    },
+    {
+      "timestamp": 1787342810.8390257,
+      "bankroll": 432.32,
+      "event": "won: RN1 \u2014 Will Seinajoen JK vs. FC Lahti end in a draw?"
     }
   ]
 }
