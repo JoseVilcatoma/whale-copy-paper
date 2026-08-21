@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.8532421564734,
+  "bankroll": 496.9293237891265,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3360,6 +3360,11 @@
       "timestamp": 1787276278.5317202,
       "bankroll": 491.85,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Open: Iga Swiatek vs Elena Rybakina"
+    },
+    {
+      "timestamp": 1787276579.1520243,
+      "bankroll": 496.93,
+      "event": "won: Sassy-Bucket \u2014 Los Angeles Angels vs. Houston Astros: O/U 8.5"
     }
   ]
 }
