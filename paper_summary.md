@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:48:44 (hora de Perú)
+Actualizado: 2026-08-20 21:50:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $468.20
-**Retorno acumulado:** -6.36%
+**Bankroll actual:** $457.95
+**Retorno acumulado:** -8.41%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 21:48:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $268.20)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $267.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,25 +44,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 8 | 8 | 1 | -4.90 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
-| ferrariChampions2026 | 177 | 99 | 17 | -5.48 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
+| ferrariChampions2026 | 177 | 100 | 16 | -10.60 USD |
 |  | 17 | 10 | 4 | -11.53 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| Sassy-Bucket | 6 | 8 | 2 | -13.67 USD |
+| Sassy-Bucket | 6 | 9 | 1 | -18.80 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | RN1 | 107 | 55 | 2 | -57.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 683
-- **Aciertos:** 439 (64.3%)
-- **Cuota promedio de entrada:** 63.7%
+- **Apuestas resueltas:** 685
+- **Aciertos:** 439 (64.1%)
+- **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,410.45
-- **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $61.96 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,420.45
+- **ROI sobre lo apostado:** -1.88%
+- **Comisiones pagadas (taker fee):** $62.21 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,7 +70,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 332 | 46.7% | 50.1% | -3.4 pp |
+| 40-59% | 334 | 46.4% | 50.1% | -3.7 pp |
 | 60-79% | 218 | 75.2% | 67.9% | +7.3 pp |
 | 80-94% | 86 | 86.0% | 86.9% | -0.8 pp |
 | 95-99% (casi seguro) | 47 | 97.9% | 97.2% | +0.7 pp |
@@ -233,7 +233,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 51% | 5.00 | 2.2% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Over (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 51% | 5.00 | 7.5% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Indiana Fever vs. Dallas Wings: O/U 185. | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Indiana Fever vs. Dallas Wings: O/U 185. | Over (BUY) | 51% | 5.00 | 1.3% | ❌ perdida | -5.12 |
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M - Map | KRÜ Esports (BUY) | 86% | 5.00 | 0.7% | ✅ ganada | +0.78 |

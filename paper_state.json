@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.1992661037613,
+  "bankroll": 457.9492661037613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3485,6 +3485,16 @@
       "timestamp": 1787279066.4132154,
       "bankroll": 468.2,
       "event": "lost: ferrariChampions2026 \u2014 Kingston: Juan Carlos Prado vs Pedro Martinez"
+    },
+    {
+      "timestamp": 1787280631.875219,
+      "bankroll": 463.07,
+      "event": "lost: Sassy-Bucket \u2014 Washington Nationals vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787280635.0309389,
+      "bankroll": 457.95,
+      "event": "lost: ferrariChampions2026 \u2014 Indiana Fever vs. Dallas Wings: O/U 185.5"
     }
   ]
 }
