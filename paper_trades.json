@@ -20728,8 +20728,8 @@
     "title": "ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth",
     "outcome": "Anastasija Cvetkovic",
     "side": "BUY",
-    "whale_usd": 632.025,
-    "whale_pct": 0.469,
+    "whale_usd": 1613.8402999999998,
+    "whale_pct": 1.197,
     "whale_value_at_open": 134792.2222,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -20742,8 +20742,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787329412.554669,
-    "fills": 1
+    "last_fill_at": 1787329885.1323292,
+    "fills": 2
   },
   {
     "timestamp": 1787329523,
@@ -20828,8 +20828,8 @@
     "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 10862.068964999999,
-    "whale_pct": 3.529,
+    "whale_usd": 44731.875002,
+    "whale_pct": 14.532,
     "whale_value_at_open": 307826.9354,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -20843,7 +20843,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787329795.098744,
-    "fills": 1
+    "last_fill_at": 1787329922.275293,
+    "fills": 5
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 11:31:05 (hora de Perú)
+Actualizado: 2026-08-21 11:33:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $401.34
@@ -232,11 +232,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 3.5% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 14.5% | ⏳ pendiente | — |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ⏳ pendiente | — |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Ana Grubor vs Els | Elsa Bonelli (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 5.5 | Under (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
