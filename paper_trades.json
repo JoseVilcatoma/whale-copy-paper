@@ -18504,8 +18504,8 @@
     "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 18291.3833,
-    "whale_pct": 134.816,
+    "whale_usd": 30515.814200000004,
+    "whale_pct": 224.915,
     "whale_value_at_open": 13567.7124,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -18520,7 +18520,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787290821.2109642,
-    "fills": 9
+    "last_fill_at": 1787290962.2351873,
+    "fills": 14
   }
 ]
