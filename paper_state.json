@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.1333731715955,
+  "bankroll": 431.04837317159553,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4245,6 +4245,11 @@
       "timestamp": 1787349616.446105,
       "bankroll": 436.13,
       "event": "lost: crisp1973 \u2014 Al Faisaly Saudi Club vs. NEOM SC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787349925.8463821,
+      "bankroll": 431.05,
+      "event": "lost: crisp1973 \u2014 Will Al Qadisiyah Saudi Club win on 2026-08-21?"
     }
   ]
 }
