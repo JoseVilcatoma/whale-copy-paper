@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 19:09:01 (hora de Perú)
+Actualizado: 2026-08-20 19:11:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.98
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 19:09:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $227.98)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $222.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 13 | 1 | 0 | +19.00 USD |
-| Lakersfan111 | 3 | 0 | 11 | +16.77 USD |
+| Lakersfan111 | 3 | 0 | 12 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -202,6 +202,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 61% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -231,4 +232,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Spread: LV (-1.5) | LV (BUY) | 50% | 5.00 | 35.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LDU de Quito vs. Mirassol FC: O/U 2.5 | Under (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston: Juan Carlos Prado vs Pedro Mar | Juan Carlos Prado (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cancun: Henrique Rocha vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 95% | 5.00 | 2.9% | ✅ ganada | +0.25 |
