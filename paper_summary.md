@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:05:21 (hora de Perú)
+Actualizado: 2026-08-20 21:07:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.68
-**Retorno acumulado:** -2.26%
+**Bankroll actual:** $488.88
+**Retorno acumulado:** -2.22%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 21:05:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $283.68)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $288.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,20 +48,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 6 | 7 | 3 | -8.52 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-|  | 16 | 10 | 5 | -11.73 USD |
+|  | 17 | 10 | 4 | -11.53 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 10 | 1 | -21.92 USD |
 | RN1 | 107 | 55 | 2 | -57.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 673
-- **Aciertos:** 434 (64.5%)
-- **Cuota promedio de entrada:** 63.6%
+- **Apuestas resueltas:** 674
+- **Aciertos:** 435 (64.5%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,360.45
-- **ROI sobre lo apostado:** -1.00%
-- **Comisiones pagadas (taker fee):** $61.15 (1.82% del capital apostado)
+- **Total apostado (suma de stakes):** $3,365.45
+- **ROI sobre lo apostado:** -0.99%
+- **Comisiones pagadas (taker fee):** $61.16 (1.82% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -73,7 +73,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 327 | 47.4% | 50.1% | -2.7 pp |
 | 60-79% | 217 | 75.1% | 68.0% | +7.2 pp |
 | 80-94% | 83 | 85.5% | 86.8% | -1.3 pp |
-| 95-99% (casi seguro) | 46 | 97.8% | 97.2% | +0.6 pp |
+| 95-99% (casi seguro) | 47 | 97.9% | 97.2% | +0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -210,7 +210,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 22.2% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 54% | 5.00 | 2.4% | ⏳ pendiente | — |
 |  | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 79% | 5.00 | 0.7% | ✅ ganada | +1.28 |
-|  | Quebec City: Jacob Fearnley vs Alexis Ga | Jacob Fearnley (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
+|  | Quebec City: Jacob Fearnley vs Alexis Ga | Jacob Fearnley (BUY) | 96% | 5.00 | 0.7% | ✅ ganada | +0.20 |
 |  | Los Angeles Angels vs. Houston Astros | Los Angeles Angels (BUY) | 82% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Cancun: Alan Magadan vs Coleman Wong | Alan Magadan (BUY) | 42% | 5.00 | 5.2% | ⏳ pendiente | — |

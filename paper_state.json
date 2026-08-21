@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.6821468594694,
+  "bankroll": 488.88048019280274,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3435,6 +3435,11 @@
       "timestamp": 1787277810.8030438,
       "bankroll": 488.68,
       "event": "won:  \u2014 New York Yankees vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1787277931.9527888,
+      "bankroll": 488.88,
+      "event": "won:  \u2014 Quebec City: Jacob Fearnley vs Alexis Galarneau"
     }
   ]
 }
