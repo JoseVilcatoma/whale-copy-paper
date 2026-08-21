@@ -21518,5 +21518,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787348935.1803384,
     "fills": 1
+  },
+  {
+    "timestamp": 1787349228,
+    "timestamp_added": 1787349229.4619448,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-bergs-sakella-2026-08-21",
+    "title": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis",
+    "outcome": "Stefanos Sakellaridis",
+    "side": "BUY",
+    "whale_usd": 3042.68,
+    "whale_pct": 1.143,
+    "whale_value_at_open": 266126.3829,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787349229.4619582,
+    "fills": 1
   }
 ]
