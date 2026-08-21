@@ -1,5 +1,5 @@
 {
-  "bankroll": 405.7612752407732,
+  "bankroll": 410.44319680940066,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4045,6 +4045,11 @@
       "timestamp": 1787334488.2607706,
       "bankroll": 405.76,
       "event": "won: RN1 \u2014 ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth"
+    },
+    {
+      "timestamp": 1787335476.4098492,
+      "bankroll": 410.44,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Counter-Strike: Vitality vs Spirit - Map 1 Winner"
     }
   ]
 }

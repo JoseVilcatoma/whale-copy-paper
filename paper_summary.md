@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 13:03:41 (hora de Perú)
+Actualizado: 2026-08-21 13:05:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $405.76
-**Retorno acumulado:** -18.85%
+**Bankroll actual:** $410.44
+**Retorno acumulado:** -17.91%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 13:03:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $180.76)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $190.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,6 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
+| BOOMBOYS.Kiritych | 3 | 2 | 2 | +0.75 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | crisp1973 | 0 | 0 | 3 | +0.00 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | +0.00 USD |
@@ -43,7 +44,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 6 | 4 | 3 | -1.21 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| BOOMBOYS.Kiritych | 2 | 2 | 3 | -3.93 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
 | Lakersfan111 | 8 | 8 | 3 | -6.60 USD |
@@ -59,14 +59,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 785
-- **Aciertos:** 493 (62.8%)
+- **Apuestas resueltas:** 786
+- **Aciertos:** 494 (62.8%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,920.45
-- **ROI sobre lo apostado:** -3.30%
-- **Comisiones pagadas (taker fee):** $72.28 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.46% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,925.45
+- **ROI sobre lo apostado:** -3.18%
+- **Comisiones pagadas (taker fee):** $72.40 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -74,7 +74,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 395 | 46.3% | 50.1% | -3.8 pp |
+| 40-59% | 396 | 46.5% | 50.1% | -3.6 pp |
 | 60-79% | 243 | 73.3% | 67.8% | +5.5 pp |
 | 80-94% | 95 | 86.3% | 86.8% | -0.4 pp |
 | 95-99% (casi seguro) | 52 | 96.2% | 97.3% | -1.2 pp |
@@ -246,7 +246,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Seinajoen JK win on 2026-08-21? | Yes (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ✅ ganada | +4.68 |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 61.6% | ⏳ pendiente | — |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
