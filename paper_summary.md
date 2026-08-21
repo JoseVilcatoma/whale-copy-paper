@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 19:13:13 (hora de Perú)
+Actualizado: 2026-08-20 19:15:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.98
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 19:13:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $222.98)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $217.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| Djdjdjekekek | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 4 | 3 | 0 | -1.19 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -193,7 +194,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-koia-hrts-2026-08-20 | ChonkyChocolateCake, danielwolfmorales3pddb6dl6 |
 | val-sen-2game-2026-08-20-game2 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20-total-7pt5 | RN1, Sassy-Bucket, ferrariChampions2026 |
-| mlb-nyy-bal-2026-08-20 | RN1, Sassy-Bucket, ferrariChampions2026 |
+| mlb-nyy-bal-2026-08-20 | Djdjdjekekek, RN1, Sassy-Bucket, ferrariChampions2026 |
 | mlb-nyy-bal-2026-08-20-total-8pt5 | Sassy-Bucket, ferrariChampions2026 |
 | atp-magadan-wong-2026-08-20 | RN1, ferrariChampions2026 |
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
@@ -202,6 +203,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 91% | 5.00 | 4.1% | ⏳ pendiente | — |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 61% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -209,7 +211,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Over (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 51% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Indiana Fever vs. Dallas Wings: O/U 185. | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
-| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 0.9% | ⏳ pendiente | — |
+| Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: KRÜ Esports vs Fluxo W7M - Map | KRÜ Esports (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 93% | 5.00 | 5.1% | ⏳ pendiente | — |
@@ -231,4 +233,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 4.7% | ⏳ pendiente | — |
 | SDTrading | Spread: LV (-1.5) | LV (BUY) | 50% | 5.00 | 35.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | LDU de Quito vs. Mirassol FC: O/U 2.5 | Under (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston: Juan Carlos Prado vs Pedro Mar | Juan Carlos Prado (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
