@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 08:57:40 (hora de Perú)
+Actualizado: 2026-08-21 08:59:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.34
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 08:57:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $266.34)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $261.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 3 | 4 | 3 | -7.78 USD |
-| ferrariChampions2026 | 190 | 108 | 1 | -7.93 USD |
+| ferrariChampions2026 | 190 | 108 | 2 | -7.93 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
@@ -227,15 +227,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 51% | 5.00 | 179.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Team Falcons (BUY) | 53% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 51% | 5.00 | 199.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Team Falcons (BUY) | 53% | 5.00 | 4.0% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 519.4% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION (BO3) | TEAM VISION (BUY) | 99% | 5.00 | 158.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | TEAM VISION (BUY) | 59% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | crisp1973 | Al Faisaly Saudi Club vs. NEOM SC: O/U 2 | Over (BUY) | 55% | 5.00 | 21.9% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 4.8% | ⏳ pendiente | — |
+| IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 13.7% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -256,4 +257,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Anyone's Legend vs Team WE - Game 2 | Anyone's Legend (BUY) | 58% | 5.00 | 18.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 49% | 5.00 | 15.4% | ❌ perdida | -5.13 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO3) - L | HANJIN BRION (BUY) | 54% | 5.00 | 17.6% | ❌ perdida | -5.12 |
-| TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 41% | 5.00 | 1.9% | 💰 vendida anticipada | +7.05 |

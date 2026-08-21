@@ -19777,8 +19777,8 @@
     "title": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 550.0,
-    "whale_pct": 4.802,
+    "whale_usd": 1568.49,
+    "whale_pct": 13.694,
     "whale_value_at_open": 11453.917,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -19789,8 +19789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787317192.6357806,
-    "fills": 1
+    "last_fill_at": 1787320778.7513902,
+    "fills": 2
   },
   {
     "timestamp": 1787317203,
@@ -19952,8 +19952,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 11357.682,
-    "whale_pct": 2.502,
+    "whale_usd": 18143.8381,
+    "whale_pct": 3.996,
     "whale_value_at_open": 454015.005,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -19964,8 +19964,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787320653.1710966,
-    "fills": 3
+    "last_fill_at": 1787320665.2043507,
+    "fills": 5
   },
   {
     "timestamp": 1787320497,
@@ -19976,8 +19976,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 248472.167236,
-    "whale_pct": 179.074,
+    "whale_usd": 277417.420936,
+    "whale_pct": 199.935,
     "whale_value_at_open": 138754.0039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -19990,7 +19990,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787320657.876998,
-    "fills": 26
+    "last_fill_at": 1787320729.6639047,
+    "fills": 33
+  },
+  {
+    "timestamp": 1787320733,
+    "timestamp_added": 1787320734.1333108,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lgc-fal2-2026-08-21-game1",
+    "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 4096.014,
+    "whale_pct": 0.877,
+    "whale_value_at_open": 467208.5297,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787320734.6086318,
+    "fills": 2
   }
 ]
