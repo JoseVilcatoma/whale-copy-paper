@@ -21626,8 +21626,8 @@
     "title": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 6654.961071,
-    "whale_pct": 1.752,
+    "whale_usd": 9538.719894999998,
+    "whale_pct": 2.511,
     "whale_value_at_open": 379805.0313,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -21640,8 +21640,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787352372.6325958,
-    "fills": 6
+    "last_fill_at": 1787353201.419417,
+    "fills": 8
   },
   {
     "timestamp": 1787351913,
@@ -21652,8 +21652,8 @@
     "title": "Washington Nationals vs. Miami Marlins: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5954.0307,
-    "whale_pct": 5.688,
+    "whale_usd": 9529.6339,
+    "whale_pct": 9.103,
     "whale_value_at_open": 104685.9304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -21664,8 +21664,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787351914.472229,
-    "fills": 1
+    "last_fill_at": 1787353095.1095545,
+    "fills": 2
   },
   {
     "timestamp": 1787351921,
@@ -21883,6 +21883,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787352619.0697086,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787353190,
+    "timestamp_added": 1787353190.900318,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-gsv-chi-2026-08-21-spread-away-6pt5",
+    "title": "Spread: Golden State Valkyries (-6.5)",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 2521.1295,
+    "whale_pct": 0.757,
+    "whale_value_at_open": 332962.6663,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787353190.9003344,
     "fills": 1
   }
 ]
