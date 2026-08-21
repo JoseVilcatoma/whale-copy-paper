@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 18:53:53 (hora de Perú)
+Actualizado: 2026-08-21 18:55:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.57
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 18:53:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $286.57)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $281.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 0 | +2.49 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 1 | +2.49 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -238,6 +238,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Audax CS Italiano win on 2026-08-21 | No (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -267,4 +268,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 44% | 5.00 | 0.8% | ❌ perdida | -5.14 |
 | Wiretransferxyz | Will Team Spirit Win the CS2 EWC 2026? | Yes (BUY) | 46% | 5.00 | 9.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: BBL Esports vs FUT Esports (BO | BBL Esports (BUY) | 50% | 5.00 | 6.9% | ❌ perdida | -5.12 |
-| Djdjdjekekek | Valorant: BBL Esports vs FUT Esports (BO | FUT Esports (BUY) | 50% | 5.00 | 705.8% | ✅ ganada | +4.88 |

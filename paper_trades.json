@@ -22078,5 +22078,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787354829.0464933,
     "fills": 1
+  },
+  {
+    "timestamp": 1787356514,
+    "timestamp_added": 1787356515.5047936,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "chi1-aci-cul-2026-08-21-aci",
+    "title": "Will Audax CS Italiano win on 2026-08-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 944.9664000000001,
+    "whale_pct": 4.617,
+    "whale_value_at_open": 20469.1458,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787356515.5048087,
+    "fills": 1
   }
 ]
