@@ -17780,5 +17780,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787271265.4970713,
     "fills": 1
+  },
+  {
+    "timestamp": 1787272058,
+    "timestamp_added": 1787272059.3009892,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "atp-tirante-fils-2026-08-21-set-handicap-away-1pt5",
+    "title": "Set Handicap: Fils (-1.5) vs Tirante (+1.5)",
+    "outcome": "Tirante",
+    "side": "BUY",
+    "whale_usd": 1593.535753,
+    "whale_pct": 15.567,
+    "whale_value_at_open": 10236.416,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787272059.3010027,
+    "fills": 1
   }
 ]
