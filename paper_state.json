@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.729286338283,
+  "bankroll": 482.9794442330198,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3320,6 +3320,11 @@
       "timestamp": 1787270431.4834845,
       "bankroll": 482.73,
       "event": "won: ChonkyChocolateCake \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs Team Heretics Academy (BO5) - LES Playoffs"
+    },
+    {
+      "timestamp": 1787270559.0979128,
+      "bankroll": 482.98,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Henrique Rocha vs Hubert Hurkacz"
     }
   ]
 }
