@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.24537317159553,
+  "bankroll": 436.1333731715955,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4240,6 +4240,11 @@
       "timestamp": 1787348987.7450173,
       "bankroll": 441.25,
       "event": "won: Lakersfan111 \u2014 Game Handicap: VIT (-1.5) vs Natus Vincere (+1.5)"
+    },
+    {
+      "timestamp": 1787349616.446105,
+      "bankroll": 436.13,
+      "event": "lost: crisp1973 \u2014 Al Faisaly Saudi Club vs. NEOM SC: O/U 2.5"
     }
   ]
 }
