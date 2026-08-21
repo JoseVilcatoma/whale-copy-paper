@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 01:01:17 (hora de Perú)
+Actualizado: 2026-08-21 01:03:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $457.09
-**Retorno acumulado:** -8.58%
+**Bankroll actual:** $453.18
+**Retorno acumulado:** -9.36%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 01:01:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $337.09)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $363.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,10 +22,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| Lakersfan111 | 5 | 1 | 13 | +20.00 USD |
-| IMAREALPERSON | 14 | 1 | 1 | +19.40 USD |
+| IMAREALPERSON | 15 | 1 | 0 | +24.91 USD |
 | casualbet2020 | 4 | 0 | 1 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| Lakersfan111 | 6 | 3 | 10 | +11.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Djdjdjekekek | 2 | 0 | 1 | +3.70 USD |
@@ -45,8 +45,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
-| ferrariChampions2026 | 186 | 105 | 3 | -6.17 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| ferrariChampions2026 | 187 | 106 | 1 | -7.30 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 |  | 20 | 12 | 1 | -20.57 USD |
@@ -56,14 +56,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 708
-- **Aciertos:** 453 (64.0%)
-- **Cuota promedio de entrada:** 63.6%
+- **Apuestas resueltas:** 714
+- **Aciertos:** 456 (63.9%)
+- **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,535.45
-- **ROI sobre lo apostado:** -1.95%
-- **Comisiones pagadas (taker fee):** $64.43 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,565.45
+- **ROI sobre lo apostado:** -2.04%
+- **Comisiones pagadas (taker fee):** $65.11 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,8 +71,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 346 | 46.5% | 50.1% | -3.6 pp |
-| 60-79% | 225 | 74.7% | 67.9% | +6.8 pp |
+| 40-59% | 351 | 46.4% | 50.1% | -3.7 pp |
+| 60-79% | 226 | 74.8% | 67.9% | +6.9 pp |
 | 80-94% | 88 | 86.4% | 86.8% | -0.4 pp |
 | 95-99% (casi seguro) | 49 | 98.0% | 97.3% | +0.7 pp |
 
@@ -214,10 +214,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ✅ ganada | +5.51 |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 57% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 55% | 5.00 | 67.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 55% | 5.00 | 67.9% | ✅ ganada | +3.98 |
 | ExplosiveNinja | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 61% | 5.00 | 165.6% | ⏳ pendiente | — |
 |  | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | casualbet2020 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 55% | 5.00 | 23.4% | ⏳ pendiente | — |
@@ -225,7 +225,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: VIT (-1.5) vs Natus Vince | Natus Vincere (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 82% | 5.00 | 0.4% | ✅ ganada | +1.05 |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 11.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 11.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 10.5% | ✅ ganada | +2.38 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 43% | 5.00 | 1.4% | ❌ perdida | -5.14 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 457.09118870344315,
+  "bankroll": 453.1796491878194,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3620,6 +3620,36 @@
       "timestamp": 1787291425.209986,
       "bankroll": 457.09,
       "event": "venta anticipada: Djdjdjekekek \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs (+3.23 USD)"
+    },
+    {
+      "timestamp": 1787292134.6226888,
+      "bankroll": 451.96,
+      "event": "lost: Lakersfan111 \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787292135.4456706,
+      "bankroll": 453.93,
+      "event": "won: Lakersfan111 \u2014 Game Handicap: BB (-1.5) vs Iron Wing (+1.5)"
+    },
+    {
+      "timestamp": 1787292137.4064326,
+      "bankroll": 448.8,
+      "event": "lost: Lakersfan111 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1787292137.8895946,
+      "bankroll": 443.7,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787292138.7569816,
+      "bankroll": 447.67,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787292138.9573689,
+      "bankroll": 453.18,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs"
     }
   ]
 }
