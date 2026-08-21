@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 07:39:29 (hora de Perú)
+Actualizado: 2026-08-21 07:41:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $450.38
-**Retorno acumulado:** -9.92%
+**Bankroll actual:** $454.84
+**Retorno acumulado:** -9.03%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 07:39:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $300.38)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $324.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,12 +22,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 17 | 3 | 3 | +25.70 USD |
+| IMAREALPERSON | 18 | 4 | 1 | +26.09 USD |
 | casualbet2020 | 5 | 0 | 2 | +20.35 USD |
 | Lakersfan111 | 7 | 3 | 9 | +16.04 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| TeGeeLP | 2 | 1 | 2 | +9.25 USD |
+| TeGeeLP | 2 | 2 | 1 | +7.82 USD |
+| Djdjdjekekek | 5 | 2 | 0 | +5.59 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -37,7 +38,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| Djdjdjekekek | 4 | 2 | 1 | +0.08 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | crisp1973 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 9 | 8 | 2 | -0.02 USD |
@@ -58,14 +58,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 742
-- **Aciertos:** 472 (63.6%)
+- **Apuestas resueltas:** 745
+- **Aciertos:** 474 (63.6%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,705.45
-- **ROI sobre lo apostado:** -2.27%
-- **Comisiones pagadas (taker fee):** $67.94 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.44% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,720.45
+- **ROI sobre lo apostado:** -2.11%
+- **Comisiones pagadas (taker fee):** $68.32 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -73,7 +73,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 370 | 46.5% | 50.1% | -3.6 pp |
+| 40-59% | 373 | 46.6% | 50.1% | -3.5 pp |
 | 60-79% | 230 | 74.8% | 67.8% | +7.0 pp |
 | 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 50 | 96.0% | 97.3% | -1.3 pp |
@@ -224,10 +224,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | crisp1973 | Will Al Qadisiyah Saudi Club win on 2026 | Yes (BUY) | 66% | 5.00 | 34.7% | ⏳ pendiente | — |
-| TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 992.8% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
+| TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | 💰 vendida anticipada | -1.43 |
+| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ❌ perdida | -5.12 |
+| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 992.8% | ✅ ganada | +5.51 |
+| Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 1.8% | ✅ ganada | +5.51 |
 | SDTrading | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. Miami Marlins | Washington Nationals (BUY) | 43% | 5.00 | 35.8% | ⏳ pendiente | — |
 |  | FC Tōkyō vs. JEF United Ichihara Chiba:  | Under (BUY) | 52% | 5.00 | 12.0% | ⏳ pendiente | — |

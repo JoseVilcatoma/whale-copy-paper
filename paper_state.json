@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.37993849647063,
+  "bankroll": 454.83922276574157,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3810,6 +3810,26 @@
       "timestamp": 1787315476.6372335,
       "bankroll": 450.38,
       "event": "venta anticipada: TeGeeLP \u2014 LoL: Anyone's Legend vs Team WE - Game 2 Winner (+7.05 USD)"
+    },
+    {
+      "timestamp": 1787316011.4392812,
+      "bankroll": 455.89,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787316011.5394309,
+      "bankroll": 461.39,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787316011.6395705,
+      "bankroll": 456.27,
+      "event": "lost: IMAREALPERSON \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787316064.8230069,
+      "bankroll": 454.84,
+      "event": "venta anticipada: TeGeeLP \u2014 LoL: Top Esports vs Bilibili Gaming - Game 1 Winner (-1.43 USD)"
     }
   ]
 }
