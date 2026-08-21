@@ -18781,5 +18781,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787298837.3041503,
     "fills": 1
+  },
+  {
+    "timestamp": 1787299070,
+    "timestamp_added": 1787299070.6840425,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-jdg-blg-2026-08-21",
+    "title": "Valorant: JD Gaming vs Bilibili Gaming (BO3) - VCT China Stage 2 Playoffs",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 986.2604,
+    "whale_pct": 6.199,
+    "whale_value_at_open": 15910.2937,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787299070.6840594,
+    "fills": 1
   }
 ]

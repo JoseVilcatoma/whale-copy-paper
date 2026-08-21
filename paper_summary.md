@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 02:57:02 (hora de Perú)
+Actualizado: 2026-08-21 02:59:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.38
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 02:57:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $347.38)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $342.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 16 | 1 | 0 | +28.01 USD |
-| casualbet2020 | 4 | 0 | 1 | +13.30 USD |
+| casualbet2020 | 4 | 0 | 2 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Lakersfan111 | 6 | 3 | 10 | +11.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -215,6 +215,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: JD Gaming vs Bilibili Gaming ( | JD Gaming (BUY) | 41% | 5.00 | 6.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 56% | 5.00 | 37.6% | ⏳ pendiente | — |
 |  | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 5.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 61% | 5.00 | 63.3% | ✅ ganada | +3.10 |
@@ -244,4 +245,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 51% | 5.00 | 0.6% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Cancun: Moise Kouame vs Roman Andres Bur | Moise Kouame (BUY) | 67% | 5.00 | 6.7% | ✅ ganada | +2.38 |
-|  | Indiana Fever vs. Dallas Wings | Dallas Wings (BUY) | 99% | 5.00 | 3.0% | ✅ ganada | +0.05 |
