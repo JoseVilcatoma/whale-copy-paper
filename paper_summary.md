@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 18:16:41 (hora de Perú)
+Actualizado: 2026-08-21 18:18:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $421.60
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 18:16:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $276.60)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $271.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
-| ferrariChampions2026 | 195 | 111 | 12 | -4.11 USD |
+| ferrariChampions2026 | 195 | 111 | 13 | -4.11 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
 | crisp1973 | 1 | 2 | 0 | -5.31 USD |
@@ -238,10 +238,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 54% | 5.00 | 4.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA San Lorenzo de Almagro (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA San Lorenzo de Almagro (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Texas Rangers: O/ | Over (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Golden State Valkyries (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Lynx vs. Washington Mystics | Minnesota Lynx (BUY) | 56% | 5.00 | 4.0% | ⏳ pendiente | — |
@@ -267,4 +268,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Valorant: BBL Esports vs FUT Esports (BO | BBL Esports (BUY) | 50% | 5.00 | 6.9% | ❌ perdida | -5.12 |
 | Djdjdjekekek | Valorant: BBL Esports vs FUT Esports (BO | FUT Esports (BUY) | 50% | 5.00 | 705.8% | ✅ ganada | +4.88 |
 | Djdjdjekekek | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 51% | 5.00 | 3574.0% | ❌ perdida | -5.12 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere (BO3 | Team Vitality (BUY) | 55% | 5.00 | 93.5% | 💰 vendida anticipada | +3.41 |
