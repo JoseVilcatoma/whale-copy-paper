@@ -16817,8 +16817,8 @@
     "title": "Game Handicap: BB (-1.5) vs Iron Wing (+1.5)",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 11566.640225000001,
-    "whale_pct": 5.29,
+    "whale_usd": 12267.884912000001,
+    "whale_pct": 5.611,
     "whale_value_at_open": 218652.7796,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -16829,8 +16829,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787264462.9655,
-    "fills": 4
+    "last_fill_at": 1787276962.264374,
+    "fills": 5
   },
   {
     "timestamp": 1787264298,
