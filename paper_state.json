@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.45566721018605,
+  "bankroll": 441.34066721018604,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3845,6 +3845,11 @@
       "timestamp": 1787316642.7870183,
       "bankroll": 446.46,
       "event": "lost: IMAREALPERSON \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787317456.1075296,
+      "bankroll": 441.34,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group"
     }
   ]
 }

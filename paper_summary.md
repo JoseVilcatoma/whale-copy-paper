@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 08:02:20 (hora de Perú)
+Actualizado: 2026-08-21 08:04:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $446.46
-**Retorno acumulado:** -10.71%
+**Bankroll actual:** $441.34
+**Retorno acumulado:** -11.73%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 08:02:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $301.46)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $301.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,11 +43,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 9 | 8 | 4 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 3 | 3 | 3 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | ChonkyChocolateCake | 5 | 4 | 0 | -4.44 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 3 | 4 | 2 | -7.78 USD |
 | ferrariChampions2026 | 190 | 108 | 0 | -7.93 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
@@ -58,14 +58,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 748
-- **Aciertos:** 475 (63.5%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 749
+- **Aciertos:** 475 (63.4%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,735.45
-- **ROI sobre lo apostado:** -2.32%
-- **Comisiones pagadas (taker fee):** $68.65 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,740.45
+- **ROI sobre lo apostado:** -2.46%
+- **Comisiones pagadas (taker fee):** $68.77 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -73,7 +73,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 375 | 46.4% | 50.1% | -3.7 pp |
+| 40-59% | 376 | 46.3% | 50.1% | -3.8 pp |
 | 60-79% | 231 | 74.9% | 67.8% | +7.0 pp |
 | 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 50 | 96.0% | 97.3% | -1.3 pp |
@@ -245,7 +245,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | LoL: KT Rolster vs T1 (BO3) - LCK Round  | T1 (BUY) | 72% | 5.00 | 237.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Anyone's Legend vs Team WE - Game 2 | Anyone's Legend (BUY) | 58% | 5.00 | 18.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 49% | 5.00 | 15.4% | ❌ perdida | -5.13 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO3) - L | HANJIN BRION (BUY) | 54% | 5.00 | 17.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO3) - L | HANJIN BRION (BUY) | 54% | 5.00 | 17.6% | ❌ perdida | -5.12 |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 41% | 5.00 | 1.9% | 💰 vendida anticipada | +7.05 |
 |  | Arsenal FC vs. Coventry City FC: O/U 3.5 | Under (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 1 | Team WE (BUY) | 47% | 5.00 | 3.8% | ⏳ pendiente | — |
