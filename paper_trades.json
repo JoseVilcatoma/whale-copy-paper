@@ -19952,8 +19952,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 4264.8736,
-    "whale_pct": 0.939,
+    "whale_usd": 11357.682,
+    "whale_pct": 2.502,
     "whale_value_at_open": 454015.005,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -19964,8 +19964,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787320498.1148632,
-    "fills": 1
+    "last_fill_at": 1787320653.1710966,
+    "fills": 3
   },
   {
     "timestamp": 1787320497,
@@ -19976,8 +19976,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 14213.0916,
-    "whale_pct": 10.243,
+    "whale_usd": 248472.167236,
+    "whale_pct": 179.074,
     "whale_value_at_open": 138754.0039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -19990,7 +19990,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787320500.0499728,
-    "fills": 8
+    "last_fill_at": 1787320657.876998,
+    "fills": 26
   }
 ]
