@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 23:20:51 (hora de Perú)
+Actualizado: 2026-08-20 23:22:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $445.74
-**Retorno acumulado:** -10.85%
+**Bankroll actual:** $450.24
+**Retorno acumulado:** -9.95%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 23:20:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $280.74)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $290.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,9 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| ferrariChampions2026 | 181 | 102 | 10 | -9.60 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| ferrariChampions2026 | 180 | 102 | 11 | -14.10 USD |
 | Sassy-Bucket | 6 | 9 | 1 | -18.80 USD |
 |  | 19 | 12 | 2 | -20.62 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
@@ -56,14 +56,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 696
-- **Aciertos:** 445 (63.9%)
-- **Cuota promedio de entrada:** 63.7%
+- **Apuestas resueltas:** 697
+- **Aciertos:** 446 (64.0%)
+- **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,475.45
-- **ROI sobre lo apostado:** -2.20%
-- **Comisiones pagadas (taker fee):** $63.17 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.39% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,480.45
+- **ROI sobre lo apostado:** -2.07%
+- **Comisiones pagadas (taker fee):** $63.29 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 337 | 46.3% | 50.1% | -3.8 pp |
+| 40-59% | 338 | 46.4% | 50.1% | -3.7 pp |
 | 60-79% | 224 | 74.6% | 67.9% | +6.7 pp |
 | 80-94% | 87 | 86.2% | 86.8% | -0.6 pp |
 | 95-99% (casi seguro) | 48 | 97.9% | 97.2% | +0.7 pp |
@@ -219,7 +219,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 6.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 10.5% | ✅ ganada | +2.38 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 43% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Botafogo FR vs. CS Cienciano: O/U 1.5 | Under (BUY) | 66% | 5.00 | 0.3% | ⏳ pendiente | — |

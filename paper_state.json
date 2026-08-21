@@ -1,5 +1,5 @@
 {
-  "bankroll": 445.7442566576716,
+  "bankroll": 450.23964127305624,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3550,6 +3550,11 @@
       "timestamp": 1787282831.8455675,
       "bankroll": 445.74,
       "event": "lost:  \u2014 Dota 2: Iron Wing vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787286151.8736408,
+      "bankroll": 450.24,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Dream vs. Los Angeles Sparks: O/U 180.5"
     }
   ]
 }
