@@ -20184,8 +20184,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 25722.209488000004,
-    "whale_pct": 231.087,
+    "whale_usd": 29000.022688000005,
+    "whale_pct": 260.535,
     "whale_value_at_open": 11130.9427,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -20196,8 +20196,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787323071.1917658,
-    "fills": 4
+    "last_fill_at": 1787326146.1171572,
+    "fills": 5
   },
   {
     "timestamp": 1787322929,
@@ -20300,5 +20300,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787325596.8161714,
     "fills": 1
+  },
+  {
+    "timestamp": 1787326094,
+    "timestamp_added": 1787326094.9029167,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-th-sk-2026-08-21-game1",
+    "title": "LoL: Team Heretics vs SK Gaming - Game 1 Winner",
+    "outcome": "Team Heretics",
+    "side": "BUY",
+    "whale_usd": 3056.3314,
+    "whale_pct": 4.476,
+    "whale_value_at_open": 68276.2574,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787326158.4175093,
+    "fills": 2
   }
 ]
