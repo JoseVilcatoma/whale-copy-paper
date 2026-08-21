@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.88048019280274,
+  "bankroll": 481.7092015042781,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3440,6 +3440,21 @@
       "timestamp": 1787277931.9527888,
       "bankroll": 488.88,
       "event": "won:  \u2014 Quebec City: Jacob Fearnley vs Alexis Galarneau"
+    },
+    {
+      "timestamp": 1787278119.0249324,
+      "bankroll": 483.73,
+      "event": "lost: Sassy-Bucket \u2014 New York Yankees vs. Baltimore Orioles: O/U 8.5"
+    },
+    {
+      "timestamp": 1787278123.4182343,
+      "bankroll": 478.61,
+      "event": "lost: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles: O/U 8.5"
+    },
+    {
+      "timestamp": 1787278123.7905257,
+      "bankroll": 481.71,
+      "event": "won: ferrariChampions2026 \u2014 New York Yankees vs. Baltimore Orioles: O/U 8.5"
     }
   ]
 }

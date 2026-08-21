@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:07:26 (hora de Perú)
+Actualizado: 2026-08-20 21:09:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.88
-**Retorno acumulado:** -2.22%
+**Bankroll actual:** $481.71
+**Retorno acumulado:** -3.66%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 21:07:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $288.88)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $296.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| ferrariChampions2026 | 173 | 96 | 15 | +4.93 USD |
+| ferrariChampions2026 | 174 | 97 | 13 | +2.91 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -46,23 +46,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Sassy-Bucket | 6 | 7 | 3 | -8.52 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 |  | 17 | 10 | 4 | -11.53 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+| Sassy-Bucket | 6 | 8 | 2 | -13.67 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 10 | 1 | -21.92 USD |
 | RN1 | 107 | 55 | 2 | -57.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 674
-- **Aciertos:** 435 (64.5%)
-- **Cuota promedio de entrada:** 63.7%
+- **Apuestas resueltas:** 677
+- **Aciertos:** 436 (64.4%)
+- **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,365.45
-- **ROI sobre lo apostado:** -0.99%
-- **Comisiones pagadas (taker fee):** $61.16 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.82% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,380.45
+- **ROI sobre lo apostado:** -1.20%
+- **Comisiones pagadas (taker fee):** $61.53 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -70,8 +70,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 327 | 47.4% | 50.1% | -2.7 pp |
-| 60-79% | 217 | 75.1% | 68.0% | +7.2 pp |
+| 40-59% | 329 | 47.1% | 50.1% | -3.0 pp |
+| 60-79% | 218 | 75.2% | 67.9% | +7.3 pp |
 | 80-94% | 83 | 85.5% | 86.8% | -1.3 pp |
 | 95-99% (casi seguro) | 47 | 97.9% | 97.2% | +0.7 pp |
 
@@ -218,10 +218,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 91% | 5.00 | 4.1% | 💰 vendida anticipada | +0.47 |
 | Lakersfan111 | Games Total: O/U 2.5 | Under (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Los Angeles Angels vs. Houston Astros | Houston Astros (BUY) | 64% | 5.00 | 6.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 61% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 61% | 5.00 | 3.2% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Under (BUY) | 51% | 5.00 | 2.2% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Over (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 51% | 5.00 | 7.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 51% | 5.00 | 7.5% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Indiana Fever vs. Dallas Wings: O/U 185. | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces: O/U  | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
