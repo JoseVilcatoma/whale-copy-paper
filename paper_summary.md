@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 11:06:26 (hora de Perú)
+Actualizado: 2026-08-21 11:08:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $392.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 11:06:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $167.20)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $157.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 19 | 2 | -49.09 USD |
-| RN1 | 108 | 55 | 14 | -57.10 USD |
+| RN1 | 108 | 55 | 16 | -57.10 USD |
 
 ## Análisis general
 
@@ -231,6 +231,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Ana Grubor vs Els | Elsa Bonelli (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 5.5 | Under (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will Al Riyadh Saudi Club win on 2026-08 | No (BUY) | 94% | 5.00 | 1.0% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 2 | SK Gaming (BUY) | 63% | 5.00 | 8.3% | ⏳ pendiente | — |
@@ -259,5 +261,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 52% | 5.00 | 3.9% | ✅ ganada | +4.50 |
 | Djdjdjekekek | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 51% | 5.00 | 199.9% | ✅ ganada | +4.68 |
-| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Team Falcons (BUY) | 53% | 5.00 | 7.3% | ❌ perdida | -5.12 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 519.4% | ⏳ pendiente | — |
