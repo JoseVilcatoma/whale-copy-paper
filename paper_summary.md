@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 09:12:27 (hora de Perú)
+Actualizado: 2026-08-21 09:14:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $429.35
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 09:12:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $264.35)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $254.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 5 | 4 | 0 | -4.44 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 190 | 108 | 4 | -7.93 USD |
+| ferrariChampions2026 | 190 | 108 | 6 | -7.93 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 5 | 1 | -9.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
@@ -206,7 +206,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5 | Lakersfan111, casualbet2020, ferrariChampions2026 |
 | atp-magadan-wong-2026-08-20 | , RN1, ferrariChampions2026 |
 | dota2-liquid-flc-2026-08-21 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, IMAREALPERSON, Lakersfan111, ferrariChampions2026 |
-| dota2-ty-ngx-2026-08-21 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, Lakersfan111 |
+| dota2-ty-ngx-2026-08-21 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, Lakersfan111, ferrariChampions2026 |
 | sud-mac-san-2026-08-20-mac | RN1, ferrariChampions2026 |
 | cs2-fut-mouz-2026-08-21 | ExplosiveNinja, Lakersfan111 |
 | mlb-laa-hou-2026-08-20 | , ferrariChampions2026 |
@@ -227,6 +227,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 64% | 5.00 | 2.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 49% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Team Falcons (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -255,5 +257,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 41% | 5.00 | 19.6% | 💰 vendida anticipada | -0.54 |
 |  | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ❌ perdida | -5.11 |
-| casualbet2020 | LoL: KT Rolster vs T1 (BO3) - LCK Round  | T1 (BUY) | 72% | 5.00 | 237.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Anyone's Legend vs Team WE - Game 2 | Anyone's Legend (BUY) | 58% | 5.00 | 18.0% | ⏳ pendiente | — |

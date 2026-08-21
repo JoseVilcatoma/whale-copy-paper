@@ -20069,5 +20069,59 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787320899.0534768,
     "fills": 1
+  },
+  {
+    "timestamp": 1787321603,
+    "timestamp_added": 1787321603.930739,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "cs2-lgc-fal2-2026-08-21-map-handicap-home-1pt5",
+    "title": "Map Handicap: FAL (-1.5) vs Legacy (+1.5)",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 504.81710699999996,
+    "whale_pct": 0.104,
+    "whale_value_at_open": 485026.1324,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111",
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787321603.9307497,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787321636,
+    "timestamp_added": 1787321637.263199,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "dota2-ty-ngx-2026-08-21",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 13809.6126,
+    "whale_pct": 2.847,
+    "whale_value_at_open": 485026.1324,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787321637.2632086,
+    "fills": 1
   }
 ]
