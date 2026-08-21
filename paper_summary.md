@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 12:30:44 (hora de Perú)
+Actualizado: 2026-08-21 12:32:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $403.58
-**Retorno acumulado:** -19.28%
+**Bankroll actual:** $401.66
+**Retorno acumulado:** -19.67%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 12:30:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $153.58)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $161.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| BOOMBOYS.Kiritych | 2 | 1 | 3 | +1.22 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -41,9 +40,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
+| ChonkyChocolateCake | 6 | 4 | 3 | -1.21 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| ChonkyChocolateCake | 5 | 4 | 4 | -4.44 USD |
+| BOOMBOYS.Kiritych | 2 | 2 | 2 | -3.93 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
 | Lakersfan111 | 8 | 8 | 3 | -6.60 USD |
@@ -59,14 +59,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 778
-- **Aciertos:** 489 (62.9%)
+- **Apuestas resueltas:** 780
+- **Aciertos:** 490 (62.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,885.45
-- **ROI sobre lo apostado:** -3.39%
-- **Comisiones pagadas (taker fee):** $71.43 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.55% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,895.45
+- **ROI sobre lo apostado:** -3.43%
+- **Comisiones pagadas (taker fee):** $71.68 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.59% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -74,8 +74,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 390 | 46.2% | 50.1% | -4.0 pp |
-| 60-79% | 241 | 73.4% | 67.8% | +5.6 pp |
+| 40-59% | 391 | 46.0% | 50.1% | -4.1 pp |
+| 60-79% | 242 | 73.6% | 67.8% | +5.8 pp |
 | 80-94% | 95 | 86.3% | 86.8% | -0.4 pp |
 | 95-99% (casi seguro) | 52 | 96.2% | 97.3% | -1.2 pp |
 
@@ -247,8 +247,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 17.4% | ⏳ pendiente | — |
-| MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ⏳ pendiente | — |
+| MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
+| BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ❌ perdida | -5.15 |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 51% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |

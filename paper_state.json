@@ -1,5 +1,5 @@
 {
-  "bankroll": 403.5764632072127,
+  "bankroll": 401.66179654054605,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4010,6 +4010,16 @@
       "timestamp": 1787332850.9963443,
       "bankroll": 403.58,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Natus Vincere - Game 1 Winner (+3.20 USD)"
+    },
+    {
+      "timestamp": 1787333563.74737,
+      "bankroll": 398.43,
+      "event": "lost: BOOMBOYS.Kiritych \u2014 Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787333563.8476386,
+      "bankroll": 401.66,
+      "event": "won: MisterVision \u2014 Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner"
     }
   ]
 }
