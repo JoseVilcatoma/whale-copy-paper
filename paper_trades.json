@@ -18217,8 +18217,8 @@
     "title": "Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 8657.308622,
-    "whale_pct": 3.906,
+    "whale_usd": 9588.125522,
+    "whale_pct": 4.326,
     "whale_value_at_open": 221657.698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -18232,8 +18232,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787279822.4871113,
-    "fills": 4
+    "last_fill_at": 1787281572.2301037,
+    "fills": 5
   },
   {
     "timestamp": 1787280127,
@@ -18284,6 +18284,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787281352.2445726,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787281628,
+    "timestamp_added": 1787281629.2050924,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "lol-vit-navi-2026-08-21-game-handicap-away-1pt5",
+    "title": "Game Handicap: VIT (-1.5) vs Natus Vincere (+1.5)",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 2070.0,
+    "whale_pct": 0.444,
+    "whale_value_at_open": 466082.5274,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787281629.2051048,
     "fills": 1
   }
 ]
