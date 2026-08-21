@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 19:58:44 (hora de Perú)
+Actualizado: 2026-08-20 20:00:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.98
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 19:58:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $207.98)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $202.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 13 | 1 | 0 | +19.00 USD |
-| Lakersfan111 | 3 | 0 | 12 | +16.77 USD |
+| Lakersfan111 | 3 | 0 | 13 | +16.77 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -203,6 +203,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Lakersfan111 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Cancun: Alan Magadan vs Coleman Wong | Alan Magadan (BUY) | 42% | 5.00 | 5.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tirante (+1 | Tirante (BUY) | 49% | 5.00 | 33.4% | ⏳ pendiente | — |
 | Djdjdjekekek | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 91% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -224,7 +225,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will CSyD Macará win on 2026-08-20? | No (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will CSyD Macará win on 2026-08-20? | Yes (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
-| Lakersfan111 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Lakersfan111 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 62% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Elena Rybakina (BUY) | 44% | 5.00 | 3.5% | ⏳ pendiente | — |
 | RN1 | Will CR Vasco da Gama win on 2026-08-20? | No (BUY) | 42% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -232,4 +233,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Cancun: Alan Magadan vs Coleman Wong | Coleman Wong (BUY) | 85% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | New York Yankees vs. Baltimore Orioles:  | Over (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | New York Yankees vs. Baltimore Orioles | New York Yankees (BUY) | 51% | 5.00 | 4.7% | ⏳ pendiente | — |

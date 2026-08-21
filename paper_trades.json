@@ -17287,8 +17287,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 1838.226,
-    "whale_pct": 0.811,
+    "whale_usd": 2441.797428,
+    "whale_pct": 1.077,
     "whale_value_at_open": 226800.3083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -17299,8 +17299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787267638.993812,
-    "fills": 2
+    "last_fill_at": 1787273936.4120595,
+    "fills": 3
   },
   {
     "timestamp": 1787267640,
@@ -17831,5 +17831,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787273711.2222037,
     "fills": 2
+  },
+  {
+    "timestamp": 1787273958,
+    "timestamp_added": 1787273958.8301244,
+    "username": "Lakersfan111",
+    "wallet": "0x6ac5bb06a9eb05641fd5e82640268b92f3ab4b6e",
+    "slug": "cs2-lgc-fal2-2026-08-21",
+    "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 925.0,
+    "whale_pct": 0.359,
+    "whale_value_at_open": 257425.2535,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787273958.8301387,
+    "fills": 1
   }
 ]
