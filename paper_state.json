@@ -1,5 +1,5 @@
 {
-  "bankroll": 457.9492661037613,
+  "bankroll": 457.99677115426636,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3495,6 +3495,11 @@
       "timestamp": 1787280635.0309389,
       "bankroll": 457.95,
       "event": "lost: ferrariChampions2026 \u2014 Indiana Fever vs. Dallas Wings: O/U 185.5"
+    },
+    {
+      "timestamp": 1787280692.4789689,
+      "bankroll": 458.0,
+      "event": "won:  \u2014 Indiana Fever vs. Dallas Wings"
     }
   ]
 }
