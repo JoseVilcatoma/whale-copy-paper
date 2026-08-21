@@ -20434,8 +20434,8 @@
     "title": "Will Al Diraiyah Saudi Club win on 2026-08-21?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 12641.6153,
-    "whale_pct": 45.328,
+    "whale_usd": 22350.957325,
+    "whale_pct": 80.142,
     "whale_value_at_open": 27889.3515,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -20446,8 +20446,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787327331.9227881,
-    "fills": 4
+    "last_fill_at": 1787327380.458428,
+    "fills": 11
   },
   {
     "timestamp": 1787327324,
@@ -20458,8 +20458,8 @@
     "title": "Will Al Diraiyah Saudi Club win on 2026-08-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2550.0,
-    "whale_pct": 2.705,
+    "whale_usd": 4309.5,
+    "whale_pct": 4.571,
     "whale_value_at_open": 94279.0133,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -20472,7 +20472,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787327324.702685,
-    "fills": 1
+    "last_fill_at": 1787327378.9723148,
+    "fills": 2
   }
 ]

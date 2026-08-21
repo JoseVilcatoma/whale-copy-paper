@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 10:48:55 (hora de Perú)
+Actualizado: 2026-08-21 10:50:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $412.51
@@ -230,8 +230,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
-| crisp1973 | Will Al Diraiyah Saudi Club win on 2026- | Yes (BUY) | 50% | 5.00 | 45.3% | ⏳ pendiente | — |
+| RN1 | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 52% | 5.00 | 4.6% | ⏳ pendiente | — |
+| crisp1973 | Will Al Diraiyah Saudi Club win on 2026- | Yes (BUY) | 50% | 5.00 | 80.1% | ⏳ pendiente | — |
 | RN1 | Will Seinajoen JK vs. FC Lahti end in a  | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Lambermont Men: Deney Wassermann | Romain Faucon (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
