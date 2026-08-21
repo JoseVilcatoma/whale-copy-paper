@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 23:59:55 (hora de Perú)
+Actualizado: 2026-08-21 00:01:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $448.59
@@ -213,7 +213,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 57% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 55% | 5.00 | 15.8% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 61% | 5.00 | 20.6% | ⏳ pendiente | — |
 |  | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | casualbet2020 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 55% | 5.00 | 23.4% | ⏳ pendiente | — |
