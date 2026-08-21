@@ -18940,8 +18940,8 @@
     "title": "LoL: EDward Gaming vs ThunderTalk Gaming - Game 2 Winner",
     "outcome": "EDward Gaming",
     "side": "BUY",
-    "whale_usd": 2483.1,
-    "whale_pct": 3.759,
+    "whale_usd": 7557.118,
+    "whale_pct": 11.439,
     "whale_value_at_open": 66065.9413,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -18954,7 +18954,35 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787300508.4307625,
+    "last_fill_at": 1787300548.5107765,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787300581,
+    "timestamp_added": 1787300582.1875205,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-liquid-flc-2026-08-21-game2",
+    "title": "Dota 2: Team Liquid vs Team Falcons - Game 2 Winner",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 510.35180800000006,
+    "whale_pct": 3.877,
+    "whale_value_at_open": 13165.1404,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787300582.1875362,
     "fills": 1
   }
 ]
