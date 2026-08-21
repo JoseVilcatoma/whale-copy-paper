@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.13666760908086,
+  "bankroll": 443.3328165452511,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3795,6 +3795,16 @@
       "timestamp": 1787313155.6429543,
       "bankroll": 448.14,
       "event": "won: casualbet2020 \u2014 Valorant: JD Gaming vs Bilibili Gaming (BO3) - VCT China Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1787315310.3700502,
+      "bankroll": 443.03,
+      "event": "lost:  \u2014 ITF W50 Prague Women: Alena Kovackova vs Jana Kovackova"
+    },
+    {
+      "timestamp": 1787315310.570442,
+      "bankroll": 443.33,
+      "event": "won:  \u2014 ITF W50 Prague Women: Alena Kovackova vs Jana Kovackova"
     }
   ]
 }

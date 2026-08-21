@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 07:27:13 (hora de Perú)
+Actualizado: 2026-08-21 07:29:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $448.14
-**Retorno acumulado:** -10.37%
+**Bankroll actual:** $443.33
+**Retorno acumulado:** -11.33%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 07:27:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $293.14)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $298.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,19 +52,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
-|  | 23 | 16 | 6 | -34.10 USD |
+|  | 24 | 17 | 4 | -38.91 USD |
 | RN1 | 108 | 55 | 1 | -57.10 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 740
-- **Aciertos:** 471 (63.6%)
+- **Apuestas resueltas:** 742
+- **Aciertos:** 472 (63.6%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,695.45
-- **ROI sobre lo apostado:** -2.15%
-- **Comisiones pagadas (taker fee):** $67.81 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.31% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,705.45
+- **ROI sobre lo apostado:** -2.27%
+- **Comisiones pagadas (taker fee):** $67.94 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.44% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -72,9 +72,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 369 | 46.6% | 50.1% | -3.5 pp |
+| 40-59% | 370 | 46.5% | 50.1% | -3.6 pp |
 | 60-79% | 230 | 74.8% | 67.8% | +7.0 pp |
-| 80-94% | 91 | 86.8% | 86.8% | +0.0 pp |
+| 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 50 | 96.0% | 97.3% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -228,10 +228,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
 | SDTrading | Washington Nationals vs. Miami Marlins | Washington Nationals (BUY) | 43% | 5.00 | 35.8% | ⏳ pendiente | — |
 |  | FC Tōkyō vs. JEF United Ichihara Chiba:  | Under (BUY) | 52% | 5.00 | 12.0% | ⏳ pendiente | — |
-|  | ITF W50 Prague Women: Alena Kovackova vs | Jana Kovackova (BUY) | 94% | 5.00 | 1.3% | ⏳ pendiente | — |
+|  | ITF W50 Prague Women: Alena Kovackova vs | Jana Kovackova (BUY) | 94% | 5.00 | 1.3% | ✅ ganada | +0.30 |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 41% | 5.00 | 19.6% | 💰 vendida anticipada | -0.54 |
 |  | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
-|  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
+|  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ❌ perdida | -5.11 |
 | casualbet2020 | LoL: KT Rolster vs T1 (BO3) - LCK Round  | T1 (BUY) | 72% | 5.00 | 237.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Anyone's Legend vs Team WE - Game 2 | Anyone's Legend (BUY) | 58% | 5.00 | 18.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 49% | 5.00 | 15.4% | ❌ perdida | -5.13 |
