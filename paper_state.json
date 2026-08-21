@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.1796491878194,
+  "bankroll": 449.2383462150174,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3650,6 +3650,21 @@
       "timestamp": 1787292138.9573689,
       "bankroll": 453.18,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787294950.3016272,
+      "bankroll": 454.02,
+      "event": "won: RN1 \u2014 Cancun: Alan Magadan vs Coleman Wong"
+    },
+    {
+      "timestamp": 1787294951.1918776,
+      "bankroll": 454.38,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Alan Magadan vs Coleman Wong"
+    },
+    {
+      "timestamp": 1787294951.55564,
+      "bankroll": 449.24,
+      "event": "lost:  \u2014 Cancun: Alan Magadan vs Coleman Wong"
     }
   ]
 }
