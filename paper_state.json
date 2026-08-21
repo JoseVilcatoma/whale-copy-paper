@@ -1,5 +1,5 @@
 {
-  "bankroll": 413.2136495939043,
+  "bankroll": 417.0322210224757,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4060,6 +4060,11 @@
       "timestamp": 1787336327.8696706,
       "bankroll": 413.21,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs (+2.31 USD)"
+    },
+    {
+      "timestamp": 1787336952.2487724,
+      "bankroll": 417.03,
+      "event": "won: IMAREALPERSON \u2014 Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs"
     }
   ]
 }
