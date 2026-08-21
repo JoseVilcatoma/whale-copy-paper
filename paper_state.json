@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.8134359599281,
+  "bankroll": 454.65778890110454,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3765,6 +3765,11 @@
       "timestamp": 1787310359.6790314,
       "bankroll": 453.81,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner (-0.54 USD)"
+    },
+    {
+      "timestamp": 1787310944.1058767,
+      "bankroll": 454.66,
+      "event": "won:  \u2014 ITF W35 Bistrita Women: Jessica Pieri vs Marie Mettraux"
     }
   ]
 }
