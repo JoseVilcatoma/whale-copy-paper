@@ -19777,8 +19777,8 @@
     "title": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 2098.922222,
-    "whale_pct": 18.325,
+    "whale_usd": 2648.922222,
+    "whale_pct": 23.127,
     "whale_value_at_open": 11453.917,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -19789,8 +19789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787321021.6443782,
-    "fills": 3
+    "last_fill_at": 1787321366.4176571,
+    "fills": 4
   },
   {
     "timestamp": 1787317203,
@@ -19952,8 +19952,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 22168.311850000002,
-    "whale_pct": 4.883,
+    "whale_usd": 31220.980840000004,
+    "whale_pct": 6.877,
     "whale_value_at_open": 454015.005,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -19964,8 +19964,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787321093.9366279,
-    "fills": 7
+    "last_fill_at": 1787321336.737094,
+    "fills": 13
   },
   {
     "timestamp": 1787320497,
@@ -20002,8 +20002,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 4096.014,
-    "whale_pct": 0.877,
+    "whale_usd": 5071.675016,
+    "whale_pct": 1.086,
     "whale_value_at_open": 467208.5297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -20016,8 +20016,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787320734.6086318,
-    "fills": 2
+    "last_fill_at": 1787321333.9223034,
+    "fills": 3
   },
   {
     "timestamp": 1787320802,
