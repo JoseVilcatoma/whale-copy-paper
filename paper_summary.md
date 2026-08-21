@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 23:24:55 (hora de Perú)
+Actualizado: 2026-08-20 23:26:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $450.24
@@ -218,7 +218,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Lakersfan111 | Game Handicap: VIT (-1.5) vs Natus Vince | Natus Vincere (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 82% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 6.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | Iron Wing (BUY) | 57% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Atlanta Dream vs. Los Angeles Sparks: O/ | Over (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | Iron Wing (BUY) | 67% | 5.00 | 10.5% | ✅ ganada | +2.38 |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 43% | 5.00 | 1.4% | ❌ perdida | -5.14 |
