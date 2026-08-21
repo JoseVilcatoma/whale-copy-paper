@@ -20828,8 +20828,8 @@
     "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 161057.02121400004,
-    "whale_pct": 52.321,
+    "whale_usd": 189560.18303600006,
+    "whale_pct": 61.58,
     "whale_value_at_open": 307826.9354,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -20843,8 +20843,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787334154.1523533,
-    "fills": 43
+    "last_fill_at": 1787334232.2849953,
+    "fills": 50
   },
   {
     "timestamp": 1787330015,
@@ -21178,8 +21178,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 23709.135299999998,
-    "whale_pct": 4.323,
+    "whale_usd": 32837.789706999996,
+    "whale_pct": 5.987,
     "whale_value_at_open": 548464.4057,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -21196,7 +21196,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787334179.0640893,
-    "fills": 5
+    "last_fill_at": 1787334234.7736995,
+    "fills": 9
   }
 ]
