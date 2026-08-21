@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 02:48:47 (hora de Perú)
+Actualizado: 2026-08-21 02:50:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $449.24
-**Retorno acumulado:** -10.15%
+**Bankroll actual:** $447.38
+**Retorno acumulado:** -10.52%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 02:48:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $334.24)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $352.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,13 +22,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 15 | 1 | 1 | +24.91 USD |
+| IMAREALPERSON | 16 | 1 | 0 | +28.01 USD |
 | casualbet2020 | 4 | 0 | 1 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Lakersfan111 | 6 | 3 | 10 | +11.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| Djdjdjekekek | 2 | 0 | 2 | +3.70 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -41,12 +40,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 9 | 8 | 0 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 4 | 3 | 0 | -1.19 USD |
+| Djdjdjekekek | 2 | 1 | 1 | -1.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
+| ferrariChampions2026 | 189 | 107 | 2 | -6.78 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 188 | 106 | 4 | -6.94 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
@@ -56,14 +56,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 717
-- **Aciertos:** 458 (63.9%)
+- **Apuestas resueltas:** 721
+- **Aciertos:** 460 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,580.45
-- **ROI sobre lo apostado:** -2.14%
-- **Comisiones pagadas (taker fee):** $65.31 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,600.45
+- **ROI sobre lo apostado:** -2.18%
+- **Comisiones pagadas (taker fee):** $65.78 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,8 +71,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 352 | 46.3% | 50.1% | -3.8 pp |
-| 60-79% | 226 | 74.8% | 67.9% | +6.9 pp |
+| 40-59% | 355 | 46.2% | 50.1% | -3.9 pp |
+| 60-79% | 227 | 74.9% | 67.8% | +7.1 pp |
 | 80-94% | 90 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 49 | 98.0% | 97.3% | +0.7 pp |
 
@@ -215,13 +215,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 5.7% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 61% | 5.00 | 63.3% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 61% | 5.00 | 63.3% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 49% | 5.00 | 9.4% | ⏳ pendiente | — |
 |  | Will FC Dinamo Batumi win on 2026-08-21? | Yes (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 48% | 5.00 | 17.5% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 146.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 48% | 5.00 | 17.5% | ✅ ganada | +5.29 |
+| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 146.7% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 49% | 5.00 | 14.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 49% | 5.00 | 14.8% | ❌ perdida | -5.13 |
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 4.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ✅ ganada | +5.51 |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |

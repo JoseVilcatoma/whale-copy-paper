@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.2383462150174,
+  "bankroll": 447.37873419315946,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3665,6 +3665,26 @@
       "timestamp": 1787294951.55564,
       "bankroll": 449.24,
       "event": "lost:  \u2014 Cancun: Alan Magadan vs Coleman Wong"
+    },
+    {
+      "timestamp": 1787298646.7735984,
+      "bankroll": 444.11,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787298646.9738965,
+      "bankroll": 438.99,
+      "event": "lost: Djdjdjekekek \u2014 Dota 2: Team Liquid vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787298647.0740721,
+      "bankroll": 444.28,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: Team Liquid vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787298647.6376717,
+      "bankroll": 447.38,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Falcons - Game 1 Winner"
     }
   ]
 }
