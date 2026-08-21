@@ -20828,8 +20828,8 @@
     "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 48447.467572,
-    "whale_pct": 15.739,
+    "whale_usd": 53451.624029000006,
+    "whale_pct": 17.364,
     "whale_value_at_open": 307826.9354,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -20843,8 +20843,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787330114.9034443,
-    "fills": 9
+    "last_fill_at": 1787330198.8226767,
+    "fills": 11
   },
   {
     "timestamp": 1787330015,
@@ -20868,6 +20868,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787330016.0290563,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787330195,
+    "timestamp_added": 1787330196.1602094,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-vit-ts7-2026-08-21-game1",
+    "title": "Counter-Strike: Vitality vs Spirit - Map 1 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 3549.57,
+    "whale_pct": 1.052,
+    "whale_value_at_open": 337348.0381,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787330196.1602266,
     "fills": 1
   }
 ]
