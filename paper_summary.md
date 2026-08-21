@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 05:52:30 (hora de Perú)
+Actualizado: 2026-08-21 05:54:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.35
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 05:52:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $304.35)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $299.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 17 | 2 | 1 | +26.24 USD |
+| IMAREALPERSON | 17 | 2 | 2 | +26.24 USD |
 | Lakersfan111 | 7 | 3 | 9 | +16.04 USD |
 | casualbet2020 | 4 | 0 | 3 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -215,11 +215,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-edg-tt-2026-08-21-game2 | MisterVision, TeGeeLP |
 | lol-bro2-fox1-2026-08-21-game1 | IMAREALPERSON, MisterVision |
 | lol-al-we-2026-08-21-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TeGeeLP |
+| dota2-ts8-vsn2-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 41% | 5.00 | 7.3% | ⏳ pendiente | — |
 |  | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 75% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | ITF W50 Prague Women: Alena Kovackova vs | Alena Kovackova (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | LoL: KT Rolster vs T1 (BO3) - LCK Round  | T1 (BUY) | 72% | 5.00 | 237.9% | ⏳ pendiente | — |
@@ -249,4 +251,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 5.7% | ✅ ganada | +4.32 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 61% | 5.00 | 63.3% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 49% | 5.00 | 9.4% | ❌ perdida | -5.13 |
-|  | Will FC Dinamo Batumi win on 2026-08-21? | Yes (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
