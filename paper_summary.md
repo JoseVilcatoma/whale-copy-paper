@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 18:08:26 (hora de Perú)
+Actualizado: 2026-08-21 18:10:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $421.60
@@ -247,7 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 48% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 41% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Sassy-Bucket | San Francisco Giants vs. Boston Red Sox: | Over (BUY) | 48% | 5.00 | 14.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: MIBR vs Team Envy (BO3) - VCT  | MIBR (BUY) | 68% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: MIBR vs Team Envy (BO3) - VCT  | MIBR (BUY) | 68% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cancun: Roman Safiullin vs Hubert Hurkac | Hubert Hurkacz (BUY) | 83% | 5.00 | 3.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 44% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: MIBR vs Team Envy - Map 2 Winn | MIBR (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |

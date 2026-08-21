@@ -21772,8 +21772,8 @@
     "title": "Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 8077.366925,
-    "whale_pct": 2.073,
+    "whale_usd": 11543.477925000001,
+    "whale_pct": 2.962,
     "whale_value_at_open": 389724.1565,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -21784,8 +21784,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787353619.3376389,
-    "fills": 6
+    "last_fill_at": 1787353829.2670496,
+    "fills": 7
   },
   {
     "timestamp": 1787352311,
