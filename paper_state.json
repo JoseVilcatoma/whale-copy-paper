@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.730294740223,
+  "bankroll": 421.60374993735564,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4255,6 +4255,36 @@
       "timestamp": 1787350238.897767,
       "bankroll": 435.73,
       "event": "won: RN1 \u2014 Roehampton: Elmer Moeller vs Anton Matusevich"
+    },
+    {
+      "timestamp": 1787352764.9138186,
+      "bankroll": 430.62,
+      "event": "lost: SDTrading \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 5.5"
+    },
+    {
+      "timestamp": 1787352765.0896282,
+      "bankroll": 425.49,
+      "event": "lost: SDTrading \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 6.5"
+    },
+    {
+      "timestamp": 1787352766.432709,
+      "bankroll": 420.35,
+      "event": "lost:  \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787352766.9593146,
+      "bankroll": 415.27,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Taylor Fritz vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1787352767.0594838,
+      "bankroll": 421.24,
+      "event": "won: RN1 \u2014 Cincinnati Open: Taylor Fritz vs Brandon Nakashima"
+    },
+    {
+      "timestamp": 1787352767.2598295,
+      "bankroll": 421.6,
+      "event": "won: RN1 \u2014 Atlanta Braves vs. Milwaukee Brewers"
     }
   ]
 }
