@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 07:04:14 (hora de Perú)
+Actualizado: 2026-08-21 07:06:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $448.14
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 07:04:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $298.14)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $293.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 17 | 3 | 2 | +25.70 USD |
+| IMAREALPERSON | 17 | 3 | 3 | +25.70 USD |
 | casualbet2020 | 5 | 0 | 2 | +20.35 USD |
 | Lakersfan111 | 7 | 3 | 9 | +16.04 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -222,6 +222,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 18.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Baltimore Orioles | Baltimore Orioles (BUY) | 55% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -251,4 +252,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 74% | 5.00 | 1.0% | ✅ ganada | +1.69 |
 | MisterVision | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 72% | 5.00 | 105.7% | ⏳ pendiente | — |
 | MisterVision | LoL: EDward Gaming vs ThunderTalk Gaming | ThunderTalk Gaming (BUY) | 51% | 5.00 | 54.1% | ❌ perdida | -5.12 |
-| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 66% | 5.00 | 11.2% | ✅ ganada | +2.49 |
