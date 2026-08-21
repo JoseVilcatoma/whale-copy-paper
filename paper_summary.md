@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 07:43:32 (hora de Perú)
+Actualizado: 2026-08-21 07:45:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.84
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 07:43:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $319.84)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $314.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | TeGeeLP | 2 | 2 | 1 | +7.82 USD |
-| Djdjdjekekek | 5 | 2 | 0 | +5.59 USD |
+| Djdjdjekekek | 5 | 2 | 1 | +5.59 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -218,11 +218,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-al-we-2026-08-21-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TeGeeLP |
 | dota2-ts8-vsn2-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON |
 | dota2-ts8-vsn2-2026-08-21-game2 | Djdjdjekekek, IMAREALPERSON |
+| dota2-ts8-vsn2-2026-08-21 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 43% | 5.00 | 9.6% | ⏳ pendiente | — |
 | crisp1973 | Will Al Qadisiyah Saudi Club win on 2026 | Yes (BUY) | 66% | 5.00 | 34.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | 💰 vendida anticipada | -1.43 |
@@ -252,4 +254,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ITF M25 Idanha-a-Nova 2 Men: Philip Henn | Philip Henning (BUY) | 96% | 5.00 | 2.2% | ❌ perdida | -5.01 |
 | IMAREALPERSON | LoL: HANJIN BRION vs BNK FEARX - Game 1  | HANJIN BRION (BUY) | 45% | 5.00 | 132.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 42% | 5.00 | 3.9% | ❌ perdida | -5.14 |
-| TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 63% | 5.00 | 11.4% | 💰 vendida anticipada | +2.84 |
