@@ -17287,8 +17287,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 5904.997426,
-    "whale_pct": 2.604,
+    "whale_usd": 6601.425997,
+    "whale_pct": 2.911,
     "whale_value_at_open": 226800.3083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -17299,8 +17299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787279779.5508451,
-    "fills": 6
+    "last_fill_at": 1787281129.010064,
+    "fills": 7
   },
   {
     "timestamp": 1787267640,
@@ -18141,8 +18141,8 @@
     "title": "Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 1365.7644,
-    "whale_pct": 0.664,
+    "whale_usd": 2897.9244,
+    "whale_pct": 1.41,
     "whale_value_at_open": 205579.984,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -18155,8 +18155,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787279269.7584648,
-    "fills": 1
+    "last_fill_at": 1787281036.1777349,
+    "fills": 2
   },
   {
     "timestamp": 1787279318,
