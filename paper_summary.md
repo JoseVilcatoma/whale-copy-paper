@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 21:03:31 (hora de Perú)
+Actualizado: 2026-08-20 21:05:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.68
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 21:03:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $288.68)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $283.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Sassy-Bucket | 6 | 7 | 3 | -8.52 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-|  | 16 | 10 | 4 | -11.73 USD |
+|  | 16 | 10 | 5 | -11.73 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 10 | 1 | -21.92 USD |
 | RN1 | 107 | 55 | 2 | -57.94 USD |
@@ -205,6 +205,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Indiana Fever vs. Dallas Wings | Dallas Wings (BUY) | 99% | 5.00 | 3.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 60% | 5.00 | 31.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 52% | 5.00 | 22.2% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Iron Wing vs BoomBoys - Game 1 W | BoomBoys (BUY) | 54% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -234,4 +235,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CSyD Macará win on 2026-08-20? | Yes (BUY) | 44% | 5.00 | 0.8% | ❌ perdida | -5.14 |
 | Lakersfan111 | Counter-Strike: FUT Esports vs MOUZ - Ma | MOUZ (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Lakersfan111 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Cincinnati Open: Iga Swiatek vs Elena Ry | Iga Swiatek (BUY) | 62% | 5.00 | 2.7% | ✅ ganada | +2.97 |

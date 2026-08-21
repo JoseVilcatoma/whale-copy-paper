@@ -18009,5 +18009,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787277633.9810627,
     "fills": 6
+  },
+  {
+    "timestamp": 1787277845,
+    "timestamp_added": 1787277845.8710895,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-ind-dal-2026-08-20",
+    "title": "Indiana Fever vs. Dallas Wings",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 2623.809984,
+    "whale_pct": 2.988,
+    "whale_value_at_open": 87811.618,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787277845.871104,
+    "fills": 1
   }
 ]
