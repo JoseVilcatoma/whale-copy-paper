@@ -1,5 +1,5 @@
 {
-  "bankroll": 396.29374289191753,
+  "bankroll": 398.42795279054604,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3985,6 +3985,16 @@
       "timestamp": 1787331101.305333,
       "bankroll": 396.29,
       "event": "lost: RN1 \u2014 Sion: Lorenzo Giustino vs Benjamin Hassan"
+    },
+    {
+      "timestamp": 1787331711.6724634,
+      "bankroll": 397.65,
+      "event": "won: ferrariChampions2026 \u2014 Sion: Dominic Stephan Stricker vs Tommaso Compagnucci"
+    },
+    {
+      "timestamp": 1787331712.5039911,
+      "bankroll": 398.43,
+      "event": "won: RN1 \u2014 Sion: Dominic Stephan Stricker vs Tommaso Compagnucci"
     }
   ]
 }

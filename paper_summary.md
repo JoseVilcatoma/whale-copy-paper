@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 11:59:55 (hora de Perú)
+Actualizado: 2026-08-21 12:02:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $396.29
-**Retorno acumulado:** -20.74%
+**Bankroll actual:** $398.43
+**Retorno acumulado:** -20.31%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 11:59:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $151.29)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $148.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,25 +48,25 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
 | Lakersfan111 | 8 | 8 | 3 | -6.60 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 6 | 1 | -9.98 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 5 | 6 | 2 | -9.98 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
+| ferrariChampions2026 | 193 | 111 | 2 | -12.34 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| ferrariChampions2026 | 192 | 111 | 3 | -13.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 19 | 2 | -49.09 USD |
-| RN1 | 109 | 56 | 20 | -61.24 USD |
+| RN1 | 110 | 56 | 21 | -60.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 775
-- **Aciertos:** 486 (62.7%)
+- **Apuestas resueltas:** 777
+- **Aciertos:** 488 (62.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,870.45
-- **ROI sobre lo apostado:** -3.52%
-- **Comisiones pagadas (taker fee):** $71.25 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.68% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,880.45
+- **ROI sobre lo apostado:** -3.46%
+- **Comisiones pagadas (taker fee):** $71.34 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,8 +75,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 390 | 46.2% | 50.1% | -4.0 pp |
-| 60-79% | 239 | 73.2% | 67.8% | +5.4 pp |
-| 80-94% | 94 | 86.2% | 86.8% | -0.6 pp |
+| 60-79% | 240 | 73.3% | 67.8% | +5.5 pp |
+| 80-94% | 95 | 86.3% | 86.8% | -0.4 pp |
 | 95-99% (casi seguro) | 52 | 96.2% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -227,13 +227,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ty-ngx-2026-08-21-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON |
 | spl-haz-dir-2026-08-21-dir | RN1, crisp1973 |
 | dota2-ty-ngx-2026-08-21-game2 | BOOMBOYS.Kiritych, MisterVision |
+| lol-vit-navi-2026-08-21-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| MisterVision | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 48% | 5.00 | 8.1% | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. BK Hacken: O/U 2.5 | Over (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 57% | 5.00 | 92.1% | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. BK Hacken: O/U 3.5 | Under (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
+| MisterVision | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 56% | 5.00 | 41.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 48% | 5.00 | 17.8% | ⏳ pendiente | — |
 | RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Seinajoen JK win on 2026-08-21? | Yes (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -259,6 +263,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Seinajoen JK vs. FC Lahti end in a  | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Lambermont Men: Deney Wassermann | Romain Faucon (BUY) | 84% | 5.00 | 1.4% | ✅ ganada | +0.91 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 51% | 5.00 | 1.6% | ✅ ganada | +4.68 |
-| RN1 | Sion: Lorenzo Giustino vs Benjamin Hassa | Lorenzo Giustino (BUY) | 81% | 5.00 | 1.6% | ❌ perdida | -5.05 |
-| MisterVision | LoL: Team Heretics vs SK Gaming - Game 1 | Team Heretics (BUY) | 65% | 5.00 | 4.5% | ⏳ pendiente | — |
-| RN1 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
