@@ -17905,5 +17905,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787275471.08207,
     "fills": 1
+  },
+  {
+    "timestamp": 1787276126,
+    "timestamp_added": 1787276126.6652231,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-nyy-bal-2026-08-20-total-7pt5",
+    "title": "New York Yankees vs. Baltimore Orioles: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 563.64,
+    "whale_pct": 0.652,
+    "whale_value_at_open": 86492.4517,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "Sassy-Bucket",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787276126.6652358,
+    "fills": 1
   }
 ]
