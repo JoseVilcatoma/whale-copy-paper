@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 05:04:47 (hora de Perú)
+Actualizado: 2026-08-21 05:06:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 05:04:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $289.93)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $284.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 3 | 1 | -6.64 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 3 | 2 | -6.64 USD |
 | ferrariChampions2026 | 189 | 107 | 2 | -6.78 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -218,6 +218,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO3) - L | HANJIN BRION (BUY) | 54% | 5.00 | 17.6% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 |  | Arsenal FC vs. Coventry City FC: O/U 3.5 | Under (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 1 | Team WE (BUY) | 47% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -247,4 +248,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 49% | 5.00 | 14.8% | ❌ perdida | -5.13 |
 | Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ✅ ganada | +5.51 |

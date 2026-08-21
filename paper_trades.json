@@ -18397,8 +18397,8 @@
     "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 25423.5,
-    "whale_pct": 189.001,
+    "whale_usd": 26203.5,
+    "whale_pct": 194.8,
     "whale_value_at_open": 13451.4825,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -18411,8 +18411,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787301681.0353045,
-    "fills": 9
+    "last_fill_at": 1787306690.8658655,
+    "fills": 10
   },
   {
     "timestamp": 1787287886,
@@ -19269,5 +19269,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787306300.9579372,
     "fills": 2
+  },
+  {
+    "timestamp": 1787306699,
+    "timestamp_added": 1787306699.7512333,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-bro2-fox1-2026-08-21",
+    "title": "LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "whale_usd": 11130.0,
+    "whale_pct": 17.583,
+    "whale_value_at_open": 63299.742,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787306710.9973404,
+    "fills": 7
   }
 ]
