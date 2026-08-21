@@ -19959,8 +19959,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -19983,8 +19983,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -20009,8 +20009,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.5,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -20226,5 +20226,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787323090.8984644,
     "fills": 12
+  },
+  {
+    "timestamp": 1787323880,
+    "timestamp_added": 1787323880.96366,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-montagu-contri-2026-08-20",
+    "title": "ITF M25 Santander Men: Carlos Lopez Montagud vs Sergi Perez Contri",
+    "outcome": "Sergi Perez Contri",
+    "side": "BUY",
+    "whale_usd": 828.5705999999999,
+    "whale_pct": 0.999,
+    "whale_value_at_open": 82975.4936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787323880.9636729,
+    "fills": 1
   }
 ]

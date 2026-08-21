@@ -1,5 +1,5 @@
 {
-  "bankroll": 419.13774853187755,
+  "bankroll": 423.1980547158896,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3885,6 +3885,21 @@
       "timestamp": 1787322371.1544204,
       "bankroll": 419.14,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Anyone's Legend vs Team WE - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787323869.6399274,
+      "bankroll": 414.02,
+      "event": "lost: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs Team Falcons - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787323869.7400978,
+      "bankroll": 418.7,
+      "event": "won: Djdjdjekekek \u2014 Counter-Strike: Legacy vs Team Falcons - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787323869.8402517,
+      "bankroll": 423.2,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs Team Falcons - Map 1 Winner"
     }
   ]
 }
