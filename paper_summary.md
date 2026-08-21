@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 09:04:01 (hora de Perú)
+Actualizado: 2026-08-21 09:06:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.34
-**Retorno acumulado:** -11.73%
+**Bankroll actual:** $429.35
+**Retorno acumulado:** -14.13%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 09:04:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $251.34)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $264.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,14 +22,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 18 | 5 | 2 | +20.95 USD |
+| IMAREALPERSON | 19 | 5 | 1 | +21.00 USD |
 | casualbet2020 | 5 | 0 | 2 | +20.35 USD |
 | Lakersfan111 | 7 | 3 | 9 | +16.04 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| TeGeeLP | 2 | 2 | 1 | +7.82 USD |
-| Djdjdjekekek | 5 | 2 | 2 | +5.59 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -38,6 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| Djdjdjekekek | 5 | 3 | 1 | +0.45 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | crisp1973 | 0 | 0 | 2 | +0.00 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | +0.00 USD |
@@ -48,8 +48,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 5 | 4 | 0 | -4.44 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 3 | 4 | 3 | -7.78 USD |
 | ferrariChampions2026 | 190 | 108 | 4 | -7.93 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 5 | 1 | -9.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
@@ -59,14 +59,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 749
-- **Aciertos:** 475 (63.4%)
+- **Apuestas resueltas:** 754
+- **Aciertos:** 477 (63.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,740.45
-- **ROI sobre lo apostado:** -2.46%
-- **Comisiones pagadas (taker fee):** $68.77 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,765.45
+- **ROI sobre lo apostado:** -2.76%
+- **Comisiones pagadas (taker fee):** $69.29 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -74,10 +74,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 376 | 46.3% | 50.1% | -3.8 pp |
+| 40-59% | 380 | 46.1% | 50.1% | -4.0 pp |
 | 60-79% | 231 | 74.9% | 67.8% | +7.0 pp |
 | 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
-| 95-99% (casi seguro) | 50 | 96.0% | 97.3% | -1.3 pp |
+| 95-99% (casi seguro) | 51 | 96.1% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -231,18 +231,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 51% | 5.00 | 199.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Team Falcons (BUY) | 53% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Team Falcons (BUY) | 53% | 5.00 | 4.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 519.4% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION (BO3) | TEAM VISION (BUY) | 99% | 5.00 | 158.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | TEAM VISION (BUY) | 59% | 5.00 | 1.9% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION (BO3) | TEAM VISION (BUY) | 99% | 5.00 | 158.5% | ✅ ganada | +0.05 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | TEAM VISION (BUY) | 59% | 5.00 | 1.9% | ✅ ganada | +3.37 |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | crisp1973 | Al Faisaly Saudi Club vs. NEOM SC: O/U 2 | Over (BUY) | 55% | 5.00 | 21.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 18.3% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 43% | 5.00 | 90.3% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 45% | 5.00 | 1.5% | ❌ perdida | -5.14 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 43% | 5.00 | 90.3% | ❌ perdida | -5.14 |
 | crisp1973 | Will Al Qadisiyah Saudi Club win on 2026 | Yes (BUY) | 66% | 5.00 | 34.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | 💰 vendida anticipada | -1.43 |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ❌ perdida | -5.12 |

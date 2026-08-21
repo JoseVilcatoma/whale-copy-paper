@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.34066721018604,
+  "bankroll": 429.3457485318776,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3850,6 +3850,31 @@
       "timestamp": 1787317456.1075296,
       "bankroll": 441.34,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: HANJIN BRION vs BNK FEARX (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1787321096.254814,
+      "bankroll": 436.21,
+      "event": "lost: TeGeeLP \u2014 LoL: Anyone's Legend vs Team WE - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787321098.3310723,
+      "bankroll": 431.06,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787321098.4312253,
+      "bankroll": 425.93,
+      "event": "lost: Djdjdjekekek \u2014 Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787321100.1476414,
+      "bankroll": 429.3,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787321100.2477465,
+      "bankroll": 429.35,
+      "event": "won: IMAREALPERSON \u2014 Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs"
     }
   ]
 }

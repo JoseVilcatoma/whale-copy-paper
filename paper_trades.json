@@ -19214,8 +19214,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -19686,8 +19686,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -19710,8 +19710,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -19880,8 +19880,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -19906,8 +19906,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "Djdjdjekekek"
@@ -19952,8 +19952,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 18143.8381,
-    "whale_pct": 3.996,
+    "whale_usd": 22168.311850000002,
+    "whale_pct": 4.883,
     "whale_value_at_open": 454015.005,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -19964,8 +19964,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787320665.2043507,
-    "fills": 5
+    "last_fill_at": 1787321093.9366279,
+    "fills": 7
   },
   {
     "timestamp": 1787320497,
