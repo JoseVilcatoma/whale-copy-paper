@@ -18167,8 +18167,8 @@
     "title": "Dota 2: Iron Wing vs BoomBoys - Game 1 Winner",
     "outcome": "Iron Wing",
     "side": "BUY",
-    "whale_usd": 14179.732733,
-    "whale_pct": 6.897,
+    "whale_usd": 17230.492322000002,
+    "whale_pct": 8.381,
     "whale_value_at_open": 205579.984,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -18181,8 +18181,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787279927.977913,
-    "fills": 6
+    "last_fill_at": 1787280074.5128872,
+    "fills": 9
   },
   {
     "timestamp": 1787279363,
@@ -18234,5 +18234,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787279822.4871113,
     "fills": 4
+  },
+  {
+    "timestamp": 1787280127,
+    "timestamp_added": 1787280127.805413,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-conn-las-2026-08-20",
+    "title": "Connecticut Sun vs. Las Vegas Aces",
+    "outcome": "Las Vegas Aces",
+    "side": "BUY",
+    "whale_usd": 1120.52,
+    "whale_pct": 0.425,
+    "whale_value_at_open": 263901.8309,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787280128.270356,
+    "fills": 2
   }
 ]
