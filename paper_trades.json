@@ -21626,8 +21626,8 @@
     "title": "Quebec City: Zizou Bergs vs Stefanos Sakellaridis",
     "outcome": "Zizou Bergs",
     "side": "BUY",
-    "whale_usd": 4122.7244,
-    "whale_pct": 1.085,
+    "whale_usd": 5187.3075,
+    "whale_pct": 1.366,
     "whale_value_at_open": 379805.0313,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -21640,8 +21640,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787351581.807735,
-    "fills": 3
+    "last_fill_at": 1787352122.74658,
+    "fills": 5
   },
   {
     "timestamp": 1787351913,
@@ -21737,6 +21737,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787351932.1573906,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787352167,
+    "timestamp_added": 1787352168.5319993,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-safiull-hurkacz-2026-08-21",
+    "title": "Cancun: Roman Safiullin vs Hubert Hurkacz",
+    "outcome": "Hubert Hurkacz",
+    "side": "BUY",
+    "whale_usd": 1146.789473,
+    "whale_pct": 0.298,
+    "whale_value_at_open": 385172.6859,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787352168.5320127,
     "fills": 1
   }
 ]
