@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 15:59:06 (hora de Perú)
+Actualizado: 2026-08-21 16:01:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $426.24
-**Retorno acumulado:** -14.75%
+**Bankroll actual:** $432.76
+**Retorno acumulado:** -13.45%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 15:59:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $316.24)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $332.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,18 +56,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 25 | 19 | 2 | -46.37 USD |
-| RN1 | 122 | 62 | 6 | -66.63 USD |
+| RN1 | 124 | 62 | 4 | -60.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 814
-- **Aciertos:** 514 (63.1%)
+- **Apuestas resueltas:** 816
+- **Aciertos:** 516 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,065.45
-- **ROI sobre lo apostado:** -2.83%
-- **Comisiones pagadas (taker fee):** $74.79 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,075.45
+- **ROI sobre lo apostado:** -2.66%
+- **Comisiones pagadas (taker fee):** $74.99 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,8 +75,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 405 | 46.7% | 50.1% | -3.4 pp |
-| 60-79% | 256 | 73.0% | 67.7% | +5.3 pp |
+| 40-59% | 406 | 46.8% | 50.1% | -3.3 pp |
+| 60-79% | 257 | 73.2% | 67.7% | +5.4 pp |
 | 80-94% | 99 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 54 | 96.3% | 97.3% | -1.0 pp |
 
@@ -249,9 +249,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ❌ perdida | -5.09 |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 1.5 | Over (BUY) | 49% | 5.00 | 0.4% | ✅ ganada | +5.08 |
 | RN1 | IK Sirius vs. BK Hacken: 1st Half O/U 0. | Over (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
-| RN1 | IK Sirius vs. BK Hacken: O/U 2.5 | Over (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. BK Hacken: O/U 2.5 | Over (BUY) | 67% | 5.00 | 0.4% | ✅ ganada | +2.38 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 57% | 5.00 | 102.5% | 💰 vendida anticipada | +3.20 |
-| RN1 | IK Sirius vs. BK Hacken: O/U 3.5 | Under (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | IK Sirius vs. BK Hacken: O/U 3.5 | Under (BUY) | 54% | 5.00 | 0.5% | ✅ ganada | +4.14 |
 | MisterVision | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 56% | 5.00 | 143.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 48% | 5.00 | 17.8% | 💰 vendida anticipada | -0.78 |
 | RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |

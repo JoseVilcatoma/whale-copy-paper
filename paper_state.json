@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.2394908372356,
+  "bankroll": 432.76443666365907,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4205,6 +4205,16 @@
       "timestamp": 1787345688.8584824,
       "bankroll": 426.24,
       "event": "won: RN1 \u2014 IK Sirius vs. BK Hacken: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1787346000.8766823,
+      "bankroll": 430.38,
+      "event": "won: RN1 \u2014 IK Sirius vs. BK Hacken: O/U 3.5"
+    },
+    {
+      "timestamp": 1787346001.3737872,
+      "bankroll": 432.76,
+      "event": "won: RN1 \u2014 IK Sirius vs. BK Hacken: O/U 2.5"
     }
   ]
 }
