@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 12:59:34 (hora de Perú)
+Actualizado: 2026-08-21 13:01:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $405.76
@@ -233,7 +233,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 6.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 54.5% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 61% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 1.5 | Over (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
