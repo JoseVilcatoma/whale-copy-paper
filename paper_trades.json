@@ -19094,8 +19094,8 @@
     "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 9156.993319000001,
-    "whale_pct": 131.725,
+    "whale_usd": 9956.993319000001,
+    "whale_pct": 143.233,
     "whale_value_at_open": 6951.6007,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -19110,8 +19110,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787304496.2152178,
-    "fills": 7
+    "last_fill_at": 1787304505.1915395,
+    "fills": 8
   },
   {
     "timestamp": 1787303294,
@@ -19171,5 +19171,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787304028.6528597,
     "fills": 14
+  },
+  {
+    "timestamp": 1787304538,
+    "timestamp_added": 1787304538.7163694,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-al-we-2026-08-21-game2",
+    "title": "LoL: Anyone's Legend vs Team WE - Game 2 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "whale_usd": 3598.248,
+    "whale_pct": 5.399,
+    "whale_value_at_open": 66650.8113,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787304583.506855,
+    "fills": 3
   }
 ]
