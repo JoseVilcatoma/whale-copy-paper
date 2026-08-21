@@ -1,5 +1,5 @@
 {
-  "bankroll": 443.3328165452511,
+  "bankroll": 450.37993849647063,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3805,6 +3805,11 @@
       "timestamp": 1787315310.570442,
       "bankroll": 443.33,
       "event": "won:  \u2014 ITF W50 Prague Women: Alena Kovackova vs Jana Kovackova"
+    },
+    {
+      "timestamp": 1787315476.6372335,
+      "bankroll": 450.38,
+      "event": "venta anticipada: TeGeeLP \u2014 LoL: Anyone's Legend vs Team WE - Game 2 Winner (+7.05 USD)"
     }
   ]
 }

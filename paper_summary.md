@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 07:31:16 (hora de Perú)
+Actualizado: 2026-08-21 07:33:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $443.33
-**Retorno acumulado:** -11.33%
+**Bankroll actual:** $450.38
+**Retorno acumulado:** -9.92%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 07:31:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $298.33)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $305.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,8 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 7 | 3 | 9 | +16.04 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| TeGeeLP | 2 | 1 | 2 | +9.25 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| TeGeeLP | 1 | 1 | 2 | +2.20 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -222,6 +222,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 992.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -236,7 +237,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Anyone's Legend vs Team WE - Game 2 | Anyone's Legend (BUY) | 58% | 5.00 | 18.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 49% | 5.00 | 15.4% | ❌ perdida | -5.13 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO3) - L | HANJIN BRION (BUY) | 54% | 5.00 | 17.6% | ⏳ pendiente | — |
-| TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
+| TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 41% | 5.00 | 1.9% | 💰 vendida anticipada | +7.05 |
 |  | Arsenal FC vs. Coventry City FC: O/U 3.5 | Under (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 1 | Team WE (BUY) | 47% | 5.00 | 3.8% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 42% | 5.00 | 5.4% | 💰 vendida anticipada | -0.64 |
@@ -251,4 +252,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 63% | 5.00 | 11.4% | 💰 vendida anticipada | +2.84 |
 |  | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 74% | 5.00 | 1.0% | ✅ ganada | +1.69 |
 | MisterVision | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 72% | 5.00 | 105.7% | ⏳ pendiente | — |
-| MisterVision | LoL: EDward Gaming vs ThunderTalk Gaming | ThunderTalk Gaming (BUY) | 51% | 5.00 | 54.1% | ❌ perdida | -5.12 |

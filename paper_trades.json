@@ -19262,13 +19262,15 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 7.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787306300.9579372,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.148,
+    "closed_price": 100
   },
   {
     "timestamp": 1787306699,
@@ -19616,6 +19618,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787313969.1332378,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787315508,
+    "timestamp_added": 1787315509.189887,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-tes-blg-2026-08-21-game1",
+    "title": "LoL: Top Esports vs Bilibili Gaming - Game 1 Winner",
+    "outcome": "Bilibili Gaming",
+    "side": "BUY",
+    "whale_usd": 4305.522,
+    "whale_pct": 9.068,
+    "whale_value_at_open": 47479.5908,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787315509.1899018,
     "fills": 1
   }
 ]
