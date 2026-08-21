@@ -20002,8 +20002,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 5071.675016,
-    "whale_pct": 1.086,
+    "whale_usd": 14349.104187,
+    "whale_pct": 3.071,
     "whale_value_at_open": 467208.5297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -20016,8 +20016,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787321333.9223034,
-    "fills": 3
+    "last_fill_at": 1787322133.5027432,
+    "fills": 10
   },
   {
     "timestamp": 1787320802,
