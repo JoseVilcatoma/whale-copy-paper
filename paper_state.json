@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.39137691318496,
+  "bankroll": 424.962376913185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4180,6 +4180,26 @@
       "timestamp": 1787343440.0305831,
       "bankroll": 435.39,
       "event": "lost: Djdjdjekekek \u2014 Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787343746.7307308,
+      "bankroll": 440.27,
+      "event": "won: crisp1973 \u2014 Will Al Diraiyah Saudi Club win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787343746.830887,
+      "bankroll": 435.15,
+      "event": "lost: RN1 \u2014 Will Al Diraiyah Saudi Club win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787343804.5709171,
+      "bankroll": 430.05,
+      "event": "lost: MisterVision \u2014 LoL: Team Heretics vs SK Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787343807.2776763,
+      "bankroll": 424.96,
+      "event": "lost: RN1 \u2014 Cincinnati Open: Sara Bejlek vs Madison Keys"
     }
   ]
 }

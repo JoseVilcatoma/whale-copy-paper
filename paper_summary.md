@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 15:21:47 (hora de Perú)
+Actualizado: 2026-08-21 15:23:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $435.39
-**Retorno acumulado:** -12.92%
+**Bankroll actual:** $424.96
+**Retorno acumulado:** -15.01%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 15:21:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $305.39)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $314.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,6 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | BOOMBOYS.Kiritych | 5 | 2 | 0 | +10.33 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| crisp1973 | 1 | 0 | 2 | +4.88 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 0 | +2.49 USD |
 | Lakersfan111 | 10 | 8 | 1 | +2.11 USD |
@@ -35,17 +36,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| ChonkyChocolateCake | 7 | 4 | 2 | +1.40 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| crisp1973 | 0 | 0 | 3 | +0.00 USD |
 | Wiretransferxyz | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
+| ChonkyChocolateCake | 7 | 5 | 1 | -3.69 USD |
 | ferrariChampions2026 | 195 | 111 | 0 | -4.11 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Djdjdjekekek | 6 | 5 | 1 | -5.14 USD |
@@ -56,18 +56,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 25 | 19 | 2 | -46.37 USD |
-| RN1 | 121 | 60 | 9 | -57.70 USD |
+| RN1 | 121 | 62 | 7 | -67.91 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 809
-- **Aciertos:** 512 (63.3%)
+- **Apuestas resueltas:** 813
+- **Aciertos:** 513 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,040.45
-- **ROI sobre lo apostado:** -2.62%
-- **Comisiones pagadas (taker fee):** $74.31 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,060.45
+- **ROI sobre lo apostado:** -2.87%
+- **Comisiones pagadas (taker fee):** $74.74 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,8 +75,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 403 | 46.7% | 50.1% | -3.4 pp |
-| 60-79% | 253 | 73.5% | 67.7% | +5.8 pp |
+| 40-59% | 405 | 46.7% | 50.1% | -3.4 pp |
+| 60-79% | 255 | 72.9% | 67.7% | +5.3 pp |
 | 80-94% | 99 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 54 | 96.3% | 97.3% | -1.0 pp |
 
@@ -245,7 +245,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 59% | 5.00 | 81.8% | 💰 vendida anticipada | +2.31 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 54.5% | 💰 vendida anticipada | +0.46 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 61% | 5.00 | 6.0% | ✅ ganada | +3.10 |
-| RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ⏳ pendiente | — |
+| RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ❌ perdida | -5.09 |
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 1.5 | Over (BUY) | 49% | 5.00 | 0.4% | ✅ ganada | +5.08 |
 | RN1 | IK Sirius vs. BK Hacken: 1st Half O/U 0. | Over (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. BK Hacken: O/U 2.5 | Over (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
