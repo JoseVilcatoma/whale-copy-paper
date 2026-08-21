@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.23964127305624,
+  "bankroll": 444.6815628416837,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3555,6 +3555,21 @@
       "timestamp": 1787286151.8736408,
       "bankroll": 450.24,
       "event": "won: ferrariChampions2026 \u2014 Atlanta Dream vs. Los Angeles Sparks: O/U 180.5"
+    },
+    {
+      "timestamp": 1787286469.6062112,
+      "bankroll": 445.12,
+      "event": "lost: Sassy-Bucket \u2014 Atlanta Dream vs. Los Angeles Sparks: O/U 181.5"
+    },
+    {
+      "timestamp": 1787286469.8830414,
+      "bankroll": 449.8,
+      "event": "won: ferrariChampions2026 \u2014 Atlanta Dream vs. Los Angeles Sparks: O/U 182.5"
+    },
+    {
+      "timestamp": 1787286469.9832363,
+      "bankroll": 444.68,
+      "event": "lost: ferrariChampions2026 \u2014 Atlanta Dream vs. Los Angeles Sparks: O/U 182.5"
     }
   ]
 }
