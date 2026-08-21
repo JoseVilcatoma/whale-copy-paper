@@ -21568,5 +21568,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787349297.0619369,
     "fills": 1
+  },
+  {
+    "timestamp": 1787350419,
+    "timestamp_added": 1787350420.0596895,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-blg-tyloo-2026-08-22",
+    "title": "Valorant: Bilibili Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs",
+    "outcome": "TYLOO",
+    "side": "BUY",
+    "whale_usd": 1693.6010999999999,
+    "whale_pct": 34.496,
+    "whale_value_at_open": 4909.5973,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787350420.0597074,
+    "fills": 1
   }
 ]
