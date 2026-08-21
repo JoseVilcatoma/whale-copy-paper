@@ -1,5 +1,5 @@
 {
-  "bankroll": 431.04837317159553,
+  "bankroll": 435.730294740223,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4250,6 +4250,11 @@
       "timestamp": 1787349925.8463821,
       "bankroll": 431.05,
       "event": "lost: crisp1973 \u2014 Will Al Qadisiyah Saudi Club win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787350238.897767,
+      "bankroll": 435.73,
+      "event": "won: RN1 \u2014 Roehampton: Elmer Moeller vs Anton Matusevich"
     }
   ]
 }
