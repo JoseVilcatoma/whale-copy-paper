@@ -1,5 +1,5 @@
 {
-  "bankroll": 413.0000547158896,
+  "bankroll": 412.5109922158896,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3910,6 +3910,11 @@
       "timestamp": 1787324556.0021746,
       "bankroll": 413.0,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787326252.0833373,
+      "bankroll": 412.51,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner (-0.49 USD)"
     }
   ]
 }

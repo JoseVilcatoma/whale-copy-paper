@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 10:30:07 (hora de Perú)
+Actualizado: 2026-08-21 10:32:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $413.00
-**Retorno acumulado:** -17.40%
+**Bankroll actual:** $412.51
+**Retorno acumulado:** -17.50%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 10:30:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $233.00)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $227.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 19 | 5 | 2 | +21.00 USD |
+| IMAREALPERSON | 19 | 6 | 1 | +20.51 USD |
 | casualbet2020 | 5 | 0 | 2 | +20.35 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -51,11 +51,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 191 | 109 | 6 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 6 | 0 | -14.66 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 6 | 1 | -14.66 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 18 | 3 | -44.03 USD |
-| RN1 | 108 | 55 | 4 | -57.10 USD |
+| RN1 | 108 | 55 | 5 | -57.10 USD |
 
 ## Análisis general
 
@@ -223,17 +223,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ts8-vsn2-2026-08-21 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, IMAREALPERSON |
 | cs2-lgc-fal2-2026-08-21-game1 | Djdjdjekekek, ferrariChampions2026 |
 | atp-stricke-compagn-2026-08-21 | RN1, ferrariChampions2026 |
+| dota2-ty-ngx-2026-08-21-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Sion: Lorenzo Giustino vs Benjamin Hassa | Lorenzo Giustino (BUY) | 81% | 5.00 | 0.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 1 | Team Heretics (BUY) | 65% | 5.00 | 4.5% | ⏳ pendiente | — |
 | RN1 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Carlos Lopez Montagud (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Sergi Perez Contri (BUY) | 59% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 41% | 5.00 | 177.8% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 56% | 5.00 | 260.5% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 56% | 5.00 | 260.5% | 💰 vendida anticipada | -0.49 |
 | ferrariChampions2026 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |
@@ -256,5 +259,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 43% | 5.00 | 90.3% | ❌ perdida | -5.14 |
 | crisp1973 | Will Al Qadisiyah Saudi Club win on 2026 | Yes (BUY) | 66% | 5.00 | 34.7% | ⏳ pendiente | — |
 | TeGeeLP | LoL: Top Esports vs Bilibili Gaming - Ga | Bilibili Gaming (BUY) | 61% | 5.00 | 9.1% | 💰 vendida anticipada | -1.43 |
-| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | TEAM VISION (BUY) | 51% | 5.00 | 14.5% | ❌ perdida | -5.12 |
-| IMAREALPERSON | Dota 2: Team Spirit vs TEAM VISION - Gam | Team Spirit (BUY) | 47% | 5.00 | 992.8% | ✅ ganada | +5.51 |
