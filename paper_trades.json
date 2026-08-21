@@ -19916,5 +19916,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787319927.8360164,
     "fills": 1
+  },
+  {
+    "timestamp": 1787320295,
+    "timestamp_added": 1787320296.3628266,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "dota2-ty-ngx-2026-08-21",
+    "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 103884.92492800001,
+    "whale_pct": 519.41,
+    "whale_value_at_open": 20000.5618,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787320363.212181,
+    "fills": 3
   }
 ]
