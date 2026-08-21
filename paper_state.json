@@ -1,5 +1,5 @@
 {
-  "bankroll": 423.1980547158896,
+  "bankroll": 413.0000547158896,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3900,6 +3900,16 @@
       "timestamp": 1787323869.8402517,
       "bankroll": 423.2,
       "event": "won: ferrariChampions2026 \u2014 Counter-Strike: Legacy vs Team Falcons - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787324554.946022,
+      "bankroll": 418.1,
+      "event": "lost: Lakersfan111 \u2014 Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787324556.0021746,
+      "bankroll": 413.0,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs"
     }
   ]
 }

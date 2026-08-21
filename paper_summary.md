@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 10:00:37 (hora de Perú)
+Actualizado: 2026-08-21 10:02:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $423.20
-**Retorno acumulado:** -15.36%
+**Bankroll actual:** $413.00
+**Retorno acumulado:** -17.40%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 10:00:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $243.20)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $243.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 19 | 5 | 2 | +21.00 USD |
 | casualbet2020 | 5 | 0 | 2 | +20.35 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| Lakersfan111 | 7 | 4 | 8 | +10.94 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| Lakersfan111 | 7 | 5 | 7 | +5.84 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Djdjdjekekek | 6 | 3 | 1 | +5.13 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -38,7 +38,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | crisp1973 | 0 | 0 | 2 | +0.00 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
@@ -47,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | ChonkyChocolateCake | 5 | 4 | 0 | -4.44 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
+| ExplosiveNinja | 0 | 1 | 1 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 191 | 109 | 6 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -59,14 +59,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 759
-- **Aciertos:** 479 (63.1%)
-- **Cuota promedio de entrada:** 63.2%
+- **Apuestas resueltas:** 761
+- **Aciertos:** 479 (62.9%)
+- **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,790.45
-- **ROI sobre lo apostado:** -2.90%
-- **Comisiones pagadas (taker fee):** $69.85 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,800.45
+- **ROI sobre lo apostado:** -3.16%
+- **Comisiones pagadas (taker fee):** $70.05 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -75,7 +75,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 385 | 46.0% | 50.2% | -4.2 pp |
-| 60-79% | 231 | 74.9% | 67.8% | +7.0 pp |
+| 60-79% | 233 | 74.2% | 67.8% | +6.5 pp |
 | 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 51 | 96.1% | 97.3% | -1.2 pp |
 
