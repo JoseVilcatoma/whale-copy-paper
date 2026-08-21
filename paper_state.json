@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.608944600167,
+  "bankroll": 435.358944600167,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4220,6 +4220,16 @@
       "timestamp": 1787346882.6853719,
       "bankroll": 435.61,
       "event": "won:  \u2014 Arsenal FC vs. Coventry City FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787347321.8517604,
+      "bankroll": 440.48,
+      "event": "won: Djdjdjekekek \u2014 Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs"
+    },
+    {
+      "timestamp": 1787347321.9519577,
+      "bankroll": 435.36,
+      "event": "lost: Wiretransferxyz \u2014 Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs"
     }
   ]
 }
