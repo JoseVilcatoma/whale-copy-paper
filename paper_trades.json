@@ -18560,8 +18560,8 @@
     "title": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 964.8527999999999,
-    "whale_pct": 0.854,
+    "whale_usd": 4060.6875,
+    "whale_pct": 3.594,
     "whale_value_at_open": 112970.3948,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -18572,8 +18572,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787293699.569757,
-    "fills": 1
+    "last_fill_at": 1787294154.019234,
+    "fills": 2
   },
   {
     "timestamp": 1787293806,
@@ -18637,8 +18637,8 @@
     "title": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 5263.5911,
-    "whale_pct": 4.412,
+    "whale_usd": 8588.288926,
+    "whale_pct": 7.198,
     "whale_value_at_open": 119309.7429,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -18651,7 +18651,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787293947.23031,
-    "fills": 3
+    "last_fill_at": 1787294181.0045967,
+    "fills": 6
+  },
+  {
+    "timestamp": 1787294169,
+    "timestamp_added": 1787294170.491964,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "geo1-met-bat-2026-08-21-bat",
+    "title": "Will FC Dinamo Batumi win on 2026-08-21?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 684.8100000000001,
+    "whale_pct": 1.29,
+    "whale_value_at_open": 53104.7877,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787294170.491975,
+    "fills": 1
   }
 ]
