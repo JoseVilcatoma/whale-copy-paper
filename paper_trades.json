@@ -20534,8 +20534,8 @@
     "title": "Quebec City: Benjamin Bonzi vs Luca Van Assche",
     "outcome": "Luca Van Assche",
     "side": "BUY",
-    "whale_usd": 2255.3027970000003,
-    "whale_pct": 2.061,
+    "whale_usd": 5390.722282000001,
+    "whale_pct": 4.926,
     "whale_value_at_open": 109440.0451,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -20546,8 +20546,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787327913.4787254,
-    "fills": 2
+    "last_fill_at": 1787329440.0626652,
+    "fills": 4
   },
   {
     "timestamp": 1787328146,
@@ -20717,6 +20717,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787328403.0717688,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787329412,
+    "timestamp_added": 1787329412.554651,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-cvetko-guth-2026-08-21",
+    "title": "ITF W35 Verbier Women: Anastasija Cvetkovic vs Mara Guth",
+    "outcome": "Anastasija Cvetkovic",
+    "side": "BUY",
+    "whale_usd": 632.025,
+    "whale_pct": 0.469,
+    "whale_value_at_open": 134792.2222,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787329412.554669,
     "fills": 1
   }
 ]
