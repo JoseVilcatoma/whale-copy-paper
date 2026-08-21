@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 09:35:46 (hora de Perú)
+Actualizado: 2026-08-21 09:37:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $419.14
@@ -227,8 +227,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 41% | 5.00 | 6.4% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 56% | 5.00 | 28.1% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 41% | 5.00 | 177.0% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 56% | 5.00 | 219.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |

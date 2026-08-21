@@ -20184,8 +20184,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 3127.942888,
-    "whale_pct": 28.101,
+    "whale_usd": 24480.910888000006,
+    "whale_pct": 219.936,
     "whale_value_at_open": 11130.9427,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -20196,8 +20196,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787322778.6139276,
-    "fills": 1
+    "last_fill_at": 1787322955.112768,
+    "fills": 3
   },
   {
     "timestamp": 1787322929,
@@ -20208,8 +20208,8 @@
     "title": "Dota 2: Team Yandex vs Nigma Galaxy (BO3) - The International Playoffs",
     "outcome": "Nigma Galaxy",
     "side": "BUY",
-    "whale_usd": 20800.0,
-    "whale_pct": 6.4,
+    "whale_usd": 575328.8886000001,
+    "whale_pct": 177.021,
     "whale_value_at_open": 325005.2422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -20224,7 +20224,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787322937.1376538,
-    "fills": 2
+    "last_fill_at": 1787323026.0015934,
+    "fills": 11
   }
 ]
