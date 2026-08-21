@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 14:55:13 (hora de Perú)
+Actualizado: 2026-08-21 14:57:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 14:55:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $251.25)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $246.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | crisp1973 | 0 | 0 | 3 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
-| Djdjdjekekek | 6 | 4 | 1 | -0.02 USD |
+| Djdjdjekekek | 6 | 4 | 2 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -233,6 +233,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Valorant: BBL Esports vs FUT Esports (BO | FUT Esports (BUY) | 50% | 5.00 | 705.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 51% | 5.00 | 3574.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere (BO3 | Team Vitality (BUY) | 55% | 5.00 | 93.5% | 💰 vendida anticipada | +3.41 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 99% | 5.00 | 345.6% | ✅ ganada | +0.05 |
@@ -262,4 +263,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Seinajoen JK vs. FC Lahti: O/U 5.5 | Under (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will Al Riyadh Saudi Club win on 2026-08 | No (BUY) | 94% | 5.00 | 7.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 2 | SK Gaming (BUY) | 63% | 5.00 | 8.3% | ⏳ pendiente | — |
-| RN1 | Will Al Nassr Saudi Club win on 2026-08- | Yes (BUY) | 80% | 5.00 | 2.2% | ⏳ pendiente | — |

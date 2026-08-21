@@ -21348,5 +21348,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787340429.2275283,
     "fills": 35
+  },
+  {
+    "timestamp": 1787342216,
+    "timestamp_added": 1787342217.0138288,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "val-bbl1-fut1-2026-08-21",
+    "title": "Valorant: BBL Esports vs FUT Esports (BO3) - VCT EMEA Playoffs",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "whale_usd": 2759.8549000000003,
+    "whale_pct": 705.787,
+    "whale_value_at_open": 391.0325,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787342217.0138407,
+    "fills": 1
   }
 ]
