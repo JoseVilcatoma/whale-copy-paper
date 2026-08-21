@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 15:01:22 (hora de Perú)
+Actualizado: 2026-08-21 15:03:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $426.25
-**Retorno acumulado:** -14.75%
+**Bankroll actual:** $430.54
+**Retorno acumulado:** -13.89%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 15:01:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $246.25)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $275.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | crisp1973 | 0 | 0 | 3 | +0.00 USD |
+| Wiretransferxyz | 0 | 0 | 2 | +0.00 USD |
 | SDTrading | 9 | 8 | 6 | -0.02 USD |
 | Djdjdjekekek | 6 | 4 | 2 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -55,18 +56,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 25 | 19 | 1 | -46.37 USD |
-| RN1 | 113 | 59 | 18 | -64.36 USD |
+| RN1 | 119 | 60 | 11 | -60.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 796
-- **Aciertos:** 502 (63.1%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 803
+- **Aciertos:** 508 (63.3%)
+- **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,975.45
-- **ROI sobre lo apostado:** -2.89%
-- **Comisiones pagadas (taker fee):** $73.29 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,010.45
+- **ROI sobre lo apostado:** -2.76%
+- **Comisiones pagadas (taker fee):** $73.70 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -74,10 +75,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 398 | 46.5% | 50.1% | -3.6 pp |
-| 60-79% | 250 | 73.6% | 67.7% | +5.9 pp |
-| 80-94% | 95 | 86.3% | 86.8% | -0.4 pp |
-| 95-99% (casi seguro) | 53 | 96.2% | 97.4% | -1.1 pp |
+| 40-59% | 399 | 46.6% | 50.1% | -3.5 pp |
+| 60-79% | 252 | 73.4% | 67.7% | +5.7 pp |
+| 80-94% | 98 | 86.7% | 86.7% | +0.0 pp |
+| 95-99% (casi seguro) | 54 | 96.3% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -228,11 +229,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | spl-haz-dir-2026-08-21-dir | RN1, crisp1973 |
 | dota2-ty-ngx-2026-08-21-game2 | BOOMBOYS.Kiritych, MisterVision |
 | lol-vit-navi-2026-08-21-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
+| val-bbl1-fut1-2026-08-21 | Djdjdjekekek, Wiretransferxyz |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Wiretransferxyz | Will Team Spirit Win the CS2 EWC 2026? | Yes (BUY) | 46% | 5.00 | 9.4% | ⏳ pendiente | — |
+| Wiretransferxyz | Valorant: BBL Esports vs FUT Esports (BO | BBL Esports (BUY) | 50% | 5.00 | 6.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Valorant: BBL Esports vs FUT Esports (BO | FUT Esports (BUY) | 50% | 5.00 | 705.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 51% | 5.00 | 3574.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere (BO3 | Team Vitality (BUY) | 55% | 5.00 | 93.5% | 💰 vendida anticipada | +3.41 |
@@ -241,7 +245,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 49% | 5.00 | 54.5% | 💰 vendida anticipada | +0.46 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 61% | 5.00 | 6.0% | ✅ ganada | +3.10 |
 | RN1 | Cincinnati Open: Sara Bejlek vs Madison  | Madison Keys (BUY) | 63% | 5.00 | 6.0% | ⏳ pendiente | — |
-| RN1 | Seinajoen JK vs. FC Lahti: O/U 1.5 | Over (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Seinajoen JK vs. FC Lahti: O/U 1.5 | Over (BUY) | 49% | 5.00 | 0.4% | ✅ ganada | +5.08 |
 | RN1 | IK Sirius vs. BK Hacken: 1st Half O/U 0. | Over (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | IK Sirius vs. BK Hacken: O/U 2.5 | Over (BUY) | 67% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 57% | 5.00 | 102.5% | 💰 vendida anticipada | +3.20 |
@@ -249,17 +253,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Team Vitality vs Natus Vincere - Ga | Team Vitality (BUY) | 56% | 5.00 | 143.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 48% | 5.00 | 17.8% | 💰 vendida anticipada | -0.78 |
 | RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will Seinajoen JK win on 2026-08-21? | Yes (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Seinajoen JK win on 2026-08-21? | Yes (BUY) | 60% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ✅ ganada | +2.61 |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ✅ ganada | +4.68 |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 61.6% | ⏳ pendiente | — |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ❌ perdida | -5.15 |
-| RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ✅ ganada | +1.20 |
 | RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 51% | 5.00 | 2.4% | ✅ ganada | +4.68 |
-| RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 78% | 5.00 | 0.4% | ✅ ganada | +1.36 |
 | RN1 | ITF W35 Verbier Women: Ana Grubor vs Els | Elsa Bonelli (BUY) | 61% | 5.00 | 1.4% | ❌ perdida | -5.10 |
-| RN1 | Seinajoen JK vs. FC Lahti: O/U 5.5 | Under (BUY) | 95% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Will Al Riyadh Saudi Club win on 2026-08 | No (BUY) | 94% | 5.00 | 7.7% | ⏳ pendiente | — |
-| MisterVision | LoL: Team Heretics vs SK Gaming - Game 2 | SK Gaming (BUY) | 63% | 5.00 | 8.3% | ⏳ pendiente | — |
+| RN1 | Seinajoen JK vs. FC Lahti: O/U 5.5 | Under (BUY) | 95% | 5.00 | 1.0% | ✅ ganada | +0.25 |

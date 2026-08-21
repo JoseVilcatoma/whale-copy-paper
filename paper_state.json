@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.25489610240487,
+  "bankroll": 430.5405409762214,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4115,6 +4115,41 @@
       "timestamp": 1787341558.5104914,
       "bankroll": 426.25,
       "event": "won: RN1 \u2014 Will CA Aldosivi win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787342554.9784942,
+      "bankroll": 427.45,
+      "event": "won: RN1 \u2014 Will Al Nassr Saudi Club win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787342555.9741793,
+      "bankroll": 427.76,
+      "event": "won: RN1 \u2014 Will Al Riyadh Saudi Club win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787342556.3134716,
+      "bankroll": 428.01,
+      "event": "won: RN1 \u2014 Seinajoen JK vs. FC Lahti: O/U 5.5"
+    },
+    {
+      "timestamp": 1787342556.667346,
+      "bankroll": 429.36,
+      "event": "won: RN1 \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1787342557.1301692,
+      "bankroll": 430.56,
+      "event": "won: RN1 \u2014 Al Riyadh Saudi Club vs. Al Nassr Saudi Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1787342558.0824306,
+      "bankroll": 425.46,
+      "event": "lost: RN1 \u2014 Will Seinajoen JK win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787342560.7013612,
+      "bankroll": 430.54,
+      "event": "won: RN1 \u2014 Seinajoen JK vs. FC Lahti: O/U 1.5"
     }
   ]
 }
