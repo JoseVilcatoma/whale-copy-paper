@@ -1,5 +1,5 @@
 {
-  "bankroll": 424.962376913185,
+  "bankroll": 426.2394908372356,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4200,6 +4200,11 @@
       "timestamp": 1787343807.2776763,
       "bankroll": 424.96,
       "event": "lost: RN1 \u2014 Cincinnati Open: Sara Bejlek vs Madison Keys"
+    },
+    {
+      "timestamp": 1787345688.8584824,
+      "bankroll": 426.24,
+      "event": "won: RN1 \u2014 IK Sirius vs. BK Hacken: 1st Half O/U 0.5"
     }
   ]
 }
