@@ -18397,8 +18397,8 @@
     "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 27703.5,
-    "whale_pct": 205.951,
+    "whale_usd": 29085.75,
+    "whale_pct": 216.227,
     "whale_value_at_open": 13451.4825,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -18411,8 +18411,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787307741.0059397,
-    "fills": 11
+    "last_fill_at": 1787307977.085945,
+    "fills": 12
   },
   {
     "timestamp": 1787287886,
