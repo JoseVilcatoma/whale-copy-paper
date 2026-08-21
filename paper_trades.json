@@ -21304,8 +21304,8 @@
     "title": "LoL: Team Vitality vs Natus Vincere (BO3) - LEC Regular Season",
     "outcome": "Team Vitality",
     "side": "BUY",
-    "whale_usd": 1941.8400000000001,
-    "whale_pct": 11.29,
+    "whale_usd": 6414.8043,
+    "whale_pct": 37.295,
     "whale_value_at_open": 17200.0182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -21316,7 +21316,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787338257.778045,
-    "fills": 2
+    "last_fill_at": 1787338351.3497012,
+    "fills": 5
   }
 ]
