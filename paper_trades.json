@@ -18438,5 +18438,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787287975.1386507,
     "fills": 3
+  },
+  {
+    "timestamp": 1787288369,
+    "timestamp_added": 1787288369.7197497,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-vit-ts7-2026-08-21",
+    "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 819.3696000000001,
+    "whale_pct": 4.944,
+    "whale_value_at_open": 16571.8331,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Lakersfan111"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787288369.7197936,
+    "fills": 1
   }
 ]
