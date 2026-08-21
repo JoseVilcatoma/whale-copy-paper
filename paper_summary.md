@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 12:36:55 (hora de Perú)
+Actualizado: 2026-08-21 12:38:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $401.66
-**Retorno acumulado:** -19.67%
+**Bankroll actual:** $400.67
+**Retorno acumulado:** -19.87%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 12:36:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $161.66)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $170.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,18 +55,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 25 | 19 | 1 | -46.37 USD |
-| RN1 | 110 | 56 | 24 | -60.46 USD |
+| RN1 | 111 | 57 | 22 | -61.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 780
-- **Aciertos:** 490 (62.8%)
+- **Apuestas resueltas:** 782
+- **Aciertos:** 491 (62.8%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,895.45
-- **ROI sobre lo apostado:** -3.43%
-- **Comisiones pagadas (taker fee):** $71.68 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.59% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,905.45
+- **ROI sobre lo apostado:** -3.44%
+- **Comisiones pagadas (taker fee):** $71.93 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.60% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -74,7 +74,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 391 | 46.0% | 50.1% | -4.1 pp |
+| 40-59% | 393 | 46.1% | 50.1% | -4.1 pp |
 | 60-79% | 242 | 73.6% | 67.8% | +5.8 pp |
 | 80-94% | 95 | 86.3% | 86.8% | -0.4 pp |
 | 95-99% (casi seguro) | 52 | 96.2% | 97.3% | -1.2 pp |
@@ -246,7 +246,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will Brentford FC win on 2026-08-22? | No (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 35.0% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 43% | 5.00 | 39.6% | ⏳ pendiente | — |
 | MisterVision | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Team Yandex (BUY) | 60% | 5.00 | 49.6% | ✅ ganada | +3.23 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 41% | 5.00 | 32.1% | ❌ perdida | -5.15 |
 | RN1 | Al Riyadh Saudi Club vs. Al Nassr Saudi  | Over (BUY) | 80% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -258,8 +258,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Team Heretics vs SK Gaming - Game 2 | SK Gaming (BUY) | 63% | 5.00 | 8.3% | ⏳ pendiente | — |
 | RN1 | Will Al Nassr Saudi Club win on 2026-08- | Yes (BUY) | 80% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Anastasija Cvetko | Mara Guth (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Luca Van Assche (BUY) | 54% | 5.00 | 4.9% | ⏳ pendiente | — |
-| RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Benjamin Bonzi (BUY) | 44% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Luca Van Assche (BUY) | 54% | 5.00 | 4.9% | ✅ ganada | +4.14 |
+| RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Benjamin Bonzi (BUY) | 44% | 5.00 | 1.0% | ❌ perdida | -5.14 |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 99% | 5.00 | 15.0% | ✅ ganada | +0.05 |
 | RN1 | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 52% | 5.00 | 4.6% | ⏳ pendiente | — |
 | crisp1973 | Will Al Diraiyah Saudi Club win on 2026- | Yes (BUY) | 50% | 5.00 | 80.1% | ⏳ pendiente | — |

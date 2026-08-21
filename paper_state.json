@@ -1,5 +1,5 @@
 {
-  "bankroll": 401.66179654054605,
+  "bankroll": 400.66605579980535,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4020,6 +4020,16 @@
       "timestamp": 1787333563.8476386,
       "bankroll": 401.66,
       "event": "won: MisterVision \u2014 Dota 2: Team Yandex vs Nigma Galaxy - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787333929.5079763,
+      "bankroll": 396.52,
+      "event": "lost: RN1 \u2014 Quebec City: Benjamin Bonzi vs Luca Van Assche"
+    },
+    {
+      "timestamp": 1787333929.6081161,
+      "bankroll": 400.67,
+      "event": "won: RN1 \u2014 Quebec City: Benjamin Bonzi vs Luca Van Assche"
     }
   ]
 }
