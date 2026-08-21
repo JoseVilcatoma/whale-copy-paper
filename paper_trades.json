@@ -18534,8 +18534,8 @@
     "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 170065.50618600004,
-    "whale_pct": 5.317,
+    "whale_usd": 289750.334886,
+    "whale_pct": 9.059,
     "whale_value_at_open": 3198400.0035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -18548,8 +18548,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787303223.3254175,
-    "fills": 7
+    "last_fill_at": 1787303289.1627362,
+    "fills": 8
   },
   {
     "timestamp": 1787293698,
@@ -19112,5 +19112,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787303199.6040208,
     "fills": 4
+  },
+  {
+    "timestamp": 1787303294,
+    "timestamp_added": 1787303294.6967077,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "dota2-liquid-flc-2026-08-21",
+    "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
+    "outcome": "Team Falcons",
+    "side": "BUY",
+    "whale_usd": 599.579999,
+    "whale_pct": 0.911,
+    "whale_value_at_open": 65830.4339,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "Djdjdjekekek",
+      "Lakersfan111",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787303294.6967263,
+    "fills": 1
   }
 ]
