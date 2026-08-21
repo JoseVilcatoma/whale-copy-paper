@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 00:55:02 (hora de Perú)
+Actualizado: 2026-08-21 00:57:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $457.09
@@ -213,12 +213,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 47% | 5.00 | 224.9% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 59% | 5.00 | 203.1% | 💰 vendida anticipada | +0.40 |
 | ExplosiveNinja | Counter-Strike: Vitality vs Spirit (BO3) | Vitality (BUY) | 57% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Iron Wing vs BoomBoys (BO3) - Th | BoomBoys (BUY) | 55% | 5.00 | 67.9% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 61% | 5.00 | 154.4% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: FUT Esports vs MOUZ (BO3 | MOUZ (BUY) | 61% | 5.00 | 165.6% | ⏳ pendiente | — |
 |  | Connecticut Sun vs. Las Vegas Aces | Las Vegas Aces (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | casualbet2020 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 55% | 5.00 | 23.4% | ⏳ pendiente | — |
 | Lakersfan111 | Counter-Strike: Vitality vs Spirit (BO3) | Spirit (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |

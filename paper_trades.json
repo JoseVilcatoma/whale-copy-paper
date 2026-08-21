@@ -18397,8 +18397,8 @@
     "title": "Counter-Strike: FUT Esports vs MOUZ (BO3) - Esports World Cup Playoffs",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 20773.5,
-    "whale_pct": 154.433,
+    "whale_usd": 22273.5,
+    "whale_pct": 165.584,
     "whale_value_at_open": 13451.4825,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -18411,8 +18411,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787289793.360907,
-    "fills": 5
+    "last_fill_at": 1787291777.9898584,
+    "fills": 6
   },
   {
     "timestamp": 1787287886,
@@ -18534,8 +18534,8 @@
     "title": "Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 33730.8589,
-    "whale_pct": 1.055,
+    "whale_usd": 53223.5467,
+    "whale_pct": 1.664,
     "whale_value_at_open": 3198400.0035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -18548,7 +18548,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787291618.7488003,
-    "fills": 2
+    "last_fill_at": 1787291742.0366926,
+    "fills": 3
   }
 ]
