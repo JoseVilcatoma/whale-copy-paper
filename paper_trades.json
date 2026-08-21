@@ -20941,5 +20941,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787330298.2945712,
     "fills": 1
+  },
+  {
+    "timestamp": 1787330496,
+    "timestamp_added": 1787330496.987396,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "dfb-mun-ksc-2026-08-21-total-1pt5",
+    "title": "SC Preu\u00dfen M\u00fcnster vs. Karlsruher SC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 756.2301,
+    "whale_pct": 0.478,
+    "whale_value_at_open": 158169.1225,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787330496.987408,
+    "fills": 1
   }
 ]

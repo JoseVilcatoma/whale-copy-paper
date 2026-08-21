@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 11:41:32 (hora de Perú)
+Actualizado: 2026-08-21 11:43:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $401.34
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 11:41:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $166.34)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $161.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 19 | 2 | -49.09 USD |
-| RN1 | 109 | 55 | 20 | -56.19 USD |
+| RN1 | 109 | 55 | 21 | -56.19 USD |
 
 ## Análisis general
 
@@ -232,6 +232,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | SC Preußen Münster vs. Karlsruher SC: O/ | Over (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Seinajoen JK win on 2026-08-21? | Yes (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CA Aldosivi win on 2026-08-21? | No (BUY) | 65% | 5.00 | 2.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: Vitality vs Spirit - Map | Spirit (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -261,4 +262,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Carlos Lopez Montagud (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Santander Men: Carlos Lopez Mont | Sergi Perez Contri (BUY) | 59% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Nigma Galaxy (BUY) | 41% | 5.00 | 189.4% | ⏳ pendiente | — |
