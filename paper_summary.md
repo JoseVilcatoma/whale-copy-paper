@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 03:55:07 (hora de Perú)
+Actualizado: 2026-08-21 03:57:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $447.38
-**Retorno acumulado:** -10.52%
+**Bankroll actual:** $447.73
+**Retorno acumulado:** -10.45%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 03:55:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $292.38)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $317.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 16 | 1 | 2 | +28.01 USD |
+| IMAREALPERSON | 16 | 2 | 1 | +22.87 USD |
 | casualbet2020 | 4 | 0 | 2 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Lakersfan111 | 6 | 3 | 10 | +11.72 USD |
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BOOMBOYS.Kiritych | 2 | 1 | 0 | +1.22 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| Djdjdjekekek | 3 | 1 | 1 | +1.07 USD |
 | HVAB | 1 | 0 | 0 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
@@ -41,30 +42,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 9 | 8 | 0 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | ChonkyChocolateCake | 4 | 3 | 2 | -1.19 USD |
-| Djdjdjekekek | 2 | 1 | 2 | -1.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 2 | -5.33 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 2 | 3 | 0 | -6.64 USD |
 | ferrariChampions2026 | 189 | 107 | 2 | -6.78 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+|  | 21 | 13 | 4 | -21.39 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
-|  | 20 | 13 | 5 | -25.71 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | RN1 | 108 | 55 | 1 | -57.10 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 721
-- **Aciertos:** 460 (63.8%)
-- **Cuota promedio de entrada:** 63.5%
+- **Apuestas resueltas:** 726
+- **Aciertos:** 463 (63.8%)
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,600.45
-- **ROI sobre lo apostado:** -2.18%
-- **Comisiones pagadas (taker fee):** $65.78 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,625.45
+- **ROI sobre lo apostado:** -2.16%
+- **Comisiones pagadas (taker fee):** $66.38 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -72,8 +72,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 355 | 46.2% | 50.1% | -3.9 pp |
-| 60-79% | 227 | 74.9% | 67.8% | +7.1 pp |
+| 40-59% | 359 | 46.2% | 50.1% | -3.8 pp |
+| 60-79% | 228 | 75.0% | 67.8% | +7.2 pp |
 | 80-94% | 90 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 49 | 98.0% | 97.3% | +0.7 pp |
 
@@ -221,16 +221,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ITF W75 Kursumlijska Banja 3 Women: Dary | Darya Astakhova (BUY) | 62% | 5.00 | 1.4% | ⏳ pendiente | — |
 |  | ITF M25 Idanha-a-Nova 2 Men: Philip Henn | Philip Henning (BUY) | 96% | 5.00 | 2.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: HANJIN BRION vs BNK FEARX - Game 1  | HANJIN BRION (BUY) | 45% | 5.00 | 132.8% | ⏳ pendiente | — |
-| IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 42% | 5.00 | 3.9% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 42% | 5.00 | 3.9% | ❌ perdida | -5.14 |
 | TeGeeLP | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 63% | 5.00 | 11.4% | ⏳ pendiente | — |
 |  | LoL: EDward Gaming vs ThunderTalk Gaming | EDward Gaming (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | MisterVision | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 72% | 5.00 | 105.7% | ⏳ pendiente | — |
 | MisterVision | LoL: EDward Gaming vs ThunderTalk Gaming | ThunderTalk Gaming (BUY) | 51% | 5.00 | 54.1% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 66% | 5.00 | 11.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 46% | 5.00 | 16.6% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 66% | 5.00 | 11.2% | ✅ ganada | +2.49 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 46% | 5.00 | 16.6% | ❌ perdida | -5.13 |
 | casualbet2020 | Valorant: JD Gaming vs Bilibili Gaming ( | JD Gaming (BUY) | 41% | 5.00 | 6.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 56% | 5.00 | 37.6% | ⏳ pendiente | — |
-|  | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 5.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 56% | 5.00 | 37.6% | ✅ ganada | +3.82 |
+|  | Dota 2: Team Liquid vs Team Falcons - Ga | Team Liquid (BUY) | 53% | 5.00 | 5.7% | ✅ ganada | +4.32 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons - Ga | Team Falcons (BUY) | 61% | 5.00 | 63.3% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 49% | 5.00 | 9.4% | ⏳ pendiente | — |
 |  | Will FC Dinamo Batumi win on 2026-08-21? | Yes (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |

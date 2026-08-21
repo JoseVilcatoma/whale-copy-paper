@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.37873419315946,
+  "bankroll": 447.72502546163946,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3685,6 +3685,31 @@
       "timestamp": 1787298647.6376717,
       "bankroll": 447.38,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Falcons - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787302551.0510805,
+      "bankroll": 451.7,
+      "event": "won:  \u2014 Dota 2: Team Liquid vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787302551.1512496,
+      "bankroll": 455.51,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Liquid vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787302551.5710905,
+      "bankroll": 450.38,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Liquid vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787302551.6713018,
+      "bankroll": 452.87,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Liquid vs Team Falcons - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787302552.172235,
+      "bankroll": 447.73,
+      "event": "lost: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Falcons - Game 2 Winner"
     }
   ]
 }
