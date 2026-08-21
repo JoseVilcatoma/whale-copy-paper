@@ -19245,5 +19245,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787305765.6306286,
     "fills": 1
+  },
+  {
+    "timestamp": 1787306240,
+    "timestamp_added": 1787306240.825336,
+    "username": "TeGeeLP",
+    "wallet": "0xe1000ddb5f5025849765e29d051dfff78f5d4d41",
+    "slug": "lol-al-we-2026-08-21-game2",
+    "title": "LoL: Anyone's Legend vs Team WE - Game 2 Winner",
+    "outcome": "Team WE",
+    "side": "BUY",
+    "whale_usd": 1365.4360000000001,
+    "whale_pct": 1.924,
+    "whale_value_at_open": 70955.26,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787306300.9579372,
+    "fills": 2
   }
 ]
