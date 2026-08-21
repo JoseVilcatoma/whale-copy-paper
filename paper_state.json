@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.2175456578613,
+  "bankroll": 441.0895456578613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3785,6 +3785,11 @@
       "timestamp": 1787311893.791085,
       "bankroll": 446.22,
       "event": "lost:  \u2014 ITF M25 Idanha-a-Nova 2 Men: Philip Henning vs Rodrigo Fernandes"
+    },
+    {
+      "timestamp": 1787312457.5857186,
+      "bankroll": 441.09,
+      "event": "lost: Djdjdjekekek \u2014 Dota 2: Team Spirit vs TEAM VISION - Game 1 Winner"
     }
   ]
 }
