@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.58771977688946,
+  "bankroll": 448.9828553701098,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3605,6 +3605,11 @@
       "timestamp": 1787287408.0870416,
       "bankroll": 448.59,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-8.5)"
+    },
+    {
+      "timestamp": 1787288766.3296869,
+      "bankroll": 448.98,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Iron Wing vs BoomBoys (BO3) - The International Playoffs (+0.40 USD)"
     }
   ]
 }
