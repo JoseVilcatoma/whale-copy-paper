@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.72071977688944,
+  "bankroll": 448.58771977688946,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3600,6 +3600,11 @@
       "timestamp": 1787287099.763786,
       "bankroll": 453.72,
       "event": "won: ferrariChampions2026 \u2014 Botafogo FR vs. CS Cienciano: O/U 1.5"
+    },
+    {
+      "timestamp": 1787287408.0870416,
+      "bankroll": 448.59,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-8.5)"
     }
   ]
 }
