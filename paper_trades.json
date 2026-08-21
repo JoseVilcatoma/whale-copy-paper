@@ -18601,5 +18601,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787293808.8569045,
     "fills": 2
+  },
+  {
+    "timestamp": 1787293931,
+    "timestamp_added": 1787293931.6709914,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-liquid-flc-2026-08-21-game1",
+    "title": "Dota 2: Team Liquid vs Team Falcons - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 1210.858133,
+    "whale_pct": 0.328,
+    "whale_value_at_open": 369456.9321,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787293933.291931,
+    "fills": 2
   }
 ]
