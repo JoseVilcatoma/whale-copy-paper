@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.44539937456227,
+  "bankroll": 454.35039937456224,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3755,6 +3755,11 @@
       "timestamp": 1787307154.8363118,
       "bankroll": 459.45,
       "event": "won: IMAREALPERSON \u2014 Dota 2: Team Liquid vs Team Falcons (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787307469.7159052,
+      "bankroll": 454.35,
+      "event": "lost:  \u2014 ITF W75 Kursumlijska Banja 3 Women: Darya Astakhova vs Rada Zolotareva"
     }
   ]
 }
