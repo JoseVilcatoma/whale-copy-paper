@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 10:58:21 (hora de Perú)
+Actualizado: 2026-08-21 11:00:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $412.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 10:58:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $197.51)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $192.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 18 | 3 | -44.03 USD |
-| RN1 | 108 | 55 | 9 | -57.10 USD |
+| RN1 | 108 | 55 | 10 | -57.10 USD |
 
 ## Análisis general
 
@@ -230,6 +230,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Luca Van Assche (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Quebec City: Benjamin Bonzi vs Luca Van  | Benjamin Bonzi (BUY) | 44% | 5.00 | 1.0% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Yandex vs Nigma Galaxy - Ga | Nigma Galaxy (BUY) | 99% | 5.00 | 15.0% | ⏳ pendiente | — |
 | RN1 | Will Al Diraiyah Saudi Club win on 2026- | No (BUY) | 52% | 5.00 | 4.6% | ⏳ pendiente | — |
@@ -259,4 +260,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | crisp1973 | Al Faisaly Saudi Club vs. NEOM SC: O/U 2 | Over (BUY) | 55% | 5.00 | 26.6% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 37.9% | ⏳ pendiente | — |
