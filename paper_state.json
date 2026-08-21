@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.9794442330198,
+  "bankroll": 489.4521497562547,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3325,6 +3325,21 @@
       "timestamp": 1787270559.0979128,
       "bankroll": 482.98,
       "event": "won: ferrariChampions2026 \u2014 Cancun: Henrique Rocha vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1787274166.7881856,
+      "bankroll": 485.25,
+      "event": "won: casualbet2020 \u2014 Valorant: Sentinels vs 2GAME Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787274167.3444953,
+      "bankroll": 488.1,
+      "event": "won: Lakersfan111 \u2014 Valorant: Sentinels vs 2GAME Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787274168.1068885,
+      "bankroll": 489.45,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Sentinels vs 2GAME Esports - Map 2 Winner"
     }
   ]
 }

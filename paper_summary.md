@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-20 20:00:47 (hora de Perú)
+Actualizado: 2026-08-20 20:02:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.98
-**Retorno acumulado:** -3.40%
+**Bankroll actual:** $489.45
+**Retorno acumulado:** -2.11%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-20 20:00:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $202.98)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $224.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,10 +22,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
+| Lakersfan111 | 4 | 0 | 12 | +19.61 USD |
 | IMAREALPERSON | 13 | 1 | 0 | +19.00 USD |
-| Lakersfan111 | 3 | 0 | 13 | +16.77 USD |
+| casualbet2020 | 4 | 0 | 0 | +13.30 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| casualbet2020 | 3 | 0 | 1 | +11.03 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 4 | 3 | 0 | -1.19 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| ferrariChampions2026 | 168 | 95 | 21 | -4.45 USD |
 | SDTrading | 8 | 8 | 1 | -4.90 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 1 | 2 | 0 | -5.33 USD |
-| ferrariChampions2026 | 167 | 95 | 22 | -5.81 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
@@ -55,14 +55,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 652
-- **Aciertos:** 420 (64.4%)
+- **Apuestas resueltas:** 655
+- **Aciertos:** 423 (64.6%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,255.45
-- **ROI sobre lo apostado:** -1.19%
-- **Comisiones pagadas (taker fee):** $58.99 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,270.45
+- **ROI sobre lo apostado:** -0.99%
+- **Comisiones pagadas (taker fee):** $59.22 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -71,7 +71,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 315 | 47.6% | 50.1% | -2.5 pp |
-| 60-79% | 210 | 74.3% | 68.0% | +6.3 pp |
+| 60-79% | 213 | 74.6% | 68.0% | +6.6 pp |
 | 80-94% | 81 | 85.2% | 86.9% | -1.7 pp |
 | 95-99% (casi seguro) | 46 | 97.8% | 97.2% | +0.6 pp |
 
