@@ -19336,8 +19336,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "TeGeeLP"
     ],
@@ -19777,8 +19777,8 @@
     "title": "Valorant: Enterprise Esports vs Karmine Corp (BO3) - VCT EMEA Playoffs",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 2648.922222,
-    "whale_pct": 23.127,
+    "whale_usd": 3178.022222,
+    "whale_pct": 27.746,
     "whale_value_at_open": 11453.917,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -19789,8 +19789,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787321366.4176571,
-    "fills": 4
+    "last_fill_at": 1787322425.5011253,
+    "fills": 5
   },
   {
     "timestamp": 1787317203,
@@ -20002,8 +20002,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons - Map 1 Winner",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 14349.104187,
-    "whale_pct": 3.071,
+    "whale_usd": 18072.700520000002,
+    "whale_pct": 3.868,
     "whale_value_at_open": 467208.5297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -20016,8 +20016,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787322133.5027432,
-    "fills": 10
+    "last_fill_at": 1787322316.5301192,
+    "fills": 13
   },
   {
     "timestamp": 1787320802,
@@ -20133,8 +20133,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - Esports World Cup Playoffs",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 34928.9538,
-    "whale_pct": 6.716,
+    "whale_usd": 35674.758,
+    "whale_pct": 6.859,
     "whale_value_at_open": 520095.3057,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -20148,8 +20148,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787322296.7553415,
-    "fills": 3
+    "last_fill_at": 1787322325.4828343,
+    "fills": 4
   },
   {
     "timestamp": 1787322220,

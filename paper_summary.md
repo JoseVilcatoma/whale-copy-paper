@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 09:25:11 (hora de Perú)
+Actualizado: 2026-08-21 09:27:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $424.24
-**Retorno acumulado:** -15.15%
+**Bankroll actual:** $419.14
+**Retorno acumulado:** -16.17%
 **Peor caída desde un máximo (drawdown):** 25.62%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 09:25:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $244.24)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $244.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,9 +49,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 190 | 108 | 8 | -7.93 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 5 | 1 | -9.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 4 | 6 | 0 | -14.66 USD |
 | Sassy-Bucket | 6 | 10 | 0 | -23.92 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 24 | 18 | 3 | -44.03 USD |
@@ -59,14 +59,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 755
-- **Aciertos:** 477 (63.2%)
+- **Apuestas resueltas:** 756
+- **Aciertos:** 477 (63.1%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $3,770.45
-- **ROI sobre lo apostado:** -2.89%
-- **Comisiones pagadas (taker fee):** $69.39 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $3,775.45
+- **ROI sobre lo apostado:** -3.02%
+- **Comisiones pagadas (taker fee):** $69.49 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -74,7 +74,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 381 | 45.9% | 50.1% | -4.2 pp |
+| 40-59% | 382 | 45.8% | 50.1% | -4.3 pp |
 | 60-79% | 231 | 74.9% | 67.8% | +7.0 pp |
 | 80-94% | 92 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 51 | 96.1% | 97.3% | -1.2 pp |
@@ -228,12 +228,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | ITF W35 Verbier Women: Anastasija Cvetko | Anastasija Cvetkovic (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 62% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 64% | 5.00 | 5.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Legacy (BUY) | 49% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Map Handicap: FAL (-1.5) vs Legacy (+1.5 | Team Falcons (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sion: Dominic Stephan Stricker vs Tommas | Dominic Stephan Stricker (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 52% | 5.00 | 3.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: Legacy vs Team Falcons - | Legacy (BUY) | 51% | 5.00 | 199.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: Legacy vs Team Falcons - | Team Falcons (BUY) | 53% | 5.00 | 7.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Dota 2: Team Yandex vs Nigma Galaxy (BO3 | Team Yandex (BUY) | 66% | 5.00 | 519.4% | ⏳ pendiente | — |
@@ -242,7 +242,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | crisp1973 | Al Faisaly Saudi Club vs. NEOM SC: O/U 2 | Over (BUY) | 55% | 5.00 | 21.9% | ⏳ pendiente | — |
-| IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 23.1% | ⏳ pendiente | — |
+| IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 27.7% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Spirit vs TEAM VISION (BO3) | Team Spirit (BUY) | 45% | 5.00 | 1.5% | ❌ perdida | -5.14 |

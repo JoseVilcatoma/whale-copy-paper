@@ -1,5 +1,5 @@
 {
-  "bankroll": 424.24274853187757,
+  "bankroll": 419.13774853187755,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -3880,6 +3880,11 @@
       "timestamp": 1787321729.1134531,
       "bankroll": 424.24,
       "event": "lost: Lakersfan111 \u2014 Counter-Strike: FUT Esports vs MOUZ - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787322371.1544204,
+      "bankroll": 419.14,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Anyone's Legend vs Team WE - Game 2 Winner"
     }
   ]
 }
