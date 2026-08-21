@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 08:18:59 (hora de Perú)
+Actualizado: 2026-08-21 08:21:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.34
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 08:18:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $301.34)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $291.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ExplosiveNinja | 0 | 0 | 2 | +0.00 USD |
 | crisp1973 | 0 | 0 | 2 | +0.00 USD |
-| SDTrading | 9 | 8 | 4 | -0.02 USD |
+| SDTrading | 9 | 8 | 6 | -0.02 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -224,6 +224,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
+| SDTrading | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | crisp1973 | Al Faisaly Saudi Club vs. NEOM SC: O/U 2 | Over (BUY) | 55% | 5.00 | 8.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Valorant: Enterprise Esports vs Karmine  | Karmine Corp (BUY) | 56% | 5.00 | 4.8% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
@@ -252,5 +254,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TeGeeLP | LoL: Anyone's Legend vs Team WE - Game 2 | Team WE (BUY) | 42% | 5.00 | 5.4% | 💰 vendida anticipada | -0.64 |
 | IMAREALPERSON | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 59% | 5.00 | 92.6% | ✅ ganada | +3.37 |
 |  | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Falcons (BUY) | 43% | 5.00 | 0.9% | ❌ perdida | -5.14 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Liquid vs Team Falcons (BO3 | Team Liquid (BUY) | 55% | 5.00 | 143.2% | ✅ ganada | +3.98 |
-|  | ITF W35 Bistrita Women: Jessica Pieri vs | Jessica Pieri (BUY) | 85% | 5.00 | 1.5% | ✅ ganada | +0.84 |
