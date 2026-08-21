@@ -18450,8 +18450,8 @@
     "title": "Counter-Strike: Vitality vs Spirit (BO3) - Esports World Cup Playoffs",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 13821.624,
-    "whale_pct": 83.404,
+    "whale_usd": 19621.624,
+    "whale_pct": 118.403,
     "whale_value_at_open": 16571.8331,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -18464,8 +18464,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787315636.8497376,
-    "fills": 4
+    "last_fill_at": 1787316168.2944975,
+    "fills": 5
   },
   {
     "timestamp": 1787288553,
@@ -19668,6 +19668,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787315723.804531,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787316123,
+    "timestamp_added": 1787316124.354689,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-ts8-vsn2-2026-08-21",
+    "title": "Dota 2: Team Spirit vs TEAM VISION (BO3) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 1901.7389999999998,
+    "whale_pct": 9.573,
+    "whale_value_at_open": 19865.9708,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787316124.354705,
     "fills": 1
   }
 ]
