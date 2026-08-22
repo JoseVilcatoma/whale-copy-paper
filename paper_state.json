@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.8340447598021,
+  "bankroll": 467.6129982481742,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4945,6 +4945,11 @@
       "timestamp": 1787418699.4292274,
       "bankroll": 466.83,
       "event": "venta anticipada: danielwolfmorales3pddb6dl6 \u2014 Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs (+7.05 USD)"
+    },
+    {
+      "timestamp": 1787419595.3682745,
+      "bankroll": 467.61,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Felix Balshaw vs Luca Pow"
     }
   ]
 }
