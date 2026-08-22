@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 05:18:25 (hora de Perú)
+Actualizado: 2026-08-22 05:20:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $443.35
-**Retorno acumulado:** -11.33%
+**Bankroll actual:** $438.23
+**Retorno acumulado:** -12.35%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 05:18:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $258.35)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $258.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 26 | 8 | 4 | +27.44 USD |
+| IMAREALPERSON | 26 | 9 | 3 | +22.32 USD |
 | casualbet2020 | 7 | 2 | 2 | +15.95 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 7 | 1 | +14.31 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 883
-- **Aciertos:** 556 (63.0%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 884
+- **Aciertos:** 556 (62.9%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,410.45
-- **ROI sobre lo apostado:** -2.57%
-- **Comisiones pagadas (taker fee):** $81.92 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.71% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,415.45
+- **ROI sobre lo apostado:** -2.68%
+- **Comisiones pagadas (taker fee):** $82.04 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 448 | 47.1% | 50.1% | -3.0 pp |
+| 40-59% | 449 | 47.0% | 50.1% | -3.1 pp |
 | 60-79% | 275 | 73.1% | 67.6% | +5.5 pp |
 | 80-94% | 104 | 86.5% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -260,7 +260,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 49% | 5.00 | 59.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 60% | 5.00 | 16.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 47% | 5.00 | 2.1% | 💰 vendida anticipada | +4.28 |
-| IMAREALPERSON | Dota 2: TEAM VISION vs Team Yandex - Gam | Team Yandex (BUY) | 51% | 5.00 | 167.0% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: TEAM VISION vs Team Yandex - Gam | Team Yandex (BUY) | 51% | 5.00 | 167.0% | ❌ perdida | -5.12 |
 | MisterVision | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G (BUY) | 59% | 5.00 | 28.7% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LC | DN SOOPers (BUY) | 56% | 5.00 | 23.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 42% | 5.00 | 21.2% | ⏳ pendiente | — |
