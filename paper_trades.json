@@ -27017,8 +27017,8 @@
     "title": "Spread: CD Guadalajara (-1.5)",
     "outcome": "CD Guadalajara",
     "side": "BUY",
-    "whale_usd": 4697.454915,
-    "whale_pct": 8.143,
+    "whale_usd": 5355.956115,
+    "whale_pct": 9.284,
     "whale_value_at_open": 57689.6394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -27029,8 +27029,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787438227.9269187,
-    "fills": 3
+    "last_fill_at": 1787439279.5712545,
+    "fills": 4
   },
   {
     "timestamp": 1787438327,
@@ -27137,8 +27137,8 @@
     "title": "Will Orlando City SC win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 85485.19300000001,
-    "whale_pct": 136.835,
+    "whale_usd": 110301.72943600002,
+    "whale_pct": 176.559,
     "whale_value_at_open": 62473.0056,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -27151,7 +27151,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787439173.6132178,
-    "fills": 9
+    "last_fill_at": 1787439351.8044267,
+    "fills": 21
   }
 ]
