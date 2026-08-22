@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 20:28:48 (hora de Perú)
+Actualizado: 2026-08-21 20:30:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $436.23
-**Retorno acumulado:** -12.75%
+**Bankroll actual:** $436.32
+**Retorno acumulado:** -12.74%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 20:28:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $311.23)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $316.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,8 +36,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
+| HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| HVAB | 1 | 0 | 1 | +1.03 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ChonkyChocolateCake | 8 | 5 | 0 | +0.13 USD |
 | kluckkluck | 0 | 0 | 1 | +0.00 USD |
@@ -61,11 +61,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 840
-- **Aciertos:** 531 (63.2%)
+- **Apuestas resueltas:** 841
+- **Aciertos:** 532 (63.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,195.45
+- **Total apostado (suma de stakes):** $4,200.45
 - **ROI sobre lo apostado:** -2.50%
 - **Comisiones pagadas (taker fee):** $77.31 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.66% _(referencia: cuánto pesan las comisiones)_
@@ -79,7 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 419 | 47.0% | 50.1% | -3.1 pp |
 | 60-79% | 264 | 73.1% | 67.7% | +5.4 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
-| 95-99% (casi seguro) | 55 | 96.4% | 97.3% | -0.9 pp |
+| 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -241,7 +241,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ⏳ pendiente | — |
-| OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ⏳ pendiente | — |
+| OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ✅ ganada | +0.10 |
 | kluckkluck | Will Audax CS Italiano win on 2026-08-21 | Yes (BUY) | 47% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Audax CS Italiano win on 2026-08-21 | No (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ⏳ pendiente | — |

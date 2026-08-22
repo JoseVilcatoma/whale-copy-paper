@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.22729069971297,
+  "bankroll": 436.3243315160395,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4335,6 +4335,11 @@
       "timestamp": 1787361201.2122965,
       "bankroll": 436.23,
       "event": "won: ferrariChampions2026 \u2014 Will CA San Lorenzo de Almagro win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787362141.8569095,
+      "bankroll": 436.32,
+      "event": "won: OOOwhyOOO \u2014 Quebec City: Taro Daniel vs Jacob Fearnley"
     }
   ]
 }
