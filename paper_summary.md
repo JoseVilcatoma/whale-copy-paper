@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 21:27:57 (hora de Perú)
+Actualizado: 2026-08-21 21:29:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $431.16
@@ -240,7 +240,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 585.4% | ⏳ pendiente | — |
+| kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 766.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Club León FC vs. CF Monterrey: O/U 2.5 | Under (BUY) | 49% | 5.00 | 5.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ⏳ pendiente | — |
