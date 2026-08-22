@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 11:49:08 (hora de Perú)
+Actualizado: 2026-08-22 11:51:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $458.42
@@ -258,7 +258,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 54% | 5.00 | 3.1% | ⏳ pendiente | — |
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 54% | 5.00 | 4.4% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 52% | 5.00 | 8.2% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 2 Winner | Shifters (BUY) | 51% | 5.00 | 10.0% | 💰 vendida anticipada | -3.71 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Felix | Felix Balshaw (BUY) | 86% | 5.00 | 5.2% | ⏳ pendiente | — |
