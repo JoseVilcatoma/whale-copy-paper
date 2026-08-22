@@ -24063,8 +24063,8 @@
     "title": "Roehampton: Oliver Tarvet vs Lucas Poullain",
     "outcome": "Oliver Tarvet",
     "side": "BUY",
-    "whale_usd": 2760.0,
-    "whale_pct": 2.73,
+    "whale_usd": 4712.02,
+    "whale_pct": 4.661,
     "whale_value_at_open": 101102.9803,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -24077,7 +24077,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787398048.5817256,
-    "fills": 2
+    "last_fill_at": 1787398050.2554026,
+    "fills": 4
   }
 ]
