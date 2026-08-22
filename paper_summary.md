@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:12:30 (hora de Perú)
+Actualizado: 2026-08-22 15:14:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.46
@@ -263,7 +263,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | FlyQuest (BUY) | 54% | 5.00 | 41.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 49% | 5.00 | 12.8% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Panna Udv | Emiliana Arango (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 62% | 5.00 | 2.3% | ⏳ pendiente | — |
