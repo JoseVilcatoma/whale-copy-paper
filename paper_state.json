@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.90042474440213,
+  "bankroll": 434.28622551068565,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4640,6 +4640,21 @@
       "timestamp": 1787400142.2032757,
       "bankroll": 429.9,
       "event": "lost: RN1 \u2014 ITF M15 B\u00e5stad Men: Jan Simonsson vs Niklas Guttau"
+    },
+    {
+      "timestamp": 1787400515.8469236,
+      "bankroll": 433.42,
+      "event": "won: casualbet2020 \u2014 Valorant: Bilibili Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1787400518.9644816,
+      "bankroll": 439.39,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 LoL: Team WE vs LGD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787400519.064596,
+      "bankroll": 434.29,
+      "event": "lost: MisterVision \u2014 LoL: Team WE vs LGD Gaming - Game 2 Winner"
     }
   ]
 }

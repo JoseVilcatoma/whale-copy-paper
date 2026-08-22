@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 07:06:42 (hora de Perú)
+Actualizado: 2026-08-22 07:08:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $429.90
-**Retorno acumulado:** -14.02%
+**Bankroll actual:** $434.29
+**Retorno acumulado:** -13.14%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 07:06:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $119.90)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $139.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 26 | 9 | 3 | +22.32 USD |
-| casualbet2020 | 7 | 2 | 2 | +15.95 USD |
+| casualbet2020 | 8 | 2 | 1 | +19.47 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 5 | +15.05 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 7 | 1 | +14.31 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -40,12 +40,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ChonkyChocolateCake | 8 | 5 | 8 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 8 | 6 | 1 | -2.11 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| ChonkyChocolateCake | 8 | 6 | 7 | -4.97 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 2 | -5.12 USD |
 | crisp1973 | 1 | 2 | 1 | -5.31 USD |
@@ -54,21 +54,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | HomeRunHazard | 45 | 26 | 7 | -17.12 USD |
+| danielwolfmorales3pddb6dl6 | 8 | 12 | 5 | -26.21 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
-| danielwolfmorales3pddb6dl6 | 7 | 12 | 6 | -32.18 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 132 | 65 | 25 | -50.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 892
-- **Aciertos:** 560 (62.8%)
+- **Apuestas resueltas:** 895
+- **Aciertos:** 562 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,455.45
-- **ROI sobre lo apostado:** -2.85%
-- **Comisiones pagadas (taker fee):** $82.85 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,470.45
+- **ROI sobre lo apostado:** -2.74%
+- **Comisiones pagadas (taker fee):** $83.20 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.88% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 453 | 47.0% | 50.1% | -3.1 pp |
+| 40-59% | 456 | 47.1% | 50.1% | -3.0 pp |
 | 60-79% | 279 | 72.8% | 67.6% | +5.1 pp |
 | 80-94% | 104 | 86.5% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
