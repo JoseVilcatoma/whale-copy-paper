@@ -22224,5 +22224,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787363843.9125822,
     "fills": 1
+  },
+  {
+    "timestamp": 1787365360,
+    "timestamp_added": 1787365360.9274986,
+    "username": "kluckkluck",
+    "wallet": "0x0cbee43106c8949af8d04162425e482dade51f4e",
+    "slug": "mex-jua-ame-2026-08-21-ame",
+    "title": "Will CF Am\u00e9rica win on 2026-08-21?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 30881.060599999997,
+    "whale_pct": 422.596,
+    "whale_value_at_open": 7307.4613,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787365418.830632,
+    "fills": 4
   }
 ]
