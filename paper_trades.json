@@ -23331,8 +23331,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -24693,8 +24693,8 @@
     "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 4000.0,
-    "whale_pct": 16.12,
+    "whale_usd": 8000.0,
+    "whale_pct": 32.241,
     "whale_value_at_open": 24813.3877,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -24707,8 +24707,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787402913.1340575,
-    "fills": 1
+    "last_fill_at": 1787407136.0321434,
+    "fills": 2
   },
   {
     "timestamp": 1787403052,

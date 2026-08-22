@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 08:57:38 (hora de Perú)
+Actualizado: 2026-08-22 08:59:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $449.92
-**Retorno acumulado:** -10.02%
+**Bankroll actual:** $444.83
+**Retorno acumulado:** -11.03%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 08:57:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $234.92)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $234.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ChonkyChocolateCake | 10 | 8 | 3 | -10.51 USD |
-| HomeRunHazard | 47 | 26 | 6 | -14.80 USD |
+| HomeRunHazard | 47 | 27 | 5 | -19.89 USD |
 | danielwolfmorales3pddb6dl6 | 9 | 13 | 8 | -24.57 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 142 | 69 | 11 | -42.11 USD |
@@ -63,14 +63,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 922
-- **Aciertos:** 581 (63.0%)
+- **Apuestas resueltas:** 923
+- **Aciertos:** 581 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,605.45
-- **ROI sobre lo apostado:** -2.34%
-- **Comisiones pagadas (taker fee):** $85.65 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,610.45
+- **ROI sobre lo apostado:** -2.44%
+- **Comisiones pagadas (taker fee):** $85.73 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -79,7 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 468 | 47.4% | 50.1% | -2.7 pp |
-| 60-79% | 290 | 72.8% | 67.7% | +5.1 pp |
+| 60-79% | 291 | 72.5% | 67.7% | +4.8 pp |
 | 80-94% | 107 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
 
@@ -262,7 +262,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Brandon Nakashima vs Fr | Brandon Nakashima (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Prague 2: Chun-Hsin Tseng vs Jan Kumstat | Chun-Hsin Tseng (BUY) | 61% | 5.00 | 21.1% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 16.1% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 32.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: JD Gaming vs Top Esports - Game 1 W | JD Gaming (BUY) | 57% | 5.00 | 42.4% | ⏳ pendiente | — |
 | SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 81.5% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: DN SOOPers vs Kiwoom DRX - Game 2 W | DN SOOPers (BUY) | 58% | 5.00 | 14.2% | ⏳ pendiente | — |

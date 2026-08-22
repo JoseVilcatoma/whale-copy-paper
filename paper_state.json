@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.92186492254143,
+  "bankroll": 444.83486492254144,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4795,6 +4795,11 @@
       "timestamp": 1787406771.5035615,
       "bankroll": 449.92,
       "event": "won: RN1 \u2014 Will Barnsley FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787407077.962978,
+      "bankroll": 444.83,
+      "event": "lost: HomeRunHazard \u2014 KBO: Kia Tigers vs. Kiwoom Heroes"
     }
   ]
 }
