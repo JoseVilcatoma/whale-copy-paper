@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 14:49:35 (hora de Perú)
+Actualizado: 2026-08-22 14:51:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.73
-**Retorno acumulado:** -3.45%
+**Bankroll actual:** $481.80
+**Retorno acumulado:** -3.64%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 14:49:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $277.73)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $286.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,21 +58,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 51 | 28 | 24 | -19.12 USD |
+| HomeRunHazard | 52 | 29 | 22 | -20.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 962
-- **Aciertos:** 610 (63.4%)
+- **Apuestas resueltas:** 964
+- **Aciertos:** 611 (63.4%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,805.45
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $89.15 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,815.45
+- **ROI sobre lo apostado:** -1.65%
+- **Comisiones pagadas (taker fee):** $89.34 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -80,8 +80,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 486 | 48.6% | 50.2% | -1.7 pp |
-| 60-79% | 304 | 71.7% | 67.7% | +4.0 pp |
+| 40-59% | 487 | 48.7% | 50.2% | -1.6 pp |
+| 60-79% | 305 | 71.5% | 67.7% | +3.7 pp |
 | 80-94% | 114 | 87.7% | 86.6% | +1.1 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
@@ -265,10 +265,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | kekasaur | Will Gimnasia y Esgrima de La Plata win  | No (BUY) | 50% | 5.00 | 9.3% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: paiN Gaming vs FURIA Esports - Game | FURIA Esports (BUY) | 73% | 5.00 | 71.8% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Marc Polmans (BUY) | 71% | 5.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Marc Polmans (BUY) | 71% | 5.00 | 1.8% | ❌ perdida | -5.07 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Abedallah Shelbayh (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Ryan Seggerman (BUY) | 41% | 5.00 | 5.2% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 1.3% | ✅ ganada | +4.14 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 5.1% | ⏳ pendiente | — |
 | MisterVision | LoL: SK Gaming vs Movistar KOI - Game 2  | SK Gaming (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 24.3% | ⏳ pendiente | — |

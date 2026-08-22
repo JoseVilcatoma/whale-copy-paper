@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.7258492222748,
+  "bankroll": 481.7971084815341,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5015,6 +5015,16 @@
       "timestamp": 1787427981.8562605,
       "bankroll": 482.73,
       "event": "won: HomeRunHazard \u2014 Quebec City: Hugo Gaston vs Luca Van Assche"
+    },
+    {
+      "timestamp": 1787428295.2711396,
+      "bankroll": 486.87,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Sebastian Gorzny vs Marc Polmans"
+    },
+    {
+      "timestamp": 1787428295.84151,
+      "bankroll": 481.8,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Sebastian Gorzny vs Marc Polmans"
     }
   ]
 }
