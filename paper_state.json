@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.7397655229769,
+  "bankroll": 421.6147655229769,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4395,6 +4395,11 @@
       "timestamp": 1787366879.0801427,
       "bankroll": 426.74,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Spirit vs Team Liquid - Game 1 Winner (+0.24 USD)"
+    },
+    {
+      "timestamp": 1787367794.9362514,
+      "bankroll": 421.61,
+      "event": "lost: Sassy-Bucket \u2014 Detroit Tigers vs. Kansas City Royals"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 22:02:29 (hora de Perú)
+Actualizado: 2026-08-21 22:04:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $426.74
-**Retorno acumulado:** -14.65%
+**Bankroll actual:** $421.61
+**Retorno acumulado:** -15.68%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 22:02:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $336.74)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $336.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,20 +55,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 10 | 11 | 2 | -11.42 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
-| Sassy-Bucket | 8 | 13 | 2 | -30.21 USD |
+| Sassy-Bucket | 8 | 14 | 1 | -35.33 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 128 | 63 | 3 | -51.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 850
-- **Aciertos:** 536 (63.1%)
+- **Apuestas resueltas:** 851
+- **Aciertos:** 536 (63.0%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,245.45
-- **ROI sobre lo apostado:** -2.72%
-- **Comisiones pagadas (taker fee):** $78.40 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,250.45
+- **ROI sobre lo apostado:** -2.83%
+- **Comisiones pagadas (taker fee):** $78.53 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 427 | 46.8% | 50.1% | -3.2 pp |
+| 40-59% | 428 | 46.7% | 50.1% | -3.4 pp |
 | 60-79% | 265 | 73.2% | 67.7% | +5.5 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -249,7 +249,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ✅ ganada | +0.10 |
 | kluckkluck | Will Audax CS Italiano win on 2026-08-21 | Yes (BUY) | 47% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Audax CS Italiano win on 2026-08-21 | No (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
-| Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ⏳ pendiente | — |
+| Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ✅ ganada | +2.49 |
 | Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ❌ perdida | -5.12 |
