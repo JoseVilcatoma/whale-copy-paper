@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 18:02:30 (hora de Perú)
+Actualizado: 2026-08-22 18:04:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.50
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 18:02:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $271.50)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $266.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 14 | 9 | 4 | -2.81 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| Wiretransferxyz | 0 | 1 | 3 | -5.12 USD |
+| Wiretransferxyz | 0 | 1 | 4 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 15 | 2 | -9.95 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -241,6 +241,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bergs-sakella-2026-08-21 | RN1, ferrariChampions2026 |
 | mlb-sf-bos-2026-08-21-total-7pt5 | Sassy-Bucket, ferrariChampions2026 |
 | chi1-aci-cul-2026-08-21-aci | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kluckkluck |
+| val-sen-kru1-2026-08-22 | Wiretransferxyz, casualbet2020 |
 | dota2-ts8-liquid-2026-08-21-game2 | BOOMBOYS.Kiritych, IMAREALPERSON |
 | cs2-furia-fut-2026-08-22 | BOOMBOYS.Kiritych, Djdjdjekekek, danielwolfmorales3pddb6dl6 |
 | dota2-ngx-boombo-2026-08-22-game2 | BOOMBOYS.Kiritych, IMAREALPERSON |
@@ -267,6 +268,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Wiretransferxyz | Valorant: Sentinels vs KRÜ Esports (BO3) | Sentinels (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Djdjdjekekek | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 57% | 5.00 | 41450.1% | ⏳ pendiente | — |
 | SDTrading | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 51% | 5.00 | 10.8% | ⏳ pendiente | — |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ⏳ pendiente | — |
@@ -296,4 +298,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 76% | 5.00 | 98.7% | 💰 vendida anticipada | +1.31 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 50% | 5.00 | 30.3% | 💰 vendida anticipada | +0.96 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 50% | 5.00 | 2.0% | ❌ perdida | -5.12 |
-| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 0.5% | ✅ ganada | +5.08 |

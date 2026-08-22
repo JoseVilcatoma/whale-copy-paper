@@ -27203,5 +27203,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787439687.7948725,
     "fills": 3
+  },
+  {
+    "timestamp": 1787439869,
+    "timestamp_added": 1787439869.8406403,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "val-sen-kru1-2026-08-22",
+    "title": "Valorant: Sentinels vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 657.8499999999999,
+    "whale_pct": 1.666,
+    "whale_value_at_open": 39489.9227,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787439869.8406518,
+    "fills": 1
   }
 ]
