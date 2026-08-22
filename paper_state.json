@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.57338801760744,
+  "bankroll": 427.5544844031496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4300,6 +4300,11 @@
       "timestamp": 1787355542.9610562,
       "bankroll": 426.57,
       "event": "won: ferrariChampions2026 \u2014 Quebec City: Zizou Bergs vs Stefanos Sakellaridis"
+    },
+    {
+      "timestamp": 1787357246.9495082,
+      "bankroll": 427.55,
+      "event": "won: ferrariChampions2026 \u2014 Cancun: Roman Safiullin vs Hubert Hurkacz"
     }
   ]
 }
