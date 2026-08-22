@@ -23859,5 +23859,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787395005.281108,
     "fills": 2
+  },
+  {
+    "timestamp": 1787396441,
+    "timestamp_added": 1787396441.9353025,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-conn-la-2026-08-22-total-166pt5",
+    "title": "Connecticut Sun vs. Los Angeles Sparks: O/U 166.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 711.0003,
+    "whale_pct": 1.839,
+    "whale_value_at_open": 38671.3874,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787396441.9353154,
+    "fills": 1
   }
 ]
