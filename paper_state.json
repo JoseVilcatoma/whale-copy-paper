@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.2461998996424,
+  "bankroll": 452.96869989964244,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4910,6 +4910,11 @@
       "timestamp": 1787415149.0139282,
       "bankroll": 450.25,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Nottingham Forest FC vs. Leeds United FC: Both Teams to Score in First Half"
+    },
+    {
+      "timestamp": 1787415771.9097788,
+      "bankroll": 452.97,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Sunderland AFC win on 2026-08-22?"
     }
   ]
 }
