@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 17:06:38 (hora de Perú)
+Actualizado: 2026-08-22 17:08:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.07
@@ -268,7 +268,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 60% | 5.00 | 1.3% | 💰 vendida anticipada | -0.87 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas (BO3) - LCS R | Disguised (BUY) | 49% | 5.00 | 10.4% | ⏳ pendiente | — |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 52% | 5.00 | 26.5% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 9.4% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 14.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Dignitas (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 6.1% | 💰 vendida anticipada | +1.45 |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 50% | 5.00 | 24.2% | ⏳ pendiente | — |
