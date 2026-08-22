@@ -1,5 +1,5 @@
 {
-  "bankroll": 418.97760479875143,
+  "bankroll": 420.25471872280207,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4480,6 +4480,11 @@
       "timestamp": 1787375679.8414197,
       "bankroll": 418.98,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Club Le\u00f3n FC vs. CF Monterrey: O/U 2.5"
+    },
+    {
+      "timestamp": 1787376314.942574,
+      "bankroll": 420.25,
+      "event": "won: HomeRunHazard \u2014 Chicago Cubs vs. Seattle Mariners"
     }
   ]
 }

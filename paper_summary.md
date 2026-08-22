@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 00:24:59 (hora de Perú)
+Actualizado: 2026-08-22 00:27:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $418.98
-**Retorno acumulado:** -16.20%
+**Bankroll actual:** $420.25
+**Retorno acumulado:** -15.95%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 00:24:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $298.98)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $295.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,9 +24,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 25 | 7 | 0 | +27.19 USD |
 | casualbet2020 | 7 | 2 | 2 | +15.95 USD |
-| BOOMBOYS.Kiritych | 6 | 2 | 1 | +14.47 USD |
+| BOOMBOYS.Kiritych | 6 | 2 | 2 | +14.47 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 3 | 0 | 4 | +11.23 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 3 | 0 | 5 | +11.23 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 11 | 11 | 1 | -7.76 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-| HomeRunHazard | 37 | 23 | 11 | -23.33 USD |
+| HomeRunHazard | 38 | 23 | 10 | -22.05 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 866
-- **Aciertos:** 544 (62.8%)
+- **Apuestas resueltas:** 867
+- **Aciertos:** 545 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,325.45
-- **ROI sobre lo apostado:** -2.84%
-- **Comisiones pagadas (taker fee):** $80.28 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,330.45
+- **ROI sobre lo apostado:** -2.81%
+- **Comisiones pagadas (taker fee):** $80.34 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.95% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 440 | 47.0% | 50.1% | -3.0 pp |
-| 60-79% | 268 | 72.8% | 67.6% | +5.1 pp |
+| 60-79% | 269 | 72.9% | 67.7% | +5.2 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -242,12 +242,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 66% | 5.00 | 83.2% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Everton FC vs. Crystal Palace FC: O/U 9. | Over (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 66% | 5.00 | 102.9% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Pittsburgh Pirates (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Nottingham Forest FC vs. Leeds United FC | No (BUY) | 81% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Fagiano Okayama win on 2026-08-22? | No (BUY) | 56% | 5.00 | 11.8% | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 5.3% | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -270,5 +272,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 970.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Club León FC vs. CF Monterrey: O/U 2.5 | Under (BUY) | 49% | 5.00 | 5.6% | ✅ ganada | +5.08 |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ❌ perdida | -5.13 |
-| casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ❌ perdida | -5.12 |
-| OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ✅ ganada | +0.10 |
