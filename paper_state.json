@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.78695641596437,
+  "bankroll": 506.2320947138367,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5185,6 +5185,11 @@
       "timestamp": 1787435258.823754,
       "bankroll": 504.79,
       "event": "won: Sunshine.Smile \u2014 LoL: paiN Gaming vs FURIA Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787436122.3268309,
+      "bankroll": 506.23,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Dignitas - Game 1 Winner (+1.45 USD)"
     }
   ]
 }
