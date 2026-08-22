@@ -24201,5 +24201,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787398495.0086052,
     "fills": 2
+  },
+  {
+    "timestamp": 1787398644,
+    "timestamp_added": 1787398645.3484743,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "epl-hul-mun-2026-08-22-first-half-total-0pt5",
+    "title": "Hull City AFC vs. Manchester United FC: 1st Half O/U 0.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 594.057,
+    "whale_pct": 0.612,
+    "whale_value_at_open": 97095.5095,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787398645.348483,
+    "fills": 1
   }
 ]

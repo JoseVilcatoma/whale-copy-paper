@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 06:35:35 (hora de Perú)
+Actualizado: 2026-08-22 06:37:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $434.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 06:35:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $184.22)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $179.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 26 | 6 | -17.12 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 7 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
-| RN1 | 131 | 64 | 14 | -47.97 USD |
+| RN1 | 131 | 64 | 15 | -47.97 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
@@ -251,6 +251,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Spread: Manchester United FC (-1.5) | Manchester United FC (BUY) | 50% | 5.00 | 40.7% | ⏳ pendiente | — |
 | RN1 | Spread: Manchester United FC (-1.5) | Hull City AFC (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Goncalo Mar | Goncalo Marques (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -280,4 +281,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Connecticut Sun (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 54% | 5.00 | 12.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 49% | 5.00 | 59.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 60% | 5.00 | 16.1% | ⏳ pendiente | — |
