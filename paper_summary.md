@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 00:10:31 (hora de Perú)
+Actualizado: 2026-08-22 00:12:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $415.37
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 00:10:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $295.37)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $290.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 11 | 11 | 1 | -7.76 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-| HomeRunHazard | 37 | 23 | 9 | -23.33 USD |
+| HomeRunHazard | 37 | 23 | 10 | -23.33 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -242,6 +242,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Nottingham Forest FC vs. Leeds United FC | No (BUY) | 81% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Fagiano Okayama win on 2026-08-22? | No (BUY) | 56% | 5.00 | 11.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 5.3% | ⏳ pendiente | — |
@@ -252,7 +253,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Pittsburgh Pirates (BUY) | 70% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Over (BUY) | 51% | 5.00 | 0.7% | ✅ ganada | +4.68 |
-| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Los Angeles Dodgers (BUY) | 90% | 5.00 | 4.3% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Los Angeles Dodgers (BUY) | 90% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
@@ -271,4 +272,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ✅ ganada | +0.10 |
 | kluckkluck | Will Audax CS Italiano win on 2026-08-21 | Yes (BUY) | 47% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Audax CS Italiano win on 2026-08-21 | No (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
-| Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ❌ perdida | -5.12 |

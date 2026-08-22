@@ -22532,8 +22532,8 @@
     "title": "Pittsburgh Pirates vs. Los Angeles Dodgers",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 7206.981266,
-    "whale_pct": 4.336,
+    "whale_usd": 7756.651266,
+    "whale_pct": 4.666,
     "whale_value_at_open": 166220.2966,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -22544,8 +22544,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787371655.5380032,
-    "fills": 3
+    "last_fill_at": 1787375536.359216,
+    "fills": 4
   },
   {
     "timestamp": 1787371639,
@@ -22787,6 +22787,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787374494.253325,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787375536,
+    "timestamp_added": 1787375536.6311283,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-lad-2026-08-21-total-10pt5",
+    "title": "Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 602.328085,
+    "whale_pct": 0.346,
+    "whale_value_at_open": 173859.3147,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787375536.6311407,
     "fills": 1
   }
 ]
