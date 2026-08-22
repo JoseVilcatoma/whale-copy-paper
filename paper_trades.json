@@ -26741,8 +26741,8 @@
     "title": "Detroit Tigers vs. Kansas City Royals: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 10093.25885,
-    "whale_pct": 24.214,
+    "whale_usd": 92343.73765,
+    "whale_pct": 221.536,
     "whale_value_at_open": 41683.3231,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -26753,8 +26753,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787435319.418334,
-    "fills": 3
+    "last_fill_at": 1787437567.26128,
+    "fills": 4
   },
   {
     "timestamp": 1787435367,
@@ -26958,6 +26958,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787437510.7797987,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787437535,
+    "timestamp_added": 1787437536.2161775,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "col1-isf-ad1-2026-08-22-ad1",
+    "title": "Will Am\u00e9rica de Cali win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 882.9291,
+    "whale_pct": 2.526,
+    "whale_value_at_open": 34959.6659,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787437536.216189,
     "fills": 1
   }
 ]
