@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 18:18:57 (hora de Perú)
+Actualizado: 2026-08-22 18:21:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $511.50
-**Retorno acumulado:** +2.30%
+**Bankroll actual:** $516.59
+**Retorno acumulado:** +3.32%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 18:18:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $236.50)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $256.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 11 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
-| casualbet2020 | 9 | 4 | 3 | +13.41 USD |
+| casualbet2020 | 11 | 4 | 1 | +16.98 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -51,8 +51,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | ChonkyChocolateCake | 14 | 9 | 4 | -2.81 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| Wiretransferxyz | 1 | 1 | 3 | -3.60 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| Wiretransferxyz | 0 | 1 | 4 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 15 | 2 | -9.95 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -66,14 +66,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 998
-- **Aciertos:** 634 (63.5%)
+- **Apuestas resueltas:** 1001
+- **Aciertos:** 637 (63.6%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,985.45
-- **ROI sobre lo apostado:** -1.10%
-- **Comisiones pagadas (taker fee):** $92.82 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.76% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,000.45
+- **ROI sobre lo apostado:** -1.00%
+- **Comisiones pagadas (taker fee):** $93.02 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -82,7 +82,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 507 | 49.1% | 50.3% | -1.1 pp |
-| 60-79% | 317 | 71.6% | 67.7% | +3.9 pp |
+| 60-79% | 320 | 71.9% | 67.8% | +4.1 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
@@ -290,7 +290,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 60% | 5.00 | 1.3% | 💰 vendida anticipada | -0.87 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas (BO3) - LCS R | Disguised (BUY) | 49% | 5.00 | 10.4% | 💰 vendida anticipada | +2.01 |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 52% | 5.00 | 26.5% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 14.3% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 14.3% | ✅ ganada | +1.97 |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Dignitas (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 6.1% | 💰 vendida anticipada | +1.45 |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 50% | 5.00 | 221.5% | ⏳ pendiente | — |

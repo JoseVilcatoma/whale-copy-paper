@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.49658432427094,
+  "bankroll": 516.5894518804854,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5240,6 +5240,21 @@
       "timestamp": 1787437768.3754113,
       "bankroll": 511.5,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Roger Pascual vs Dhakshineswar Suresh"
+    },
+    {
+      "timestamp": 1787440792.264325,
+      "bankroll": 513.47,
+      "event": "won: casualbet2020 \u2014 Valorant: BESTIA vs G2 Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787440852.5931494,
+      "bankroll": 514.98,
+      "event": "won: Wiretransferxyz \u2014 Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787440857.89045,
+      "bankroll": 516.59,
+      "event": "won: casualbet2020 \u2014 Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In"
     }
   ]
 }
