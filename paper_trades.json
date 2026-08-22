@@ -27397,5 +27397,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787440917.076518,
     "fills": 1
+  },
+  {
+    "timestamp": 1787442269,
+    "timestamp_added": 1787442270.1564875,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-fut-ts7-2026-08-23",
+    "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 10355.5396,
+    "whale_pct": 34.255,
+    "whale_value_at_open": 30230.7001,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787442272.5804913,
+    "fills": 2
   }
 ]
