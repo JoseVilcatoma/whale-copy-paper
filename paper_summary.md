@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 23:02:51 (hora de Perú)
+Actualizado: 2026-08-21 23:04:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.10
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 23:02:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $335.10)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $315.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | SDTrading | 10 | 11 | 2 | -11.42 USD |
-| HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
+| HomeRunHazard | 36 | 20 | 4 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -223,6 +223,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ts8-vsn2-2026-08-21-game1 | Djdjdjekekek, IMAREALPERSON |
 | dota2-ts8-vsn2-2026-08-21-game2 | Djdjdjekekek, IMAREALPERSON |
 | dota2-ts8-vsn2-2026-08-21 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek, IMAREALPERSON |
+| mlb-pit-lad-2026-08-21-total-8pt5 | HomeRunHazard, SDTrading |
 | cs2-lgc-fal2-2026-08-21-game1 | Djdjdjekekek, ferrariChampions2026 |
 | atp-stricke-compagn-2026-08-21 | RN1, ferrariChampions2026 |
 | itf-cvetko-guth-2026-08-21 | RN1, ferrariChampions2026 |
@@ -241,8 +242,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 55% | 5.00 | 3.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | 💰 vendida anticipada | -0.27 |
-| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 102.9% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 108.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | FC Erzgebirge Aue vs. TSG 1899 Hoffenhei | Under (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Sunderland AFC win on 2026-08-22? | No (BUY) | 64% | 5.00 | 38.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports (BO3) | KRÜ Esports (BUY) | 41% | 5.00 | 47.0% | ⏳ pendiente | — |
@@ -267,7 +272,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 48% | 5.00 | 3.9% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 41% | 5.00 | 1.6% | ✅ ganada | +7.05 |
 | Sassy-Bucket | San Francisco Giants vs. Boston Red Sox: | Over (BUY) | 48% | 5.00 | 14.4% | ✅ ganada | +5.29 |
-| ferrariChampions2026 | Valorant: MIBR vs Team Envy (BO3) - VCT  | MIBR (BUY) | 68% | 5.00 | 3.0% | ✅ ganada | +2.27 |
-| ferrariChampions2026 | Cancun: Roman Safiullin vs Hubert Hurkac | Hubert Hurkacz (BUY) | 83% | 5.00 | 3.3% | ✅ ganada | +0.98 |
-| Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 44% | 5.00 | 5.4% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Valorant: MIBR vs Team Envy - Map 2 Winn | MIBR (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
