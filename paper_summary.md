@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 04:51:31 (hora de Perú)
+Actualizado: 2026-08-22 04:53:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.18
@@ -247,7 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 92% | 5.00 | 13.5% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 92% | 5.00 | 14.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Connecticut Sun (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 54% | 5.00 | 12.2% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 49% | 5.00 | 59.9% | ⏳ pendiente | — |
