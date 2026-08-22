@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 08:04:52 (hora de Perú)
+Actualizado: 2026-08-22 08:08:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $442.52
-**Retorno acumulado:** -11.50%
+**Bankroll actual:** $452.49
+**Retorno acumulado:** -9.50%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 08:04:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $142.52)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $172.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,10 +22,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 27 | 9 | 2 | +26.30 USD |
+| IMAREALPERSON | 28 | 9 | 1 | +31.38 USD |
 | casualbet2020 | 8 | 2 | 1 | +19.47 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 7 | 0 | +17.54 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 7 | 1 | +14.31 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -41,7 +41,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | Sunshine.Smile | 0 | 0 | 1 | +0.00 USD |
-| ChonkyChocolateCake | 10 | 6 | 5 | -0.31 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 9 | 6 | 0 | -1.70 USD |
 | SDTrading | 12 | 11 | 1 | -2.25 USD |
@@ -50,26 +49,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 2 | -5.12 USD |
 | crisp1973 | 1 | 2 | 1 | -5.31 USD |
+| ChonkyChocolateCake | 10 | 7 | 4 | -5.41 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | HomeRunHazard | 45 | 26 | 8 | -17.12 USD |
-| danielwolfmorales3pddb6dl6 | 8 | 12 | 10 | -26.21 USD |
+| danielwolfmorales3pddb6dl6 | 9 | 12 | 9 | -19.45 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 135 | 66 | 21 | -51.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 903
-- **Aciertos:** 569 (63.0%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 907
+- **Aciertos:** 572 (63.1%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,510.45
-- **ROI sobre lo apostado:** -2.53%
-- **Comisiones pagadas (taker fee):** $83.76 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.68% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,530.45
+- **ROI sobre lo apostado:** -2.30%
+- **Comisiones pagadas (taker fee):** $84.24 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.44% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,8 +77,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 457 | 47.3% | 50.1% | -2.9 pp |
-| 60-79% | 283 | 72.8% | 67.6% | +5.2 pp |
+| 40-59% | 460 | 47.4% | 50.1% | -2.7 pp |
+| 60-79% | 284 | 72.9% | 67.6% | +5.3 pp |
 | 80-94% | 107 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
