@@ -1,5 +1,5 @@
 {
-  "bankroll": 434.21699617297355,
+  "bankroll": 436.2848533158307,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4620,6 +4620,11 @@
       "timestamp": 1787398467.657668,
       "bankroll": 434.22,
       "event": "lost: Djdjdjekekek \u2014 Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787398773.186598,
+      "bankroll": 436.28,
+      "event": "won: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rada Zolotareva vs Lisa Zaar"
     }
   ]
 }
