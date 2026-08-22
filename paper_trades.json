@@ -26347,8 +26347,8 @@
     "title": "Will SC Internacional win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 90878.24530000002,
-    "whale_pct": 163.418,
+    "whale_usd": 118593.30330000003,
+    "whale_pct": 213.256,
     "whale_value_at_open": 55610.8412,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -26359,8 +26359,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787431217.0311866,
-    "fills": 18
+    "last_fill_at": 1787431331.5982475,
+    "fills": 21
   },
   {
     "timestamp": 1787431069,
@@ -26432,6 +26432,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787431184.5961204,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787431375,
+    "timestamp_added": 1787431376.166116,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cin-ari-2026-08-22-total-8pt5",
+    "title": "Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2431.8428080000003,
+    "whale_pct": 0.976,
+    "whale_value_at_open": 249245.7071,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787431376.1661265,
     "fills": 1
   }
 ]
