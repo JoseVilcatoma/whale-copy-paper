@@ -1,5 +1,5 @@
 {
-  "bankroll": 411.3617655229769,
+  "bankroll": 420.0951493557553,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4410,6 +4410,21 @@
       "timestamp": 1787370298.7599492,
       "bankroll": 411.36,
       "event": "lost: casualbet2020 \u2014 Valorant: FURIA Esports vs Evil Geniuses - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787370905.7674532,
+      "bankroll": 411.1,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Team Spirit vs Team Liquid - Game 2 Winner (-0.27 USD)"
+    },
+    {
+      "timestamp": 1787370921.162943,
+      "bankroll": 415.78,
+      "event": "won: Sassy-Bucket \u2014 Cleveland Guardians vs. Colorado Rockies: O/U 10.5"
+    },
+    {
+      "timestamp": 1787370921.6341114,
+      "bankroll": 420.1,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Golden State Valkyries (-6.5)"
     }
   ]
 }

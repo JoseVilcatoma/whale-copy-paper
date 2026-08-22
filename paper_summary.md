@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 22:53:35 (hora de Perú)
+Actualizado: 2026-08-21 22:55:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $411.36
-**Retorno acumulado:** -17.73%
+**Bankroll actual:** $420.10
+**Retorno acumulado:** -15.98%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 22:53:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $311.36)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $335.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,13 +22,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 25 | 6 | 1 | +27.46 USD |
+| IMAREALPERSON | 25 | 7 | 0 | +27.19 USD |
 | casualbet2020 | 7 | 1 | 3 | +21.08 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | BOOMBOYS.Kiritych | 5 | 2 | 1 | +10.33 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 4 | +2.49 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -42,7 +43,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 0 | 2 | +0.00 USD |
 | Djdjdjekekek | 7 | 5 | 1 | -0.26 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| ferrariChampions2026 | 203 | 115 | 1 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
@@ -55,20 +55,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 10 | 11 | 2 | -11.42 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
-| Sassy-Bucket | 8 | 14 | 1 | -35.33 USD |
+| Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 128 | 63 | 3 | -51.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 853
-- **Aciertos:** 536 (62.8%)
+- **Apuestas resueltas:** 855
+- **Aciertos:** 538 (62.9%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,260.45
-- **ROI sobre lo apostado:** -3.07%
-- **Comisiones pagadas (taker fee):** $78.78 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,270.45
+- **ROI sobre lo apostado:** -2.85%
+- **Comisiones pagadas (taker fee):** $79.02 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 430 | 46.5% | 50.1% | -3.6 pp |
+| 40-59% | 432 | 46.8% | 50.1% | -3.3 pp |
 | 60-79% | 265 | 73.2% | 67.7% | +5.5 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -241,8 +241,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 53.5% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | 💰 vendida anticipada | -0.27 |
+| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 70.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | FC Erzgebirge Aue vs. TSG 1899 Hoffenhei | Under (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Sunderland AFC win on 2026-08-22? | No (BUY) | 64% | 5.00 | 38.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports (BO3) | KRÜ Esports (BUY) | 41% | 5.00 | 47.0% | ⏳ pendiente | — |
@@ -262,7 +262,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 54% | 5.00 | 4.7% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA San Lorenzo de Almagro (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Los Angeles Angels vs. Texas Rangers: O/ | Over (BUY) | 47% | 5.00 | 1.7% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Spread: Golden State Valkyries (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Golden State Valkyries (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.8% | ✅ ganada | +4.32 |
 | Sassy-Bucket | Minnesota Lynx vs. Washington Mystics | Minnesota Lynx (BUY) | 56% | 5.00 | 4.0% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 48% | 5.00 | 3.9% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 41% | 5.00 | 1.6% | ✅ ganada | +7.05 |

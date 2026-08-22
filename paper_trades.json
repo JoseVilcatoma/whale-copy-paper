@@ -21609,8 +21609,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -21901,8 +21901,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -22382,8 +22382,8 @@
     "title": "Dota 2: Team Spirit vs Team Liquid - Game 2 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 38384.04595200001,
-    "whale_pct": 53.504,
+    "whale_usd": 50416.766152000004,
+    "whale_pct": 70.277,
     "whale_value_at_open": 71739.9129,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -22394,8 +22394,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787370768.8725343,
-    "fills": 18
+    "last_fill_at": 1787370885.1121125,
+    "fills": 20
   },
   {
     "timestamp": 1787370738,
@@ -22413,14 +22413,16 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.27,
     "overlaps_with": [
       "BOOMBOYS.Kiritych"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787370745.4140518,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.266,
+    "closed_price": 47
   }
 ]
