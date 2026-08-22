@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.2848533158307,
+  "bankroll": 434.9734247444021,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4625,6 +4625,16 @@
       "timestamp": 1787398773.186598,
       "bankroll": 436.28,
       "event": "won: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rada Zolotareva vs Lisa Zaar"
+    },
+    {
+      "timestamp": 1787399264.704473,
+      "bankroll": 440.1,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Fagiano Okayama win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787399266.5524933,
+      "bankroll": 434.97,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 LoL: Team WE vs LGD Gaming - Game 1 Winner"
     }
   ]
 }
