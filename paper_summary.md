@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 17:35:47 (hora de Perú)
+Actualizado: 2026-08-22 17:37:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.50
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 17:35:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $316.50)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $306.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 25 | 9 | 2 | +29.59 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 4 | +20.57 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 5 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | casualbet2020 | 9 | 4 | 3 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | SDTrading | 14 | 11 | 3 | +5.09 USD |
 | Djdjdjekekek | 10 | 6 | 0 | +5.06 USD |
-| kekasaur | 1 | 0 | 0 | +4.88 USD |
+| kekasaur | 1 | 0 | 1 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | pleaseplease123 | 1 | 0 | 1 | +4.14 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -265,6 +265,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Spread: CD Guadalajara (-1.5) | CD Guadalajara (BUY) | 43% | 5.00 | 8.1% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CR Flamengo win on 2026-08-22? | No (BUY) | 57% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will América de Cali win on 2026-08-22? | No (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -293,5 +295,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes (BUY) | 53% | 5.00 | 213.3% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 91% | 5.00 | 19.2% | 💰 vendida anticipada | +0.41 |
-| Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 201.4% | ✅ ganada | +2.84 |
-| MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 65% | 5.00 | 64.9% | ⏳ pendiente | — |
