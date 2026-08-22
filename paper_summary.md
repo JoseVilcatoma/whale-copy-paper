@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 02:20:17 (hora de Perú)
+Actualizado: 2026-08-22 02:22:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $433.44
-**Retorno acumulado:** -13.31%
+**Bankroll actual:** $426.41
+**Retorno acumulado:** -14.72%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 02:20:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $338.44)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $346.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,9 +23,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 26 | 8 | 1 | +27.44 USD |
-| BOOMBOYS.Kiritych | 7 | 2 | 2 | +16.96 USD |
 | casualbet2020 | 7 | 2 | 2 | +15.95 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 3 | 0 | 6 | +11.23 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -42,17 +42,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ChonkyChocolateCake | 8 | 5 | 0 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 7 | 0 | -0.46 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 1 | -3.69 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
-| kluckkluck | 0 | 1 | 1 | -5.13 USD |
 | crisp1973 | 1 | 2 | 0 | -5.31 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
+| kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | HomeRunHazard | 45 | 26 | 1 | -17.12 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 1 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 879
-- **Aciertos:** 554 (63.0%)
+- **Apuestas resueltas:** 881
+- **Aciertos:** 554 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,390.45
-- **ROI sobre lo apostado:** -2.47%
-- **Comisiones pagadas (taker fee):** $81.48 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,400.45
+- **ROI sobre lo apostado:** -2.70%
+- **Comisiones pagadas (taker fee):** $81.74 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 446 | 47.3% | 50.1% | -2.8 pp |
+| 40-59% | 448 | 47.1% | 50.1% | -3.0 pp |
 | 60-79% | 273 | 72.9% | 67.7% | +5.2 pp |
 | 80-94% | 104 | 86.5% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -246,10 +246,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | IMAREALPERSON | Game Handicap: VSN (-1.5) vs Team Yandex | Team Yandex (BUY) | 55% | 5.00 | 89.3% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 46% | 5.00 | 64.5% | 💰 vendida anticipada | +0.38 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 43% | 5.00 | 13.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 43% | 5.00 | 13.3% | 💰 vendida anticipada | +3.23 |
 | danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 48% | 5.00 | 42.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 55% | 5.00 | 133.9% | 💰 vendida anticipada | -0.13 |
-| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 112.8% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 112.8% | ❌ perdida | -5.12 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Club Tijuana win on 2026-08-22? | No (BUY) | 85% | 5.00 | 8.3% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. New York Liberty: O/U  | Under (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Everton FC vs. Crystal Palace FC: O/U 9. | Over (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
