@@ -1,5 +1,5 @@
 {
-  "bankroll": 433.4669832746608,
+  "bankroll": 435.95774085041836,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4675,6 +4675,11 @@
       "timestamp": 1787402261.258141,
       "bankroll": 433.47,
       "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Goncalo Marques vs Andrea Colombo"
+    },
+    {
+      "timestamp": 1787402697.8272407,
+      "bankroll": 435.96,
+      "event": "won: MisterVision \u2014 LoL: Dplus KIA vs Gen.G - Game 1 Winner"
     }
   ]
 }
