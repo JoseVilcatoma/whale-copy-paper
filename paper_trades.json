@@ -24793,8 +24793,8 @@
     "title": "Set Handicap: Gauff (-1.5) vs Bejlek (+1.5)",
     "outcome": "Bejlek",
     "side": "BUY",
-    "whale_usd": 1364.3615,
-    "whale_pct": 3.216,
+    "whale_usd": 3548.3950999999997,
+    "whale_pct": 8.365,
     "whale_value_at_open": 42419.6513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -24805,8 +24805,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787419286.7240582,
-    "fills": 2
+    "last_fill_at": 1787420696.998367,
+    "fills": 3
   },
   {
     "timestamp": 1787405717,
@@ -25476,5 +25476,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787420470.3473127,
     "fills": 1
+  },
+  {
+    "timestamp": 1787420753,
+    "timestamp_added": 1787420754.0163689,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-gaston-assche-2026-08-22",
+    "title": "Quebec City: Hugo Gaston vs Luca Van Assche",
+    "outcome": "Luca Van Assche",
+    "side": "BUY",
+    "whale_usd": 8436.764299999999,
+    "whale_pct": 13.303,
+    "whale_value_at_open": 63418.9793,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787420818.7999103,
+    "fills": 2
   }
 ]
