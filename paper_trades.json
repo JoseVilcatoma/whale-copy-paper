@@ -23577,8 +23577,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 88055.30140000001,
-    "whale_pct": 60.363,
+    "whale_usd": 92014.46669400002,
+    "whale_pct": 63.077,
     "whale_value_at_open": 145876.5512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -23589,8 +23589,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787397410.7675078,
-    "fills": 7
+    "last_fill_at": 1787397487.0954554,
+    "fills": 9
   },
   {
     "timestamp": 1787392470,
@@ -23980,6 +23980,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787397413.5281062,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787397543,
+    "timestamp_added": 1787397544.3793588,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "dfb-fce-aug-2026-08-22-aug",
+    "title": "Will FC Augsburg win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 813.6800000000001,
+    "whale_pct": 0.839,
+    "whale_value_at_open": 97002.7958,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787397544.3793697,
     "fills": 1
   }
 ]
