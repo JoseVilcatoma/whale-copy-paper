@@ -22382,8 +22382,8 @@
     "title": "Dota 2: Team Spirit vs Team Liquid - Game 2 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 77860.052054,
-    "whale_pct": 108.531,
+    "whale_usd": 90569.983054,
+    "whale_pct": 126.248,
     "whale_value_at_open": 71739.9129,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -22394,8 +22394,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787371466.7402494,
-    "fills": 38
+    "last_fill_at": 1787371541.4844792,
+    "fills": 42
   },
   {
     "timestamp": 1787370738,
@@ -22521,6 +22521,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787371432.547375,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787371520,
+    "timestamp_added": 1787371520.8180895,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-lad-2026-08-21",
+    "title": "Pittsburgh Pirates vs. Los Angeles Dodgers",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 3320.1256,
+    "whale_pct": 1.997,
+    "whale_value_at_open": 166220.2966,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787371520.8180993,
     "fills": 1
   }
 ]
