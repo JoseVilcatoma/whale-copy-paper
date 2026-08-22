@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:03:38 (hora de Perú)
+Actualizado: 2026-08-22 10:05:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.17
@@ -257,7 +257,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | casualbet2020 | Valorant: Team Liquid vs Eintracht Frank | Team Liquid (BUY) | 54% | 5.00 | 198.5% | ⏳ pendiente | — |
 | SDTrading | Spread: IND (-3.5) | IND (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: FNC (-1.5) vs Shifters (+ | Fnatic (BUY) | 52% | 5.00 | 18.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: FNC (-1.5) vs Shifters (+ | Fnatic (BUY) | 52% | 5.00 | 28.1% | ⏳ pendiente | — |
 | HomeRunHazard | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 56% | 5.00 | 5.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 5.9% | 💰 vendida anticipada | +0.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 83.8% | 💰 vendida anticipada | +0.06 |

@@ -25016,8 +25016,8 @@
     "title": "Game Handicap: FNC (-1.5) vs Shifters (+1.5)",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 5774.6687999999995,
-    "whale_pct": 18.248,
+    "whale_usd": 8877.038799999998,
+    "whale_pct": 28.052,
     "whale_value_at_open": 31644.815,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -25028,8 +25028,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787410438.3333387,
-    "fills": 1
+    "last_fill_at": 1787411090.5746522,
+    "fills": 2
   },
   {
     "timestamp": 1787410446,
