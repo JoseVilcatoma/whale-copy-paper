@@ -27325,5 +27325,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787440200.8182786,
     "fills": 2
+  },
+  {
+    "timestamp": 1787440355,
+    "timestamp_added": 1787440356.3401687,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-chc-sea-2026-08-22-total-7pt5",
+    "title": "Chicago Cubs vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 41618.1794,
+    "whale_pct": 775.434,
+    "whale_value_at_open": 5367.0834,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787440356.3401816,
+    "fills": 1
   }
 ]

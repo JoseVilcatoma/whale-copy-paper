@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 18:10:44 (hora de Perú)
+Actualizado: 2026-08-22 18:12:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.50
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 18:10:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $246.50)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $241.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | HomeRunHazard | 68 | 38 | 15 | -11.29 USD |
-| Sassy-Bucket | 10 | 14 | 1 | -27.81 USD |
+| Sassy-Bucket | 10 | 14 | 2 | -27.81 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
@@ -268,6 +268,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7 | Over (BUY) | 50% | 5.00 | 775.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CD Universidad Católica win on 2026 | No (BUY) | 46% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cruzeiro EC vs. CR Flamengo: O/U 8.5 Tot | Over (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | pleaseplease123 | New York Mets vs. Chicago White Sox: O/U | Over (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -297,4 +298,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 75% | 5.00 | 7.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 52% | 5.00 | 3.3% | 💰 vendida anticipada | +0.34 |
-| casualbet2020 | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 75% | 5.00 | 15.1% | ⏳ pendiente | — |
