@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 12:30:33 (hora de Perú)
+Actualizado: 2026-08-22 12:32:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $467.61
-**Retorno acumulado:** -6.48%
+**Bankroll actual:** $481.42
+**Retorno acumulado:** -3.72%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 12:30:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $297.61)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $321.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,11 +25,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 9 | 2 | 1 | +23.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 7 | 1 | 2 | +19.29 USD |
+| BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 7 | 2 | +18.09 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| Djdjdjekekek | 10 | 6 | 0 | +5.06 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -44,7 +45,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 0 | 0 | 1 | +0.00 USD |
 | Sunshine.Smile | 1 | 1 | 1 | -0.19 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| Djdjdjekekek | 9 | 6 | 1 | -1.70 USD |
 | SDTrading | 12 | 11 | 4 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -64,14 +64,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 949
-- **Aciertos:** 600 (63.2%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 951
+- **Aciertos:** 602 (63.3%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,740.45
-- **ROI sobre lo apostado:** -1.98%
-- **Comisiones pagadas (taker fee):** $88.06 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,750.45
+- **ROI sobre lo apostado:** -1.68%
+- **Comisiones pagadas (taker fee):** $88.35 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -79,7 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 481 | 48.2% | 50.2% | -2.0 pp |
+| 40-59% | 483 | 48.4% | 50.2% | -1.8 pp |
 | 60-79% | 298 | 71.8% | 67.6% | +4.2 pp |
 | 80-94% | 113 | 87.6% | 86.6% | +1.0 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
@@ -279,7 +279,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 5.9% | 💰 vendida anticipada | +0.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 83.8% | 💰 vendida anticipada | +0.06 |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 50% | 5.00 | 5.3% | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 332.5% | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 332.5% | ✅ ganada | +6.76 |
 | IMAREALPERSON | Dota 2: BoomBoys vs Team Spirit - Game 1 | Team Spirit (BUY) | 71% | 5.00 | 15.9% | 💰 vendida anticipada | +0.80 |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 63% | 5.00 | 76.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 69% | 5.00 | 10.3% | ⏳ pendiente | — |

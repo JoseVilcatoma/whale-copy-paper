@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.6129982481742,
+  "bankroll": 481.41988210415565,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4950,6 +4950,16 @@
       "timestamp": 1787419595.3682745,
       "bankroll": 467.61,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Felix Balshaw vs Luca Pow"
+    },
+    {
+      "timestamp": 1787419851.50105,
+      "bankroll": 474.66,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787419855.767854,
+      "bankroll": 481.42,
+      "event": "won: Djdjdjekekek \u2014 Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs"
     }
   ]
 }
