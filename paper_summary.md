@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 14:57:52 (hora de Perú)
+Actualizado: 2026-08-22 14:59:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.80
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 14:57:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $286.80)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $276.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 52 | 29 | 22 | -20.05 USD |
+| HomeRunHazard | 52 | 29 | 24 | -20.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
@@ -260,6 +260,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open, Qualification: Leolia Je | Kamilla Rakhimova (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Atlanta Braves (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -288,5 +290,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Map Handicap: TS (-1.5) vs Legacy (+1.5) | Legacy (BUY) | 55% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 61% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Pierre-Hugues Herbert (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |
-| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Kenta Miyoshi (BUY) | 70% | 5.00 | 5.5% | ❌ perdida | -5.08 |
