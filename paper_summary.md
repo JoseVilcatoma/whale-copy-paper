@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 00:35:13 (hora de Perú)
+Actualizado: 2026-08-22 00:37:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 00:35:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $295.25)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $290.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 11 | 11 | 1 | -7.76 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-| HomeRunHazard | 38 | 23 | 10 | -22.05 USD |
+| HomeRunHazard | 38 | 23 | 11 | -22.05 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -242,9 +242,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Indiana Fever vs. New York Liberty: O/U  | Under (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Everton FC vs. Crystal Palace FC: O/U 9. | Over (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 66% | 5.00 | 114.8% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 66% | 5.00 | 142.7% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Pittsburgh Pirates (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Nottingham Forest FC vs. Leeds United FC | No (BUY) | 81% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -271,4 +272,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 47% | 5.00 | 15.2% | 💰 vendida anticipada | +0.48 |
 | kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 970.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Club León FC vs. CF Monterrey: O/U 2.5 | Under (BUY) | 49% | 5.00 | 5.6% | ✅ ganada | +5.08 |
-| casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ❌ perdida | -5.13 |
