@@ -22382,8 +22382,8 @@
     "title": "Dota 2: Team Spirit vs Team Liquid - Game 2 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 60730.372754,
-    "whale_pct": 84.654,
+    "whale_usd": 73833.230754,
+    "whale_pct": 102.918,
     "whale_value_at_open": 71739.9129,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -22394,8 +22394,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787371147.0724175,
-    "fills": 28
+    "last_fill_at": 1787371356.328122,
+    "fills": 35
   },
   {
     "timestamp": 1787370738,
