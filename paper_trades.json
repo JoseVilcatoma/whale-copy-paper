@@ -22152,5 +22152,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787359648.4463463,
     "fills": 2
+  },
+  {
+    "timestamp": 1787359994,
+    "timestamp_added": 1787359995.2734592,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-fur-eg2-2026-08-21-game2",
+    "title": "Valorant: FURIA Esports vs Evil Geniuses - Map 2 Winner",
+    "outcome": "Evil Geniuses",
+    "side": "BUY",
+    "whale_usd": 1899.2247,
+    "whale_pct": 45.928,
+    "whale_value_at_open": 4135.2518,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787359995.273483,
+    "fills": 1
   }
 ]
