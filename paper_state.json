@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.7662552874656,
+  "bankroll": 481.91289446272333,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4975,6 +4975,11 @@
       "timestamp": 1787421111.3229399,
       "bankroll": 481.77,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Kenta Miyoshi"
+    },
+    {
+      "timestamp": 1787422860.7428896,
+      "bankroll": 481.91,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Li Tu vs Quinn Vandecasteele"
     }
   ]
 }
