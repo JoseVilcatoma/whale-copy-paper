@@ -25731,8 +25731,8 @@
     "title": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Ryan Seggerman",
     "outcome": "Ryan Seggerman",
     "side": "BUY",
-    "whale_usd": 3234.8908,
-    "whale_pct": 2.714,
+    "whale_usd": 3746.1008,
+    "whale_pct": 3.143,
     "whale_value_at_open": 119190.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -25743,8 +25743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787423732.8313334,
-    "fills": 2
+    "last_fill_at": 1787424672.9711728,
+    "fills": 3
   },
   {
     "timestamp": 1787423789,
@@ -25803,8 +25803,8 @@
     "title": "LoL: paiN Gaming vs FURIA Esports - Game 2 Winner",
     "outcome": "FURIA Esports",
     "side": "BUY",
-    "whale_usd": 2509.7446990000003,
-    "whale_pct": 28.534,
+    "whale_usd": 5340.934999000001,
+    "whale_pct": 60.723,
     "whale_value_at_open": 8795.5863,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -25815,8 +25815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787424504.0238657,
-    "fills": 3
+    "last_fill_at": 1787424646.9587202,
+    "fills": 6
   },
   {
     "timestamp": 1787424474,
@@ -25867,5 +25867,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787424533.4430463,
     "fills": 2
+  },
+  {
+    "timestamp": 1787424554,
+    "timestamp_added": 1787424555.1232455,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-atl-mil-2026-08-22-spread-home-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 957.9647,
+    "whale_pct": 0.616,
+    "whale_value_at_open": 155588.5063,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787424555.1232548,
+    "fills": 1
   }
 ]
