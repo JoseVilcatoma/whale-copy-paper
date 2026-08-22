@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.0770364435802,
+  "bankroll": 507.0281180762332,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5215,6 +5215,16 @@
       "timestamp": 1787436679.798929,
       "bankroll": 507.08,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Dignitas (BO3) - LCS Regular Season (+2.01 USD)"
+    },
+    {
+      "timestamp": 1787437457.2962806,
+      "bankroll": 512.15,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 5.5"
+    },
+    {
+      "timestamp": 1787437457.396514,
+      "bankroll": 507.03,
+      "event": "lost: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 5.5"
     }
   ]
 }
