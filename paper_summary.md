@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 07:25:26 (hora de Perú)
+Actualizado: 2026-08-22 07:27:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.40
@@ -275,7 +275,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 73% | 5.00 | 10.3% | ⏳ pendiente | — |
 | MisterVision | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 59% | 5.00 | 30.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 10.4% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 15.7% | ⏳ pendiente | — |
+| HomeRunHazard | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 17.1% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Will Vietnam win on 2026-08-22? | Yes (BUY) | 43% | 5.00 | 21.2% | ⏳ pendiente | — |
 | RN1 | Will FC Augsburg win on 2026-08-22? | Yes (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | SV Wehen Wiesbaden vs. Bayer 04 Leverkus | Under (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
