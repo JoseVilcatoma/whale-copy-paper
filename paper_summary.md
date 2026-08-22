@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:31:01 (hora de Perú)
+Actualizado: 2026-08-22 15:33:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $473.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 15:31:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $223.40)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $218.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 0 | +24.51 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 19 | 7 | 1 | +24.51 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 1 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | casualbet2020 | 9 | 4 | 1 | +13.41 USD |
@@ -262,7 +262,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 91% | 5.00 | 10.9% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 14.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 65% | 5.00 | 64.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Toronto Blue Jays (BUY) | 71% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 50% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -291,4 +292,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 24.3% | ✅ ganada | +1.78 |
 | HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 46% | 5.00 | 8.7% | ⏳ pendiente | — |

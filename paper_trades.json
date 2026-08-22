@@ -26271,8 +26271,8 @@
     "title": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims)",
     "outcome": "Jackson McVey",
     "side": "BUY",
-    "whale_usd": 551.18,
-    "whale_pct": 0.817,
+    "whale_usd": 9851.18,
+    "whale_pct": 14.595,
     "whale_value_at_open": 67498.9781,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -26283,7 +26283,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787430531.5540426,
-    "fills": 1
+    "last_fill_at": 1787430675.9100215,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787430673,
+    "timestamp_added": 1787430673.4956644,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-sen-fly-2026-08-22-game1",
+    "title": "LoL: Sentinels vs FlyQuest - Game 1 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 2418.3909000000003,
+    "whale_pct": 10.854,
+    "whale_value_at_open": 22281.8646,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "MisterVision"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787430727.5204697,
+    "fills": 2
   }
 ]
