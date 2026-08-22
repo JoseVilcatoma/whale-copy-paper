@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 09:18:15 (hora de Perú)
+Actualizado: 2026-08-22 09:20:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.72
@@ -256,7 +256,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 331.8% | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 332.5% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: BoomBoys vs Team Spirit - Game 1 | Team Spirit (BUY) | 71% | 5.00 | 15.9% | 💰 vendida anticipada | +0.80 |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 63% | 5.00 | 76.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 69% | 5.00 | 10.3% | ⏳ pendiente | — |
