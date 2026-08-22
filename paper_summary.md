@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 03:03:15 (hora de Perú)
+Actualizado: 2026-08-22 03:05:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.41
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 03:03:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $336.41)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $331.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | HomeRunHazard | 45 | 26 | 1 | -17.12 USD |
-| danielwolfmorales3pddb6dl6 | 7 | 11 | 1 | -27.05 USD |
+| danielwolfmorales3pddb6dl6 | 7 | 11 | 2 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 128 | 63 | 4 | -51.21 USD |
@@ -244,6 +244,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 45% | 5.00 | 58.8% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 43% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - | BoomBoys (BUY) | 60% | 5.00 | 615.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Game Handicap: VSN (-1.5) vs Team Yandex | Team Yandex (BUY) | 55% | 5.00 | 89.3% | ⏳ pendiente | — |
@@ -273,4 +274,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
-| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 55% | 5.00 | 3.1% | ✅ ganada | +3.98 |
