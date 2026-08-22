@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 16:29:01 (hora de Perú)
+Actualizado: 2026-08-22 16:31:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $503.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 16:29:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $313.01)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $303.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,8 +23,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 8 | 1 | +27.00 USD |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 1 | +20.57 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 8 | 2 | +27.00 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 2 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | casualbet2020 | 9 | 4 | 2 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -264,6 +264,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 99% | 5.00 | 3.7% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 75% | 5.00 | 7.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 52% | 5.00 | 3.3% | 💰 vendida anticipada | +0.34 |
 | casualbet2020 | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 75% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -292,5 +294,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open, Qualification: Panna Udv | Emiliana Arango (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 62% | 5.00 | 2.3% | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 74% | 5.00 | 0.7% | ✅ ganada | +1.69 |
-| HomeRunHazard | Monterrey Open, Qualification: Leolia Je | Kamilla Rakhimova (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
