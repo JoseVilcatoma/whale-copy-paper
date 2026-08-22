@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.3020158318384,
+  "bankroll": 459.7869228085826,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4935,6 +4935,11 @@
       "timestamp": 1787418274.7614574,
       "bankroll": 453.3,
       "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Everton FC vs. Crystal Palace FC: O/U 9.5 Total Corners"
+    },
+    {
+      "timestamp": 1787418585.7742257,
+      "bankroll": 459.79,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 Will Vietnam win on 2026-08-22?"
     }
   ]
 }
