@@ -27137,8 +27137,8 @@
     "title": "Will Orlando City SC win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 16039.890000000001,
-    "whale_pct": 25.675,
+    "whale_usd": 82691.21500000001,
+    "whale_pct": 132.363,
     "whale_value_at_open": 62473.0056,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -27151,7 +27151,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787438968.546169,
-    "fills": 1
+    "last_fill_at": 1787439121.5355313,
+    "fills": 8
   }
 ]
