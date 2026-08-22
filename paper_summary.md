@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 20:49:15 (hora de Perú)
+Actualizado: 2026-08-21 20:51:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $443.88
-**Retorno acumulado:** -11.22%
+**Bankroll actual:** $442.72
+**Retorno acumulado:** -11.46%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 20:49:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $333.88)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $337.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 23 | 6 | 0 | +26.74 USD |
-| casualbet2020 | 7 | 0 | 2 | +26.20 USD |
+| casualbet2020 | 7 | 0 | 3 | +26.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | BOOMBOYS.Kiritych | 5 | 2 | 0 | +10.33 USD |
@@ -49,26 +49,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
 | crisp1973 | 1 | 2 | 0 | -5.31 USD |
+| SDTrading | 10 | 10 | 3 | -6.28 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
-| SDTrading | 9 | 10 | 4 | -10.26 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| Sassy-Bucket | 7 | 10 | 6 | -18.63 USD |
+| Sassy-Bucket | 7 | 11 | 5 | -23.77 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 128 | 63 | 3 | -51.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 843
-- **Aciertos:** 534 (63.3%)
+- **Apuestas resueltas:** 845
+- **Aciertos:** 535 (63.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,210.45
-- **ROI sobre lo apostado:** -2.31%
-- **Comisiones pagadas (taker fee):** $77.52 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.47% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,220.45
+- **ROI sobre lo apostado:** -2.34%
+- **Comisiones pagadas (taker fee):** $77.77 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 420 | 47.1% | 50.1% | -3.0 pp |
+| 40-59% | 422 | 47.2% | 50.1% | -2.9 pp |
 | 60-79% | 265 | 73.2% | 67.7% | +5.5 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -240,13 +240,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ⏳ pendiente | — |
 | OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ✅ ganada | +0.10 |
 | kluckkluck | Will Audax CS Italiano win on 2026-08-21 | Yes (BUY) | 47% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Audax CS Italiano win on 2026-08-21 | No (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ✅ ganada | +2.49 |
-| Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 54% | 5.00 | 4.7% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA San Lorenzo de Almagro (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
@@ -269,4 +270,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 62% | 5.00 | 1.1% | ✅ ganada | +2.97 |
 | RN1 | Cincinnati Open: Taylor Fritz vs Brandon | Brandon Nakashima (BUY) | 45% | 5.00 | 0.8% | ✅ ganada | +5.97 |
 | RN1 | Cincinnati Open: Taylor Fritz vs Brandon | Taylor Fritz (BUY) | 69% | 5.00 | 0.5% | ❌ perdida | -5.08 |
-| Djdjdjekekek | Dota 2: Team Spirit vs Team Liquid (BO3) | Team Spirit (BUY) | 60% | 5.00 | 704.0% | ⏳ pendiente | — |

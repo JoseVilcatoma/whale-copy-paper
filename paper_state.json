@@ -1,5 +1,5 @@
 {
-  "bankroll": 443.88393935917674,
+  "bankroll": 442.72484845008586,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4350,6 +4350,16 @@
       "timestamp": 1787362707.7255147,
       "bankroll": 443.88,
       "event": "won: ferrariChampions2026 \u2014 Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787363465.4503534,
+      "bankroll": 447.86,
+      "event": "won: SDTrading \u2014 Tampa Bay Rays vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787363468.8035712,
+      "bankroll": 442.72,
+      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5"
     }
   ]
 }
