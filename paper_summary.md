@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 11:46:58 (hora de Perú)
+Actualizado: 2026-08-22 11:49:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $458.42
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 11:46:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $278.42)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $273.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,6 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
+| pleaseplease123 | 0 | 0 | 1 | +0.00 USD |
 | Sunshine.Smile | 1 | 1 | 1 | -0.19 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 9 | 6 | 1 | -1.70 USD |
@@ -251,11 +252,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-tarvet-poullai-2026-08-22 | HomeRunHazard, RN1 |
 | epl-hul-mun-2026-08-22-spread-away-1pt5 | RN1, danielwolfmorales3pddb6dl6 |
 | lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
+| mlb-tor-nyy-2026-08-22-total-6pt5 | SDTrading, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 54% | 5.00 | 3.1% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 52% | 5.00 | 8.2% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 2 Winner | Shifters (BUY) | 51% | 5.00 | 10.0% | 💰 vendida anticipada | -3.71 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Felix | Felix Balshaw (BUY) | 86% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -285,4 +288,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 32.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: JD Gaming vs Top Esports - Game 1 W | JD Gaming (BUY) | 57% | 5.00 | 42.4% | ✅ ganada | +3.66 |
-| SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 90.0% | ⏳ pendiente | — |

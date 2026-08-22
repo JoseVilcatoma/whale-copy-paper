@@ -25373,5 +25373,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787415366.393288,
     "fills": 1
+  },
+  {
+    "timestamp": 1787417288,
+    "timestamp_added": 1787417288.6094568,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tor-nyy-2026-08-22-total-6pt5",
+    "title": "Toronto Blue Jays vs. New York Yankees: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3344.4802000000004,
+    "whale_pct": 3.071,
+    "whale_value_at_open": 108900.528,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787417288.6094723,
+    "fills": 1
   }
 ]
