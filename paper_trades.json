@@ -25112,8 +25112,8 @@
     "title": "LoL: Fnatic vs Shifters - Game 1 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 24620.022920000003,
-    "whale_pct": 66.937,
+    "whale_usd": 52991.964700000004,
+    "whale_pct": 144.075,
     "whale_value_at_open": 36780.8753,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -25126,8 +25126,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787411328.970151,
-    "fills": 3
+    "last_fill_at": 1787413280.2840376,
+    "fills": 4
   },
   {
     "timestamp": 1787411489,

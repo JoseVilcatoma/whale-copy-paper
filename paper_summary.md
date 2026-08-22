@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:38:57 (hora de Perú)
+Actualizado: 2026-08-22 10:43:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.29
@@ -262,7 +262,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Kenta Miyoshi (BUY) | 70% | 5.00 | 5.5% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 70% | 5.00 | 34.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 72% | 5.00 | 66.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 72% | 5.00 | 144.1% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 73% | 5.00 | 3.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Eintracht Frank | Team Liquid (BUY) | 54% | 5.00 | 198.5% | ⏳ pendiente | — |
 | SDTrading | Spread: IND (-3.5) | IND (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
