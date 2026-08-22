@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:28:59 (hora de Perú)
+Actualizado: 2026-08-22 15:31:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $473.40
@@ -263,7 +263,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
-| MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 65% | 5.00 | 30.1% | ⏳ pendiente | — |
+| MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 65% | 5.00 | 64.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Toronto Blue Jays (BUY) | 71% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 50% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Jessica Pegula (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
