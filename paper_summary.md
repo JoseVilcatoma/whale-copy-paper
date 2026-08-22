@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:47:41 (hora de Perú)
+Actualizado: 2026-08-22 15:49:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $478.69
-**Retorno acumulado:** -4.26%
+**Bankroll actual:** $486.88
+**Retorno acumulado:** -2.62%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 15:47:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $203.69)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $221.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,8 +32,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Djdjdjekekek | 10 | 6 | 0 | +5.06 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| pleaseplease123 | 1 | 0 | 0 | +4.14 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| SDTrading | 13 | 11 | 3 | +2.25 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -43,11 +45,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
-| pleaseplease123 | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 0 | 0 | 1 | +0.00 USD |
 | WTSA | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| SDTrading | 12 | 11 | 4 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -59,21 +59,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 54 | 29 | 36 | -13.39 USD |
+| HomeRunHazard | 55 | 30 | 36 | -13.84 USD |
 | Sassy-Bucket | 9 | 14 | 1 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 968
-- **Aciertos:** 613 (63.3%)
-- **Cuota promedio de entrada:** 62.9%
+- **Apuestas resueltas:** 972
+- **Aciertos:** 616 (63.4%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,835.45
-- **ROI sobre lo apostado:** -1.72%
-- **Comisiones pagadas (taker fee):** $89.76 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,855.45
+- **ROI sobre lo apostado:** -1.54%
+- **Comisiones pagadas (taker fee):** $90.25 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,7 +81,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 490 | 48.6% | 50.3% | -1.7 pp |
+| 40-59% | 494 | 48.8% | 50.3% | -1.5 pp |
 | 60-79% | 306 | 71.6% | 67.8% | +3.8 pp |
 | 80-94% | 114 | 87.7% | 86.6% | +1.1 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
@@ -263,6 +263,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 50% | 5.00 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Roger | Dhakshineswar Suresh (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -291,5 +293,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will Gimnasia y Esgrima de La Plata win  | No (BUY) | 50% | 5.00 | 9.3% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: paiN Gaming vs FURIA Esports - Game | FURIA Esports (BUY) | 73% | 5.00 | 71.8% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Marc Polmans (BUY) | 71% | 5.00 | 1.8% | ❌ perdida | -5.07 |
-| HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Abedallah Shelbayh (BUY) | 42% | 5.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Ryan Seggerman (BUY) | 41% | 5.00 | 6.5% | ⏳ pendiente | — |
