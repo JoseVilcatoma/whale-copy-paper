@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.4903670676052,
+  "bankroll": 489.4475670676052,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5085,6 +5085,11 @@
       "timestamp": 1787432021.498695,
       "bankroll": 488.49,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Abedallah Shelbayh vs Ryan Seggerman"
+    },
+    {
+      "timestamp": 1787432324.8741128,
+      "bankroll": 489.45,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest - Game 2 Winner (+0.96 USD)"
     }
   ]
 }
