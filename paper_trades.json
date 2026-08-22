@@ -23577,8 +23577,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 21206.898,
-    "whale_pct": 14.538,
+    "whale_usd": 88055.30140000001,
+    "whale_pct": 60.363,
     "whale_value_at_open": 145876.5512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -23589,8 +23589,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787392403.0199854,
-    "fills": 5
+    "last_fill_at": 1787397410.7675078,
+    "fills": 7
   },
   {
     "timestamp": 1787392470,
@@ -23917,8 +23917,8 @@
     "title": "ITF M15 Kursumlijska Banja 12 Men: Semen Pankin vs Dimitar Kisimov",
     "outcome": "Dimitar Kisimov",
     "side": "BUY",
-    "whale_usd": 2737.6400000000003,
-    "whale_pct": 3.229,
+    "whale_usd": 3253.6400000000003,
+    "whale_pct": 3.838,
     "whale_value_at_open": 84782.2592,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -23929,8 +23929,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787396980.55327,
-    "fills": 2
+    "last_fill_at": 1787397399.8337526,
+    "fills": 3
   },
   {
     "timestamp": 1787397029,
@@ -23957,5 +23957,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787397149.4729338,
     "fills": 6
+  },
+  {
+    "timestamp": 1787397412,
+    "timestamp_added": 1787397413.5280948,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "dfb-sv-lev-2026-08-22-total-5pt5",
+    "title": "SV Wehen Wiesbaden vs. Bayer 04 Leverkusen: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1113.6224,
+    "whale_pct": 1.179,
+    "whale_value_at_open": 94466.2695,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787397413.5281062,
+    "fills": 1
   }
 ]
