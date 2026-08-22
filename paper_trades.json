@@ -22836,5 +22836,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787375969.7365594,
     "fills": 1
+  },
+  {
+    "timestamp": 1787376189,
+    "timestamp_added": 1787376190.22362,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ngx-boombo-2026-08-22-game1",
+    "title": "Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 57586.143211999995,
+    "whale_pct": 83.188,
+    "whale_value_at_open": 69223.7467,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787376243.9278464,
+    "fills": 18
   }
 ]
