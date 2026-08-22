@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 07:29:35 (hora de Perú)
+Actualizado: 2026-08-22 07:31:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 07:29:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $146.40)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $141.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,6 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| Sunshine.Smile | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 8 | 6 | 1 | -2.11 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
@@ -252,6 +253,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | LoL: DN SOOPers vs Kiwoom DRX - Game 2 W | DN SOOPers (BUY) | 58% | 5.00 | 14.2% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Millwall FC vs. Norwich City FC: 1st Hal | Over (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -281,4 +283,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SV Wehen Wiesbaden vs. Bayer 04 Leverkus | Under (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | crisp1973 | Will Doncaster Rovers FC win on 2026-08- | Yes (BUY) | 53% | 5.00 | 46.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Dimitar Kisimov (BUY) | 80% | 5.00 | 3.8% | ✅ ganada | +1.20 |
-| RN1 | ITF M15 Båstad Men: Jan Simonsson vs Nik | Jan Simonsson (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |

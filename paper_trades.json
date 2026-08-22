@@ -22894,8 +22894,8 @@
     "title": "Everton FC vs. Crystal Palace FC: O/U 9.5 Total Corners",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1006.575,
-    "whale_pct": 2.619,
+    "whale_usd": 2141.967,
+    "whale_pct": 5.574,
     "whale_value_at_open": 38426.9898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -22906,8 +22906,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787376404.750687,
-    "fills": 1
+    "last_fill_at": 1787401867.6932802,
+    "fills": 2
   },
   {
     "timestamp": 1787377032,
@@ -24610,6 +24610,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787400783.939397,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787401775,
+    "timestamp_added": 1787401775.810803,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "lol-dnf-drx-2026-08-22-game2",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 6554.999999999999,
+    "whale_pct": 14.223,
+    "whale_value_at_open": 46087.4834,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787401775.8108141,
     "fills": 1
   }
 ]
