@@ -1,5 +1,5 @@
 {
-  "bankroll": 434.28622551068565,
+  "bankroll": 435.1986064630666,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4655,6 +4655,11 @@
       "timestamp": 1787400519.064596,
       "bankroll": 434.29,
       "event": "lost: MisterVision \u2014 LoL: Team WE vs LGD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787400580.43754,
+      "bankroll": 435.2,
+      "event": "won: RN1 \u2014 ITF W35 Krakow Women: Dalila Jakupovic vs Ariana Geerlings"
     }
   ]
 }
