@@ -23298,8 +23298,8 @@
     "title": "LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 7398.574799999999,
-    "whale_pct": 28.327,
+    "whale_usd": 8140.234799999999,
+    "whale_pct": 31.166,
     "whale_value_at_open": 26118.8731,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -23310,8 +23310,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787387959.1115665,
-    "fills": 2
+    "last_fill_at": 1787388333.1403482,
+    "fills": 3
   },
   {
     "timestamp": 1787388186,
