@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 20:53:22 (hora de Perú)
+Actualizado: 2026-08-21 20:57:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $442.72
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 20:53:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $337.72)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $332.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 1 | +2.49 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 2 | +2.49 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -240,6 +240,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Club León FC vs. CF Monterrey: O/U 2.5 | Under (BUY) | 49% | 5.00 | 5.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ⏳ pendiente | — |
 | OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ✅ ganada | +0.10 |
@@ -269,4 +270,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 93% | 5.00 | 0.6% | ✅ ganada | +0.36 |
 | RN1 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 62% | 5.00 | 1.1% | ✅ ganada | +2.97 |
 | RN1 | Cincinnati Open: Taylor Fritz vs Brandon | Brandon Nakashima (BUY) | 45% | 5.00 | 0.8% | ✅ ganada | +5.97 |
-| RN1 | Cincinnati Open: Taylor Fritz vs Brandon | Taylor Fritz (BUY) | 69% | 5.00 | 0.5% | ❌ perdida | -5.08 |
