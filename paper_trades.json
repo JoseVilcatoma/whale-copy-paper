@@ -23577,8 +23577,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 92014.46669400002,
-    "whale_pct": 63.077,
+    "whale_usd": 183351.23369400002,
+    "whale_pct": 125.689,
     "whale_value_at_open": 145876.5512,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -23589,8 +23589,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787397487.0954554,
-    "fills": 9
+    "last_fill_at": 1787398986.0039942,
+    "fills": 14
   },
   {
     "timestamp": 1787392470,
