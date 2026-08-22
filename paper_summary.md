@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 18:12:48 (hora de Perú)
+Actualizado: 2026-08-22 18:14:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.50
@@ -268,7 +268,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7 | Over (BUY) | 50% | 5.00 | 775.4% | ⏳ pendiente | — |
+| Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7 | Over (BUY) | 50% | 5.00 | 793.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CD Universidad Católica win on 2026 | No (BUY) | 46% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cruzeiro EC vs. CR Flamengo: O/U 8.5 Tot | Over (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | pleaseplease123 | New York Mets vs. Chicago White Sox: O/U | Over (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
