@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.179535153685,
+  "bankroll": 443.3479119652792,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4590,6 +4590,11 @@
       "timestamp": 1787391419.9267435,
       "bankroll": 441.18,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner (+4.28 USD)"
+    },
+    {
+      "timestamp": 1787393327.5766585,
+      "bankroll": 443.35,
+      "event": "won: RN1 \u2014 ITF M25 Ueberlingen Men: Nicola Senn vs Tymur Bieldiugin"
     }
   ]
 }
