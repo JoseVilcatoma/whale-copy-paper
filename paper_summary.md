@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:45:37 (hora de Perú)
+Actualizado: 2026-08-22 15:47:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.82
-**Retorno acumulado:** -5.24%
+**Bankroll actual:** $478.69
+**Retorno acumulado:** -4.26%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 15:45:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $193.82)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $203.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,21 +59,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 53 | 29 | 37 | -18.27 USD |
+| HomeRunHazard | 54 | 29 | 36 | -13.39 USD |
 | Sassy-Bucket | 9 | 14 | 1 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 967
-- **Aciertos:** 612 (63.3%)
+- **Apuestas resueltas:** 968
+- **Aciertos:** 613 (63.3%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,830.45
-- **ROI sobre lo apostado:** -1.82%
-- **Comisiones pagadas (taker fee):** $89.64 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,835.45
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $89.76 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,7 +81,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 489 | 48.5% | 50.3% | -1.8 pp |
+| 40-59% | 490 | 48.6% | 50.3% | -1.7 pp |
 | 60-79% | 306 | 71.6% | 67.8% | +3.8 pp |
 | 80-94% | 114 | 87.7% | 86.6% | +1.1 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
@@ -273,7 +273,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 14.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 65% | 5.00 | 64.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Toronto Blue Jays (BUY) | 71% | 5.00 | 3.9% | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 50% | 5.00 | 1.9% | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 50% | 5.00 | 1.9% | ✅ ganada | +4.88 |
 | HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Jessica Pegula (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Caroline  | Darja Vidmanova (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Roger | Roger Pascual (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
