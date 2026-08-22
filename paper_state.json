@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.9468957339027,
+  "bankroll": 482.7258492222748,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5010,6 +5010,11 @@
       "timestamp": 1787425792.1035054,
       "bankroll": 481.95,
       "event": "lost: casualbet2020 \u2014 Valorant: Team Vitality vs Fire Flux Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787427981.8562605,
+      "bankroll": 482.73,
+      "event": "won: HomeRunHazard \u2014 Quebec City: Hugo Gaston vs Luca Van Assche"
     }
   ]
 }

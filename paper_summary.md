@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 14:45:27 (hora de Perú)
+Actualizado: 2026-08-22 14:47:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $481.95
-**Retorno acumulado:** -3.61%
+**Bankroll actual:** $482.73
+**Retorno acumulado:** -3.45%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 14:45:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $271.95)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $277.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,21 +58,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 50 | 28 | 25 | -19.90 USD |
+| HomeRunHazard | 51 | 28 | 24 | -19.12 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 961
-- **Aciertos:** 609 (63.4%)
+- **Apuestas resueltas:** 962
+- **Aciertos:** 610 (63.4%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,800.45
-- **ROI sobre lo apostado:** -1.66%
-- **Comisiones pagadas (taker fee):** $89.12 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,805.45
+- **ROI sobre lo apostado:** -1.64%
+- **Comisiones pagadas (taker fee):** $89.15 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -82,7 +82,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 486 | 48.6% | 50.2% | -1.7 pp |
 | 60-79% | 304 | 71.7% | 67.7% | +4.0 pp |
-| 80-94% | 113 | 87.6% | 86.6% | +1.0 pp |
+| 80-94% | 114 | 87.7% | 86.6% | +1.1 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -277,7 +277,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays (BUY) | 55% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | New York Yankees (BUY) | 46% | 5.00 | 8.4% | ⏳ pendiente | — |
-| HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 39.1% | ⏳ pendiente | — |
+| HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 39.1% | ✅ ganada | +0.78 |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ❌ perdida | -5.08 |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 51% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Li Tu | Quinn Vandecasteele (BUY) | 97% | 5.00 | 1.2% | ✅ ganada | +0.15 |
