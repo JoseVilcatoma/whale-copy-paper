@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 01:28:39 (hora de Perú)
+Actualizado: 2026-08-22 01:30:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.06
@@ -244,7 +244,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 55% | 5.00 | 133.9% | 💰 vendida anticipada | -0.13 |
-| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 81.1% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 83.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Club Tijuana win on 2026-08-22? | No (BUY) | 85% | 5.00 | 8.3% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. New York Liberty: O/U  | Under (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Everton FC vs. Crystal Palace FC: O/U 9. | Over (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
