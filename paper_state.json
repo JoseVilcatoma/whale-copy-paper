@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.4475670676052,
+  "bankroll": 488.9216146866528,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5090,6 +5090,11 @@
       "timestamp": 1787432324.8741128,
       "bankroll": 489.45,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest - Game 2 Winner (+0.96 USD)"
+    },
+    {
+      "timestamp": 1787432558.8829486,
+      "bankroll": 488.92,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest - Game 2 Winner (-0.53 USD)"
     }
   ]
 }
