@@ -25633,8 +25633,8 @@
     "title": "Cincinnati Open: Flavio Cobolli vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 13759.0016,
-    "whale_pct": 13.655,
+    "whale_usd": 14447.6588,
+    "whale_pct": 14.338,
     "whale_value_at_open": 100764.0262,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -25645,8 +25645,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787423920.0356467,
-    "fills": 2
+    "last_fill_at": 1787424135.3742974,
+    "fills": 3
   },
   {
     "timestamp": 1787422926,
@@ -25768,6 +25768,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787423790.6629553,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787424109,
+    "timestamp_added": 1787424109.7862203,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-gorzny-polmans-2026-08-22",
+    "title": "Winston-Salem Open, Qualification: Sebastian Gorzny vs Marc Polmans",
+    "outcome": "Marc Polmans",
+    "side": "BUY",
+    "whale_usd": 2437.1189999999997,
+    "whale_pct": 1.752,
+    "whale_value_at_open": 139114.0618,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787424109.7862346,
     "fills": 1
   }
 ]
