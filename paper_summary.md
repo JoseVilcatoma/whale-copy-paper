@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 23:10:58 (hora de Perú)
+Actualizado: 2026-08-21 23:12:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.10
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 23:10:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $275.10)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $270.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | SDTrading | 10 | 11 | 2 | -11.42 USD |
-| HomeRunHazard | 36 | 20 | 12 | -12.70 USD |
+| HomeRunHazard | 36 | 20 | 13 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -242,6 +242,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -250,7 +251,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Over (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Los Angeles Dodgers (BUY) | 90% | 5.00 | 4.3% | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 55% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -271,4 +272,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ✅ ganada | +2.49 |
 | Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ❌ perdida | -5.12 |
