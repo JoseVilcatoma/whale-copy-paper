@@ -22932,5 +22932,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787377033.3633425,
     "fills": 1
+  },
+  {
+    "timestamp": 1787377406,
+    "timestamp_added": 1787377407.1002307,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "mex-gua-tij-2026-08-22-tij",
+    "title": "Will Club Tijuana win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3315.8499999999995,
+    "whale_pct": 8.302,
+    "whale_value_at_open": 39939.8268,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787377408.537246,
+    "fills": 2
   }
 ]
