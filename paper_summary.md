@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 17:27:23 (hora de Perú)
+Actualizado: 2026-08-22 17:29:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $507.03
-**Retorno acumulado:** +1.41%
+**Bankroll actual:** $511.50
+**Retorno acumulado:** +2.30%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 17:27:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $297.03)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $316.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,31 +49,31 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| ChonkyChocolateCake | 14 | 9 | 4 | -2.81 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 3 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ChonkyChocolateCake | 13 | 9 | 5 | -7.89 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 15 | 2 | -9.95 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 67 | 37 | 17 | -10.69 USD |
+| HomeRunHazard | 68 | 38 | 15 | -11.29 USD |
 | Sassy-Bucket | 10 | 14 | 0 | -27.81 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 995
-- **Aciertos:** 632 (63.5%)
+- **Apuestas resueltas:** 998
+- **Aciertos:** 634 (63.5%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,970.45
-- **ROI sobre lo apostado:** -1.20%
-- **Comisiones pagadas (taker fee):** $92.47 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,985.45
+- **ROI sobre lo apostado:** -1.10%
+- **Comisiones pagadas (taker fee):** $92.82 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.76% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,7 +81,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 504 | 49.0% | 50.2% | -1.2 pp |
+| 40-59% | 507 | 49.1% | 50.3% | -1.1 pp |
 | 60-79% | 317 | 71.6% | 67.7% | +3.9 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
@@ -287,7 +287,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 50% | 5.00 | 2.0% | ❌ perdida | -5.12 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 0.5% | ✅ ganada | +5.08 |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Roger | Dhakshineswar Suresh (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open, Qualification: Roger | Dhakshineswar Suresh (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-3.5) | Atlanta Braves (BUY) | 89% | 5.00 | 2.5% | ✅ ganada | +0.59 |
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes (BUY) | 53% | 5.00 | 213.3% | ⏳ pendiente | — |

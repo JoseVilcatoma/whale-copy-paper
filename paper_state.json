@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.0281180762332,
+  "bankroll": 511.49658432427094,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5225,6 +5225,21 @@
       "timestamp": 1787437457.396514,
       "bankroll": 507.03,
       "event": "lost: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 5.5"
+    },
+    {
+      "timestamp": 1787437765.888872,
+      "bankroll": 512.1,
+      "event": "won: MisterVision \u2014 LoL: SK Gaming vs Movistar KOI - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787437767.0072896,
+      "bankroll": 507.0,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Roger Pascual vs Dhakshineswar Suresh"
+    },
+    {
+      "timestamp": 1787437768.3754113,
+      "bankroll": 511.5,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Roger Pascual vs Dhakshineswar Suresh"
     }
   ]
 }
