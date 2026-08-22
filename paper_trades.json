@@ -25803,8 +25803,8 @@
     "title": "LoL: paiN Gaming vs FURIA Esports - Game 2 Winner",
     "outcome": "FURIA Esports",
     "side": "BUY",
-    "whale_usd": 5340.934999000001,
-    "whale_pct": 60.723,
+    "whale_usd": 6311.1874990000015,
+    "whale_pct": 71.754,
     "whale_value_at_open": 8795.5863,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -25815,8 +25815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787424646.9587202,
-    "fills": 6
+    "last_fill_at": 1787424708.4451132,
+    "fills": 7
   },
   {
     "timestamp": 1787424474,
