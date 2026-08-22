@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 16:04:12 (hora de Perú)
+Actualizado: 2026-08-22 16:06:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 16:04:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $228.92)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $223.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 21 | 8 | 1 | +25.35 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 1 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
-| casualbet2020 | 9 | 4 | 1 | +13.41 USD |
+| casualbet2020 | 9 | 4 | 2 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -253,6 +253,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | el1-don-bar-2026-08-22-don | RN1, crisp1973 |
 | atp-tarvet-poullai-2026-08-22 | HomeRunHazard, RN1 |
 | epl-hul-mun-2026-08-22-spread-away-1pt5 | RN1, danielwolfmorales3pddb6dl6 |
+| val-bst1-g21-2026-08-22 | Wiretransferxyz, casualbet2020 |
 | wta-pegula-swiatek-2026-08-22 | HomeRunHazard, monkeymashingkeyboard |
 | mlb-atl-mil-2026-08-22 | HomeRunHazard, SDTrading |
 | lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
@@ -263,6 +264,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 75% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | FlyQuest (BUY) | 42% | 5.00 | 15.5% | 💰 vendida anticipada | -0.53 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 76% | 5.00 | 95.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 50% | 5.00 | 30.3% | 💰 vendida anticipada | +0.96 |
@@ -292,4 +294,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open, Qualification: Leolia Je | Kamilla Rakhimova (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 54% | 5.00 | 12.8% | ❌ perdida | -5.12 |
 | HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Atlanta Braves (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
