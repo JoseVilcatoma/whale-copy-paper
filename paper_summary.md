@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 16:22:45 (hora de Perú)
+Actualizado: 2026-08-22 16:24:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $496.82
-**Retorno acumulado:** -0.64%
+**Bankroll actual:** $503.01
+**Retorno acumulado:** +0.60%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 16:22:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $296.82)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $313.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 22 | 8 | 2 | +25.69 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 8 | 1 | +27.00 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 1 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | casualbet2020 | 9 | 4 | 2 | +13.41 USD |
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | SDTrading | 14 | 11 | 2 | +5.09 USD |
 | Djdjdjekekek | 10 | 6 | 0 | +5.06 USD |
+| kekasaur | 1 | 0 | 0 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | pleaseplease123 | 1 | 0 | 0 | +4.14 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -45,7 +46,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
-| kekasaur | 0 | 0 | 1 | +0.00 USD |
 | WTSA | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -66,14 +66,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 988
-- **Aciertos:** 627 (63.5%)
+- **Apuestas resueltas:** 989
+- **Aciertos:** 628 (63.5%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,935.45
-- **ROI sobre lo apostado:** -1.33%
-- **Comisiones pagadas (taker fee):** $91.75 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,940.45
+- **ROI sobre lo apostado:** -1.23%
+- **Comisiones pagadas (taker fee):** $91.88 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,7 +81,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 500 | 49.0% | 50.2% | -1.2 pp |
+| 40-59% | 501 | 49.1% | 50.2% | -1.1 pp |
 | 60-79% | 314 | 71.3% | 67.7% | +3.6 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
@@ -268,7 +268,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 52% | 5.00 | 3.3% | 💰 vendida anticipada | +0.34 |
 | casualbet2020 | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 75% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | FlyQuest (BUY) | 42% | 5.00 | 15.5% | 💰 vendida anticipada | -0.53 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 76% | 5.00 | 98.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 76% | 5.00 | 98.7% | 💰 vendida anticipada | +1.31 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 50% | 5.00 | 30.3% | 💰 vendida anticipada | +0.96 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 50% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 0.5% | ⏳ pendiente | — |

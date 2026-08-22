@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.81863476852385,
+  "bankroll": 503.0056413474712,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5170,6 +5170,16 @@
       "timestamp": 1787433267.1100173,
       "bankroll": 496.82,
       "event": "lost: HomeRunHazard \u2014 Spread: Toronto Blue Jays (-2.5)"
+    },
+    {
+      "timestamp": 1787433789.1653497,
+      "bankroll": 498.13,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest (BO3) - LCS Regular Season (+1.31 USD)"
+    },
+    {
+      "timestamp": 1787433888.5521197,
+      "bankroll": 503.01,
+      "event": "won: kekasaur \u2014 Will Gimnasia y Esgrima de La Plata win on 2026-08-22?"
     }
   ]
 }
