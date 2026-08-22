@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.63964951538713,
+  "bankroll": 433.9908995153871,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4575,6 +4575,11 @@
       "timestamp": 1787387680.846753,
       "bankroll": 429.64,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787387855.9036906,
+      "bankroll": 433.99,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team WE vs LGD Gaming - Game 2 Winner (+4.35 USD)"
     }
   ]
 }
