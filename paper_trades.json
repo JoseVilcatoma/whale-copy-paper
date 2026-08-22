@@ -25486,8 +25486,8 @@
     "title": "Quebec City: Hugo Gaston vs Luca Van Assche",
     "outcome": "Luca Van Assche",
     "side": "BUY",
-    "whale_usd": 12185.6511,
-    "whale_pct": 19.215,
+    "whale_usd": 13408.6911,
+    "whale_pct": 21.143,
     "whale_value_at_open": 63418.9793,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -25498,8 +25498,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787421083.371792,
-    "fills": 4
+    "last_fill_at": 1787422747.6556416,
+    "fills": 5
   },
   {
     "timestamp": 1787421365,
@@ -25534,8 +25534,8 @@
     "title": "Toronto Blue Jays vs. New York Yankees",
     "outcome": "Toronto Blue Jays",
     "side": "BUY",
-    "whale_usd": 1067.0634779999998,
-    "whale_pct": 1.475,
+    "whale_usd": 7085.763078,
+    "whale_pct": 9.796,
     "whale_value_at_open": 72333.5422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -25546,8 +25546,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787421398.5668237,
-    "fills": 1
+    "last_fill_at": 1787422757.766345,
+    "fills": 2
   },
   {
     "timestamp": 1787421512,
