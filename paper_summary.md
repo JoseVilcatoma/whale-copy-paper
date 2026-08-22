@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 13:22:15 (hora de Perú)
+Actualizado: 2026-08-22 13:24:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 13:22:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $291.91)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $281.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 50 | 28 | 18 | -19.90 USD |
+| HomeRunHazard | 50 | 28 | 20 | -19.90 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 149 | 72 | 1 | -44.01 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -251,6 +251,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | el1-don-bar-2026-08-22-don | RN1, crisp1973 |
 | atp-tarvet-poullai-2026-08-22 | HomeRunHazard, RN1 |
 | epl-hul-mun-2026-08-22-spread-away-1pt5 | RN1, danielwolfmorales3pddb6dl6 |
+| mlb-atl-mil-2026-08-22 | HomeRunHazard, SDTrading |
 | lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 | mlb-tor-nyy-2026-08-22-total-6pt5 | HomeRunHazard, SDTrading, pleaseplease123 |
 
@@ -258,6 +259,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
 | MisterVision | LoL: SK Gaming vs Movistar KOI - Game 2  | SK Gaming (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 7.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -286,5 +289,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Spread: IND (-3.5) | IND (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: FNC (-1.5) vs Shifters (+ | Fnatic (BUY) | 52% | 5.00 | 28.1% | ⏳ pendiente | — |
 | HomeRunHazard | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 56% | 5.00 | 5.0% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 5.9% | 💰 vendida anticipada | +0.49 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 83.8% | 💰 vendida anticipada | +0.06 |
