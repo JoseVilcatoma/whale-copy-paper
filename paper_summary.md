@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 04:30:45 (hora de Perú)
+Actualizado: 2026-08-22 04:32:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.90
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 04:30:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $296.90)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $291.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 26 | 8 | 2 | +27.44 USD |
+| IMAREALPERSON | 26 | 8 | 3 | +27.44 USD |
 | casualbet2020 | 7 | 2 | 2 | +15.95 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
@@ -240,13 +240,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ngx-boombo-2026-08-22-game2 | BOOMBOYS.Kiritych, IMAREALPERSON |
 | lol-we-lgd-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, danielwolfmorales3pddb6dl6 |
 | lol-we-lgd-2026-08-22-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, danielwolfmorales3pddb6dl6 |
-| lol-dk-gen-2026-08-22-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, danielwolfmorales3pddb6dl6 |
+| lol-dk-gen-2026-08-22-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, MisterVision, danielwolfmorales3pddb6dl6 |
 | dota2-vsn2-ty-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 49% | 5.00 | 18.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 60% | 5.00 | 14.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 47% | 5.00 | 2.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: TEAM VISION vs Team Yandex - Gam | Team Yandex (BUY) | 51% | 5.00 | 167.0% | ⏳ pendiente | — |
@@ -276,4 +277,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Pittsburgh Pirates (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 54% | 5.00 | 0.3% | ✅ ganada | +4.14 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Nottingham Forest FC vs. Leeds United FC | No (BUY) | 81% | 5.00 | 5.4% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Fagiano Okayama win on 2026-08-22? | No (BUY) | 56% | 5.00 | 11.8% | ⏳ pendiente | — |
