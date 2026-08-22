@@ -27349,5 +27349,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787440391.8940303,
     "fills": 2
+  },
+  {
+    "timestamp": 1787440689,
+    "timestamp_added": 1787440690.3964293,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "mls-mia-tor-2026-08-22-spread-home-1pt5",
+    "title": "Spread: Inter Miami CF (-1.5)",
+    "outcome": "Toronto FC",
+    "side": "BUY",
+    "whale_usd": 7523.765299000001,
+    "whale_pct": 12.83,
+    "whale_value_at_open": 58641.2683,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787440691.6967444,
+    "fills": 2
   }
 ]
