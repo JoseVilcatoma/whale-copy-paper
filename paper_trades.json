@@ -27103,5 +27103,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787438452.5144708,
     "fills": 1
+  },
+  {
+    "timestamp": 1787438539,
+    "timestamp_added": 1787438539.80024,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "mls-fcc-sea-2026-08-22-fcc",
+    "title": "Will FC Cincinnati win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1636.3400000000001,
+    "whale_pct": 3.665,
+    "whale_value_at_open": 44645.8478,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787438539.8002553,
+    "fills": 1
   }
 ]
