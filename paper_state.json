@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.3243315160395,
+  "bankroll": 441.61099818270617,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4340,6 +4340,11 @@
       "timestamp": 1787362141.8569095,
       "bankroll": 436.32,
       "event": "won: OOOwhyOOO \u2014 Quebec City: Taro Daniel vs Jacob Fearnley"
+    },
+    {
+      "timestamp": 1787362392.979819,
+      "bankroll": 441.61,
+      "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 9.5"
     }
   ]
 }
