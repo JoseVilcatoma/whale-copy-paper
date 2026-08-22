@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.2671383971487,
+  "bankroll": 436.1691383971487,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4830,6 +4830,11 @@
       "timestamp": 1787409470.1675212,
       "bankroll": 441.27,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: BoomBoys vs Team Spirit - Game 2 Winner (+0.49 USD)"
+    },
+    {
+      "timestamp": 1787409890.3276007,
+      "bankroll": 436.17,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Prague 2: Chun-Hsin Tseng vs Jan Kumstat"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 09:43:06 (hora de Perú)
+Actualizado: 2026-08-22 09:45:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.27
-**Retorno acumulado:** -11.75%
+**Bankroll actual:** $436.17
+**Retorno acumulado:** -12.77%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 09:43:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $241.27)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $241.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,21 +56,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ChonkyChocolateCake | 11 | 9 | 1 | -13.33 USD |
 | HomeRunHazard | 47 | 27 | 6 | -19.89 USD |
-| danielwolfmorales3pddb6dl6 | 10 | 13 | 7 | -20.75 USD |
+| danielwolfmorales3pddb6dl6 | 10 | 14 | 6 | -25.85 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 142 | 69 | 11 | -42.11 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 927
-- **Aciertos:** 583 (62.9%)
+- **Apuestas resueltas:** 928
+- **Aciertos:** 583 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,630.45
-- **ROI sobre lo apostado:** -2.52%
-- **Comisiones pagadas (taker fee):** $86.13 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,635.45
+- **ROI sobre lo apostado:** -2.63%
+- **Comisiones pagadas (taker fee):** $86.23 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -79,7 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 470 | 47.4% | 50.2% | -2.7 pp |
-| 60-79% | 293 | 72.4% | 67.7% | +4.7 pp |
+| 60-79% | 294 | 72.1% | 67.6% | +4.5 pp |
 | 80-94% | 107 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
 
@@ -264,7 +264,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 69% | 5.00 | 10.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Gauff (-1.5) vs Bejlek (+1 | Bejlek (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Brandon Nakashima vs Fr | Brandon Nakashima (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Prague 2: Chun-Hsin Tseng vs Jan Kumstat | Chun-Hsin Tseng (BUY) | 61% | 5.00 | 21.1% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Prague 2: Chun-Hsin Tseng vs Jan Kumstat | Chun-Hsin Tseng (BUY) | 61% | 5.00 | 21.1% | ❌ perdida | -5.10 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 32.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: JD Gaming vs Top Esports - Game 1 W | JD Gaming (BUY) | 57% | 5.00 | 42.4% | ⏳ pendiente | — |
