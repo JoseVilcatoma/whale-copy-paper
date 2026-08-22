@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 19:39:19 (hora de Perú)
+Actualizado: 2026-08-21 19:41:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $427.55
@@ -261,7 +261,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 52% | 5.00 | 9.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Quebec City: Zizou Bergs vs Stefanos Sak | Zizou Bergs (BUY) | 81% | 5.00 | 2.5% | ❌ perdida | -5.05 |
-| Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies | Under (BUY) | 51% | 5.00 | 50.7% | ⏳ pendiente | — |
+| Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies | Under (BUY) | 51% | 5.00 | 56.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Bilibili Gaming vs TYLOO (BO5) | TYLOO (BUY) | 58% | 5.00 | 34.5% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 93% | 5.00 | 0.6% | ✅ ganada | +0.36 |
 | RN1 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 62% | 5.00 | 1.1% | ✅ ganada | +2.97 |
