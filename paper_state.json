@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.3986064630666,
+  "bankroll": 431.29860646306656,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4665,6 +4665,11 @@
       "timestamp": 1787400834.6636002,
       "bankroll": 436.4,
       "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Semen Pankin vs Dimitar Kisimov"
+    },
+    {
+      "timestamp": 1787401949.088276,
+      "bankroll": 431.3,
+      "event": "lost: RN1 \u2014 ITF M25 Ueberlingen Men: Maximilian Marterer vs Daniel Masur"
     }
   ]
 }
