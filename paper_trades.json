@@ -22966,8 +22966,8 @@
     "title": "Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 17850.9118,
-    "whale_pct": 16.284,
+    "whale_usd": 68464.31514,
+    "whale_pct": 62.456,
     "whale_value_at_open": 109620.7991,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -22978,7 +22978,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787379876.758744,
-    "fills": 5
+    "last_fill_at": 1787379996.4313219,
+    "fills": 14
+  },
+  {
+    "timestamp": 1787379996,
+    "timestamp_added": 1787379996.5244117,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-ngx-boombo-2026-08-22-game2",
+    "title": "Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 5961.335400000001,
+    "whale_pct": 133.896,
+    "whale_value_at_open": 4452.2202,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BOOMBOYS.Kiritych"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787379996.524425,
+    "fills": 1
   }
 ]
