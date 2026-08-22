@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 05:26:50 (hora de Perú)
+Actualizado: 2026-08-22 05:28:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $438.23
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 05:26:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $258.23)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $253.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ChonkyChocolateCake | 8 | 5 | 4 | +0.13 USD |
+| ChonkyChocolateCake | 8 | 5 | 5 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -242,11 +242,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-we-lgd-2026-08-22-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, danielwolfmorales3pddb6dl6 |
 | lol-dk-gen-2026-08-22-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, MisterVision, danielwolfmorales3pddb6dl6 |
 | dota2-vsn2-ty-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON |
+| lol-nip-ig1-2026-08-22-game1 | MisterVision, danielwolfmorales3pddb6dl6 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Arad Men: Matteo Sciahbasi vs Dr | Matteo Sciahbasi (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 56% | 5.00 | 28.4% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Dalila Jakupovic v | Ariana Geerlings (BUY) | 84% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -276,4 +278,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Game Handicap: VSN (-1.5) vs Team Yandex | Team Yandex (BUY) | 55% | 5.00 | 89.3% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 46% | 5.00 | 64.5% | 💰 vendida anticipada | +0.38 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 43% | 5.00 | 13.3% | 💰 vendida anticipada | +3.23 |
-| danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 48% | 5.00 | 42.7% | ⏳ pendiente | — |
