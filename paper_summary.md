@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 13:55:58 (hora de Perú)
+Actualizado: 2026-08-22 13:57:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.81
@@ -268,9 +268,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Abedallah Shelbayh (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Ryan Seggerman (BUY) | 41% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 3.9% | ⏳ pendiente | — |
+| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 5.1% | ⏳ pendiente | — |
 | MisterVision | LoL: SK Gaming vs Movistar KOI - Game 2  | SK Gaming (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 19.8% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 21.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |

@@ -25633,8 +25633,8 @@
     "title": "Cincinnati Open: Flavio Cobolli vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 19998.3039,
-    "whale_pct": 19.847,
+    "whale_usd": 21555.807345999998,
+    "whale_pct": 21.392,
     "whale_value_at_open": 100764.0262,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -25645,8 +25645,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787424370.128683,
-    "fills": 4
+    "last_fill_at": 1787424981.8621829,
+    "fills": 5
   },
   {
     "timestamp": 1787422926,
@@ -25681,8 +25681,8 @@
     "title": "Atlanta Braves vs. Milwaukee Brewers",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 4229.8176,
-    "whale_pct": 3.909,
+    "whale_usd": 5549.746800000001,
+    "whale_pct": 5.129,
     "whale_value_at_open": 108204.4088,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -25695,8 +25695,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787422975.317204,
-    "fills": 1
+    "last_fill_at": 1787425062.835533,
+    "fills": 2
   },
   {
     "timestamp": 1787423039,
