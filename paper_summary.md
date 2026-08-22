@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:20:19 (hora de Perú)
+Actualizado: 2026-08-22 10:22:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $440.36
-**Retorno acumulado:** -11.93%
+**Bankroll actual:** $436.28
+**Retorno acumulado:** -12.74%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 10:20:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $210.36)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $216.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,19 +58,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 47 | 27 | 9 | -19.89 USD |
 | danielwolfmorales3pddb6dl6 | 10 | 14 | 6 | -25.85 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
-| RN1 | 144 | 69 | 9 | -37.92 USD |
+| RN1 | 145 | 70 | 7 | -42.00 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 930
-- **Aciertos:** 585 (62.9%)
-- **Cuota promedio de entrada:** 62.8%
+- **Apuestas resueltas:** 932
+- **Aciertos:** 586 (62.9%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,645.45
-- **ROI sobre lo apostado:** -2.53%
-- **Comisiones pagadas (taker fee):** $86.36 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.68% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,655.45
+- **ROI sobre lo apostado:** -2.62%
+- **Comisiones pagadas (taker fee):** $86.46 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.76% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -79,8 +79,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 471 | 47.6% | 50.2% | -2.6 pp |
-| 60-79% | 294 | 72.1% | 67.6% | +4.5 pp |
-| 80-94% | 108 | 87.0% | 86.8% | +0.3 pp |
+| 60-79% | 295 | 71.9% | 67.7% | +4.2 pp |
+| 80-94% | 109 | 87.2% | 86.7% | +0.4 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -283,6 +283,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ✅ ganada | +0.25 |
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 15.2% | ⏳ pendiente | — |
 | RN1 | Millwall FC vs. Norwich City FC: 1st Hal | Over (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will Hull City AFC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Will Hull City AFC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.8% | ❌ perdida | -5.06 |
 | RN1 | Will Barnsley FC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.6% | ✅ ganada | +1.60 |
 | RN1 | Will Manchester United FC win on 2026-08 | No (BUY) | 53% | 5.00 | 3.0% | ✅ ganada | +4.32 |

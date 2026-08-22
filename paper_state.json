@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.3636237772657,
+  "bankroll": 436.28272016280783,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4845,6 +4845,16 @@
       "timestamp": 1787411450.6717792,
       "bankroll": 440.36,
       "event": "won: RN1 \u2014 Will FC Augsburg win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787412075.4072397,
+      "bankroll": 441.34,
+      "event": "won: RN1 \u2014 Will Hull City AFC vs. Manchester United FC end in a draw?"
+    },
+    {
+      "timestamp": 1787412076.8992999,
+      "bankroll": 436.28,
+      "event": "lost: RN1 \u2014 Will Hull City AFC win on 2026-08-22?"
     }
   ]
 }
