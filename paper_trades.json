@@ -24063,8 +24063,8 @@
     "title": "Roehampton: Oliver Tarvet vs Lucas Poullain",
     "outcome": "Oliver Tarvet",
     "side": "BUY",
-    "whale_usd": 4712.02,
-    "whale_pct": 4.661,
+    "whale_usd": 10486.18967,
+    "whale_pct": 10.372,
     "whale_value_at_open": 101102.9803,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -24077,8 +24077,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787398050.2554026,
-    "fills": 4
+    "last_fill_at": 1787398826.5326843,
+    "fills": 7
   },
   {
     "timestamp": 1787398289,
@@ -24235,8 +24235,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 13084.798,
-    "whale_pct": 30.4,
+    "whale_usd": 14352.705600000001,
+    "whale_pct": 33.345,
     "whale_value_at_open": 43042.5748,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -24249,8 +24249,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787398765.031115,
-    "fills": 4
+    "last_fill_at": 1787398811.7484057,
+    "fills": 5
   },
   {
     "timestamp": 1787398780,
@@ -24274,6 +24274,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787398781.3755937,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787398796,
+    "timestamp_added": 1787398796.42686,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "epl-hul-mun-2026-08-22-total-2pt5",
+    "title": "Hull City AFC vs. Manchester United FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 551.399274,
+    "whale_pct": 0.543,
+    "whale_value_at_open": 101577.0196,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787398796.4268754,
     "fills": 1
   }
 ]

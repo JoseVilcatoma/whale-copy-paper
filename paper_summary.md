@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 06:39:46 (hora de Perú)
+Actualizado: 2026-08-22 06:41:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.28
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 06:39:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $176.28)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $171.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 26 | 6 | -17.12 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 7 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
-| RN1 | 132 | 64 | 15 | -45.90 USD |
+| RN1 | 132 | 64 | 16 | -45.90 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
@@ -252,15 +252,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Hull City AFC vs. Manchester United | No (BUY) | 83% | 5.00 | 1.2% | ⏳ pendiente | — |
-| MisterVision | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 69% | 5.00 | 30.4% | ⏳ pendiente | — |
+| MisterVision | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 69% | 5.00 | 33.3% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Spread: Manchester United FC (-1.5) | Manchester United FC (BUY) | 50% | 5.00 | 40.7% | ⏳ pendiente | — |
 | RN1 | Spread: Manchester United FC (-1.5) | Hull City AFC (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Goncalo Mar | Goncalo Marques (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 73% | 5.00 | 3.0% | ⏳ pendiente | — |
 | MisterVision | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 59% | 5.00 | 30.2% | ⏳ pendiente | — |
-| RN1 | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 4.7% | ⏳ pendiente | — |
+| RN1 | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 10.4% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 3.5% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Will Vietnam win on 2026-08-22? | Yes (BUY) | 43% | 5.00 | 21.2% | ⏳ pendiente | — |
 | RN1 | Will FC Augsburg win on 2026-08-22? | Yes (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -281,4 +282,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Dream vs. Phoenix Mercury | Atlanta Dream (BUY) | 66% | 5.00 | 4.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 68% | 5.00 | 291.8% | ❌ perdida | -5.08 |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 92% | 5.00 | 63.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Connecticut Sun (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
