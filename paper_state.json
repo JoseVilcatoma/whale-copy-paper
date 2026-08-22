@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.72137752758346,
+  "bankroll": 440.7766492667139,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4820,6 +4820,11 @@
       "timestamp": 1787407703.492331,
       "bankroll": 440.72,
       "event": "lost: MisterVision \u2014 LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787409272.925723,
+      "bankroll": 440.78,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: BoomBoys vs Team Spirit - Game 2 Winner (+0.06 USD)"
     }
   ]
 }

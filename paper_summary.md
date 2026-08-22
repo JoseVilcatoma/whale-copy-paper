@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 09:32:44 (hora de Perú)
+Actualizado: 2026-08-22 09:34:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $440.72
-**Retorno acumulado:** -11.86%
+**Bankroll actual:** $440.78
+**Retorno acumulado:** -11.84%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 09:32:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $240.72)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $235.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 8 | 2 | 1 | +19.47 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 7 | 0 | +17.54 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 7 | 1 | +17.60 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
@@ -255,6 +255,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 5.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 83.8% | 💰 vendida anticipada | +0.06 |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 332.5% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: BoomBoys vs Team Spirit - Game 1 | Team Spirit (BUY) | 71% | 5.00 | 15.9% | 💰 vendida anticipada | +0.80 |
@@ -266,7 +268,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 32.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: JD Gaming vs Top Esports - Game 1 W | JD Gaming (BUY) | 57% | 5.00 | 42.4% | ⏳ pendiente | — |
-| SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 81.5% | ⏳ pendiente | — |
+| SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 90.0% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: DN SOOPers vs Kiwoom DRX - Game 2 W | DN SOOPers (BUY) | 58% | 5.00 | 14.2% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ✅ ganada | +0.25 |
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 15.2% | ⏳ pendiente | — |
@@ -283,5 +285,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Millwall FC win on 2026-08-22? | No (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 47% | 5.00 | 0.5% | ✅ ganada | +5.51 |
 | RN1 | Will Hull City AFC vs. Manchester United | No (BUY) | 83% | 5.00 | 1.2% | ⏳ pendiente | — |
-| MisterVision | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 69% | 5.00 | 33.3% | ✅ ganada | +2.17 |
-| RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
