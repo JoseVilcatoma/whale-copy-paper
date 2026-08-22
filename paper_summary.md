@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 07:00:24 (hora de Perú)
+Actualizado: 2026-08-22 07:02:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $434.97
-**Retorno acumulado:** -13.01%
+**Bankroll actual:** $429.90
+**Retorno acumulado:** -14.02%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 07:00:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $124.97)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $119.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
-| Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
+| Wiretransferxyz | 0 | 1 | 2 | -5.12 USD |
 | crisp1973 | 1 | 2 | 1 | -5.31 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -56,19 +56,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 26 | 7 | -17.12 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 12 | 6 | -32.18 USD |
-| RN1 | 132 | 64 | 26 | -45.90 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
+| RN1 | 132 | 65 | 25 | -50.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 891
-- **Aciertos:** 560 (62.9%)
+- **Apuestas resueltas:** 892
+- **Aciertos:** 560 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,450.45
-- **ROI sobre lo apostado:** -2.74%
-- **Comisiones pagadas (taker fee):** $82.78 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.88% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,455.45
+- **ROI sobre lo apostado:** -2.85%
+- **Comisiones pagadas (taker fee):** $82.85 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 453 | 47.0% | 50.1% | -3.1 pp |
-| 60-79% | 278 | 73.0% | 67.6% | +5.4 pp |
+| 60-79% | 279 | 72.8% | 67.6% | +5.1 pp |
 | 80-94% | 104 | 86.5% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -252,6 +252,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Millwall FC vs. Norwich City FC: 1st Hal | Over (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Hull City AFC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Barnsley FC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -279,6 +280,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SV Wehen Wiesbaden vs. Bayer 04 Leverkus | Under (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | crisp1973 | Will Doncaster Rovers FC win on 2026-08- | Yes (BUY) | 53% | 5.00 | 46.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Dimitar Kisimov (BUY) | 80% | 5.00 | 3.8% | ⏳ pendiente | — |
-| RN1 | ITF M15 Båstad Men: Jan Simonsson vs Nik | Jan Simonsson (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | ITF M15 Båstad Men: Jan Simonsson vs Nik | Jan Simonsson (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
-| RN1 | Will Doncaster Rovers FC win on 2026-08- | No (BUY) | 49% | 5.00 | 18.9% | ⏳ pendiente | — |

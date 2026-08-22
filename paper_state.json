@@ -1,5 +1,5 @@
 {
-  "bankroll": 434.9734247444021,
+  "bankroll": 429.90042474440213,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4635,6 +4635,11 @@
       "timestamp": 1787399266.5524933,
       "bankroll": 434.97,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 LoL: Team WE vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787400142.2032757,
+      "bankroll": 429.9,
+      "event": "lost: RN1 \u2014 ITF M15 B\u00e5stad Men: Jan Simonsson vs Niklas Guttau"
     }
   ]
 }
