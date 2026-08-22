@@ -25435,8 +25435,8 @@
     "title": "Toronto Blue Jays vs. New York Yankees: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1875.4298,
-    "whale_pct": 3.079,
+    "whale_usd": 3063.4298,
+    "whale_pct": 5.029,
     "whale_value_at_open": 60915.3894,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -25450,8 +25450,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787420162.9938602,
-    "fills": 1
+    "last_fill_at": 1787429080.0755193,
+    "fills": 2
   },
   {
     "timestamp": 1787420469,
@@ -25609,8 +25609,8 @@
     "title": "Spread: Toronto Blue Jays (-1.5)",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 557.141,
-    "whale_pct": 0.652,
+    "whale_usd": 1404.141,
+    "whale_pct": 1.642,
     "whale_value_at_open": 85515.2474,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -25621,8 +25621,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787422367.0169249,
-    "fills": 1
+    "last_fill_at": 1787429078.1286068,
+    "fills": 2
   },
   {
     "timestamp": 1787422876,
@@ -25731,8 +25731,8 @@
     "title": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Ryan Seggerman",
     "outcome": "Ryan Seggerman",
     "side": "BUY",
-    "whale_usd": 6221.3189,
-    "whale_pct": 5.22,
+    "whale_usd": 7758.3181,
+    "whale_pct": 6.509,
     "whale_value_at_open": 119190.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -25743,8 +25743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787425587.0557196,
-    "fills": 5
+    "last_fill_at": 1787429055.9789488,
+    "fills": 6
   },
   {
     "timestamp": 1787423789,
@@ -26012,6 +26012,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787428845.3522136,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787429159,
+    "timestamp_added": 1787429159.8580046,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-udvardy-arango-2026-08-22",
+    "title": "Monterrey Open, Qualification: Panna Udvardy vs Emiliana Arango",
+    "outcome": "Emiliana Arango",
+    "side": "BUY",
+    "whale_usd": 1926.7449000000001,
+    "whale_pct": 1.324,
+    "whale_value_at_open": 145533.4581,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787429159.8580158,
     "fills": 1
   }
 ]

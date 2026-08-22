@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:04:09 (hora de Perú)
+Actualizado: 2026-08-22 15:06:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 15:04:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $273.46)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $268.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 53 | 29 | 25 | -18.27 USD |
+| HomeRunHazard | 53 | 29 | 26 | -18.27 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
@@ -261,6 +261,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Monterrey Open, Qualification: Panna Udv | Emiliana Arango (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 62% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -272,22 +273,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | LoL: paiN Gaming vs FURIA Esports - Game | FURIA Esports (BUY) | 73% | 5.00 | 71.8% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Marc Polmans (BUY) | 71% | 5.00 | 1.8% | ❌ perdida | -5.07 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Abedallah Shelbayh (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Ryan Seggerman (BUY) | 41% | 5.00 | 5.2% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Ryan Seggerman (BUY) | 41% | 5.00 | 6.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 1.3% | ✅ ganada | +4.14 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 5.1% | ⏳ pendiente | — |
 | MisterVision | LoL: SK Gaming vs Movistar KOI - Game 2  | SK Gaming (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 24.3% | ✅ ganada | +1.78 |
-| HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays (BUY) | 55% | 5.00 | 13.1% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | New York Yankees (BUY) | 46% | 5.00 | 8.4% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 39.1% | ✅ ganada | +0.78 |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ❌ perdida | -5.08 |
-| HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 51% | 5.00 | 3.1% | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 51% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Li Tu | Quinn Vandecasteele (BUY) | 97% | 5.00 | 1.2% | ✅ ganada | +0.15 |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 54% | 5.00 | 4.4% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 52% | 5.00 | 8.2% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 2 Winner | Shifters (BUY) | 51% | 5.00 | 10.0% | 💰 vendida anticipada | -3.71 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Felix | Felix Balshaw (BUY) | 86% | 5.00 | 5.2% | ✅ ganada | +0.78 |
-| danielwolfmorales3pddb6dl6 | Map Handicap: TS (-1.5) vs Legacy (+1.5) | Legacy (BUY) | 55% | 5.00 | 4.7% | ⏳ pendiente | — |
