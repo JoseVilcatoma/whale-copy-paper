@@ -1,5 +1,5 @@
 {
-  "bankroll": 458.4240158318384,
+  "bankroll": 453.3020158318384,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4930,6 +4930,11 @@
       "timestamp": 1787416320.1964598,
       "bankroll": 458.42,
       "event": "venta anticipada: Sunshine.Smile \u2014 LoL: Fnatic vs Shifters - Game 2 Winner (-3.71 USD)"
+    },
+    {
+      "timestamp": 1787418274.7614574,
+      "bankroll": 453.3,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Everton FC vs. Crystal Palace FC: O/U 9.5 Total Corners"
     }
   ]
 }
