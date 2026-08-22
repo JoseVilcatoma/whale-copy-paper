@@ -27253,5 +27253,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787439975.9159882,
     "fills": 1
+  },
+  {
+    "timestamp": 1787440058,
+    "timestamp_added": 1787440059.1488006,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nym-cws-2026-08-22-total-8pt5",
+    "title": "New York Mets vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3367.1883,
+    "whale_pct": 1.941,
+    "whale_value_at_open": 173448.6664,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787440087.945666,
+    "fills": 2
   }
 ]
