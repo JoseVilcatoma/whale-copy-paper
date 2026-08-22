@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.5894518804854,
+  "bankroll": 513.1762137852473,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5255,6 +5255,21 @@
       "timestamp": 1787440857.89045,
       "bankroll": 516.59,
       "event": "won: casualbet2020 \u2014 Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787441165.4362469,
+      "bankroll": 511.51,
+      "event": "lost: monkeymashingkeyboard \u2014 Cincinnati Open: Jessica Pegula vs Iga Swiatek"
+    },
+    {
+      "timestamp": 1787441167.0005112,
+      "bankroll": 506.42,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Open: Jessica Pegula vs Iga Swiatek"
+    },
+    {
+      "timestamp": 1787441167.7999892,
+      "bankroll": 513.18,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Jessica Pegula vs Iga Swiatek"
     }
   ]
 }

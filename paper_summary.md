@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 18:25:15 (hora de Perú)
+Actualizado: 2026-08-22 18:27:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $516.59
-**Retorno acumulado:** +3.32%
+**Bankroll actual:** $513.18
+**Retorno acumulado:** +2.64%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 18:25:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $251.59)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $263.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,35 +45,35 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
 | WTSA | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | ChonkyChocolateCake | 14 | 9 | 4 | -2.81 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | Wiretransferxyz | 1 | 1 | 3 | -3.60 USD |
+| monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| HomeRunHazard | 69 | 39 | 13 | -9.62 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 15 | 2 | -9.95 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 68 | 38 | 15 | -11.29 USD |
 | Sassy-Bucket | 10 | 14 | 2 | -27.81 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1001
-- **Aciertos:** 637 (63.6%)
+- **Apuestas resueltas:** 1004
+- **Aciertos:** 638 (63.5%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,000.45
-- **ROI sobre lo apostado:** -1.00%
-- **Comisiones pagadas (taker fee):** $93.02 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,015.45
+- **ROI sobre lo apostado:** -1.06%
+- **Comisiones pagadas (taker fee):** $93.34 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,8 +81,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 507 | 49.1% | 50.3% | -1.1 pp |
-| 60-79% | 320 | 71.9% | 67.8% | +4.1 pp |
+| 40-59% | 508 | 49.2% | 50.2% | -1.0 pp |
+| 60-79% | 322 | 71.4% | 67.8% | +3.6 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
