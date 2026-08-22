@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.5544844031496,
+  "bankroll": 429.50746613830944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4305,6 +4305,21 @@
       "timestamp": 1787357246.9495082,
       "bankroll": 427.55,
       "event": "won: ferrariChampions2026 \u2014 Cancun: Roman Safiullin vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1787359823.4131255,
+      "bankroll": 429.34,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: MIBR vs Team Envy - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787359888.1390228,
+      "bankroll": 434.62,
+      "event": "won: Sassy-Bucket \u2014 San Francisco Giants vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1787359889.1345265,
+      "bankroll": 429.51,
+      "event": "lost: ferrariChampions2026 \u2014 San Francisco Giants vs. Boston Red Sox: O/U 7.5"
     }
   ]
 }
