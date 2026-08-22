@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 22:29:08 (hora de Perú)
+Actualizado: 2026-08-21 22:31:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $421.61
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 22:29:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $336.61)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $331.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 25 | 6 | 0 | +27.46 USD |
-| casualbet2020 | 7 | 0 | 3 | +26.20 USD |
+| casualbet2020 | 7 | 0 | 4 | +26.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | BOOMBOYS.Kiritych | 5 | 2 | 0 | +10.33 USD |
@@ -240,6 +240,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Sentinels vs KRÜ Esports (BO3) | KRÜ Esports (BUY) | 41% | 5.00 | 47.0% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 53% | 5.00 | 91.0% | 💰 vendida anticipada | +0.24 |
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 47% | 5.00 | 15.2% | 💰 vendida anticipada | +0.48 |
 | kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 970.5% | ⏳ pendiente | — |
@@ -269,4 +270,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 52% | 5.00 | 9.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Quebec City: Zizou Bergs vs Stefanos Sak | Zizou Bergs (BUY) | 81% | 5.00 | 2.5% | ❌ perdida | -5.05 |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies | Under (BUY) | 51% | 5.00 | 56.4% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Bilibili Gaming vs TYLOO (BO5) | TYLOO (BUY) | 58% | 5.00 | 34.5% | ⏳ pendiente | — |
