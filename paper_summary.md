@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 17:58:25 (hora de Perú)
+Actualizado: 2026-08-22 18:00:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.50
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 17:58:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $281.50)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $276.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| SDTrading | 14 | 11 | 3 | +5.09 USD |
+| SDTrading | 14 | 11 | 4 | +5.09 USD |
 | Djdjdjekekek | 10 | 6 | 0 | +5.06 USD |
 | kekasaur | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -259,6 +259,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 | mlb-tor-nyy-2026-08-22-total-6pt5 | HomeRunHazard, SDTrading, pleaseplease123 |
 | lol-sen-fly-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
+| mlb-laa-tex-2026-08-22-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading |
 | lol-dsg-dig-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | mls-orl-rsl-2026-08-22-orl | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kekasaur |
 
@@ -266,12 +267,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 51% | 5.00 | 10.8% | ⏳ pendiente | — |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FC Cincinnati win on 2026-08-22? | No (BUY) | 41% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 2 Winn | Dignitas (BUY) | 51% | 5.00 | 25.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Orlando City SC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
-| kekasaur | Spread: CD Guadalajara (-1.5) | CD Guadalajara (BUY) | 43% | 5.00 | 9.3% | ⏳ pendiente | — |
+| kekasaur | Spread: CD Guadalajara (-1.5) | CD Guadalajara (BUY) | 43% | 5.00 | 11.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CR Flamengo win on 2026-08-22? | No (BUY) | 57% | 5.00 | 10.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will América de Cali win on 2026-08-22? | No (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -295,4 +297,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Over (BUY) | 50% | 5.00 | 2.0% | ❌ perdida | -5.12 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 0.5% | ✅ ganada | +5.08 |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Roger | Dhakshineswar Suresh (BUY) | 52% | 5.00 | 0.4% | ✅ ganada | +4.50 |

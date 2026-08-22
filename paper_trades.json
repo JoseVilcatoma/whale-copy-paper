@@ -27017,8 +27017,8 @@
     "title": "Spread: CD Guadalajara (-1.5)",
     "outcome": "CD Guadalajara",
     "side": "BUY",
-    "whale_usd": 5355.956115,
-    "whale_pct": 9.284,
+    "whale_usd": 6888.906115,
+    "whale_pct": 11.941,
     "whale_value_at_open": 57689.6394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -27029,8 +27029,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787439279.5712545,
-    "fills": 4
+    "last_fill_at": 1787439581.7137494,
+    "fills": 5
   },
   {
     "timestamp": 1787438327,
@@ -27153,5 +27153,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787439351.8044267,
     "fills": 21
+  },
+  {
+    "timestamp": 1787439596,
+    "timestamp_added": 1787439597.0118477,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-laa-tex-2026-08-22-total-8pt5",
+    "title": "Los Angeles Angels vs. Texas Rangers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 10259.93,
+    "whale_pct": 10.781,
+    "whale_value_at_open": 95171.0287,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787439597.011858,
+    "fills": 1
   }
 ]
