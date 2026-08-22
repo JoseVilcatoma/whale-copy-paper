@@ -25401,5 +25401,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787417410.9149952,
     "fills": 2
+  },
+  {
+    "timestamp": 1787419390,
+    "timestamp_added": 1787419390.833212,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-tu-vandeca-2026-08-22",
+    "title": "Winston-Salem Open, Qualification: Li Tu vs Quinn Vandecasteele",
+    "outcome": "Quinn Vandecasteele",
+    "side": "BUY",
+    "whale_usd": 775.675,
+    "whale_pct": 1.212,
+    "whale_value_at_open": 63983.6231,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787419390.833225,
+    "fills": 1
   }
 ]
