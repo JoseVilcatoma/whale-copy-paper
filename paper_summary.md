@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 09:36:53 (hora de Perú)
+Actualizado: 2026-08-22 09:38:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $440.78
-**Retorno acumulado:** -11.84%
+**Bankroll actual:** $441.27
+**Retorno acumulado:** -11.75%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 09:36:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $235.78)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $241.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 8 | 2 | 1 | +19.47 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 15 | 7 | 1 | +17.60 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 7 | 0 | +18.09 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
@@ -255,7 +255,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 5.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 5.9% | 💰 vendida anticipada | +0.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 83.8% | 💰 vendida anticipada | +0.06 |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 332.5% | ⏳ pendiente | — |
