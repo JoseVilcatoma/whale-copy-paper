@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 03:32:35 (hora de Perú)
+Actualizado: 2026-08-22 03:34:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $426.41
-**Retorno acumulado:** -14.72%
+**Bankroll actual:** $429.64
+**Retorno acumulado:** -14.07%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 03:32:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $311.41)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $319.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | Djdjdjekekek | 8 | 5 | 0 | +2.97 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 10 | 7 | 1 | +2.77 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -42,7 +43,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ChonkyChocolateCake | 8 | 5 | 2 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 7 | 2 | -0.46 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 881
-- **Aciertos:** 554 (62.9%)
+- **Apuestas resueltas:** 882
+- **Aciertos:** 555 (62.9%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,400.45
-- **ROI sobre lo apostado:** -2.70%
-- **Comisiones pagadas (taker fee):** $81.74 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.84% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,405.45
+- **ROI sobre lo apostado:** -2.62%
+- **Comisiones pagadas (taker fee):** $81.84 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 448 | 47.1% | 50.1% | -3.0 pp |
-| 60-79% | 273 | 72.9% | 67.7% | +5.2 pp |
+| 60-79% | 274 | 73.0% | 67.6% | +5.4 pp |
 | 80-94% | 104 | 86.5% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -251,7 +251,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Team WE vs LGD Gaming - Game 2 Winn | Team WE (BUY) | 59% | 5.00 | 37.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 45% | 5.00 | 58.8% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 43% | 5.00 | 5.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - | BoomBoys (BUY) | 60% | 5.00 | 615.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - | BoomBoys (BUY) | 60% | 5.00 | 615.8% | ✅ ganada | +3.23 |
 | IMAREALPERSON | Game Handicap: VSN (-1.5) vs Team Yandex | Team Yandex (BUY) | 55% | 5.00 | 89.3% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 46% | 5.00 | 64.5% | 💰 vendida anticipada | +0.38 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 43% | 5.00 | 13.3% | 💰 vendida anticipada | +3.23 |
