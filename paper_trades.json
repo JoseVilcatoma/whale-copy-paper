@@ -26815,8 +26815,8 @@
     "title": "Valorant: BESTIA vs G2 Esports - Map 2 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 931.8236659999999,
-    "whale_pct": 5.192,
+    "whale_usd": 1684.3236659999998,
+    "whale_pct": 9.385,
     "whale_value_at_open": 17946.2646,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -26827,7 +26827,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787435776.87578,
+    "last_fill_at": 1787435809.1732514,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787435840,
+    "timestamp_added": 1787435840.8808706,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-dsg-dig-2026-08-22-game1",
+    "title": "LoL: Disguised vs Dignitas - Game 1 Winner",
+    "outcome": "Disguised",
+    "side": "BUY",
+    "whale_usd": 7779.759300000001,
+    "whale_pct": 26.477,
+    "whale_value_at_open": 29382.6539,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787435840.880885,
     "fills": 1
   }
 ]
