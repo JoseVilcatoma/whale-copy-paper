@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.8786051628433,
+  "bankroll": 488.4903670676052,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5075,6 +5075,16 @@
       "timestamp": 1787431710.8186278,
       "bankroll": 486.88,
       "event": "lost: HomeRunHazard \u2014 Toronto Blue Jays vs. New York Yankees: O/U 6.5"
+    },
+    {
+      "timestamp": 1787432021.3985527,
+      "bankroll": 481.73,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Abedallah Shelbayh vs Ryan Seggerman"
+    },
+    {
+      "timestamp": 1787432021.498695,
+      "bankroll": 488.49,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Abedallah Shelbayh vs Ryan Seggerman"
     }
   ]
 }
