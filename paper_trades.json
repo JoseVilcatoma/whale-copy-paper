@@ -23649,8 +23649,8 @@
     "title": "ITF W75 Kursumlijska Banja 3 Women: Rada Zolotareva vs Lisa Zaar",
     "outcome": "Rada Zolotareva",
     "side": "BUY",
-    "whale_usd": 3139.2,
-    "whale_pct": 4.956,
+    "whale_usd": 3854.24,
+    "whale_pct": 6.084,
     "whale_value_at_open": 63347.5974,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -23661,8 +23661,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787392989.0699527,
-    "fills": 3
+    "last_fill_at": 1787393171.6423836,
+    "fills": 4
   },
   {
     "timestamp": 1787393080,
