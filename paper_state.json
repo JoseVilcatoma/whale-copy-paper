@@ -1,5 +1,5 @@
 {
-  "bankroll": 414.5420709243828,
+  "bankroll": 409.4070709243828,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4440,6 +4440,11 @@
       "timestamp": 1787373662.8470387,
       "bankroll": 414.54,
       "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1787373786.6171129,
+      "bankroll": 409.41,
+      "event": "lost: casualbet2020 \u2014 Valorant: FURIA Esports vs Evil Geniuses (BO3) - VCT Americas Stage 2 Play-In"
     }
   ]
 }
