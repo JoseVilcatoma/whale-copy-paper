@@ -24005,5 +24005,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787397544.3793697,
     "fills": 1
+  },
+  {
+    "timestamp": 1787397752,
+    "timestamp_added": 1787397753.1549869,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "asean-tha-vie-2026-08-22-vie",
+    "title": "Will Vietnam win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 3257.0706,
+    "whale_pct": 21.206,
+    "whale_value_at_open": 15359,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787397753.7087364,
+    "fills": 2
   }
 ]
