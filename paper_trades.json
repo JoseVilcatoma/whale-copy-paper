@@ -25054,5 +25054,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787410447.602194,
     "fills": 1
+  },
+  {
+    "timestamp": 1787410634,
+    "timestamp_added": 1787410635.1148915,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-tl1-sge-2026-08-22-game2",
+    "title": "Valorant: Team Liquid vs Eintracht Frankfurt - Map 2 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 5028.5499,
+    "whale_pct": 146.866,
+    "whale_value_at_open": 3423.9105,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787410635.114902,
+    "fills": 1
   }
 ]
