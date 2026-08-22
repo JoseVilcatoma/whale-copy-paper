@@ -1,5 +1,5 @@
 {
-  "bankroll": 451.7688584128167,
+  "bankroll": 447.5629476091372,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4735,6 +4735,46 @@
       "timestamp": 1787405835.1224236,
       "bankroll": 451.77,
       "event": "won: RN1 \u2014 Roehampton: Oliver Tarvet vs Lucas Poullain"
+    },
+    {
+      "timestamp": 1787406446.7352467,
+      "bankroll": 446.63,
+      "event": "lost: RN1 \u2014 Hull City AFC vs. Manchester United FC: Hull City AFC O/U 0.5"
+    },
+    {
+      "timestamp": 1787406450.3892674,
+      "bankroll": 441.56,
+      "event": "lost: RN1 \u2014 Will Manchester United FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787406450.6805892,
+      "bankroll": 446.05,
+      "event": "won: RN1 \u2014 Spread: Manchester United FC (-1.5)"
+    },
+    {
+      "timestamp": 1787406450.7807276,
+      "bankroll": 440.93,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Spread: Manchester United FC (-1.5)"
+    },
+    {
+      "timestamp": 1787406451.0692103,
+      "bankroll": 442.8,
+      "event": "won: RN1 \u2014 Hull City AFC vs. Manchester United FC: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1787406451.6010528,
+      "bankroll": 448.31,
+      "event": "won: RN1 \u2014 Hull City AFC vs. Manchester United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787406452.8197727,
+      "bankroll": 443.25,
+      "event": "lost: RN1 \u2014 Hull City AFC vs. Manchester United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787406453.0200295,
+      "bankroll": 447.56,
+      "event": "won: RN1 \u2014 Will Manchester United FC win on 2026-08-22?"
     }
   ]
 }
