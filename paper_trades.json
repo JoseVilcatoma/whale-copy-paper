@@ -26645,8 +26645,8 @@
     "title": "LoL: Sentinels vs FlyQuest - Game 2 Winner",
     "outcome": "Sentinels",
     "side": "BUY",
-    "whale_usd": 2210.4976,
-    "whale_pct": 6.033,
+    "whale_usd": 2799.4976,
+    "whale_pct": 7.641,
     "whale_value_at_open": 36639.7195,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -26657,7 +26657,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787433718.0206897,
-    "fills": 2
+    "last_fill_at": 1787434089.2099464,
+    "fills": 3
   }
 ]

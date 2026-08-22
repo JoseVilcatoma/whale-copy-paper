@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 16:26:56 (hora de Perú)
+Actualizado: 2026-08-22 16:29:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $503.01
@@ -264,7 +264,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 75% | 5.00 | 6.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 75% | 5.00 | 7.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 52% | 5.00 | 3.3% | 💰 vendida anticipada | +0.34 |
 | casualbet2020 | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 75% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | FlyQuest (BUY) | 42% | 5.00 | 15.5% | 💰 vendida anticipada | -0.53 |
