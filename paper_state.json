@@ -1,5 +1,5 @@
 {
-  "bankroll": 438.2259119652792,
+  "bankroll": 436.4524882364656,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4600,6 +4600,16 @@
       "timestamp": 1787393968.1827567,
       "bankroll": 438.23,
       "event": "lost: IMAREALPERSON \u2014 Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787394586.1879714,
+      "bankroll": 441.6,
+      "event": "won: RN1 \u2014 ITF M25 Santander Men: Carlos Lopez Montagud vs Sergi Perez Contri"
+    },
+    {
+      "timestamp": 1787394586.2881594,
+      "bankroll": 436.45,
+      "event": "lost: RN1 \u2014 ITF M25 Santander Men: Carlos Lopez Montagud vs Sergi Perez Contri"
     }
   ]
 }
