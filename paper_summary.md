@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 20:12:22 (hora de Perú)
+Actualizado: 2026-08-21 20:14:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $433.74
-**Retorno acumulado:** -13.25%
+**Bankroll actual:** $436.23
+**Retorno acumulado:** -12.75%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 20:12:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $303.74)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $311.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 1 | +2.49 USD |
+| ferrariChampions2026 | 201 | 113 | 5 | +2.25 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -40,7 +41,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ChonkyChocolateCake | 8 | 5 | 0 | +0.13 USD |
 | kluckkluck | 0 | 0 | 1 | +0.00 USD |
-| ferrariChampions2026 | 200 | 113 | 6 | -0.24 USD |
 | Djdjdjekekek | 7 | 5 | 1 | -0.26 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 839
-- **Aciertos:** 530 (63.2%)
+- **Apuestas resueltas:** 840
+- **Aciertos:** 531 (63.2%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,190.45
-- **ROI sobre lo apostado:** -2.57%
-- **Comisiones pagadas (taker fee):** $77.22 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.72% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,195.45
+- **ROI sobre lo apostado:** -2.50%
+- **Comisiones pagadas (taker fee):** $77.31 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 419 | 47.0% | 50.1% | -3.1 pp |
-| 60-79% | 263 | 73.0% | 67.7% | +5.3 pp |
+| 60-79% | 264 | 73.1% | 67.7% | +5.4 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 55 | 96.4% | 97.3% | -0.9 pp |
 
@@ -245,7 +245,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kluckkluck | Will Audax CS Italiano win on 2026-08-21 | Yes (BUY) | 47% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Audax CS Italiano win on 2026-08-21 | No (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Detroit Tigers vs. Kansas City Royals | Detroit Tigers (BUY) | 50% | 5.00 | 24.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will CA San Lorenzo de Almagro win on 20 | No (BUY) | 66% | 5.00 | 0.2% | ✅ ganada | +2.49 |
 | Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 54% | 5.00 | 4.7% | ❌ perdida | -5.12 |
