@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 16:50:25 (hora de Perú)
+Actualizado: 2026-08-22 16:52:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.79
@@ -266,7 +266,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Dignitas (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 4.0% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 50% | 5.00 | 24.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Charlotte FC vs. D.C. United SC: 1st Hal | Under (BUY) | 59% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 99% | 5.00 | 3.7% | ⏳ pendiente | — |
