@@ -25633,8 +25633,8 @@
     "title": "Cincinnati Open: Flavio Cobolli vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 14447.6588,
-    "whale_pct": 14.338,
+    "whale_usd": 19998.3039,
+    "whale_pct": 19.847,
     "whale_value_at_open": 100764.0262,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -25645,8 +25645,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787424135.3742974,
-    "fills": 3
+    "last_fill_at": 1787424370.128683,
+    "fills": 4
   },
   {
     "timestamp": 1787422926,
