@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 22:57:39 (hora de Perú)
+Actualizado: 2026-08-21 22:59:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.10
@@ -242,7 +242,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | 💰 vendida anticipada | -0.27 |
-| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 79.3% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 84.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | FC Erzgebirge Aue vs. TSG 1899 Hoffenhei | Under (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Sunderland AFC win on 2026-08-22? | No (BUY) | 64% | 5.00 | 38.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports (BO3) | KRÜ Esports (BUY) | 41% | 5.00 | 47.0% | ⏳ pendiente | — |
