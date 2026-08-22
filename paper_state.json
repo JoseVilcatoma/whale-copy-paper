@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.8965245153871,
+  "bankroll": 441.179535153685,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4585,6 +4585,11 @@
       "timestamp": 1787390339.7461183,
       "bankroll": 436.9,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team WE vs LGD Gaming (BO3) - LPL Group Ascend (+2.91 USD)"
+    },
+    {
+      "timestamp": 1787391419.9267435,
+      "bankroll": 441.18,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner (+4.28 USD)"
     }
   ]
 }

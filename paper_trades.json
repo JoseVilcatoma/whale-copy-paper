@@ -23453,15 +23453,17 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 4.28,
     "overlaps_with": [
       "IMAREALPERSON"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787390377.4535265,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.185,
+    "closed_price": 89
   },
   {
     "timestamp": 1787390472,
@@ -23499,8 +23501,8 @@
     "title": "LoL: Dplus KIA vs Gen.G - Game 2 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 5323.679999999999,
-    "whale_pct": 18.311,
+    "whale_usd": 17422.5591,
+    "whale_pct": 59.927,
     "whale_value_at_open": 29073.1431,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -23515,7 +23517,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787391157.4381893,
-    "fills": 1
+    "last_fill_at": 1787391301.004069,
+    "fills": 2
   }
 ]
