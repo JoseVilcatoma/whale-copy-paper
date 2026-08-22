@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.3581166232217,
+  "bankroll": 449.92186492254143,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4780,6 +4780,21 @@
       "timestamp": 1787406570.8847122,
       "bankroll": 448.36,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: BoomBoys vs Team Spirit - Game 1 Winner (+0.80 USD)"
+    },
+    {
+      "timestamp": 1787406768.2404993,
+      "bankroll": 453.43,
+      "event": "won: RN1 \u2014 Will Doncaster Rovers FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787406768.5930648,
+      "bankroll": 448.32,
+      "event": "lost: crisp1973 \u2014 Will Doncaster Rovers FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787406771.5035615,
+      "bankroll": 449.92,
+      "event": "won: RN1 \u2014 Will Barnsley FC win on 2026-08-22?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 08:51:27 (hora de Perú)
+Actualizado: 2026-08-22 08:53:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $448.36
-**Retorno acumulado:** -10.33%
+**Bankroll actual:** $449.92
+**Retorno acumulado:** -10.02%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 08:51:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $218.36)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $234.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,28 +49,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 2 | -5.12 USD |
-| crisp1973 | 1 | 2 | 1 | -5.31 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
+| crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ChonkyChocolateCake | 10 | 8 | 3 | -10.51 USD |
 | HomeRunHazard | 47 | 26 | 6 | -14.80 USD |
 | danielwolfmorales3pddb6dl6 | 9 | 13 | 8 | -24.57 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
+| RN1 | 142 | 69 | 11 | -42.11 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 140 | 69 | 13 | -48.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 919
-- **Aciertos:** 579 (63.0%)
+- **Apuestas resueltas:** 922
+- **Aciertos:** 581 (63.0%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,590.45
-- **ROI sobre lo apostado:** -2.38%
-- **Comisiones pagadas (taker fee):** $85.34 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.52% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,605.45
+- **ROI sobre lo apostado:** -2.34%
+- **Comisiones pagadas (taker fee):** $85.65 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -78,8 +78,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 466 | 47.4% | 50.1% | -2.7 pp |
-| 60-79% | 289 | 72.7% | 67.7% | +5.0 pp |
+| 40-59% | 468 | 47.4% | 50.1% | -2.7 pp |
+| 60-79% | 290 | 72.8% | 67.7% | +5.1 pp |
 | 80-94% | 107 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
 
@@ -270,7 +270,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Millwall FC vs. Norwich City FC: 1st Hal | Over (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Hull City AFC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Will Barnsley FC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Barnsley FC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.6% | ✅ ganada | +1.60 |
 | RN1 | Will Manchester United FC win on 2026-08 | No (BUY) | 53% | 5.00 | 3.0% | ✅ ganada | +4.32 |
 | RN1 | Will Millwall FC win on 2026-08-22? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 75% | 5.00 | 1.6% | ❌ perdida | -5.06 |
