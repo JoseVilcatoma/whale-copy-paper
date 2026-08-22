@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.1986064630666,
+  "bankroll": 436.3986064630666,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4660,6 +4660,11 @@
       "timestamp": 1787400580.43754,
       "bankroll": 435.2,
       "event": "won: RN1 \u2014 ITF W35 Krakow Women: Dalila Jakupovic vs Ariana Geerlings"
+    },
+    {
+      "timestamp": 1787400834.6636002,
+      "bankroll": 436.4,
+      "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Semen Pankin vs Dimitar Kisimov"
     }
   ]
 }

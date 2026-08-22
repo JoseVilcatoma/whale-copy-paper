@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 07:13:00 (hora de Perú)
+Actualizado: 2026-08-22 07:15:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $435.20
-**Retorno acumulado:** -12.96%
+**Bankroll actual:** $436.40
+**Retorno acumulado:** -12.72%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 07:13:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $145.20)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $146.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,22 +53,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| HomeRunHazard | 45 | 26 | 7 | -17.12 USD |
+| HomeRunHazard | 45 | 26 | 8 | -17.12 USD |
 | danielwolfmorales3pddb6dl6 | 8 | 12 | 5 | -26.21 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 133 | 65 | 24 | -50.06 USD |
+| RN1 | 134 | 65 | 23 | -48.86 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 896
-- **Aciertos:** 563 (62.8%)
+- **Apuestas resueltas:** 897
+- **Aciertos:** 564 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,475.45
-- **ROI sobre lo apostado:** -2.72%
-- **Comisiones pagadas (taker fee):** $83.24 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,480.45
+- **ROI sobre lo apostado:** -2.69%
+- **Comisiones pagadas (taker fee):** $83.29 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -78,7 +78,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 456 | 47.1% | 50.1% | -3.0 pp |
 | 60-79% | 279 | 72.8% | 67.6% | +5.1 pp |
-| 80-94% | 105 | 86.7% | 86.8% | -0.1 pp |
+| 80-94% | 106 | 86.8% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -252,6 +252,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Millwall FC vs. Norwich City FC: 1st Hal | Over (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Hull City AFC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -279,6 +280,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will FC Augsburg win on 2026-08-22? | Yes (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | SV Wehen Wiesbaden vs. Bayer 04 Leverkus | Under (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
 | crisp1973 | Will Doncaster Rovers FC win on 2026-08- | Yes (BUY) | 53% | 5.00 | 46.5% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Dimitar Kisimov (BUY) | 80% | 5.00 | 3.8% | ⏳ pendiente | — |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Dimitar Kisimov (BUY) | 80% | 5.00 | 3.8% | ✅ ganada | +1.20 |
 | RN1 | ITF M15 Båstad Men: Jan Simonsson vs Nik | Jan Simonsson (BUY) | 71% | 5.00 | 1.2% | ❌ perdida | -5.07 |
-| HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
