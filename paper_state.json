@@ -1,5 +1,5 @@
 {
-  "bankroll": 433.48637522921854,
+  "bankroll": 433.7365331239554,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4325,6 +4325,11 @@
       "timestamp": 1787360448.5372977,
       "bankroll": 433.49,
       "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1787361078.0371583,
+      "bankroll": 433.74,
+      "event": "won: ferrariChampions2026 \u2014 Spread: AA Estudiantes (-1.5)"
     }
   ]
 }

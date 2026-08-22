@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 20:10:18 (hora de Perú)
+Actualizado: 2026-08-21 20:12:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $433.49
-**Retorno acumulado:** -13.30%
+**Bankroll actual:** $433.74
+**Retorno acumulado:** -13.25%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 20:10:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $298.49)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $303.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,9 +40,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ChonkyChocolateCake | 8 | 5 | 0 | +0.13 USD |
 | kluckkluck | 0 | 0 | 1 | +0.00 USD |
+| ferrariChampions2026 | 200 | 113 | 6 | -0.24 USD |
 | Djdjdjekekek | 7 | 5 | 1 | -0.26 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| ferrariChampions2026 | 199 | 113 | 7 | -0.49 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 838
-- **Aciertos:** 529 (63.1%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 839
+- **Aciertos:** 530 (63.2%)
+- **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,185.45
-- **ROI sobre lo apostado:** -2.58%
-- **Comisiones pagadas (taker fee):** $77.21 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.73% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,190.45
+- **ROI sobre lo apostado:** -2.57%
+- **Comisiones pagadas (taker fee):** $77.22 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.72% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -79,7 +79,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 419 | 47.0% | 50.1% | -3.1 pp |
 | 60-79% | 263 | 73.0% | 67.7% | +5.3 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
-| 95-99% (casi seguro) | 54 | 96.3% | 97.3% | -1.0 pp |
+| 95-99% (casi seguro) | 55 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -249,7 +249,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 54% | 5.00 | 4.7% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA San Lorenzo de Almagro (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA San Lorenzo de Almagro (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Los Angeles Angels vs. Texas Rangers: O/ | Over (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Golden State Valkyries (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Lynx vs. Washington Mystics | Minnesota Lynx (BUY) | 56% | 5.00 | 4.0% | ⏳ pendiente | — |
