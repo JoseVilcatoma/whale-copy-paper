@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.3829862323656,
+  "bankroll": 447.63314412710247,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4720,6 +4720,11 @@
       "timestamp": 1787404910.5682623,
       "bankroll": 447.38,
       "event": "lost: MisterVision \u2014 LoL: MVK Esports vs GAM Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787405224.4246657,
+      "bankroll": 447.63,
+      "event": "won: HomeRunHazard \u2014 Sion: Benjamin Hassan vs Dominic Stephan Stricker"
     }
   ]
 }
