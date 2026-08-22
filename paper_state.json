@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.1203603934696,
+  "bankroll": 450.2461998996424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4905,6 +4905,11 @@
       "timestamp": 1787414534.1639924,
       "bankroll": 449.12,
       "event": "won: casualbet2020 \u2014 Valorant: Team Liquid vs Eintracht Frankfurt - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787415149.0139282,
+      "bankroll": 450.25,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Nottingham Forest FC vs. Leeds United FC: Both Teams to Score in First Half"
     }
   ]
 }
