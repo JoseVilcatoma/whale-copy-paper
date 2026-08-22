@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.53351111851805,
+  "bankroll": 481.9468957339027,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5000,6 +5000,16 @@
       "timestamp": 1787425477.557199,
       "bankroll": 482.53,
       "event": "won: MisterVision \u2014 LoL: Fnatic vs Shifters - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787425789.5755494,
+      "bankroll": 487.03,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Game Handicap: FNC (-1.5) vs Shifters (+1.5)"
+    },
+    {
+      "timestamp": 1787425792.1035054,
+      "bankroll": 481.95,
+      "event": "lost: casualbet2020 \u2014 Valorant: Team Vitality vs Fire Flux Esports - Map 2 Winner"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 14:08:08 (hora de Perú)
+Actualizado: 2026-08-22 14:10:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.53
-**Retorno acumulado:** -3.49%
+**Bankroll actual:** $481.95
+**Retorno acumulado:** -3.61%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 14:08:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $267.53)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $271.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,10 +23,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 9 | 2 | 2 | +23.61 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 7 | 0 | +24.46 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 1 | +20.57 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 7 | 1 | +19.96 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
+| casualbet2020 | 9 | 3 | 2 | +18.53 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -65,14 +65,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 959
-- **Aciertos:** 608 (63.4%)
+- **Apuestas resueltas:** 961
+- **Aciertos:** 609 (63.4%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,790.45
-- **ROI sobre lo apostado:** -1.65%
-- **Comisiones pagadas (taker fee):** $88.92 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,800.45
+- **ROI sobre lo apostado:** -1.66%
+- **Comisiones pagadas (taker fee):** $89.12 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -80,8 +80,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 485 | 48.5% | 50.2% | -1.8 pp |
-| 60-79% | 303 | 71.9% | 67.7% | +4.2 pp |
+| 40-59% | 486 | 48.6% | 50.2% | -1.7 pp |
+| 60-79% | 304 | 71.7% | 67.7% | +4.0 pp |
 | 80-94% | 113 | 87.6% | 86.6% | +1.0 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
@@ -260,6 +260,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Atlanta Braves (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | kekasaur | Will Gimnasia y Esgrima de La Plata win  | No (BUY) | 50% | 5.00 | 9.3% | ⏳ pendiente | — |
@@ -277,7 +278,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays (BUY) | 55% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | New York Yankees (BUY) | 46% | 5.00 | 8.4% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 39.1% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ❌ perdida | -5.08 |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 51% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Li Tu | Quinn Vandecasteele (BUY) | 97% | 5.00 | 1.2% | ✅ ganada | +0.15 |
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 54% | 5.00 | 4.4% | ⏳ pendiente | — |
@@ -289,4 +290,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Pierre-Hugues Herbert (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Kenta Miyoshi (BUY) | 70% | 5.00 | 5.5% | ❌ perdida | -5.08 |
-| HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
