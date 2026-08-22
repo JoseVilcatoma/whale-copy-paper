@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 05:33:02 (hora de Perú)
+Actualizado: 2026-08-22 05:35:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 05:33:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $261.45)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $251.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ChonkyChocolateCake | 8 | 5 | 5 | +0.13 USD |
+| ChonkyChocolateCake | 8 | 5 | 6 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 5 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 130 | 64 | 5 | -50.81 USD |
+| RN1 | 130 | 64 | 6 | -50.81 USD |
 
 ## Análisis general
 
@@ -248,6 +248,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 64% | 5.00 | 7.9% | ⏳ pendiente | — |
+| RN1 | ITF M25 Ueberlingen Men: Maximilian Mart | Maximilian Marterer (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Arad Men: Matteo Sciahbasi vs Dr | Matteo Sciahbasi (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 56% | 5.00 | 28.4% | ⏳ pendiente | — |
@@ -255,7 +257,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: MVK Esports vs GAM Esports - Game 2 | GAM Esports (BUY) | 59% | 5.00 | 17.9% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 70% | 5.00 | 6.1% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Phoenix Mercury | Atlanta Dream (BUY) | 66% | 5.00 | 4.3% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 68% | 5.00 | 216.9% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 68% | 5.00 | 291.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 92% | 5.00 | 14.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Connecticut Sun (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 54% | 5.00 | 12.2% | ⏳ pendiente | — |
@@ -276,5 +278,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 43% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - | BoomBoys (BUY) | 60% | 5.00 | 615.8% | ✅ ganada | +3.23 |
 | IMAREALPERSON | Game Handicap: VSN (-1.5) vs Team Yandex | Team Yandex (BUY) | 55% | 5.00 | 89.3% | ⏳ pendiente | — |
-| IMAREALPERSON | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 46% | 5.00 | 64.5% | 💰 vendida anticipada | +0.38 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 43% | 5.00 | 13.3% | 💰 vendida anticipada | +3.23 |

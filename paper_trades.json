@@ -23601,8 +23601,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 369037.198163,
-    "whale_pct": 216.873,
+    "whale_usd": 496519.588163,
+    "whale_pct": 291.79,
     "whale_value_at_open": 170163.1771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -23613,8 +23613,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787394638.6717513,
-    "fills": 9
+    "last_fill_at": 1787394799.221264,
+    "fills": 10
   },
   {
     "timestamp": 1787392479,
@@ -23785,5 +23785,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787394486.1840045,
     "fills": 2
+  },
+  {
+    "timestamp": 1787394794,
+    "timestamp_added": 1787394794.5379138,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-martere-masur-2026-08-21",
+    "title": "ITF M25 Ueberlingen Men: Maximilian Marterer vs Daniel Masur",
+    "outcome": "Maximilian Marterer",
+    "side": "BUY",
+    "whale_usd": 649.0,
+    "whale_pct": 1.052,
+    "whale_value_at_open": 61673.5075,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787394794.5379255,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787394844,
+    "timestamp_added": 1787394844.7588935,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-nip-ig1-2026-08-22-game1",
+    "title": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 2408.1656000000003,
+    "whale_pct": 7.922,
+    "whale_value_at_open": 30396.5668,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787394844.7589052,
+    "fills": 1
   }
 ]
