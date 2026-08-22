@@ -1,5 +1,5 @@
 {
-  "bankroll": 431.29860646306656,
+  "bankroll": 433.4669832746608,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4670,6 +4670,11 @@
       "timestamp": 1787401949.088276,
       "bankroll": 431.3,
       "event": "lost: RN1 \u2014 ITF M25 Ueberlingen Men: Maximilian Marterer vs Daniel Masur"
+    },
+    {
+      "timestamp": 1787402261.258141,
+      "bankroll": 433.47,
+      "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Goncalo Marques vs Andrea Colombo"
     }
   ]
 }

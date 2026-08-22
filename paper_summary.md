@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 07:35:49 (hora de Perú)
+Actualizado: 2026-08-22 07:37:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $431.30
-**Retorno acumulado:** -13.74%
+**Bankroll actual:** $433.47
+**Retorno acumulado:** -13.31%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 07:35:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $141.30)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $138.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 8 | 6 | 1 | -2.11 USD |
-| SDTrading | 12 | 11 | 0 | -2.25 USD |
+| SDTrading | 12 | 11 | 1 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | ChonkyChocolateCake | 8 | 6 | 7 | -4.97 USD |
@@ -55,21 +55,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | HomeRunHazard | 45 | 26 | 8 | -17.12 USD |
-| danielwolfmorales3pddb6dl6 | 8 | 12 | 5 | -26.21 USD |
+| danielwolfmorales3pddb6dl6 | 8 | 12 | 6 | -26.21 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 134 | 66 | 22 | -53.96 USD |
+| RN1 | 135 | 66 | 21 | -51.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 898
-- **Aciertos:** 564 (62.8%)
+- **Apuestas resueltas:** 899
+- **Aciertos:** 565 (62.8%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,485.45
-- **ROI sobre lo apostado:** -2.80%
-- **Comisiones pagadas (taker fee):** $83.39 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.94% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,490.45
+- **ROI sobre lo apostado:** -2.75%
+- **Comisiones pagadas (taker fee):** $83.46 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -78,7 +78,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 456 | 47.1% | 50.1% | -3.0 pp |
-| 60-79% | 280 | 72.5% | 67.6% | +4.9 pp |
+| 60-79% | 281 | 72.6% | 67.6% | +5.0 pp |
 | 80-94% | 106 | 86.8% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -253,6 +253,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | LoL: JD Gaming vs Top Esports - Game 1 W | JD Gaming (BUY) | 57% | 5.00 | 42.4% | ⏳ pendiente | — |
+| SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 64.7% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: DN SOOPers vs Kiwoom DRX - Game 2 W | DN SOOPers (BUY) | 58% | 5.00 | 14.2% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
@@ -273,7 +275,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Spread: Manchester United FC (-1.5) | Manchester United FC (BUY) | 50% | 5.00 | 40.7% | ⏳ pendiente | — |
 | RN1 | Spread: Manchester United FC (-1.5) | Hull City AFC (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Goncalo Mar | Goncalo Marques (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Goncalo Mar | Goncalo Marques (BUY) | 69% | 5.00 | 0.6% | ✅ ganada | +2.17 |
 | RN1 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 73% | 5.00 | 10.3% | ⏳ pendiente | — |
 | MisterVision | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 59% | 5.00 | 30.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 10.4% | ⏳ pendiente | — |
@@ -281,5 +283,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Will Vietnam win on 2026-08-22? | Yes (BUY) | 43% | 5.00 | 21.2% | ⏳ pendiente | — |
 | RN1 | Will FC Augsburg win on 2026-08-22? | Yes (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | SV Wehen Wiesbaden vs. Bayer 04 Leverkus | Under (BUY) | 90% | 5.00 | 1.2% | ⏳ pendiente | — |
-| crisp1973 | Will Doncaster Rovers FC win on 2026-08- | Yes (BUY) | 53% | 5.00 | 46.5% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Dimitar Kisimov (BUY) | 80% | 5.00 | 3.8% | ✅ ganada | +1.20 |
