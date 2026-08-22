@@ -23845,8 +23845,8 @@
     "title": "Will Doncaster Rovers FC win on 2026-08-22?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 4646.4,
-    "whale_pct": 7.401,
+    "whale_usd": 11846.4,
+    "whale_pct": 18.871,
     "whale_value_at_open": 62776.7703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -23857,8 +23857,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787395005.281108,
-    "fills": 2
+    "last_fill_at": 1787397149.5013876,
+    "fills": 5
   },
   {
     "timestamp": 1787396441,
@@ -23941,8 +23941,8 @@
     "title": "Will Doncaster Rovers FC win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 4742.66,
-    "whale_pct": 15.677,
+    "whale_usd": 14058.98,
+    "whale_pct": 46.471,
     "whale_value_at_open": 30253.1477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -23955,7 +23955,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787397029.7423732,
-    "fills": 1
+    "last_fill_at": 1787397149.4729338,
+    "fills": 6
   }
 ]

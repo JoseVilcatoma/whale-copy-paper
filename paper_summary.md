@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 06:10:40 (hora de Perú)
+Actualizado: 2026-08-22 06:12:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.45
@@ -249,11 +249,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| crisp1973 | Will Doncaster Rovers FC win on 2026-08- | Yes (BUY) | 53% | 5.00 | 15.7% | ⏳ pendiente | — |
+| crisp1973 | Will Doncaster Rovers FC win on 2026-08- | Yes (BUY) | 53% | 5.00 | 46.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Dimitar Kisimov (BUY) | 80% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Jan Simonsson vs Nik | Jan Simonsson (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
-| RN1 | Will Doncaster Rovers FC win on 2026-08- | No (BUY) | 49% | 5.00 | 7.4% | ⏳ pendiente | — |
+| RN1 | Will Doncaster Rovers FC win on 2026-08- | No (BUY) | 49% | 5.00 | 18.9% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 64% | 5.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Maximilian Mart | Maximilian Marterer (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 9.0% | ⏳ pendiente | — |
