@@ -22348,5 +22348,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787369656.2891343,
     "fills": 1
+  },
+  {
+    "timestamp": 1787370626,
+    "timestamp_added": 1787370627.1783948,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "dfb-aue-hof-2026-08-22-total-5pt5",
+    "title": "FC Erzgebirge Aue vs. TSG 1899 Hoffenheim: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 843.9893,
+    "whale_pct": 2.233,
+    "whale_value_at_open": 37792.9413,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787370627.178409,
+    "fills": 1
   }
 ]
