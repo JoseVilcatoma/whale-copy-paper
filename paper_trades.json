@@ -23235,5 +23235,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787386099.7549863,
     "fills": 4
+  },
+  {
+    "timestamp": 1787386304,
+    "timestamp_added": 1787386305.1631145,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-we-lgd-2026-08-22-game2",
+    "title": "LoL: Team WE vs LGD Gaming - Game 2 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 721.6524,
+    "whale_pct": 1.216,
+    "whale_value_at_open": 59322.1025,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "MisterVision",
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787386305.1631246,
+    "fills": 1
   }
 ]
