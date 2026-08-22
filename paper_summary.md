@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 00:49:41 (hora de Perú)
+Actualizado: 2026-08-22 00:51:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $427.85
-**Retorno acumulado:** -14.43%
+**Bankroll actual:** $432.58
+**Retorno acumulado:** -13.48%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 00:49:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $312.85)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $337.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,6 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ChonkyChocolateCake | 8 | 5 | 0 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
+| SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
@@ -50,10 +51,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 1 | 1 | -5.13 USD |
 | crisp1973 | 1 | 2 | 0 | -5.31 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| SDTrading | 11 | 11 | 1 | -7.76 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-| HomeRunHazard | 41 | 24 | 7 | -14.46 USD |
+| HomeRunHazard | 43 | 25 | 4 | -15.24 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 871
-- **Aciertos:** 548 (62.9%)
+- **Apuestas resueltas:** 875
+- **Aciertos:** 551 (63.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,350.45
-- **ROI sobre lo apostado:** -2.62%
-- **Comisiones pagadas (taker fee):** $80.77 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.76% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,370.45
+- **ROI sobre lo apostado:** -2.50%
+- **Comisiones pagadas (taker fee):** $81.15 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.64% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,9 +76,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 442 | 47.3% | 50.1% | -2.8 pp |
+| 40-59% | 445 | 47.4% | 50.1% | -2.7 pp |
 | 60-79% | 271 | 72.7% | 67.7% | +5.0 pp |
-| 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
+| 80-94% | 103 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -253,8 +253,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Fagiano Okayama win on 2026-08-22? | No (BUY) | 56% | 5.00 | 11.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ❌ perdida | -5.10 |
-| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ❌ perdida | -5.12 |
+| HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ✅ ganada | +0.36 |
 | HomeRunHazard | Chicago Cubs vs. Seattle Mariners: O/U 9 | Under (BUY) | 69% | 5.00 | 1.7% | ❌ perdida | -5.08 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Pittsburgh Pirates (BUY) | 70% | 5.00 | 0.6% | ✅ ganada | +2.07 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 43% | 5.00 | 2.0% | ✅ ganada | +6.48 |
@@ -263,7 +263,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
-| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 55% | 5.00 | 3.1% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 55% | 5.00 | 3.1% | ✅ ganada | +3.98 |
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | 💰 vendida anticipada | -0.27 |
 | BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 129.8% | ✅ ganada | +4.14 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | FC Erzgebirge Aue vs. TSG 1899 Hoffenhei | Under (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |

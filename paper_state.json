@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.85174210166264,
+  "bankroll": 432.57529315093365,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4505,6 +4505,26 @@
       "timestamp": 1787377775.4755883,
       "bankroll": 427.85,
       "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 10.5"
+    },
+    {
+      "timestamp": 1787377839.082658,
+      "bankroll": 428.21,
+      "event": "won: HomeRunHazard \u2014 Spread: Pittsburgh Pirates (-1.5)"
+    },
+    {
+      "timestamp": 1787377900.2731607,
+      "bankroll": 433.72,
+      "event": "won: SDTrading \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787377902.734636,
+      "bankroll": 437.7,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787377903.0350802,
+      "bankroll": 432.58,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5"
     }
   ]
 }
