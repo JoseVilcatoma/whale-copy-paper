@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 01:26:38 (hora de Perú)
+Actualizado: 2026-08-22 01:28:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $433.19
-**Retorno acumulado:** -13.36%
+**Bankroll actual:** $433.06
+**Retorno acumulado:** -13.39%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 01:26:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $348.19)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $353.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 25 | 7 | 1 | +27.19 USD |
+| IMAREALPERSON | 25 | 8 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 7 | 2 | 2 | +16.96 USD |
 | casualbet2020 | 7 | 2 | 2 | +15.95 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -243,8 +243,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| IMAREALPERSON | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 55% | 5.00 | 133.9% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 62.5% | ⏳ pendiente | — |
+| IMAREALPERSON | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 55% | 5.00 | 133.9% | 💰 vendida anticipada | -0.13 |
+| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 81.1% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Club Tijuana win on 2026-08-22? | No (BUY) | 85% | 5.00 | 8.3% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. New York Liberty: O/U  | Under (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Everton FC vs. Crystal Palace FC: O/U 9. | Over (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |

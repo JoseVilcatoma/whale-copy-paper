@@ -1,5 +1,5 @@
 {
-  "bankroll": 433.1891062822468,
+  "bankroll": 433.0560153731559,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4545,6 +4545,11 @@
       "timestamp": 1787379471.7874224,
       "bankroll": 433.19,
       "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787380020.9626424,
+      "bankroll": 433.06,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner (-0.13 USD)"
     }
   ]
 }
