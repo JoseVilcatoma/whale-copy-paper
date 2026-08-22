@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 04:24:36 (hora de Perú)
+Actualizado: 2026-08-22 04:26:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.90
@@ -247,7 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 60% | 5.00 | 7.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 60% | 5.00 | 14.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 47% | 5.00 | 2.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: TEAM VISION vs Team Yandex - Gam | Team Yandex (BUY) | 51% | 5.00 | 167.0% | ⏳ pendiente | — |
 | MisterVision | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G (BUY) | 59% | 5.00 | 28.7% | ⏳ pendiente | — |

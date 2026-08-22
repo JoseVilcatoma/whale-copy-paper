@@ -23472,8 +23472,8 @@
     "title": "LoL: Dplus KIA vs Gen.G - Game 2 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 4086.8709999999996,
-    "whale_pct": 7.365,
+    "whale_usd": 8032.875599999999,
+    "whale_pct": 14.477,
     "whale_value_at_open": 55486.7403,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -23487,7 +23487,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787390473.189777,
-    "fills": 1
+    "last_fill_at": 1787390699.687336,
+    "fills": 2
   }
 ]
