@@ -26161,5 +26161,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787430088.6279192,
     "fills": 1
+  },
+  {
+    "timestamp": 1787430392,
+    "timestamp_added": 1787430393.1967316,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-pegula-swiatek-2026-08-22",
+    "title": "Cincinnati Open: Jessica Pegula vs Iga Swiatek",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "whale_usd": 2817.1674,
+    "whale_pct": 1.665,
+    "whale_value_at_open": 169209.5199,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787430393.196744,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:24:54 (hora de Perú)
+Actualizado: 2026-08-22 15:26:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $473.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 15:24:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $248.40)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $243.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 53 | 29 | 29 | -18.27 USD |
+| HomeRunHazard | 53 | 29 | 30 | -18.27 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
@@ -262,6 +262,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Jessica Pegula (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Caroline  | Darja Vidmanova (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Roger | Roger Pascual (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 60% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -291,4 +292,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | New York Yankees (BUY) | 46% | 5.00 | 8.4% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 39.1% | ✅ ganada | +0.78 |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ❌ perdida | -5.08 |
-| HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 51% | 5.00 | 5.0% | ⏳ pendiente | — |
