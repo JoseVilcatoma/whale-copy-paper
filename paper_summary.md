@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 23:15:02 (hora de Perú)
+Actualizado: 2026-08-21 23:17:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.10
@@ -242,7 +242,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 5.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ⏳ pendiente | — |

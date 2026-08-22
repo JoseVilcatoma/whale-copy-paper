@@ -22726,8 +22726,8 @@
     "title": "Chicago Cubs vs. Seattle Mariners",
     "outcome": "Seattle Mariners",
     "side": "BUY",
-    "whale_usd": 2485.8834,
-    "whale_pct": 1.42,
+    "whale_usd": 9195.8865,
+    "whale_pct": 5.251,
     "whale_value_at_open": 175117.2882,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -22738,7 +22738,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787371899.0138335,
-    "fills": 1
+    "last_fill_at": 1787372162.6898217,
+    "fills": 2
   }
 ]
