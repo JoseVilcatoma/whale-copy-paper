@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 20:37:01 (hora de Perú)
+Actualizado: 2026-08-21 20:39:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.61
-**Retorno acumulado:** -11.68%
+**Bankroll actual:** $443.88
+**Retorno acumulado:** -11.22%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 20:37:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $326.61)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $333.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | BOOMBOYS.Kiritych | 5 | 2 | 0 | +10.33 USD |
-| ferrariChampions2026 | 202 | 113 | 4 | +7.54 USD |
+| ferrariChampions2026 | 203 | 113 | 3 | +9.81 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 842
-- **Aciertos:** 533 (63.3%)
+- **Apuestas resueltas:** 843
+- **Aciertos:** 534 (63.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,205.45
-- **ROI sobre lo apostado:** -2.37%
-- **Comisiones pagadas (taker fee):** $77.44 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.53% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,210.45
+- **ROI sobre lo apostado:** -2.31%
+- **Comisiones pagadas (taker fee):** $77.52 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.47% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 420 | 47.1% | 50.1% | -3.0 pp |
-| 60-79% | 264 | 73.1% | 67.7% | +5.4 pp |
+| 60-79% | 265 | 73.2% | 67.7% | +5.5 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -256,7 +256,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 48% | 5.00 | 3.9% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | Quebec City: Zizou Bergs vs Stefanos Sak | Stefanos Sakellaridis (BUY) | 41% | 5.00 | 1.6% | ✅ ganada | +7.05 |
 | Sassy-Bucket | San Francisco Giants vs. Boston Red Sox: | Over (BUY) | 48% | 5.00 | 14.4% | ✅ ganada | +5.29 |
-| ferrariChampions2026 | Valorant: MIBR vs Team Envy (BO3) - VCT  | MIBR (BUY) | 68% | 5.00 | 3.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: MIBR vs Team Envy (BO3) - VCT  | MIBR (BUY) | 68% | 5.00 | 3.0% | ✅ ganada | +2.27 |
 | ferrariChampions2026 | Cancun: Roman Safiullin vs Hubert Hurkac | Hubert Hurkacz (BUY) | 83% | 5.00 | 3.3% | ✅ ganada | +0.98 |
 | Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 44% | 5.00 | 5.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: MIBR vs Team Envy - Map 2 Winn | MIBR (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |

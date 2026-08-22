@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.61099818270617,
+  "bankroll": 443.88393935917674,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4345,6 +4345,11 @@
       "timestamp": 1787362392.979819,
       "bankroll": 441.61,
       "event": "won: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 9.5"
+    },
+    {
+      "timestamp": 1787362707.7255147,
+      "bankroll": 443.88,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: MIBR vs Team Envy (BO3) - VCT Americas Stage 2 Play-In"
     }
   ]
 }
