@@ -1,5 +1,5 @@
 {
-  "bankroll": 415.00514935575535,
+  "bankroll": 414.5420709243828,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4430,6 +4430,16 @@
       "timestamp": 1787373538.675836,
       "bankroll": 415.01,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787373662.5465884,
+      "bankroll": 409.86,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1787373662.8470387,
+      "bankroll": 414.54,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 7.5"
     }
   ]
 }

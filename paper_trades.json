@@ -22491,8 +22491,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -22563,8 +22563,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -22750,8 +22750,8 @@
     "title": "Will Fagiano Okayama win on 2026-08-22?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2384.9925000000003,
-    "whale_pct": 6.107,
+    "whale_usd": 3542.8281000000006,
+    "whale_pct": 9.072,
     "whale_value_at_open": 39050.5331,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -22762,7 +22762,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787373467.1722343,
-    "fills": 2
+    "last_fill_at": 1787373620.8153806,
+    "fills": 3
   }
 ]

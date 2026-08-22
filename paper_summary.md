@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 23:39:40 (hora de Perú)
+Actualizado: 2026-08-21 23:41:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $415.01
-**Retorno acumulado:** -17.00%
+**Bankroll actual:** $414.54
+**Retorno acumulado:** -17.09%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 23:39:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $265.01)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $274.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | SDTrading | 10 | 11 | 2 | -11.42 USD |
-| HomeRunHazard | 36 | 21 | 12 | -17.79 USD |
+| HomeRunHazard | 37 | 22 | 10 | -18.25 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 856
-- **Aciertos:** 538 (62.9%)
+- **Apuestas resueltas:** 858
+- **Aciertos:** 539 (62.8%)
 - **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,275.45
-- **ROI sobre lo apostado:** -2.96%
-- **Comisiones pagadas (taker fee):** $79.11 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,285.45
+- **ROI sobre lo apostado:** -2.97%
+- **Comisiones pagadas (taker fee):** $79.38 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 432 | 46.8% | 50.1% | -3.3 pp |
+| 40-59% | 434 | 46.8% | 50.1% | -3.3 pp |
 | 60-79% | 266 | 72.9% | 67.7% | +5.3 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -242,7 +242,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Fagiano Okayama win on 2026-08-22? | No (BUY) | 56% | 5.00 | 6.1% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Fagiano Okayama win on 2026-08-22? | No (BUY) | 56% | 5.00 | 9.1% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 5.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -250,10 +250,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago Cubs vs. Seattle Mariners: O/U 9 | Under (BUY) | 69% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Pittsburgh Pirates (BUY) | 70% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Over (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Over (BUY) | 51% | 5.00 | 0.7% | ✅ ganada | +4.68 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Los Angeles Dodgers (BUY) | 90% | 5.00 | 4.3% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 55% | 5.00 | 3.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | 💰 vendida anticipada | -0.27 |
