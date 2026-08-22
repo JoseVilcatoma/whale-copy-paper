@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.5629476091372,
+  "bankroll": 448.3581166232217,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4775,6 +4775,11 @@
       "timestamp": 1787406453.0200295,
       "bankroll": 447.56,
       "event": "won: RN1 \u2014 Will Manchester United FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787406570.8847122,
+      "bankroll": 448.36,
+      "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: BoomBoys vs Team Spirit - Game 1 Winner (+0.80 USD)"
     }
   ]
 }
