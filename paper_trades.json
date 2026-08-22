@@ -23384,5 +23384,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787388989.2293918,
     "fills": 1
+  },
+  {
+    "timestamp": 1787389351,
+    "timestamp_added": 1787389352.6131234,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-dk-gen-2026-08-22-game2",
+    "title": "LoL: Dplus KIA vs Gen.G - Game 2 Winner",
+    "outcome": "Gen.G",
+    "side": "BUY",
+    "whale_usd": 5413.320904,
+    "whale_pct": 28.654,
+    "whale_value_at_open": 18891.8433,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787389358.4302263,
+    "fills": 3
   }
 ]

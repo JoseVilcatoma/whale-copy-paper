@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 04:02:06 (hora de Perú)
+Actualizado: 2026-08-22 04:04:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 04:02:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $308.99)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $303.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ChonkyChocolateCake | 8 | 5 | 2 | +0.13 USD |
+| ChonkyChocolateCake | 8 | 5 | 3 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -240,11 +240,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ngx-boombo-2026-08-22-game2 | BOOMBOYS.Kiritych, IMAREALPERSON |
 | lol-we-lgd-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, danielwolfmorales3pddb6dl6 |
 | lol-we-lgd-2026-08-22-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, danielwolfmorales3pddb6dl6 |
+| lol-dk-gen-2026-08-22-game2 | MisterVision, danielwolfmorales3pddb6dl6 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G (BUY) | 59% | 5.00 | 28.7% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LC | DN SOOPers (BUY) | 56% | 5.00 | 23.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 42% | 5.00 | 21.2% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Kia Tigers vs. Kiwoom Heroes | Kia Tigers (BUY) | 65% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -274,4 +276,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago Cubs vs. Seattle Mariners | Seattle Mariners (BUY) | 79% | 5.00 | 5.3% | ✅ ganada | +1.28 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ❌ perdida | -5.12 |
-| HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ✅ ganada | +0.36 |
