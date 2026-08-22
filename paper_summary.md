@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 09:07:53 (hora de Perú)
+Actualizado: 2026-08-22 09:09:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $444.83
-**Retorno acumulado:** -11.03%
+**Bankroll actual:** $440.72
+**Retorno acumulado:** -11.86%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 09:07:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $229.83)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $245.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 29 | 9 | 1 | +32.18 USD |
+| IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 8 | 2 | 1 | +19.47 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 7 | 0 | +17.54 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
@@ -54,23 +54,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ChonkyChocolateCake | 10 | 8 | 3 | -10.51 USD |
+| ChonkyChocolateCake | 11 | 9 | 1 | -13.33 USD |
 | HomeRunHazard | 47 | 27 | 5 | -19.89 USD |
-| danielwolfmorales3pddb6dl6 | 9 | 13 | 8 | -24.57 USD |
+| danielwolfmorales3pddb6dl6 | 10 | 13 | 7 | -20.75 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 142 | 69 | 11 | -42.11 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 923
-- **Aciertos:** 581 (62.9%)
+- **Apuestas resueltas:** 927
+- **Aciertos:** 583 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,610.45
-- **ROI sobre lo apostado:** -2.44%
-- **Comisiones pagadas (taker fee):** $85.73 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.58% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,630.45
+- **ROI sobre lo apostado:** -2.52%
+- **Comisiones pagadas (taker fee):** $86.13 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -78,8 +78,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 468 | 47.4% | 50.1% | -2.7 pp |
-| 60-79% | 291 | 72.5% | 67.7% | +4.8 pp |
+| 40-59% | 470 | 47.4% | 50.2% | -2.7 pp |
+| 60-79% | 293 | 72.4% | 67.7% | +4.7 pp |
 | 80-94% | 107 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
 
@@ -255,7 +255,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 276.1% | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 331.8% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: BoomBoys vs Team Spirit - Game 1 | Team Spirit (BUY) | 71% | 5.00 | 15.9% | 💰 vendida anticipada | +0.80 |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 63% | 5.00 | 76.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 69% | 5.00 | 10.3% | ⏳ pendiente | — |
@@ -268,7 +268,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 81.5% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: DN SOOPers vs Kiwoom DRX - Game 2 W | DN SOOPers (BUY) | 58% | 5.00 | 14.2% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ✅ ganada | +0.25 |
-| Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |
+| Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 15.2% | ⏳ pendiente | — |
 | RN1 | Millwall FC vs. Norwich City FC: 1st Hal | Over (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Hull City AFC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Barnsley FC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.6% | ✅ ganada | +1.60 |

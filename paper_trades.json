@@ -23536,8 +23536,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -23728,8 +23728,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -23776,8 +23776,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.27,
     "overlaps_with": [
       "danielwolfmorales3pddb6dl6"
     ],
@@ -23826,8 +23826,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "danielwolfmorales3pddb6dl6"
     ],
@@ -24573,8 +24573,8 @@
     "title": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 3000.0,
-    "whale_pct": 6.044,
+    "whale_usd": 7558.5525,
+    "whale_pct": 15.227,
     "whale_value_at_open": 49639.8574,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -24585,8 +24585,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787400108.5901701,
-    "fills": 1
+    "last_fill_at": 1787407736.145508,
+    "fills": 2
   },
   {
     "timestamp": 1787400783,
@@ -24889,8 +24889,8 @@
     "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 1051192.4413590003,
-    "whale_pct": 276.144,
+    "whale_usd": 1263073.0038590003,
+    "whale_pct": 331.804,
     "whale_value_at_open": 380668.8246,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -24904,7 +24904,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787407649.9732869,
-    "fills": 4
+    "last_fill_at": 1787407702.0384314,
+    "fills": 5
   }
 ]

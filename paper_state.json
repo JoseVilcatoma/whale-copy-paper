@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.83486492254144,
+  "bankroll": 440.72137752758346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4800,6 +4800,26 @@
       "timestamp": 1787407077.962978,
       "bankroll": 444.83,
       "event": "lost: HomeRunHazard \u2014 KBO: Kia Tigers vs. Kiwoom Heroes"
+    },
+    {
+      "timestamp": 1787407702.4709642,
+      "bankroll": 439.72,
+      "event": "lost: IMAREALPERSON \u2014 LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana"
+    },
+    {
+      "timestamp": 1787407703.292025,
+      "bankroll": 443.54,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787407703.3921838,
+      "bankroll": 445.81,
+      "event": "won: MisterVision \u2014 LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787407703.492331,
+      "bankroll": 440.72,
+      "event": "lost: MisterVision \u2014 LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner"
     }
   ]
 }
