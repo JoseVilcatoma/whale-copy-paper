@@ -23625,8 +23625,8 @@
     "title": "Atlanta Dream vs. Phoenix Mercury",
     "outcome": "Atlanta Dream",
     "side": "BUY",
-    "whale_usd": 1565.0026,
-    "whale_pct": 4.276,
+    "whale_usd": 2790.0026,
+    "whale_pct": 7.623,
     "whale_value_at_open": 36600.7142,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -23637,8 +23637,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787392600.6749501,
-    "fills": 2
+    "last_fill_at": 1787407382.85401,
+    "fills": 3
   },
   {
     "timestamp": 1787392488,
