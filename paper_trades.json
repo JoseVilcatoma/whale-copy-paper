@@ -25486,8 +25486,8 @@
     "title": "Quebec City: Hugo Gaston vs Luca Van Assche",
     "outcome": "Luca Van Assche",
     "side": "BUY",
-    "whale_usd": 13408.6911,
-    "whale_pct": 21.143,
+    "whale_usd": 19757.1295,
+    "whale_pct": 31.153,
     "whale_value_at_open": 63418.9793,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -25498,8 +25498,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787422747.6556416,
-    "fills": 5
+    "last_fill_at": 1787424028.0480783,
+    "fills": 7
   },
   {
     "timestamp": 1787421365,
