@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.8098944627233,
+  "bankroll": 482.53351111851805,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4985,6 +4985,21 @@
       "timestamp": 1787424535.9833264,
       "bankroll": 476.81,
       "event": "lost: RN1 \u2014 Will Brentford FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787425477.356929,
+      "bankroll": 478.59,
+      "event": "won: Sunshine.Smile \u2014 LoL: Fnatic vs Shifters - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787425477.4570403,
+      "bankroll": 480.47,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Fnatic vs Shifters - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787425477.557199,
+      "bankroll": 482.53,
+      "event": "won: MisterVision \u2014 LoL: Fnatic vs Shifters - Game 1 Winner"
     }
   ]
 }

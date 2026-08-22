@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 14:04:04 (hora de Perú)
+Actualizado: 2026-08-22 14:06:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $476.81
-**Retorno acumulado:** -4.64%
+**Bankroll actual:** $482.53
+**Retorno acumulado:** -3.49%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 14:04:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $246.81)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $267.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 9 | 2 | 2 | +23.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 1 | +20.57 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 17 | 7 | 1 | +19.96 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 7 | 2 | +18.09 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -38,13 +38,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
+| Sunshine.Smile | 2 | 1 | 1 | +1.59 USD |
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
 | pleaseplease123 | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 0 | 0 | 1 | +0.00 USD |
-| Sunshine.Smile | 1 | 1 | 2 | -0.19 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | SDTrading | 12 | 11 | 4 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 2 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ChonkyChocolateCake | 12 | 9 | 2 | -9.96 USD |
+| ChonkyChocolateCake | 13 | 9 | 1 | -7.89 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -65,14 +65,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 956
-- **Aciertos:** 605 (63.3%)
+- **Apuestas resueltas:** 959
+- **Aciertos:** 608 (63.4%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,775.45
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $88.70 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,790.45
+- **ROI sobre lo apostado:** -1.65%
+- **Comisiones pagadas (taker fee):** $88.92 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,7 +81,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 485 | 48.5% | 50.2% | -1.8 pp |
-| 60-79% | 300 | 71.7% | 67.7% | +4.0 pp |
+| 60-79% | 303 | 71.9% | 67.7% | +4.2 pp |
 | 80-94% | 113 | 87.6% | 86.6% | +1.0 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
@@ -267,16 +267,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Marc Polmans (BUY) | 71% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Abedallah Shelbayh (BUY) | 42% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Abeda | Ryan Seggerman (BUY) | 41% | 5.00 | 4.8% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 5.1% | ⏳ pendiente | — |
 | MisterVision | LoL: SK Gaming vs Movistar KOI - Game 2  | SK Gaming (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 22.8% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 24.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays (BUY) | 55% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | New York Yankees (BUY) | 46% | 5.00 | 8.4% | ⏳ pendiente | — |
-| HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 37.8% | ⏳ pendiente | — |
+| HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 39.1% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 51% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Li Tu | Quinn Vandecasteele (BUY) | 97% | 5.00 | 1.2% | ✅ ganada | +0.15 |

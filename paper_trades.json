@@ -25097,8 +25097,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -25121,8 +25121,8 @@
     "odds_at_bet": 72,
     "fee_usd": 0.07,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.87,
     "overlaps_with": [
       "Sunshine.Smile"
     ],
@@ -25147,8 +25147,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "Sunshine.Smile"
@@ -25486,8 +25486,8 @@
     "title": "Quebec City: Hugo Gaston vs Luca Van Assche",
     "outcome": "Luca Van Assche",
     "side": "BUY",
-    "whale_usd": 23992.8455,
-    "whale_pct": 37.832,
+    "whale_usd": 24805.035499999998,
+    "whale_pct": 39.113,
     "whale_value_at_open": 63418.9793,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -25498,8 +25498,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787425337.605429,
-    "fills": 9
+    "last_fill_at": 1787425477.6228714,
+    "fills": 10
   },
   {
     "timestamp": 1787421365,
@@ -25633,8 +25633,8 @@
     "title": "Cincinnati Open: Flavio Cobolli vs Arthur Fils",
     "outcome": "Arthur Fils",
     "side": "BUY",
-    "whale_usd": 22966.595346,
-    "whale_pct": 22.792,
+    "whale_usd": 24449.235888,
+    "whale_pct": 24.264,
     "whale_value_at_open": 100764.0262,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -25645,8 +25645,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787425145.5253248,
-    "fills": 6
+    "last_fill_at": 1787425470.999414,
+    "fills": 7
   },
   {
     "timestamp": 1787422926,
@@ -25707,8 +25707,8 @@
     "title": "Winston-Salem Open, Qualification: Sebastian Gorzny vs Marc Polmans",
     "outcome": "Sebastian Gorzny",
     "side": "BUY",
-    "whale_usd": 772.4167000000001,
-    "whale_pct": 0.69,
+    "whale_usd": 1411.3967000000002,
+    "whale_pct": 1.261,
     "whale_value_at_open": 111888.1429,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -25719,8 +25719,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787423039.5254977,
-    "fills": 1
+    "last_fill_at": 1787425486.1646647,
+    "fills": 2
   },
   {
     "timestamp": 1787423462,
