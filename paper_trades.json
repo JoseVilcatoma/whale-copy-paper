@@ -25731,8 +25731,8 @@
     "title": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Ryan Seggerman",
     "outcome": "Ryan Seggerman",
     "side": "BUY",
-    "whale_usd": 5708.3189,
-    "whale_pct": 4.789,
+    "whale_usd": 6221.3189,
+    "whale_pct": 5.22,
     "whale_value_at_open": 119190.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -25743,8 +25743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787425432.0911891,
-    "fills": 4
+    "last_fill_at": 1787425587.0557196,
+    "fills": 5
   },
   {
     "timestamp": 1787423789,
