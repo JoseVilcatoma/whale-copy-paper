@@ -26505,5 +26505,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787431736.627294,
     "fills": 1
+  },
+  {
+    "timestamp": 1787432123,
+    "timestamp_added": 1787432124.7114651,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-sen-fly-2026-08-22-game2",
+    "title": "LoL: Sentinels vs FlyQuest - Game 2 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 4738.79,
+    "whale_pct": 30.322,
+    "whale_value_at_open": 15628.3552,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787432124.7114763,
+    "fills": 1
   }
 ]
