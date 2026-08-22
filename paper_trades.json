@@ -26805,5 +26805,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787435378.810785,
     "fills": 1
+  },
+  {
+    "timestamp": 1787435776,
+    "timestamp_added": 1787435776.8757665,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-bst1-g21-2026-08-22-game2",
+    "title": "Valorant: BESTIA vs G2 Esports - Map 2 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 931.8236659999999,
+    "whale_pct": 5.192,
+    "whale_value_at_open": 17946.2646,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787435776.87578,
+    "fills": 1
   }
 ]

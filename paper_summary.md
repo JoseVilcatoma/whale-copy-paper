@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 16:54:28 (hora de Perú)
+Actualizado: 2026-08-22 16:56:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.79
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 16:54:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $289.79)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $284.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 23 | 8 | 3 | +27.00 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 3 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
-| casualbet2020 | 9 | 4 | 2 | +13.41 USD |
+| casualbet2020 | 9 | 4 | 3 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -265,6 +265,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 5.2% | ⏳ pendiente | — |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Dignitas (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 6.1% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 50% | 5.00 | 24.2% | ⏳ pendiente | — |
@@ -294,4 +295,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open, Qualification: Caroline  | Darja Vidmanova (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Roger | Roger Pascual (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-2.5) | Milwaukee Brewers (BUY) | 60% | 5.00 | 2.1% | ✅ ganada | +3.23 |
-| MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | FlyQuest (BUY) | 54% | 5.00 | 41.8% | ⏳ pendiente | — |
