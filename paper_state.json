@@ -1,5 +1,5 @@
 {
-  "bankroll": 420.0951493557553,
+  "bankroll": 415.00514935575535,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4425,6 +4425,11 @@
       "timestamp": 1787370921.6341114,
       "bankroll": 420.1,
       "event": "won: ferrariChampions2026 \u2014 Spread: Golden State Valkyries (-6.5)"
+    },
+    {
+      "timestamp": 1787373538.675836,
+      "bankroll": 415.01,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5"
     }
   ]
 }
