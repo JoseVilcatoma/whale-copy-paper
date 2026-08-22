@@ -27089,8 +27089,8 @@
     "title": "LoL: Disguised vs Dignitas - Game 2 Winner",
     "outcome": "Dignitas",
     "side": "BUY",
-    "whale_usd": 9851.3997,
-    "whale_pct": 21.384,
+    "whale_usd": 11637.6557,
+    "whale_pct": 25.261,
     "whale_value_at_open": 46069.7787,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -27101,8 +27101,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787438879.947403,
-    "fills": 3
+    "last_fill_at": 1787438950.4225671,
+    "fills": 4
   },
   {
     "timestamp": 1787438539,
@@ -27126,6 +27126,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787438539.8002553,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787438967,
+    "timestamp_added": 1787438968.5461578,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "mls-orl-rsl-2026-08-22-orl",
+    "title": "Will Orlando City SC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 16039.890000000001,
+    "whale_pct": 25.675,
+    "whale_value_at_open": 62473.0056,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787438968.546169,
     "fills": 1
   }
 ]
