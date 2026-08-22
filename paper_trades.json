@@ -23113,5 +23113,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787383129.052573,
     "fills": 1
+  },
+  {
+    "timestamp": 1787383930,
+    "timestamp_added": 1787383930.9555526,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-ngx-boombo-2026-08-22",
+    "title": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
+    "outcome": "BoomBoys",
+    "side": "BUY",
+    "whale_usd": 14050.592,
+    "whale_pct": 507.04,
+    "whale_value_at_open": 2771.0996,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787383950.2589648,
+    "fills": 4
   }
 ]
