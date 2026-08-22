@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.41988210415565,
+  "bankroll": 482.6969960282063,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4960,6 +4960,11 @@
       "timestamp": 1787419855.767854,
       "bankroll": 481.42,
       "event": "won: Djdjdjekekek \u2014 Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787420475.8846648,
+      "bankroll": 482.7,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 FC Erzgebirge Aue vs. TSG 1899 Hoffenheim: O/U 5.5"
     }
   ]
 }
