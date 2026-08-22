@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 08:37:21 (hora de Perú)
+Actualizado: 2026-08-22 08:39:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $451.77
@@ -263,7 +263,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 16.1% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: JD Gaming vs Top Esports - Game 1 W | JD Gaming (BUY) | 57% | 5.00 | 42.4% | ⏳ pendiente | — |
-| SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 64.7% | ⏳ pendiente | — |
+| SDTrading | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 56% | 5.00 | 81.5% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: DN SOOPers vs Kiwoom DRX - Game 2 W | DN SOOPers (BUY) | 58% | 5.00 | 14.2% | ⏳ pendiente | — |
 | HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ✅ ganada | +0.25 |
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 6.0% | ⏳ pendiente | — |

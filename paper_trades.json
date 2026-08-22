@@ -24645,8 +24645,8 @@
     "title": "St. Louis Cardinals vs. Philadelphia Phillies",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 23510.8885,
-    "whale_pct": 64.721,
+    "whale_usd": 29610.0757,
+    "whale_pct": 81.51,
     "whale_value_at_open": 36326.7482,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -24657,8 +24657,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787402242.690391,
-    "fills": 1
+    "last_fill_at": 1787405852.1483045,
+    "fills": 2
   },
   {
     "timestamp": 1787402257,
