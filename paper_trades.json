@@ -22274,5 +22274,29 @@
     "fills": 1,
     "fee_total_usd": 0.265,
     "closed_price": 54
+  },
+  {
+    "timestamp": 1787366680,
+    "timestamp_added": 1787366680.8313065,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-ts8-liquid-2026-08-21-game1",
+    "title": "Dota 2: Team Spirit vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 4122.5964,
+    "whale_pct": 91.046,
+    "whale_value_at_open": 4528.0276,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787366680.8313186,
+    "fills": 1
   }
 ]
