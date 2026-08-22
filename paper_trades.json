@@ -25213,8 +25213,8 @@
     "title": "Winston-Salem Open, Qualification: Pierre-Hugues Herbert vs Kenta Miyoshi",
     "outcome": "Pierre-Hugues Herbert",
     "side": "BUY",
-    "whale_usd": 700.8826,
-    "whale_pct": 1.232,
+    "whale_usd": 1373.2851,
+    "whale_pct": 2.414,
     "whale_value_at_open": 56887.863,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -25225,8 +25225,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787412315.7405148,
-    "fills": 1
+    "last_fill_at": 1787413430.867222,
+    "fills": 2
   },
   {
     "timestamp": 1787412519,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:43:12 (hora de Perú)
+Actualizado: 2026-08-22 10:45:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.29
@@ -258,7 +258,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 61% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Pierre-Hugues Herbert (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Pierre-Hugues Herbert (BUY) | 54% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Kenta Miyoshi (BUY) | 70% | 5.00 | 5.5% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 70% | 5.00 | 34.1% | ⏳ pendiente | — |
