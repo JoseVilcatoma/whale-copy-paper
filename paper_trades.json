@@ -22846,8 +22846,8 @@
     "title": "Dota 2: Nigma Galaxy vs BoomBoys - Game 1 Winner",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 71235.11081000001,
-    "whale_pct": 102.906,
+    "whale_usd": 79438.527937,
+    "whale_pct": 114.756,
     "whale_value_at_open": 69223.7467,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -22858,8 +22858,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787376394.4080787,
-    "fills": 27
+    "last_fill_at": 1787376897.179123,
+    "fills": 31
   },
   {
     "timestamp": 1787376342,
