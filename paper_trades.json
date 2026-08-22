@@ -23711,5 +23711,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787393374.355866,
     "fills": 1
+  },
+  {
+    "timestamp": 1787393446,
+    "timestamp_added": 1787393446.727031,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "lol-nip-ig1-2026-08-22-game1",
+    "title": "LoL: Ninjas in Pyjamas vs Invictus Gaming - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 3596.7703440000005,
+    "whale_pct": 28.424,
+    "whale_value_at_open": 12654,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787393495.5296917,
+    "fills": 3
   }
 ]
