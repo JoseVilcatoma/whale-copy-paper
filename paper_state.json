@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.0434641816861,
+  "bankroll": 496.81863476852385,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5140,6 +5140,36 @@
       "timestamp": 1787433133.3663657,
       "bankroll": 497.04,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest - Game 2 Winner (+0.34 USD)"
+    },
+    {
+      "timestamp": 1787433201.7306962,
+      "bankroll": 497.46,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open, Qualification: Caroline Werner vs Darja Vidmanova"
+    },
+    {
+      "timestamp": 1787433263.765429,
+      "bankroll": 500.56,
+      "event": "won: HomeRunHazard \u2014 Toronto Blue Jays vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1787433264.5108898,
+      "bankroll": 495.42,
+      "event": "lost: HomeRunHazard \u2014 Toronto Blue Jays vs. New York Yankees"
+    },
+    {
+      "timestamp": 1787433264.6110375,
+      "bankroll": 499.4,
+      "event": "won: HomeRunHazard \u2014 Toronto Blue Jays vs. New York Yankees"
+    },
+    {
+      "timestamp": 1787433265.0470572,
+      "bankroll": 501.89,
+      "event": "won: HomeRunHazard \u2014 Spread: Toronto Blue Jays (-1.5)"
+    },
+    {
+      "timestamp": 1787433267.1100173,
+      "bankroll": 496.82,
+      "event": "lost: HomeRunHazard \u2014 Spread: Toronto Blue Jays (-2.5)"
     }
   ]
 }
