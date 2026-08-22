@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 21:29:58 (hora de Perú)
+Actualizado: 2026-08-21 21:32:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $431.16
-**Retorno acumulado:** -13.77%
+**Bankroll actual:** $426.02
+**Retorno acumulado:** -14.80%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 21:29:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $336.16)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $336.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,10 +49,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
 | crisp1973 | 1 | 2 | 0 | -5.31 USD |
-| SDTrading | 10 | 10 | 3 | -6.28 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
+| SDTrading | 10 | 11 | 2 | -11.42 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 8 | 13 | 2 | -30.21 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 849
+- **Apuestas resueltas:** 850
 - **Aciertos:** 536 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,240.45
-- **ROI sobre lo apostado:** -2.60%
-- **Comisiones pagadas (taker fee):** $78.26 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.75% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,245.45
+- **ROI sobre lo apostado:** -2.72%
+- **Comisiones pagadas (taker fee):** $78.40 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 426 | 46.9% | 50.1% | -3.2 pp |
+| 40-59% | 427 | 46.8% | 50.1% | -3.2 pp |
 | 60-79% | 265 | 73.2% | 67.7% | +5.5 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -240,7 +240,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 766.7% | ⏳ pendiente | — |
+| kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 781.1% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Club León FC vs. CF Monterrey: O/U 2.5 | Under (BUY) | 49% | 5.00 | 5.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ⏳ pendiente | — |
