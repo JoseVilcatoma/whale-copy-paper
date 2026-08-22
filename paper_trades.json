@@ -25901,8 +25901,8 @@
     "title": "Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs",
     "outcome": "Team Vitality",
     "side": "BUY",
-    "whale_usd": 597.1033,
-    "whale_pct": 3.356,
+    "whale_usd": 2269.1485000000002,
+    "whale_pct": 12.752,
     "whale_value_at_open": 17794.7078,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -25913,7 +25913,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787425782.457183,
-    "fills": 1
+    "last_fill_at": 1787425860.0605872,
+    "fills": 2
   }
 ]

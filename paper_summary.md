@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 14:10:11 (hora de Perú)
+Actualizado: 2026-08-22 14:12:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.95
@@ -260,7 +260,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Atlanta Braves (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | kekasaur | Will Gimnasia y Esgrima de La Plata win  | No (BUY) | 50% | 5.00 | 9.3% | ⏳ pendiente | — |
