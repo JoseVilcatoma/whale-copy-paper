@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 22:43:21 (hora de Perú)
+Actualizado: 2026-08-21 22:45:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $421.61
-**Retorno acumulado:** -15.68%
+**Bankroll actual:** $411.36
+**Retorno acumulado:** -17.73%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 22:43:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $326.61)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $326.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,12 +23,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 25 | 6 | 0 | +27.46 USD |
-| casualbet2020 | 7 | 0 | 4 | +26.20 USD |
+| casualbet2020 | 7 | 1 | 3 | +21.08 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | BOOMBOYS.Kiritych | 5 | 2 | 0 | +10.33 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| ferrariChampions2026 | 203 | 114 | 2 | +4.69 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 3 | +2.49 USD |
@@ -43,6 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 0 | 2 | +0.00 USD |
 | Djdjdjekekek | 7 | 5 | 1 | -0.26 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
+| ferrariChampions2026 | 203 | 115 | 1 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 8 | 7 | 0 | -3.69 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 851
-- **Aciertos:** 536 (63.0%)
-- **Cuota promedio de entrada:** 63.1%
+- **Apuestas resueltas:** 853
+- **Aciertos:** 536 (62.8%)
+- **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,250.45
-- **ROI sobre lo apostado:** -2.83%
-- **Comisiones pagadas (taker fee):** $78.53 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,260.45
+- **ROI sobre lo apostado:** -3.07%
+- **Comisiones pagadas (taker fee):** $78.78 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 428 | 46.7% | 50.1% | -3.4 pp |
+| 40-59% | 430 | 46.5% | 50.1% | -3.6 pp |
 | 60-79% | 265 | 73.2% | 67.7% | +5.5 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -247,7 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 970.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Club León FC vs. CF Monterrey: O/U 2.5 | Under (BUY) | 49% | 5.00 | 5.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ❌ perdida | -5.12 |
 | OOOwhyOOO | Quebec City: Taro Daniel vs Jacob Fearnl | Taro Daniel (BUY) | 98% | 5.00 | 1284.0% | ✅ ganada | +0.10 |
 | kluckkluck | Will Audax CS Italiano win on 2026-08-21 | Yes (BUY) | 47% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Audax CS Italiano win on 2026-08-21 | No (BUY) | 57% | 5.00 | 4.6% | ⏳ pendiente | — |
@@ -257,7 +257,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | St. Louis Cardinals (BUY) | 52% | 5.00 | 0.9% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 54% | 5.00 | 4.7% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: AA Estudiantes (-1.5) | CA San Lorenzo de Almagro (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
-| ferrariChampions2026 | Los Angeles Angels vs. Texas Rangers: O/ | Over (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Los Angeles Angels vs. Texas Rangers: O/ | Over (BUY) | 47% | 5.00 | 1.7% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Spread: Golden State Valkyries (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Lynx vs. Washington Mystics | Minnesota Lynx (BUY) | 56% | 5.00 | 4.0% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 48% | 5.00 | 3.9% | ✅ ganada | +5.29 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 421.6147655229769,
+  "bankroll": 411.3617655229769,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4400,6 +4400,16 @@
       "timestamp": 1787367794.9362514,
       "bankroll": 421.61,
       "event": "lost: Sassy-Bucket \u2014 Detroit Tigers vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1787370297.9728048,
+      "bankroll": 416.48,
+      "event": "lost: ferrariChampions2026 \u2014 Los Angeles Angels vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787370298.7599492,
+      "bankroll": 411.36,
+      "event": "lost: casualbet2020 \u2014 Valorant: FURIA Esports vs Evil Geniuses - Map 2 Winner"
     }
   ]
 }
