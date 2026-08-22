@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.06518950480466,
+  "bankroll": 507.0770364435802,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5210,6 +5210,11 @@
       "timestamp": 1787436306.1840448,
       "bankroll": 505.07,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Dignitas - Game 1 Winner (-0.87 USD)"
+    },
+    {
+      "timestamp": 1787436679.798929,
+      "bankroll": 507.08,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Dignitas (BO3) - LCS Regular Season (+2.01 USD)"
     }
   ]
 }
