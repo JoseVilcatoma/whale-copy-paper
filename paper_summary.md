@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 05:51:53 (hora de Perú)
+Actualizado: 2026-08-22 05:53:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.45
@@ -256,7 +256,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 56% | 5.00 | 28.4% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Dalila Jakupovic v | Ariana Geerlings (BUY) | 84% | 5.00 | 2.2% | ⏳ pendiente | — |
 | MisterVision | LoL: MVK Esports vs GAM Esports - Game 2 | GAM Esports (BUY) | 59% | 5.00 | 17.9% | ⏳ pendiente | — |
-| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 70% | 5.00 | 6.1% | ⏳ pendiente | — |
+| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 70% | 5.00 | 9.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Phoenix Mercury | Atlanta Dream (BUY) | 66% | 5.00 | 4.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 68% | 5.00 | 291.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 92% | 5.00 | 14.5% | ⏳ pendiente | — |
