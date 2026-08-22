@@ -1,5 +1,5 @@
 {
-  "bankroll": 443.7761011342103,
+  "bankroll": 444.9761011342103,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4895,6 +4895,11 @@
       "timestamp": 1787413905.7827885,
       "bankroll": 443.78,
       "event": "won: RN1 \u2014 Birmingham City FC vs. Bristol City FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1787414217.133989,
+      "bankroll": 444.98,
+      "event": "won: RN1 \u2014 Will Portsmouth FC win on 2026-08-22?"
     }
   ]
 }
