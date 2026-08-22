@@ -22310,8 +22310,8 @@
     "title": "Valorant: Sentinels vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "KR\u00dc Esports",
     "side": "BUY",
-    "whale_usd": 1800.08,
-    "whale_pct": 47.012,
+    "whale_usd": 9000.08,
+    "whale_pct": 235.052,
     "whale_value_at_open": 3828.9763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -22322,8 +22322,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787369359.9158125,
-    "fills": 1
+    "last_fill_at": 1787414299.0656781,
+    "fills": 3
   },
   {
     "timestamp": 1787369655,
@@ -25285,8 +25285,8 @@
     "title": "Map Handicap: TS (-1.5) vs Legacy (+1.5)",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 540.0,
-    "whale_pct": 2.362,
+    "whale_usd": 1080.0,
+    "whale_pct": 4.724,
     "whale_value_at_open": 22862.3883,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -25297,8 +25297,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787413753.643505,
-    "fills": 1
+    "last_fill_at": 1787414303.5830264,
+    "fills": 2
   },
   {
     "timestamp": 1787414246,
