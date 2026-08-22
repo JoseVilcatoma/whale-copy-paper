@@ -23601,8 +23601,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex - Game 2 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 85339.38643000001,
-    "whale_pct": 50.152,
+    "whale_usd": 126097.99003000002,
+    "whale_pct": 74.104,
     "whale_value_at_open": 170163.1771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -23613,8 +23613,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787392535.630309,
-    "fills": 3
+    "last_fill_at": 1787392588.2309117,
+    "fills": 4
   },
   {
     "timestamp": 1787392479,
@@ -23625,8 +23625,8 @@
     "title": "Atlanta Dream vs. Phoenix Mercury",
     "outcome": "Atlanta Dream",
     "side": "BUY",
-    "whale_usd": 794.001,
-    "whale_pct": 2.169,
+    "whale_usd": 1565.0026,
+    "whale_pct": 4.276,
     "whale_value_at_open": 36600.7142,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -23637,8 +23637,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787392480.1882892,
-    "fills": 1
+    "last_fill_at": 1787392600.6749501,
+    "fills": 2
   },
   {
     "timestamp": 1787392488,
