@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 12:51:07 (hora de Perú)
+Actualizado: 2026-08-22 12:53:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.70
-**Retorno acumulado:** -3.46%
+**Bankroll actual:** $481.77
+**Retorno acumulado:** -3.65%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 12:51:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $312.70)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $321.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,21 +57,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 48 | 27 | 15 | -19.11 USD |
+| HomeRunHazard | 49 | 28 | 13 | -20.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 149 | 72 | 1 | -44.01 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 952
-- **Aciertos:** 603 (63.3%)
+- **Apuestas resueltas:** 954
+- **Aciertos:** 604 (63.3%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,755.45
-- **ROI sobre lo apostado:** -1.66%
-- **Comisiones pagadas (taker fee):** $88.40 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,765.45
+- **ROI sobre lo apostado:** -1.67%
+- **Comisiones pagadas (taker fee):** $88.59 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -79,8 +79,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 483 | 48.4% | 50.2% | -1.8 pp |
-| 60-79% | 299 | 71.9% | 67.7% | +4.2 pp |
+| 40-59% | 484 | 48.6% | 50.2% | -1.7 pp |
+| 60-79% | 300 | 71.7% | 67.7% | +4.0 pp |
 | 80-94% | 113 | 87.6% | 86.6% | +1.0 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
 
@@ -258,7 +258,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 15.8% | ⏳ pendiente | — |
+| HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 19.2% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 51% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Li Tu | Quinn Vandecasteele (BUY) | 97% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -269,8 +269,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Map Handicap: TS (-1.5) vs Legacy (+1.5) | Legacy (BUY) | 55% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 61% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Pierre-Hugues Herbert (BUY) | 54% | 5.00 | 2.4% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Kenta Miyoshi (BUY) | 70% | 5.00 | 5.5% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Pierre-Hugues Herbert (BUY) | 54% | 5.00 | 2.4% | ✅ ganada | +4.14 |
+| HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Kenta Miyoshi (BUY) | 70% | 5.00 | 5.5% | ❌ perdida | -5.08 |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 70% | 5.00 | 34.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 72% | 5.00 | 144.1% | ⏳ pendiente | — |

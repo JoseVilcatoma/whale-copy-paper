@@ -25198,8 +25198,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -25222,8 +25222,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -25486,8 +25486,8 @@
     "title": "Quebec City: Hugo Gaston vs Luca Van Assche",
     "outcome": "Luca Van Assche",
     "side": "BUY",
-    "whale_usd": 10047.9011,
-    "whale_pct": 15.844,
+    "whale_usd": 12185.6511,
+    "whale_pct": 19.215,
     "whale_value_at_open": 63418.9793,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -25498,7 +25498,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787420925.5512435,
-    "fills": 3
+    "last_fill_at": 1787421083.371792,
+    "fills": 4
   }
 ]
