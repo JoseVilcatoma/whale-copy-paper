@@ -26898,14 +26898,16 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.87,
     "overlaps_with": [
       "MisterVision"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787436227.7814922,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.204,
+    "closed_price": 52
   }
 ]

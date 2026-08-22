@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 17:04:38 (hora de Perú)
+Actualizado: 2026-08-22 17:06:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.94
-**Retorno acumulado:** +1.19%
+**Bankroll actual:** $505.07
+**Retorno acumulado:** +1.01%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 17:04:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $290.94)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $295.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 24 | 8 | 4 | +28.45 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 24 | 9 | 3 | +27.58 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 3 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
@@ -265,7 +265,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 60% | 5.00 | 1.3% | 💰 vendida anticipada | -0.87 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas (BO3) - LCS R | Disguised (BUY) | 49% | 5.00 | 10.4% | ⏳ pendiente | — |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 52% | 5.00 | 26.5% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 9.4% | ⏳ pendiente | — |
