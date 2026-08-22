@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 06:19:06 (hora de Perú)
+Actualizado: 2026-08-22 06:21:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $436.45
-**Retorno acumulado:** -12.71%
+**Bankroll actual:** $439.30
+**Retorno acumulado:** -12.14%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 06:19:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $216.45)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $224.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,19 +56,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 26 | 5 | -17.12 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 5 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
+| RN1 | 131 | 64 | 10 | -47.97 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 130 | 64 | 11 | -50.81 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 886
-- **Aciertos:** 557 (62.9%)
+- **Apuestas resueltas:** 887
+- **Aciertos:** 558 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,425.45
-- **ROI sobre lo apostado:** -2.72%
-- **Comisiones pagadas (taker fee):** $82.29 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,430.45
+- **ROI sobre lo apostado:** -2.65%
+- **Comisiones pagadas (taker fee):** $82.38 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.79% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 451 | 47.0% | 50.1% | -3.1 pp |
-| 60-79% | 275 | 73.1% | 67.6% | +5.5 pp |
+| 60-79% | 276 | 73.2% | 67.6% | +5.6 pp |
 | 80-94% | 104 | 86.5% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -259,7 +259,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 64% | 5.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Maximilian Mart | Maximilian Marterer (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 9.0% | ⏳ pendiente | — |
-| RN1 | ITF M15 Arad Men: Matteo Sciahbasi vs Dr | Matteo Sciahbasi (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF M15 Arad Men: Matteo Sciahbasi vs Dr | Matteo Sciahbasi (BUY) | 63% | 5.00 | 1.1% | ✅ ganada | +2.84 |
 | danielwolfmorales3pddb6dl6 | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 56% | 5.00 | 28.4% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Dalila Jakupovic v | Ariana Geerlings (BUY) | 84% | 5.00 | 2.2% | ⏳ pendiente | — |
 | MisterVision | LoL: MVK Esports vs GAM Esports - Game 2 | GAM Esports (BUY) | 59% | 5.00 | 17.9% | ⏳ pendiente | — |

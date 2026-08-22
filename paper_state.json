@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.4524882364656,
+  "bankroll": 439.29699617297354,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4610,6 +4610,11 @@
       "timestamp": 1787394586.2881594,
       "bankroll": 436.45,
       "event": "lost: RN1 \u2014 ITF M25 Santander Men: Carlos Lopez Montagud vs Sergi Perez Contri"
+    },
+    {
+      "timestamp": 1787397601.4201374,
+      "bankroll": 439.3,
+      "event": "won: RN1 \u2014 ITF M15 Arad Men: Matteo Sciahbasi vs Dragos Nicolae Madaras"
     }
   ]
 }
