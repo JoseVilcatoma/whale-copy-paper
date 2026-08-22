@@ -25064,8 +25064,8 @@
     "title": "Valorant: Team Liquid vs Eintracht Frankfurt - Map 2 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 5028.5499,
-    "whale_pct": 146.866,
+    "whale_usd": 6795.2148,
+    "whale_pct": 198.464,
     "whale_value_at_open": 3423.9105,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -25076,7 +25076,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787410635.114902,
-    "fills": 1
+    "last_fill_at": 1787410693.595329,
+    "fills": 2
   }
 ]
