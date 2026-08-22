@@ -22764,5 +22764,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787373620.8153806,
     "fills": 3
+  },
+  {
+    "timestamp": 1787374493,
+    "timestamp_added": 1787374494.253314,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "epl-not-lee-2026-08-22-btts-first-half",
+    "title": "Nottingham Forest FC vs. Leeds United FC: Both Teams to Score in First Half",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2307.2345,
+    "whale_pct": 5.437,
+    "whale_value_at_open": 42438.6576,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787374494.253325,
+    "fills": 1
   }
 ]
