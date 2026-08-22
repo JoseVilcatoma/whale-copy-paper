@@ -26271,8 +26271,8 @@
     "title": "UFC Fight Night: Wes Schultz vs. Jackson McVey (Middleweight, Prelims)",
     "outcome": "Jackson McVey",
     "side": "BUY",
-    "whale_usd": 81695.31529999999,
-    "whale_pct": 121.032,
+    "whale_usd": 82504.86529999999,
+    "whale_pct": 122.231,
     "whale_value_at_open": 67498.9781,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -26283,8 +26283,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787432383.4951022,
-    "fills": 33
+    "last_fill_at": 1787432406.3524265,
+    "fills": 34
   },
   {
     "timestamp": 1787430673,
