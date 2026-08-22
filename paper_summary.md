@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 05:37:19 (hora de Perú)
+Actualizado: 2026-08-22 05:39:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.45
@@ -251,7 +251,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Doncaster Rovers FC win on 2026-08- | No (BUY) | 49% | 5.00 | 7.4% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 64% | 5.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Maximilian Mart | Maximilian Marterer (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
-| MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 5.0% | ⏳ pendiente | — |
+| MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 9.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Arad Men: Matteo Sciahbasi vs Dr | Matteo Sciahbasi (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 56% | 5.00 | 28.4% | ⏳ pendiente | — |
 | RN1 | ITF W35 Krakow Women: Dalila Jakupovic v | Ariana Geerlings (BUY) | 84% | 5.00 | 2.2% | ⏳ pendiente | — |
