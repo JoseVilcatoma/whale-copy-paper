@@ -1,5 +1,5 @@
 {
-  "bankroll": 452.48598623236563,
+  "bankroll": 447.3829862323656,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4715,6 +4715,11 @@
       "timestamp": 1787403983.905689,
       "bankroll": 452.49,
       "event": "won: IMAREALPERSON \u2014 LoL: Dplus KIA vs Gen.G - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787404910.5682623,
+      "bankroll": 447.38,
+      "event": "lost: MisterVision \u2014 LoL: MVK Esports vs GAM Esports - Game 2 Winner"
     }
   ]
 }
