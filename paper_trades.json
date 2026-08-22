@@ -23274,8 +23274,8 @@
     "title": "ITF M25 Ueberlingen Men: Nicola Senn vs Tymur Bieldiugin",
     "outcome": "Tymur Bieldiugin",
     "side": "BUY",
-    "whale_usd": 637.5,
-    "whale_pct": 0.827,
+    "whale_usd": 2191.7799999999997,
+    "whale_pct": 2.843,
     "whale_value_at_open": 77093.4972,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -23286,8 +23286,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787386432.1889927,
-    "fills": 1
+    "last_fill_at": 1787390280.1471386,
+    "fills": 2
   },
   {
     "timestamp": 1787387943,
@@ -23420,8 +23420,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 14095.874270000002,
-    "whale_pct": 127.25,
+    "whale_usd": 18494.02097,
+    "whale_pct": 166.954,
     "whale_value_at_open": 11077.3118,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -23432,7 +23432,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787390087.9055932,
-    "fills": 7
+    "last_fill_at": 1787390286.7354202,
+    "fills": 8
   }
 ]
