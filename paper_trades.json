@@ -22740,5 +22740,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787372162.6898217,
     "fills": 2
+  },
+  {
+    "timestamp": 1787373332,
+    "timestamp_added": 1787373333.1111932,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "jap-fag-fct1-2026-08-22-fag",
+    "title": "Will Fagiano Okayama win on 2026-08-22?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1195.1390000000001,
+    "whale_pct": 3.06,
+    "whale_value_at_open": 39050.5331,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787373333.1112025,
+    "fills": 1
   }
 ]
