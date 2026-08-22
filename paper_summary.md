@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 22:51:34 (hora de Perú)
+Actualizado: 2026-08-21 22:53:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $411.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 22:51:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $321.36)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $311.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,11 +22,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 25 | 6 | 0 | +27.46 USD |
+| IMAREALPERSON | 25 | 6 | 1 | +27.46 USD |
 | casualbet2020 | 7 | 1 | 3 | +21.08 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| BOOMBOYS.Kiritych | 5 | 2 | 0 | +10.33 USD |
+| BOOMBOYS.Kiritych | 5 | 2 | 1 | +10.33 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -235,11 +235,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bergs-sakella-2026-08-21 | RN1, ferrariChampions2026 |
 | mlb-sf-bos-2026-08-21-total-7pt5 | Sassy-Bucket, ferrariChampions2026 |
 | chi1-aci-cul-2026-08-21-aci | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kluckkluck |
+| dota2-ts8-liquid-2026-08-21-game2 | BOOMBOYS.Kiritych, IMAREALPERSON |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 53.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | FC Erzgebirge Aue vs. TSG 1899 Hoffenhei | Under (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Sunderland AFC win on 2026-08-22? | No (BUY) | 64% | 5.00 | 38.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports (BO3) | KRÜ Esports (BUY) | 41% | 5.00 | 47.0% | ⏳ pendiente | — |
@@ -268,5 +271,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cancun: Roman Safiullin vs Hubert Hurkac | Hubert Hurkacz (BUY) | 83% | 5.00 | 3.3% | ✅ ganada | +0.98 |
 | Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 44% | 5.00 | 5.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Valorant: MIBR vs Team Envy - Map 2 Winn | MIBR (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
-| ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 55% | 5.00 | 0.3% | ✅ ganada | +3.98 |
-| Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 52% | 5.00 | 9.1% | ❌ perdida | -5.12 |
