@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:05:48 (hora de Perú)
+Actualizado: 2026-08-22 10:07:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 10:05:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $221.17)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $216.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| Sunshine.Smile | 0 | 0 | 1 | +0.00 USD |
+| Sunshine.Smile | 0 | 0 | 2 | +0.00 USD |
 | monkeymashingkeyboard | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 9 | 6 | 1 | -1.70 USD |
@@ -255,6 +255,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 73% | 5.00 | 3.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Eintracht Frank | Team Liquid (BUY) | 54% | 5.00 | 198.5% | ⏳ pendiente | — |
 | SDTrading | Spread: IND (-3.5) | IND (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: FNC (-1.5) vs Shifters (+ | Fnatic (BUY) | 52% | 5.00 | 28.1% | ⏳ pendiente | — |
@@ -284,4 +285,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 75% | 5.00 | 1.6% | ❌ perdida | -5.06 |
 | RN1 | Will Norwich City FC win on 2026-08-22? | No (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Los Angeles Sparks (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Will Portsmouth FC win on 2026-08-22? | Yes (BUY) | 80% | 5.00 | 1.0% | ⏳ pendiente | — |

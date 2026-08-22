@@ -25078,5 +25078,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787410693.595329,
     "fills": 2
+  },
+  {
+    "timestamp": 1787411216,
+    "timestamp_added": 1787411216.5837598,
+    "username": "Sunshine.Smile",
+    "wallet": "0xd3b034d7bfb2473fb252d0414646d9786bac329e",
+    "slug": "lol-fnc-shft-2026-08-22-game1",
+    "title": "LoL: Fnatic vs Shifters - Game 1 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "whale_usd": 867.3,
+    "whale_pct": 3.889,
+    "whale_value_at_open": 22302.8925,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787411216.5837703,
+    "fills": 1
   }
 ]
