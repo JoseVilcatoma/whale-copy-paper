@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 06:47:59 (hora de Perú)
+Actualizado: 2026-08-22 06:50:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $434.97
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 06:47:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $159.97)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $139.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 45 | 26 | 7 | -17.12 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 12 | 6 | -32.18 USD |
-| RN1 | 132 | 64 | 19 | -45.90 USD |
+| RN1 | 132 | 64 | 23 | -45.90 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
@@ -252,6 +252,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Manchester United FC win on 2026-08 | No (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Millwall FC win on 2026-08-22? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 75% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Will Norwich City FC win on 2026-08-22? | No (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Los Angeles Sparks (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Will Portsmouth FC win on 2026-08-22? | Yes (BUY) | 80% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Birmingham City FC vs. Bristol City FC:  | Over (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -263,7 +267,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Spread: Manchester United FC (-1.5) | Manchester United FC (BUY) | 50% | 5.00 | 40.7% | ⏳ pendiente | — |
 | RN1 | Spread: Manchester United FC (-1.5) | Hull City AFC (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Goncalo Mar | Goncalo Marques (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 73% | 5.00 | 3.0% | ⏳ pendiente | — |
+| RN1 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 73% | 5.00 | 5.0% | ⏳ pendiente | — |
 | MisterVision | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 59% | 5.00 | 30.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 10.4% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 4.8% | ⏳ pendiente | — |
@@ -278,7 +282,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 64% | 5.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Maximilian Mart | Maximilian Marterer (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 9.0% | ⏳ pendiente | — |
-| RN1 | ITF M15 Arad Men: Matteo Sciahbasi vs Dr | Matteo Sciahbasi (BUY) | 63% | 5.00 | 1.1% | ✅ ganada | +2.84 |
-| danielwolfmorales3pddb6dl6 | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 56% | 5.00 | 28.4% | ⏳ pendiente | — |
-| RN1 | ITF W35 Krakow Women: Dalila Jakupovic v | Ariana Geerlings (BUY) | 84% | 5.00 | 2.2% | ⏳ pendiente | — |
-| MisterVision | LoL: MVK Esports vs GAM Esports - Game 2 | GAM Esports (BUY) | 59% | 5.00 | 17.9% | ⏳ pendiente | — |
