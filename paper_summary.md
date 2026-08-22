@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 09:45:11 (hora de Perú)
+Actualizado: 2026-08-22 09:47:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 09:45:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $241.17)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $236.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ChonkyChocolateCake | 11 | 9 | 1 | -13.33 USD |
-| HomeRunHazard | 47 | 27 | 6 | -19.89 USD |
+| HomeRunHazard | 47 | 27 | 7 | -19.89 USD |
 | danielwolfmorales3pddb6dl6 | 10 | 14 | 6 | -25.85 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 142 | 69 | 11 | -42.11 USD |
@@ -255,9 +255,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 56% | 5.00 | 5.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 5.9% | 💰 vendida anticipada | +0.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: BoomBoys vs Team Spirit - Game 2 | BoomBoys (BUY) | 46% | 5.00 | 83.8% | 💰 vendida anticipada | +0.06 |
-| HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
+| HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Under (BUY) | 50% | 5.00 | 5.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 42% | 5.00 | 332.5% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: BoomBoys vs Team Spirit - Game 1 | Team Spirit (BUY) | 71% | 5.00 | 15.9% | 💰 vendida anticipada | +0.80 |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 63% | 5.00 | 76.2% | ⏳ pendiente | — |
@@ -284,4 +285,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Birmingham City FC vs. Bristol City FC:  | Over (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Millwall FC win on 2026-08-22? | No (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 47% | 5.00 | 0.5% | ✅ ganada | +5.51 |
-| RN1 | Will Hull City AFC vs. Manchester United | No (BUY) | 83% | 5.00 | 1.2% | ⏳ pendiente | — |
