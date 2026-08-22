@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:07:49 (hora de Perú)
+Actualizado: 2026-08-22 10:09:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 10:07:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $216.17)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $211.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 8 | 2 | 2 | +19.47 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 7 | 1 | +18.09 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 7 | 2 | +18.09 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
@@ -250,11 +250,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | el1-don-bar-2026-08-22-don | RN1, crisp1973 |
 | atp-tarvet-poullai-2026-08-22 | HomeRunHazard, RN1 |
 | epl-hul-mun-2026-08-22-spread-away-1pt5 | RN1, danielwolfmorales3pddb6dl6 |
+| lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Sunshine.Smile |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 72% | 5.00 | 66.9% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 73% | 5.00 | 3.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Eintracht Frank | Team Liquid (BUY) | 54% | 5.00 | 198.5% | ⏳ pendiente | — |
 | SDTrading | Spread: IND (-3.5) | IND (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -284,4 +286,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Millwall FC win on 2026-08-22? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 75% | 5.00 | 1.6% | ❌ perdida | -5.06 |
 | RN1 | Will Norwich City FC win on 2026-08-22? | No (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Los Angeles Sparks (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
