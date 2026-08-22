@@ -27089,8 +27089,8 @@
     "title": "LoL: Disguised vs Dignitas - Game 2 Winner",
     "outcome": "Dignitas",
     "side": "BUY",
-    "whale_usd": 7105.785,
-    "whale_pct": 15.424,
+    "whale_usd": 9158.8974,
+    "whale_pct": 19.88,
     "whale_value_at_open": 46069.7787,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -27101,8 +27101,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787438452.5144708,
-    "fills": 1
+    "last_fill_at": 1787438648.2629087,
+    "fills": 2
   },
   {
     "timestamp": 1787438539,
