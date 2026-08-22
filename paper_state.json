@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.91289446272333,
+  "bankroll": 476.8098944627233,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4980,6 +4980,11 @@
       "timestamp": 1787422860.7428896,
       "bankroll": 481.91,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Li Tu vs Quinn Vandecasteele"
+    },
+    {
+      "timestamp": 1787424535.9833264,
+      "bankroll": 476.81,
+      "event": "lost: RN1 \u2014 Will Brentford FC win on 2026-08-22?"
     }
   ]
 }
