@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.4021990602313,
+  "bankroll": 473.81703971957194,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5045,6 +5045,11 @@
       "timestamp": 1787429855.6588252,
       "bankroll": 473.4,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Map Handicap: TS (-1.5) vs Legacy (+1.5)"
+    },
+    {
+      "timestamp": 1787430982.3530912,
+      "bankroll": 473.82,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest - Game 1 Winner (+0.41 USD)"
     }
   ]
 }
