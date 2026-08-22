@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:28:36 (hora de Perú)
+Actualizado: 2026-08-22 10:30:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.29
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 10:28:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $251.29)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $241.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 47 | 27 | 10 | -19.89 USD |
+| HomeRunHazard | 47 | 27 | 12 | -19.89 USD |
 | danielwolfmorales3pddb6dl6 | 11 | 14 | 5 | -22.03 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 147 | 72 | 3 | -47.70 USD |
@@ -256,6 +256,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 61% | 5.00 | 3.0% | ⏳ pendiente | — |
+| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Pierre-Hugues Herbert (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open, Qualification: Pierr | Kenta Miyoshi (BUY) | 70% | 5.00 | 5.5% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -284,5 +286,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Sion: Benjamin Hassan vs Dominic Stephan | Dominic Stephan Stricker (BUY) | 95% | 5.00 | 1.2% | ✅ ganada | +0.25 |
 | Wiretransferxyz | Valorant: BESTIA vs G2 Esports (BO3) - V | G2 Esports (BUY) | 76% | 5.00 | 15.2% | ⏳ pendiente | — |
 | RN1 | Millwall FC vs. Norwich City FC: 1st Hal | Over (BUY) | 54% | 5.00 | 0.6% | ❌ perdida | -5.12 |
-| RN1 | Will Hull City AFC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.8% | ❌ perdida | -5.06 |
-| RN1 | Will Barnsley FC win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.6% | ✅ ganada | +1.60 |
