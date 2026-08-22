@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.63314412710247,
+  "bankroll": 451.7688584128167,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4725,6 +4725,16 @@
       "timestamp": 1787405224.4246657,
       "bankroll": 447.63,
       "event": "won: HomeRunHazard \u2014 Sion: Benjamin Hassan vs Dominic Stephan Stricker"
+    },
+    {
+      "timestamp": 1787405835.0222726,
+      "bankroll": 449.7,
+      "event": "won: HomeRunHazard \u2014 Roehampton: Oliver Tarvet vs Lucas Poullain"
+    },
+    {
+      "timestamp": 1787405835.1224236,
+      "bankroll": 451.77,
+      "event": "won: RN1 \u2014 Roehampton: Oliver Tarvet vs Lucas Poullain"
     }
   ]
 }
