@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.95774085041836,
+  "bankroll": 442.5198093616173,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4680,6 +4680,21 @@
       "timestamp": 1787402697.8272407,
       "bankroll": 435.96,
       "event": "won: MisterVision \u2014 LoL: Dplus KIA vs Gen.G - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787403632.9352942,
+      "bankroll": 439.94,
+      "event": "won: IMAREALPERSON \u2014 Game Handicap: VSN (-1.5) vs Team Yandex (+1.5)"
+    },
+    {
+      "timestamp": 1787403635.6997566,
+      "bankroll": 440.35,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787403638.825018,
+      "bankroll": 442.52,
+      "event": "won: MisterVision \u2014 Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 07:58:36 (hora de Perú)
+Actualizado: 2026-08-22 08:00:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $435.96
-**Retorno acumulado:** -12.81%
+**Bankroll actual:** $442.52
+**Retorno acumulado:** -11.50%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 07:58:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $130.96)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $147.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 26 | 9 | 3 | +22.32 USD |
+| IMAREALPERSON | 27 | 9 | 2 | +26.30 USD |
 | casualbet2020 | 8 | 2 | 1 | +19.47 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 7 | 1 | +14.31 USD |
@@ -41,10 +41,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | Sunshine.Smile | 0 | 0 | 1 | +0.00 USD |
+| ChonkyChocolateCake | 10 | 6 | 5 | -0.31 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| Djdjdjekekek | 8 | 6 | 1 | -2.11 USD |
+| Djdjdjekekek | 9 | 6 | 0 | -1.70 USD |
 | SDTrading | 12 | 11 | 1 | -2.25 USD |
-| ChonkyChocolateCake | 9 | 6 | 6 | -2.48 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -55,21 +55,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | HomeRunHazard | 45 | 26 | 8 | -17.12 USD |
-| danielwolfmorales3pddb6dl6 | 8 | 12 | 8 | -26.21 USD |
+| danielwolfmorales3pddb6dl6 | 8 | 12 | 9 | -26.21 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 135 | 66 | 21 | -51.79 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 900
-- **Aciertos:** 566 (62.9%)
-- **Cuota promedio de entrada:** 62.8%
+- **Apuestas resueltas:** 903
+- **Aciertos:** 569 (63.0%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,495.45
-- **ROI sobre lo apostado:** -2.69%
-- **Comisiones pagadas (taker fee):** $83.55 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.83% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,510.45
+- **ROI sobre lo apostado:** -2.53%
+- **Comisiones pagadas (taker fee):** $83.76 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.68% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,9 +77,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 456 | 47.1% | 50.1% | -3.0 pp |
-| 60-79% | 282 | 72.7% | 67.6% | +5.1 pp |
-| 80-94% | 106 | 86.8% | 86.7% | +0.1 pp |
+| 40-59% | 457 | 47.3% | 50.1% | -2.9 pp |
+| 60-79% | 283 | 72.8% | 67.6% | +5.2 pp |
+| 80-94% | 107 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -254,6 +254,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Brandon Nakashima vs Fr | Brandon Nakashima (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Prague 2: Chun-Hsin Tseng vs Jan Kumstat | Chun-Hsin Tseng (BUY) | 61% | 5.00 | 21.1% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 16.1% | ⏳ pendiente | — |
@@ -275,7 +276,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Millwall FC win on 2026-08-22? | No (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Hull City AFC vs. Manchester United | No (BUY) | 83% | 5.00 | 1.2% | ⏳ pendiente | — |
-| MisterVision | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 69% | 5.00 | 33.3% | ⏳ pendiente | — |
+| MisterVision | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 69% | 5.00 | 33.3% | ✅ ganada | +2.17 |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Spread: Manchester United FC (-1.5) | Manchester United FC (BUY) | 50% | 5.00 | 40.7% | ⏳ pendiente | — |
 | RN1 | Spread: Manchester United FC (-1.5) | Hull City AFC (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -283,4 +284,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 73% | 5.00 | 10.3% | ⏳ pendiente | — |
 | MisterVision | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 59% | 5.00 | 30.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 10.4% | ⏳ pendiente | — |
-| HomeRunHazard | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 19.4% | ⏳ pendiente | — |
