@@ -23410,5 +23410,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787389358.4302263,
     "fills": 3
+  },
+  {
+    "timestamp": 1787389828,
+    "timestamp_added": 1787389829.2821307,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "dota2-vsn2-ty-2026-08-22-game1",
+    "title": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
+    "outcome": "Team Yandex",
+    "side": "BUY",
+    "whale_usd": 1978.1750000000002,
+    "whale_pct": 17.858,
+    "whale_value_at_open": 11077.3118,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787389831.5233529,
+    "fills": 2
   }
 ]
