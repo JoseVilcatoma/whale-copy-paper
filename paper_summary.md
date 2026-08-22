@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 23:55:59 (hora de Perú)
+Actualizado: 2026-08-21 23:58:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $409.41
-**Retorno acumulado:** -18.12%
+**Bankroll actual:** $404.33
+**Retorno acumulado:** -19.13%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 23:55:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $269.41)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $269.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | SDTrading | 10 | 11 | 2 | -11.42 USD |
-| HomeRunHazard | 37 | 22 | 10 | -18.25 USD |
+| HomeRunHazard | 37 | 23 | 9 | -23.33 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 859
+- **Apuestas resueltas:** 860
 - **Aciertos:** 539 (62.7%)
-- **Cuota promedio de entrada:** 62.9%
+- **Cuota promedio de entrada:** 63.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,290.45
-- **ROI sobre lo apostado:** -3.08%
-- **Comisiones pagadas (taker fee):** $79.51 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,295.45
+- **ROI sobre lo apostado:** -3.20%
+- **Comisiones pagadas (taker fee):** $79.59 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -77,7 +77,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 435 | 46.7% | 50.1% | -3.4 pp |
-| 60-79% | 266 | 72.9% | 67.7% | +5.3 pp |
+| 60-79% | 267 | 72.7% | 67.7% | +5.0 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -248,7 +248,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Seattle Mariners: O/U 9 | Under (BUY) | 69% | 5.00 | 1.7% | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Seattle Mariners: O/U 9 | Under (BUY) | 69% | 5.00 | 1.7% | ❌ perdida | -5.08 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Pittsburgh Pirates (BUY) | 70% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Over (BUY) | 51% | 5.00 | 0.7% | ✅ ganada | +4.68 |
