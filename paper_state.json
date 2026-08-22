@@ -1,5 +1,5 @@
 {
-  "bankroll": 452.96869989964244,
+  "bankroll": 462.1379275965443,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4915,6 +4915,16 @@
       "timestamp": 1787415771.9097788,
       "bankroll": 452.97,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Sunderland AFC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787416086.833971,
+      "bankroll": 456.63,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 LoL: JD Gaming vs Top Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787416087.3539195,
+      "bankroll": 462.14,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Rochdale AFC win on 2026-08-22?"
     }
   ]
 }
