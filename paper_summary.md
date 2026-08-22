@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 04:37:04 (hora de Perú)
+Actualizado: 2026-08-22 04:39:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 04:37:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $301.18)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $296.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 26 | 8 | 3 | +27.44 USD |
+| IMAREALPERSON | 26 | 8 | 4 | +27.44 USD |
 | casualbet2020 | 7 | 2 | 2 | +15.95 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 13 | 7 | 1 | +14.31 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -247,6 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 54% | 5.00 | 6.9% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 49% | 5.00 | 59.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 60% | 5.00 | 16.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 47% | 5.00 | 2.1% | 💰 vendida anticipada | +4.28 |
@@ -276,4 +277,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 66% | 5.00 | 167.3% | ✅ ganada | +2.49 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Pittsburgh Pirates (BUY) | 48% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 54% | 5.00 | 0.3% | ✅ ganada | +4.14 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Nottingham Forest FC vs. Leeds United FC | No (BUY) | 81% | 5.00 | 5.4% | ⏳ pendiente | — |

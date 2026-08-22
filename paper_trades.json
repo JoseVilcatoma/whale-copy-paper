@@ -23519,5 +23519,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787391301.004069,
     "fills": 2
+  },
+  {
+    "timestamp": 1787391452,
+    "timestamp_added": 1787391452.9113958,
+    "username": "IMAREALPERSON",
+    "wallet": "0x8c0b024c17831a0dde038547b7e791ae6a0d7aa5",
+    "slug": "lol-nip-ig1-2026-08-22",
+    "title": "LoL: Ninjas in Pyjamas vs Invictus Gaming (BO3) - LPL Group Nirvana",
+    "outcome": "Invictus Gaming",
+    "side": "BUY",
+    "whale_usd": 2838.477021,
+    "whale_pct": 6.852,
+    "whale_value_at_open": 41427.3749,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787391464.7521493,
+    "fills": 2
   }
 ]
