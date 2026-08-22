@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 03:07:21 (hora de Perú)
+Actualizado: 2026-08-22 03:09:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.41
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 03:07:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $326.41)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $321.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ChonkyChocolateCake | 8 | 5 | 1 | +0.13 USD |
+| ChonkyChocolateCake | 8 | 5 | 2 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 9 | 7 | 1 | -0.46 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
@@ -245,7 +245,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| MisterVision | LoL: Team WE vs LGD Gaming - Game 2 Winn | Team WE (BUY) | 59% | 5.00 | 20.5% | ⏳ pendiente | — |
+| MisterVision | LoL: Dplus KIA vs Gen.G - Game 1 Winner | Gen.G (BUY) | 66% | 5.00 | 86.7% | ⏳ pendiente | — |
+| MisterVision | LoL: Team WE vs LGD Gaming - Game 2 Winn | Team WE (BUY) | 59% | 5.00 | 37.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 45% | 5.00 | 58.8% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 43% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - | BoomBoys (BUY) | 60% | 5.00 | 615.8% | ⏳ pendiente | — |
@@ -274,4 +275,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Over (BUY) | 51% | 5.00 | 0.7% | ✅ ganada | +4.68 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Los Angeles Dodgers (BUY) | 90% | 5.00 | 4.7% | ✅ ganada | +0.53 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 64% | 5.00 | 0.8% | ✅ ganada | +2.72 |
-| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
