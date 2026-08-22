@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 12:20:12 (hora de Perú)
+Actualizado: 2026-08-22 12:22:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.83
@@ -282,7 +282,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: BoomBoys vs Team Spirit - Game 1 | Team Spirit (BUY) | 71% | 5.00 | 15.9% | 💰 vendida anticipada | +0.80 |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 63% | 5.00 | 76.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 69% | 5.00 | 10.3% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Set Handicap: Gauff (-1.5) vs Bejlek (+1 | Bejlek (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Set Handicap: Gauff (-1.5) vs Bejlek (+1 | Bejlek (BUY) | 48% | 5.00 | 3.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Brandon Nakashima vs Fr | Brandon Nakashima (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Prague 2: Chun-Hsin Tseng vs Jan Kumstat | Chun-Hsin Tseng (BUY) | 61% | 5.00 | 21.1% | ❌ perdida | -5.10 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
