@@ -25486,8 +25486,8 @@
     "title": "Quebec City: Hugo Gaston vs Luca Van Assche",
     "outcome": "Luca Van Assche",
     "side": "BUY",
-    "whale_usd": 23191.3255,
-    "whale_pct": 36.568,
+    "whale_usd": 23992.8455,
+    "whale_pct": 37.832,
     "whale_value_at_open": 63418.9793,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -25498,8 +25498,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787424488.8610857,
-    "fills": 8
+    "last_fill_at": 1787425337.605429,
+    "fills": 9
   },
   {
     "timestamp": 1787421365,
@@ -25731,8 +25731,8 @@
     "title": "Winston-Salem Open, Qualification: Abedallah Shelbayh vs Ryan Seggerman",
     "outcome": "Ryan Seggerman",
     "side": "BUY",
-    "whale_usd": 3746.1008,
-    "whale_pct": 3.143,
+    "whale_usd": 5708.3189,
+    "whale_pct": 4.789,
     "whale_value_at_open": 119190.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -25743,8 +25743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787424672.9711728,
-    "fills": 3
+    "last_fill_at": 1787425432.0911891,
+    "fills": 4
   },
   {
     "timestamp": 1787423789,
