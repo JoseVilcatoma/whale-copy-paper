@@ -26593,8 +26593,8 @@
     "title": "Valorant: BESTIA vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 775.576923,
-    "whale_pct": 5.238,
+    "whale_usd": 2242.243589,
+    "whale_pct": 15.144,
     "whale_value_at_open": 14806.3288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -26607,8 +26607,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787432753.7390938,
-    "fills": 1
+    "last_fill_at": 1787435986.6828988,
+    "fills": 2
   },
   {
     "timestamp": 1787433040,
@@ -26854,6 +26854,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787435840.880885,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787435973,
+    "timestamp_added": 1787435974.1590908,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-dsg-dig-2026-08-22",
+    "title": "LoL: Disguised vs Dignitas (BO3) - LCS Regular Season",
+    "outcome": "Disguised",
+    "side": "BUY",
+    "whale_usd": 5289.143999999999,
+    "whale_pct": 10.422,
+    "whale_value_at_open": 50752.0587,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787435974.159105,
     "fills": 1
   }
 ]
