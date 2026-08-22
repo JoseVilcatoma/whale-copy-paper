@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 03:53:39 (hora de Perú)
+Actualizado: 2026-08-22 03:55:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.99
@@ -247,7 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 42% | 5.00 | 21.2% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Kia Tigers vs. Kiwoom Heroes | Kia Tigers (BUY) | 65% | 5.00 | 3.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming (BO3) - LPL G | LGD Gaming (BUY) | 48% | 5.00 | 34.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming (BO3) - LPL G | LGD Gaming (BUY) | 48% | 5.00 | 40.8% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Nicola Senn vs  | Tymur Bieldiugin (BUY) | 69% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 50% | 5.00 | 1.2% | 💰 vendida anticipada | +4.35 |
 | MisterVision | LoL: Dplus KIA vs Gen.G - Game 1 Winner | Gen.G (BUY) | 66% | 5.00 | 86.7% | ⏳ pendiente | — |
