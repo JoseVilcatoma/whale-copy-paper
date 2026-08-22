@@ -25510,8 +25510,8 @@
     "title": "Toronto Blue Jays vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 3316.3695000000002,
-    "whale_pct": 4.585,
+    "whale_usd": 6085.9599,
+    "whale_pct": 8.414,
     "whale_value_at_open": 72333.5422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -25522,8 +25522,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787421366.222868,
-    "fills": 1
+    "last_fill_at": 1787422367.6150203,
+    "fills": 2
   },
   {
     "timestamp": 1787421398,
@@ -25599,5 +25599,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787421883.6066175,
     "fills": 2
+  },
+  {
+    "timestamp": 1787422366,
+    "timestamp_added": 1787422367.0169146,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tor-nyy-2026-08-22-spread-away-1pt5",
+    "title": "Spread: Toronto Blue Jays (-1.5)",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 557.141,
+    "whale_pct": 0.652,
+    "whale_value_at_open": 85515.2474,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787422367.0169249,
+    "fills": 1
   }
 ]
