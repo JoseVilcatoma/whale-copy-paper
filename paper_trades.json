@@ -25275,5 +25275,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787412540.5956244,
     "fills": 1
+  },
+  {
+    "timestamp": 1787413752,
+    "timestamp_added": 1787413753.6434927,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "cs2-lgc-ts7-2026-08-22-map-handicap-home-1pt5",
+    "title": "Map Handicap: TS (-1.5) vs Legacy (+1.5)",
+    "outcome": "Legacy",
+    "side": "BUY",
+    "whale_usd": 540.0,
+    "whale_pct": 2.362,
+    "whale_value_at_open": 22862.3883,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787413753.643505,
+    "fills": 1
   }
 ]
