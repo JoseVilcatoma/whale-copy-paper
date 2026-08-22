@@ -1,5 +1,5 @@
 {
-  "bankroll": 433.0560153731559,
+  "bankroll": 433.43753711228635,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4550,6 +4550,11 @@
       "timestamp": 1787380020.9626424,
       "bankroll": 433.06,
       "event": "venta anticipada: IMAREALPERSON \u2014 Dota 2: Nigma Galaxy vs BoomBoys - Game 2 Winner (-0.13 USD)"
+    },
+    {
+      "timestamp": 1787383144.0684347,
+      "bankroll": 433.44,
+      "event": "venta anticipada: IMAREALPERSON \u2014 LoL: Team WE vs LGD Gaming - Game 1 Winner (+0.38 USD)"
     }
   ]
 }
