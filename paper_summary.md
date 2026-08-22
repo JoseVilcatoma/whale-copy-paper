@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 16:41:31 (hora de Perú)
+Actualizado: 2026-08-22 16:44:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $503.01
@@ -264,7 +264,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Charlotte FC vs. D.C. United SC: 1st Hal | Under (BUY) | 59% | 5.00 | 2.4% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Charlotte FC vs. D.C. United SC: 1st Hal | Under (BUY) | 59% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 99% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 52% | 5.00 | 13.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 2 Winn | Sentinels (BUY) | 75% | 5.00 | 7.6% | ⏳ pendiente | — |
