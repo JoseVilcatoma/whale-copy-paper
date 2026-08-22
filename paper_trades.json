@@ -22234,8 +22234,8 @@
     "title": "Will CF Am\u00e9rica win on 2026-08-21?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 30881.060599999997,
-    "whale_pct": 422.596,
+    "whale_usd": 39051.0606,
+    "whale_pct": 534.4,
     "whale_value_at_open": 7307.4613,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -22246,7 +22246,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787365418.830632,
-    "fills": 4
+    "last_fill_at": 1787365490.836011,
+    "fills": 6
   }
 ]
