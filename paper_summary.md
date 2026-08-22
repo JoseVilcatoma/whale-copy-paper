@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 08:47:36 (hora de Perú)
+Actualizado: 2026-08-22 08:49:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.56
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 08:47:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $217.56)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $212.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| IMAREALPERSON | 28 | 9 | 1 | +31.38 USD |
+| IMAREALPERSON | 28 | 9 | 2 | +31.38 USD |
 | casualbet2020 | 8 | 2 | 1 | +19.47 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 14 | 7 | 0 | +17.54 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
@@ -255,6 +255,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IMAREALPERSON | Dota 2: BoomBoys vs Team Spirit - Game 1 | Team Spirit (BUY) | 71% | 5.00 | 15.9% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 63% | 5.00 | 76.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 69% | 5.00 | 10.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Gauff (-1.5) vs Bejlek (+1 | Bejlek (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -284,4 +285,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
 | danielwolfmorales3pddb6dl6 | Spread: Manchester United FC (-1.5) | Manchester United FC (BUY) | 50% | 5.00 | 40.7% | ❌ perdida | -5.12 |
 | RN1 | Spread: Manchester United FC (-1.5) | Hull City AFC (BUY) | 52% | 5.00 | 1.5% | ✅ ganada | +4.50 |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Goncalo Mar | Goncalo Marques (BUY) | 69% | 5.00 | 0.6% | ✅ ganada | +2.17 |
