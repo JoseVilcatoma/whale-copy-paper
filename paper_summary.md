@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 23:58:02 (hora de Perú)
+Actualizado: 2026-08-22 00:00:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $404.33
-**Retorno acumulado:** -19.13%
+**Bankroll actual:** $415.37
+**Retorno acumulado:** -16.93%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 23:58:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $269.33)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $295.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,12 +24,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 25 | 7 | 0 | +27.19 USD |
 | casualbet2020 | 7 | 2 | 2 | +15.95 USD |
+| BOOMBOYS.Kiritych | 6 | 2 | 0 | +14.47 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| BOOMBOYS.Kiritych | 5 | 2 | 1 | +10.33 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
+| Djdjdjekekek | 8 | 5 | 0 | +2.97 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 1 | 0 | 6 | +2.49 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -41,7 +42,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | ChonkyChocolateCake | 8 | 5 | 0 | +0.13 USD |
 | kluckkluck | 0 | 0 | 2 | +0.00 USD |
-| Djdjdjekekek | 7 | 5 | 1 | -0.26 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -50,9 +50,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
 | crisp1973 | 1 | 2 | 0 | -5.31 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| SDTrading | 11 | 11 | 1 | -7.76 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-| SDTrading | 10 | 11 | 2 | -11.42 USD |
 | HomeRunHazard | 37 | 23 | 9 | -23.33 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 860
-- **Aciertos:** 539 (62.7%)
-- **Cuota promedio de entrada:** 63.0%
+- **Apuestas resueltas:** 863
+- **Aciertos:** 542 (62.8%)
+- **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,295.45
-- **ROI sobre lo apostado:** -3.20%
-- **Comisiones pagadas (taker fee):** $79.59 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -1.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,310.45
+- **ROI sobre lo apostado:** -2.93%
+- **Comisiones pagadas (taker fee):** $79.91 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -1.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,8 +76,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 435 | 46.7% | 50.1% | -3.4 pp |
-| 60-79% | 267 | 72.7% | 67.7% | +5.0 pp |
+| 40-59% | 437 | 46.9% | 50.1% | -3.2 pp |
+| 60-79% | 268 | 72.8% | 67.6% | +5.1 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
 
@@ -258,7 +258,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 55% | 5.00 | 3.1% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Team Spirit vs Team Liquid - Gam | Team Liquid (BUY) | 47% | 5.00 | 101.6% | 💰 vendida anticipada | -0.27 |
-| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 129.8% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: Team Spirit vs Team Liquid - Gam | Team Spirit (BUY) | 54% | 5.00 | 129.8% | ✅ ganada | +4.14 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | FC Erzgebirge Aue vs. TSG 1899 Hoffenhei | Under (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Sunderland AFC win on 2026-08-22? | No (BUY) | 64% | 5.00 | 38.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports (BO3) | KRÜ Esports (BUY) | 41% | 5.00 | 47.0% | ⏳ pendiente | — |

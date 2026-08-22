@@ -1,5 +1,5 @@
 {
-  "bankroll": 404.32907092438285,
+  "bankroll": 415.3705933415369,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4450,6 +4450,21 @@
       "timestamp": 1787374608.5945263,
       "bankroll": 404.33,
       "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Seattle Mariners: O/U 9.5"
+    },
+    {
+      "timestamp": 1787374734.2691612,
+      "bankroll": 407.99,
+      "event": "won: SDTrading \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787374735.6831968,
+      "bankroll": 411.23,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: Team Spirit vs Team Liquid (BO3) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787374738.2491968,
+      "bankroll": 415.37,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: Team Spirit vs Team Liquid - Game 2 Winner"
     }
   ]
 }
