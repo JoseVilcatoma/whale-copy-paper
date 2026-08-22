@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 06:08:35 (hora de Perú)
+Actualizado: 2026-08-22 06:10:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 06:08:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $236.45)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $226.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 1 | -5.12 USD |
-| crisp1973 | 1 | 2 | 0 | -5.31 USD |
+| crisp1973 | 1 | 2 | 1 | -5.31 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 5 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 130 | 64 | 8 | -50.81 USD |
+| RN1 | 130 | 64 | 9 | -50.81 USD |
 
 ## Análisis general
 
@@ -243,11 +243,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-dk-gen-2026-08-22-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON, MisterVision, danielwolfmorales3pddb6dl6 |
 | dota2-vsn2-ty-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, IMAREALPERSON |
 | lol-nip-ig1-2026-08-22-game1 | MisterVision, danielwolfmorales3pddb6dl6 |
+| el1-don-bar-2026-08-22-don | RN1, crisp1973 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| crisp1973 | Will Doncaster Rovers FC win on 2026-08- | Yes (BUY) | 53% | 5.00 | 15.7% | ⏳ pendiente | — |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Semen | Dimitar Kisimov (BUY) | 80% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Jan Simonsson vs Nik | Jan Simonsson (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Will Doncaster Rovers FC win on 2026-08- | No (BUY) | 49% | 5.00 | 7.4% | ⏳ pendiente | — |
@@ -276,5 +279,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Ueberlingen Men: Nicola Senn vs  | Tymur Bieldiugin (BUY) | 69% | 5.00 | 2.8% | ✅ ganada | +2.17 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 50% | 5.00 | 1.2% | 💰 vendida anticipada | +4.35 |
 | MisterVision | LoL: Dplus KIA vs Gen.G - Game 1 Winner | Gen.G (BUY) | 66% | 5.00 | 86.7% | ⏳ pendiente | — |
-| MisterVision | LoL: Team WE vs LGD Gaming - Game 2 Winn | Team WE (BUY) | 59% | 5.00 | 37.6% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 45% | 5.00 | 58.8% | ⏳ pendiente | — |
