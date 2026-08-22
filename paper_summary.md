@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 14:59:57 (hora de Perú)
+Actualizado: 2026-08-22 15:02:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $481.80
-**Retorno acumulado:** -3.64%
+**Bankroll actual:** $478.46
+**Retorno acumulado:** -4.31%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 14:59:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $276.80)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $273.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 18 | 7 | 0 | +24.46 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 1 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
-| casualbet2020 | 9 | 3 | 2 | +18.53 USD |
+| casualbet2020 | 9 | 4 | 1 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -58,21 +58,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 52 | 29 | 24 | -20.05 USD |
+| HomeRunHazard | 53 | 29 | 25 | -18.27 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 964
-- **Aciertos:** 611 (63.4%)
+- **Apuestas resueltas:** 966
+- **Aciertos:** 612 (63.4%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,815.45
-- **ROI sobre lo apostado:** -1.65%
-- **Comisiones pagadas (taker fee):** $89.34 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,825.45
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $89.53 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -80,8 +80,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 487 | 48.7% | 50.2% | -1.6 pp |
-| 60-79% | 305 | 71.5% | 67.7% | +3.7 pp |
+| 40-59% | 488 | 48.6% | 50.3% | -1.7 pp |
+| 60-79% | 306 | 71.6% | 67.8% | +3.8 pp |
 | 80-94% | 114 | 87.7% | 86.6% | +1.1 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
@@ -252,6 +252,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | el1-don-bar-2026-08-22-don | RN1, crisp1973 |
 | atp-tarvet-poullai-2026-08-22 | HomeRunHazard, RN1 |
 | epl-hul-mun-2026-08-22-spread-away-1pt5 | RN1, danielwolfmorales3pddb6dl6 |
+| wta-pegula-swiatek-2026-08-22 | HomeRunHazard, monkeymashingkeyboard |
 | mlb-atl-mil-2026-08-22 | HomeRunHazard, SDTrading |
 | lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 | mlb-tor-nyy-2026-08-22-total-6pt5 | HomeRunHazard, SDTrading, pleaseplease123 |
@@ -260,9 +261,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Iga Swiatek (BUY) | 62% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Leolia Je | Kamilla Rakhimova (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 54% | 5.00 | 12.8% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 54% | 5.00 | 12.8% | ❌ perdida | -5.12 |
 | HomeRunHazard | Spread: Milwaukee Brewers (-1.5) | Atlanta Braves (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | kekasaur | Will Gimnasia y Esgrima de La Plata win  | No (BUY) | 50% | 5.00 | 9.3% | ⏳ pendiente | — |
@@ -273,11 +276,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open, Qualification: Sebas | Sebastian Gorzny (BUY) | 54% | 5.00 | 1.3% | ✅ ganada | +4.14 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 5.1% | ⏳ pendiente | — |
 | MisterVision | LoL: SK Gaming vs Movistar KOI - Game 2  | SK Gaming (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 24.3% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 24.3% | ✅ ganada | +1.78 |
 | HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays (BUY) | 55% | 5.00 | 9.8% | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Blue Jays vs. New York Yankees | Toronto Blue Jays (BUY) | 55% | 5.00 | 13.1% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees | New York Yankees (BUY) | 46% | 5.00 | 8.4% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Hugo Gaston vs Luca Van Ass | Luca Van Assche (BUY) | 86% | 5.00 | 39.1% | ✅ ganada | +0.78 |
 | casualbet2020 | Valorant: Team Vitality vs Fire Flux Esp | Team Vitality (BUY) | 67% | 5.00 | 33.0% | ❌ perdida | -5.08 |
@@ -288,5 +291,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 2 Winner | Shifters (BUY) | 51% | 5.00 | 10.0% | 💰 vendida anticipada | -3.71 |
 | HomeRunHazard | Winston-Salem Open, Qualification: Felix | Felix Balshaw (BUY) | 86% | 5.00 | 5.2% | ✅ ganada | +0.78 |
 | danielwolfmorales3pddb6dl6 | Map Handicap: TS (-1.5) vs Legacy (+1.5) | Legacy (BUY) | 55% | 5.00 | 4.7% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | St. Louis Cardinals (BUY) | 61% | 5.00 | 3.0% | ⏳ pendiente | — |
-| HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |

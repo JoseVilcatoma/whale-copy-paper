@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.7971084815341,
+  "bankroll": 478.46342355002724,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5025,6 +5025,16 @@
       "timestamp": 1787428295.84151,
       "bankroll": 481.8,
       "event": "lost: HomeRunHazard \u2014 Winston-Salem Open, Qualification: Sebastian Gorzny vs Marc Polmans"
+    },
+    {
+      "timestamp": 1787428916.881722,
+      "bankroll": 483.58,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Open: Flavio Cobolli vs Arthur Fils"
+    },
+    {
+      "timestamp": 1787428919.3373647,
+      "bankroll": 478.46,
+      "event": "lost: casualbet2020 \u2014 Valorant: Team Vitality vs Fire Flux Esports (BO3) - VCT EMEA Playoffs"
     }
   ]
 }
