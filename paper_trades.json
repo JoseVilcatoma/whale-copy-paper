@@ -26707,5 +26707,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787434242.4179075,
     "fills": 1
+  },
+  {
+    "timestamp": 1787434751,
+    "timestamp_added": 1787434752.215105,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "mls-clt-dcu-2026-08-22-first-half-total-1pt5",
+    "title": "Charlotte FC vs. D.C. United SC: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 825.5604,
+    "whale_pct": 2.42,
+    "whale_value_at_open": 34114.6891,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787434752.215117,
+    "fills": 1
   }
 ]
