@@ -23360,5 +23360,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787388622.3867433,
     "fills": 1
+  },
+  {
+    "timestamp": 1787388988,
+    "timestamp_added": 1787388989.229382,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "lol-dnf-drx-2026-08-22",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 5500.0,
+    "whale_pct": 23.556,
+    "whale_value_at_open": 23349,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787388989.2293918,
+    "fills": 1
   }
 ]

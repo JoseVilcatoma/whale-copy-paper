@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 03:55:51 (hora de Perú)
+Actualizado: 2026-08-22 03:57:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 03:55:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $313.99)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $308.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | HomeRunHazard | 45 | 26 | 2 | -17.12 USD |
-| danielwolfmorales3pddb6dl6 | 7 | 11 | 3 | -27.05 USD |
+| danielwolfmorales3pddb6dl6 | 7 | 11 | 4 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 128 | 63 | 5 | -51.21 USD |
@@ -245,6 +245,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LC | DN SOOPers (BUY) | 56% | 5.00 | 23.6% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 42% | 5.00 | 21.2% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Kia Tigers vs. Kiwoom Heroes | Kia Tigers (BUY) | 65% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming (BO3) - LPL G | LGD Gaming (BUY) | 48% | 5.00 | 40.8% | ⏳ pendiente | — |
@@ -274,4 +275,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Los Angeles Dodgers (BUY) | 60% | 5.00 | 0.6% | ❌ perdida | -5.10 |
 | HomeRunHazard | Pittsburgh Pirates vs. Los Angeles Dodge | Under (BUY) | 52% | 5.00 | 3.2% | ❌ perdida | -5.12 |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | Los Angeles Dodgers (BUY) | 93% | 5.00 | 5.4% | ✅ ganada | +0.36 |
-| HomeRunHazard | Chicago Cubs vs. Seattle Mariners: O/U 9 | Under (BUY) | 69% | 5.00 | 1.7% | ❌ perdida | -5.08 |
