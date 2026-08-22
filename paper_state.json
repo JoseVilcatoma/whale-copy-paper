@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.9216146866528,
+  "bankroll": 496.7036564893784,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5095,6 +5095,46 @@
       "timestamp": 1787432558.8829486,
       "bankroll": 488.92,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest - Game 2 Winner (-0.53 USD)"
+    },
+    {
+      "timestamp": 1787432950.456605,
+      "bankroll": 491.77,
+      "event": "won: SDTrading \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787432952.1968255,
+      "bankroll": 496.84,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787432953.8558874,
+      "bankroll": 501.34,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787432954.6325655,
+      "bankroll": 496.24,
+      "event": "lost: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787432954.9702344,
+      "bankroll": 491.19,
+      "event": "lost: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1787432957.2776186,
+      "bankroll": 491.78,
+      "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-3.5)"
+    },
+    {
+      "timestamp": 1787433012.0199292,
+      "bankroll": 493.47,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 9.5"
+    },
+    {
+      "timestamp": 1787433013.0221565,
+      "bankroll": 496.7,
+      "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-2.5)"
     }
   ]
 }
