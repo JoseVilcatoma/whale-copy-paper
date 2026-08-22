@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.2853435584527,
+  "bankroll": 443.7761011342103,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4890,6 +4890,11 @@
       "timestamp": 1787412383.7349286,
       "bankroll": 441.29,
       "event": "won: Sunshine.Smile \u2014 LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787413905.7827885,
+      "bankroll": 443.78,
+      "event": "won: RN1 \u2014 Birmingham City FC vs. Bristol City FC: O/U 1.5"
     }
   ]
 }
