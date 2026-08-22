@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 05:35:15 (hora de Perú)
+Actualizado: 2026-08-22 05:37:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 05:35:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $251.45)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $246.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 5 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 130 | 64 | 6 | -50.81 USD |
+| RN1 | 130 | 64 | 7 | -50.81 USD |
 
 ## Análisis general
 
@@ -248,6 +248,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Doncaster Rovers FC win on 2026-08- | No (BUY) | 49% | 5.00 | 7.4% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 64% | 5.00 | 7.9% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Maximilian Mart | Maximilian Marterer (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | MisterVision | LoL: Ninjas in Pyjamas vs Invictus Gamin | Ninjas in Pyjamas (BUY) | 68% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -277,4 +278,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 45% | 5.00 | 58.8% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Under (BUY) | 43% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Nigma Galaxy vs BoomBoys (BO3) - | BoomBoys (BUY) | 60% | 5.00 | 615.8% | ✅ ganada | +3.23 |
-| IMAREALPERSON | Game Handicap: VSN (-1.5) vs Team Yandex | Team Yandex (BUY) | 55% | 5.00 | 89.3% | ⏳ pendiente | — |
