@@ -23305,13 +23305,15 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 2.91,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787388854.6313062,
-    "fills": 5
+    "fills": 5,
+    "fee_total_usd": 0.219,
+    "closed_price": 78
   },
   {
     "timestamp": 1787388186,
@@ -23434,5 +23436,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787390286.7354202,
     "fills": 8
+  },
+  {
+    "timestamp": 1787390376,
+    "timestamp_added": 1787390377.4535143,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-vsn2-ty-2026-08-22-game1",
+    "title": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "whale_usd": 1064.3066000000001,
+    "whale_pct": 2.119,
+    "whale_value_at_open": 50224.8585,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "IMAREALPERSON"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787390377.4535265,
+    "fills": 1
   }
 ]
