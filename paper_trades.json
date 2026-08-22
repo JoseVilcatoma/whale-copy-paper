@@ -23123,8 +23123,8 @@
     "title": "Dota 2: Nigma Galaxy vs BoomBoys (BO3) - The International Playoffs",
     "outcome": "BoomBoys",
     "side": "BUY",
-    "whale_usd": 14050.592,
-    "whale_pct": 507.04,
+    "whale_usd": 17064.602,
+    "whale_pct": 615.806,
     "whale_value_at_open": 2771.0996,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -23135,7 +23135,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787383950.2589648,
-    "fills": 4
+    "last_fill_at": 1787384067.6238768,
+    "fills": 5
   }
 ]
