@@ -1,5 +1,5 @@
 {
-  "bankroll": 415.3705933415369,
+  "bankroll": 418.97760479875143,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4465,6 +4465,21 @@
       "timestamp": 1787374738.2491968,
       "bankroll": 415.37,
       "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: Team Spirit vs Team Liquid - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787375679.442407,
+      "bankroll": 419.03,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Audax CS Italiano win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787375679.5425773,
+      "bankroll": 413.9,
+      "event": "lost: kluckkluck \u2014 Will Audax CS Italiano win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787375679.8414197,
+      "bankroll": 418.98,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Club Le\u00f3n FC vs. CF Monterrey: O/U 2.5"
     }
   ]
 }
