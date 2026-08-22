@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 06:29:31 (hora de Perú)
+Actualizado: 2026-08-22 06:31:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $439.30
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 06:29:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $209.30)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $204.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ChonkyChocolateCake | 8 | 5 | 6 | +0.13 USD |
+| ChonkyChocolateCake | 8 | 5 | 7 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -250,6 +250,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | LoL: DN SOOPers vs Kiwoom DRX - Game 1 W | DN SOOPers (BUY) | 59% | 5.00 | 30.2% | ⏳ pendiente | — |
 | RN1 | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Roehampton: Oliver Tarvet vs Lucas Poull | Oliver Tarvet (BUY) | 70% | 5.00 | 3.5% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Will Vietnam win on 2026-08-22? | Yes (BUY) | 43% | 5.00 | 21.2% | ⏳ pendiente | — |
@@ -279,4 +280,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: TEAM VISION vs Team Yandex - Gam | Team Yandex (BUY) | 51% | 5.00 | 167.0% | ❌ perdida | -5.12 |
 | MisterVision | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Gen.G (BUY) | 59% | 5.00 | 28.7% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: DN SOOPers vs Kiwoom DRX (BO3) - LC | DN SOOPers (BUY) | 56% | 5.00 | 23.6% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | LoL: Dplus KIA vs Gen.G - Game 2 Winner | Dplus KIA (BUY) | 42% | 5.00 | 21.2% | ⏳ pendiente | — |

@@ -24079,5 +24079,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787398050.2554026,
     "fills": 4
+  },
+  {
+    "timestamp": 1787398289,
+    "timestamp_added": 1787398289.7619095,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-dnf-drx-2026-08-22-game1",
+    "title": "LoL: DN SOOPers vs Kiwoom DRX - Game 1 Winner",
+    "outcome": "DN SOOPers",
+    "side": "BUY",
+    "whale_usd": 11600.0,
+    "whale_pct": 30.238,
+    "whale_value_at_open": 38361.8374,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787398289.761924,
+    "fills": 1
   }
 ]
