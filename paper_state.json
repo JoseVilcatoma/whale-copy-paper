@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.28272016280783,
+  "bankroll": 441.2853435584527,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4855,6 +4855,41 @@
       "timestamp": 1787412076.8992999,
       "bankroll": 436.28,
       "event": "lost: RN1 \u2014 Will Hull City AFC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787412380.35493,
+      "bankroll": 440.1,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 LoL: DN SOOPers vs Kiwoom DRX (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1787412381.668021,
+      "bankroll": 443.47,
+      "event": "won: MisterVision \u2014 LoL: DN SOOPers vs Kiwoom DRX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787412381.927477,
+      "bankroll": 438.39,
+      "event": "lost: RN1 \u2014 Will Millwall FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787412382.8119595,
+      "bankroll": 439.37,
+      "event": "won: RN1 \u2014 Will Norwich City FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787412382.9121122,
+      "bankroll": 442.88,
+      "event": "won: RN1 \u2014 Will Millwall FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787412383.195431,
+      "bankroll": 437.77,
+      "event": "lost: RN1 \u2014 Millwall FC vs. Norwich City FC: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1787412383.7349286,
+      "bankroll": 441.29,
+      "event": "won: Sunshine.Smile \u2014 LoL: DN SOOPers vs Kiwoom DRX - Game 2 Winner"
     }
   ]
 }
