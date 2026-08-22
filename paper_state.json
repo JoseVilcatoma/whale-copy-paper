@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.9761011342103,
+  "bankroll": 449.1203603934696,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4900,6 +4900,11 @@
       "timestamp": 1787414217.133989,
       "bankroll": 444.98,
       "event": "won: RN1 \u2014 Will Portsmouth FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787414534.1639924,
+      "bankroll": 449.12,
+      "event": "won: casualbet2020 \u2014 Valorant: Team Liquid vs Eintracht Frankfurt - Map 2 Winner"
     }
   ]
 }

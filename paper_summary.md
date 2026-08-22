@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 11:01:48 (hora de Perú)
+Actualizado: 2026-08-22 11:03:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $444.98
-**Retorno acumulado:** -11.00%
+**Bankroll actual:** $449.12
+**Retorno acumulado:** -10.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 11:01:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $244.98)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $254.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 8 | 2 | 2 | +19.47 USD |
+| casualbet2020 | 9 | 2 | 1 | +23.61 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 16 | 7 | 2 | +18.09 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 4 | 0 | 6 | +15.05 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -63,14 +63,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 941
-- **Aciertos:** 593 (63.0%)
+- **Apuestas resueltas:** 942
+- **Aciertos:** 594 (63.1%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,700.45
-- **ROI sobre lo apostado:** -2.41%
-- **Comisiones pagadas (taker fee):** $87.27 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.55% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,705.45
+- **ROI sobre lo apostado:** -2.32%
+- **Comisiones pagadas (taker fee):** $87.38 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.46% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -78,7 +78,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 476 | 47.9% | 50.2% | -2.3 pp |
+| 40-59% | 477 | 48.0% | 50.3% | -2.2 pp |
 | 60-79% | 297 | 71.7% | 67.7% | +4.1 pp |
 | 80-94% | 111 | 87.4% | 86.6% | +0.7 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
@@ -266,7 +266,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 70% | 5.00 | 34.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 72% | 5.00 | 144.1% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 73% | 5.00 | 3.9% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Team Liquid vs Eintracht Frank | Team Liquid (BUY) | 54% | 5.00 | 198.5% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Team Liquid vs Eintracht Frank | Team Liquid (BUY) | 54% | 5.00 | 198.5% | ✅ ganada | +4.14 |
 | SDTrading | Spread: IND (-3.5) | IND (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: FNC (-1.5) vs Shifters (+ | Fnatic (BUY) | 52% | 5.00 | 28.1% | ⏳ pendiente | — |
 | HomeRunHazard | San Francisco Giants vs. Boston Red Sox: | Under (BUY) | 56% | 5.00 | 5.0% | ⏳ pendiente | — |
