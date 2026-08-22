@@ -1,5 +1,5 @@
 {
-  "bankroll": 513.1762137852473,
+  "bankroll": 508.0592137852473,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5270,6 +5270,11 @@
       "timestamp": 1787441167.7999892,
       "bankroll": 513.18,
       "event": "won: HomeRunHazard \u2014 Cincinnati Open: Jessica Pegula vs Iga Swiatek"
+    },
+    {
+      "timestamp": 1787441475.5214307,
+      "bankroll": 508.06,
+      "event": "lost: SDTrading \u2014 Spread: IND (-3.5)"
     }
   ]
 }

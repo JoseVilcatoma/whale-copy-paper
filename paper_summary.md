@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 18:29:23 (hora de Perú)
+Actualizado: 2026-08-22 18:31:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $513.18
-**Retorno acumulado:** +2.64%
+**Bankroll actual:** $508.06
+**Retorno acumulado:** +1.61%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 18:29:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $263.18)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $263.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| SDTrading | 14 | 11 | 4 | +5.09 USD |
 | Djdjdjekekek | 10 | 6 | 1 | +5.06 USD |
 | kekasaur | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -46,6 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | WTSA | 0 | 0 | 1 | +0.00 USD |
+| SDTrading | 14 | 12 | 3 | -0.03 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | ChonkyChocolateCake | 14 | 9 | 4 | -2.81 USD |
@@ -66,14 +66,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1004
+- **Apuestas resueltas:** 1005
 - **Aciertos:** 638 (63.5%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,015.45
-- **ROI sobre lo apostado:** -1.06%
-- **Comisiones pagadas (taker fee):** $93.34 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,020.45
+- **ROI sobre lo apostado:** -1.16%
+- **Comisiones pagadas (taker fee):** $93.45 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.70% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,7 +81,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 508 | 49.2% | 50.2% | -1.0 pp |
+| 40-59% | 509 | 49.1% | 50.3% | -1.1 pp |
 | 60-79% | 322 | 71.4% | 67.8% | +3.6 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
