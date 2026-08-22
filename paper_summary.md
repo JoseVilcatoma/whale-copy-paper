@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 05:03:48 (hora de Perú)
+Actualizado: 2026-08-22 05:05:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 05:03:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $271.18)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $266.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| ChonkyChocolateCake | 8 | 5 | 3 | +0.13 USD |
+| ChonkyChocolateCake | 8 | 5 | 4 | +0.13 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | SDTrading | 12 | 11 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -247,6 +247,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | LoL: MVK Esports vs GAM Esports - Game 2 | GAM Esports (BUY) | 59% | 5.00 | 17.9% | ⏳ pendiente | — |
 | RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 70% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Phoenix Mercury | Atlanta Dream (BUY) | 66% | 5.00 | 4.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 68% | 5.00 | 74.1% | ⏳ pendiente | — |
@@ -276,4 +277,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 55% | 5.00 | 133.9% | 💰 vendida anticipada | -0.13 |
 | BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 112.8% | ❌ perdida | -5.12 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Club Tijuana win on 2026-08-22? | No (BUY) | 85% | 5.00 | 8.3% | ⏳ pendiente | — |
-| HomeRunHazard | Indiana Fever vs. New York Liberty: O/U  | Under (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |

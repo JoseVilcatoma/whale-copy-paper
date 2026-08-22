@@ -23663,5 +23663,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787392989.0699527,
     "fills": 3
+  },
+  {
+    "timestamp": 1787393080,
+    "timestamp_added": 1787393080.7675288,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-mvk-gam-2026-08-22-game2",
+    "title": "LoL: MVK Esports vs GAM Esports - Game 2 Winner",
+    "outcome": "GAM Esports",
+    "side": "BUY",
+    "whale_usd": 4073.3399999999997,
+    "whale_pct": 17.906,
+    "whale_value_at_open": 22747.8537,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787393080.7675436,
+    "fills": 1
   }
 ]
