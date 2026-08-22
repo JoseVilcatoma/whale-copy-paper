@@ -23008,5 +23008,29 @@
     "fills": 1,
     "fee_total_usd": 0.224,
     "closed_price": 56
+  },
+  {
+    "timestamp": 1787382609,
+    "timestamp_added": 1787382610.4724817,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "lol-we-lgd-2026-08-22-game1",
+    "title": "LoL: Team WE vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 3760.0,
+    "whale_pct": 42.727,
+    "whale_value_at_open": 8800,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787382610.4724941,
+    "fills": 1
   }
 ]
