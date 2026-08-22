@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 17:02:34 (hora de Perú)
+Actualizado: 2026-08-22 17:04:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $506.23
-**Retorno acumulado:** +1.25%
+**Bankroll actual:** $505.94
+**Retorno acumulado:** +1.19%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 17:02:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $281.23)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $290.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 24 | 8 | 3 | +28.45 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 24 | 8 | 4 | +28.45 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 3 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
@@ -53,26 +53,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 2 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 65 | 35 | 21 | -7.51 USD |
 | ChonkyChocolateCake | 13 | 9 | 5 | -7.89 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 15 | 2 | -9.95 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Sassy-Bucket | 9 | 14 | 1 | -30.65 USD |
+| HomeRunHazard | 66 | 36 | 19 | -10.65 USD |
+| Sassy-Bucket | 10 | 14 | 0 | -27.81 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 990
-- **Aciertos:** 629 (63.5%)
+- **Apuestas resueltas:** 993
+- **Aciertos:** 631 (63.5%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,945.45
+- **Total apostado (suma de stakes):** $4,960.45
 - **ROI sobre lo apostado:** -1.20%
-- **Comisiones pagadas (taker fee):** $91.95 (1.86% del capital apostado)
+- **Comisiones pagadas (taker fee):** $92.22 (1.86% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -81,8 +81,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 501 | 49.1% | 50.2% | -1.1 pp |
-| 60-79% | 315 | 71.4% | 67.7% | +3.7 pp |
+| 40-59% | 502 | 49.0% | 50.2% | -1.2 pp |
+| 60-79% | 317 | 71.6% | 67.7% | +3.9 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
 | 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
 
@@ -265,6 +265,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas (BO3) - LCS R | Disguised (BUY) | 49% | 5.00 | 10.4% | ⏳ pendiente | — |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 52% | 5.00 | 26.5% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 9.4% | ⏳ pendiente | — |
@@ -289,9 +290,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | WTSA | Will SC Internacional win on 2026-08-22? | Yes (BUY) | 53% | 5.00 | 213.3% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 91% | 5.00 | 19.2% | 💰 vendida anticipada | +0.41 |
-| Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 201.4% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 201.4% | ✅ ganada | +2.84 |
 | MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 65% | 5.00 | 64.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Toronto Blue Jays (BUY) | 71% | 5.00 | 3.9% | ❌ perdida | -5.07 |
 | HomeRunHazard | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 50% | 5.00 | 1.9% | ✅ ganada | +4.88 |
 | HomeRunHazard | Cincinnati Open: Jessica Pegula vs Iga S | Jessica Pegula (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open, Qualification: Caroline  | Darja Vidmanova (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
