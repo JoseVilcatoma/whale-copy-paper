@@ -24879,5 +24879,32 @@
     "fills": 2,
     "fee_total_usd": 0.12,
     "closed_price": 84
+  },
+  {
+    "timestamp": 1787407606,
+    "timestamp_added": 1787407606.5484104,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-furia-fut-2026-08-22",
+    "title": "Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs",
+    "outcome": "FUT Esports",
+    "side": "BUY",
+    "whale_usd": 1051192.4413590003,
+    "whale_pct": 276.144,
+    "whale_value_at_open": 380668.8246,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BOOMBOYS.Kiritych",
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787407649.9732869,
+    "fills": 4
   }
 ]
