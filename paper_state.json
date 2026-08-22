@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.0056413474712,
+  "bankroll": 504.78695641596437,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5180,6 +5180,11 @@
       "timestamp": 1787433888.5521197,
       "bankroll": 503.01,
       "event": "won: kekasaur \u2014 Will Gimnasia y Esgrima de La Plata win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787435258.823754,
+      "bankroll": 504.79,
+      "event": "won: Sunshine.Smile \u2014 LoL: paiN Gaming vs FURIA Esports - Game 2 Winner"
     }
   ]
 }
