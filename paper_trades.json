@@ -23567,5 +23567,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787391675.773354,
     "fills": 2
+  },
+  {
+    "timestamp": 1787392185,
+    "timestamp_added": 1787392186.1852267,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-vsn2-ty-2026-08-22",
+    "title": "Dota 2: TEAM VISION vs Team Yandex (BO3) - The International Playoffs",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "whale_usd": 19631.898,
+    "whale_pct": 13.458,
+    "whale_value_at_open": 145876.5512,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787392240.377211,
+    "fills": 3
   }
 ]
