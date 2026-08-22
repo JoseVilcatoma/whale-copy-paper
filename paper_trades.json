@@ -23042,8 +23042,8 @@
     "title": "LoL: Team WE vs LGD Gaming - Game 1 Winner",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 2931.492393,
-    "whale_pct": 9.54,
+    "whale_usd": 4077.276393,
+    "whale_pct": 13.269,
     "whale_value_at_open": 30727.8153,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -23056,7 +23056,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787382749.9136808,
-    "fills": 3
+    "last_fill_at": 1787382891.974526,
+    "fills": 4
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 02:14:14 (hora de Perú)
+Actualizado: 2026-08-22 02:16:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.06
@@ -244,7 +244,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 43% | 5.00 | 9.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 43% | 5.00 | 13.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | LoL: Team WE vs LGD Gaming - Game 1 Winn | LGD Gaming (BUY) | 48% | 5.00 | 42.7% | ⏳ pendiente | — |
 | IMAREALPERSON | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 55% | 5.00 | 133.9% | 💰 vendida anticipada | -0.13 |
 | BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 112.8% | ⏳ pendiente | — |
