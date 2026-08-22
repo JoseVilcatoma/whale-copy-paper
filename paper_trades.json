@@ -23420,8 +23420,8 @@
     "title": "Dota 2: TEAM VISION vs Team Yandex - Game 1 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 1978.1750000000002,
-    "whale_pct": 17.858,
+    "whale_usd": 13502.341176000002,
+    "whale_pct": 121.892,
     "whale_value_at_open": 11077.3118,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -23432,7 +23432,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787389831.5233529,
-    "fills": 2
+    "last_fill_at": 1787390015.8360996,
+    "fills": 6
   }
 ]
