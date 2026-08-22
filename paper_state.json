@@ -1,5 +1,5 @@
 {
-  "bankroll": 432.57529315093365,
+  "bankroll": 430.69834870648924,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4525,6 +4525,21 @@
       "timestamp": 1787377903.0350802,
       "bankroll": 432.58,
       "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787377961.3922398,
+      "bankroll": 435.3,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 9.5"
+    },
+    {
+      "timestamp": 1787377961.5782192,
+      "bankroll": 435.83,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers"
+    },
+    {
+      "timestamp": 1787377962.0668445,
+      "bankroll": 430.7,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers"
     }
   ]
 }
