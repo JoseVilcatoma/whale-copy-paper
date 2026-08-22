@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 03:38:54 (hora de Perú)
+Actualizado: 2026-08-22 03:41:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 03:38:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $328.99)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $323.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 7 | 3 | 1 | +11.84 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 3 | 0 | 6 | +11.23 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 11 | 7 | 0 | +7.12 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 11 | 7 | 1 | +7.12 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -245,6 +245,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming (BO3) - LPL G | LGD Gaming (BUY) | 48% | 5.00 | 28.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Ueberlingen Men: Nicola Senn vs  | Tymur Bieldiugin (BUY) | 69% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team WE vs LGD Gaming - Game 2 Winn | LGD Gaming (BUY) | 50% | 5.00 | 1.2% | 💰 vendida anticipada | +4.35 |
 | MisterVision | LoL: Dplus KIA vs Gen.G - Game 1 Winner | Gen.G (BUY) | 66% | 5.00 | 86.7% | ⏳ pendiente | — |
@@ -274,4 +275,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago Cubs vs. Seattle Mariners: O/U 9 | Under (BUY) | 69% | 5.00 | 1.7% | ❌ perdida | -5.08 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Pittsburgh Pirates (BUY) | 70% | 5.00 | 0.6% | ✅ ganada | +2.07 |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Pittsburgh Pirates (BUY) | 43% | 5.00 | 2.0% | ✅ ganada | +6.48 |
-| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Over (BUY) | 51% | 5.00 | 0.7% | ✅ ganada | +4.68 |
