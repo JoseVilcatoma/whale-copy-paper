@@ -23883,5 +23883,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787396441.9353154,
     "fills": 1
+  },
+  {
+    "timestamp": 1787396732,
+    "timestamp_added": 1787396732.9066875,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-simonss-guttau-2026-08-22",
+    "title": "ITF M15 B\u00e5stad Men: Jan Simonsson vs Niklas Guttau",
+    "outcome": "Jan Simonsson",
+    "side": "BUY",
+    "whale_usd": 967.204,
+    "whale_pct": 1.188,
+    "whale_value_at_open": 81408.2369,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787396732.9066987,
+    "fills": 1
   }
 ]
