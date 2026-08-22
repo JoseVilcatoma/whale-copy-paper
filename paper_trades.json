@@ -22128,5 +22128,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787357962.226524,
     "fills": 1
+  },
+  {
+    "timestamp": 1787359640,
+    "timestamp_added": 1787359641.168208,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-daniel-fearnle-2026-08-21",
+    "title": "Quebec City: Taro Daniel vs Jacob Fearnley",
+    "outcome": "Taro Daniel",
+    "side": "BUY",
+    "whale_usd": 28209.4272,
+    "whale_pct": 1283.997,
+    "whale_value_at_open": 2197.0014,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787359648.4463463,
+    "fills": 2
   }
 ]
