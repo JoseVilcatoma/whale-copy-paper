@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-21 21:25:53 (hora de Perú)
+Actualizado: 2026-08-21 21:27:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $441.42
-**Retorno acumulado:** -11.72%
+**Bankroll actual:** $431.16
+**Retorno acumulado:** -13.77%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-21 21:25:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $336.42)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $336.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,21 +54,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | HomeRunHazard | 36 | 20 | 0 | -12.70 USD |
-| Sassy-Bucket | 8 | 11 | 4 | -19.95 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 0 | -27.05 USD |
+| Sassy-Bucket | 8 | 13 | 2 | -30.21 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 128 | 63 | 3 | -51.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 847
-- **Aciertos:** 536 (63.3%)
+- **Apuestas resueltas:** 849
+- **Aciertos:** 536 (63.1%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $4,230.45
-- **ROI sobre lo apostado:** -2.36%
-- **Comisiones pagadas (taker fee):** $78.00 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.52% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,240.45
+- **ROI sobre lo apostado:** -2.60%
+- **Comisiones pagadas (taker fee):** $78.26 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -76,7 +76,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 424 | 47.2% | 50.1% | -2.9 pp |
+| 40-59% | 426 | 46.9% | 50.1% | -3.2 pp |
 | 60-79% | 265 | 73.2% | 67.7% | +5.5 pp |
 | 80-94% | 102 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 56 | 96.4% | 97.3% | -0.9 pp |
@@ -240,7 +240,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 534.4% | ⏳ pendiente | — |
+| kluckkluck | Will CF América win on 2026-08-21? | No (BUY) | 42% | 5.00 | 585.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Club León FC vs. CF Monterrey: O/U 2.5 | Under (BUY) | 49% | 5.00 | 5.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 46% | 5.00 | 25.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: FURIA Esports vs Evil Geniuses | Evil Geniuses (BUY) | 52% | 5.00 | 45.9% | ⏳ pendiente | — |
@@ -261,10 +261,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | San Francisco Giants vs. Boston Red Sox: | Over (BUY) | 48% | 5.00 | 14.4% | ✅ ganada | +5.29 |
 | ferrariChampions2026 | Valorant: MIBR vs Team Envy (BO3) - VCT  | MIBR (BUY) | 68% | 5.00 | 3.0% | ✅ ganada | +2.27 |
 | ferrariChampions2026 | Cancun: Roman Safiullin vs Hubert Hurkac | Hubert Hurkacz (BUY) | 83% | 5.00 | 3.3% | ✅ ganada | +0.98 |
-| Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 44% | 5.00 | 5.4% | ⏳ pendiente | — |
+| Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 44% | 5.00 | 5.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | Valorant: MIBR vs Team Envy - Map 2 Winn | MIBR (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 55% | 5.00 | 0.3% | ✅ ganada | +3.98 |
-| Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 52% | 5.00 | 9.1% | ⏳ pendiente | — |
+| Sassy-Bucket | Washington Nationals vs. Miami Marlins:  | Over (BUY) | 52% | 5.00 | 9.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Quebec City: Zizou Bergs vs Stefanos Sak | Zizou Bergs (BUY) | 81% | 5.00 | 2.5% | ❌ perdida | -5.05 |
 | Sassy-Bucket | Cleveland Guardians vs. Colorado Rockies | Under (BUY) | 51% | 5.00 | 56.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Bilibili Gaming vs TYLOO (BO5) | TYLOO (BUY) | 58% | 5.00 | 34.5% | ⏳ pendiente | — |

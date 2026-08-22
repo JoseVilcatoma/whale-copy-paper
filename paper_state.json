@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.4234198786573,
+  "bankroll": 431.1634198786573,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4370,6 +4370,16 @@
       "timestamp": 1787364978.1208296,
       "bankroll": 441.42,
       "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787365602.7057142,
+      "bankroll": 436.3,
+      "event": "lost: Sassy-Bucket \u2014 Washington Nationals vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1787365603.0735326,
+      "bankroll": 431.16,
+      "event": "lost: Sassy-Bucket \u2014 Washington Nationals vs. Miami Marlins: O/U 8.5"
     }
   ]
 }
