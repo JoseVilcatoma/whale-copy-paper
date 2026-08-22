@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 15:33:11 (hora de Perú)
+Actualizado: 2026-08-22 15:35:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $473.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 15:33:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $218.40)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $213.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 53 | 29 | 32 | -18.27 USD |
+| HomeRunHazard | 53 | 29 | 33 | -18.27 USD |
 | Sassy-Bucket | 9 | 14 | 1 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
@@ -262,7 +262,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 91% | 5.00 | 10.9% | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 91% | 5.00 | 19.2% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC Fight Night: Wes Schultz vs. Jackson | Jackson McVey (BUY) | 63% | 5.00 | 14.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Sentinels vs FlyQuest - Game 1 Winn | Sentinels (BUY) | 65% | 5.00 | 64.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Toronto Blue Jays (BUY) | 71% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -291,4 +292,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: SK Gaming vs Movistar KOI - Game 2  | SK Gaming (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Open: Flavio Cobolli vs Arthu | Arthur Fils (BUY) | 73% | 5.00 | 24.3% | ✅ ganada | +1.78 |
 | HomeRunHazard | Spread: Toronto Blue Jays (-1.5) | New York Yankees (BUY) | 66% | 5.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Connecticut Sun vs. Los Angeles Sparks:  | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
