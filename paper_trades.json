@@ -26911,5 +26911,29 @@
     "fills": 1,
     "fee_total_usd": 0.204,
     "closed_price": 52
+  },
+  {
+    "timestamp": 1787436852,
+    "timestamp_added": 1787436853.2357416,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-furia-lgc-2026-08-23",
+    "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "whale_usd": 848.994,
+    "whale_pct": 2.361,
+    "whale_value_at_open": 35964.2859,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787436853.235755,
+    "fills": 1
   }
 ]
