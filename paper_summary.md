@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 04:53:33 (hora de Perú)
+Actualizado: 2026-08-22 04:55:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 04:53:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $286.18)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $271.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
-| Djdjdjekekek | 8 | 5 | 1 | +2.97 USD |
+| Djdjdjekekek | 8 | 5 | 2 | +2.97 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -53,11 +53,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| HomeRunHazard | 45 | 26 | 3 | -17.12 USD |
+| HomeRunHazard | 45 | 26 | 4 | -17.12 USD |
 | danielwolfmorales3pddb6dl6 | 7 | 11 | 4 | -27.05 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
-| RN1 | 128 | 63 | 5 | -51.21 USD |
+| RN1 | 128 | 63 | 6 | -51.21 USD |
 
 ## Análisis general
 
@@ -247,6 +247,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 70% | 5.00 | 3.7% | ⏳ pendiente | — |
+| HomeRunHazard | Atlanta Dream vs. Phoenix Mercury | Atlanta Dream (BUY) | 66% | 5.00 | 2.2% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex - Gam | TEAM VISION (BUY) | 68% | 5.00 | 50.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Yandex (BO3) | TEAM VISION (BUY) | 92% | 5.00 | 14.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Sparks (-3.5) | Connecticut Sun (BUY) | 46% | 5.00 | 3.1% | ⏳ pendiente | — |
 | IMAREALPERSON | LoL: Ninjas in Pyjamas vs Invictus Gamin | Invictus Gaming (BUY) | 54% | 5.00 | 12.2% | ⏳ pendiente | — |
@@ -274,6 +277,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 53% | 5.00 | 112.8% | ❌ perdida | -5.12 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Club Tijuana win on 2026-08-22? | No (BUY) | 85% | 5.00 | 8.3% | ⏳ pendiente | — |
 | HomeRunHazard | Indiana Fever vs. New York Liberty: O/U  | Under (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Everton FC vs. Crystal Palace FC: O/U 9. | Over (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: Nigma Galaxy vs BoomBoys - Game  | BoomBoys (BUY) | 66% | 5.00 | 167.3% | ✅ ganada | +2.49 |
