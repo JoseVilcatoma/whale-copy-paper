@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 12:09:57 (hora de Perú)
+Actualizado: 2026-08-22 12:12:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $459.79
-**Retorno acumulado:** -8.04%
+**Bankroll actual:** $466.83
+**Retorno acumulado:** -6.63%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 12:09:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $284.79)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $296.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 12 | 11 | 4 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| danielwolfmorales3pddb6dl6 | 14 | 14 | 3 | -4.84 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Wiretransferxyz | 0 | 1 | 2 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -56,7 +57,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| danielwolfmorales3pddb6dl6 | 13 | 14 | 4 | -11.89 USD |
 | HomeRunHazard | 47 | 27 | 13 | -19.89 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
 | RN1 | 149 | 72 | 1 | -44.01 USD |
@@ -286,5 +286,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Brandon Nakashima vs Fr | Brandon Nakashima (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Prague 2: Chun-Hsin Tseng vs Jan Kumstat | Chun-Hsin Tseng (BUY) | 61% | 5.00 | 21.1% | ❌ perdida | -5.10 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Rochdale AFC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 1.4% | ✅ ganada | +5.51 |
-| danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 32.2% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Counter-Strike: FURIA vs FUT Esports (BO | FUT Esports (BUY) | 41% | 5.00 | 32.2% | 💰 vendida anticipada | +7.05 |
 | danielwolfmorales3pddb6dl6 | LoL: JD Gaming vs Top Esports - Game 1 W | JD Gaming (BUY) | 57% | 5.00 | 42.4% | ✅ ganada | +3.66 |

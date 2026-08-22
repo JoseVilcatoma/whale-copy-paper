@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.7869228085826,
+  "bankroll": 466.8340447598021,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -4940,6 +4940,11 @@
       "timestamp": 1787418585.7742257,
       "bankroll": 459.79,
       "event": "won: danielwolfmorales3pddb6dl6 \u2014 Will Vietnam win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787418699.4292274,
+      "bankroll": 466.83,
+      "event": "venta anticipada: danielwolfmorales3pddb6dl6 \u2014 Counter-Strike: FURIA vs FUT Esports (BO3) - Esports World Cup Playoffs (+7.05 USD)"
     }
   ]
 }
