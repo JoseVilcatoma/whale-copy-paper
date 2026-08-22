@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 10:09:55 (hora de Perú)
+Actualizado: 2026-08-22 10:12:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $436.17
-**Retorno acumulado:** -12.77%
+**Bankroll actual:** $440.36
+**Retorno acumulado:** -11.93%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 10:09:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $211.17)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $220.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,23 +54,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ChonkyChocolateCake | 11 | 9 | 1 | -13.33 USD |
+| ChonkyChocolateCake | 11 | 9 | 2 | -13.33 USD |
 | HomeRunHazard | 47 | 27 | 7 | -19.89 USD |
 | danielwolfmorales3pddb6dl6 | 10 | 14 | 6 | -25.85 USD |
 | Sassy-Bucket | 9 | 14 | 0 | -30.65 USD |
-| RN1 | 142 | 69 | 11 | -42.11 USD |
+| RN1 | 144 | 69 | 9 | -37.92 USD |
 |  | 26 | 20 | 0 | -48.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 928
-- **Aciertos:** 583 (62.8%)
+- **Apuestas resueltas:** 930
+- **Aciertos:** 585 (62.9%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $4,635.45
-- **ROI sobre lo apostado:** -2.63%
-- **Comisiones pagadas (taker fee):** $86.23 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.77% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $4,645.45
+- **ROI sobre lo apostado:** -2.53%
+- **Comisiones pagadas (taker fee):** $86.36 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.68% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -78,9 +78,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 470 | 47.4% | 50.2% | -2.7 pp |
+| 40-59% | 471 | 47.6% | 50.2% | -2.6 pp |
 | 60-79% | 294 | 72.1% | 67.6% | +4.5 pp |
-| 80-94% | 107 | 86.9% | 86.7% | +0.2 pp |
+| 80-94% | 108 | 87.0% | 86.8% | +0.3 pp |
 | 95-99% (casi seguro) | 57 | 96.5% | 97.2% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -250,12 +250,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | el1-don-bar-2026-08-22-don | RN1, crisp1973 |
 | atp-tarvet-poullai-2026-08-22 | HomeRunHazard, RN1 |
 | epl-hul-mun-2026-08-22-spread-away-1pt5 | RN1, danielwolfmorales3pddb6dl6 |
-| lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Sunshine.Smile |
+| lol-fnc-shft-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 70% | 5.00 | 34.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 72% | 5.00 | 66.9% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Fnatic vs Shifters - Game 1 Winner | Fnatic (BUY) | 73% | 5.00 | 3.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Eintracht Frank | Team Liquid (BUY) | 54% | 5.00 | 198.5% | ⏳ pendiente | — |
@@ -285,4 +286,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Manchester United FC win on 2026-08 | No (BUY) | 53% | 5.00 | 3.0% | ✅ ganada | +4.32 |
 | RN1 | Will Millwall FC win on 2026-08-22? | Yes (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Hull City AFC vs. Manchester United FC:  | Over (BUY) | 75% | 5.00 | 1.6% | ❌ perdida | -5.06 |
-| RN1 | Will Norwich City FC win on 2026-08-22? | No (BUY) | 83% | 5.00 | 0.4% | ⏳ pendiente | — |
