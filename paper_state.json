@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.4049674197432,
+  "bankroll": 525.3786887312186,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6095,6 +6095,16 @@
       "timestamp": 1787498288.2350879,
       "bankroll": 517.4,
       "event": "won: RN1 \u2014 Will Aston Villa FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787498792.4581752,
+      "bankroll": 520.5,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Manchester City FC vs. AFC Bournemouth: O/U 9.5 Total Corners"
+    },
+    {
+      "timestamp": 1787498795.37311,
+      "bankroll": 525.38,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Manchester City FC vs. AFC Bournemouth: O/U 10.5 Total Corners"
     }
   ]
 }
