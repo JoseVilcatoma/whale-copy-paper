@@ -1,5 +1,5 @@
 {
-  "bankroll": 572.1843901931676,
+  "bankroll": 580.0161997169771,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6560,6 +6560,26 @@
       "timestamp": 1787527230.2629852,
       "bankroll": 572.18,
       "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will HNK Hajduk Split win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787527535.1877782,
+      "bankroll": 576.0,
+      "event": "won: SDTrading \u2014 Cincinnati Reds vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787527535.5237443,
+      "bankroll": 570.91,
+      "event": "lost: HomeRunHazard \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1787527535.623891,
+      "bankroll": 574.73,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787527539.280494,
+      "bankroll": 580.02,
+      "event": "won: SDTrading \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5"
     }
   ]
 }

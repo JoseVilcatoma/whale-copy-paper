@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 18:23:55 (hora de Perú)
+Actualizado: 2026-08-23 18:25:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $572.18
-**Retorno acumulado:** +14.44%
+**Bankroll actual:** $580.02
+**Retorno acumulado:** +16.00%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 18:23:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $322.18)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $345.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,12 +27,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
+| SDTrading | 20 | 14 | 1 | +16.65 USD |
 | kekasaur | 3 | 0 | 2 | +15.34 USD |
-| ChonkyChocolateCake | 28 | 17 | 0 | +14.40 USD |
+| ChonkyChocolateCake | 28 | 17 | 1 | +14.40 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| SDTrading | 18 | 14 | 3 | +7.54 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -52,8 +52,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | Djdjdjekekek | 12 | 11 | 0 | -2.00 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| HomeRunHazard | 86 | 51 | 8 | -2.59 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| HomeRunHazard | 87 | 52 | 6 | -3.86 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1239
-- **Aciertos:** 790 (63.8%)
+- **Apuestas resueltas:** 1243
+- **Aciertos:** 793 (63.8%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,188.59
-- **ROI sobre lo apostado:** -0.02%
-- **Comisiones pagadas (taker fee):** $116.14 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.85% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,208.59
+- **ROI sobre lo apostado:** +0.10%
+- **Comisiones pagadas (taker fee):** $116.58 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,8 +84,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 650 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 373 | 71.0% | 67.7% | +3.4 pp |
+| 40-59% | 653 | 50.5% | 50.2% | +0.3 pp |
+| 60-79% | 374 | 70.9% | 67.7% | +3.2 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
 
@@ -306,6 +306,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: Dignitas vs FlyQuest - Game 2 Winne | FlyQuest (BUY) | 71% | 5.00 | 53.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 40.1% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Will Associação Chapecoense de Futebol v | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -335,4 +336,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 88% | 5.00 | 117.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 89% | 5.00 | 4.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 68% | 5.00 | 23.9% | 💰 vendida anticipada | +0.06 |
-|  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
