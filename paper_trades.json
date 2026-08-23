@@ -27654,8 +27654,8 @@
     "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 734551.3647429998,
-    "whale_pct": 351.625,
+    "whale_usd": 751855.5215429998,
+    "whale_pct": 359.908,
     "whale_value_at_open": 208901.8663,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -27666,8 +27666,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787456554.3227592,
-    "fills": 23
+    "last_fill_at": 1787456572.7191525,
+    "fills": 24
   },
   {
     "timestamp": 1787456447,
@@ -27704,8 +27704,8 @@
     "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 124865.30490000002,
-    "whale_pct": 74.317,
+    "whale_usd": 138804.86130000002,
+    "whale_pct": 82.614,
     "whale_value_at_open": 168016.2858,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -27719,7 +27719,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787456516.1986578,
-    "fills": 2
+    "last_fill_at": 1787456572.7182276,
+    "fills": 3
   }
 ]
