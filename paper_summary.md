@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 13:51:06 (hora de Perú)
+Actualizado: 2026-08-23 13:55:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $549.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 13:51:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $244.47)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $234.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,13 +21,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 6 | 8 | +43.85 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 6 | 9 | +43.85 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 41 | 17 | 2 | +38.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 10 | 1 | +24.65 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
-| kekasaur | 3 | 0 | 0 | +15.34 USD |
+| kekasaur | 3 | 0 | 1 | +15.34 USD |
 | ChonkyChocolateCake | 24 | 15 | 6 | +13.59 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | plonker2026 | 3 | 1 | 1 | +12.49 USD |
@@ -301,6 +301,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Red Bull Bragantino vs. Grêmio FBPA: O/U | Over (BUY) | 53% | 5.00 | 9.4% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will HNK Hajduk Split win on 2026-08-23? | No (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 68% | 5.00 | 3.6% | 💰 vendida anticipada | +0.44 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 74% | 5.00 | 8.8% | 💰 vendida anticipada | +1.41 |
 | Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ⏳ pendiente | — |
@@ -329,5 +331,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | RED Canids (BUY) | 61% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes (BUY) | 54% | 5.00 | 137.3% | ❌ perdida | -5.12 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 98% | 5.00 | 2.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 10.4% | 💰 vendida anticipada | +1.70 |
