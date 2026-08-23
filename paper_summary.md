@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 13:46:58 (hora de Perú)
+Actualizado: 2026-08-23 13:49:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $548.06
@@ -302,7 +302,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 68% | 5.00 | 3.6% | 💰 vendida anticipada | +0.44 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 74% | 5.00 | 4.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 74% | 5.00 | 8.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ⏳ pendiente | — |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ⏳ pendiente | — |
