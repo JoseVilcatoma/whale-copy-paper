@@ -29823,8 +29823,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 43523.501608000006,
-    "whale_pct": 287.395,
+    "whale_usd": 45497.762771,
+    "whale_pct": 300.432,
     "whale_value_at_open": 15144.1249,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -29837,8 +29837,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787483409.9260328,
-    "fills": 12
+    "last_fill_at": 1787483429.7756371,
+    "fills": 14
   },
   {
     "timestamp": 1787483078,
@@ -29914,5 +29914,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787483360.6083786,
     "fills": 1
+  },
+  {
+    "timestamp": 1787483510,
+    "timestamp_added": 1787483511.4001424,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-fox1-ns-2026-08-23-game2",
+    "title": "LoL: BNK FEARX vs Nongshim Red Force - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 4592.205,
+    "whale_pct": 19.36,
+    "whale_value_at_open": 23719.5371,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787483511.9830961,
+    "fills": 2
   }
 ]
