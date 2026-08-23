@@ -1,5 +1,5 @@
 {
-  "bankroll": 577.2993901931676,
+  "bankroll": 572.1843901931676,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6555,6 +6555,11 @@
       "timestamp": 1787526918.6487253,
       "bankroll": 577.3,
       "event": "lost: SDTrading \u2014 Minnesota Twins vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787527230.2629852,
+      "bankroll": 572.18,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will HNK Hajduk Split win on 2026-08-23?"
     }
   ]
 }
