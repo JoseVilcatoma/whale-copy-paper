@@ -29579,8 +29579,8 @@
     "title": "Will VfL Bochum win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2217.4480999999996,
-    "whale_pct": 7.885,
+    "whale_usd": 3013.9998239999995,
+    "whale_pct": 10.718,
     "whale_value_at_open": 28121.9883,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -29591,8 +29591,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787481132.3309875,
-    "fills": 1
+    "last_fill_at": 1787482705.3914645,
+    "fills": 2
   },
   {
     "timestamp": 1787481134,
@@ -29749,8 +29749,8 @@
     "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 42600.811100000006,
-    "whale_pct": 12.358,
+    "whale_usd": 48289.71110000001,
+    "whale_pct": 14.008,
     "whale_value_at_open": 344735.3298,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -29763,7 +29763,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787482537.565335,
-    "fills": 1
+    "last_fill_at": 1787482735.781384,
+    "fills": 2
   }
 ]

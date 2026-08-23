@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:58:01 (hora de Perú)
+Actualizado: 2026-08-23 06:00:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.87
@@ -283,14 +283,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 12.4% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 14.0% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force - G | Nongshim Red Force (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
-| plonker2026 | Will VfL Bochum win on 2026-08-23? | Yes (BUY) | 42% | 5.00 | 7.9% | ⏳ pendiente | — |
+| plonker2026 | Will VfL Bochum win on 2026-08-23? | Yes (BUY) | 42% | 5.00 | 10.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-8.5) | Seattle Storm (BUY) | 50% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will FC Nordsjælland win on 2026-08-23? | Yes (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
