@@ -31275,8 +31275,8 @@
     "title": "Manchester City FC vs. AFC Bournemouth: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 611.6,
-    "whale_pct": 0.296,
+    "whale_usd": 1247.914,
+    "whale_pct": 0.604,
     "whale_value_at_open": 206458.1553,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -31287,8 +31287,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787490598.9023952,
-    "fills": 1
+    "last_fill_at": 1787493118.3357775,
+    "fills": 2
   },
   {
     "timestamp": 1787490947,

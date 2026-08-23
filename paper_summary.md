@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:50:09 (hora de Perú)
+Actualizado: 2026-08-23 08:52:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.14
@@ -307,7 +307,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 7.2% | ⏳ pendiente | — |
