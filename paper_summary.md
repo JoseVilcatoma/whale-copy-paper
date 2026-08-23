@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 23:21:02 (hora de Perú)
+Actualizado: 2026-08-22 23:23:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $507.46
-**Retorno acumulado:** +1.49%
+**Bankroll actual:** $509.25
+**Retorno acumulado:** +1.85%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 23:21:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $412.46)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $419.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,11 +41,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
+| beachboy4 | 1 | 0 | 0 | +1.78 USD |
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | plonker2026 | 0 | 0 | 1 | +0.00 USD |
-| beachboy4 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1052
-- **Aciertos:** 664 (63.1%)
-- **Cuota promedio de entrada:** 62.4%
+- **Apuestas resueltas:** 1053
+- **Aciertos:** 665 (63.2%)
+- **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,255.45
-- **ROI sobre lo apostado:** -1.11%
-- **Comisiones pagadas (taker fee):** $98.70 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.76% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,260.45
+- **ROI sobre lo apostado:** -1.08%
+- **Comisiones pagadas (taker fee):** $98.77 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 547 | 49.4% | 50.3% | -0.9 pp |
-| 60-79% | 328 | 71.3% | 67.7% | +3.6 pp |
+| 60-79% | 329 | 71.4% | 67.7% | +3.7 pp |
 | 80-94% | 118 | 87.3% | 86.7% | +0.6 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
 
@@ -285,7 +285,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ❌ perdida | -5.04 |
 |  | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 63% | 5.00 | 0.5% | ✅ ganada | +2.84 |
-| beachboy4 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 73% | 5.00 | 549.8% | ⏳ pendiente | — |
+| beachboy4 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 73% | 5.00 | 549.8% | ✅ ganada | +1.78 |
 |  | Indiana Fever vs. New York Liberty | New York Liberty (BUY) | 93% | 5.00 | 3.6% | ✅ ganada | +0.36 |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit (BO3) | Team Spirit (BUY) | 70% | 5.00 | 7.8% | 💰 vendida anticipada | -0.44 |
 | plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 155.6% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.4644360837298,
+  "bankroll": 509.24575115222297,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5515,6 +5515,11 @@
       "timestamp": 1787458314.2273388,
       "bankroll": 507.46,
       "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 2.5"
+    },
+    {
+      "timestamp": 1787458943.3256793,
+      "bankroll": 509.25,
+      "event": "won: beachboy4 \u2014 Will Vancouver Whitecaps FC win on 2026-08-22?"
     }
   ]
 }
