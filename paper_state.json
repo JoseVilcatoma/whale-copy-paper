@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.3786887312186,
+  "bankroll": 539.477715444343,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6105,6 +6105,21 @@
       "timestamp": 1787498795.37311,
       "bankroll": 525.38,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Manchester City FC vs. AFC Bournemouth: O/U 10.5 Total Corners"
+    },
+    {
+      "timestamp": 1787499420.530741,
+      "bankroll": 532.43,
+      "event": "won: Djdjdjekekek \u2014 Will TEAM VISION Win The International 2026?"
+    },
+    {
+      "timestamp": 1787499423.4722607,
+      "bankroll": 535.66,
+      "event": "won: HomeRunHazard \u2014 KBO: LG Twins vs. Hanwha Eagles"
+    },
+    {
+      "timestamp": 1787499430.0927942,
+      "bankroll": 539.48,
+      "event": "won: RN1 \u2014 Will Lille OSC win on 2026-08-23?"
     }
   ]
 }
