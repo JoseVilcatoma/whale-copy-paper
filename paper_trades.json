@@ -32968,8 +32968,8 @@
     "title": "LoL: Disguised vs Sentinels - Game 1 Winner",
     "outcome": "Sentinels",
     "side": "BUY",
-    "whale_usd": 924.9975999999999,
-    "whale_pct": 11.513,
+    "whale_usd": 1577.5179999999998,
+    "whale_pct": 19.634,
     "whale_value_at_open": 8034.5295,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -32980,7 +32980,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787517172.0600688,
-    "fills": 1
+    "last_fill_at": 1787517320.5928109,
+    "fills": 2
   }
 ]

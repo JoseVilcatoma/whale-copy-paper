@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 15:33:47 (hora de Perú)
+Actualizado: 2026-08-23 15:35:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $571.76
@@ -301,7 +301,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 1 Win | Sentinels (BUY) | 96% | 5.00 | 11.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 1 Win | Sentinels (BUY) | 96% | 5.00 | 19.6% | ⏳ pendiente | — |
 |  | Torino FC vs. AC Milan: O/U 2.5 | Under (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 48% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 96% | 5.00 | 63.3% | 💰 vendida anticipada | +0.14 |
