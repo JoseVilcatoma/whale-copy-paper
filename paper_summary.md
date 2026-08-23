@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 20:05:44 (hora de Perú)
+Actualizado: 2026-08-22 20:07:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.66
-**Retorno acumulado:** +1.13%
+**Bankroll actual:** $510.16
+**Retorno acumulado:** +2.03%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 20:05:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $285.66)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $290.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| pleaseplease123 | 2 | 0 | 1 | +8.64 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Djdjdjekekek | 10 | 6 | 2 | +5.06 USD |
 | kekasaur | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| pleaseplease123 | 1 | 0 | 2 | +4.14 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | SDTrading | 15 | 12 | 2 | +3.79 USD |
 | Sunshine.Smile | 3 | 1 | 0 | +3.37 USD |
@@ -62,19 +62,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | HomeRunHazard | 69 | 40 | 12 | -14.72 USD |
 | Sassy-Bucket | 10 | 15 | 1 | -32.94 USD |
-|  | 26 | 20 | 0 | -48.67 USD |
+|  | 26 | 20 | 1 | -48.67 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1013
-- **Aciertos:** 643 (63.5%)
+- **Apuestas resueltas:** 1014
+- **Aciertos:** 644 (63.5%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,060.45
-- **ROI sobre lo apostado:** -1.20%
-- **Comisiones pagadas (taker fee):** $94.19 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,065.45
+- **ROI sobre lo apostado:** -1.11%
+- **Comisiones pagadas (taker fee):** $94.31 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -82,7 +82,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 513 | 49.1% | 50.3% | -1.1 pp |
+| 40-59% | 514 | 49.2% | 50.3% | -1.0 pp |
 | 60-79% | 325 | 71.4% | 67.8% | +3.6 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
@@ -269,6 +269,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Indiana Fever vs. New York Liberty | New York Liberty (BUY) | 93% | 5.00 | 3.6% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit (BO3) | Team Spirit (BUY) | 70% | 5.00 | 7.8% | ⏳ pendiente | — |
 | plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 105.5% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Spirit (B | Spirit (BUY) | 78% | 5.00 | 54.3% | ⏳ pendiente | — |
@@ -277,7 +278,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7 | Over (BUY) | 50% | 5.00 | 793.7% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CD Universidad Católica win on 2026 | No (BUY) | 46% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cruzeiro EC vs. CR Flamengo: O/U 8.5 Tot | Over (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
-| pleaseplease123 | New York Mets vs. Chicago White Sox: O/U | Over (BUY) | 52% | 5.00 | 1.9% | ⏳ pendiente | — |
+| pleaseplease123 | New York Mets vs. Chicago White Sox: O/U | Over (BUY) | 52% | 5.00 | 1.9% | ✅ ganada | +4.50 |
 | Sassy-Bucket | UFC Fight Night: Kennedy Nzechukwu vs. S | Kennedy Nzechukwu (BUY) | 47% | 5.00 | 36.5% | ❌ perdida | -5.13 |
 | Wiretransferxyz | Valorant: Sentinels vs KRÜ Esports (BO3) | Sentinels (BUY) | 60% | 5.00 | 35.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 57% | 5.00 | 41450.1% | ⏳ pendiente | — |
@@ -298,4 +299,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: BESTIA vs G2 Esports - Map 2 W | G2 Esports (BUY) | 71% | 5.00 | 14.3% | ✅ ganada | +1.97 |
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Dignitas (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 6.1% | 💰 vendida anticipada | +1.45 |
-| pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 50% | 5.00 | 221.5% | ⏳ pendiente | — |

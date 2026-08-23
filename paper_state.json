@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.66426462329815,
+  "bankroll": 510.1596492386828,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5315,6 +5315,11 @@
       "timestamp": 1787446394.7673604,
       "bankroll": 505.66,
       "event": "lost: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1787447194.9419012,
+      "bankroll": 510.16,
+      "event": "won: pleaseplease123 \u2014 New York Mets vs. Chicago White Sox: O/U 8.5"
     }
   ]
 }
