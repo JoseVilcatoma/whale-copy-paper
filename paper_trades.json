@@ -30172,8 +30172,8 @@
     "title": "Will Go Ahead Eagles vs. ADO Den Haag end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1304.9099999999999,
-    "whale_pct": 1.283,
+    "whale_usd": 2030.2469999999998,
+    "whale_pct": 1.995,
     "whale_value_at_open": 101742.2085,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -30184,8 +30184,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787485029.1163385,
-    "fills": 1
+    "last_fill_at": 1787485879.1339307,
+    "fills": 2
   },
   {
     "timestamp": 1787485060,
@@ -30281,6 +30281,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787485607.5580623,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787485820,
+    "timestamp_added": 1787485820.6168017,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "elc-wba-bur-2026-08-23-total-5pt5",
+    "title": "West Bromwich Albion FC vs. Burnley FC: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1438.617,
+    "whale_pct": 1.339,
+    "whale_value_at_open": 107436.7499,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787485820.6168098,
     "fills": 1
   }
 ]
