@@ -28986,5 +28986,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787476414.8010557,
     "fills": 2
+  },
+  {
+    "timestamp": 1787476696,
+    "timestamp_added": 1787476696.6862566,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-edg-jdg-2026-08-23-game-handicap-home-1pt5",
+    "title": "Game Handicap: JDG (-1.5) vs EDward Gaming (+1.5)",
+    "outcome": "EDward Gaming",
+    "side": "BUY",
+    "whale_usd": 3817.9134,
+    "whale_pct": 1.15,
+    "whale_value_at_open": 331946.3775,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787476696.686269,
+    "fills": 1
   }
 ]
