@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.00915580528687,
+  "bankroll": 491.3684998913084,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5360,6 +5360,11 @@
       "timestamp": 1787449602.0936906,
       "bankroll": 491.01,
       "event": "won: MisterVision \u2014 LoL: Disguised vs Dignitas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787449666.8919463,
+      "bankroll": 491.37,
+      "event": "won:  \u2014 Indiana Fever vs. New York Liberty"
     }
   ]
 }
