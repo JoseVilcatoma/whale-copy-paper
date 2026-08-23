@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:41:22 (hora de Perú)
+Actualizado: 2026-08-23 06:43:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.14
@@ -304,7 +304,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 61% | 5.00 | 300.4% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 61% | 5.00 | 71.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Young Boys Bern (-1.5) | FC Vaduz (BUY) | 44% | 5.00 | 2.4% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 16.9% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 17.2% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
