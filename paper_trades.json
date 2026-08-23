@@ -28802,8 +28802,8 @@
     "title": "Will SSV Jeddeloh II win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2452.288081,
-    "whale_pct": 8.185,
+    "whale_usd": 3161.767446,
+    "whale_pct": 10.553,
     "whale_value_at_open": 29960.9178,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -28814,8 +28814,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787484796.4193323,
-    "fills": 2
+    "last_fill_at": 1787487481.158883,
+    "fills": 3
   },
   {
     "timestamp": 1787473755,
@@ -30551,6 +30551,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787487205.3214877,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787487468,
+    "timestamp_added": 1787487469.387981,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "dfb-fur-boc-2026-08-23-spread-home-1pt5",
+    "title": "Spread: SpVgg Greuther F\u00fcrth (-1.5)",
+    "outcome": "VfL Bochum",
+    "side": "BUY",
+    "whale_usd": 1458.133096,
+    "whale_pct": 1.078,
+    "whale_value_at_open": 135239.665,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787487469.3879876,
     "fills": 1
   }
 ]
