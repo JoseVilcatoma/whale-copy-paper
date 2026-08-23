@@ -33204,5 +33204,32 @@
     "fills": 1,
     "fee_total_usd": 0.032,
     "closed_price": 92
+  },
+  {
+    "timestamp": 1787523199,
+    "timestamp_added": 1787523199.3009238,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "wta-gauff-pegula-2026-08-23",
+    "title": "Cincinnati Open: Coco Gauff vs Jessica Pegula",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "whale_usd": 4530.33322,
+    "whale_pct": 30.648,
+    "whale_value_at_open": 14781.8033,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+      "danielwolfmorales3pddb6dl6"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787523199.300933,
+    "fills": 1
   }
 ]
