@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 00:10:10 (hora de Perú)
+Actualizado: 2026-08-23 00:12:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $516.64
@@ -278,7 +278,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Atlas FC win on 2026-08-22? | Yes (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: Sharper Esport vs ONSIDE GAMIN | ONSIDE GAMING (BUY) | 54% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | CF Cruz Azul vs. Atlas FC: O/U 2.5 | Under (BUY) | 47% | 5.00 | 2.0% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 42% | 5.00 | 9040.8% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 42% | 5.00 | 12192.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Will TEAM VISION Win The International 2 | No (BUY) | 41% | 5.00 | 1033.8% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-4.5) | Portland Fire (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
