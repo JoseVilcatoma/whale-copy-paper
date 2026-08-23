@@ -32982,5 +32982,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787517320.5928109,
     "fills": 2
+  },
+  {
+    "timestamp": 1787517497,
+    "timestamp_added": 1787517497.6577022,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-fils-tiafoe-2026-08-23",
+    "title": "Cincinnati Open: Arthur Fils vs Frances Tiafoe",
+    "outcome": "Arthur Fils",
+    "side": "BUY",
+    "whale_usd": 570.499998,
+    "whale_pct": 0.593,
+    "whale_value_at_open": 96160.9077,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787517497.6577141,
+    "fills": 1
   }
 ]
