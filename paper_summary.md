@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 00:44:58 (hora de Perú)
+Actualizado: 2026-08-23 00:47:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.96
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 00:44:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $413.96)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $408.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 1 | +43.99 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 2 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 10 | 0 | +31.20 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
@@ -272,9 +272,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 43% | 5.00 | 5.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | Kokoro Isomura (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 15.1% | ⏳ pendiente | — |
+| Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 16.8% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -301,4 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 155.6% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Spirit (B | Spirit (BUY) | 78% | 5.00 | 54.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports - Map | KRÜ Esports (BUY) | 50% | 5.00 | 36.4% | ✅ ganada | +4.88 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Inter Miami CF (-1.5) | Toronto FC (BUY) | 48% | 5.00 | 12.8% | ✅ ganada | +5.29 |

@@ -28019,8 +28019,8 @@
     "title": "Counter-Strike: HOTU vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage",
     "outcome": "HOTU",
     "side": "BUY",
-    "whale_usd": 4901.8104,
-    "whale_pct": 15.138,
+    "whale_usd": 5434.9704,
+    "whale_pct": 16.784,
     "whale_value_at_open": 32381.2817,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -28031,8 +28031,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787463870.878875,
-    "fills": 4
+    "last_fill_at": 1787464015.054996,
+    "fills": 5
   },
   {
     "timestamp": 1787462198,
@@ -28080,6 +28080,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787462412.2388117,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787463937,
+    "timestamp_added": 1787463937.6165967,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "wta-gauff-pegula-2026-08-23",
+    "title": "Cincinnati Open: Coco Gauff vs Jessica Pegula",
+    "outcome": "Jessica Pegula",
+    "side": "BUY",
+    "whale_usd": 1248.6768,
+    "whale_pct": 5.627,
+    "whale_value_at_open": 22191.7218,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787463937.6166115,
     "fills": 1
   }
 ]
