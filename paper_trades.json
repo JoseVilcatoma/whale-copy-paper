@@ -33231,5 +33231,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787523452.5982852,
     "fills": 2
+  },
+  {
+    "timestamp": 1787524194,
+    "timestamp_added": 1787524195.557223,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "bra-cha-sao-2026-08-23-cha",
+    "title": "Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 964.6687919999999,
+    "whale_pct": 4.161,
+    "whale_value_at_open": 23182.8463,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787524195.5572338,
+    "fills": 1
   }
 ]
