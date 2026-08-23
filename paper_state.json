@@ -1,5 +1,5 @@
 {
-  "bankroll": 549.466632172466,
+  "bankroll": 555.2011973898573,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6300,6 +6300,11 @@
       "timestamp": 1787510981.4590666,
       "bankroll": 549.47,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Karmine Corp - Game 2 Winner (+1.41 USD)"
+    },
+    {
+      "timestamp": 1787511508.2146492,
+      "bankroll": 555.2,
+      "event": "won: Wiretransferxyz \u2014 Will Team Spirit Win the CS2 EWC 2026?"
     }
   ]
 }
