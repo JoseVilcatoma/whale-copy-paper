@@ -30769,8 +30769,8 @@
     "odds_at_bet": 92,
     "fee_usd": 0.02,
     "odds_ballena": 90,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.41,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -32196,8 +32196,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.7,
     "overlaps_with": [
       "MisterVision",
       "SPCEXBUYER"
@@ -32205,7 +32205,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787502296.922561,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.26,
+    "closed_price": 64
   },
   {
     "timestamp": 1787502380,

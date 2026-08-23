@@ -1,5 +1,5 @@
 {
-  "bankroll": 530.2231023861584,
+  "bankroll": 532.3341893426801,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6175,6 +6175,16 @@
       "timestamp": 1787501335.3269758,
       "bankroll": 530.22,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Counter-Strike: FUT Esports vs Spirit - Map 3 Winner"
+    },
+    {
+      "timestamp": 1787502535.7976494,
+      "bankroll": 531.92,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Heretics vs GIANTX - Game 2 Winner (+1.70 USD)"
+    },
+    {
+      "timestamp": 1787502575.322274,
+      "bankroll": 532.33,
+      "event": "won: RN1 \u2014 Will FC Groningen win on 2026-08-23?"
     }
   ]
 }

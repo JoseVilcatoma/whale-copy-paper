@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 11:27:55 (hora de Perú)
+Actualizado: 2026-08-23 11:29:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $530.22
-**Retorno acumulado:** +6.04%
+**Bankroll actual:** $532.33
+**Retorno acumulado:** +6.47%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 11:27:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $318.14 en 64 posiciones abiertas (disponible para nuevas apuestas: $212.08)
+**Capital comprometido ahora mismo:** $308.14 en 62 posiciones abiertas (disponible para nuevas apuestas: $224.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,8 +23,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 19 | 4 | 11 | +49.21 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 36 | 17 | 3 | +28.58 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 35 | 17 | 4 | +26.88 USD |
 | BOOMBOYS.Kiritych | 16 | 8 | 5 | +26.28 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
@@ -65,17 +65,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 0 | -25.33 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 195 | 91 | 8 | -61.49 USD |
+| RN1 | 196 | 91 | 7 | -61.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1170
-- **Aciertos:** 744 (63.6%)
+- **Apuestas resueltas:** 1171
+- **Aciertos:** 745 (63.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,845.45
-- **ROI sobre lo apostado:** -0.67%
-- **Comisiones pagadas (taker fee):** $109.12 (1.87% del capital apostado)
+- **Total apostado (suma de stakes):** $5,850.45
+- **ROI sobre lo apostado:** -0.66%
+- **Comisiones pagadas (taker fee):** $109.14 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -86,7 +86,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 605 | 49.8% | 50.2% | -0.5 pp |
 | 60-79% | 357 | 70.9% | 67.7% | +3.2 pp |
-| 80-94% | 141 | 89.4% | 86.9% | +2.5 pp |
+| 80-94% | 142 | 89.4% | 86.9% | +2.5 pp |
 | 95-99% (casi seguro) | 67 | 95.5% | 97.3% | -1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -298,7 +298,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | Fluxo W7M (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 46% | 5.00 | 1.8% | 💰 vendida anticipada | +1.70 |
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 2 Wi | GIANTX (BUY) | 57% | 5.00 | 15.3% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | RED Canids (BUY) | 61% | 5.00 | 2.1% | ⏳ pendiente | — |
