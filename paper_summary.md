@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:17:18 (hora de Perú)
+Actualizado: 2026-08-23 08:19:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.13
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 08:17:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $485.00 en 97 posiciones abiertas (disponible para nuevas apuestas: $45.13)
+**Capital comprometido ahora mismo:** $495.00 en 99 posiciones abiertas (disponible para nuevas apuestas: $35.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 163 | 78 | 44 | -51.66 USD |
+| RN1 | 163 | 78 | 46 | -51.66 USD |
 
 ## Análisis general
 
@@ -291,11 +291,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 88% | 5.00 | 5.1% | ⏳ pendiente | — |
+| RN1 | Angers SCO vs. Lille OSC: O/U 1.5 | Over (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Storm vs. Dallas Wings: O/U 173. | Under (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will LDU Quito win on 2026-08-23? | Yes (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -319,5 +321,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 32.9% | ⏳ pendiente | — |
 | RN1 | Will FC Groningen win on 2026-08-23? | No (BUY) | 92% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | Yes (BUY) | 97% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 43% | 5.00 | 2.7% | ⏳ pendiente | — |

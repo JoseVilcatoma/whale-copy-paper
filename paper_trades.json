@@ -31299,8 +31299,8 @@
     "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 8134.710557,
-    "whale_pct": 1.604,
+    "whale_usd": 8863.977557,
+    "whale_pct": 1.748,
     "whale_value_at_open": 507221.6426,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -31313,8 +31313,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787491027.0640447,
-    "fills": 4
+    "last_fill_at": 1787491111.8281507,
+    "fills": 5
   },
   {
     "timestamp": 1787490999,
@@ -31411,5 +31411,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787491024.872305,
     "fills": 1
+  },
+  {
+    "timestamp": 1787491091,
+    "timestamp_added": 1787491092.3666978,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "fl1-ang-lil-2026-08-23-total-1pt5",
+    "title": "Angers SCO vs. Lille OSC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1396.8,
+    "whale_pct": 0.602,
+    "whale_value_at_open": 232032.1541,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787491092.3667119,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787491093,
+    "timestamp_added": 1787491093.4306655,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "epl-bri-ast-2026-08-23-bri",
+    "title": "Will Brighton & Hove Albion FC win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 11740.490399999999,
+    "whale_pct": 5.06,
+    "whale_value_at_open": 232032.1541,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "plonker2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787491097.9419193,
+    "fills": 6
   }
 ]
