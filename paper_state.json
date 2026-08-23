@@ -1,5 +1,5 @@
 {
-  "bankroll": 537.3378264173699,
+  "bankroll": 544.0814336643226,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5895,6 +5895,21 @@
       "timestamp": 1787494473.6118712,
       "bankroll": 537.34,
       "event": "won: RN1 \u2014 Will Go Ahead Eagles win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787496308.3421357,
+      "bankroll": 542.62,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Game Handicap: JDG (-1.5) vs EDward Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1787496314.0008585,
+      "bankroll": 544.32,
+      "event": "won: MisterVision \u2014 LoL: EDward Gaming vs JD Gaming (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787496323.2743785,
+      "bankroll": 544.08,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend (-0.23 USD)"
     }
   ]
 }

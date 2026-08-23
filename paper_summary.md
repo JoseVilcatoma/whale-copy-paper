@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:43:25 (hora de Perú)
+Actualizado: 2026-08-23 09:45:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $537.34
-**Retorno acumulado:** +7.47%
+**Bankroll actual:** $544.08
+**Retorno acumulado:** +8.82%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:43:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $503.14 en 101 posiciones abiertas (disponible para nuevas apuestas: $34.20)
+**Capital comprometido ahora mismo:** $498.14 en 100 posiciones abiertas (disponible para nuevas apuestas: $45.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,13 +23,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 12 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 15 | 2 | +30.55 USD |
+| BOOMBOYS.Kiritych | 16 | 7 | 5 | +31.39 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 16 | 2 | +30.32 USD |
 | casualbet2020 | 13 | 4 | 1 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 15 | 7 | 5 | +26.10 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
+| ChonkyChocolateCake | 23 | 14 | 2 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| ChonkyChocolateCake | 22 | 14 | 3 | +11.72 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 6 | 3 | 0 | +9.80 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1116
-- **Aciertos:** 709 (63.5%)
+- **Apuestas resueltas:** 1118
+- **Aciertos:** 711 (63.6%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,575.45
-- **ROI sobre lo apostado:** -0.55%
-- **Comisiones pagadas (taker fee):** $104.40 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,585.45
+- **ROI sobre lo apostado:** -0.42%
+- **Comisiones pagadas (taker fee):** $104.60 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.45% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,8 +83,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 577 | 50.1% | 50.3% | -0.2 pp |
-| 60-79% | 346 | 70.5% | 67.7% | +2.8 pp |
+| 40-59% | 578 | 50.2% | 50.3% | -0.1 pp |
+| 60-79% | 347 | 70.6% | 67.7% | +2.9 pp |
 | 80-94% | 131 | 88.5% | 86.7% | +1.9 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
@@ -286,11 +286,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fox1-ns-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | lol-blg-al-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 | mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
+| lol-blg-al-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 17.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 25.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ⏳ pendiente | — |
@@ -319,5 +322,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Brighton & Hove Albion FC vs. Aston Vill | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Will AFC Bournemouth win on 2026-08-23? | No (BUY) | 89% | 5.00 | 3.0% | ⏳ pendiente | — |
-| SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | Will Lille OSC win on 2026-08-23? | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
