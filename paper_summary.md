@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 12:13:30 (hora de Perú)
+Actualizado: 2026-08-23 12:15:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $527.75
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 12:13:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $318.14 en 64 posiciones abiertas (disponible para nuevas apuestas: $209.61)
+**Capital comprometido ahora mismo:** $333.14 en 67 posiciones abiertas (disponible para nuevas apuestas: $194.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | pleaseplease123 | 2 | 1 | 3 | +3.52 USD |
-| SDTrading | 16 | 13 | 4 | +3.35 USD |
+| SDTrading | 16 | 13 | 5 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | HomeRunHazard | 77 | 47 | 18 | -18.08 USD |
-| danielwolfmorales3pddb6dl6 | 14 | 18 | 4 | -25.33 USD |
+| danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
 | RN1 | 196 | 91 | 7 | -61.08 USD |
@@ -273,6 +273,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-kisimov-juhas-2026-08-23 | , RN1 |
 | dota2-ty-ts8-2026-08-22-game2 | BOOMBOYS.Kiritych, Djdjdjekekek, MisterVision |
 | dota2-vsn2-ts8-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Djdjdjekekek |
+| wta-gauff-pegula-2026-08-23 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, danielwolfmorales3pddb6dl6 |
 | dota2-vsn2-ts8-2026-08-23-game1 | BOOMBOYS.Kiritych, MisterVision |
 | lol-tt-lgd-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | dota2-vsn2-ts8-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision |
@@ -287,7 +288,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fox1-ns-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | lol-blg-al-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 | mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
-| mlb-tb-bal-2026-08-23-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
+| mlb-tb-bal-2026-08-23-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading, pleaseplease123 |
 | lol-blg-al-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading, pleaseplease123 |
 | lol-th-gx-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
@@ -297,6 +298,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| danielwolfmorales3pddb6dl6 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 44% | 5.00 | 8.4% | ⏳ pendiente | — |
+| SDTrading | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 47% | 5.00 | 13.9% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tiafoe (+1. | Tiafoe (BUY) | 60% | 5.00 | 15.4% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins (BUY) | 43% | 5.00 | 22.6% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Winston-Salem Open: Martin Landaluce vs  | Martin Landaluce (BUY) | 54% | 5.00 | 5.3% | ⏳ pendiente | — |
@@ -324,6 +328,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 43.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
-| Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 104.9% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ❌ perdida | -5.10 |
-| RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
