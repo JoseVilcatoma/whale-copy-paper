@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:22:33 (hora de Perú)
+Actualizado: 2026-08-23 06:24:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $547.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:22:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $227.86)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $217.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| plonker2026 | 0 | 0 | 3 | +0.00 USD |
+| plonker2026 | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 46 | 15 | -16.19 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 160 | 77 | 12 | -50.50 USD |
+| RN1 | 160 | 77 | 13 | -50.50 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
 
 ## Análisis general
@@ -278,12 +278,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-fut-ts7-2026-08-23-map-handicap-home-1pt5 | BOOMBOYS.Kiritych, Wiretransferxyz |
 | lol-hle1-t1-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych |
 | dota2-vsn2-ts8-2026-08-23-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
+| dfb-fur-boc-2026-08-23-boc | RN1, plonker2026 |
 | dota2-vsn2-ts8-2026-08-23-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Sunshine.Smile |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will VfL Bochum win on 2026-08-23? | No (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
+| plonker2026 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 45% | 5.00 | 76.5% | ⏳ pendiente | — |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 92% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Will Burnley FC win on 2026-08-23? | Yes (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | MisterVision | LoL: BNK FEARX vs Nongshim Red Force - G | BNK FEARX (BUY) | 58% | 5.00 | 19.4% | ⏳ pendiente | — |
@@ -312,5 +315,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Adrienn Nagy (BUY) | 46% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 61% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Color vs SPARTA - Map 1  | SPARTA (BUY) | 65% | 5.00 | 2.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 50% | 5.00 | 450.9% | 💰 vendida anticipada | +2.38 |
-| RN1 | ITF W35 Verbier Women: Valentini Grammat | Jenny Lim (BUY) | 71% | 5.00 | 2.2% | ❌ perdida | -5.07 |
