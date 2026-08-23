@@ -1,5 +1,5 @@
 {
-  "bankroll": 553.1731186589525,
+  "bankroll": 548.0581186589525,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6290,6 +6290,11 @@
       "timestamp": 1787510577.3895152,
       "bankroll": 553.17,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season (+0.44 USD)"
+    },
+    {
+      "timestamp": 1787510744.0402846,
+      "bankroll": 548.06,
+      "event": "lost: 3edmond.dantes \u2014 Will Venezia FC win on 2026-08-23?"
     }
   ]
 }
