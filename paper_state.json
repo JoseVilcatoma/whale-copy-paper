@@ -1,5 +1,5 @@
 {
-  "bankroll": 535.3511023861585,
+  "bankroll": 530.2231023861584,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6170,6 +6170,11 @@
       "timestamp": 1787500717.4212782,
       "bankroll": 535.35,
       "event": "won: RN1 \u2014 Young Boys Bern vs. FC Vaduz: O/U 4.5"
+    },
+    {
+      "timestamp": 1787501335.3269758,
+      "bankroll": 530.22,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Counter-Strike: FUT Esports vs Spirit - Map 3 Winner"
     }
   ]
 }
