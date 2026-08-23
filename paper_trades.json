@@ -28516,15 +28516,17 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.45,
     "overlaps_with": [
       "MisterVision"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787473025.8951004,
-    "fills": 11
+    "fills": 11,
+    "fee_total_usd": 0.174,
+    "closed_price": 88
   },
   {
     "timestamp": 1787471501,
@@ -28813,6 +28815,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787472930.8006961,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787473755,
+    "timestamp_added": 1787473755.5695884,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-fut-ts7-2026-08-23-map-handicap-home-1pt5",
+    "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 5473.5016000000005,
+    "whale_pct": 9.396,
+    "whale_value_at_open": 58251.9377,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787473755.5696023,
     "fills": 1
   }
 ]
