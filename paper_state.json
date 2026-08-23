@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.7363260819076,
+  "bankroll": 560.6234833852784,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6325,6 +6325,11 @@
       "timestamp": 1787513064.6783383,
       "bankroll": 560.74,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Heretics vs GIANTX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787513786.5106795,
+      "bankroll": 560.62,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season (-0.11 USD)"
     }
   ]
 }
