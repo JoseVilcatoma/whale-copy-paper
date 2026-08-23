@@ -32042,8 +32042,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.7,
     "overlaps_with": [
       "MisterVision",
       "Sunshine.Smile"
@@ -32051,6 +32051,8 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787498845.0515518,
-    "fills": 7
+    "fills": 7,
+    "fee_total_usd": 0.119,
+    "closed_price": 90
   }
 ]
