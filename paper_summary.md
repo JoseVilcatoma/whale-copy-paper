@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:53:11 (hora de Perú)
+Actualizado: 2026-08-23 17:55:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $582.44
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:53:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $372.44)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $357.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,12 +22,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 9 | 4 | +51.28 USD |
-| swisstony | 30 | 1 | 12 | +43.66 USD |
+| swisstony | 30 | 1 | 14 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
-| kekasaur | 3 | 0 | 1 | +15.34 USD |
+| kekasaur | 3 | 0 | 2 | +15.34 USD |
 | ChonkyChocolateCake | 28 | 17 | 0 | +14.40 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 18 | 13 | 4 | +12.68 USD |
@@ -299,14 +299,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-shft-kc-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 | val-nv2-g21-2026-08-23 | Wiretransferxyz, casualbet2020 |
 | bra-cha-sao-2026-08-23-cha | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, swisstony |
+| mls-atl-skc-2026-08-23-total-3pt5 | kekasaur, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Atlanta United FC vs. Sporting Kansas Ci | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Atlanta United FC vs. Sporting Kansas Ci | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will CA River Plate win on 2026-08-23? | Yes (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | CA River Plate vs. CA Vélez Sarsfield: O | Under (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: CA River Plate (-2.5) | CA Vélez Sarsfield (BUY) | 86% | 5.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Associação Chapecoense de Futebol w | Yes (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Coritiba FBC vs. SC Corinthians Paulista | Under (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Vila Nova FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -331,6 +335,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Torino FC vs. AC Milan: O/U 2.5 | Under (BUY) | 49% | 5.00 | 1.1% | ❌ perdida | -5.13 |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 48% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 96% | 5.00 | 63.3% | 💰 vendida anticipada | +0.14 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 89% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | New England Revolution vs. New York City | Under (BUY) | 43% | 5.00 | 2.8% | ✅ ganada | +6.48 |
-| kekasaur | Red Bull Bragantino vs. Grêmio FBPA: O/U | Over (BUY) | 53% | 5.00 | 9.4% | ⏳ pendiente | — |
