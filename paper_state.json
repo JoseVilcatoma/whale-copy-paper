@@ -1,5 +1,5 @@
 {
-  "bankroll": 575.9574832164234,
+  "bankroll": 582.4423901931676,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6545,6 +6545,11 @@
       "timestamp": 1787525066.923876,
       "bankroll": 575.96,
       "event": "won:  \u2014 Cincinnati Open: Arthur Fils vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1787525377.0756452,
+      "bankroll": 582.44,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 New England Revolution vs. New York City FC: O/U 2.5"
     }
   ]
 }

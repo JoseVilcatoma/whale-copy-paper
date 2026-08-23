@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:49:09 (hora de Perú)
+Actualizado: 2026-08-23 17:51:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $575.96
-**Retorno acumulado:** +15.19%
+**Bankroll actual:** $582.44
+**Retorno acumulado:** +16.49%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:49:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $370.96)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $377.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 23 | 9 | 5 | +44.80 USD |
-| swisstony | 30 | 1 | 10 | +43.66 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 9 | 4 | +51.28 USD |
+| swisstony | 30 | 1 | 11 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1236
-- **Aciertos:** 789 (63.8%)
+- **Apuestas resueltas:** 1237
+- **Aciertos:** 790 (63.9%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,173.59
-- **ROI sobre lo apostado:** +0.04%
-- **Comisiones pagadas (taker fee):** $115.74 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.91% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,178.59
+- **ROI sobre lo apostado:** +0.14%
+- **Comisiones pagadas (taker fee):** $115.88 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +2.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 647 | 50.4% | 50.3% | +0.1 pp |
+| 40-59% | 648 | 50.5% | 50.2% | +0.2 pp |
 | 60-79% | 373 | 71.0% | 67.7% | +3.4 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
@@ -304,6 +304,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: CA River Plate (-2.5) | CA Vélez Sarsfield (BUY) | 86% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Associação Chapecoense de Futebol w | Yes (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Coritiba FBC vs. SC Corinthians Paulista | Under (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -330,7 +331,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 48% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 96% | 5.00 | 63.3% | 💰 vendida anticipada | +0.14 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 89% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | New England Revolution vs. New York City | Under (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | New England Revolution vs. New York City | Under (BUY) | 43% | 5.00 | 2.8% | ✅ ganada | +6.48 |
 | kekasaur | Red Bull Bragantino vs. Grêmio FBPA: O/U | Over (BUY) | 53% | 5.00 | 9.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will HNK Hajduk Split win on 2026-08-23? | No (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 68% | 5.00 | 3.6% | 💰 vendida anticipada | +0.44 |
