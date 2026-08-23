@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:22:30 (hora de Perú)
+Actualizado: 2026-08-23 17:24:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $557.28
-**Retorno acumulado:** +11.46%
+**Bankroll actual:** $560.88
+**Retorno acumulado:** +12.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:22:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $347.28)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $370.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,12 +28,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
 | kekasaur | 3 | 0 | 1 | +15.34 USD |
+| ChonkyChocolateCake | 28 | 17 | 0 | +14.40 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 18 | 13 | 4 | +12.68 USD |
 | plonker2026 | 3 | 1 | 1 | +12.49 USD |
-| ChonkyChocolateCake | 27 | 17 | 1 | +12.33 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Sunshine.Smile | 7 | 4 | 1 | +7.21 USD |
+| Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 83 | 50 | 12 | -10.69 USD |
+| HomeRunHazard | 84 | 51 | 10 | -10.93 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
 | Sassy-Bucket | 11 | 16 | 0 | -33.17 USD |
 |  | 29 | 22 | 1 | -55.43 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1224
-- **Aciertos:** 780 (63.7%)
+- **Apuestas resueltas:** 1228
+- **Aciertos:** 783 (63.8%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,113.59
-- **ROI sobre lo apostado:** -0.27%
-- **Comisiones pagadas (taker fee):** $114.41 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,133.59
+- **ROI sobre lo apostado:** -0.21%
+- **Comisiones pagadas (taker fee):** $114.80 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.67% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,8 +84,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 639 | 50.2% | 50.3% | -0.0 pp |
-| 60-79% | 369 | 70.7% | 67.7% | +3.1 pp |
+| 40-59% | 641 | 50.2% | 50.3% | -0.0 pp |
+| 60-79% | 371 | 70.9% | 67.7% | +3.2 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
 
@@ -322,8 +322,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will HNK Hajduk Split win on 2026-08-23? | No (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 68% | 5.00 | 3.6% | 💰 vendida anticipada | +0.44 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 74% | 5.00 | 8.8% | 💰 vendida anticipada | +1.41 |
-| Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ⏳ pendiente | — |
-| MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ⏳ pendiente | — |
+| Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ✅ ganada | +1.78 |
+| MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ✅ ganada | +2.07 |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ✅ ganada | +4.50 |
 | Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ❌ perdida | -5.08 |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 1 W | Karmine Corp (BUY) | 57% | 5.00 | 8.6% | ❌ perdida | -5.11 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 557.2815909250154,
+  "bankroll": 560.8807631363658,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6485,6 +6485,26 @@
       "timestamp": 1787522869.7630346,
       "bankroll": 557.28,
       "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 4.5"
+    },
+    {
+      "timestamp": 1787523803.4915931,
+      "bankroll": 562.16,
+      "event": "won: HomeRunHazard \u2014 Spread: Dallas Wings (-8.5)"
+    },
+    {
+      "timestamp": 1787523804.3292727,
+      "bankroll": 557.03,
+      "event": "lost: HomeRunHazard \u2014 Spread: Dallas Wings (-8.5)"
+    },
+    {
+      "timestamp": 1787523810.5677512,
+      "bankroll": 559.1,
+      "event": "won: MisterVision \u2014 LoL: Shifters vs Karmine Corp - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787523810.6679268,
+      "bankroll": 560.88,
+      "event": "won: Sunshine.Smile \u2014 LoL: Shifters vs Karmine Corp - Game 2 Winner"
     }
   ]
 }
