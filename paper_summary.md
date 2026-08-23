@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 18:38:14 (hora de Perú)
+Actualizado: 2026-08-23 18:40:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $569.81
-**Retorno acumulado:** +13.96%
+**Bankroll actual:** $569.86
+**Retorno acumulado:** +13.97%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 18:38:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $344.81)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $349.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 10 | 3 | +46.16 USD |
-| swisstony | 30 | 1 | 19 | +43.66 USD |
+| swisstony | 31 | 1 | 18 | +43.71 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
@@ -69,11 +69,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1245
-- **Aciertos:** 793 (63.7%)
+- **Apuestas resueltas:** 1246
+- **Aciertos:** 794 (63.7%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,218.59
+- **Total apostado (suma de stakes):** $6,223.59
 - **ROI sobre lo apostado:** -0.06%
 - **Comisiones pagadas (taker fee):** $116.79 (1.88% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.82% _(referencia: cuánto pesan las comisiones)_
@@ -87,7 +87,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 654 | 50.5% | 50.3% | +0.2 pp |
 | 60-79% | 375 | 70.7% | 67.6% | +3.0 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
-| 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
+| 95-99% (casi seguro) | 72 | 95.8% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -311,7 +311,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Club Nacional de Football vs. CA Progres | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Will Associação Chapecoense de Futebol v | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Winston-Salem Open: Pablo Carreno Busta  | Adolfo Vallejo (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Monterrey Open, Qualification: Panna Udv | Darja Vidmanova (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Monterrey Open, Qualification: Panna Udv | Darja Vidmanova (BUY) | 99% | 5.00 | 0.1% | ✅ ganada | +0.05 |
 | beachboy4 | Will Atlanta United FC win on 2026-08-23 | No (BUY) | 44% | 5.00 | 1588.8% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | kekasaur | Atlanta United FC vs. Sporting Kansas Ci | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
