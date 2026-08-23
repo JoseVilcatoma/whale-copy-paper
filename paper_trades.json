@@ -27817,5 +27817,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787458389.9332585,
     "fills": 1
+  },
+  {
+    "timestamp": 1787458846,
+    "timestamp_added": 1787458847.5724657,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "will-team-vision-win-the-international-2026-20260629212053622",
+    "title": "Will TEAM VISION Win The International 2026?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 12749.748,
+    "whale_pct": 1033.759,
+    "whale_value_at_open": 1233.3382,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787458847.5724816,
+    "fills": 1
   }
 ]
