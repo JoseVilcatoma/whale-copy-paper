@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 07:42:20 (hora de Perú)
+Actualizado: 2026-08-23 07:44:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $531.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 07:42:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $146.99)
+**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $136.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 8 | +43.99 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 10 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 14 | 2 | +33.12 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
@@ -288,11 +288,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 22.5 | Under (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Arizona Diamondbacks (-1.5) | Cincinnati Reds (BUY) | 63% | 5.00 | 3.9% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 32.9% | ⏳ pendiente | — |
-| RN1 | Will FC Groningen win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Will FC Groningen win on 2026-08-23? | No (BUY) | 92% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | Yes (BUY) | 97% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 43% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -316,5 +318,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Heidenheim 1846 win on 2026-0 | No (BUY) | 68% | 5.00 | 2.5% | ⏳ pendiente | — |
 | MisterVision | LoL: EDward Gaming vs JD Gaming (BO3) -  | JD Gaming (BUY) | 74% | 5.00 | 21.4% | ⏳ pendiente | — |
-| RN1 | Will Go Ahead Eagles vs. ADO Den Haag en | No (BUY) | 85% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | ITF M25 Lesa Men: Pierluigi Basile vs Al | Pierluigi Basile (BUY) | 89% | 5.00 | 0.7% | ✅ ganada | +0.59 |
