@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.201222912445,
+  "bankroll": 499.2508895791117,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5425,6 +5425,21 @@
       "timestamp": 1787451356.6991143,
       "bankroll": 504.2,
       "event": "won: Sassy-Bucket \u2014 Chicago Cubs vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1787451671.3687644,
+      "bankroll": 509.49,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1787451671.6931238,
+      "bankroll": 504.37,
+      "event": "lost: WTSA \u2014 Will SC Internacional win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787451672.8549294,
+      "bankroll": 499.25,
+      "event": "lost: SDTrading \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: O/U 7.5"
     }
   ]
 }
