@@ -28163,8 +28163,8 @@
     "title": "Spread: Dallas Wings (-8.5)",
     "outcome": "Dallas Wings",
     "side": "BUY",
-    "whale_usd": 1206.8988,
-    "whale_pct": 2.209,
+    "whale_usd": 2512.8986,
+    "whale_pct": 4.6,
     "whale_value_at_open": 54625.3746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -28175,8 +28175,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787464931.2234678,
-    "fills": 2
+    "last_fill_at": 1787490814.0446196,
+    "fills": 3
   },
   {
     "timestamp": 1787464951,
@@ -30641,8 +30641,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -2.57,
     "overlaps_with": [
       "BOOMBOYS.Kiritych",
       "Djdjdjekekek"
@@ -30650,7 +30650,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787488052.9740574,
-    "fills": 6
+    "fills": 6,
+    "fee_total_usd": 0.212,
+    "closed_price": 28
   },
   {
     "timestamp": 1787488004,
@@ -31129,8 +31131,8 @@
     "title": "Manchester City FC vs. AFC Bournemouth: 1st Half O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 900.8212,
-    "whale_pct": 0.543,
+    "whale_usd": 1879.833321,
+    "whale_pct": 1.134,
     "whale_value_at_open": 165762.0997,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -31141,8 +31143,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787490291.57641,
-    "fills": 1
+    "last_fill_at": 1787490849.7595267,
+    "fills": 2
   },
   {
     "timestamp": 1787490458,
@@ -31225,8 +31227,8 @@
     "title": "Will Manchester City FC win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 986.6800000000001,
-    "whale_pct": 0.519,
+    "whale_usd": 2002.38,
+    "whale_pct": 1.054,
     "whale_value_at_open": 190039.5266,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -31237,8 +31239,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787490526.5007937,
-    "fills": 1
+    "last_fill_at": 1787490833.4626348,
+    "fills": 2
   },
   {
     "timestamp": 1787490532,
