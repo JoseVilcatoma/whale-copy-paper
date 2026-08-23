@@ -30098,8 +30098,8 @@
     "title": "Will VfL Bochum win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1897.1799999999998,
-    "whale_pct": 2.129,
+    "whale_usd": 2415.17306,
+    "whale_pct": 2.711,
     "whale_value_at_open": 89091.1052,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -30112,8 +30112,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787487234.8878174,
-    "fills": 2
+    "last_fill_at": 1787489261.7219994,
+    "fills": 3
   },
   {
     "timestamp": 1787484476,
@@ -30920,5 +30920,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787488956.826939,
     "fills": 1
+  },
+  {
+    "timestamp": 1787489284,
+    "timestamp_added": 1787489284.8220153,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-blg-al-2026-08-23-game1",
+    "title": "LoL: Bilibili Gaming vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 3784.4256,
+    "whale_pct": 3.327,
+    "whale_value_at_open": 113765.4904,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SPCEXBUYER"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787489290.1750808,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787489288,
+    "timestamp_added": 1787489288.559076,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-blg-al-2026-08-23-game1",
+    "title": "LoL: Bilibili Gaming vs Anyone's Legend - Game 1 Winner",
+    "outcome": "Anyone's Legend",
+    "side": "BUY",
+    "whale_usd": 2029.4976,
+    "whale_pct": 11.223,
+    "whale_value_at_open": 18083.669,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "SPCEXBUYER"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787489289.1970773,
+    "fills": 2
   }
 ]
