@@ -27704,8 +27704,8 @@
     "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 257196.78374600003,
-    "whale_pct": 153.078,
+    "whale_usd": 329253.207646,
+    "whale_pct": 195.965,
     "whale_value_at_open": 168016.2858,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -27719,7 +27719,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787457302.612982,
-    "fills": 9
+    "last_fill_at": 1787457315.1337154,
+    "fills": 10
   }
 ]
