@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.8824782765493,
+  "bankroll": 528.4734558046391,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5825,6 +5825,11 @@
       "timestamp": 1787487041.491693,
       "bankroll": 527.88,
       "event": "lost: BOOMBOYS.Kiritych \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787487733.318896,
+      "bankroll": 528.47,
+      "event": "won: RN1 \u2014 ITF M25 Lesa Men: Pierluigi Basile vs Alexander Weis"
     }
   ]
 }

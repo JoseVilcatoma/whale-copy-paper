@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 07:21:24 (hora de Perú)
+Actualizado: 2026-08-23 07:23:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $527.88
-**Retorno acumulado:** +5.58%
+**Bankroll actual:** $528.47
+**Retorno acumulado:** +5.69%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 07:21:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $187.88)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $193.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 161 | 78 | 26 | -52.96 USD |
+| RN1 | 162 | 78 | 25 | -52.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1103
-- **Aciertos:** 698 (63.3%)
+- **Apuestas resueltas:** 1104
+- **Aciertos:** 699 (63.3%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,510.45
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $103.48 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,515.45
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $103.51 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 574 | 50.0% | 50.3% | -0.3 pp |
 | 60-79% | 342 | 70.5% | 67.7% | +2.7 pp |
-| 80-94% | 125 | 88.0% | 86.6% | +1.4 pp |
+| 80-94% | 126 | 88.1% | 86.7% | +1.4 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -305,7 +305,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will 1. FC Heidenheim 1846 win on 2026-0 | No (BUY) | 68% | 5.00 | 1.8% | ⏳ pendiente | — |
 | MisterVision | LoL: EDward Gaming vs JD Gaming (BO3) -  | JD Gaming (BUY) | 74% | 5.00 | 21.4% | ⏳ pendiente | — |
 | RN1 | Will Go Ahead Eagles vs. ADO Den Haag en | No (BUY) | 85% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | ITF M25 Lesa Men: Pierluigi Basile vs Al | Pierluigi Basile (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF M25 Lesa Men: Pierluigi Basile vs Al | Pierluigi Basile (BUY) | 89% | 5.00 | 0.7% | ✅ ganada | +0.59 |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will VfL Bochum win on 2026-08-23? | Yes (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | ITF W35 Erwitte Women: Josy Daems vs Val | Valentina Steiner (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
