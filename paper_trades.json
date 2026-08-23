@@ -28309,8 +28309,8 @@
     "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 73385.342409,
-    "whale_pct": 347.262,
+    "whale_usd": 76664.87906300001,
+    "whale_pct": 362.781,
     "whale_value_at_open": 21132.5792,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -28323,8 +28323,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787471888.260515,
-    "fills": 11
+    "last_fill_at": 1787480432.9122941,
+    "fills": 13
   },
   {
     "timestamp": 1787468078,
