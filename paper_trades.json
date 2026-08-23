@@ -28962,5 +28962,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787475852.0008762,
     "fills": 1
+  },
+  {
+    "timestamp": 1787476412,
+    "timestamp_added": 1787476412.8838398,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "kbo-lg-han-2026-08-23",
+    "title": "KBO: LG Twins vs. Hanwha Eagles",
+    "outcome": "LG Twins",
+    "side": "BUY",
+    "whale_usd": 1608.0037,
+    "whale_pct": 2.352,
+    "whale_value_at_open": 68363.235,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787476414.8010557,
+    "fills": 2
   }
 ]
