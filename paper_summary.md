@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:59:17 (hora de Perú)
+Actualizado: 2026-08-23 18:01:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $582.44
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:59:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $337.44)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $327.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 9 | 4 | +51.28 USD |
-| swisstony | 30 | 1 | 17 | +43.66 USD |
+| swisstony | 30 | 1 | 19 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
@@ -305,7 +305,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Winston-Salem Open: Pablo Carreno Busta  | Adolfo Vallejo (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Club Nacional de Football vs. CA Progres | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
+| swisstony | Will Associação Chapecoense de Futebol v | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Winston-Salem Open: Pablo Carreno Busta  | Adolfo Vallejo (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Monterrey Open, Qualification: Panna Udv | Darja Vidmanova (BUY) | 99% | 5.00 | 0.1% | ⏳ pendiente | — |
 | beachboy4 | Will Atlanta United FC win on 2026-08-23 | No (BUY) | 44% | 5.00 | 1251.0% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -333,5 +335,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 68% | 5.00 | 23.9% | 💰 vendida anticipada | +0.06 |
 |  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels (BO3) - LCS  | Sentinels (BUY) | 94% | 5.00 | 100.9% | ⏳ pendiente | — |
-| Wiretransferxyz | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 72% | 5.00 | 85.7% | ⏳ pendiente | — |
-|  | Cincinnati Open: Arthur Fils vs Frances  | Arthur Fils (BUY) | 66% | 5.00 | 0.6% | ✅ ganada | +2.49 |
