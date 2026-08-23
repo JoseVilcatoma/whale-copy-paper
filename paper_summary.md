@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:33:40 (hora de Perú)
+Actualizado: 2026-08-23 08:35:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.91
@@ -308,7 +308,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 6.5% | ⏳ pendiente | — |
+| RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 7.2% | ⏳ pendiente | — |
 | RN1 | Young Boys Bern vs. FC Vaduz: O/U 4.5 | Over (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
