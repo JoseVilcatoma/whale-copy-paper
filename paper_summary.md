@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 07:48:31 (hora de Perú)
+Actualizado: 2026-08-23 07:50:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $531.99
@@ -289,8 +289,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| MisterVision | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 48% | 5.00 | 11.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 47% | 5.00 | 3.3% | ⏳ pendiente | — |
+| MisterVision | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 48% | 5.00 | 23.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 22.5 | Under (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |

@@ -30930,8 +30930,8 @@
     "title": "LoL: Bilibili Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 3784.4256,
-    "whale_pct": 3.327,
+    "whale_usd": 4672.974,
+    "whale_pct": 4.108,
     "whale_value_at_open": 113765.4904,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -30944,8 +30944,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787489290.1750808,
-    "fills": 3
+    "last_fill_at": 1787489338.1112566,
+    "fills": 4
   },
   {
     "timestamp": 1787489288,
@@ -30956,8 +30956,8 @@
     "title": "LoL: Bilibili Gaming vs Anyone's Legend - Game 1 Winner",
     "outcome": "Anyone's Legend",
     "side": "BUY",
-    "whale_usd": 2029.4976,
-    "whale_pct": 11.223,
+    "whale_usd": 4182.188099999999,
+    "whale_pct": 23.127,
     "whale_value_at_open": 18083.669,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -30971,7 +30971,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787489289.1970773,
-    "fills": 2
+    "last_fill_at": 1787489330.9705052,
+    "fills": 3
   }
 ]
