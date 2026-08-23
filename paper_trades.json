@@ -32285,5 +32285,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787503833.3405762,
     "fills": 1
+  },
+  {
+    "timestamp": 1787504210,
+    "timestamp_added": 1787504210.8227072,
+    "username": "danielwolfmorales3pddb6dl6",
+    "wallet": "0xf377b9fb12a4b7507a4f997461a73eb30b564159",
+    "slug": "wta-samsono-preston-2026-08-23",
+    "title": "Philadelphia: Liudmila Samsonova vs Taylah Preston",
+    "outcome": "Liudmila Samsonova",
+    "side": "BUY",
+    "whale_usd": 6120.0,
+    "whale_pct": 16.439,
+    "whale_value_at_open": 37227.9567,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787504210.8227248,
+    "fills": 1
   }
 ]
