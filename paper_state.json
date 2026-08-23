@@ -1,5 +1,5 @@
 {
-  "bankroll": 571.7564834225387,
+  "bankroll": 571.3164049911662,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6380,6 +6380,16 @@
       "timestamp": 1787516454.1202254,
       "bankroll": 571.76,
       "event": "won: SDTrading \u2014 Toronto Blue Jays vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1787517367.0274773,
+      "bankroll": 566.63,
+      "event": "lost: HomeRunHazard \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1787517368.8016827,
+      "bankroll": 571.32,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5"
     }
   ]
 }
