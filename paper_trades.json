@@ -31792,8 +31792,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -31818,8 +31818,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "SPCEXBUYER"
     ],

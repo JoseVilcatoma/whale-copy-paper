@@ -1,5 +1,5 @@
 {
-  "bankroll": 553.5201885651759,
+  "bankroll": 557.8569421883642,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6270,6 +6270,16 @@
       "timestamp": 1787508191.5100434,
       "bankroll": 553.52,
       "event": "won: RN1 \u2014 Will Randers FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787508508.0604882,
+      "bankroll": 555.69,
+      "event": "won: SPCEXBUYER \u2014 LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
+    },
+    {
+      "timestamp": 1787508508.1607075,
+      "bankroll": 557.86,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend"
     }
   ]
 }
