@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 22:22:24 (hora de Perú)
+Actualizado: 2026-08-22 22:24:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.07
-**Retorno acumulado:** +0.61%
+**Bankroll actual:** $505.85
+**Retorno acumulado:** +1.17%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 22:22:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $373.07)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $390.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,9 +23,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 12 | 2 | 6 | +35.65 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 10 | 0 | +31.20 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 10 | 1 | +26.12 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -47,12 +47,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 0 | 0 | 1 | +0.00 USD |
 | beachboy4 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| Djdjdjekekek | 10 | 8 | 3 | -0.49 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
+| Djdjdjekekek | 10 | 9 | 2 | -5.63 USD |
 | ChonkyChocolateCake | 16 | 11 | 0 | -5.94 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Wiretransferxyz | 1 | 2 | 3 | -8.70 USD |
@@ -63,19 +63,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
 | HomeRunHazard | 71 | 43 | 7 | -20.94 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-|  | 27 | 20 | 2 | -48.31 USD |
+|  | 28 | 20 | 1 | -45.47 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1038
-- **Aciertos:** 656 (63.2%)
-- **Cuota promedio de entrada:** 62.6%
+- **Apuestas resueltas:** 1041
+- **Aciertos:** 658 (63.2%)
+- **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,185.45
-- **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $97.09 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,200.45
+- **ROI sobre lo apostado:** -1.16%
+- **Comisiones pagadas (taker fee):** $97.45 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.72% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,8 +83,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 536 | 49.3% | 50.3% | -1.1 pp |
-| 60-79% | 326 | 71.2% | 67.8% | +3.4 pp |
+| 40-59% | 538 | 49.3% | 50.3% | -1.0 pp |
+| 60-79% | 327 | 71.3% | 67.7% | +3.5 pp |
 | 80-94% | 117 | 88.0% | 86.7% | +1.3 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
 
@@ -271,12 +271,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 9.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
-| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 42% | 5.00 | 149.2% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 120.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 49% | 5.00 | 27.1% | ✅ ganada | +5.08 |
+| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 42% | 5.00 | 149.2% | ❌ perdida | -5.14 |
 |  | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ⏳ pendiente | — |
-|  | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
+|  | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 63% | 5.00 | 0.5% | ✅ ganada | +2.84 |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 73% | 5.00 | 549.8% | ⏳ pendiente | — |
 |  | Indiana Fever vs. New York Liberty | New York Liberty (BUY) | 93% | 5.00 | 3.6% | ✅ ganada | +0.36 |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit (BO3) | Team Spirit (BUY) | 70% | 5.00 | 7.8% | 💰 vendida anticipada | -0.44 |

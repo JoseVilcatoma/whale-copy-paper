@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.0694610076831,
+  "bankroll": 505.84505057684413,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5445,6 +5445,21 @@
       "timestamp": 1787453251.190751,
       "bankroll": 503.07,
       "event": "won: HomeRunHazard \u2014 San Francisco Giants vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787455470.1543887,
+      "bankroll": 505.91,
+      "event": "won:  \u2014 Dota 2: Team Yandex vs Team Spirit - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787455471.0290794,
+      "bankroll": 500.77,
+      "event": "lost: Djdjdjekekek \u2014 Dota 2: Team Yandex vs Team Spirit - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787455471.1292245,
+      "bankroll": 505.85,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Yandex vs Team Spirit - Game 1 Winner"
     }
   ]
 }
