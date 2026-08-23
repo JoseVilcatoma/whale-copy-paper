@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 15:56:04 (hora de Perú)
+Actualizado: 2026-08-23 15:58:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $584.78
-**Retorno acumulado:** +16.96%
+**Bankroll actual:** $579.65
+**Retorno acumulado:** +15.93%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 15:56:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $354.78)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $354.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,19 +64,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
 | Sassy-Bucket | 11 | 16 | 0 | -33.17 USD |
-|  | 28 | 21 | 2 | -50.55 USD |
+|  | 28 | 22 | 1 | -55.68 USD |
 | RN1 | 201 | 92 | 1 | -57.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1214
+- **Apuestas resueltas:** 1215
 - **Aciertos:** 777 (64.0%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,063.59
-- **ROI sobre lo apostado:** +0.18%
-- **Comisiones pagadas (taker fee):** $113.39 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,068.59
+- **ROI sobre lo apostado:** +0.10%
+- **Comisiones pagadas (taker fee):** $113.52 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.97% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 633 | 50.4% | 50.2% | +0.2 pp |
+| 40-59% | 634 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 366 | 71.3% | 67.7% | +3.6 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 70 | 95.7% | 97.3% | -1.6 pp |
@@ -304,7 +304,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 72% | 5.00 | 85.7% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Frances  | Arthur Fils (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 1 Win | Sentinels (BUY) | 96% | 5.00 | 19.6% | ⏳ pendiente | — |
-|  | Torino FC vs. AC Milan: O/U 2.5 | Under (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
+|  | Torino FC vs. AC Milan: O/U 2.5 | Under (BUY) | 49% | 5.00 | 1.1% | ❌ perdida | -5.13 |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 48% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 96% | 5.00 | 63.3% | 💰 vendida anticipada | +0.14 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 89% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
