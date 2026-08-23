@@ -32657,5 +32657,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787507648.3621929,
     "fills": 2
+  },
+  {
+    "timestamp": 1787508761,
+    "timestamp_added": 1787508761.8950508,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "sea-tor-mil-2026-08-23-mil",
+    "title": "Will AC Milan win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 144459.53999999998,
+    "whale_pct": 643.288,
+    "whale_value_at_open": 22456.4496,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787508783.9937236,
+    "fills": 2
   }
 ]

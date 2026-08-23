@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 13:11:42 (hora de Perú)
+Actualizado: 2026-08-23 13:13:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $557.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 13:11:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $257.86)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $252.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| 3edmond.dantes | 0 | 0 | 1 | +0.00 USD |
+| 3edmond.dantes | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 12 | 11 | 0 | -2.00 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -300,6 +300,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 1 W | Karmine Corp (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes (BUY) | 57% | 5.00 | 99.3% | ⏳ pendiente | — |
@@ -329,4 +330,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 69% | 5.00 | 58.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 37.2% | ⏳ pendiente | — |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 100.6% | ⏳ pendiente | — |
