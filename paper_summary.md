@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:35:21 (hora de Perú)
+Actualizado: 2026-08-23 05:37:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $542.71
-**Retorno acumulado:** +8.54%
+**Bankroll actual:** $556.57
+**Retorno acumulado:** +11.31%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:35:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $232.71)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $256.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,20 +23,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 4 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 32 | 11 | 2 | +38.79 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 32 | 11 | 3 | +38.79 USD |
+| BOOMBOYS.Kiritych | 11 | 4 | 6 | +29.54 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 10 | 4 | 7 | +24.86 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| ChonkyChocolateCake | 20 | 13 | 3 | +9.65 USD |
+| Sunshine.Smile | 4 | 2 | 2 | +7.86 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| ChonkyChocolateCake | 19 | 13 | 4 | +5.15 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | pleaseplease123 | 2 | 1 | 0 | +3.52 USD |
 | SDTrading | 16 | 13 | 0 | +3.35 USD |
-| Sunshine.Smile | 3 | 2 | 3 | +3.18 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1072
-- **Aciertos:** 680 (63.4%)
+- **Apuestas resueltas:** 1075
+- **Aciertos:** 683 (63.5%)
 - **Cuota promedio de entrada:** 62.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,355.45
-- **ROI sobre lo apostado:** -0.53%
-- **Comisiones pagadas (taker fee):** $100.59 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,370.45
+- **ROI sobre lo apostado:** -0.28%
+- **Comisiones pagadas (taker fee):** $100.95 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.60% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 559 | 49.7% | 50.3% | -0.5 pp |
+| 40-59% | 562 | 50.0% | 50.3% | -0.3 pp |
 | 60-79% | 331 | 71.6% | 67.7% | +3.9 pp |
 | 80-94% | 121 | 87.6% | 86.7% | +0.9 pp |
 | 95-99% (casi seguro) | 61 | 96.7% | 97.3% | -0.6 pp |
@@ -281,12 +281,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force - G | Nongshim Red Force (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
 | plonker2026 | Will VfL Bochum win on 2026-08-23? | Yes (BUY) | 42% | 5.00 | 7.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-8.5) | Seattle Storm (BUY) | 50% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will FC Nordsjælland win on 2026-08-23? | Yes (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 95% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: 1st Ha | Under (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Pavel Lagut | Pavel Lagutin (BUY) | 97% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -296,11 +297,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: Color vs SPARTA - Map 1  | SPARTA (BUY) | 65% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 50% | 5.00 | 450.9% | 💰 vendida anticipada | +2.38 |
 | RN1 | ITF W35 Verbier Women: Valentini Grammat | Jenny Lim (BUY) | 71% | 5.00 | 2.2% | ⏳ pendiente | — |
-| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 52% | 5.00 | 38.2% | ⏳ pendiente | — |
+| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 52% | 5.00 | 38.2% | ✅ ganada | +4.50 |
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 4.6% | 💰 vendida anticipada | -0.24 |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 11.1% | ⏳ pendiente | — |
-| Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 66.0% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 11.1% | ✅ ganada | +4.68 |
+| Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 66.0% | ✅ ganada | +4.68 |
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 62% | 5.00 | 10.9% | 💰 vendida anticipada | -1.08 |
 | Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 62% | 5.00 | 11.4% | 💰 vendida anticipada | -0.19 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Akron Tolyatti win on 2026-08-23 | No (BUY) | 67% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -310,4 +311,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 42% | 5.00 | 2.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 (BO3) - L | Hanwha Life Esports (BUY) | 80% | 5.00 | 9.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 2  | Hanwha Life Esports (BUY) | 53% | 5.00 | 8.9% | ⏳ pendiente | — |
-| RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Teodora Miron (BUY) | 66% | 5.00 | 5.1% | ⏳ pendiente | — |

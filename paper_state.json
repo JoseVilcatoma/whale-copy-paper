@@ -1,5 +1,5 @@
 {
-  "bankroll": 542.7072172408435,
+  "bankroll": 556.5664449934831,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5655,6 +5655,21 @@
       "timestamp": 1787479860.8224177,
       "bankroll": 542.71,
       "event": "won: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rada Zolotareva vs Lidia Encheva"
+    },
+    {
+      "timestamp": 1787481402.2178757,
+      "bankroll": 547.39,
+      "event": "won: Sunshine.Smile \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787481402.317965,
+      "bankroll": 552.07,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787481402.7586534,
+      "bankroll": 556.57,
+      "event": "won: MisterVision \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner"
     }
   ]
 }

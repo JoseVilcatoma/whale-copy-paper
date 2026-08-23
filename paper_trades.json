@@ -29131,8 +29131,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "MisterVision"
     ],
@@ -29157,8 +29157,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "MisterVision",
       "Sunshine.Smile"
@@ -29238,8 +29238,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.5,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "BOOMBOYS.Kiritych",
@@ -29483,8 +29483,8 @@
     "title": "S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: O/U 0.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 683.688,
-    "whale_pct": 0.909,
+    "whale_usd": 1368.225,
+    "whale_pct": 1.819,
     "whale_value_at_open": 75209.7473,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -29495,8 +29495,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787480237.5852835,
-    "fills": 1
+    "last_fill_at": 1787481364.1265957,
+    "fills": 2
   },
   {
     "timestamp": 1787480238,
@@ -29616,6 +29616,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787481134.9387143,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787481416,
+    "timestamp_added": 1787481417.121013,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-fox1-ns-2026-08-23-game1",
+    "title": "LoL: BNK FEARX vs Nongshim Red Force - Game 1 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "whale_usd": 673.712,
+    "whale_pct": 4.509,
+    "whale_value_at_open": 14940.4604,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787481417.1210196,
     "fills": 1
   }
 ]
