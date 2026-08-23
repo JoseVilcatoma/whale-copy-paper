@@ -1,5 +1,5 @@
 {
-  "bankroll": 520.050801097724,
+  "bankroll": 515.6744118641876,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6020,6 +6020,71 @@
       "timestamp": 1787498043.1319344,
       "bankroll": 520.05,
       "event": "lost: RN1 \u2014 Angers SCO vs. Lille OSC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787498102.5477712,
+      "bankroll": 522.12,
+      "event": "won: RN1 \u2014 Manchester City FC vs. AFC Bournemouth: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1787498103.9507804,
+      "bankroll": 516.99,
+      "event": "lost: RN1 \u2014 Manchester City FC vs. AFC Bournemouth: O/U 3.5"
+    },
+    {
+      "timestamp": 1787498104.6415434,
+      "bankroll": 511.89,
+      "event": "lost: casualbet2020 \u2014 Valorant: Enterprise Esports vs Team Liquid - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787498164.2016075,
+      "bankroll": 517.86,
+      "event": "won: plonker2026 \u2014 Will Brighton & Hove Albion FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787498168.3576758,
+      "bankroll": 512.72,
+      "event": "lost: RN1 \u2014 Spread: Manchester City FC (-1.5)"
+    },
+    {
+      "timestamp": 1787498168.457863,
+      "bankroll": 507.61,
+      "event": "lost: RN1 \u2014 Will Brighton & Hove Albion FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787498169.2441201,
+      "bankroll": 508.2,
+      "event": "won: RN1 \u2014 Will AFC Bournemouth win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787498169.4900725,
+      "bankroll": 514.17,
+      "event": "won: RN1 \u2014 Brighton & Hove Albion FC vs. Aston Villa FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787498169.77404,
+      "bankroll": 517.54,
+      "event": "won: RN1 \u2014 Manchester City FC vs. AFC Bournemouth: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1787498170.0693285,
+      "bankroll": 517.96,
+      "event": "won: RN1 \u2014 Spread: Aston Villa FC (-1.5)"
+    },
+    {
+      "timestamp": 1787498170.528964,
+      "bankroll": 520.13,
+      "event": "won: RN1 \u2014 Will Manchester City FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787498171.2760603,
+      "bankroll": 520.78,
+      "event": "won: RN1 \u2014 Will Brighton & Hove Albion FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787498171.7204957,
+      "bankroll": 515.67,
+      "event": "lost: RN1 \u2014 Will Manchester City FC win on 2026-08-23?"
     }
   ]
 }

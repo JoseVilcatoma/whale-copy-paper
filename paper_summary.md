@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:14:19 (hora de Perú)
+Actualizado: 2026-08-23 10:16:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $520.05
-**Retorno acumulado:** +4.01%
+**Bankroll actual:** $515.67
+**Retorno acumulado:** +3.13%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 10:14:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $428.14 en 86 posiciones abiertas (disponible para nuevas apuestas: $91.91)
+**Capital comprometido ahora mismo:** $363.14 en 73 posiciones abiertas (disponible para nuevas apuestas: $152.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,16 +23,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 14 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| casualbet2020 | 13 | 4 | 1 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 16 | 8 | 4 | +26.28 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 17 | 2 | +25.18 USD |
+| casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| plonker2026 | 2 | 0 | 2 | +12.73 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 6 | 3 | 1 | +9.80 USD |
 | ChonkyChocolateCake | 23 | 15 | 2 | +8.30 USD |
-| plonker2026 | 1 | 0 | 3 | +6.76 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 47 | 19 | -21.31 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 179 | 86 | 29 | -66.21 USD |
+| RN1 | 186 | 90 | 18 | -71.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1140
-- **Aciertos:** 723 (63.4%)
+- **Apuestas resueltas:** 1153
+- **Aciertos:** 731 (63.4%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,695.45
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $106.43 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,760.45
+- **ROI sobre lo apostado:** -0.90%
+- **Comisiones pagadas (taker fee):** $107.63 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,9 +83,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 590 | 49.8% | 50.3% | -0.4 pp |
-| 60-79% | 350 | 70.6% | 67.7% | +2.9 pp |
-| 80-94% | 134 | 88.8% | 86.8% | +2.0 pp |
+| 40-59% | 597 | 49.7% | 50.3% | -0.5 pp |
+| 60-79% | 353 | 70.5% | 67.7% | +2.9 pp |
+| 80-94% | 137 | 89.1% | 86.9% | +2.2 pp |
 | 95-99% (casi seguro) | 66 | 95.5% | 97.3% | -1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -307,21 +307,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 104.9% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ❌ perdida | -5.10 |
 | RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
 | RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
 | RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.5% | ❌ perdida | -5.13 |
 | RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
+| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 3.0% | ❌ perdida | -5.11 |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.9% | ✅ ganada | +5.51 |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo: O/U 18 | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Krasnodar win on 2026-08-23? | No (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
-| RN1 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 88% | 5.00 | 5.1% | ⏳ pendiente | — |
+| RN1 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 88% | 5.00 | 5.1% | ✅ ganada | +0.65 |
 | RN1 | Angers SCO vs. Lille OSC: O/U 1.5 | Over (BUY) | 92% | 5.00 | 0.6% | ✅ ganada | +0.41 |
 | HomeRunHazard | Seattle Storm vs. Dallas Wings: O/U 173. | Under (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will LDU Quito win on 2026-08-23? | Yes (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ✅ ganada | +2.07 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.6% | ❌ perdida | -5.15 |
