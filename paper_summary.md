@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 15:54:03 (hora de Perú)
+Actualizado: 2026-08-23 15:56:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $584.78
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 15:54:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $359.78)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $354.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 1 | 0 | 0 | +1.78 USD |
-| Wiretransferxyz | 7 | 4 | 0 | +1.33 USD |
+| Wiretransferxyz | 7 | 4 | 1 | +1.33 USD |
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -301,6 +301,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Wiretransferxyz | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 72% | 5.00 | 85.7% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Frances  | Arthur Fils (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 1 Win | Sentinels (BUY) | 96% | 5.00 | 19.6% | ⏳ pendiente | — |
 |  | Torino FC vs. AC Milan: O/U 2.5 | Under (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -330,4 +331,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Winston-Salem Open: Martin Landaluce vs  | Martin Landaluce (BUY) | 54% | 5.00 | 5.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Winston-Salem Open: Dino Prizmic vs Cruz | Cruz Hewitt (BUY) | 51% | 5.00 | 10.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Philadelphia: Liudmila Samsonova vs Tayl | Liudmila Samsonova (BUY) | 52% | 5.00 | 16.4% | ⏳ pendiente | — |
-| danielwolfmorales3pddb6dl6 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu (BUY) | 52% | 5.00 | 29.8% | ⏳ pendiente | — |
