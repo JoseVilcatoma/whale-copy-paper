@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:00:01 (hora de Perú)
+Actualizado: 2026-08-23 06:02:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.87
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:00:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $257.87)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $247.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 4 | +43.99 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 5 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 32 | 11 | 3 | +38.79 USD |
 | BOOMBOYS.Kiritych | 11 | 4 | 8 | +29.54 USD |
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | ChonkyChocolateCake | 20 | 13 | 3 | +9.65 USD |
-| Sunshine.Smile | 4 | 2 | 2 | +7.86 USD |
+| Sunshine.Smile | 4 | 2 | 3 | +7.86 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -283,8 +283,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 61% | 5.00 | 53.4% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Young Boys Bern (-1.5) | FC Vaduz (BUY) | 44% | 5.00 | 2.4% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 14.0% | ⏳ pendiente | — |
-| RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -311,5 +313,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 66.0% | ✅ ganada | +4.68 |
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 62% | 5.00 | 10.9% | 💰 vendida anticipada | -1.08 |
 | Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 62% | 5.00 | 11.4% | 💰 vendida anticipada | -0.19 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Akron Tolyatti win on 2026-08-23 | No (BUY) | 67% | 5.00 | 3.0% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 79% | 5.00 | 3.4% | ⏳ pendiente | — |
