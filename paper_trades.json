@@ -33801,8 +33801,8 @@
     "title": "LoL: Dignitas vs FlyQuest - Game 2 Winner",
     "outcome": "FlyQuest",
     "side": "BUY",
-    "whale_usd": 2894.0099999999998,
-    "whale_pct": 53.238,
+    "whale_usd": 3684.85,
+    "whale_pct": 67.786,
     "whale_value_at_open": 5436.0201,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -33813,7 +33813,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787527505.6756108,
-    "fills": 2
+    "last_fill_at": 1787527627.024822,
+    "fills": 3
   }
 ]
