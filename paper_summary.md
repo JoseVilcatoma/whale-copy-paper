@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 15:31:44 (hora de Perú)
+Actualizado: 2026-08-23 15:33:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $571.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 15:31:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $311.76)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $306.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 44 | 18 | 0 | +38.97 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 44 | 18 | 1 | +38.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 7 | 9 | +38.72 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 10 | 1 | +24.65 USD |
@@ -301,6 +301,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 1 Win | Sentinels (BUY) | 96% | 5.00 | 11.5% | ⏳ pendiente | — |
 |  | Torino FC vs. AC Milan: O/U 2.5 | Under (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 48% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 96% | 5.00 | 63.3% | 💰 vendida anticipada | +0.14 |
@@ -330,4 +331,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Philadelphia: Liudmila Samsonova vs Tayl | Liudmila Samsonova (BUY) | 52% | 5.00 | 16.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu (BUY) | 52% | 5.00 | 29.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 66% | 5.00 | 3.4% | 💰 vendida anticipada | +0.68 |
-| MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | Fluxo W7M (BUY) | 67% | 5.00 | 1.8% | ❌ perdida | -5.08 |
