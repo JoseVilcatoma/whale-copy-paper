@@ -27493,5 +27493,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787447193.5980604,
     "fills": 1
+  },
+  {
+    "timestamp": 1787448056,
+    "timestamp_added": 1787448056.8628218,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "mls-vwh-dal-2026-08-22-vwh",
+    "title": "Will Vancouver Whitecaps FC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 14521.930441999999,
+    "whale_pct": 47.839,
+    "whale_value_at_open": 30355.7443,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787448109.7403526,
+    "fills": 5
   }
 ]
