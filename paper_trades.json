@@ -30081,8 +30081,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -31543,8 +31543,8 @@
     "title": "Will Manchester City FC win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 4287.733055000001,
-    "whale_pct": 1.63,
+    "whale_usd": 5193.074555000001,
+    "whale_pct": 1.974,
     "whale_value_at_open": 263016.0317,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -31555,8 +31555,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787491930.952836,
-    "fills": 6
+    "last_fill_at": 1787492631.0821066,
+    "fills": 7
   },
   {
     "timestamp": 1787491892,
