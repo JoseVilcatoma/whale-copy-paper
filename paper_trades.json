@@ -33078,5 +33078,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787518759.4608781,
     "fills": 1
+  },
+  {
+    "timestamp": 1787519181,
+    "timestamp_added": 1787519181.9621208,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-dsg-sen-2026-08-23-game2",
+    "title": "LoL: Disguised vs Sentinels - Game 2 Winner",
+    "outcome": "Sentinels",
+    "side": "BUY",
+    "whale_usd": 3300.9469,
+    "whale_pct": 23.93,
+    "whale_value_at_open": 13794.3046,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787519192.3950605,
+    "fills": 3
   }
 ]

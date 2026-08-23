@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 16:06:19 (hora de Perú)
+Actualizado: 2026-08-23 16:08:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $582.66
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 16:06:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $362.66)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $357.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 21 | 7 | 8 | +43.80 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 44 | 18 | 2 | +38.97 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 44 | 18 | 3 | +38.97 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
@@ -301,6 +301,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 68% | 5.00 | 23.9% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels (BO3) - LCS  | Sentinels (BUY) | 94% | 5.00 | 28.2% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 72% | 5.00 | 85.7% | ⏳ pendiente | — |
@@ -330,4 +331,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tiafoe (+1. | Tiafoe (BUY) | 60% | 5.00 | 15.4% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins (BUY) | 43% | 5.00 | 22.6% | ⏳ pendiente | — |
 | SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
-| danielwolfmorales3pddb6dl6 | Winston-Salem Open: Martin Landaluce vs  | Martin Landaluce (BUY) | 54% | 5.00 | 5.3% | ⏳ pendiente | — |
