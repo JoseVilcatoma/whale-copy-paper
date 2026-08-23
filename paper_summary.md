@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:12:18 (hora de Perú)
+Actualizado: 2026-08-23 06:14:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $552.87
-**Retorno acumulado:** +10.57%
+**Bankroll actual:** $547.86
+**Retorno acumulado:** +9.57%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:12:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $222.87)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $237.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,11 +50,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| Wiretransferxyz | 2 | 2 | 7 | -4.56 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Wiretransferxyz | 1 | 2 | 8 | -8.70 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -63,19 +63,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 46 | 15 | -16.19 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-|  | 28 | 20 | 1 | -45.47 USD |
-| RN1 | 159 | 76 | 12 | -46.43 USD |
+| RN1 | 160 | 77 | 10 | -50.50 USD |
+|  | 28 | 21 | 0 | -50.55 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1081
-- **Aciertos:** 687 (63.6%)
+- **Apuestas resueltas:** 1085
+- **Aciertos:** 689 (63.5%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,400.45
-- **ROI sobre lo apostado:** -0.34%
-- **Comisiones pagadas (taker fee):** $101.38 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.54% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,420.45
+- **ROI sobre lo apostado:** -0.43%
+- **Comisiones pagadas (taker fee):** $101.68 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.44% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,9 +83,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 563 | 49.9% | 50.3% | -0.4 pp |
-| 60-79% | 334 | 71.6% | 67.7% | +3.8 pp |
-| 80-94% | 122 | 87.7% | 86.7% | +1.0 pp |
+| 40-59% | 564 | 50.0% | 50.3% | -0.3 pp |
+| 60-79% | 336 | 71.1% | 67.7% | +3.4 pp |
+| 80-94% | 123 | 87.8% | 86.6% | +1.2 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -304,7 +304,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: 1st Ha | Under (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 83% | 5.00 | 2.3% | ✅ ganada | +0.98 |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Pavel Lagut | Pavel Lagutin (BUY) | 97% | 5.00 | 2.7% | ✅ ganada | +0.15 |
 | RN1 | ITF W35 Verbier Women: Valentini Grammat | Valentini Grammatikopoulou (BUY) | 86% | 5.00 | 1.0% | ✅ ganada | +0.78 |
 | RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Adrienn Nagy (BUY) | 46% | 5.00 | 1.3% | ❌ perdida | -5.13 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.8735165443459,
+  "bankroll": 547.8618721891472,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5700,6 +5700,26 @@
       "timestamp": 1787482645.1159587,
       "bankroll": 552.87,
       "event": "won: RN1 \u2014 ITF W35 Verbier Women: Valentini Grammatikopoulou vs Jenny Lim"
+    },
+    {
+      "timestamp": 1787483572.1287043,
+      "bankroll": 547.79,
+      "event": "lost:  \u2014 ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Kristijan Juhas"
+    },
+    {
+      "timestamp": 1787483573.8435829,
+      "bankroll": 551.93,
+      "event": "won: Wiretransferxyz \u2014 Valorant: Sharper Esport vs ONSIDE GAMING (BO3) - VCT Pacific Play-In"
+    },
+    {
+      "timestamp": 1787483582.062649,
+      "bankroll": 546.88,
+      "event": "lost: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Kristijan Juhas"
+    },
+    {
+      "timestamp": 1787483583.5124907,
+      "bankroll": 547.86,
+      "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Kristijan Juhas"
     }
   ]
 }

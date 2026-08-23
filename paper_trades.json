@@ -27584,8 +27584,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -27906,8 +27906,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -29027,8 +29027,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [
       ""
     ],
@@ -29440,8 +29440,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.98,
     "overlaps_with": [
       ""
     ],
