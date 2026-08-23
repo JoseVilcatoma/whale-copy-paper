@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 14:36:27 (hora de Perú)
+Actualizado: 2026-08-23 14:38:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.62
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 14:36:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $265.62)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $260.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 6 | 10 | +43.85 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 18 | 1 | +38.78 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 42 | 18 | 2 | +38.78 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 10 | 1 | +24.65 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
@@ -301,6 +301,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 96% | 5.00 | 63.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 89% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | New England Revolution vs. New York City | Under (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
 | kekasaur | Red Bull Bragantino vs. Grêmio FBPA: O/U | Over (BUY) | 53% | 5.00 | 9.4% | ⏳ pendiente | — |
@@ -330,4 +331,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | Fluxo W7M (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 46% | 5.00 | 1.8% | 💰 vendida anticipada | +1.70 |
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 2 Wi | GIANTX (BUY) | 57% | 5.00 | 15.3% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |

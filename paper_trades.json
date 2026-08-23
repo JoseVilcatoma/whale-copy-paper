@@ -32884,5 +32884,29 @@
     "fills": 1,
     "fee_total_usd": 0.057,
     "closed_price": 88
+  },
+  {
+    "timestamp": 1787513844,
+    "timestamp_added": 1787513845.1673896,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-shft-kc-2026-08-23",
+    "title": "LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "whale_usd": 11268.99467,
+    "whale_pct": 63.281,
+    "whale_value_at_open": 17807.9476,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787513845.1674068,
+    "fills": 1
   }
 ]
