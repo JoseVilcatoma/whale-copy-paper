@@ -1,5 +1,5 @@
 {
-  "bankroll": 579.6474920423449,
+  "bankroll": 582.6588064822909,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6430,6 +6430,21 @@
       "timestamp": 1787518622.2886915,
       "bankroll": 579.65,
       "event": "lost:  \u2014 Torino FC vs. AC Milan: O/U 2.5"
+    },
+    {
+      "timestamp": 1787518922.6031294,
+      "bankroll": 574.5,
+      "event": "lost: SPCEXBUYER \u2014 LoL: Team Heretics vs GIANTX - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787518922.7032876,
+      "bankroll": 578.16,
+      "event": "won: MisterVision \u2014 LoL: Team Heretics vs GIANTX - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787518926.2633471,
+      "bankroll": 582.66,
+      "event": "won: 3edmond.dantes \u2014 Will AC Milan win on 2026-08-23?"
     }
   ]
 }
