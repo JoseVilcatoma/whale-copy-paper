@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:03:58 (hora de Perú)
+Actualizado: 2026-08-23 10:06:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $533.45
-**Retorno acumulado:** +6.69%
+**Bankroll actual:** $518.09
+**Retorno acumulado:** +3.62%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 10:03:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $483.14 en 97 posiciones abiertas (disponible para nuevas apuestas: $50.31)
+**Capital comprometido ahora mismo:** $478.14 en 96 posiciones abiertas (disponible para nuevas apuestas: $39.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,19 +23,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 14 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| BOOMBOYS.Kiritych | 16 | 7 | 5 | +31.39 USD |
 | casualbet2020 | 13 | 4 | 1 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| BOOMBOYS.Kiritych | 16 | 8 | 4 | +26.28 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 17 | 2 | +25.18 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
-| ChonkyChocolateCake | 23 | 14 | 2 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Sunshine.Smile | 6 | 3 | 0 | +9.80 USD |
+| Sunshine.Smile | 6 | 3 | 1 | +9.80 USD |
+| ChonkyChocolateCake | 23 | 15 | 1 | +8.30 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
-| pleaseplease123 | 2 | 1 | 1 | +3.52 USD |
+| pleaseplease123 | 2 | 1 | 2 | +3.52 USD |
 | SDTrading | 16 | 13 | 2 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 47 | 19 | -21.31 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 173 | 81 | 40 | -56.27 USD |
+| RN1 | 173 | 82 | 39 | -61.41 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1126
-- **Aciertos:** 716 (63.6%)
+- **Apuestas resueltas:** 1129
+- **Aciertos:** 716 (63.4%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,625.45
-- **ROI sobre lo apostado:** -0.61%
-- **Comisiones pagadas (taker fee):** $105.13 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,640.45
+- **ROI sobre lo apostado:** -0.88%
+- **Comisiones pagadas (taker fee):** $105.48 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 582 | 50.0% | 50.3% | -0.3 pp |
+| 40-59% | 585 | 49.7% | 50.3% | -0.6 pp |
 | 60-79% | 347 | 70.6% | 67.7% | +2.9 pp |
 | 80-94% | 133 | 88.7% | 86.8% | +1.9 pp |
 | 95-99% (casi seguro) | 64 | 96.9% | 97.3% | -0.4 pp |
@@ -286,6 +286,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fox1-ns-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | lol-blg-al-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 | mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
+| mlb-tb-bal-2026-08-23-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
 | lol-blg-al-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
 
@@ -293,7 +294,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 64.0% | ⏳ pendiente | — |
+| Sunshine.Smile | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 8.9% | ⏳ pendiente | — |
+| pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 66.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AS Monaco FC win on 2026-08-23? | No (BUY) | 52% | 5.00 | 13.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FUT Esports vs Spirit -  | FUT Esports (BUY) | 49% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -321,5 +324,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 7.2% | ⏳ pendiente | — |

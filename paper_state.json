@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.4464937448132,
+  "bankroll": 518.0884937448131,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5950,6 +5950,21 @@
       "timestamp": 1787497244.0456762,
       "bankroll": 533.45,
       "event": "lost: RN1 \u2014 West Bromwich Albion FC vs. Burnley FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1787497549.4819233,
+      "bankroll": 528.34,
+      "event": "lost: MisterVision \u2014 LoL: BNK FEARX vs Nongshim Red Force - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787497551.0575686,
+      "bankroll": 523.23,
+      "event": "lost: SPCEXBUYER \u2014 LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group"
+    },
+    {
+      "timestamp": 1787497554.365368,
+      "bankroll": 518.09,
+      "event": "lost: RN1 \u2014 SpVgg Greuther F\u00fcrth vs. VfL Bochum: O/U 3.5"
     }
   ]
 }
