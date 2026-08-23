@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.5864360837298,
+  "bankroll": 507.4644360837298,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5510,6 +5510,11 @@
       "timestamp": 1787458001.7449126,
       "bankroll": 512.59,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will CR Flamengo win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787458314.2273388,
+      "bankroll": 507.46,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 2.5"
     }
   ]
 }
