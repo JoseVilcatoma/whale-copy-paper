@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 13:32:25 (hora de Perú)
+Actualizado: 2026-08-23 13:34:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $557.86
-**Retorno acumulado:** +11.57%
+**Bankroll actual:** $552.73
+**Retorno acumulado:** +10.55%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 13:32:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $252.86)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $242.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,18 +21,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 5 | 9 | +48.97 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 6 | 8 | +43.85 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 39 | 17 | 2 | +36.94 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 10 | 1 | +24.65 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
-| ChonkyChocolateCake | 24 | 15 | 5 | +13.59 USD |
+| ChonkyChocolateCake | 24 | 15 | 6 | +13.59 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | plonker2026 | 3 | 1 | 1 | +12.49 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Sunshine.Smile | 6 | 3 | 2 | +9.80 USD |
+| Sunshine.Smile | 6 | 3 | 3 | +9.80 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1189
+- **Apuestas resueltas:** 1190
 - **Aciertos:** 759 (63.8%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $5,938.59
-- **ROI sobre lo apostado:** -0.23%
-- **Comisiones pagadas (taker fee):** $110.90 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.63% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,943.59
+- **ROI sobre lo apostado:** -0.32%
+- **Comisiones pagadas (taker fee):** $111.03 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.55% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 617 | 50.1% | 50.2% | -0.1 pp |
+| 40-59% | 618 | 50.0% | 50.2% | -0.2 pp |
 | 60-79% | 360 | 71.1% | 67.7% | +3.4 pp |
 | 80-94% | 144 | 89.6% | 87.0% | +2.6 pp |
 | 95-99% (casi seguro) | 68 | 95.6% | 97.3% | -1.7 pp |
@@ -295,11 +295,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading, pleaseplease123 |
 | lol-th-gx-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 | lol-th-gx-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
+| lol-shft-kc-2026-08-23-game2 | MisterVision, Sunshine.Smile |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 45.1% | ⏳ pendiente | — |
+| MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ⏳ pendiente | — |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 1 W | Karmine Corp (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
@@ -328,5 +331,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 10.4% | 💰 vendida anticipada | +1.70 |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 52% | 5.00 | 26.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 69% | 5.00 | 58.8% | ⏳ pendiente | — |
-| Sunshine.Smile | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 37.2% | ⏳ pendiente | — |
-| pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
