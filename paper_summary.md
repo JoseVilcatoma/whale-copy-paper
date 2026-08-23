@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 03:59:35 (hora de Perú)
+Actualizado: 2026-08-23 04:01:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $529.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 03:59:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $319.86)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $314.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 10 | 1 | +36.65 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 9 | 4 | 5 | +19.98 USD |
+| BOOMBOYS.Kiritych | 9 | 4 | 6 | +19.98 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -278,7 +278,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 2  | Hanwha Life Esports (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 (BO3) - L | Hanwha Life Esports (BUY) | 80% | 5.00 | 9.1% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 2  | Hanwha Life Esports (BUY) | 53% | 5.00 | 8.9% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Teodora Miron (BUY) | 66% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Sebastian So | Sebastian Sorger (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Wiretransferxyz | Map Handicap: TS (-1.5) vs FUT Esports ( | Spirit (BUY) | 57% | 5.00 | 9.4% | ⏳ pendiente | — |
@@ -307,4 +308,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Tohoku Rakuten Golden Eagles vs. Saitama | Tohoku Rakuten Golden Eagles (BUY) | 50% | 5.00 | 7.0% | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo | Las Vegas Aces (BUY) | 89% | 5.00 | 2.2% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Dallas Wings (-8.5) | Dallas Wings (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
