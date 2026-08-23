@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.6357165201883,
+  "bankroll": 523.964976438109,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5540,6 +5540,16 @@
       "timestamp": 1787459885.426808,
       "bankroll": 516.64,
       "event": "won: HomeRunHazard \u2014 Atlanta Dream vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1787463348.1677306,
+      "bankroll": 517.48,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Club Tijuana win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787463348.8422828,
+      "bankroll": 523.96,
+      "event": "won: kekasaur \u2014 Spread: CD Guadalajara (-1.5)"
     }
   ]
 }
