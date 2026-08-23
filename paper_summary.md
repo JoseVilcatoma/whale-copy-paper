@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 11:32:00 (hora de Perú)
+Actualizado: 2026-08-23 11:34:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.33
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 11:32:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $308.14 en 62 posiciones abiertas (disponible para nuevas apuestas: $224.19)
+**Capital comprometido ahora mismo:** $313.14 en 63 posiciones abiertas (disponible para nuevas apuestas: $219.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 19 | 4 | 11 | +49.21 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 36 | 17 | 3 | +28.58 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 36 | 17 | 4 | +28.58 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 16 | 8 | 5 | +26.28 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
@@ -297,6 +297,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 66% | 5.00 | 2.5% | ⏳ pendiente | — |
 | MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | Fluxo W7M (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 46% | 5.00 | 1.8% | 💰 vendida anticipada | +1.70 |
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 2 Wi | GIANTX (BUY) | 57% | 5.00 | 15.3% | ⏳ pendiente | — |
@@ -326,4 +327,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 3.0% | ❌ perdida | -5.11 |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.9% | ✅ ganada | +5.51 |
-| HomeRunHazard | Las Vegas Aces vs. Toronto Tempo: O/U 18 | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
