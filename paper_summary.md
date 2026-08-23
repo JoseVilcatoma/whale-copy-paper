@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:22:31 (hora de Perú)
+Actualizado: 2026-08-23 10:24:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $517.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 10:22:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $358.14 en 72 posiciones abiertas (disponible para nuevas apuestas: $159.26)
+**Capital comprometido ahora mismo:** $363.14 en 73 posiciones abiertas (disponible para nuevas apuestas: $154.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 16 | 8 | 4 | +26.28 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 17 | 2 | +25.18 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 17 | 3 | +25.18 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -289,12 +289,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-bal-2026-08-23-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
 | lol-blg-al-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
-| lol-th-gx-2026-08-23-game1 | MisterVision, Sunshine.Smile |
+| lol-th-gx-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 3.3% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 52% | 5.00 | 26.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 69% | 5.00 | 58.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 37.2% | ⏳ pendiente | — |
@@ -324,4 +325,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will LDU Quito win on 2026-08-23? | Yes (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ✅ ganada | +2.07 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
