@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.54580607532046,
+  "bankroll": 507.1520708836828,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5375,6 +5375,16 @@
       "timestamp": 1787449788.8618362,
       "bankroll": 500.55,
       "event": "won: SDTrading \u2014 Los Angeles Angels vs. Texas Rangers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787449952.9914794,
+      "bankroll": 500.1,
+      "event": "venta anticipada: Djdjdjekekek \u2014 Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs (-0.44 USD)"
+    },
+    {
+      "timestamp": 1787449973.539633,
+      "bankroll": 507.15,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will FC Cincinnati win on 2026-08-22?"
     }
   ]
 }
