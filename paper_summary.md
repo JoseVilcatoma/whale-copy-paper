@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 04:03:47 (hora de Perú)
+Actualizado: 2026-08-23 04:05:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $529.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 04:03:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $314.86)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $309.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 2 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 10 | 1 | +36.65 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 10 | 2 | +36.65 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 9 | 4 | 6 | +19.98 USD |
@@ -273,11 +273,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-vsn2-ts8-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision |
 | lol-tt-lgd-2026-08-23-game2 | BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
 | lol-hle1-t1-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
+| lol-hle1-t1-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 42% | 5.00 | 2.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 (BO3) - L | Hanwha Life Esports (BUY) | 80% | 5.00 | 9.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 2  | Hanwha Life Esports (BUY) | 53% | 5.00 | 8.9% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Teodora Miron (BUY) | 66% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -307,4 +309,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 76.5% | ✅ ganada | +4.68 |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Tohoku Rakuten Golden Eagles vs. Saitama | Tohoku Rakuten Golden Eagles (BUY) | 50% | 5.00 | 7.0% | ⏳ pendiente | — |
-| HomeRunHazard | Las Vegas Aces vs. Toronto Tempo | Las Vegas Aces (BUY) | 89% | 5.00 | 2.2% | ⏳ pendiente | — |
