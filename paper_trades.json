@@ -33178,5 +33178,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787522378.8784177,
     "fills": 2
+  },
+  {
+    "timestamp": 1787522437,
+    "timestamp_added": 1787522437.9215426,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-dig-fly-2026-08-23-game1",
+    "title": "LoL: Dignitas vs FlyQuest - Game 1 Winner",
+    "outcome": "FlyQuest",
+    "side": "BUY",
+    "whale_usd": 1860.0,
+    "whale_pct": 5.069,
+    "whale_value_at_open": 36693.8747,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787522437.9215536,
+    "fills": 1
   }
 ]
