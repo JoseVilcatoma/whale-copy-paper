@@ -30464,8 +30464,8 @@
     "title": "Will Young Boys Bern win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1132.19,
-    "whale_pct": 0.96,
+    "whale_usd": 2450.99,
+    "whale_pct": 2.078,
     "whale_value_at_open": 117969.7336,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -30476,8 +30476,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787487027.143613,
-    "fills": 1
+    "last_fill_at": 1787491191.976748,
+    "fills": 2
   },
   {
     "timestamp": 1787487106,
@@ -31107,8 +31107,8 @@
     "title": "Brighton & Hove Albion FC vs. Aston Villa FC: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 635.36,
-    "whale_pct": 0.383,
+    "whale_usd": 1934.96,
+    "whale_pct": 1.167,
     "whale_value_at_open": 165762.0997,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -31119,8 +31119,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787490287.0597005,
-    "fills": 1
+    "last_fill_at": 1787491166.7330525,
+    "fills": 2
   },
   {
     "timestamp": 1787490291,
@@ -31251,8 +31251,8 @@
     "title": "Will Aston Villa FC win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1100.0,
-    "whale_pct": 0.579,
+    "whale_usd": 2492.0,
+    "whale_pct": 1.311,
     "whale_value_at_open": 190039.5266,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -31263,8 +31263,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787490532.4946394,
-    "fills": 1
+    "last_fill_at": 1787491178.3818252,
+    "fills": 2
   },
   {
     "timestamp": 1787490598,

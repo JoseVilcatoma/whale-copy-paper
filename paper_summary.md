@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:19:21 (hora de Perú)
+Actualizado: 2026-08-23 08:21:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.13
@@ -299,13 +299,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 6.5% | ⏳ pendiente | — |
 | RN1 | Young Boys Bern vs. FC Vaduz: O/U 4.5 | Over (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Brighton & Hove Albion FC vs. Aston Vill | Over (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Brighton & Hove Albion FC vs. Aston Vill | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Will AFC Bournemouth win on 2026-08-23? | No (BUY) | 89% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Will Lille OSC win on 2026-08-23? | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
