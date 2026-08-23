@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 01:38:21 (hora de Perú)
+Actualizado: 2026-08-23 01:40:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $518.83
@@ -283,7 +283,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 43% | 5.00 | 5.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | Kokoro Isomura (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 2.8% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 24.2% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |

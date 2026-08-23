@@ -28043,8 +28043,8 @@
     "title": "ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi",
     "outcome": "M Rifqi Fitriadi",
     "side": "BUY",
-    "whale_usd": 1350.16,
-    "whale_pct": 1.68,
+    "whale_usd": 2288.17,
+    "whale_pct": 2.847,
     "whale_value_at_open": 80373.1103,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -28055,8 +28055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787466786.9117749,
-    "fills": 2
+    "last_fill_at": 1787467103.6074986,
+    "fills": 3
   },
   {
     "timestamp": 1787462411,
