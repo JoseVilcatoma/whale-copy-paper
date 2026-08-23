@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 07:27:37 (hora de Perú)
+Actualizado: 2026-08-23 07:29:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $531.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 07:27:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $186.99)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $176.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 14 | 2 | +33.12 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 14 | 7 | 4 | +23.83 USD |
+| BOOMBOYS.Kiritych | 14 | 7 | 5 | +23.83 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | ChonkyChocolateCake | 22 | 14 | 2 | +11.72 USD |
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 162 | 78 | 27 | -52.37 USD |
+| RN1 | 162 | 78 | 28 | -52.37 USD |
 
 ## Análisis general
 
@@ -266,7 +266,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-dsg-dig-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | cs2-furia-lgc-2026-08-23 | BOOMBOYS.Kiritych, Wiretransferxyz |
 | mls-orl-rsl-2026-08-22-orl | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kekasaur |
-| epl-new-liv-2026-08-23-liv | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, plonker2026 |
+| epl-new-liv-2026-08-23-liv | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, RN1, plonker2026 |
 | dota2-ty-ts8-2026-08-22-game1 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek |
 | itf-kisimov-juhas-2026-08-23 | , RN1 |
 | dota2-ty-ts8-2026-08-22-game2 | BOOMBOYS.Kiritych, Djdjdjekekek, MisterVision |
@@ -287,6 +287,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 43% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit (BO5) | TEAM VISION (BUY) | 53% | 5.00 | 883.4% | ⏳ pendiente | — |
 | RN1 | Will Randers FC win on 2026-08-23? | No (BUY) | 91% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -315,5 +317,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: CTBC Flying Oyster vs Team Secret W | CTBC Flying Oyster (BUY) | 62% | 5.00 | 2.2% | 💰 vendida anticipada | -2.21 |
 | RN1 | Will VfL Bochum win on 2026-08-23? | No (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
 | plonker2026 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 45% | 5.00 | 228.2% | ⏳ pendiente | — |
-| RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 92% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | Will Burnley FC win on 2026-08-23? | Yes (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
