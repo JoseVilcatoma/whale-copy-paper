@@ -29749,8 +29749,8 @@
     "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 56106.31010000001,
-    "whale_pct": 16.275,
+    "whale_usd": 57102.02147900001,
+    "whale_pct": 16.564,
     "whale_value_at_open": 344735.3298,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -29763,8 +29763,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787483363.4165688,
-    "fills": 4
+    "last_fill_at": 1787483680.2296968,
+    "fills": 5
   },
   {
     "timestamp": 1787482909,
@@ -29938,5 +29938,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787483511.9830961,
     "fills": 2
+  },
+  {
+    "timestamp": 1787483741,
+    "timestamp_added": 1787483741.787015,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "elc-wba-bur-2026-08-23-bur",
+    "title": "Will Burnley FC win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 563.829787,
+    "whale_pct": 0.744,
+    "whale_value_at_open": 75833.7107,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787483741.787022,
+    "fills": 1
   }
 ]
