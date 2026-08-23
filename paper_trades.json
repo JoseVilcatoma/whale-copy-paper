@@ -29283,8 +29283,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 44327.226621,
-    "whale_pct": 336.697,
+    "whale_usd": 47303.409721,
+    "whale_pct": 359.304,
     "whale_value_at_open": 13165.2978,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -29299,8 +29299,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787478282.9522524,
-    "fills": 16
+    "last_fill_at": 1787478339.090599,
+    "fills": 19
   },
   {
     "timestamp": 1787477647,
@@ -29348,6 +29348,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787478184.4819725,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787478371,
+    "timestamp_added": 1787478372.2142506,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-nag-miron-2026-08-23",
+    "title": "ITF W35 Bistrita Women: Adrienn Nagy vs Teodora Miron",
+    "outcome": "Adrienn Nagy",
+    "side": "BUY",
+    "whale_usd": 782.1,
+    "whale_pct": 1.313,
+    "whale_value_at_open": 59557.8115,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787478372.2142622,
     "fills": 1
   }
 ]

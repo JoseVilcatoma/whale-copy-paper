@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 04:44:54 (hora de Perú)
+Actualizado: 2026-08-23 04:46:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $537.90
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 04:44:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $267.90)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $262.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 14 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 154 | 74 | 7 | -42.08 USD |
+| RN1 | 154 | 74 | 8 | -42.08 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
@@ -281,9 +281,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Adrienn Nagy (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 61% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Color vs SPARTA - Map 1  | SPARTA (BUY) | 65% | 5.00 | 2.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 50% | 5.00 | 336.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 50% | 5.00 | 359.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Valentini Grammat | Jenny Lim (BUY) | 71% | 5.00 | 2.2% | ⏳ pendiente | — |
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 52% | 5.00 | 38.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -310,4 +311,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 54% | 5.00 | 54.9% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 81.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 47% | 5.00 | 30.2% | ⏳ pendiente | — |
-| MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | LGD Gaming (BUY) | 56% | 5.00 | 25.8% | ⏳ pendiente | — |
