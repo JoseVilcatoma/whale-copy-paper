@@ -28309,8 +28309,8 @@
     "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 70227.160304,
-    "whale_pct": 332.317,
+    "whale_usd": 70832.280304,
+    "whale_pct": 335.18,
     "whale_value_at_open": 21132.5792,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -28323,8 +28323,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787470232.3037894,
-    "fills": 8
+    "last_fill_at": 1787471268.0468175,
+    "fills": 9
   },
   {
     "timestamp": 1787468078,
@@ -28447,5 +28447,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787470969.0306015,
     "fills": 2
+  },
+  {
+    "timestamp": 1787471268,
+    "timestamp_added": 1787471269.466126,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-vsn2-ts8-2026-08-23-game2",
+    "title": "Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 1775.0621999999998,
+    "whale_pct": 13.539,
+    "whale_value_at_open": 13111.0843,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787471269.466136,
+    "fills": 1
   }
 ]
