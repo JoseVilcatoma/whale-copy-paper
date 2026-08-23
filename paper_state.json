@@ -1,5 +1,5 @@
 {
-  "bankroll": 553.0476830706704,
+  "bankroll": 553.5201885651759,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6265,6 +6265,11 @@
       "timestamp": 1787507879.5663128,
       "bankroll": 553.05,
       "event": "lost: RN1 \u2014 Will Aarhus GF win on 2026-08-21?"
+    },
+    {
+      "timestamp": 1787508191.5100434,
+      "bankroll": 553.52,
+      "event": "won: RN1 \u2014 Will Randers FC win on 2026-08-23?"
     }
   ]
 }
