@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.9084970932491,
+  "bankroll": 543.5476830706704,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6230,6 +6230,21 @@
       "timestamp": 1787506325.7672331,
       "bankroll": 539.91,
       "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will AS Monaco FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787506946.1477158,
+      "bankroll": 539.96,
+      "event": "won: RN1 \u2014 Spread: SpVgg Greuther F\u00fcrth (-1.5)"
+    },
+    {
+      "timestamp": 1787506949.7208488,
+      "bankroll": 540.61,
+      "event": "won: RN1 \u2014 Will SG Dynamo Dresden win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787506950.01037,
+      "bankroll": 543.55,
+      "event": "won: RN1 \u2014 Eintracht Braunschweig vs. 1. FC Union Berlin: O/U 3.5"
     }
   ]
 }
