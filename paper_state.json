@@ -1,5 +1,5 @@
 {
-  "bankroll": 565.262539875663,
+  "bankroll": 569.2523405653959,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6340,6 +6340,31 @@
       "timestamp": 1787514298.562176,
       "bankroll": 565.26,
       "event": "won: pleaseplease123 \u2014 Detroit Tigers vs. Kansas City Royals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787515522.7432172,
+      "bankroll": 569.41,
+      "event": "won: HomeRunHazard \u2014 Athletics vs. Houston Astros: O/U 8.5"
+    },
+    {
+      "timestamp": 1787515523.0534341,
+      "bankroll": 571.19,
+      "event": "won: Wiretransferxyz \u2014 Counter-Strike: HOTU vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage"
+    },
+    {
+      "timestamp": 1787515530.9344819,
+      "bankroll": 574.29,
+      "event": "won: MisterVision \u2014 LoL: RED Canids vs Fluxo W7M - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787515531.4507656,
+      "bankroll": 569.2,
+      "event": "lost: MisterVision \u2014 LoL: RED Canids vs Fluxo W7M - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787515534.7603962,
+      "bankroll": 569.25,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: RED Canids vs Fluxo W7M (BO3) - CBLOL Regular Season"
     }
   ]
 }

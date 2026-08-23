@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 15:05:14 (hora de Perú)
+Actualizado: 2026-08-23 15:07:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $565.26
-**Retorno acumulado:** +13.05%
+**Bankroll actual:** $569.25
+**Retorno acumulado:** +13.85%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 15:05:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $270.26)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $299.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,12 +23,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 6 | 10 | +43.85 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 43 | 18 | 1 | +38.92 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 44 | 18 | 0 | +38.97 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 10 | 1 | +24.65 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
-| ChonkyChocolateCake | 25 | 15 | 5 | +15.76 USD |
 | kekasaur | 3 | 0 | 1 | +15.34 USD |
+| ChonkyChocolateCake | 26 | 16 | 3 | +13.78 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | plonker2026 | 3 | 1 | 1 | +12.49 USD |
 | Sunshine.Smile | 7 | 3 | 2 | +12.29 USD |
@@ -44,11 +44,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 1 | 0 | 0 | +1.78 USD |
+| Wiretransferxyz | 7 | 4 | 0 | +1.33 USD |
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| Wiretransferxyz | 6 | 4 | 1 | -0.45 USD |
 | Djdjdjekekek | 12 | 11 | 0 | -2.00 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 78 | 47 | 20 | -17.30 USD |
+| HomeRunHazard | 79 | 47 | 19 | -13.16 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1197
-- **Aciertos:** 765 (63.9%)
+- **Apuestas resueltas:** 1202
+- **Aciertos:** 769 (64.0%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $5,978.59
-- **ROI sobre lo apostado:** -0.14%
-- **Comisiones pagadas (taker fee):** $111.60 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.73% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,003.59
+- **ROI sobre lo apostado:** -0.07%
+- **Comisiones pagadas (taker fee):** $111.97 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.79% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,10 +84,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 621 | 50.1% | 50.2% | -0.1 pp |
-| 60-79% | 362 | 71.3% | 67.7% | +3.6 pp |
+| 40-59% | 622 | 50.2% | 50.2% | -0.1 pp |
+| 60-79% | 365 | 71.2% | 67.7% | +3.5 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
-| 95-99% (casi seguro) | 69 | 95.7% | 97.3% | -1.7 pp |
+| 95-99% (casi seguro) | 70 | 95.7% | 97.3% | -1.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -317,7 +317,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes (BUY) | 57% | 5.00 | 135.5% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Stefanos Sakellaridis vs Lu | Luca Van Assche (BUY) | 86% | 5.00 | 0.4% | ✅ ganada | +0.78 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: RED Canids vs Fluxo W7M (BO3) - CBL | RED Canids (BUY) | 99% | 5.00 | 6.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: RED Canids vs Fluxo W7M (BO3) - CBL | RED Canids (BUY) | 99% | 5.00 | 6.8% | ✅ ganada | +0.05 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 44% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 47% | 5.00 | 13.9% | ⏳ pendiente | — |
@@ -329,5 +329,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Philadelphia: Liudmila Samsonova vs Tayl | Liudmila Samsonova (BUY) | 52% | 5.00 | 16.4% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Kingston 2: Evan Zhu vs Arthur Reymond | Evan Zhu (BUY) | 52% | 5.00 | 29.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 66% | 5.00 | 3.4% | 💰 vendida anticipada | +0.68 |
-| MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | Fluxo W7M (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
+| MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | Fluxo W7M (BUY) | 67% | 5.00 | 1.8% | ❌ perdida | -5.08 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 46% | 5.00 | 1.8% | 💰 vendida anticipada | +1.70 |
