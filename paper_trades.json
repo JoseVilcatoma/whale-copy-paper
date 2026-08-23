@@ -27851,8 +27851,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 1287974.9806469998,
-    "whale_pct": 8856.485,
+    "whale_usd": 1289908.1778469998,
+    "whale_pct": 8869.778,
     "whale_value_at_open": 14542.7333,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -27863,8 +27863,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787460776.3177648,
-    "fills": 37
+    "last_fill_at": 1787460960.9086702,
+    "fills": 38
   },
   {
     "timestamp": 1787460203,
@@ -27912,6 +27912,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787460512.8968666,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787460972,
+    "timestamp_added": 1787460972.7625895,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-caz-atl-2026-08-22-atl",
+    "title": "Will Atlas FC win on 2026-08-22?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 737.304,
+    "whale_pct": 0.885,
+    "whale_value_at_open": 83353.3064,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787460972.7625988,
     "fills": 1
   }
 ]
