@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:30:51 (hora de Perú)
+Actualizado: 2026-08-23 17:32:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $570.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:30:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $395.09)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $390.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 22 | 8 | 7 | +44.65 USD |
-| swisstony | 30 | 1 | 0 | +43.66 USD |
+| swisstony | 30 | 1 | 1 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
@@ -302,6 +302,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | CSD Mixco vs. CD Guastatoya: O/U 3.5 | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Associação Chapecoense de Futebol w | No (BUY) | 48% | 5.00 | 4.2% | ⏳ pendiente | — |
 | casualbet2020 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 42% | 5.00 | 89.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | 💰 vendida anticipada | -0.19 |
@@ -331,4 +332,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes (BUY) | 57% | 5.00 | 135.5% | ❌ perdida | -5.11 |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 44% | 5.00 | 0.5% | ✅ ganada | +6.22 |
 | HomeRunHazard | Quebec City: Stefanos Sakellaridis vs Lu | Luca Van Assche (BUY) | 86% | 5.00 | 0.4% | ✅ ganada | +0.78 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: RED Canids vs Fluxo W7M (BO3) - CBL | RED Canids (BUY) | 99% | 5.00 | 6.8% | ✅ ganada | +0.05 |
