@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.7671552602784,
+  "bankroll": 565.262539875663,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6335,6 +6335,11 @@
       "timestamp": 1787514126.9518197,
       "bankroll": 560.77,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season (+0.14 USD)"
+    },
+    {
+      "timestamp": 1787514298.562176,
+      "bankroll": 565.26,
+      "event": "won: pleaseplease123 \u2014 Detroit Tigers vs. Kansas City Royals: O/U 8.5"
     }
   ]
 }
