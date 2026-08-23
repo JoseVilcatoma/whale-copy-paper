@@ -29823,8 +29823,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 34943.383608000004,
-    "whale_pct": 230.739,
+    "whale_usd": 37857.06320800001,
+    "whale_pct": 249.979,
     "whale_value_at_open": 15144.1249,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -29837,8 +29837,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787483116.5476356,
-    "fills": 10
+    "last_fill_at": 1787483218.4381745,
+    "fills": 11
   },
   {
     "timestamp": 1787483078,
@@ -29849,8 +29849,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 19239.920166,
-    "whale_pct": 5.906,
+    "whale_usd": 21839.920166,
+    "whale_pct": 6.705,
     "whale_value_at_open": 325748.9613,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -29864,7 +29864,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787483149.7049952,
-    "fills": 2
+    "last_fill_at": 1787483188.5557814,
+    "fills": 4
+  },
+  {
+    "timestamp": 1787483193,
+    "timestamp_added": 1787483194.358642,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "swe-ifk-elf-2026-08-23-total-2pt5",
+    "title": "IFK Goteborg vs. IF Elfsborg: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 6166.438700000001,
+    "whale_pct": 15.024,
+    "whale_value_at_open": 41044.4607,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787483194.3586483,
+    "fills": 1
   }
 ]

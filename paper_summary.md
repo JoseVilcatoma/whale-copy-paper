@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:06:13 (hora de Perú)
+Actualizado: 2026-08-23 06:08:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.87
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:06:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $237.87)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $232.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| plonker2026 | 0 | 0 | 2 | +0.00 USD |
+| plonker2026 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -284,8 +284,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 5.00 | 5.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 61% | 5.00 | 230.7% | ⏳ pendiente | — |
+| plonker2026 | IFK Goteborg vs. IF Elfsborg: O/U 2.5 | Over (BUY) | 54% | 5.00 | 15.0% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 41% | 5.00 | 6.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 61% | 5.00 | 250.0% | ⏳ pendiente | — |
 | Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 61% | 5.00 | 71.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Young Boys Bern (-1.5) | FC Vaduz (BUY) | 44% | 5.00 | 2.4% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 14.0% | ⏳ pendiente | — |
@@ -313,4 +314,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 4.6% | 💰 vendida anticipada | -0.24 |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 11.1% | ✅ ganada | +4.68 |
-| Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 66.0% | ✅ ganada | +4.68 |
