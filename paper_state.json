@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.140471586147,
+  "bankroll": 521.7457792784547,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5765,6 +5765,11 @@
       "timestamp": 1787485148.0272875,
       "bankroll": 519.14,
       "event": "lost: Wiretransferxyz \u2014 Counter-Strike: Raccoons vs Vexar (BO3) - Exort Fiesta Group Stage"
+    },
+    {
+      "timestamp": 1787485465.285935,
+      "bankroll": 521.75,
+      "event": "won: RN1 \u2014 Counter-Strike: Color vs SPARTA - Map 1 Winner"
     }
   ]
 }
