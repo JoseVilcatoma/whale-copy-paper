@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.4125885264002,
+  "bankroll": 539.2225885264002,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5625,6 +5625,11 @@
       "timestamp": 1787476619.148007,
       "bankroll": 539.41,
       "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787477254.491909,
+      "bankroll": 539.22,
+      "event": "venta anticipada: Sunshine.Smile \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner (-0.19 USD)"
     }
   ]
 }
