@@ -32401,8 +32401,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -33138,8 +33138,8 @@
     "title": "Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 532.8302,
-    "whale_pct": 8.482,
+    "whale_usd": 7364.33388,
+    "whale_pct": 117.237,
     "whale_value_at_open": 6281.554,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -33152,8 +33152,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787521614.50788,
-    "fills": 1
+    "last_fill_at": 1787526870.7442918,
+    "fills": 3
   },
   {
     "timestamp": 1787522371,
