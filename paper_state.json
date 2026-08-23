@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.5564099726629,
+  "bankroll": 537.3378264173699,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5875,6 +5875,26 @@
       "timestamp": 1787493848.800183,
       "bankroll": 534.56,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will FK Akron Tolyatti win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787494466.6507716,
+      "bankroll": 535.54,
+      "event": "won: RN1 \u2014 Go Ahead Eagles vs. ADO Den Haag: 1st Half O/U 2.5"
+    },
+    {
+      "timestamp": 1787494468.6189525,
+      "bankroll": 535.84,
+      "event": "won: RN1 \u2014 Go Ahead Eagles vs. ADO Den Haag: O/U 0.5"
+    },
+    {
+      "timestamp": 1787494471.6685128,
+      "bankroll": 536.69,
+      "event": "won: RN1 \u2014 Will Go Ahead Eagles vs. ADO Den Haag end in a draw?"
+    },
+    {
+      "timestamp": 1787494473.6118712,
+      "bankroll": 537.34,
+      "event": "won: RN1 \u2014 Will Go Ahead Eagles win on 2026-08-23?"
     }
   ]
 }
