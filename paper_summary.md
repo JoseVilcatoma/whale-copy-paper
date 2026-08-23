@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:49:36 (hora de Perú)
+Actualizado: 2026-08-23 09:51:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $544.08
@@ -295,7 +295,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AS Monaco FC win on 2026-08-23? | No (BUY) | 52% | 5.00 | 13.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FUT Esports vs Spirit -  | FUT Esports (BUY) | 49% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 28.4% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 37.9% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 40.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 25.7% | ⏳ pendiente | — |
