@@ -29749,8 +29749,8 @@
     "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 61083.817575000015,
-    "whale_pct": 17.719,
+    "whale_usd": 70425.41707500002,
+    "whale_pct": 20.429,
     "whale_value_at_open": 344735.3298,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -29763,8 +29763,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787486694.8216302,
-    "fills": 9
+    "last_fill_at": 1787491754.569379,
+    "fills": 10
   },
   {
     "timestamp": 1787482909,
@@ -31299,8 +31299,8 @@
     "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 9549.928404,
-    "whale_pct": 1.883,
+    "whale_usd": 10103.711304,
+    "whale_pct": 1.992,
     "whale_value_at_open": 507221.6426,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -31313,8 +31313,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787491464.4901376,
-    "fills": 6
+    "last_fill_at": 1787491681.1547904,
+    "fills": 7
   },
   {
     "timestamp": 1787490999,
@@ -31509,5 +31509,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787491412.8657022,
     "fills": 2
+  },
+  {
+    "timestamp": 1787491707,
+    "timestamp_added": 1787491707.6332965,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "epl-mac-bou-2026-08-23-total-2pt5",
+    "title": "Manchester City FC vs. AFC Bournemouth: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 703.34,
+    "whale_pct": 0.261,
+    "whale_value_at_open": 269509.8241,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787491707.6333091,
+    "fills": 1
   }
 ]
