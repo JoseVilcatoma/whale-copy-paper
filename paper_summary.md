@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:11:17 (hora de Perú)
+Actualizado: 2026-08-23 08:13:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.70
@@ -317,6 +317,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 43% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit (BO5) | TEAM VISION (BUY) | 53% | 5.00 | 883.4% | ⏳ pendiente | — |
-| RN1 | Will Randers FC win on 2026-08-23? | No (BUY) | 91% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Randers FC win on 2026-08-23? | No (BUY) | 91% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Houston Astros | Houston Astros (BUY) | 63% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Spread: SpVgg Greuther Fürth (-1.5) | VfL Bochum (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |

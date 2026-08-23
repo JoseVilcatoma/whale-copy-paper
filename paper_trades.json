@@ -30610,8 +30610,8 @@
     "title": "Will Randers FC win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 693.3100000000001,
-    "whale_pct": 0.503,
+    "whale_usd": 1443.487,
+    "whale_pct": 1.048,
     "whale_value_at_open": 137783.4192,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -30622,8 +30622,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787487808.152836,
-    "fills": 1
+    "last_fill_at": 1787490773.3407094,
+    "fills": 2
   },
   {
     "timestamp": 1787487950,
