@@ -29799,8 +29799,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 8981.268,
-    "whale_pct": 53.368,
+    "whale_usd": 12014.868,
+    "whale_pct": 71.394,
     "whale_value_at_open": 16828.8756,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -29811,7 +29811,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787482911.6610863,
-    "fills": 1
+    "last_fill_at": 1787482996.9901035,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787483015,
+    "timestamp_added": 1787483015.9547842,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-vsn2-ts8-2026-08-23-game4",
+    "title": "Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner",
+    "outcome": "TEAM VISION",
+    "side": "BUY",
+    "whale_usd": 17155.555650000002,
+    "whale_pct": 113.282,
+    "whale_value_at_open": 15144.1249,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sunshine.Smile"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787483026.654597,
+    "fills": 6
   }
 ]
