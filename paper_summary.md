@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:51:50 (hora de Perú)
+Actualizado: 2026-08-23 06:53:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $524.59
-**Retorno acumulado:** +4.92%
+**Bankroll actual:** $519.52
+**Retorno acumulado:** +3.90%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:51:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $194.59)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $194.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,19 +63,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 46 | 15 | -16.19 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 161 | 77 | 21 | -47.89 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
+| RN1 | 161 | 78 | 20 | -52.96 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1094
-- **Aciertos:** 692 (63.3%)
+- **Apuestas resueltas:** 1095
+- **Aciertos:** 692 (63.2%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,465.45
-- **ROI sobre lo apostado:** -0.87%
-- **Comisiones pagadas (taker fee):** $102.53 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,470.45
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $102.60 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 568 | 49.8% | 50.3% | -0.5 pp |
-| 60-79% | 340 | 70.6% | 67.7% | +2.9 pp |
+| 60-79% | 341 | 70.4% | 67.7% | +2.6 pp |
 | 80-94% | 124 | 87.9% | 86.7% | +1.2 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
@@ -309,7 +309,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Young Boys Bern (-1.5) | FC Vaduz (BUY) | 44% | 5.00 | 2.4% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 17.5% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ❌ perdida | -5.07 |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force - G | Nongshim Red Force (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
