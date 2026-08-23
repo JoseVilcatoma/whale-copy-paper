@@ -33214,8 +33214,8 @@
     "title": "Cincinnati Open: Coco Gauff vs Jessica Pegula",
     "outcome": "Jessica Pegula",
     "side": "BUY",
-    "whale_usd": 4530.33322,
-    "whale_pct": 30.648,
+    "whale_usd": 13258.511620000001,
+    "whale_pct": 89.695,
     "whale_value_at_open": 14781.8033,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -33229,7 +33229,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787523199.300933,
-    "fills": 1
+    "last_fill_at": 1787523452.5982852,
+    "fills": 2
   }
 ]

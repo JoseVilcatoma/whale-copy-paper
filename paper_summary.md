@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:16:23 (hora de Perú)
+Actualizado: 2026-08-23 17:18:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $557.28
@@ -302,7 +302,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| casualbet2020 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 42% | 5.00 | 30.6% | ⏳ pendiente | — |
+| casualbet2020 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 42% | 5.00 | 89.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | 💰 vendida anticipada | -0.19 |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports - Map  | G2 Esports (BUY) | 64% | 5.00 | 47.1% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 88% | 5.00 | 8.5% | ⏳ pendiente | — |
