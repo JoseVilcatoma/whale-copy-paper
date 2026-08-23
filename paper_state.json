@@ -1,5 +1,5 @@
 {
-  "bankroll": 537.9427306736794,
+  "bankroll": 540.3265306736794,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5645,6 +5645,11 @@
       "timestamp": 1787479247.3094196,
       "bankroll": 537.94,
       "event": "won: RN1 \u2014 ITF M25 Slovenj Gradec Men: Sebastian Sorger vs Jonas Gundacker"
+    },
+    {
+      "timestamp": 1787479762.1076396,
+      "bankroll": 540.33,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner (+2.38 USD)"
     }
   ]
 }
