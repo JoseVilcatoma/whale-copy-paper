@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.4803138215359,
+  "bankroll": 499.326222912445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5410,6 +5410,16 @@
       "timestamp": 1787450720.517385,
       "bankroll": 500.48,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787451040.574557,
+      "bankroll": 495.35,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Orlando City SC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787451040.674697,
+      "bankroll": 499.33,
+      "event": "won: kekasaur \u2014 Will Orlando City SC win on 2026-08-22?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 21:09:19 (hora de Perú)
+Actualizado: 2026-08-22 21:11:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $500.48
-**Retorno acumulado:** +0.10%
+**Bankroll actual:** $499.33
+**Retorno acumulado:** -0.13%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 21:09:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $350.48)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $359.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,16 +22,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 12 | 1 | 7 | +40.78 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 12 | 2 | 6 | +35.65 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 10 | 0 | +26.12 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| kekasaur | 2 | 0 | 1 | +8.86 USD |
 | SDTrading | 16 | 12 | 1 | +8.47 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| kekasaur | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | pleaseplease123 | 2 | 1 | 0 | +3.52 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1031
-- **Aciertos:** 652 (63.2%)
+- **Apuestas resueltas:** 1033
+- **Aciertos:** 653 (63.2%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,150.45
-- **ROI sobre lo apostado:** -1.27%
-- **Comisiones pagadas (taker fee):** $96.24 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,160.45
+- **ROI sobre lo apostado:** -1.29%
+- **Comisiones pagadas (taker fee):** $96.48 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 529 | 49.1% | 50.3% | -1.2 pp |
+| 40-59% | 531 | 49.2% | 50.3% | -1.2 pp |
 | 60-79% | 326 | 71.2% | 67.8% | +3.4 pp |
 | 80-94% | 117 | 88.0% | 86.7% | +1.3 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
@@ -288,10 +288,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Valorant: Sentinels vs KRÜ Esports (BO3) | Sentinels (BUY) | 60% | 5.00 | 35.2% | ❌ perdida | -5.10 |
 | Djdjdjekekek | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 57% | 5.00 | 41450.1% | ❌ perdida | -5.11 |
 | SDTrading | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 51% | 5.00 | 10.8% | ✅ ganada | +4.68 |
-| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ⏳ pendiente | — |
+| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ✅ ganada | +3.98 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FC Cincinnati win on 2026-08-22? | No (BUY) | 41% | 5.00 | 3.7% | ✅ ganada | +7.05 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 2 Winn | Dignitas (BUY) | 51% | 5.00 | 25.3% | ❌ perdida | -5.12 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Orlando City SC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Orlando City SC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 3.6% | ❌ perdida | -5.13 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cruzeiro EC vs. CR Flamengo: O/U 2.5 | Under (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
 | kekasaur | Spread: CD Guadalajara (-1.5) | CD Guadalajara (BUY) | 43% | 5.00 | 58.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CR Flamengo win on 2026-08-22? | No (BUY) | 57% | 5.00 | 10.3% | ⏳ pendiente | — |
