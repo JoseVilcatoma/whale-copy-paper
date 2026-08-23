@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 02:16:00 (hora de Perú)
+Actualizado: 2026-08-23 02:18:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $525.89
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 02:16:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $380.89)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $375.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Djdjdjekekek | 10 | 11 | 2 | -15.81 USD |
-| HomeRunHazard | 75 | 46 | 11 | -19.29 USD |
+| HomeRunHazard | 75 | 46 | 12 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 | RN1 | 153 | 73 | 2 | -42.05 USD |
@@ -274,6 +274,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: Raccoons vs Vexar (BO3)  | Raccoons (BUY) | 76% | 5.00 | 3.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: JD Gaming vs TYLOO (BO5) - VCT | TYLOO (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 122.2% | ⏳ pendiente | — |
@@ -303,4 +304,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Cruz Azul vs. Atlas FC: O/U 5.5 | Under (BUY) | 94% | 5.00 | 0.8% | ✅ ganada | +0.30 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 44% | 5.00 | 196.0% | ✅ ganada | +6.22 |
 | MisterVision | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 56% | 5.00 | 278.0% | ✅ ganada | +3.82 |
-| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 359.9% | ❌ perdida | -5.14 |
