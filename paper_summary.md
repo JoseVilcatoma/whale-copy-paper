@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 04:30:29 (hora de Perú)
+Actualizado: 2026-08-23 04:32:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $537.90
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 04:30:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $282.90)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $277.90)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 3 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 11 | 2 | +36.41 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 11 | 3 | +36.41 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 10 | 4 | 7 | +24.86 USD |
@@ -281,6 +281,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 50% | 5.00 | 10.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Valentini Grammat | Jenny Lim (BUY) | 71% | 5.00 | 2.2% | ⏳ pendiente | — |
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 52% | 5.00 | 38.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -290,7 +291,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 62% | 5.00 | 10.9% | 💰 vendida anticipada | -1.08 |
 | Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 62% | 5.00 | 11.4% | 💰 vendida anticipada | -0.19 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Akron Tolyatti win on 2026-08-23 | No (BUY) | 67% | 5.00 | 3.0% | ⏳ pendiente | — |
-| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 79% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 79% | 5.00 | 3.4% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Game Handicap: JDG (-1.5) vs EDward Gami | EDward Gaming (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: LG Twins vs. Hanwha Eagles | LG Twins (BUY) | 60% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 42% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -310,4 +311,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | LGD Gaming (BUY) | 56% | 5.00 | 25.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 45% | 5.00 | 51.7% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 50% | 5.00 | 6.6% | ✅ ganada | +4.88 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 168.2% | 💰 vendida anticipada | +3.45 |

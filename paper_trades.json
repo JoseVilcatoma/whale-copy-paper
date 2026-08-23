@@ -29020,8 +29020,8 @@
     "title": "ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Kristijan Juhas",
     "outcome": "Kristijan Juhas",
     "side": "BUY",
-    "whale_usd": 1186.57,
-    "whale_pct": 2.309,
+    "whale_usd": 1752.07,
+    "whale_pct": 3.41,
     "whale_value_at_open": 51382.4963,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -29034,8 +29034,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787476939.6620069,
-    "fills": 1
+    "last_fill_at": 1787477501.5980515,
+    "fills": 2
   },
   {
     "timestamp": 1787477011,
@@ -29272,6 +29272,34 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787477393.6238196,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787477441,
+    "timestamp_added": 1787477442.0949872,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-vsn2-ts8-2026-08-23-game3",
+    "title": "Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 1410.431372,
+    "whale_pct": 10.713,
+    "whale_value_at_open": 13165.2978,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BOOMBOYS.Kiritych",
+      "MisterVision",
+      "Sunshine.Smile"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787477442.0949974,
     "fills": 1
   }
 ]
