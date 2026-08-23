@@ -29311,8 +29311,8 @@
     "title": "Counter-Strike: Color vs SPARTA - Map 1 Winner",
     "outcome": "SPARTA",
     "side": "BUY",
-    "whale_usd": 621.8776,
-    "whale_pct": 1.108,
+    "whale_usd": 1334.8776,
+    "whale_pct": 2.379,
     "whale_value_at_open": 56103.9306,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -29323,7 +29323,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787477647.448847,
-    "fills": 1
+    "last_fill_at": 1787477684.313108,
+    "fills": 2
   }
 ]
