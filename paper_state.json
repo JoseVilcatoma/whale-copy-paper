@@ -1,5 +1,5 @@
 {
-  "bankroll": 524.8105032253836,
+  "bankroll": 520.050801097724,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6005,6 +6005,21 @@
       "timestamp": 1787497862.5695956,
       "bankroll": 524.81,
       "event": "won: RN1 \u2014 Angers SCO vs. Lille OSC: O/U 1.5"
+    },
+    {
+      "timestamp": 1787498041.537363,
+      "bankroll": 519.66,
+      "event": "lost: RN1 \u2014 Manchester City FC vs. AFC Bournemouth: O/U 2.5"
+    },
+    {
+      "timestamp": 1787498042.4384456,
+      "bankroll": 525.17,
+      "event": "won: RN1 \u2014 Manchester City FC vs. AFC Bournemouth: O/U 2.5"
+    },
+    {
+      "timestamp": 1787498043.1319344,
+      "bankroll": 520.05,
+      "event": "lost: RN1 \u2014 Angers SCO vs. Lille OSC: O/U 3.5"
     }
   ]
 }
