@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 07:38:05 (hora de Perú)
+Actualizado: 2026-08-23 07:40:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $531.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 07:38:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $166.99)
+**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $146.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | pleaseplease123 | 2 | 1 | 0 | +3.52 USD |
-| SDTrading | 16 | 13 | 0 | +3.35 USD |
+| SDTrading | 16 | 13 | 1 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -60,11 +60,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Wiretransferxyz | 3 | 4 | 4 | -11.20 USD |
 | Djdjdjekekek | 10 | 11 | 2 | -15.81 USD |
-| HomeRunHazard | 76 | 46 | 16 | -16.19 USD |
+| HomeRunHazard | 76 | 46 | 18 | -16.19 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 162 | 78 | 30 | -52.37 USD |
+| RN1 | 162 | 78 | 31 | -52.37 USD |
 
 ## Análisis general
 
@@ -282,11 +282,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dfb-fur-boc-2026-08-23-boc | RN1, plonker2026 |
 | dota2-vsn2-ts8-2026-08-23-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Sunshine.Smile |
 | lol-fox1-ns-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
+| mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Arizona Diamondbacks (-1.5) | Cincinnati Reds (BUY) | 63% | 5.00 | 3.9% | ⏳ pendiente | — |
+| SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 56% | 5.00 | 32.9% | ⏳ pendiente | — |
 | RN1 | Will FC Groningen win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | Yes (BUY) | 97% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -313,7 +318,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: EDward Gaming vs JD Gaming (BO3) -  | JD Gaming (BUY) | 74% | 5.00 | 21.4% | ⏳ pendiente | — |
 | RN1 | Will Go Ahead Eagles vs. ADO Den Haag en | No (BUY) | 85% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | ITF M25 Lesa Men: Pierluigi Basile vs Al | Pierluigi Basile (BUY) | 89% | 5.00 | 0.7% | ✅ ganada | +0.59 |
-| RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Will VfL Bochum win on 2026-08-23? | Yes (BUY) | 64% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | ITF W35 Erwitte Women: Josy Daems vs Val | Valentina Steiner (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: CTBC Flying Oyster vs Team Secret W | CTBC Flying Oyster (BUY) | 62% | 5.00 | 2.2% | 💰 vendida anticipada | -2.21 |
