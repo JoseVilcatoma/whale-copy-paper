@@ -27654,8 +27654,8 @@
     "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
     "outcome": "Team Yandex",
     "side": "BUY",
-    "whale_usd": 396300.72459299996,
-    "whale_pct": 189.707,
+    "whale_usd": 734551.3647429998,
+    "whale_pct": 351.625,
     "whale_value_at_open": 208901.8663,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -27666,8 +27666,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787456435.4877326,
-    "fills": 14
+    "last_fill_at": 1787456554.3227592,
+    "fills": 23
   },
   {
     "timestamp": 1787456447,
@@ -27678,8 +27678,8 @@
     "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 860.5905000000001,
-    "whale_pct": 22.118,
+    "whale_usd": 10814.917400000002,
+    "whale_pct": 277.959,
     "whale_value_at_open": 3890.8313,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -27692,7 +27692,34 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787456448.177927,
-    "fills": 1
+    "last_fill_at": 1787456466.1672852,
+    "fills": 4
+  },
+  {
+    "timestamp": 1787456493,
+    "timestamp_added": 1787456493.916992,
+    "username": "BOOMBOYS.Kiritych",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "dota2-ty-ts8-2026-08-22-game2",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 2 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 124865.30490000002,
+    "whale_pct": 74.317,
+    "whale_value_at_open": 168016.2858,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "MisterVision"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787456516.1986578,
+    "fills": 2
   }
 ]
