@@ -1,5 +1,5 @@
 {
-  "bankroll": 510.52364715486925,
+  "bankroll": 500.30564715486923,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5390,6 +5390,16 @@
       "timestamp": 1787450100.0522015,
       "bankroll": 510.52,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Charlotte FC vs. D.C. United SC: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1787450415.520164,
+      "bankroll": 505.41,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Baltimore Orioles: O/U 7.5"
+    },
+    {
+      "timestamp": 1787450476.6558154,
+      "bankroll": 500.31,
+      "event": "lost: Djdjdjekekek \u2014 Tampa Bay Rays vs. Baltimore Orioles"
     }
   ]
 }
