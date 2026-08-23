@@ -1,5 +1,5 @@
 {
-  "bankroll": 577.87385408291,
+  "bankroll": 567.6998540829101,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6460,6 +6460,16 @@
       "timestamp": 1787521302.6423678,
       "bankroll": 577.87,
       "event": "won:  \u2014 Los Angeles Angels vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1787521615.755737,
+      "bankroll": 572.78,
+      "event": "lost: HomeRunHazard \u2014 Athletics vs. Houston Astros"
+    },
+    {
+      "timestamp": 1787521621.7242658,
+      "bankroll": 567.7,
+      "event": "lost: Sunshine.Smile \u2014 LoL: LOS vs LOUD - Game 1 Winner"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 16:45:37 (hora de Perú)
+Actualizado: 2026-08-23 16:47:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $577.87
-**Retorno acumulado:** +15.57%
+**Bankroll actual:** $567.70
+**Retorno acumulado:** +13.54%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 16:45:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $362.87)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $357.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,15 +25,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 18 | 3 | +39.03 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 13 | 5 | 0 | +23.81 USD |
+| casualbet2020 | 13 | 5 | 1 | +23.81 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
 | ChonkyChocolateCake | 27 | 16 | 2 | +17.44 USD |
 | kekasaur | 3 | 0 | 1 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 18 | 13 | 4 | +12.68 USD |
 | plonker2026 | 3 | 1 | 1 | +12.49 USD |
-| Sunshine.Smile | 7 | 3 | 2 | +12.29 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| Sunshine.Smile | 7 | 4 | 1 | +7.21 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -56,12 +56,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 83 | 49 | 13 | -5.60 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| HomeRunHazard | 83 | 50 | 12 | -10.69 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
 | Sassy-Bucket | 11 | 16 | 0 | -33.17 USD |
 |  | 29 | 22 | 1 | -55.43 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1220
-- **Aciertos:** 780 (63.9%)
+- **Apuestas resueltas:** 1222
+- **Aciertos:** 780 (63.8%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,093.59
-- **ROI sobre lo apostado:** +0.07%
-- **Comisiones pagadas (taker fee):** $114.01 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.94% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,103.59
+- **ROI sobre lo apostado:** -0.10%
+- **Comisiones pagadas (taker fee):** $114.18 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 637 | 50.4% | 50.2% | +0.2 pp |
-| 60-79% | 367 | 71.1% | 67.7% | +3.4 pp |
+| 60-79% | 369 | 70.7% | 67.7% | +3.1 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
 
@@ -296,11 +296,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-th-gx-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 | lol-th-gx-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 | lol-shft-kc-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
+| val-nv2-g21-2026-08-23 | Wiretransferxyz, casualbet2020 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 88% | 5.00 | 8.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 89% | 5.00 | 4.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 68% | 5.00 | 23.9% | 💰 vendida anticipada | +0.06 |
 |  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
@@ -320,7 +322,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ⏳ pendiente | — |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ✅ ganada | +4.50 |
-| Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ⏳ pendiente | — |
+| Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ❌ perdida | -5.08 |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 1 W | Karmine Corp (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
 | plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes (BUY) | 57% | 5.00 | 135.5% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 44% | 5.00 | 0.5% | ✅ ganada | +6.22 |
@@ -330,4 +332,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | danielwolfmorales3pddb6dl6 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 44% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 47% | 5.00 | 13.9% | ✅ ganada | +5.51 |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tiafoe (+1. | Tiafoe (BUY) | 60% | 5.00 | 15.4% | ⏳ pendiente | — |
-| SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins (BUY) | 43% | 5.00 | 22.6% | ⏳ pendiente | — |
