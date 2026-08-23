@@ -29521,5 +29521,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787480239.3337307,
     "fills": 1
+  },
+  {
+    "timestamp": 1787480993,
+    "timestamp_added": 1787480993.9863122,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "den-sjs-nor-2026-08-23-nor",
+    "title": "Will FC Nordsj\u00e6lland win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 707.3499999999999,
+    "whale_pct": 0.958,
+    "whale_value_at_open": 73869.4181,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787480993.9863188,
+    "fills": 1
   }
 ]

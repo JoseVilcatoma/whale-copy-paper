@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:29:10 (hora de Perú)
+Actualizado: 2026-08-23 05:31:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $542.71
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:29:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $252.71)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $247.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 14 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 156 | 74 | 12 | -39.65 USD |
+| RN1 | 156 | 74 | 13 | -39.65 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
@@ -281,6 +281,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will FC Nordsjælland win on 2026-08-23? | Yes (BUY) | 48% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 95% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: 1st Ha | Under (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -310,4 +311,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M25 Slovenj Gradec Men: Sebastian So | Sebastian Sorger (BUY) | 99% | 5.00 | 1.7% | ✅ ganada | +0.05 |
 | Wiretransferxyz | Map Handicap: TS (-1.5) vs FUT Esports ( | Spirit (BUY) | 57% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | No (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
-| MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 59% | 5.00 | 48.5% | ⏳ pendiente | — |
