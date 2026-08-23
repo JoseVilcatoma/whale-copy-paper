@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:15:18 (hora de Perú)
+Actualizado: 2026-08-23 08:17:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.13
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 08:15:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $70.13)
+**Capital comprometido ahora mismo:** $485.00 en 97 posiciones abiertas (disponible para nuevas apuestas: $45.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,12 +21,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 10 | +43.99 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 11 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 15 | 2 | +30.55 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 14 | 7 | 5 | +23.83 USD |
+| BOOMBOYS.Kiritych | 14 | 7 | 6 | +23.83 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | ChonkyChocolateCake | 22 | 14 | 3 | +11.72 USD |
@@ -60,11 +60,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Wiretransferxyz | 3 | 4 | 4 | -11.20 USD |
 | Djdjdjekekek | 10 | 11 | 2 | -15.81 USD |
-| HomeRunHazard | 76 | 46 | 18 | -16.19 USD |
+| HomeRunHazard | 76 | 46 | 19 | -16.19 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 163 | 78 | 42 | -51.66 USD |
+| RN1 | 163 | 78 | 44 | -51.66 USD |
 
 ## Análisis general
 
@@ -266,6 +266,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-dsg-dig-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | cs2-furia-lgc-2026-08-23 | BOOMBOYS.Kiritych, Wiretransferxyz |
 | mls-orl-rsl-2026-08-22-orl | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kekasaur |
+| cs2-fut-ts7-2026-08-23 | SPCEXBUYER, Wiretransferxyz |
 | epl-new-liv-2026-08-23-liv | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, RN1, plonker2026 |
 | dota2-ty-ts8-2026-08-22-game1 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek |
 | itf-kisimov-juhas-2026-08-23 | , RN1 |
@@ -290,6 +291,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Seattle Storm vs. Dallas Wings: O/U 173. | Under (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Will LDU Quito win on 2026-08-23? | Yes (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -315,8 +321,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | Yes (BUY) | 97% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 43% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 58% | 5.00 | 0.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit (BO5) | TEAM VISION (BUY) | 53% | 5.00 | 883.4% | 💰 vendida anticipada | -2.57 |
-| RN1 | Will Randers FC win on 2026-08-23? | No (BUY) | 91% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Athletics vs. Houston Astros | Houston Astros (BUY) | 63% | 5.00 | 4.0% | ⏳ pendiente | — |
-| RN1 | Spread: SpVgg Greuther Fürth (-1.5) | VfL Bochum (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
