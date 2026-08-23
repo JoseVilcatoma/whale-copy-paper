@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.8050505768441,
+  "bankroll": 499.9546077084438,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5465,6 +5465,36 @@
       "timestamp": 1787456418.6127787,
       "bankroll": 500.81,
       "event": "lost: Djdjdjekekek \u2014 Eagles vs. Patriots"
+    },
+    {
+      "timestamp": 1787456729.1616397,
+      "bankroll": 495.67,
+      "event": "lost: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-3.5)"
+    },
+    {
+      "timestamp": 1787456729.8702247,
+      "bankroll": 490.56,
+      "event": "lost: HomeRunHazard \u2014 Connecticut Sun vs. Los Angeles Sparks: O/U 166.5"
+    },
+    {
+      "timestamp": 1787456729.9703398,
+      "bankroll": 494.7,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Sparks (-3.5)"
+    },
+    {
+      "timestamp": 1787456730.6811838,
+      "bankroll": 499.57,
+      "event": "won: HomeRunHazard \u2014 Connecticut Sun vs. Los Angeles Sparks: O/U 169.5"
+    },
+    {
+      "timestamp": 1787456730.781318,
+      "bankroll": 494.45,
+      "event": "lost: HomeRunHazard \u2014 Connecticut Sun vs. Los Angeles Sparks: O/U 169.5"
+    },
+    {
+      "timestamp": 1787456731.2109928,
+      "bankroll": 499.95,
+      "event": "won: HomeRunHazard \u2014 Connecticut Sun vs. Los Angeles Sparks: O/U 168.5"
     }
   ]
 }
