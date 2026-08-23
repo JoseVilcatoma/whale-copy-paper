@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.1520708836828,
+  "bankroll": 510.52364715486925,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5385,6 +5385,11 @@
       "timestamp": 1787449973.539633,
       "bankroll": 507.15,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will FC Cincinnati win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787450100.0522015,
+      "bankroll": 510.52,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Charlotte FC vs. D.C. United SC: 1st Half O/U 1.5"
     }
   ]
 }
