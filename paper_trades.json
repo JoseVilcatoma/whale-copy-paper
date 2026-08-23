@@ -28009,5 +28009,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787461424.981488,
     "fills": 1
+  },
+  {
+    "timestamp": 1787461985,
+    "timestamp_added": 1787461986.2454097,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-hotu-cyb-2026-08-23",
+    "title": "Counter-Strike: HOTU vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+    "outcome": "HOTU",
+    "side": "BUY",
+    "whale_usd": 609.7176000000001,
+    "whale_pct": 1.883,
+    "whale_value_at_open": 32381.2817,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787461986.2454221,
+    "fills": 1
   }
 ]
