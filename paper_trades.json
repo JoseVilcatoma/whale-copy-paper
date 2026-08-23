@@ -31785,8 +31785,8 @@
     "title": "LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend",
     "outcome": "Bilibili Gaming",
     "side": "BUY",
-    "whale_usd": 181287.504381,
-    "whale_pct": 41.839,
+    "whale_usd": 190288.477781,
+    "whale_pct": 43.917,
     "whale_value_at_open": 433293.6384,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -31799,8 +31799,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787496929.9513047,
-    "fills": 32
+    "last_fill_at": 1787496947.2877443,
+    "fills": 34
   },
   {
     "timestamp": 1787496410,
@@ -31898,6 +31898,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787496855.999176,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787497042,
+    "timestamp_added": 1787497042.3790317,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-tor-nyy-2026-08-23-total-7pt5",
+    "title": "Toronto Blue Jays vs. New York Yankees: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 23954.100500000004,
+    "whale_pct": 64.008,
+    "whale_value_at_open": 37423.3385,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787497042.3790429,
     "fills": 1
   }
 ]

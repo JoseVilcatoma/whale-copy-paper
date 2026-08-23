@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:55:46 (hora de Perú)
+Actualizado: 2026-08-23 09:57:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $538.94
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:55:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $513.14 en 103 posiciones abiertas (disponible para nuevas apuestas: $25.80)
+**Capital comprometido ahora mismo:** $518.14 en 104 posiciones abiertas (disponible para nuevas apuestas: $20.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
-| pleaseplease123 | 2 | 1 | 0 | +3.52 USD |
+| pleaseplease123 | 2 | 1 | 1 | +3.52 USD |
 | SDTrading | 16 | 13 | 2 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -287,16 +287,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-blg-al-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 | mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
 | lol-blg-al-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
+| mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 64.0% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AS Monaco FC win on 2026-08-23? | No (BUY) | 52% | 5.00 | 13.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FUT Esports vs Spirit -  | FUT Esports (BUY) | 49% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 28.4% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 41.8% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 43.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 104.9% | ⏳ pendiente | — |
@@ -321,4 +323,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 7.2% | ⏳ pendiente | — |
-| RN1 | Young Boys Bern vs. FC Vaduz: O/U 4.5 | Over (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
