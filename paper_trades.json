@@ -27937,5 +27937,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787460972.7625988,
     "fills": 1
+  },
+  {
+    "timestamp": 1787461311,
+    "timestamp_added": 1787461312.514448,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-stl-phi-2026-08-23-total-7pt5",
+    "title": "St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 500.0,
+    "whale_pct": 1.097,
+    "whale_value_at_open": 45563.3867,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787461312.5144632,
+    "fills": 1
   }
 ]
