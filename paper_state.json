@@ -1,5 +1,5 @@
 {
-  "bankroll": 570.0917256406658,
+  "bankroll": 575.9574832164234,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6525,6 +6525,26 @@
       "timestamp": 1787524120.0632217,
       "bankroll": 570.09,
       "event": "lost: plonker2026 \u2014 Will Be\u015fikta\u015f JK win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787525060.7757015,
+      "bankroll": 575.38,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Fils vs. Tiafoe: Match O/U 22.5"
+    },
+    {
+      "timestamp": 1787525061.478805,
+      "bankroll": 570.23,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Fils vs. Tiafoe: Match O/U 23.5"
+    },
+    {
+      "timestamp": 1787525064.3113503,
+      "bankroll": 573.47,
+      "event": "won: danielwolfmorales3pddb6dl6 \u2014 Set Handicap: Fils (-1.5) vs Tiafoe (+1.5)"
+    },
+    {
+      "timestamp": 1787525066.923876,
+      "bankroll": 575.96,
+      "event": "won:  \u2014 Cincinnati Open: Arthur Fils vs Frances Tiafoe"
     }
   ]
 }

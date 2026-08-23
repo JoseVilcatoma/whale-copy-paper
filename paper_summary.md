@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:43:01 (hora de Perú)
+Actualizado: 2026-08-23 17:45:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $570.09
-**Retorno acumulado:** +14.02%
+**Bankroll actual:** $575.96
+**Retorno acumulado:** +15.19%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:43:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $365.09)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $380.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 22 | 8 | 7 | +44.65 USD |
-| swisstony | 30 | 1 | 6 | +43.66 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 23 | 9 | 5 | +44.80 USD |
+| swisstony | 30 | 1 | 8 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
@@ -62,21 +62,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
+| danielwolfmorales3pddb6dl6 | 15 | 18 | 5 | -22.10 USD |
 | Sassy-Bucket | 11 | 16 | 0 | -33.17 USD |
-|  | 29 | 22 | 1 | -55.43 USD |
+|  | 30 | 22 | 0 | -52.94 USD |
 | RN1 | 201 | 92 | 1 | -57.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1232
-- **Aciertos:** 786 (63.8%)
+- **Apuestas resueltas:** 1236
+- **Aciertos:** 789 (63.8%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,153.59
-- **ROI sobre lo apostado:** -0.06%
-- **Comisiones pagadas (taker fee):** $115.28 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.82% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,173.59
+- **ROI sobre lo apostado:** +0.04%
+- **Comisiones pagadas (taker fee):** $115.74 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,8 +84,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 645 | 50.4% | 50.3% | +0.1 pp |
-| 60-79% | 371 | 70.9% | 67.7% | +3.2 pp |
+| 40-59% | 647 | 50.4% | 50.3% | +0.1 pp |
+| 60-79% | 373 | 71.0% | 67.7% | +3.4 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
 
@@ -303,6 +303,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Coritiba FBC vs. SC Corinthians Paulista | Under (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Will Vila Nova FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Coritiba FBC (-1.5) | SC Corinthians Paulista (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -319,7 +321,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels (BO3) - LCS  | Sentinels (BUY) | 94% | 5.00 | 100.9% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 72% | 5.00 | 85.7% | ⏳ pendiente | — |
-|  | Cincinnati Open: Arthur Fils vs Frances  | Arthur Fils (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
+|  | Cincinnati Open: Arthur Fils vs Frances  | Arthur Fils (BUY) | 66% | 5.00 | 0.6% | ✅ ganada | +2.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 1 Win | Sentinels (BUY) | 96% | 5.00 | 19.6% | ⏳ pendiente | — |
 |  | Torino FC vs. AC Milan: O/U 2.5 | Under (BUY) | 49% | 5.00 | 1.1% | ❌ perdida | -5.13 |
 | SDTrading | Cincinnati Reds vs. Arizona Diamondbacks | Under (BUY) | 48% | 5.00 | 9.3% | ⏳ pendiente | — |
@@ -331,5 +333,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 68% | 5.00 | 3.6% | 💰 vendida anticipada | +0.44 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 74% | 5.00 | 8.8% | 💰 vendida anticipada | +1.41 |
 | Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ✅ ganada | +1.78 |
-| MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ✅ ganada | +2.07 |
-| 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ✅ ganada | +4.50 |
