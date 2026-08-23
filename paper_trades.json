@@ -28019,8 +28019,8 @@
     "title": "Counter-Strike: HOTU vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage",
     "outcome": "HOTU",
     "side": "BUY",
-    "whale_usd": 609.7176000000001,
-    "whale_pct": 1.883,
+    "whale_usd": 3038.0976,
+    "whale_pct": 9.382,
     "whale_value_at_open": 32381.2817,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -28031,8 +28031,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787461986.2454221,
-    "fills": 1
+    "last_fill_at": 1787462975.8876417,
+    "fills": 3
   },
   {
     "timestamp": 1787462198,

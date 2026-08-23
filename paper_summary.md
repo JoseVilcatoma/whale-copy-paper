@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 00:28:34 (hora de Perú)
+Actualizado: 2026-08-23 00:30:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $516.64
@@ -274,7 +274,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | Kokoro Isomura (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 1.9% | ⏳ pendiente | — |
+| Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 9.4% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
