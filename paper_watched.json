@@ -14,31 +14,25 @@
   "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9": {
     "username": "plonker2026",
     "added_at": 1787453597.711626,
-    "roi_pct": 699.28,
+    "roi_pct": 698.42,
     "short_term_pct": 100.0
   },
   "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b": {
     "username": "Wiretransferxyz",
     "added_at": 1787455483.071859,
-    "roi_pct": 426.51,
+    "roi_pct": 398.63,
     "short_term_pct": 100.0
   },
   "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3": {
     "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
     "added_at": 1787455483.071861,
-    "roi_pct": 690.63,
+    "roi_pct": 840.88,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1787455483.0718622,
-    "roi_pct": 535.93,
-    "short_term_pct": 100.0
-  },
-  "0xf5f92940519a72da460b1c2a606bc1230f0e87b0": {
-    "username": "kekasaur",
-    "added_at": 1787458025.6938007,
-    "roi_pct": 334.85,
+    "roi_pct": 773.48,
     "short_term_pct": 100.0
   },
   "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
@@ -50,13 +44,19 @@
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1787459871.9452248,
-    "roi_pct": 312.33,
+    "roi_pct": 308.41,
     "short_term_pct": 100.0
   },
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "BOOMBOYS.Kiritych",
     "added_at": 1787462638.244799,
-    "roi_pct": 73199.47,
+    "roi_pct": 71413.38,
+    "short_term_pct": 100.0
+  },
+  "0x6d20c35f65d9899b6d6b74f8466e824580f9a165": {
+    "username": "Djdjdjekekek",
+    "added_at": 1787463558.109756,
+    "roi_pct": 151.82,
     "short_term_pct": 100.0
   }
 }
