@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:58:03 (hora de Perú)
+Actualizado: 2026-08-23 07:00:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:58:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $184.52)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $174.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 5 | +43.99 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 6 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 12 | 3 | +39.72 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 161 | 78 | 20 | -52.96 USD |
+| RN1 | 161 | 78 | 21 | -52.96 USD |
 
 ## Análisis general
 
@@ -286,8 +286,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO | BNK FEARX (BUY) | 56% | 5.00 | 19.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force (BO | BNK FEARX (BUY) | 53% | 5.00 | 9.0% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Beşiktaş JK win on 2026-08-23? | No (BUY) | 45% | 5.00 | 4.7% | ⏳ pendiente | — |
+| RN1 | Will Go Ahead Eagles win on 2026-08-23? | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO | BNK FEARX (BUY) | 56% | 5.00 | 35.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force (BO | BNK FEARX (BUY) | 53% | 5.00 | 10.1% | ⏳ pendiente | — |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Under (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Aarhus GF win on 2026-08-21? | Yes (BUY) | 50% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -314,5 +316,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ❌ perdida | -5.07 |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force - G | Nongshim Red Force (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
