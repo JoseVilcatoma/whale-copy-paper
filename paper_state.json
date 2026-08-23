@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.04764923868277,
+  "bankroll": 499.93064923868275,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5325,6 +5325,11 @@
       "timestamp": 1787448238.2885544,
       "bankroll": 505.05,
       "event": "lost: HomeRunHazard \u2014 Indiana Fever vs. New York Liberty: O/U 188.5"
+    },
+    {
+      "timestamp": 1787448860.4635367,
+      "bankroll": 499.93,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Brandon Nakashima vs Frances Tiafoe"
     }
   ]
 }
