@@ -32242,22 +32242,24 @@
     "title": "LoL: Team Heretics vs GIANTX - Game 2 Winner",
     "outcome": "Team Heretics",
     "side": "BUY",
-    "whale_usd": 2618.7331,
-    "whale_pct": 2.514,
+    "whale_usd": 3499.0692,
+    "whale_pct": 3.36,
     "whale_value_at_open": 104148.3855,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.68,
     "overlaps_with": [
       "MisterVision",
       "SPCEXBUYER"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787502821.7136905,
-    "fills": 2
+    "last_fill_at": 1787503027.406992,
+    "fills": 3,
+    "fee_total_usd": 0.152,
+    "closed_price": 77
   }
 ]

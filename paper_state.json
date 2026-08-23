@@ -1,5 +1,5 @@
 {
-  "bankroll": 532.3341893426801,
+  "bankroll": 533.0154393426801,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6185,6 +6185,11 @@
       "timestamp": 1787502575.322274,
       "bankroll": 532.33,
       "event": "won: RN1 \u2014 Will FC Groningen win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787503053.0926454,
+      "bankroll": 533.02,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Heretics vs GIANTX - Game 2 Winner (+0.68 USD)"
     }
   ]
 }
