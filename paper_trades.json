@@ -29283,8 +29283,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 40141.754923,
-    "whale_pct": 304.906,
+    "whale_usd": 44327.226621,
+    "whale_pct": 336.697,
     "whale_value_at_open": 13165.2978,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -29299,8 +29299,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787478133.9676914,
-    "fills": 13
+    "last_fill_at": 1787478282.9522524,
+    "fills": 16
   },
   {
     "timestamp": 1787477647,
@@ -29325,5 +29325,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787477684.313108,
     "fills": 2
+  },
+  {
+    "timestamp": 1787478183,
+    "timestamp_added": 1787478184.4819582,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "epl-mac-bou-2026-08-23-corners-total-9pt5",
+    "title": "Manchester City FC vs. AFC Bournemouth: O/U 9.5 Total Corners",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1350.0,
+    "whale_pct": 5.045,
+    "whale_value_at_open": 26758.1325,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787478184.4819725,
+    "fills": 1
   }
 ]
