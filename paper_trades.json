@@ -28349,5 +28349,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787468079.3728328,
     "fills": 1
+  },
+  {
+    "timestamp": 1787468384,
+    "timestamp_added": 1787468384.635015,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "cs2-raccoo-vex1-2026-08-23",
+    "title": "Counter-Strike: Raccoons vs Vexar (BO3) - Exort Fiesta Group Stage",
+    "outcome": "Raccoons",
+    "side": "BUY",
+    "whale_usd": 1500.0,
+    "whale_pct": 3.354,
+    "whale_value_at_open": 44719.7064,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787468384.6350257,
+    "fills": 1
   }
 ]

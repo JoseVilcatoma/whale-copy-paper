@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 01:58:57 (hora de Perú)
+Actualizado: 2026-08-23 02:00:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $518.83
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 01:58:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $358.83)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $353.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Wiretransferxyz | 1 | 2 | 6 | -8.70 USD |
+| Wiretransferxyz | 1 | 2 | 7 | -8.70 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -274,6 +274,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Wiretransferxyz | Counter-Strike: Raccoons vs Vexar (BO3)  | Raccoons (BUY) | 76% | 5.00 | 3.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: JD Gaming vs TYLOO (BO5) - VCT | TYLOO (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 122.2% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 47% | 5.00 | 156.6% | ⏳ pendiente | — |
@@ -303,4 +304,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 44% | 5.00 | 196.0% | ✅ ganada | +6.22 |
 | MisterVision | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 56% | 5.00 | 278.0% | ✅ ganada | +3.82 |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 359.9% | ❌ perdida | -5.14 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 49% | 5.00 | 27.1% | ✅ ganada | +5.08 |
