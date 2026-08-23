@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:05:03 (hora de Perú)
+Actualizado: 2026-08-23 08:09:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.70
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 08:05:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $97.70)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $72.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 163 | 78 | 36 | -51.66 USD |
+| RN1 | 163 | 78 | 41 | -51.66 USD |
 
 ## Análisis general
 
@@ -290,9 +290,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 4.4% | ⏳ pendiente | — |
+| RN1 | Young Boys Bern vs. FC Vaduz: O/U 4.5 | Over (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 59% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Brighton & Hove Albion FC vs. Aston Vill | Over (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Will AFC Bournemouth win on 2026-08-23? | No (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Will AFC Bournemouth win on 2026-08-23? | No (BUY) | 89% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Will Lille OSC win on 2026-08-23? | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC win on 20 | No (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -315,8 +320,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Athletics vs. Houston Astros | Houston Astros (BUY) | 63% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Spread: SpVgg Greuther Fürth (-1.5) | VfL Bochum (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Augsburg: Georgii Kravchenko vs Dominik  | Georgii Kravchenko (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | ITF W15 Logrono Women: Juliana Giaccio v | Juliana Giaccio (BUY) | 87% | 5.00 | 2.4% | ✅ ganada | +0.71 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 34.9% | ⏳ pendiente | — |
-| RN1 | Will Young Boys Bern win on 2026-08-23? | Yes (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Will Burnley FC win on 2026-08-23? | No (BUY) | 94% | 5.00 | 1.1% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 50% | 5.00 | 6.3% | ⏳ pendiente | — |
