@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 23:12:50 (hora de Perú)
+Actualizado: 2026-08-22 23:14:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 23:12:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $422.46)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $417.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Djdjdjekekek | 10 | 10 | 1 | -10.67 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
-| HomeRunHazard | 74 | 46 | 3 | -21.78 USD |
+| HomeRunHazard | 74 | 46 | 4 | -21.78 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 | RN1 | 149 | 73 | 1 | -49.11 USD |
@@ -272,6 +272,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-4.5) | Portland Fire (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Chunichi Dragons vs. Tokyo Yakult Swallo | Chunichi Dragons (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | CF Cruz Azul vs. Atlas FC: O/U 5.5 | Under (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -301,4 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ✅ ganada | +3.98 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FC Cincinnati win on 2026-08-22? | No (BUY) | 41% | 5.00 | 3.7% | ✅ ganada | +7.05 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 2 Winn | Dignitas (BUY) | 51% | 5.00 | 25.3% | ❌ perdida | -5.12 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Orlando City SC win on 2026-08-22? | No (BUY) | 47% | 5.00 | 3.6% | ❌ perdida | -5.13 |
