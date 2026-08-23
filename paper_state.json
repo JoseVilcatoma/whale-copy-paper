@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.6744118641876,
+  "bankroll": 517.4049674197432,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6085,6 +6085,16 @@
       "timestamp": 1787498171.7204957,
       "bankroll": 515.67,
       "event": "lost: RN1 \u2014 Will Manchester City FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787498225.4413617,
+      "bankroll": 516.87,
+      "event": "won: RN1 \u2014 Will Brighton & Hove Albion FC vs. Aston Villa FC end in a draw?"
+    },
+    {
+      "timestamp": 1787498288.2350879,
+      "bankroll": 517.4,
+      "event": "won: RN1 \u2014 Will Aston Villa FC win on 2026-08-23?"
     }
   ]
 }
