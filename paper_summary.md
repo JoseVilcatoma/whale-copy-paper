@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:16:51 (hora de Perú)
+Actualizado: 2026-08-23 05:18:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $542.71
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:16:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $267.71)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $252.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 14 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 156 | 74 | 9 | -39.65 USD |
+| RN1 | 156 | 74 | 12 | -39.65 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
@@ -281,6 +281,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 95% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Go Ahead Eagles vs. ADO Den Haag: 1st Ha | Under (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Pavel Lagut | Pavel Lagutin (BUY) | 97% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Verbier Women: Valentini Grammat | Valentini Grammatikopoulou (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -308,6 +311,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Map Handicap: TS (-1.5) vs FUT Esports ( | Spirit (BUY) | 57% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | No (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 59% | 5.00 | 48.5% | ⏳ pendiente | — |
-| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 67% | 5.00 | 3.4% | ✅ ganada | +2.38 |
-| MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | T1 (BUY) | 47% | 5.00 | 32.6% | 💰 vendida anticipada | -1.01 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 62.7% | 💰 vendida anticipada | +1.34 |
