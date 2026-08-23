@@ -27779,8 +27779,8 @@
     "title": "Spread: Washington Mystics (-4.5)",
     "outcome": "Portland Fire",
     "side": "BUY",
-    "whale_usd": 510.12,
-    "whale_pct": 0.635,
+    "whale_usd": 1799.1216,
+    "whale_pct": 2.239,
     "whale_value_at_open": 80367.4867,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -27791,8 +27791,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787458208.7397802,
-    "fills": 1
+    "last_fill_at": 1787464855.1286786,
+    "fills": 3
   },
   {
     "timestamp": 1787458389,
@@ -28019,8 +28019,8 @@
     "title": "Counter-Strike: HOTU vs CYBERSHOKE Prospects (BO3) - Moscow Cyber Games European Qualifier Group Stage",
     "outcome": "HOTU",
     "side": "BUY",
-    "whale_usd": 5434.9704,
-    "whale_pct": 16.784,
+    "whale_usd": 7313.148,
+    "whale_pct": 22.584,
     "whale_value_at_open": 32381.2817,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -28031,8 +28031,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787464015.054996,
-    "fills": 5
+    "last_fill_at": 1787464773.3014283,
+    "fills": 6
   },
   {
     "timestamp": 1787462198,
@@ -28128,6 +28128,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787464050.184588,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787464775,
+    "timestamp_added": 1787464776.1305978,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-ind-chi-2026-08-23-spread-away-3pt5",
+    "title": "Spread: Indiana Fever (-3.5)",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 584.9996,
+    "whale_pct": 1.123,
+    "whale_value_at_open": 52108.336,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787464776.1306088,
     "fills": 1
   }
 ]
