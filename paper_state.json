@@ -1,5 +1,5 @@
 {
-  "bankroll": 532.1757234054987,
+  "bankroll": 534.5564099726629,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5870,6 +5870,11 @@
       "timestamp": 1787493232.9921243,
       "bankroll": 532.18,
       "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787493848.800183,
+      "bankroll": 534.56,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will FK Akron Tolyatti win on 2026-08-23?"
     }
   ]
 }

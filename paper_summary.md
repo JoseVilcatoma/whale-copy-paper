@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:02:25 (hora de Perú)
+Actualizado: 2026-08-23 09:04:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $532.18
-**Retorno acumulado:** +6.44%
+**Bankroll actual:** $534.56
+**Retorno acumulado:** +6.91%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:02:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $513.14 en 103 posiciones abiertas (disponible para nuevas apuestas: $19.04)
+**Capital comprometido ahora mismo:** $508.14 en 102 posiciones abiertas (disponible para nuevas apuestas: $26.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 12 | +43.99 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 11 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 15 | 2 | +30.55 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1111
-- **Aciertos:** 704 (63.4%)
+- **Apuestas resueltas:** 1112
+- **Aciertos:** 705 (63.4%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,550.45
-- **ROI sobre lo apostado:** -0.64%
-- **Comisiones pagadas (taker fee):** $104.20 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,555.45
+- **ROI sobre lo apostado:** -0.60%
+- **Comisiones pagadas (taker fee):** $104.28 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 577 | 50.1% | 50.3% | -0.2 pp |
-| 60-79% | 345 | 70.4% | 67.7% | +2.8 pp |
+| 60-79% | 346 | 70.5% | 67.7% | +2.8 pp |
 | 80-94% | 127 | 88.2% | 86.7% | +1.5 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
