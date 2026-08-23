@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:31:35 (hora de Perú)
+Actualizado: 2026-08-23 08:33:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $525.01
-**Retorno acumulado:** +5.00%
+**Bankroll actual:** $519.91
+**Retorno acumulado:** +3.98%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 08:31:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $515.00 en 103 posiciones abiertas (disponible para nuevas apuestas: $10.01)
+**Capital comprometido ahora mismo:** $520.00 en 104 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 47 | 19 | -21.31 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 163 | 78 | 49 | -51.66 USD |
+| RN1 | 163 | 79 | 50 | -56.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1107
+- **Apuestas resueltas:** 1108
 - **Aciertos:** 701 (63.3%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,530.45
-- **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $103.77 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,535.45
+- **ROI sobre lo apostado:** -0.87%
+- **Comisiones pagadas (taker fee):** $103.87 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 576 | 50.0% | 50.3% | -0.3 pp |
-| 60-79% | 342 | 70.5% | 67.7% | +2.7 pp |
+| 60-79% | 343 | 70.3% | 67.7% | +2.6 pp |
 | 80-94% | 127 | 88.2% | 86.7% | +1.5 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
@@ -291,9 +291,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo: O/U 18 | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Krasnodar win on 2026-08-23? | No (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 88% | 5.00 | 5.1% | ⏳ pendiente | — |
@@ -305,7 +307,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | Counter-Strike: FUT Esports vs Spirit (B | FUT Esports (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Aston Villa FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 6.5% | ⏳ pendiente | — |
 | RN1 | Young Boys Bern vs. FC Vaduz: O/U 4.5 | Over (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
@@ -319,5 +321,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 48% | 5.00 | 23.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 22.5 | Under (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |

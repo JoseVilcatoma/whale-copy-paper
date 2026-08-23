@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.0076869909328,
+  "bankroll": 519.9096869909329,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5850,6 +5850,11 @@
       "timestamp": 1787491378.7588727,
       "bankroll": 525.01,
       "event": "lost: HomeRunHazard \u2014 Tohoku Rakuten Golden Eagles vs. Saitama Seibu Lions"
+    },
+    {
+      "timestamp": 1787492002.8206296,
+      "bankroll": 519.91,
+      "event": "lost: RN1 \u2014 Augsburg: Georgii Kravchenko vs Dominik Recek"
     }
   ]
 }
