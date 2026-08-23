@@ -28612,8 +28612,8 @@
     "title": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
     "outcome": "ThunderTalk Gaming",
     "side": "BUY",
-    "whale_usd": 26114.94,
-    "whale_pct": 26.026,
+    "whale_usd": 30254.8255,
+    "whale_pct": 30.152,
     "whale_value_at_open": 100341.2085,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -28627,8 +28627,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787472647.4155283,
-    "fills": 7
+    "last_fill_at": 1787472946.5764515,
+    "fills": 10
   },
   {
     "timestamp": 1787472414,
@@ -28689,8 +28689,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 26982.390600000002,
-    "whale_pct": 56.69,
+    "whale_usd": 29837.806800000002,
+    "whale_pct": 62.689,
     "whale_value_at_open": 47596.2249,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -28704,8 +28704,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787472496.1676426,
-    "fills": 3
+    "last_fill_at": 1787472900.008907,
+    "fills": 4
   },
   {
     "timestamp": 1787472511,
@@ -28770,8 +28770,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 2502.8044,
-    "whale_pct": 15.811,
+    "whale_usd": 3702.504538,
+    "whale_pct": 23.39,
     "whale_value_at_open": 15829.7226,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -28786,7 +28786,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787472773.8271716,
+    "last_fill_at": 1787472903.9547224,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787472930,
+    "timestamp_added": 1787472930.8006854,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "dfb-jed-hei-2026-08-23-jed",
+    "title": "Will SSV Jeddeloh II win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1891.5,
+    "whale_pct": 6.313,
+    "whale_value_at_open": 29960.9178,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787472930.8006961,
     "fills": 1
   }
 ]
