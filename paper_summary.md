@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 02:11:53 (hora de Perú)
+Actualizado: 2026-08-23 02:13:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $518.83
-**Retorno acumulado:** +3.77%
+**Bankroll actual:** $525.89
+**Retorno acumulado:** +5.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 02:11:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $353.83)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $380.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,19 +63,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 11 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
+| RN1 | 153 | 73 | 2 | -42.05 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
-| RN1 | 149 | 73 | 6 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1060
-- **Aciertos:** 670 (63.2%)
-- **Cuota promedio de entrada:** 62.4%
+- **Apuestas resueltas:** 1064
+- **Aciertos:** 674 (63.3%)
+- **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,295.45
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $99.56 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,315.45
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $99.76 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,10 +83,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 552 | 49.5% | 50.3% | -0.8 pp |
+| 40-59% | 553 | 49.5% | 50.3% | -0.7 pp |
 | 60-79% | 330 | 71.5% | 67.7% | +3.8 pp |
-| 80-94% | 119 | 87.4% | 86.7% | +0.7 pp |
-| 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
+| 80-94% | 121 | 87.6% | 86.7% | +0.9 pp |
+| 95-99% (casi seguro) | 60 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -290,17 +290,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 2.8% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 24.2% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ✅ ganada | +1.20 |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Will Atlas FC win on 2026-08-22? | Yes (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Will Atlas FC win on 2026-08-22? | Yes (BUY) | 99% | 5.00 | 0.9% | ✅ ganada | +0.05 |
 | Wiretransferxyz | Valorant: Sharper Esport vs ONSIDE GAMIN | ONSIDE GAMING (BUY) | 54% | 5.00 | 4.4% | ⏳ pendiente | — |
-| RN1 | CF Cruz Azul vs. Atlas FC: O/U 2.5 | Under (BUY) | 47% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | CF Cruz Azul vs. Atlas FC: O/U 2.5 | Under (BUY) | 47% | 5.00 | 2.0% | ✅ ganada | +5.51 |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 42% | 5.00 | 13682.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Will TEAM VISION Win The International 2 | No (BUY) | 41% | 5.00 | 1033.8% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-4.5) | Portland Fire (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Chunichi Dragons vs. Tokyo Yakult Swallo | Chunichi Dragons (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | CF Cruz Azul vs. Atlas FC: O/U 5.5 | Under (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | CF Cruz Azul vs. Atlas FC: O/U 5.5 | Under (BUY) | 94% | 5.00 | 0.8% | ✅ ganada | +0.30 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 44% | 5.00 | 196.0% | ✅ ganada | +6.22 |
 | MisterVision | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 56% | 5.00 | 278.0% | ✅ ganada | +3.82 |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 359.9% | ❌ perdida | -5.14 |

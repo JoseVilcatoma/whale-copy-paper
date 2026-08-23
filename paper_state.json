@@ -1,5 +1,5 @@
 {
-  "bankroll": 518.834976438109,
+  "bankroll": 525.8919282971248,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5555,6 +5555,26 @@
       "timestamp": 1787466518.6050465,
       "bankroll": 518.83,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Set Handicap: Gauff (-1.5) vs Bejlek (+1.5)"
+    },
+    {
+      "timestamp": 1787469190.3698833,
+      "bankroll": 519.14,
+      "event": "won: RN1 \u2014 CF Cruz Azul vs. Atlas FC: O/U 5.5"
+    },
+    {
+      "timestamp": 1787469192.2470438,
+      "bankroll": 524.64,
+      "event": "won: RN1 \u2014 CF Cruz Azul vs. Atlas FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787469192.9214184,
+      "bankroll": 524.69,
+      "event": "won: RN1 \u2014 Will Atlas FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787469193.532296,
+      "bankroll": 525.89,
+      "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Rinko Matsuda vs Meng Yi Chen"
     }
   ]
 }
