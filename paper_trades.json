@@ -29207,8 +29207,8 @@
     "title": "Spread: Dallas Wings (-7.5)",
     "outcome": "Dallas Wings",
     "side": "BUY",
-    "whale_usd": 806.0024000000001,
-    "whale_pct": 1.131,
+    "whale_usd": 3605.0049000000004,
+    "whale_pct": 5.057,
     "whale_value_at_open": 71293.4085,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -29219,8 +29219,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787477357.3851264,
-    "fills": 1
+    "last_fill_at": 1787486443.70589,
+    "fills": 3
   },
   {
     "timestamp": 1787477370,
@@ -29337,8 +29337,8 @@
     "title": "Manchester City FC vs. AFC Bournemouth: O/U 9.5 Total Corners",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1350.0,
-    "whale_pct": 5.045,
+    "whale_usd": 4389.21,
+    "whale_pct": 16.403,
     "whale_value_at_open": 26758.1325,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -29349,8 +29349,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787478184.4819725,
-    "fills": 1
+    "last_fill_at": 1787486435.707007,
+    "fills": 2
   },
   {
     "timestamp": 1787478371,
@@ -30316,8 +30316,8 @@
     "title": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 7854.923,
-    "whale_pct": 10.055,
+    "whale_usd": 11251.922999999999,
+    "whale_pct": 14.403,
     "whale_value_at_open": 78121.9474,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -30328,8 +30328,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787486409.1811035,
-    "fills": 5
+    "last_fill_at": 1787486478.160989,
+    "fills": 8
   },
   {
     "timestamp": 1787486237,
@@ -30340,8 +30340,8 @@
     "title": "LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 145427.388664,
-    "whale_pct": 35.297,
+    "whale_usd": 154828.983664,
+    "whale_pct": 37.578,
     "whale_value_at_open": 412015.7667,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -30354,8 +30354,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787486340.1091938,
-    "fills": 19
+    "last_fill_at": 1787486421.128521,
+    "fills": 20
   },
   {
     "timestamp": 1787486301,
@@ -30403,6 +30403,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787486356.7603204,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787486435,
+    "timestamp_added": 1787486435.9453847,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "epl-mac-bou-2026-08-23-corners-total-10pt5",
+    "title": "Manchester City FC vs. AFC Bournemouth: O/U 10.5 Total Corners",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1989.6107,
+    "whale_pct": 6.262,
+    "whale_value_at_open": 31775.0118,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787486435.94539,
     "fills": 1
   }
 ]
