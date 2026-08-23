@@ -33655,8 +33655,8 @@
     "title": "Will Atlanta United FC win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 71064.52509899999,
-    "whale_pct": 1250.972,
+    "whale_usd": 74475.86139899999,
+    "whale_pct": 1311.023,
     "whale_value_at_open": 5680.7443,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -33667,8 +33667,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787525938.7175481,
-    "fills": 7
+    "last_fill_at": 1787526118.0368986,
+    "fills": 8
   },
   {
     "timestamp": 1787525912,
