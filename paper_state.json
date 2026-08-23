@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.0154393426801,
+  "bankroll": 527.7516255774979,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6190,6 +6190,26 @@
       "timestamp": 1787503053.0926454,
       "bankroll": 533.02,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Heretics vs GIANTX - Game 2 Winner (+0.68 USD)"
+    },
+    {
+      "timestamp": 1787505067.2225199,
+      "bankroll": 534.37,
+      "event": "won: Wiretransferxyz \u2014 Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787505070.7441745,
+      "bankroll": 538.03,
+      "event": "won: Wiretransferxyz \u2014 Map Handicap: TS (-1.5) vs FUT Esports (+1.5)"
+    },
+    {
+      "timestamp": 1787505071.385646,
+      "bankroll": 532.9,
+      "event": "lost: BOOMBOYS.Kiritych \u2014 Map Handicap: TS (-1.5) vs FUT Esports (+1.5)"
+    },
+    {
+      "timestamp": 1787505074.8012066,
+      "bankroll": 527.75,
+      "event": "lost: SPCEXBUYER \u2014 Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs"
     }
   ]
 }

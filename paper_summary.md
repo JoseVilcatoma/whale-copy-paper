@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 12:09:13 (hora de Perú)
+Actualizado: 2026-08-23 12:11:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $533.02
-**Retorno acumulado:** +6.60%
+**Bankroll actual:** $527.75
+**Retorno acumulado:** +5.55%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 12:09:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $338.14 en 68 posiciones abiertas (disponible para nuevas apuestas: $194.88)
+**Capital comprometido ahora mismo:** $318.14 en 64 posiciones abiertas (disponible para nuevas apuestas: $209.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 37 | 17 | 3 | +29.26 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 16 | 8 | 5 | +26.28 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
+| BOOMBOYS.Kiritych | 16 | 10 | 3 | +16.00 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -55,12 +55,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
+| Wiretransferxyz | 5 | 4 | 2 | -6.18 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Wiretransferxyz | 3 | 4 | 4 | -11.20 USD |
 | HomeRunHazard | 77 | 47 | 18 | -18.08 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 4 | -25.33 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1171
-- **Aciertos:** 745 (63.6%)
+- **Apuestas resueltas:** 1175
+- **Aciertos:** 747 (63.6%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,850.45
-- **ROI sobre lo apostado:** -0.66%
-- **Comisiones pagadas (taker fee):** $109.14 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,870.45
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $109.59 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,8 +84,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 605 | 49.8% | 50.2% | -0.5 pp |
-| 60-79% | 357 | 70.9% | 67.7% | +3.2 pp |
+| 40-59% | 608 | 49.7% | 50.2% | -0.6 pp |
+| 60-79% | 358 | 70.9% | 67.7% | +3.2 pp |
 | 80-94% | 142 | 89.4% | 86.9% | +2.5 pp |
 | 95-99% (casi seguro) | 67 | 95.5% | 97.3% | -1.8 pp |
 
