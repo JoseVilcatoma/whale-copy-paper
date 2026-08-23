@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 07:35:59 (hora de Perú)
+Actualizado: 2026-08-23 07:38:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $531.99
@@ -287,7 +287,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will FC Groningen win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will FC Groningen win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | Yes (BUY) | 97% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 43% | 5.00 | 2.7% | ⏳ pendiente | — |
