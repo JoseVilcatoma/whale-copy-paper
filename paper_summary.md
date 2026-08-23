@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 01:09:40 (hora de Perú)
+Actualizado: 2026-08-23 01:11:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.96
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 01:09:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $388.96)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $383.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
 | Djdjdjekekek | 10 | 11 | 2 | -15.81 USD |
-| HomeRunHazard | 75 | 46 | 9 | -19.29 USD |
+| HomeRunHazard | 75 | 46 | 10 | -19.29 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 | RN1 | 149 | 73 | 6 | -49.11 USD |
@@ -272,6 +272,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Tohoku Rakuten Golden Eagles vs. Saitama | Tohoku Rakuten Golden Eagles (BUY) | 50% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo | Las Vegas Aces (BUY) | 89% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-8.5) | Dallas Wings (BUY) | 50% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-3.5) | Chicago Sky (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -301,4 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ❌ perdida | -5.04 |
 |  | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 63% | 5.00 | 0.5% | ✅ ganada | +2.84 |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 73% | 5.00 | 549.8% | ✅ ganada | +1.78 |
-|  | Indiana Fever vs. New York Liberty | New York Liberty (BUY) | 93% | 5.00 | 3.6% | ✅ ganada | +0.36 |

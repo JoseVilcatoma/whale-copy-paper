@@ -28201,5 +28201,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787464951.700962,
     "fills": 1
+  },
+  {
+    "timestamp": 1787465494,
+    "timestamp_added": 1787465494.6298451,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "npb-toh-sai-2026-08-23",
+    "title": "Tohoku Rakuten Golden Eagles vs. Saitama Seibu Lions",
+    "outcome": "Tohoku Rakuten Golden Eagles",
+    "side": "BUY",
+    "whale_usd": 1888.0000999999997,
+    "whale_pct": 3.283,
+    "whale_value_at_open": 57501.6185,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787465495.0722406,
+    "fills": 2
   }
 ]
