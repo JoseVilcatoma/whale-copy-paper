@@ -32081,5 +32081,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787500552.7201762,
     "fills": 1
+  },
+  {
+    "timestamp": 1787501054,
+    "timestamp_added": 1787501055.2454584,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "sea-ven-lec-2026-08-23-ven",
+    "title": "Will Venezia FC win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 103585.32,
+    "whale_pct": 137.346,
+    "whale_value_at_open": 75419.4,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787501055.2454772,
+    "fills": 1
   }
 ]
