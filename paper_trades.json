@@ -26080,8 +26080,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -26252,8 +26252,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -26652,8 +26652,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -26700,8 +26700,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -27421,5 +27421,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787443171.429184,
     "fills": 5
+  },
+  {
+    "timestamp": 1787443584,
+    "timestamp_added": 1787443585.4669173,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "epl-new-liv-2026-08-23-liv",
+    "title": "Will Liverpool FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3276.14,
+    "whale_pct": 39.52,
+    "whale_value_at_open": 8289.8434,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787443585.4669273,
+    "fills": 1
   }
 ]

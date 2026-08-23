@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 19:06:24 (hora de Perú)
+Actualizado: 2026-08-22 19:08:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $502.93
-**Retorno acumulado:** +0.59%
+**Bankroll actual:** $502.07
+**Retorno acumulado:** +0.41%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 19:06:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $257.93)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $272.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 25 | 9 | 3 | +29.59 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 9 | 1 | +31.24 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 11 | +20.57 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
@@ -45,14 +45,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | WTSA | 0 | 0 | 1 | +0.00 USD |
+| plonker2026 | 0 | 0 | 1 | +0.00 USD |
 | SDTrading | 14 | 12 | 3 | -0.03 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| ChonkyChocolateCake | 14 | 9 | 4 | -2.81 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | Wiretransferxyz | 1 | 1 | 4 | -3.60 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
+| ChonkyChocolateCake | 15 | 10 | 2 | -5.32 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | HomeRunHazard | 69 | 39 | 13 | -9.62 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 15 | 2 | -9.95 USD |
@@ -66,14 +67,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1006
-- **Aciertos:** 638 (63.4%)
+- **Apuestas resueltas:** 1010
+- **Aciertos:** 641 (63.5%)
 - **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,025.45
-- **ROI sobre lo apostado:** -1.27%
-- **Comisiones pagadas (taker fee):** $93.59 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,045.45
+- **ROI sobre lo apostado:** -1.28%
+- **Comisiones pagadas (taker fee):** $93.85 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -81,10 +82,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 510 | 49.0% | 50.2% | -1.2 pp |
-| 60-79% | 322 | 71.4% | 67.8% | +3.6 pp |
+| 40-59% | 511 | 48.9% | 50.3% | -1.3 pp |
+| 60-79% | 324 | 71.6% | 67.8% | +3.8 pp |
 | 80-94% | 116 | 87.9% | 86.6% | +1.3 pp |
-| 95-99% (casi seguro) | 58 | 96.6% | 97.2% | -0.7 pp |
+| 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -268,6 +269,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 39.5% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Spirit (B | Spirit (BUY) | 78% | 5.00 | 54.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports - Map | KRÜ Esports (BUY) | 50% | 5.00 | 36.4% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Inter Miami CF (-1.5) | Toronto FC (BUY) | 48% | 5.00 | 12.8% | ⏳ pendiente | — |
@@ -297,4 +299,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 6.1% | 💰 vendida anticipada | +1.45 |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 50% | 5.00 | 221.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Charlotte FC vs. D.C. United SC: 1st Hal | Under (BUY) | 59% | 5.00 | 4.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Sentinels vs FlyQuest (BO3) - LCS R | Sentinels (BUY) | 99% | 5.00 | 3.7% | ⏳ pendiente | — |

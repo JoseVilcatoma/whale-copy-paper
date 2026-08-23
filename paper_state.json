@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.92621378524734,
+  "bankroll": 502.06869319472673,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5280,6 +5280,26 @@
       "timestamp": 1787441909.8166745,
       "bankroll": 502.93,
       "event": "lost: Sassy-Bucket \u2014 UFC Fight Night: Kennedy Nzechukwu vs. Shamil Gaziev (Heavyweight, Main Card)"
+    },
+    {
+      "timestamp": 1787443635.6568804,
+      "bankroll": 497.81,
+      "event": "lost: MisterVision \u2014 LoL: Sentinels vs FlyQuest - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787443635.7570982,
+      "bankroll": 500.42,
+      "event": "won: MisterVision \u2014 LoL: Sentinels vs FlyQuest - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787443637.4414089,
+      "bankroll": 502.02,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787443638.1378164,
+      "bankroll": 502.07,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Sentinels vs FlyQuest (BO3) - LCS Regular Season"
     }
   ]
 }
