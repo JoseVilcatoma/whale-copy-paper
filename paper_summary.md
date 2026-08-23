@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 04:16:09 (hora de Perú)
+Actualizado: 2026-08-23 04:18:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $529.86
-**Retorno acumulado:** +5.97%
+**Bankroll actual:** $539.41
+**Retorno acumulado:** +7.88%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 04:16:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $304.86)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $324.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,10 +26,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 10 | 2 | +36.65 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 9 | 4 | 6 | +19.98 USD |
+| BOOMBOYS.Kiritych | 10 | 4 | 5 | +24.86 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| ChonkyChocolateCake | 19 | 12 | 3 | +6.23 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -42,7 +43,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 1 | 0 | 0 | +1.78 USD |
-| ChonkyChocolateCake | 18 | 12 | 4 | +1.55 USD |
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1068
-- **Aciertos:** 676 (63.3%)
+- **Apuestas resueltas:** 1070
+- **Aciertos:** 678 (63.4%)
 - **Cuota promedio de entrada:** 62.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,335.45
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $100.25 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,345.45
+- **ROI sobre lo apostado:** -0.58%
+- **Comisiones pagadas (taker fee):** $100.50 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 557 | 49.6% | 50.3% | -0.7 pp |
+| 40-59% | 559 | 49.7% | 50.3% | -0.5 pp |
 | 60-79% | 330 | 71.5% | 67.7% | +3.8 pp |
 | 80-94% | 121 | 87.6% | 86.7% | +0.9 pp |
 | 95-99% (casi seguro) | 60 | 96.7% | 97.3% | -0.6 pp |
@@ -296,9 +296,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BOOMBOYS.Kiritych | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 47% | 5.00 | 30.2% | ⏳ pendiente | — |
 | MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | LGD Gaming (BUY) | 56% | 5.00 | 25.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 45% | 5.00 | 51.7% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 50% | 5.00 | 6.6% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 50% | 5.00 | 6.6% | ✅ ganada | +4.88 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 168.2% | 💰 vendida anticipada | +3.45 |
-| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 210.4% | ⏳ pendiente | — |
+| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 210.4% | ✅ ganada | +4.68 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | +0.66 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs LGD Gaming -  | LGD Gaming (BUY) | 94% | 5.00 | 161.9% | ⏳ pendiente | — |
 | MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 52% | 5.00 | 6.7% | ⏳ pendiente | — |
