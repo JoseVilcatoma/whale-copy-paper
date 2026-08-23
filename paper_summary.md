@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 16:08:22 (hora de Perú)
+Actualizado: 2026-08-23 16:10:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $582.66
@@ -303,7 +303,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 68% | 5.00 | 23.9% | ⏳ pendiente | — |
 |  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels (BO3) - LCS  | Sentinels (BUY) | 94% | 5.00 | 28.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels (BO3) - LCS  | Sentinels (BUY) | 94% | 5.00 | 100.9% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 72% | 5.00 | 85.7% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Frances  | Arthur Fils (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 1 Win | Sentinels (BUY) | 96% | 5.00 | 19.6% | ⏳ pendiente | — |

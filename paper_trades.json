@@ -33040,8 +33040,8 @@
     "title": "LoL: Disguised vs Sentinels (BO3) - LCS Regular Season",
     "outcome": "Sentinels",
     "side": "BUY",
-    "whale_usd": 3024.1512000000002,
-    "whale_pct": 28.247,
+    "whale_usd": 10801.545,
+    "whale_pct": 100.892,
     "whale_value_at_open": 10706.0431,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -33052,8 +33052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787518865.6836874,
-    "fills": 2
+    "last_fill_at": 1787519390.9499118,
+    "fills": 3
   },
   {
     "timestamp": 1787518759,
