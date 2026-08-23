@@ -1,5 +1,5 @@
 {
-  "bankroll": 574.8991997169771,
+  "bankroll": 569.8091997169771,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6585,6 +6585,11 @@
       "timestamp": 1787527846.682716,
       "bankroll": 574.9,
       "event": "lost: kekasaur \u2014 Red Bull Bragantino vs. Gr\u00eamio FBPA: O/U 2.5"
+    },
+    {
+      "timestamp": 1787527966.5834937,
+      "bankroll": 569.81,
+      "event": "lost: casualbet2020 \u2014 Valorant: Team Envy vs G2 Esports - Map 2 Winner"
     }
   ]
 }

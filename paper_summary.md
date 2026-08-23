@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 18:32:07 (hora de Perú)
+Actualizado: 2026-08-23 18:34:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $574.90
-**Retorno acumulado:** +14.98%
+**Bankroll actual:** $569.81
+**Retorno acumulado:** +13.96%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 18:32:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $344.90)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $344.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 19 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 13 | 5 | 3 | +23.81 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
+| casualbet2020 | 13 | 6 | 2 | +18.72 USD |
 | SDTrading | 20 | 14 | 1 | +16.65 USD |
 | ChonkyChocolateCake | 28 | 17 | 1 | +14.40 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1244
+- **Apuestas resueltas:** 1245
 - **Aciertos:** 793 (63.7%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,213.59
-- **ROI sobre lo apostado:** +0.02%
-- **Comisiones pagadas (taker fee):** $116.70 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.90% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,218.59
+- **ROI sobre lo apostado:** -0.06%
+- **Comisiones pagadas (taker fee):** $116.79 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 654 | 50.5% | 50.3% | +0.2 pp |
-| 60-79% | 374 | 70.9% | 67.7% | +3.2 pp |
+| 60-79% | 375 | 70.7% | 67.6% | +3.0 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
 
@@ -332,7 +332,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Associação Chapecoense de Futebol w | No (BUY) | 48% | 5.00 | 4.2% | ⏳ pendiente | — |
 | casualbet2020 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 42% | 5.00 | 89.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | 💰 vendida anticipada | -0.19 |
-| casualbet2020 | Valorant: Team Envy vs G2 Esports - Map  | G2 Esports (BUY) | 64% | 5.00 | 47.1% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Team Envy vs G2 Esports - Map  | G2 Esports (BUY) | 64% | 5.00 | 47.1% | ❌ perdida | -5.09 |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 88% | 5.00 | 117.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 89% | 5.00 | 4.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 68% | 5.00 | 23.9% | 💰 vendida anticipada | +0.06 |
