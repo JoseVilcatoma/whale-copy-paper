@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:14:49 (hora de Perú)
+Actualizado: 2026-08-23 05:16:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $542.71
@@ -303,7 +303,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 42% | 5.00 | 2.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 (BO3) - L | Hanwha Life Esports (BUY) | 80% | 5.00 | 9.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 2  | Hanwha Life Esports (BUY) | 53% | 5.00 | 8.9% | ⏳ pendiente | — |
-| RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Teodora Miron (BUY) | 66% | 5.00 | 3.4% | ⏳ pendiente | — |
+| RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Teodora Miron (BUY) | 66% | 5.00 | 5.1% | ⏳ pendiente | — |
 | RN1 | ITF M25 Slovenj Gradec Men: Sebastian So | Sebastian Sorger (BUY) | 99% | 5.00 | 1.7% | ✅ ganada | +0.05 |
 | Wiretransferxyz | Map Handicap: TS (-1.5) vs FUT Esports ( | Spirit (BUY) | 57% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | No (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
