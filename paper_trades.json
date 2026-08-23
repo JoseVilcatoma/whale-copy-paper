@@ -31725,5 +31725,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787494998.8356178,
     "fills": 3
+  },
+  {
+    "timestamp": 1787495383,
+    "timestamp_added": 1787495383.643687,
+    "username": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "wallet": "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
+    "slug": "mlb-pit-lad-2026-08-23-f5-total-4pt5",
+    "title": "Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 4.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 941.5314000000001,
+    "whale_pct": 1.5,
+    "whale_value_at_open": 62765.3752,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787495383.6437001,
+    "fills": 1
   }
 ]
