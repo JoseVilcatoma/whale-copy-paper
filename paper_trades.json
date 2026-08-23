@@ -31299,8 +31299,8 @@
     "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 8863.977557,
-    "whale_pct": 1.748,
+    "whale_usd": 9549.928404,
+    "whale_pct": 1.883,
     "whale_value_at_open": 507221.6426,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -31313,8 +31313,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787491111.8281507,
-    "fills": 5
+    "last_fill_at": 1787491464.4901376,
+    "fills": 6
   },
   {
     "timestamp": 1787490999,
@@ -31485,5 +31485,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787491358.0086896,
     "fills": 1
+  },
+  {
+    "timestamp": 1787491411,
+    "timestamp_added": 1787491411.814565,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-las-tor-2026-08-23-total-180pt5",
+    "title": "Las Vegas Aces vs. Toronto Tempo: O/U 180.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2751.2603,
+    "whale_pct": 2.945,
+    "whale_value_at_open": 93419.0796,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787491412.8657022,
+    "fills": 2
   }
 ]
