@@ -1,5 +1,5 @@
 {
-  "bankroll": 582.7236961881732,
+  "bankroll": 577.6236961881732,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6450,6 +6450,11 @@
       "timestamp": 1787519471.7948287,
       "bankroll": 582.72,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Sentinels - Game 2 Winner (+0.06 USD)"
+    },
+    {
+      "timestamp": 1787521103.1446455,
+      "bankroll": 577.62,
+      "event": "lost: HomeRunHazard \u2014 Spread: Texas Rangers (-1.5)"
     }
   ]
 }
