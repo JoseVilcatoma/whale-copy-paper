@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 13:42:44 (hora de Perú)
+Actualizado: 2026-08-23 13:44:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $552.73
-**Retorno acumulado:** +10.55%
+**Bankroll actual:** $553.17
+**Retorno acumulado:** +10.63%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 13:42:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $232.73)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $238.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 6 | 8 | +43.85 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 39 | 17 | 4 | +36.94 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 40 | 17 | 3 | +37.38 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 10 | 1 | +24.65 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
@@ -301,7 +301,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 68% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 68% | 5.00 | 3.6% | 💰 vendida anticipada | +0.44 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 74% | 5.00 | 4.6% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ⏳ pendiente | — |

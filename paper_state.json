@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.7319421883642,
+  "bankroll": 553.1731186589525,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6285,6 +6285,11 @@
       "timestamp": 1787510060.2297897,
       "bankroll": 552.73,
       "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will FK Krasnodar win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787510577.3895152,
+      "bankroll": 553.17,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Karmine Corp (BO3) - LEC Regular Season (+0.44 USD)"
     }
   ]
 }
