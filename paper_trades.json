@@ -32593,8 +32593,8 @@
     "title": "Will Be\u015fikta\u015f JK win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 29248.152300000005,
-    "whale_pct": 40.762,
+    "whale_usd": 30043.501137000007,
+    "whale_pct": 41.87,
     "whale_value_at_open": 71753.6267,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -32607,7 +32607,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787506541.2672591,
-    "fills": 2
+    "last_fill_at": 1787506595.4949164,
+    "fills": 3
   }
 ]
