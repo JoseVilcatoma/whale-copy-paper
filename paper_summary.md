@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 19:57:30 (hora de Perú)
+Actualizado: 2026-08-22 19:59:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.66
@@ -270,7 +270,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit (BO3) | Team Spirit (BUY) | 70% | 5.00 | 7.8% | ⏳ pendiente | — |
-| plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 39.5% | ⏳ pendiente | — |
+| plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 105.5% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Spirit (B | Spirit (BUY) | 78% | 5.00 | 54.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports - Map | KRÜ Esports (BUY) | 50% | 5.00 | 36.4% | ✅ ganada | +4.88 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Inter Miami CF (-1.5) | Toronto FC (BUY) | 48% | 5.00 | 12.8% | ⏳ pendiente | — |

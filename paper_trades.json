@@ -27431,8 +27431,8 @@
     "title": "Will Liverpool FC win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3276.14,
-    "whale_pct": 39.52,
+    "whale_usd": 8749.728235,
+    "whale_pct": 105.548,
     "whale_value_at_open": 8289.8434,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -27443,8 +27443,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787443585.4669273,
-    "fills": 1
+    "last_fill_at": 1787446737.5076692,
+    "fills": 2
   },
   {
     "timestamp": 1787444982,
