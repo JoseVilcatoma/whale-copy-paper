@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:55:57 (hora de Perú)
+Actualizado: 2026-08-23 05:58:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $556.71
-**Retorno acumulado:** +11.34%
+**Bankroll actual:** $552.87
+**Retorno acumulado:** +10.57%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:55:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $236.71)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $257.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,22 +60,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Djdjdjekekek | 10 | 11 | 2 | -15.81 USD |
-| HomeRunHazard | 75 | 46 | 16 | -19.29 USD |
+| HomeRunHazard | 76 | 46 | 15 | -16.19 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 157 | 74 | 15 | -39.50 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
+| RN1 | 159 | 76 | 11 | -46.43 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1076
-- **Aciertos:** 684 (63.6%)
-- **Cuota promedio de entrada:** 62.4%
+- **Apuestas resueltas:** 1081
+- **Aciertos:** 687 (63.6%)
+- **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,375.45
-- **ROI sobre lo apostado:** -0.27%
-- **Comisiones pagadas (taker fee):** $100.96 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,400.45
+- **ROI sobre lo apostado:** -0.34%
+- **Comisiones pagadas (taker fee):** $101.38 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.54% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,9 +83,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 562 | 50.0% | 50.3% | -0.3 pp |
-| 60-79% | 331 | 71.6% | 67.7% | +3.9 pp |
-| 80-94% | 121 | 87.6% | 86.7% | +0.9 pp |
+| 40-59% | 563 | 49.9% | 50.3% | -0.4 pp |
+| 60-79% | 334 | 71.6% | 67.7% | +3.8 pp |
+| 80-94% | 122 | 87.7% | 86.7% | +1.0 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -298,12 +298,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: 1st Ha | Under (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Pavel Lagut | Pavel Lagutin (BUY) | 97% | 5.00 | 2.7% | ✅ ganada | +0.15 |
-| RN1 | ITF W35 Verbier Women: Valentini Grammat | Valentini Grammatikopoulou (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Adrienn Nagy (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Valentini Grammat | Valentini Grammatikopoulou (BUY) | 86% | 5.00 | 1.0% | ✅ ganada | +0.78 |
+| RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Adrienn Nagy (BUY) | 46% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 61% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: Color vs SPARTA - Map 1  | SPARTA (BUY) | 65% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 50% | 5.00 | 450.9% | 💰 vendida anticipada | +2.38 |
-| RN1 | ITF W35 Verbier Women: Valentini Grammat | Jenny Lim (BUY) | 71% | 5.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | ITF W35 Verbier Women: Valentini Grammat | Jenny Lim (BUY) | 71% | 5.00 | 2.2% | ❌ perdida | -5.07 |
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 52% | 5.00 | 38.2% | ✅ ganada | +4.50 |
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 4.6% | 💰 vendida anticipada | -0.24 |

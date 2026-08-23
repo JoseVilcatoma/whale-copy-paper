@@ -1,5 +1,5 @@
 {
-  "bankroll": 556.7130841687408,
+  "bankroll": 552.8735165443459,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5675,6 +5675,31 @@
       "timestamp": 1787482334.6754277,
       "bankroll": 556.71,
       "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Pavel Lagutin vs Goncalo Marques"
+    },
+    {
+      "timestamp": 1787482633.208663,
+      "bankroll": 559.81,
+      "event": "won: HomeRunHazard \u2014 Chunichi Dragons vs. Tokyo Yakult Swallows"
+    },
+    {
+      "timestamp": 1787482641.552207,
+      "bankroll": 562.3,
+      "event": "won: RN1 \u2014 ITF W35 Bistrita Women: Adrienn Nagy vs Teodora Miron"
+    },
+    {
+      "timestamp": 1787482644.2081804,
+      "bankroll": 557.23,
+      "event": "lost: RN1 \u2014 ITF W35 Verbier Women: Valentini Grammatikopoulou vs Jenny Lim"
+    },
+    {
+      "timestamp": 1787482645.0158677,
+      "bankroll": 552.09,
+      "event": "lost: RN1 \u2014 ITF W35 Bistrita Women: Adrienn Nagy vs Teodora Miron"
+    },
+    {
+      "timestamp": 1787482645.1159587,
+      "bankroll": 552.87,
+      "event": "won: RN1 \u2014 ITF W35 Verbier Women: Valentini Grammatikopoulou vs Jenny Lim"
     }
   ]
 }
