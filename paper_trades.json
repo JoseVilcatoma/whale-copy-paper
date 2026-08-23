@@ -33765,5 +33765,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787526041.577999,
     "fills": 1
+  },
+  {
+    "timestamp": 1787526479,
+    "timestamp_added": 1787526480.0099425,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-atl-mil-2026-08-23",
+    "title": "Atlanta Braves vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 6229.14,
+    "whale_pct": 40.125,
+    "whale_value_at_open": 15524.4805,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787526485.2307096,
+    "fills": 2
   }
 ]
