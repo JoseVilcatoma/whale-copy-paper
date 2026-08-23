@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:46:01 (hora de Perú)
+Actualizado: 2026-08-23 08:48:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.14
@@ -296,7 +296,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo: O/U 18 | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Krasnodar win on 2026-08-23? | No (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
