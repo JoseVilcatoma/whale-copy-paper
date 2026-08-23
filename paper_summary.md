@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 02:51:22 (hora de Perú)
+Actualizado: 2026-08-23 02:53:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $525.41
-**Retorno acumulado:** +5.08%
+**Bankroll actual:** $526.07
+**Retorno acumulado:** +5.21%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 02:51:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $380.41)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $371.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,10 +23,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 2 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 10 | 2 | +31.20 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 29 | 10 | 2 | +31.86 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 9 | 4 | 1 | +19.98 USD |
+| BOOMBOYS.Kiritych | 9 | 4 | 2 | +19.98 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 3 | 1 | 0 | +3.37 USD |
 | SDTrading | 16 | 13 | 0 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| ChonkyChocolateCake | 18 | 11 | 1 | +2.56 USD |
+| ChonkyChocolateCake | 18 | 11 | 2 | +2.56 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -270,12 +270,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-ty-ts8-2026-08-22-game2 | BOOMBOYS.Kiritych, Djdjdjekekek, MisterVision |
 | dota2-vsn2-ts8-2026-08-23-game1 | BOOMBOYS.Kiritych, MisterVision |
 | lol-tt-lgd-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
+| dota2-vsn2-ts8-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 42% | 5.00 | 13.5% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 50% | 5.00 | 6.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 42.5% | ⏳ pendiente | — |
+| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 51% | 5.00 | 210.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 42% | 5.00 | 13.5% | 💰 vendida anticipada | +0.66 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: ThunderTalk Gaming vs LGD Gaming -  | LGD Gaming (BUY) | 94% | 5.00 | 161.9% | ⏳ pendiente | — |
 | MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 52% | 5.00 | 6.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -302,6 +306,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Cruz Azul vs. Atlas FC: O/U 2.5 | Under (BUY) | 47% | 5.00 | 2.0% | ✅ ganada | +5.51 |
 | Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 42% | 5.00 | 13682.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Will TEAM VISION Win The International 2 | No (BUY) | 41% | 5.00 | 1033.8% | ⏳ pendiente | — |
-| HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Washington Mystics (-4.5) | Portland Fire (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
-| HomeRunHazard | Chunichi Dragons vs. Tokyo Yakult Swallo | Chunichi Dragons (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
