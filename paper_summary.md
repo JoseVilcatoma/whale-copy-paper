@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:45:30 (hora de Perú)
+Actualizado: 2026-08-23 09:47:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $544.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:45:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $498.14 en 100 posiciones abiertas (disponible para nuevas apuestas: $45.94)
+**Capital comprometido ahora mismo:** $503.14 en 101 posiciones abiertas (disponible para nuevas apuestas: $40.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 12 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | BOOMBOYS.Kiritych | 16 | 7 | 5 | +31.39 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 16 | 2 | +30.32 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 16 | 3 | +30.32 USD |
 | casualbet2020 | 13 | 4 | 1 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
@@ -292,7 +292,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 17.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 17.2% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 35.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 25.7% | ⏳ pendiente | — |
@@ -321,4 +322,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Brighton & Hove Albion FC vs. Aston Vill | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Will AFC Bournemouth win on 2026-08-23? | No (BUY) | 89% | 5.00 | 3.0% | ⏳ pendiente | — |
