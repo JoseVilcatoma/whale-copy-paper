@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 00:02:04 (hora de Perú)
+Actualizado: 2026-08-23 00:04:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $516.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 00:02:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $421.64)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $411.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,10 +61,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
 | Djdjdjekekek | 10 | 11 | 2 | -15.81 USD |
-| HomeRunHazard | 75 | 46 | 4 | -19.29 USD |
+| HomeRunHazard | 75 | 46 | 5 | -19.29 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
-| RN1 | 149 | 73 | 3 | -49.11 USD |
+| RN1 | 149 | 73 | 4 | -49.11 USD |
 
 ## Análisis general
 
@@ -272,6 +272,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will Atlas FC win on 2026-08-22? | Yes (BUY) | 99% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: Sharper Esport vs ONSIDE GAMIN | ONSIDE GAMING (BUY) | 54% | 5.00 | 4.4% | ⏳ pendiente | — |
@@ -300,5 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7 | Over (BUY) | 50% | 5.00 | 793.7% | ✅ ganada | +4.88 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CD Universidad Católica win on 2026 | No (BUY) | 46% | 5.00 | 3.6% | ✅ ganada | +5.73 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cruzeiro EC vs. CR Flamengo: O/U 8.5 Tot | Over (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
-| pleaseplease123 | New York Mets vs. Chicago White Sox: O/U | Over (BUY) | 52% | 5.00 | 1.9% | ✅ ganada | +4.50 |
-| Sassy-Bucket | UFC Fight Night: Kennedy Nzechukwu vs. S | Kennedy Nzechukwu (BUY) | 47% | 5.00 | 36.5% | ❌ perdida | -5.13 |
