@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 02:20:05 (hora de Perú)
+Actualizado: 2026-08-23 02:22:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $525.89
@@ -277,7 +277,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: Raccoons vs Vexar (BO3)  | Raccoons (BUY) | 76% | 5.00 | 3.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: JD Gaming vs TYLOO (BO5) - VCT | TYLOO (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 122.2% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 127.5% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 47% | 5.00 | 156.6% | ⏳ pendiente | — |
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 76.5% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
