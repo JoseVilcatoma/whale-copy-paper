@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 11:17:42 (hora de Perú)
+Actualizado: 2026-08-23 11:19:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 11:17:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $298.14 en 60 posiciones abiertas (disponible para nuevas apuestas: $232.08)
+**Capital comprometido ahora mismo:** $303.14 en 61 posiciones abiertas (disponible para nuevas apuestas: $227.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 35 | 17 | 3 | +26.88 USD |
-| BOOMBOYS.Kiritych | 16 | 8 | 4 | +26.28 USD |
+| BOOMBOYS.Kiritych | 16 | 8 | 5 | +26.28 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -296,6 +296,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | LoL: Team Heretics vs GIANTX - Game 2 Wi | Team Heretics (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | MisterVision | LoL: RED Canids vs Fluxo W7M - Game 1 Wi | RED Canids (BUY) | 61% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 3edmond.dantes | Will Venezia FC win on 2026-08-23? | Yes (BUY) | 54% | 5.00 | 137.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 98% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -325,4 +326,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Krasnodar win on 2026-08-23? | No (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 88% | 5.00 | 5.1% | ✅ ganada | +0.65 |
 | RN1 | Angers SCO vs. Lille OSC: O/U 1.5 | Over (BUY) | 92% | 5.00 | 0.6% | ✅ ganada | +0.41 |
-| HomeRunHazard | Seattle Storm vs. Dallas Wings: O/U 173. | Under (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
