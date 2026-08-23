@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:57:19 (hora de Perú)
+Actualizado: 2026-08-23 10:59:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $530.89
-**Retorno acumulado:** +6.18%
+**Bankroll actual:** $535.35
+**Retorno acumulado:** +7.07%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 10:57:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $328.14 en 66 posiciones abiertas (disponible para nuevas apuestas: $202.75)
+**Capital comprometido ahora mismo:** $293.14 en 59 posiciones abiertas (disponible para nuevas apuestas: $242.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,10 +29,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| plonker2026 | 2 | 0 | 2 | +12.73 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 6 | 3 | 1 | +9.80 USD |
 | ChonkyChocolateCake | 23 | 15 | 2 | +8.30 USD |
+| plonker2026 | 2 | 1 | 1 | +7.61 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 1 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 189 | 91 | 14 | -71.06 USD |
+| RN1 | 195 | 91 | 8 | -61.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1162
-- **Aciertos:** 738 (63.5%)
-- **Cuota promedio de entrada:** 62.6%
+- **Apuestas resueltas:** 1169
+- **Aciertos:** 744 (63.6%)
+- **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,805.45
-- **ROI sobre lo apostado:** -0.66%
-- **Comisiones pagadas (taker fee):** $108.57 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,840.45
+- **ROI sobre lo apostado:** -0.58%
+- **Comisiones pagadas (taker fee):** $109.00 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,10 +83,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 602 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 355 | 70.7% | 67.6% | +3.1 pp |
-| 80-94% | 139 | 89.2% | 86.9% | +2.4 pp |
-| 95-99% (casi seguro) | 66 | 95.5% | 97.3% | -1.9 pp |
+| 40-59% | 604 | 49.8% | 50.2% | -0.4 pp |
+| 60-79% | 357 | 70.9% | 67.7% | +3.2 pp |
+| 80-94% | 141 | 89.4% | 86.9% | +2.5 pp |
+| 95-99% (casi seguro) | 67 | 95.5% | 97.3% | -1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 

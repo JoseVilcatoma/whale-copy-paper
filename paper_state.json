@@ -1,5 +1,5 @@
 {
-  "bankroll": 530.8938063534339,
+  "bankroll": 535.3511023861585,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6135,6 +6135,41 @@
       "timestamp": 1787500410.6672719,
       "bankroll": 530.89,
       "event": "lost: RN1 \u2014 Vasteraas SK vs. Kalmar FF: O/U 0.5"
+    },
+    {
+      "timestamp": 1787500712.022589,
+      "bankroll": 531.14,
+      "event": "won: RN1 \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: O/U 0.5"
+    },
+    {
+      "timestamp": 1787500712.28674,
+      "bankroll": 532.42,
+      "event": "won: RN1 \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: O/U 1.5"
+    },
+    {
+      "timestamp": 1787500712.5332565,
+      "bankroll": 537.71,
+      "event": "won: RN1 \u2014 Will FC Nordsj\u00e6lland win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787500713.2109737,
+      "bankroll": 539.4,
+      "event": "won: RN1 \u2014 S\u00f8nderjyske Fodbold vs. FC Nordsj\u00e6lland: O/U 3.5"
+    },
+    {
+      "timestamp": 1787500713.6189897,
+      "bankroll": 534.28,
+      "event": "lost: plonker2026 \u2014 IFK Goteborg vs. IF Elfsborg: O/U 2.5"
+    },
+    {
+      "timestamp": 1787500714.4464731,
+      "bankroll": 534.94,
+      "event": "won: RN1 \u2014 Will Young Boys Bern win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787500717.4212782,
+      "bankroll": 535.35,
+      "event": "won: RN1 \u2014 Young Boys Bern vs. FC Vaduz: O/U 4.5"
     }
   ]
 }
