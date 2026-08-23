@@ -1,5 +1,5 @@
 {
-  "bankroll": 518.0884937448131,
+  "bankroll": 524.8105032253836,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5965,6 +5965,46 @@
       "timestamp": 1787497554.365368,
       "bankroll": 518.09,
       "event": "lost: RN1 \u2014 SpVgg Greuther F\u00fcrth vs. VfL Bochum: O/U 3.5"
+    },
+    {
+      "timestamp": 1787497850.7386148,
+      "bankroll": 513.09,
+      "event": "lost: RN1 \u2014 Will SSV Jeddeloh II win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787497852.9051533,
+      "bankroll": 519.85,
+      "event": "won: plonker2026 \u2014 Will VfL Bochum win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787497854.4883382,
+      "bankroll": 514.76,
+      "event": "lost: RN1 \u2014 Will VfL Bochum win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787497854.5884564,
+      "bankroll": 517.48,
+      "event": "won: RN1 \u2014 Will VfL Bochum win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787497854.8772218,
+      "bankroll": 519.75,
+      "event": "won: RN1 \u2014 Will 1. FC Heidenheim 1846 win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787497855.1635487,
+      "bankroll": 524.25,
+      "event": "won: RN1 \u2014 SpVgg Greuther F\u00fcrth vs. VfL Bochum: O/U 2.5"
+    },
+    {
+      "timestamp": 1787497857.449872,
+      "bankroll": 524.4,
+      "event": "won: RN1 \u2014 Will SSV Jeddeloh II win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787497862.5695956,
+      "bankroll": 524.81,
+      "event": "won: RN1 \u2014 Angers SCO vs. Lille OSC: O/U 1.5"
     }
   ]
 }

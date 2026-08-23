@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:10:10 (hora de Perú)
+Actualizado: 2026-08-23 10:12:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $518.09
-**Retorno acumulado:** +3.62%
+**Bankroll actual:** $524.81
+**Retorno acumulado:** +4.96%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 10:10:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $483.14 en 97 posiciones abiertas (disponible para nuevas apuestas: $34.95)
+**Capital comprometido ahora mismo:** $443.14 en 89 posiciones abiertas (disponible para nuevas apuestas: $81.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 6 | 3 | 1 | +9.80 USD |
 | ChonkyChocolateCake | 23 | 15 | 2 | +8.30 USD |
+| plonker2026 | 1 | 0 | 3 | +6.76 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -46,7 +47,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| plonker2026 | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 47 | 19 | -21.31 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 173 | 82 | 39 | -61.41 USD |
+| RN1 | 178 | 84 | 32 | -61.45 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1129
-- **Aciertos:** 716 (63.4%)
-- **Cuota promedio de entrada:** 62.6%
+- **Apuestas resueltas:** 1137
+- **Aciertos:** 722 (63.5%)
+- **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,640.45
-- **ROI sobre lo apostado:** -0.88%
-- **Comisiones pagadas (taker fee):** $105.48 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,680.45
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $106.04 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,10 +83,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 585 | 49.7% | 50.3% | -0.6 pp |
-| 60-79% | 347 | 70.6% | 67.7% | +2.9 pp |
-| 80-94% | 133 | 88.7% | 86.8% | +1.9 pp |
-| 95-99% (casi seguro) | 64 | 96.9% | 97.3% | -0.4 pp |
+| 40-59% | 587 | 49.9% | 50.3% | -0.4 pp |
+| 60-79% | 350 | 70.6% | 67.7% | +2.9 pp |
+| 80-94% | 134 | 88.8% | 86.8% | +2.0 pp |
+| 95-99% (casi seguro) | 66 | 95.5% | 97.3% | -1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -318,7 +318,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo: O/U 18 | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Krasnodar win on 2026-08-23? | No (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 88% | 5.00 | 5.1% | ⏳ pendiente | — |
-| RN1 | Angers SCO vs. Lille OSC: O/U 1.5 | Over (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Angers SCO vs. Lille OSC: O/U 1.5 | Over (BUY) | 92% | 5.00 | 0.6% | ✅ ganada | +0.41 |
 | HomeRunHazard | Seattle Storm vs. Dallas Wings: O/U 173. | Under (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will LDU Quito win on 2026-08-23? | Yes (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
