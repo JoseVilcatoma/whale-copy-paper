@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 04:22:13 (hora de Perú)
+Actualizado: 2026-08-23 04:24:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $539.41
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 04:22:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $319.41)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $309.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 2 | +43.99 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 3 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 31 | 10 | 2 | +36.65 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 13 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 154 | 74 | 4 | -42.08 USD |
+| RN1 | 154 | 74 | 5 | -42.08 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
@@ -267,6 +267,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-furia-lgc-2026-08-23 | BOOMBOYS.Kiritych, Wiretransferxyz |
 | mls-orl-rsl-2026-08-22-orl | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kekasaur |
 | dota2-ty-ts8-2026-08-22-game1 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek |
+| itf-kisimov-juhas-2026-08-23 | , RN1 |
 | dota2-ty-ts8-2026-08-22-game2 | BOOMBOYS.Kiritych, Djdjdjekekek, MisterVision |
 | dota2-vsn2-ts8-2026-08-23-game1 | BOOMBOYS.Kiritych, MisterVision |
 | lol-tt-lgd-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
@@ -279,6 +280,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Akron Tolyatti win on 2026-08-23 | No (BUY) | 67% | 5.00 | 3.0% | ⏳ pendiente | — |
+| RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 79% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Game Handicap: JDG (-1.5) vs EDward Gami | EDward Gaming (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: LG Twins vs. Hanwha Eagles | LG Twins (BUY) | 60% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 42% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -307,5 +310,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Counter-Strike: Raccoons vs Vexar (BO3)  | Raccoons (BUY) | 76% | 5.00 | 23.2% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: JD Gaming vs TYLOO (BO5) - VCT | TYLOO (BUY) | 58% | 5.00 | 9.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 347.3% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 47% | 5.00 | 156.6% | ❌ perdida | -5.13 |
-| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 76.5% | ✅ ganada | +4.68 |
