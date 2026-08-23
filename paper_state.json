@@ -1,5 +1,5 @@
 {
-  "bankroll": 555.9801508782293,
+  "bankroll": 560.7363260819076,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6310,6 +6310,21 @@
       "timestamp": 1787512759.1430035,
       "bankroll": 555.98,
       "event": "won: HomeRunHazard \u2014 Quebec City: Stefanos Sakellaridis vs Luca Van Assche"
+    },
+    {
+      "timestamp": 1787513064.1545303,
+      "bankroll": 558.47,
+      "event": "won: Sunshine.Smile \u2014 LoL: Team Heretics vs GIANTX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787513064.2547634,
+      "bankroll": 560.64,
+      "event": "won: MisterVision \u2014 LoL: Team Heretics vs GIANTX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787513064.6783383,
+      "bankroll": 560.74,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Heretics vs GIANTX - Game 1 Winner"
     }
   ]
 }
