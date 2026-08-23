@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.93064923868275,
+  "bankroll": 496.75277118990226,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5330,6 +5330,21 @@
       "timestamp": 1787448860.4635367,
       "bankroll": 499.93,
       "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Brandon Nakashima vs Frances Tiafoe"
+    },
+    {
+      "timestamp": 1787449163.9940267,
+      "bankroll": 506.98,
+      "event": "won: casualbet2020 \u2014 Valorant: Sentinels vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787449169.4363582,
+      "bankroll": 501.85,
+      "event": "lost: pleaseplease123 \u2014 Detroit Tigers vs. Kansas City Royals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787449170.9393234,
+      "bankroll": 496.75,
+      "event": "lost: Wiretransferxyz \u2014 Valorant: Sentinels vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In"
     }
   ]
 }
