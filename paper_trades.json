@@ -32035,8 +32035,8 @@
     "title": "LoL: Team Heretics vs GIANTX - Game 1 Winner",
     "outcome": "GIANTX",
     "side": "BUY",
-    "whale_usd": 2258.9645,
-    "whale_pct": 3.283,
+    "whale_usd": 7175.3297999999995,
+    "whale_pct": 10.428,
     "whale_value_at_open": 68806.5187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -32050,7 +32050,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787498619.0543756,
-    "fills": 2
+    "last_fill_at": 1787498845.0515518,
+    "fills": 7
   }
 ]

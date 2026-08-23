@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:26:46 (hora de Perú)
+Actualizado: 2026-08-23 10:28:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $525.38
@@ -295,7 +295,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 3.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 10.4% | ⏳ pendiente | — |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 52% | 5.00 | 26.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 69% | 5.00 | 58.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 37.2% | ⏳ pendiente | — |
