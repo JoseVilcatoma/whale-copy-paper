@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.964976438109,
+  "bankroll": 518.834976438109,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5550,6 +5550,11 @@
       "timestamp": 1787463348.8422828,
       "bankroll": 523.96,
       "event": "won: kekasaur \u2014 Spread: CD Guadalajara (-1.5)"
+    },
+    {
+      "timestamp": 1787466518.6050465,
+      "bankroll": 518.83,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Set Handicap: Gauff (-1.5) vs Bejlek (+1.5)"
     }
   ]
 }

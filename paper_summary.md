@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 01:28:07 (hora de Perú)
+Actualizado: 2026-08-23 01:30:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $523.96
-**Retorno acumulado:** +4.79%
+**Bankroll actual:** $518.83
+**Retorno acumulado:** +3.77%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 01:28:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $378.96)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $373.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | plonker2026 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| ChonkyChocolateCake | 17 | 11 | 0 | -2.12 USD |
+| ChonkyChocolateCake | 17 | 11 | 1 | -2.12 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
@@ -59,23 +59,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
 | Djdjdjekekek | 10 | 11 | 2 | -15.81 USD |
 | HomeRunHazard | 75 | 46 | 11 | -19.29 USD |
+| danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 | RN1 | 149 | 73 | 6 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1059
-- **Aciertos:** 670 (63.3%)
+- **Apuestas resueltas:** 1060
+- **Aciertos:** 670 (63.2%)
 - **Cuota promedio de entrada:** 62.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,290.45
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $99.43 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,295.45
+- **ROI sobre lo apostado:** -0.89%
+- **Comisiones pagadas (taker fee):** $99.56 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 551 | 49.5% | 50.3% | -0.7 pp |
+| 40-59% | 552 | 49.5% | 50.3% | -0.8 pp |
 | 60-79% | 330 | 71.5% | 67.7% | +3.8 pp |
 | 80-94% | 119 | 87.4% | 86.7% | +0.7 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
@@ -272,6 +272,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 76.5% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Tohoku Rakuten Golden Eagles vs. Saitama | Tohoku Rakuten Golden Eagles (BUY) | 50% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo | Las Vegas Aces (BUY) | 89% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -301,4 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 42% | 5.00 | 149.2% | ❌ perdida | -5.14 |
 |  | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ❌ perdida | -5.04 |
-|  | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 63% | 5.00 | 0.5% | ✅ ganada | +2.84 |
