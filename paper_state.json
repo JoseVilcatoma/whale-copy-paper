@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.9891454598115,
+  "bankroll": 532.7032718965932,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5835,6 +5835,11 @@
       "timestamp": 1787487984.5630145,
       "bankroll": 531.99,
       "event": "won: Wiretransferxyz \u2014 Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1787489980.1279993,
+      "bankroll": 532.7,
+      "event": "won: RN1 \u2014 ITF W15 Logrono Women: Juliana Giaccio vs Zoziya Kardava"
     }
   ]
 }

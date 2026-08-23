@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 07:58:46 (hora de Perú)
+Actualizado: 2026-08-23 08:00:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $531.99
-**Retorno acumulado:** +6.40%
+**Bankroll actual:** $532.70
+**Retorno acumulado:** +6.54%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 07:58:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $126.99)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $127.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 162 | 78 | 31 | -52.37 USD |
+| RN1 | 163 | 78 | 31 | -51.66 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1105
-- **Aciertos:** 700 (63.3%)
+- **Apuestas resueltas:** 1106
+- **Aciertos:** 701 (63.4%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,520.45
-- **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $103.62 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,525.45
+- **ROI sobre lo apostado:** -0.68%
+- **Comisiones pagadas (taker fee):** $103.65 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 575 | 50.1% | 50.3% | -0.2 pp |
 | 60-79% | 342 | 70.5% | 67.7% | +2.7 pp |
-| 80-94% | 126 | 88.1% | 86.7% | +1.4 pp |
+| 80-94% | 127 | 88.2% | 86.7% | +1.5 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -289,6 +289,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | MisterVision | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 48% | 5.00 | 23.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -307,7 +308,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Athletics vs. Houston Astros | Houston Astros (BUY) | 63% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Spread: SpVgg Greuther Fürth (-1.5) | VfL Bochum (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Augsburg: Georgii Kravchenko vs Dominik  | Georgii Kravchenko (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
-| RN1 | ITF W15 Logrono Women: Juliana Giaccio v | Juliana Giaccio (BUY) | 87% | 5.00 | 2.4% | ⏳ pendiente | — |
+| RN1 | ITF W15 Logrono Women: Juliana Giaccio v | Juliana Giaccio (BUY) | 87% | 5.00 | 2.4% | ✅ ganada | +0.71 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 34.9% | ⏳ pendiente | — |
 | RN1 | Will Young Boys Bern win on 2026-08-23? | Yes (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will Burnley FC win on 2026-08-23? | No (BUY) | 94% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -318,4 +319,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force (BO | BNK FEARX (BUY) | 53% | 5.00 | 14.4% | 💰 vendida anticipada | -1.46 |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Under (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Aarhus GF win on 2026-08-21? | Yes (BUY) | 50% | 5.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
