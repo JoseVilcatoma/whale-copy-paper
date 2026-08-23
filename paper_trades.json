@@ -27407,8 +27407,8 @@
     "title": "Counter-Strike: FUT Esports vs Spirit (BO5) - Esports World Cup Playoffs",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 11016.3596,
-    "whale_pct": 36.441,
+    "whale_usd": 16401.9248,
+    "whale_pct": 54.256,
     "whale_value_at_open": 30230.7001,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -27419,7 +27419,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787442526.2166848,
-    "fills": 3
+    "last_fill_at": 1787443171.429184,
+    "fills": 5
   }
 ]
