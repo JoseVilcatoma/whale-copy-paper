@@ -1,5 +1,5 @@
 {
-  "bankroll": 530.1326869909328,
+  "bankroll": 525.0076869909328,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5845,6 +5845,11 @@
       "timestamp": 1787490812.895274,
       "bankroll": 530.13,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs (-2.57 USD)"
+    },
+    {
+      "timestamp": 1787491378.7588727,
+      "bankroll": 525.01,
+      "event": "lost: HomeRunHazard \u2014 Tohoku Rakuten Golden Eagles vs. Saitama Seibu Lions"
     }
   ]
 }
