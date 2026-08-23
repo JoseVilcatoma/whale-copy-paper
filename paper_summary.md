@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:10:44 (hora de Perú)
+Actualizado: 2026-08-23 05:12:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $540.33
-**Retorno acumulado:** +8.07%
+**Bankroll actual:** $542.71
+**Retorno acumulado:** +8.54%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:10:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $260.33)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $267.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,19 +63,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 14 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 155 | 74 | 10 | -42.03 USD |
+| RN1 | 156 | 74 | 9 | -39.65 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1071
-- **Aciertos:** 679 (63.4%)
+- **Apuestas resueltas:** 1072
+- **Aciertos:** 680 (63.4%)
 - **Cuota promedio de entrada:** 62.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,350.45
-- **ROI sobre lo apostado:** -0.58%
-- **Comisiones pagadas (taker fee):** $100.50 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,355.45
+- **ROI sobre lo apostado:** -0.53%
+- **Comisiones pagadas (taker fee):** $100.59 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 559 | 49.7% | 50.3% | -0.5 pp |
-| 60-79% | 330 | 71.5% | 67.7% | +3.8 pp |
+| 60-79% | 331 | 71.6% | 67.7% | +3.9 pp |
 | 80-94% | 121 | 87.6% | 86.7% | +0.9 pp |
 | 95-99% (casi seguro) | 61 | 96.7% | 97.3% | -0.6 pp |
 
@@ -308,6 +308,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Map Handicap: TS (-1.5) vs FUT Esports ( | Spirit (BUY) | 57% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | Will SSV Jeddeloh II win on 2026-08-23? | No (BUY) | 99% | 5.00 | 6.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 59% | 5.00 | 48.5% | ⏳ pendiente | — |
-| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 67% | 5.00 | 3.4% | ⏳ pendiente | — |
+| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 67% | 5.00 | 3.4% | ✅ ganada | +2.38 |
 | MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | T1 (BUY) | 47% | 5.00 | 32.6% | 💰 vendida anticipada | -1.01 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 62.7% | 💰 vendida anticipada | +1.34 |

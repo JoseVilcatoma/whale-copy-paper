@@ -1,5 +1,5 @@
 {
-  "bankroll": 540.3265306736794,
+  "bankroll": 542.7072172408435,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5650,6 +5650,11 @@
       "timestamp": 1787479762.1076396,
       "bankroll": 540.33,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner (+2.38 USD)"
+    },
+    {
+      "timestamp": 1787479860.8224177,
+      "bankroll": 542.71,
+      "event": "won: RN1 \u2014 ITF W75 Kursumlijska Banja 3 Women: Rada Zolotareva vs Lidia Encheva"
     }
   ]
 }
