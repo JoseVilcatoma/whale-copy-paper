@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 03:12:12 (hora de Perú)
+Actualizado: 2026-08-23 03:14:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $526.07
-**Retorno acumulado:** +5.21%
+**Bankroll actual:** $525.06
+**Retorno acumulado:** +5.01%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 03:12:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $336.07)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $330.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,12 +37,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 3 | 1 | 2 | +3.37 USD |
 | SDTrading | 16 | 13 | 0 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| ChonkyChocolateCake | 18 | 11 | 4 | +2.56 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 1 | 0 | 0 | +1.78 USD |
+| ChonkyChocolateCake | 18 | 12 | 4 | +1.55 USD |
 | HVAB | 2 | 0 | 0 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 12 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 154 | 74 | 0 | -42.08 USD |
+| RN1 | 154 | 74 | 1 | -42.08 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
@@ -278,7 +278,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | T1 (BUY) | 47% | 5.00 | 32.6% | ⏳ pendiente | — |
+| MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 59% | 5.00 | 15.8% | ⏳ pendiente | — |
+| RN1 | ITF W75 Kursumlijska Banja 3 Women: Rada | Rada Zolotareva (BUY) | 67% | 5.00 | 3.4% | ⏳ pendiente | — |
+| MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | T1 (BUY) | 47% | 5.00 | 32.6% | 💰 vendida anticipada | -1.01 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 56.7% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 54% | 5.00 | 54.9% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 81.1% | ⏳ pendiente | — |
@@ -306,5 +308,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 43% | 5.00 | 5.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | Kokoro Isomura (BUY) | 56% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 2.8% | ✅ ganada | +5.08 |
-| Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 24.2% | ⏳ pendiente | — |
-| HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
