@@ -28639,8 +28639,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 7138.8,
-    "whale_pct": 75.412,
+    "whale_usd": 7678.7946,
+    "whale_pct": 81.116,
     "whale_value_at_open": 9466.4289,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -28651,8 +28651,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787472460.397805,
-    "fills": 3
+    "last_fill_at": 1787472508.3942225,
+    "fills": 4
   },
   {
     "timestamp": 1787472461,
@@ -28663,8 +28663,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 59891.048272,
-    "whale_pct": 48.782,
+    "whale_usd": 67370.329335,
+    "whale_pct": 54.874,
     "whale_value_at_open": 122771.6774,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -28677,8 +28677,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787472479.9803548,
-    "fills": 6
+    "last_fill_at": 1787472518.5885162,
+    "fills": 11
   },
   {
     "timestamp": 1787472476,
@@ -28689,8 +28689,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
     "outcome": "Hanwha Life Esports",
     "side": "BUY",
-    "whale_usd": 18882.390600000002,
-    "whale_pct": 39.672,
+    "whale_usd": 26982.390600000002,
+    "whale_pct": 56.69,
     "whale_value_at_open": 47596.2249,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -28704,7 +28704,35 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787472477.1390784,
-    "fills": 2
+    "last_fill_at": 1787472496.1676426,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787472511,
+    "timestamp_added": 1787472511.5770276,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-hle1-t1-2026-08-23-game1",
+    "title": "LoL: Hanwha Life Esports vs T1 - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 4346.0478,
+    "whale_pct": 32.556,
+    "whale_value_at_open": 13349.2756,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "BOOMBOYS.Kiritych",
+      "Sunshine.Smile"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787472511.5770411,
+    "fills": 1
   }
 ]

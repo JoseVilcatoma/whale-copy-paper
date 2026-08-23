@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 03:08:03 (hora de Perú)
+Actualizado: 2026-08-23 03:10:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $526.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 03:08:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $341.07)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $336.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 3 | 1 | 2 | +3.37 USD |
 | SDTrading | 16 | 13 | 0 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| ChonkyChocolateCake | 18 | 11 | 3 | +2.56 USD |
+| ChonkyChocolateCake | 18 | 11 | 4 | +2.56 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -272,15 +272,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-tt-lgd-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | dota2-vsn2-ts8-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision |
 | lol-tt-lgd-2026-08-23-game2 | BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
-| lol-hle1-t1-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Sunshine.Smile |
+| lol-hle1-t1-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 39.7% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 54% | 5.00 | 48.8% | ⏳ pendiente | — |
-| Sunshine.Smile | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 75.4% | ⏳ pendiente | — |
+| MisterVision | LoL: Hanwha Life Esports vs T1 - Game 1  | T1 (BUY) | 47% | 5.00 | 32.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 56.7% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 54% | 5.00 | 54.9% | ⏳ pendiente | — |
+| Sunshine.Smile | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 81.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 47% | 5.00 | 24.0% | ⏳ pendiente | — |
 | MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | LGD Gaming (BUY) | 56% | 5.00 | 25.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 45% | 5.00 | 51.7% | ⏳ pendiente | — |
@@ -307,4 +308,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 2.8% | ✅ ganada | +5.08 |
 | Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 24.2% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ✅ ganada | +1.20 |
