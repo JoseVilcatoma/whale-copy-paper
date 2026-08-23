@@ -1,5 +1,5 @@
 {
-  "bankroll": 541.1768063534339,
+  "bankroll": 530.8938063534339,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6125,6 +6125,16 @@
       "timestamp": 1787499796.1345372,
       "bankroll": 541.18,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Heretics vs GIANTX - Game 1 Winner (+1.70 USD)"
+    },
+    {
+      "timestamp": 1787500404.778853,
+      "bankroll": 536.04,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Spread: Young Boys Bern (-1.5)"
+    },
+    {
+      "timestamp": 1787500410.6672719,
+      "bankroll": 530.89,
+      "event": "lost: RN1 \u2014 Vasteraas SK vs. Kalmar FF: O/U 0.5"
     }
   ]
 }

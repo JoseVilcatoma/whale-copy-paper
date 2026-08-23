@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:53:12 (hora de Perú)
+Actualizado: 2026-08-23 10:55:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $541.18
-**Retorno acumulado:** +8.24%
+**Bankroll actual:** $530.89
+**Retorno acumulado:** +6.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 10:53:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $333.14 en 67 posiciones abiertas (disponible para nuevas apuestas: $208.04)
+**Capital comprometido ahora mismo:** $323.14 en 65 posiciones abiertas (disponible para nuevas apuestas: $207.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 19 | 3 | 12 | +54.35 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 19 | 4 | 11 | +49.21 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 35 | 17 | 2 | +26.88 USD |
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 1 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 189 | 90 | 15 | -65.92 USD |
+| RN1 | 189 | 91 | 14 | -71.06 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1160
-- **Aciertos:** 738 (63.6%)
+- **Apuestas resueltas:** 1162
+- **Aciertos:** 738 (63.5%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,795.45
-- **ROI sobre lo apostado:** -0.49%
-- **Comisiones pagadas (taker fee):** $108.29 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,805.45
+- **ROI sobre lo apostado:** -0.66%
+- **Comisiones pagadas (taker fee):** $108.57 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 600 | 50.0% | 50.3% | -0.3 pp |
+| 40-59% | 602 | 49.8% | 50.2% | -0.4 pp |
 | 60-79% | 355 | 70.7% | 67.6% | +3.1 pp |
 | 80-94% | 139 | 89.2% | 86.9% | +2.4 pp |
 | 95-99% (casi seguro) | 66 | 95.5% | 97.3% | -1.9 pp |
@@ -314,7 +314,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
 | RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.5% | ❌ perdida | -5.13 |
-| RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 3.0% | ❌ perdida | -5.11 |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.9% | ✅ ganada | +5.51 |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo: O/U 18 | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
