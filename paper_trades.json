@@ -29749,8 +29749,8 @@
     "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 48289.71110000001,
-    "whale_pct": 14.008,
+    "whale_usd": 56106.31010000001,
+    "whale_pct": 16.275,
     "whale_value_at_open": 344735.3298,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -29763,8 +29763,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787482735.781384,
-    "fills": 2
+    "last_fill_at": 1787483363.4165688,
+    "fills": 4
   },
   {
     "timestamp": 1787482909,
@@ -29823,8 +29823,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner",
     "outcome": "TEAM VISION",
     "side": "BUY",
-    "whale_usd": 37857.06320800001,
-    "whale_pct": 249.979,
+    "whale_usd": 43523.501608000006,
+    "whale_pct": 287.395,
     "whale_value_at_open": 15144.1249,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -29837,8 +29837,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787483218.4381745,
-    "fills": 11
+    "last_fill_at": 1787483409.9260328,
+    "fills": 12
   },
   {
     "timestamp": 1787483078,
@@ -29889,6 +29889,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787483194.3586483,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787483360,
+    "timestamp_added": 1787483360.6083686,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "elc-wba-bur-2026-08-23-total-1pt5",
+    "title": "West Bromwich Albion FC vs. Burnley FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 821.19,
+    "whale_pct": 1.144,
+    "whale_value_at_open": 71756.3017,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787483360.6083786,
     "fills": 1
   }
 ]
