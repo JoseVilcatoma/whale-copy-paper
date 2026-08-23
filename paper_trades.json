@@ -31909,8 +31909,8 @@
     "title": "Toronto Blue Jays vs. New York Yankees: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 24794.566500000004,
-    "whale_pct": 66.254,
+    "whale_usd": 37652.406,
+    "whale_pct": 100.612,
     "whale_value_at_open": 37423.3385,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -31923,8 +31923,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787497461.9069731,
-    "fills": 2
+    "last_fill_at": 1787497594.428232,
+    "fills": 3
   },
   {
     "timestamp": 1787497448,
@@ -31961,8 +31961,8 @@
     "title": "LoL: Team Heretics vs GIANTX - Game 1 Winner",
     "outcome": "GIANTX",
     "side": "BUY",
-    "whale_usd": 916.4399999999999,
-    "whale_pct": 8.938,
+    "whale_usd": 3810.3684,
+    "whale_pct": 37.163,
     "whale_value_at_open": 10253.0414,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -31973,7 +31973,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787497547.7833207,
-    "fills": 1
+    "last_fill_at": 1787497576.3335292,
+    "fills": 2
   }
 ]

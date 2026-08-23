@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:06:05 (hora de Perú)
+Actualizado: 2026-08-23 10:08:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $518.09
@@ -294,9 +294,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sunshine.Smile | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 8.9% | ⏳ pendiente | — |
+| Sunshine.Smile | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 37.2% | ⏳ pendiente | — |
 | pleaseplease123 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Over (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
-| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 66.3% | ⏳ pendiente | — |
+| pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 100.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AS Monaco FC win on 2026-08-23? | No (BUY) | 52% | 5.00 | 13.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FUT Esports vs Spirit -  | FUT Esports (BUY) | 49% | 5.00 | 5.8% | ⏳ pendiente | — |
