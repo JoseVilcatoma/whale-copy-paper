@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 23:27:05 (hora de Perú)
+Actualizado: 2026-08-22 23:29:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $509.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 23:27:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $419.25)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $414.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| Djdjdjekekek | 10 | 10 | 2 | -10.67 USD |
+| Djdjdjekekek | 10 | 10 | 3 | -10.67 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
 | HomeRunHazard | 74 | 46 | 4 | -21.78 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
@@ -272,6 +272,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 42% | 5.00 | 168.9% | ⏳ pendiente | — |
 | Djdjdjekekek | Will TEAM VISION Win The International 2 | No (BUY) | 41% | 5.00 | 1033.8% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-4.5) | Portland Fire (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -301,4 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 57% | 5.00 | 41450.1% | ❌ perdida | -5.11 |
 | SDTrading | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 51% | 5.00 | 10.8% | ✅ ganada | +4.68 |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ✅ ganada | +3.98 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FC Cincinnati win on 2026-08-22? | No (BUY) | 41% | 5.00 | 3.7% | ✅ ganada | +7.05 |

@@ -27841,5 +27841,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787458847.5724816,
     "fills": 1
+  },
+  {
+    "timestamp": 1787459265,
+    "timestamp_added": 1787459266.219517,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-vsn2-ts8-2026-08-23",
+    "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 24567.581923999995,
+    "whale_pct": 168.934,
+    "whale_value_at_open": 14542.7333,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787459337.0714214,
+    "fills": 9
   }
 ]
