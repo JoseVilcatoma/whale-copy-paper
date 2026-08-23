@@ -30275,8 +30275,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -32593,8 +32593,8 @@
     "title": "Will Be\u015fikta\u015f JK win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 59992.376122999995,
-    "whale_pct": 83.609,
+    "whale_usd": 60618.876122999995,
+    "whale_pct": 84.482,
     "whale_value_at_open": 71753.6267,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -32607,8 +32607,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787507823.170419,
-    "fills": 23
+    "last_fill_at": 1787507859.8470907,
+    "fills": 24
   },
   {
     "timestamp": 1787507478,

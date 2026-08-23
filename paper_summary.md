@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 12:57:04 (hora de Perú)
+Actualizado: 2026-08-23 12:59:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $558.17
-**Retorno acumulado:** +11.63%
+**Bankroll actual:** $553.05
+**Retorno acumulado:** +10.61%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 12:57:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $238.17)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $238.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,18 +65,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 200 | 91 | 3 | -52.56 USD |
+| RN1 | 200 | 92 | 2 | -57.68 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1185
-- **Aciertos:** 756 (63.8%)
+- **Apuestas resueltas:** 1186
+- **Aciertos:** 756 (63.7%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $5,918.59
-- **ROI sobre lo apostado:** -0.23%
-- **Comisiones pagadas (taker fee):** $110.60 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.64% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,923.59
+- **ROI sobre lo apostado:** -0.32%
+- **Comisiones pagadas (taker fee):** $110.73 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.55% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 616 | 50.2% | 50.2% | -0.1 pp |
+| 40-59% | 617 | 50.1% | 50.2% | -0.1 pp |
 | 60-79% | 358 | 70.9% | 67.7% | +3.2 pp |
 | 80-94% | 143 | 89.5% | 86.9% | +2.6 pp |
 | 95-99% (casi seguro) | 68 | 95.6% | 97.3% | -1.7 pp |
@@ -302,7 +302,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ⏳ pendiente | — |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 1 W | Karmine Corp (BUY) | 57% | 5.00 | 8.6% | ⏳ pendiente | — |
-| plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes (BUY) | 57% | 5.00 | 83.6% | ⏳ pendiente | — |
+| plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes (BUY) | 57% | 5.00 | 84.5% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Stefanos Sakellaridis vs Lu | Luca Van Assche (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: RED Canids vs Fluxo W7M (BO3) - CBL | RED Canids (BUY) | 99% | 5.00 | 6.8% | ⏳ pendiente | — |
