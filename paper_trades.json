@@ -30098,8 +30098,8 @@
     "title": "Will VfL Bochum win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 936.18,
-    "whale_pct": 1.051,
+    "whale_usd": 1897.1799999999998,
+    "whale_pct": 2.129,
     "whale_value_at_open": 89091.1052,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -30112,8 +30112,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787484455.8557112,
-    "fills": 1
+    "last_fill_at": 1787487234.8878174,
+    "fills": 2
   },
   {
     "timestamp": 1787484476,
@@ -30528,5 +30528,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787487152.0173116,
     "fills": 2
+  },
+  {
+    "timestamp": 1787487205,
+    "timestamp_added": 1787487205.3214772,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-kravche-recek-2026-08-23",
+    "title": "Augsburg: Georgii Kravchenko vs Dominik Recek",
+    "outcome": "Georgii Kravchenko",
+    "side": "BUY",
+    "whale_usd": 2597.0399999999995,
+    "whale_pct": 2.039,
+    "whale_value_at_open": 127382.8135,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787487205.3214877,
+    "fills": 1
   }
 ]
