@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.9546077084438,
+  "bankroll": 508.9225062591685,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5495,6 +5495,16 @@
       "timestamp": 1787456731.2109928,
       "bankroll": 499.95,
       "event": "won: HomeRunHazard \u2014 Connecticut Sun vs. Los Angeles Sparks: O/U 168.5"
+    },
+    {
+      "timestamp": 1787457665.7427518,
+      "bankroll": 503.19,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Am\u00e9rica de Cali win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787457667.5427752,
+      "bankroll": 508.92,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will CD Universidad Cat\u00f3lica win on 2026-08-22?"
     }
   ]
 }
