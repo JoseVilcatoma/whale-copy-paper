@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:51:10 (hora de Perú)
+Actualizado: 2026-08-23 17:53:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $582.44
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:51:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $377.44)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $372.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 9 | 4 | +51.28 USD |
-| swisstony | 30 | 1 | 11 | +43.66 USD |
+| swisstony | 30 | 1 | 12 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
@@ -304,6 +304,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | CA River Plate vs. CA Vélez Sarsfield: O | Under (BUY) | 84% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: CA River Plate (-2.5) | CA Vélez Sarsfield (BUY) | 86% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Associação Chapecoense de Futebol w | Yes (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -311,7 +312,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Vila Nova FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Coritiba FBC (-1.5) | SC Corinthians Paulista (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.7% | ⏳ pendiente | — |
+| swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Will AD Pasto win on 2026-08-23? | No (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will AS Roma win on 2026-08-24? | No (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | CSD Mixco vs. CD Guastatoya: O/U 3.5 | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -333,4 +334,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Karmine Corp (BO3) - LE | Karmine Corp (BUY) | 89% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | New England Revolution vs. New York City | Under (BUY) | 43% | 5.00 | 2.8% | ✅ ganada | +6.48 |
 | kekasaur | Red Bull Bragantino vs. Grêmio FBPA: O/U | Over (BUY) | 53% | 5.00 | 9.4% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will HNK Hajduk Split win on 2026-08-23? | No (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
