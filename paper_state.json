@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.326222912445,
+  "bankroll": 504.201222912445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5420,6 +5420,11 @@
       "timestamp": 1787451040.674697,
       "bankroll": 499.33,
       "event": "won: kekasaur \u2014 Will Orlando City SC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787451356.6991143,
+      "bankroll": 504.2,
+      "event": "won: Sassy-Bucket \u2014 Chicago Cubs vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }

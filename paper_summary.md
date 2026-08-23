@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 21:15:28 (hora de Perú)
+Actualizado: 2026-08-22 21:17:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $499.33
-**Retorno acumulado:** -0.13%
+**Bankroll actual:** $504.20
+**Retorno acumulado:** +0.84%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 21:15:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $359.33)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $364.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 0 | 0 | 1 | +0.00 USD |
 | beachboy4 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| Djdjdjekekek | 10 | 8 | 1 | -0.49 USD |
+| Djdjdjekekek | 10 | 8 | 2 | -0.49 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
@@ -61,21 +61,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
+| Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 | HomeRunHazard | 69 | 43 | 9 | -30.05 USD |
-| Sassy-Bucket | 10 | 15 | 1 | -32.94 USD |
 |  | 27 | 20 | 2 | -48.31 USD |
 | RN1 | 149 | 73 | 0 | -49.11 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1033
-- **Aciertos:** 653 (63.2%)
+- **Apuestas resueltas:** 1034
+- **Aciertos:** 654 (63.2%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,160.45
-- **ROI sobre lo apostado:** -1.29%
-- **Comisiones pagadas (taker fee):** $96.48 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,165.45
+- **ROI sobre lo apostado:** -1.20%
+- **Comisiones pagadas (taker fee):** $96.61 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 531 | 49.2% | 50.3% | -1.2 pp |
+| 40-59% | 532 | 49.2% | 50.3% | -1.1 pp |
 | 60-79% | 326 | 71.2% | 67.8% | +3.4 pp |
 | 80-94% | 117 | 88.0% | 86.7% | +1.3 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
@@ -265,11 +265,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-tex-2026-08-22-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading |
 | lol-dsg-dig-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | mls-orl-rsl-2026-08-22-orl | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kekasaur |
+| dota2-ty-ts8-2026-08-22-game1 | , Djdjdjekekek |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 42% | 5.00 | 12.2% | ⏳ pendiente | — |
 |  | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ⏳ pendiente | — |
 |  | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -280,7 +282,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Spirit (B | Spirit (BUY) | 78% | 5.00 | 54.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports - Map | KRÜ Esports (BUY) | 50% | 5.00 | 36.4% | ✅ ganada | +4.88 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Inter Miami CF (-1.5) | Toronto FC (BUY) | 48% | 5.00 | 12.8% | ✅ ganada | +5.29 |
-| Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7 | Over (BUY) | 50% | 5.00 | 793.7% | ⏳ pendiente | — |
+| Sassy-Bucket | Chicago Cubs vs. Seattle Mariners: O/U 7 | Over (BUY) | 50% | 5.00 | 793.7% | ✅ ganada | +4.88 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CD Universidad Católica win on 2026 | No (BUY) | 46% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cruzeiro EC vs. CR Flamengo: O/U 8.5 Tot | Over (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | pleaseplease123 | New York Mets vs. Chicago White Sox: O/U | Over (BUY) | 52% | 5.00 | 1.9% | ✅ ganada | +4.50 |
@@ -299,4 +301,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 60% | 5.00 | 1.3% | 💰 vendida anticipada | -0.87 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas (BO3) - LCS R | Disguised (BUY) | 49% | 5.00 | 10.4% | 💰 vendida anticipada | +2.01 |
