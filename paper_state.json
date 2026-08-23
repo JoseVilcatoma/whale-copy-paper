@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.1430203242662,
+  "bankroll": 532.1757234054987,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5860,6 +5860,16 @@
       "timestamp": 1787492617.4428985,
       "bankroll": 523.14,
       "event": "won: RN1 \u2014 ITF W35 Erwitte Women: Josy Daems vs Valentina Steiner"
+    },
+    {
+      "timestamp": 1787493227.4922092,
+      "bankroll": 529.9,
+      "event": "won: Djdjdjekekek \u2014 Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs"
+    },
+    {
+      "timestamp": 1787493232.9921243,
+      "bankroll": 532.18,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs"
     }
   ]
 }

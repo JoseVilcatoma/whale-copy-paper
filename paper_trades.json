@@ -27858,8 +27858,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.76,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -28163,8 +28163,8 @@
     "title": "Spread: Dallas Wings (-8.5)",
     "outcome": "Dallas Wings",
     "side": "BUY",
-    "whale_usd": 2512.8986,
-    "whale_pct": 4.6,
+    "whale_usd": 3865.0042000000003,
+    "whale_pct": 7.075,
     "whale_value_at_open": 54625.3746,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -28175,8 +28175,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787490814.0446196,
-    "fills": 3
+    "last_fill_at": 1787493140.648876,
+    "fills": 4
   },
   {
     "timestamp": 1787464951,
@@ -29658,8 +29658,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.27,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
