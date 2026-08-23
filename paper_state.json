@@ -1,5 +1,5 @@
 {
-  "bankroll": 556.5664449934831,
+  "bankroll": 556.7130841687408,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5670,6 +5670,11 @@
       "timestamp": 1787481402.7586534,
       "bankroll": 556.57,
       "event": "won: MisterVision \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787482334.6754277,
+      "bankroll": 556.71,
+      "event": "won: RN1 \u2014 ITF M25 Idanha-a-Nova 2 Men: Pavel Lagutin vs Goncalo Marques"
     }
   ]
 }

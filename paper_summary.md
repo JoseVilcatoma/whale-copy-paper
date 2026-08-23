@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:51:48 (hora de Perú)
+Actualizado: 2026-08-23 05:53:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $556.57
-**Retorno acumulado:** +11.31%
+**Bankroll actual:** $556.71
+**Retorno acumulado:** +11.34%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:51:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $241.57)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $241.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,19 +63,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 16 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 156 | 74 | 15 | -39.65 USD |
+| RN1 | 157 | 74 | 15 | -39.50 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1075
-- **Aciertos:** 683 (63.5%)
+- **Apuestas resueltas:** 1076
+- **Aciertos:** 684 (63.6%)
 - **Cuota promedio de entrada:** 62.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,370.45
-- **ROI sobre lo apostado:** -0.28%
-- **Comisiones pagadas (taker fee):** $100.95 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.60% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,375.45
+- **ROI sobre lo apostado:** -0.27%
+- **Comisiones pagadas (taker fee):** $100.96 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.61% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -86,7 +86,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 562 | 50.0% | 50.3% | -0.3 pp |
 | 60-79% | 331 | 71.6% | 67.7% | +3.9 pp |
 | 80-94% | 121 | 87.6% | 86.7% | +0.9 pp |
-| 95-99% (casi seguro) | 61 | 96.7% | 97.3% | -0.6 pp |
+| 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -282,6 +282,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -294,7 +295,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Over (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: 1st Ha | Under (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | ITF M25 Idanha-a-Nova 2 Men: Pavel Lagut | Pavel Lagutin (BUY) | 97% | 5.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | ITF M25 Idanha-a-Nova 2 Men: Pavel Lagut | Pavel Lagutin (BUY) | 97% | 5.00 | 2.7% | ✅ ganada | +0.15 |
 | RN1 | ITF W35 Verbier Women: Valentini Grammat | Valentini Grammatikopoulou (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Adrienn Nagy (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 61% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -311,4 +312,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Akron Tolyatti win on 2026-08-23 | No (BUY) | 67% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 79% | 5.00 | 3.4% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Game Handicap: JDG (-1.5) vs EDward Gami | EDward Gaming (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | KBO: LG Twins vs. Hanwha Eagles | LG Twins (BUY) | 60% | 5.00 | 2.4% | ⏳ pendiente | — |
