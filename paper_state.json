@@ -1,5 +1,5 @@
 {
-  "bankroll": 555.2011973898573,
+  "bankroll": 555.9801508782293,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6305,6 +6305,11 @@
       "timestamp": 1787511508.2146492,
       "bankroll": 555.2,
       "event": "won: Wiretransferxyz \u2014 Will Team Spirit Win the CS2 EWC 2026?"
+    },
+    {
+      "timestamp": 1787512759.1430035,
+      "bankroll": 555.98,
+      "event": "won: HomeRunHazard \u2014 Quebec City: Stefanos Sakellaridis vs Luca Van Assche"
     }
   ]
 }
