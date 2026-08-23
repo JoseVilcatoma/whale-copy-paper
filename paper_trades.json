@@ -27851,8 +27851,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 96412.073802,
-    "whale_pct": 662.957,
+    "whale_usd": 100186.03448999999,
+    "whale_pct": 688.908,
     "whale_value_at_open": 14542.7333,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -27863,7 +27863,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787459937.8516138,
-    "fills": 22
+    "last_fill_at": 1787460079.3561573,
+    "fills": 25
   }
 ]
