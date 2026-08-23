@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.5216727210776,
+  "bankroll": 529.9317569650739,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5780,6 +5780,41 @@
       "timestamp": 1787486024.306652,
       "bankroll": 519.52,
       "event": "lost: RN1 \u2014 ITF M15 B\u00e5stad Men: Leo Borg vs Niklas Guttau"
+    },
+    {
+      "timestamp": 1787486690.3475401,
+      "bankroll": 518.07,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs Nongshim Red Force (BO3) - LCK Round 3-4 Rise Group (-1.46 USD)"
+    },
+    {
+      "timestamp": 1787486723.6806471,
+      "bankroll": 522.04,
+      "event": "won: Sunshine.Smile \u2014 LoL: Hanwha Life Esports vs T1 - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787486723.780742,
+      "bankroll": 526.19,
+      "event": "won: BOOMBOYS.Kiritych \u2014 LoL: Hanwha Life Esports vs T1 - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787486723.880835,
+      "bankroll": 529.56,
+      "event": "won: MisterVision \u2014 LoL: Hanwha Life Esports vs T1 - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787486724.8718932,
+      "bankroll": 533.88,
+      "event": "won: BOOMBOYS.Kiritych \u2014 LoL: Hanwha Life Esports vs T1 - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787486725.2146604,
+      "bankroll": 535.08,
+      "event": "won: BOOMBOYS.Kiritych \u2014 LoL: Hanwha Life Esports vs T1 (BO3) - LCK Round 3-4 Legend Group"
+    },
+    {
+      "timestamp": 1787486725.3147593,
+      "bankroll": 529.93,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Hanwha Life Esports vs T1 - Game 2 Winner"
     }
   ]
 }
