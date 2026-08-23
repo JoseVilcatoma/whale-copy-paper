@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:53:53 (hora de Perú)
+Actualizado: 2026-08-23 05:55:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $556.71
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:53:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $241.71)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $236.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 4 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 32 | 11 | 3 | +38.79 USD |
-| BOOMBOYS.Kiritych | 11 | 4 | 7 | +29.54 USD |
+| BOOMBOYS.Kiritych | 11 | 4 | 8 | +29.54 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
@@ -275,6 +275,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-vsn2-ts8-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision |
 | lol-tt-lgd-2026-08-23-game2 | BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
 | lol-hle1-t1-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
+| cs2-fut-ts7-2026-08-23-map-handicap-home-1pt5 | BOOMBOYS.Kiritych, Wiretransferxyz |
 | lol-hle1-t1-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych |
 | dota2-vsn2-ts8-2026-08-23-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
 
@@ -282,6 +283,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BOOMBOYS.Kiritych | Map Handicap: TS (-1.5) vs FUT Esports ( | FUT Esports (BUY) | 45% | 5.00 | 12.4% | ⏳ pendiente | — |
 | RN1 | Sønderjyske Fodbold vs. FC Nordsjælland: | Under (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -311,4 +313,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunshine.Smile | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 62% | 5.00 | 11.4% | 💰 vendida anticipada | -0.19 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Akron Tolyatti win on 2026-08-23 | No (BUY) | 67% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 79% | 5.00 | 3.4% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Game Handicap: JDG (-1.5) vs EDward Gami | EDward Gaming (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
