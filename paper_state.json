@@ -1,5 +1,5 @@
 {
-  "bankroll": 524.2004715861469,
+  "bankroll": 519.140471586147,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5760,6 +5760,11 @@
       "timestamp": 1787484616.5956876,
       "bankroll": 524.2,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: CTBC Flying Oyster vs Team Secret Whales - Game 3 Winner (-2.21 USD)"
+    },
+    {
+      "timestamp": 1787485148.0272875,
+      "bankroll": 519.14,
+      "event": "lost: Wiretransferxyz \u2014 Counter-Strike: Raccoons vs Vexar (BO3) - Exort Fiesta Group Stage"
     }
   ]
 }
