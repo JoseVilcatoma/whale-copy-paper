@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 19:28:53 (hora de Perú)
+Actualizado: 2026-08-22 19:30:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $502.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 19:28:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $272.07)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $267.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| Djdjdjekekek | 10 | 6 | 1 | +5.06 USD |
+| Djdjdjekekek | 10 | 6 | 2 | +5.06 USD |
 | kekasaur | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | pleaseplease123 | 1 | 0 | 2 | +4.14 USD |
@@ -269,6 +269,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit (BO3) | Team Spirit (BUY) | 70% | 5.00 | 6.8% | ⏳ pendiente | — |
 | plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 39.5% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Spirit (B | Spirit (BUY) | 78% | 5.00 | 54.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports - Map | KRÜ Esports (BUY) | 50% | 5.00 | 36.4% | ⏳ pendiente | — |
@@ -298,4 +299,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Disguised vs Dignitas - Game 1 Winn | Dignitas (BUY) | 53% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 47% | 5.00 | 6.1% | 💰 vendida anticipada | +1.45 |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 50% | 5.00 | 221.5% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Charlotte FC vs. D.C. United SC: 1st Hal | Under (BUY) | 59% | 5.00 | 4.8% | ⏳ pendiente | — |

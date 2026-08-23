@@ -27445,5 +27445,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787443585.4669273,
     "fills": 1
+  },
+  {
+    "timestamp": 1787444982,
+    "timestamp_added": 1787444983.7000844,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "dota2-ty-ts8-2026-08-22",
+    "title": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 34193.354999999996,
+    "whale_pct": 6.826,
+    "whale_value_at_open": 500941.4936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787444983.7000973,
+    "fills": 1
   }
 ]
