@@ -1,5 +1,5 @@
 {
-  "bankroll": 571.3164049911662,
+  "bankroll": 584.7754920423449,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6390,6 +6390,41 @@
       "timestamp": 1787517368.8016827,
       "bankroll": 571.32,
       "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 7.5"
+    },
+    {
+      "timestamp": 1787517675.661955,
+      "bankroll": 573.7,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787517676.3610117,
+      "bankroll": 578.19,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Baltimore Orioles"
+    },
+    {
+      "timestamp": 1787517680.345595,
+      "bankroll": 583.27,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5"
+    },
+    {
+      "timestamp": 1787517682.331401,
+      "bankroll": 578.16,
+      "event": "lost: Sassy-Bucket \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 8.5"
+    },
+    {
+      "timestamp": 1787517682.784864,
+      "bankroll": 573.05,
+      "event": "lost: pleaseplease123 \u2014 Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5"
+    },
+    {
+      "timestamp": 1787517685.3447177,
+      "bankroll": 578.55,
+      "event": "won: SDTrading \u2014 Tampa Bay Rays vs. Baltimore Orioles: O/U 8.5"
+    },
+    {
+      "timestamp": 1787517685.883542,
+      "bankroll": 584.78,
+      "event": "won: HomeRunHazard \u2014 St. Louis Cardinals vs. Philadelphia Phillies: O/U 8.5"
     }
   ]
 }
