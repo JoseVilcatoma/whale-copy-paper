@@ -29651,8 +29651,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 1100.082339,
-    "whale_pct": 0.349,
+    "whale_usd": 18474.164553000002,
+    "whale_pct": 5.853,
     "whale_value_at_open": 315641.1242,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -29665,8 +29665,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787481717.37525,
-    "fills": 1
+    "last_fill_at": 1787487924.705888,
+    "fills": 4
   },
   {
     "timestamp": 1787481785,
@@ -30599,6 +30599,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787487668.0826488,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787487807,
+    "timestamp_added": 1787487808.1528268,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "den-mid-ran-2026-08-23-ran",
+    "title": "Will Randers FC win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 693.3100000000001,
+    "whale_pct": 0.503,
+    "whale_value_at_open": 137783.4192,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787487808.152836,
     "fills": 1
   }
 ]
