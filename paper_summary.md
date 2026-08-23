@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 15:19:31 (hora de Perú)
+Actualizado: 2026-08-23 15:21:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $569.25
-**Retorno acumulado:** +13.85%
+**Bankroll actual:** $571.76
+**Retorno acumulado:** +14.35%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 15:19:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $294.25)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $311.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 6 | 10 | +43.85 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 44 | 18 | 0 | +38.97 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 20 | 7 | 9 | +38.72 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 10 | 1 | +24.65 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
@@ -32,12 +32,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | plonker2026 | 3 | 1 | 1 | +12.49 USD |
 | Sunshine.Smile | 7 | 3 | 2 | +12.29 USD |
+| pleaseplease123 | 4 | 1 | 1 | +11.84 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| pleaseplease123 | 3 | 1 | 2 | +8.02 USD |
+| SDTrading | 17 | 13 | 5 | +7.17 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
-| SDTrading | 16 | 13 | 6 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1202
-- **Aciertos:** 769 (64.0%)
+- **Apuestas resueltas:** 1205
+- **Aciertos:** 771 (64.0%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,003.59
-- **ROI sobre lo apostado:** -0.07%
-- **Comisiones pagadas (taker fee):** $111.97 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.79% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,018.59
+- **ROI sobre lo apostado:** -0.03%
+- **Comisiones pagadas (taker fee):** $112.32 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 622 | 50.2% | 50.2% | -0.1 pp |
+| 40-59% | 625 | 50.2% | 50.2% | -0.0 pp |
 | 60-79% | 365 | 71.2% | 67.7% | +3.5 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 70 | 95.7% | 97.3% | -1.6 pp |
@@ -324,7 +324,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 47% | 5.00 | 13.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Set Handicap: Fils (-1.5) vs Tiafoe (+1. | Tiafoe (BUY) | 60% | 5.00 | 15.4% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins (BUY) | 43% | 5.00 | 22.6% | ⏳ pendiente | — |
-| SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
 | danielwolfmorales3pddb6dl6 | Winston-Salem Open: Martin Landaluce vs  | Martin Landaluce (BUY) | 54% | 5.00 | 5.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Winston-Salem Open: Dino Prizmic vs Cruz | Cruz Hewitt (BUY) | 51% | 5.00 | 10.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Philadelphia: Liudmila Samsonova vs Tayl | Liudmila Samsonova (BUY) | 52% | 5.00 | 16.4% | ⏳ pendiente | — |

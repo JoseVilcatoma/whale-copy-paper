@@ -1,5 +1,5 @@
 {
-  "bankroll": 569.2523405653959,
+  "bankroll": 571.7564834225387,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6365,6 +6365,21 @@
       "timestamp": 1787515534.7603962,
       "bankroll": 569.25,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: RED Canids vs Fluxo W7M (BO3) - CBLOL Regular Season"
+    },
+    {
+      "timestamp": 1787516452.082635,
+      "bankroll": 564.12,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Toronto Blue Jays vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1787516452.1828036,
+      "bankroll": 567.94,
+      "event": "won: pleaseplease123 \u2014 Toronto Blue Jays vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1787516454.1202254,
+      "bankroll": 571.76,
+      "event": "won: SDTrading \u2014 Toronto Blue Jays vs. New York Yankees: O/U 7.5"
     }
   ]
 }
