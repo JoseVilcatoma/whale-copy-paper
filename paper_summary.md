@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 02:22:08 (hora de Perú)
+Actualizado: 2026-08-23 02:24:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $525.89
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 02:22:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $375.89)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $370.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | plonker2026 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| ChonkyChocolateCake | 17 | 11 | 1 | -2.12 USD |
+| ChonkyChocolateCake | 17 | 11 | 2 | -2.12 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
@@ -274,10 +274,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 52% | 5.00 | 6.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Indiana Fever (-3.5) | Indiana Fever (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Wiretransferxyz | Counter-Strike: Raccoons vs Vexar (BO3)  | Raccoons (BUY) | 76% | 5.00 | 3.4% | ⏳ pendiente | — |
+| Wiretransferxyz | Counter-Strike: Raccoons vs Vexar (BO3)  | Raccoons (BUY) | 76% | 5.00 | 23.2% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: JD Gaming vs TYLOO (BO5) - VCT | TYLOO (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 127.5% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 156.9% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 47% | 5.00 | 156.6% | ⏳ pendiente | — |
 | MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 76.5% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -303,4 +304,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chunichi Dragons vs. Tokyo Yakult Swallo | Chunichi Dragons (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | CF Cruz Azul vs. Atlas FC: O/U 5.5 | Under (BUY) | 94% | 5.00 | 0.8% | ✅ ganada | +0.30 |
 | BOOMBOYS.Kiritych | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 44% | 5.00 | 196.0% | ✅ ganada | +6.22 |
-| MisterVision | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 56% | 5.00 | 278.0% | ✅ ganada | +3.82 |

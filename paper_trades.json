@@ -28309,8 +28309,8 @@
     "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 26946.65421,
-    "whale_pct": 127.512,
+    "whale_usd": 33146.65421,
+    "whale_pct": 156.851,
     "whale_value_at_open": 21132.5792,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -28323,8 +28323,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787469684.1790128,
-    "fills": 3
+    "last_fill_at": 1787469797.4302204,
+    "fills": 4
   },
   {
     "timestamp": 1787468078,
@@ -28359,8 +28359,8 @@
     "title": "Counter-Strike: Raccoons vs Vexar (BO3) - Exort Fiesta Group Stage",
     "outcome": "Raccoons",
     "side": "BUY",
-    "whale_usd": 1500.0,
-    "whale_pct": 3.354,
+    "whale_usd": 10394.76,
+    "whale_pct": 23.244,
     "whale_value_at_open": 44719.7064,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -28371,8 +28371,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787468384.6350257,
-    "fills": 1
+    "last_fill_at": 1787469778.6903117,
+    "fills": 2
   },
   {
     "timestamp": 1787469443,
@@ -28396,6 +28396,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787469443.3088663,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787469848,
+    "timestamp_added": 1787469848.998087,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-tt-lgd-2026-08-23-game1",
+    "title": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 1 Winner",
+    "outcome": "ThunderTalk Gaming",
+    "side": "BUY",
+    "whale_usd": 992.0367000000001,
+    "whale_pct": 6.689,
+    "whale_value_at_open": 14831.0507,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787469848.9981058,
     "fills": 1
   }
 ]
