@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 22:07:37 (hora de Perú)
+Actualizado: 2026-08-22 22:09:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $503.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 22:07:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $378.07)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $373.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 0 | 0 | 1 | +0.00 USD |
 | beachboy4 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| Djdjdjekekek | 10 | 8 | 2 | -0.49 USD |
+| Djdjdjekekek | 10 | 8 | 3 | -0.49 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
@@ -271,6 +271,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 9.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 42% | 5.00 | 149.2% | ⏳ pendiente | — |
 |  | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -300,4 +301,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CR Flamengo win on 2026-08-22? | No (BUY) | 57% | 5.00 | 10.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will América de Cali win on 2026-08-22? | No (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.4% | ❌ perdida | -5.12 |
-| Wiretransferxyz | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
