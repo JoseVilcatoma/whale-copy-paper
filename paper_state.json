@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.1449589444308,
+  "bankroll": 516.6357165201883,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5535,6 +5535,11 @@
       "timestamp": 1787459573.113556,
       "bankroll": 514.14,
       "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: Team Yandex vs Team Spirit - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787459885.426808,
+      "bankroll": 516.64,
+      "event": "won: HomeRunHazard \u2014 Atlanta Dream vs. Phoenix Mercury"
     }
   ]
 }
