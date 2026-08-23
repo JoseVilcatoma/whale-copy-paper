@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 12:34:14 (hora de Perú)
+Actualizado: 2026-08-23 12:36:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $539.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 12:34:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $333.14 en 67 posiciones abiertas (disponible para nuevas apuestas: $206.77)
+**Capital comprometido ahora mismo:** $338.14 en 68 posiciones abiertas (disponible para nuevas apuestas: $201.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 6 | 3 | 1 | +9.80 USD |
-| plonker2026 | 2 | 1 | 1 | +7.61 USD |
+| plonker2026 | 2 | 1 | 2 | +7.61 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
@@ -286,6 +286,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-vsn2-ts8-2026-08-23-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Sunshine.Smile |
 | epl-bri-ast-2026-08-23-bri | RN1, plonker2026 |
 | lol-fox1-ns-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
+| tur-ala-bes-2026-08-23-bes | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, plonker2026 |
 | lol-blg-al-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 | mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
 | mlb-tb-bal-2026-08-23-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading, pleaseplease123 |
@@ -299,6 +300,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| plonker2026 | Will Beşiktaş JK win on 2026-08-23? | Yes (BUY) | 57% | 5.00 | 40.8% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Quebec City: Stefanos Sakellaridis vs Lu | Luca Van Assche (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: RED Canids vs Fluxo W7M (BO3) - CBL | RED Canids (BUY) | 99% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -328,4 +330,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 100.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AS Monaco FC win on 2026-08-23? | No (BUY) | 52% | 5.00 | 13.3% | ❌ perdida | -5.12 |
-| danielwolfmorales3pddb6dl6 | Counter-Strike: FUT Esports vs Spirit -  | FUT Esports (BUY) | 49% | 5.00 | 5.8% | ❌ perdida | -5.13 |

@@ -32583,5 +32583,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787506259.4409447,
     "fills": 1
+  },
+  {
+    "timestamp": 1787506526,
+    "timestamp_added": 1787506527.1645794,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "tur-ala-bes-2026-08-23-bes",
+    "title": "Will Be\u015fikta\u015f JK win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 29248.152300000005,
+    "whale_pct": 40.762,
+    "whale_value_at_open": 71753.6267,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787506541.2672591,
+    "fills": 2
   }
 ]
