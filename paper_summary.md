@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:06:08 (hora de Perú)
+Actualizado: 2026-08-23 17:08:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $562.59
-**Retorno acumulado:** +12.52%
+**Bankroll actual:** $557.28
+**Retorno acumulado:** +11.46%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:06:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $347.59)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $352.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 21 | 7 | 8 | +43.80 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 18 | 4 | +39.03 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 21 | 8 | 7 | +38.68 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 2 | +23.81 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1223
-- **Aciertos:** 780 (63.8%)
+- **Apuestas resueltas:** 1224
+- **Aciertos:** 780 (63.7%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,108.59
-- **ROI sobre lo apostado:** -0.18%
-- **Comisiones pagadas (taker fee):** $114.29 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.69% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,113.59
+- **ROI sobre lo apostado:** -0.27%
+- **Comisiones pagadas (taker fee):** $114.41 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.61% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,7 +84,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 638 | 50.3% | 50.3% | +0.1 pp |
+| 40-59% | 639 | 50.2% | 50.3% | -0.0 pp |
 | 60-79% | 369 | 70.7% | 67.7% | +3.1 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
 | 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
@@ -302,7 +302,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | 💰 vendida anticipada | -0.19 |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports - Map  | G2 Esports (BUY) | 64% | 5.00 | 47.1% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 88% | 5.00 | 8.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 89% | 5.00 | 4.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 562.5918540829101,
+  "bankroll": 557.2815909250154,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6475,6 +6475,16 @@
       "timestamp": 1787522558.9478219,
       "bankroll": 562.59,
       "event": "lost: MisterVision \u2014 LoL: Shifters vs Karmine Corp - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787522823.4168942,
+      "bankroll": 562.4,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dignitas vs FlyQuest - Game 1 Winner (-0.19 USD)"
+    },
+    {
+      "timestamp": 1787522869.7630346,
+      "bankroll": 557.28,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Pittsburgh Pirates vs. Los Angeles Dodgers: 1st 5 Innings O/U 4.5"
     }
   ]
 }
