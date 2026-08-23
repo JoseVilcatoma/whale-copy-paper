@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 23:41:24 (hora de Perú)
+Actualizado: 2026-08-22 23:43:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $516.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 23:41:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $441.64)
+**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $436.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 3 | -19.29 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
-| RN1 | 149 | 73 | 1 | -49.11 USD |
+| RN1 | 149 | 73 | 2 | -49.11 USD |
 
 ## Análisis general
 
@@ -272,7 +272,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 42% | 5.00 | 688.9% | ⏳ pendiente | — |
+| RN1 | CF Cruz Azul vs. Atlas FC: O/U 2.5 | Under (BUY) | 47% | 5.00 | 2.0% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 42% | 5.00 | 2281.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Will TEAM VISION Win The International 2 | No (BUY) | 41% | 5.00 | 1033.8% | ⏳ pendiente | — |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Philadelphia Phillies (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-4.5) | Portland Fire (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -301,4 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Valorant: Sentinels vs KRÜ Esports (BO3) | Sentinels (BUY) | 60% | 5.00 | 35.2% | ❌ perdida | -5.10 |
 | Djdjdjekekek | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 57% | 5.00 | 41450.1% | ❌ perdida | -5.11 |
 | SDTrading | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 51% | 5.00 | 10.8% | ✅ ganada | +4.68 |
-| kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ✅ ganada | +3.98 |
