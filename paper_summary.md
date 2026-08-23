@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 21:11:23 (hora de Perú)
+Actualizado: 2026-08-22 21:13:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.33
@@ -276,7 +276,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 73% | 5.00 | 549.8% | ⏳ pendiente | — |
 |  | Indiana Fever vs. New York Liberty | New York Liberty (BUY) | 93% | 5.00 | 3.6% | ✅ ganada | +0.36 |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit (BO3) | Team Spirit (BUY) | 70% | 5.00 | 7.8% | 💰 vendida anticipada | -0.44 |
-| plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 141.0% | ⏳ pendiente | — |
+| plonker2026 | Will Liverpool FC win on 2026-08-23? | No (BUY) | 50% | 5.00 | 155.6% | ⏳ pendiente | — |
 | Wiretransferxyz | Counter-Strike: FUT Esports vs Spirit (B | Spirit (BUY) | 78% | 5.00 | 54.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Sentinels vs KRÜ Esports - Map | KRÜ Esports (BUY) | 50% | 5.00 | 36.4% | ✅ ganada | +4.88 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Spread: Inter Miami CF (-1.5) | Toronto FC (BUY) | 48% | 5.00 | 12.8% | ✅ ganada | +5.29 |
