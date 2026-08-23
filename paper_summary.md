@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:22:56 (hora de Perú)
+Actualizado: 2026-08-23 09:25:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $537.34
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:22:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $493.14 en 99 posiciones abiertas (disponible para nuevas apuestas: $44.20)
+**Capital comprometido ahora mismo:** $498.14 en 100 posiciones abiertas (disponible para nuevas apuestas: $39.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 3 | 4 | 4 | -11.20 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | HomeRunHazard | 76 | 47 | 19 | -21.31 USD |
-| Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
+| Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
 | RN1 | 168 | 79 | 47 | -50.76 USD |
 
@@ -291,6 +291,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 25.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ⏳ pendiente | — |
 | RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
 | RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -320,4 +321,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Will Lille OSC win on 2026-08-23? | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC win on 20 | No (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
