@@ -1,5 +1,5 @@
 {
-  "bankroll": 509.24575115222297,
+  "bankroll": 514.1449589444308,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5520,6 +5520,21 @@
       "timestamp": 1787458943.3256793,
       "bankroll": 509.25,
       "event": "won: beachboy4 \u2014 Will Vancouver Whitecaps FC win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787459572.913212,
+      "bankroll": 504.1,
+      "event": "lost: Djdjdjekekek \u2014 Dota 2: Team Yandex vs Team Spirit - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787459573.013421,
+      "bankroll": 507.92,
+      "event": "won: MisterVision \u2014 Dota 2: Team Yandex vs Team Spirit - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787459573.113556,
+      "bankroll": 514.14,
+      "event": "won: BOOMBOYS.Kiritych \u2014 Dota 2: Team Yandex vs Team Spirit - Game 2 Winner"
     }
   ]
 }

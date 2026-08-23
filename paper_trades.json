@@ -27661,8 +27661,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -27685,8 +27685,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -27711,8 +27711,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.22,
     "overlaps_with": [
       "Djdjdjekekek",
       "MisterVision"
@@ -27851,8 +27851,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 25331.988702999995,
-    "whale_pct": 174.19,
+    "whale_usd": 38151.316703,
+    "whale_pct": 262.339,
     "whale_value_at_open": 14542.7333,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -27863,7 +27863,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787459370.6775537,
-    "fills": 10
+    "last_fill_at": 1787459584.0049777,
+    "fills": 13
   }
 ]
