@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:35:02 (hora de Perú)
+Actualizado: 2026-08-23 06:37:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $524.20
@@ -291,7 +291,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Erwitte Women: Josy Daems vs Val | Valentina Steiner (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: CTBC Flying Oyster vs Team Secret W | CTBC Flying Oyster (BUY) | 62% | 5.00 | 2.2% | 💰 vendida anticipada | -2.21 |
 | RN1 | Will VfL Bochum win on 2026-08-23? | No (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
-| plonker2026 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 45% | 5.00 | 191.2% | ⏳ pendiente | — |
+| plonker2026 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 45% | 5.00 | 228.2% | ⏳ pendiente | — |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 92% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | Will Burnley FC win on 2026-08-23? | Yes (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | MisterVision | LoL: BNK FEARX vs Nongshim Red Force - G | BNK FEARX (BUY) | 58% | 5.00 | 19.4% | ⏳ pendiente | — |
