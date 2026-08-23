@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 22:38:48 (hora de Perú)
+Actualizado: 2026-08-22 22:40:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.85
-**Retorno acumulado:** +1.17%
+**Bankroll actual:** $500.81
+**Retorno acumulado:** +0.16%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 22:38:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $390.85)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $385.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,14 +52,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
-| Djdjdjekekek | 10 | 9 | 2 | -5.63 USD |
-| ChonkyChocolateCake | 16 | 11 | 0 | -5.94 USD |
+| ChonkyChocolateCake | 16 | 11 | 1 | -5.94 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | Wiretransferxyz | 1 | 2 | 3 | -8.70 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| Djdjdjekekek | 10 | 10 | 1 | -10.67 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 16 | 1 | -15.07 USD |
 | HomeRunHazard | 71 | 43 | 7 | -20.94 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1041
-- **Aciertos:** 658 (63.2%)
-- **Cuota promedio de entrada:** 62.5%
+- **Apuestas resueltas:** 1042
+- **Aciertos:** 658 (63.1%)
+- **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,200.45
-- **ROI sobre lo apostado:** -1.16%
-- **Comisiones pagadas (taker fee):** $97.45 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.72% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,205.45
+- **ROI sobre lo apostado:** -1.25%
+- **Comisiones pagadas (taker fee):** $97.49 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 538 | 49.3% | 50.3% | -1.0 pp |
 | 60-79% | 327 | 71.3% | 67.7% | +3.5 pp |
-| 80-94% | 117 | 88.0% | 86.7% | +1.3 pp |
+| 80-94% | 118 | 87.3% | 86.7% | +0.6 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -266,16 +266,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-dsg-dig-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | mls-orl-rsl-2026-08-22-orl | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kekasaur |
 | dota2-ty-ts8-2026-08-22-game1 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek |
+| dota2-ty-ts8-2026-08-22-game2 | Djdjdjekekek, MisterVision |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 185.3% | ⏳ pendiente | — |
+| MisterVision | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 56% | 5.00 | 22.1% | ⏳ pendiente | — |
+| Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 43% | 5.00 | 189.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 49% | 5.00 | 27.1% | ✅ ganada | +5.08 |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 42% | 5.00 | 149.2% | ❌ perdida | -5.14 |
 |  | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
-| Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ⏳ pendiente | — |
+| Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ❌ perdida | -5.04 |
 |  | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 63% | 5.00 | 0.5% | ✅ ganada | +2.84 |
 | beachboy4 | Will Vancouver Whitecaps FC win on 2026- | Yes (BUY) | 73% | 5.00 | 549.8% | ⏳ pendiente | — |
 |  | Indiana Fever vs. New York Liberty | New York Liberty (BUY) | 93% | 5.00 | 3.6% | ✅ ganada | +0.36 |
@@ -300,4 +302,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Spread: CD Guadalajara (-1.5) | CD Guadalajara (BUY) | 43% | 5.00 | 58.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will CR Flamengo win on 2026-08-22? | No (BUY) | 57% | 5.00 | 10.3% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will América de Cali win on 2026-08-22? | No (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
-| SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.4% | ❌ perdida | -5.12 |
