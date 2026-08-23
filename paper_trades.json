@@ -31677,5 +31677,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787492652.7548172,
     "fills": 1
+  },
+  {
+    "timestamp": 1787494085,
+    "timestamp_added": 1787494085.60584,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-ep1-tl1-2026-08-23-game1",
+    "title": "Valorant: Enterprise Esports vs Team Liquid - Map 1 Winner",
+    "outcome": "Enterprise Esports",
+    "side": "BUY",
+    "whale_usd": 724.1447,
+    "whale_pct": 30.898,
+    "whale_value_at_open": 2343.6881,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787494085.6058557,
+    "fills": 1
   }
 ]

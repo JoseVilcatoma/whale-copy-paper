@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:06:33 (hora de Perú)
+Actualizado: 2026-08-23 09:08:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $534.56
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:06:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $508.14 en 102 posiciones abiertas (disponible para nuevas apuestas: $26.42)
+**Capital comprometido ahora mismo:** $513.14 en 103 posiciones abiertas (disponible para nuevas apuestas: $21.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 11 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 15 | 2 | +30.55 USD |
-| casualbet2020 | 13 | 4 | 0 | +28.91 USD |
+| casualbet2020 | 13 | 4 | 1 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 15 | 7 | 5 | +26.10 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
@@ -291,6 +291,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ⏳ pendiente | — |
 | RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
 | RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -320,4 +321,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Lille OSC win on 2026-08-23? | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC win on 20 | No (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| MisterVision | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 48% | 5.00 | 23.1% | ⏳ pendiente | — |
