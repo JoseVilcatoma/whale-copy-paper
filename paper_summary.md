@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:56:02 (hora de Perú)
+Actualizado: 2026-08-23 06:58:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:56:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $194.52)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $184.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,10 +23,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 5 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 12 | 2 | +39.72 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 12 | 3 | +39.72 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 11 | 6 | 7 | +19.32 USD |
+| BOOMBOYS.Kiritych | 11 | 6 | 8 | +19.32 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -280,11 +280,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | dota2-vsn2-ts8-2026-08-23-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, MisterVision, Sunshine.Smile |
 | dfb-fur-boc-2026-08-23-boc | RN1, plonker2026 |
 | dota2-vsn2-ts8-2026-08-23-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, BOOMBOYS.Kiritych, Sunshine.Smile |
+| lol-fox1-ns-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | LoL: BNK FEARX vs Nongshim Red Force (BO | BNK FEARX (BUY) | 56% | 5.00 | 19.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force (BO | BNK FEARX (BUY) | 53% | 5.00 | 9.0% | ⏳ pendiente | — |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Under (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will Aarhus GF win on 2026-08-21? | Yes (BUY) | 50% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | SpVgg Greuther Fürth vs. VfL Bochum: O/U | Over (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -313,5 +316,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force - G | Nongshim Red Force (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Texas Rangers (-1.5) | Los Angeles Angels (BUY) | 60% | 5.00 | 1.7% | ⏳ pendiente | — |
-| plonker2026 | Will VfL Bochum win on 2026-08-23? | Yes (BUY) | 42% | 5.00 | 10.7% | ⏳ pendiente | — |
