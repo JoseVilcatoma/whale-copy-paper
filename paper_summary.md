@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 20:48:51 (hora de Perú)
+Actualizado: 2026-08-22 20:50:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.37
-**Retorno acumulado:** -1.73%
+**Bankroll actual:** $500.55
+**Retorno acumulado:** +0.11%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 20:48:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $311.37)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $330.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,16 +25,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 10 | 0 | +26.12 USD |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 8 | 1 | 11 | +20.57 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 9 | 1 | 10 | +25.07 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| SDTrading | 16 | 12 | 1 | +8.47 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Djdjdjekekek | 10 | 6 | 2 | +5.06 USD |
 | kekasaur | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
-| SDTrading | 15 | 12 | 2 | +3.79 USD |
 | pleaseplease123 | 2 | 1 | 0 | +3.52 USD |
 | Sunshine.Smile | 3 | 1 | 0 | +3.37 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1023
-- **Aciertos:** 647 (63.2%)
+- **Apuestas resueltas:** 1025
+- **Aciertos:** 649 (63.3%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,110.45
-- **ROI sobre lo apostado:** -1.47%
-- **Comisiones pagadas (taker fee):** $95.29 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,120.45
+- **ROI sobre lo apostado:** -1.29%
+- **Comisiones pagadas (taker fee):** $95.53 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 521 | 48.9% | 50.3% | -1.3 pp |
+| 40-59% | 523 | 49.1% | 50.3% | -1.1 pp |
 | 60-79% | 326 | 71.2% | 67.8% | +3.4 pp |
 | 80-94% | 117 | 88.0% | 86.7% | +1.3 pp |
 | 95-99% (casi seguro) | 59 | 96.6% | 97.3% | -0.7 pp |
@@ -284,7 +284,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | UFC Fight Night: Kennedy Nzechukwu vs. S | Kennedy Nzechukwu (BUY) | 47% | 5.00 | 36.5% | ❌ perdida | -5.13 |
 | Wiretransferxyz | Valorant: Sentinels vs KRÜ Esports (BO3) | Sentinels (BUY) | 60% | 5.00 | 35.2% | ❌ perdida | -5.10 |
 | Djdjdjekekek | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 57% | 5.00 | 41450.1% | ⏳ pendiente | — |
-| SDTrading | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 51% | 5.00 | 10.8% | ⏳ pendiente | — |
+| SDTrading | Los Angeles Angels vs. Texas Rangers: O/ | Under (BUY) | 51% | 5.00 | 10.8% | ✅ ganada | +4.68 |
 | kekasaur | Will Orlando City SC win on 2026-08-22? | Yes (BUY) | 55% | 5.00 | 176.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FC Cincinnati win on 2026-08-22? | No (BUY) | 41% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 2 Winn | Dignitas (BUY) | 51% | 5.00 | 25.3% | ❌ perdida | -5.12 |

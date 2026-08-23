@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.3684998913084,
+  "bankroll": 500.54580607532046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5365,6 +5365,16 @@
       "timestamp": 1787449666.8919463,
       "bankroll": 491.37,
       "event": "won:  \u2014 Indiana Fever vs. New York Liberty"
+    },
+    {
+      "timestamp": 1787449787.4751213,
+      "bankroll": 495.86,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Los Angeles Angels vs. Texas Rangers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787449788.8618362,
+      "bankroll": 500.55,
+      "event": "won: SDTrading \u2014 Los Angeles Angels vs. Texas Rangers: O/U 8.5"
     }
   ]
 }
