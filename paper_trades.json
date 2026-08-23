@@ -31639,8 +31639,8 @@
     "title": "Angers SCO vs. Lille OSC: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1460.75,
-    "whale_pct": 0.481,
+    "whale_usd": 2009.75,
+    "whale_pct": 0.661,
     "whale_value_at_open": 303920.4232,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -31651,8 +31651,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787492696.9241574,
-    "fills": 2
+    "last_fill_at": 1787492892.4699423,
+    "fills": 3
   },
   {
     "timestamp": 1787492652,

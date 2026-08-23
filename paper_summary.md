@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:48:05 (hora de Perú)
+Actualizado: 2026-08-23 08:50:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.14
@@ -292,7 +292,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
-| RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
