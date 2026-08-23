@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:47:32 (hora de Perú)
+Actualizado: 2026-08-23 09:49:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $544.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:47:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $503.14 en 101 posiciones abiertas (disponible para nuevas apuestas: $40.94)
+**Capital comprometido ahora mismo:** $513.14 en 103 posiciones abiertas (disponible para nuevas apuestas: $30.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 12 | +46.37 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 13 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | BOOMBOYS.Kiritych | 16 | 7 | 5 | +31.39 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 16 | 3 | +30.32 USD |
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Wiretransferxyz | 3 | 4 | 4 | -11.20 USD |
-| danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
+| danielwolfmorales3pddb6dl6 | 14 | 17 | 1 | -20.20 USD |
 | HomeRunHazard | 76 | 47 | 19 | -21.31 USD |
 | Sassy-Bucket | 11 | 15 | 1 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
@@ -292,8 +292,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 17.2% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 35.5% | ⏳ pendiente | — |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AS Monaco FC win on 2026-08-23? | No (BUY) | 52% | 5.00 | 13.3% | ⏳ pendiente | — |
+| danielwolfmorales3pddb6dl6 | Counter-Strike: FUT Esports vs Spirit -  | FUT Esports (BUY) | 49% | 5.00 | 5.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 28.4% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 37.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 25.7% | ⏳ pendiente | — |
@@ -320,5 +322,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 7.2% | ⏳ pendiente | — |
 | RN1 | Young Boys Bern vs. FC Vaduz: O/U 4.5 | Over (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
-| RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Brighton & Hove Albion FC vs. Aston Vill | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
