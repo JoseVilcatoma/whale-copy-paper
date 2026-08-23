@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.4734558046391,
+  "bankroll": 531.9891454598115,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5830,6 +5830,11 @@
       "timestamp": 1787487733.318896,
       "bankroll": 528.47,
       "event": "won: RN1 \u2014 ITF M25 Lesa Men: Pierluigi Basile vs Alexander Weis"
+    },
+    {
+      "timestamp": 1787487984.5630145,
+      "bankroll": 531.99,
+      "event": "won: Wiretransferxyz \u2014 Valorant: JD Gaming vs TYLOO (BO5) - VCT China Stage 2 Playoffs"
     }
   ]
 }
