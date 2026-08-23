@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 12:07:08 (hora de Perú)
+Actualizado: 2026-08-23 12:09:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.02
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 12:07:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $328.14 en 66 posiciones abiertas (disponible para nuevas apuestas: $204.88)
+**Capital comprometido ahora mismo:** $338.14 en 68 posiciones abiertas (disponible para nuevas apuestas: $194.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | pleaseplease123 | 2 | 1 | 3 | +3.52 USD |
-| SDTrading | 16 | 13 | 2 | +3.35 USD |
+| SDTrading | 16 | 13 | 4 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -289,7 +289,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
 | mlb-tb-bal-2026-08-23-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
 | lol-blg-al-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
-| mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, pleaseplease123 |
+| mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading, pleaseplease123 |
 | lol-th-gx-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, Sunshine.Smile |
 | lol-th-gx-2026-08-23-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 
@@ -297,6 +297,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Minnesota Twins vs. San Diego Padres | Minnesota Twins (BUY) | 43% | 5.00 | 22.6% | ⏳ pendiente | — |
+| SDTrading | Toronto Blue Jays vs. New York Yankees:  | Over (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Winston-Salem Open: Martin Landaluce vs  | Martin Landaluce (BUY) | 54% | 5.00 | 5.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Winston-Salem Open: Dino Prizmic vs Cruz | Cruz Hewitt (BUY) | 51% | 5.00 | 10.9% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Philadelphia: Liudmila Samsonova vs Tayl | Liudmila Samsonova (BUY) | 52% | 5.00 | 16.4% | ⏳ pendiente | — |
@@ -325,5 +327,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 104.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ❌ perdida | -5.10 |
 | RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
-| RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.7% | ❌ perdida | -5.12 |
-| RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
