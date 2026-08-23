@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.8807631363658,
+  "bankroll": 570.0917256406658,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6505,6 +6505,26 @@
       "timestamp": 1787523810.6679268,
       "bankroll": 560.88,
       "event": "won: Sunshine.Smile \u2014 LoL: Shifters vs Karmine Corp - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787524114.5833552,
+      "bankroll": 564.54,
+      "event": "won: HomeRunHazard \u2014 Spread: Dallas Wings (-7.5)"
+    },
+    {
+      "timestamp": 1787524114.908524,
+      "bankroll": 570.52,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Be\u015fikta\u015f JK win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787524117.4235704,
+      "bankroll": 575.2,
+      "event": "won: HomeRunHazard \u2014 Seattle Storm vs. Dallas Wings: O/U 173.5"
+    },
+    {
+      "timestamp": 1787524120.0632217,
+      "bankroll": 570.09,
+      "event": "lost: plonker2026 \u2014 Will Be\u015fikta\u015f JK win on 2026-08-23?"
     }
   ]
 }
