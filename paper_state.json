@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.0601625014448,
+  "bankroll": 526.401980683263,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5605,6 +5605,11 @@
       "timestamp": 1787472784.670467,
       "bankroll": 525.06,
       "event": "venta anticipada: MisterVision \u2014 LoL: Hanwha Life Esports vs T1 - Game 1 Winner (-1.01 USD)"
+    },
+    {
+      "timestamp": 1787473493.925833,
+      "bankroll": 526.4,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Hanwha Life Esports vs T1 - Game 1 Winner (+1.34 USD)"
     }
   ]
 }

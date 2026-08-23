@@ -28696,8 +28696,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.34,
     "overlaps_with": [
       "BOOMBOYS.Kiritych",
       "Sunshine.Smile"
@@ -28705,7 +28705,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787472900.008907,
-    "fills": 4
+    "fills": 4,
+    "fee_total_usd": 0.204,
+    "closed_price": 72
   },
   {
     "timestamp": 1787472511,
