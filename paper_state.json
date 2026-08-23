@@ -1,5 +1,5 @@
 {
-  "bankroll": 543.5476830706704,
+  "bankroll": 558.1726830706704,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6245,6 +6245,21 @@
       "timestamp": 1787506950.01037,
       "bankroll": 543.55,
       "event": "won: RN1 \u2014 Eintracht Braunschweig vs. 1. FC Union Berlin: O/U 3.5"
+    },
+    {
+      "timestamp": 1787507251.8019047,
+      "bankroll": 548.42,
+      "event": "won: plonker2026 \u2014 Will Liverpool FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787507256.0535946,
+      "bankroll": 553.3,
+      "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Liverpool FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787507256.693355,
+      "bankroll": 558.17,
+      "event": "won: RN1 \u2014 Will Liverpool FC win on 2026-08-23?"
     }
   ]
 }
