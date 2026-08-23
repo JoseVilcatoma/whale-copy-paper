@@ -27899,8 +27899,8 @@
     "title": "Valorant: Sharper Esport vs ONSIDE GAMING (BO3) - VCT Pacific Play-In",
     "outcome": "ONSIDE GAMING",
     "side": "BUY",
-    "whale_usd": 1338.6899,
-    "whale_pct": 4.38,
+    "whale_usd": 6638.6899,
+    "whale_pct": 21.723,
     "whale_value_at_open": 30560.366,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -27911,8 +27911,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787460512.8968666,
-    "fills": 1
+    "last_fill_at": 1787470229.8310084,
+    "fills": 2
   },
   {
     "timestamp": 1787460972,
@@ -28309,8 +28309,8 @@
     "title": "Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 69514.922904,
-    "whale_pct": 328.947,
+    "whale_usd": 70227.160304,
+    "whale_pct": 332.317,
     "whale_value_at_open": 21132.5792,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -28323,8 +28323,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787469970.3587012,
-    "fills": 7
+    "last_fill_at": 1787470232.3037894,
+    "fills": 8
   },
   {
     "timestamp": 1787468078,
