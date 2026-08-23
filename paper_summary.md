@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 08:43:58 (hora de Perú)
+Actualizado: 2026-08-23 08:46:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.14
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 08:43:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $515.00 en 103 posiciones abiertas (disponible para nuevas apuestas: $8.14)
+**Capital comprometido ahora mismo:** $523.14 en 105 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 47 | 19 | -21.31 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
-| RN1 | 164 | 79 | 49 | -53.53 USD |
+| RN1 | 164 | 79 | 51 | -53.53 USD |
 
 ## Análisis general
 
@@ -291,10 +291,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
+| RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will SG Dynamo Dresden win on 2026-08-23 | Yes (BUY) | 88% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Vasteraas SK vs. Kalmar FF: O/U 0.5 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | Will Manchester City FC win on 2026-08-2 | No (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo: O/U 18 | Over (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will FK Krasnodar win on 2026-08-23? | No (BUY) | 50% | 5.00 | 4.2% | ⏳ pendiente | — |
@@ -313,11 +315,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Under (BUY) | 59% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Brighton & Hove Albion FC vs. Aston Vill | Over (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Will AFC Bournemouth win on 2026-08-23? | No (BUY) | 89% | 5.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | Will AFC Bournemouth win on 2026-08-23? | No (BUY) | 89% | 5.00 | 3.0% | ⏳ pendiente | — |
 | SDTrading | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 55% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Will Lille OSC win on 2026-08-23? | Yes (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC win on 20 | No (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Spread: Manchester City FC (-1.5) | Manchester City FC (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | MisterVision | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 48% | 5.00 | 23.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Anyone's Legend (BUY) | 47% | 5.00 | 4.1% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Tampa Bay Rays vs. Baltimore Orioles: O/ | Under (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
