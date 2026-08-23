@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 05:49:44 (hora de Perú)
+Actualizado: 2026-08-23 05:51:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $556.57
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 05:49:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $246.57)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $241.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 16 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 156 | 74 | 14 | -39.65 USD |
+| RN1 | 156 | 74 | 15 | -39.65 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
@@ -282,6 +282,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Båstad Men: Leo Borg vs Niklas G | Leo Borg (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: O/U 0. | Over (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit (BO5) | Team Spirit (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: BNK FEARX vs Nongshim Red Force - G | Nongshim Red Force (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -311,4 +312,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 79% | 5.00 | 3.4% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Game Handicap: JDG (-1.5) vs EDward Gami | EDward Gaming (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: LG Twins vs. Hanwha Eagles | LG Twins (BUY) | 60% | 5.00 | 2.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 42% | 5.00 | 2.8% | ⏳ pendiente | — |

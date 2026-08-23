@@ -29691,5 +29691,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787481785.734398,
     "fills": 1
+  },
+  {
+    "timestamp": 1787482214,
+    "timestamp_added": 1787482215.1443226,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-borg-guttau-2026-08-23",
+    "title": "ITF M15 B\u00e5stad Men: Leo Borg vs Niklas Guttau",
+    "outcome": "Leo Borg",
+    "side": "BUY",
+    "whale_usd": 1241.0,
+    "whale_pct": 1.421,
+    "whale_value_at_open": 87322.3228,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787482215.1443298,
+    "fills": 1
   }
 ]
