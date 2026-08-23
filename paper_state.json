@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.7457792784547,
+  "bankroll": 524.5866727210777,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5770,6 +5770,11 @@
       "timestamp": 1787485465.285935,
       "bankroll": 521.75,
       "event": "won: RN1 \u2014 Counter-Strike: Color vs SPARTA - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787485772.7096996,
+      "bankroll": 524.59,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 4 Winner (+2.84 USD)"
     }
   ]
 }

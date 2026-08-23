@@ -29749,8 +29749,8 @@
     "title": "Map Handicap: TS (-1.5) vs FUT Esports (+1.5)",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 59446.93897500001,
-    "whale_pct": 17.244,
+    "whale_usd": 60331.878975000014,
+    "whale_pct": 17.501,
     "whale_value_at_open": 344735.3298,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -29763,8 +29763,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787485322.152643,
-    "fills": 7
+    "last_fill_at": 1787485775.4851997,
+    "fills": 8
   },
   {
     "timestamp": 1787482909,
@@ -29830,15 +29830,17 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 2.84,
     "overlaps_with": [
       "Sunshine.Smile"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787483429.7756371,
-    "fills": 14
+    "fills": 14,
+    "fee_total_usd": 0.11,
+    "closed_price": 97
   },
   {
     "timestamp": 1787483078,
