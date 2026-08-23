@@ -32626,8 +32626,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -33164,8 +33164,8 @@
     "title": "Valorant: Team Envy vs G2 Esports - Map 2 Winner",
     "outcome": "G2 Esports",
     "side": "BUY",
-    "whale_usd": 2703.33,
-    "whale_pct": 33.075,
+    "whale_usd": 3850.88,
+    "whale_pct": 47.116,
     "whale_value_at_open": 8173.2155,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -33176,8 +33176,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787522378.8784177,
-    "fills": 2
+    "last_fill_at": 1787522595.1762626,
+    "fills": 3
   },
   {
     "timestamp": 1787522437,

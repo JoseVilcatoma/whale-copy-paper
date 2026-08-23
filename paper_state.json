@@ -1,5 +1,5 @@
 {
-  "bankroll": 567.6998540829101,
+  "bankroll": 562.5918540829101,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6470,6 +6470,11 @@
       "timestamp": 1787521621.7242658,
       "bankroll": 567.7,
       "event": "lost: Sunshine.Smile \u2014 LoL: LOS vs LOUD - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787522558.9478219,
+      "bankroll": 562.59,
+      "event": "lost: MisterVision \u2014 LoL: Shifters vs Karmine Corp - Game 1 Winner"
     }
   ]
 }
