@@ -33154,5 +33154,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787521614.50788,
     "fills": 1
+  },
+  {
+    "timestamp": 1787522371,
+    "timestamp_added": 1787522371.8543022,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-nv2-g21-2026-08-23-game2",
+    "title": "Valorant: Team Envy vs G2 Esports - Map 2 Winner",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 2703.33,
+    "whale_pct": 33.075,
+    "whale_value_at_open": 8173.2155,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787522378.8784177,
+    "fills": 2
   }
 ]
