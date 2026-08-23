@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.94369319472673,
+  "bankroll": 505.66426462329815,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5305,6 +5305,16 @@
       "timestamp": 1787445290.5768332,
       "bankroll": 506.94,
       "event": "won: casualbet2020 \u2014 Valorant: Sentinels vs KR\u00dc Esports - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787446393.0745623,
+      "bankroll": 510.76,
+      "event": "won: SDTrading \u2014 St. Louis Cardinals vs. Philadelphia Phillies"
+    },
+    {
+      "timestamp": 1787446394.7673604,
+      "bankroll": 505.66,
+      "event": "lost: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-1.5)"
     }
   ]
 }

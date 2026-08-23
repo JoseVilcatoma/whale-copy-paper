@@ -24652,8 +24652,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -25270,8 +25270,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -27455,8 +27455,8 @@
     "title": "Dota 2: Team Yandex vs Team Spirit (BO3) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 34193.354999999996,
-    "whale_pct": 6.826,
+    "whale_usd": 39094.0041,
+    "whale_pct": 7.804,
     "whale_value_at_open": 500941.4936,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -27467,7 +27467,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787444983.7000973,
-    "fills": 1
+    "last_fill_at": 1787446378.5168095,
+    "fills": 2
   }
 ]
