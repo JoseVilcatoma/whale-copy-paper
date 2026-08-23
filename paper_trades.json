@@ -32715,8 +32715,8 @@
     "title": "LoL: Shifters vs Karmine Corp - Game 2 Winner",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 3240.0,
-    "whale_pct": 45.075,
+    "whale_usd": 4068.0,
+    "whale_pct": 56.594,
     "whale_value_at_open": 7188.0073,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -32729,7 +32729,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787510065.490572,
-    "fills": 2
+    "last_fill_at": 1787510088.8006933,
+    "fills": 3
   }
 ]

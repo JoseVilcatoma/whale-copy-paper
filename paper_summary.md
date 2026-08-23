@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 13:34:30 (hora de Perú)
+Actualizado: 2026-08-23 13:36:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.73
@@ -301,7 +301,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 45.1% | ⏳ pendiente | — |
+| Sunshine.Smile | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 73% | 5.00 | 56.6% | ⏳ pendiente | — |
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ⏳ pendiente | — |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ⏳ pendiente | — |
