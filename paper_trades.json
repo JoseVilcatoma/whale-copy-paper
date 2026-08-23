@@ -32054,5 +32054,32 @@
     "fills": 7,
     "fee_total_usd": 0.119,
     "closed_price": 90
+  },
+  {
+    "timestamp": 1787500552,
+    "timestamp_added": 1787500552.7201626,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-th-gx-2026-08-23-game1",
+    "title": "LoL: Team Heretics vs GIANTX - Game 1 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "whale_usd": 2438.3903999999998,
+    "whale_pct": 2.559,
+    "whale_value_at_open": 95302.5745,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "MisterVision",
+      "Sunshine.Smile"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787500552.7201762,
+    "fills": 1
   }
 ]

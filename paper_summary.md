@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 10:55:15 (hora de Perú)
+Actualizado: 2026-08-23 10:57:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.89
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 10:55:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $323.14 en 65 posiciones abiertas (disponible para nuevas apuestas: $207.75)
+**Capital comprometido ahora mismo:** $328.14 en 66 posiciones abiertas (disponible para nuevas apuestas: $202.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 19 | 4 | 11 | +49.21 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 35 | 17 | 2 | +26.88 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 35 | 17 | 3 | +26.88 USD |
 | BOOMBOYS.Kiritych | 16 | 8 | 4 | +26.28 USD |
 | casualbet2020 | 13 | 5 | 0 | +23.81 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
@@ -295,6 +295,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 98% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 66% | 5.00 | 10.4% | 💰 vendida anticipada | +1.70 |
 | pleaseplease123 | Detroit Tigers vs. Kansas City Royals: O | Over (BUY) | 52% | 5.00 | 26.7% | ⏳ pendiente | — |
 | MisterVision | LoL: Team Heretics vs GIANTX - Game 1 Wi | GIANTX (BUY) | 69% | 5.00 | 58.8% | ⏳ pendiente | — |
@@ -324,4 +325,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Seattle Storm vs. Dallas Wings: O/U 173. | Under (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will LDU Quito win on 2026-08-23? | Yes (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Manchester City FC vs. AFC Bournemouth:  | Over (BUY) | 70% | 5.00 | 0.5% | ✅ ganada | +2.07 |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Fils vs. Tiafoe: Match O/U 23.5 | Over (BUY) | 42% | 5.00 | 4.5% | ⏳ pendiente | — |
