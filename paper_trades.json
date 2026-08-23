@@ -28612,8 +28612,8 @@
     "title": "LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner",
     "outcome": "ThunderTalk Gaming",
     "side": "BUY",
-    "whale_usd": 24106.595,
-    "whale_pct": 24.025,
+    "whale_usd": 26114.94,
+    "whale_pct": 26.026,
     "whale_value_at_open": 100341.2085,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -28627,8 +28627,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787472435.4270923,
-    "fills": 5
+    "last_fill_at": 1787472647.4155283,
+    "fills": 7
   },
   {
     "timestamp": 1787472414,

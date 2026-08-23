@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 03:10:07 (hora de Perú)
+Actualizado: 2026-08-23 03:12:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $526.07
@@ -282,7 +282,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 56.7% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 54% | 5.00 | 54.9% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: Hanwha Life Esports vs T1 - Game 1  | Hanwha Life Esports (BUY) | 55% | 5.00 | 81.1% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 47% | 5.00 | 24.0% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 47% | 5.00 | 26.0% | ⏳ pendiente | — |
 | MisterVision | LoL: ThunderTalk Gaming vs LGD Gaming -  | LGD Gaming (BUY) | 56% | 5.00 | 25.8% | ⏳ pendiente | — |
 | Sunshine.Smile | LoL: ThunderTalk Gaming vs LGD Gaming -  | ThunderTalk Gaming (BUY) | 45% | 5.00 | 51.7% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 50% | 5.00 | 6.6% | ⏳ pendiente | — |
