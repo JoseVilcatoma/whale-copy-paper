@@ -1,5 +1,5 @@
 {
-  "bankroll": 545.0284970932491,
+  "bankroll": 539.9084970932491,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6225,6 +6225,11 @@
       "timestamp": 1787505383.1414213,
       "bankroll": 545.03,
       "event": "won: MisterVision \u2014 LoL: Bilibili Gaming vs Anyone's Legend - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787506325.7672331,
+      "bankroll": 539.91,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will AS Monaco FC win on 2026-08-23?"
     }
   ]
 }
