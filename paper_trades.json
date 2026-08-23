@@ -27503,8 +27503,8 @@
     "title": "Will Vancouver Whitecaps FC win on 2026-08-22?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 81588.868242,
-    "whale_pct": 268.776,
+    "whale_usd": 159587.79884200002,
+    "whale_pct": 525.725,
     "whale_value_at_open": 30355.7443,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -27515,7 +27515,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787448208.0646095,
-    "fills": 9
+    "last_fill_at": 1787448344.7125373,
+    "fills": 11
   }
 ]
