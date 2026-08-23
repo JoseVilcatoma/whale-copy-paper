@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.8919282971248,
+  "bankroll": 525.4069314984052,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5575,6 +5575,26 @@
       "timestamp": 1787469193.532296,
       "bankroll": 525.89,
       "event": "won: RN1 \u2014 ITF W15 Tianjin 3 Women: Rinko Matsuda vs Meng Yi Chen"
+    },
+    {
+      "timestamp": 1787470780.1033692,
+      "bankroll": 530.97,
+      "event": "won: RN1 \u2014 ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi"
+    },
+    {
+      "timestamp": 1787470780.2035675,
+      "bankroll": 525.86,
+      "event": "lost: RN1 \u2014 ITF M15 Maanshan 7 Men: Kokoro Isomura vs M Rifqi Fitriadi"
+    },
+    {
+      "timestamp": 1787470782.6103327,
+      "bankroll": 530.54,
+      "event": "won: MisterVision \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787470782.71055,
+      "bankroll": 525.41,
+      "event": "lost: BOOMBOYS.Kiritych \u2014 Dota 2: TEAM VISION vs Team Spirit - Game 1 Winner"
     }
   ]
 }

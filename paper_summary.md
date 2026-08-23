@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 02:38:39 (hora de Perú)
+Actualizado: 2026-08-23 02:40:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $525.89
-**Retorno acumulado:** +5.18%
+**Bankroll actual:** $525.41
+**Retorno acumulado:** +5.08%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 02:38:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $370.89)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $390.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 28 | 10 | 0 | +31.20 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 9 | 3 | 2 | +25.11 USD |
+| BOOMBOYS.Kiritych | 9 | 4 | 1 | +19.98 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -37,6 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 3 | 1 | 0 | +3.37 USD |
 | SDTrading | 16 | 13 | 0 | +3.35 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| ChonkyChocolateCake | 18 | 11 | 1 | +2.56 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -47,7 +48,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | plonker2026 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| ChonkyChocolateCake | 17 | 11 | 2 | -2.12 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
@@ -63,18 +63,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 75 | 46 | 12 | -19.29 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 153 | 73 | 2 | -42.05 USD |
+| RN1 | 154 | 74 | 0 | -42.08 USD |
 |  | 28 | 20 | 1 | -45.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1064
-- **Aciertos:** 674 (63.3%)
-- **Cuota promedio de entrada:** 62.5%
+- **Apuestas resueltas:** 1068
+- **Aciertos:** 676 (63.3%)
+- **Cuota promedio de entrada:** 62.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,315.45
+- **Total apostado (suma de stakes):** $5,335.45
 - **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $99.76 (1.88% del capital apostado)
+- **Comisiones pagadas (taker fee):** $100.25 (1.88% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 553 | 49.5% | 50.3% | -0.7 pp |
+| 40-59% | 557 | 49.6% | 50.3% | -0.7 pp |
 | 60-79% | 330 | 71.5% | 67.7% | +3.8 pp |
 | 80-94% | 121 | 87.6% | 86.7% | +0.9 pp |
 | 95-99% (casi seguro) | 60 | 96.7% | 97.3% | -0.6 pp |
@@ -279,8 +279,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Wiretransferxyz | Counter-Strike: Raccoons vs Vexar (BO3)  | Raccoons (BUY) | 76% | 5.00 | 23.2% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: JD Gaming vs TYLOO (BO5) - VCT | TYLOO (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
 | BOOMBOYS.Kiritych | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 64% | 5.00 | 332.3% | ⏳ pendiente | — |
-| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 47% | 5.00 | 156.6% | ⏳ pendiente | — |
-| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 76.5% | ⏳ pendiente | — |
+| BOOMBOYS.Kiritych | Dota 2: TEAM VISION vs Team Spirit - Gam | TEAM VISION (BUY) | 47% | 5.00 | 156.6% | ❌ perdida | -5.13 |
+| MisterVision | Dota 2: TEAM VISION vs Team Spirit - Gam | Team Spirit (BUY) | 51% | 5.00 | 76.5% | ✅ ganada | +4.68 |
 | HomeRunHazard | St. Louis Cardinals vs. Philadelphia Phi | Over (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Tohoku Rakuten Golden Eagles vs. Saitama | Tohoku Rakuten Golden Eagles (BUY) | 50% | 5.00 | 7.0% | ⏳ pendiente | — |
 | HomeRunHazard | Las Vegas Aces vs. Toronto Tempo | Las Vegas Aces (BUY) | 89% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -288,8 +288,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Indiana Fever (-3.5) | Chicago Sky (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Baltimore Orioles | Tampa Bay Rays (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 43% | 5.00 | 5.6% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | Kokoro Isomura (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 2.8% | ⏳ pendiente | — |
+| RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | Kokoro Isomura (BUY) | 56% | 5.00 | 0.7% | ❌ perdida | -5.11 |
+| RN1 | ITF M15 Maanshan 7 Men: Kokoro Isomura v | M Rifqi Fitriadi (BUY) | 49% | 5.00 | 2.8% | ✅ ganada | +5.08 |
 | Wiretransferxyz | Counter-Strike: HOTU vs CYBERSHOKE Prosp | HOTU (BUY) | 73% | 5.00 | 24.2% | ⏳ pendiente | — |
 | HomeRunHazard | Athletics vs. Houston Astros: O/U 8.5 | Over (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Tianjin 3 Women: Rinko Matsuda v | Rinko Matsuda (BUY) | 80% | 5.00 | 0.7% | ✅ ganada | +1.20 |
