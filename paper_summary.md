@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 16:39:31 (hora de Perú)
+Actualizado: 2026-08-23 16:43:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $577.62
-**Retorno acumulado:** +15.52%
+**Bankroll actual:** $577.87
+**Retorno acumulado:** +15.57%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 16:39:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $357.62)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $362.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,18 +64,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 18 | 6 | -25.33 USD |
 | Sassy-Bucket | 11 | 16 | 0 | -33.17 USD |
-|  | 28 | 22 | 2 | -55.68 USD |
+|  | 29 | 22 | 1 | -55.43 USD |
 | RN1 | 201 | 92 | 1 | -57.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1219
-- **Aciertos:** 779 (63.9%)
+- **Apuestas resueltas:** 1220
+- **Aciertos:** 780 (63.9%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,088.59
-- **ROI sobre lo apostado:** +0.06%
-- **Comisiones pagadas (taker fee):** $113.99 (1.87% del capital apostado)
+- **Total apostado (suma de stakes):** $6,093.59
+- **ROI sobre lo apostado:** +0.07%
+- **Comisiones pagadas (taker fee):** $114.01 (1.87% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.94% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -87,7 +87,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 637 | 50.4% | 50.2% | +0.2 pp |
 | 60-79% | 367 | 71.1% | 67.7% | +3.4 pp |
 | 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
-| 95-99% (casi seguro) | 70 | 95.7% | 97.3% | -1.6 pp |
+| 95-99% (casi seguro) | 71 | 95.8% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -303,7 +303,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 89% | 5.00 | 4.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 68% | 5.00 | 23.9% | 💰 vendida anticipada | +0.06 |
-|  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
+|  | Los Angeles Angels vs. Texas Rangers | Texas Rangers (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels (BO3) - LCS  | Sentinels (BUY) | 94% | 5.00 | 100.9% | ⏳ pendiente | — |
 | Wiretransferxyz | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 72% | 5.00 | 85.7% | ⏳ pendiente | — |
 |  | Cincinnati Open: Arthur Fils vs Frances  | Arthur Fils (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |

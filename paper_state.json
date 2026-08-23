@@ -1,5 +1,5 @@
 {
-  "bankroll": 577.6236961881732,
+  "bankroll": 577.87385408291,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6455,6 +6455,11 @@
       "timestamp": 1787521103.1446455,
       "bankroll": 577.62,
       "event": "lost: HomeRunHazard \u2014 Spread: Texas Rangers (-1.5)"
+    },
+    {
+      "timestamp": 1787521302.6423678,
+      "bankroll": 577.87,
+      "event": "won:  \u2014 Los Angeles Angels vs. Texas Rangers"
     }
   ]
 }
