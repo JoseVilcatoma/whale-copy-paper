@@ -32206,5 +32206,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787502296.922561,
     "fills": 1
+  },
+  {
+    "timestamp": 1787502380,
+    "timestamp_added": 1787502380.4452212,
+    "username": "MisterVision",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-red-fxw7-2026-08-23-game1",
+    "title": "LoL: RED Canids vs Fluxo W7M - Game 1 Winner",
+    "outcome": "Fluxo W7M",
+    "side": "BUY",
+    "whale_usd": 579.5999999999999,
+    "whale_pct": 1.837,
+    "whale_value_at_open": 31550.3491,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787502380.4452364,
+    "fills": 1
   }
 ]
