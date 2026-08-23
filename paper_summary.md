@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 06:26:37 (hora de Perú)
+Actualizado: 2026-08-23 06:28:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $547.86
-**Retorno acumulado:** +9.57%
+**Bankroll actual:** $526.41
+**Retorno acumulado:** +5.28%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 06:26:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $207.86)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $211.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,20 +23,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 16 | 3 | 5 | +43.99 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 32 | 11 | 5 | +38.79 USD |
-| BOOMBOYS.Kiritych | 11 | 4 | 9 | +29.54 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 33 | 11 | 4 | +39.09 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| BOOMBOYS.Kiritych | 11 | 6 | 7 | +19.32 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| ChonkyChocolateCake | 20 | 13 | 4 | +9.65 USD |
-| Sunshine.Smile | 4 | 2 | 3 | +7.86 USD |
+| ChonkyChocolateCake | 21 | 14 | 2 | +8.35 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | pleaseplease123 | 2 | 1 | 0 | +3.52 USD |
 | SDTrading | 16 | 13 | 0 | +3.35 USD |
+| Sunshine.Smile | 4 | 3 | 2 | +2.72 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -50,11 +50,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| Wiretransferxyz | 2 | 2 | 7 | -4.56 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| Wiretransferxyz | 2 | 3 | 6 | -9.66 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -63,19 +63,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 76 | 46 | 15 | -16.19 USD |
 | danielwolfmorales3pddb6dl6 | 14 | 17 | 0 | -20.20 USD |
 | Sassy-Bucket | 11 | 15 | 0 | -28.06 USD |
-| RN1 | 160 | 77 | 14 | -50.50 USD |
+| RN1 | 160 | 77 | 16 | -50.50 USD |
 |  | 28 | 21 | 0 | -50.55 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1085
-- **Aciertos:** 689 (63.5%)
+- **Apuestas resueltas:** 1092
+- **Aciertos:** 691 (63.3%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,420.45
-- **ROI sobre lo apostado:** -0.43%
-- **Comisiones pagadas (taker fee):** $101.68 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.44% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,455.45
+- **ROI sobre lo apostado:** -0.82%
+- **Comisiones pagadas (taker fee):** $102.38 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,9 +83,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 564 | 50.0% | 50.3% | -0.3 pp |
-| 60-79% | 336 | 71.1% | 67.7% | +3.4 pp |
-| 80-94% | 123 | 87.8% | 86.6% | +1.2 pp |
+| 40-59% | 568 | 49.8% | 50.3% | -0.5 pp |
+| 60-79% | 338 | 70.7% | 67.7% | +3.0 pp |
+| 80-94% | 124 | 87.9% | 86.7% | +1.2 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -285,10 +285,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 57% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Will VfL Bochum win on 2026-08-23? | Yes (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W35 Erwitte Women: Josy Daems vs Val | Valentina Steiner (BUY) | 60% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: CTBC Flying Oyster vs Team Secret W | CTBC Flying Oyster (BUY) | 62% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will VfL Bochum win on 2026-08-23? | No (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
-| plonker2026 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 45% | 5.00 | 133.8% | ⏳ pendiente | — |
+| plonker2026 | Will Brighton & Hove Albion FC win on 20 | Yes (BUY) | 45% | 5.00 | 153.0% | ⏳ pendiente | — |
 | RN1 | West Bromwich Albion FC vs. Burnley FC:  | Over (BUY) | 92% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Will Burnley FC win on 2026-08-23? | Yes (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | MisterVision | LoL: BNK FEARX vs Nongshim Red Force - G | BNK FEARX (BUY) | 58% | 5.00 | 19.4% | ⏳ pendiente | — |
@@ -313,5 +315,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Go Ahead Eagles vs. ADO Den Haag: 1st Ha | Under (BUY) | 83% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF M15 Kursumlijska Banja 12 Men: Dimit | Dimitar Kisimov (BUY) | 83% | 5.00 | 2.3% | ✅ ganada | +0.98 |
 | RN1 | ITF M25 Idanha-a-Nova 2 Men: Pavel Lagut | Pavel Lagutin (BUY) | 97% | 5.00 | 2.7% | ✅ ganada | +0.15 |
-| RN1 | ITF W35 Verbier Women: Valentini Grammat | Valentini Grammatikopoulou (BUY) | 86% | 5.00 | 1.0% | ✅ ganada | +0.78 |
-| RN1 | ITF W35 Bistrita Women: Adrienn Nagy vs  | Adrienn Nagy (BUY) | 46% | 5.00 | 1.3% | ❌ perdida | -5.13 |

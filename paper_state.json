@@ -1,5 +1,5 @@
 {
-  "bankroll": 547.8618721891472,
+  "bankroll": 526.4055925538888,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5720,6 +5720,41 @@
       "timestamp": 1787483583.5124907,
       "bankroll": 547.86,
       "event": "won: RN1 \u2014 ITF M15 Kursumlijska Banja 12 Men: Dimitar Kisimov vs Kristijan Juhas"
+    },
+    {
+      "timestamp": 1787484512.4767928,
+      "bankroll": 542.76,
+      "event": "lost: Wiretransferxyz \u2014 Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787484518.1754282,
+      "bankroll": 537.67,
+      "event": "lost: BOOMBOYS.Kiritych \u2014 Counter-Strike: FURIA vs Legacy (BO3) - Esports World Cup Playoffs"
+    },
+    {
+      "timestamp": 1787484519.2737987,
+      "bankroll": 532.55,
+      "event": "lost: MisterVision \u2014 LoL: ThunderTalk Gaming vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787484519.3738978,
+      "bankroll": 532.86,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: ThunderTalk Gaming vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787484519.7046187,
+      "bankroll": 527.72,
+      "event": "lost: Sunshine.Smile \u2014 LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787484519.8047178,
+      "bankroll": 531.54,
+      "event": "won: MisterVision \u2014 LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787484519.9048064,
+      "bankroll": 526.41,
+      "event": "lost: BOOMBOYS.Kiritych \u2014 LoL: ThunderTalk Gaming vs LGD Gaming - Game 2 Winner"
     }
   ]
 }
