@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 17:39:11 (hora de Perú)
+Actualizado: 2026-08-23 17:41:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $570.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 17:39:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $375.09)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $370.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 22 | 8 | 7 | +44.65 USD |
-| swisstony | 30 | 1 | 4 | +43.66 USD |
+| swisstony | 30 | 1 | 5 | +43.66 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 13 | 5 | 3 | +23.81 USD |
@@ -303,6 +303,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will AD Pasto win on 2026-08-23? | No (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will AS Roma win on 2026-08-24? | No (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -332,4 +333,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | MisterVision | LoL: Shifters vs Karmine Corp - Game 2 W | Karmine Corp (BUY) | 70% | 5.00 | 22.6% | ✅ ganada | +2.07 |
 | 3edmond.dantes | Will AC Milan win on 2026-08-23? | Yes (BUY) | 52% | 5.00 | 643.3% | ✅ ganada | +4.50 |
 | Sunshine.Smile | LoL: LOS vs LOUD - Game 1 Winner | LOS (BUY) | 67% | 5.00 | 23.3% | ❌ perdida | -5.08 |
-| MisterVision | LoL: Shifters vs Karmine Corp - Game 1 W | Karmine Corp (BUY) | 57% | 5.00 | 8.6% | ❌ perdida | -5.11 |

@@ -33353,5 +33353,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787524704.0512671,
     "fills": 1
+  },
+  {
+    "timestamp": 1787524839,
+    "timestamp_added": 1787524840.4059992,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "bra-cha-sao-2026-08-23-total-3pt5",
+    "title": "Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 840.0,
+    "whale_pct": 0.189,
+    "whale_value_at_open": 445274.4006,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787524840.406011,
+    "fills": 1
   }
 ]
