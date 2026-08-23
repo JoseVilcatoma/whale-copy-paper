@@ -27617,5 +27617,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787451913.190363,
     "fills": 9
+  },
+  {
+    "timestamp": 1787452689,
+    "timestamp_added": 1787452690.2750168,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "dota2-ty-ts8-2026-08-22-game1",
+    "title": "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+    "outcome": "Team Spirit",
+    "side": "BUY",
+    "whale_usd": 3360.0,
+    "whale_pct": 27.052,
+    "whale_value_at_open": 12420.6055,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787452690.27503,
+    "fills": 1
   }
 ]

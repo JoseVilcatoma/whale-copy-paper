@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-22 21:38:04 (hora de Perú)
+Actualizado: 2026-08-22 21:40:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-22 21:38:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $374.25)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $369.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 12 | 2 | 6 | +35.65 USD |
 | casualbet2020 | 13 | 4 | 0 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 10 | 0 | +26.12 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 27 | 10 | 1 | +26.12 USD |
 | BOOMBOYS.Kiritych | 8 | 3 | 0 | +18.89 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -265,12 +265,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-laa-tex-2026-08-22-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading |
 | lol-dsg-dig-2026-08-22-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision |
 | mls-orl-rsl-2026-08-22-orl | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, kekasaur |
-| dota2-ty-ts8-2026-08-22-game1 | , Djdjdjekekek |
+| dota2-ty-ts8-2026-08-22-game1 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, Djdjdjekekek |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Yandex vs Team Spirit - Gam | Team Spirit (BUY) | 49% | 5.00 | 27.1% | ⏳ pendiente | — |
 | Djdjdjekekek | Dota 2: Team Yandex vs Team Spirit - Gam | Team Yandex (BUY) | 42% | 5.00 | 149.2% | ⏳ pendiente | — |
 |  | ITF M15 Kursumlijska Banja 12 Men: Dimit | Kristijan Juhas (BUY) | 66% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Djdjdjekekek | Eagles vs. Patriots | Eagles (BUY) | 84% | 5.00 | 31224.2% | ⏳ pendiente | — |
@@ -300,4 +301,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will América de Cali win on 2026-08-22? | No (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.4% | ❌ perdida | -5.12 |
 | Wiretransferxyz | Counter-Strike: FURIA vs Legacy (BO3) -  | FURIA (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Dignitas - Game 1 Winn | Disguised (BUY) | 60% | 5.00 | 1.3% | 💰 vendida anticipada | -0.87 |
