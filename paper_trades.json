@@ -27851,8 +27851,8 @@
     "title": "Dota 2: TEAM VISION vs Team Spirit (BO5) - The International Playoffs",
     "outcome": "Team Spirit",
     "side": "BUY",
-    "whale_usd": 425384.5380899999,
-    "whale_pct": 2925.066,
+    "whale_usd": 732765.6873899999,
+    "whale_pct": 5038.707,
     "whale_value_at_open": 14542.7333,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -27863,8 +27863,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787460371.1940875,
-    "fills": 29
+    "last_fill_at": 1787460533.2904212,
+    "fills": 31
   },
   {
     "timestamp": 1787460203,
@@ -27888,6 +27888,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787460203.6657948,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787460512,
+    "timestamp_added": 1787460512.8968577,
+    "username": "Wiretransferxyz",
+    "wallet": "0x30c7ac0158499ddc6761047f7f69bcf7d036ac3b",
+    "slug": "val-spe-osg-2026-08-23",
+    "title": "Valorant: Sharper Esport vs ONSIDE GAMING (BO3) - VCT Pacific Play-In",
+    "outcome": "ONSIDE GAMING",
+    "side": "BUY",
+    "whale_usd": 1338.6899,
+    "whale_pct": 4.38,
+    "whale_value_at_open": 30560.366,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787460512.8968666,
     "fills": 1
   }
 ]
