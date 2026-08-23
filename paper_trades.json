@@ -32519,8 +32519,8 @@
     "title": "LoL: RED Canids vs Fluxo W7M (BO3) - CBLOL Regular Season",
     "outcome": "RED Canids",
     "side": "BUY",
-    "whale_usd": 2137.52034,
-    "whale_pct": 3.074,
+    "whale_usd": 4708.49679,
+    "whale_pct": 6.772,
     "whale_value_at_open": 69531.2882,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -32531,8 +32531,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787506232.361734,
-    "fills": 2
+    "last_fill_at": 1787507679.858645,
+    "fills": 3
   },
   {
     "timestamp": 1787506256,
@@ -32643,8 +32643,8 @@
     "title": "LoL: LOS vs LOUD - Game 1 Winner",
     "outcome": "LOS",
     "side": "BUY",
-    "whale_usd": 1729.6876,
-    "whale_pct": 8.407,
+    "whale_usd": 4789.6876,
+    "whale_pct": 23.279,
     "whale_value_at_open": 20575.163,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -32655,7 +32655,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787507532.627359,
-    "fills": 1
+    "last_fill_at": 1787507648.3621929,
+    "fills": 2
   }
 ]
