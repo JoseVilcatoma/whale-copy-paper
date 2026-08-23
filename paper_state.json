@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.5923138215359,
+  "bankroll": 500.4803138215359,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5405,6 +5405,11 @@
       "timestamp": 1787450600.9037719,
       "bankroll": 505.59,
       "event": "won: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Spread: Inter Miami CF (-1.5)"
+    },
+    {
+      "timestamp": 1787450720.517385,
+      "bankroll": 500.48,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Arizona Diamondbacks: O/U 8.5"
     }
   ]
 }
