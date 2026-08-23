@@ -1,5 +1,5 @@
 {
-  "bankroll": 544.0814336643226,
+  "bankroll": 538.9364336643226,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -5910,6 +5910,11 @@
       "timestamp": 1787496323.2743785,
       "bankroll": 544.08,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Bilibili Gaming vs Anyone's Legend (BO3) - LPL Group Ascend (-0.23 USD)"
+    },
+    {
+      "timestamp": 1787496927.8664021,
+      "bankroll": 538.94,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: BNK FEARX vs Nongshim Red Force - Game 1 Winner"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 09:53:42 (hora de Perú)
+Actualizado: 2026-08-23 09:55:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $544.08
-**Retorno acumulado:** +8.82%
+**Bankroll actual:** $538.94
+**Retorno acumulado:** +7.79%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 09:53:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $513.14 en 103 posiciones abiertas (disponible para nuevas apuestas: $30.94)
+**Capital comprometido ahora mismo:** $513.14 en 103 posiciones abiertas (disponible para nuevas apuestas: $25.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,12 +21,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 13 | +46.37 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 17 | 3 | 14 | +46.37 USD |
 | swisstony | 30 | 1 | 0 | +43.66 USD |
 | BOOMBOYS.Kiritych | 16 | 7 | 5 | +31.39 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 16 | 3 | +30.32 USD |
 | casualbet2020 | 13 | 4 | 1 | +28.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 34 | 17 | 2 | +25.18 USD |
 | kekasaur | 3 | 0 | 0 | +15.34 USD |
 | ChonkyChocolateCake | 23 | 14 | 2 | +13.41 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -68,14 +68,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1118
-- **Aciertos:** 711 (63.6%)
-- **Cuota promedio de entrada:** 62.6%
+- **Apuestas resueltas:** 1119
+- **Aciertos:** 711 (63.5%)
+- **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $5,585.45
-- **ROI sobre lo apostado:** -0.42%
-- **Comisiones pagadas (taker fee):** $104.60 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.45% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $5,590.45
+- **ROI sobre lo apostado:** -0.51%
+- **Comisiones pagadas (taker fee):** $104.74 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -83,7 +83,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 578 | 50.2% | 50.3% | -0.1 pp |
+| 40-59% | 579 | 50.1% | 50.3% | -0.2 pp |
 | 60-79% | 347 | 70.6% | 67.7% | +2.9 pp |
 | 80-94% | 131 | 88.5% | 86.7% | +1.9 pp |
 | 95-99% (casi seguro) | 62 | 96.8% | 97.3% | -0.5 pp |
@@ -292,13 +292,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Toronto Blue Jays vs. New York Yankees:  | Under (BUY) | 47% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will AS Monaco FC win on 2026-08-23? | No (BUY) | 52% | 5.00 | 13.3% | ⏳ pendiente | — |
 | danielwolfmorales3pddb6dl6 | Counter-Strike: FUT Esports vs Spirit -  | FUT Esports (BUY) | 49% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 28.4% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 40.2% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 69% | 5.00 | 41.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Bilibili Gaming vs Anyone's Legend  | Bilibili Gaming (BUY) | 68% | 5.00 | 10.9% | 💰 vendida anticipada | -0.23 |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Pittsburgh Pirates vs. Los Angeles Dodge | Over (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
-| Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 25.7% | ⏳ pendiente | — |
+| Sassy-Bucket | St. Louis Cardinals vs. Philadelphia Phi | Under (BUY) | 56% | 5.00 | 104.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Enterprise Esports vs Team Liq | Enterprise Esports (BUY) | 61% | 5.00 | 30.9% | ⏳ pendiente | — |
 | RN1 | Eintracht Braunschweig vs. 1. FC Union B | Over (BUY) | 51% | 3.14 | 0.2% | ⏳ pendiente | — |
 | RN1 | Angers SCO vs. Lille OSC: O/U 3.5 | Over (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -321,4 +322,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Manchester City FC win on 2026-08-2 | Yes (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Brighton & Hove Albion FC vs. Aston | No (BUY) | 80% | 5.00 | 7.2% | ⏳ pendiente | — |
 | RN1 | Young Boys Bern vs. FC Vaduz: O/U 4.5 | Over (BUY) | 92% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Spread: Aston Villa FC (-1.5) | Brighton & Hove Albion FC (BUY) | 92% | 5.00 | 6.0% | ⏳ pendiente | — |
