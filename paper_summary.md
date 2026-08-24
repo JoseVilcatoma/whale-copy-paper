@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:16:27 (hora de Perú)
+Actualizado: 2026-08-24 10:18:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:16:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $215.45)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $205.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 100 | 59 | 14 | -11.05 USD |
+| HomeRunHazard | 100 | 59 | 16 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 30 | 22 | 3 | -52.94 USD |
@@ -337,13 +337,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | atp-brancac-wild-2026-08-24 | , RN1 |
 | atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
-| atp-dedurap-sil-2026-08-24 | RN1, ferrariChampions2026 |
+| atp-dedurap-sil-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-day-pareja-2026-08-24 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 96% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Jaeda Daniel vs Kylie Coll | Kylie Collins (BUY) | 81% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | SC Verl vs. Hamburger SV: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kayla Day vs | Julieta Pareja (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -372,5 +374,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Stade de Reims win on 2026-08-24? | No (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Aca | Alliance (BUY) | 41% | 5.00 | 168.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Max Basing vs Christian La | Max Basing (BUY) | 88% | 5.00 | 7.1% | ⏳ pendiente | — |
-| SDTrading | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 24.8% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
