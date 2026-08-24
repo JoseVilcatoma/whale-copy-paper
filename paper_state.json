@@ -1,5 +1,5 @@
 {
-  "bankroll": 601.1869689989448,
+  "bankroll": 601.3336081742026,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7815,6 +7815,11 @@
       "timestamp": 1787600035.516355,
       "bankroll": 601.19,
       "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch"
+    },
+    {
+      "timestamp": 1787600391.328844,
+      "bankroll": 601.33,
+      "event": "won: swisstony \u2014 CA Osasuna vs. Levante UD: O/U 1.5"
     }
   ]
 }
