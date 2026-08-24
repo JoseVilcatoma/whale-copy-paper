@@ -38882,8 +38882,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 13411.057209,
-    "whale_pct": 6.818,
+    "whale_usd": 14193.370598000001,
+    "whale_pct": 7.215,
     "whale_value_at_open": 196708.5318,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -38897,8 +38897,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588075.8683894,
-    "fills": 6
+    "last_fill_at": 1787588664.0369284,
+    "fills": 7
   },
   {
     "timestamp": 1787587331,
@@ -39034,8 +39034,8 @@
     "title": "US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov",
     "outcome": "Jurij Rodionov",
     "side": "BUY",
-    "whale_usd": 807.5,
-    "whale_pct": 0.548,
+    "whale_usd": 2707.6562000000004,
+    "whale_pct": 1.837,
     "whale_value_at_open": 147400.7716,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -39048,8 +39048,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588002.7514799,
-    "fills": 1
+    "last_fill_at": 1787588672.788752,
+    "fills": 2
   },
   {
     "timestamp": 1787588003,
