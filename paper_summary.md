@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:20:35 (hora de Perú)
+Actualizado: 2026-08-24 10:22:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:20:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $200.45)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $195.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 100 | 59 | 16 | -11.05 USD |
+| HomeRunHazard | 100 | 59 | 17 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 30 | 22 | 3 | -52.94 USD |
@@ -344,6 +344,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia: Veronika Erjavec vs Julia  | Julia Grabher (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Diego Dedura-Palomero (BUY) | 43% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 96% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -365,7 +366,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 15.8% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ✅ ganada | +0.10 |
@@ -373,4 +374,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Bologna FC 1909 vs. SS Lazio: O/U 2.5 | Under (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Counter-Strike: GenOne vs Leo Team - Map | GenOne (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will Stade de Reims win on 2026-08-24? | No (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Aca | Alliance (BUY) | 41% | 5.00 | 168.6% | ⏳ pendiente | — |
