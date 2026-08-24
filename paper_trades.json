@@ -34988,8 +34988,8 @@
     "title": "Will Club Necaxa win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 772.17,
-    "whale_pct": 0.329,
+    "whale_usd": 2360.6899980000003,
+    "whale_pct": 1.004,
     "whale_value_at_open": 235052.5065,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -35000,7 +35000,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787539092.107939,
-    "fills": 1
+    "last_fill_at": 1787539231.798598,
+    "fills": 2
   }
 ]

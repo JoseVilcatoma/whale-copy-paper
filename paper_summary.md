@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:40:29 (hora de Perú)
+Actualizado: 2026-08-23 21:42:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $540.19
@@ -317,7 +317,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 54% | 5.00 | 5.6% | ⏳ pendiente | — |
