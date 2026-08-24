@@ -1,5 +1,5 @@
 {
-  "bankroll": 579.2830143734353,
+  "bankroll": 578.447293285,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7480,6 +7480,31 @@
       "timestamp": 1787591644.4665864,
       "bankroll": 579.28,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva"
+    },
+    {
+      "timestamp": 1787591951.7490492,
+      "bankroll": 579.48,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Qinwen Zheng vs Xiaodi You"
+    },
+    {
+      "timestamp": 1787591953.0628145,
+      "bankroll": 583.3,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Mili Poljicak vs Max Schoenhaus"
+    },
+    {
+      "timestamp": 1787591953.7927759,
+      "bankroll": 578.15,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Mili Poljicak vs Max Schoenhaus"
+    },
+    {
+      "timestamp": 1787591954.426073,
+      "bankroll": 578.25,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Qinwen Zheng vs Xiaodi You"
+    },
+    {
+      "timestamp": 1787591959.7224224,
+      "bankroll": 578.45,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Mili Poljicak vs Max Schoenhaus"
     }
   ]
 }
