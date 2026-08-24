@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:08:07 (hora de Perú)
+Actualizado: 2026-08-23 21:10:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:08:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $308.45)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $298.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 41 | 3 | 15 | +50.13 USD |
+| swisstony | 41 | 3 | 16 | +50.13 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 89 | 55 | 6 | -14.50 USD |
+| HomeRunHazard | 89 | 55 | 7 | -14.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
@@ -312,6 +312,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 93% | 5.00 | 8.6% | ⏳ pendiente | — |
 | swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -340,5 +342,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will O'Higgins FC win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Seahawks vs. Titans | Seahawks (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
-| kekasaur | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 50% | 5.00 | 16.8% | ⏳ pendiente | — |
