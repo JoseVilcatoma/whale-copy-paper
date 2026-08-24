@@ -37137,8 +37137,8 @@
     "title": "Augsburg: Sandro Kopp vs Eduardo Ribeiro",
     "outcome": "Sandro Kopp",
     "side": "BUY",
-    "whale_usd": 1071.0016,
-    "whale_pct": 1.25,
+    "whale_usd": 2318.5072,
+    "whale_pct": 2.706,
     "whale_value_at_open": 85684.1969,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -37152,8 +37152,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787578980.3171635,
-    "fills": 1
+    "last_fill_at": 1787579828.2461016,
+    "fills": 2
   },
   {
     "timestamp": 1787579384,

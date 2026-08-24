@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 08:55:54 (hora de Perú)
+Actualizado: 2026-08-24 08:58:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.93
@@ -342,7 +342,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Federico Agu | Federico Agustin Gomez (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Pablo Aunion vs Noah | Pablo Aunion (BUY) | 87% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 90% | 5.00 | 3.8% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 65% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Eduardo Ribeiro (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Giulio Perego vs Fabrizio  | Fabrizio Andaloro (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
