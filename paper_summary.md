@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 20:12:49 (hora de Perú)
+Actualizado: 2026-08-23 20:14:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $547.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 20:12:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $327.08)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $322.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 13 | 11 | 1 | -1.95 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| HomeRunHazard | 87 | 52 | 7 | -3.86 USD |
+| HomeRunHazard | 87 | 52 | 8 | -3.86 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
@@ -310,6 +310,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Winston-Salem Open: Rinky Hijikata vs Da | Rinky Hijikata (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Sebastian Baez (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Monterrey Open, Qualification: Anna Bond | Anna Bondar (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will CD La Equidad Seguros win on 2026-0 | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -339,4 +340,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Atlanta United FC vs. Sporting Kansas Ci | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will CA River Plate win on 2026-08-23? | Yes (BUY) | 82% | 5.00 | 0.3% | ❌ perdida | -5.04 |
 | swisstony | CA River Plate vs. CA Vélez Sarsfield: O | Under (BUY) | 84% | 5.00 | 0.2% | ❌ perdida | -5.04 |
-| swisstony | Spread: CA River Plate (-2.5) | CA Vélez Sarsfield (BUY) | 86% | 5.00 | 0.1% | ✅ ganada | +0.78 |

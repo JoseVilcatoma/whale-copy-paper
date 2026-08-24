@@ -34232,5 +34232,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787533826.925975,
     "fills": 1
+  },
+  {
+    "timestamp": 1787533973,
+    "timestamp_added": 1787533973.8681774,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-hijikat-blanc-2026-08-24",
+    "title": "Winston-Salem Open: Rinky Hijikata vs Darwin Blanch",
+    "outcome": "Rinky Hijikata",
+    "side": "BUY",
+    "whale_usd": 930.3728,
+    "whale_pct": 0.297,
+    "whale_value_at_open": 313025.9245,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787533973.8681881,
+    "fills": 1
   }
 ]
