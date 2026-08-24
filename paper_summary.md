@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 20:52:04 (hora de Perú)
+Actualizado: 2026-08-23 20:54:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $535.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 20:52:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $300.40)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $295.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 202 | 92 | 12 | -57.16 USD |
+| RN1 | 202 | 92 | 13 | -57.16 USD |
 
 ## Análisis general
 
@@ -306,11 +306,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pum-nec-2026-08-23-pum | kekasaur, quavoo |
 | nfl-sea-ten-2026-08-24 | Djdjdjekekek, RN1 |
 | atp-baez-hurkacz-2026-08-23 | HomeRunHazard, swisstony |
+| wta-joint-putints-2026-08-23 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Will Once Caldas win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Racing Club vs. CA Boca Juniors: O/U 2.5 | Over (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -340,4 +342,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: Dignitas vs FlyQuest - Game 2 Winne | FlyQuest (BUY) | 71% | 5.00 | 67.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 40.1% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
-| swisstony | Will Associação Chapecoense de Futebol v | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
