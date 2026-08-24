@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:29:06 (hora de Perú)
+Actualizado: 2026-08-24 17:31:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $586.53
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:29:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $206.53)
+**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $191.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,10 +73,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 144 | 75 | 45 | -15.20 USD |
+| HomeRunHazard | 144 | 75 | 46 | -15.20 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 229 | 101 | 3 | -41.80 USD |
+| Sassy-Bucket | 11 | 17 | 1 | -38.29 USD |
+| RN1 | 229 | 101 | 4 | -41.80 USD |
 |  | 32 | 22 | 1 | -49.24 USD |
 
 ## Análisis general
@@ -374,19 +374,23 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-ouden-olivier-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-koeverm-monnet-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-ristic-akli-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| wta-waltert-crawley-2026-08-24 | HomeRunHazard, RN1 |
 | atp-passaro-gill-2026-08-24 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Miami Marlins (-1.5) | Boston Red Sox (BUY) | 72% | 5.00 | 2.9% | ⏳ pendiente | — |
+| Sassy-Bucket | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 95% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Caroline Dolehide (BUY) | 73% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Harry Wendel | Stefano Travaglia (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CA Central Córdoba win on 2026-08-2 | No (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 55% | 5.00 | 11.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 86% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -407,6 +411,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Lin Zhu (BUY) | 66% | 5.00 | 1.0% | ❌ perdida | -5.08 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Victoria Jim | Francisca Jorge (BUY) | 99% | 5.00 | 4.7% | ✅ ganada | +0.05 |
-| HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 58% | 5.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Linda Fruhvirtova (BUY) | 65% | 5.00 | 1.0% | ✅ ganada | +2.61 |
-| HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Lizette Cabrera (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
