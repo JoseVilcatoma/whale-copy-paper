@@ -1,5 +1,5 @@
 {
-  "bankroll": 549.7272640348917,
+  "bankroll": 549.7601714422991,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7095,6 +7095,11 @@
       "timestamp": 1787550705.947326,
       "bankroll": 549.73,
       "event": "won: Djdjdjekekek \u2014 Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova"
+    },
+    {
+      "timestamp": 1787557225.8228154,
+      "bankroll": 549.76,
+      "event": "venta anticipada: itsonlyamatteroftime \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 3 Winner (+0.03 USD)"
     }
   ]
 }

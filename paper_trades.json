@@ -35767,5 +35767,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787555944.3774798,
     "fills": 1
+  },
+  {
+    "timestamp": 1787557202,
+    "timestamp_added": 1787557202.7122438,
+    "username": "itsonlyamatteroftime",
+    "wallet": "0x664a25f165a0150ce687410470f3352f5783fc5f",
+    "slug": "lol-dnsc-drxc-2026-08-24-game3",
+    "title": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 3 Winner",
+    "outcome": "Kiwoom DRX Challengers",
+    "side": "BUY",
+    "whale_usd": 703.0473000000001,
+    "whale_pct": 13.834,
+    "whale_value_at_open": 5082.1952,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "cerrada_venta",
+    "profit_usd": 0.03,
+    "overlaps_with": [
+      "SPCEXBUYER"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787557202.712262,
+    "fills": 1,
+    "fee_total_usd": 0.091,
+    "closed_price": 83
   }
 ]

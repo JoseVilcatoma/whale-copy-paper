@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 02:39:47 (hora de Perú)
+Actualizado: 2026-08-24 02:41:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $549.73
+**Bankroll actual:** $549.76
 **Retorno acumulado:** +9.95%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 02:39:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $439.73)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $439.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,9 +47,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | Djdjdjekekek | 16 | 12 | 0 | +1.01 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| itsonlyamatteroftime | 1 | 0 | 1 | +0.03 USD |
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
-| itsonlyamatteroftime | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -319,11 +319,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-sherif-oliynyk-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
 | lal-mala-dep-2026-08-24-mala | RN1, ferrariChampions2026, hi774c |
 | lol-dnsc-drxc-2026-08-24 | SPCEXBUYER, itsonlyamatteroftime |
+| lol-dnsc-drxc-2026-08-24-game3 | SPCEXBUYER, itsonlyamatteroftime |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | Kiwoom DRX Challengers (BUY) | 81% | 5.00 | 13.8% | 💰 vendida anticipada | +0.03 |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 69% | 5.00 | 2.8% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 64% | 5.00 | 20.7% | ⏳ pendiente | — |
@@ -353,4 +355,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 60% | 5.00 | 32.8% | ✅ ganada | +3.23 |
 | Djdjdjekekek | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 46% | 5.00 | 293.6% | 💰 vendida anticipada | +5.73 |
 | swisstony | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 56% | 5.00 | 0.7% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 50.7% | ❌ perdida | -5.09 |
