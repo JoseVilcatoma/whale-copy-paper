@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:16:31 (hora de Perú)
+Actualizado: 2026-08-24 17:18:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $595.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:16:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $230.47)
+**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $210.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
 | Donghui | 0 | 0 | 1 | +0.00 USD |
+| AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -66,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 142 | 72 | 46 | -6.27 USD |
+| HomeRunHazard | 142 | 72 | 49 | -6.27 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 257 | 145 | 12 | -6.87 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -343,7 +344,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | atp-brancac-wild-2026-08-24 | , 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, HomeRunHazard, RN1 |
-| mlb-bos-mia-2026-08-24 | HomeRunHazard, SDTrading |
+| mlb-bos-mia-2026-08-24 | AV23IUa, HomeRunHazard, SDTrading |
 | cs2-all-phanto-2026-08-24 | Djdjdjekekek, SPCEXBUYER |
 | atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
@@ -378,6 +379,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
+| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 86% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Ugo Blanchet (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -404,7 +409,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Keegan Smith | Alexis Galarneau (BUY) | 63% | 5.00 | 8.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Edward Winter vs Andres Andr | Andres Andrade (BUY) | 92% | 5.00 | 3.5% | ✅ ganada | +0.41 |
-| HomeRunHazard | US Open, Qualification ATP: Dalibor Svrc | Dalibor Svrcina (BUY) | 86% | 5.00 | 1.0% | ✅ ganada | +0.78 |
-| HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Polina Kudermetova (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 79% | 5.00 | 2.6% | ✅ ganada | +1.28 |
