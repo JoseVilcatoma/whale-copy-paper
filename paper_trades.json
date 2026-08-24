@@ -34208,5 +34208,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787533452.3892243,
     "fills": 1
+  },
+  {
+    "timestamp": 1787533826,
+    "timestamp_added": 1787533826.9259634,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-baez-hurkacz-2026-08-23",
+    "title": "Cancun: Sebastian Baez vs Hubert Hurkacz",
+    "outcome": "Sebastian Baez",
+    "side": "BUY",
+    "whale_usd": 5311.0019999999995,
+    "whale_pct": 1.713,
+    "whale_value_at_open": 310129.2854,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787533826.925975,
+    "fills": 1
   }
 ]
