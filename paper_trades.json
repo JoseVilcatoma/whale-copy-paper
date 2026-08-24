@@ -35807,8 +35807,8 @@
     "title": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 4 Winner",
     "outcome": "DN SOOPers Challengers",
     "side": "BUY",
-    "whale_usd": 20480.352536,
-    "whale_pct": 12.42,
+    "whale_usd": 43187.279951,
+    "whale_pct": 26.19,
     "whale_value_at_open": 164900.5144,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -35819,7 +35819,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787558208.7738783,
-    "fills": 3
+    "last_fill_at": 1787558987.8804655,
+    "fills": 8
   }
 ]
