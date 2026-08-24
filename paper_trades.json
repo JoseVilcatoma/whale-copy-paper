@@ -34690,8 +34690,8 @@
     "title": "Will Racing Club win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2840.88,
-    "whale_pct": 1.276,
+    "whale_usd": 3491.9,
+    "whale_pct": 1.569,
     "whale_value_at_open": 222574.3263,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -34702,8 +34702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787537409.2103198,
-    "fills": 1
+    "last_fill_at": 1787537648.4740913,
+    "fills": 2
   },
   {
     "timestamp": 1787537417,
