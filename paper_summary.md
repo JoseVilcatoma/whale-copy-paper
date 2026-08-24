@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:21:06 (hora de Perú)
+Actualizado: 2026-08-24 18:23:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $584.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:21:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $134.18)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $129.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
-| Donghui | 0 | 0 | 2 | +0.00 USD |
+| Donghui | 0 | 0 | 3 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | mikesports | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
@@ -340,6 +340,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-tjen-yastrem-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | lol-navi-fnc-2026-08-24 | SPCEXBUYER, TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-nedic-estevez-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
+| atp-altmaie-comesan-2026-08-24 | Donghui, vibing123 |
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
 | lol-navi-fnc-2026-08-24-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER, TAIWANNUMBERONE |
 | lol-navi-fnc-2026-08-24-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER, TAIWANNUMBERONE |
@@ -388,6 +389,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donghui | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 53% | 5.00 | 23.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Laslo Djere  | Laslo Djere (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -416,5 +418,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Miami Marlins (-1.5) | Boston Red Sox (BUY) | 72% | 5.00 | 2.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 161.9% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 95% | 5.00 | 5.1% | ✅ ganada | +0.25 |
-| HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Caroline Dolehide (BUY) | 73% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Harry Wendel | Stefano Travaglia (BUY) | 57% | 5.00 | 0.6% | ❌ perdida | -5.11 |
+| HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Caroline Dolehide (BUY) | 73% | 5.00 | 2.3% | ⏳ pendiente | — |
