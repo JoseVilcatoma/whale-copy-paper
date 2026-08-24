@@ -36339,8 +36339,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 29334.9225,
-    "whale_pct": 18.324,
+    "whale_usd": 30342.0825,
+    "whale_pct": 18.953,
     "whale_value_at_open": 160087.6734,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -36351,8 +36351,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787571378.8861382,
-    "fills": 1
+    "last_fill_at": 1787587690.0655417,
+    "fills": 2
   },
   {
     "timestamp": 1787571896,
@@ -37960,8 +37960,8 @@
     "title": "Philadelphia: Jaeda Daniel vs Kylie Collins",
     "outcome": "Kylie Collins",
     "side": "BUY",
-    "whale_usd": 3396.0029,
-    "whale_pct": 5.393,
+    "whale_usd": 4169.4834,
+    "whale_pct": 6.621,
     "whale_value_at_open": 62969.1138,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -37972,8 +37972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787585791.7134154,
-    "fills": 2
+    "last_fill_at": 1787587671.4109888,
+    "fills": 3
   },
   {
     "timestamp": 1787584638,
