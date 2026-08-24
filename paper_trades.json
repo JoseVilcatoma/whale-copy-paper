@@ -41449,8 +41449,8 @@
     "title": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt",
     "outcome": "Sebastian Gorzny",
     "side": "BUY",
-    "whale_usd": 4701.786999999999,
-    "whale_pct": 2.391,
+    "whale_usd": 8273.2402,
+    "whale_pct": 4.208,
     "whale_value_at_open": 196614.3089,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -41461,8 +41461,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787602591.36985,
-    "fills": 2
+    "last_fill_at": 1787603386.5829558,
+    "fills": 3
   },
   {
     "timestamp": 1787601640,
