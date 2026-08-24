@@ -1,5 +1,5 @@
 {
-  "bankroll": 544.0245384635757,
+  "bankroll": 547.6884682881371,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7110,6 +7110,11 @@
       "timestamp": 1787562168.6852527,
       "bankroll": 544.02,
       "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Cruzeiro EC vs. CR Flamengo: O/U 8.5 Total Corners"
+    },
+    {
+      "timestamp": 1787562484.1021304,
+      "bankroll": 547.69,
+      "event": "won: SPCEXBUYER \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 1 Winner"
     }
   ]
 }

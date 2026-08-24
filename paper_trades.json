@@ -35413,8 +35413,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -35857,8 +35857,8 @@
     "title": "Augsburg: Robert Strombachs vs Kai Wehnelt",
     "outcome": "Kai Wehnelt",
     "side": "BUY",
-    "whale_usd": 9790.984495,
-    "whale_pct": 18.508,
+    "whale_usd": 10814.668495,
+    "whale_pct": 20.443,
     "whale_value_at_open": 52900.6294,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -35869,8 +35869,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787561089.4574544,
-    "fills": 2
+    "last_fill_at": 1787562452.805789,
+    "fills": 3
   },
   {
     "timestamp": 1787561453,
