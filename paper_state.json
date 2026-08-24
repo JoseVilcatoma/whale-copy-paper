@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.4796194177438,
+  "bankroll": 576.3516194177438,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8210,6 +8210,11 @@
       "timestamp": 1787610722.4772966,
       "bankroll": 581.48,
       "event": "lost: HomeRunHazard \u2014 Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo"
+    },
+    {
+      "timestamp": 1787611346.6802816,
+      "bankroll": 576.35,
+      "event": "lost:  \u2014 Will Stade de Reims win on 2026-08-24?"
     }
   ]
 }
