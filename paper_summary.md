@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:42:28 (hora de Perú)
+Actualizado: 2026-08-24 16:44:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $583.44
-**Retorno acumulado:** +16.69%
+**Bankroll actual:** $594.98
+**Retorno acumulado:** +19.00%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 16:42:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $462.20 en 93 posiciones abiertas (disponible para nuevas apuestas: $121.24)
+**Capital comprometido ahora mismo:** $427.20 en 86 posiciones abiertas (disponible para nuevas apuestas: $167.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,13 +22,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 74 | 11 | 4 | +52.95 USD |
-| BOOMBOYS.Kiritych | 26 | 12 | 1 | +45.90 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 51 | 20 | 1 | +39.91 USD |
+| BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 52 | 20 | 0 | +39.96 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 5 | 0 | 1 | +23.92 USD |
 | casualbet2020 | 15 | 7 | 2 | +20.99 USD |
-| ChonkyChocolateCake | 30 | 18 | 1 | +13.64 USD |
+| ChonkyChocolateCake | 31 | 18 | 0 | +15.33 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 6 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 17 | 12 | 0 | +8.06 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
+| hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -50,7 +51,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +0.20 USD |
-| hi774c | 0 | 0 | 2 | +0.00 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
 | Gooooooollllllllll | 0 | 0 | 1 | +0.00 USD |
 | Donghui | 0 | 0 | 1 | +0.00 USD |
@@ -61,33 +61,33 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
+| ferrariChampions2026 | 256 | 144 | 14 | -4.70 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 134 | 70 | 48 | -9.75 USD |
-| ferrariChampions2026 | 254 | 144 | 16 | -10.20 USD |
+| HomeRunHazard | 134 | 70 | 49 | -9.75 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
+| RN1 | 229 | 100 | 1 | -36.66 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 228 | 100 | 2 | -39.89 USD |
 |  | 31 | 22 | 2 | -52.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1526
-- **Aciertos:** 993 (65.1%)
+- **Apuestas resueltas:** 1534
+- **Aciertos:** 1000 (65.2%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,621.62
-- **ROI sobre lo apostado:** -0.02%
-- **Comisiones pagadas (taker fee):** $137.65 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,661.62
+- **ROI sobre lo apostado:** +0.13%
+- **Comisiones pagadas (taker fee):** $138.34 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.93% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -95,10 +95,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 743 | 50.2% | 50.2% | +0.0 pp |
-| 60-79% | 465 | 71.6% | 67.6% | +4.0 pp |
+| 40-59% | 744 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 471 | 72.0% | 67.6% | +4.4 pp |
 | 80-94% | 211 | 87.2% | 87.1% | +0.1 pp |
-| 95-99% (casi seguro) | 107 | 96.3% | 97.3% | -1.1 pp |
+| 95-99% (casi seguro) | 108 | 96.3% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -377,6 +377,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Savannah Bro | Tyra Caterina Grant (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -406,4 +407,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Ushiras vs Arashi GC (BO3) - V | Ushiras (BUY) | 41% | 5.00 | 53.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 3.0% | ⏳ pendiente | — |
