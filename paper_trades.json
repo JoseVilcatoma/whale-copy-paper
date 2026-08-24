@@ -35905,8 +35905,8 @@
     "title": "Augsburg: Denis Yevseyev vs Svyatoslav Gulin",
     "outcome": "Svyatoslav Gulin",
     "side": "BUY",
-    "whale_usd": 2358.657428,
-    "whale_pct": 3.959,
+    "whale_usd": 2890.798864,
+    "whale_pct": 4.852,
     "whale_value_at_open": 59578.305,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -35917,8 +35917,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787563366.261349,
-    "fills": 3
+    "last_fill_at": 1787564218.5160797,
+    "fills": 4
   },
   {
     "timestamp": 1787562854,

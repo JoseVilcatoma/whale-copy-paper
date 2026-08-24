@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 04:36:30 (hora de Perú)
+Actualizado: 2026-08-24 04:38:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $547.69
@@ -330,7 +330,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Fulham FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Dominik Recek vs Benito Sanche | Benito Sanchez Martinez (BUY) | 80% | 5.00 | 6.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Fiona Ferro (BUY) | 61% | 5.00 | 4.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Denis Yevseyev vs Svyatoslav G | Svyatoslav Gulin (BUY) | 89% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Denis Yevseyev vs Svyatoslav G | Svyatoslav Gulin (BUY) | 89% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 82% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Robert Strombachs vs Kai Wehne | Kai Wehnelt (BUY) | 56% | 5.00 | 57.3% | ⏳ pendiente | — |
 | johnbaster | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 95% | 5.00 | 3.0% | ⏳ pendiente | — |
