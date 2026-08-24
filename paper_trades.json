@@ -37665,8 +37665,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -37689,8 +37689,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [
       "RN1"
     ],
@@ -37843,8 +37843,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -38015,8 +38015,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -38042,8 +38042,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1"
@@ -38489,8 +38489,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -39166,8 +39166,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 9892.856669,
-    "whale_pct": 5.651,
+    "whale_usd": 10402.429169000001,
+    "whale_pct": 5.942,
     "whale_value_at_open": 175056.2532,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -39180,8 +39180,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591299.4915535,
-    "fills": 5
+    "last_fill_at": 1787591596.074054,
+    "fills": 6
   },
   {
     "timestamp": 1787588541,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 568.9503081464488,
+  "bankroll": 579.2830143734353,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7450,6 +7450,36 @@
       "timestamp": 1787591337.6068451,
       "bankroll": 568.95,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov"
+    },
+    {
+      "timestamp": 1787591638.2571235,
+      "bankroll": 574.68,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva"
+    },
+    {
+      "timestamp": 1787591638.3572812,
+      "bankroll": 580.19,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva"
+    },
+    {
+      "timestamp": 1787591638.9936903,
+      "bankroll": 584.87,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Elena Pridankina vs Aliona Falei"
+    },
+    {
+      "timestamp": 1787591640.0774238,
+      "bankroll": 589.55,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva"
+    },
+    {
+      "timestamp": 1787591640.1775537,
+      "bankroll": 584.41,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva"
+    },
+    {
+      "timestamp": 1787591644.4665864,
+      "bankroll": 579.28,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva"
     }
   ]
 }
