@@ -35967,5 +35967,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787563688.4969063,
     "fills": 3
+  },
+  {
+    "timestamp": 1787563987,
+    "timestamp_added": 1787563988.1559103,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "epl-ful-che-2026-08-24-total-2pt5",
+    "title": "Fulham FC vs. Chelsea FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1812.5976,
+    "whale_pct": 2.215,
+    "whale_value_at_open": 81833.6541,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787563988.1559255,
+    "fills": 1
   }
 ]
