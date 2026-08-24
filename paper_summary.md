@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:37:56 (hora de Perú)
+Actualizado: 2026-08-24 12:40:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $586.71
-**Retorno acumulado:** +17.34%
+**Bankroll actual:** $588.40
+**Retorno acumulado:** +17.68%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:37:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $512.20 en 103 posiciones abiertas (disponible para nuevas apuestas: $74.51)
+**Capital comprometido ahora mismo:** $517.20 en 104 posiciones abiertas (disponible para nuevas apuestas: $71.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,12 +21,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 62 | 8 | 1 | +59.16 USD |
+| swisstony | 62 | 8 | 2 | +59.16 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 49 | 20 | 2 | +39.12 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
+| ferrariChampions2026 | 235 | 126 | 40 | +27.70 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 234 | 126 | 40 | +26.01 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -78,14 +78,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1427
-- **Aciertos:** 925 (64.8%)
+- **Apuestas resueltas:** 1428
+- **Aciertos:** 926 (64.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,128.59
-- **ROI sobre lo apostado:** +0.02%
-- **Comisiones pagadas (taker fee):** $130.09 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.85% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,133.59
+- **ROI sobre lo apostado:** +0.05%
+- **Comisiones pagadas (taker fee):** $130.16 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,7 +94,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 713 | 50.1% | 50.2% | -0.1 pp |
-| 60-79% | 429 | 71.8% | 67.7% | +4.1 pp |
+| 60-79% | 430 | 71.9% | 67.7% | +4.2 pp |
 | 80-94% | 191 | 88.5% | 87.1% | +1.4 pp |
 | 95-99% (casi seguro) | 94 | 96.8% | 97.4% | -0.6 pp |
 
@@ -364,6 +364,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Spread: SS Lazio (-1.5) | Bologna FC 1909 (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 99% | 5.00 | 11.0% | ⏳ pendiente | — |
 | HomeRunHazard | Hontama vs. Gjorcheska: Match O/U 23.5 | Under (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Lorenzo Sonego (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -392,5 +394,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 66% | 5.00 | 6.2% | 💰 vendida anticipada | -0.02 |
 | HomeRunHazard | Augsburg: Mili Poljicak vs Max Schoenhau | Max Schoenhaus (BUY) | 96% | 5.00 | 0.9% | ✅ ganada | +0.20 |
 | HomeRunHazard | US Open, Qualification WTA: Erika Andree | Mariam Bolkvadze (BUY) | 60% | 5.00 | 2.7% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | US Open, Qualification WTA: Ayla Aksu vs | Lucrezia Stefanini (BUY) | 82% | 5.00 | 14.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Ayla Aksu vs | Lucrezia Stefanini (BUY) | 78% | 5.00 | 3.0% | ⏳ pendiente | — |

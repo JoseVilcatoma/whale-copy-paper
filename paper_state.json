@@ -1,5 +1,5 @@
 {
-  "bankroll": 586.7051209648444,
+  "bankroll": 588.3968777216011,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7535,6 +7535,11 @@
       "timestamp": 1787592897.128059,
       "bankroll": 586.71,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze"
+    },
+    {
+      "timestamp": 1787593203.37944,
+      "bankroll": 588.4,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Lui Maxted vs Anton Shepp"
     }
   ]
 }
