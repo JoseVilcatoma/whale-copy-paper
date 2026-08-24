@@ -35631,8 +35631,8 @@
     "title": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
     "outcome": "DN SOOPers Challengers",
     "side": "BUY",
-    "whale_usd": 12409.52756,
-    "whale_pct": 13.696,
+    "whale_usd": 14630.48936,
+    "whale_pct": 16.147,
     "whale_value_at_open": 90609.3335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -35643,7 +35643,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787551667.6319447,
-    "fills": 10
+    "last_fill_at": 1787551892.7126167,
+    "fills": 12
   }
 ]
