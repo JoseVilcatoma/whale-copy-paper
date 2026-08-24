@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:54:18 (hora de Perú)
+Actualizado: 2026-08-23 19:56:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $562.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:54:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $352.20)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $347.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 3 | 0 | 0 | +1.18 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| quavoo | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | Djdjdjekekek | 13 | 11 | 0 | -1.95 USD |
@@ -302,11 +303,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-cha-sao-2026-08-23-cha | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, swisstony |
 | mls-atl-skc-2026-08-23-total-3pt5 | kekasaur, swisstony |
 | wta-timofee-rakhimo-2026-08-23 | Djdjdjekekek, OOOwhyOOO |
+| mex-pum-nec-2026-08-23-pum | kekasaur, quavoo |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| quavoo | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | LDU Quito vs. CS Emelec: O/U 5.5 | Under (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -336,4 +339,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Coritiba FBC vs. SC Corinthians Paulista | Under (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Vila Nova FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Coritiba FBC (-1.5) | SC Corinthians Paulista (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
