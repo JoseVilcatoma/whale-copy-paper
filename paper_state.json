@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.9298446459113,
+  "bankroll": 551.562623717788,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7210,6 +7210,51 @@
       "timestamp": 1787579573.6324618,
       "bankroll": 552.93,
       "event": "won: OOOwhyOOO \u2014 Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius"
+    },
+    {
+      "timestamp": 1787581445.0619464,
+      "bankroll": 547.9,
+      "event": "lost: HomeRunHazard \u2014 Augsburg: Andrej Nedic vs Juan Estevez"
+    },
+    {
+      "timestamp": 1787581445.4464862,
+      "bankroll": 542.87,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Andrej Nedic vs Juan Estevez"
+    },
+    {
+      "timestamp": 1787581445.5467403,
+      "bankroll": 537.85,
+      "event": "lost: RN1 \u2014 Augsburg: Andrej Nedic vs Juan Estevez"
+    },
+    {
+      "timestamp": 1787581447.4487088,
+      "bankroll": 544.89,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Marko Topo vs Miguel Damas"
+    },
+    {
+      "timestamp": 1787581447.54904,
+      "bankroll": 551.12,
+      "event": "won: RN1 \u2014 Augsburg: Marko Topo vs Miguel Damas"
+    },
+    {
+      "timestamp": 1787581447.6492267,
+      "bankroll": 546.01,
+      "event": "lost: RN1 \u2014 Augsburg: Marko Topo vs Miguel Damas"
+    },
+    {
+      "timestamp": 1787581448.4616241,
+      "bankroll": 547.36,
+      "event": "won: RN1 \u2014 Augsburg: Andrej Nedic vs Juan Estevez"
+    },
+    {
+      "timestamp": 1787581448.5617642,
+      "bankroll": 548.72,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Andrej Nedic vs Juan Estevez"
+    },
+    {
+      "timestamp": 1787581448.9133265,
+      "bankroll": 551.56,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Marko Topo vs Miguel Damas"
     }
   ]
 }

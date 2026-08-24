@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:22:19 (hora de Perú)
+Actualizado: 2026-08-24 09:24:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $552.93
-**Retorno acumulado:** +10.59%
+**Bankroll actual:** $551.56
+**Retorno acumulado:** +10.31%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:22:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $192.93)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $236.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,8 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
+| ferrariChampions2026 | 218 | 120 | 18 | +17.92 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
-| ferrariChampions2026 | 217 | 119 | 20 | +15.90 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -69,22 +69,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 97 | 58 | 16 | -12.83 USD |
+| HomeRunHazard | 99 | 59 | 13 | -13.66 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 216 | 94 | 14 | -47.48 USD |
+| RN1 | 218 | 96 | 10 | -50.04 USD |
 |  | 30 | 22 | 1 | -52.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1366
-- **Aciertos:** 880 (64.4%)
+- **Apuestas resueltas:** 1375
+- **Aciertos:** 885 (64.4%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,823.59
-- **ROI sobre lo apostado:** -0.38%
-- **Comisiones pagadas (taker fee):** $125.34 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.46% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,868.59
+- **ROI sobre lo apostado:** -0.40%
+- **Comisiones pagadas (taker fee):** $126.02 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.44% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -92,9 +92,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 688 | 49.7% | 50.2% | -0.5 pp |
-| 60-79% | 415 | 71.3% | 67.6% | +3.7 pp |
-| 80-94% | 175 | 89.7% | 87.1% | +2.6 pp |
+| 40-59% | 691 | 49.8% | 50.2% | -0.4 pp |
+| 60-79% | 418 | 71.5% | 67.7% | +3.9 pp |
+| 80-94% | 178 | 88.2% | 87.1% | +1.1 pp |
 | 95-99% (casi seguro) | 88 | 96.6% | 97.5% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -364,9 +364,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 96% | 5.00 | 12.5% | ✅ ganada | +0.20 |
 | SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 38.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | AS Roma vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 63% | 5.00 | 1.1% | ✅ ganada | +2.84 |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 11.9% | ⏳ pendiente | — |
-| RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 12.9% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 11.9% | ✅ ganada | +1.36 |
+| RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 12.9% | ✅ ganada | +1.36 |
 | ferrariChampions2026 | Roehampton 2: Patrick Brady vs Andreja P | Patrick Brady (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 3.5% | ⏳ pendiente | — |
