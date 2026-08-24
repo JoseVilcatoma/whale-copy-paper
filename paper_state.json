@@ -1,5 +1,5 @@
 {
-  "bankroll": 554.1360146457081,
+  "bankroll": 556.858514645708,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7165,6 +7165,11 @@
       "timestamp": 1787572105.3178368,
       "bankroll": 554.14,
       "event": "won: johnbaster \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787572915.8595326,
+      "bankroll": 556.86,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Oliver Bonding vs Millen Hurrion"
     }
   ]
 }
