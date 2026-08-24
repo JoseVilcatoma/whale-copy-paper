@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:52:13 (hora de Perú)
+Actualizado: 2026-08-23 19:54:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $562.20
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:52:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $357.20)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $352.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 19 | 4 | -27.22 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 201 | 92 | 7 | -57.21 USD |
+| RN1 | 201 | 92 | 8 | -57.21 USD |
 
 ## Análisis general
 
@@ -307,7 +307,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | LDU Quito vs. CS Emelec: O/U 5.5 | Under (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 62% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -336,4 +337,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Vila Nova FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Coritiba FBC (-1.5) | SC Corinthians Paulista (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.8% | ✅ ganada | +0.78 |
