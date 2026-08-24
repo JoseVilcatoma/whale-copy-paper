@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:17:10 (hora de Perú)
+Actualizado: 2026-08-23 19:19:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $566.61
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:17:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $366.61)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $361.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
-| casualbet2020 | 13 | 6 | 2 | +18.72 USD |
+| casualbet2020 | 13 | 6 | 3 | +18.72 USD |
 | SDTrading | 20 | 14 | 1 | +16.65 USD |
 | ChonkyChocolateCake | 28 | 17 | 1 | +14.40 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -306,6 +306,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
 | OOOwhyOOO | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 3.2% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Dignitas vs FlyQuest - Game 2 Winne | FlyQuest (BUY) | 71% | 5.00 | 67.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 40.1% | ⏳ pendiente | — |
@@ -335,4 +336,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | 💰 vendida anticipada | -0.19 |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports - Map  | G2 Esports (BUY) | 64% | 5.00 | 47.1% | ❌ perdida | -5.09 |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 88% | 5.00 | 117.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Disguised vs Sentinels - Game 2 Win | Sentinels (BUY) | 89% | 5.00 | 4.2% | ✅ ganada | +0.59 |

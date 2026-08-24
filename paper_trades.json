@@ -33839,5 +33839,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787530402.7942002,
     "fills": 1
+  },
+  {
+    "timestamp": 1787530641,
+    "timestamp_added": 1787530642.6583483,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-eg2-kru1-2026-08-23",
+    "title": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In",
+    "outcome": "Evil Geniuses",
+    "side": "BUY",
+    "whale_usd": 1591.5994999999998,
+    "whale_pct": 11.48,
+    "whale_value_at_open": 13864.6232,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787530642.6583567,
+    "fills": 1
   }
 ]
