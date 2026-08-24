@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:42:15 (hora de Perú)
+Actualizado: 2026-08-24 12:44:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $588.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:42:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $522.20 en 105 posiciones abiertas (disponible para nuevas apuestas: $66.20)
+**Capital comprometido ahora mismo:** $527.20 en 106 posiciones abiertas (disponible para nuevas apuestas: $61.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 62 | 8 | 3 | +59.16 USD |
+| swisstony | 62 | 8 | 4 | +59.16 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 49 | 20 | 2 | +39.12 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
@@ -364,6 +364,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Bologna FC 1909 vs. SS Lazio: O/U 1.5 | Under (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Bologna FC 1909 vs. SS Lazio: O/U 5.5 | Under (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | swisstony | Spread: SS Lazio (-1.5) | Bologna FC 1909 (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -378,7 +379,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Elina Avanesyan (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 72% | 5.00 | 7.8% | 💰 vendida anticipada | +1.80 |
-| HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 65% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Rebeka Masar | Iryna Shymanovich (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 70% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -393,4 +394,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Lukas Neumay | Oliver Crawford (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 87% | 5.00 | 5.2% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 66% | 5.00 | 6.2% | 💰 vendida anticipada | -0.02 |
-| HomeRunHazard | Augsburg: Mili Poljicak vs Max Schoenhau | Max Schoenhaus (BUY) | 96% | 5.00 | 0.9% | ✅ ganada | +0.20 |
