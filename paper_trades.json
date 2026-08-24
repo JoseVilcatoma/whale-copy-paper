@@ -36049,8 +36049,8 @@
     "title": "Augsburg: Matthew William Donald vs Benjamin Hassan",
     "outcome": "Benjamin Hassan",
     "side": "BUY",
-    "whale_usd": 10729.313853,
-    "whale_pct": 6.81,
+    "whale_usd": 11524.478653,
+    "whale_pct": 7.314,
     "whale_value_at_open": 157560.9288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -36061,8 +36061,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787566957.248355,
-    "fills": 5
+    "last_fill_at": 1787568442.0247629,
+    "fills": 6
   },
   {
     "timestamp": 1787567027,
