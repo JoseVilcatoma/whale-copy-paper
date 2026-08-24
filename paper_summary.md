@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:13:11 (hora de Perú)
+Actualizado: 2026-08-24 15:15:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $601.27
-**Retorno acumulado:** +20.25%
+**Bankroll actual:** $594.80
+**Retorno acumulado:** +18.96%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:13:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $465.42 en 94 posiciones abiertas (disponible para nuevas apuestas: $135.85)
+**Capital comprometido ahora mismo:** $442.20 en 89 posiciones abiertas (disponible para nuevas apuestas: $152.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,14 +61,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
-| ferrariChampions2026 | 250 | 140 | 24 | -3.57 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 124 | 67 | 37 | -7.75 USD |
+| ferrariChampions2026 | 251 | 141 | 22 | -7.66 USD |
+| HomeRunHazard | 126 | 68 | 34 | -10.14 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -80,14 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1499
-- **Aciertos:** 975 (65.0%)
-- **Cuota promedio de entrada:** 63.7%
-- **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,488.40
-- **ROI sobre lo apostado:** +0.21%
-- **Comisiones pagadas (taker fee):** $135.88 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.03% _(referencia: cuánto pesan las comisiones)_
+- **Apuestas resueltas:** 1504
+- **Aciertos:** 978 (65.0%)
+- **Cuota promedio de entrada:** 63.8%
+- **Stake promedio:** $4.99
+- **Total apostado (suma de stakes):** $7,511.62
+- **ROI sobre lo apostado:** +0.13%
+- **Comisiones pagadas (taker fee):** $136.14 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.94% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -96,8 +96,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 738 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 454 | 72.0% | 67.6% | +4.4 pp |
-| 80-94% | 204 | 87.3% | 87.1% | +0.1 pp |
+| 60-79% | 456 | 71.9% | 67.6% | +4.3 pp |
+| 80-94% | 207 | 87.0% | 87.0% | -0.1 pp |
 | 95-99% (casi seguro) | 103 | 96.1% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -380,7 +380,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: Ushiras vs Arashi GC (BO3) - V | Ushiras (BUY) | 41% | 5.00 | 53.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Gonzalo Buen | Billy Harris (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Gonzalo Buen | Billy Harris (BUY) | 98% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Sebastian Gorzny vs  | Sebastian Gorzny (BUY) | 84% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 119.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -391,7 +391,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Al Ittihad Saudi Club vs. Al Hazem SC: O | Under (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Heracles Almelo win on 2026-08-24? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ✅ ganada | +1.75 |
 | swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
 | swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
@@ -401,8 +401,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Kamil Majchrzak vs B | Benjamin Bonzi (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Mia Ristic v | Mia Ristic (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 83% | 5.00 | 2.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 84% | 5.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 83% | 5.00 | 2.6% | ✅ ganada | +0.98 |
+| HomeRunHazard | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 84% | 5.00 | 2.7% | ✅ ganada | +0.91 |
 | ferrariChampions2026 | CA Osasuna vs. Levante UD: O/U 0.5 | Over (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 6.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 80% | 5.00 | 2.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 6.9% | ❌ perdida | -5.07 |
+| HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 80% | 5.00 | 2.8% | ❌ perdida | -5.05 |

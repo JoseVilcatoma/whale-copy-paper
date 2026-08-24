@@ -1,5 +1,5 @@
 {
-  "bankroll": 601.2673693228365,
+  "bankroll": 594.7960966607598,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7905,6 +7905,31 @@
       "timestamp": 1787602206.2803354,
       "bankroll": 601.27,
       "event": "won: swisstony \u2014 US Open, Qualification WTA: Polina Iatcenko vs Julie Struplova"
+    },
+    {
+      "timestamp": 1787602515.6475086,
+      "bankroll": 596.22,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Guy Den Ouden vs Genaro Alberto Olivieri"
+    },
+    {
+      "timestamp": 1787602515.747743,
+      "bankroll": 591.15,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Guy Den Ouden vs Genaro Alberto Olivieri"
+    },
+    {
+      "timestamp": 1787602516.118877,
+      "bankroll": 592.06,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Anouk Koevermans vs Carole Monnet"
+    },
+    {
+      "timestamp": 1787602516.2190912,
+      "bankroll": 593.04,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Anouk Koevermans vs Carole Monnet"
+    },
+    {
+      "timestamp": 1787602517.301469,
+      "bankroll": 594.8,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Guy Den Ouden vs Genaro Alberto Olivieri"
     }
   ]
 }

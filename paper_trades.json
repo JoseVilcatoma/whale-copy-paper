@@ -40870,8 +40870,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -40894,8 +40894,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -40944,8 +40944,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -40968,8 +40968,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.98,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -41214,8 +41214,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.058,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.75,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -41473,8 +41473,8 @@
     "title": "US Open, Qualification ATP: Gonzalo Bueno vs Billy Harris",
     "outcome": "Billy Harris",
     "side": "BUY",
-    "whale_usd": 522.61505,
-    "whale_pct": 0.265,
+    "whale_usd": 3679.2067899999997,
+    "whale_pct": 1.863,
     "whale_value_at_open": 197454.7113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -41485,8 +41485,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787601640.8637977,
-    "fills": 1
+    "last_fill_at": 1787602440.839186,
+    "fills": 2
   },
   {
     "timestamp": 1787601643,
