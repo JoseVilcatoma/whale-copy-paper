@@ -1,5 +1,5 @@
 {
-  "bankroll": 584.9364013980388,
+  "bankroll": 579.7984013980388,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8015,6 +8015,11 @@
       "timestamp": 1787605622.0286653,
       "bankroll": 584.94,
       "event": "won: HomeRunHazard \u2014 Philadelphia: Ariana Arseneault vs Tereza Valentova"
+    },
+    {
+      "timestamp": 1787605921.9415793,
+      "bankroll": 579.8,
+      "event": "lost: ferrariChampions2026 \u2014 Fulham FC vs. Chelsea FC: O/U 2.5"
     }
   ]
 }
