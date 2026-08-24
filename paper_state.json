@@ -1,5 +1,5 @@
 {
-  "bankroll": 562.3530715418198,
+  "bankroll": 559.8343341680824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6630,6 +6630,21 @@
       "timestamp": 1787531417.963494,
       "bankroll": 562.35,
       "event": "lost: swisstony \u2014 CA River Plate vs. CA V\u00e9lez Sarsfield: O/U 3.5"
+    },
+    {
+      "timestamp": 1787531545.70202,
+      "bankroll": 564.23,
+      "event": "won: Wiretransferxyz \u2014 Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787531545.8021622,
+      "bankroll": 564.88,
+      "event": "won: casualbet2020 \u2014 Valorant: Team Envy vs G2 Esports (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787531547.746983,
+      "bankroll": 559.83,
+      "event": "lost: swisstony \u2014 Will CA River Plate win on 2026-08-23?"
     }
   ]
 }

@@ -33023,8 +33023,8 @@
     "odds_at_bet": 72,
     "fee_usd": 0.07,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.87,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -33145,8 +33145,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.65,
     "overlaps_with": [
       "Wiretransferxyz"
     ],
@@ -33564,8 +33564,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -33899,8 +33899,8 @@
     "title": "Will Pumas de la UNAM win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2330.8712,
-    "whale_pct": 5.374,
+    "whale_usd": 4780.8712,
+    "whale_pct": 11.023,
     "whale_value_at_open": 43373.6132,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -33911,7 +33911,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787531478.2060862,
-    "fills": 1
+    "last_fill_at": 1787531579.6793313,
+    "fills": 2
   }
 ]

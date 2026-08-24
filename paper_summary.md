@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:31:29 (hora de Perú)
+Actualizado: 2026-08-23 19:33:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $562.35
-**Retorno acumulado:** +12.47%
+**Bankroll actual:** $559.83
+**Retorno acumulado:** +11.97%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:31:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $357.35)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $369.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,11 +22,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 10 | 3 | +46.16 USD |
-| swisstony | 33 | 2 | 15 | +40.23 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
+| swisstony | 33 | 3 | 14 | +35.19 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
-| casualbet2020 | 13 | 6 | 3 | +18.72 USD |
+| casualbet2020 | 14 | 6 | 2 | +19.37 USD |
 | SDTrading | 20 | 14 | 1 | +16.65 USD |
 | ChonkyChocolateCake | 28 | 17 | 1 | +14.40 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -38,13 +38,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
+| Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 1 | 0 | 1 | +1.78 USD |
-| Wiretransferxyz | 7 | 4 | 1 | +1.33 USD |
 | HVAB | 2 | 0 | 1 | +1.13 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -69,14 +69,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1253
-- **Aciertos:** 799 (63.8%)
+- **Apuestas resueltas:** 1256
+- **Aciertos:** 801 (63.8%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,258.59
-- **ROI sobre lo apostado:** -0.18%
-- **Comisiones pagadas (taker fee):** $117.07 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.69% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,273.59
+- **ROI sobre lo apostado:** -0.22%
+- **Comisiones pagadas (taker fee):** $117.21 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.65% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,8 +85,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 655 | 50.4% | 50.3% | +0.1 pp |
-| 60-79% | 375 | 70.7% | 67.6% | +3.0 pp |
-| 80-94% | 150 | 89.3% | 87.0% | +2.3 pp |
+| 60-79% | 376 | 70.7% | 67.7% | +3.1 pp |
+| 80-94% | 152 | 88.8% | 87.0% | +1.8 pp |
 | 95-99% (casi seguro) | 73 | 95.9% | 97.3% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -307,7 +307,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kekasaur | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 50% | 5.00 | 5.4% | ⏳ pendiente | — |
+| kekasaur | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 50% | 5.00 | 11.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 42.5% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
 | OOOwhyOOO | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -321,7 +321,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Club Nacional de Football vs. CA Progres | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | kekasaur | Atlanta United FC vs. Sporting Kansas Ci | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Atlanta United FC vs. Sporting Kansas Ci | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will CA River Plate win on 2026-08-23? | Yes (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Will CA River Plate win on 2026-08-23? | Yes (BUY) | 82% | 5.00 | 0.3% | ❌ perdida | -5.04 |
 | swisstony | CA River Plate vs. CA Vélez Sarsfield: O | Under (BUY) | 84% | 5.00 | 0.2% | ❌ perdida | -5.04 |
 | swisstony | Spread: CA River Plate (-2.5) | CA Vélez Sarsfield (BUY) | 86% | 5.00 | 0.1% | ✅ ganada | +0.78 |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
