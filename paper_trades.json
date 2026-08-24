@@ -37850,5 +37850,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787584079.4965217,
     "fills": 1
+  },
+  {
+    "timestamp": 1787584108,
+    "timestamp_added": 1787584108.9004633,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-navi-fnc-2026-08-24-game1",
+    "title": "LoL: Natus Vincere vs Fnatic - Game 1 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 22296.6499,
+    "whale_pct": 11.65,
+    "whale_value_at_open": 191387.2178,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787584132.6620665,
+    "fills": 4
   }
 ]
