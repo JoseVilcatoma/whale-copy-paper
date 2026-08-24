@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:34:25 (hora de Perú)
+Actualizado: 2026-08-23 21:36:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $540.19
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:34:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $310.19)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $295.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | kekasaur | 3 | 2 | 1 | +5.07 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
+| ferrariChampions2026 | 204 | 115 | 2 | +3.88 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 92 | 55 | 4 | -11.51 USD |
+| HomeRunHazard | 92 | 55 | 5 | -11.51 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 206 | 92 | 11 | -45.14 USD |
@@ -303,6 +303,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | bra-cha-sao-2026-08-23-cha | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, swisstony |
 | mls-atl-skc-2026-08-23-total-3pt5 | kekasaur, swisstony |
 | wta-timofee-rakhimo-2026-08-23 | Djdjdjekekek, OOOwhyOOO |
+| val-eg2-kru1-2026-08-23 | casualbet2020, ferrariChampions2026 |
 | mex-pum-nec-2026-08-23-pum | kekasaur, quavoo, swisstony |
 | nfl-sea-ten-2026-08-24 | Djdjdjekekek, RN1 |
 | atp-baez-hurkacz-2026-08-23 | HomeRunHazard, swisstony |
@@ -310,11 +311,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | arg-rac-boc-2026-08-23-total-3pt5 | RN1, swisstony |
 | arg-rac-boc-2026-08-23-total-2pt5 | RN1, swisstony |
 | arg-rac-boc-2026-08-23-boc | RN1, swisstony |
+| wta-tagger-starodu-2026-08-23 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 3.8% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 7.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 54% | 5.00 | 5.6% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Club Necaxa (-1.5) | Pumas de la UNAM (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -329,7 +334,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 93% | 5.00 | 8.6% | ✅ ganada | +0.36 |
 | swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Under (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
+| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Under (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Over (BUY) | 47% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -342,6 +347,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Rinky Hijikata vs Da | Rinky Hijikata (BUY) | 93% | 5.00 | 0.3% | ✅ ganada | +0.36 |
-| HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Sebastian Baez (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Monterrey Open, Qualification: Anna Bond | Anna Bondar (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
-| RN1 | Will CD La Equidad Seguros win on 2026-0 | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
