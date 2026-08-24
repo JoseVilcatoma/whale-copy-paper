@@ -37503,8 +37503,8 @@
     "title": "Augsburg: Calvin Hemery vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 19811.739031,
-    "whale_pct": 11.733,
+    "whale_usd": 23498.628097,
+    "whale_pct": 13.917,
     "whale_value_at_open": 168851.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -37517,8 +37517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787582702.6943266,
-    "fills": 8
+    "last_fill_at": 1787583311.5008054,
+    "fills": 10
   },
   {
     "timestamp": 1787580918,
