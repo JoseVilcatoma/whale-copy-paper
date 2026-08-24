@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:13:48 (hora de Perú)
+Actualizado: 2026-08-24 14:15:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $581.35
@@ -378,7 +378,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ⏳ pendiente | — |
 | swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.7% | ⏳ pendiente | — |
+| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | CA Osasuna vs. Levante UD: O/U 1.5 | Under (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |

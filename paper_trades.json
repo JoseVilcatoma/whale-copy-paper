@@ -41159,8 +41159,8 @@
     "title": "Will Levante UD win on 2026-08-24?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 4610.8599890000005,
-    "whale_pct": 0.715,
+    "whale_usd": 6093.239989000001,
+    "whale_pct": 0.945,
     "whale_value_at_open": 644485.4234,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -41171,8 +41171,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787598722.8981888,
-    "fills": 3
+    "last_fill_at": 1787598890.3965673,
+    "fills": 4
   },
   {
     "timestamp": 1787598563,
