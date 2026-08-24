@@ -36586,8 +36586,8 @@
     "title": "Game Handicap: FNC (-1.5) vs Natus Vincere (+1.5)",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 4760.0,
-    "whale_pct": 6.389,
+    "whale_usd": 5397.5,
+    "whale_pct": 7.244,
     "whale_value_at_open": 74507.0291,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -36598,8 +36598,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787576367.0876617,
-    "fills": 4
+    "last_fill_at": 1787582348.9422944,
+    "fills": 5
   },
   {
     "timestamp": 1787573691,
@@ -37648,5 +37648,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787582107.3171031,
     "fills": 5
+  },
+  {
+    "timestamp": 1787582362,
+    "timestamp_added": 1787582362.7198813,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-dedurap-sil-2026-08-24",
+    "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
+    "outcome": "Frederico Ferreira Silva",
+    "side": "BUY",
+    "whale_usd": 2250.0,
+    "whale_pct": 2.685,
+    "whale_value_at_open": 83790.1267,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787582362.7198913,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787582362,
+    "timestamp_added": 1787582363.2472556,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-dedurap-sil-2026-08-24",
+    "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
+    "outcome": "Frederico Ferreira Silva",
+    "side": "BUY",
+    "whale_usd": 995.6148000000001,
+    "whale_pct": 0.919,
+    "whale_value_at_open": 108346.6771,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787582363.2472892,
+    "fills": 1
   }
 ]
