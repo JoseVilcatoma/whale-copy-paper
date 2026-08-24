@@ -37455,8 +37455,8 @@
     "title": "Augsburg: Calvin Hemery vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 2759.647736,
-    "whale_pct": 1.675,
+    "whale_usd": 4216.492536,
+    "whale_pct": 2.56,
     "whale_value_at_open": 164715.5626,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -37467,8 +37467,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787581120.523328,
-    "fills": 2
+    "last_fill_at": 1787582710.6112525,
+    "fills": 3
   },
   {
     "timestamp": 1787580704,
@@ -37634,8 +37634,8 @@
     "title": "ITF W35 Trieste Women: Federica Trevisan vs Alessandra Mazzola",
     "outcome": "Federica Trevisan",
     "side": "BUY",
-    "whale_usd": 4199.026449,
-    "whale_pct": 4.83,
+    "whale_usd": 4999.026449,
+    "whale_pct": 5.751,
     "whale_value_at_open": 86927.589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -37646,8 +37646,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787582107.3171031,
-    "fills": 5
+    "last_fill_at": 1787582809.6285615,
+    "fills": 6
   },
   {
     "timestamp": 1787582362,
