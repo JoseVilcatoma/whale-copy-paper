@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:40:25 (hora de Perú)
+Actualizado: 2026-08-24 16:42:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $583.44
@@ -406,4 +406,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Ushiras vs Arashi GC (BO3) - V | Ushiras (BUY) | 41% | 5.00 | 53.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 1.9% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 3.0% | ⏳ pendiente | — |

@@ -41497,8 +41497,8 @@
     "title": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo",
     "outcome": "Kaitlin Quevedo",
     "side": "BUY",
-    "whale_usd": 3676.8748,
-    "whale_pct": 1.862,
+    "whale_usd": 5881.8763,
+    "whale_pct": 2.979,
     "whale_value_at_open": 197454.7113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -41509,8 +41509,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787607115.7782292,
-    "fills": 3
+    "last_fill_at": 1787607720.001544,
+    "fills": 4
   },
   {
     "timestamp": 1787601665,
