@@ -1,5 +1,5 @@
 {
-  "bankroll": 576.9945648645966,
+  "bankroll": 580.2278981979299,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7710,6 +7710,11 @@
       "timestamp": 1787597693.9613135,
       "bankroll": 576.99,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Mai Hontama vs Lina Gjorcheska"
+    },
+    {
+      "timestamp": 1787597896.2671697,
+      "bankroll": 580.23,
+      "event": "won: HomeRunHazard \u2014 Hontama vs. Gjorcheska: Match O/U 23.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 13:57:15 (hora de Perú)
+Actualizado: 2026-08-24 13:59:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $576.99
-**Retorno acumulado:** +15.40%
+**Bankroll actual:** $580.23
+**Retorno acumulado:** +16.05%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 13:57:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $527.01 en 106 posiciones abiertas (disponible para nuevas apuestas: $49.98)
+**Capital comprometido ahora mismo:** $552.01 en 111 posiciones abiertas (disponible para nuevas apuestas: $28.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| ferrariChampions2026 | 241 | 133 | 36 | +12.75 USD |
+| ferrariChampions2026 | 241 | 133 | 39 | +12.75 USD |
 | SDTrading | 20 | 15 | 5 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -66,8 +66,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
+| HomeRunHazard | 119 | 64 | 33 | -5.22 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 118 | 64 | 31 | -8.45 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1460
-- **Aciertos:** 947 (64.9%)
+- **Apuestas resueltas:** 1461
+- **Aciertos:** 948 (64.9%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,293.59
-- **ROI sobre lo apostado:** -0.11%
-- **Comisiones pagadas (taker fee):** $132.45 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.70% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,298.59
+- **ROI sobre lo apostado:** -0.07%
+- **Comisiones pagadas (taker fee):** $132.55 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -95,7 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 721 | 50.2% | 50.2% | -0.0 pp |
-| 60-79% | 442 | 71.5% | 67.7% | +3.8 pp |
+| 60-79% | 443 | 71.6% | 67.6% | +3.9 pp |
 | 80-94% | 198 | 87.4% | 87.1% | +0.3 pp |
 | 95-99% (casi seguro) | 99 | 97.0% | 97.4% | -0.4 pp |
 
@@ -356,6 +356,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-andree-bolkvad-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-lajal-jordanl-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-pavlovi-varilla-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| atp-majchrz-bonzi-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-droguet-rincon-2026-08-24 | OOOwhyOOO, ferrariChampions2026, swisstony |
 | wta-aksu-stefani-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-brengle-gasanov-2026-08-24 | ferrariChampions2026, swisstony |
@@ -367,11 +368,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-boisson-jauffre-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-cecchin-broady-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-ouden-olivier-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| wta-koeverm-monnet-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| wta-ristic-akli-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Kamil Majchrzak vs B | Benjamin Bonzi (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Mia Ristic v | Mia Ristic (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 83% | 5.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 84% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Osasuna vs. Levante UD: O/U 0.5 | Over (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 80% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -396,9 +405,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Luka Pavlovi | Juan Pablo Varillas (BUY) | 88% | 5.00 | 3.8% | ❌ perdida | -5.03 |
 | swisstony | AS Roma vs. ACF Fiorentina: O/U 5.5 | Under (BUY) | 97% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Bologna FC 1909 vs. SS Lazio: Bologna FC | Under (BUY) | 57% | 5.00 | 0.1% | ✅ ganada | +3.66 |
-| swisstony | AS Roma vs. ACF Fiorentina: O/U 3.5 | Under (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will 1. FC Köln win on 2026-08-24? | Yes (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Spread: Chelsea FC (-1.5) | Fulham FC (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will VSG Altglienicke win on 2026-08-24? | No (BUY) | 94% | 5.00 | 1.0% | ⏳ pendiente | — |
-| swisstony | VSG Altglienicke vs. VfL Wolfsburg: O/U  | Under (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Spencer John | Spencer Johnson (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
