@@ -42548,8 +42548,8 @@
     "title": "Will CA Central C\u00f3rdoba win on 2026-08-24?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1476.3539999999998,
-    "whale_pct": 0.8,
+    "whale_usd": 2232.258,
+    "whale_pct": 1.209,
     "whale_value_at_open": 184606.9896,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -42560,8 +42560,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787611883.741887,
-    "fills": 2
+    "last_fill_at": 1787611981.756691,
+    "fills": 3
   },
   {
     "timestamp": 1787610262,
@@ -43004,8 +43004,8 @@
     "title": "Kingston 2: John Chin vs Benjamin Willwerth",
     "outcome": "Benjamin Willwerth",
     "side": "BUY",
-    "whale_usd": 2011.8791,
-    "whale_pct": 0.79,
+    "whale_usd": 2710.4261,
+    "whale_pct": 1.065,
     "whale_value_at_open": 254595.8495,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -43016,7 +43016,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787611910.587807,
-    "fills": 2
+    "last_fill_at": 1787611987.4938471,
+    "fills": 3
   }
 ]

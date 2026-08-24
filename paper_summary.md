@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:52:01 (hora de Perú)
+Actualizado: 2026-08-24 17:54:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $579.96
@@ -384,7 +384,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 73% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -402,7 +402,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 95% | 5.00 | 5.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Caroline Dolehide (BUY) | 73% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Harry Wendel | Stefano Travaglia (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will CA Central Córdoba win on 2026-08-2 | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Will CA Central Córdoba win on 2026-08-2 | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 7.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
