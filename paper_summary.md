@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:08:01 (hora de Perú)
+Actualizado: 2026-08-24 07:10:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $556.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 07:08:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $376.86)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $366.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,8 +50,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 1 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 2 | +0.00 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
+| Gooooooollllllllll | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -326,11 +327,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-dnsc-drxc-2026-08-24-game3 | SPCEXBUYER, itsonlyamatteroftime |
 | lol-dnsc-drxc-2026-08-24-game4 | SPCEXBUYER, johnbaster |
 | atp-nedic-estevez-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
+| lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Gooooooollllllllll | Game Handicap: G2 (-1.5) vs GIANTX (+1.5 | G2 Esports (BUY) | 61% | 5.00 | 11.4% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs GIANTX (+1.5 | GIANTX (BUY) | 41% | 5.00 | 9.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 90% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 90% | 5.00 | 3.9% | ⏳ pendiente | — |
 | vibing123 | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 52% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -359,5 +363,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Robert Strombachs vs Kai Wehne | Kai Wehnelt (BUY) | 56% | 5.00 | 57.3% | ✅ ganada | +3.82 |
 | johnbaster | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 95% | 5.00 | 3.0% | ✅ ganada | +0.25 |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 26.2% | ✅ ganada | +3.23 |
-| itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | Kiwoom DRX Challengers (BUY) | 81% | 5.00 | 13.8% | 💰 vendida anticipada | +0.03 |
-| HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
