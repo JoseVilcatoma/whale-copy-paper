@@ -1,5 +1,5 @@
 {
-  "bankroll": 598.274041918935,
+  "bankroll": 593.0771071870004,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7845,6 +7845,26 @@
       "timestamp": 1787600651.2664835,
       "bankroll": 598.27,
       "event": "lost: ferrariChampions2026 \u2014 CA Osasuna vs. Levante UD: O/U 0.5"
+    },
+    {
+      "timestamp": 1787601268.5856237,
+      "bankroll": 600.76,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia: Fangran Tian vs Lucciana Perez"
+    },
+    {
+      "timestamp": 1787601268.6858275,
+      "bankroll": 603.37,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Fangran Tian vs Lucciana Perez"
+    },
+    {
+      "timestamp": 1787601269.974433,
+      "bankroll": 598.22,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Fangran Tian vs Lucciana Perez"
+    },
+    {
+      "timestamp": 1787601275.8854725,
+      "bankroll": 593.08,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Ristic vs Akli"
     }
   ]
 }

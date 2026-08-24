@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:52:32 (hora de Perú)
+Actualizado: 2026-08-24 14:54:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $598.27
-**Retorno acumulado:** +19.65%
+**Bankroll actual:** $593.08
+**Retorno acumulado:** +18.62%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 14:52:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $490.23 en 99 posiciones abiertas (disponible para nuevas apuestas: $108.04)
+**Capital comprometido ahora mismo:** $470.23 en 95 posiciones abiertas (disponible para nuevas apuestas: $122.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,11 +55,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| ferrariChampions2026 | 246 | 138 | 30 | -0.60 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| ferrariChampions2026 | 247 | 139 | 28 | -3.25 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
@@ -67,11 +67,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 122 | 66 | 35 | -7.93 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| HomeRunHazard | 123 | 67 | 33 | -10.47 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 227 | 100 | 3 | -45.18 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1487
-- **Aciertos:** 966 (65.0%)
+- **Apuestas resueltas:** 1491
+- **Aciertos:** 968 (64.9%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,428.59
-- **ROI sobre lo apostado:** +0.18%
-- **Comisiones pagadas (taker fee):** $134.88 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,448.59
+- **ROI sobre lo apostado:** +0.11%
+- **Comisiones pagadas (taker fee):** $135.34 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,8 +94,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 734 | 50.4% | 50.2% | +0.2 pp |
-| 60-79% | 449 | 71.7% | 67.6% | +4.1 pp |
+| 40-59% | 736 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 451 | 71.8% | 67.6% | +4.2 pp |
 | 80-94% | 203 | 87.2% | 87.1% | +0.1 pp |
 | 95-99% (casi seguro) | 101 | 96.0% | 97.4% | -1.3 pp |
 
@@ -389,7 +389,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | CA Osasuna vs. Levante UD: O/U 1.5 | Under (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Kamil Majchrzak vs B | Benjamin Bonzi (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Mia Ristic v | Mia Ristic (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
