@@ -8,55 +8,55 @@
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1787575497.1134636,
-    "roi_pct": 377.42,
+    "roi_pct": 413.01,
     "short_term_pct": 100.0
   },
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787584582.2064621,
-    "roi_pct": 4522.18,
+    "roi_pct": 4517.35,
     "short_term_pct": 50.0
   },
   "0xf201a19b43471261a3c1ba9247335d55270e527e": {
     "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
     "added_at": 1787584582.2064698,
-    "roi_pct": 2321.27,
+    "roi_pct": 2321.25,
     "short_term_pct": 100.0
   },
   "0xf23c5bc7b547867eb6532920144562718aa49f81": {
     "username": "DoNotTailMe",
     "added_at": 1787584582.2064714,
-    "roi_pct": 5805.1,
-    "short_term_pct": 100.0
-  },
-  "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83": {
-    "username": "vito3corleone",
-    "added_at": 1787588285.195022,
-    "roi_pct": 807.82,
-    "short_term_pct": 100.0
-  },
-  "0x58776759ee5c70a915138706a1308add8bc5d894": {
-    "username": "Donghui",
-    "added_at": 1787592138.5933084,
-    "roi_pct": 140.64,
+    "roi_pct": 5176.47,
     "short_term_pct": 100.0
   },
   "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
     "username": "OOOwhyOOO",
     "added_at": 1787593112.7614882,
-    "roi_pct": 2681.88,
+    "roi_pct": 3483.09,
     "short_term_pct": 100.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1787593112.761497,
-    "roi_pct": 90.3,
+    "roi_pct": 65.66,
     "short_term_pct": 100.0
   },
   "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f": {
     "username": "bands1",
     "added_at": 1787594084.0199046,
     "roi_pct": 77.61,
+    "short_term_pct": 100.0
+  },
+  "0xdb859a551fcf56e49416160911476bea7307152f": {
+    "username": "AV23IUa",
+    "added_at": 1787595057.7971916,
+    "roi_pct": 99.5,
+    "short_term_pct": 100.0
+  },
+  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
+    "username": "BrotherObama",
+    "added_at": 1787595057.7971961,
+    "roi_pct": 60.48,
     "short_term_pct": 100.0
   }
 }

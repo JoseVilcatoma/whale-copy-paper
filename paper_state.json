@@ -1,5 +1,5 @@
 {
-  "bankroll": 591.8508344739007,
+  "bankroll": 594.2586518597668,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7585,6 +7585,16 @@
       "timestamp": 1787594768.889525,
       "bankroll": 591.85,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich"
+    },
+    {
+      "timestamp": 1787595083.39706,
+      "bankroll": 593.21,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini"
+    },
+    {
+      "timestamp": 1787595083.4972143,
+      "bankroll": 594.26,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini"
     }
   ]
 }

@@ -39247,8 +39247,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -39271,8 +39271,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.05,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -40454,5 +40454,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787594782.146408,
     "fills": 2
+  },
+  {
+    "timestamp": 1787595060,
+    "timestamp_added": 1787595061.274545,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-selekhm-preston-2026-08-24",
+    "title": "Philadelphia: Oksana Selekhmeteva vs Taylah Preston",
+    "outcome": "Oksana Selekhmeteva",
+    "side": "BUY",
+    "whale_usd": 1040.5596,
+    "whale_pct": 0.545,
+    "whale_value_at_open": 191045.5402,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787595061.274556,
+    "fills": 1
   }
 ]
