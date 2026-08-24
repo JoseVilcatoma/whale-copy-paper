@@ -35847,5 +35847,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787560414.602165,
     "fills": 1
+  },
+  {
+    "timestamp": 1787561088,
+    "timestamp_added": 1787561088.9352953,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-stromba-wehnelt-2026-08-24",
+    "title": "Augsburg: Robert Strombachs vs Kai Wehnelt",
+    "outcome": "Kai Wehnelt",
+    "side": "BUY",
+    "whale_usd": 9790.984495,
+    "whale_pct": 18.508,
+    "whale_value_at_open": 52900.6294,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787561089.4574544,
+    "fills": 2
   }
 ]

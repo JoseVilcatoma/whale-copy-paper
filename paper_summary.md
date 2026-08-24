@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 03:42:56 (hora de Perú)
+Actualizado: 2026-08-24 03:44:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $549.12
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 03:42:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $434.12)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $429.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 20 | 15 | 0 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| ferrariChampions2026 | 208 | 116 | 2 | +8.53 USD |
+| ferrariChampions2026 | 208 | 116 | 3 | +8.53 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -327,6 +327,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Robert Strombachs vs Kai Wehne | Kai Wehnelt (BUY) | 56% | 5.00 | 18.5% | ⏳ pendiente | — |
 | johnbaster | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 95% | 5.00 | 3.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 26.2% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | Kiwoom DRX Challengers (BUY) | 81% | 5.00 | 13.8% | 💰 vendida anticipada | +0.03 |
@@ -356,4 +357,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 85% | 5.00 | 1.2% | ✅ ganada | +0.84 |
 | Djdjdjekekek | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 86% | 5.00 | 138919.2% | ✅ ganada | +0.78 |
 | HomeRunHazard | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 84% | 5.00 | 19.7% | ✅ ganada | +0.91 |
-| HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 60% | 5.00 | 32.8% | ✅ ganada | +3.23 |
