@@ -35953,8 +35953,8 @@
     "title": "Augsburg: Dominik Recek vs Benito Sanchez Martinez",
     "outcome": "Benito Sanchez Martinez",
     "side": "BUY",
-    "whale_usd": 49483.782945000006,
-    "whale_pct": 64.443,
+    "whale_usd": 53609.39494500001,
+    "whale_pct": 69.815,
     "whale_value_at_open": 76787.4911,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -35965,8 +35965,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787565500.6396701,
-    "fills": 10
+    "last_fill_at": 1787565757.4777567,
+    "fills": 11
   },
   {
     "timestamp": 1787563987,
@@ -36014,6 +36014,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787565244.2814202,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787565734,
+    "timestamp_added": 1787565734.647641,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-donald-hassan-2026-08-24",
+    "title": "Augsburg: Matthew William Donald vs Benjamin Hassan",
+    "outcome": "Matthew William Donald",
+    "side": "BUY",
+    "whale_usd": 612.613333,
+    "whale_pct": 0.416,
+    "whale_value_at_open": 147305.7278,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787565734.6476521,
     "fills": 1
   }
 ]
