@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:12:09 (hora de Perú)
+Actualizado: 2026-08-24 09:14:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:12:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $207.93)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $202.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
-| ferrariChampions2026 | 217 | 119 | 18 | +15.90 USD |
+| ferrariChampions2026 | 217 | 119 | 19 | +15.90 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -333,11 +333,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
 | atp-kopp-ribeiro-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
+| atp-hemery-barton-2026-08-24 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -367,4 +369,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 3.5% | ⏳ pendiente | — |
 | SDTrading | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
-| SDTrading | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 9.2% | ⏳ pendiente | — |
