@@ -1,5 +1,5 @@
 {
-  "bankroll": 580.248855785,
+  "bankroll": 586.7051209648444,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7510,6 +7510,31 @@
       "timestamp": 1787592577.4730165,
       "bankroll": 580.25,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: GIANTX vs G2 Esports - Game 1 Winner (+1.80 USD)"
+    },
+    {
+      "timestamp": 1787592892.0446098,
+      "bankroll": 582.22,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena"
+    },
+    {
+      "timestamp": 1787592892.1447513,
+      "bankroll": 583.91,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena"
+    },
+    {
+      "timestamp": 1787592894.8144479,
+      "bankroll": 578.79,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze"
+    },
+    {
+      "timestamp": 1787592895.6768532,
+      "bankroll": 583.47,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze"
+    },
+    {
+      "timestamp": 1787592897.128059,
+      "bankroll": 586.71,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze"
     }
   ]
 }
