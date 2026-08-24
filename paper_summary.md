@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:22:43 (hora de Perú)
+Actualizado: 2026-08-24 10:24:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:22:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $195.45)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $185.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 3 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 221 | 120 | 21 | +21.62 USD |
+| ferrariChampions2026 | 221 | 120 | 22 | +21.62 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 100 | 59 | 17 | -11.05 USD |
+| HomeRunHazard | 100 | 59 | 18 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 30 | 22 | 3 | -52.94 USD |
@@ -344,6 +344,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Mili Poljicak vs Max Schoenhau | Max Schoenhaus (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 79% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Veronika Erjavec vs Julia  | Julia Grabher (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Diego Dedura-Palomero (BUY) | 43% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -355,7 +357,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 46% | 5.00 | 11.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Elena Pridan | Elena Pridankina (BUY) | 51% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Rebecca Sram | Rebecca Sramkova (BUY) | 74% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Fnatic (BUY) | 59% | 5.00 | 4.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Fnatic (BUY) | 59% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Johannus Monday vs Iliyan  | Johannus Monday (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -372,5 +374,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ✅ ganada | +0.10 |
 | RN1 | ITF W35 Trieste Women: Federica Trevisan | Alessandra Mazzola (BUY) | 84% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Bologna FC 1909 vs. SS Lazio: O/U 2.5 | Under (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | Counter-Strike: GenOne vs Leo Team - Map | GenOne (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
-|  | Will Stade de Reims win on 2026-08-24? | No (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
