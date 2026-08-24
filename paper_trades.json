@@ -36636,8 +36636,8 @@
     "title": "Augsburg: Sandro Kopp vs Eduardo Ribeiro",
     "outcome": "Sandro Kopp",
     "side": "BUY",
-    "whale_usd": 18313.393066,
-    "whale_pct": 21.306,
+    "whale_usd": 23627.678780000002,
+    "whale_pct": 27.489,
     "whale_value_at_open": 85954.6819,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -36648,8 +36648,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787579517.571016,
-    "fills": 4
+    "last_fill_at": 1787579978.6645792,
+    "fills": 5
   },
   {
     "timestamp": 1787574312,
@@ -37252,6 +37252,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787579654.9333467,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787579930,
+    "timestamp_added": 1787579931.255765,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-bos-mia-2026-08-24",
+    "title": "Boston Red Sox vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 16012.8254,
+    "whale_pct": 24.826,
+    "whale_value_at_open": 64500.0645,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787579931.2557743,
     "fills": 1
   }
 ]
