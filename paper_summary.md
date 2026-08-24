@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:14:12 (hora de Perú)
+Actualizado: 2026-08-24 09:16:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:14:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $202.93)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $197.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
-| ferrariChampions2026 | 217 | 119 | 19 | +15.90 USD |
+| ferrariChampions2026 | 217 | 119 | 20 | +15.90 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -339,6 +339,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -348,7 +349,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: GenOne vs Leo Team - Map | GenOne (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will Stade de Reims win on 2026-08-24? | No (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Aca | Alliance (BUY) | 41% | 5.00 | 168.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Max Basing vs Christian La | Max Basing (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Max Basing vs Christian La | Max Basing (BUY) | 88% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 24.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Federico Agu | Federico Agustin Gomez (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -368,4 +369,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton 2: Patrick Brady vs Andreja P | Patrick Brady (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 3.5% | ⏳ pendiente | — |
 | SDTrading | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |

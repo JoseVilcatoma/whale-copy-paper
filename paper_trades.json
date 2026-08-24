@@ -37287,8 +37287,8 @@
     "title": "Roehampton 2: Max Basing vs Christian Langmo",
     "outcome": "Max Basing",
     "side": "BUY",
-    "whale_usd": 912.560128,
-    "whale_pct": 0.559,
+    "whale_usd": 4097.524528,
+    "whale_pct": 2.511,
     "whale_value_at_open": 163199.1022,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -37299,8 +37299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787580036.0905032,
-    "fills": 1
+    "last_fill_at": 1787580873.0770752,
+    "fills": 2
   },
   {
     "timestamp": 1787580444,
@@ -37519,5 +37519,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787580807.3267667,
     "fills": 3
+  },
+  {
+    "timestamp": 1787580918,
+    "timestamp_added": 1787580919.3986235,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-hemery-barton-2026-08-24",
+    "title": "Augsburg: Calvin Hemery vs Hynek Barton",
+    "outcome": "Calvin Hemery",
+    "side": "BUY",
+    "whale_usd": 2036.1796,
+    "whale_pct": 1.093,
+    "whale_value_at_open": 186211.0121,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787580925.4235728,
+    "fills": 2
   }
 ]
