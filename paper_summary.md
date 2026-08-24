@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 13:11:34 (hora de Perú)
+Actualizado: 2026-08-24 13:13:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $594.26
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 13:11:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $552.20 en 111 posiciones abiertas (disponible para nuevas apuestas: $42.06)
+**Capital comprometido ahora mismo:** $557.20 en 112 posiciones abiertas (disponible para nuevas apuestas: $37.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| HomeRunHazard | 114 | 62 | 31 | -2.30 USD |
+| HomeRunHazard | 114 | 62 | 32 | -2.30 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -369,6 +369,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: Bruno Kuzuhara vs Thomas Fan | Thomas Fancutt (BUY) | 95% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Oksana Selekhmeteva vs Tay | Oksana Selekhmeteva (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Lois Boisson vs Capucine J | Lois Boisson (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 82% | 5.00 | 54.6% | 💰 vendida anticipada | +0.10 |
@@ -398,4 +399,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Johnson vs Garin | Johnson (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 74% | 5.00 | 14.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 59% | 5.00 | 3.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Elina Avanesyan (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
