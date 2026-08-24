@@ -41432,8 +41432,8 @@
     "odds_at_bet": 96,
     "fee_usd": 0.01,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -41593,8 +41593,8 @@
     "title": "US Open, Qualification WTA: Jazmin Ortenzi vs Himeno Sakatsume",
     "outcome": "Himeno Sakatsume",
     "side": "BUY",
-    "whale_usd": 5135.841100000001,
-    "whale_pct": 2.936,
+    "whale_usd": 5736.981100000001,
+    "whale_pct": 3.28,
     "whale_value_at_open": 174923.5094,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -41605,8 +41605,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787604362.887129,
-    "fills": 4
+    "last_fill_at": 1787604513.0175676,
+    "fills": 5
   },
   {
     "timestamp": 1787603258,
@@ -41696,8 +41696,8 @@
     "title": "US Open, Qualification WTA: Robin Montgomery vs Kayla Cross",
     "outcome": "Robin Montgomery",
     "side": "BUY",
-    "whale_usd": 3346.001,
-    "whale_pct": 1.673,
+    "whale_usd": 4455.2425,
+    "whale_pct": 2.228,
     "whale_value_at_open": 199999.7171,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -41708,8 +41708,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787603666.4626591,
-    "fills": 2
+    "last_fill_at": 1787604396.1438158,
+    "fills": 3
   },
   {
     "timestamp": 1787604074,

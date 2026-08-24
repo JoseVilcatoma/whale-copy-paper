@@ -1,5 +1,5 @@
 {
-  "bankroll": 593.5273202827435,
+  "bankroll": 593.7256536160769,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7950,6 +7950,11 @@
       "timestamp": 1787604249.024027,
       "bankroll": 593.53,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Remy Bertola vs Alejandro Moro Canas"
+    },
+    {
+      "timestamp": 1787604438.692974,
+      "bankroll": 593.73,
+      "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini"
     }
   ]
 }

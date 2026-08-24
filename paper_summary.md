@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:46:33 (hora de Perú)
+Actualizado: 2026-08-24 15:48:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $593.53
-**Retorno acumulado:** +18.71%
+**Bankroll actual:** $593.73
+**Retorno acumulado:** +18.75%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:46:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $462.20 en 93 posiciones abiertas (disponible para nuevas apuestas: $131.33)
+**Capital comprometido ahora mismo:** $457.20 en 92 posiciones abiertas (disponible para nuevas apuestas: $136.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,11 +49,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 1 | 0 | 1 | +0.20 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
 | Gooooooollllllllll | 0 | 0 | 1 | +0.00 USD |
 | Donghui | 0 | 0 | 1 | +0.00 USD |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 0 | 0 | 2 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -80,13 +80,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1508
-- **Aciertos:** 981 (65.1%)
+- **Apuestas resueltas:** 1509
+- **Aciertos:** 982 (65.1%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,531.62
+- **Total apostado (suma de stakes):** $7,536.62
 - **ROI sobre lo apostado:** +0.11%
-- **Comisiones pagadas (taker fee):** $136.38 (1.81% del capital apostado)
+- **Comisiones pagadas (taker fee):** $136.39 (1.81% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 738 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 459 | 71.9% | 67.7% | +4.2 pp |
 | 80-94% | 208 | 87.0% | 87.0% | -0.0 pp |
-| 95-99% (casi seguro) | 103 | 96.1% | 97.3% | -1.2 pp |
+| 95-99% (casi seguro) | 104 | 96.2% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -379,18 +379,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Dalibor Svrc | Dalibor Svrcina (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Polina Kudermetova (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 56% | 5.00 | 11.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 66% | 5.00 | 47.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Jazmin Orten | Himeno Sakatsume (BUY) | 83% | 5.00 | 2.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Jazmin Orten | Himeno Sakatsume (BUY) | 83% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Ushiras vs Arashi GC (BO3) - V | Ushiras (BUY) | 41% | 5.00 | 53.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Gonzalo Buen | Billy Harris (BUY) | 98% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Sebastian Gorzny vs  | Sebastian Gorzny (BUY) | 84% | 5.00 | 4.8% | ⏳ pendiente | — |
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 119.8% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 119.8% | ✅ ganada | +0.20 |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ✅ ganada | +0.84 |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 1.8% | ⏳ pendiente | — |
