@@ -38184,8 +38184,8 @@
     "title": "Minnesota Twins vs. Athletics: O/U 10.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3546.9985,
-    "whale_pct": 4.882,
+    "whale_usd": 5981.2513,
+    "whale_pct": 8.233,
     "whale_value_at_open": 72651.3438,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -38196,8 +38196,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787585368.384479,
-    "fills": 1
+    "last_fill_at": 1787613244.0911577,
+    "fills": 3
   },
   {
     "timestamp": 1787585400,
@@ -42236,8 +42236,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -42397,8 +42397,8 @@
     "title": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier",
     "outcome": "Roman Safiullin",
     "side": "BUY",
-    "whale_usd": 3233.0004,
-    "whale_pct": 1.442,
+    "whale_usd": 6549.9996,
+    "whale_pct": 2.921,
     "whale_value_at_open": 224202.0742,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -42411,8 +42411,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787609528.7973816,
-    "fills": 2
+    "last_fill_at": 1787613248.529126,
+    "fills": 3
   },
   {
     "timestamp": 1787609809,
@@ -42457,8 +42457,8 @@
     "odds_at_bet": 94,
     "fee_usd": 0.015,
     "odds_ballena": 92,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.3,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -42529,8 +42529,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -42579,8 +42579,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -42627,8 +42627,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -43052,8 +43052,8 @@
     "title": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller",
     "outcome": "Elmer Moeller",
     "side": "BUY",
-    "whale_usd": 1535.1199989999998,
-    "whale_pct": 1.896,
+    "whale_usd": 2858.2199979999996,
+    "whale_pct": 3.531,
     "whale_value_at_open": 80948.368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -43066,8 +43066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787612154.7304595,
-    "fills": 1
+    "last_fill_at": 1787613239.8099556,
+    "fills": 2
   },
   {
     "timestamp": 1787612277,
@@ -43193,5 +43193,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787612801.2608306,
     "fills": 1
+  },
+  {
+    "timestamp": 1787613246,
+    "timestamp_added": 1787613246.1560812,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-safiull-grenier-2026-08-24",
+    "title": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier",
+    "outcome": "Hugo Grenier",
+    "side": "BUY",
+    "whale_usd": 6608.840700000001,
+    "whale_pct": 2.44,
+    "whale_value_at_open": 270860.5537,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787613246.7821147,
+    "fills": 2
   }
 ]

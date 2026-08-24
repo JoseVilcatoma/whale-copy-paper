@@ -1,5 +1,5 @@
 {
-  "bankroll": 580.5514107307979,
+  "bankroll": 581.210194685888,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8245,6 +8245,31 @@
       "timestamp": 1787612471.3802295,
       "bankroll": 580.55,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Carson Branstine vs Clervie Ngounoue"
+    },
+    {
+      "timestamp": 1787613225.627758,
+      "bankroll": 585.23,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Simona Waltert vs Fiona Crawley"
+    },
+    {
+      "timestamp": 1787613227.241009,
+      "bankroll": 580.13,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Harry Wendelken vs Stefano Travaglia"
+    },
+    {
+      "timestamp": 1787613227.4413793,
+      "bankroll": 580.38,
+      "event": "won: RN1 \u2014 Philadelphia: Simona Waltert vs Fiona Crawley"
+    },
+    {
+      "timestamp": 1787613281.4214685,
+      "bankroll": 580.68,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Francesco Passaro vs Felix Gill"
+    },
+    {
+      "timestamp": 1787613281.7220285,
+      "bankroll": 581.21,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Francesco Passaro vs Felix Gill"
     }
   ]
 }
