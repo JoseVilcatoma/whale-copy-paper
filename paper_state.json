@@ -1,5 +1,5 @@
 {
-  "bankroll": 551.4413505781317,
+  "bankroll": 550.6525234176379,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7140,6 +7140,21 @@
       "timestamp": 1787569271.9635406,
       "bankroll": 551.44,
       "event": "lost: SPCEXBUYER \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787571791.4652636,
+      "bankroll": 552.57,
+      "event": "won: SPCEXBUYER \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In"
+    },
+    {
+      "timestamp": 1787571794.2514744,
+      "bankroll": 547.42,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Matthew William Donald vs Benjamin Hassan"
+    },
+    {
+      "timestamp": 1787571794.3516212,
+      "bankroll": 550.65,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Matthew William Donald vs Benjamin Hassan"
     }
   ]
 }
