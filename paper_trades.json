@@ -35895,5 +35895,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787561454.28335,
     "fills": 1
+  },
+  {
+    "timestamp": 1787562780,
+    "timestamp_added": 1787562781.2462375,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-yevseye-gulin-2026-08-24",
+    "title": "Augsburg: Denis Yevseyev vs Svyatoslav Gulin",
+    "outcome": "Svyatoslav Gulin",
+    "side": "BUY",
+    "whale_usd": 1178.676,
+    "whale_pct": 1.978,
+    "whale_value_at_open": 59578.305,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787562781.2462487,
+    "fills": 1
   }
 ]
