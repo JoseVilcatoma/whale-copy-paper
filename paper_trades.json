@@ -41329,8 +41329,8 @@
     "title": "Philadelphia: Ariana Arseneault vs Tereza Valentova",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 3750.5597000000007,
-    "whale_pct": 1.582,
+    "whale_usd": 6053.742890000001,
+    "whale_pct": 2.554,
     "whale_value_at_open": 237060.2139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -41341,8 +41341,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787602586.8756788,
-    "fills": 4
+    "last_fill_at": 1787603001.855489,
+    "fills": 5
   },
   {
     "timestamp": 1787600138,
@@ -41582,6 +41582,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787602195.400134,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787602997,
+    "timestamp_added": 1787602997.914981,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-ortenzi-sakatsu-2026-08-24",
+    "title": "US Open, Qualification WTA: Jazmin Ortenzi vs Himeno Sakatsume",
+    "outcome": "Himeno Sakatsume",
+    "side": "BUY",
+    "whale_usd": 826.4106,
+    "whale_pct": 0.472,
+    "whale_value_at_open": 174923.5094,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787602997.9149945,
     "fills": 1
   }
 ]
