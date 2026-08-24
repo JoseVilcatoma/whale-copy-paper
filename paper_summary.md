@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 04:17:38 (hora de Perú)
+Actualizado: 2026-08-24 04:19:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $547.69
@@ -330,7 +330,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Fiona Ferro (BUY) | 61% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Denis Yevseyev vs Svyatoslav G | Svyatoslav Gulin (BUY) | 89% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 82% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Robert Strombachs vs Kai Wehne | Kai Wehnelt (BUY) | 56% | 5.00 | 20.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Robert Strombachs vs Kai Wehne | Kai Wehnelt (BUY) | 56% | 5.00 | 56.0% | ⏳ pendiente | — |
 | johnbaster | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 95% | 5.00 | 3.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 26.2% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | Kiwoom DRX Challengers (BUY) | 81% | 5.00 | 13.8% | 💰 vendida anticipada | +0.03 |
