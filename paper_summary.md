@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:46:27 (hora de Perú)
+Actualizado: 2026-08-24 14:48:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $598.27
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 14:46:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $485.23 en 98 posiciones abiertas (disponible para nuevas apuestas: $113.04)
+**Capital comprometido ahora mismo:** $490.23 en 99 posiciones abiertas (disponible para nuevas apuestas: $108.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 122 | 66 | 34 | -7.93 USD |
+| HomeRunHazard | 122 | 66 | 35 | -7.93 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -375,6 +375,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ariana Arseneault vs Terez | Tereza Valentova (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -404,4 +405,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Marco Cecchi | Liam Broady (BUY) | 48% | 4.81 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Osasuna win on 2026-08-24? | No (BUY) | 61% | 5.00 | 0.3% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | Minnesota Twins vs. Athletics | Athletics (BUY) | 42% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia: Lois Boisson vs Capucine J | Lois Boisson (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
