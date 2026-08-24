@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 02:55:59 (hora de Perú)
+Actualizado: 2026-08-24 02:58:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $549.12
@@ -325,14 +325,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 5.0% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 12.4% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | Kiwoom DRX Challengers (BUY) | 81% | 5.00 | 13.8% | 💰 vendida anticipada | +0.03 |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 69% | 5.00 | 2.8% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 64% | 5.00 | 20.7% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 94% | 5.00 | 23.5% | 💰 vendida anticipada | -0.64 |
 | SPCEXBUYER | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 70% | 5.00 | 21.0% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 81% | 5.00 | 16.1% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 81% | 5.00 | 17.9% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 16.4% | ⏳ pendiente | — |
 | hi774c | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 28.9% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 26.3% | ⏳ pendiente | — |

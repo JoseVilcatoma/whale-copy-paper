@@ -35631,8 +35631,8 @@
     "title": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
     "outcome": "DN SOOPers Challengers",
     "side": "BUY",
-    "whale_usd": 14630.48936,
-    "whale_pct": 16.147,
+    "whale_usd": 16202.13776,
+    "whale_pct": 17.881,
     "whale_value_at_open": 90609.3335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -35643,8 +35643,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787551892.7126167,
-    "fills": 12
+    "last_fill_at": 1787558244.2886748,
+    "fills": 13
   },
   {
     "timestamp": 1787553015,
@@ -35807,8 +35807,8 @@
     "title": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 4 Winner",
     "outcome": "DN SOOPers Challengers",
     "side": "BUY",
-    "whale_usd": 8266.352536,
-    "whale_pct": 5.013,
+    "whale_usd": 20480.352536,
+    "whale_pct": 12.42,
     "whale_value_at_open": 164900.5144,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -35819,7 +35819,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787558149.793584,
-    "fills": 2
+    "last_fill_at": 1787558208.7738783,
+    "fills": 3
   }
 ]
