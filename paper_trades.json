@@ -42155,8 +42155,8 @@
     "title": "Boston Red Sox vs. Miami Marlins",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 4375.9984,
-    "whale_pct": 1.82,
+    "whale_usd": 7386.9979,
+    "whale_pct": 3.072,
     "whale_value_at_open": 240423.7531,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -42169,8 +42169,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787607023.773672,
-    "fills": 1
+    "last_fill_at": 1787609038.2743602,
+    "fills": 2
   },
   {
     "timestamp": 1787607393,
@@ -42373,8 +42373,8 @@
     "title": "Monterrey Open: Camila Osorio vs Ann Li",
     "outcome": "Ann Li",
     "side": "BUY",
-    "whale_usd": 692.856,
-    "whale_pct": 0.284,
+    "whale_usd": 1869.2324,
+    "whale_pct": 0.767,
     "whale_value_at_open": 243802.8142,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -42385,7 +42385,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787608843.0284784,
-    "fills": 1
+    "last_fill_at": 1787608979.8189456,
+    "fills": 2
   }
 ]

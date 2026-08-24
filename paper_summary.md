@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:02:04 (hora de Perú)
+Actualizado: 2026-08-24 17:04:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $594.39
@@ -377,7 +377,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Ugo Blanchet (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Otto Virtanen (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Mees Rottgering (BUY) | 75% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -386,7 +386,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Savannah Bro | Tyra Caterina Grant (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Angela Fita Boluda (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 43% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Luis Guto Miguel vs Tyler Zi | Luis Guto Miguel (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
