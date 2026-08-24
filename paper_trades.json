@@ -39240,8 +39240,8 @@
     "title": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini",
     "outcome": "Lucrezia Stefanini",
     "side": "BUY",
-    "whale_usd": 2302.2511,
-    "whale_pct": 1.448,
+    "whale_usd": 4815.248100000001,
+    "whale_pct": 3.028,
     "whale_value_at_open": 159029.1861,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -39252,8 +39252,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589385.9223435,
-    "fills": 2
+    "last_fill_at": 1787591426.310269,
+    "fills": 3
   },
   {
     "timestamp": 1787589161,
@@ -39606,5 +39606,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787591194.5256417,
     "fills": 1
+  },
+  {
+    "timestamp": 1787591360,
+    "timestamp_added": 1787591360.9163256,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-fernan-kuhar-2026-08-24",
+    "title": "Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar",
+    "outcome": "Mario Gonzalez Fernandez",
+    "side": "BUY",
+    "whale_usd": 533.9219999999999,
+    "whale_pct": 0.264,
+    "whale_value_at_open": 201910.1089,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787591360.9163373,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787591448,
+    "timestamp_added": 1787591448.7905946,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-droguet-rincon-2026-08-24",
+    "title": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon",
+    "outcome": "Daniel Rincon",
+    "side": "BUY",
+    "whale_usd": 1582.1055000000001,
+    "whale_pct": 0.63,
+    "whale_value_at_open": 251053.0694,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787591449.3169262,
+    "fills": 2
   }
 ]
