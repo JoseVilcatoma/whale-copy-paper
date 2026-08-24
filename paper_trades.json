@@ -35953,8 +35953,8 @@
     "title": "Augsburg: Dominik Recek vs Benito Sanchez Martinez",
     "outcome": "Benito Sanchez Martinez",
     "side": "BUY",
-    "whale_usd": 48230.032945000006,
-    "whale_pct": 62.81,
+    "whale_usd": 49483.782945000006,
+    "whale_pct": 64.443,
     "whale_value_at_open": 76787.4911,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -35965,8 +35965,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787564977.431449,
-    "fills": 9
+    "last_fill_at": 1787565500.6396701,
+    "fills": 10
   },
   {
     "timestamp": 1787563987,

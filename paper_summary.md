@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 04:57:33 (hora de Perú)
+Actualizado: 2026-08-24 04:59:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $547.69
@@ -329,7 +329,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fulham FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Dominik Recek vs Benito Sanche | Benito Sanchez Martinez (BUY) | 80% | 5.00 | 62.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Dominik Recek vs Benito Sanche | Benito Sanchez Martinez (BUY) | 80% | 5.00 | 64.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Fiona Ferro (BUY) | 61% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Denis Yevseyev vs Svyatoslav G | Svyatoslav Gulin (BUY) | 89% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 82% | 5.00 | 3.5% | ⏳ pendiente | — |
