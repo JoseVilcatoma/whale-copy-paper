@@ -1,5 +1,5 @@
 {
-  "bankroll": 586.8681597962748,
+  "bankroll": 587.0066948839941,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7610,6 +7610,11 @@
       "timestamp": 1787595705.5205436,
       "bankroll": 586.87,
       "event": "lost: HomeRunHazard \u2014 Philadelphia: Veronika Erjavec vs Julia Grabher"
+    },
+    {
+      "timestamp": 1787595777.743379,
+      "bankroll": 587.01,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: GIANTX vs G2 Esports - Game 2 Winner (+0.14 USD)"
     }
   ]
 }

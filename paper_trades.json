@@ -40603,5 +40603,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787595543.5193665,
     "fills": 1
+  },
+  {
+    "timestamp": 1787595740,
+    "timestamp_added": 1787595741.173513,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-gx-g2-2026-08-24-game2",
+    "title": "LoL: GIANTX vs G2 Esports - Game 2 Winner",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "whale_usd": 560.0,
+    "whale_pct": 1.608,
+    "whale_value_at_open": 34816.9789,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "cerrada_venta",
+    "profit_usd": 0.14,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787595741.1735225,
+    "fills": 1,
+    "fee_total_usd": 0.212,
+    "closed_price": 61
   }
 ]

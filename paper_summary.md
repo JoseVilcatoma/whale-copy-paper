@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 13:21:58 (hora de Perú)
+Actualizado: 2026-08-24 13:24:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $586.87
-**Retorno acumulado:** +17.37%
+**Bankroll actual:** $587.01
+**Retorno acumulado:** +17.40%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 13:21:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $562.20 en 113 posiciones abiertas (disponible para nuevas apuestas: $24.67)
+**Capital comprometido ahora mismo:** $562.20 en 113 posiciones abiertas (disponible para nuevas apuestas: $24.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 62 | 8 | 13 | +59.16 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 49 | 20 | 2 | +39.12 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 20 | 2 | +39.26 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -369,6 +369,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 2 Winne | GIANTX (BUY) | 57% | 5.00 | 1.6% | 💰 vendida anticipada | +0.14 |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Los Angeles Sparks (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -398,4 +399,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Hontama vs. Gjorcheska: Match O/U 23.5 | Under (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Lorenzo Sonego (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Oksana Selekhmeteva vs Tay | Taylah Preston (BUY) | 82% | 5.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Spencer John | Spencer Johnson (BUY) | 68% | 5.00 | 2.0% | ⏳ pendiente | — |
