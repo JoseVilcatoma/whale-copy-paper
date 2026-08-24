@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:40:14 (hora de Perú)
+Actualizado: 2026-08-24 15:42:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $591.41
-**Retorno acumulado:** +18.28%
+**Bankroll actual:** $592.68
+**Retorno acumulado:** +18.54%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:40:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $457.20 en 92 posiciones abiertas (disponible para nuevas apuestas: $134.21)
+**Capital comprometido ahora mismo:** $457.20 en 92 posiciones abiertas (disponible para nuevas apuestas: $135.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 127 | 68 | 36 | -8.45 USD |
+| HomeRunHazard | 128 | 68 | 36 | -7.17 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -80,14 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1506
-- **Aciertos:** 979 (65.0%)
+- **Apuestas resueltas:** 1507
+- **Aciertos:** 980 (65.0%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,521.62
-- **ROI sobre lo apostado:** +0.08%
-- **Comisiones pagadas (taker fee):** $136.29 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.89% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,526.62
+- **ROI sobre lo apostado:** +0.10%
+- **Comisiones pagadas (taker fee):** $136.34 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -96,7 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 738 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 458 | 71.8% | 67.6% | +4.2 pp |
+| 60-79% | 459 | 71.9% | 67.7% | +4.2 pp |
 | 80-94% | 207 | 87.0% | 87.0% | -0.1 pp |
 | 95-99% (casi seguro) | 103 | 96.1% | 97.3% | -1.2 pp |
 
@@ -376,6 +376,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 56% | 5.00 | 11.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -392,7 +393,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ariana Arseneault vs Terez | Tereza Valentova (BUY) | 95% | 5.00 | 2.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Joel Schwaer | Joel Schwaerzler (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Joel Schwaer | Joel Schwaerzler (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
 | swisstony | Al Ittihad Saudi Club vs. Al Hazem SC: O | Under (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Heracles Almelo win on 2026-08-24? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -405,4 +406,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Kamil Majchrzak vs B | Benjamin Bonzi (BUY) | 74% | 5.00 | 0.9% | ✅ ganada | +1.69 |
-| ferrariChampions2026 | US Open, Qualification WTA: Mia Ristic v | Mia Ristic (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |

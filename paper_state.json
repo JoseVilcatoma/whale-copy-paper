@@ -1,5 +1,5 @@
 {
-  "bankroll": 591.4058534175165,
+  "bankroll": 592.6829673415671,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7940,6 +7940,11 @@
       "timestamp": 1787603762.4966915,
       "bankroll": 591.41,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Kamil Majchrzak vs Benjamin Bonzi"
+    },
+    {
+      "timestamp": 1787604075.6342812,
+      "bankroll": 592.68,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Joel Schwaerzler vs Gustavo Heide"
     }
   ]
 }

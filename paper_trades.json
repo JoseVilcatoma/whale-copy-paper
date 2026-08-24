@@ -35755,8 +35755,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx: O/U 160.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 649.823773,
-    "whale_pct": 2.137,
+    "whale_usd": 2074.821373,
+    "whale_pct": 6.824,
     "whale_value_at_open": 30405.19,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -35767,8 +35767,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787555944.3774798,
-    "fills": 1
+    "last_fill_at": 1787604075.4277472,
+    "fills": 2
   },
   {
     "timestamp": 1787557202,
@@ -41312,8 +41312,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.28,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -41710,5 +41710,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787603666.4626591,
     "fills": 2
+  },
+  {
+    "timestamp": 1787604074,
+    "timestamp_added": 1787604074.7770522,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-gsv-min-2026-08-24-total-161pt5",
+    "title": "Golden State Valkyries vs. Minnesota Lynx: O/U 161.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1029.392,
+    "whale_pct": 0.511,
+    "whale_value_at_open": 201477,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787604074.777064,
+    "fills": 1
   }
 ]
