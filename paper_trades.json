@@ -35200,8 +35200,8 @@
     "title": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova",
     "outcome": "Oleksandra Oliynykova",
     "side": "BUY",
-    "whale_usd": 1613.8894730000002,
-    "whale_pct": 3.286,
+    "whale_usd": 6070.3922729999995,
+    "whale_pct": 12.359,
     "whale_value_at_open": 49117.2788,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -35212,8 +35212,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787547107.5973363,
-    "fills": 2
+    "last_fill_at": 1787548279.0518503,
+    "fills": 3
   },
   {
     "timestamp": 1787543353,
