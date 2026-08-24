@@ -42277,8 +42277,8 @@
     "title": "US Open, Qualification WTA: Carson Branstine vs Clervie Ngounoue",
     "outcome": "Carson Branstine",
     "side": "BUY",
-    "whale_usd": 2874.0015,
-    "whale_pct": 1.203,
+    "whale_usd": 5989.455,
+    "whale_pct": 2.508,
     "whale_value_at_open": 238831.5308,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -42289,8 +42289,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787608397.4239516,
-    "fills": 1
+    "last_fill_at": 1787609773.4818122,
+    "fills": 2
   },
   {
     "timestamp": 1787608585,
