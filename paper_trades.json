@@ -36911,8 +36911,8 @@
     "title": "Augsburg: Andrej Nedic vs Juan Estevez",
     "outcome": "Juan Estevez",
     "side": "BUY",
-    "whale_usd": 6473.2396100000005,
-    "whale_pct": 10.209,
+    "whale_usd": 7557.23735,
+    "whale_pct": 11.919,
     "whale_value_at_open": 63406.2551,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -36926,8 +36926,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787577568.065567,
-    "fills": 6
+    "last_fill_at": 1787577614.834326,
+    "fills": 7
   },
   {
     "timestamp": 1787577146,
