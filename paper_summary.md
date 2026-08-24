@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:43:42 (hora de Perú)
+Actualizado: 2026-08-24 17:45:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $576.35
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:43:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $151.35)
+**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $146.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 144 | 76 | 47 | -20.25 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 3 | -38.29 USD |
-| RN1 | 229 | 101 | 7 | -41.80 USD |
+| RN1 | 229 | 101 | 8 | -41.80 USD |
 |  | 32 | 23 | 0 | -54.37 USD |
 
 ## Análisis general
@@ -345,7 +345,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-det-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | atp-brancac-wild-2026-08-24 | , 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, HomeRunHazard, RN1 |
-| mlb-bos-mia-2026-08-24 | AV23IUa, HomeRunHazard, SDTrading |
+| mlb-bos-mia-2026-08-24 | AV23IUa, HomeRunHazard, RN1, SDTrading |
 | cs2-all-phanto-2026-08-24 | Djdjdjekekek, SPCEXBUYER |
 | atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
@@ -384,6 +384,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Donghui | Tampa Bay Rays vs. Detroit Tigers | Detroit Tigers (BUY) | 45% | 5.00 | 338.6% | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -399,7 +400,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Harry Wendel | Stefano Travaglia (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CA Central Córdoba win on 2026-08-2 | No (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 5.2% | ⏳ pendiente | — |
+| HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 7.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 55% | 5.00 | 11.6% | ⏳ pendiente | — |
@@ -413,4 +414,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Savannah Bro | Tyra Caterina Grant (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 3.1% | ⏳ pendiente | — |

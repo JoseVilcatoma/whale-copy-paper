@@ -42498,8 +42498,8 @@
     "title": "Colorado Rockies vs. Washington Nationals: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 12118.9974,
-    "whale_pct": 5.185,
+    "whale_usd": 18088.996,
+    "whale_pct": 7.739,
     "whale_value_at_open": 233723.1713,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -42510,8 +42510,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787611210.1446867,
-    "fills": 2
+    "last_fill_at": 1787611473.8571205,
+    "fills": 3
   },
   {
     "timestamp": 1787610154,
@@ -42889,6 +42889,34 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787611352.1996338,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787611509,
+    "timestamp_added": 1787611509.9985104,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-bos-mia-2026-08-24",
+    "title": "Boston Red Sox vs. Miami Marlins",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 861.1503,
+    "whale_pct": 0.442,
+    "whale_value_at_open": 194721.9779,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787611509.998522,
     "fills": 1
   }
 ]
