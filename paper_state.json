@@ -1,5 +1,5 @@
 {
-  "bankroll": 579.7984013980388,
+  "bankroll": 579.9700680647054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8020,6 +8020,16 @@
       "timestamp": 1787605921.9415793,
       "bankroll": 579.8,
       "event": "lost: ferrariChampions2026 \u2014 Fulham FC vs. Chelsea FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787606245.3788297,
+      "bankroll": 585.09,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Mia Ristic vs Ayana Akli"
+    },
+    {
+      "timestamp": 1787606245.4790323,
+      "bankroll": 579.97,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Mia Ristic vs Ayana Akli"
     }
   ]
 }

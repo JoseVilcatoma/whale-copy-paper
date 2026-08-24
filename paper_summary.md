@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:15:19 (hora de Perú)
+Actualizado: 2026-08-24 16:17:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $579.80
-**Retorno acumulado:** +15.96%
+**Bankroll actual:** $579.97
+**Retorno acumulado:** +15.99%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 16:15:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $442.20 en 89 posiciones abiertas (disponible para nuevas apuestas: $137.60)
+**Capital comprometido ahora mismo:** $442.20 en 89 posiciones abiertas (disponible para nuevas apuestas: $137.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,12 +67,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 132 | 69 | 43 | -8.10 USD |
+| ferrariChampions2026 | 254 | 144 | 16 | -10.20 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ferrariChampions2026 | 253 | 144 | 17 | -15.49 USD |
+| HomeRunHazard | 132 | 70 | 44 | -13.22 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 228 | 100 | 2 | -39.89 USD |
@@ -80,14 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1522
-- **Aciertos:** 990 (65.0%)
+- **Apuestas resueltas:** 1524
+- **Aciertos:** 991 (65.0%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,601.62
+- **Total apostado (suma de stakes):** $7,611.62
 - **ROI sobre lo apostado:** -0.07%
-- **Comisiones pagadas (taker fee):** $137.27 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.73% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $137.52 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.74% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -95,7 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 741 | 50.2% | 50.2% | +0.0 pp |
+| 40-59% | 743 | 50.2% | 50.2% | +0.0 pp |
 | 60-79% | 464 | 71.6% | 67.6% | +3.9 pp |
 | 80-94% | 210 | 87.1% | 87.1% | +0.1 pp |
 | 95-99% (casi seguro) | 107 | 96.3% | 97.3% | -1.1 pp |
@@ -376,6 +376,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Heather Watson (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Martin Damm vs Abeda | Martin Damm (BUY) | 97% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Lin Zhu (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Victoria Jim | Francisca Jorge (BUY) | 99% | 5.00 | 4.7% | ⏳ pendiente | — |
@@ -404,5 +406,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ✅ ganada | +0.84 |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Ariana Arseneault vs Terez | Tereza Valentova (BUY) | 95% | 5.00 | 2.6% | ✅ ganada | +0.25 |
-| HomeRunHazard | US Open, Qualification ATP: Joel Schwaer | Joel Schwaerzler (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
