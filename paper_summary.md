@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:54:41 (hora de Perú)
+Actualizado: 2026-08-24 15:56:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $589.49
-**Retorno acumulado:** +17.90%
+**Bankroll actual:** $583.93
+**Retorno acumulado:** +16.79%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:54:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $437.20 en 88 posiciones abiertas (disponible para nuevas apuestas: $152.29)
+**Capital comprometido ahora mismo:** $417.20 en 84 posiciones abiertas (disponible para nuevas apuestas: $166.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 71 | 9 | 9 | +62.35 USD |
+| swisstony | 72 | 11 | 6 | +52.29 USD |
 | BOOMBOYS.Kiritych | 26 | 12 | 1 | +45.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 51 | 20 | 1 | +39.91 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -71,8 +71,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
+| ferrariChampions2026 | 253 | 143 | 18 | -10.35 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ferrariChampions2026 | 252 | 143 | 19 | -14.85 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 228 | 100 | 2 | -39.89 USD |
@@ -80,14 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1513
-- **Aciertos:** 984 (65.0%)
+- **Apuestas resueltas:** 1517
+- **Aciertos:** 986 (65.0%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,556.62
-- **ROI sobre lo apostado:** +0.06%
-- **Comisiones pagadas (taker fee):** $136.75 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,576.62
+- **ROI sobre lo apostado:** -0.02%
+- **Comisiones pagadas (taker fee):** $137.08 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.79% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -95,10 +95,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 738 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 463 | 71.7% | 67.6% | +4.1 pp |
+| 40-59% | 740 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 464 | 71.6% | 67.6% | +3.9 pp |
 | 80-94% | 208 | 87.0% | 87.0% | -0.0 pp |
-| 95-99% (casi seguro) | 104 | 96.2% | 97.3% | -1.2 pp |
+| 95-99% (casi seguro) | 105 | 96.2% | 97.3% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -379,7 +379,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Dalibor Svrc | Dalibor Svrcina (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Polina Kudermetova (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 79% | 5.00 | 2.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 79% | 5.00 | 2.6% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 56% | 5.00 | 11.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 66% | 5.00 | 47.5% | ⏳ pendiente | — |

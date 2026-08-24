@@ -1,5 +1,5 @@
 {
-  "bankroll": 589.4946858741414,
+  "bankroll": 583.9257096647838,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7975,6 +7975,26 @@
       "timestamp": 1787604694.904291,
       "bankroll": 589.49,
       "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Spencer Johnson vs Cristian Garin"
+    },
+    {
+      "timestamp": 1787604988.041646,
+      "bankroll": 584.35,
+      "event": "lost: swisstony \u2014 Will AS Roma win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787604995.0024507,
+      "bankroll": 588.85,
+      "event": "won: ferrariChampions2026 \u2014 AS Roma vs. ACF Fiorentina: O/U 2.5"
+    },
+    {
+      "timestamp": 1787605002.3558507,
+      "bankroll": 583.78,
+      "event": "lost: swisstony \u2014 AS Roma vs. ACF Fiorentina: O/U 3.5"
+    },
+    {
+      "timestamp": 1787605002.7045796,
+      "bankroll": 583.93,
+      "event": "won: swisstony \u2014 AS Roma vs. ACF Fiorentina: O/U 5.5"
     }
   ]
 }
