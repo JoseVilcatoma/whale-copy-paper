@@ -1,5 +1,5 @@
 {
-  "bankroll": 556.384263694875,
+  "bankroll": 546.202263694875,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6930,6 +6930,16 @@
       "timestamp": 1787542550.8994393,
       "bankroll": 556.38,
       "event": "won: swisstony \u2014 Club Nacional de Football vs. CA Progreso: Both Teams to Score"
+    },
+    {
+      "timestamp": 1787542868.3711765,
+      "bankroll": 551.27,
+      "event": "lost: RN1 \u2014 Seahawks vs. Titans"
+    },
+    {
+      "timestamp": 1787542868.8784902,
+      "bankroll": 546.2,
+      "event": "lost: Djdjdjekekek \u2014 Seahawks vs. Titans"
     }
   ]
 }

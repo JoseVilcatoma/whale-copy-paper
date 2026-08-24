@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 22:39:56 (hora de Perú)
+Actualizado: 2026-08-23 22:42:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $556.38
-**Retorno acumulado:** +11.28%
+**Bankroll actual:** $546.20
+**Retorno acumulado:** +9.24%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 22:39:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $396.38)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $396.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 2 | 1 | +5.07 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 3 | +3.88 USD |
-| Djdjdjekekek | 14 | 11 | 2 | +3.78 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -51,6 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
+| Djdjdjekekek | 14 | 12 | 1 | -1.29 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -65,19 +65,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 94 | 57 | 3 | -14.56 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 213 | 93 | 3 | -46.61 USD |
+| RN1 | 213 | 94 | 2 | -51.73 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1312
-- **Aciertos:** 843 (64.3%)
+- **Apuestas resueltas:** 1314
+- **Aciertos:** 843 (64.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,553.59
-- **ROI sobre lo apostado:** -0.35%
-- **Comisiones pagadas (taker fee):** $120.97 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.50% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,563.59
+- **ROI sobre lo apostado:** -0.50%
+- **Comisiones pagadas (taker fee):** $121.15 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,8 +85,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 670 | 49.9% | 50.2% | -0.4 pp |
-| 60-79% | 394 | 71.3% | 67.7% | +3.6 pp |
+| 40-59% | 671 | 49.8% | 50.2% | -0.4 pp |
+| 60-79% | 395 | 71.1% | 67.7% | +3.4 pp |
 | 80-94% | 165 | 89.7% | 87.2% | +2.5 pp |
 | 95-99% (casi seguro) | 83 | 96.4% | 97.5% | -1.1 pp |
 
