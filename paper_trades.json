@@ -36217,8 +36217,8 @@
     "title": "Roehampton 2: Oliver Bonding vs Millen Hurrion",
     "outcome": "Oliver Bonding",
     "side": "BUY",
-    "whale_usd": 727.471216,
-    "whale_pct": 0.704,
+    "whale_usd": 2583.970316,
+    "whale_pct": 2.502,
     "whale_value_at_open": 103267.6703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -36229,7 +36229,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787570415.7717755,
-    "fills": 1
+    "last_fill_at": 1787570545.3364816,
+    "fills": 2
   }
 ]

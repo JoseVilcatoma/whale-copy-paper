@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 06:20:19 (hora de Perú)
+Actualizado: 2026-08-24 06:22:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $551.44
@@ -327,7 +327,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Roehampton 2: Oliver Bonding vs Millen H | Oliver Bonding (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Oliver Bonding vs Millen H | Oliver Bonding (BUY) | 64% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Málaga CF vs. RC Deportivo A Coruña: O/U | Over (BUY) | 68% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Federico Iannaccone vs Oleksii | Oleksii Krutykh (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Vit Kopriva (BUY) | 42% | 5.00 | 2.5% | ⏳ pendiente | — |
