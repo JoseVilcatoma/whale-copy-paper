@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:35:39 (hora de Perú)
+Actualizado: 2026-08-23 19:37:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $559.83
-**Retorno acumulado:** +11.97%
+**Bankroll actual:** $562.11
+**Retorno acumulado:** +12.42%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:35:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $369.83)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $367.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 10 | 3 | +46.16 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
-| swisstony | 33 | 3 | 14 | +35.19 USD |
+| swisstony | 34 | 3 | 13 | +37.46 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
 | casualbet2020 | 14 | 6 | 2 | +19.37 USD |
@@ -65,18 +65,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 19 | 4 | -27.22 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 201 | 92 | 1 | -57.21 USD |
+| RN1 | 201 | 92 | 3 | -57.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1256
-- **Aciertos:** 801 (63.8%)
+- **Apuestas resueltas:** 1257
+- **Aciertos:** 802 (63.8%)
 - **Cuota promedio de entrada:** 62.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,273.59
-- **ROI sobre lo apostado:** -0.22%
-- **Comisiones pagadas (taker fee):** $117.21 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.65% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,278.59
+- **ROI sobre lo apostado:** -0.18%
+- **Comisiones pagadas (taker fee):** $117.29 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.69% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 655 | 50.4% | 50.3% | +0.1 pp |
-| 60-79% | 376 | 70.7% | 67.7% | +3.1 pp |
+| 60-79% | 377 | 70.8% | 67.7% | +3.2 pp |
 | 80-94% | 152 | 88.8% | 87.0% | +1.8 pp |
 | 95-99% (casi seguro) | 73 | 95.9% | 97.3% | -1.4 pp |
 
@@ -307,6 +307,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will O'Higgins FC win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Seahawks vs. Titans | Seahawks (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | kekasaur | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 50% | 5.00 | 11.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 42.5% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
@@ -315,7 +317,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 40.1% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
 | swisstony | Will Associação Chapecoense de Futebol v | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Winston-Salem Open: Pablo Carreno Busta  | Adolfo Vallejo (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Winston-Salem Open: Pablo Carreno Busta  | Adolfo Vallejo (BUY) | 68% | 5.00 | 0.4% | ✅ ganada | +2.27 |
 | swisstony | Monterrey Open, Qualification: Panna Udv | Darja Vidmanova (BUY) | 99% | 5.00 | 0.1% | ✅ ganada | +0.05 |
 | beachboy4 | Will Atlanta United FC win on 2026-08-23 | No (BUY) | 44% | 5.00 | 1588.8% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -335,5 +337,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will AS Roma win on 2026-08-24? | No (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | CSD Mixco vs. CD Guastatoya: O/U 3.5 | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Associação Chapecoense de Futebol w | No (BUY) | 48% | 5.00 | 4.2% | ⏳ pendiente | — |
-| casualbet2020 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 42% | 5.00 | 89.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | 💰 vendida anticipada | -0.19 |
