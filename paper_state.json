@@ -1,5 +1,5 @@
 {
-  "bankroll": 605.9146249129234,
+  "bankroll": 601.1869689989448,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7805,6 +7805,16 @@
       "timestamp": 1787599724.8985596,
       "bankroll": 605.91,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar"
+    },
+    {
+      "timestamp": 1787600030.8550744,
+      "bankroll": 600.83,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch"
+    },
+    {
+      "timestamp": 1787600035.516355,
+      "bankroll": 601.19,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Vilius Gaubas vs Kilian Feldbausch"
     }
   ]
 }
