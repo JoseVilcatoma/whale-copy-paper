@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:11:59 (hora de Perú)
+Actualizado: 2026-08-24 14:13:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $580.23
-**Retorno acumulado:** +16.05%
+**Bankroll actual:** $581.35
+**Retorno acumulado:** +16.27%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 14:11:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.23 en 117 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $580.23 en 117 posiciones abiertas (disponible para nuevas apuestas: $1.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,12 +61,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
+| HomeRunHazard | 120 | 64 | 34 | -4.09 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 119 | 64 | 34 | -5.22 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1461
-- **Aciertos:** 948 (64.9%)
+- **Apuestas resueltas:** 1462
+- **Aciertos:** 949 (64.9%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,298.59
-- **ROI sobre lo apostado:** -0.07%
-- **Comisiones pagadas (taker fee):** $132.55 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.75% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,303.59
+- **ROI sobre lo apostado:** -0.05%
+- **Comisiones pagadas (taker fee):** $132.60 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.76% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -96,7 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 721 | 50.2% | 50.2% | -0.0 pp |
 | 60-79% | 443 | 71.6% | 67.6% | +3.9 pp |
-| 80-94% | 198 | 87.4% | 87.1% | +0.3 pp |
+| 80-94% | 199 | 87.4% | 87.0% | +0.4 pp |
 | 95-99% (casi seguro) | 99 | 97.0% | 97.4% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -375,9 +375,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ⏳ pendiente | — |
 | swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
+| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | CA Osasuna vs. Levante UD: O/U 1.5 | Under (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -404,4 +405,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 4.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Los Angeles Sparks (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 99% | 5.00 | 30.5% | ✅ ganada | +0.05 |
-| HomeRunHazard | Kingston 2: Bruno Kuzuhara vs Thomas Fan | Thomas Fancutt (BUY) | 95% | 5.00 | 0.5% | ✅ ganada | +0.25 |

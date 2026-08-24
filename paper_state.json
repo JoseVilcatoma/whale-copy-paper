@@ -1,5 +1,5 @@
 {
-  "bankroll": 580.2278981979299,
+  "bankroll": 581.3537377041027,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7715,6 +7715,11 @@
       "timestamp": 1787597896.2671697,
       "bankroll": 580.23,
       "event": "won: HomeRunHazard \u2014 Hontama vs. Gjorcheska: Match O/U 23.5"
+    },
+    {
+      "timestamp": 1787598788.7489886,
+      "bankroll": 581.35,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Linda Klimovicova vs Lisa Pigato"
     }
   ]
 }
