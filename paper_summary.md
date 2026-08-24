@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 05:07:38 (hora de Perú)
+Actualizado: 2026-08-24 05:10:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.92
@@ -327,7 +327,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Matthew William Donald (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fulham FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
