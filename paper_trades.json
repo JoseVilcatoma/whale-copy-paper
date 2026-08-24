@@ -34534,8 +34534,8 @@
     "title": "Pumas de la UNAM vs. Club Necaxa: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 605.26,
-    "whale_pct": 0.255,
+    "whale_usd": 1480.51,
+    "whale_pct": 0.624,
     "whale_value_at_open": 237404.453,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -34546,8 +34546,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787536724.4871497,
-    "fills": 1
+    "last_fill_at": 1787538220.3921702,
+    "fills": 2
   },
   {
     "timestamp": 1787536996,
@@ -34585,8 +34585,8 @@
     "title": "Will Pumas de la UNAM win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 608.7373,
-    "whale_pct": 0.275,
+    "whale_usd": 1223.6100999999999,
+    "whale_pct": 0.554,
     "whale_value_at_open": 220969.8422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -34600,8 +34600,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787537137.0280023,
-    "fills": 1
+    "last_fill_at": 1787538251.8308651,
+    "fills": 2
   },
   {
     "timestamp": 1787537169,
