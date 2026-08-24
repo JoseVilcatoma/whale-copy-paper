@@ -39541,8 +39541,8 @@
     "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
     "outcome": "Rebeka Masarova",
     "side": "BUY",
-    "whale_usd": 3390.880173,
-    "whale_pct": 1.383,
+    "whale_usd": 4395.8801730000005,
+    "whale_pct": 1.793,
     "whale_value_at_open": 245164.5749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -39556,8 +39556,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591986.5664387,
-    "fills": 4
+    "last_fill_at": 1787592205.3774052,
+    "fills": 5
   },
   {
     "timestamp": 1787591108,
@@ -39568,8 +39568,8 @@
     "title": "US Open, Qualification WTA: Mai Hontama vs Lina Gjorcheska",
     "outcome": "Mai Hontama",
     "side": "BUY",
-    "whale_usd": 1877.004,
-    "whale_pct": 0.882,
+    "whale_usd": 2663.844,
+    "whale_pct": 1.252,
     "whale_value_at_open": 212745.113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -39580,8 +39580,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591109.3858268,
-    "fills": 1
+    "last_fill_at": 1787592206.3606312,
+    "fills": 2
   },
   {
     "timestamp": 1787591193,
@@ -39616,8 +39616,8 @@
     "title": "Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar",
     "outcome": "Mario Gonzalez Fernandez",
     "side": "BUY",
-    "whale_usd": 533.9219999999999,
-    "whale_pct": 0.264,
+    "whale_usd": 1222.7219999999998,
+    "whale_pct": 0.606,
     "whale_value_at_open": 201910.1089,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -39630,8 +39630,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591360.9163373,
-    "fills": 1
+    "last_fill_at": 1787592194.8651974,
+    "fills": 2
   },
   {
     "timestamp": 1787591448,
