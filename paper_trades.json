@@ -37785,8 +37785,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 1905.3,
-    "whale_pct": 1.579,
+    "whale_usd": 5390.322,
+    "whale_pct": 4.468,
     "whale_value_at_open": 120650.8393,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -37800,8 +37800,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787583970.544253,
-    "fills": 1
+    "last_fill_at": 1787584369.7157605,
+    "fills": 3
   },
   {
     "timestamp": 1787584061,
@@ -37876,5 +37876,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787584132.6620665,
     "fills": 4
+  },
+  {
+    "timestamp": 1787584414,
+    "timestamp_added": 1787584414.6860323,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-day-pareja-2026-08-24",
+    "title": "US Open, Qualification WTA: Kayla Day vs Julieta Pareja",
+    "outcome": "Julieta Pareja",
+    "side": "BUY",
+    "whale_usd": 1990.8152,
+    "whale_pct": 2.022,
+    "whale_value_at_open": 98442.3119,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787584414.6860452,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787584414,
+    "timestamp_added": 1787584415.5114205,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-day-pareja-2026-08-24",
+    "title": "US Open, Qualification WTA: Kayla Day vs Julieta Pareja",
+    "outcome": "Julieta Pareja",
+    "side": "BUY",
+    "whale_usd": 1072.2624,
+    "whale_pct": 0.831,
+    "whale_value_at_open": 129013.5535,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787584415.5114338,
+    "fills": 1
   }
 ]

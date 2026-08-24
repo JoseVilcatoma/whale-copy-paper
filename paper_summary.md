@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:12:09 (hora de Perú)
+Actualizado: 2026-08-24 10:14:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:12:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $235.45)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $225.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 3 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 221 | 120 | 19 | +21.62 USD |
+| ferrariChampions2026 | 221 | 120 | 20 | +21.62 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -73,7 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 30 | 22 | 3 | -52.94 USD |
-| RN1 | 221 | 97 | 10 | -53.85 USD |
+| RN1 | 221 | 97 | 11 | -53.85 USD |
 
 ## Análisis general
 
@@ -338,15 +338,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-brancac-wild-2026-08-24 | , RN1 |
 | atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | RN1, ferrariChampions2026 |
+| wta-day-pareja-2026-08-24 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open, Qualification WTA: Kayla Day vs | Julieta Pareja (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Kayla Day vs | Julieta Pareja (BUY) | 45% | 5.00 | 2.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 46% | 5.00 | 11.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Elena Pridan | Elena Pridankina (BUY) | 51% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Rebecca Sram | Rebecca Sramkova (BUY) | 74% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Fnatic (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Fnatic (BUY) | 59% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Johannus Monday vs Iliyan  | Johannus Monday (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -371,5 +374,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Federico Agu | Federico Agustin Gomez (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Pablo Aunion vs Noah | Pablo Aunion (BUY) | 87% | 5.00 | 0.4% | ✅ ganada | +0.71 |
-| RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 90% | 5.00 | 3.8% | ✅ ganada | +0.53 |
-| HomeRunHazard | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 65% | 5.00 | 2.7% | ✅ ganada | +2.61 |
