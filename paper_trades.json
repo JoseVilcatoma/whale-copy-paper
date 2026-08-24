@@ -34256,5 +34256,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787533973.8681881,
     "fills": 1
+  },
+  {
+    "timestamp": 1787534405,
+    "timestamp_added": 1787534406.1973178,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-joint-putints-2026-08-23",
+    "title": "Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva",
+    "outcome": "Yulia Putintseva",
+    "side": "BUY",
+    "whale_usd": 709.08,
+    "whale_pct": 0.224,
+    "whale_value_at_open": 316521.5923,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787534406.1973286,
+    "fills": 1
   }
 ]
