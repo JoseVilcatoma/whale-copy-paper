@@ -1,5 +1,5 @@
 {
-  "bankroll": 561.2823743885417,
+  "bankroll": 558.6943500837061,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7330,6 +7330,31 @@
       "timestamp": 1787587898.5811,
       "bankroll": 561.28,
       "event": "won: ferrariChampions2026 \u2014 Set 1 Winner: Sramkova vs Ibragimova"
+    },
+    {
+      "timestamp": 1787588197.326889,
+      "bankroll": 564.13,
+      "event": "won: RN1 \u2014 Augsburg: Calvin Hemery vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787588197.4270272,
+      "bankroll": 568.44,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Calvin Hemery vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787588197.5271642,
+      "bankroll": 563.33,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Calvin Hemery vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787588197.8276026,
+      "bankroll": 558.22,
+      "event": "lost: RN1 \u2014 Augsburg: Calvin Hemery vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787588198.3373692,
+      "bankroll": 558.69,
+      "event": "won:  \u2014 Augsburg: Calvin Hemery vs Hynek Barton"
     }
   ]
 }

@@ -36339,8 +36339,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 30342.0825,
-    "whale_pct": 18.953,
+    "whale_usd": 41350.6557,
+    "whale_pct": 25.83,
     "whale_value_at_open": 160087.6734,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -36351,8 +36351,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587690.0655417,
-    "fills": 2
+    "last_fill_at": 1787588187.7234015,
+    "fills": 3
   },
   {
     "timestamp": 1787571896,
@@ -37462,8 +37462,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -37510,8 +37510,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [
       "RN1"
     ],
@@ -37536,8 +37536,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "RN1"
     ],
@@ -37615,8 +37615,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -37741,8 +37741,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -38332,8 +38332,8 @@
     "title": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena",
     "outcome": "Jacob Fearnley",
     "side": "BUY",
-    "whale_usd": 4453.5212,
-    "whale_pct": 5.473,
+    "whale_usd": 5975.2682,
+    "whale_pct": 7.344,
     "whale_value_at_open": 81366.3086,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -38346,8 +38346,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587004.6992426,
-    "fills": 2
+    "last_fill_at": 1787588212.5873272,
+    "fills": 3
   },
   {
     "timestamp": 1787585616,
@@ -38358,8 +38358,8 @@
     "title": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 2959.806,
-    "whale_pct": 29.263,
+    "whale_usd": 43459.806000000004,
+    "whale_pct": 429.672,
     "whale_value_at_open": 10114.6487,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -38372,8 +38372,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588095.1933243,
-    "fills": 2
+    "last_fill_at": 1787588199.788013,
+    "fills": 7
   },
   {
     "timestamp": 1787585642,
@@ -38909,8 +38909,8 @@
     "title": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 10653.26325,
-    "whale_pct": 3.255,
+    "whale_usd": 111192.28365,
+    "whale_pct": 33.97,
     "whale_value_at_open": 327325.9047,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -38924,8 +38924,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588095.3514214,
-    "fills": 6
+    "last_fill_at": 1787588199.784863,
+    "fills": 22
   },
   {
     "timestamp": 1787587409,
@@ -39097,6 +39097,60 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787588112.5169625,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787588138,
+    "timestamp_added": 1787588138.352119,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-masarov-shymano-2026-08-24",
+    "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
+    "outcome": "Iryna Shymanovich",
+    "side": "BUY",
+    "whale_usd": 4850.9613,
+    "whale_pct": 3.044,
+    "whale_value_at_open": 159348.0458,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787588151.4036126,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787588198,
+    "timestamp_added": 1787588199.192579,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-navi-fnc-2026-08-24-game2",
+    "title": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "whale_usd": 4399.9945,
+    "whale_pct": 92.27,
+    "whale_value_at_open": 4768.6107,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "SPCEXBUYER",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787588199.1925893,
     "fills": 1
   }
 ]
