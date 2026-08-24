@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 02:11:44 (hora de Perú)
+Actualizado: 2026-08-24 02:13:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $549.73
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 02:11:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $449.73)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $444.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 97 | 58 | 3 | -12.83 USD |
+| HomeRunHazard | 97 | 58 | 4 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 216 | 94 | 1 | -47.48 USD |
@@ -324,6 +324,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 69% | 5.00 | 2.8% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 64% | 5.00 | 8.6% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 94% | 5.00 | 23.5% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 70% | 5.00 | 21.0% | ⏳ pendiente | — |
@@ -353,4 +354,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 56% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 50.7% | ❌ perdida | -5.09 |
 | swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 2.0% | ❌ perdida | -5.06 |
-| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 13.1% | ✅ ganada | +2.72 |
