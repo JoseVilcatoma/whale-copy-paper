@@ -36176,8 +36176,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -36435,8 +36435,8 @@
     "title": "Augsburg: Andrej Nedic vs Juan Estevez",
     "outcome": "Andrej Nedic",
     "side": "BUY",
-    "whale_usd": 4743.483088,
-    "whale_pct": 5.932,
+    "whale_usd": 9725.867703,
+    "whale_pct": 12.163,
     "whale_value_at_open": 79960.1622,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -36449,8 +36449,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787574708.1469007,
-    "fills": 2
+    "last_fill_at": 1787574836.497291,
+    "fills": 3
   },
   {
     "timestamp": 1787573249,
@@ -36673,6 +36673,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787574313.127669,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787574813,
+    "timestamp_added": 1787574814.701907,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-topo-damas-2026-08-24",
+    "title": "Augsburg: Marko Topo vs Miguel Damas",
+    "outcome": "Miguel Damas",
+    "side": "BUY",
+    "whale_usd": 552.1114,
+    "whale_pct": 0.685,
+    "whale_value_at_open": 80572.2771,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787574814.7019203,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 556.858514645708,
+  "bankroll": 558.8277681668349,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7170,6 +7170,11 @@
       "timestamp": 1787572915.8595326,
       "bankroll": 556.86,
       "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Oliver Bonding vs Millen Hurrion"
+    },
+    {
+      "timestamp": 1787574793.466814,
+      "bankroll": 558.83,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Federico Iannaccone vs Oleksii Krutykh"
     }
   ]
 }
