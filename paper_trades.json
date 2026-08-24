@@ -38110,8 +38110,8 @@
     "title": "Augsburg: Mili Poljicak vs Max Schoenhaus",
     "outcome": "Max Schoenhaus",
     "side": "BUY",
-    "whale_usd": 3041.6595,
-    "whale_pct": 2.48,
+    "whale_usd": 4624.414966,
+    "whale_pct": 3.77,
     "whale_value_at_open": 122668.0106,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -38122,8 +38122,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787585069.825816,
-    "fills": 1
+    "last_fill_at": 1787589578.222712,
+    "fills": 2
   },
   {
     "timestamp": 1787585140,
@@ -38736,8 +38736,8 @@
     "title": "CA Osasuna vs. Levante UD: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1317.9899990000001,
-    "whale_pct": 0.76,
+    "whale_usd": 8383.569996999999,
+    "whale_pct": 4.834,
     "whale_value_at_open": 173445.1806,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -38748,8 +38748,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586493.541687,
-    "fills": 1
+    "last_fill_at": 1787589580.5032914,
+    "fills": 2
   },
   {
     "timestamp": 1787586506,
@@ -39329,6 +39329,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787589393.019733,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787589494,
+    "timestamp_added": 1787589496.2524765,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-masarov-shymano-2026-08-24",
+    "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
+    "outcome": "Rebeka Masarova",
+    "side": "BUY",
+    "whale_usd": 1020.4935,
+    "whale_pct": 6.152,
+    "whale_value_at_open": 16588.1936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787589496.252486,
     "fills": 1
   }
 ]
