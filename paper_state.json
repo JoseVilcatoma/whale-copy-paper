@@ -1,5 +1,5 @@
 {
-  "bankroll": 570.299996963362,
+  "bankroll": 605.9146249129234,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7740,6 +7740,71 @@
       "timestamp": 1787599104.7461412,
       "bankroll": 570.3,
       "event": "lost: ferrariChampions2026 \u2014 Philadelphia: Lois Boisson vs Capucine Jauffret"
+    },
+    {
+      "timestamp": 1787599713.8440197,
+      "bankroll": 576.52,
+      "event": "won: SPCEXBUYER \u2014 LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1787599714.9803486,
+      "bankroll": 582.26,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787599715.327557,
+      "bankroll": 587.99,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787599715.427767,
+      "bankroll": 593.97,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1787599719.4094172,
+      "bankroll": 588.86,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1787599719.509608,
+      "bankroll": 594.6,
+      "event": "won: SPCEXBUYER \u2014 LoL: Natus Vincere vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787599721.202468,
+      "bankroll": 596.98,
+      "event": "won: DoNotTailMe \u2014 LoL: Natus Vincere vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787599721.302677,
+      "bankroll": 597.63,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Natus Vincere vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787599722.1723998,
+      "bankroll": 600.01,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1787599722.2725677,
+      "bankroll": 606.23,
+      "event": "won: SPCEXBUYER \u2014 LoL: Natus Vincere vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787599723.3995285,
+      "bankroll": 601.12,
+      "event": "lost: DoNotTailMe \u2014 LoL: Natus Vincere vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787599724.7983966,
+      "bankroll": 603.85,
+      "event": "won: ferrariChampions2026 \u2014 Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar"
+    },
+    {
+      "timestamp": 1787599724.8985596,
+      "bankroll": 605.91,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar"
     }
   ]
 }

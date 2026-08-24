@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:28:01 (hora de Perú)
+Actualizado: 2026-08-24 14:30:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $570.30
-**Retorno acumulado:** +14.06%
+**Bankroll actual:** $605.91
+**Retorno acumulado:** +21.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 14:28:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $570.23 en 115 posiciones abiertas (disponible para nuevas apuestas: $0.07)
+**Capital comprometido ahora mismo:** $505.23 en 102 posiciones abiertas (disponible para nuevas apuestas: $100.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,21 +22,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 67 | 9 | 13 | +61.29 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 20 | 2 | +39.26 USD |
+| BOOMBOYS.Kiritych | 26 | 12 | 1 | +45.90 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 51 | 20 | 1 | +39.91 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| TAIWANNUMBERONE | 5 | 0 | 1 | +23.92 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
-| ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
+| ChonkyChocolateCake | 30 | 18 | 1 | +13.64 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 5 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | Djdjdjekekek | 17 | 12 | 0 | +8.06 USD |
-| ferrariChampions2026 | 241 | 134 | 39 | +7.61 USD |
+| ferrariChampions2026 | 243 | 135 | 36 | +7.61 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
-| TAIWANNUMBERONE | 2 | 0 | 4 | +6.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 121 | 66 | 31 | -10.00 USD |
+| HomeRunHazard | 122 | 66 | 30 | -7.93 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1466
-- **Aciertos:** 950 (64.8%)
+- **Apuestas resueltas:** 1479
+- **Aciertos:** 961 (65.0%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,323.59
-- **ROI sobre lo apostado:** -0.20%
-- **Comisiones pagadas (taker fee):** $132.91 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,388.59
+- **ROI sobre lo apostado:** +0.28%
+- **Comisiones pagadas (taker fee):** $134.30 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +2.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,9 +94,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 723 | 50.2% | 50.2% | -0.0 pp |
-| 60-79% | 443 | 71.6% | 67.6% | +3.9 pp |
-| 80-94% | 200 | 87.0% | 87.0% | -0.0 pp |
+| 40-59% | 731 | 50.5% | 50.2% | +0.3 pp |
+| 60-79% | 447 | 71.8% | 67.6% | +4.2 pp |
+| 80-94% | 201 | 87.1% | 87.0% | +0.0 pp |
 | 95-99% (casi seguro) | 100 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
