@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:37:33 (hora de Perú)
+Actualizado: 2026-08-24 10:39:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $561.30
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:37:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $131.30)
+**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $121.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 3 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 222 | 120 | 28 | +22.27 USD |
+| ferrariChampions2026 | 222 | 120 | 29 | +22.27 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 100 | 59 | 22 | -11.05 USD |
+| HomeRunHazard | 100 | 59 | 23 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 30 | 22 | 3 | -52.94 USD |
@@ -349,6 +349,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Diego Dedura | Diego Dedura-Palomero (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Lui Maxted vs Anton Shepp | Lui Maxted (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Sramkova vs Ibragimova | Ibragimova (BUY) | 90% | 5.00 | 8.7% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 62% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -357,7 +359,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 98% | 5.00 | 8.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Jacob Fearnl | Jacob Fearnley (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Athletics: O/U 10.5 | Over (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Rebecca Marino (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Rebecca Marino (BUY) | 76% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Mili Poljicak vs Max Schoenhau | Mili Poljicak (BUY) | 41% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Over (BUY) | 54% | 5.00 | 4.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: KRÜ Blaze vs Looking For Labur | KRÜ Blaze (BUY) | 72% | 5.00 | 10.2% | ⏳ pendiente | — |
@@ -377,5 +379,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Rebecca Sram | Rebecca Sramkova (BUY) | 74% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Fnatic (BUY) | 59% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Johannus Monday vs Iliyan  | Johannus Monday (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
-|  | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
