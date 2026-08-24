@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 23:26:16 (hora de Perú)
+Actualizado: 2026-08-23 23:28:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.93
@@ -326,7 +326,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 86% | 5.00 | 138919.2% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 84% | 5.00 | 8.1% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 84% | 5.00 | 19.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 60% | 5.00 | 32.8% | ✅ ganada | +3.23 |
 | Djdjdjekekek | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 46% | 5.00 | 293.6% | 💰 vendida anticipada | +5.73 |
 | swisstony | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 56% | 5.00 | 0.7% | ❌ perdida | -5.11 |
