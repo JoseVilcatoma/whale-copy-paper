@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 06:26:37 (hora de Perú)
+Actualizado: 2026-08-24 06:28:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $551.44
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 06:26:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $391.44)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $386.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,6 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
 | johnbaster | 0 | 0 | 1 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -327,6 +328,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 53% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Oliver Bonding vs Millen H | Oliver Bonding (BUY) | 64% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Málaga CF vs. RC Deportivo A Coruña: O/U | Over (BUY) | 68% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Federico Iannaccone vs Oleksii | Oleksii Krutykh (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -356,4 +358,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | hi774c | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 28.9% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 26.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 13.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will CA Osasuna win on 2026-08-24? | Yes (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |

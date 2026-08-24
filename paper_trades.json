@@ -36231,5 +36231,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787570545.3364816,
     "fills": 2
+  },
+  {
+    "timestamp": 1787570821,
+    "timestamp_added": 1787570821.5003502,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-foxy-hle-2026-08-24-game3",
+    "title": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 3 Winner",
+    "outcome": "BNK FearX Youth",
+    "side": "BUY",
+    "whale_usd": 2633.336733,
+    "whale_pct": 3.944,
+    "whale_value_at_open": 66771.4362,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787570824.5227134,
+    "fills": 2
   }
 ]
