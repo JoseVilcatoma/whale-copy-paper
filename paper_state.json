@@ -1,5 +1,5 @@
 {
-  "bankroll": 600.1868701582583,
+  "bankroll": 601.0690359895032,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7880,6 +7880,26 @@
       "timestamp": 1787601580.1250057,
       "bankroll": 600.19,
       "event": "won: swisstony \u2014 Will 1. FC K\u00f6ln win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787601889.5835683,
+      "bankroll": 600.44,
+      "event": "won: ferrariChampions2026 \u2014 Will FC W\u00fcrzburger Kickers win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787601895.1252303,
+      "bankroll": 595.5,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Marco Cecchinato vs Liam Broady"
+    },
+    {
+      "timestamp": 1787601895.22546,
+      "bankroll": 598.22,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Marco Cecchinato vs Liam Broady"
+    },
+    {
+      "timestamp": 1787601895.3256426,
+      "bankroll": 601.07,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Marco Cecchinato vs Liam Broady"
     }
   ]
 }

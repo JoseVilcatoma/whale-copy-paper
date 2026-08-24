@@ -39071,8 +39071,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -40746,8 +40746,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.125,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -4.93,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -40770,8 +40770,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -40796,8 +40796,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -41401,8 +41401,8 @@
     "title": "US Open, Qualification ATP: Remy Bertola vs Alejandro Moro Canas",
     "outcome": "Remy Bertola",
     "side": "BUY",
-    "whale_usd": 2853.9965,
-    "whale_pct": 1.158,
+    "whale_usd": 3433.652214,
+    "whale_pct": 1.394,
     "whale_value_at_open": 246384.3653,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -41413,8 +41413,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787600825.9310179,
-    "fills": 1
+    "last_fill_at": 1787601814.0858293,
+    "fills": 2
   },
   {
     "timestamp": 1787601353,
