@@ -1,5 +1,5 @@
 {
-  "bankroll": 590.4323819008747,
+  "bankroll": 586.5346194177438,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8185,6 +8185,26 @@
       "timestamp": 1787610096.867465,
       "bankroll": 590.43,
       "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt"
+    },
+    {
+      "timestamp": 1787610412.25069,
+      "bankroll": 585.35,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova"
+    },
+    {
+      "timestamp": 1787610413.352264,
+      "bankroll": 587.96,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Polina Kudermetova vs Linda Fruhvirtova"
+    },
+    {
+      "timestamp": 1787610414.0886288,
+      "bankroll": 582.87,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Angela Fita Boluda vs Lin Zhu"
+    },
+    {
+      "timestamp": 1787610414.8080735,
+      "bankroll": 586.53,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Angela Fita Boluda vs Lin Zhu"
     }
   ]
 }

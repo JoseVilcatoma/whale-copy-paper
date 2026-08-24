@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:24:48 (hora de Perú)
+Actualizado: 2026-08-24 17:27:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $590.43
-**Retorno acumulado:** +18.09%
+**Bankroll actual:** $586.53
+**Retorno acumulado:** +17.31%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:24:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $195.43)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $211.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,7 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 142 | 73 | 48 | -11.31 USD |
+| HomeRunHazard | 144 | 75 | 44 | -15.20 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 229 | 101 | 3 | -41.80 USD |
@@ -81,14 +81,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1555
-- **Aciertos:** 1014 (65.2%)
+- **Apuestas resueltas:** 1559
+- **Aciertos:** 1016 (65.2%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,763.82
-- **ROI sobre lo apostado:** +0.07%
-- **Comisiones pagadas (taker fee):** $139.91 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,783.82
+- **ROI sobre lo apostado:** +0.02%
+- **Comisiones pagadas (taker fee):** $140.27 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -96,8 +96,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 751 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 477 | 71.9% | 67.6% | +4.3 pp |
+| 40-59% | 752 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 480 | 71.7% | 67.6% | +4.1 pp |
 | 80-94% | 217 | 86.6% | 87.1% | -0.4 pp |
 | 95-99% (casi seguro) | 110 | 96.4% | 97.4% | -1.0 pp |
 
@@ -392,21 +392,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Ugo Blanchet (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Otto Virtanen (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Mees Rottgering (BUY) | 75% | 5.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Carson Brans | Carson Branstine (BUY) | 89% | 5.00 | 2.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Carson Brans | Carson Branstine (BUY) | 89% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Pol Martin T | Tom Gentzsch (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Savannah Bro | Tyra Caterina Grant (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 3.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Angela Fita Boluda (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Angela Fita Boluda (BUY) | 57% | 5.00 | 0.8% | ✅ ganada | +3.66 |
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 43% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Luis Guto Miguel vs Tyler Zi | Luis Guto Miguel (BUY) | 94% | 5.00 | 0.3% | ✅ ganada | +0.30 |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Heather Watson (BUY) | 43% | 5.00 | 0.7% | ✅ ganada | +6.48 |
 | HomeRunHazard | Winston-Salem Open: Martin Damm vs Abeda | Martin Damm (BUY) | 97% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Lin Zhu (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Lin Zhu (BUY) | 66% | 5.00 | 1.0% | ❌ perdida | -5.08 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Victoria Jim | Francisca Jorge (BUY) | 99% | 5.00 | 4.7% | ✅ ganada | +0.05 |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 58% | 5.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Linda Fruhvirtova (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Linda Fruhvirtova (BUY) | 65% | 5.00 | 1.0% | ✅ ganada | +2.61 |
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Lizette Cabrera (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Jan Choinski (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
