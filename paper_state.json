@@ -1,5 +1,5 @@
 {
-  "bankroll": 580.9177119880046,
+  "bankroll": 576.9945648645966,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7685,6 +7685,31 @@
       "timestamp": 1787597583.7820187,
       "bankroll": 580.92,
       "event": "won: swisstony \u2014 Spread: SS Lazio (-1.5)"
+    },
+    {
+      "timestamp": 1787597630.9318633,
+      "bankroll": 575.88,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon"
+    },
+    {
+      "timestamp": 1787597632.4098399,
+      "bankroll": 581.61,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon"
+    },
+    {
+      "timestamp": 1787597633.6120348,
+      "bankroll": 576.53,
+      "event": "lost: swisstony \u2014 US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon"
+    },
+    {
+      "timestamp": 1787597635.1265213,
+      "bankroll": 576.58,
+      "event": "won: OOOwhyOOO \u2014 US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon"
+    },
+    {
+      "timestamp": 1787597693.9613135,
+      "bankroll": 576.99,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Mai Hontama vs Lina Gjorcheska"
     }
   ]
 }
