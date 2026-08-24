@@ -1,5 +1,5 @@
 {
-  "bankroll": 590.5652545331952,
+  "bankroll": 592.4195176910899,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7545,6 +7545,21 @@
       "timestamp": 1787594132.8552177,
       "bankroll": 590.57,
       "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: FNC (-1.5) vs Natus Vincere (+1.5)"
+    },
+    {
+      "timestamp": 1787594454.3406818,
+      "bankroll": 585.52,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Mark Lajal vs Jordan Lee"
+    },
+    {
+      "timestamp": 1787594456.2927158,
+      "bankroll": 589.19,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Mark Lajal vs Jordan Lee"
+    },
+    {
+      "timestamp": 1787594456.392903,
+      "bankroll": 592.42,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Mark Lajal vs Jordan Lee"
     }
   ]
 }

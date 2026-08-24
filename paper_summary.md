@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:58:57 (hora de Perú)
+Actualizado: 2026-08-24 13:01:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $590.57
-**Retorno acumulado:** +18.11%
+**Bankroll actual:** $592.42
+**Retorno acumulado:** +18.48%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:58:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $587.20 en 118 posiciones abiertas (disponible para nuevas apuestas: $3.37)
+**Capital comprometido ahora mismo:** $572.20 en 115 posiciones abiertas (disponible para nuevas apuestas: $20.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,8 +25,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 49 | 20 | 2 | +39.12 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
-| ferrariChampions2026 | 235 | 126 | 40 | +27.70 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| ferrariChampions2026 | 236 | 127 | 38 | +26.32 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -58,10 +58,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
+| HomeRunHazard | 112 | 61 | 32 | -1.33 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
-| HomeRunHazard | 111 | 61 | 33 | -4.56 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1429
-- **Aciertos:** 927 (64.9%)
+- **Apuestas resueltas:** 1432
+- **Aciertos:** 929 (64.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,138.59
-- **ROI sobre lo apostado:** +0.08%
-- **Comisiones pagadas (taker fee):** $130.23 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.90% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,153.59
+- **ROI sobre lo apostado:** +0.10%
+- **Comisiones pagadas (taker fee):** $130.48 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.93% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,9 +94,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 713 | 50.1% | 50.2% | -0.1 pp |
-| 60-79% | 431 | 71.9% | 67.7% | +4.2 pp |
-| 80-94% | 191 | 88.5% | 87.1% | +1.4 pp |
+| 40-59% | 714 | 50.1% | 50.2% | -0.1 pp |
+| 60-79% | 432 | 72.0% | 67.7% | +4.3 pp |
+| 80-94% | 192 | 88.0% | 87.1% | +0.9 pp |
 | 95-99% (casi seguro) | 94 | 96.8% | 97.4% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -394,7 +394,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Linda Klimov | Linda Klimovicova (BUY) | 81% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Johnson vs Garin | Johnson (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 74% | 5.00 | 14.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 59% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Elina Avanesyan (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 72% | 5.00 | 7.8% | 💰 vendida anticipada | +1.80 |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 65% | 5.00 | 2.5% | ⏳ pendiente | — |
