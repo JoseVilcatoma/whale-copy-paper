@@ -41159,8 +41159,8 @@
     "title": "Will Levante UD win on 2026-08-24?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1900.8,
-    "whale_pct": 0.295,
+    "whale_usd": 3559.869999,
+    "whale_pct": 0.552,
     "whale_value_at_open": 644485.4234,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -41171,8 +41171,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787598562.7887747,
-    "fills": 1
+    "last_fill_at": 1787598599.4733565,
+    "fills": 2
   },
   {
     "timestamp": 1787598563,
@@ -41196,6 +41196,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787598563.7857976,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787598620,
+    "timestamp_added": 1787598620.9988618,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-ouden-olivier-2026-08-24",
+    "title": "US Open, Qualification ATP: Guy Den Ouden vs Genaro Alberto Olivieri",
+    "outcome": "Genaro Alberto Olivieri",
+    "side": "BUY",
+    "whale_usd": 2155.5009,
+    "whale_pct": 0.993,
+    "whale_value_at_open": 216992.2402,
+    "paper_stake_usd": 3.22,
+    "odds_at_bet": 64,
+    "fee_usd": 0.058,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787598620.9988723,
     "fills": 1
   }
 ]
