@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 23:08:43 (hora de Perú)
+Actualizado: 2026-08-23 23:10:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.93
@@ -319,7 +319,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 87% | 5.00 | 1.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 87% | 5.00 | 17.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 82% | 5.00 | 2.7% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |

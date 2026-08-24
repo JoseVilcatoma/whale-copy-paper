@@ -35305,8 +35305,8 @@
     "title": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova",
     "outcome": "Nikola Bartunkova",
     "side": "BUY",
-    "whale_usd": 850.0,
-    "whale_pct": 1.71,
+    "whale_usd": 8593.904154999998,
+    "whale_pct": 17.288,
     "whale_value_at_open": 49709.4679,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -35322,7 +35322,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787544204.9331872,
-    "fills": 1
+    "last_fill_at": 1787544604.0646336,
+    "fills": 3
   }
 ]
