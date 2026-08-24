@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:09:09 (hora de Perú)
+Actualizado: 2026-08-24 15:11:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $601.07
-**Retorno acumulado:** +20.21%
+**Bankroll actual:** $601.27
+**Retorno acumulado:** +20.25%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:09:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $465.42 en 94 posiciones abiertas (disponible para nuevas apuestas: $135.65)
+**Capital comprometido ahora mismo:** $465.42 en 94 posiciones abiertas (disponible para nuevas apuestas: $135.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 70 | 9 | 10 | +62.15 USD |
+| swisstony | 71 | 9 | 9 | +62.35 USD |
 | BOOMBOYS.Kiritych | 26 | 12 | 1 | +45.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 51 | 20 | 1 | +39.91 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 124 | 67 | 36 | -7.75 USD |
+| HomeRunHazard | 124 | 67 | 37 | -7.75 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -80,13 +80,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1498
-- **Aciertos:** 974 (65.0%)
+- **Apuestas resueltas:** 1499
+- **Aciertos:** 975 (65.0%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,483.40
+- **Total apostado (suma de stakes):** $7,488.40
 - **ROI sobre lo apostado:** +0.21%
-- **Comisiones pagadas (taker fee):** $135.87 (1.82% del capital apostado)
+- **Comisiones pagadas (taker fee):** $135.88 (1.81% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +2.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 738 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 454 | 72.0% | 67.6% | +4.4 pp |
 | 80-94% | 204 | 87.3% | 87.1% | +0.1 pp |
-| 95-99% (casi seguro) | 102 | 96.1% | 97.4% | -1.3 pp |
+| 95-99% (casi seguro) | 103 | 96.1% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -376,6 +376,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Ushiras vs Arashi GC (BO3) - V | Ushiras (BUY) | 41% | 5.00 | 53.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -393,7 +394,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ⏳ pendiente | — |
 | swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
-| swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
 | swisstony | CA Osasuna vs. Levante UD: O/U 1.5 | Under (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
@@ -405,4 +406,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | CA Osasuna vs. Levante UD: O/U 0.5 | Over (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 6.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 80% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 93% | 5.00 | 0.7% | ✅ ganada | +0.36 |

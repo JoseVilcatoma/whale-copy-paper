@@ -1,5 +1,5 @@
 {
-  "bankroll": 601.0690359895032,
+  "bankroll": 601.2673693228365,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7900,6 +7900,11 @@
       "timestamp": 1787601895.3256426,
       "bankroll": 601.07,
       "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Marco Cecchinato vs Liam Broady"
+    },
+    {
+      "timestamp": 1787602206.2803354,
+      "bankroll": 601.27,
+      "event": "won: swisstony \u2014 US Open, Qualification WTA: Polina Iatcenko vs Julie Struplova"
     }
   ]
 }
