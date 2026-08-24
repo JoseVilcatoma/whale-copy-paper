@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:00:34 (hora de Perú)
+Actualizado: 2026-08-23 19:02:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $569.86
-**Retorno acumulado:** +13.97%
+**Bankroll actual:** $565.52
+**Retorno acumulado:** +13.10%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:00:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $349.86)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $355.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 10 | 3 | +46.16 USD |
-| swisstony | 31 | 1 | 18 | +43.71 USD |
+| swisstony | 32 | 1 | 17 | +44.49 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 45 | 19 | 3 | +38.84 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
@@ -62,21 +62,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| danielwolfmorales3pddb6dl6 | 15 | 18 | 5 | -22.10 USD |
+| danielwolfmorales3pddb6dl6 | 15 | 19 | 4 | -27.22 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
 | RN1 | 201 | 92 | 1 | -57.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1246
-- **Aciertos:** 794 (63.7%)
+- **Apuestas resueltas:** 1248
+- **Aciertos:** 795 (63.7%)
 - **Cuota promedio de entrada:** 62.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,223.59
-- **ROI sobre lo apostado:** -0.06%
-- **Comisiones pagadas (taker fee):** $116.79 (1.88% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.82% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,233.59
+- **ROI sobre lo apostado:** -0.13%
+- **Comisiones pagadas (taker fee):** $116.94 (1.88% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -84,9 +84,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 654 | 50.5% | 50.3% | +0.2 pp |
+| 40-59% | 655 | 50.4% | 50.3% | +0.1 pp |
 | 60-79% | 375 | 70.7% | 67.6% | +3.0 pp |
-| 80-94% | 145 | 89.7% | 87.0% | +2.7 pp |
+| 80-94% | 146 | 89.7% | 87.0% | +2.8 pp |
 | 95-99% (casi seguro) | 72 | 95.8% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -325,7 +325,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Vila Nova FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Coritiba FBC (-1.5) | SC Corinthians Paulista (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
+| swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.8% | ✅ ganada | +0.78 |
 | swisstony | Will AD Pasto win on 2026-08-23? | No (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will AS Roma win on 2026-08-24? | No (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | CSD Mixco vs. CD Guastatoya: O/U 3.5 | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 569.8567047674821,
+  "bankroll": 565.5206582558542,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6595,6 +6595,16 @@
       "timestamp": 1787528395.3555534,
       "bankroll": 569.86,
       "event": "won: swisstony \u2014 Monterrey Open, Qualification: Panna Udvardy vs Darja Vidmanova"
+    },
+    {
+      "timestamp": 1787529684.9915855,
+      "bankroll": 564.74,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Winston-Salem Open: Martin Landaluce vs Mattia Bellucci"
+    },
+    {
+      "timestamp": 1787529687.6170983,
+      "bankroll": 565.52,
+      "event": "won: swisstony \u2014 Winston-Salem Open: Martin Landaluce vs Mattia Bellucci"
     }
   ]
 }
