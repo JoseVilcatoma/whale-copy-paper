@@ -39592,8 +39592,8 @@
     "title": "Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar",
     "outcome": "Mario Gonzalez Fernandez",
     "side": "BUY",
-    "whale_usd": 1525.6639999999998,
-    "whale_pct": 0.604,
+    "whale_usd": 2888.1639999999998,
+    "whale_pct": 1.144,
     "whale_value_at_open": 252402.7264,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -39604,8 +39604,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787596210.4445627,
-    "fills": 2
+    "last_fill_at": 1787596219.5687845,
+    "fills": 3
   },
   {
     "timestamp": 1787591360,
@@ -40680,6 +40680,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787596140.6659725,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787596279,
+    "timestamp_added": 1787596280.0740216,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-min-oak-2026-08-24",
+    "title": "Minnesota Twins vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 1777.7067,
+    "whale_pct": 0.907,
+    "whale_value_at_open": 196081.0775,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787596280.0740335,
     "fills": 1
   }
 ]
