@@ -34978,5 +34978,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787538973.9454308,
     "fills": 2
+  },
+  {
+    "timestamp": 1787539091,
+    "timestamp_added": 1787539092.1079276,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mex-pum-nec-2026-08-23-nec",
+    "title": "Will Club Necaxa win on 2026-08-23?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 772.17,
+    "whale_pct": 0.329,
+    "whale_value_at_open": 235052.5065,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787539092.107939,
+    "fills": 1
   }
 ]
