@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 00:37:08 (hora de Perú)
+Actualizado: 2026-08-24 00:39:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $540.71
@@ -324,7 +324,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | hi774c | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 28.9% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 26.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 4.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 8.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Osasuna win on 2026-08-24? | Yes (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
 | hi774c | Málaga CF vs. RC Deportivo A Coruña: O/U | Under (BUY) | 62% | 5.00 | 29.2% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
