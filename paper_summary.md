@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 23:57:14 (hora de Perú)
+Actualizado: 2026-08-23 23:59:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $550.93
-**Retorno acumulado:** +10.19%
+**Bankroll actual:** $534.81
+**Retorno acumulado:** +6.96%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 23:57:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $395.93)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $434.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 53 | 4 | 14 | +59.99 USD |
+| swisstony | 59 | 8 | 4 | +54.11 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -36,7 +36,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | ferrariChampions2026 | 206 | 116 | 2 | +5.65 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| kekasaur | 3 | 2 | 1 | +5.07 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -47,8 +46,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 3 | 0 | 0 | +1.18 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
-| quavoo | 0 | 0 | 1 | +0.00 USD |
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
+| kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | Djdjdjekekek | 14 | 12 | 2 | -1.29 USD |
@@ -58,12 +57,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
+| quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 95 | 58 | 4 | -16.46 USD |
+| HomeRunHazard | 95 | 58 | 5 | -16.46 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 215 | 94 | 1 | -48.53 USD |
@@ -71,14 +71,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1323
-- **Aciertos:** 849 (64.2%)
+- **Apuestas resueltas:** 1335
+- **Aciertos:** 855 (64.0%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,608.59
-- **ROI sobre lo apostado:** -0.43%
-- **Comisiones pagadas (taker fee):** $122.03 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.42% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,668.59
+- **ROI sobre lo apostado:** -0.67%
+- **Comisiones pagadas (taker fee):** $123.12 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -86,10 +86,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 675 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 399 | 71.2% | 67.6% | +3.5 pp |
-| 80-94% | 165 | 89.7% | 87.2% | +2.5 pp |
-| 95-99% (casi seguro) | 84 | 96.4% | 97.5% | -1.1 pp |
+| 40-59% | 682 | 49.6% | 50.2% | -0.7 pp |
+| 60-79% | 402 | 71.1% | 67.7% | +3.5 pp |
+| 80-94% | 166 | 89.8% | 87.2% | +2.5 pp |
+| 95-99% (casi seguro) | 85 | 96.5% | 97.5% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -320,6 +320,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 76% | 5.00 | 112.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 5.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -337,16 +338,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 46% | 5.00 | 293.6% | 💰 vendida anticipada | +5.73 |
 | swisstony | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 56% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 50.7% | ❌ perdida | -5.09 |
-| swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
+| swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 2.0% | ❌ perdida | -5.06 |
 | ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 13.1% | ✅ ganada | +2.72 |
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 14.7% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 54% | 5.00 | 5.6% | ✅ ganada | +4.14 |
-| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Spread: Club Necaxa (-1.5) | Pumas de la UNAM (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Spread: Pumas de la UNAM (-1.5) | Club Necaxa (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Will Pumas de la UNAM vs. Club Necaxa en | No (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ✅ ganada | +4.14 |
+| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Under (BUY) | 46% | 5.00 | 0.2% | ❌ perdida | -5.13 |
+| swisstony | Spread: Club Necaxa (-1.5) | Pumas de la UNAM (BUY) | 98% | 5.00 | 0.4% | ✅ ganada | +0.10 |
+| swisstony | Spread: Pumas de la UNAM (-1.5) | Club Necaxa (BUY) | 94% | 5.00 | 0.4% | ✅ ganada | +0.30 |
+| swisstony | Will Pumas de la UNAM vs. Club Necaxa en | No (BUY) | 57% | 5.00 | 0.2% | ❌ perdida | -5.11 |
 | RN1 | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 85% | 5.00 | 0.4% | ✅ ganada | +0.84 |
 | RN1 | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 98% | 5.00 | 0.4% | ✅ ganada | +0.10 |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 2.5 | Under (BUY) | 62% | 5.00 | 0.3% | ✅ ganada | +2.97 |
-| swisstony | Will Racing Club win on 2026-08-23? | No (BUY) | 86% | 5.00 | 1.6% | ✅ ganada | +0.78 |

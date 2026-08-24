@@ -1,5 +1,5 @@
 {
-  "bankroll": 550.9258803200314,
+  "bankroll": 534.8050907015813,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6985,6 +6985,66 @@
       "timestamp": 1787544140.072334,
       "bankroll": 550.93,
       "event": "won: RN1 \u2014 LDU Quito vs. CS Emelec: O/U 5.5"
+    },
+    {
+      "timestamp": 1787547555.6431563,
+      "bankroll": 545.8,
+      "event": "lost: kekasaur \u2014 Will Pumas de la UNAM win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787547555.7433314,
+      "bankroll": 540.68,
+      "event": "lost: quavoo \u2014 Will Pumas de la UNAM win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787547556.0972412,
+      "bankroll": 542.2,
+      "event": "won: swisstony \u2014 Will Club Necaxa win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787547556.7677011,
+      "bankroll": 547.71,
+      "event": "won: swisstony \u2014 Pumas de la UNAM vs. Club Necaxa: O/U 1.5"
+    },
+    {
+      "timestamp": 1787547556.8679075,
+      "bankroll": 542.59,
+      "event": "lost: swisstony \u2014 Pumas de la UNAM vs. Club Necaxa: O/U 1.5"
+    },
+    {
+      "timestamp": 1787547556.9680936,
+      "bankroll": 545.56,
+      "event": "won: swisstony \u2014 Will Pumas de la UNAM win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787547557.2968936,
+      "bankroll": 540.45,
+      "event": "lost: swisstony \u2014 Will Pumas de la UNAM vs. Club Necaxa end in a draw?"
+    },
+    {
+      "timestamp": 1787547557.6051688,
+      "bankroll": 540.76,
+      "event": "won: swisstony \u2014 Spread: Pumas de la UNAM (-1.5)"
+    },
+    {
+      "timestamp": 1787547557.9080546,
+      "bankroll": 540.86,
+      "event": "won: swisstony \u2014 Spread: Club Necaxa (-1.5)"
+    },
+    {
+      "timestamp": 1787547558.2544549,
+      "bankroll": 535.72,
+      "event": "lost: swisstony \u2014 Pumas de la UNAM vs. Club Necaxa: O/U 0.5"
+    },
+    {
+      "timestamp": 1787547558.3546638,
+      "bankroll": 539.87,
+      "event": "won: swisstony \u2014 Pumas de la UNAM vs. Club Necaxa: O/U 0.5"
+    },
+    {
+      "timestamp": 1787547558.4548554,
+      "bankroll": 534.81,
+      "event": "lost: swisstony \u2014 Will Club Necaxa win on 2026-08-23?"
     }
   ]
 }
