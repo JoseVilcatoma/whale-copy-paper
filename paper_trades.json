@@ -42267,5 +42267,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787607982.3938582,
     "fills": 1
+  },
+  {
+    "timestamp": 1787608396,
+    "timestamp_added": 1787608397.423938,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-bransti-ngounou-2026-08-24",
+    "title": "US Open, Qualification WTA: Carson Branstine vs Clervie Ngounoue",
+    "outcome": "Carson Branstine",
+    "side": "BUY",
+    "whale_usd": 2874.0015,
+    "whale_pct": 1.203,
+    "whale_value_at_open": 238831.5308,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787608397.4239516,
+    "fills": 1
   }
 ]
