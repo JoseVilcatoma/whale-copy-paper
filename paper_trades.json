@@ -35295,5 +35295,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787543784.3289108,
     "fills": 1
+  },
+  {
+    "timestamp": 1787544204,
+    "timestamp_added": 1787544204.9331734,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-ruzic-bartunk-2026-08-23",
+    "title": "Monterrey Open: Antonia Ruzic vs Nikola Bartunkova",
+    "outcome": "Nikola Bartunkova",
+    "side": "BUY",
+    "whale_usd": 850.0,
+    "whale_pct": 1.71,
+    "whale_value_at_open": 49709.4679,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "HomeRunHazard",
+      "RN1",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787544204.9331872,
+    "fills": 1
   }
 ]

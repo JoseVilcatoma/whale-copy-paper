@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 23:02:32 (hora de Perú)
+Actualizado: 2026-08-23 23:04:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 23:02:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $425.93)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $420.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
-| ferrariChampions2026 | 206 | 116 | 1 | +5.65 USD |
+| ferrariChampions2026 | 206 | 116 | 2 | +5.65 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | kekasaur | 3 | 2 | 1 | +5.07 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -312,13 +312,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | arg-rac-boc-2026-08-23-total-2pt5 | RN1, swisstony |
 | arg-rac-boc-2026-08-23-boc | RN1, swisstony |
 | wta-tagger-starodu-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
-| wta-ruzic-bartunk-2026-08-23 | Djdjdjekekek, HomeRunHazard, RN1, swisstony |
+| wta-ruzic-bartunk-2026-08-23 | Djdjdjekekek, HomeRunHazard, RN1, ferrariChampions2026, swisstony |
 | wta-sherif-oliynyk-2026-08-23 | HomeRunHazard, ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 87% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 82% | 5.00 | 2.7% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -348,4 +349,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 93% | 5.00 | 8.6% | ✅ ganada | +0.36 |
 | swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 1.7% | ⏳ pendiente | — |
 | swisstony | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
-| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Under (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
