@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:59:39 (hora de Perú)
+Actualizado: 2026-08-24 10:01:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $553.43
-**Retorno acumulado:** +10.69%
+**Bankroll actual:** $560.35
+**Retorno acumulado:** +12.07%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:59:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $228.43)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $250.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,9 +24,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 62 | 8 | 1 | +59.16 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| BOOMBOYS.Kiritych | 23 | 12 | 2 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
-| ferrariChampions2026 | 220 | 120 | 19 | +21.09 USD |
+| ferrariChampions2026 | 221 | 120 | 18 | +21.62 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -36,6 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| TAIWANNUMBERONE | 1 | 0 | 5 | +4.32 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -49,7 +50,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 6 | +0.00 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
 | Gooooooollllllllll | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
@@ -77,14 +77,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1381
-- **Aciertos:** 890 (64.4%)
+- **Apuestas resueltas:** 1384
+- **Aciertos:** 893 (64.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,898.59
-- **ROI sobre lo apostado:** -0.37%
-- **Comisiones pagadas (taker fee):** $126.44 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.47% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,913.59
+- **ROI sobre lo apostado:** -0.27%
+- **Comisiones pagadas (taker fee):** $126.66 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.57% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -92,9 +92,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 692 | 49.7% | 50.2% | -0.5 pp |
-| 60-79% | 420 | 71.7% | 67.7% | +4.0 pp |
-| 80-94% | 181 | 88.4% | 87.1% | +1.3 pp |
+| 40-59% | 693 | 49.8% | 50.2% | -0.4 pp |
+| 60-79% | 421 | 71.7% | 67.7% | +4.1 pp |
+| 80-94% | 182 | 88.5% | 87.1% | +1.4 pp |
 | 95-99% (casi seguro) | 88 | 96.6% | 97.5% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -347,12 +347,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | ITF W35 Trieste Women: Federica Trevisan | Federica Trevisan (BUY) | 52% | 5.00 | 5.8% | ⏳ pendiente | — |
+| RN1 | ITF W35 Trieste Women: Federica Trevisan | Federica Trevisan (BUY) | 52% | 5.00 | 8.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 13.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ⏳ pendiente | — |

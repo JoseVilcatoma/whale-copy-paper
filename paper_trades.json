@@ -35662,8 +35662,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -36248,8 +36248,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -36296,8 +36296,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [
       "SPCEXBUYER"
     ],
@@ -37503,8 +37503,8 @@
     "title": "Augsburg: Calvin Hemery vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 23498.628097,
-    "whale_pct": 13.917,
+    "whale_usd": 25724.74522,
+    "whale_pct": 15.235,
     "whale_value_at_open": 168851.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -37517,8 +37517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787583311.5008054,
-    "fills": 10
+    "last_fill_at": 1787583626.738108,
+    "fills": 11
   },
   {
     "timestamp": 1787580918,
@@ -37634,8 +37634,8 @@
     "title": "ITF W35 Trieste Women: Federica Trevisan vs Alessandra Mazzola",
     "outcome": "Federica Trevisan",
     "side": "BUY",
-    "whale_usd": 4999.026449,
-    "whale_pct": 5.751,
+    "whale_usd": 7487.556449,
+    "whale_pct": 8.614,
     "whale_value_at_open": 86927.589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -37646,8 +37646,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787582809.6285615,
-    "fills": 6
+    "last_fill_at": 1787583696.8722453,
+    "fills": 8
   },
   {
     "timestamp": 1787582362,
