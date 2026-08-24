@@ -39541,8 +39541,8 @@
     "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
     "outcome": "Rebeka Masarova",
     "side": "BUY",
-    "whale_usd": 1816.108,
-    "whale_pct": 0.741,
+    "whale_usd": 2811.108,
+    "whale_pct": 1.147,
     "whale_value_at_open": 245164.5749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -39556,8 +39556,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591115.0769556,
-    "fills": 2
+    "last_fill_at": 1787591469.2649007,
+    "fills": 3
   },
   {
     "timestamp": 1787591108,
@@ -39656,5 +39656,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787591449.3169262,
     "fills": 2
+  },
+  {
+    "timestamp": 1787591565,
+    "timestamp_added": 1787591566.3568878,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-masarov-shymano-2026-08-24",
+    "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
+    "outcome": "Iryna Shymanovich",
+    "side": "BUY",
+    "whale_usd": 2090.5189,
+    "whale_pct": 1.151,
+    "whale_value_at_open": 181627.3016,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "OOOwhyOOO",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787591566.356898,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787591572,
+    "timestamp_added": 1787591573.417322,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-tian-per-2026-08-24",
+    "title": "Philadelphia: Fangran Tian vs Lucciana Perez",
+    "outcome": "Fangran Tian",
+    "side": "BUY",
+    "whale_usd": 2271.0016,
+    "whale_pct": 1.25,
+    "whale_value_at_open": 181627.3016,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787591573.4173362,
+    "fills": 1
   }
 ]

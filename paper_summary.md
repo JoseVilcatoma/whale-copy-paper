@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:11:05 (hora de Perú)
+Actualizado: 2026-08-24 12:13:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $568.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:11:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $532.20 en 107 posiciones abiertas (disponible para nuevas apuestas: $36.75)
+**Capital comprometido ahora mismo:** $542.20 en 109 posiciones abiertas (disponible para nuevas apuestas: $26.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 106 | 60 | 30 | -9.43 USD |
+| HomeRunHazard | 106 | 60 | 32 | -9.43 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -355,17 +355,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-lajal-jordanl-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-pavlovi-varilla-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-aksu-stefani-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| wta-tian-per-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-fernan-kuhar-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Rebeka Masar | Iryna Shymanovich (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Mai Hontama (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 42% | 2.20 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Madison Bren | Anastasia Gasanova (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -389,5 +392,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Winston-Salem Open: Kamil Majchrzak vs B | Kamil Majchrzak (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Sram | Rebecca Sramkova (BUY) | 42% | 5.00 | 2.9% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | US Open, Qualification WTA: Erika Andree | Mariam Bolkvadze (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Luka Pavlovi | Luka Pavlovic (BUY) | 91% | 5.00 | 9.3% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 44% | 5.00 | 34.5% | ⏳ pendiente | — |
