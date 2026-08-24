@@ -36121,8 +36121,8 @@
     "title": "Roehampton 2: Radu Albot vs Leonardo Rossi",
     "outcome": "Leonardo Rossi",
     "side": "BUY",
-    "whale_usd": 8342.852673,
-    "whale_pct": 7.663,
+    "whale_usd": 10751.614301,
+    "whale_pct": 9.875,
     "whale_value_at_open": 108872.3263,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -36133,8 +36133,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787569827.7122161,
-    "fills": 4
+    "last_fill_at": 1787571134.6598978,
+    "fills": 5
   },
   {
     "timestamp": 1787568756,
@@ -36241,8 +36241,8 @@
     "title": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers - Game 3 Winner",
     "outcome": "BNK FearX Youth",
     "side": "BUY",
-    "whale_usd": 2633.336733,
-    "whale_pct": 3.944,
+    "whale_usd": 4679.279732999999,
+    "whale_pct": 7.008,
     "whale_value_at_open": 66771.4362,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -36253,8 +36253,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787570824.5227134,
-    "fills": 2
+    "last_fill_at": 1787571121.3579164,
+    "fills": 3
   },
   {
     "timestamp": 1787570948,
@@ -36304,6 +36304,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787571026.445412,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787571143,
+    "timestamp_added": 1787571143.9282107,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tauson-zarazua-2026-08-24",
+    "title": "Monterrey Open: Clara Tauson vs Renata Zarazua",
+    "outcome": "Clara Tauson",
+    "side": "BUY",
+    "whale_usd": 3574.9251999999997,
+    "whale_pct": 3.321,
+    "whale_value_at_open": 107660.5728,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787571143.9282217,
     "fills": 1
   }
 ]
