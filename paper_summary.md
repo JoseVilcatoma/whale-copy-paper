@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:37:40 (hora de Perú)
+Actualizado: 2026-08-24 18:39:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $583.11
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:37:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $113.11)
+**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $103.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 152 | 78 | 53 | -13.19 USD |
+| HomeRunHazard | 152 | 78 | 55 | -13.19 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 231 | 102 | 7 | -46.13 USD |
@@ -390,6 +390,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Djere vs. Muller: Match O/U 22.5 | Under (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Minnesota Lynx (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Golden State Valkyries (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Trevor Svajda (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -402,7 +404,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
-| Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 18.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 27.6% | ⏳ pendiente | — |
 | mikesports | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 39.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -418,5 +420,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will América FC win on 2026-08-24? | No (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Jenson Brooksby vs S | Stefanos Tsitsipas (BUY) | 61% | 5.00 | 2.7% | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
