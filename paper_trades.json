@@ -41037,8 +41037,8 @@
     "title": "US Open, Qualification WTA: Mia Ristic vs Ayana Akli",
     "outcome": "Ayana Akli",
     "side": "BUY",
-    "whale_usd": 1802.0,
-    "whale_pct": 0.889,
+    "whale_usd": 2841.1220000000003,
+    "whale_pct": 1.401,
     "whale_value_at_open": 202740.9396,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -41051,8 +41051,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787597910.7710388,
-    "fills": 1
+    "last_fill_at": 1787600256.5243373,
+    "fills": 2
   },
   {
     "timestamp": 1787597932,

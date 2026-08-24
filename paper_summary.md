@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:36:12 (hora de Perú)
+Actualizado: 2026-08-24 14:38:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $601.19
@@ -388,7 +388,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | CA Osasuna vs. Levante UD: O/U 1.5 | Under (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Kamil Majchrzak vs B | Benjamin Bonzi (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Mia Ristic v | Mia Ristic (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 83% | 5.00 | 2.6% | ⏳ pendiente | — |
