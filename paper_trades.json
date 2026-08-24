@@ -43140,5 +43140,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787612587.8556402,
     "fills": 1
+  },
+  {
+    "timestamp": 1787612799,
+    "timestamp_added": 1787612800.4263468,
+    "username": "mikesports",
+    "wallet": "0x7d92fd69504bfd391162e1442cb784c0af408676",
+    "slug": "wnba-gsv-min-2026-08-24",
+    "title": "Golden State Valkyries vs. Minnesota Lynx",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 13400.0,
+    "whale_pct": 39.302,
+    "whale_value_at_open": 34095.1453,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787612800.4263577,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787612800,
+    "timestamp_added": 1787612801.2608197,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-gsv-min-2026-08-24",
+    "title": "Golden State Valkyries vs. Minnesota Lynx",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 19478.9904,
+    "whale_pct": 18.064,
+    "whale_value_at_open": 107834.8682,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "mikesports"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787612801.2608306,
+    "fills": 1
   }
 ]

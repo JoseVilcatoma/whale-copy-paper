@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:06:30 (hora de Perú)
+Actualizado: 2026-08-24 18:08:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $580.55
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:06:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $135.55)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $125.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,6 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
 | Donghui | 0 | 0 | 2 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
+| mikesports | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -75,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | HomeRunHazard | 148 | 77 | 48 | -17.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 11 | 17 | 3 | -38.29 USD |
+| Sassy-Bucket | 11 | 17 | 4 | -38.29 USD |
 | RN1 | 229 | 101 | 10 | -41.80 USD |
 |  | 32 | 23 | 1 | -54.37 USD |
 
@@ -330,6 +331,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-dnsc-drxc-2026-08-24 | SPCEXBUYER, itsonlyamatteroftime |
 | lol-foxy-hle-2026-08-24 | SPCEXBUYER, ferrariChampions2026 |
 | lol-dnsc-drxc-2026-08-24-game3 | SPCEXBUYER, itsonlyamatteroftime |
+| wnba-gsv-min-2026-08-24 | HomeRunHazard, Sassy-Bucket, mikesports |
 | lol-dnsc-drxc-2026-08-24-game4 | SPCEXBUYER, johnbaster |
 | wta-marino-ferro-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | mlb-min-oak-2026-08-24-total-10pt5 | HomeRunHazard, ferrariChampions2026 |
@@ -385,6 +387,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 18.1% | ⏳ pendiente | — |
+| mikesports | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 39.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Akasha Urhobo (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -413,5 +417,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 7.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
-| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 55% | 5.00 | 11.6% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 86% | 5.00 | 1.4% | ⏳ pendiente | — |
