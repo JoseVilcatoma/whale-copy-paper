@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:02:25 (hora de Perú)
+Actualizado: 2026-08-24 18:04:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $580.55
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:02:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $140.55)
+**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $135.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,7 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 148 | 77 | 47 | -17.11 USD |
+| HomeRunHazard | 148 | 77 | 48 | -17.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 3 | -38.29 USD |
 | RN1 | 229 | 101 | 10 | -41.80 USD |
@@ -385,6 +385,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Akasha Urhobo (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -414,4 +415,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 55% | 5.00 | 11.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 86% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
