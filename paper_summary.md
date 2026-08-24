@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 05:24:41 (hora de Perú)
+Actualizado: 2026-08-24 05:26:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $554.74
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 05:24:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $409.74)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $404.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| ferrariChampions2026 | 209 | 116 | 9 | +12.35 USD |
+| ferrariChampions2026 | 209 | 116 | 10 | +12.35 USD |
 | SDTrading | 20 | 15 | 0 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -327,9 +327,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Radu Albot (BUY) | 83% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 6.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Matthew William Donald (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Matthew William Donald (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fulham FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Dominik Recek vs Benito Sanche | Benito Sanchez Martinez (BUY) | 80% | 5.00 | 69.8% | ⏳ pendiente | — |
@@ -356,4 +357,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 76% | 5.00 | 112.0% | ✅ ganada | +1.52 |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 298.0% | ✅ ganada | +3.66 |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.8% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
