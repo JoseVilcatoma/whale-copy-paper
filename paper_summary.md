@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:09:11 (hora de Perú)
+Actualizado: 2026-08-24 16:11:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $584.94
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 16:09:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $432.20 en 87 posiciones abiertas (disponible para nuevas apuestas: $152.74)
+**Capital comprometido ahora mismo:** $442.20 en 89 posiciones abiertas (disponible para nuevas apuestas: $142.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 132 | 69 | 40 | -8.10 USD |
+| HomeRunHazard | 132 | 69 | 42 | -8.10 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -376,6 +376,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Victoria Jim | Francisca Jorge (BUY) | 99% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 58% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Linda Fruhvirtova (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Lizette Cabrera (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -404,5 +406,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Ariana Arseneault vs Terez | Tereza Valentova (BUY) | 95% | 5.00 | 2.6% | ✅ ganada | +0.25 |
 | HomeRunHazard | US Open, Qualification ATP: Joel Schwaer | Joel Schwaerzler (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
 | swisstony | Al Ittihad Saudi Club vs. Al Hazem SC: O | Under (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will Heracles Almelo win on 2026-08-24? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
