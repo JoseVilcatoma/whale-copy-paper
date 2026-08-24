@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:31:28 (hora de Perú)
+Actualizado: 2026-08-24 18:33:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $585.53
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:31:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $125.53)
+**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $115.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 151 | 77 | 51 | -10.77 USD |
+| HomeRunHazard | 151 | 77 | 53 | -10.77 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 231 | 102 | 7 | -46.13 USD |
@@ -390,12 +390,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 50% | 5.00 | 34.1% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Trevor Svajda (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 50% | 5.00 | 35.0% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Janice Tjen (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Donghui | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 53% | 5.00 | 23.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Laslo Djere  | Laslo Djere (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 2.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 18.1% | ⏳ pendiente | — |
@@ -418,5 +420,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 47% | 5.00 | 6.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Over (BUY) | 44% | 5.00 | 24.9% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Miami Marlins (-1.5) | Boston Red Sox (BUY) | 72% | 5.00 | 2.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 161.9% | ⏳ pendiente | — |
