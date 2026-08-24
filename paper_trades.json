@@ -39433,5 +39433,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787590085.6339233,
     "fills": 1
+  },
+  {
+    "timestamp": 1787590109,
+    "timestamp_added": 1787590109.844511,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-lajal-jordanl-2026-08-24",
+    "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
+    "outcome": "Jordan Lee",
+    "side": "BUY",
+    "whale_usd": 1699.7604999999999,
+    "whale_pct": 0.928,
+    "whale_value_at_open": 183168.1106,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787590109.8445203,
+    "fills": 1
   }
 ]
