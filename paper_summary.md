@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 13:55:13 (hora de Perú)
+Actualizado: 2026-08-24 13:57:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $576.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 13:55:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $512.01 en 103 posiciones abiertas (disponible para nuevas apuestas: $64.98)
+**Capital comprometido ahora mismo:** $527.01 en 106 posiciones abiertas (disponible para nuevas apuestas: $49.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| ferrariChampions2026 | 241 | 133 | 34 | +12.75 USD |
+| ferrariChampions2026 | 241 | 133 | 36 | +12.75 USD |
 | SDTrading | 20 | 15 | 5 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 118 | 64 | 30 | -8.45 USD |
+| HomeRunHazard | 118 | 64 | 31 | -8.45 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -366,11 +366,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-johnso-garin-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-boisson-jauffre-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-cecchin-broady-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| atp-ouden-olivier-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | CA Osasuna vs. Levante UD: O/U 0.5 | Over (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 80% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Marco Cecchi | Marco Cecchinato (BUY) | 63% | 5.00 | 3.5% | ⏳ pendiente | — |
@@ -398,6 +402,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will VSG Altglienicke win on 2026-08-24? | No (BUY) | 94% | 5.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | VSG Altglienicke vs. VfL Wolfsburg: O/U  | Under (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Spencer John | Spencer Johnson (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
-| swisstony | US Open, Qualification WTA: Madison Bren | Madison Brengle (BUY) | 83% | 5.00 | 0.2% | ✅ ganada | +0.98 |
-| HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Lucciana Perez (BUY) | 41% | 5.00 | 1.6% | ⏳ pendiente | — |
-| Donghui | Winston-Salem Open: Lorenzo Sonego vs Vi | Lorenzo Sonego (BUY) | 52% | 5.00 | 309.1% | ⏳ pendiente | — |
