@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 11:50:12 (hora de Perú)
+Actualizado: 2026-08-24 11:52:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.13
@@ -361,7 +361,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | US Open, Qualification ATP: Mark Lajal v | Jordan Lee (BUY) | 60% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Mark Lajal v | Jordan Lee (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Mark Lajal v | Jordan Lee (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Lukas Neumay | Oliver Crawford (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 87% | 5.00 | 5.2% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 66% | 5.00 | 6.2% | 💰 vendida anticipada | -0.02 |
