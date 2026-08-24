@@ -1,9 +1,9 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 08:45:36 (hora de Perú)
+Actualizado: 2026-08-24 08:47:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $552.53
+**Bankroll actual:** $552.57
 **Retorno acumulado:** +10.51%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 08:45:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $257.53)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $262.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 22 | 12 | 2 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
-| ferrariChampions2026 | 215 | 118 | 18 | +15.69 USD |
+| ferrariChampions2026 | 216 | 118 | 17 | +15.74 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 3 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -77,11 +77,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1362
-- **Aciertos:** 877 (64.4%)
-- **Cuota promedio de entrada:** 63.2%
+- **Apuestas resueltas:** 1363
+- **Aciertos:** 878 (64.4%)
+- **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,803.59
+- **Total apostado (suma de stakes):** $6,808.59
 - **ROI sobre lo apostado:** -0.38%
 - **Comisiones pagadas (taker fee):** $125.07 (1.84% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.45% _(referencia: cuánto pesan las comisiones)_
@@ -95,7 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 686 | 49.7% | 50.2% | -0.5 pp |
 | 60-79% | 415 | 71.3% | 67.6% | +3.7 pp |
 | 80-94% | 175 | 89.7% | 87.1% | +2.6 pp |
-| 95-99% (casi seguro) | 86 | 96.5% | 97.5% | -1.0 pp |
+| 95-99% (casi seguro) | 87 | 96.6% | 97.5% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -349,7 +349,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 11.9% | ⏳ pendiente | — |
 | RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 12.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Patrick Brady vs Andreja P | Patrick Brady (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Patrick Brady vs Andreja P | Patrick Brady (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 3.5% | ⏳ pendiente | — |
 | SDTrading | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -359,7 +359,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 44% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 41% | 5.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 6.9% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 17.2% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 19.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 6.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 46% | 5.00 | 5.8% | ⏳ pendiente | — |
