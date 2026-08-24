@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:28:22 (hora de Perú)
+Actualizado: 2026-08-24 07:30:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $556.86
@@ -345,7 +345,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 90% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 90% | 5.00 | 3.9% | ⏳ pendiente | — |
 | vibing123 | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 52% | 5.00 | 2.4% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 87% | 5.00 | 5.1% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 87% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Quinn Vandecasteele  | James Duckworth (BUY) | 76% | 5.00 | 13.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 44% | 5.00 | 18.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
