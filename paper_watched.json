@@ -2,61 +2,61 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787523231.3889632,
-    "roi_pct": 545.49,
+    "roi_pct": 536.8,
     "short_term_pct": 100.0
   },
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1787575497.1134636,
-    "roi_pct": 279.66,
+    "roi_pct": 249.71,
     "short_term_pct": 100.0
   },
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787596982.8331861,
-    "roi_pct": 2070.0,
+    "roi_pct": 2872.58,
     "short_term_pct": 60.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1787603243.5022385,
-    "roi_pct": 1060.37,
+    "roi_pct": 1080.69,
     "short_term_pct": 100.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1787607009.6227012,
-    "roi_pct": 2884.27,
+    "roi_pct": 2886.55,
     "short_term_pct": 100.0
   },
   "0x58776759ee5c70a915138706a1308add8bc5d894": {
     "username": "Donghui",
     "added_at": 1787609162.1268501,
-    "roi_pct": 158.94,
+    "roi_pct": 85.08,
     "short_term_pct": 100.0
   },
   "0x7d92fd69504bfd391162e1442cb784c0af408676": {
     "username": "mikesports",
     "added_at": 1787609162.1268535,
-    "roi_pct": 88.96,
+    "roi_pct": 88.93,
     "short_term_pct": 100.0
   },
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "",
     "added_at": 1787611984.0171394,
-    "roi_pct": 78.14,
-    "short_term_pct": 100.0
-  },
-  "0xa080dadd87036ad01dbf5e9c254b0c3dbdba234f": {
-    "username": "bands1",
-    "added_at": 1787611984.0171406,
-    "roi_pct": 77.63,
+    "roi_pct": 103.42,
     "short_term_pct": 100.0
   },
   "0x99f0d31fdced5b3a0e5ee2867730a6644a6c9495": {
     "username": "0x99F0d31fdced5B3A0e5Ee2867730A6644a6C9495-1779037126382",
     "added_at": 1787611984.017142,
-    "roi_pct": 59.65,
+    "roi_pct": 79.37,
+    "short_term_pct": 100.0
+  },
+  "0xf5f92940519a72da460b1c2a606bc1230f0e87b0": {
+    "username": "kekasaur",
+    "added_at": 1787613865.1282084,
+    "roi_pct": 11526.03,
     "short_term_pct": 100.0
   }
 }

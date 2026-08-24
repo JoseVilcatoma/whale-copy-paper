@@ -1,5 +1,5 @@
 {
-  "bankroll": 584.1797108149203,
+  "bankroll": 585.5349672251767,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8275,6 +8275,11 @@
       "timestamp": 1787613531.8801324,
       "bankroll": 584.18,
       "event": "won: ferrariChampions2026 \u2014 Gil Vicente FC vs. Casa Pia AC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787613851.9140344,
+      "bankroll": 585.53,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Savannah Broadus vs Tyra Caterina Grant"
     }
   ]
 }
