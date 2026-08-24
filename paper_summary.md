@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 22:46:07 (hora de Perú)
+Actualizado: 2026-08-23 22:48:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $546.20
-**Retorno acumulado:** +9.24%
+**Bankroll actual:** $555.68
+**Retorno acumulado:** +11.14%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 22:46:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $391.20)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $410.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,19 +25,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
-| casualbet2020 | 14 | 7 | 1 | +14.23 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 0 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
+| ferrariChampions2026 | 205 | 115 | 2 | +6.60 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | kekasaur | 3 | 2 | 1 | +5.07 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| ferrariChampions2026 | 204 | 115 | 3 | +3.88 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -70,14 +70,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1314
-- **Aciertos:** 843 (64.2%)
+- **Apuestas resueltas:** 1316
+- **Aciertos:** 845 (64.2%)
 - **Cuota promedio de entrada:** 63.1%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,563.59
-- **ROI sobre lo apostado:** -0.50%
-- **Comisiones pagadas (taker fee):** $121.15 (1.85% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,573.59
+- **ROI sobre lo apostado:** -0.36%
+- **Comisiones pagadas (taker fee):** $121.38 (1.85% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,8 +85,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 671 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 395 | 71.1% | 67.7% | +3.4 pp |
+| 40-59% | 672 | 49.9% | 50.2% | -0.3 pp |
+| 60-79% | 396 | 71.2% | 67.7% | +3.5 pp |
 | 80-94% | 165 | 89.7% | 87.2% | +2.5 pp |
 | 95-99% (casi seguro) | 83 | 96.4% | 97.5% | -1.1 pp |
 
@@ -327,7 +327,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 50.7% | ⏳ pendiente | — |
 | swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 13.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 13.1% | ✅ ganada | +2.72 |
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 14.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 54% | 5.00 | 5.6% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 546.202263694875,
+  "bankroll": 555.6845255996369,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6940,6 +6940,16 @@
       "timestamp": 1787542868.8784902,
       "bankroll": 546.2,
       "event": "lost: Djdjdjekekek \u2014 Seahawks vs. Titans"
+    },
+    {
+      "timestamp": 1787543184.4899998,
+      "bankroll": 552.96,
+      "event": "won: casualbet2020 \u2014 Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787543187.2310026,
+      "bankroll": 555.68,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In"
     }
   ]
 }
