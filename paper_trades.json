@@ -38086,8 +38086,8 @@
     "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
     "outcome": "Rebeka Masarova",
     "side": "BUY",
-    "whale_usd": 616.0,
-    "whale_pct": 0.884,
+    "whale_usd": 2931.9984000000004,
+    "whale_pct": 4.206,
     "whale_value_at_open": 69711.0587,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -38098,8 +38098,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787584979.6258194,
-    "fills": 1
+    "last_fill_at": 1787589933.343345,
+    "fills": 2
   },
   {
     "timestamp": 1787585069,
@@ -38282,8 +38282,8 @@
     "title": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena",
     "outcome": "Jacob Fearnley",
     "side": "BUY",
-    "whale_usd": 6498.818934,
-    "whale_pct": 4.755,
+    "whale_usd": 7849.793623,
+    "whale_pct": 5.743,
     "whale_value_at_open": 136685.7304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -38294,8 +38294,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589757.1369836,
-    "fills": 3
+    "last_fill_at": 1787589842.1895108,
+    "fills": 4
   },
   {
     "timestamp": 1787585539,
@@ -38738,8 +38738,8 @@
     "title": "CA Osasuna vs. Levante UD: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 8383.569996999999,
-    "whale_pct": 4.834,
+    "whale_usd": 14372.709995999998,
+    "whale_pct": 8.287,
     "whale_value_at_open": 173445.1806,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -38750,8 +38750,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589580.5032914,
-    "fills": 2
+    "last_fill_at": 1787589945.690168,
+    "fills": 3
   },
   {
     "timestamp": 1787586506,
@@ -38862,8 +38862,8 @@
     "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
     "outcome": "Mark Lajal",
     "side": "BUY",
-    "whale_usd": 12310.4606,
-    "whale_pct": 6.613,
+    "whale_usd": 21847.6306,
+    "whale_pct": 11.735,
     "whale_value_at_open": 186168.6748,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -38874,8 +38874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588258.4341521,
-    "fills": 2
+    "last_fill_at": 1787589859.4101913,
+    "fills": 3
   },
   {
     "timestamp": 1787587328,
@@ -39192,8 +39192,8 @@
     "title": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 1119.0704,
-    "whale_pct": 0.652,
+    "whale_usd": 12175.841507000001,
+    "whale_pct": 7.089,
     "whale_value_at_open": 171745.5737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -39204,8 +39204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588542.3269644,
-    "fills": 1
+    "last_fill_at": 1787589895.2683766,
+    "fills": 5
   },
   {
     "timestamp": 1787588734,
@@ -39385,5 +39385,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787589830.6887145,
     "fills": 2
+  },
+  {
+    "timestamp": 1787589958,
+    "timestamp_added": 1787589959.3681371,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-neumaye-crawfor-2026-08-24",
+    "title": "US Open, Qualification ATP: Lukas Neumayer vs Oliver Crawford",
+    "outcome": "Oliver Crawford",
+    "side": "BUY",
+    "whale_usd": 1266.1635999999999,
+    "whale_pct": 0.507,
+    "whale_value_at_open": 249544.2575,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787589959.36815,
+    "fills": 1
   }
 ]
