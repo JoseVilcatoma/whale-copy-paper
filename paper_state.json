@@ -1,5 +1,5 @@
 {
-  "bankroll": 601.3336081742026,
+  "bankroll": 601.7483907828982,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7820,6 +7820,11 @@
       "timestamp": 1787600391.328844,
       "bankroll": 601.33,
       "event": "won: swisstony \u2014 CA Osasuna vs. Levante UD: O/U 1.5"
+    },
+    {
+      "timestamp": 1787600454.796199,
+      "bankroll": 601.75,
+      "event": "won: swisstony \u2014 Will Levante UD win on 2026-08-24?"
     }
   ]
 }

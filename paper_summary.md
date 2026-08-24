@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:40:18 (hora de Perú)
+Actualizado: 2026-08-24 14:42:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $601.33
-**Retorno acumulado:** +20.27%
+**Bankroll actual:** $601.75
+**Retorno acumulado:** +20.35%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 14:40:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $510.23 en 103 posiciones abiertas (disponible para nuevas apuestas: $91.10)
+**Capital comprometido ahora mismo:** $505.23 en 102 posiciones abiertas (disponible para nuevas apuestas: $96.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 68 | 9 | 12 | +61.44 USD |
+| swisstony | 69 | 9 | 11 | +61.85 USD |
 | BOOMBOYS.Kiritych | 26 | 12 | 1 | +45.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 51 | 20 | 1 | +39.91 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1482
-- **Aciertos:** 963 (65.0%)
+- **Apuestas resueltas:** 1483
+- **Aciertos:** 964 (65.0%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,403.59
+- **Total apostado (suma de stakes):** $7,408.59
 - **ROI sobre lo apostado:** +0.22%
-- **Comisiones pagadas (taker fee):** $134.42 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.03% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $134.44 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +2.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -96,7 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 731 | 50.5% | 50.2% | +0.3 pp |
 | 60-79% | 448 | 71.7% | 67.6% | +4.0 pp |
-| 80-94% | 202 | 87.1% | 87.0% | +0.1 pp |
+| 80-94% | 203 | 87.2% | 87.1% | +0.1 pp |
 | 95-99% (casi seguro) | 101 | 96.0% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -384,7 +384,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ⏳ pendiente | — |
 | swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
+| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
 | swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | CA Osasuna vs. Levante UD: O/U 1.5 | Under (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
