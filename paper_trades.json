@@ -39907,5 +39907,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787592532.6579735,
     "fills": 2
+  },
+  {
+    "timestamp": 1787592700,
+    "timestamp_added": 1787592700.8602624,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sonego-kopriva-2026-08-24",
+    "title": "Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva",
+    "outcome": "Lorenzo Sonego",
+    "side": "BUY",
+    "whale_usd": 1338.7640000000001,
+    "whale_pct": 0.63,
+    "whale_value_at_open": 212541.556,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787592700.860274,
+    "fills": 1
   }
 ]
