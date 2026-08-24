@@ -35341,8 +35341,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -36586,8 +36586,8 @@
     "title": "Game Handicap: FNC (-1.5) vs Natus Vincere (+1.5)",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 680.0,
-    "whale_pct": 0.913,
+    "whale_usd": 4760.0,
+    "whale_pct": 6.389,
     "whale_value_at_open": 74507.0291,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -36598,8 +36598,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787573524.1104214,
-    "fills": 1
+    "last_fill_at": 1787576367.0876617,
+    "fills": 4
   },
   {
     "timestamp": 1787573691,
@@ -36610,8 +36610,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 10277.072631000001,
-    "whale_pct": 13.407,
+    "whale_usd": 11148.695531000001,
+    "whale_pct": 14.544,
     "whale_value_at_open": 76656.7115,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -36624,8 +36624,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787576320.2692125,
-    "fills": 3
+    "last_fill_at": 1787576380.2911491,
+    "fills": 4
   },
   {
     "timestamp": 1787573829,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 558.8277681668349,
+  "bankroll": 553.7497681668349,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7175,6 +7175,11 @@
       "timestamp": 1787574793.466814,
       "bankroll": 558.83,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Federico Iannaccone vs Oleksii Krutykh"
+    },
+    {
+      "timestamp": 1787576462.0274563,
+      "bankroll": 553.75,
+      "event": "lost: Painfulvoid \u2014 Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage"
     }
   ]
 }
