@@ -37910,8 +37910,8 @@
     "title": "US Open, Qualification WTA: Kayla Day vs Julieta Pareja",
     "outcome": "Julieta Pareja",
     "side": "BUY",
-    "whale_usd": 3743.8720570000005,
-    "whale_pct": 2.902,
+    "whale_usd": 5567.674157,
+    "whale_pct": 4.316,
     "whale_value_at_open": 129013.5535,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -37924,8 +37924,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586907.9885097,
-    "fills": 3
+    "last_fill_at": 1787587814.6723914,
+    "fills": 4
   },
   {
     "timestamp": 1787584543,
@@ -38507,8 +38507,8 @@
     "title": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova",
     "outcome": "Alevtina Ibragimova",
     "side": "BUY",
-    "whale_usd": 3846.0991999999997,
-    "whale_pct": 4.096,
+    "whale_usd": 5810.7991999999995,
+    "whale_pct": 6.189,
     "whale_value_at_open": 93887.841,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -38519,8 +38519,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586470.5386708,
-    "fills": 2
+    "last_fill_at": 1787587818.6956148,
+    "fills": 3
   },
   {
     "timestamp": 1787586181,
@@ -38909,8 +38909,8 @@
     "title": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 1764.0880499999998,
-    "whale_pct": 0.539,
+    "whale_usd": 2409.08805,
+    "whale_pct": 0.736,
     "whale_value_at_open": 327325.9047,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -38924,8 +38924,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587502.9420447,
-    "fills": 2
+    "last_fill_at": 1787587745.929631,
+    "fills": 3
   },
   {
     "timestamp": 1787587409,
@@ -38936,8 +38936,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 2981.7727999999997,
-    "whale_pct": 2.395,
+    "whale_usd": 5027.7728,
+    "whale_pct": 4.039,
     "whale_value_at_open": 124480.5019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -38948,8 +38948,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587597.3145704,
-    "fills": 3
+    "last_fill_at": 1787587813.8911393,
+    "fills": 4
   },
   {
     "timestamp": 1787587580,
@@ -38973,6 +38973,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787587581.308817,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787587817,
+    "timestamp_added": 1787587818.1486118,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-sramkov-ibragim-2026-08-24",
+    "title": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova",
+    "outcome": "Rebecca Sramkova",
+    "side": "BUY",
+    "whale_usd": 1365.3,
+    "whale_pct": 0.699,
+    "whale_value_at_open": 195346.0748,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787587818.148625,
     "fills": 1
   }
 ]
