@@ -42325,8 +42325,8 @@
     "title": "US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet",
     "outcome": "Otto Virtanen",
     "side": "BUY",
-    "whale_usd": 12453.177889999999,
-    "whale_pct": 5.316,
+    "whale_usd": 15787.65189,
+    "whale_pct": 6.74,
     "whale_value_at_open": 234254.4873,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -42337,8 +42337,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787611310.8517797,
-    "fills": 6
+    "last_fill_at": 1787612312.220367,
+    "fills": 7
   },
   {
     "timestamp": 1787608821,
@@ -43091,6 +43091,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787612278.2895854,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787612356,
+    "timestamp_added": 1787612357.3948338,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-sawangk-stephen-2026-08-24",
+    "title": "Philadelphia: Mananchaya Sawangkaew vs Sloane Stephens",
+    "outcome": "Sloane Stephens",
+    "side": "BUY",
+    "whale_usd": 540.9,
+    "whale_pct": 0.207,
+    "whale_value_at_open": 260805.1832,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787612357.3948462,
     "fills": 1
   }
 ]
