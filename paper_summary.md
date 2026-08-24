@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:20:13 (hora de Perú)
+Actualizado: 2026-08-24 07:22:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $556.86
@@ -357,7 +357,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Vit Kopriva (BUY) | 42% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Leonardo Rossi (BUY) | 56% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Radu Albot (BUY) | 83% | 5.00 | 11.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 10.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Matthew William Donald (BUY) | 41% | 5.00 | 1.7% | ❌ perdida | -5.15 |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
