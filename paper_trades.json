@@ -36121,8 +36121,8 @@
     "title": "Roehampton 2: Radu Albot vs Leonardo Rossi",
     "outcome": "Leonardo Rossi",
     "side": "BUY",
-    "whale_usd": 10751.614301,
-    "whale_pct": 9.875,
+    "whale_usd": 27890.389801,
+    "whale_pct": 25.618,
     "whale_value_at_open": 108872.3263,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -36133,8 +36133,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787571134.6598978,
-    "fills": 5
+    "last_fill_at": 1787573010.8271534,
+    "fills": 9
   },
   {
     "timestamp": 1787568756,
@@ -36377,5 +36377,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787571908.5725656,
     "fills": 2
+  },
+  {
+    "timestamp": 1787572975,
+    "timestamp_added": 1787572975.6701877,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-nedic-estevez-2026-08-24",
+    "title": "Augsburg: Andrej Nedic vs Juan Estevez",
+    "outcome": "Andrej Nedic",
+    "side": "BUY",
+    "whale_usd": 1034.331,
+    "whale_pct": 2.392,
+    "whale_value_at_open": 43234.0624,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787572975.670202,
+    "fills": 1
   }
 ]

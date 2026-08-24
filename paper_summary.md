@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:01:56 (hora de Perú)
+Actualizado: 2026-08-24 07:03:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $556.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 07:01:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $396.86)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $391.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 97 | 58 | 7 | -12.83 USD |
+| HomeRunHazard | 97 | 58 | 8 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 216 | 94 | 1 | -47.48 USD |
@@ -329,6 +329,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 87% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Quinn Vandecasteele  | James Duckworth (BUY) | 76% | 5.00 | 13.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 44% | 5.00 | 18.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
@@ -339,7 +340,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Málaga CF vs. RC Deportivo A Coruña: O/U | Over (BUY) | 68% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Federico Iannaccone vs Oleksii | Oleksii Krutykh (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Vit Kopriva (BUY) | 42% | 5.00 | 2.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Leonardo Rossi (BUY) | 56% | 5.00 | 9.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Leonardo Rossi (BUY) | 56% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Radu Albot (BUY) | 83% | 5.00 | 11.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 10.5% | ✅ ganada | +3.23 |
@@ -358,4 +359,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 69% | 5.00 | 5.9% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 64% | 5.00 | 20.7% | ❌ perdida | -5.09 |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 94% | 5.00 | 23.5% | 💰 vendida anticipada | -0.64 |
-| SPCEXBUYER | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 70% | 5.00 | 21.0% | ⏳ pendiente | — |
