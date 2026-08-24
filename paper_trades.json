@@ -33899,8 +33899,8 @@
     "title": "Will Pumas de la UNAM win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 4780.8712,
-    "whale_pct": 11.023,
+    "whale_usd": 7280.8712,
+    "whale_pct": 16.786,
     "whale_value_at_open": 43373.6132,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -33911,8 +33911,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787531579.6793313,
-    "fills": 2
+    "last_fill_at": 1787532416.1795366,
+    "fills": 3
   },
   {
     "timestamp": 1787531759,
@@ -33995,8 +33995,8 @@
     "title": "Atlanta Braves vs. Milwaukee Brewers",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 1248.67,
-    "whale_pct": 0.582,
+    "whale_usd": 2579.2200000000003,
+    "whale_pct": 1.202,
     "whale_value_at_open": 214599.1342,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -34010,8 +34010,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787532045.9761431,
-    "fills": 1
+    "last_fill_at": 1787532451.4939795,
+    "fills": 2
   },
   {
     "timestamp": 1787532142,
