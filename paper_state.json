@@ -1,5 +1,5 @@
 {
-  "bankroll": 535.4026382718035,
+  "bankroll": 534.9474530866183,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6710,6 +6710,21 @@
       "timestamp": 1787536257.011838,
       "bankroll": 535.4,
       "event": "won: RN1 \u2014 Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang"
+    },
+    {
+      "timestamp": 1787536500.4975383,
+      "bankroll": 530.27,
+      "event": "lost: HomeRunHazard \u2014 Spread: Indiana Fever (-3.5)"
+    },
+    {
+      "timestamp": 1787536500.5977025,
+      "bankroll": 534.42,
+      "event": "won: HomeRunHazard \u2014 Spread: Indiana Fever (-3.5)"
+    },
+    {
+      "timestamp": 1787536503.153895,
+      "bankroll": 534.95,
+      "event": "won: swisstony \u2014 Will Vila Nova FC win on 2026-08-23?"
     }
   ]
 }
