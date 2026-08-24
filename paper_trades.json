@@ -39192,8 +39192,8 @@
     "title": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 41232.86067800001,
-    "whale_pct": 24.008,
+    "whale_usd": 43460.916975000015,
+    "whale_pct": 25.305,
     "whale_value_at_open": 171745.5737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -39204,8 +39204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787592949.3593166,
-    "fills": 17
+    "last_fill_at": 1787592992.1016254,
+    "fills": 18
   },
   {
     "timestamp": 1787588734,
@@ -39869,8 +39869,8 @@
     "title": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin",
     "outcome": "Spencer Johnson",
     "side": "BUY",
-    "whale_usd": 1889.962328,
-    "whale_pct": 0.953,
+    "whale_usd": 4057.162328,
+    "whale_pct": 2.046,
     "whale_value_at_open": 198316.8026,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -39881,8 +39881,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787592841.147611,
-    "fills": 2
+    "last_fill_at": 1787593019.8089602,
+    "fills": 3
   },
   {
     "timestamp": 1787592430,
