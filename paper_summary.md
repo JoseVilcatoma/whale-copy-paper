@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:23:30 (hora de Perú)
+Actualizado: 2026-08-24 12:25:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $578.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:23:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $507.20 en 102 posiciones abiertas (disponible para nuevas apuestas: $71.25)
+**Capital comprometido ahora mismo:** $517.20 en 104 posiciones abiertas (disponible para nuevas apuestas: $61.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 232 | 125 | 40 | +24.48 USD |
+| ferrariChampions2026 | 232 | 125 | 41 | +24.48 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 109 | 61 | 29 | -9.48 USD |
+| HomeRunHazard | 109 | 61 | 30 | -9.48 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -364,6 +364,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Linda Klimov | Linda Klimovicova (BUY) | 81% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Set 1 Winner: Johnson vs Garin | Johnson (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 74% | 5.00 | 14.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Elina Avanesyan (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -389,8 +391,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Ayla Aksu vs | Lucrezia Stefanini (BUY) | 78% | 5.00 | 3.0% | ⏳ pendiente | — |
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No (BUY) | 63% | 5.00 | 542.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Titouan Drog | Titouan Droguet (BUY) | 84% | 5.00 | 17.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Luka Pavlovi | Luka Pavlovic (BUY) | 97% | 5.00 | 5.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Luka Pavlovi | Luka Pavlovic (BUY) | 97% | 5.00 | 9.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Fnatic (BUY) | 56% | 5.00 | 92.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Iryna Shymanovich (BUY) | 42% | 5.00 | 7.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | Over (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will FC Würzburger Kickers win on 2026-0 | No (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
