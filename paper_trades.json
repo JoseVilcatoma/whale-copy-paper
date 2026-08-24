@@ -41816,8 +41816,8 @@
     "title": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau",
     "outcome": "Alexis Galarneau",
     "side": "BUY",
-    "whale_usd": 2709.0614229999996,
-    "whale_pct": 1.348,
+    "whale_usd": 9275.064823,
+    "whale_pct": 4.617,
     "whale_value_at_open": 200897.9117,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -41828,8 +41828,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787606735.4653275,
-    "fills": 2
+    "last_fill_at": 1787607179.6131616,
+    "fills": 4
   },
   {
     "timestamp": 1787605309,
@@ -42035,8 +42035,8 @@
     "title": "Winston-Salem Open: Martin Damm vs Abedallah Shelbayh",
     "outcome": "Martin Damm",
     "side": "BUY",
-    "whale_usd": 1068.18,
-    "whale_pct": 0.479,
+    "whale_usd": 2407.490344,
+    "whale_pct": 1.08,
     "whale_value_at_open": 222863.9243,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -42047,8 +42047,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787606179.4299226,
-    "fills": 1
+    "last_fill_at": 1787607161.5496397,
+    "fills": 2
   },
   {
     "timestamp": 1787606207,
