@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.9474530866183,
+  "bankroll": 534.4149780035618,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6725,6 +6725,21 @@
       "timestamp": 1787536503.153895,
       "bankroll": 534.95,
       "event": "won: swisstony \u2014 Will Vila Nova FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787536626.8989475,
+      "bankroll": 529.82,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787536627.6909614,
+      "bankroll": 530.6,
+      "event": "won: swisstony \u2014 Associa\u00e7\u00e3o Chapecoense de Futebol vs. S\u00e3o Paulo FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787536627.9913864,
+      "bankroll": 534.41,
+      "event": "won: swisstony \u2014 Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-08-23?"
     }
   ]
 }
