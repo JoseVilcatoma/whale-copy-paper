@@ -42301,8 +42301,8 @@
     "title": "Winston-Salem Open: Jan Choinski vs Mees Rottgering",
     "outcome": "Mees Rottgering",
     "side": "BUY",
-    "whale_usd": 6312.997,
-    "whale_pct": 2.695,
+    "whale_usd": 7601.987,
+    "whale_pct": 3.245,
     "whale_value_at_open": 234254.4873,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -42313,8 +42313,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787611863.6245666,
-    "fills": 3
+    "last_fill_at": 1787613080.2184217,
+    "fills": 4
   },
   {
     "timestamp": 1787608634,
