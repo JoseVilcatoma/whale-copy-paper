@@ -41511,5 +41511,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787601643.6890643,
     "fills": 1
+  },
+  {
+    "timestamp": 1787601665,
+    "timestamp_added": 1787601665.8646202,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-liu-watson-2026-08-24",
+    "title": "US Open, Qualification WTA: Claire Liu vs Heather Watson",
+    "outcome": "Claire Liu",
+    "side": "BUY",
+    "whale_usd": 662.2,
+    "whale_pct": 0.335,
+    "whale_value_at_open": 197454.7113,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787601665.8646338,
+    "fills": 1
   }
 ]
