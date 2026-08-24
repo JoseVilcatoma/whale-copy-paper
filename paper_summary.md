@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:14:49 (hora de Perú)
+Actualizado: 2026-08-24 18:16:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $581.21
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:14:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $146.21)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $126.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 150 | 77 | 47 | -12.13 USD |
+| HomeRunHazard | 150 | 77 | 51 | -12.13 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 4 | -38.29 USD |
 | RN1 | 231 | 102 | 7 | -46.13 USD |
@@ -337,6 +337,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-min-oak-2026-08-24-total-10pt5 | HomeRunHazard, ferrariChampions2026 |
 | atp-torr-paldani-2026-08-24 | OOOwhyOOO, ferrariChampions2026 |
 | atp-sonego-kopriva-2026-08-24 | Donghui, ferrariChampions2026 |
+| wta-tjen-yastrem-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | lol-navi-fnc-2026-08-24 | SPCEXBUYER, TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-nedic-estevez-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
@@ -387,6 +388,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Laslo Djere  | Laslo Djere (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 2.4% | ⏳ pendiente | — |
 | Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 18.1% | ⏳ pendiente | — |
 | mikesports | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 39.3% | ⏳ pendiente | — |
@@ -404,7 +409,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Detroit Tigers | Detroit Tigers (BUY) | 44% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will América FC win on 2026-08-24? | No (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Jenson Brooksby vs S | Stefanos Tsitsipas (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Jenson Brooksby vs S | Stefanos Tsitsipas (BUY) | 61% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 54% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 47% | 5.00 | 6.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Over (BUY) | 44% | 5.00 | 24.9% | ⏳ pendiente | — |
@@ -413,7 +418,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 95% | 5.00 | 5.1% | ✅ ganada | +0.25 |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Caroline Dolehide (BUY) | 73% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Harry Wendel | Stefano Travaglia (BUY) | 57% | 5.00 | 0.6% | ❌ perdida | -5.11 |
-| RN1 | Will CA Central Córdoba win on 2026-08-2 | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 90% | 5.00 | 0.4% | ✅ ganada | +0.53 |
-| HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 7.7% | ⏳ pendiente | — |
-| HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
