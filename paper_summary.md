@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:39:46 (hora de Perú)
+Actualizado: 2026-08-23 19:41:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $562.11
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:39:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $367.11)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $357.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 19 | 4 | -27.22 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 201 | 92 | 3 | -57.21 USD |
+| RN1 | 201 | 92 | 5 | -57.21 USD |
 
 ## Análisis general
 
@@ -290,7 +290,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-blg-al-2026-08-23-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, MisterVision, SPCEXBUYER |
 | mlb-cin-ari-2026-08-23 | HomeRunHazard, SDTrading |
 | mlb-tb-bal-2026-08-23-total-8pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading, pleaseplease123 |
-| mlb-atl-mil-2026-08-23 | SDTrading, Sassy-Bucket |
+| mlb-atl-mil-2026-08-23 | RN1, SDTrading, Sassy-Bucket |
 | mlb-stl-phi-2026-08-23-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | lol-blg-al-2026-08-23 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | mlb-tor-nyy-2026-08-23-total-7pt5 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, SDTrading, pleaseplease123 |
@@ -307,6 +307,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will O'Higgins FC win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Seahawks vs. Titans | Seahawks (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | kekasaur | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 50% | 5.00 | 11.0% | ⏳ pendiente | — |
@@ -335,5 +337,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.8% | ✅ ganada | +0.78 |
 | swisstony | Will AD Pasto win on 2026-08-23? | No (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will AS Roma win on 2026-08-24? | No (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | CSD Mixco vs. CD Guastatoya: O/U 3.5 | Over (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | Will Associação Chapecoense de Futebol w | No (BUY) | 48% | 5.00 | 4.2% | ⏳ pendiente | — |
