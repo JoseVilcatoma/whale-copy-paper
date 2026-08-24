@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:36:43 (hora de Perú)
+Actualizado: 2026-08-24 09:38:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $551.56
-**Retorno acumulado:** +10.31%
+**Bankroll actual:** $552.28
+**Retorno acumulado:** +10.46%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:36:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $221.56)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $227.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,19 +72,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 99 | 59 | 13 | -13.66 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 218 | 96 | 12 | -50.04 USD |
+| RN1 | 219 | 96 | 11 | -49.33 USD |
 |  | 30 | 22 | 1 | -52.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1375
-- **Aciertos:** 885 (64.4%)
+- **Apuestas resueltas:** 1376
+- **Aciertos:** 886 (64.4%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,868.59
-- **ROI sobre lo apostado:** -0.40%
-- **Comisiones pagadas (taker fee):** $126.02 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.44% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,873.59
+- **ROI sobre lo apostado:** -0.38%
+- **Comisiones pagadas (taker fee):** $126.06 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.45% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,7 +94,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 691 | 49.8% | 50.2% | -0.4 pp |
 | 60-79% | 418 | 71.5% | 67.7% | +3.9 pp |
-| 80-94% | 178 | 88.2% | 87.1% | +1.1 pp |
+| 80-94% | 179 | 88.3% | 87.1% | +1.2 pp |
 | 95-99% (casi seguro) | 88 | 96.6% | 97.5% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -358,7 +358,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 24.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Federico Agu | Federico Agustin Gomez (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | ITF M25 Oviedo Men: Pablo Aunion vs Noah | Pablo Aunion (BUY) | 87% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | ITF M25 Oviedo Men: Pablo Aunion vs Noah | Pablo Aunion (BUY) | 87% | 5.00 | 0.4% | ✅ ganada | +0.71 |
 | RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 90% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 65% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Eduardo Ribeiro (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
