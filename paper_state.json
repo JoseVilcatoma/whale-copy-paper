@@ -1,5 +1,5 @@
 {
-  "bankroll": 554.7403730500419,
+  "bankroll": 555.3313505781317,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7125,6 +7125,11 @@
       "timestamp": 1787566739.1043897,
       "bankroll": 554.74,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Robert Strombachs vs Kai Wehnelt"
+    },
+    {
+      "timestamp": 1787567373.0061066,
+      "bankroll": 555.33,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Denis Yevseyev vs Svyatoslav Gulin"
     }
   ]
 }
