@@ -34362,8 +34362,8 @@
     "title": "Will Club Necaxa win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2229.599999,
-    "whale_pct": 0.743,
+    "whale_usd": 3024.880199,
+    "whale_pct": 1.008,
     "whale_value_at_open": 300135.3846,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -34374,8 +34374,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787537947.159465,
-    "fills": 3
+    "last_fill_at": 1787538337.343035,
+    "fills": 4
   },
   {
     "timestamp": 1787536069,
@@ -34585,8 +34585,8 @@
     "title": "Will Pumas de la UNAM win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1223.6100999999999,
-    "whale_pct": 0.554,
+    "whale_usd": 2010.5221,
+    "whale_pct": 0.91,
     "whale_value_at_open": 220969.8422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -34600,8 +34600,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787538251.8308651,
-    "fills": 2
+    "last_fill_at": 1787538314.7207565,
+    "fills": 3
   },
   {
     "timestamp": 1787537169,
