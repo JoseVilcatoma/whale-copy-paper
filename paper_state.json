@@ -1,5 +1,5 @@
 {
-  "bankroll": 594.3913540156223,
+  "bankroll": 600.5703819008746,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8135,6 +8135,46 @@
       "timestamp": 1787608834.3642416,
       "bankroll": 594.39,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Jazmin Ortenzi vs Himeno Sakatsume"
+    },
+    {
+      "timestamp": 1787609140.841202,
+      "bankroll": 601.44,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: G2 (-1.5) vs GIANTX (+1.5)"
+    },
+    {
+      "timestamp": 1787609140.9413402,
+      "bankroll": 596.34,
+      "event": "lost: Gooooooollllllllll \u2014 Game Handicap: G2 (-1.5) vs GIANTX (+1.5)"
+    },
+    {
+      "timestamp": 1787609149.6439319,
+      "bankroll": 591.31,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Claire Liu vs Heather Watson"
+    },
+    {
+      "timestamp": 1787609150.4652982,
+      "bankroll": 592.59,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Robin Montgomery vs Kayla Cross"
+    },
+    {
+      "timestamp": 1787609151.4299192,
+      "bankroll": 593.37,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Dalibor Svrcina vs Felipe Meligeni Alves"
+    },
+    {
+      "timestamp": 1787609151.835657,
+      "bankroll": 593.78,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Edward Winter vs Andres Andrade"
+    },
+    {
+      "timestamp": 1787609153.8905594,
+      "bankroll": 600.27,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Claire Liu vs Heather Watson"
+    },
+    {
+      "timestamp": 1787609154.219638,
+      "bankroll": 600.57,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Luis Guto Miguel vs Tyler Zink"
     }
   ]
 }
