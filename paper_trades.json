@@ -41960,8 +41960,8 @@
     "title": "US Open, Qualification WTA: Victoria Jimenez Kasintseva vs Francisca Jorge",
     "outcome": "Francisca Jorge",
     "side": "BUY",
-    "whale_usd": 6572.0830000000005,
-    "whale_pct": 3.16,
+    "whale_usd": 9783.0854,
+    "whale_pct": 4.703,
     "whale_value_at_open": 208000.7333,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -41972,8 +41972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787605824.3196857,
-    "fills": 2
+    "last_fill_at": 1787606061.2260675,
+    "fills": 3
   },
   {
     "timestamp": 1787605865,
