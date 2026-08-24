@@ -41456,8 +41456,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -42423,8 +42423,8 @@
     "title": "Boston Red Sox vs. Miami Marlins",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 6981.66,
-    "whale_pct": 10.724,
+    "whale_usd": 7530.84,
+    "whale_pct": 11.567,
     "whale_value_at_open": 65104.8162,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -42438,8 +42438,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787610025.2563288,
-    "fills": 3
+    "last_fill_at": 1787610035.3121493,
+    "fills": 4
   },
   {
     "timestamp": 1787609849,
@@ -42511,6 +42511,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787609908.8174095,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787610154,
+    "timestamp_added": 1787610154.8932438,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-passaro-gill-2026-08-24",
+    "title": "US Open, Qualification ATP: Francesco Passaro vs Felix Gill",
+    "outcome": "Francesco Passaro",
+    "side": "BUY",
+    "whale_usd": 733.333333,
+    "whale_pct": 0.39,
+    "whale_value_at_open": 187989.7137,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787610154.8932555,
     "fills": 1
   }
 ]

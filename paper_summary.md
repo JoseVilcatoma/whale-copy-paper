@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:20:35 (hora de Perú)
+Actualizado: 2026-08-24 17:22:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $595.47
-**Retorno acumulado:** +19.09%
+**Bankroll actual:** $590.43
+**Retorno acumulado:** +18.09%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:20:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $210.47)
+**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $205.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,28 +67,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 142 | 72 | 49 | -6.27 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 257 | 145 | 12 | -6.87 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| HomeRunHazard | 142 | 73 | 48 | -11.31 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 229 | 101 | 0 | -41.80 USD |
+| RN1 | 229 | 101 | 1 | -41.80 USD |
 |  | 32 | 22 | 1 | -49.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1554
-- **Aciertos:** 1014 (65.3%)
+- **Apuestas resueltas:** 1555
+- **Aciertos:** 1014 (65.2%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,758.82
-- **ROI sobre lo apostado:** +0.13%
-- **Comisiones pagadas (taker fee):** $139.87 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.93% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,763.82
+- **ROI sobre lo apostado:** +0.07%
+- **Comisiones pagadas (taker fee):** $139.91 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 751 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 477 | 71.9% | 67.6% | +4.3 pp |
-| 80-94% | 216 | 87.0% | 87.1% | -0.1 pp |
+| 80-94% | 217 | 86.6% | 87.1% | -0.4 pp |
 | 95-99% (casi seguro) | 110 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -374,15 +374,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-ouden-olivier-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-koeverm-monnet-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-ristic-akli-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| atp-passaro-gill-2026-08-24 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
-| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 55% | 5.00 | 10.7% | ⏳ pendiente | — |
+| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 55% | 5.00 | 11.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 86% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Ugo Blanchet (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -408,4 +410,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Jan Choinski (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Keegan Smith | Alexis Galarneau (BUY) | 63% | 5.00 | 8.1% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Edward Winter vs Andres Andr | Andres Andrade (BUY) | 92% | 5.00 | 3.5% | ✅ ganada | +0.41 |
