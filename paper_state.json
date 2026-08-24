@@ -1,5 +1,5 @@
 {
-  "bankroll": 562.1960346385572,
+  "bankroll": 557.5655401330628,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7390,6 +7390,16 @@
       "timestamp": 1787590386.9332695,
       "bankroll": 562.2,
       "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Johannus Monday vs Iliyan Radulov"
+    },
+    {
+      "timestamp": 1787590697.856233,
+      "bankroll": 557.09,
+      "event": "lost: RN1 \u2014 Counter-Strike: GenOne vs Leo Team - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787590707.9135334,
+      "bankroll": 557.57,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Clara Burel vs Yexin Ma"
     }
   ]
 }

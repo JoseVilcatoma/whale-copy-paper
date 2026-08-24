@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 11:56:18 (hora de Perú)
+Actualizado: 2026-08-24 11:58:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $562.20
-**Retorno acumulado:** +12.44%
+**Bankroll actual:** $557.57
+**Retorno acumulado:** +11.51%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 11:56:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $562.20 en 113 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $552.20 en 111 posiciones abiertas (disponible para nuevas apuestas: $5.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,26 +66,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| HomeRunHazard | 102 | 59 | 33 | -9.99 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 101 | 59 | 34 | -10.46 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 31 | 22 | 2 | -52.47 USD |
-| RN1 | 224 | 99 | 7 | -56.46 USD |
+| RN1 | 224 | 100 | 6 | -61.56 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1399
-- **Aciertos:** 904 (64.6%)
+- **Apuestas resueltas:** 1401
+- **Aciertos:** 905 (64.6%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,988.59
-- **ROI sobre lo apostado:** -0.30%
-- **Comisiones pagadas (taker fee):** $127.60 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.53% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,998.59
+- **ROI sobre lo apostado:** -0.37%
+- **Comisiones pagadas (taker fee):** $127.72 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.46% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -93,9 +93,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 697 | 49.8% | 50.2% | -0.4 pp |
+| 40-59% | 698 | 49.7% | 50.2% | -0.5 pp |
 | 60-79% | 425 | 71.8% | 67.7% | +4.1 pp |
-| 80-94% | 187 | 88.2% | 87.1% | +1.1 pp |
+| 80-94% | 188 | 88.3% | 87.2% | +1.1 pp |
 | 95-99% (casi seguro) | 90 | 96.7% | 97.5% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -369,7 +369,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 66% | 5.00 | 6.2% | 💰 vendida anticipada | -0.02 |
 | HomeRunHazard | Augsburg: Mili Poljicak vs Max Schoenhau | Max Schoenhaus (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Erika Andree | Mariam Bolkvadze (BUY) | 60% | 5.00 | 2.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Ayla Aksu vs | Lucrezia Stefanini (BUY) | 82% | 5.00 | 13.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Ayla Aksu vs | Lucrezia Stefanini (BUY) | 82% | 5.00 | 14.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Ayla Aksu vs | Lucrezia Stefanini (BUY) | 78% | 5.00 | 1.4% | ⏳ pendiente | — |
 | vito3corleone | Will Bologna FC 1909 win on 2026-08-24? | No (BUY) | 63% | 5.00 | 542.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Titouan Drog | Titouan Droguet (BUY) | 84% | 5.00 | 16.5% | ⏳ pendiente | — |
