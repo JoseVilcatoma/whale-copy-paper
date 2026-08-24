@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:52:46 (hora de Perú)
+Actualizado: 2026-08-24 12:54:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $588.40
@@ -383,7 +383,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | US Open, Qualification ATP: Titouan Drog | Titouan Droguet (BUY) | 68% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Bologna FC 1909 vs. SS Lazio: O/U 1.5 | Under (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Bologna FC 1909 vs. SS Lazio: O/U 5.5 | Under (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
-| swisstony | Spread: SS Lazio (-1.5) | Bologna FC 1909 (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
+| swisstony | Spread: SS Lazio (-1.5) | Bologna FC 1909 (BUY) | 95% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 99% | 5.00 | 11.0% | ⏳ pendiente | — |
 | HomeRunHazard | Hontama vs. Gjorcheska: Match O/U 23.5 | Under (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
