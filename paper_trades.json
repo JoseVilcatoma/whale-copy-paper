@@ -43028,8 +43028,8 @@
     "title": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez",
     "outcome": "Veronika Podrez",
     "side": "BUY",
-    "whale_usd": 1202.5728,
-    "whale_pct": 0.459,
+    "whale_usd": 3225.5721999999996,
+    "whale_pct": 1.231,
     "whale_value_at_open": 261983.8685,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -43040,8 +43040,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787612151.2502675,
-    "fills": 1
+    "last_fill_at": 1787612694.86024,
+    "fills": 2
   },
   {
     "timestamp": 1787612154,
