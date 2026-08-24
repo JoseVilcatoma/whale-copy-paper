@@ -34962,8 +34962,8 @@
     "title": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Evil Geniuses",
     "side": "BUY",
-    "whale_usd": 4610.791164,
-    "whale_pct": 7.463,
+    "whale_usd": 6597.164434,
+    "whale_pct": 10.678,
     "whale_value_at_open": 61783.0497,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -34976,8 +34976,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787539538.5471153,
-    "fills": 5
+    "last_fill_at": 1787539797.273083,
+    "fills": 7
   },
   {
     "timestamp": 1787539091,
@@ -35002,5 +35002,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787539436.6991236,
     "fills": 4
+  },
+  {
+    "timestamp": 1787539815,
+    "timestamp_added": 1787539815.971746,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tagger-starodu-2026-08-23",
+    "title": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva",
+    "outcome": "Lilli Tagger",
+    "side": "BUY",
+    "whale_usd": 3627.456842,
+    "whale_pct": 6.03,
+    "whale_value_at_open": 60159.7955,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787539815.971756,
+    "fills": 1
   }
 ]

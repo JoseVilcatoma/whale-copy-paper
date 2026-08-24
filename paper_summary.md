@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:48:45 (hora de Perú)
+Actualizado: 2026-08-23 21:50:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $543.87
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:48:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $358.87)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $353.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | kekasaur | 3 | 2 | 1 | +5.07 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| ferrariChampions2026 | 204 | 115 | 2 | +3.88 USD |
+| ferrariChampions2026 | 204 | 115 | 3 | +3.88 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -317,8 +317,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 6.0% | ⏳ pendiente | — |
 | swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 7.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 10.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 54% | 5.00 | 5.6% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -346,4 +347,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Atlanta Braves (-2.5) | Milwaukee Brewers (BUY) | 82% | 5.00 | 0.7% | ✅ ganada | +1.05 |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 67% | 5.00 | 0.6% | ✅ ganada | +2.38 |
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ✅ ganada | +7.05 |
-| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.4% | ❌ perdida | -5.05 |
