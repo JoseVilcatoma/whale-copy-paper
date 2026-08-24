@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 00:32:55 (hora de Perú)
+Actualizado: 2026-08-24 00:35:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $540.71
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 00:32:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $80.00 en 16 posiciones abiertas (disponible para nuevas apuestas: $460.71)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $445.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
-| ferrariChampions2026 | 207 | 116 | 2 | +6.36 USD |
+| ferrariChampions2026 | 207 | 116 | 3 | +6.36 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
-| hi774c | 0 | 0 | 1 | +0.00 USD |
+| hi774c | 0 | 0 | 2 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 15 | 12 | 1 | -0.51 USD |
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 96 | 58 | 4 | -15.55 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 216 | 94 | 0 | -47.48 USD |
+| RN1 | 216 | 94 | 1 | -47.48 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
 
 ## Análisis general
@@ -316,16 +316,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-tagger-starodu-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-ruzic-bartunk-2026-08-23 | Djdjdjekekek, HomeRunHazard, RN1, ferrariChampions2026, swisstony |
 | wta-sherif-oliynyk-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
+| lal-mala-dep-2026-08-24-mala | RN1, ferrariChampions2026, hi774c |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| hi774c | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 28.9% | ⏳ pendiente | — |
+| RN1 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 26.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Osasuna win on 2026-08-24? | Yes (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
 | hi774c | Málaga CF vs. RC Deportivo A Coruña: O/U | Under (BUY) | 62% | 5.00 | 29.2% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 76% | 5.00 | 112.0% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 293.1% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 298.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Painfulvoid | Counter-Strike: Nuclear TigeRES vs FORZE | Nuclear TigeRES (BUY) | 69% | 5.00 | 140.6% | ⏳ pendiente | — |
@@ -348,6 +352,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ✅ ganada | +4.14 |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Under (BUY) | 46% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 | swisstony | Spread: Club Necaxa (-1.5) | Pumas de la UNAM (BUY) | 98% | 5.00 | 0.4% | ✅ ganada | +0.10 |
-| swisstony | Spread: Pumas de la UNAM (-1.5) | Club Necaxa (BUY) | 94% | 5.00 | 0.4% | ✅ ganada | +0.30 |
-| swisstony | Will Pumas de la UNAM vs. Club Necaxa en | No (BUY) | 57% | 5.00 | 0.2% | ❌ perdida | -5.11 |
-| RN1 | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 85% | 5.00 | 0.4% | ✅ ganada | +0.84 |
