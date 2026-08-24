@@ -1,5 +1,5 @@
 {
-  "bankroll": 587.0066948839941,
+  "bankroll": 577.8102963200413,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7615,6 +7615,26 @@
       "timestamp": 1787595777.743379,
       "bankroll": 587.01,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: GIANTX vs G2 Esports - Game 2 Winner (+0.14 USD)"
+    },
+    {
+      "timestamp": 1787597264.0642028,
+      "bankroll": 581.87,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Federico Agustin Gomez vs Aziz Dougaz"
+    },
+    {
+      "timestamp": 1787597320.5554762,
+      "bankroll": 576.78,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Madison Brengle vs Anastasia Gasanova"
+    },
+    {
+      "timestamp": 1787597323.1358728,
+      "bankroll": 576.83,
+      "event": "won: swisstony \u2014 Bologna FC 1909 vs. SS Lazio: O/U 5.5"
+    },
+    {
+      "timestamp": 1787597323.636854,
+      "bankroll": 577.81,
+      "event": "won: swisstony \u2014 US Open, Qualification WTA: Madison Brengle vs Anastasia Gasanova"
     }
   ]
 }
