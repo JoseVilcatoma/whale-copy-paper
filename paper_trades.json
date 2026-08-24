@@ -38415,8 +38415,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -38557,8 +38557,8 @@
     "title": "Philadelphia: Ella Seidel vs Jessica Bouzas Maneiro",
     "outcome": "Jessica Bouzas Maneiro",
     "side": "BUY",
-    "whale_usd": 4296.0558,
-    "whale_pct": 4.576,
+    "whale_usd": 6590.3415,
+    "whale_pct": 7.019,
     "whale_value_at_open": 93887.841,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -38569,8 +38569,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586216.1026473,
-    "fills": 2
+    "last_fill_at": 1787587971.0610178,
+    "fills": 3
   },
   {
     "timestamp": 1787586229,
@@ -38999,6 +38999,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787587818.148625,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787587939,
+    "timestamp_added": 1787587939.5900888,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-majchrz-bonzi-2026-08-24",
+    "title": "Winston-Salem Open: Kamil Majchrzak vs Benjamin Bonzi",
+    "outcome": "Kamil Majchrzak",
+    "side": "BUY",
+    "whale_usd": 2131.599998,
+    "whale_pct": 1.122,
+    "whale_value_at_open": 190020.8919,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787587939.5901031,
     "fills": 1
   }
 ]
