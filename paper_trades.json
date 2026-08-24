@@ -39178,5 +39178,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787588406.7877607,
     "fills": 2
+  },
+  {
+    "timestamp": 1787588541,
+    "timestamp_added": 1787588542.3269553,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-droguet-rincon-2026-08-24",
+    "title": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon",
+    "outcome": "Titouan Droguet",
+    "side": "BUY",
+    "whale_usd": 1119.0704,
+    "whale_pct": 0.652,
+    "whale_value_at_open": 171745.5737,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787588542.3269644,
+    "fills": 1
   }
 ]
