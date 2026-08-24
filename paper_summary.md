@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:42:32 (hora de Perú)
+Actualizado: 2026-08-23 21:44:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $540.19
-**Retorno acumulado:** +8.04%
+**Bankroll actual:** $540.89
+**Retorno acumulado:** +8.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:42:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $290.19)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $325.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 41 | 3 | 24 | +50.13 USD |
+| swisstony | 43 | 3 | 22 | +52.01 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -62,22 +62,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 92 | 55 | 5 | -11.51 USD |
+| HomeRunHazard | 94 | 57 | 1 | -14.56 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 206 | 92 | 11 | -45.14 USD |
+| RN1 | 207 | 92 | 10 | -43.27 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1288
-- **Aciertos:** 822 (63.8%)
-- **Cuota promedio de entrada:** 62.7%
+- **Apuestas resueltas:** 1295
+- **Aciertos:** 827 (63.9%)
+- **Cuota promedio de entrada:** 62.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,433.59
-- **ROI sobre lo apostado:** -0.52%
-- **Comisiones pagadas (taker fee):** $119.87 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,468.59
+- **ROI sobre lo apostado:** -0.50%
+- **Comisiones pagadas (taker fee):** $120.32 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,10 +85,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 669 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 384 | 71.4% | 67.6% | +3.7 pp |
+| 40-59% | 670 | 49.9% | 50.2% | -0.4 pp |
+| 60-79% | 388 | 71.1% | 67.7% | +3.5 pp |
 | 80-94% | 159 | 89.3% | 87.1% | +2.2 pp |
-| 95-99% (casi seguro) | 76 | 96.1% | 97.4% | -1.3 pp |
+| 95-99% (casi seguro) | 78 | 96.2% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -317,8 +317,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 3.8% | ⏳ pendiente | — |
+| swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 6.5% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 54% | 5.00 | 5.6% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -331,19 +331,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 2.5 | Under (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Racing Club win on 2026-08-23? | No (BUY) | 86% | 5.00 | 1.6% | ⏳ pendiente | — |
 | swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 93% | 5.00 | 8.6% | ✅ ganada | +0.36 |
-| swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 0.9% | ⏳ pendiente | — |
-| swisstony | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 1.7% | ⏳ pendiente | — |
+| swisstony | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Under (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Over (BUY) | 47% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
-| swisstony | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
+| swisstony | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 73% | 5.00 | 0.5% | ✅ ganada | +1.78 |
 | swisstony | Will Once Caldas win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Racing Club vs. CA Boca Juniors: O/U 2.5 | Over (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Will Club Necaxa win on 2026-08-23? | No (BUY) | 76% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: Atlanta Braves (-2.5) | Milwaukee Brewers (BUY) | 82% | 5.00 | 0.7% | ✅ ganada | +1.05 |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ✅ ganada | +7.05 |
+| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.4% | ❌ perdida | -5.05 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 540.1923790468571,
+  "bankroll": 540.8868063778459,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6805,6 +6805,41 @@
       "timestamp": 1787538789.9749634,
       "bankroll": 540.19,
       "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787539403.5924232,
+      "bankroll": 535.09,
+      "event": "lost: HomeRunHazard \u2014 Cancun: Sebastian Baez vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1787539403.881296,
+      "bankroll": 530.04,
+      "event": "lost: HomeRunHazard \u2014 Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva"
+    },
+    {
+      "timestamp": 1787539403.9814584,
+      "bankroll": 537.09,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva"
+    },
+    {
+      "timestamp": 1787539405.334461,
+      "bankroll": 538.87,
+      "event": "won: swisstony \u2014 Cancun: Sebastian Baez vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1787539405.4346135,
+      "bankroll": 540.74,
+      "event": "won: RN1 \u2014 Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva"
+    },
+    {
+      "timestamp": 1787539406.2042358,
+      "bankroll": 540.84,
+      "event": "won: swisstony \u2014 Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva"
+    },
+    {
+      "timestamp": 1787539406.4045124,
+      "bankroll": 540.89,
+      "event": "won: HomeRunHazard \u2014 Cancun: Sebastian Baez vs Hubert Hurkacz"
     }
   ]
 }

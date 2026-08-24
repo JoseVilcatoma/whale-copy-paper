@@ -34225,8 +34225,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -34273,8 +34273,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -34297,8 +34297,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -34441,8 +34441,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -34467,8 +34467,8 @@
     "odds_at_bet": 72,
     "fee_usd": 0.07,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.87,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -34565,8 +34565,8 @@
     "odds_at_bet": 98,
     "fee_usd": 0.005,
     "odds_ballena": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.1,
     "overlaps_with": [
       "HomeRunHazard",
       "RN1"
@@ -34585,8 +34585,8 @@
     "title": "Will Pumas de la UNAM win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2010.5221,
-    "whale_pct": 0.91,
+    "whale_usd": 3813.0051999999996,
+    "whale_pct": 1.726,
     "whale_value_at_open": 220969.8422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -34600,8 +34600,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787538314.7207565,
-    "fills": 3
+    "last_fill_at": 1787539387.3495858,
+    "fills": 4
   },
   {
     "timestamp": 1787537169,
@@ -34647,8 +34647,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "swisstony"
     ],
@@ -34962,8 +34962,8 @@
     "title": "Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In",
     "outcome": "Evil Geniuses",
     "side": "BUY",
-    "whale_usd": 2367.587164,
-    "whale_pct": 3.832,
+    "whale_usd": 4034.527564,
+    "whale_pct": 6.53,
     "whale_value_at_open": 61783.0497,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -34976,8 +34976,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787538973.9454308,
-    "fills": 2
+    "last_fill_at": 1787539426.491223,
+    "fills": 4
   },
   {
     "timestamp": 1787539091,
@@ -34988,8 +34988,8 @@
     "title": "Will Club Necaxa win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2360.6899980000003,
-    "whale_pct": 1.004,
+    "whale_usd": 4673.299995,
+    "whale_pct": 1.988,
     "whale_value_at_open": 235052.5065,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -35000,7 +35000,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787539231.798598,
-    "fills": 2
+    "last_fill_at": 1787539436.6991236,
+    "fills": 4
   }
 ]
