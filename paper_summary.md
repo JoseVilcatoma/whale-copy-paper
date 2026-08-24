@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:05:01 (hora de Perú)
+Actualizado: 2026-08-24 16:07:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $584.02
-**Retorno acumulado:** +16.80%
+**Bankroll actual:** $584.94
+**Retorno acumulado:** +16.99%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 16:05:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $427.20 en 86 posiciones abiertas (disponible para nuevas apuestas: $156.82)
+**Capital comprometido ahora mismo:** $422.20 en 85 posiciones abiertas (disponible para nuevas apuestas: $162.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 72 | 11 | 6 | +52.29 USD |
+| swisstony | 74 | 11 | 4 | +52.95 USD |
 | BOOMBOYS.Kiritych | 26 | 12 | 1 | +45.90 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 51 | 20 | 1 | +39.91 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 131 | 69 | 37 | -8.35 USD |
+| HomeRunHazard | 132 | 69 | 38 | -8.10 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -80,14 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1518
-- **Aciertos:** 987 (65.0%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 1521
+- **Aciertos:** 990 (65.1%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,581.62
-- **ROI sobre lo apostado:** -0.02%
-- **Comisiones pagadas (taker fee):** $137.09 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.79% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,596.62
+- **ROI sobre lo apostado:** -0.00%
+- **Comisiones pagadas (taker fee):** $137.13 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.80% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,8 +97,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 740 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 464 | 71.6% | 67.6% | +3.9 pp |
-| 80-94% | 208 | 87.0% | 87.0% | -0.0 pp |
-| 95-99% (casi seguro) | 106 | 96.2% | 97.3% | -1.1 pp |
+| 80-94% | 210 | 87.1% | 87.1% | +0.1 pp |
+| 95-99% (casi seguro) | 107 | 96.3% | 97.3% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -376,6 +376,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Lizette Cabrera (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Jan Choinski (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Keegan Smith | Alexis Galarneau (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Edward Winter vs Andres Andr | Andres Andrade (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -397,12 +399,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ✅ ganada | +0.84 |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Ariana Arseneault vs Terez | Tereza Valentova (BUY) | 95% | 5.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Ariana Arseneault vs Terez | Tereza Valentova (BUY) | 95% | 5.00 | 2.6% | ✅ ganada | +0.25 |
 | HomeRunHazard | US Open, Qualification ATP: Joel Schwaer | Joel Schwaerzler (BUY) | 79% | 5.00 | 0.3% | ✅ ganada | +1.28 |
 | swisstony | Al Ittihad Saudi Club vs. Al Hazem SC: O | Under (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Heracles Almelo win on 2026-08-24? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ✅ ganada | +1.75 |
 | swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.9% | ✅ ganada | +0.41 |
-| swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |

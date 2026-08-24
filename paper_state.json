@@ -1,5 +1,5 @@
 {
-  "bankroll": 584.0227504811103,
+  "bankroll": 584.9364013980388,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8000,6 +8000,21 @@
       "timestamp": 1787605368.1365047,
       "bankroll": 584.02,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Gonzalo Bueno vs Billy Harris"
+    },
+    {
+      "timestamp": 1787605618.5125892,
+      "bankroll": 584.38,
+      "event": "won: swisstony \u2014 VSG Altglienicke vs. VfL Wolfsburg: O/U 5.5"
+    },
+    {
+      "timestamp": 1787605618.8224173,
+      "bankroll": 584.69,
+      "event": "won: swisstony \u2014 Will VSG Altglienicke win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787605622.0286653,
+      "bankroll": 584.94,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Ariana Arseneault vs Tereza Valentova"
     }
   ]
 }
