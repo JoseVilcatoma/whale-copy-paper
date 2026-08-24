@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 05:18:33 (hora de Perú)
+Actualizado: 2026-08-24 05:20:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $550.92
-**Retorno acumulado:** +10.18%
+**Bankroll actual:** $554.74
+**Retorno acumulado:** +10.95%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 05:18:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $405.92)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $414.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,10 +29,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| ferrariChampions2026 | 209 | 116 | 8 | +12.35 USD |
 | SDTrading | 20 | 15 | 0 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| ferrariChampions2026 | 208 | 116 | 9 | +8.53 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -74,14 +74,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1348
-- **Aciertos:** 867 (64.3%)
+- **Apuestas resueltas:** 1349
+- **Aciertos:** 868 (64.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,733.59
-- **ROI sobre lo apostado:** -0.41%
-- **Comisiones pagadas (taker fee):** $123.99 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.43% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,738.59
+- **ROI sobre lo apostado:** -0.36%
+- **Comisiones pagadas (taker fee):** $124.10 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -89,7 +89,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 683 | 49.6% | 50.2% | -0.6 pp |
+| 40-59% | 684 | 49.7% | 50.2% | -0.5 pp |
 | 60-79% | 409 | 71.4% | 67.7% | +3.7 pp |
 | 80-94% | 171 | 90.1% | 87.2% | +2.9 pp |
 | 95-99% (casi seguro) | 85 | 96.5% | 97.5% | -1.0 pp |
@@ -335,7 +335,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Fiona Ferro (BUY) | 61% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Denis Yevseyev vs Svyatoslav G | Svyatoslav Gulin (BUY) | 89% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 82% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Robert Strombachs vs Kai Wehne | Kai Wehnelt (BUY) | 56% | 5.00 | 57.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Robert Strombachs vs Kai Wehne | Kai Wehnelt (BUY) | 56% | 5.00 | 57.3% | ✅ ganada | +3.82 |
 | johnbaster | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 95% | 5.00 | 3.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 26.2% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | Kiwoom DRX Challengers (BUY) | 81% | 5.00 | 13.8% | 💰 vendida anticipada | +0.03 |
