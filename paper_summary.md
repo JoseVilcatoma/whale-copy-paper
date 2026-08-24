@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 13:59:17 (hora de Perú)
+Actualizado: 2026-08-24 14:01:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $580.23
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 13:59:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $552.01 en 111 posiciones abiertas (disponible para nuevas apuestas: $28.22)
+**Capital comprometido ahora mismo:** $557.01 en 112 posiciones abiertas (disponible para nuevas apuestas: $23.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| ferrariChampions2026 | 241 | 133 | 39 | +12.75 USD |
+| ferrariChampions2026 | 241 | 133 | 40 | +12.75 USD |
 | SDTrading | 20 | 15 | 5 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -375,6 +375,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Kamil Majchrzak vs B | Benjamin Bonzi (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -404,4 +405,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 82% | 5.00 | 54.6% | 💰 vendida anticipada | +0.10 |
 | HomeRunHazard | US Open, Qualification ATP: Luka Pavlovi | Juan Pablo Varillas (BUY) | 88% | 5.00 | 3.8% | ❌ perdida | -5.03 |
 | swisstony | AS Roma vs. ACF Fiorentina: O/U 5.5 | Under (BUY) | 97% | 5.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Bologna FC 1909 vs. SS Lazio: Bologna FC | Under (BUY) | 57% | 5.00 | 0.1% | ✅ ganada | +3.66 |
