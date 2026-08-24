@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 04:59:37 (hora de Perú)
+Actualizado: 2026-08-24 05:01:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $547.69
-**Retorno acumulado:** +9.54%
+**Bankroll actual:** $550.92
+**Retorno acumulado:** +10.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 04:59:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $407.69)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $415.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 19 | 11 | 5 | +23.16 USD |
+| BOOMBOYS.Kiritych | 20 | 11 | 4 | +26.39 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -74,14 +74,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1347
-- **Aciertos:** 866 (64.3%)
+- **Apuestas resueltas:** 1348
+- **Aciertos:** 867 (64.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,728.59
-- **ROI sobre lo apostado:** -0.46%
-- **Comisiones pagadas (taker fee):** $123.89 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,733.59
+- **ROI sobre lo apostado:** -0.41%
+- **Comisiones pagadas (taker fee):** $123.99 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.43% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -90,7 +90,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 683 | 49.6% | 50.2% | -0.6 pp |
-| 60-79% | 408 | 71.3% | 67.7% | +3.6 pp |
+| 60-79% | 409 | 71.4% | 67.7% | +3.7 pp |
 | 80-94% | 171 | 90.1% | 87.2% | +2.9 pp |
 | 95-99% (casi seguro) | 85 | 96.5% | 97.5% | -1.0 pp |
 
@@ -343,7 +343,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 94% | 5.00 | 23.5% | 💰 vendida anticipada | -0.64 |
 | SPCEXBUYER | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 70% | 5.00 | 21.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 81% | 5.00 | 26.0% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 16.4% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 16.4% | ✅ ganada | +3.23 |
 | hi774c | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 28.9% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 26.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 13.2% | ⏳ pendiente | — |

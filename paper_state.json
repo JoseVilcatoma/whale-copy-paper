@@ -1,5 +1,5 @@
 {
-  "bankroll": 547.6884682881371,
+  "bankroll": 550.9218016214704,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7115,6 +7115,11 @@
       "timestamp": 1787562484.1021304,
       "bankroll": 547.69,
       "event": "won: SPCEXBUYER \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787565641.1096988,
+      "bankroll": 550.92,
+      "event": "won: SPCEXBUYER \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 2 Winner"
     }
   ]
 }
