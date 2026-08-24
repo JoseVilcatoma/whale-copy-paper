@@ -39517,8 +39517,8 @@
     "title": "Philadelphia: Fangran Tian vs Lucciana Perez",
     "outcome": "Fangran Tian",
     "side": "BUY",
-    "whale_usd": 3964.1223,
-    "whale_pct": 1.485,
+    "whale_usd": 6220.8516,
+    "whale_pct": 2.331,
     "whale_value_at_open": 266912.2311,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -39529,8 +39529,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591733.4652576,
-    "fills": 3
+    "last_fill_at": 1787591993.7935183,
+    "fills": 4
   },
   {
     "timestamp": 1787591051,
@@ -39541,8 +39541,8 @@
     "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
     "outcome": "Rebeka Masarova",
     "side": "BUY",
-    "whale_usd": 2811.108,
-    "whale_pct": 1.147,
+    "whale_usd": 3390.880173,
+    "whale_pct": 1.383,
     "whale_value_at_open": 245164.5749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -39556,8 +39556,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591469.2649007,
-    "fills": 3
+    "last_fill_at": 1787591986.5664387,
+    "fills": 4
   },
   {
     "timestamp": 1787591108,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:19:26 (hora de Perú)
+Actualizado: 2026-08-24 12:21:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $578.45
@@ -374,8 +374,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Mai Hontama (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 66% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 42% | 2.20 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Madison Bren | Anastasia Gasanova (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Mark Lajal v | Jordan Lee (BUY) | 60% | 5.00 | 3.1% | ⏳ pendiente | — |
