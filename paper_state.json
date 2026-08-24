@@ -1,5 +1,5 @@
 {
-  "bankroll": 555.3313505781317,
+  "bankroll": 556.5313505781318,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7130,6 +7130,11 @@
       "timestamp": 1787567373.0061066,
       "bankroll": 555.33,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Denis Yevseyev vs Svyatoslav Gulin"
+    },
+    {
+      "timestamp": 1787568324.491662,
+      "bankroll": 556.53,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Dominik Recek vs Benito Sanchez Martinez"
     }
   ]
 }
