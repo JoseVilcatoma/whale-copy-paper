@@ -1,5 +1,5 @@
 {
-  "bankroll": 554.0986926754356,
+  "bankroll": 568.9503081464488,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7420,6 +7420,36 @@
       "timestamp": 1787591022.7250273,
       "bankroll": 554.1,
       "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova"
+    },
+    {
+      "timestamp": 1787591328.2274652,
+      "bankroll": 560.07,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Kayla Day vs Julieta Pareja"
+    },
+    {
+      "timestamp": 1787591328.3276212,
+      "bankroll": 566.04,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Kayla Day vs Julieta Pareja"
+    },
+    {
+      "timestamp": 1787591329.1959722,
+      "bankroll": 567.17,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Jaeda Daniel vs Kylie Collins"
+    },
+    {
+      "timestamp": 1787591334.5831769,
+      "bankroll": 568.15,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Ella Seidel vs Jessica Bouzas Maneiro"
+    },
+    {
+      "timestamp": 1787591335.2643657,
+      "bankroll": 568.8,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov"
+    },
+    {
+      "timestamp": 1787591337.6068451,
+      "bankroll": 568.95,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Kimmer Coppejans vs Jurij Rodionov"
     }
   ]
 }
