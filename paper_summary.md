@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:48:03 (hora de Perú)
+Actualizado: 2026-08-23 19:50:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $562.11
-**Retorno acumulado:** +12.42%
+**Bankroll actual:** $562.20
+**Retorno acumulado:** +12.44%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:48:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $352.11)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $357.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 1 | 0 | 1 | +1.78 USD |
-| HVAB | 2 | 0 | 1 | +1.13 USD |
+| HVAB | 3 | 0 | 0 | +1.18 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| Djdjdjekekek | 12 | 11 | 1 | -2.00 USD |
+| Djdjdjekekek | 13 | 11 | 0 | -1.95 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | HomeRunHazard | 87 | 52 | 6 | -3.86 USD |
@@ -65,18 +65,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 19 | 4 | -27.22 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 201 | 92 | 6 | -57.21 USD |
+| RN1 | 201 | 92 | 7 | -57.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1257
-- **Aciertos:** 802 (63.8%)
-- **Cuota promedio de entrada:** 62.6%
+- **Apuestas resueltas:** 1259
+- **Aciertos:** 804 (63.9%)
+- **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,278.59
+- **Total apostado (suma de stakes):** $6,288.59
 - **ROI sobre lo apostado:** -0.18%
-- **Comisiones pagadas (taker fee):** $117.29 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.69% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $117.30 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.68% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -87,7 +87,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 655 | 50.4% | 50.3% | +0.1 pp |
 | 60-79% | 377 | 70.8% | 67.7% | +3.2 pp |
 | 80-94% | 152 | 88.8% | 87.0% | +1.8 pp |
-| 95-99% (casi seguro) | 73 | 95.9% | 97.3% | -1.4 pp |
+| 95-99% (casi seguro) | 75 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -307,15 +307,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 62% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will O'Higgins FC win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Seahawks vs. Titans | Seahawks (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | kekasaur | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 50% | 5.00 | 16.8% | ⏳ pendiente | — |
-| Djdjdjekekek | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 42.5% | ⏳ pendiente | — |
+| Djdjdjekekek | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 42.5% | ✅ ganada | +0.05 |
 | casualbet2020 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
-| OOOwhyOOO | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 3.2% | ⏳ pendiente | — |
+| OOOwhyOOO | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 3.2% | ✅ ganada | +0.05 |
 | DoNotTailMe | LoL: Dignitas vs FlyQuest - Game 2 Winne | FlyQuest (BUY) | 71% | 5.00 | 67.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Atlanta Braves vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 52% | 5.00 | 40.1% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | No (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -336,4 +337,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Spread: Coritiba FBC (-1.5) | SC Corinthians Paulista (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Winston-Salem Open: Martin Landaluce vs  | Mattia Bellucci (BUY) | 86% | 5.00 | 0.8% | ✅ ganada | +0.78 |
-| swisstony | Will AD Pasto win on 2026-08-23? | No (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |

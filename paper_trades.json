@@ -33832,8 +33832,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -33880,8 +33880,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 100,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "OOOwhyOOO"
     ],
@@ -34035,6 +34035,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787532142.6886554,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787532503,
+    "timestamp_added": 1787532504.3356404,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-asl-pac-2026-08-23-pac",
+    "title": "Will CF Pachuca win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 779.13,
+    "whale_pct": 0.362,
+    "whale_value_at_open": 215389.644,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787532504.3356519,
     "fills": 1
   }
 ]

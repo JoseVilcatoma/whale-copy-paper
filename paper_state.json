@@ -1,5 +1,5 @@
 {
-  "bankroll": 562.1072753445529,
+  "bankroll": 562.202285445563,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6650,6 +6650,16 @@
       "timestamp": 1787531794.7235627,
       "bankroll": 562.11,
       "event": "won: swisstony \u2014 Winston-Salem Open: Pablo Carreno Busta vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1787532600.253071,
+      "bankroll": 562.15,
+      "event": "won: OOOwhyOOO \u2014 Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova"
+    },
+    {
+      "timestamp": 1787532600.4534054,
+      "bankroll": 562.2,
+      "event": "won: Djdjdjekekek \u2014 Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova"
     }
   ]
 }
