@@ -1,5 +1,5 @@
 {
-  "bankroll": 579.9700680647054,
+  "bankroll": 581.1700680647054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8030,6 +8030,11 @@
       "timestamp": 1787606245.4790323,
       "bankroll": 579.97,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Mia Ristic vs Ayana Akli"
+    },
+    {
+      "timestamp": 1787606674.4018419,
+      "bankroll": 581.17,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Toby Samuel vs Francesco Maestrelli"
     }
   ]
 }
