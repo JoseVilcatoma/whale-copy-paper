@@ -36610,8 +36610,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 8800.0,
-    "whale_pct": 11.48,
+    "whale_usd": 9534.002456,
+    "whale_pct": 12.437,
     "whale_value_at_open": 76656.7115,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -36624,8 +36624,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787573692.4770455,
-    "fills": 1
+    "last_fill_at": 1787575274.018984,
+    "fills": 2
   },
   {
     "timestamp": 1787573829,
@@ -36660,8 +36660,8 @@
     "title": "Augsburg: Marko Topo vs Miguel Damas",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 1791.7720000000002,
-    "whale_pct": 1.917,
+    "whale_usd": 2802.2794000000004,
+    "whale_pct": 2.998,
     "whale_value_at_open": 93476.8671,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -36672,8 +36672,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787574313.127669,
-    "fills": 1
+    "last_fill_at": 1787575272.2990522,
+    "fills": 2
   },
   {
     "timestamp": 1787574813,
