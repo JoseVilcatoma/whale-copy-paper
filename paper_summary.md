@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 01:59:03 (hora de Perú)
+Actualizado: 2026-08-24 02:01:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $549.73
@@ -324,7 +324,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 64% | 5.00 | 3.5% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 64% | 5.00 | 5.3% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 94% | 5.00 | 23.5% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 70% | 5.00 | 21.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 81% | 5.00 | 16.1% | ⏳ pendiente | — |
