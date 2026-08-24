@@ -1,5 +1,5 @@
 {
-  "bankroll": 549.7601714422991,
+  "bankroll": 549.1225384635757,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7100,6 +7100,11 @@
       "timestamp": 1787557225.8228154,
       "bankroll": 549.76,
       "event": "venta anticipada: itsonlyamatteroftime \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 3 Winner (+0.03 USD)"
+    },
+    {
+      "timestamp": 1787557543.3065922,
+      "bankroll": 549.12,
+      "event": "venta anticipada: itsonlyamatteroftime \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In (-0.64 USD)"
     }
   ]
 }
