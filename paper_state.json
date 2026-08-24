@@ -1,5 +1,5 @@
 {
-  "bankroll": 592.6829673415671,
+  "bankroll": 593.5273202827435,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7945,6 +7945,11 @@
       "timestamp": 1787604075.6342812,
       "bankroll": 592.68,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Joel Schwaerzler vs Gustavo Heide"
+    },
+    {
+      "timestamp": 1787604249.024027,
+      "bankroll": 593.53,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Remy Bertola vs Alejandro Moro Canas"
     }
   ]
 }

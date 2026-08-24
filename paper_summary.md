@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:42:19 (hora de Perú)
+Actualizado: 2026-08-24 15:44:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $592.68
-**Retorno acumulado:** +18.54%
+**Bankroll actual:** $593.53
+**Retorno acumulado:** +18.71%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:42:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $457.20 en 92 posiciones abiertas (disponible para nuevas apuestas: $135.48)
+**Capital comprometido ahora mismo:** $452.20 en 91 posiciones abiertas (disponible para nuevas apuestas: $141.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,8 +66,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
+| HomeRunHazard | 129 | 68 | 35 | -6.33 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 128 | 68 | 36 | -7.17 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -80,14 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1507
-- **Aciertos:** 980 (65.0%)
+- **Apuestas resueltas:** 1508
+- **Aciertos:** 981 (65.1%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,526.62
-- **ROI sobre lo apostado:** +0.10%
-- **Comisiones pagadas (taker fee):** $136.34 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.91% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,531.62
+- **ROI sobre lo apostado:** +0.11%
+- **Comisiones pagadas (taker fee):** $136.38 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,7 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 738 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 459 | 71.9% | 67.7% | +4.2 pp |
-| 80-94% | 207 | 87.0% | 87.0% | -0.1 pp |
+| 80-94% | 208 | 87.0% | 87.0% | -0.0 pp |
 | 95-99% (casi seguro) | 103 | 96.1% | 97.3% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -389,7 +389,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Gonzalo Buen | Billy Harris (BUY) | 98% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Sebastian Gorzny vs  | Sebastian Gorzny (BUY) | 84% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 119.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ✅ ganada | +0.84 |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ariana Arseneault vs Terez | Tereza Valentova (BUY) | 95% | 5.00 | 2.6% | ⏳ pendiente | — |
