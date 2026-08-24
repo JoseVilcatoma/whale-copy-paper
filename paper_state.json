@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.3492418861234,
+  "bankroll": 560.4462827024499,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7300,6 +7300,11 @@
       "timestamp": 1787583636.8284585,
       "bankroll": 560.35,
       "event": "won: ferrariChampions2026 \u2014 LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In"
+    },
+    {
+      "timestamp": 1787584070.8689144,
+      "bankroll": 560.45,
+      "event": "won: RN1 \u2014 ITF W35 Trieste Women: Amelie Justine Hejtmanek vs Barbora Michalkova"
     }
   ]
 }
