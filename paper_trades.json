@@ -41094,8 +41094,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -42155,8 +42155,8 @@
     "title": "Boston Red Sox vs. Miami Marlins",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 7386.9979,
-    "whale_pct": 3.072,
+    "whale_usd": 11037.9323,
+    "whale_pct": 4.591,
     "whale_value_at_open": 240423.7531,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -42169,8 +42169,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787609038.2743602,
-    "fills": 2
+    "last_fill_at": 1787613448.7120275,
+    "fills": 3
   },
   {
     "timestamp": 1787607393,
@@ -43229,8 +43229,8 @@
     "title": "Spread: Atlanta Dream (-9.5)",
     "outcome": "Atlanta Dream",
     "side": "BUY",
-    "whale_usd": 4271.7053,
-    "whale_pct": 1.501,
+    "whale_usd": 8673.7053,
+    "whale_pct": 3.048,
     "whale_value_at_open": 284548.4561,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -43241,8 +43241,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787613307.5200963,
-    "fills": 3
+    "last_fill_at": 1787613538.3042974,
+    "fills": 6
   },
   {
     "timestamp": 1787613350,

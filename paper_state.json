@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.210194685888,
+  "bankroll": 584.1797108149203,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8270,6 +8270,11 @@
       "timestamp": 1787613281.7220285,
       "bankroll": 581.21,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Francesco Passaro vs Felix Gill"
+    },
+    {
+      "timestamp": 1787613531.8801324,
+      "bankroll": 584.18,
+      "event": "won: ferrariChampions2026 \u2014 Gil Vicente FC vs. Casa Pia AC: O/U 2.5"
     }
   ]
 }
