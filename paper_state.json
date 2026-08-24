@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.8050907015813,
+  "bankroll": 536.4097573682479,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7045,6 +7045,11 @@
       "timestamp": 1787547558.4548554,
       "bankroll": 534.81,
       "event": "lost: swisstony \u2014 Will Club Necaxa win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787548817.6498747,
+      "bankroll": 536.41,
+      "event": "won: swisstony \u2014 Will Once Caldas win on 2026-08-22?"
     }
   ]
 }
