@@ -38838,8 +38838,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx: O/U 160.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 700.3104,
-    "whale_pct": 0.601,
+    "whale_usd": 1967.3114,
+    "whale_pct": 1.688,
     "whale_value_at_open": 116552.7749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -38850,8 +38850,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586925.3405366,
-    "fills": 1
+    "last_fill_at": 1787590829.7344723,
+    "fills": 2
   },
   {
     "timestamp": 1787587280,
@@ -38940,8 +38940,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 10835.647176,
-    "whale_pct": 8.705,
+    "whale_usd": 11563.488996,
+    "whale_pct": 9.289,
     "whale_value_at_open": 124480.5019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -38952,8 +38952,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590399.1481225,
-    "fills": 7
+    "last_fill_at": 1787590788.7886064,
+    "fills": 8
   },
   {
     "timestamp": 1787587580,
@@ -39419,8 +39419,8 @@
     "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
     "outcome": "Jordan Lee",
     "side": "BUY",
-    "whale_usd": 4916.838956,
-    "whale_pct": 1.895,
+    "whale_usd": 11922.380955999999,
+    "whale_pct": 4.596,
     "whale_value_at_open": 259412.8909,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -39431,8 +39431,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590356.012625,
-    "fills": 3
+    "last_fill_at": 1787590734.0546792,
+    "fills": 4
   },
   {
     "timestamp": 1787590109,
@@ -39507,5 +39507,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787590486.3538272,
     "fills": 3
+  },
+  {
+    "timestamp": 1787590729,
+    "timestamp_added": 1787590729.896579,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-tian-per-2026-08-24",
+    "title": "Philadelphia: Fangran Tian vs Lucciana Perez",
+    "outcome": "Fangran Tian",
+    "side": "BUY",
+    "whale_usd": 749.619,
+    "whale_pct": 0.281,
+    "whale_value_at_open": 266912.2311,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787590729.8965912,
+    "fills": 1
   }
 ]
