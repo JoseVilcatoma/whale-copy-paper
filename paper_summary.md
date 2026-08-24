@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 22:15:25 (hora de Perú)
+Actualizado: 2026-08-23 22:17:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $548.95
@@ -317,7 +317,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 60% | 5.00 | 13.7% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 60% | 5.00 | 32.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 46% | 5.00 | 293.6% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 50.7% | ⏳ pendiente | — |

@@ -35093,8 +35093,8 @@
     "title": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva",
     "outcome": "Yulia Starodubtseva",
     "side": "BUY",
-    "whale_usd": 4103.0016,
-    "whale_pct": 13.699,
+    "whale_usd": 9820.0006,
+    "whale_pct": 32.787,
     "whale_value_at_open": 29951.3077,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -35109,7 +35109,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787540447.267548,
-    "fills": 1
+    "last_fill_at": 1787541375.6605945,
+    "fills": 2
   }
 ]
