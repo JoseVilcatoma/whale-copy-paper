@@ -36097,8 +36097,8 @@
     "title": "Roehampton 2: Radu Albot vs Leonardo Rossi",
     "outcome": "Radu Albot",
     "side": "BUY",
-    "whale_usd": 13818.129173000001,
-    "whale_pct": 10.681,
+    "whale_usd": 15386.501573000001,
+    "whale_pct": 11.893,
     "whale_value_at_open": 129373.1348,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -36109,8 +36109,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787570685.0886385,
-    "fills": 3
+    "last_fill_at": 1787572732.0081027,
+    "fills": 4
   },
   {
     "timestamp": 1787568290,

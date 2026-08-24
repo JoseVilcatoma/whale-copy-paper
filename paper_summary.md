@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 06:57:50 (hora de Perú)
+Actualizado: 2026-08-24 06:59:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $554.14
@@ -340,7 +340,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Federico Iannaccone vs Oleksii | Oleksii Krutykh (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Vit Kopriva (BUY) | 42% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Leonardo Rossi (BUY) | 56% | 5.00 | 9.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Radu Albot (BUY) | 83% | 5.00 | 10.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Radu Albot (BUY) | 83% | 5.00 | 11.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 10.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Matthew William Donald (BUY) | 41% | 5.00 | 1.7% | ❌ perdida | -5.15 |
