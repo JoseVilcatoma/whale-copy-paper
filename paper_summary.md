@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:21:13 (hora de Perú)
+Actualizado: 2026-08-23 19:23:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $566.61
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:21:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $361.61)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $356.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| Djdjdjekekek | 12 | 11 | 0 | -2.00 USD |
+| Djdjdjekekek | 12 | 11 | 1 | -2.00 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | HomeRunHazard | 87 | 52 | 6 | -3.86 USD |
@@ -301,11 +301,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | val-nv2-g21-2026-08-23 | Wiretransferxyz, casualbet2020 |
 | bra-cha-sao-2026-08-23-cha | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3, swisstony |
 | mls-atl-skc-2026-08-23-total-3pt5 | kekasaur, swisstony |
+| wta-timofee-rakhimo-2026-08-23 | Djdjdjekekek, OOOwhyOOO |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 20.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
 | OOOwhyOOO | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 3.2% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Dignitas vs FlyQuest - Game 2 Winne | FlyQuest (BUY) | 71% | 5.00 | 67.8% | ⏳ pendiente | — |
@@ -335,4 +337,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Cincinnati Open: Coco Gauff vs Jessica P | Jessica Pegula (BUY) | 42% | 5.00 | 89.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dignitas vs FlyQuest - Game 1 Winne | FlyQuest (BUY) | 95% | 5.00 | 5.1% | 💰 vendida anticipada | -0.19 |
 | casualbet2020 | Valorant: Team Envy vs G2 Esports - Map  | G2 Esports (BUY) | 64% | 5.00 | 47.1% | ❌ perdida | -5.09 |
-| casualbet2020 | Valorant: Team Envy vs G2 Esports (BO3)  | G2 Esports (BUY) | 88% | 5.00 | 117.2% | ⏳ pendiente | — |

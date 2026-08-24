@@ -33863,5 +33863,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787530642.6583567,
     "fills": 1
+  },
+  {
+    "timestamp": 1787530887,
+    "timestamp_added": 1787530888.1586843,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-timofee-rakhimo-2026-08-23",
+    "title": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova",
+    "outcome": "Maria Timofeeva",
+    "side": "BUY",
+    "whale_usd": 711.63765,
+    "whale_pct": 20.622,
+    "whale_value_at_open": 3450.8537,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "OOOwhyOOO"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787530888.1586945,
+    "fills": 1
   }
 ]
