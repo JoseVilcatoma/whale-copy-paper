@@ -36760,8 +36760,8 @@
     "title": "Boston Red Sox vs. Miami Marlins: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3562.7696,
-    "whale_pct": 9.221,
+    "whale_usd": 4627.8886,
+    "whale_pct": 11.978,
     "whale_value_at_open": 38636.7897,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -36774,8 +36774,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787575480.5168266,
-    "fills": 1
+    "last_fill_at": 1787597443.6496887,
+    "fills": 2
   },
   {
     "timestamp": 1787575669,
@@ -38947,8 +38947,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.47,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -39173,8 +39173,8 @@
     "odds_at_bet": 97,
     "fee_usd": 0.008,
     "odds_ballena": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -40070,8 +40070,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.27,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -40392,8 +40392,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.03,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -40753,5 +40753,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787596432.0727417,
     "fills": 1
+  },
+  {
+    "timestamp": 1787597368,
+    "timestamp_added": 1787597368.2305353,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-cecchin-broady-2026-08-24",
+    "title": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady",
+    "outcome": "Marco Cecchinato",
+    "side": "BUY",
+    "whale_usd": 6472.323899999999,
+    "whale_pct": 2.796,
+    "whale_value_at_open": 231454.3059,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787597372.794754,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787597368,
+    "timestamp_added": 1787597368.804351,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cecchin-broady-2026-08-24",
+    "title": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady",
+    "outcome": "Marco Cecchinato",
+    "side": "BUY",
+    "whale_usd": 6348.7318,
+    "whale_pct": 3.454,
+    "whale_value_at_open": 183787.0437,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787597370.9405026,
+    "fills": 3
   }
 ]

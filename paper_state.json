@@ -1,5 +1,5 @@
 {
-  "bankroll": 577.8102963200413,
+  "bankroll": 575.6723821662752,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7635,6 +7635,26 @@
       "timestamp": 1787597323.636854,
       "bankroll": 577.81,
       "event": "won: swisstony \u2014 US Open, Qualification WTA: Madison Brengle vs Anastasia Gasanova"
+    },
+    {
+      "timestamp": 1787597443.725803,
+      "bankroll": 578.28,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas"
+    },
+    {
+      "timestamp": 1787597444.2266932,
+      "bankroll": 578.43,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas"
+    },
+    {
+      "timestamp": 1787597448.469762,
+      "bankroll": 580.7,
+      "event": "won: swisstony \u2014 Bologna FC 1909 vs. SS Lazio: O/U 1.5"
+    },
+    {
+      "timestamp": 1787597449.6718426,
+      "bankroll": 575.67,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas"
     }
   ]
 }
