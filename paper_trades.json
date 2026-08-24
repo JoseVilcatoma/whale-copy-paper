@@ -35919,5 +35919,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787562781.2462487,
     "fills": 1
+  },
+  {
+    "timestamp": 1787562854,
+    "timestamp_added": 1787562855.0240753,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-marino-ferro-2026-08-24",
+    "title": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro",
+    "outcome": "Fiona Ferro",
+    "side": "BUY",
+    "whale_usd": 2864.9928,
+    "whale_pct": 4.442,
+    "whale_value_at_open": 64502.2487,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787562919.5901725,
+    "fills": 2
   }
 ]
