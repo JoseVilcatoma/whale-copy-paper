@@ -34730,5 +34730,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787537417.6338394,
     "fills": 1
+  },
+  {
+    "timestamp": 1787537688,
+    "timestamp_added": 1787537688.916195,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-rac-boc-2026-08-23-total-3pt5",
+    "title": "Racing Club vs. CA Boca Juniors: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 699.8399999999999,
+    "whale_pct": 0.405,
+    "whale_value_at_open": 172914.407,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787537688.9162095,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787537692,
+    "timestamp_added": 1787537692.3318565,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-rac-boc-2026-08-23-boc",
+    "title": "Will CA Boca Juniors win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 644.0799999999999,
+    "whale_pct": 0.372,
+    "whale_value_at_open": 172914.407,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787537692.331871,
+    "fills": 1
   }
 ]

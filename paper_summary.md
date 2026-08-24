@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:14:10 (hora de Perú)
+Actualizado: 2026-08-23 21:16:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:14:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $288.45)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $278.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 202 | 92 | 13 | -57.16 USD |
+| RN1 | 202 | 92 | 15 | -57.16 USD |
 
 ## Análisis general
 
@@ -307,12 +307,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-sea-ten-2026-08-24 | Djdjdjekekek, RN1 |
 | atp-baez-hurkacz-2026-08-23 | HomeRunHazard, swisstony |
 | wta-joint-putints-2026-08-23 | HomeRunHazard, RN1, swisstony |
+| arg-rac-boc-2026-08-23-total-3pt5 | RN1, swisstony |
 | arg-rac-boc-2026-08-23-total-2pt5 | RN1, swisstony |
+| arg-rac-boc-2026-08-23-boc | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 2.5 | Under (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Racing Club win on 2026-08-23? | No (BUY) | 86% | 5.00 | 1.6% | ⏳ pendiente | — |
 | swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -341,5 +345,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | quavoo | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | LDU Quito vs. CS Emelec: O/U 5.5 | Under (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
