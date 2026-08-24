@@ -1,5 +1,5 @@
 {
-  "bankroll": 563.1321616900981,
+  "bankroll": 560.1281774957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7365,6 +7365,26 @@
       "timestamp": 1787589681.2587597,
       "bankroll": 563.13,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Natus Vincere vs Fnatic - Game 2 Winner (-2.61 USD)"
+    },
+    {
+      "timestamp": 1787589745.526449,
+      "bankroll": 558.03,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1787589762.6508613,
+      "bankroll": 559.55,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1787589765.3499298,
+      "bankroll": 560.14,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro"
+    },
+    {
+      "timestamp": 1787589799.2012448,
+      "bankroll": 560.13,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich (-0.02 USD)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 11:41:53 (hora de Perú)
+Actualizado: 2026-08-24 11:43:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $563.13
-**Retorno acumulado:** +12.63%
+**Bankroll actual:** $560.13
+**Retorno acumulado:** +12.03%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 11:41:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $560.00 en 112 posiciones abiertas (disponible para nuevas apuestas: $3.13)
+**Capital comprometido ahora mismo:** $545.00 en 109 posiciones abiertas (disponible para nuevas apuestas: $15.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,8 +26,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 224 | 121 | 42 | +22.00 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
+| ferrariChampions2026 | 225 | 122 | 41 | +18.42 USD |
 | ChonkyChocolateCake | 29 | 17 | 2 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| HVAB | 4 | 0 | 1 | +1.38 USD |
+| HVAB | 4 | 1 | 0 | +1.36 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 100 | 59 | 34 | -11.05 USD |
+| HomeRunHazard | 101 | 59 | 33 | -10.46 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 31 | 22 | 2 | -52.47 USD |
@@ -78,14 +78,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1395
-- **Aciertos:** 901 (64.6%)
+- **Apuestas resueltas:** 1398
+- **Aciertos:** 903 (64.6%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,968.59
-- **ROI sobre lo apostado:** -0.29%
-- **Comisiones pagadas (taker fee):** $127.34 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.54% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,983.59
+- **ROI sobre lo apostado:** -0.33%
+- **Comisiones pagadas (taker fee):** $127.52 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.50% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,8 +94,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 697 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 422 | 71.8% | 67.7% | +4.1 pp |
-| 80-94% | 186 | 88.2% | 87.1% | +1.0 pp |
+| 60-79% | 424 | 71.7% | 67.7% | +4.0 pp |
+| 80-94% | 187 | 88.2% | 87.1% | +1.1 pp |
 | 95-99% (casi seguro) | 90 | 96.7% | 97.5% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -359,7 +359,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| OOOwhyOOO | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 66% | 5.00 | 6.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 87% | 5.00 | 5.2% | ⏳ pendiente | — |
+| OOOwhyOOO | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 66% | 5.00 | 6.2% | 💰 vendida anticipada | -0.02 |
 | HomeRunHazard | Augsburg: Mili Poljicak vs Max Schoenhau | Max Schoenhaus (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Erika Andree | Mariam Bolkvadze (BUY) | 60% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Ayla Aksu vs | Lucrezia Stefanini (BUY) | 82% | 5.00 | 13.7% | ⏳ pendiente | — |
@@ -387,5 +388,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 88% | 5.00 | 20.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Clara Burel  | Clara Burel (BUY) | 91% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Kimmer Coppe | Jurij Rodionov (BUY) | 88% | 5.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Rebecca Mari | Rebecca Marino (BUY) | 89% | 5.00 | 3.8% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 67% | 5.00 | 15384.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Rebecca Mari | Rebecca Marino (BUY) | 89% | 5.00 | 3.8% | ✅ ganada | +0.59 |
