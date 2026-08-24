@@ -36610,8 +36610,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 9534.002456,
-    "whale_pct": 12.437,
+    "whale_usd": 10277.072631000001,
+    "whale_pct": 13.407,
     "whale_value_at_open": 76656.7115,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -36624,8 +36624,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787575274.018984,
-    "fills": 2
+    "last_fill_at": 1787576320.2692125,
+    "fills": 3
   },
   {
     "timestamp": 1787573829,
