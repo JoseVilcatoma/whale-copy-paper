@@ -1,5 +1,5 @@
 {
-  "bankroll": 547.0784343817332,
+  "bankroll": 545.0291556932086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6680,6 +6680,16 @@
       "timestamp": 1787533960.777169,
       "bankroll": 547.08,
       "event": "won: swisstony \u2014 Will AD Pasto win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787534959.2285755,
+      "bankroll": 550.18,
+      "event": "won: swisstony \u2014 Atlanta United FC vs. Sporting Kansas City: O/U 3.5"
+    },
+    {
+      "timestamp": 1787534959.3287191,
+      "bankroll": 545.03,
+      "event": "lost: kekasaur \u2014 Atlanta United FC vs. Sporting Kansas City: O/U 3.5"
     }
   ]
 }

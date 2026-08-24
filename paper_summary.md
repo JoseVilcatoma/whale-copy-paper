@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 20:27:21 (hora de Perú)
+Actualizado: 2026-08-23 20:29:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $547.08
-**Retorno acumulado:** +9.42%
+**Bankroll actual:** $545.03
+**Retorno acumulado:** +9.01%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 20:27:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $317.08)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $320.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,8 +22,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 11 | 2 | +41.02 USD |
+| swisstony | 36 | 3 | 11 | +40.86 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
-| swisstony | 35 | 3 | 12 | +37.76 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
 | SDTrading | 20 | 14 | 1 | +16.65 USD |
@@ -31,11 +31,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 14 | 7 | 1 | +14.23 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| kekasaur | 3 | 1 | 2 | +10.22 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| kekasaur | 3 | 2 | 1 | +5.07 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ferrariChampions2026 | 204 | 115 | 0 | +3.88 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 13 | 11 | 1 | -1.95 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| HomeRunHazard | 87 | 52 | 9 | -3.86 USD |
+| HomeRunHazard | 87 | 52 | 10 | -3.86 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
@@ -70,14 +70,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1263
-- **Aciertos:** 805 (63.7%)
+- **Apuestas resueltas:** 1265
+- **Aciertos:** 806 (63.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,308.59
-- **ROI sobre lo apostado:** -0.42%
-- **Comisiones pagadas (taker fee):** $117.74 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.45% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,318.59
+- **ROI sobre lo apostado:** -0.45%
+- **Comisiones pagadas (taker fee):** $117.99 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,8 +85,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 658 | 50.2% | 50.2% | -0.1 pp |
-| 60-79% | 377 | 70.8% | 67.7% | +3.2 pp |
+| 40-59% | 659 | 50.1% | 50.2% | -0.1 pp |
+| 60-79% | 378 | 70.9% | 67.6% | +3.3 pp |
 | 80-94% | 153 | 88.9% | 87.0% | +1.9 pp |
 | 95-99% (casi seguro) | 75 | 96.0% | 97.4% | -1.4 pp |
 
@@ -310,6 +310,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Rinky Hijikata vs Da | Rinky Hijikata (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Sebastian Baez (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -337,6 +338,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Monterrey Open, Qualification: Panna Udv | Darja Vidmanova (BUY) | 99% | 5.00 | 0.1% | ✅ ganada | +0.05 |
 | beachboy4 | Will Atlanta United FC win on 2026-08-23 | No (BUY) | 44% | 5.00 | 1588.8% | ⏳ pendiente | — |
 | swisstony | Club Nacional de Football vs. CA Progres | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
-| kekasaur | Atlanta United FC vs. Sporting Kansas Ci | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Atlanta United FC vs. Sporting Kansas Ci | Under (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will CA River Plate win on 2026-08-23? | Yes (BUY) | 82% | 5.00 | 0.3% | ❌ perdida | -5.04 |
+| kekasaur | Atlanta United FC vs. Sporting Kansas Ci | Over (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
+| swisstony | Atlanta United FC vs. Sporting Kansas Ci | Under (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
