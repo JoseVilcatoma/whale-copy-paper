@@ -41497,8 +41497,8 @@
     "title": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo",
     "outcome": "Kaitlin Quevedo",
     "side": "BUY",
-    "whale_usd": 1955.7572,
-    "whale_pct": 0.99,
+    "whale_usd": 3676.8748,
+    "whale_pct": 1.862,
     "whale_value_at_open": 197454.7113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -41509,8 +41509,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787603436.8699112,
-    "fills": 2
+    "last_fill_at": 1787607115.7782292,
+    "fills": 3
   },
   {
     "timestamp": 1787601665,
@@ -41888,8 +41888,8 @@
     "title": "Philadelphia: Talia Gibson vs Lizette Cabrera",
     "outcome": "Lizette Cabrera",
     "side": "BUY",
-    "whale_usd": 3164.880833,
-    "whale_pct": 1.654,
+    "whale_usd": 4076.717633,
+    "whale_pct": 2.13,
     "whale_value_at_open": 191399.8108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -41900,8 +41900,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787606900.232686,
-    "fills": 2
+    "last_fill_at": 1787607052.6981168,
+    "fills": 3
   },
   {
     "timestamp": 1787605727,
@@ -42144,6 +42144,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787606451.073254,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787607023,
+    "timestamp_added": 1787607023.7736576,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bos-mia-2026-08-24",
+    "title": "Boston Red Sox vs. Miami Marlins",
+    "outcome": "Miami Marlins",
+    "side": "BUY",
+    "whale_usd": 4375.9984,
+    "whale_pct": 1.82,
+    "whale_value_at_open": 240423.7531,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787607023.773672,
     "fills": 1
   }
 ]
