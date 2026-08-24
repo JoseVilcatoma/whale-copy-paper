@@ -1,5 +1,5 @@
 {
-  "bankroll": 553.7497681668349,
+  "bankroll": 552.5253395954063,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7180,6 +7180,16 @@
       "timestamp": 1787576462.0274563,
       "bankroll": 553.75,
       "event": "lost: Painfulvoid \u2014 Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage"
+    },
+    {
+      "timestamp": 1787576896.5370314,
+      "bankroll": 548.71,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Radu Albot vs Leonardo Rossi"
+    },
+    {
+      "timestamp": 1787576896.6372256,
+      "bankroll": 552.53,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Radu Albot vs Leonardo Rossi"
     }
   ]
 }
