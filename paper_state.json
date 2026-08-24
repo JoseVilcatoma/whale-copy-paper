@@ -1,5 +1,5 @@
 {
-  "bankroll": 596.6684851106974,
+  "bankroll": 593.362752579575,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8085,6 +8085,46 @@
       "timestamp": 1787608112.9590104,
       "bankroll": 596.67,
       "event": "won: swisstony \u2014 Spread: Chelsea FC (-1.5)"
+    },
+    {
+      "timestamp": 1787608507.885748,
+      "bankroll": 591.53,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild"
+    },
+    {
+      "timestamp": 1787608509.1818764,
+      "bankroll": 594.76,
+      "event": "won:  \u2014 US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild"
+    },
+    {
+      "timestamp": 1787608511.8987627,
+      "bankroll": 597.74,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia"
+    },
+    {
+      "timestamp": 1787608511.9989374,
+      "bankroll": 592.59,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia"
+    },
+    {
+      "timestamp": 1787608512.0991352,
+      "bankroll": 595.96,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia"
+    },
+    {
+      "timestamp": 1787608517.183668,
+      "bankroll": 598.46,
+      "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild"
+    },
+    {
+      "timestamp": 1787608517.2838333,
+      "bankroll": 593.32,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild"
+    },
+    {
+      "timestamp": 1787608520.9146059,
+      "bankroll": 593.36,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Victoria Jimenez Kasintseva vs Francisca Jorge"
     }
   ]
 }
