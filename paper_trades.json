@@ -36802,5 +36802,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787575669.789771,
     "fills": 1
+  },
+  {
+    "timestamp": 1787575909,
+    "timestamp_added": 1787575910.139161,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-phi-sea-2026-08-24-total-7pt5",
+    "title": "Philadelphia Phillies vs. Seattle Mariners: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 612.528,
+    "whale_pct": 1.433,
+    "whale_value_at_open": 42740.8615,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787575910.1391754,
+    "fills": 1
   }
 ]

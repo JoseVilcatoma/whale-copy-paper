@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:50:51 (hora de Perú)
+Actualizado: 2026-08-24 07:52:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $558.83
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 07:50:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $318.83)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $313.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 214 | 117 | 17 | +16.91 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| SDTrading | 20 | 15 | 1 | +11.54 USD |
+| SDTrading | 20 | 15 | 2 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
@@ -336,6 +336,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 9.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Oskari Paldanius (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
@@ -365,4 +366,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Vit Kopriva (BUY) | 42% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Leonardo Rossi (BUY) | 56% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Radu Albot (BUY) | 83% | 5.00 | 11.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 6.2% | ⏳ pendiente | — |
