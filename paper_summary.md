@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 06:43:20 (hora de Perú)
+Actualizado: 2026-08-24 06:45:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 06:43:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $380.65)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $375.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| ferrariChampions2026 | 212 | 117 | 14 | +12.22 USD |
+| ferrariChampions2026 | 212 | 117 | 15 | +12.22 USD |
 | SDTrading | 20 | 15 | 0 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -329,6 +329,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Winston-Salem Open: Quinn Vandecasteele  | James Duckworth (BUY) | 76% | 5.00 | 13.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 44% | 5.00 | 18.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 90% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -358,4 +359,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 64% | 5.00 | 20.7% | ❌ perdida | -5.09 |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 94% | 5.00 | 23.5% | 💰 vendida anticipada | -0.64 |
 | SPCEXBUYER | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 70% | 5.00 | 21.0% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 81% | 5.00 | 26.0% | ✅ ganada | +1.13 |
