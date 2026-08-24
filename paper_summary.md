@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:29:05 (hora de Perú)
+Actualizado: 2026-08-24 10:31:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $561.10
-**Retorno acumulado:** +12.22%
+**Bankroll actual:** $561.30
+**Retorno acumulado:** +12.26%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:29:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $181.10)
+**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $171.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 3 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 222 | 120 | 22 | +22.27 USD |
+| ferrariChampions2026 | 222 | 120 | 24 | +22.27 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -69,21 +69,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 100 | 59 | 18 | -11.05 USD |
+| HomeRunHazard | 100 | 59 | 19 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 30 | 22 | 3 | -52.94 USD |
-| RN1 | 221 | 97 | 12 | -53.85 USD |
+| RN1 | 222 | 97 | 11 | -53.65 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1386
-- **Aciertos:** 895 (64.6%)
+- **Apuestas resueltas:** 1387
+- **Aciertos:** 896 (64.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,923.59
+- **Total apostado (suma de stakes):** $6,928.59
 - **ROI sobre lo apostado:** -0.25%
-- **Comisiones pagadas (taker fee):** $126.69 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $126.70 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -95,7 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 693 | 49.8% | 50.2% | -0.4 pp |
 | 60-79% | 421 | 71.7% | 67.7% | +4.1 pp |
 | 80-94% | 183 | 88.5% | 87.1% | +1.4 pp |
-| 95-99% (casi seguro) | 89 | 96.6% | 97.5% | -0.8 pp |
+| 95-99% (casi seguro) | 90 | 96.7% | 97.5% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -345,6 +345,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Rebecca Marino (BUY) | 76% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Mili Poljicak vs Max Schoenhau | Mili Poljicak (BUY) | 41% | 5.00 | 2.1% | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Over (BUY) | 54% | 5.00 | 4.9% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: KRÜ Blaze vs Looking For Labur | KRÜ Blaze (BUY) | 72% | 5.00 | 10.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia: Veronika Erjavec vs Julia  | Veronika Erjavec (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Mili Poljicak vs Max Schoenhau | Max Schoenhaus (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -352,7 +355,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Veronika Erjavec vs Julia  | Julia Grabher (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Diego Dedura-Palomero (BUY) | 43% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 96% | 5.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 96% | 5.00 | 6.9% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Jaeda Daniel vs Kylie Coll | Kylie Collins (BUY) | 81% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | SC Verl vs. Hamburger SV: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kayla Day vs | Julieta Pareja (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -372,6 +375,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 15.8% | ⏳ pendiente | — |
-| RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ✅ ganada | +0.10 |
