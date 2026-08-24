@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:54:03 (hora de Perú)
+Actualizado: 2026-08-24 17:56:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $579.96
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:54:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $154.96)
+**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $144.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,11 +73,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 147 | 77 | 45 | -17.70 USD |
+| HomeRunHazard | 147 | 77 | 46 | -17.70 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 3 | -38.29 USD |
 | RN1 | 229 | 101 | 10 | -41.80 USD |
-|  | 32 | 23 | 0 | -54.37 USD |
+|  | 32 | 23 | 1 | -54.37 USD |
 
 ## Análisis general
 
@@ -379,11 +379,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-waltert-crawley-2026-08-24 | HomeRunHazard, RN1 |
 | atp-passaro-gill-2026-08-24 | HomeRunHazard, RN1 |
 | mlb-col-wsh-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
+| atp-wong-moeller-2026-08-24 | , RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 1.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Veronika Podrez (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -412,5 +415,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Ugo Blanchet (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Otto Virtanen (BUY) | 64% | 5.00 | 5.3% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Mees Rottgering (BUY) | 75% | 5.00 | 2.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Carson Brans | Carson Branstine (BUY) | 89% | 5.00 | 2.8% | ⏳ pendiente | — |
