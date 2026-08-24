@@ -1,5 +1,5 @@
 {
-  "bankroll": 548.1340493486147,
+  "bankroll": 548.5488319573103,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6895,6 +6895,11 @@
       "timestamp": 1787540344.8033519,
       "bankroll": 548.13,
       "event": "won: swisstony \u2014 CSD Mixco vs. CD Guastatoya: O/U 3.5"
+    },
+    {
+      "timestamp": 1787540660.9892702,
+      "bankroll": 548.55,
+      "event": "won: RN1 \u2014 Will O'Higgins FC win on 2026-08-23?"
     }
   ]
 }
