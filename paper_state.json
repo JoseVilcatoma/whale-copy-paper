@@ -1,5 +1,5 @@
 {
-  "bankroll": 535.3551332212985,
+  "bankroll": 535.4026382718035,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6705,6 +6705,11 @@
       "timestamp": 1787535262.898757,
       "bankroll": 535.36,
       "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Toronto Tempo: O/U 180.5"
+    },
+    {
+      "timestamp": 1787536257.011838,
+      "bankroll": 535.4,
+      "event": "won: RN1 \u2014 Monterrey Open, Qualification: Anna Bondar vs En-Shuo Liang"
     }
   ]
 }
