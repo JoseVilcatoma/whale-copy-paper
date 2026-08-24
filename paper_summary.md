@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 01:06:29 (hora de Perú)
+Actualizado: 2026-08-24 01:08:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $549.73
@@ -322,7 +322,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 81% | 5.00 | 9.8% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 81% | 5.00 | 13.7% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 16.4% | ⏳ pendiente | — |
 | hi774c | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 28.9% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 26.3% | ⏳ pendiente | — |
