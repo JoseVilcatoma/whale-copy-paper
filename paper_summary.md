@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:06:03 (hora de Perú)
+Actualizado: 2026-08-24 09:08:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:06:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $247.93)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $232.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| BOOMBOYS.Kiritych | 22 | 12 | 2 | +25.66 USD |
+| BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | ferrariChampions2026 | 217 | 119 | 17 | +15.90 USD |
@@ -72,8 +72,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 97 | 58 | 15 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 216 | 94 | 9 | -47.48 USD |
-|  | 30 | 22 | 0 | -52.94 USD |
+| RN1 | 216 | 94 | 10 | -47.48 USD |
+|  | 30 | 22 | 1 | -52.94 USD |
 
 ## Análisis general
 
@@ -338,6 +338,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Counter-Strike: GenOne vs Leo Team - Map | GenOne (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
+|  | Will Stade de Reims win on 2026-08-24? | No (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Aca | Alliance (BUY) | 41% | 5.00 | 168.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Max Basing vs Christian La | Max Basing (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 24.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -365,6 +368,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 44% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 41% | 5.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 27.5% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 19.4% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 6.4% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
