@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:49:57 (hora de Perú)
+Actualizado: 2026-08-24 17:52:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $579.96
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:49:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $164.96)
+**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $154.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,10 +73,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 147 | 77 | 44 | -17.70 USD |
+| HomeRunHazard | 147 | 77 | 45 | -17.70 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 3 | -38.29 USD |
-| RN1 | 229 | 101 | 9 | -41.80 USD |
+| RN1 | 229 | 101 | 10 | -41.80 USD |
 |  | 32 | 23 | 0 | -54.37 USD |
 
 ## Análisis general
@@ -384,6 +384,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 73% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -400,7 +402,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 95% | 5.00 | 5.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Caroline Dolehide (BUY) | 73% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Harry Wendel | Stefano Travaglia (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will CA Central Córdoba win on 2026-08-2 | No (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will CA Central Córdoba win on 2026-08-2 | No (BUY) | 98% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Francesco Pa | Francesco Passaro (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 63% | 5.00 | 7.7% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 52% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -410,7 +412,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ✅ ganada | +0.41 |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Ugo Blanchet (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Otto Virtanen (BUY) | 64% | 5.00 | 5.3% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Mees Rottgering (BUY) | 75% | 5.00 | 2.1% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Mees Rottgering (BUY) | 75% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Carson Brans | Carson Branstine (BUY) | 89% | 5.00 | 2.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Pol Martin T | Tom Gentzsch (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
