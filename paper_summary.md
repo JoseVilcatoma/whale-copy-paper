@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:05:44 (hora de Perú)
+Actualizado: 2026-08-24 14:09:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $580.23
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 14:05:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $557.01 en 112 posiciones abiertas (disponible para nuevas apuestas: $23.22)
+**Capital comprometido ahora mismo:** $577.01 en 116 posiciones abiertas (disponible para nuevas apuestas: $3.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 67 | 9 | 7 | +61.29 USD |
+| swisstony | 67 | 9 | 11 | +61.29 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 20 | 2 | +39.26 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
@@ -375,6 +375,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will Levante UD win on 2026-08-24? | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | US Open, Qualification WTA: Polina Iatce | Polina Iatcenko (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | CA Osasuna vs. Levante UD: O/U 1.5 | Under (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Gil Vicente FC vs. Casa Pia AC: O/U 2.5 | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Ristic vs Akli | Akli (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Mia Ristic v | Ayana Akli (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -401,7 +405,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 99% | 5.00 | 30.5% | ✅ ganada | +0.05 |
 | HomeRunHazard | Kingston 2: Bruno Kuzuhara vs Thomas Fan | Thomas Fancutt (BUY) | 95% | 5.00 | 0.5% | ✅ ganada | +0.25 |
 | HomeRunHazard | Philadelphia: Oksana Selekhmeteva vs Tay | Oksana Selekhmeteva (BUY) | 54% | 5.00 | 3.3% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Lois Boisson vs Capucine J | Lois Boisson (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 82% | 5.00 | 54.6% | 💰 vendida anticipada | +0.10 |
-| HomeRunHazard | US Open, Qualification ATP: Luka Pavlovi | Juan Pablo Varillas (BUY) | 88% | 5.00 | 3.8% | ❌ perdida | -5.03 |
-| swisstony | AS Roma vs. ACF Fiorentina: O/U 5.5 | Under (BUY) | 97% | 5.00 | 0.1% | ⏳ pendiente | — |
