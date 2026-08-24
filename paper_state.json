@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.4462827024499,
+  "bankroll": 561.0981008842681,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7305,6 +7305,11 @@
       "timestamp": 1787584070.8689144,
       "bankroll": 560.45,
       "event": "won: RN1 \u2014 ITF W35 Trieste Women: Amelie Justine Hejtmanek vs Barbora Michalkova"
+    },
+    {
+      "timestamp": 1787585213.2827375,
+      "bankroll": 561.1,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Max Basing vs Christian Langmo"
     }
   ]
 }

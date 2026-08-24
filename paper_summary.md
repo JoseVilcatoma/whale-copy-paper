@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:24:50 (hora de Perú)
+Actualizado: 2026-08-24 10:27:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $560.45
-**Retorno acumulado:** +12.09%
+**Bankroll actual:** $561.10
+**Retorno acumulado:** +12.22%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:24:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $185.45)
+**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $181.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,8 +26,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 3 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 221 | 120 | 22 | +21.62 USD |
-| casualbet2020 | 15 | 7 | 0 | +20.99 USD |
+| ferrariChampions2026 | 222 | 120 | 22 | +22.27 USD |
+| casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
@@ -77,14 +77,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1385
-- **Aciertos:** 894 (64.5%)
+- **Apuestas resueltas:** 1386
+- **Aciertos:** 895 (64.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,918.59
-- **ROI sobre lo apostado:** -0.26%
-- **Comisiones pagadas (taker fee):** $126.66 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.57% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,923.59
+- **ROI sobre lo apostado:** -0.25%
+- **Comisiones pagadas (taker fee):** $126.69 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,7 +94,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 693 | 49.8% | 50.2% | -0.4 pp |
 | 60-79% | 421 | 71.7% | 67.7% | +4.1 pp |
-| 80-94% | 182 | 88.5% | 87.1% | +1.4 pp |
+| 80-94% | 183 | 88.5% | 87.1% | +1.4 pp |
 | 95-99% (casi seguro) | 89 | 96.6% | 97.5% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -339,11 +339,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-day-pareja-2026-08-24 | RN1, ferrariChampions2026 |
+| wta-erjavec-grabher-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: KRÜ Blaze vs Looking For Labur | KRÜ Blaze (BUY) | 72% | 5.00 | 10.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia: Veronika Erjavec vs Julia  | Veronika Erjavec (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Mili Poljicak vs Max Schoenhau | Max Schoenhaus (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 79% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Veronika Erjavec vs Julia  | Julia Grabher (BUY) | 63% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -372,5 +375,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ✅ ganada | +0.10 |
-| RN1 | ITF W35 Trieste Women: Federica Trevisan | Alessandra Mazzola (BUY) | 84% | 5.00 | 1.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Bologna FC 1909 vs. SS Lazio: O/U 2.5 | Under (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
