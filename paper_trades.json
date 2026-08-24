@@ -37373,5 +37373,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787580483.3961234,
     "fills": 1
+  },
+  {
+    "timestamp": 1787580595,
+    "timestamp_added": 1787580596.1066515,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "sea-bol-laz-2026-08-24-total-2pt5",
+    "title": "Bologna FC 1909 vs. SS Lazio: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 2542.1051999999995,
+    "whale_pct": 1.537,
+    "whale_value_at_open": 165421.7434,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787580596.1066673,
+    "fills": 1
   }
 ]
