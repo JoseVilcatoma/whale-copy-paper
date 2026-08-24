@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.3537377041027,
+  "bankroll": 570.299996963362,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7720,6 +7720,26 @@
       "timestamp": 1787598788.7489886,
       "bankroll": 581.35,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Linda Klimovicova vs Lisa Pigato"
+    },
+    {
+      "timestamp": 1787599100.503469,
+      "bankroll": 576.31,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Oksana Selekhmeteva vs Taylah Preston"
+    },
+    {
+      "timestamp": 1787599103.6754043,
+      "bankroll": 571.3,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Lois Boisson vs Capucine Jauffret"
+    },
+    {
+      "timestamp": 1787599103.7755313,
+      "bankroll": 575.44,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Oksana Selekhmeteva vs Taylah Preston"
+    },
+    {
+      "timestamp": 1787599104.7461412,
+      "bankroll": 570.3,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia: Lois Boisson vs Capucine Jauffret"
     }
   ]
 }

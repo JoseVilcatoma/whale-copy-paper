@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:17:48 (hora de Perú)
+Actualizado: 2026-08-24 14:19:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $581.35
-**Retorno acumulado:** +16.27%
+**Bankroll actual:** $570.30
+**Retorno acumulado:** +14.06%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 14:17:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $580.23 en 117 posiciones abiertas (disponible para nuevas apuestas: $1.12)
+**Capital comprometido ahora mismo:** $570.23 en 115 posiciones abiertas (disponible para nuevas apuestas: $0.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 67 | 9 | 11 | +61.29 USD |
+| swisstony | 67 | 9 | 13 | +61.29 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 50 | 20 | 2 | +39.26 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
@@ -29,11 +29,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| ferrariChampions2026 | 241 | 133 | 40 | +12.75 USD |
 | SDTrading | 20 | 15 | 5 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | Djdjdjekekek | 17 | 12 | 0 | +8.06 USD |
+| ferrariChampions2026 | 241 | 134 | 39 | +7.61 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | TAIWANNUMBERONE | 2 | 0 | 4 | +6.49 USD |
@@ -61,13 +61,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
-| HomeRunHazard | 120 | 64 | 34 | -4.09 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| HomeRunHazard | 121 | 66 | 31 | -10.00 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1462
-- **Aciertos:** 949 (64.9%)
+- **Apuestas resueltas:** 1466
+- **Aciertos:** 950 (64.8%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,303.59
-- **ROI sobre lo apostado:** -0.05%
-- **Comisiones pagadas (taker fee):** $132.60 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.76% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,323.59
+- **ROI sobre lo apostado:** -0.20%
+- **Comisiones pagadas (taker fee):** $132.91 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.61% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -94,10 +94,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 721 | 50.2% | 50.2% | -0.0 pp |
+| 40-59% | 723 | 50.2% | 50.2% | -0.0 pp |
 | 60-79% | 443 | 71.6% | 67.6% | +3.9 pp |
-| 80-94% | 199 | 87.4% | 87.0% | +0.4 pp |
-| 95-99% (casi seguro) | 99 | 97.0% | 97.4% | -0.4 pp |
+| 80-94% | 200 | 87.0% | 87.0% | -0.0 pp |
+| 95-99% (casi seguro) | 100 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -375,6 +375,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Al Ittihad Saudi Club vs. Al Hazem SC: O | Under (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Will Heracles Almelo win on 2026-08-24? | Yes (BUY) | 99% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Talia Gibson (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Genaro Alberto Olivieri (BUY) | 64% | 3.22 | 1.0% | ⏳ pendiente | — |
 | swisstony | Kocaelispor vs. Amed Sportif: Amed Sport | Under (BUY) | 82% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -394,14 +396,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Marco Cecchi | Marco Cecchinato (BUY) | 63% | 5.00 | 3.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Marco Cecchi | Marco Cecchinato (BUY) | 64% | 5.00 | 2.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Marco Cecchi | Marco Cecchinato (BUY) | 64% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Marco Cecchi | Liam Broady (BUY) | 48% | 4.81 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Osasuna win on 2026-08-24? | No (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Athletics | Athletics (BUY) | 42% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia: Lois Boisson vs Capucine J | Lois Boisson (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia: Lois Boisson vs Capucine J | Lois Boisson (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 2 Winne | GIANTX (BUY) | 57% | 5.00 | 1.6% | 💰 vendida anticipada | +0.14 |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 4.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Atlanta Dream (-10.5) | Los Angeles Sparks (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 99% | 5.00 | 30.5% | ✅ ganada | +0.05 |
