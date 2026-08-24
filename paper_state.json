@@ -1,5 +1,5 @@
 {
-  "bankroll": 579.6121338918433,
+  "bankroll": 581.6799910347005,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8300,6 +8300,11 @@
       "timestamp": 1787615408.2252927,
       "bankroll": 579.61,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Jan Choinski vs Mees Rottgering"
+    },
+    {
+      "timestamp": 1787615716.6005125,
+      "bankroll": 581.68,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch"
     }
   ]
 }

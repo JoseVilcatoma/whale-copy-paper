@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:54:26 (hora de Perú)
+Actualizado: 2026-08-24 18:56:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $579.61
-**Retorno acumulado:** +15.92%
+**Bankroll actual:** $581.68
+**Retorno acumulado:** +16.34%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:54:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $505.00 en 101 posiciones abiertas (disponible para nuevas apuestas: $74.61)
+**Capital comprometido ahora mismo:** $505.00 en 101 posiciones abiertas (disponible para nuevas apuestas: $76.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
-| Donghui | 0 | 0 | 3 | +0.00 USD |
+| Donghui | 0 | 0 | 4 | +0.00 USD |
 | AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | mikesports | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 153 | 79 | 58 | -16.70 USD |
+| HomeRunHazard | 154 | 79 | 57 | -14.63 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 231 | 102 | 7 | -46.13 USD |
@@ -82,14 +82,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1578
-- **Aciertos:** 1029 (65.2%)
+- **Apuestas resueltas:** 1579
+- **Aciertos:** 1030 (65.2%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,878.82
-- **ROI sobre lo apostado:** -0.07%
-- **Comisiones pagadas (taker fee):** $141.61 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.73% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,883.82
+- **ROI sobre lo apostado:** -0.05%
+- **Comisiones pagadas (taker fee):** $141.68 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 758 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 486 | 71.8% | 67.6% | +4.2 pp |
+| 60-79% | 487 | 71.9% | 67.6% | +4.3 pp |
 | 80-94% | 223 | 86.5% | 87.2% | -0.6 pp |
 | 95-99% (casi seguro) | 111 | 96.4% | 97.3% | -0.9 pp |
 
@@ -349,7 +349,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-det-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | atp-brancac-wild-2026-08-24 | , 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, HomeRunHazard, RN1 |
-| mlb-bos-mia-2026-08-24 | AV23IUa, HomeRunHazard, RN1, SDTrading |
+| mlb-bos-mia-2026-08-24 | AV23IUa, Donghui, HomeRunHazard, RN1, SDTrading |
 | cs2-all-phanto-2026-08-24 | Djdjdjekekek, SPCEXBUYER |
 | atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
@@ -391,6 +391,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Ekaterine Go | Ekaterine Gorgodze (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -420,4 +421,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 3.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Veronika Podrez (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
