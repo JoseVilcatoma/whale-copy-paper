@@ -34094,8 +34094,8 @@
     "title": "Will Pumas de la UNAM win on 2026-08-23?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 3556.5600000000004,
-    "whale_pct": 1.141,
+    "whale_usd": 9504.32,
+    "whale_pct": 3.05,
     "whale_value_at_open": 311596.1166,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -34108,8 +34108,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787532945.9502661,
-    "fills": 3
+    "last_fill_at": 1787533169.9393072,
+    "fills": 6
   },
   {
     "timestamp": 1787532986,

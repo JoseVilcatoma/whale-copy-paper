@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:58:25 (hora de Perú)
+Actualizado: 2026-08-23 20:00:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $546.77
@@ -312,7 +312,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Will Atlético San Luis win on 2026-08-23 | No (BUY) | 94% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Seahawks vs. Titans | Seahawks (BUY) | 74% | 5.00 | 37.0% | ⏳ pendiente | — |
-| quavoo | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
+| quavoo | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | LDU Quito vs. CS Emelec: O/U 5.5 | Under (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
