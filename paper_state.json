@@ -1,5 +1,5 @@
 {
-  "bankroll": 540.8868063778459,
+  "bankroll": 543.8727179000385,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6840,6 +6840,36 @@
       "timestamp": 1787539406.4045124,
       "bankroll": 540.89,
       "event": "won: HomeRunHazard \u2014 Cancun: Sebastian Baez vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1787539717.8851078,
+      "bankroll": 543.27,
+      "event": "won: swisstony \u2014 Racing Club vs. CA Boca Juniors: O/U 3.5"
+    },
+    {
+      "timestamp": 1787539718.2612784,
+      "bankroll": 538.18,
+      "event": "lost: RN1 \u2014 Racing Club vs. CA Boca Juniors: O/U 2.5"
+    },
+    {
+      "timestamp": 1787539718.6228282,
+      "bankroll": 539.96,
+      "event": "won: swisstony \u2014 Will CA Boca Juniors win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787539719.375958,
+      "bankroll": 542.93,
+      "event": "won: swisstony \u2014 Racing Club vs. CA Boca Juniors: O/U 2.5"
+    },
+    {
+      "timestamp": 1787539719.4761407,
+      "bankroll": 543.03,
+      "event": "won: RN1 \u2014 Racing Club vs. CA Boca Juniors: O/U 3.5"
+    },
+    {
+      "timestamp": 1787539719.576272,
+      "bankroll": 543.87,
+      "event": "won: RN1 \u2014 Will CA Boca Juniors win on 2026-08-23?"
     }
   ]
 }
