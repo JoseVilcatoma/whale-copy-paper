@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:18:12 (hora de Perú)
+Actualizado: 2026-08-23 21:20:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.45
@@ -319,7 +319,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 2.5 | Under (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Racing Club win on 2026-08-23? | No (BUY) | 86% | 5.00 | 1.6% | ⏳ pendiente | — |
-| swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 99% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 93% | 5.00 | 8.6% | ⏳ pendiente | — |
 | swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -331,7 +331,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Will Once Caldas win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Racing Club vs. CA Boca Juniors: O/U 2.5 | Over (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
-| swisstony | Will Club Necaxa win on 2026-08-23? | No (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Will Club Necaxa win on 2026-08-23? | No (BUY) | 76% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Spread: Atlanta Braves (-2.5) | Milwaukee Brewers (BUY) | 82% | 5.00 | 0.7% | ⏳ pendiente | — |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |

@@ -34362,8 +34362,8 @@
     "title": "Will Club Necaxa win on 2026-08-23?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1418.49,
-    "whale_pct": 0.473,
+    "whale_usd": 2229.599999,
+    "whale_pct": 0.743,
     "whale_value_at_open": 300135.3846,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -34374,8 +34374,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787537424.3086178,
-    "fills": 2
+    "last_fill_at": 1787537947.159465,
+    "fills": 3
   },
   {
     "timestamp": 1787536069,
@@ -34666,8 +34666,8 @@
     "title": "Will Racing Club vs. CA Boca Juniors end in a draw?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1187.2,
-    "whale_pct": 0.531,
+    "whale_usd": 2828.2199960000003,
+    "whale_pct": 1.266,
     "whale_value_at_open": 223421.2587,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -34678,8 +34678,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787537399.7606428,
-    "fills": 1
+    "last_fill_at": 1787538010.3613353,
+    "fills": 2
   },
   {
     "timestamp": 1787537408,
