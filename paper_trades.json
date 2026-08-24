@@ -36660,8 +36660,8 @@
     "title": "Augsburg: Marko Topo vs Miguel Damas",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 2802.2794000000004,
-    "whale_pct": 2.998,
+    "whale_usd": 4193.770784,
+    "whale_pct": 4.486,
     "whale_value_at_open": 93476.8671,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -36672,8 +36672,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787575272.2990522,
-    "fills": 2
+    "last_fill_at": 1787575390.5987718,
+    "fills": 3
   },
   {
     "timestamp": 1787574813,
@@ -36736,8 +36736,8 @@
     "title": "Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius",
     "outcome": "Oskari Paldanius",
     "side": "BUY",
-    "whale_usd": 1906.6865990000001,
-    "whale_pct": 2.586,
+    "whale_usd": 3089.0565990000005,
+    "whale_pct": 4.19,
     "whale_value_at_open": 73721.0101,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -36748,7 +36748,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787575169.6039815,
-    "fills": 2
+    "last_fill_at": 1787575477.2124476,
+    "fills": 3
   }
 ]
