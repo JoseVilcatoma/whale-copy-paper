@@ -33995,8 +33995,8 @@
     "title": "Atlanta Braves vs. Milwaukee Brewers",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 4134.9400000000005,
-    "whale_pct": 1.927,
+    "whale_usd": 6932.987777000001,
+    "whale_pct": 3.231,
     "whale_value_at_open": 214599.1342,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -34010,8 +34010,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787533375.3129406,
-    "fills": 3
+    "last_fill_at": 1787537186.413242,
+    "fills": 5
   },
   {
     "timestamp": 1787532142,
@@ -34601,6 +34601,34 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787537137.0280023,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787537169,
+    "timestamp_added": 1787537170.3291879,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-atl-mil-2026-08-23",
+    "title": "Atlanta Braves vs. Milwaukee Brewers",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 8614.9973,
+    "whale_pct": 8.58,
+    "whale_value_at_open": 100413.5403,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "SDTrading",
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787537170.3291974,
     "fills": 1
   }
 ]
