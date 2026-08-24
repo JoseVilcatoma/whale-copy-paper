@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:50:49 (hora de Perú)
+Actualizado: 2026-08-23 21:52:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $543.87
-**Retorno acumulado:** +8.77%
+**Bankroll actual:** $547.26
+**Retorno acumulado:** +9.45%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:50:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $353.87)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $367.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 46 | 3 | 19 | +59.14 USD |
+| swisstony | 48 | 3 | 17 | +62.53 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -70,14 +70,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1301
-- **Aciertos:** 832 (64.0%)
+- **Apuestas resueltas:** 1303
+- **Aciertos:** 834 (64.0%)
 - **Cuota promedio de entrada:** 62.9%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,498.59
-- **ROI sobre lo apostado:** -0.46%
-- **Comisiones pagadas (taker fee):** $120.69 (1.86% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,508.59
+- **ROI sobre lo apostado:** -0.40%
+- **Comisiones pagadas (taker fee):** $120.82 (1.86% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.45% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -86,8 +86,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 670 | 49.9% | 50.2% | -0.4 pp |
-| 60-79% | 392 | 71.2% | 67.7% | +3.5 pp |
-| 80-94% | 160 | 89.4% | 87.1% | +2.3 pp |
+| 60-79% | 393 | 71.2% | 67.7% | +3.6 pp |
+| 80-94% | 161 | 89.4% | 87.1% | +2.4 pp |
 | 95-99% (casi seguro) | 79 | 96.2% | 97.4% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -330,8 +330,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 85% | 5.00 | 0.4% | ✅ ganada | +0.84 |
 | RN1 | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 98% | 5.00 | 0.4% | ✅ ganada | +0.10 |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 2.5 | Under (BUY) | 62% | 5.00 | 0.3% | ✅ ganada | +2.97 |
-| swisstony | Will Racing Club win on 2026-08-23? | No (BUY) | 86% | 5.00 | 1.6% | ⏳ pendiente | — |
-| swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
+| swisstony | Will Racing Club win on 2026-08-23? | No (BUY) | 86% | 5.00 | 1.6% | ✅ ganada | +0.78 |
+| swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 1.3% | ✅ ganada | +2.61 |
 | HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 93% | 5.00 | 8.6% | ✅ ganada | +0.36 |
 | swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 1.7% | ⏳ pendiente | — |

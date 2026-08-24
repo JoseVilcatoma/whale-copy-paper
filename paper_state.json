@@ -1,5 +1,5 @@
 {
-  "bankroll": 543.8727179000385,
+  "bankroll": 547.2569790807183,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6870,6 +6870,16 @@
       "timestamp": 1787539719.576272,
       "bankroll": 543.87,
       "event": "won: RN1 \u2014 Will CA Boca Juniors win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787539903.4088295,
+      "bankroll": 546.48,
+      "event": "won: swisstony \u2014 Will Racing Club vs. CA Boca Juniors end in a draw?"
+    },
+    {
+      "timestamp": 1787539903.6479964,
+      "bankroll": 547.26,
+      "event": "won: swisstony \u2014 Will Racing Club win on 2026-08-23?"
     }
   ]
 }
