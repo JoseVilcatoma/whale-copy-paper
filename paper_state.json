@@ -1,5 +1,5 @@
 {
-  "bankroll": 548.5488319573103,
+  "bankroll": 548.9479909944906,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6900,6 +6900,21 @@
       "timestamp": 1787540660.9892702,
       "bankroll": 548.55,
       "event": "won: RN1 \u2014 Will O'Higgins FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787540975.5332115,
+      "bankroll": 548.6,
+      "event": "won: RN1 \u2014 Will CF Pachuca win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787540976.2788684,
+      "bankroll": 548.9,
+      "event": "won: RN1 \u2014 Will Atl\u00e9tico San Luis win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787540976.5690777,
+      "bankroll": 548.95,
+      "event": "won: RN1 \u2014 Will CD La Equidad Seguros win on 2026-08-23?"
     }
   ]
 }
