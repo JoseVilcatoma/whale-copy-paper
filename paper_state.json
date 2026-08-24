@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.8891556932086,
+  "bankroll": 535.3551332212985,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6695,6 +6695,16 @@
       "timestamp": 1787535140.5185413,
       "bankroll": 539.89,
       "event": "lost: beachboy4 \u2014 Will Atlanta United FC win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787535261.6828442,
+      "bankroll": 540.48,
+      "event": "won: HomeRunHazard \u2014 Las Vegas Aces vs. Toronto Tempo"
+    },
+    {
+      "timestamp": 1787535262.898757,
+      "bankroll": 535.36,
+      "event": "lost: HomeRunHazard \u2014 Las Vegas Aces vs. Toronto Tempo: O/U 180.5"
     }
   ]
 }
