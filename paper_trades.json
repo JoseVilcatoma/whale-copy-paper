@@ -28098,8 +28098,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -32476,8 +32476,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3"
     ],
@@ -33221,8 +33221,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3",
       "danielwolfmorales3pddb6dl6"
@@ -34110,5 +34110,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787532945.9502661,
     "fills": 3
+  },
+  {
+    "timestamp": 1787532986,
+    "timestamp_added": 1787532986.5568793,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "nfl-sea-ten-2026-08-24",
+    "title": "Seahawks vs. Titans",
+    "outcome": "Seahawks",
+    "side": "BUY",
+    "whale_usd": 8109.6867999999995,
+    "whale_pct": 37.03,
+    "whale_value_at_open": 21900.3763,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787532986.5568867,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787533082,
+    "timestamp_added": 1787533082.9412382,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-asl-pac-2026-08-23-asl",
+    "title": "Will Atl\u00e9tico San Luis win on 2026-08-23?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1014.76,
+    "whale_pct": 0.5,
+    "whale_value_at_open": 203077.0478,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787533082.941247,
+    "fills": 1
   }
 ]

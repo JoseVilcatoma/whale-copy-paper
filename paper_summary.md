@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 19:56:20 (hora de Perú)
+Actualizado: 2026-08-23 19:58:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $562.20
-**Retorno acumulado:** +12.44%
+**Bankroll actual:** $546.77
+**Retorno acumulado:** +9.35%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 19:56:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $347.20)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $336.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,14 +21,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 10 | 3 | +46.16 USD |
+| 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 11 | 2 | +41.02 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | swisstony | 34 | 3 | 13 | +37.46 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
-| casualbet2020 | 14 | 6 | 2 | +19.37 USD |
 | SDTrading | 20 | 14 | 1 | +16.65 USD |
 | ChonkyChocolateCake | 28 | 17 | 1 | +14.40 USD |
+| casualbet2020 | 14 | 7 | 1 | +14.23 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | kekasaur | 3 | 1 | 2 | +10.22 USD |
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| Djdjdjekekek | 13 | 11 | 0 | -1.95 USD |
+| Djdjdjekekek | 13 | 11 | 1 | -1.95 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | HomeRunHazard | 87 | 52 | 6 | -3.86 USD |
@@ -63,21 +63,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| danielwolfmorales3pddb6dl6 | 15 | 19 | 4 | -27.22 USD |
+| danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 201 | 92 | 8 | -57.21 USD |
+| RN1 | 201 | 92 | 9 | -57.21 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1259
-- **Aciertos:** 804 (63.9%)
+- **Apuestas resueltas:** 1262
+- **Aciertos:** 804 (63.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,288.59
-- **ROI sobre lo apostado:** -0.18%
-- **Comisiones pagadas (taker fee):** $117.30 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.68% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,303.59
+- **ROI sobre lo apostado:** -0.42%
+- **Comisiones pagadas (taker fee):** $117.73 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.44% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 655 | 50.4% | 50.3% | +0.1 pp |
+| 40-59% | 658 | 50.2% | 50.2% | -0.1 pp |
 | 60-79% | 377 | 70.8% | 67.7% | +3.2 pp |
 | 80-94% | 152 | 88.8% | 87.0% | +1.8 pp |
 | 95-99% (casi seguro) | 75 | 96.0% | 97.4% | -1.4 pp |
@@ -304,11 +304,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mls-atl-skc-2026-08-23-total-3pt5 | kekasaur, swisstony |
 | wta-timofee-rakhimo-2026-08-23 | Djdjdjekekek, OOOwhyOOO |
 | mex-pum-nec-2026-08-23-pum | kekasaur, quavoo |
+| nfl-sea-ten-2026-08-24 | Djdjdjekekek, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Atlético San Luis win on 2026-08-23 | No (BUY) | 94% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Djdjdjekekek | Seahawks vs. Titans | Seahawks (BUY) | 74% | 5.00 | 37.0% | ⏳ pendiente | — |
 | quavoo | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | LDU Quito vs. CS Emelec: O/U 5.5 | Under (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -337,5 +340,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Will Associação Chapecoense de Futebol w | Yes (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Coritiba FBC vs. SC Corinthians Paulista | Under (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will Vila Nova FC win on 2026-08-23? | No (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Spread: Coritiba FBC (-1.5) | SC Corinthians Paulista (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |

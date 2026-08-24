@@ -1,5 +1,5 @@
 {
-  "bankroll": 562.202285445563,
+  "bankroll": 546.774285445563,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6660,6 +6660,21 @@
       "timestamp": 1787532600.4534054,
       "bankroll": 562.2,
       "event": "won: Djdjdjekekek \u2014 Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova"
+    },
+    {
+      "timestamp": 1787533093.3040826,
+      "bankroll": 557.06,
+      "event": "lost: 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 \u2014 Cincinnati Open: Coco Gauff vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787533096.372916,
+      "bankroll": 551.92,
+      "event": "lost: danielwolfmorales3pddb6dl6 \u2014 Cincinnati Open: Coco Gauff vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787533096.8348587,
+      "bankroll": 546.77,
+      "event": "lost: casualbet2020 \u2014 Cincinnati Open: Coco Gauff vs Jessica Pegula"
     }
   ]
 }
