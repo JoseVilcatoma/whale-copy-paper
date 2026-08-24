@@ -43068,5 +43068,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787612154.7304595,
     "fills": 1
+  },
+  {
+    "timestamp": 1787612277,
+    "timestamp_added": 1787612278.2895732,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-salkova-urhobo-2026-08-24",
+    "title": "US Open, Qualification WTA: Dominika Salkova vs Akasha Urhobo",
+    "outcome": "Akasha Urhobo",
+    "side": "BUY",
+    "whale_usd": 1619.3195999999998,
+    "whale_pct": 0.615,
+    "whale_value_at_open": 263318.6125,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787612278.2895854,
+    "fills": 1
   }
 ]
