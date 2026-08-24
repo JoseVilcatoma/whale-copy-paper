@@ -41329,8 +41329,8 @@
     "title": "Philadelphia: Ariana Arseneault vs Tereza Valentova",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 754.9200000000001,
-    "whale_pct": 0.318,
+    "whale_usd": 2526.9224700000004,
+    "whale_pct": 1.066,
     "whale_value_at_open": 237060.2139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -41341,8 +41341,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787600007.3054774,
-    "fills": 1
+    "last_fill_at": 1787601049.1576893,
+    "fills": 2
   },
   {
     "timestamp": 1787600138,
