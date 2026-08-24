@@ -41415,5 +41415,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787600825.9310179,
     "fills": 1
+  },
+  {
+    "timestamp": 1787601353,
+    "timestamp_added": 1787601353.3199718,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "wta-bronzet-giovann-2026-08-24",
+    "title": "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini",
+    "outcome": "Lucia Bronzetti",
+    "side": "BUY",
+    "whale_usd": 41417.7348,
+    "whale_pct": 81.92,
+    "whale_value_at_open": 50558.67,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787601400.6168175,
+    "fills": 2
   }
 ]
