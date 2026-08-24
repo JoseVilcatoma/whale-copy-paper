@@ -38062,8 +38062,8 @@
     "title": "Philadelphia: Veronika Erjavec vs Julia Grabher",
     "outcome": "Julia Grabher",
     "side": "BUY",
-    "whale_usd": 812.6836,
-    "whale_pct": 1.203,
+    "whale_usd": 1794.4081,
+    "whale_pct": 2.657,
     "whale_value_at_open": 67529.7532,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -38074,8 +38074,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787584874.6647294,
-    "fills": 1
+    "last_fill_at": 1787590840.4918847,
+    "fills": 2
   },
   {
     "timestamp": 1787584979,
@@ -38862,8 +38862,8 @@
     "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
     "outcome": "Mark Lajal",
     "side": "BUY",
-    "whale_usd": 23268.3682,
-    "whale_pct": 12.499,
+    "whale_usd": 29531.148199,
+    "whale_pct": 15.863,
     "whale_value_at_open": 186168.6748,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -38874,8 +38874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590458.9748578,
-    "fills": 4
+    "last_fill_at": 1787590845.1029203,
+    "fills": 5
   },
   {
     "timestamp": 1787587328,
@@ -39192,8 +39192,8 @@
     "title": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon",
     "outcome": "Titouan Droguet",
     "side": "BUY",
-    "whale_usd": 28392.175933000006,
-    "whale_pct": 16.532,
+    "whale_usd": 29694.973933000005,
+    "whale_pct": 17.29,
     "whale_value_at_open": 171745.5737,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -39204,8 +39204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590042.260938,
-    "fills": 14
+    "last_fill_at": 1787590885.7547011,
+    "fills": 15
   },
   {
     "timestamp": 1787588734,
@@ -39419,8 +39419,8 @@
     "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
     "outcome": "Jordan Lee",
     "side": "BUY",
-    "whale_usd": 11922.380955999999,
-    "whale_pct": 4.596,
+    "whale_usd": 14021.579405999999,
+    "whale_pct": 5.405,
     "whale_value_at_open": 259412.8909,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -39431,8 +39431,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590734.0546792,
-    "fills": 4
+    "last_fill_at": 1787590919.5842986,
+    "fills": 6
   },
   {
     "timestamp": 1787590109,
@@ -39443,8 +39443,8 @@
     "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
     "outcome": "Jordan Lee",
     "side": "BUY",
-    "whale_usd": 1699.7604999999999,
-    "whale_pct": 0.928,
+    "whale_usd": 5687.7589,
+    "whale_pct": 3.105,
     "whale_value_at_open": 183168.1106,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -39457,8 +39457,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590109.8445203,
-    "fills": 1
+    "last_fill_at": 1787590844.7891626,
+    "fills": 3
   },
   {
     "timestamp": 1787590388,
@@ -39517,8 +39517,8 @@
     "title": "Philadelphia: Fangran Tian vs Lucciana Perez",
     "outcome": "Fangran Tian",
     "side": "BUY",
-    "whale_usd": 749.619,
-    "whale_pct": 0.281,
+    "whale_usd": 2126.343,
+    "whale_pct": 0.797,
     "whale_value_at_open": 266912.2311,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -39529,7 +39529,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590729.8965912,
-    "fills": 1
+    "last_fill_at": 1787590946.913558,
+    "fills": 2
   }
 ]
