@@ -41816,8 +41816,8 @@
     "title": "US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau",
     "outcome": "Alexis Galarneau",
     "side": "BUY",
-    "whale_usd": 9275.064823,
-    "whale_pct": 4.617,
+    "whale_usd": 10324.941186,
+    "whale_pct": 5.139,
     "whale_value_at_open": 200897.9117,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -41828,8 +41828,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787607179.6131616,
-    "fills": 4
+    "last_fill_at": 1787607294.7525609,
+    "fills": 5
   },
   {
     "timestamp": 1787605309,
