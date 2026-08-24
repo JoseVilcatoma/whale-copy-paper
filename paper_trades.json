@@ -39592,8 +39592,8 @@
     "title": "Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar",
     "outcome": "Mario Gonzalez Fernandez",
     "side": "BUY",
-    "whale_usd": 548.1,
-    "whale_pct": 0.217,
+    "whale_usd": 1525.6639999999998,
+    "whale_pct": 0.604,
     "whale_value_at_open": 252402.7264,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -39604,8 +39604,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787591194.5256417,
-    "fills": 1
+    "last_fill_at": 1787596210.4445627,
+    "fills": 2
   },
   {
     "timestamp": 1787591360,
@@ -40629,5 +40629,57 @@
     "fills": 1,
     "fee_total_usd": 0.212,
     "closed_price": 61
+  },
+  {
+    "timestamp": 1787596090,
+    "timestamp_added": 1787596090.9013884,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-johnso-garin-2026-08-24",
+    "title": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin",
+    "outcome": "Cristian Garin",
+    "side": "BUY",
+    "whale_usd": 1967.7196999999999,
+    "whale_pct": 1.08,
+    "whale_value_at_open": 182173.8597,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787596090.9014,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787596140,
+    "timestamp_added": 1787596140.6659608,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-boisson-jauffre-2026-08-24",
+    "title": "Philadelphia: Lois Boisson vs Capucine Jauffret",
+    "outcome": "Lois Boisson",
+    "side": "BUY",
+    "whale_usd": 720.3503999999999,
+    "whale_pct": 0.395,
+    "whale_value_at_open": 182173.8597,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787596140.6659725,
+    "fills": 1
   }
 ]

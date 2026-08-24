@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 13:28:07 (hora de Perú)
+Actualizado: 2026-08-24 13:30:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $587.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 13:28:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $562.20 en 113 posiciones abiertas (disponible para nuevas apuestas: $24.81)
+**Capital comprometido ahora mismo:** $572.20 en 115 posiciones abiertas (disponible para nuevas apuestas: $14.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 238 | 129 | 34 | +23.89 USD |
+| ferrariChampions2026 | 238 | 129 | 36 | +23.89 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -364,11 +364,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fernan-kuhar-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | lol-gx-g2-2026-08-24-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | atp-johnso-garin-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| wta-boisson-jauffre-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Philadelphia: Lois Boisson vs Capucine J | Lois Boisson (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 2 Winne | GIANTX (BUY) | 57% | 5.00 | 1.6% | 💰 vendida anticipada | +0.14 |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -397,5 +400,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 99% | 5.00 | 11.0% | ⏳ pendiente | — |
 | HomeRunHazard | Hontama vs. Gjorcheska: Match O/U 23.5 | Under (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Lorenzo Sonego (BUY) | 57% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Oksana Selekhmeteva vs Tay | Taylah Preston (BUY) | 82% | 5.00 | 1.5% | ⏳ pendiente | — |
