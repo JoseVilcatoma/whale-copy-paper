@@ -38008,8 +38008,8 @@
     "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
     "outcome": "Frederico Ferreira Silva",
     "side": "BUY",
-    "whale_usd": 6197.0010999999995,
-    "whale_pct": 9.578,
+    "whale_usd": 9497.998899999999,
+    "whale_pct": 14.68,
     "whale_value_at_open": 64698.8706,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -38023,8 +38023,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587382.9940562,
-    "fills": 3
+    "last_fill_at": 1787588916.0445065,
+    "fills": 4
   },
   {
     "timestamp": 1787584805,
@@ -38358,8 +38358,8 @@
     "title": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 45388.4484,
-    "whale_pct": 448.74,
+    "whale_usd": 46428.4484,
+    "whale_pct": 459.022,
     "whale_value_at_open": 10114.6487,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -38372,8 +38372,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588251.442709,
-    "fills": 8
+    "last_fill_at": 1787588968.0545685,
+    "fills": 9
   },
   {
     "timestamp": 1787585642,
@@ -39212,8 +39212,8 @@
     "title": "Will Bologna FC 1909 win on 2026-08-24?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 104710.56,
-    "whale_pct": 487.252,
+    "whale_usd": 116483.73999999999,
+    "whale_pct": 542.037,
     "whale_value_at_open": 21490,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -39224,8 +39224,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588735.3152468,
-    "fills": 1
+    "last_fill_at": 1787588895.5294995,
+    "fills": 2
   },
   {
     "timestamp": 1787588841,
