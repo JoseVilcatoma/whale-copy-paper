@@ -1,5 +1,5 @@
 {
-  "bankroll": 556.5313505781318,
+  "bankroll": 551.4413505781317,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7135,6 +7135,11 @@
       "timestamp": 1787568324.491662,
       "bankroll": 556.53,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Dominik Recek vs Benito Sanchez Martinez"
+    },
+    {
+      "timestamp": 1787569271.9635406,
+      "bankroll": 551.44,
+      "event": "lost: SPCEXBUYER \u2014 LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 3 Winner"
     }
   ]
 }
