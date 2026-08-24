@@ -36826,5 +36826,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787575910.1391754,
     "fills": 1
+  },
+  {
+    "timestamp": 1787576480,
+    "timestamp_added": 1787576481.4022357,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-gsv-min-2026-08-24-spread-home-6pt5",
+    "title": "Spread: Minnesota Lynx (-6.5)",
+    "outcome": "Minnesota Lynx",
+    "side": "BUY",
+    "whale_usd": 633.9984,
+    "whale_pct": 1.106,
+    "whale_value_at_open": 57339.1507,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787576481.402254,
+    "fills": 1
   }
 ]
