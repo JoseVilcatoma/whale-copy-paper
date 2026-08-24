@@ -35358,8 +35358,8 @@
     "title": "Boston Red Sox vs. Miami Marlins: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 509.920338,
-    "whale_pct": 1.355,
+    "whale_usd": 4127.769738000001,
+    "whale_pct": 10.97,
     "whale_value_at_open": 37627.4948,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -35370,8 +35370,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787546472.443354,
-    "fills": 1
+    "last_fill_at": 1787602853.385108,
+    "fills": 2
   },
   {
     "timestamp": 1787546856,
