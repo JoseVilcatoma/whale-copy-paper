@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 23:50:53 (hora de Perú)
+Actualizado: 2026-08-23 23:53:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.93
@@ -327,7 +327,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 82% | 5.00 | 2.7% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 64% | 5.00 | 3.3% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 86% | 5.00 | 138919.2% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 84% | 5.00 | 19.7% | ⏳ pendiente | — |
