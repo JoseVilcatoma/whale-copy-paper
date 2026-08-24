@@ -35372,5 +35372,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787546472.443354,
     "fills": 1
+  },
+  {
+    "timestamp": 1787546856,
+    "timestamp_added": 1787546857.7024658,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cle-laa-2026-08-24-spread-away-1pt5",
+    "title": "Spread: Cleveland Guardians (-1.5)",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 1077.7,
+    "whale_pct": 2.804,
+    "whale_value_at_open": 38435.6804,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787546857.7024803,
+    "fills": 1
   }
 ]
