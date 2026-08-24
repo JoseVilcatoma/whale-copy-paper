@@ -35207,8 +35207,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -35231,8 +35231,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -35285,8 +35285,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "HomeRunHazard",
       "swisstony"
@@ -35437,8 +35437,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026",
@@ -35530,8 +35530,8 @@
     "title": "Will M\u00e1laga CF win on 2026-08-24?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 3027.3844,
-    "whale_pct": 8.793,
+    "whale_usd": 4541.0766,
+    "whale_pct": 13.19,
     "whale_value_at_open": 34429.1795,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -35542,8 +35542,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787549953.8831182,
-    "fills": 2
+    "last_fill_at": 1787550711.108828,
+    "fills": 3
   },
   {
     "timestamp": 1787549678,

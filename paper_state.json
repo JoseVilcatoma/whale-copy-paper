@@ -1,5 +1,5 @@
 {
-  "bankroll": 540.7121321625688,
+  "bankroll": 549.7272640348917,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7075,6 +7075,26 @@
       "timestamp": 1787549131.2336652,
       "bankroll": 540.71,
       "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Antonia Ruzic vs Nikola Bartunkova"
+    },
+    {
+      "timestamp": 1787550705.245868,
+      "bankroll": 543.43,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova"
+    },
+    {
+      "timestamp": 1787550705.3460913,
+      "bankroll": 546.04,
+      "event": "won: swisstony \u2014 Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova"
+    },
+    {
+      "timestamp": 1787550705.4463263,
+      "bankroll": 548.21,
+      "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova"
+    },
+    {
+      "timestamp": 1787550705.947326,
+      "bankroll": 549.73,
+      "event": "won: Djdjdjekekek \u2014 Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova"
     }
   ]
 }

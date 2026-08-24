@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 00:49:45 (hora de Perú)
+Actualizado: 2026-08-24 00:51:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $540.71
-**Retorno acumulado:** +8.14%
+**Bankroll actual:** $549.73
+**Retorno acumulado:** +9.95%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 00:49:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $445.71)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $474.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 61 | 8 | 2 | +56.55 USD |
+| swisstony | 62 | 8 | 1 | +59.16 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -32,9 +32,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 20 | 15 | 0 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
+| ferrariChampions2026 | 208 | 116 | 2 | +8.53 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
-| ferrariChampions2026 | 207 | 116 | 3 | +6.36 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -45,12 +45,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | HVAB | 3 | 0 | 0 | +1.18 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| Djdjdjekekek | 16 | 12 | 0 | +1.01 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
-| Djdjdjekekek | 15 | 12 | 1 | -0.51 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 96 | 58 | 4 | -15.55 USD |
+| HomeRunHazard | 97 | 58 | 3 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 216 | 94 | 1 | -47.48 USD |
@@ -72,14 +72,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1341
-- **Aciertos:** 861 (64.2%)
+- **Apuestas resueltas:** 1345
+- **Aciertos:** 865 (64.3%)
 - **Cuota promedio de entrada:** 63.2%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,698.59
-- **ROI sobre lo apostado:** -0.58%
-- **Comisiones pagadas (taker fee):** $123.37 (1.84% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,718.59
+- **ROI sobre lo apostado:** -0.44%
+- **Comisiones pagadas (taker fee):** $123.68 (1.84% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -88,7 +88,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 682 | 49.6% | 50.2% | -0.7 pp |
-| 60-79% | 403 | 71.2% | 67.7% | +3.5 pp |
+| 60-79% | 407 | 71.5% | 67.7% | +3.8 pp |
 | 80-94% | 171 | 90.1% | 87.2% | +2.9 pp |
 | 95-99% (casi seguro) | 85 | 96.5% | 97.5% | -1.0 pp |
 
@@ -324,20 +324,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | hi774c | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 28.9% | ⏳ pendiente | — |
 | RN1 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 26.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 8.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Málaga CF win on 2026-08-24? | No (BUY) | 60% | 5.00 | 13.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CA Osasuna win on 2026-08-24? | Yes (BUY) | 52% | 5.00 | 3.8% | ⏳ pendiente | — |
 | hi774c | Málaga CF vs. RC Deportivo A Coruña: O/U | Under (BUY) | 62% | 5.00 | 29.2% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
-| Djdjdjekekek | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 76% | 5.00 | 112.0% | ⏳ pendiente | — |
+| Djdjdjekekek | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 76% | 5.00 | 112.0% | ✅ ganada | +1.52 |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 298.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Painfulvoid | Counter-Strike: Nuclear TigeRES vs FORZE | Nuclear TigeRES (BUY) | 69% | 5.00 | 140.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 87% | 5.00 | 17.3% | ✅ ganada | +0.71 |
-| ferrariChampions2026 | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 69% | 5.00 | 2.2% | ✅ ganada | +2.17 |
 | RN1 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 82% | 5.00 | 2.7% | ✅ ganada | +1.05 |
-| swisstony | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 64% | 5.00 | 12.4% | ⏳ pendiente | — |
+| swisstony | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
+| HomeRunHazard | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 64% | 5.00 | 12.4% | ✅ ganada | +2.72 |
 | swisstony | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 85% | 5.00 | 1.2% | ✅ ganada | +0.84 |
 | Djdjdjekekek | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 86% | 5.00 | 138919.2% | ✅ ganada | +0.78 |
 | HomeRunHazard | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 84% | 5.00 | 19.7% | ✅ ganada | +0.91 |
