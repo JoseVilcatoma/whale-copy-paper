@@ -1,5 +1,5 @@
 {
-  "bankroll": 594.9767283539406,
+  "bankroll": 596.6684851106974,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8080,6 +8080,11 @@
       "timestamp": 1787607802.822498,
       "bankroll": 594.98,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: GIANTX vs G2 Esports - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787608112.9590104,
+      "bankroll": 596.67,
+      "event": "won: swisstony \u2014 Spread: Chelsea FC (-1.5)"
     }
   ]
 }
