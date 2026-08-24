@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:55:54 (hora de Perú)
+Actualizado: 2026-08-24 16:57:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $593.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 16:55:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $198.36)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $188.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 136 | 71 | 48 | -11.47 USD |
+| HomeRunHazard | 136 | 71 | 50 | -11.47 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 229 | 101 | 0 | -41.80 USD |
@@ -377,6 +377,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Otto Virtanen (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Mees Rottgering (BUY) | 75% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Carson Brans | Carson Branstine (BUY) | 89% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Pol Martin T | Tom Gentzsch (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 51% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -405,5 +407,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 56% | 5.00 | 11.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.4% | ❌ perdida | -5.14 |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 66% | 5.00 | 47.5% | ✅ ganada | +2.49 |
-| HomeRunHazard | US Open, Qualification WTA: Jazmin Orten | Himeno Sakatsume (BUY) | 83% | 5.00 | 3.3% | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
