@@ -41535,5 +41535,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787601665.8646338,
     "fills": 1
+  },
+  {
+    "timestamp": 1787601977,
+    "timestamp_added": 1787601978.274487,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-ushi-ars-2026-08-24",
+    "title": "Valorant: Ushiras vs Arashi GC (BO3) - VCT Game Changers Brazil Final Stage Playoffs",
+    "outcome": "Ushiras",
+    "side": "BUY",
+    "whale_usd": 7812.14,
+    "whale_pct": 53.861,
+    "whale_value_at_open": 14504.1578,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787601978.9190056,
+    "fills": 2
   }
 ]

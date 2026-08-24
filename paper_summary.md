@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:05:04 (hora de Perú)
+Actualizado: 2026-08-24 15:07:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $601.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:05:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.42 en 93 posiciones abiertas (disponible para nuevas apuestas: $140.65)
+**Capital comprometido ahora mismo:** $465.42 en 94 posiciones abiertas (disponible para nuevas apuestas: $135.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 5 | 0 | 1 | +23.92 USD |
-| casualbet2020 | 15 | 7 | 1 | +20.99 USD |
+| casualbet2020 | 15 | 7 | 2 | +20.99 USD |
 | ChonkyChocolateCake | 30 | 18 | 1 | +13.64 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 5 | +11.54 USD |
@@ -376,6 +376,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Ushiras vs Arashi GC (BO3) - V | Ushiras (BUY) | 41% | 5.00 | 53.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Gonzalo Buen | Billy Harris (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -405,4 +406,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 6.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 80% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 93% | 5.00 | 0.7% | ✅ ganada | +0.36 |
-| SDTrading | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
