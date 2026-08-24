@@ -40789,8 +40789,8 @@
     "title": "US Open, Qualification ATP: Marco Cecchinato vs Liam Broady",
     "outcome": "Marco Cecchinato",
     "side": "BUY",
-    "whale_usd": 6348.7318,
-    "whale_pct": 3.454,
+    "whale_usd": 9978.698466,
+    "whale_pct": 5.429,
     "whale_value_at_open": 183787.0437,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -40803,8 +40803,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787597370.9405026,
-    "fills": 3
+    "last_fill_at": 1787599405.3703504,
+    "fills": 5
   },
   {
     "timestamp": 1787597462,
@@ -40863,8 +40863,8 @@
     "title": "US Open, Qualification ATP: Guy Den Ouden vs Genaro Alberto Olivieri",
     "outcome": "Guy Den Ouden",
     "side": "BUY",
-    "whale_usd": 2676.0006000000003,
-    "whale_pct": 1.353,
+    "whale_usd": 4101.0006,
+    "whale_pct": 2.074,
     "whale_value_at_open": 197714.0532,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -40875,8 +40875,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787597734.3467789,
-    "fills": 1
+    "last_fill_at": 1787599361.1808503,
+    "fills": 2
   },
   {
     "timestamp": 1787597785,
