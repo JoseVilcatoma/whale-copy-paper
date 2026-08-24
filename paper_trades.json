@@ -42397,8 +42397,8 @@
     "title": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier",
     "outcome": "Roman Safiullin",
     "side": "BUY",
-    "whale_usd": 6549.9996,
-    "whale_pct": 2.921,
+    "whale_usd": 10895.9971,
+    "whale_pct": 4.86,
     "whale_value_at_open": 224202.0742,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -42411,8 +42411,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787613248.529126,
-    "fills": 3
+    "last_fill_at": 1787614868.738703,
+    "fills": 4
   },
   {
     "timestamp": 1787609809,
@@ -43176,8 +43176,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx",
     "outcome": "Minnesota Lynx",
     "side": "BUY",
-    "whale_usd": 29811.060399999995,
-    "whale_pct": 27.645,
+    "whale_usd": 44943.6804,
+    "whale_pct": 41.678,
     "whale_value_at_open": 107834.8682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -43191,8 +43191,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787614765.705391,
-    "fills": 12
+    "last_fill_at": 1787614880.6045907,
+    "fills": 28
   },
   {
     "timestamp": 1787613246,
