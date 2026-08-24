@@ -1,5 +1,5 @@
 {
-  "bankroll": 592.4195176910899,
+  "bankroll": 591.8508344739007,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7560,6 +7560,31 @@
       "timestamp": 1787594456.392903,
       "bankroll": 592.42,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Mark Lajal vs Jordan Lee"
+    },
+    {
+      "timestamp": 1787594758.3870072,
+      "bankroll": 592.52,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon (+0.10 USD)"
+    },
+    {
+      "timestamp": 1787594763.4044104,
+      "bankroll": 587.47,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich"
+    },
+    {
+      "timestamp": 1787594766.8503437,
+      "bankroll": 594.23,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich"
+    },
+    {
+      "timestamp": 1787594768.3888104,
+      "bankroll": 589.13,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich"
+    },
+    {
+      "timestamp": 1787594768.889525,
+      "bankroll": 591.85,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich"
     }
   ]
 }

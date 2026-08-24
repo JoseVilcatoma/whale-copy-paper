@@ -38093,8 +38093,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -39119,8 +39119,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.76,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -39548,8 +39548,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "HomeRunHazard",
       "OOOwhyOOO"
@@ -39673,8 +39673,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [
       "OOOwhyOOO",
       "ferrariChampions2026"
@@ -40418,8 +40418,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.1,
     "overlaps_with": [
       "ferrariChampions2026",
       "swisstony"
@@ -40427,6 +40427,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787594517.5452054,
-    "fills": 6
+    "fills": 6,
+    "fee_total_usd": 0.084,
+    "closed_price": 85
+  },
+  {
+    "timestamp": 1787594756,
+    "timestamp_added": 1787594757.8613865,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-boisson-jauffre-2026-08-24",
+    "title": "Philadelphia: Lois Boisson vs Capucine Jauffret",
+    "outcome": "Lois Boisson",
+    "side": "BUY",
+    "whale_usd": 1733.15559,
+    "whale_pct": 0.882,
+    "whale_value_at_open": 196416.0856,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787594782.146408,
+    "fills": 2
   }
 ]
