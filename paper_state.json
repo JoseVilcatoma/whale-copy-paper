@@ -1,5 +1,5 @@
 {
-  "bankroll": 593.0771071870004,
+  "bankroll": 600.1868701582583,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7865,6 +7865,21 @@
       "timestamp": 1787601275.8854725,
       "bankroll": 593.08,
       "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Ristic vs Akli"
+    },
+    {
+      "timestamp": 1787601568.4482706,
+      "bankroll": 594.6,
+      "event": "won: ferrariChampions2026 \u2014 Winston-Salem Open: Quinn Vandecasteele vs James Duckworth"
+    },
+    {
+      "timestamp": 1787601573.7101746,
+      "bankroll": 599.88,
+      "event": "won: RN1 \u2014 SC Verl vs. Hamburger SV: O/U 3.5"
+    },
+    {
+      "timestamp": 1787601580.1250057,
+      "bankroll": 600.19,
+      "event": "won: swisstony \u2014 Will 1. FC K\u00f6ln win on 2026-08-24?"
     }
   ]
 }
