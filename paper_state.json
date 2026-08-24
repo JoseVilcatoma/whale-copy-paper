@@ -1,5 +1,5 @@
 {
-  "bankroll": 547.7301181922295,
+  "bankroll": 550.9258803200314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6975,6 +6975,16 @@
       "timestamp": 1787543823.6834173,
       "bankroll": 547.73,
       "event": "won: HomeRunHazard \u2014 Monterrey Open: Lilli Tagger vs Yulia Starodubtseva"
+    },
+    {
+      "timestamp": 1787544138.954108,
+      "bankroll": 550.83,
+      "event": "won: RN1 \u2014 Will LDU Quito win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787544140.072334,
+      "bankroll": 550.93,
+      "event": "won: RN1 \u2014 LDU Quito vs. CS Emelec: O/U 5.5"
     }
   ]
 }
