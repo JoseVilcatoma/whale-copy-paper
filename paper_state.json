@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.4097573682479,
+  "bankroll": 540.7121321625688,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7050,6 +7050,31 @@
       "timestamp": 1787548817.6498747,
       "bankroll": 536.41,
       "event": "won: swisstony \u2014 Will Once Caldas win on 2026-08-22?"
+    },
+    {
+      "timestamp": 1787549130.2901876,
+      "bankroll": 537.32,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Antonia Ruzic vs Nikola Bartunkova"
+    },
+    {
+      "timestamp": 1787549130.3903935,
+      "bankroll": 538.1,
+      "event": "won: Djdjdjekekek \u2014 Monterrey Open: Antonia Ruzic vs Nikola Bartunkova"
+    },
+    {
+      "timestamp": 1787549130.4906156,
+      "bankroll": 538.95,
+      "event": "won: swisstony \u2014 Monterrey Open: Antonia Ruzic vs Nikola Bartunkova"
+    },
+    {
+      "timestamp": 1787549131.033285,
+      "bankroll": 540.0,
+      "event": "won: RN1 \u2014 Monterrey Open: Antonia Ruzic vs Nikola Bartunkova"
+    },
+    {
+      "timestamp": 1787549131.2336652,
+      "bankroll": 540.71,
+      "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Antonia Ruzic vs Nikola Bartunkova"
     }
   ]
 }
