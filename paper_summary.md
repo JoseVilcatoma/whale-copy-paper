@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:15:11 (hora de Perú)
+Actualizado: 2026-08-24 12:17:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $579.28
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:15:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $512.20 en 103 posiciones abiertas (disponible para nuevas apuestas: $67.08)
+**Capital comprometido ahora mismo:** $532.20 en 107 posiciones abiertas (disponible para nuevas apuestas: $47.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,13 +22,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 62 | 8 | 1 | +59.16 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 20 | 1 | +37.32 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 20 | 2 | +37.32 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ferrariChampions2026 | 230 | 124 | 42 | +25.71 USD |
+| ferrariChampions2026 | 230 | 124 | 43 | +25.71 USD |
 | casualbet2020 | 15 | 7 | 1 | +20.99 USD |
-| ChonkyChocolateCake | 29 | 17 | 2 | +16.37 USD |
+| ChonkyChocolateCake | 29 | 17 | 3 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 107 | 61 | 30 | -9.88 USD |
+| HomeRunHazard | 107 | 61 | 31 | -9.88 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -355,13 +355,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-lajal-jordanl-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-pavlovi-varilla-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-aksu-stefani-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| wta-avanesy-garcia-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-tian-per-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-fernan-kuhar-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| lol-gx-g2-2026-08-24-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 74% | 5.00 | 14.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Elina Avanesyan (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 72% | 5.00 | 7.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Rebeka Masar | Iryna Shymanovich (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -369,7 +375,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Mai Hontama (BUY) | 92% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 66% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 42% | 2.20 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Madison Bren | Anastasia Gasanova (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Mark Lajal v | Jordan Lee (BUY) | 60% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -388,7 +394,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Iryna Shymanovich (BUY) | 42% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | Over (BUY) | 47% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Würzburger Kickers win on 2026-0 | No (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Kimmer Coppe | Jurij Rodionov (BUY) | 97% | 5.00 | 1.8% | ✅ ganada | +0.15 |
-| ferrariChampions2026 | Winston-Salem Open: Kamil Majchrzak vs B | Kamil Majchrzak (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Rebecca Sram | Rebecca Sramkova (BUY) | 42% | 5.00 | 2.9% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | US Open, Qualification WTA: Erika Andree | Mariam Bolkvadze (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
