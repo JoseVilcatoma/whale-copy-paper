@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 22:01:04 (hora de Perú)
+Actualizado: 2026-08-23 22:03:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $548.13
@@ -318,12 +318,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 60% | 5.00 | 13.7% | ⏳ pendiente | — |
-| Djdjdjekekek | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 46% | 5.00 | 94.1% | ⏳ pendiente | — |
+| Djdjdjekekek | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 46% | 5.00 | 283.7% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 56% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 43.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 63% | 5.00 | 50.7% | ⏳ pendiente | — |
 | swisstony | Will Club Necaxa win on 2026-08-23? | Yes (BUY) | 76% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 64% | 5.00 | 13.1% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 7.6% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Lilli Tagger (BUY) | 48% | 5.00 | 14.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 54% | 5.00 | 5.6% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Over (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |

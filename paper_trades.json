@@ -34936,8 +34936,8 @@
     "title": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva",
     "outcome": "Lilli Tagger",
     "side": "BUY",
-    "whale_usd": 3060.6483,
-    "whale_pct": 7.648,
+    "whale_usd": 5892.6483,
+    "whale_pct": 14.724,
     "whale_value_at_open": 40021.3948,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -34950,8 +34950,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787538908.7873724,
-    "fills": 1
+    "last_fill_at": 1787540474.0590754,
+    "fills": 2
   },
   {
     "timestamp": 1787538972,
@@ -35012,8 +35012,8 @@
     "title": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva",
     "outcome": "Lilli Tagger",
     "side": "BUY",
-    "whale_usd": 25901.559202999997,
-    "whale_pct": 43.055,
+    "whale_usd": 30480.147202999997,
+    "whale_pct": 50.665,
     "whale_value_at_open": 60159.7955,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -35026,8 +35026,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787540447.7134435,
-    "fills": 6
+    "last_fill_at": 1787540474.0848494,
+    "fills": 7
   },
   {
     "timestamp": 1787540378,
@@ -35065,8 +35065,8 @@
     "title": "Monterrey Open: Lilli Tagger vs Yulia Starodubtseva",
     "outcome": "Yulia Starodubtseva",
     "side": "BUY",
-    "whale_usd": 32246.634500000004,
-    "whale_pct": 94.119,
+    "whale_usd": 97201.627796,
+    "whale_pct": 283.706,
     "whale_value_at_open": 34261.4275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -35081,8 +35081,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787540403.142413,
-    "fills": 2
+    "last_fill_at": 1787540564.3822868,
+    "fills": 12
   },
   {
     "timestamp": 1787540446,
