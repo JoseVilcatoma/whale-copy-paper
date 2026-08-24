@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:30:22 (hora de Perú)
+Actualizado: 2026-08-23 21:32:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $535.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:30:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $275.77)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $270.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 41 | 3 | 21 | +50.13 USD |
+| swisstony | 41 | 3 | 22 | +50.13 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -315,6 +315,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 0. | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Spread: Club Necaxa (-1.5) | Pumas de la UNAM (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Pumas de la UNAM (-1.5) | Club Necaxa (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Will Pumas de la UNAM vs. Club Necaxa en | No (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -344,4 +345,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open, Qualification: Anna Bond | Anna Bondar (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | RN1 | Will CD La Equidad Seguros win on 2026-0 | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Atlético San Luis win on 2026-08-23 | No (BUY) | 94% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Djdjdjekekek | Seahawks vs. Titans | Seahawks (BUY) | 74% | 5.00 | 37.0% | ⏳ pendiente | — |
