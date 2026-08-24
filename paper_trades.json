@@ -38936,8 +38936,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 5027.7728,
-    "whale_pct": 4.039,
+    "whale_usd": 7093.77362,
+    "whale_pct": 5.699,
     "whale_value_at_open": 124480.5019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -38948,8 +38948,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587813.8911393,
-    "fills": 4
+    "last_fill_at": 1787588407.1222935,
+    "fills": 5
   },
   {
     "timestamp": 1787587580,
@@ -38984,8 +38984,8 @@
     "title": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova",
     "outcome": "Rebecca Sramkova",
     "side": "BUY",
-    "whale_usd": 1365.3,
-    "whale_pct": 0.699,
+    "whale_usd": 5685.3,
+    "whale_pct": 2.91,
     "whale_value_at_open": 195346.0748,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -38998,8 +38998,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587818.148625,
-    "fills": 1
+    "last_fill_at": 1787588438.3149328,
+    "fills": 2
   },
   {
     "timestamp": 1787587939,
@@ -39162,8 +39162,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 835.861509,
-    "whale_pct": 0.477,
+    "whale_usd": 4657.943829,
+    "whale_pct": 2.661,
     "whale_value_at_open": 175056.2532,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -39176,7 +39176,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588259.8713894,
-    "fills": 1
+    "last_fill_at": 1787588406.7877607,
+    "fills": 2
   }
 ]
