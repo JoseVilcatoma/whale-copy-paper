@@ -40887,8 +40887,8 @@
     "title": "US Open, Qualification ATP: Guy Den Ouden vs Genaro Alberto Olivieri",
     "outcome": "Guy Den Ouden",
     "side": "BUY",
-    "whale_usd": 2806.0272,
-    "whale_pct": 1.436,
+    "whale_usd": 13434.817652000002,
+    "whale_pct": 6.875,
     "whale_value_at_open": 195416.9442,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -40901,8 +40901,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787597785.3353374,
-    "fills": 1
+    "last_fill_at": 1787598295.4969492,
+    "fills": 4
   },
   {
     "timestamp": 1787597792,

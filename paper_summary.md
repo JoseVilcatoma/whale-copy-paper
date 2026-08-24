@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:03:41 (hora de Perú)
+Actualizado: 2026-08-24 14:05:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $580.23
@@ -383,7 +383,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 83% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 84% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Osasuna vs. Levante UD: O/U 0.5 | Over (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 73% | 5.00 | 6.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Guy Den Oude | Guy Den Ouden (BUY) | 80% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
