@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 08:49:43 (hora de Perú)
+Actualizado: 2026-08-24 08:51:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.57
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 08:49:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $262.57)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $252.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 97 | 58 | 14 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 216 | 94 | 7 | -47.48 USD |
+| RN1 | 216 | 94 | 9 | -47.48 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
 
 ## Análisis general
@@ -338,6 +338,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Oviedo Men: Pablo Aunion vs Noah | Pablo Aunion (BUY) | 87% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 90% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Eduardo Ribeiro (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -358,7 +360,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Marko Topo (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 44% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 41% | 5.00 | 13.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 6.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 15.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 19.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 6.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -366,5 +368,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Gooooooollllllllll | Game Handicap: G2 (-1.5) vs GIANTX (+1.5 | G2 Esports (BUY) | 61% | 5.00 | 11.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs GIANTX (+1.5 | GIANTX (BUY) | 41% | 5.00 | 9.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 90% | 5.00 | 6.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 90% | 5.00 | 12.2% | ⏳ pendiente | — |
-| vibing123 | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 52% | 5.00 | 5.1% | ⏳ pendiente | — |
