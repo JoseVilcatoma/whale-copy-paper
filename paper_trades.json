@@ -41569,8 +41569,8 @@
     "title": "Tampa Bay Rays vs. Detroit Tigers: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2391.3648,
-    "whale_pct": 1.377,
+    "whale_usd": 8716.3632,
+    "whale_pct": 5.018,
     "whale_value_at_open": 173713.6788,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -41581,8 +41581,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787602195.400134,
-    "fills": 1
+    "last_fill_at": 1787611163.9985595,
+    "fills": 2
   },
   {
     "timestamp": 1787602997,
@@ -42683,6 +42683,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787610669.081552,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787611169,
+    "timestamp_added": 1787611169.7420228,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tb-det-2026-08-24-total-8pt5",
+    "title": "Tampa Bay Rays vs. Detroit Tigers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5275.549297999999,
+    "whale_pct": 24.851,
+    "whale_value_at_open": 21228.8208,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787611169.742033,
     "fills": 1
   }
 ]

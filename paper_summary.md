@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:37:32 (hora de Perú)
+Actualizado: 2026-08-24 17:39:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $581.48
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:37:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $191.48)
+**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $186.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | HomeRunHazard | 144 | 76 | 45 | -20.25 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 11 | 17 | 1 | -38.29 USD |
+| Sassy-Bucket | 11 | 17 | 2 | -38.29 USD |
 | RN1 | 229 | 101 | 4 | -41.80 USD |
 |  | 32 | 22 | 1 | -49.24 USD |
 
@@ -342,6 +342,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-navi-fnc-2026-08-24-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER, TAIWANNUMBERONE |
 | atp-kopp-ribeiro-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
+| mlb-tb-det-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | atp-brancac-wild-2026-08-24 | , 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, HomeRunHazard, RN1 |
 | mlb-bos-mia-2026-08-24 | AV23IUa, HomeRunHazard, SDTrading |
@@ -381,6 +382,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Over (BUY) | 44% | 5.00 | 24.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Miami Marlins (-1.5) | Boston Red Sox (BUY) | 72% | 5.00 | 2.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 95% | 5.00 | 5.1% | ⏳ pendiente | — |
@@ -410,4 +412,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Martin Damm vs Abeda | Martin Damm (BUY) | 97% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Lin Zhu (BUY) | 66% | 5.00 | 1.0% | ❌ perdida | -5.08 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Victoria Jim | Francisca Jorge (BUY) | 99% | 5.00 | 4.7% | ✅ ganada | +0.05 |
