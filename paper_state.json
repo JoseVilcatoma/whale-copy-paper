@@ -1,5 +1,5 @@
 {
-  "bankroll": 593.362752579575,
+  "bankroll": 594.3913540156223,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8125,6 +8125,16 @@
       "timestamp": 1787608520.9146059,
       "bankroll": 593.36,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Victoria Jimenez Kasintseva vs Francisca Jorge"
+    },
+    {
+      "timestamp": 1787608832.0693376,
+      "bankroll": 593.41,
+      "event": "won: swisstony \u2014 Will Heracles Almelo win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787608834.3642416,
+      "bankroll": 594.39,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Jazmin Ortenzi vs Himeno Sakatsume"
     }
   ]
 }
