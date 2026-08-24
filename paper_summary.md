@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 22:23:38 (hora de Perú)
+Actualizado: 2026-08-23 22:25:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $554.68
@@ -318,7 +318,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| swisstony | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
+| swisstony | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 86% | 5.00 | 138919.2% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 84% | 5.00 | 6.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Lilli Tagger vs Yulia St | Yulia Starodubtseva (BUY) | 60% | 5.00 | 32.8% | ⏳ pendiente | — |
