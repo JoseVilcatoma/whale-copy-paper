@@ -1,5 +1,5 @@
 {
-  "bankroll": 593.7256536160769,
+  "bankroll": 589.4946858741414,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7955,6 +7955,26 @@
       "timestamp": 1787604438.692974,
       "bankroll": 593.73,
       "event": "won: 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 \u2014 US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini"
+    },
+    {
+      "timestamp": 1787604691.9535146,
+      "bankroll": 588.65,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Spencer Johnson vs Cristian Garin"
+    },
+    {
+      "timestamp": 1787604692.3544014,
+      "bankroll": 583.56,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Spencer Johnson vs Cristian Garin"
+    },
+    {
+      "timestamp": 1787604694.487187,
+      "bankroll": 586.53,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Spencer Johnson vs Cristian Garin"
+    },
+    {
+      "timestamp": 1787604694.904291,
+      "bankroll": 589.49,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Spencer Johnson vs Cristian Garin"
     }
   ]
 }
