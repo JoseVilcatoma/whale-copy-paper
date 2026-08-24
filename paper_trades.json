@@ -35406,8 +35406,8 @@
     "title": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers - Game 1 Winner",
     "outcome": "DN SOOPers Challengers",
     "side": "BUY",
-    "whale_usd": 9850.057963000001,
-    "whale_pct": 77.496,
+    "whale_usd": 14292.898863,
+    "whale_pct": 112.45,
     "whale_value_at_open": 12710.3997,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -35418,8 +35418,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787548816.582641,
-    "fills": 5
+    "last_fill_at": 1787548918.009213,
+    "fills": 9
   },
   {
     "timestamp": 1787547359,

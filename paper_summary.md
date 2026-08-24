@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 00:20:25 (hora de Perú)
+Actualizado: 2026-08-24 00:22:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $536.41
@@ -325,7 +325,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | hi774c | Málaga CF vs. RC Deportivo A Coruña: O/U | Under (BUY) | 62% | 5.00 | 29.2% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 76% | 5.00 | 112.0% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 77.5% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 112.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Painfulvoid | Counter-Strike: Nuclear TigeRES vs FORZE | Nuclear TigeRES (BUY) | 69% | 5.00 | 140.6% | ⏳ pendiente | — |
