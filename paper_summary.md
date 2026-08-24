@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:44:38 (hora de Perú)
+Actualizado: 2026-08-24 07:46:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $558.83
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 07:44:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $328.83)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $323.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ferrariChampions2026 | 214 | 117 | 17 | +16.91 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| SDTrading | 20 | 15 | 0 | +11.54 USD |
+| SDTrading | 20 | 15 | 1 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
@@ -321,6 +321,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-tagger-starodu-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-ruzic-bartunk-2026-08-23 | Djdjdjekekek, HomeRunHazard, RN1, ferrariChampions2026, swisstony |
 | wta-sherif-oliynyk-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
+| mlb-bos-mia-2026-08-24-total-7pt5 | HomeRunHazard, SDTrading |
 | lal-mala-dep-2026-08-24-mala | RN1, ferrariChampions2026, hi774c |
 | lol-dnsc-drxc-2026-08-24 | SPCEXBUYER, itsonlyamatteroftime |
 | lol-foxy-hle-2026-08-24 | SPCEXBUYER, ferrariChampions2026 |
@@ -335,11 +336,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 9.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Oskari Paldanius (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Marko Topo (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 41% | 5.00 | 4.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 6.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 12.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -364,4 +366,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton 2: Radu Albot vs Leonardo Ros | Radu Albot (BUY) | 83% | 5.00 | 11.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 10.5% | ✅ ganada | +3.23 |
-| ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Matthew William Donald (BUY) | 41% | 5.00 | 1.7% | ❌ perdida | -5.15 |
