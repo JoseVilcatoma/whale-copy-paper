@@ -40563,8 +40563,8 @@
     "title": "US Open, Qualification ATP: Spencer Johnson vs Cristian Garin",
     "outcome": "Cristian Garin",
     "side": "BUY",
-    "whale_usd": 3292.58,
-    "whale_pct": 1.637,
+    "whale_usd": 8773.508,
+    "whale_pct": 4.363,
     "whale_value_at_open": 201075.9631,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -40577,8 +40577,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787596561.6947043,
-    "fills": 2
+    "last_fill_at": 1787596661.8105628,
+    "fills": 4
   },
   {
     "timestamp": 1787595543,
