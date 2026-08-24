@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 08:15:39 (hora de Perú)
+Actualizado: 2026-08-24 08:17:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.53
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 08:15:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $297.53)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $292.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 97 | 58 | 12 | -12.83 USD |
+| HomeRunHazard | 97 | 58 | 13 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 216 | 94 | 5 | -47.48 USD |
@@ -330,15 +330,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-navi-fnc-2026-08-24 | SPCEXBUYER, TAIWANNUMBERONE |
 | atp-nedic-estevez-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
-| atp-topo-damas-2026-08-24 | RN1, ferrariChampions2026 |
+| atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 7.5% | ⏳ pendiente | — |
-| RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 5.7% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 8.9% | ⏳ pendiente | — |
+| RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 8.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Patrick Brady vs Andreja P | Patrick Brady (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 3.5% | ⏳ pendiente | — |
 | SDTrading | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -347,7 +348,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Oskari Paldanius (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Marko Topo (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 44% | 5.00 | 2.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 41% | 5.00 | 11.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 41% | 5.00 | 13.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 6.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 15.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 6.4% | ⏳ pendiente | — |
@@ -365,4 +366,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 90% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Janice Tjen vs Dayana Ya | Janice Tjen (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 53% | 5.00 | 7.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Oliver Bonding vs Millen H | Oliver Bonding (BUY) | 64% | 5.00 | 2.5% | ✅ ganada | +2.72 |

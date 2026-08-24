@@ -36660,8 +36660,8 @@
     "title": "Augsburg: Marko Topo vs Miguel Damas",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 10823.582809,
-    "whale_pct": 11.579,
+    "whale_usd": 12566.869309,
+    "whale_pct": 13.444,
     "whale_value_at_open": 93476.8671,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -36672,8 +36672,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787576833.6413045,
-    "fills": 5
+    "last_fill_at": 1787577398.7821152,
+    "fills": 7
   },
   {
     "timestamp": 1787574813,
@@ -36884,8 +36884,8 @@
     "title": "Augsburg: Andrej Nedic vs Juan Estevez",
     "outcome": "Juan Estevez",
     "side": "BUY",
-    "whale_usd": 5655.165779999999,
-    "whale_pct": 5.656,
+    "whale_usd": 8853.976757,
+    "whale_pct": 8.856,
     "whale_value_at_open": 99978.6053,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -36899,8 +36899,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787577256.569446,
-    "fills": 2
+    "last_fill_at": 1787577365.5087936,
+    "fills": 3
   },
   {
     "timestamp": 1787577053,
@@ -36911,8 +36911,8 @@
     "title": "Augsburg: Andrej Nedic vs Juan Estevez",
     "outcome": "Juan Estevez",
     "side": "BUY",
-    "whale_usd": 4767.7465600000005,
-    "whale_pct": 7.519,
+    "whale_usd": 5669.8503200000005,
+    "whale_pct": 8.942,
     "whale_value_at_open": 63406.2551,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -36926,8 +36926,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787577140.9204962,
-    "fills": 4
+    "last_fill_at": 1787577365.6417897,
+    "fills": 5
   },
   {
     "timestamp": 1787577146,
@@ -36952,5 +36952,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787577147.2845757,
     "fills": 2
+  },
+  {
+    "timestamp": 1787577363,
+    "timestamp_added": 1787577363.4185436,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-topo-damas-2026-08-24",
+    "title": "Augsburg: Marko Topo vs Miguel Damas",
+    "outcome": "Miguel Damas",
+    "side": "BUY",
+    "whale_usd": 848.0483999999999,
+    "whale_pct": 1.146,
+    "whale_value_at_open": 74026.3218,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787577363.418556,
+    "fills": 1
   }
 ]
