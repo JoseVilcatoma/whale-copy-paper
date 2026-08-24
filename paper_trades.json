@@ -35072,8 +35072,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 5.73,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026",
@@ -35082,7 +35082,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787540642.809623,
-    "fills": 13
+    "fills": 13,
+    "fee_total_usd": 0.135,
+    "closed_price": 100
   },
   {
     "timestamp": 1787540446,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 548.9479909944906,
+  "bankroll": 554.6825562118819,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6915,6 +6915,11 @@
       "timestamp": 1787540976.5690777,
       "bankroll": 548.95,
       "event": "won: RN1 \u2014 Will CD La Equidad Seguros win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787541670.0848422,
+      "bankroll": 554.68,
+      "event": "venta anticipada: Djdjdjekekek \u2014 Monterrey Open: Lilli Tagger vs Yulia Starodubtseva (+5.73 USD)"
     }
   ]
 }
