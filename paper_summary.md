@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:36:08 (hora de Perú)
+Actualizado: 2026-08-24 16:38:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $581.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 16:36:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $457.20 en 92 posiciones abiertas (disponible para nuevas apuestas: $123.97)
+**Capital comprometido ahora mismo:** $462.20 en 93 posiciones abiertas (disponible para nuevas apuestas: $118.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 133 | 70 | 47 | -12.02 USD |
+| HomeRunHazard | 133 | 70 | 48 | -12.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 228 | 100 | 2 | -39.89 USD |
@@ -377,6 +377,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Angela Fita Boluda (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 43% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -391,7 +392,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Lizette Cabrera (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Jan Choinski (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Keegan Smith | Alexis Galarneau (BUY) | 63% | 5.00 | 5.1% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Keegan Smith | Alexis Galarneau (BUY) | 63% | 5.00 | 7.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Edward Winter vs Andres Andr | Andres Andrade (BUY) | 92% | 5.00 | 3.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Dalibor Svrc | Dalibor Svrcina (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Polina Kudermetova (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -406,4 +407,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Gonzalo Buen | Billy Harris (BUY) | 98% | 5.00 | 1.9% | ✅ ganada | +0.10 |
-| HomeRunHazard | Winston-Salem Open: Sebastian Gorzny vs  | Sebastian Gorzny (BUY) | 84% | 5.00 | 4.8% | ⏳ pendiente | — |
