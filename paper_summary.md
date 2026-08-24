@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 04:53:20 (hora de Perú)
+Actualizado: 2026-08-24 04:55:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $547.69
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 04:53:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $412.69)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $407.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 97 | 58 | 6 | -12.83 USD |
+| HomeRunHazard | 97 | 58 | 7 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 216 | 94 | 1 | -47.48 USD |
@@ -327,6 +327,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Fulham FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Dominik Recek vs Benito Sanche | Benito Sanchez Martinez (BUY) | 80% | 5.00 | 62.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Fiona Ferro (BUY) | 61% | 5.00 | 4.4% | ⏳ pendiente | — |
@@ -356,4 +357,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Painfulvoid | Counter-Strike: Nuclear TigeRES vs FORZE | Nuclear TigeRES (BUY) | 69% | 5.00 | 140.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 87% | 5.00 | 17.3% | ✅ ganada | +0.71 |
 | ferrariChampions2026 | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 69% | 5.00 | 2.2% | ✅ ganada | +2.17 |
-| RN1 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 82% | 5.00 | 2.7% | ✅ ganada | +1.05 |
