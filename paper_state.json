@@ -1,5 +1,5 @@
 {
-  "bankroll": 535.7739612316251,
+  "bankroll": 540.1923790468571,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6765,6 +6765,46 @@
       "timestamp": 1787538482.1348605,
       "bankroll": 535.77,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Rinky Hijikata vs Darwin Blanch"
+    },
+    {
+      "timestamp": 1787538781.9152172,
+      "bankroll": 530.66,
+      "event": "lost: SDTrading \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787538782.6982536,
+      "bankroll": 532.93,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 9.5"
+    },
+    {
+      "timestamp": 1787538784.450993,
+      "bankroll": 527.81,
+      "event": "lost: Sassy-Bucket \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787538785.5063176,
+      "bankroll": 533.32,
+      "event": "won: RN1 \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 6.5"
+    },
+    {
+      "timestamp": 1787538785.6065218,
+      "bankroll": 536.29,
+      "event": "won: RN1 \u2014 Atlanta Braves vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787538785.866785,
+      "bankroll": 538.78,
+      "event": "won: RN1 \u2014 Atlanta Braves vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787538787.9877105,
+      "bankroll": 539.83,
+      "event": "won: RN1 \u2014 Spread: Atlanta Braves (-2.5)"
+    },
+    {
+      "timestamp": 1787538789.9749634,
+      "bankroll": 540.19,
+      "event": "won: HomeRunHazard \u2014 Atlanta Braves vs. Milwaukee Brewers"
     }
   ]
 }
