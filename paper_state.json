@@ -1,5 +1,5 @@
 {
-  "bankroll": 547.2569790807183,
+  "bankroll": 548.0865442981096,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6880,6 +6880,16 @@
       "timestamp": 1787539903.6479964,
       "bankroll": 547.26,
       "event": "won: swisstony \u2014 Will Racing Club win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787540026.8652465,
+      "bankroll": 547.67,
+      "event": "won: swisstony \u2014 Spread: Coritiba FBC (-1.5)"
+    },
+    {
+      "timestamp": 1787540027.1547225,
+      "bankroll": 548.09,
+      "event": "won: swisstony \u2014 Coritiba FBC vs. SC Corinthians Paulista: O/U 3.5"
     }
   ]
 }
