@@ -40464,8 +40464,8 @@
     "title": "Philadelphia: Oksana Selekhmeteva vs Taylah Preston",
     "outcome": "Oksana Selekhmeteva",
     "side": "BUY",
-    "whale_usd": 3077.027,
-    "whale_pct": 1.611,
+    "whale_usd": 6222.67532,
+    "whale_pct": 3.257,
     "whale_value_at_open": 191045.5402,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -40476,8 +40476,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787595626.4897013,
-    "fills": 3
+    "last_fill_at": 1787596726.582617,
+    "fills": 4
   },
   {
     "timestamp": 1787595176,
