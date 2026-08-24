@@ -1,5 +1,5 @@
 {
-  "bankroll": 567.3930715418197,
+  "bankroll": 562.3530715418198,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6625,6 +6625,11 @@
       "timestamp": 1787531295.6747825,
       "bankroll": 567.39,
       "event": "won: swisstony \u2014 Spread: CA River Plate (-2.5)"
+    },
+    {
+      "timestamp": 1787531417.963494,
+      "bankroll": 562.35,
+      "event": "lost: swisstony \u2014 CA River Plate vs. CA V\u00e9lez Sarsfield: O/U 3.5"
     }
   ]
 }
