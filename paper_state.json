@@ -1,5 +1,5 @@
 {
-  "bankroll": 561.2964342176015,
+  "bankroll": 560.7518188329861,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7315,6 +7315,16 @@
       "timestamp": 1787585461.8106217,
       "bankroll": 561.3,
       "event": "won: RN1 \u2014 ITF W75 Bytom Women: Laura Hietaranta vs Viktoria Veleva"
+    },
+    {
+      "timestamp": 1787586578.8673081,
+      "bankroll": 556.26,
+      "event": "lost: RN1 \u2014 ITF W35 Trieste Women: Federica Trevisan vs Alessandra Mazzola"
+    },
+    {
+      "timestamp": 1787586579.5684683,
+      "bankroll": 560.75,
+      "event": "won: RN1 \u2014 ITF W35 Trieste Women: Federica Trevisan vs Alessandra Mazzola"
     }
   ]
 }
