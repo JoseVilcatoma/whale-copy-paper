@@ -37287,8 +37287,8 @@
     "title": "Roehampton 2: Max Basing vs Christian Langmo",
     "outcome": "Max Basing",
     "side": "BUY",
-    "whale_usd": 6211.300401,
-    "whale_pct": 3.806,
+    "whale_usd": 11547.677175,
+    "whale_pct": 7.076,
     "whale_value_at_open": 163199.1022,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -37299,8 +37299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787581467.7816246,
-    "fills": 3
+    "last_fill_at": 1787582172.0240376,
+    "fills": 4
   },
   {
     "timestamp": 1787580444,
@@ -37503,8 +37503,8 @@
     "title": "Augsburg: Calvin Hemery vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 9977.269831,
-    "whale_pct": 5.909,
+    "whale_usd": 17563.659831,
+    "whale_pct": 10.402,
     "whale_value_at_open": 168851.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -37517,8 +37517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787581541.3477643,
-    "fills": 6
+    "last_fill_at": 1787582111.9958465,
+    "fills": 7
   },
   {
     "timestamp": 1787580918,
@@ -37634,8 +37634,8 @@
     "title": "ITF W35 Trieste Women: Federica Trevisan vs Alessandra Mazzola",
     "outcome": "Federica Trevisan",
     "side": "BUY",
-    "whale_usd": 2353.447266,
-    "whale_pct": 2.707,
+    "whale_usd": 4199.026449,
+    "whale_pct": 4.83,
     "whale_value_at_open": 86927.589,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -37646,7 +37646,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787581814.5729911,
-    "fills": 3
+    "last_fill_at": 1787582107.3171031,
+    "fills": 5
   }
 ]
