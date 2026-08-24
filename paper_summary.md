@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 02:53:56 (hora de Perú)
+Actualizado: 2026-08-24 02:55:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $549.12
@@ -325,7 +325,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 60% | 5.00 | 5.0% | ⏳ pendiente | — |
 | itsonlyamatteroftime | LoL: DN SOOPers Challengers vs Kiwoom DR | Kiwoom DRX Challengers (BUY) | 81% | 5.00 | 13.8% | 💰 vendida anticipada | +0.03 |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 48% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 69% | 5.00 | 2.8% | ⏳ pendiente | — |
