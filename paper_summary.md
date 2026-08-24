@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:00:01 (hora de Perú)
+Actualizado: 2026-08-24 09:02:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:00:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $252.93)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $247.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 22 | 12 | 2 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
-| ferrariChampions2026 | 217 | 119 | 16 | +15.90 USD |
+| ferrariChampions2026 | 217 | 119 | 17 | +15.90 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -338,6 +338,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton 2: Max Basing vs Christian La | Max Basing (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 24.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Federico Agu | Federico Agustin Gomez (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -367,4 +368,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 19.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 6.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 46% | 5.00 | 5.8% | ⏳ pendiente | — |
