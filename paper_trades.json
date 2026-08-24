@@ -38810,8 +38810,8 @@
     "title": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze",
     "outcome": "Erika Andreeva",
     "side": "BUY",
-    "whale_usd": 985.617673,
-    "whale_pct": 0.542,
+    "whale_usd": 3157.0176730000003,
+    "whale_pct": 1.737,
     "whale_value_at_open": 181789.2763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -38822,7 +38822,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586709.2382457,
-    "fills": 1
+    "last_fill_at": 1787586832.102511,
+    "fills": 2
   }
 ]
