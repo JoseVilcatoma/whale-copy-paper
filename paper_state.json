@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.1700680647054,
+  "bankroll": 583.443009241176,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8035,6 +8035,11 @@
       "timestamp": 1787606674.4018419,
       "bankroll": 581.17,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Toby Samuel vs Francesco Maestrelli"
+    },
+    {
+      "timestamp": 1787607545.543579,
+      "bankroll": 583.44,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Adam Walton vs Jesper de Jong"
     }
   ]
 }
