@@ -39568,8 +39568,8 @@
     "title": "US Open, Qualification WTA: Mai Hontama vs Lina Gjorcheska",
     "outcome": "Mai Hontama",
     "side": "BUY",
-    "whale_usd": 2663.844,
-    "whale_pct": 1.252,
+    "whale_usd": 6023.1594000000005,
+    "whale_pct": 2.831,
     "whale_value_at_open": 212745.113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -39580,8 +39580,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787592206.3606312,
-    "fills": 2
+    "last_fill_at": 1787595341.8615482,
+    "fills": 4
   },
   {
     "timestamp": 1787591193,
@@ -40501,6 +40501,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787595176.7928307,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787595312,
+    "timestamp_added": 1787595313.5164273,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-droguet-rincon-2026-08-24",
+    "title": "US Open, Qualification ATP: Titouan Droguet vs Daniel Rincon",
+    "outcome": "Daniel Rincon",
+    "side": "BUY",
+    "whale_usd": 4303.728,
+    "whale_pct": 30.46,
+    "whale_value_at_open": 14128.8936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787595313.5164402,
     "fills": 1
   }
 ]
