@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:24:22 (hora de Perú)
+Actualizado: 2026-08-24 09:26:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $551.56
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:24:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $236.56)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $226.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
-| ferrariChampions2026 | 218 | 120 | 18 | +17.92 USD |
+| ferrariChampions2026 | 218 | 120 | 19 | +17.92 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 99 | 59 | 13 | -13.66 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 218 | 96 | 10 | -50.04 USD |
+| RN1 | 218 | 96 | 11 | -50.04 USD |
 |  | 30 | 22 | 1 | -52.94 USD |
 
 ## Análisis general
@@ -333,16 +333,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
 | atp-kopp-ribeiro-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
-| mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading |
+| mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | atp-hemery-barton-2026-08-24 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 4.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 5.9% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -351,7 +353,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Counter-Strike: GenOne vs Leo Team - Map | GenOne (BUY) | 59% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will Stade de Reims win on 2026-08-24? | No (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Alliance vs  Phantom Aca | Alliance (BUY) | 41% | 5.00 | 168.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Max Basing vs Christian La | Max Basing (BUY) | 88% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Max Basing vs Christian La | Max Basing (BUY) | 88% | 5.00 | 3.8% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 47% | 5.00 | 24.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Federico Agu | Federico Agustin Gomez (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -368,5 +370,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 11.9% | ✅ ganada | +1.36 |
 | RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 12.9% | ✅ ganada | +1.36 |
-| ferrariChampions2026 | Roehampton 2: Patrick Brady vs Andreja P | Patrick Brady (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
-| HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 3.5% | ⏳ pendiente | — |

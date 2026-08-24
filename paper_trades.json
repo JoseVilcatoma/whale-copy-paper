@@ -37287,8 +37287,8 @@
     "title": "Roehampton 2: Max Basing vs Christian Langmo",
     "outcome": "Max Basing",
     "side": "BUY",
-    "whale_usd": 4097.524528,
-    "whale_pct": 2.511,
+    "whale_usd": 6211.300401,
+    "whale_pct": 3.806,
     "whale_value_at_open": 163199.1022,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -37299,8 +37299,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787580873.0770752,
-    "fills": 2
+    "last_fill_at": 1787581467.7816246,
+    "fills": 3
   },
   {
     "timestamp": 1787580444,
@@ -37503,8 +37503,8 @@
     "title": "Augsburg: Calvin Hemery vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 8194.081332,
-    "whale_pct": 4.853,
+    "whale_usd": 9977.269831,
+    "whale_pct": 5.909,
     "whale_value_at_open": 168851.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -37517,8 +37517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787581177.3540132,
-    "fills": 4
+    "last_fill_at": 1787581541.3477643,
+    "fills": 6
   },
   {
     "timestamp": 1787580918,
@@ -37570,6 +37570,59 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787581026.4988182,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787581463,
+    "timestamp_added": 1787581463.8390856,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-sf-2026-08-24",
+    "title": "Cincinnati Reds vs. San Francisco Giants",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "whale_usd": 1198.104,
+    "whale_pct": 1.121,
+    "whale_value_at_open": 106904.1917,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787581463.8390968,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787581466,
+    "timestamp_added": 1787581466.858614,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-hemery-barton-2026-08-24",
+    "title": "Augsburg: Calvin Hemery vs Hynek Barton",
+    "outcome": "Calvin Hemery",
+    "side": "BUY",
+    "whale_usd": 1439.5014620000002,
+    "whale_pct": 1.58,
+    "whale_value_at_open": 91083.3631,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787581466.858627,
     "fills": 1
   }
 ]
