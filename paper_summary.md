@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:50:18 (hora de Perú)
+Actualizado: 2026-08-24 18:52:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $579.61
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:50:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $500.00 en 100 posiciones abiertas (disponible para nuevas apuestas: $79.61)
+**Capital comprometido ahora mismo:** $505.00 en 101 posiciones abiertas (disponible para nuevas apuestas: $74.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 153 | 79 | 57 | -16.70 USD |
+| HomeRunHazard | 153 | 79 | 58 | -16.70 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 231 | 102 | 7 | -46.13 USD |
@@ -391,7 +391,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-|  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 2.3% | ⏳ pendiente | — |
+| HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
+|  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Ekaterine Go | Ekaterine Gorgodze (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Los Angeles Sparks (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Alvaro Guillen Meza vs Andre | Andrew Fenty (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -418,6 +419,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Akasha Urhobo (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 3.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Veronika Podrez (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |

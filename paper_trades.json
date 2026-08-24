@@ -36836,8 +36836,8 @@
     "title": "Spread: Minnesota Lynx (-6.5)",
     "outcome": "Minnesota Lynx",
     "side": "BUY",
-    "whale_usd": 1990.9965,
-    "whale_pct": 3.472,
+    "whale_usd": 2787.548224,
+    "whale_pct": 4.862,
     "whale_value_at_open": 57339.1507,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -36848,8 +36848,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787577121.4811497,
-    "fills": 3
+    "last_fill_at": 1787615488.307858,
+    "fills": 4
   },
   {
     "timestamp": 1787576677,
@@ -43004,8 +43004,8 @@
     "title": "Kingston 2: John Chin vs Benjamin Willwerth",
     "outcome": "Benjamin Willwerth",
     "side": "BUY",
-    "whale_usd": 2710.4261,
-    "whale_pct": 1.065,
+    "whale_usd": 3941.4245,
+    "whale_pct": 1.548,
     "whale_value_at_open": 254595.8495,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -43016,8 +43016,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787611987.4938471,
-    "fills": 3
+    "last_fill_at": 1787615473.1295798,
+    "fills": 4
   },
   {
     "timestamp": 1787612150,
@@ -43673,8 +43673,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx: O/U 161.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1598.67,
-    "whale_pct": 2.316,
+    "whale_usd": 2361.17,
+    "whale_pct": 3.42,
     "whale_value_at_open": 69040.0662,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -43687,7 +43687,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787615395.9365296,
+    "last_fill_at": 1787615440.046791,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787615470,
+    "timestamp_added": 1787615470.3276649,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tex-cws-2026-08-24",
+    "title": "Texas Rangers vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 3164.8540000000003,
+    "whale_pct": 0.944,
+    "whale_value_at_open": 335183.2723,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787615470.327675,
     "fills": 1
   }
 ]
