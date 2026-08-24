@@ -37960,8 +37960,8 @@
     "title": "Philadelphia: Jaeda Daniel vs Kylie Collins",
     "outcome": "Kylie Collins",
     "side": "BUY",
-    "whale_usd": 1533.0029,
-    "whale_pct": 2.435,
+    "whale_usd": 3396.0029,
+    "whale_pct": 5.393,
     "whale_value_at_open": 62969.1138,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -37972,8 +37972,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787584578.0985274,
-    "fills": 1
+    "last_fill_at": 1787585791.7134154,
+    "fills": 2
   },
   {
     "timestamp": 1787584638,
@@ -38421,6 +38421,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787585718.6005855,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787585780,
+    "timestamp_added": 1787585781.4109519,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-chc-ari-2026-08-24-total-9pt5",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 693.44655,
+    "whale_pct": 0.81,
+    "whale_value_at_open": 85634.462,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787585781.4109666,
     "fills": 1
   }
 ]

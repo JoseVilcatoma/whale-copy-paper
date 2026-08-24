@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:35:22 (hora de Perú)
+Actualizado: 2026-08-24 10:37:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $561.30
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 10:35:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $136.30)
+**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $131.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 100 | 59 | 21 | -11.05 USD |
+| HomeRunHazard | 100 | 59 | 22 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 |  | 30 | 22 | 3 | -52.94 USD |
@@ -349,6 +349,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Sramkova vs Ibragimova | Ibragimova (BUY) | 90% | 5.00 | 8.7% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 62% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Fnatic (BUY) | 58% | 5.00 | 6.6% | ⏳ pendiente | — |
@@ -367,7 +368,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Diego Dedura-Palomero (BUY) | 43% | 5.00 | 6.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 51% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 96% | 5.00 | 6.9% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Jaeda Daniel vs Kylie Coll | Kylie Collins (BUY) | 81% | 5.00 | 2.4% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Jaeda Daniel vs Kylie Coll | Kylie Collins (BUY) | 81% | 5.00 | 5.4% | ⏳ pendiente | — |
 | RN1 | SC Verl vs. Hamburger SV: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kayla Day vs | Julieta Pareja (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Kayla Day vs | Julieta Pareja (BUY) | 45% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -378,4 +379,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton 2: Johannus Monday vs Iliyan  | Johannus Monday (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
