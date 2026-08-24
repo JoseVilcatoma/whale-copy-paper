@@ -38306,8 +38306,8 @@
     "title": "US Open, Qualification WTA: Qinwen Zheng vs Xiaodi You",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 14268.879246,
-    "whale_pct": 10.439,
+    "whale_usd": 28254.752126,
+    "whale_pct": 20.671,
     "whale_value_at_open": 136685.7304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -38320,8 +38320,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586141.8307502,
-    "fills": 2
+    "last_fill_at": 1787589165.3210099,
+    "fills": 7
   },
   {
     "timestamp": 1787585613,
@@ -39252,5 +39252,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787588842.0171044,
     "fills": 1
+  },
+  {
+    "timestamp": 1787589161,
+    "timestamp_added": 1787589162.2240689,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-aksu-stefani-2026-08-24",
+    "title": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini",
+    "outcome": "Lucrezia Stefanini",
+    "side": "BUY",
+    "whale_usd": 18559.934999999998,
+    "whale_pct": 10.512,
+    "whale_value_at_open": 176562.8704,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787589219.4648402,
+    "fills": 23
   }
 ]
