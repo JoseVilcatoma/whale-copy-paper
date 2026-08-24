@@ -1,5 +1,5 @@
 {
-  "bankroll": 575.6723821662752,
+  "bankroll": 580.9177119880046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7655,6 +7655,36 @@
       "timestamp": 1787597449.6718426,
       "bankroll": 575.67,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas"
+    },
+    {
+      "timestamp": 1787597505.5132391,
+      "bankroll": 578.52,
+      "event": "won: vito3corleone \u2014 Will Bologna FC 1909 win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787597509.63898,
+      "bankroll": 582.18,
+      "event": "won: swisstony \u2014 Bologna FC 1909 vs. SS Lazio: Bologna FC 1909 O/U 0.5"
+    },
+    {
+      "timestamp": 1787597510.646507,
+      "bankroll": 582.43,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Bruno Kuzuhara vs Thomas Fancutt"
+    },
+    {
+      "timestamp": 1787597576.5135124,
+      "bankroll": 585.8,
+      "event": "won: ferrariChampions2026 \u2014 Bologna FC 1909 vs. SS Lazio: O/U 2.5"
+    },
+    {
+      "timestamp": 1787597582.3010094,
+      "bankroll": 580.67,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Johnson vs Garin"
+    },
+    {
+      "timestamp": 1787597583.7820187,
+      "bankroll": 580.92,
+      "event": "won: swisstony \u2014 Spread: SS Lazio (-1.5)"
     }
   ]
 }
