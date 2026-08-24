@@ -42474,8 +42474,8 @@
     "title": "Texas Rangers vs. Chicago White Sox: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1410.66,
-    "whale_pct": 0.61,
+    "whale_usd": 4436.1024,
+    "whale_pct": 1.918,
     "whale_value_at_open": 231290.7683,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -42486,8 +42486,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787609860.1296566,
-    "fills": 1
+    "last_fill_at": 1787614236.861606,
+    "fills": 2
   },
   {
     "timestamp": 1787609908,
@@ -42928,8 +42928,8 @@
     "title": "Tampa Bay Rays vs. Detroit Tigers",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 7117.9992,
-    "whale_pct": 2.707,
+    "whale_usd": 7716.3893,
+    "whale_pct": 2.934,
     "whale_value_at_open": 262984.5759,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -42944,8 +42944,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787611595.3775275,
-    "fills": 1
+    "last_fill_at": 1787614219.7528996,
+    "fills": 2
   },
   {
     "timestamp": 1787611605,
@@ -43373,5 +43373,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787614159.7494633,
     "fills": 1
+  },
+  {
+    "timestamp": 1787614235,
+    "timestamp_added": 1787614236.236516,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-tex-cws-2026-08-24-total-8pt5",
+    "title": "Texas Rangers vs. Chicago White Sox: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 31090.9214,
+    "whale_pct": 34.091,
+    "whale_value_at_open": 91200.31,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787614279.0182319,
+    "fills": 15
   }
 ]

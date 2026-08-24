@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:29:27 (hora de Perú)
+Actualizado: 2026-08-24 18:31:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $585.53
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 18:29:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $130.53)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $125.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | HomeRunHazard | 151 | 77 | 51 | -10.77 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 11 | 17 | 4 | -38.29 USD |
+| Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 231 | 102 | 7 | -46.13 USD |
 |  | 32 | 23 | 1 | -54.37 USD |
 
@@ -382,6 +382,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-det-2026-08-24 | Donghui, HomeRunHazard, RN1, SDTrading |
 | wta-waltert-crawley-2026-08-24 | HomeRunHazard, RN1 |
 | atp-passaro-gill-2026-08-24 | HomeRunHazard, RN1 |
+| mlb-tex-cws-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-col-wsh-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | atp-wong-moeller-2026-08-24 | , RN1 |
 
@@ -389,6 +390,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 50% | 5.00 | 34.1% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Janice Tjen (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Donghui | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 53% | 5.00 | 23.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -406,7 +408,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 73% | 5.00 | 2.7% | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 73% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Donghui | Tampa Bay Rays vs. Detroit Tigers | Detroit Tigers (BUY) | 45% | 5.00 | 338.6% | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 57% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -418,4 +420,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Over (BUY) | 44% | 5.00 | 24.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Miami Marlins (-1.5) | Boston Red Sox (BUY) | 72% | 5.00 | 2.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 161.9% | ⏳ pendiente | — |
-| RN1 | Philadelphia: Simona Waltert vs Fiona Cr | Fiona Crawley (BUY) | 95% | 5.00 | 5.1% | ✅ ganada | +0.25 |
