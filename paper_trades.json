@@ -39592,8 +39592,8 @@
     "title": "Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar",
     "outcome": "Mario Gonzalez Fernandez",
     "side": "BUY",
-    "whale_usd": 4958.736139,
-    "whale_pct": 1.965,
+    "whale_usd": 5656.477723999999,
+    "whale_pct": 2.241,
     "whale_value_at_open": 252402.7264,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -39604,8 +39604,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787596961.3714259,
-    "fills": 5
+    "last_fill_at": 1787597101.6373484,
+    "fills": 6
   },
   {
     "timestamp": 1787591360,
@@ -39616,8 +39616,8 @@
     "title": "Kingston 2: Mario Gonzalez Fernandez vs Matt Kuhar",
     "outcome": "Mario Gonzalez Fernandez",
     "side": "BUY",
-    "whale_usd": 2102.5468499999997,
-    "whale_pct": 1.041,
+    "whale_usd": 3109.5482999999995,
+    "whale_pct": 1.54,
     "whale_value_at_open": 201910.1089,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -39630,8 +39630,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787596946.904974,
-    "fills": 3
+    "last_fill_at": 1787597102.148228,
+    "fills": 4
   },
   {
     "timestamp": 1787591448,
