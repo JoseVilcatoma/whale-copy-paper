@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:34:26 (hora de Perú)
+Actualizado: 2026-08-24 07:36:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $558.83
@@ -341,7 +341,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 11.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 46% | 5.00 | 5.8% | ⏳ pendiente | — |
 | Gooooooollllllllll | Game Handicap: G2 (-1.5) vs GIANTX (+1.5 | G2 Esports (BUY) | 61% | 5.00 | 11.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: G2 (-1.5) vs GIANTX (+1.5 | GIANTX (BUY) | 41% | 5.00 | 9.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Andrej Nedic (BUY) | 90% | 5.00 | 5.7% | ⏳ pendiente | — |

@@ -36538,8 +36538,8 @@
     "title": "LoL: Natus Vincere vs Fnatic - Game 1 Winner",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 724.572,
-    "whale_pct": 0.972,
+    "whale_usd": 4324.5675,
+    "whale_pct": 5.804,
     "whale_value_at_open": 74507.0291,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -36550,8 +36550,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787573507.1593869,
-    "fills": 1
+    "last_fill_at": 1787574892.3248816,
+    "fills": 2
   },
   {
     "timestamp": 1787573510,
