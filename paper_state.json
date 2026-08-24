@@ -1,5 +1,5 @@
 {
-  "bankroll": 586.5346194177438,
+  "bankroll": 581.4796194177438,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8205,6 +8205,11 @@
       "timestamp": 1787610414.8080735,
       "bankroll": 586.53,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Angela Fita Boluda vs Lin Zhu"
+    },
+    {
+      "timestamp": 1787610722.4772966,
+      "bankroll": 581.48,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo"
     }
   ]
 }
