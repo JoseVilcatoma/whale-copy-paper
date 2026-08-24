@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.5728446459113,
+  "bankroll": 552.9298446459113,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7195,6 +7195,21 @@
       "timestamp": 1787579263.3935041,
       "bankroll": 552.57,
       "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Patrick Brady vs Andreja Petrovic"
+    },
+    {
+      "timestamp": 1787579567.632979,
+      "bankroll": 557.86,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius"
+    },
+    {
+      "timestamp": 1787579571.75207,
+      "bankroll": 552.73,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius"
+    },
+    {
+      "timestamp": 1787579573.6324618,
+      "bankroll": 552.93,
+      "event": "won: OOOwhyOOO \u2014 Roehampton 2: Inaki Montes-De La Torre vs Oskari Paldanius"
     }
   ]
 }
