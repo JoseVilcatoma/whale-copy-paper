@@ -43176,8 +43176,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx",
     "outcome": "Minnesota Lynx",
     "side": "BUY",
-    "whale_usd": 19478.9904,
-    "whale_pct": 18.064,
+    "whale_usd": 20100.750399999997,
+    "whale_pct": 18.64,
     "whale_value_at_open": 107834.8682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -43191,8 +43191,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787612801.2608306,
-    "fills": 1
+    "last_fill_at": 1787614531.1883006,
+    "fills": 2
   },
   {
     "timestamp": 1787613246,
@@ -43203,8 +43203,8 @@
     "title": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier",
     "outcome": "Hugo Grenier",
     "side": "BUY",
-    "whale_usd": 7520.860700000001,
-    "whale_pct": 2.777,
+    "whale_usd": 8475.557700000001,
+    "whale_pct": 3.129,
     "whale_value_at_open": 270860.5537,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -43217,8 +43217,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787614096.348121,
-    "fills": 3
+    "last_fill_at": 1787614465.5411654,
+    "fills": 4
   },
   {
     "timestamp": 1787613305,
@@ -43383,8 +43383,8 @@
     "title": "Texas Rangers vs. Chicago White Sox: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 31913.1414,
-    "whale_pct": 34.992,
+    "whale_usd": 32601.5914,
+    "whale_pct": 35.747,
     "whale_value_at_open": 91200.31,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -43397,8 +43397,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787614379.9961367,
-    "fills": 16
+    "last_fill_at": 1787614528.614993,
+    "fills": 17
   },
   {
     "timestamp": 1787614291,

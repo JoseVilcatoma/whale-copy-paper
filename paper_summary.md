@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:33:32 (hora de Perú)
+Actualizado: 2026-08-24 18:35:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $585.53
@@ -392,15 +392,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Trevor Svajda (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 50% | 5.00 | 35.0% | ⏳ pendiente | — |
+| Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 50% | 5.00 | 35.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Janice Tjen (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Donghui | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 53% | 5.00 | 23.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Laslo Djere  | Laslo Djere (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 2.8% | ⏳ pendiente | — |
-| Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 18.1% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
+| Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 18.6% | ⏳ pendiente | — |
 | mikesports | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 39.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
