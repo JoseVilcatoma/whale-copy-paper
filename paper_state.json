@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.4149780035618,
+  "bankroll": 529.2979780035619,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6740,6 +6740,11 @@
       "timestamp": 1787536627.9913864,
       "bankroll": 534.41,
       "event": "won: swisstony \u2014 Will Associa\u00e7\u00e3o Chapecoense de Futebol win on 2026-08-23?"
+    },
+    {
+      "timestamp": 1787536810.7162747,
+      "bankroll": 529.3,
+      "event": "lost: HomeRunHazard \u2014 Spread: Washington Mystics (-4.5)"
     }
   ]
 }
