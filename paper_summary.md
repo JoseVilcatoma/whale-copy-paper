@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:42:55 (hora de Perú)
+Actualizado: 2026-08-24 09:45:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $552.28
-**Retorno acumulado:** +10.46%
+**Bankroll actual:** $553.43
+**Retorno acumulado:** +10.69%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:42:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $217.28)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $243.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,8 +26,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
+| ferrariChampions2026 | 220 | 120 | 18 | +21.09 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
-| ferrariChampions2026 | 218 | 120 | 20 | +17.92 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
@@ -69,22 +69,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 99 | 59 | 13 | -13.66 USD |
+| HomeRunHazard | 100 | 59 | 12 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 219 | 96 | 12 | -49.33 USD |
 |  | 30 | 22 | 1 | -52.94 USD |
+| RN1 | 220 | 97 | 10 | -53.95 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1376
-- **Aciertos:** 886 (64.4%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 1381
+- **Aciertos:** 890 (64.4%)
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $6,873.59
-- **ROI sobre lo apostado:** -0.38%
-- **Comisiones pagadas (taker fee):** $126.06 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.45% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,898.59
+- **ROI sobre lo apostado:** -0.37%
+- **Comisiones pagadas (taker fee):** $126.44 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.47% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -92,9 +92,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 691 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 418 | 71.5% | 67.7% | +3.9 pp |
-| 80-94% | 179 | 88.3% | 87.1% | +1.2 pp |
+| 40-59% | 692 | 49.7% | 50.2% | -0.5 pp |
+| 60-79% | 420 | 71.7% | 67.7% | +4.0 pp |
+| 80-94% | 181 | 88.4% | 87.1% | +1.3 pp |
 | 95-99% (casi seguro) | 88 | 96.6% | 97.5% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -348,7 +348,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 10.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 11.7% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -362,11 +362,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Minnesota Lynx (-5.5) | Golden State Valkyries (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Federico Agu | Federico Agustin Gomez (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Pablo Aunion vs Noah | Pablo Aunion (BUY) | 87% | 5.00 | 0.4% | ✅ ganada | +0.71 |
-| RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 90% | 5.00 | 3.8% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 65% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Eduardo Ribeiro (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 90% | 5.00 | 3.8% | ✅ ganada | +0.53 |
+| HomeRunHazard | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 65% | 5.00 | 2.7% | ✅ ganada | +2.61 |
+| RN1 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Eduardo Ribeiro (BUY) | 41% | 5.00 | 1.4% | ❌ perdida | -5.15 |
 | RN1 | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Giulio Perego vs Fabrizio  | Fabrizio Andaloro (BUY) | 80% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Giulio Perego vs Fabrizio  | Fabrizio Andaloro (BUY) | 80% | 5.00 | 1.2% | ✅ ganada | +1.20 |
 | OOOwhyOOO | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 96% | 5.00 | 12.5% | ✅ ganada | +0.20 |
 | SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 38.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | AS Roma vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |

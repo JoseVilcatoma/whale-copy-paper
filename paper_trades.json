@@ -35881,8 +35881,8 @@
     "title": "Atlanta Dream vs. Los Angeles Sparks",
     "outcome": "Atlanta Dream",
     "side": "BUY",
-    "whale_usd": 1145.0,
-    "whale_pct": 3.453,
+    "whale_usd": 3529.9964,
+    "whale_pct": 10.647,
     "whale_value_at_open": 33155.4626,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -35893,8 +35893,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787561454.28335,
-    "fills": 1
+    "last_fill_at": 1787582653.341183,
+    "fills": 2
   },
   {
     "timestamp": 1787562780,
@@ -36643,8 +36643,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -37070,8 +37070,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -37118,8 +37118,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -37144,8 +37144,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -37171,8 +37171,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -37503,8 +37503,8 @@
     "title": "Augsburg: Calvin Hemery vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 17563.659831,
-    "whale_pct": 10.402,
+    "whale_usd": 19811.739031,
+    "whale_pct": 11.733,
     "whale_value_at_open": 168851.4953,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -37517,8 +37517,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787582111.9958465,
-    "fills": 7
+    "last_fill_at": 1787582702.6943266,
+    "fills": 8
   },
   {
     "timestamp": 1787580918,

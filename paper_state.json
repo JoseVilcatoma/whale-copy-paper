@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.2767501545696,
+  "bankroll": 553.4338669235598,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7260,6 +7260,31 @@
       "timestamp": 1787582316.2381918,
       "bankroll": 552.28,
       "event": "won: RN1 \u2014 ITF M25 Oviedo Men: Pablo Aunion vs Noah Regas Luis"
+    },
+    {
+      "timestamp": 1787582696.0496726,
+      "bankroll": 554.25,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Sandro Kopp vs Eduardo Ribeiro"
+    },
+    {
+      "timestamp": 1787582697.85783,
+      "bankroll": 555.45,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Giulio Perego vs Fabrizio Andaloro"
+    },
+    {
+      "timestamp": 1787582698.0581155,
+      "bankroll": 550.3,
+      "event": "lost: RN1 \u2014 Augsburg: Sandro Kopp vs Eduardo Ribeiro"
+    },
+    {
+      "timestamp": 1787582698.1582892,
+      "bankroll": 552.9,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Sandro Kopp vs Eduardo Ribeiro"
+    },
+    {
+      "timestamp": 1787582698.2584398,
+      "bankroll": 553.43,
+      "event": "won: RN1 \u2014 Augsburg: Sandro Kopp vs Eduardo Ribeiro"
     }
   ]
 }
