@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:47:52 (hora de Perú)
+Actualizado: 2026-08-24 17:49:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $579.96
@@ -384,7 +384,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 73% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Donghui | Tampa Bay Rays vs. Detroit Tigers | Detroit Tigers (BUY) | 45% | 5.00 | 338.6% | ⏳ pendiente | — |
