@@ -33662,8 +33662,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -34266,8 +34266,8 @@
     "title": "Monterrey Open, Qualification: Maya Joint vs Yulia Putintseva",
     "outcome": "Yulia Putintseva",
     "side": "BUY",
-    "whale_usd": 709.08,
-    "whale_pct": 0.224,
+    "whale_usd": 1401.8396,
+    "whale_pct": 0.443,
     "whale_value_at_open": 316521.5923,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -34278,8 +34278,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787534406.1973286,
-    "fills": 1
+    "last_fill_at": 1787535209.04502,
+    "fills": 2
   },
   {
     "timestamp": 1787534907,

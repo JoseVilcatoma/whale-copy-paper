@@ -1,5 +1,5 @@
 {
-  "bankroll": 545.0291556932086,
+  "bankroll": 539.8891556932086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6690,6 +6690,11 @@
       "timestamp": 1787534959.3287191,
       "bankroll": 545.03,
       "event": "lost: kekasaur \u2014 Atlanta United FC vs. Sporting Kansas City: O/U 3.5"
+    },
+    {
+      "timestamp": 1787535140.5185413,
+      "bankroll": 539.89,
+      "event": "lost: beachboy4 \u2014 Will Atlanta United FC win on 2026-08-23?"
     }
   ]
 }

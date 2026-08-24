@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 20:31:31 (hora de Perú)
+Actualizado: 2026-08-23 20:33:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $545.03
-**Retorno acumulado:** +9.01%
+**Bankroll actual:** $539.89
+**Retorno acumulado:** +7.98%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 20:31:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $320.03)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $319.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| beachboy4 | 1 | 0 | 1 | +1.78 USD |
 | HVAB | 3 | 0 | 0 | +1.18 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -54,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 13 | 11 | 1 | -1.95 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | HomeRunHazard | 87 | 52 | 10 | -3.86 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -70,14 +70,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1265
+- **Apuestas resueltas:** 1266
 - **Aciertos:** 806 (63.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,318.59
-- **ROI sobre lo apostado:** -0.45%
-- **Comisiones pagadas (taker fee):** $117.99 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.42% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,323.59
+- **ROI sobre lo apostado:** -0.53%
+- **Comisiones pagadas (taker fee):** $118.13 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -85,7 +85,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 659 | 50.1% | 50.2% | -0.1 pp |
+| 40-59% | 660 | 50.0% | 50.2% | -0.2 pp |
 | 60-79% | 378 | 70.9% | 67.6% | +3.3 pp |
 | 80-94% | 153 | 88.9% | 87.0% | +1.9 pp |
 | 95-99% (casi seguro) | 75 | 96.0% | 97.4% | -1.4 pp |
@@ -311,7 +311,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Rinky Hijikata vs Da | Rinky Hijikata (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Sebastian Baez (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Monterrey Open, Qualification: Anna Bond | Anna Bondar (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -336,7 +336,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Associação Chapecoense de Futebol v | No (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Winston-Salem Open: Pablo Carreno Busta  | Adolfo Vallejo (BUY) | 68% | 5.00 | 0.4% | ✅ ganada | +2.27 |
 | swisstony | Monterrey Open, Qualification: Panna Udv | Darja Vidmanova (BUY) | 99% | 5.00 | 0.1% | ✅ ganada | +0.05 |
-| beachboy4 | Will Atlanta United FC win on 2026-08-23 | No (BUY) | 44% | 5.00 | 1588.8% | ⏳ pendiente | — |
+| beachboy4 | Will Atlanta United FC win on 2026-08-23 | No (BUY) | 44% | 5.00 | 1588.8% | ❌ perdida | -5.14 |
 | swisstony | Club Nacional de Football vs. CA Progres | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | kekasaur | Atlanta United FC vs. Sporting Kansas Ci | Over (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
 | swisstony | Atlanta United FC vs. Sporting Kansas Ci | Under (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
