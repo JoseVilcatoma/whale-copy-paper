@@ -1,5 +1,5 @@
 {
-  "bankroll": 583.1124672251767,
+  "bankroll": 579.6121338918433,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8290,6 +8290,16 @@
       "timestamp": 1787614590.4926465,
       "bankroll": 583.11,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet"
+    },
+    {
+      "timestamp": 1787615406.3194516,
+      "bankroll": 578.01,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Jan Choinski vs Mees Rottgering"
+    },
+    {
+      "timestamp": 1787615408.2252927,
+      "bankroll": 579.61,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Jan Choinski vs Mees Rottgering"
     }
   ]
 }
