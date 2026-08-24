@@ -1,5 +1,5 @@
 {
-  "bankroll": 585.5349672251767,
+  "bankroll": 583.1124672251767,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8280,6 +8280,16 @@
       "timestamp": 1787613851.9140344,
       "bankroll": 585.53,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Savannah Broadus vs Tyra Caterina Grant"
+    },
+    {
+      "timestamp": 1787614590.392432,
+      "bankroll": 588.26,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet"
+    },
+    {
+      "timestamp": 1787614590.4926465,
+      "bankroll": 583.11,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Otto Virtanen vs Ugo Blanchet"
     }
   ]
 }
