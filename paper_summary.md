@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:54:50 (hora de Perú)
+Actualizado: 2026-08-24 12:56:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $588.40
-**Retorno acumulado:** +17.68%
+**Bankroll actual:** $590.57
+**Retorno acumulado:** +18.11%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:54:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $587.20 en 118 posiciones abiertas (disponible para nuevas apuestas: $1.20)
+**Capital comprometido ahora mismo:** $587.20 en 118 posiciones abiertas (disponible para nuevas apuestas: $3.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,8 +36,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 17 | 12 | 0 | +8.06 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
+| TAIWANNUMBERONE | 2 | 0 | 4 | +6.49 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| TAIWANNUMBERONE | 1 | 0 | 5 | +4.32 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
-| HomeRunHazard | 111 | 61 | 32 | -4.56 USD |
+| HomeRunHazard | 111 | 61 | 33 | -4.56 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -79,14 +79,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1428
-- **Aciertos:** 926 (64.8%)
+- **Apuestas resueltas:** 1429
+- **Aciertos:** 927 (64.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $7,133.59
-- **ROI sobre lo apostado:** +0.05%
-- **Comisiones pagadas (taker fee):** $130.16 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,138.59
+- **ROI sobre lo apostado:** +0.08%
+- **Comisiones pagadas (taker fee):** $130.23 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.90% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -95,7 +95,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 713 | 50.1% | 50.2% | -0.1 pp |
-| 60-79% | 430 | 71.9% | 67.7% | +4.2 pp |
+| 60-79% | 431 | 71.9% | 67.7% | +4.2 pp |
 | 80-94% | 191 | 88.5% | 87.1% | +1.4 pp |
 | 95-99% (casi seguro) | 94 | 96.8% | 97.4% | -0.6 pp |
 
@@ -369,6 +369,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Luka Pavlovi | Juan Pablo Varillas (BUY) | 88% | 5.00 | 3.8% | ⏳ pendiente | — |
 | swisstony | AS Roma vs. ACF Fiorentina: O/U 5.5 | Under (BUY) | 97% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Bologna FC 1909 vs. SS Lazio: Bologna FC | Under (BUY) | 57% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | AS Roma vs. ACF Fiorentina: O/U 3.5 | Under (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -398,4 +399,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 1 Winne | G2 Esports (BUY) | 72% | 5.00 | 7.8% | 💰 vendida anticipada | +1.80 |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 65% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Rebeka Masar | Iryna Shymanovich (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |

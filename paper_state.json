@@ -1,5 +1,5 @@
 {
-  "bankroll": 588.3968777216011,
+  "bankroll": 590.5652545331952,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7540,6 +7540,11 @@
       "timestamp": 1787593203.37944,
       "bankroll": 588.4,
       "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Lui Maxted vs Anton Shepp"
+    },
+    {
+      "timestamp": 1787594132.8552177,
+      "bankroll": 590.57,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: FNC (-1.5) vs Natus Vincere (+1.5)"
     }
   ]
 }
