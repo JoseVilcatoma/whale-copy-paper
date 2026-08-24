@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:56:03 (hora de Perú)
+Actualizado: 2026-08-24 10:58:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.75
@@ -372,7 +372,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Set 1 Winner: Sramkova vs Ibragimova | Ibragimova (BUY) | 90% | 5.00 | 8.7% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 62% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Fnatic (BUY) | 58% | 5.00 | 6.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Jacob Fearnl | Jacob Fearnley (BUY) | 74% | 5.00 | 2.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Jacob Fearnl | Jacob Fearnley (BUY) | 74% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 98% | 5.00 | 10.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Jacob Fearnl | Jacob Fearnley (BUY) | 71% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Twins vs. Athletics: O/U 10.5 | Over (BUY) | 55% | 5.00 | 1.0% | ⏳ pendiente | — |

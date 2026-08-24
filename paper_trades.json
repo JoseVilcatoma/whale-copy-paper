@@ -38035,8 +38035,8 @@
     "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
     "outcome": "Diego Dedura-Palomero",
     "side": "BUY",
-    "whale_usd": 9297.785672,
-    "whale_pct": 7.359,
+    "whale_usd": 21780.240372,
+    "whale_pct": 17.238,
     "whale_value_at_open": 126349.6307,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -38050,8 +38050,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586402.9188933,
-    "fills": 4
+    "last_fill_at": 1787587054.2615693,
+    "fills": 6
   },
   {
     "timestamp": 1787584874,
@@ -38332,8 +38332,8 @@
     "title": "US Open, Qualification ATP: Jacob Fearnley vs Roberto Carballes Baena",
     "outcome": "Jacob Fearnley",
     "side": "BUY",
-    "whale_usd": 2187.518,
-    "whale_pct": 2.688,
+    "whale_usd": 4453.5212,
+    "whale_pct": 5.473,
     "whale_value_at_open": 81366.3086,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -38346,8 +38346,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787585614.2689748,
-    "fills": 1
+    "last_fill_at": 1787587004.6992426,
+    "fills": 2
   },
   {
     "timestamp": 1787585616,
