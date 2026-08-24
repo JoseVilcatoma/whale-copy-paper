@@ -35506,8 +35506,8 @@
     "title": "Will CA Osasuna win on 2026-08-24?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1168.7669999999998,
-    "whale_pct": 3.792,
+    "whale_usd": 2337.537,
+    "whale_pct": 7.584,
     "whale_value_at_open": 30823.7623,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -35518,8 +35518,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787548564.1678212,
-    "fills": 1
+    "last_fill_at": 1787552726.337159,
+    "fills": 2
   },
   {
     "timestamp": 1787549678,
