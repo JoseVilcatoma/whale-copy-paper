@@ -37658,8 +37658,8 @@
     "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
     "outcome": "Frederico Ferreira Silva",
     "side": "BUY",
-    "whale_usd": 2250.0,
-    "whale_pct": 2.685,
+    "whale_usd": 5888.5026179999995,
+    "whale_pct": 7.028,
     "whale_value_at_open": 83790.1267,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -37670,8 +37670,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787582362.7198913,
-    "fills": 1
+    "last_fill_at": 1787584239.192847,
+    "fills": 3
   },
   {
     "timestamp": 1787582362,

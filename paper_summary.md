@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 10:10:03 (hora de Perú)
+Actualizado: 2026-08-24 10:12:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.45
@@ -351,7 +351,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 46% | 5.00 | 7.0% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Federica Trevisan | Federica Trevisan (BUY) | 52% | 5.00 | 8.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
