@@ -38791,15 +38791,17 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 7.05,
     "overlaps_with": [
       "SPCEXBUYER"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787586648.5413704,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.148,
+    "closed_price": 100
   },
   {
     "timestamp": 1787586709,

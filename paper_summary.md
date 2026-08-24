@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 11:29:35 (hora de Perú)
+Actualizado: 2026-08-24 11:31:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $558.69
-**Retorno acumulado:** +11.74%
+**Bankroll actual:** $565.74
+**Retorno acumulado:** +13.15%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 11:29:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $550.00 en 110 posiciones abiertas (disponible para nuevas apuestas: $8.69)
+**Capital comprometido ahora mismo:** $545.00 en 109 posiciones abiertas (disponible para nuevas apuestas: $20.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,6 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 20 | 15 | 4 | +11.54 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
+| Djdjdjekekek | 17 | 12 | 0 | +8.06 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -46,7 +47,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | HVAB | 4 | 0 | 0 | +1.38 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| Djdjdjekekek | 16 | 12 | 1 | +1.01 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
@@ -374,7 +374,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Mark Lajal v | Mark Lajal (BUY) | 83% | 5.00 | 6.6% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Erika Andree | Erika Andreeva (BUY) | 52% | 5.00 | 1.7% | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: Alliance vs  Phantom Aca |  Phantom Academy (BUY) | 41% | 5.00 | 49.3% | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: Alliance vs  Phantom Aca |  Phantom Academy (BUY) | 41% | 5.00 | 49.3% | 💰 vendida anticipada | +7.05 |
 | ferrariChampions2026 | Monterrey Open: Alycia Parks vs Petra Ma | Petra Marcinko (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | CA Osasuna vs. Levante UD: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 88% | 5.00 | 20.5% | ⏳ pendiente | — |
