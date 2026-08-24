@@ -1,5 +1,5 @@
 {
-  "bankroll": 565.7414720349257,
+  "bankroll": 563.1321616900981,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7360,6 +7360,11 @@
       "timestamp": 1787588992.2498,
       "bankroll": 565.74,
       "event": "venta anticipada: Djdjdjekekek \u2014 Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D (+7.05 USD)"
+    },
+    {
+      "timestamp": 1787589681.2587597,
+      "bankroll": 563.13,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Natus Vincere vs Fnatic - Game 2 Winner (-2.61 USD)"
     }
   ]
 }

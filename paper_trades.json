@@ -38365,15 +38365,17 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -2.61,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787588968.0545685,
-    "fills": 9
+    "fills": 9,
+    "fee_total_usd": 0.196,
+    "closed_price": 30
   },
   {
     "timestamp": 1787585642,
@@ -39262,8 +39264,8 @@
     "title": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini",
     "outcome": "Lucrezia Stefanini",
     "side": "BUY",
-    "whale_usd": 18559.934999999998,
-    "whale_pct": 10.512,
+    "whale_usd": 24233.861367999998,
+    "whale_pct": 13.725,
     "whale_value_at_open": 176562.8704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -39276,8 +39278,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589219.4648402,
-    "fills": 23
+    "last_fill_at": 1787589625.485879,
+    "fills": 24
   },
   {
     "timestamp": 1787589350,
