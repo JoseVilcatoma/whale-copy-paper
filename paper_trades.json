@@ -35324,5 +35324,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787544604.0646336,
     "fills": 3
+  },
+  {
+    "timestamp": 1787546173,
+    "timestamp_added": 1787546174.1663163,
+    "username": "Painfulvoid",
+    "wallet": "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49",
+    "slug": "cs2-ntr-forzer-2026-08-24",
+    "title": "Counter-Strike: Nuclear TigeRES vs FORZE Reload (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "whale_usd": 6861.0476,
+    "whale_pct": 140.579,
+    "whale_value_at_open": 4880.5783,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787546174.1663277,
+    "fills": 1
   }
 ]

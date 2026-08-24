@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 23:34:28 (hora de Perú)
+Actualizado: 2026-08-23 23:36:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 23:34:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $420.93)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $415.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | quavoo | 0 | 0 | 1 | +0.00 USD |
+| Painfulvoid | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | Djdjdjekekek | 14 | 12 | 1 | -1.29 USD |
@@ -319,6 +320,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Painfulvoid | Counter-Strike: Nuclear TigeRES vs FORZE | Nuclear TigeRES (BUY) | 69% | 5.00 | 140.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 87% | 5.00 | 17.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Antonia Ruzic vs Nikola  | Nikola Bartunkova (BUY) | 82% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -348,4 +350,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 99% | 5.00 | 1.3% | ✅ ganada | +0.05 |
 | HomeRunHazard | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 93% | 5.00 | 8.6% | ✅ ganada | +0.36 |
 | swisstony | Will Pumas de la UNAM win on 2026-08-23? | No (BUY) | 62% | 5.00 | 1.7% | ⏳ pendiente | — |
-| swisstony | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 98% | 5.00 | 0.2% | ✅ ganada | +0.10 |
