@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 08:09:26 (hora de Perú)
+Actualizado: 2026-08-24 08:11:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $552.53
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 08:09:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $312.53)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $302.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,10 +69,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 97 | 58 | 10 | -12.83 USD |
+| HomeRunHazard | 97 | 58 | 11 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 216 | 94 | 4 | -47.48 USD |
+| RN1 | 216 | 94 | 5 | -47.48 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
 
 ## Análisis general
@@ -336,8 +336,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Patrick Brady vs Andreja P | Patrick Brady (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Minnesota Lynx (-6.5) | Minnesota Lynx (BUY) | 49% | 5.00 | 2.3% | ⏳ pendiente | — |
 | SDTrading | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 61% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | SDTrading | Boston Red Sox vs. Miami Marlins: O/U 7. | Under (BUY) | 53% | 5.00 | 9.2% | ⏳ pendiente | — |
@@ -364,5 +366,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: BNK FearX Youth vs Hanwha Life Espo | BNK FearX Youth (BUY) | 53% | 5.00 | 7.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Oliver Bonding vs Millen H | Oliver Bonding (BUY) | 64% | 5.00 | 2.5% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Málaga CF vs. RC Deportivo A Coruña: O/U | Over (BUY) | 68% | 5.00 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Federico Iannaccone vs Oleksii | Oleksii Krutykh (BUY) | 71% | 5.00 | 1.3% | ✅ ganada | +1.97 |
-| ferrariChampions2026 | Winston-Salem Open: Lorenzo Sonego vs Vi | Vit Kopriva (BUY) | 42% | 5.00 | 2.5% | ⏳ pendiente | — |
