@@ -1,5 +1,5 @@
 {
-  "bankroll": 546.774285445563,
+  "bankroll": 547.0784343817332,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6675,6 +6675,11 @@
       "timestamp": 1787533096.8348587,
       "bankroll": 546.77,
       "event": "lost: casualbet2020 \u2014 Cincinnati Open: Coco Gauff vs Jessica Pegula"
+    },
+    {
+      "timestamp": 1787533960.777169,
+      "bankroll": 547.08,
+      "event": "won: swisstony \u2014 Will AD Pasto win on 2026-08-23?"
     }
   ]
 }
