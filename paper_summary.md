@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:17:34 (hora de Perú)
+Actualizado: 2026-08-24 16:19:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $579.97
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 16:17:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $442.20 en 89 posiciones abiertas (disponible para nuevas apuestas: $137.77)
+**Capital comprometido ahora mismo:** $447.20 en 90 posiciones abiertas (disponible para nuevas apuestas: $132.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 132 | 70 | 44 | -13.22 USD |
+| HomeRunHazard | 132 | 70 | 45 | -13.22 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
 | RN1 | 228 | 100 | 2 | -39.89 USD |
@@ -376,6 +376,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: Luis Guto Miguel vs Tyler Zi | Luis Guto Miguel (BUY) | 94% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Heather Watson (BUY) | 43% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Martin Damm vs Abeda | Martin Damm (BUY) | 97% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Angela Fita  | Lin Zhu (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -405,4 +406,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 119.8% | ✅ ganada | +0.20 |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ✅ ganada | +0.84 |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 1.8% | ⏳ pendiente | — |
