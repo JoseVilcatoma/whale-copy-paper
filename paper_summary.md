@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:38:33 (hora de Perú)
+Actualizado: 2026-08-24 07:40:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $558.83
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 07:38:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $338.83)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $328.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 22 | 12 | 2 | +25.66 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
-| ferrariChampions2026 | 214 | 117 | 16 | +16.91 USD |
+| ferrariChampions2026 | 214 | 117 | 17 | +16.91 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 20 | 15 | 0 | +11.54 USD |
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 97 | 58 | 8 | -12.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 216 | 94 | 3 | -47.48 USD |
+| RN1 | 216 | 94 | 4 | -47.48 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
 
 ## Análisis general
@@ -335,6 +335,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Oskari Paldanius (BUY) | 49% | 5.00 | 2.6% | ⏳ pendiente | — |
+| RN1 | Augsburg: Marko Topo vs Miguel Damas | Marko Topo (BUY) | 56% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Sandro Kopp vs Eduardo Ribeiro | Sandro Kopp (BUY) | 71% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -363,5 +365,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 48% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Benjamin Hassan (BUY) | 60% | 5.00 | 10.5% | ✅ ganada | +3.23 |
 | ferrariChampions2026 | Augsburg: Matthew William Donald vs Benj | Matthew William Donald (BUY) | 41% | 5.00 | 1.7% | ❌ perdida | -5.15 |
-| HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Fulham FC vs. Chelsea FC: O/U 2.5 | Under (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
