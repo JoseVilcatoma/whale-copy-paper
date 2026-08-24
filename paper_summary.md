@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 23:55:06 (hora de Perú)
+Actualizado: 2026-08-23 23:57:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 23:55:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $400.93)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $395.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,7 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| Djdjdjekekek | 14 | 12 | 1 | -1.29 USD |
+| Djdjdjekekek | 14 | 12 | 2 | -1.29 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -314,12 +314,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | arg-rac-boc-2026-08-23-boc | RN1, swisstony |
 | wta-tagger-starodu-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
 | wta-ruzic-bartunk-2026-08-23 | Djdjdjekekek, HomeRunHazard, RN1, ferrariChampions2026, swisstony |
-| wta-sherif-oliynyk-2026-08-23 | HomeRunHazard, ferrariChampions2026, swisstony |
+| wta-sherif-oliynyk-2026-08-23 | Djdjdjekekek, HomeRunHazard, ferrariChampions2026, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Monterrey Open: Mayar Sherif vs Oleksand | Oleksandra Oliynykova (BUY) | 76% | 5.00 | 112.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: DN SOOPers Challengers vs Kiwoom DR | DN SOOPers Challengers (BUY) | 57% | 5.00 | 5.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Cleveland Guardians (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -349,4 +350,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 98% | 5.00 | 0.4% | ✅ ganada | +0.10 |
 | swisstony | Racing Club vs. CA Boca Juniors: O/U 2.5 | Under (BUY) | 62% | 5.00 | 0.3% | ✅ ganada | +2.97 |
 | swisstony | Will Racing Club win on 2026-08-23? | No (BUY) | 86% | 5.00 | 1.6% | ✅ ganada | +0.78 |
-| swisstony | Will Racing Club vs. CA Boca Juniors end | Yes (BUY) | 65% | 5.00 | 1.3% | ✅ ganada | +2.61 |
