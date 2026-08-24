@@ -36363,8 +36363,8 @@
     "title": "Winston-Salem Open: Quinn Vandecasteele vs James Duckworth",
     "outcome": "James Duckworth",
     "side": "BUY",
-    "whale_usd": 9852.827499,
-    "whale_pct": 13.24,
+    "whale_usd": 14190.700099000002,
+    "whale_pct": 19.069,
     "whale_value_at_open": 74419.1662,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -36375,8 +36375,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787571908.5725656,
-    "fills": 2
+    "last_fill_at": 1787589381.2229433,
+    "fills": 3
   },
   {
     "timestamp": 1787572975,
@@ -37682,8 +37682,8 @@
     "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
     "outcome": "Frederico Ferreira Silva",
     "side": "BUY",
-    "whale_usd": 15342.773099999997,
-    "whale_pct": 14.161,
+    "whale_usd": 16765.493099999996,
+    "whale_pct": 15.474,
     "whale_value_at_open": 108346.6771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -37696,8 +37696,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587572.3404324,
-    "fills": 4
+    "last_fill_at": 1787589407.4765303,
+    "fills": 5
   },
   {
     "timestamp": 1787582992,
@@ -38008,8 +38008,8 @@
     "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
     "outcome": "Frederico Ferreira Silva",
     "side": "BUY",
-    "whale_usd": 9497.998899999999,
-    "whale_pct": 14.68,
+    "whale_usd": 12548.0024,
+    "whale_pct": 19.394,
     "whale_value_at_open": 64698.8706,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -38023,8 +38023,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588916.0445065,
-    "fills": 4
+    "last_fill_at": 1787589355.2815583,
+    "fills": 5
   },
   {
     "timestamp": 1787584805,
@@ -38812,8 +38812,8 @@
     "title": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze",
     "outcome": "Erika Andreeva",
     "side": "BUY",
-    "whale_usd": 3157.0176730000003,
-    "whale_pct": 1.737,
+    "whale_usd": 4597.577273,
+    "whale_pct": 2.529,
     "whale_value_at_open": 181789.2763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -38824,8 +38824,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586832.102511,
-    "fills": 2
+    "last_fill_at": 1787589350.8028722,
+    "fills": 3
   },
   {
     "timestamp": 1787586925,
@@ -39238,8 +39238,8 @@
     "title": "US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini",
     "outcome": "Lucrezia Stefanini",
     "side": "BUY",
-    "whale_usd": 1542.9976,
-    "whale_pct": 0.97,
+    "whale_usd": 2302.2511,
+    "whale_pct": 1.448,
     "whale_value_at_open": 159029.1861,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -39250,8 +39250,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588842.0171044,
-    "fills": 1
+    "last_fill_at": 1787589385.9223435,
+    "fills": 2
   },
   {
     "timestamp": 1787589161,
@@ -39278,5 +39278,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787589219.4648402,
     "fills": 23
+  },
+  {
+    "timestamp": 1787589350,
+    "timestamp_added": 1787589350.8156874,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-andree-bolkvad-2026-08-24",
+    "title": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze",
+    "outcome": "Mariam Bolkvadze",
+    "side": "BUY",
+    "whale_usd": 2073.0004,
+    "whale_pct": 1.201,
+    "whale_value_at_open": 172548.4199,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787589350.8156967,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787589392,
+    "timestamp_added": 1787589393.019724,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-poljica-schoenh-2026-08-24",
+    "title": "Augsburg: Mili Poljicak vs Max Schoenhaus",
+    "outcome": "Max Schoenhaus",
+    "side": "BUY",
+    "whale_usd": 1542.0042,
+    "whale_pct": 0.894,
+    "whale_value_at_open": 172548.4199,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787589393.019733,
+    "fills": 1
   }
 ]
