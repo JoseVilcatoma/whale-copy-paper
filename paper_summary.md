@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 21:00:22 (hora de Perú)
+Actualizado: 2026-08-23 21:03:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $529.30
-**Retorno acumulado:** +5.86%
+**Bankroll actual:** $533.45
+**Retorno acumulado:** +6.69%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 21:00:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $309.30)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $318.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 39 | 3 | 15 | +45.99 USD |
+| swisstony | 41 | 3 | 14 | +50.13 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 12 | 1 | +35.89 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -70,14 +70,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1276
-- **Aciertos:** 812 (63.6%)
+- **Apuestas resueltas:** 1278
+- **Aciertos:** 814 (63.7%)
 - **Cuota promedio de entrada:** 62.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $6,373.59
-- **ROI sobre lo apostado:** -0.69%
-- **Comisiones pagadas (taker fee):** $118.94 (1.87% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $6,383.59
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $119.09 (1.87% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -86,7 +86,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 666 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 378 | 70.9% | 67.6% | +3.3 pp |
+| 60-79% | 380 | 71.1% | 67.7% | +3.4 pp |
 | 80-94% | 156 | 89.1% | 87.0% | +2.1 pp |
 | 95-99% (casi seguro) | 76 | 96.1% | 97.4% | -1.3 pp |
 
@@ -306,15 +306,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-pum-nec-2026-08-23-pum | kekasaur, quavoo |
 | nfl-sea-ten-2026-08-24 | Djdjdjekekek, RN1 |
 | atp-baez-hurkacz-2026-08-23 | HomeRunHazard, swisstony |
-| wta-joint-putints-2026-08-23 | HomeRunHazard, RN1 |
+| wta-joint-putints-2026-08-23 | HomeRunHazard, RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Pumas de la UNAM vs. Club Necaxa: O/U 1. | Over (BUY) | 47% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 73% | 5.00 | 0.7% | ⏳ pendiente | — |
+| swisstony | Will CA Boca Juniors win on 2026-08-23? | No (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Cancun: Sebastian Baez vs Hubert Hurkacz | Hubert Hurkacz (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Will Once Caldas win on 2026-08-22? | No (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -341,4 +342,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 50% | 5.00 | 16.8% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 42.5% | ✅ ganada | +0.05 |
 | casualbet2020 | Valorant: Evil Geniuses vs KRÜ Esports ( | Evil Geniuses (BUY) | 42% | 5.00 | 11.5% | ⏳ pendiente | — |
-| OOOwhyOOO | Monterrey Open, Qualification: Maria Tim | Maria Timofeeva (BUY) | 99% | 5.00 | 3.2% | ✅ ganada | +0.05 |
