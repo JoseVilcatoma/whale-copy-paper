@@ -37819,8 +37819,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -38516,8 +38516,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -38540,8 +38540,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -38995,8 +38995,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -39166,8 +39166,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 8498.12901,
-    "whale_pct": 4.855,
+    "whale_usd": 9372.756669,
+    "whale_pct": 5.354,
     "whale_value_at_open": 175056.2532,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -39180,8 +39180,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590399.1502898,
-    "fills": 3
+    "last_fill_at": 1787591060.6054327,
+    "fills": 4
   },
   {
     "timestamp": 1787588541,
@@ -39531,5 +39531,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787590946.913558,
     "fills": 2
+  },
+  {
+    "timestamp": 1787591051,
+    "timestamp_added": 1787591052.0333612,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-masarov-shymano-2026-08-24",
+    "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
+    "outcome": "Rebeka Masarova",
+    "side": "BUY",
+    "whale_usd": 1003.608,
+    "whale_pct": 0.409,
+    "whale_value_at_open": 245164.5749,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "OOOwhyOOO"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787591052.0333788,
+    "fills": 1
   }
 ]

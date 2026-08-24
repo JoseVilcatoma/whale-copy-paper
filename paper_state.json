@@ -1,5 +1,5 @@
 {
-  "bankroll": 557.5655401330628,
+  "bankroll": 554.0986926754356,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7400,6 +7400,26 @@
       "timestamp": 1787590707.9135334,
       "bankroll": 557.57,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Clara Burel vs Yexin Ma"
+    },
+    {
+      "timestamp": 1787591012.6052225,
+      "bankroll": 552.5,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova"
+    },
+    {
+      "timestamp": 1787591019.2965946,
+      "bankroll": 555.87,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova"
+    },
+    {
+      "timestamp": 1787591019.396741,
+      "bankroll": 559.24,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova"
+    },
+    {
+      "timestamp": 1787591022.7250273,
+      "bankroll": 554.1,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova"
     }
   ]
 }
