@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:28:24 (hora de Perú)
+Actualizado: 2026-08-24 09:30:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $551.56
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:28:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $226.56)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $221.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 99 | 59 | 13 | -13.66 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-| RN1 | 218 | 96 | 11 | -50.04 USD |
+| RN1 | 218 | 96 | 12 | -50.04 USD |
 |  | 30 | 22 | 1 | -52.94 USD |
 
 ## Análisis general
@@ -340,6 +340,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W35 Trieste Women: Federica Trevisan | Federica Trevisan (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 58% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -369,4 +370,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 63% | 5.00 | 1.1% | ✅ ganada | +2.84 |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 57% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 11.9% | ✅ ganada | +1.36 |
-| RN1 | Augsburg: Andrej Nedic vs Juan Estevez | Juan Estevez (BUY) | 78% | 5.00 | 12.9% | ✅ ganada | +1.36 |
