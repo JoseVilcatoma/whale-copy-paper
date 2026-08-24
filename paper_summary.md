@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 11:33:43 (hora de Perú)
+Actualizado: 2026-08-24 11:35:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $565.74
@@ -370,7 +370,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Winston-Salem Open: Kamil Majchrzak vs B | Kamil Majchrzak (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Sram | Rebecca Sramkova (BUY) | 42% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Erika Andree | Mariam Bolkvadze (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Luka Pavlovi | Luka Pavlovic (BUY) | 91% | 5.00 | 5.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Luka Pavlovi | Luka Pavlovic (BUY) | 91% | 5.00 | 7.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 44% | 5.00 | 34.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 67% | 5.00 | 7.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Mark Lajal v | Mark Lajal (BUY) | 83% | 5.00 | 6.6% | ⏳ pendiente | — |

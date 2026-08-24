@@ -38938,8 +38938,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 7093.77362,
-    "whale_pct": 5.699,
+    "whale_usd": 8972.648136,
+    "whale_pct": 7.208,
     "whale_value_at_open": 124480.5019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -38950,8 +38950,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588407.1222935,
-    "fills": 5
+    "last_fill_at": 1787589335.4870532,
+    "fills": 6
   },
   {
     "timestamp": 1787587580,
