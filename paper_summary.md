@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 07:14:05 (hora de Perú)
+Actualizado: 2026-08-24 07:16:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $556.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 07:14:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $351.86)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $346.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | Painfulvoid | 0 | 0 | 1 | +0.00 USD |
 | hi774c | 0 | 0 | 2 | +0.00 USD |
-| TAIWANNUMBERONE | 0 | 0 | 5 | +0.00 USD |
+| TAIWANNUMBERONE | 0 | 0 | 6 | +0.00 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
 | Gooooooollllllllll | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
@@ -326,6 +326,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-foxy-hle-2026-08-24 | SPCEXBUYER, ferrariChampions2026 |
 | lol-dnsc-drxc-2026-08-24-game3 | SPCEXBUYER, itsonlyamatteroftime |
 | lol-dnsc-drxc-2026-08-24-game4 | SPCEXBUYER, johnbaster |
+| lol-navi-fnc-2026-08-24 | SPCEXBUYER, TAIWANNUMBERONE |
 | atp-nedic-estevez-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
 
@@ -333,6 +334,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic (BO3) - LEC | Natus Vincere (BUY) | 45% | 5.00 | 11.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: FNC (-1.5) vs Natus Vince | Natus Vincere (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 2 Wi | Natus Vincere (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs Fnatic - Game 1 Wi | Natus Vincere (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -362,4 +364,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Dominik Recek vs Benito Sanche | Benito Sanchez Martinez (BUY) | 80% | 5.00 | 69.8% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | US Open, Qualification WTA: Rebecca Mari | Fiona Ferro (BUY) | 61% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Denis Yevseyev vs Svyatoslav G | Svyatoslav Gulin (BUY) | 89% | 5.00 | 4.9% | ✅ ganada | +0.59 |
-| HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 82% | 5.00 | 3.5% | ⏳ pendiente | — |

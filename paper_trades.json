@@ -36600,5 +36600,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787573524.1104214,
     "fills": 1
+  },
+  {
+    "timestamp": 1787573691,
+    "timestamp_added": 1787573692.4770293,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-navi-fnc-2026-08-24",
+    "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 8800.0,
+    "whale_pct": 11.48,
+    "whale_value_at_open": 76656.7115,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SPCEXBUYER"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787573692.4770455,
+    "fills": 1
   }
 ]
