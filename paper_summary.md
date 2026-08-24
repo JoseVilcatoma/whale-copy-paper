@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:48:25 (hora de Perú)
+Actualizado: 2026-08-24 12:50:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $588.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:48:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $567.20 en 114 posiciones abiertas (disponible para nuevas apuestas: $21.20)
+**Capital comprometido ahora mismo:** $587.20 en 118 posiciones abiertas (disponible para nuevas apuestas: $1.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 62 | 8 | 9 | +59.16 USD |
+| swisstony | 62 | 8 | 13 | +59.16 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 49 | 20 | 2 | +39.12 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
@@ -369,8 +369,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | AS Roma vs. ACF Fiorentina: O/U 5.5 | Under (BUY) | 97% | 5.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Bologna FC 1909 vs. SS Lazio: Bologna FC | Under (BUY) | 57% | 5.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | AS Roma vs. ACF Fiorentina: O/U 3.5 | Under (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
+| swisstony | Will 1. FC Köln win on 2026-08-24? | Yes (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Spread: Chelsea FC (-1.5) | Fulham FC (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will VSG Altglienicke win on 2026-08-24? | No (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
+| swisstony | Will VSG Altglienicke win on 2026-08-24? | No (BUY) | 94% | 5.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | VSG Altglienicke vs. VfL Wolfsburg: O/U  | Under (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Spencer John | Spencer Johnson (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
 | swisstony | US Open, Qualification WTA: Madison Bren | Madison Brengle (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -395,7 +399,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 65% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Rebeka Masar | Iryna Shymanovich (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 70% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Mai Hontama (BUY) | 92% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 61% | 5.00 | 1.8% | ⏳ pendiente | — |
