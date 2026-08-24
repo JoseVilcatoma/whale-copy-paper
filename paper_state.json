@@ -1,5 +1,5 @@
 {
-  "bankroll": 600.5703819008746,
+  "bankroll": 595.4723819008747,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8175,6 +8175,11 @@
       "timestamp": 1787609154.219638,
       "bankroll": 600.57,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Luis Guto Miguel vs Tyler Zink"
+    },
+    {
+      "timestamp": 1787609463.3539932,
+      "bankroll": 595.47,
+      "event": "lost: swisstony \u2014 Al Ittihad Saudi Club vs. Al Hazem SC: O/U 4.5"
     }
   ]
 }

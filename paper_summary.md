@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 17:10:15 (hora de Perú)
+Actualizado: 2026-08-24 17:12:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $600.57
-**Retorno acumulado:** +20.11%
+**Bankroll actual:** $595.47
+**Retorno acumulado:** +19.09%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 17:10:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $235.57)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $230.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 76 | 11 | 2 | +54.69 USD |
+| swisstony | 76 | 12 | 1 | +49.59 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 52 | 20 | 0 | +39.96 USD |
 | TAIWANNUMBERONE | 6 | 0 | 0 | +30.97 USD |
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 142 | 72 | 45 | -6.27 USD |
+| HomeRunHazard | 142 | 72 | 46 | -6.27 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 257 | 145 | 12 | -6.87 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -80,14 +80,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1553
+- **Apuestas resueltas:** 1554
 - **Aciertos:** 1014 (65.3%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,753.82
-- **ROI sobre lo apostado:** +0.20%
-- **Comisiones pagadas (taker fee):** $139.77 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +2.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,758.82
+- **ROI sobre lo apostado:** +0.13%
+- **Comisiones pagadas (taker fee):** $139.87 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.93% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -96,7 +96,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 751 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 476 | 72.1% | 67.6% | +4.5 pp |
+| 60-79% | 477 | 71.9% | 67.6% | +4.3 pp |
 | 80-94% | 216 | 87.0% | 87.1% | -0.1 pp |
 | 95-99% (casi seguro) | 110 | 96.4% | 97.4% | -1.0 pp |
 
@@ -361,6 +361,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-majchrz-bonzi-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-droguet-rincon-2026-08-24 | OOOwhyOOO, ferrariChampions2026, swisstony |
 | wta-aksu-stefani-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| atp-safiull-grenier-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-brengle-gasanov-2026-08-24 | ferrariChampions2026, swisstony |
 | wta-avanesy-garcia-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-tian-per-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
@@ -377,6 +378,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 86% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Camila Osorio vs Ann Li | Ann Li (BUY) | 92% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Ugo Blanchet (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Otto Virtanen (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -406,4 +408,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Polina Kudermetova (BUY) | 67% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Minnesota Lyn | Over (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 79% | 5.00 | 2.6% | ✅ ganada | +1.28 |
-| SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 56% | 5.00 | 11.4% | ⏳ pendiente | — |

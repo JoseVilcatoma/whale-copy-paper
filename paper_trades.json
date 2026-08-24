@@ -41288,8 +41288,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -42386,6 +42386,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787608979.8189456,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787609527,
+    "timestamp_added": 1787609528.1667697,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-safiull-grenier-2026-08-24",
+    "title": "Winston-Salem Open: Roman Safiullin vs Hugo Grenier",
+    "outcome": "Roman Safiullin",
+    "side": "BUY",
+    "whale_usd": 3233.0004,
+    "whale_pct": 1.442,
+    "whale_value_at_open": 224202.0742,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787609528.7973816,
     "fills": 2
   }
 ]
