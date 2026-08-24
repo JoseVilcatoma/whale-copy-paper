@@ -37761,8 +37761,8 @@
     "title": "Roehampton 2: Johannus Monday vs Iliyan Radulov",
     "outcome": "Johannus Monday",
     "side": "BUY",
-    "whale_usd": 548.55,
-    "whale_pct": 0.48,
+    "whale_usd": 2708.0001169999996,
+    "whale_pct": 2.372,
     "whale_value_at_open": 114175.1306,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -37773,8 +37773,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787583178.1855688,
-    "fills": 1
+    "last_fill_at": 1787586388.15032,
+    "fills": 2
   },
   {
     "timestamp": 1787583970,
@@ -38035,8 +38035,8 @@
     "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
     "outcome": "Diego Dedura-Palomero",
     "side": "BUY",
-    "whale_usd": 8585.139883,
-    "whale_pct": 6.795,
+    "whale_usd": 9297.785672,
+    "whale_pct": 7.359,
     "whale_value_at_open": 126349.6307,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -38050,8 +38050,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787585677.7090316,
-    "fills": 3
+    "last_fill_at": 1787586402.9188933,
+    "fills": 4
   },
   {
     "timestamp": 1787584874,
@@ -38507,8 +38507,8 @@
     "title": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova",
     "outcome": "Alevtina Ibragimova",
     "side": "BUY",
-    "whale_usd": 1872.1008,
-    "whale_pct": 1.994,
+    "whale_usd": 3846.0991999999997,
+    "whale_pct": 4.096,
     "whale_value_at_open": 93887.841,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -38519,8 +38519,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586181.463304,
-    "fills": 1
+    "last_fill_at": 1787586470.5386708,
+    "fills": 2
   },
   {
     "timestamp": 1787586181,
@@ -38673,6 +38673,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787586278.6766055,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787586401,
+    "timestamp_added": 1787586402.4982316,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-burel-ma-2026-08-24",
+    "title": "US Open, Qualification WTA: Clara Burel vs Yexin Ma",
+    "outcome": "Clara Burel",
+    "side": "BUY",
+    "whale_usd": 512.64,
+    "whale_pct": 0.503,
+    "whale_value_at_open": 101959.3703,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787586402.4982457,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787586452,
+    "timestamp_added": 1787586452.483001,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-navi-fnc-2026-08-24-game1",
+    "title": "LoL: Natus Vincere vs Fnatic - Game 1 Winner",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 2322.5504,
+    "whale_pct": 13.103,
+    "whale_value_at_open": 17725.451,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "DoNotTailMe",
+      "SPCEXBUYER",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787586452.4830108,
     "fills": 1
   }
 ]
