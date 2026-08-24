@@ -38862,8 +38862,8 @@
     "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
     "outcome": "Mark Lajal",
     "side": "BUY",
-    "whale_usd": 21847.6306,
-    "whale_pct": 11.735,
+    "whale_usd": 23268.3682,
+    "whale_pct": 12.499,
     "whale_value_at_open": 186168.6748,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -38874,8 +38874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589859.4101913,
-    "fills": 3
+    "last_fill_at": 1787590458.9748578,
+    "fills": 4
   },
   {
     "timestamp": 1787587328,
@@ -38964,8 +38964,8 @@
     "title": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze",
     "outcome": "Mariam Bolkvadze",
     "side": "BUY",
-    "whale_usd": 2031.4620330000002,
-    "whale_pct": 0.996,
+    "whale_usd": 2781.4620330000002,
+    "whale_pct": 1.364,
     "whale_value_at_open": 203973.3722,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -38976,8 +38976,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589981.1835928,
-    "fills": 2
+    "last_fill_at": 1787590466.3769956,
+    "fills": 3
   },
   {
     "timestamp": 1787587817,
@@ -39483,5 +39483,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787590388.960778,
     "fills": 1
+  },
+  {
+    "timestamp": 1787590469,
+    "timestamp_added": 1787590470.140196,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-avanesy-garcia-2026-08-24",
+    "title": "US Open, Qualification WTA: Elina Avanesyan vs Andrea Lazaro Garcia",
+    "outcome": "Andrea Lazaro Garcia",
+    "side": "BUY",
+    "whale_usd": 2571.334,
+    "whale_pct": 0.973,
+    "whale_value_at_open": 264295.9957,
+    "paper_stake_usd": 2.2,
+    "odds_at_bet": 42,
+    "fee_usd": 0.064,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787590486.3538272,
+    "fills": 3
   }
 ]
