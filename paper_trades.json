@@ -37682,8 +37682,8 @@
     "title": "US Open, Qualification ATP: Diego Dedura-Palomero vs Frederico Ferreira Silva",
     "outcome": "Frederico Ferreira Silva",
     "side": "BUY",
-    "whale_usd": 9130.248199999998,
-    "whale_pct": 8.427,
+    "whale_usd": 11463.805699999997,
+    "whale_pct": 10.581,
     "whale_value_at_open": 108346.6771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -37696,8 +37696,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586526.9486532,
-    "fills": 2
+    "last_fill_at": 1787587405.428965,
+    "fills": 3
   },
   {
     "timestamp": 1787582992,
@@ -38634,8 +38634,8 @@
     "title": "US Open, Qualification WTA: Rebecca Marino vs Fiona Ferro",
     "outcome": "Rebecca Marino",
     "side": "BUY",
-    "whale_usd": 514.6746,
-    "whale_pct": 0.515,
+    "whale_usd": 3765.6786,
+    "whale_pct": 3.767,
     "whale_value_at_open": 99968.1151,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -38648,8 +38648,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586274.1708086,
-    "fills": 1
+    "last_fill_at": 1787587440.5847547,
+    "fills": 2
   },
   {
     "timestamp": 1787586278,
@@ -38882,8 +38882,8 @@
     "title": "LoL: Natus Vincere vs Fnatic (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 2322.0384,
-    "whale_pct": 1.18,
+    "whale_usd": 7995.907209000001,
+    "whale_pct": 4.065,
     "whale_value_at_open": 196708.5318,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -38897,8 +38897,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587328.8795872,
-    "fills": 1
+    "last_fill_at": 1787587504.447664,
+    "fills": 4
   },
   {
     "timestamp": 1787587331,
@@ -38909,8 +38909,8 @@
     "title": "LoL: Natus Vincere vs Fnatic - Game 2 Winner",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 707.9477,
-    "whale_pct": 0.216,
+    "whale_usd": 1764.0880499999998,
+    "whale_pct": 0.539,
     "whale_value_at_open": 327325.9047,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -38924,7 +38924,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787587331.9693635,
-    "fills": 1
+    "last_fill_at": 1787587502.9420447,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787587409,
+    "timestamp_added": 1787587410.4408078,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-pavlovi-varilla-2026-08-24",
+    "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
+    "outcome": "Luka Pavlovic",
+    "side": "BUY",
+    "whale_usd": 1225.6313,
+    "whale_pct": 0.985,
+    "whale_value_at_open": 124480.5019,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787587459.5319068,
+    "fills": 2
   }
 ]
