@@ -37768,8 +37768,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -38086,8 +38086,8 @@
     "title": "US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich",
     "outcome": "Rebeka Masarova",
     "side": "BUY",
-    "whale_usd": 7809.112799999999,
-    "whale_pct": 11.202,
+    "whale_usd": 9931.112399999998,
+    "whale_pct": 14.246,
     "whale_value_at_open": 69711.0587,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -38098,8 +38098,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590256.917918,
-    "fills": 4
+    "last_fill_at": 1787590350.9663806,
+    "fills": 5
   },
   {
     "timestamp": 1787585069,
@@ -38940,8 +38940,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 8972.648136,
-    "whale_pct": 7.208,
+    "whale_usd": 10835.647176,
+    "whale_pct": 8.705,
     "whale_value_at_open": 124480.5019,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -38952,8 +38952,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589335.4870532,
-    "fills": 6
+    "last_fill_at": 1787590399.1481225,
+    "fills": 7
   },
   {
     "timestamp": 1787587580,
@@ -39166,8 +39166,8 @@
     "title": "US Open, Qualification ATP: Luka Pavlovic vs Juan Pablo Varillas",
     "outcome": "Luka Pavlovic",
     "side": "BUY",
-    "whale_usd": 4657.943829,
-    "whale_pct": 2.661,
+    "whale_usd": 8498.12901,
+    "whale_pct": 4.855,
     "whale_value_at_open": 175056.2532,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -39180,8 +39180,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787588406.7877607,
-    "fills": 2
+    "last_fill_at": 1787590399.1502898,
+    "fills": 3
   },
   {
     "timestamp": 1787588541,
@@ -39290,8 +39290,8 @@
     "title": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze",
     "outcome": "Mariam Bolkvadze",
     "side": "BUY",
-    "whale_usd": 2073.0004,
-    "whale_pct": 1.201,
+    "whale_usd": 4645.998799999999,
+    "whale_pct": 2.693,
     "whale_value_at_open": 172548.4199,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -39304,8 +39304,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787589350.8156967,
-    "fills": 1
+    "last_fill_at": 1787590343.8140032,
+    "fills": 2
   },
   {
     "timestamp": 1787589392,
@@ -39419,8 +39419,8 @@
     "title": "US Open, Qualification ATP: Mark Lajal vs Jordan Lee",
     "outcome": "Jordan Lee",
     "side": "BUY",
-    "whale_usd": 4302.038955999999,
-    "whale_pct": 1.658,
+    "whale_usd": 4916.838956,
+    "whale_pct": 1.895,
     "whale_value_at_open": 259412.8909,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -39431,8 +39431,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590220.69973,
-    "fills": 2
+    "last_fill_at": 1787590356.012625,
+    "fills": 3
   },
   {
     "timestamp": 1787590109,
@@ -39458,6 +39458,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787590109.8445203,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787590388,
+    "timestamp_added": 1787590388.9607654,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-brengle-gasanov-2026-08-24",
+    "title": "US Open, Qualification WTA: Madison Brengle vs Anastasia Gasanova",
+    "outcome": "Anastasia Gasanova",
+    "side": "BUY",
+    "whale_usd": 730.519894,
+    "whale_pct": 0.279,
+    "whale_value_at_open": 261495.9108,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787590388.960778,
     "fills": 1
   }
 ]

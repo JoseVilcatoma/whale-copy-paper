@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.1281774957,
+  "bankroll": 562.1960346385572,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7385,6 +7385,11 @@
       "timestamp": 1787589799.2012448,
       "bankroll": 560.13,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification WTA: Rebeka Masarova vs Iryna Shymanovich (-0.02 USD)"
+    },
+    {
+      "timestamp": 1787590386.9332695,
+      "bankroll": 562.2,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Johannus Monday vs Iliyan Radulov"
     }
   ]
 }
