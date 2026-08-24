@@ -33516,8 +33516,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -33873,8 +33873,8 @@
     "title": "Monterrey Open, Qualification: Maria Timofeeva vs Kamilla Rakhimova",
     "outcome": "Maria Timofeeva",
     "side": "BUY",
-    "whale_usd": 711.63765,
-    "whale_pct": 20.622,
+    "whale_usd": 1465.41312,
+    "whale_pct": 42.465,
     "whale_value_at_open": 3450.8537,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -33887,7 +33887,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787530888.1586945,
-    "fills": 1
+    "last_fill_at": 1787531297.9716241,
+    "fills": 2
   }
 ]
