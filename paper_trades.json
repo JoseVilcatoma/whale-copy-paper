@@ -39021,8 +39021,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -41018,8 +41018,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -41696,8 +41696,8 @@
     "title": "US Open, Qualification WTA: Robin Montgomery vs Kayla Cross",
     "outcome": "Robin Montgomery",
     "side": "BUY",
-    "whale_usd": 1638.9989000000003,
-    "whale_pct": 0.82,
+    "whale_usd": 3346.001,
+    "whale_pct": 1.673,
     "whale_value_at_open": 199999.7171,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -41708,7 +41708,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787603578.9488623,
-    "fills": 1
+    "last_fill_at": 1787603666.4626591,
+    "fills": 2
   }
 ]
