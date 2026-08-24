@@ -35214,5 +35214,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787542965.9005907,
     "fills": 1
+  },
+  {
+    "timestamp": 1787543353,
+    "timestamp_added": 1787543354.2529337,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-sherif-oliynyk-2026-08-23",
+    "title": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova",
+    "outcome": "Oleksandra Oliynykova",
+    "side": "BUY",
+    "whale_usd": 659.2,
+    "whale_pct": 0.547,
+    "whale_value_at_open": 120600.9105,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787543354.2529426,
+    "fills": 1
   }
 ]
