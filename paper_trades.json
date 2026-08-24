@@ -36660,8 +36660,8 @@
     "title": "Augsburg: Marko Topo vs Miguel Damas",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 4193.770784,
-    "whale_pct": 4.486,
+    "whale_usd": 10823.582809,
+    "whale_pct": 11.579,
     "whale_value_at_open": 93476.8671,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -36672,8 +36672,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787575390.5987718,
-    "fills": 3
+    "last_fill_at": 1787576833.6413045,
+    "fills": 5
   },
   {
     "timestamp": 1787574813,
@@ -36684,8 +36684,8 @@
     "title": "Augsburg: Marko Topo vs Miguel Damas",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 552.1114,
-    "whale_pct": 0.685,
+    "whale_usd": 2071.374767,
+    "whale_pct": 2.571,
     "whale_value_at_open": 80572.2771,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -36698,8 +36698,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787574814.7019203,
-    "fills": 1
+    "last_fill_at": 1787576842.3796573,
+    "fills": 3
   },
   {
     "timestamp": 1787575119,
