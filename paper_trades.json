@@ -42586,5 +42586,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787610262.7780287,
     "fills": 1
+  },
+  {
+    "timestamp": 1787610499,
+    "timestamp_added": 1787610499.257995,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-dolehid-podrez-2026-08-24",
+    "title": "US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez",
+    "outcome": "Caroline Dolehide",
+    "side": "BUY",
+    "whale_usd": 4540.7376,
+    "whale_pct": 1.899,
+    "whale_value_at_open": 239064.4925,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787610499.871319,
+    "fills": 2
   }
 ]
