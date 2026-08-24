@@ -36650,5 +36650,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787573829.5516758,
     "fills": 1
+  },
+  {
+    "timestamp": 1787574312,
+    "timestamp_added": 1787574313.1276534,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-topo-damas-2026-08-24",
+    "title": "Augsburg: Marko Topo vs Miguel Damas",
+    "outcome": "Miguel Damas",
+    "side": "BUY",
+    "whale_usd": 1791.7720000000002,
+    "whale_pct": 1.917,
+    "whale_value_at_open": 93476.8671,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787574313.127669,
+    "fills": 1
   }
 ]
