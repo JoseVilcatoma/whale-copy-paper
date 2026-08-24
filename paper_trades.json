@@ -38531,8 +38531,8 @@
     "title": "US Open, Qualification WTA: Rebecca Sramkova vs Alevtina Ibragimova",
     "outcome": "Alevtina Ibragimova",
     "side": "BUY",
-    "whale_usd": 5242.62138,
-    "whale_pct": 3.142,
+    "whale_usd": 7170.27678,
+    "whale_pct": 4.297,
     "whale_value_at_open": 166879.4947,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -38545,8 +38545,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787586553.9404964,
-    "fills": 2
+    "last_fill_at": 1787586704.9088163,
+    "fills": 3
   },
   {
     "timestamp": 1787586215,
@@ -38773,6 +38773,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787586507.0697527,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787586648,
+    "timestamp_added": 1787586648.5413594,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "cs2-all-phanto-2026-08-24",
+    "title": "Counter-Strike: Alliance vs  Phantom Academy (BO3) - United21 Group D",
+    "outcome": " Phantom Academy",
+    "side": "BUY",
+    "whale_usd": 40131.60702999999,
+    "whale_pct": 49.314,
+    "whale_value_at_open": 81379.004,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SPCEXBUYER"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787586648.5413704,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787586709,
+    "timestamp_added": 1787586709.2382357,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-andree-bolkvad-2026-08-24",
+    "title": "US Open, Qualification WTA: Erika Andreeva vs Mariam Bolkvadze",
+    "outcome": "Erika Andreeva",
+    "side": "BUY",
+    "whale_usd": 985.617673,
+    "whale_pct": 0.542,
+    "whale_value_at_open": 181789.2763,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787586709.2382457,
     "fills": 1
   }
 ]
