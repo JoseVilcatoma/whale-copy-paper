@@ -1,5 +1,5 @@
 {
-  "bankroll": 583.9257096647838,
+  "bankroll": 584.0227504811103,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7995,6 +7995,11 @@
       "timestamp": 1787605002.7045796,
       "bankroll": 583.93,
       "event": "won: swisstony \u2014 AS Roma vs. ACF Fiorentina: O/U 5.5"
+    },
+    {
+      "timestamp": 1787605368.1365047,
+      "bankroll": 584.02,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Gonzalo Bueno vs Billy Harris"
     }
   ]
 }
