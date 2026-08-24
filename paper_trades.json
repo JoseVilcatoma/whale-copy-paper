@@ -41011,8 +41011,8 @@
     "title": "Winston-Salem Open: Kamil Majchrzak vs Benjamin Bonzi",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 511.0,
-    "whale_pct": 0.252,
+    "whale_usd": 1849.4615379999998,
+    "whale_pct": 0.912,
     "whale_value_at_open": 202740.9396,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -41025,8 +41025,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787597910.23321,
-    "fills": 1
+    "last_fill_at": 1787600926.67152,
+    "fills": 2
   },
   {
     "timestamp": 1787597909,
