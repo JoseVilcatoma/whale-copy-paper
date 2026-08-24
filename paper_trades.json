@@ -35655,8 +35655,8 @@
     "title": "LoL: BNK FearX Youth vs Hanwha Life Esports Challengers (BO5) - LCK Challengers League Play-In",
     "outcome": "BNK FearX Youth",
     "side": "BUY",
-    "whale_usd": 22884.7332,
-    "whale_pct": 19.914,
+    "whale_usd": 24188.9712,
+    "whale_pct": 21.049,
     "whale_value_at_open": 114917.6223,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -35667,7 +35667,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787553016.5342221,
+    "last_fill_at": 1787554339.5023367,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787554297,
+    "timestamp_added": 1787554297.80603,
+    "username": "itsonlyamatteroftime",
+    "wallet": "0x664a25f165a0150ce687410470f3352f5783fc5f",
+    "slug": "lol-dnsc-drxc-2026-08-24",
+    "title": "LoL: DN SOOPers Challengers vs Kiwoom DRX Challengers (BO5) - LCK Challengers League Play-In",
+    "outcome": "DN SOOPers Challengers",
+    "side": "BUY",
+    "whale_usd": 746.4788,
+    "whale_pct": 23.537,
+    "whale_value_at_open": 3171.5468,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SPCEXBUYER"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787554297.8060477,
     "fills": 1
   }
 ]
