@@ -1,5 +1,5 @@
 {
-  "bankroll": 555.6845255996369,
+  "bankroll": 547.7301181922295,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6950,6 +6950,31 @@
       "timestamp": 1787543187.2310026,
       "bankroll": 555.68,
       "event": "won: ferrariChampions2026 \u2014 Valorant: Evil Geniuses vs KR\u00dc Esports (BO3) - VCT Americas Stage 2 Play-In"
+    },
+    {
+      "timestamp": 1787543823.182447,
+      "bankroll": 559.83,
+      "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Lilli Tagger vs Yulia Starodubtseva"
+    },
+    {
+      "timestamp": 1787543823.282604,
+      "bankroll": 554.7,
+      "event": "lost: HomeRunHazard \u2014 Monterrey Open: Lilli Tagger vs Yulia Starodubtseva"
+    },
+    {
+      "timestamp": 1787543823.482988,
+      "bankroll": 549.61,
+      "event": "lost: ferrariChampions2026 \u2014 Monterrey Open: Lilli Tagger vs Yulia Starodubtseva"
+    },
+    {
+      "timestamp": 1787543823.5831833,
+      "bankroll": 544.5,
+      "event": "lost: swisstony \u2014 Monterrey Open: Lilli Tagger vs Yulia Starodubtseva"
+    },
+    {
+      "timestamp": 1787543823.6834173,
+      "bankroll": 547.73,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Lilli Tagger vs Yulia Starodubtseva"
     }
   ]
 }

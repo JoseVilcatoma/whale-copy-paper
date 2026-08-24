@@ -34919,8 +34919,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -34943,8 +34943,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -35019,8 +35019,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -35045,8 +35045,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -35102,8 +35102,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [
       "Djdjdjekekek",
       "ferrariChampions2026",
@@ -35267,6 +35267,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787543456.847813,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787543783,
+    "timestamp_added": 1787543784.3288994,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-sherif-oliynyk-2026-08-23",
+    "title": "Monterrey Open: Mayar Sherif vs Oleksandra Oliynykova",
+    "outcome": "Oleksandra Oliynykova",
+    "side": "BUY",
+    "whale_usd": 1088.0,
+    "whale_pct": 2.207,
+    "whale_value_at_open": 49292.0887,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787543784.3289108,
     "fills": 1
   }
 ]
