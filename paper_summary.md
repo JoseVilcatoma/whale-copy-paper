@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 12:44:16 (hora de Perú)
+Actualizado: 2026-08-24 12:46:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $588.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 12:44:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $527.20 en 106 posiciones abiertas (disponible para nuevas apuestas: $61.20)
+**Capital comprometido ahora mismo:** $557.20 en 112 posiciones abiertas (disponible para nuevas apuestas: $31.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 62 | 8 | 4 | +59.16 USD |
+| swisstony | 62 | 8 | 7 | +59.16 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 49 | 20 | 2 | +39.12 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | BOOMBOYS.Kiritych | 23 | 12 | 4 | +27.73 USD |
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
 | Gooooooollllllllll | 0 | 0 | 1 | +0.00 USD |
 | vito3corleone | 0 | 0 | 1 | +0.00 USD |
+| Donghui | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -60,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
-| HomeRunHazard | 111 | 61 | 30 | -4.56 USD |
+| HomeRunHazard | 111 | 61 | 32 | -4.56 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -331,6 +332,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-marino-ferro-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | mlb-min-oak-2026-08-24-total-10pt5 | HomeRunHazard, ferrariChampions2026 |
 | atp-torr-paldani-2026-08-24 | OOOwhyOOO, ferrariChampions2026 |
+| atp-sonego-kopriva-2026-08-24 | Donghui, ferrariChampions2026 |
 | lol-navi-fnc-2026-08-24 | SPCEXBUYER, TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-nedic-estevez-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
@@ -354,16 +356,25 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-andree-bolkvad-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-lajal-jordanl-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-pavlovi-varilla-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| atp-droguet-rincon-2026-08-24 | ferrariChampions2026, swisstony |
 | wta-aksu-stefani-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| wta-brengle-gasanov-2026-08-24 | ferrariChampions2026, swisstony |
 | wta-avanesy-garcia-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-tian-per-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | atp-fernan-kuhar-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | lol-gx-g2-2026-08-24-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
+| atp-johnso-garin-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | VSG Altglienicke vs. VfL Wolfsburg: O/U  | Under (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Spencer John | Spencer Johnson (BUY) | 64% | 5.00 | 1.1% | ⏳ pendiente | — |
+| swisstony | US Open, Qualification WTA: Madison Bren | Madison Brengle (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Fangran Tian vs Lucciana P | Lucciana Perez (BUY) | 41% | 5.00 | 1.6% | ⏳ pendiente | — |
+| Donghui | Winston-Salem Open: Lorenzo Sonego vs Vi | Lorenzo Sonego (BUY) | 52% | 5.00 | 309.1% | ⏳ pendiente | — |
+| swisstony | US Open, Qualification ATP: Titouan Drog | Titouan Droguet (BUY) | 68% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Bologna FC 1909 vs. SS Lazio: O/U 1.5 | Under (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Bologna FC 1909 vs. SS Lazio: O/U 5.5 | Under (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
 | swisstony | Spread: SS Lazio (-1.5) | Bologna FC 1909 (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -388,9 +399,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 61% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia: Fangran Tian vs Lucciana P | Fangran Tian (BUY) | 66% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elina Avanes | Andrea Lazaro Garcia (BUY) | 42% | 2.20 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Madison Bren | Anastasia Gasanova (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Mark Lajal v | Jordan Lee (BUY) | 60% | 5.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Mark Lajal v | Jordan Lee (BUY) | 57% | 5.00 | 5.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Lukas Neumay | Oliver Crawford (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Winston-Salem Open: Roman Safiullin vs H | Roman Safiullin (BUY) | 87% | 5.00 | 5.2% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open, Qualification WTA: Rebeka Masar | Rebeka Masarova (BUY) | 66% | 5.00 | 6.2% | 💰 vendida anticipada | -0.02 |
