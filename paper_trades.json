@@ -36586,8 +36586,8 @@
     "title": "Game Handicap: FNC (-1.5) vs Natus Vincere (+1.5)",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 5397.5,
-    "whale_pct": 7.244,
+    "whale_usd": 6460.0,
+    "whale_pct": 8.67,
     "whale_value_at_open": 74507.0291,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -36598,8 +36598,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787582348.9422944,
-    "fills": 5
+    "last_fill_at": 1787582899.3733912,
+    "fills": 6
   },
   {
     "timestamp": 1787573691,
