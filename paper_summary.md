@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 20:02:30 (hora de Perú)
+Actualizado: 2026-08-23 20:04:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $546.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 20:02:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $336.77)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $326.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 16 | 1 | -33.17 USD |
 |  | 30 | 22 | 0 | -52.94 USD |
-| RN1 | 201 | 92 | 9 | -57.21 USD |
+| RN1 | 201 | 92 | 11 | -57.21 USD |
 
 ## Análisis general
 
@@ -310,13 +310,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Monterrey Open, Qualification: Anna Bond | Anna Bondar (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will CD La Equidad Seguros win on 2026-0 | No (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Atlético San Luis win on 2026-08-23 | No (BUY) | 94% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Seahawks vs. Titans | Seahawks (BUY) | 74% | 5.00 | 37.0% | ⏳ pendiente | — |
 | quavoo | Will Pumas de la UNAM win on 2026-08-23? | Yes (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | LDU Quito vs. CS Emelec: O/U 5.5 | Under (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CF Pachuca win on 2026-08-23? | No (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 62% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Atlanta Braves vs. Milwaukee Brewers | Atlanta Braves (BUY) | 62% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Atlanta Braves vs. Milwaukee Brewers: O/ | Under (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will O'Higgins FC win on 2026-08-23? | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Seahawks vs. Titans | Seahawks (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -338,5 +340,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | CA River Plate vs. CA Vélez Sarsfield: O | Under (BUY) | 84% | 5.00 | 0.2% | ❌ perdida | -5.04 |
 | swisstony | Spread: CA River Plate (-2.5) | CA Vélez Sarsfield (BUY) | 86% | 5.00 | 0.1% | ✅ ganada | +0.78 |
 | swisstony | Associação Chapecoense de Futebol vs. Sã | Under (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Will Associação Chapecoense de Futebol w | Yes (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
-| swisstony | Coritiba FBC vs. SC Corinthians Paulista | Under (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
