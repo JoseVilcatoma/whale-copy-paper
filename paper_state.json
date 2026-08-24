@@ -1,5 +1,5 @@
 {
-  "bankroll": 576.3516194177438,
+  "bankroll": 579.960433202708,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8215,6 +8215,31 @@
       "timestamp": 1787611346.6802816,
       "bankroll": 576.35,
       "event": "lost:  \u2014 Will Stade de Reims win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787611660.312845,
+      "bankroll": 577.4,
+      "event": "won: swisstony \u2014 Kocaelispor vs. Amed Sportif: Amed Sportif O/U 1.5"
+    },
+    {
+      "timestamp": 1787611660.6598828,
+      "bankroll": 572.38,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Talia Gibson vs Lizette Cabrera"
+    },
+    {
+      "timestamp": 1787611661.7767653,
+      "bankroll": 575.23,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Keegan Smith vs Alexis Galarneau"
+    },
+    {
+      "timestamp": 1787611662.4755976,
+      "bankroll": 579.55,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Talia Gibson vs Lizette Cabrera"
+    },
+    {
+      "timestamp": 1787611665.2842066,
+      "bankroll": 579.96,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Camila Osorio vs Ann Li"
     }
   ]
 }
