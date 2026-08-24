@@ -1,5 +1,5 @@
 {
-  "bankroll": 565.5206582558542,
+  "bankroll": 566.6141180534477,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6605,6 +6605,21 @@
       "timestamp": 1787529687.6170983,
       "bankroll": 565.52,
       "event": "won: swisstony \u2014 Winston-Salem Open: Martin Landaluce vs Mattia Bellucci"
+    },
+    {
+      "timestamp": 1787529998.7098348,
+      "bankroll": 565.72,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Sentinels - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787529999.4127936,
+      "bankroll": 566.02,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Sentinels (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1787529999.8016834,
+      "bankroll": 566.61,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Disguised vs Sentinels - Game 2 Winner"
     }
   ]
 }
