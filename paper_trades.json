@@ -36461,8 +36461,8 @@
     "title": "Augsburg: Andrej Nedic vs Juan Estevez",
     "outcome": "Andrej Nedic",
     "side": "BUY",
-    "whale_usd": 4525.84,
-    "whale_pct": 5.731,
+    "whale_usd": 5092.6375,
+    "whale_pct": 6.449,
     "whale_value_at_open": 78971.1869,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -36476,8 +36476,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787573250.8281481,
-    "fills": 1
+    "last_fill_at": 1787576606.1004024,
+    "fills": 2
   },
   {
     "timestamp": 1787573293,
@@ -36849,6 +36849,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787576481.402254,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787576677,
+    "timestamp_added": 1787576678.5430405,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-brady-petrovi-2026-08-24",
+    "title": "Roehampton 2: Patrick Brady vs Andreja Petrovic",
+    "outcome": "Patrick Brady",
+    "side": "BUY",
+    "whale_usd": 1203.1298,
+    "whale_pct": 1.214,
+    "whale_value_at_open": 99122.4137,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787576678.5430548,
     "fills": 1
   }
 ]
