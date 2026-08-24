@@ -41377,8 +41377,8 @@
     "title": "Winston-Salem Open: Adam Walton vs Jesper de Jong",
     "outcome": "Adam Walton",
     "side": "BUY",
-    "whale_usd": 2219.9981000000002,
-    "whale_pct": 0.917,
+    "whale_usd": 12690.9981,
+    "whale_pct": 5.241,
     "whale_value_at_open": 242170.5266,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -41389,8 +41389,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787600366.02538,
-    "fills": 1
+    "last_fill_at": 1787603246.8253279,
+    "fills": 3
   },
   {
     "timestamp": 1787600825,
@@ -41606,6 +41606,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787602997.9149945,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787603258,
+    "timestamp_added": 1787603258.7470644,
+    "username": "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+    "wallet": "0xe30e74595517de48f1fb19f4553dd3d9f1e96b87",
+    "slug": "atp-brancac-wild-2026-08-24",
+    "title": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild",
+    "outcome": "Thiago Seyboth Wild",
+    "side": "BUY",
+    "whale_usd": 30071.7308,
+    "whale_pct": 24.867,
+    "whale_value_at_open": 120928.1024,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787603258.7470765,
     "fills": 1
   }
 ]
