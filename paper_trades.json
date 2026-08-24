@@ -41768,8 +41768,8 @@
     "title": "US Open, Qualification ATP: Dalibor Svrcina vs Felipe Meligeni Alves",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 733.7126999999999,
-    "whale_pct": 0.35,
+    "whale_usd": 2018.856518,
+    "whale_pct": 0.963,
     "whale_value_at_open": 209714.7388,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -41780,8 +41780,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787604374.7571478,
-    "fills": 1
+    "last_fill_at": 1787606816.4832003,
+    "fills": 2
   },
   {
     "timestamp": 1787605180,
