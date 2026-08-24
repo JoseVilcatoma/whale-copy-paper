@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:51:16 (hora de Perú)
+Actualizado: 2026-08-24 09:53:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $553.43
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:51:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $238.43)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $228.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 22 | 12 | 3 | +25.66 USD |
-| ferrariChampions2026 | 220 | 120 | 18 | +21.09 USD |
+| ferrariChampions2026 | 220 | 120 | 19 | +21.09 USD |
 | casualbet2020 | 15 | 7 | 0 | +20.99 USD |
 | ChonkyChocolateCake | 29 | 17 | 0 | +16.37 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 100 | 59 | 12 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-|  | 30 | 22 | 2 | -52.94 USD |
+|  | 30 | 22 | 3 | -52.94 USD |
 | RN1 | 220 | 97 | 10 | -53.95 USD |
 
 ## Análisis general
@@ -335,13 +335,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
 | atp-brancac-wild-2026-08-24 | , RN1 |
-| atp-hemery-barton-2026-08-24 | RN1, ferrariChampions2026 |
+| atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton 2: Johannus Monday vs Iliyan  | Johannus Monday (BUY) | 70% | 5.00 | 0.5% | ⏳ pendiente | — |
+|  | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -370,5 +372,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Giulio Perego vs Fabrizio  | Fabrizio Andaloro (BUY) | 80% | 5.00 | 1.2% | ✅ ganada | +1.20 |
 | OOOwhyOOO | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 96% | 5.00 | 12.5% | ✅ ganada | +0.20 |
-| SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 38.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | AS Roma vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
