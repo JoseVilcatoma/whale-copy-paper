@@ -41521,8 +41521,8 @@
     "title": "US Open, Qualification WTA: Claire Liu vs Heather Watson",
     "outcome": "Claire Liu",
     "side": "BUY",
-    "whale_usd": 662.2,
-    "whale_pct": 0.335,
+    "whale_usd": 1264.6177,
+    "whale_pct": 0.64,
     "whale_value_at_open": 197454.7113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -41533,8 +41533,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787601665.8646338,
-    "fills": 1
+    "last_fill_at": 1787603069.5290022,
+    "fills": 2
   },
   {
     "timestamp": 1787601977,
