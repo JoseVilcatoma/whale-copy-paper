@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 13:34:27 (hora de Perú)
+Actualizado: 2026-08-24 13:36:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $587.01
@@ -377,7 +377,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: GIANTX vs G2 Esports - Game 2 Winne | GIANTX (BUY) | 57% | 5.00 | 1.6% | 💰 vendida anticipada | +0.14 |
 | HomeRunHazard | Atlanta Dream vs. Los Angeles Sparks: O/ | Under (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Spencer John | Cristian Garin (BUY) | 62% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Los Angeles Sparks (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Titouan Drog | Daniel Rincon (BUY) | 99% | 5.00 | 30.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Bruno Kuzuhara vs Thomas Fan | Thomas Fancutt (BUY) | 95% | 5.00 | 0.5% | ⏳ pendiente | — |
