@@ -38838,8 +38838,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx: O/U 160.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1967.3114,
-    "whale_pct": 1.688,
+    "whale_usd": 3203.3129,
+    "whale_pct": 2.748,
     "whale_value_at_open": 116552.7749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -38850,8 +38850,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787590829.7344723,
-    "fills": 2
+    "last_fill_at": 1787612537.4078262,
+    "fills": 3
   },
   {
     "timestamp": 1787587280,
@@ -42284,8 +42284,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

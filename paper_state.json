@@ -1,5 +1,5 @@
 {
-  "bankroll": 579.960433202708,
+  "bankroll": 580.5514107307979,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8240,6 +8240,11 @@
       "timestamp": 1787611665.2842066,
       "bankroll": 579.96,
       "event": "won: HomeRunHazard \u2014 Monterrey Open: Camila Osorio vs Ann Li"
+    },
+    {
+      "timestamp": 1787612471.3802295,
+      "bankroll": 580.55,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Carson Branstine vs Clervie Ngounoue"
     }
   ]
 }
