@@ -41449,8 +41449,8 @@
     "title": "Winston-Salem Open: Sebastian Gorzny vs Cruz Hewitt",
     "outcome": "Sebastian Gorzny",
     "side": "BUY",
-    "whale_usd": 8273.2402,
-    "whale_pct": 4.208,
+    "whale_usd": 9477.6181,
+    "whale_pct": 4.82,
     "whale_value_at_open": 196614.3089,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -41461,8 +41461,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787603386.5829558,
-    "fills": 3
+    "last_fill_at": 1787603498.0756178,
+    "fills": 4
   },
   {
     "timestamp": 1787601640,
@@ -41497,8 +41497,8 @@
     "title": "Philadelphia: Ekaterina Ovcharenko vs Kaitlin Quevedo",
     "outcome": "Kaitlin Quevedo",
     "side": "BUY",
-    "whale_usd": 1282.2872,
-    "whale_pct": 0.649,
+    "whale_usd": 1955.7572,
+    "whale_pct": 0.99,
     "whale_value_at_open": 197454.7113,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -41509,8 +41509,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787601643.6890643,
-    "fills": 1
+    "last_fill_at": 1787603436.8699112,
+    "fills": 2
   },
   {
     "timestamp": 1787601665,
@@ -41593,8 +41593,8 @@
     "title": "US Open, Qualification WTA: Jazmin Ortenzi vs Himeno Sakatsume",
     "outcome": "Himeno Sakatsume",
     "side": "BUY",
-    "whale_usd": 826.4106,
-    "whale_pct": 0.472,
+    "whale_usd": 3397.4725000000003,
+    "whale_pct": 1.942,
     "whale_value_at_open": 174923.5094,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -41605,8 +41605,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787602997.9149945,
-    "fills": 1
+    "last_fill_at": 1787603418.8406837,
+    "fills": 3
   },
   {
     "timestamp": 1787603258,
@@ -41617,8 +41617,8 @@
     "title": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild",
     "outcome": "Thiago Seyboth Wild",
     "side": "BUY",
-    "whale_usd": 30071.7308,
-    "whale_pct": 24.867,
+    "whale_usd": 57406.9421,
+    "whale_pct": 47.472,
     "whale_value_at_open": 120928.1024,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -41632,7 +41632,35 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787603258.7470765,
-    "fills": 1
+    "last_fill_at": 1787603455.163014,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787603442,
+    "timestamp_added": 1787603443.199088,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-brancac-wild-2026-08-24",
+    "title": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild",
+    "outcome": "Raul Brancaccio",
+    "side": "BUY",
+    "whale_usd": 2830.9996,
+    "whale_pct": 1.409,
+    "whale_value_at_open": 200977.6967,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787603454.8455763,
+    "fills": 2
   }
 ]

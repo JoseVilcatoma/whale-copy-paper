@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 15:29:50 (hora de Perú)
+Actualizado: 2026-08-24 15:31:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $594.80
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 15:29:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $452.20 en 91 posiciones abiertas (disponible para nuevas apuestas: $142.60)
+**Capital comprometido ahora mismo:** $457.20 en 92 posiciones abiertas (disponible para nuevas apuestas: $137.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ferrariChampions2026 | 251 | 141 | 22 | -7.66 USD |
-| HomeRunHazard | 126 | 68 | 35 | -10.14 USD |
+| HomeRunHazard | 126 | 68 | 36 | -10.14 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -342,7 +342,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kopp-ribeiro-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
-| atp-brancac-wild-2026-08-24 | , 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, RN1 |
+| atp-brancac-wild-2026-08-24 | , 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000, HomeRunHazard, RN1 |
 | cs2-all-phanto-2026-08-24 | Djdjdjekekek, SPCEXBUYER |
 | atp-hemery-barton-2026-08-24 | , RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
@@ -376,14 +376,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 66% | 5.00 | 24.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Jazmin Orten | Himeno Sakatsume (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Raul Brancac | Raul Brancaccio (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 66% | 5.00 | 47.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Jazmin Orten | Himeno Sakatsume (BUY) | 83% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 49% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Ushiras vs Arashi GC (BO3) - V | Ushiras (BUY) | 41% | 5.00 | 53.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Claire Liu v | Claire Liu (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Ekaterina Ovcharenko vs Ka | Kaitlin Quevedo (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Gonzalo Buen | Billy Harris (BUY) | 98% | 5.00 | 1.9% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Sebastian Gorzny vs  | Sebastian Gorzny (BUY) | 84% | 5.00 | 4.2% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Sebastian Gorzny vs  | Sebastian Gorzny (BUY) | 84% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 119.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -405,4 +406,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Mia Ristic v | Mia Ristic (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 83% | 5.00 | 2.6% | ✅ ganada | +0.98 |
 | HomeRunHazard | US Open, Qualification WTA: Anouk Koever | Anouk Koevermans (BUY) | 84% | 5.00 | 2.7% | ✅ ganada | +0.91 |
-| ferrariChampions2026 | CA Osasuna vs. Levante UD: O/U 0.5 | Over (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
