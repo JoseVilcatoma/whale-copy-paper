@@ -35731,8 +35731,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx",
     "outcome": "Minnesota Lynx",
     "side": "BUY",
-    "whale_usd": 816.0000000000001,
-    "whale_pct": 2.776,
+    "whale_usd": 1730.0016,
+    "whale_pct": 5.886,
     "whale_value_at_open": 29391.9928,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -35743,8 +35743,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787555559.0143912,
-    "fills": 1
+    "last_fill_at": 1787561387.613245,
+    "fills": 2
   },
   {
     "timestamp": 1787555943,
@@ -35871,5 +35871,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787561089.4574544,
     "fills": 2
+  },
+  {
+    "timestamp": 1787561453,
+    "timestamp_added": 1787561454.2833414,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-atl-la-2026-08-24",
+    "title": "Atlanta Dream vs. Los Angeles Sparks",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 1145.0,
+    "whale_pct": 3.453,
+    "whale_value_at_open": 33155.4626,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787561454.28335,
+    "fills": 1
   }
 ]
