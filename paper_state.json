@@ -1,5 +1,5 @@
 {
-  "bankroll": 548.0865442981096,
+  "bankroll": 548.1340493486147,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -6890,6 +6890,11 @@
       "timestamp": 1787540027.1547225,
       "bankroll": 548.09,
       "event": "won: swisstony \u2014 Coritiba FBC vs. SC Corinthians Paulista: O/U 3.5"
+    },
+    {
+      "timestamp": 1787540344.8033519,
+      "bankroll": 548.13,
+      "event": "won: swisstony \u2014 CSD Mixco vs. CD Guastatoya: O/U 3.5"
     }
   ]
 }
