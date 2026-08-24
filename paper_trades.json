@@ -37910,8 +37910,8 @@
     "title": "US Open, Qualification WTA: Kayla Day vs Julieta Pareja",
     "outcome": "Julieta Pareja",
     "side": "BUY",
-    "whale_usd": 1886.7292000000002,
-    "whale_pct": 1.462,
+    "whale_usd": 3743.8720570000005,
+    "whale_pct": 2.902,
     "whale_value_at_open": 129013.5535,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -37924,8 +37924,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787584465.4708834,
-    "fills": 2
+    "last_fill_at": 1787586907.9885097,
+    "fills": 3
   },
   {
     "timestamp": 1787584543,
@@ -38824,5 +38824,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787586832.102511,
     "fills": 2
+  },
+  {
+    "timestamp": 1787586925,
+    "timestamp_added": 1787586925.3405256,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-gsv-min-2026-08-24-total-160pt5",
+    "title": "Golden State Valkyries vs. Minnesota Lynx: O/U 160.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 700.3104,
+    "whale_pct": 0.601,
+    "whale_value_at_open": 116552.7749,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787586925.3405366,
+    "fills": 1
   }
 ]
