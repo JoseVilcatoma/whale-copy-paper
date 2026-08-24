@@ -38069,8 +38069,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -38141,8 +38141,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -38590,8 +38590,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -40464,8 +40464,8 @@
     "title": "Philadelphia: Oksana Selekhmeteva vs Taylah Preston",
     "outcome": "Oksana Selekhmeteva",
     "side": "BUY",
-    "whale_usd": 1886.5596,
-    "whale_pct": 0.987,
+    "whale_usd": 3077.027,
+    "whale_pct": 1.611,
     "whale_value_at_open": 191045.5402,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -40476,8 +40476,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787595579.0417917,
-    "fills": 2
+    "last_fill_at": 1787595626.4897013,
+    "fills": 3
   },
   {
     "timestamp": 1787595176,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 594.2586518597668,
+  "bankroll": 586.8681597962748,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -7595,6 +7595,21 @@
       "timestamp": 1787595083.4972143,
       "bankroll": 594.26,
       "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Ayla Aksu vs Lucrezia Stefanini"
+    },
+    {
+      "timestamp": 1787595703.5373466,
+      "bankroll": 597.1,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Veronika Erjavec vs Julia Grabher"
+    },
+    {
+      "timestamp": 1787595703.6374693,
+      "bankroll": 591.96,
+      "event": "lost: ferrariChampions2026 \u2014 Philadelphia: Veronika Erjavec vs Julia Grabher"
+    },
+    {
+      "timestamp": 1787595705.5205436,
+      "bankroll": 586.87,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Veronika Erjavec vs Julia Grabher"
     }
   ]
 }
