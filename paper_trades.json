@@ -37455,8 +37455,8 @@
     "title": "Augsburg: Calvin Hemery vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 4216.492536,
-    "whale_pct": 2.56,
+    "whale_usd": 5444.061866,
+    "whale_pct": 3.305,
     "whale_value_at_open": 164715.5626,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -37467,8 +37467,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787582710.6112525,
-    "fills": 3
+    "last_fill_at": 1787582963.8900416,
+    "fills": 4
   },
   {
     "timestamp": 1787580704,
@@ -37697,6 +37697,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787582363.2472892,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787582992,
+    "timestamp_added": 1787582993.2233047,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-brancac-wild-2026-08-24",
+    "title": "US Open, Qualification ATP: Raul Brancaccio vs Thiago Seyboth Wild",
+    "outcome": "Thiago Seyboth Wild",
+    "side": "BUY",
+    "whale_usd": 631.2599999999999,
+    "whale_pct": 0.999,
+    "whale_value_at_open": 63204.041,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787582993.2233176,
     "fills": 1
   }
 ]

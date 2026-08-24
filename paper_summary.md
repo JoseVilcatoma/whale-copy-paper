@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 09:49:10 (hora de Perú)
+Actualizado: 2026-08-24 09:51:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $553.43
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 09:49:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $243.43)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $238.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 100 | 59 | 12 | -11.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 0 | -38.29 USD |
-|  | 30 | 22 | 1 | -52.94 USD |
+|  | 30 | 22 | 2 | -52.94 USD |
 | RN1 | 220 | 97 | 10 | -53.95 USD |
 
 ## Análisis general
@@ -334,6 +334,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kopp-ribeiro-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-topo-damas-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-cin-sf-2026-08-24 | HomeRunHazard, SDTrading, ferrariChampions2026 |
+| atp-brancac-wild-2026-08-24 | , RN1 |
 | atp-hemery-barton-2026-08-24 | RN1, ferrariChampions2026 |
 | atp-dedurap-sil-2026-08-24 | RN1, ferrariChampions2026 |
 
@@ -341,6 +342,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification ATP: Raul Brancac | Thiago Seyboth Wild (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 47% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Diego Dedura | Frederico Ferreira Silva (BUY) | 46% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Federica Trevisan | Federica Trevisan (BUY) | 52% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -350,7 +352,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Calvin Hemery (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 53% | 5.00 | 11.7% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 96% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
+| RN1 | Augsburg: Calvin Hemery vs Hynek Barton | Hynek Barton (BUY) | 63% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Amelie Justine He | Amelie Justine Hejtmanek (BUY) | 98% | 5.00 | 4.9% | ⏳ pendiente | — |
 | RN1 | ITF W35 Trieste Women: Federica Trevisan | Alessandra Mazzola (BUY) | 84% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Bologna FC 1909 vs. SS Lazio: O/U 2.5 | Under (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -370,4 +372,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Roehampton 2: Inaki Montes-De La Torre v | Inaki Montes-De La Torre (BUY) | 96% | 5.00 | 12.5% | ✅ ganada | +0.20 |
 | SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 41% | 5.00 | 38.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | AS Roma vs. ACF Fiorentina: O/U 2.5 | Over (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Marko Topo vs Miguel Damas | Miguel Damas (BUY) | 63% | 5.00 | 1.1% | ✅ ganada | +2.84 |
