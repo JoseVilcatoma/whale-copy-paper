@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-23 20:37:36 (hora de Perú)
+Actualizado: 2026-08-23 20:39:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $535.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-23 20:37:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $325.36)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $320.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 11 | 2 | +41.02 USD |
-| swisstony | 36 | 3 | 11 | +40.86 USD |
+| swisstony | 36 | 3 | 12 | +40.86 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 48 | 19 | 0 | +39.93 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | BOOMBOYS.Kiritych | 18 | 11 | 0 | +19.50 USD |
@@ -310,6 +310,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Racing Club vs. CA Boca Juniors: O/U 3.5 | Under (BUY) | 67% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Maya Joint (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open, Qualification: Maya Join | Yulia Putintseva (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Rinky Hijikata vs Da | Rinky Hijikata (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -339,4 +340,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | beachboy4 | Will Atlanta United FC win on 2026-08-23 | No (BUY) | 44% | 5.00 | 1588.8% | ❌ perdida | -5.14 |
 | swisstony | Club Nacional de Football vs. CA Progres | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | kekasaur | Atlanta United FC vs. Sporting Kansas Ci | Over (BUY) | 41% | 5.00 | 0.3% | ❌ perdida | -5.15 |
-| swisstony | Atlanta United FC vs. Sporting Kansas Ci | Under (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
