@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 16:27:59 (hora de Perú)
+Actualizado: 2026-08-24 16:30:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $581.17
@@ -386,7 +386,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Victoria Jim | Francisca Jorge (BUY) | 99% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 58% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Polina Kuder | Linda Fruhvirtova (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Lizette Cabrera (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Talia Gibson vs Lizette Ca | Lizette Cabrera (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Jan Choinski vs Mees | Jan Choinski (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Keegan Smith | Alexis Galarneau (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |

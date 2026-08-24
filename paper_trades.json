@@ -41888,8 +41888,8 @@
     "title": "Philadelphia: Talia Gibson vs Lizette Cabrera",
     "outcome": "Lizette Cabrera",
     "side": "BUY",
-    "whale_usd": 1424.6158329999998,
-    "whale_pct": 0.744,
+    "whale_usd": 3164.880833,
+    "whale_pct": 1.654,
     "whale_value_at_open": 191399.8108,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -41900,8 +41900,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787605588.4398263,
-    "fills": 1
+    "last_fill_at": 1787606900.232686,
+    "fills": 2
   },
   {
     "timestamp": 1787605727,
