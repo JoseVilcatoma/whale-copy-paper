@@ -41425,8 +41425,8 @@
     "title": "US Open, Qualification WTA: Lucia Bronzetti vs Luisina Giovannini",
     "outcome": "Lucia Bronzetti",
     "side": "BUY",
-    "whale_usd": 41417.7348,
-    "whale_pct": 81.92,
+    "whale_usd": 42177.7348,
+    "whale_pct": 83.423,
     "whale_value_at_open": 50558.67,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -41437,7 +41437,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787601400.6168175,
-    "fills": 2
+    "last_fill_at": 1787601515.8232334,
+    "fills": 3
   }
 ]

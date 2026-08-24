@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 14:56:45 (hora de Perú)
+Actualizado: 2026-08-24 14:58:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $593.08
@@ -376,7 +376,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 81.9% | ⏳ pendiente | — |
+| 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | US Open, Qualification WTA: Lucia Bronze | Lucia Bronzetti (BUY) | 96% | 5.00 | 83.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Jespe | Adam Walton (BUY) | 68% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
