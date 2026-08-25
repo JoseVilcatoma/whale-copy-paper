@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.15428185149403,
+  "bankroll": 504.13319094240313,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9860,6 +9860,11 @@
       "timestamp": 1787699271.7738607,
       "bankroll": 500.15,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Mario Gonzalez Fernandez vs Mitchell Krueger"
+    },
+    {
+      "timestamp": 1787699586.587661,
+      "bankroll": 504.13,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Cristina Bucsa vs Anna Bondar"
     }
   ]
 }
