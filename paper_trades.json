@@ -44234,5 +44234,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787622376.6606665,
     "fills": 1
+  },
+  {
+    "timestamp": 1787624567,
+    "timestamp_added": 1787624568.281815,
+    "username": "mikesports",
+    "wallet": "0x7d92fd69504bfd391162e1442cb784c0af408676",
+    "slug": "wnba-atl-la-2026-08-24",
+    "title": "Atlanta Dream vs. Los Angeles Sparks",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 12250.0,
+    "whale_pct": 28.15,
+    "whale_value_at_open": 43516.6034,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787624615.941913,
+    "fills": 2
   }
 ]

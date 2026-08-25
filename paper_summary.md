@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 21:21:43 (hora de Perú)
+Actualizado: 2026-08-24 21:23:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $573.37
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 21:21:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $278.37)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $273.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
-| mikesports | 0 | 0 | 1 | +0.00 USD |
+| mikesports | 0 | 0 | 2 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -333,6 +333,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-dnsc-drxc-2026-08-24-game3 | SPCEXBUYER, itsonlyamatteroftime |
 | wnba-gsv-min-2026-08-24 | HomeRunHazard, Sassy-Bucket, mikesports |
 | lol-dnsc-drxc-2026-08-24-game4 | SPCEXBUYER, johnbaster |
+| wnba-atl-la-2026-08-24 | HomeRunHazard, mikesports |
 | wta-marino-ferro-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | mlb-min-oak-2026-08-24-total-10pt5 | HomeRunHazard, ferrariChampions2026 |
 | atp-torr-paldani-2026-08-24 | OOOwhyOOO, ferrariChampions2026 |
@@ -394,6 +395,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| mikesports | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 84% | 5.00 | 28.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 66% | 5.00 | 143.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
@@ -423,4 +425,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 46% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 |  | US Open, Qualification WTA: Arantxa Rus  | Teodora Kostovic (BUY) | 72% | 5.00 | 3.5% | ⏳ pendiente | — |
 | HomeRunHazard | Djere vs. Muller: Match O/U 22.5 | Under (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
-| HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Minnesota Lynx (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
