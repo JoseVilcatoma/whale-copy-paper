@@ -1,5 +1,5 @@
 {
-  "bankroll": 545.382026435275,
+  "bankroll": 549.6194110506596,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8740,6 +8740,21 @@
       "timestamp": 1787631688.2404752,
       "bankroll": 545.38,
       "event": "won: HomeRunHazard \u2014 Minnesota Twins vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1787632003.3039339,
+      "bankroll": 540.25,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1787632008.1689687,
+      "bankroll": 544.74,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1787632011.2490604,
+      "bankroll": 549.62,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 7.5"
     }
   ]
 }
