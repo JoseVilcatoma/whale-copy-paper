@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 21:31:58 (hora de Perú)
+Actualizado: 2026-08-24 21:34:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $573.37
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 21:31:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $273.37)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $263.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 179 | 94 | 33 | -15.85 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 13 | 19 | 3 | -38.39 USD |
-| RN1 | 235 | 104 | 1 | -45.75 USD |
+| RN1 | 235 | 104 | 3 | -45.75 USD |
 |  | 32 | 24 | 3 | -59.48 USD |
 
 ## Análisis general
@@ -395,6 +395,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Taipei 2 Men: Kai-I Wang vs Ryot | Ryota Tanuma (BUY) | 86% | 5.00 | 2.8% | ⏳ pendiente | — |
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
 | mikesports | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 84% | 5.00 | 28.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 66% | 5.00 | 143.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ⏳ pendiente | — |
@@ -423,5 +425,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Los Angeles Sparks (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Alvaro Guillen Meza vs Andre | Andrew Fenty (BUY) | 86% | 5.00 | 0.4% | ✅ ganada | +0.78 |
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 46% | 5.00 | 0.2% | ❌ perdida | -5.13 |
-|  | US Open, Qualification WTA: Arantxa Rus  | Teodora Kostovic (BUY) | 72% | 5.00 | 3.5% | ⏳ pendiente | — |
-| HomeRunHazard | Djere vs. Muller: Match O/U 22.5 | Under (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
