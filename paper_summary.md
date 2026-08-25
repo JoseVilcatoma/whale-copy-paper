@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 00:50:58 (hora de Perú)
+Actualizado: 2026-08-25 00:53:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $546.61
-**Retorno acumulado:** +9.32%
+**Bankroll actual:** $541.58
+**Retorno acumulado:** +8.32%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 00:50:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $421.61)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $421.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| Djdjdjekekek | 17 | 12 | 2 | +8.06 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
@@ -41,6 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | AV23IUa | 1 | 0 | 0 | +3.98 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
+| Djdjdjekekek | 17 | 13 | 1 | +3.04 USD |
 | vito3corleone | 1 | 0 | 0 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -401,7 +401,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 3.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ⏳ pendiente | — |
-| Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | ⏳ pendiente | — |
+| Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | 💰 vendida anticipada | -5.02 |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF M15 Maanshan 8 Men: Vladimir Osminki | Reiya Komagata (BUY) | 64% | 5.00 | 70.8% | ⏳ pendiente | — |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 60% | 5.00 | 13.2% | ⏳ pendiente | — |

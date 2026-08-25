@@ -1,5 +1,5 @@
 {
-  "bankroll": 546.6050896012456,
+  "bankroll": 541.5804667942281,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8870,6 +8870,11 @@
       "timestamp": 1787633903.9852157,
       "bankroll": 546.61,
       "event": "lost: Sassy-Bucket \u2014 Minnesota Twins vs. Athletics"
+    },
+    {
+      "timestamp": 1787637164.7513697,
+      "bankroll": 541.58,
+      "event": "venta anticipada: Djdjdjekekek \u2014 Monterrey Open: Diane Parry vs Donna Vekic (-5.02 USD)"
     }
   ]
 }
