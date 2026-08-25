@@ -45790,8 +45790,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Benjamin Hassan",
     "side": "BUY",
-    "whale_usd": 9253.988800000001,
-    "whale_pct": 6.748,
+    "whale_usd": 16523.289524,
+    "whale_pct": 12.049,
     "whale_value_at_open": 137134.2227,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -45802,8 +45802,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787666926.232973,
-    "fills": 3
+    "last_fill_at": 1787667448.1568806,
+    "fills": 5
   },
   {
     "timestamp": 1787665906,
@@ -45901,6 +45901,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787667171.202348,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787667429,
+    "timestamp_added": 1787667430.5189376,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-cretu-mcdona-2026-08-24",
+    "title": "Augsburg: Cezar Cretu vs Niels McDonald",
+    "outcome": "Cezar Cretu",
+    "side": "BUY",
+    "whale_usd": 3256.2000000000003,
+    "whale_pct": 2.386,
+    "whale_value_at_open": 136461.0683,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787667430.5189512,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787667493,
+    "timestamp_added": 1787667493.7757194,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cretu-mcdona-2026-08-24",
+    "title": "Augsburg: Cezar Cretu vs Niels McDonald",
+    "outcome": "Cezar Cretu",
+    "side": "BUY",
+    "whale_usd": 4771.2,
+    "whale_pct": 3.256,
+    "whale_value_at_open": 146529.3288,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787667493.77573,
     "fills": 1
   }
 ]
