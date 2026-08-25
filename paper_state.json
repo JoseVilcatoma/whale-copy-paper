@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.921797528502,
+  "bankroll": 516.0709114525525,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9405,6 +9405,16 @@
       "timestamp": 1787686048.2209837,
       "bankroll": 519.92,
       "event": "won: OOOwhyOOO \u2014 US Open, Qualification ATP: Bernard Tomic vs Lloyd Harris"
+    },
+    {
+      "timestamp": 1787686656.160326,
+      "bankroll": 514.79,
+      "event": "lost:  \u2014 Set Handicap: Jones (-1.5) vs Lamens (+1.5)"
+    },
+    {
+      "timestamp": 1787686675.3132522,
+      "bankroll": 516.07,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Suzan Lamens vs Emerson Jones"
     }
   ]
 }

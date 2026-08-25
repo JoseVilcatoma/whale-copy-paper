@@ -44401,8 +44401,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -48463,8 +48463,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.28,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -48776,8 +48776,8 @@
     "title": "US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova",
     "outcome": "Kristina Liutova",
     "side": "BUY",
-    "whale_usd": 549.6899999999999,
-    "whale_pct": 0.234,
+    "whale_usd": 2389.6892,
+    "whale_pct": 1.019,
     "whale_value_at_open": 234503.137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -48788,8 +48788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787685904.5954015,
-    "fills": 1
+    "last_fill_at": 1787686699.5821352,
+    "fills": 2
   },
   {
     "timestamp": 1787686115,
@@ -48800,8 +48800,8 @@
     "title": "US Open, Qualification WTA: Lola Radivojevic vs Kajsa Rinaldo Persson",
     "outcome": "Lola Radivojevic",
     "side": "BUY",
-    "whale_usd": 2316.7129999999997,
-    "whale_pct": 0.977,
+    "whale_usd": 7126.274299999999,
+    "whale_pct": 3.006,
     "whale_value_at_open": 237033.1245,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -48812,8 +48812,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787686116.3811219,
-    "fills": 1
+    "last_fill_at": 1787686753.5726223,
+    "fills": 3
   },
   {
     "timestamp": 1787686238,
@@ -48946,8 +48946,8 @@
     "title": "Kansas City Royals vs. Toronto Blue Jays: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2828.7553,
-    "whale_pct": 1.196,
+    "whale_usd": 5011.7191,
+    "whale_pct": 2.119,
     "whale_value_at_open": 236544.1696,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -48958,8 +48958,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787686632.0949938,
-    "fills": 2
+    "last_fill_at": 1787686670.5718231,
+    "fills": 3
   },
   {
     "timestamp": 1787686625,
@@ -48983,6 +48983,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787686625.819033,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787686690,
+    "timestamp_added": 1787686690.8034823,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-mayo-forbes-2026-08-25",
+    "title": "Kingston 2: Aidan Mayo vs Matthew Forbes",
+    "outcome": "Aidan Mayo",
+    "side": "BUY",
+    "whale_usd": 645.57,
+    "whale_pct": 0.269,
+    "whale_value_at_open": 239681.1359,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787686690.803492,
     "fills": 1
   }
 ]
