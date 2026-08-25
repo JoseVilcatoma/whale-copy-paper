@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:14:27 (hora de Perú)
+Actualizado: 2026-08-25 15:16:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $513.22
@@ -427,7 +427,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 89% | 5.00 | 44.7% | ⏳ pendiente | — |
+| Djdjdjekekek | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 89% | 5.00 | 1589.1% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Daniil Glinka (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Kylie Collins (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -450,7 +450,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 66% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Lola Radivoj | Lola Radivojevic (BUY) | 71% | 5.00 | 3.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 74% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Pedro Martinez (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |

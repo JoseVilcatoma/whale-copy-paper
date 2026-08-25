@@ -48776,8 +48776,8 @@
     "title": "US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova",
     "outcome": "Kristina Liutova",
     "side": "BUY",
-    "whale_usd": 2389.6892,
-    "whale_pct": 1.019,
+    "whale_usd": 5327.6982,
+    "whale_pct": 2.272,
     "whale_value_at_open": 234503.137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -48788,8 +48788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787686699.5821352,
-    "fills": 2
+    "last_fill_at": 1787688915.543531,
+    "fills": 3
   },
   {
     "timestamp": 1787686115,
@@ -49350,8 +49350,8 @@
     "title": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo",
     "outcome": "Hugo Gaston",
     "side": "BUY",
-    "whale_usd": 2061.9,
-    "whale_pct": 44.73,
+    "whale_usd": 73252.2965,
+    "whale_pct": 1589.106,
     "whale_value_at_open": 4609.6541,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -49364,7 +49364,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787688867.2756152,
-    "fills": 1
+    "last_fill_at": 1787688922.1313813,
+    "fills": 5
   }
 ]
