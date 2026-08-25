@@ -1,5 +1,5 @@
 {
-  "bankroll": 559.9081441402487,
+  "bankroll": 554.7861441402488,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8400,6 +8400,11 @@
       "timestamp": 1787620332.7452977,
       "bankroll": 559.91,
       "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787620454.9812574,
+      "bankroll": 554.79,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Mananchaya Sawangkaew vs Sloane Stephens"
     }
   ]
 }
