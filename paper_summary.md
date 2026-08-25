@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 08:51:21 (hora de Perú)
+Actualizado: 2026-08-25 08:53:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.70
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 08:51:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $323.70)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $318.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| ferrariChampions2026 | 269 | 155 | 20 | -24.11 USD |
+| ferrariChampions2026 | 269 | 155 | 21 | -24.11 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 239 | 106 | 1 | -44.52 USD |
@@ -404,6 +404,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Daniel Masur (BUY) | 97% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Benjamin Hassan (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Nick Hardt (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 61% | 5.00 | 6.2% | ⏳ pendiente | — |
@@ -433,4 +434,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 62% | 5.00 | 56.2% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Winston-Salem Open: Hugo Grenier vs Seba | Sebastian Baez (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | Nemiga Gaming (BUY) | 55% | 5.00 | 0.8% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
