@@ -1,5 +1,5 @@
 {
-  "bankroll": 570.0214774735821,
+  "bankroll": 564.8284774735821,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8370,6 +8370,21 @@
       "timestamp": 1787619956.5687256,
       "bankroll": 570.02,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas"
+    },
+    {
+      "timestamp": 1787620083.5166037,
+      "bankroll": 564.99,
+      "event": "lost: ferrariChampions2026 \u2014 Winston-Salem Open: Roman Safiullin vs Hugo Grenier"
+    },
+    {
+      "timestamp": 1787620088.3633096,
+      "bankroll": 559.95,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Roman Safiullin vs Hugo Grenier"
+    },
+    {
+      "timestamp": 1787620090.608215,
+      "bankroll": 564.83,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Roman Safiullin vs Hugo Grenier"
     }
   ]
 }
