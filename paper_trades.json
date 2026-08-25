@@ -46896,8 +46896,8 @@
     "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
     "outcome": "Kei Nishikori",
     "side": "BUY",
-    "whale_usd": 12344.900852,
-    "whale_pct": 6.831,
+    "whale_usd": 16695.610852,
+    "whale_pct": 9.239,
     "whale_value_at_open": 180715.6866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -46910,8 +46910,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787675588.716425,
-    "fills": 7
+    "last_fill_at": 1787676016.8369882,
+    "fills": 11
   },
   {
     "timestamp": 1787673091,
