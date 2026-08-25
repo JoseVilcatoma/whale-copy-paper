@@ -48160,8 +48160,8 @@
     "title": "US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz",
     "outcome": "Pablo Llamas Ruiz",
     "side": "BUY",
-    "whale_usd": 5420.7307089999995,
-    "whale_pct": 3.22,
+    "whale_usd": 6358.523708999999,
+    "whale_pct": 3.777,
     "whale_value_at_open": 168332.5146,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -48174,8 +48174,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787683469.738776,
-    "fills": 3
+    "last_fill_at": 1787684146.1888137,
+    "fills": 4
   },
   {
     "timestamp": 1787681360,
