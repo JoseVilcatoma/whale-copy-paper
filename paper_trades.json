@@ -50683,8 +50683,8 @@
     "title": "Milwaukee Brewers vs. New York Mets: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 12413.566153,
-    "whale_pct": 45.241,
+    "whale_usd": 24047.143752999997,
+    "whale_pct": 87.639,
     "whale_value_at_open": 27438.9837,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -50695,8 +50695,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787696017.612572,
-    "fills": 1
+    "last_fill_at": 1787696567.4812708,
+    "fills": 3
   },
   {
     "timestamp": 1787696022,
@@ -50758,8 +50758,8 @@
     "title": "Winston-Salem Open: Mees Rottgering vs Tomas Machac",
     "outcome": "Tomas Machac",
     "side": "BUY",
-    "whale_usd": 8580.0,
-    "whale_pct": 2.671,
+    "whale_usd": 23263.9965,
+    "whale_pct": 7.243,
     "whale_value_at_open": 321180.6327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -50770,8 +50770,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787696482.1436496,
-    "fills": 2
+    "last_fill_at": 1787696590.0712655,
+    "fills": 6
   },
   {
     "timestamp": 1787696511,
@@ -50795,6 +50795,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787696511.8673074,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787696525,
+    "timestamp_added": 1787696525.5661876,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-chi-conn-2026-08-25-spread-away-6pt5",
+    "title": "Spread: Chicago Sky (-6.5)",
+    "outcome": "Chicago Sky",
+    "side": "BUY",
+    "whale_usd": 679.5672,
+    "whale_pct": 0.204,
+    "whale_value_at_open": 332775.7201,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787696525.5662022,
     "fills": 1
   }
 ]
