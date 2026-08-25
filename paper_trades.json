@@ -48552,8 +48552,8 @@
     "title": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova",
     "outcome": "Annika Penickova",
     "side": "BUY",
-    "whale_usd": 7754.854466,
-    "whale_pct": 3.891,
+    "whale_usd": 11680.190066,
+    "whale_pct": 5.861,
     "whale_value_at_open": 199295.2555,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -48564,8 +48564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787689613.350247,
-    "fills": 5
+    "last_fill_at": 1787689970.2894633,
+    "fills": 7
   },
   {
     "timestamp": 1787685165,
@@ -48776,8 +48776,8 @@
     "title": "US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova",
     "outcome": "Kristina Liutova",
     "side": "BUY",
-    "whale_usd": 6258.0795,
-    "whale_pct": 2.669,
+    "whale_usd": 7038.0795,
+    "whale_pct": 3.001,
     "whale_value_at_open": 234503.137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -48788,8 +48788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787689153.4386828,
-    "fills": 4
+    "last_fill_at": 1787689930.5624716,
+    "fills": 5
   },
   {
     "timestamp": 1787686115,
@@ -49448,8 +49448,8 @@
     "title": "US Open, Qualification ATP: Stefanos Sakellaridis vs Christopher O'Connell",
     "outcome": "Christopher O'Connell",
     "side": "BUY",
-    "whale_usd": 5048.424,
-    "whale_pct": 1.676,
+    "whale_usd": 7349.4228,
+    "whale_pct": 2.439,
     "whale_value_at_open": 301276.7641,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -49460,7 +49460,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787689755.8196943,
-    "fills": 2
+    "last_fill_at": 1787689856.8869247,
+    "fills": 3
   }
 ]
