@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:35:15 (hora de Perú)
+Actualizado: 2026-08-25 14:37:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:35:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $69.92)
+**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $49.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 204 | 111 | 27 | -23.95 USD |
+| HomeRunHazard | 204 | 111 | 31 | -23.95 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 168 | 16 | -37.54 USD |
 | RN1 | 259 | 116 | 22 | -45.28 USD |
@@ -424,6 +424,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Adam Walton vs Ignac | Adam Walton (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 99% | 5.00 | 102.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 66% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -450,7 +454,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Alina Charae | Susan Bandecchi (BUY) | 80% | 5.00 | 0.8% | ✅ ganada | +1.20 |
 | HomeRunHazard | Spread: Washington Mystics (-2.5) | Washington Mystics (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ✅ ganada | +0.25 |
-| OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | 💰 vendida anticipada | -0.70 |
-| HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 3.8% | ⏳ pendiente | — |
