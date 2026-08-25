@@ -45660,5 +45660,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787663380.6985378,
     "fills": 1
+  },
+  {
+    "timestamp": 1787663607,
+    "timestamp_added": 1787663608.4450474,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-tex-cws-2026-08-25",
+    "title": "Texas Rangers vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 816.2927999999999,
+    "whale_pct": 0.691,
+    "whale_value_at_open": 118077.1308,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787663608.4450636,
+    "fills": 1
   }
 ]
