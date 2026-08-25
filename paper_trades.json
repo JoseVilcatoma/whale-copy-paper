@@ -44902,5 +44902,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787646227.6339474,
     "fills": 3
+  },
+  {
+    "timestamp": 1787646689,
+    "timestamp_added": 1787646689.8257136,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "kor-seo-bch-2026-08-25-total-2pt5",
+    "title": "FC Seoul vs. Bucheon FC 1995: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2824.6065,
+    "whale_pct": 5.051,
+    "whale_value_at_open": 55921.1362,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787646689.8257282,
+    "fills": 1
   }
 ]
