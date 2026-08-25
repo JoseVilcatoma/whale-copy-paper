@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:43:29 (hora de Perú)
+Actualizado: 2026-08-25 10:45:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $538.16
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:43:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $218.16)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $203.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,9 +77,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 275 | 160 | 25 | -30.11 USD |
+| ferrariChampions2026 | 275 | 160 | 27 | -30.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 241 | 106 | 16 | -36.92 USD |
+| RN1 | 241 | 106 | 17 | -36.92 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -413,6 +413,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Henri Haupt vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 98% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF M25 Oviedo Men: Samuel De Felipe Gar | Xavi Palomar (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia: Xiyu Wang vs Jessica Bouza | Xiyu Wang (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elizabeth Ma | Elizabeth Mandlik (BUY) | 85% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -440,6 +443,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 25.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Max Hans Rehberg (BUY) | 74% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 47% | 5.00 | 25.1% | ⏳ pendiente | — |
-| RN1 | ITF W15 Torello Women: Alice Gillan vs E | Alice Gillan (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 152.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Niels McDonald (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
