@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.1132215415389,
+  "bankroll": 491.7723559288907,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9765,6 +9765,16 @@
       "timestamp": 1787696756.6703334,
       "bankroll": 487.11,
       "event": "won:  \u2014 FK Bod\u00f8/Glimt vs. NEC: Team to Advance"
+    },
+    {
+      "timestamp": 1787697397.8208277,
+      "bankroll": 489.28,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh"
+    },
+    {
+      "timestamp": 1787697398.0212383,
+      "bankroll": 491.77,
+      "event": "won: ferrariChampions2026 \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh"
     }
   ]
 }
