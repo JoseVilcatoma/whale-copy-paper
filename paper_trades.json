@@ -46399,5 +46399,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787671010.829521,
     "fills": 1
+  },
+  {
+    "timestamp": 1787671308,
+    "timestamp_added": 1787671308.862296,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-carbaja-cosano-2026-08-25",
+    "title": "ITF M25 Oviedo Men: Alejandro Garcia Carbajal vs Javier Barranco Cosano",
+    "outcome": "Alejandro Garcia Carbajal",
+    "side": "BUY",
+    "whale_usd": 4000.0,
+    "whale_pct": 2.618,
+    "whale_value_at_open": 152778.8673,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787671308.862309,
+    "fills": 1
   }
 ]
