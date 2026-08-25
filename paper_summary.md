@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 06:17:34 (hora de Perú)
+Actualizado: 2026-08-25 06:19:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $550.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 06:17:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $360.77)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $355.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 239 | 106 | 1 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
-|  | 33 | 25 | 9 | -59.90 USD |
+|  | 33 | 25 | 10 | -59.90 USD |
 
 ## Análisis general
 
@@ -397,12 +397,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drxc-foxy-2026-08-25 | BrotherObama, TAIWANNUMBERONE |
 | mlb-pit-sd-2026-08-24 | , Djdjdjekekek, RN1 |
 | kor-seo-bch-2026-08-25-spread-home-1pt5 | , ferrariChampions2026 |
+| atp-matusev-kouzmin-2026-08-25 | , ferrariChampions2026 |
 | lol-drxc-foxy-2026-08-25-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 50% | 5.00 | 53.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 46% | 5.00 | 71.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Patrick Zahraj vs Patrick  | Patrick Brady (BUY) | 80% | 5.00 | 6.9% | ⏳ pendiente | — |
@@ -432,4 +434,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 3.5% | ✅ ganada | +4.50 |
 | Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ✅ ganada | +6.48 |
 | Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | 💰 vendida anticipada | -5.02 |
-| RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ✅ ganada | +2.61 |
