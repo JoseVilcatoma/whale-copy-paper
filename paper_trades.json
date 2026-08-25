@@ -45718,8 +45718,8 @@
     "title": "Augsburg: Raphael Perot vs Mika Brunold",
     "outcome": "Mika Brunold",
     "side": "BUY",
-    "whale_usd": 1095.73,
-    "whale_pct": 0.892,
+    "whale_usd": 9318.199991999998,
+    "whale_pct": 7.583,
     "whale_value_at_open": 122883.6842,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -45730,8 +45730,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787664665.0869493,
-    "fills": 1
+    "last_fill_at": 1787665389.1916883,
+    "fills": 5
   },
   {
     "timestamp": 1787664977,

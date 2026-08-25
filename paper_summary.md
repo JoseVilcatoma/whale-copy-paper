@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 08:41:16 (hora de Perú)
+Actualizado: 2026-08-25 08:43:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $537.25
@@ -407,7 +407,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Benjamin Hassan (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Nick Hardt (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 61% | 5.00 | 6.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 7.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
