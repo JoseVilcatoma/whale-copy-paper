@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 18:58:32 (hora de Perú)
+Actualizado: 2026-08-24 19:00:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $581.68
@@ -413,11 +413,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
-| Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 42.9% | ⏳ pendiente | — |
+| Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 64.4% | ⏳ pendiente | — |
 | mikesports | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 49.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Akasha Urhobo (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 3.5% | ⏳ pendiente | — |
+|  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 4.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Veronika Podrez (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |

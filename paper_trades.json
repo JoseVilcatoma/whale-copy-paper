@@ -43052,8 +43052,8 @@
     "title": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller",
     "outcome": "Elmer Moeller",
     "side": "BUY",
-    "whale_usd": 2858.2199979999996,
-    "whale_pct": 3.531,
+    "whale_usd": 3550.3052979999998,
+    "whale_pct": 4.386,
     "whale_value_at_open": 80948.368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -43066,8 +43066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787613239.8099556,
-    "fills": 2
+    "last_fill_at": 1787615941.8492882,
+    "fills": 3
   },
   {
     "timestamp": 1787612277,
@@ -43176,8 +43176,8 @@
     "title": "Golden State Valkyries vs. Minnesota Lynx",
     "outcome": "Minnesota Lynx",
     "side": "BUY",
-    "whale_usd": 46285.020399999994,
-    "whale_pct": 42.922,
+    "whale_usd": 69453.8479,
+    "whale_pct": 64.408,
     "whale_value_at_open": 107834.8682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -43191,8 +43191,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787614993.131037,
-    "fills": 30
+    "last_fill_at": 1787615995.3614414,
+    "fills": 32
   },
   {
     "timestamp": 1787613246,
