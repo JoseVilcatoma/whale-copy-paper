@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:29:56 (hora de Perú)
+Actualizado: 2026-08-25 11:32:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $532.30
-**Retorno acumulado:** +6.46%
+**Bankroll actual:** $533.41
+**Retorno acumulado:** +6.68%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:29:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $127.30)
+**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $133.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,20 +79,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 277 | 162 | 32 | -34.82 USD |
-| RN1 | 242 | 107 | 25 | -38.07 USD |
+| RN1 | 243 | 108 | 24 | -36.96 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1742
-- **Aciertos:** 1122 (64.4%)
+- **Apuestas resueltas:** 1744
+- **Aciertos:** 1123 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,698.82
-- **ROI sobre lo apostado:** -0.56%
-- **Comisiones pagadas (taker fee):** $158.34 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,708.82
+- **ROI sobre lo apostado:** -0.55%
+- **Comisiones pagadas (taker fee):** $158.59 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 861 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 863 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 529 | 70.9% | 67.6% | +3.3 pp |
 | 80-94% | 235 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 117 | 96.6% | 97.3% | -0.7 pp |
@@ -416,6 +416,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Sabah FK win on 2026-08-25? | No (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: 1st  | Under (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Al Fayha Saudi Club win on 2026-08- | No (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Timofey Skat | Timofey Skatov (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -445,4 +446,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Champaign, IL Men: Preston Stear | Preston Stearns (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 64% | 5.00 | 29.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sabah FK vs. MH Hapoel Be'er Sheva: O/U  | Under (BUY) | 46% | 5.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston 2: Gijs Brouwer vs Andres Marti | Andres Martin (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |

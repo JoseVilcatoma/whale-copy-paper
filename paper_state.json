@@ -1,5 +1,5 @@
 {
-  "bankroll": 532.2994567426164,
+  "bankroll": 533.4110931062528,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9130,6 +9130,16 @@
       "timestamp": 1787674575.3279915,
       "bankroll": 532.3,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Facundo Mena vs Max Hans Rehberg"
+    },
+    {
+      "timestamp": 1787675515.9154422,
+      "bankroll": 527.19,
+      "event": "lost: RN1 \u2014 ITF W15 Torello Women: Alice Gillan vs Esther Lopez Alcaraz"
+    },
+    {
+      "timestamp": 1787675516.1158915,
+      "bankroll": 533.41,
+      "event": "won: RN1 \u2014 ITF W15 Torello Women: Alice Gillan vs Esther Lopez Alcaraz"
     }
   ]
 }
