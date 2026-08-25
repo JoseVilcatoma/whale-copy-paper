@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:45:25 (hora de Perú)
+Actualizado: 2026-08-25 14:47:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $512.70
@@ -442,7 +442,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 169 | Over (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 1.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Annika Penickova (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Annika Penickova (BUY) | 44% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 83% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury:  | Over (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
