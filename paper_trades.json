@@ -44758,5 +44758,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787638624.1611345,
     "fills": 1
+  },
+  {
+    "timestamp": 1787641226,
+    "timestamp_added": 1787641227.4500241,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-giustin-dimitro-2026-08-25",
+    "title": "US Open, Qualification ATP: Lorenzo Giustino vs Grigor Dimitrov",
+    "outcome": "Grigor Dimitrov",
+    "side": "BUY",
+    "whale_usd": 1966.30289,
+    "whale_pct": 3.982,
+    "whale_value_at_open": 49380.4528,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787641227.4500544,
+    "fills": 1
   }
 ]
