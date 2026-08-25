@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.131714042234,
+  "bankroll": 517.0061584866784,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9375,6 +9375,11 @@
       "timestamp": 1787685117.4977224,
       "bankroll": 515.13,
       "event": "won: HomeRunHazard \u2014 Philadelphia: Mia Pohankova vs Katie Volynets"
+    },
+    {
+      "timestamp": 1787685422.7841737,
+      "bankroll": 517.01,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Viktoria Hruncakova vs Julia Riera"
     }
   ]
 }
