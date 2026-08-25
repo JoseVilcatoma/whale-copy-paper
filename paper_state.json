@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.790893664542,
+  "bankroll": 506.8434546401518,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9565,6 +9565,11 @@
       "timestamp": 1787690776.8910978,
       "bankroll": 505.79,
       "event": "won: HomeRunHazard \u2014 Philadelphia: Anastasia Zakharova vs Kylie Collins"
+    },
+    {
+      "timestamp": 1787691025.48323,
+      "bankroll": 506.84,
+      "event": "won: ferrariChampions2026 \u2014 LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs"
     }
   ]
 }
