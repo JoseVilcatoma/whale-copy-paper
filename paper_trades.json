@@ -44919,8 +44919,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -45067,8 +45067,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -45091,8 +45091,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [
       ""
     ],
@@ -45189,8 +45189,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -45912,8 +45912,8 @@
     "title": "Augsburg: Cezar Cretu vs Niels McDonald",
     "outcome": "Cezar Cretu",
     "side": "BUY",
-    "whale_usd": 6151.799999999999,
-    "whale_pct": 4.508,
+    "whale_usd": 8150.6143999999995,
+    "whale_pct": 5.973,
     "whale_value_at_open": 136461.0683,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -45924,8 +45924,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667903.6521766,
-    "fills": 3
+    "last_fill_at": 1787668314.0645525,
+    "fills": 4
   },
   {
     "timestamp": 1787667493,

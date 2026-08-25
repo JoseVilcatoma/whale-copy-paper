@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.6887938138173,
+  "bankroll": 521.2432743332977,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9035,6 +9035,26 @@
       "timestamp": 1787668070.011851,
       "bankroll": 523.69,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Petr Brunclik vs Daniel Masur"
+    },
+    {
+      "timestamp": 1787668371.2747421,
+      "bankroll": 518.58,
+      "event": "lost: ferrariChampions2026 \u2014 FC Seoul vs. Bucheon FC 1995: O/U 2.5"
+    },
+    {
+      "timestamp": 1787668371.952998,
+      "bankroll": 513.45,
+      "event": "lost:  \u2014 Spread: FC Seoul (-1.5)"
+    },
+    {
+      "timestamp": 1787668372.053186,
+      "bankroll": 517.42,
+      "event": "won: ferrariChampions2026 \u2014 Spread: FC Seoul (-1.5)"
+    },
+    {
+      "timestamp": 1787668372.4790044,
+      "bankroll": 521.24,
+      "event": "won:  \u2014 Spread: FC Seoul (-1.5)"
     }
   ]
 }
