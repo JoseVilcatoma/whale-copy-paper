@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:07:58 (hora de Perú)
+Actualizado: 2026-08-25 13:10:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $514.11
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:07:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $99.11)
+**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $94.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| HVAB | 6 | 1 | 0 | +1.51 USD |
+| HVAB | 6 | 1 | 1 | +1.51 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -421,6 +421,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -450,4 +451,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 42% | 5.00 | 1.0% | ✅ ganada | +6.76 |
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 58% | 5.00 | 0.9% | ❌ perdida | -5.11 |
 | HomeRunHazard | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
-| RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: Team | MH Hapoel Be'er Sheva (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
