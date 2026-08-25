@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 05:36:00 (hora de Perú)
+Actualizado: 2026-08-25 05:38:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $546.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 05:36:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $361.52)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $356.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ferrariChampions2026 | 263 | 151 | 14 | -14.23 USD |
+| ferrariChampions2026 | 263 | 151 | 15 | -14.23 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
@@ -402,6 +402,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton 2: Patrick Zahraj vs Patrick  | Patrick Brady (BUY) | 80% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 88% | 5.00 | 13.0% | ⏳ pendiente | — |
 |  | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 56% | 5.00 | 6.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 62% | 5.00 | 56.2% | ⏳ pendiente | — |
@@ -431,4 +432,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ✅ ganada | +2.61 |
 | 11vsldfdsgfkjgos | ITF M15 Maanshan 8 Men: Vladimir Osminki | Reiya Komagata (BUY) | 64% | 5.00 | 70.8% | ✅ ganada | +2.72 |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 60% | 5.00 | 13.2% | ❌ perdida | -5.10 |
-|  | ITF W35 Trieste Women: Viola Turini vs V | Valentina Steiner (BUY) | 57% | 5.00 | 3.3% | ⏳ pendiente | — |
