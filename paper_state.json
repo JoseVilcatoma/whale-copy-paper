@@ -1,5 +1,5 @@
 {
-  "bankroll": 545.1608737709723,
+  "bankroll": 545.3592071043057,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8915,6 +8915,11 @@
       "timestamp": 1787640581.0676656,
       "bankroll": 545.16,
       "event": "won: 11vsldfdsgfkjgos \u2014 ITF M15 Maanshan 8 Men: Vladimir Osminkin vs Reiya Komagata"
+    },
+    {
+      "timestamp": 1787641144.8892446,
+      "bankroll": 545.36,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Ekaterine Gorgodze vs Katarzyna Kawa"
     }
   ]
 }
