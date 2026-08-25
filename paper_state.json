@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.7029067175548,
+  "bankroll": 507.5999067175548,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9450,6 +9450,11 @@
       "timestamp": 1787686984.7942603,
       "bankroll": 512.7,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz"
+    },
+    {
+      "timestamp": 1787687291.0098734,
+      "bankroll": 507.6,
+      "event": "lost: RN1 \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance"
     }
   ]
 }

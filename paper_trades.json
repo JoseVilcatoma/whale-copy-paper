@@ -47445,8 +47445,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -48652,8 +48652,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 9602.0162,
-    "whale_pct": 4.699,
+    "whale_usd": 13644.0173,
+    "whale_pct": 6.677,
     "whale_value_at_open": 204349.5985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -48668,8 +48668,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787686447.4860165,
-    "fills": 4
+    "last_fill_at": 1787687283.1352003,
+    "fills": 5
   },
   {
     "timestamp": 1787685498,
@@ -49008,5 +49008,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787686690.803492,
     "fills": 1
+  },
+  {
+    "timestamp": 1787687265,
+    "timestamp_added": 1787687265.7718174,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "atp-bonzi-halys-2026-08-25",
+    "title": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys",
+    "outcome": "Quentin Halys",
+    "side": "BUY",
+    "whale_usd": 14148.733269,
+    "whale_pct": 262.906,
+    "whale_value_at_open": 5381.6708,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787687270.5433376,
+    "fills": 2
   }
 ]

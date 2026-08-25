@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:47:25 (hora de Perú)
+Actualizado: 2026-08-25 14:49:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $512.70
-**Retorno acumulado:** +2.54%
+**Bankroll actual:** $507.60
+**Retorno acumulado:** +1.52%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:47:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $82.70)
+**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $77.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Djdjdjekekek | 18 | 13 | 0 | +9.52 USD |
+| Djdjdjekekek | 18 | 13 | 1 | +9.52 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
@@ -79,20 +79,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 206 | 111 | 30 | -20.29 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
-| RN1 | 262 | 118 | 17 | -45.89 USD |
+| RN1 | 262 | 119 | 16 | -50.99 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 28 | 6 | -69.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1805
+- **Apuestas resueltas:** 1806
 - **Aciertos:** 1163 (64.4%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,013.82
-- **ROI sobre lo apostado:** -0.75%
-- **Comisiones pagadas (taker fee):** $163.48 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,018.82
+- **ROI sobre lo apostado:** -0.81%
+- **Comisiones pagadas (taker fee):** $163.59 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 886 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 887 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 548 | 70.8% | 67.7% | +3.1 pp |
 | 80-94% | 248 | 85.9% | 87.1% | -1.2 pp |
 | 95-99% (casi seguro) | 123 | 96.7% | 97.3% | -0.6 pp |
@@ -412,7 +412,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-shick-tabur-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-squire-sanchis-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-kwon-lajovic-2026-08-25 | RN1, ferrariChampions2026 |
-| atp-bonzi-halys-2026-08-25 | AV23IUa, HomeRunHazard |
+| atp-bonzi-halys-2026-08-25 | AV23IUa, Djdjdjekekek, HomeRunHazard |
 | wta-wan-maneiro-2026-08-25 | RN1, ferrariChampions2026 |
 | wta-samson-zidanse-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-presto-hibino-2026-08-25 | HomeRunHazard, RN1 |
@@ -424,6 +424,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 58% | 5.00 | 262.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Matthew Forbes | Aidan Mayo (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 42% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -438,7 +439,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Kaylan Bigun (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 4.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 6.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 169 | Over (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -453,4 +454,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Mia Pohankova vs Katie Vol | Katie Volynets (BUY) | 99% | 5.00 | 3.3% | ✅ ganada | +0.05 |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 68% | 5.00 | 122.5% | ✅ ganada | +2.27 |
 | HomeRunHazard | US Open, Qualification WTA: Alina Charae | Susan Bandecchi (BUY) | 80% | 5.00 | 0.8% | ✅ ganada | +1.20 |
-| HomeRunHazard | Spread: Washington Mystics (-2.5) | Washington Mystics (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
