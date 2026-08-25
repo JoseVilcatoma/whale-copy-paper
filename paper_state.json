@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.5592091020584,
+  "bankroll": 538.1576834103587,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9085,6 +9085,21 @@
       "timestamp": 1787670248.4208045,
       "bankroll": 533.56,
       "event": "won: RN1 \u2014 Augsburg: Kai Wehnelt vs Nick Hardt"
+    },
+    {
+      "timestamp": 1787671177.163851,
+      "bankroll": 537.54,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Benjamin Hassan vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1787671178.000105,
+      "bankroll": 532.42,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Benjamin Hassan vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1787671178.8275635,
+      "bankroll": 538.16,
+      "event": "won: RN1 \u2014 Augsburg: Benjamin Hassan vs Juan Manuel La Serna"
     }
   ]
 }
