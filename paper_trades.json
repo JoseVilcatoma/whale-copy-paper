@@ -46292,8 +46292,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -46316,8 +46316,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -47343,8 +47343,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -48076,5 +48076,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787679509.0646467,
     "fills": 2
+  },
+  {
+    "timestamp": 1787679627,
+    "timestamp_added": 1787679628.4093332,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "efl-swe-wol-2026-08-25-wol",
+    "title": "Will Wolverhampton Wanderers FC win on 2026-08-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 7948.8,
+    "whale_pct": 2.244,
+    "whale_value_at_open": 354201.3444,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787679634.015125,
+    "fills": 3
   }
 ]

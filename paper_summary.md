@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 12:38:32 (hora de Perú)
+Actualizado: 2026-08-25 12:40:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $527.07
-**Retorno acumulado:** +5.41%
+**Bankroll actual:** $518.52
+**Retorno acumulado:** +3.70%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 12:38:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $57.07)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $58.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,22 +77,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 9 | -25.04 USD |
-| ferrariChampions2026 | 283 | 164 | 24 | -31.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 247 | 111 | 38 | -41.04 USD |
+| ferrariChampions2026 | 283 | 165 | 23 | -37.02 USD |
+| RN1 | 248 | 112 | 37 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1760
-- **Aciertos:** 1133 (64.4%)
+- **Apuestas resueltas:** 1763
+- **Aciertos:** 1134 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,788.82
-- **ROI sobre lo apostado:** -0.62%
-- **Comisiones pagadas (taker fee):** $159.93 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,803.82
+- **ROI sobre lo apostado:** -0.71%
+- **Comisiones pagadas (taker fee):** $160.15 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -101,7 +101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 871 | 50.2% | 50.1% | +0.0 pp |
-| 60-79% | 531 | 71.0% | 67.6% | +3.4 pp |
+| 60-79% | 534 | 70.8% | 67.7% | +3.1 pp |
 | 80-94% | 239 | 85.4% | 87.0% | -1.7 pp |
 | 95-99% (casi seguro) | 119 | 96.6% | 97.3% | -0.7 pp |
 
@@ -419,6 +419,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 63% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Viktoria Hru | Viktoria Hruncakova (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -448,4 +449,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Dusan Lajovic (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Braden Shick | Braden Shick (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |

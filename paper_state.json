@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.0664051578879,
+  "bankroll": 518.5180718245545,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9220,6 +9220,21 @@
       "timestamp": 1787679262.7135723,
       "bankroll": 527.07,
       "event": "lost: RN1 \u2014 US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky"
+    },
+    {
+      "timestamp": 1787679570.7195873,
+      "bankroll": 521.99,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Braden Shick vs Clement Tabur"
+    },
+    {
+      "timestamp": 1787679570.8198156,
+      "bankroll": 516.91,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Braden Shick vs Clement Tabur"
+    },
+    {
+      "timestamp": 1787679577.1159494,
+      "bankroll": 518.52,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Braden Shick vs Clement Tabur"
     }
   ]
 }
