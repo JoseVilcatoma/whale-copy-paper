@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 18:41:15 (hora de Perú)
+Actualizado: 2026-08-25 18:43:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.07
@@ -453,7 +453,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 81% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 55% | 5.00 | 4.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Moez Echargu | Hugo Dellien (BUY) | 67% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Moez Echargu | Hugo Dellien (BUY) | 67% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Mees Rottgering (BUY) | 81% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Elena Pridan | Elena Pridankina (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Chicago Sky vs. Connecticut Sun | Chicago Sky (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
