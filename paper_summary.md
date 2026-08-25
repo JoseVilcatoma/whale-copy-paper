@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 01:09:49 (hora de Perú)
+Actualizado: 2026-08-25 01:12:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $541.58
-**Retorno acumulado:** +8.32%
+**Bankroll actual:** $539.83
+**Retorno acumulado:** +7.97%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 01:09:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $416.58)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $444.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 31 | 18 | 0 | +15.33 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| Djdjdjekekek | 18 | 13 | 0 | +9.52 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
@@ -40,7 +41,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | AV23IUa | 1 | 0 | 0 | +3.98 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
-| Djdjdjekekek | 17 | 13 | 1 | +3.04 USD |
 | vito3corleone | 1 | 0 | 0 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -75,22 +75,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 263 | 151 | 3 | -14.23 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 194 | 109 | 3 | -27.85 USD |
+| HomeRunHazard | 195 | 109 | 2 | -25.24 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 237 | 105 | 4 | -46.52 USD |
-| Sassy-Bucket | 13 | 21 | 1 | -48.61 USD |
-|  | 33 | 24 | 6 | -54.80 USD |
+| RN1 | 238 | 106 | 2 | -47.13 USD |
+| Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
+|  | 33 | 25 | 5 | -59.90 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1692
-- **Aciertos:** 1092 (64.5%)
-- **Cuota promedio de entrada:** 63.7%
+- **Apuestas resueltas:** 1698
+- **Aciertos:** 1095 (64.5%)
+- **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,448.82
-- **ROI sobre lo apostado:** -0.46%
-- **Comisiones pagadas (taker fee):** $153.55 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,478.82
+- **ROI sobre lo apostado:** -0.48%
+- **Comisiones pagadas (taker fee):** $154.24 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -98,8 +98,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 835 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 510 | 71.4% | 67.6% | +3.7 pp |
+| 40-59% | 839 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 512 | 71.3% | 67.6% | +3.7 pp |
 | 80-94% | 232 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
 
@@ -400,12 +400,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | quavoo | KBO: Lotte Giants vs. Kia Tigers | Kia Tigers (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 3.5% | ⏳ pendiente | — |
-| Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ⏳ pendiente | — |
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 3.5% | ✅ ganada | +4.50 |
+| Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ✅ ganada | +6.48 |
 | Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | 💰 vendida anticipada | -5.02 |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF M15 Maanshan 8 Men: Vladimir Osminki | Reiya Komagata (BUY) | 64% | 5.00 | 70.8% | ⏳ pendiente | — |
-|  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 60% | 5.00 | 13.2% | ⏳ pendiente | — |
+|  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 60% | 5.00 | 13.2% | ❌ perdida | -5.10 |
 |  | ITF W35 Trieste Women: Viola Turini vs V | Valentina Steiner (BUY) | 57% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 54% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 50% | 5.00 | 5.1% | ✅ ganada | +4.88 |
@@ -415,11 +415,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 57% | 5.00 | 2.7% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 45% | 5.00 | 2.2% | ❌ perdida | -5.14 |
 | RN1 | ITF M25 Taipei 2 Men: Kai-I Wang vs Ryot | Ryota Tanuma (BUY) | 86% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 58% | 5.00 | 2.3% | ❌ perdida | -5.11 |
 | mikesports | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 84% | 5.00 | 28.1% | ✅ ganada | +0.91 |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 66% | 5.00 | 143.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ❌ perdida | -5.14 |
-| Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
+| Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 9.8% | ❌ perdida | -5.13 |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Atlanta Dream (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs F | Daniel Altmaier (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |

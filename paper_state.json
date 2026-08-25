@@ -1,5 +1,5 @@
 {
-  "bankroll": 541.5804667942281,
+  "bankroll": 539.8330660786646,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8875,6 +8875,36 @@
       "timestamp": 1787637164.7513697,
       "bankroll": 541.58,
       "event": "venta anticipada: Djdjdjekekek \u2014 Monterrey Open: Diane Parry vs Donna Vekic (-5.02 USD)"
+    },
+    {
+      "timestamp": 1787638310.0664124,
+      "bankroll": 544.19,
+      "event": "won: HomeRunHazard \u2014 Spread: Pittsburgh Pirates (-1.5)"
+    },
+    {
+      "timestamp": 1787638312.0491004,
+      "bankroll": 539.06,
+      "event": "lost: Sassy-Bucket \u2014 Pittsburgh Pirates vs. San Diego Padres: O/U 7.5"
+    },
+    {
+      "timestamp": 1787638312.7707431,
+      "bankroll": 533.95,
+      "event": "lost: RN1 \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787638314.1694973,
+      "bankroll": 528.85,
+      "event": "lost:  \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787638314.4700708,
+      "bankroll": 535.34,
+      "event": "won: Djdjdjekekek \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787638314.5702882,
+      "bankroll": 539.83,
+      "event": "won: RN1 \u2014 Pittsburgh Pirates vs. San Diego Padres"
     }
   ]
 }
