@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 12:46:59 (hora de Perú)
+Actualizado: 2026-08-25 12:49:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $517.68
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 12:46:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $97.68)
+**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $92.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 198 | 110 | 7 | -23.14 USD |
+| HomeRunHazard | 198 | 110 | 8 | -23.14 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 284 | 166 | 21 | -37.46 USD |
 | RN1 | 250 | 114 | 33 | -46.82 USD |
@@ -420,6 +420,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 63% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -449,4 +450,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: Team | MH Hapoel Be'er Sheva (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 51% | 5.00 | 0.8% | ✅ ganada | +4.68 |
-| AV23IUa | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
