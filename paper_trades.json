@@ -45622,8 +45622,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Juan Manuel La Serna",
     "side": "BUY",
-    "whale_usd": 15886.307176999999,
-    "whale_pct": 10.841,
+    "whale_usd": 18146.500176999998,
+    "whale_pct": 12.383,
     "whale_value_at_open": 146538.1387,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -45634,8 +45634,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667922.4321723,
-    "fills": 9
+    "last_fill_at": 1787669019.0250437,
+    "fills": 10
   },
   {
     "timestamp": 1787663380,
@@ -46154,6 +46154,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787668807.6038375,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787669015,
+    "timestamp_added": 1787669015.5661728,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-naw-ferna-2026-08-25",
+    "title": "ITF M15 Allershausen Men: Hazem Naw vs Bruno Fernandez",
+    "outcome": "Bruno Fernandez",
+    "side": "BUY",
+    "whale_usd": 668.484,
+    "whale_pct": 0.464,
+    "whale_value_at_open": 143942.6719,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787669015.5661833,
     "fills": 1
   }
 ]
