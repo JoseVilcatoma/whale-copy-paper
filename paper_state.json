@@ -1,5 +1,5 @@
 {
-  "bankroll": 544.640680752684,
+  "bankroll": 539.5426807526841,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8695,6 +8695,11 @@
       "timestamp": 1787626764.7722123,
       "bankroll": 544.64,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Daniel Altmaier vs Francisco Comesana"
+    },
+    {
+      "timestamp": 1787627071.9063723,
+      "bankroll": 539.54,
+      "event": "lost: SDTrading \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 7.5"
     }
   ]
 }
