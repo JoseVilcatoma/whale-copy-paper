@@ -36938,8 +36938,8 @@
     "title": "Tampa Bay Rays vs. Detroit Tigers: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2581.9979000000003,
-    "whale_pct": 3.909,
+    "whale_usd": 3481.9979000000003,
+    "whale_pct": 5.272,
     "whale_value_at_open": 66047.5236,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -36950,8 +36950,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787577147.2845757,
-    "fills": 2
+    "last_fill_at": 1787618254.381486,
+    "fills": 3
   },
   {
     "timestamp": 1787577363,
