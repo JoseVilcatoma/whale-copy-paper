@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:16:24 (hora de Perú)
+Actualizado: 2026-08-25 13:18:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.76
@@ -423,7 +423,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | 💰 vendida anticipada | -0.70 |
-| HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 63% | 5.00 | 3.1% | ⏳ pendiente | — |
