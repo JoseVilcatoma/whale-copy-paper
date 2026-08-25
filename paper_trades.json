@@ -45048,5 +45048,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787649192.026313,
     "fills": 3
+  },
+  {
+    "timestamp": 1787649365,
+    "timestamp_added": 1787649366.2535408,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "kor-seo-bch-2026-08-25-spread-home-1pt5",
+    "title": "Spread: FC Seoul (-1.5)",
+    "outcome": "FC Seoul",
+    "side": "BUY",
+    "whale_usd": 5568.0774,
+    "whale_pct": 8.47,
+    "whale_value_at_open": 65738.0211,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787649366.2535563,
+    "fills": 1
   }
 ]
