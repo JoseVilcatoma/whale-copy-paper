@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.3331543393442,
+  "bankroll": 560.479793514602,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8520,6 +8520,11 @@
       "timestamp": 1787622766.5393906,
       "bankroll": 560.33,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Eva Vedder vs Bianca Andreescu"
+    },
+    {
+      "timestamp": 1787622892.7410638,
+      "bankroll": 560.48,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Martin Damm vs Abedallah Shelbayh"
     }
   ]
 }
