@@ -44792,8 +44792,8 @@
     "title": "ITF W35 Trieste Women: Verena Meliss vs Camilla Zanolini",
     "outcome": "Verena Meliss",
     "side": "BUY",
-    "whale_usd": 758.3485000000001,
-    "whale_pct": 1.456,
+    "whale_usd": 1480.1087,
+    "whale_pct": 2.843,
     "whale_value_at_open": 52070.1616,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -44804,8 +44804,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787641700.1085522,
-    "fills": 1
+    "last_fill_at": 1787648822.827377,
+    "fills": 2
   },
   {
     "timestamp": 1787642797,
@@ -44997,6 +44997,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787648696.931802,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787648742,
+    "timestamp_added": 1787648742.882321,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-drxc-foxy-2026-08-25-game2",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner",
+    "outcome": "BNK FearX Youth",
+    "side": "BUY",
+    "whale_usd": 7445.401999999999,
+    "whale_pct": 138.33,
+    "whale_value_at_open": 5382.3403,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787648742.8823347,
     "fills": 1
   }
 ]

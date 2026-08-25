@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 04:05:23 (hora de Perú)
+Actualizado: 2026-08-25 04:07:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $545.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 04:05:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $400.36)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $395.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 17 | 7 | 1 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 24 | 17 | 0 | +22.98 USD |
-| ChonkyChocolateCake | 31 | 18 | 0 | +15.33 USD |
+| ChonkyChocolateCake | 31 | 18 | 1 | +15.33 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Djdjdjekekek | 18 | 13 | 0 | +9.52 USD |
@@ -399,6 +399,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 59% | 5.00 | 138.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valencia CF vs. Real Betis Balompié: O/U | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 |  | Dota 2: PuckChamp vs Nemiga Gaming - Gam | PuckChamp (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier 2 Women: Liv Boulard vs  | Liv Boulard (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -407,7 +408,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | PuckChamp (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 85% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Brasov Women: Anastasia Preda vs | Anastasia Preda (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Trieste Women: Verena Meliss vs  | Verena Meliss (BUY) | 50% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Trieste Women: Verena Meliss vs  | Verena Meliss (BUY) | 50% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 91% | 5.00 | 4.0% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Akave Esports Black vs FUSION  | Akave Esports Black (BUY) | 84% | 5.00 | 14.5% | ⏳ pendiente | — |
 | quavoo | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -428,4 +429,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 57% | 5.00 | 2.7% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 45% | 5.00 | 2.2% | ❌ perdida | -5.14 |
 | RN1 | ITF M25 Taipei 2 Men: Kai-I Wang vs Ryot | Ryota Tanuma (BUY) | 86% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 58% | 5.00 | 2.3% | ❌ perdida | -5.11 |
