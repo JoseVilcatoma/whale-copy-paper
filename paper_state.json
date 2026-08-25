@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.5286420012569,
+  "bankroll": 510.76197533459026,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9335,6 +9335,11 @@
       "timestamp": 1787681527.234202,
       "bankroll": 507.53,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification ATP: Bernard Tomic vs Lloyd Harris (-0.70 USD)"
+    },
+    {
+      "timestamp": 1787681773.1319969,
+      "bankroll": 510.76,
+      "event": "won: ferrariChampions2026 \u2014 Kingston 2: Gijs Brouwer vs Andres Martin"
     }
   ]
 }
