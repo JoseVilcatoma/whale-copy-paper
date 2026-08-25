@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 18:31:00 (hora de Perú)
+Actualizado: 2026-08-25 18:33:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 18:31:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $16.07)
+**Capital comprometido ahora mismo:** $495.00 en 99 posiciones abiertas (disponible para nuevas apuestas: $1.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 239 | 121 | 47 | -5.33 USD |
+| HomeRunHazard | 239 | 121 | 50 | -5.33 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -444,6 +444,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Mets (-2.5) | Milwaukee Brewers (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -458,7 +461,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-8.5) | Dallas Wings (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will FC Universitario win on 2026-08-25? | Yes (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 97% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Rio Noguchi (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 |  | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -468,9 +471,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 72% | 5.00 | 5.0% | ⏳ pendiente | — |
 | SnakeBall | Will CR Brasil win on 2026-08-25? | No (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 2.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Tomas Machac (BUY) | 64% | 5.00 | 7.2% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Shuai Zhang vs Maria Tim | Maria Timofeeva (BUY) | 69% | 5.00 | 1.5% | ✅ ganada | +2.17 |
-| Sassy-Bucket | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 87.6% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: James Duckworth vs M | James Duckworth (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
