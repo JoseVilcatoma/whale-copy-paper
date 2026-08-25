@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 20:03:09 (hora de Perú)
+Actualizado: 2026-08-24 20:05:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $566.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 20:03:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $515.00 en 103 posiciones abiertas (disponible para nuevas apuestas: $51.92)
+**Capital comprometido ahora mismo:** $525.00 en 105 posiciones abiertas (disponible para nuevas apuestas: $41.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 159 | 82 | 62 | -21.11 USD |
+| HomeRunHazard | 159 | 82 | 64 | -21.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 232 | 103 | 5 | -51.15 USD |
@@ -340,7 +340,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-tjen-yastrem-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | lol-navi-fnc-2026-08-24 | SPCEXBUYER, TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-nedic-estevez-2026-08-24 | HomeRunHazard, RN1, ferrariChampions2026 |
-| atp-altmaie-comesan-2026-08-24 | Donghui, vibing123 |
+| atp-altmaie-comesan-2026-08-24 | Donghui, HomeRunHazard, vibing123 |
 | lol-gx-g2-2026-08-24-game-handicap-home-1pt5 | Gooooooollllllllll, TAIWANNUMBERONE |
 | lol-navi-fnc-2026-08-24-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER, TAIWANNUMBERONE |
 | lol-navi-fnc-2026-08-24-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER, TAIWANNUMBERONE |
@@ -393,6 +393,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Atlanta Dream (-10.5) | Atlanta Dream (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs F | Daniel Altmaier (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 4. | Over (BUY) | 60% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -421,5 +423,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Golden State Valkyries (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Trevor Svajda (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 50% | 5.00 | 36.5% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Janice Tjen (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
