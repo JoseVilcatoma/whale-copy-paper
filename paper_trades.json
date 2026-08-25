@@ -45852,5 +45852,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787666301.814693,
     "fills": 2
+  },
+  {
+    "timestamp": 1787666418,
+    "timestamp_added": 1787666419.165416,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-zandsch-vallejo-2026-08-25",
+    "title": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "whale_usd": 985.5765999999999,
+    "whale_pct": 2.773,
+    "whale_value_at_open": 35545.8795,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787666419.1654341,
+    "fills": 1
   }
 ]
