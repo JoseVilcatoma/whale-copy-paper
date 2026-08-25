@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:16:40 (hora de Perú)
+Actualizado: 2026-08-25 10:18:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.56
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:16:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $273.56)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $268.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | ferrariChampions2026 | 274 | 159 | 22 | -28.97 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 240 | 106 | 9 | -42.65 USD |
+| RN1 | 240 | 106 | 10 | -42.65 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -412,6 +412,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Javier Barranco Cosano (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 53% | 5.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Braden Shick | Clement Tabur (BUY) | 70% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -441,4 +442,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 7.6% | ✅ ganada | +1.69 |
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 8.8% | ✅ ganada | +3.98 |
