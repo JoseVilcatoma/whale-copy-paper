@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.6781680946416,
+  "bankroll": 519.2502420082736,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9280,6 +9280,16 @@
       "timestamp": 1787679887.6952145,
       "bankroll": 517.68,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Henri Squire vs David Jorda Sanchis"
+    },
+    {
+      "timestamp": 1787680829.122248,
+      "bankroll": 518.27,
+      "event": "won: RN1 \u2014 Will Xorazm Fk Urganch win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787680830.535558,
+      "bankroll": 519.25,
+      "event": "won: RN1 \u2014 ITF M15 Champaign, IL Men: Preston Stearns vs Jon Gamble"
     }
   ]
 }
