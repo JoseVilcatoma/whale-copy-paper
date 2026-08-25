@@ -1,5 +1,5 @@
 {
-  "bankroll": 546.5190071043057,
+  "bankroll": 547.7961210283563,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8925,6 +8925,11 @@
       "timestamp": 1787651675.776183,
       "bankroll": 546.52,
       "event": "venta anticipada: BrotherObama \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In (+1.16 USD)"
+    },
+    {
+      "timestamp": 1787654332.0665624,
+      "bankroll": 547.8,
+      "event": "won: 11vsldfdsgfkjgos \u2014 ITF M25 Poznan Men: Adam Kaczmarek vs Leonardo Iemmi"
     }
   ]
 }
