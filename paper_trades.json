@@ -44170,8 +44170,8 @@
     "title": "Pittsburgh Pirates vs. San Diego Padres: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 654.24,
-    "whale_pct": 0.437,
+    "whale_usd": 7991.630768999999,
+    "whale_pct": 5.333,
     "whale_value_at_open": 149844.5428,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -44182,7 +44182,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787621490.6280468,
-    "fills": 1
+    "last_fill_at": 1787621752.054512,
+    "fills": 3
   }
 ]
