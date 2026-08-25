@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:57:26 (hora de Perú)
+Actualizado: 2026-08-25 16:59:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:57:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $19.95)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $14.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 225 | 119 | 39 | -27.62 USD |
+| HomeRunHazard | 225 | 119 | 40 | -27.62 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 290 | 172 | 19 | -52.21 USD |
 | RN1 | 266 | 122 | 9 | -53.47 USD |
@@ -439,6 +439,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 60% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Luca Nardi v | Federico Cina (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 48% | 5.00 | 24.6% | ⏳ pendiente | — |
@@ -468,4 +469,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 4.2% | ✅ ganada | +0.71 |
