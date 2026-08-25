@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 12:28:10 (hora de Perú)
+Actualizado: 2026-08-25 12:30:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $524.78
-**Retorno acumulado:** +4.96%
+**Bankroll actual:** $526.44
+**Retorno acumulado:** +5.29%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 12:28:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $114.78)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $121.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,22 +77,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 9 | -25.04 USD |
+| ferrariChampions2026 | 283 | 164 | 24 | -31.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 282 | 163 | 26 | -33.60 USD |
-| RN1 | 246 | 110 | 24 | -41.66 USD |
+| RN1 | 246 | 110 | 25 | -41.66 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1756
-- **Aciertos:** 1131 (64.4%)
+- **Apuestas resueltas:** 1758
+- **Aciertos:** 1132 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,768.82
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $159.44 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,778.82
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $159.69 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 867 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 869 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 531 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 239 | 85.4% | 87.0% | -1.7 pp |
 | 95-99% (casi seguro) | 119 | 96.6% | 97.3% | -0.7 pp |
@@ -419,6 +419,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 89% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 62% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Oleksii Krutykh vs Matias Soto | Matias Soto (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -447,5 +448,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Philadelphia: Xiyu Wang vs Jessica Bouza | Jessica Bouzas Maneiro (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | FK Auda Riga vs. FK Liepaja: 1st Half O/ | Under (BUY) | 59% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Jodie Burrage (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Guiomar Maristany (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Jodie Burrage (BUY) | 59% | 5.00 | 0.7% | ❌ perdida | -5.10 |

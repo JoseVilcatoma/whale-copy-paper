@@ -1,5 +1,5 @@
 {
-  "bankroll": 524.7800780357346,
+  "bankroll": 526.4368399404966,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9200,6 +9200,16 @@
       "timestamp": 1787678637.1372118,
       "bankroll": 524.78,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori"
+    },
+    {
+      "timestamp": 1787678947.8330588,
+      "bankroll": 531.54,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany"
+    },
+    {
+      "timestamp": 1787678947.9332569,
+      "bankroll": 526.44,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany"
     }
   ]
 }
