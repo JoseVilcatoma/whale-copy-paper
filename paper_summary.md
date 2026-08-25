@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 07:47:00 (hora de Perú)
+Actualizado: 2026-08-25 07:49:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $536.88
-**Retorno acumulado:** +7.38%
+**Bankroll actual:** $540.25
+**Retorno acumulado:** +8.05%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 07:47:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $316.88)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $325.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 6 | 1 | 1 | +25.87 USD |
 | SDTrading | 24 | 17 | 3 | +22.98 USD |
-| ChonkyChocolateCake | 31 | 18 | 3 | +15.33 USD |
+| ChonkyChocolateCake | 32 | 18 | 2 | +18.70 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Djdjdjekekek | 18 | 13 | 0 | +9.52 USD |
@@ -84,14 +84,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1711
-- **Aciertos:** 1104 (64.5%)
+- **Apuestas resueltas:** 1712
+- **Aciertos:** 1105 (64.5%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,543.82
-- **ROI sobre lo apostado:** -0.52%
-- **Comisiones pagadas (taker fee):** $155.21 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,548.82
+- **ROI sobre lo apostado:** -0.48%
+- **Comisiones pagadas (taker fee):** $155.32 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -99,7 +99,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 841 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 842 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 520 | 71.3% | 67.6% | +3.8 pp |
 | 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 116 | 96.6% | 97.3% | -0.8 pp |
@@ -429,7 +429,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
 |  | Spread: FC Seoul (-1.5) | FC Seoul (BUY) | 45% | 5.00 | 8.5% | ⏳ pendiente | — |
 | BrotherObama | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 50% | 5.00 | 156.8% | 💰 vendida anticipada | +1.16 |
-| DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 59% | 5.00 | 138.3% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 59% | 5.00 | 138.3% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Valencia CF vs. Real Betis Balompié: O/U | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 |  | Dota 2: PuckChamp vs Nemiga Gaming - Gam | PuckChamp (BUY) | 66% | 5.00 | 1.2% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | ITF W35 Verbier 2 Women: Liv Boulard vs  | Liv Boulard (BUY) | 62% | 5.00 | 9.3% | ✅ ganada | +2.97 |

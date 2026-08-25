@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.8765897265586,
+  "bankroll": 540.248165997745,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8975,6 +8975,11 @@
       "timestamp": 1787661763.306558,
       "bankroll": 536.88,
       "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine"
+    },
+    {
+      "timestamp": 1787662142.2642953,
+      "bankroll": 540.25,
+      "event": "won: DoNotTailMe \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 2 Winner"
     }
   ]
 }
