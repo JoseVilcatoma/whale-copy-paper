@@ -44220,8 +44220,8 @@
     "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In",
     "outcome": "BNK FearX Youth",
     "side": "BUY",
-    "whale_usd": 6500.0,
-    "whale_pct": 143.776,
+    "whale_usd": 38337.5222,
+    "whale_pct": 848.004,
     "whale_value_at_open": 4520.9146,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -44232,8 +44232,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787622376.6606665,
-    "fills": 1
+    "last_fill_at": 1787644346.2278552,
+    "fills": 2
   },
   {
     "timestamp": 1787624567,
