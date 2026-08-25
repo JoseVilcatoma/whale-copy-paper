@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:53:45 (hora de Perú)
+Actualizado: 2026-08-25 15:55:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $506.84
-**Retorno acumulado:** +1.37%
+**Bankroll actual:** $494.61
+**Retorno acumulado:** -1.08%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:53:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $26.84)
+**Capital comprometido ahora mismo:** $475.00 en 95 posiciones abiertas (disponible para nuevas apuestas: $19.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,9 +30,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 24 | 17 | 3 | +22.98 USD |
 | TAIWANNUMBERONE | 6 | 2 | 1 | +20.79 USD |
 | ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
-| Djdjdjekekek | 19 | 13 | 2 | +14.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| Djdjdjekekek | 19 | 14 | 1 | +9.09 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
@@ -44,7 +44,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 1 | 0 | 1 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| AV23IUa | 2 | 1 | 9 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -61,6 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | quavoo | 1 | 1 | 1 | -0.98 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| AV23IUa | 2 | 2 | 8 | -2.88 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 213 | 114 | 38 | -22.37 USD |
+| HomeRunHazard | 214 | 115 | 37 | -24.41 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 288 | 169 | 20 | -41.62 USD |
+| ferrariChampions2026 | 288 | 169 | 22 | -41.62 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 36 | 29 | 4 | -73.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1826
-- **Aciertos:** 1177 (64.5%)
+- **Apuestas resueltas:** 1830
+- **Aciertos:** 1178 (64.4%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,118.82
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $164.97 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,138.82
+- **ROI sobre lo apostado:** -0.98%
+- **Comisiones pagadas (taker fee):** $165.40 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,8 +100,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 892 | 50.1% | 50.2% | -0.0 pp |
-| 60-79% | 555 | 70.3% | 67.6% | +2.6 pp |
+| 40-59% | 894 | 50.0% | 50.2% | -0.2 pp |
+| 60-79% | 557 | 70.2% | 67.6% | +2.6 pp |
 | 80-94% | 254 | 86.2% | 87.0% | -0.8 pp |
 | 95-99% (casi seguro) | 125 | 96.8% | 97.3% | -0.5 pp |
 
@@ -434,11 +434,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Cruz  | Arthur Fery (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: DOCISK vs Forsaken (BO3) - Rift Leg | Forsaken (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Tatiana Prozorova (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 3.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -450,7 +453,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
 | AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 60% | 5.00 | 23.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Luca Van Assche vs A | Aleksandar Kovacevic (BUY) | 70% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Stefanos Sak | Christopher O'Connell (BUY) | 92% | 5.00 | 2.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Stefanos Sak | Christopher O'Connell (BUY) | 92% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Francesca Jo | Francesca Jones (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -461,6 +464,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 47% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Marina Bassols Ribera (BUY) | 57% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
-| Djdjdjekekek | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 51% | 5.00 | 652.1% | 💰 vendida anticipada | +4.68 |
-| OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 83% | 5.00 | 102.0% | 💰 vendida anticipada | -0.09 |
-| HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Benjamin Bonzi (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |

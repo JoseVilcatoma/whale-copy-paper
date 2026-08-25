@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.8434546401518,
+  "bankroll": 494.6071759516272,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9570,6 +9570,26 @@
       "timestamp": 1787691025.48323,
       "bankroll": 506.84,
       "event": "won: ferrariChampions2026 \u2014 LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs"
+    },
+    {
+      "timestamp": 1787691332.9710348,
+      "bankroll": 501.75,
+      "event": "lost: AV23IUa \u2014 Winston-Salem Open: Benjamin Bonzi vs Quentin Halys"
+    },
+    {
+      "timestamp": 1787691336.7565713,
+      "bankroll": 496.61,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Benjamin Bonzi vs Quentin Halys"
+    },
+    {
+      "timestamp": 1787691341.2560883,
+      "bankroll": 491.51,
+      "event": "lost: Djdjdjekekek \u2014 Winston-Salem Open: Benjamin Bonzi vs Quentin Halys"
+    },
+    {
+      "timestamp": 1787691341.5565968,
+      "bankroll": 494.61,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Benjamin Bonzi vs Quentin Halys"
     }
   ]
 }
