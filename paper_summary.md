@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 08:55:28 (hora de Perú)
+Actualizado: 2026-08-25 08:57:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $533.70
-**Retorno acumulado:** +6.74%
+**Bankroll actual:** $528.63
+**Retorno acumulado:** +5.73%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 08:55:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $318.70)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $318.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,8 +75,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| ferrariChampions2026 | 269 | 155 | 21 | -24.11 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
+| ferrariChampions2026 | 269 | 156 | 20 | -29.19 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 239 | 106 | 1 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
@@ -84,14 +84,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1720
-- **Aciertos:** 1109 (64.5%)
+- **Apuestas resueltas:** 1721
+- **Aciertos:** 1109 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,588.82
-- **ROI sobre lo apostado:** -0.55%
-- **Comisiones pagadas (taker fee):** $156.15 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,593.82
+- **ROI sobre lo apostado:** -0.61%
+- **Comisiones pagadas (taker fee):** $156.23 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 846 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 524 | 71.2% | 67.6% | +3.6 pp |
+| 60-79% | 525 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 116 | 96.6% | 97.3% | -0.8 pp |
 
@@ -416,7 +416,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 12.0% | ✅ ganada | +1.60 |
-| ferrariChampions2026 | ITF W35 Verbier 2 Women: Karolina Kozako | Karolina Kozakova (BUY) | 70% | 5.00 | 4.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Verbier 2 Women: Karolina Kozako | Karolina Kozakova (BUY) | 70% | 5.00 | 4.6% | ❌ perdida | -5.08 |
 | SDTrading | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | NEC (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |

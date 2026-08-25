@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.7041546385595,
+  "bankroll": 528.6291546385595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9020,6 +9020,11 @@
       "timestamp": 1787665562.847619,
       "bankroll": 533.7,
       "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Alec Deckers vs Luca Potenza"
+    },
+    {
+      "timestamp": 1787666187.665917,
+      "bankroll": 528.63,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W35 Verbier 2 Women: Karolina Kozakova vs Noelia Manta"
     }
   ]
 }
