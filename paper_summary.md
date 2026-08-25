@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:35:03 (hora de Perú)
+Actualizado: 2026-08-25 13:37:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $510.76
-**Retorno acumulado:** +2.15%
+**Bankroll actual:** $514.42
+**Retorno acumulado:** +2.88%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:35:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $95.76)
+**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $114.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 200 | 111 | 12 | -25.86 USD |
+| HomeRunHazard | 201 | 111 | 12 | -25.45 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 286 | 168 | 17 | -38.01 USD |
-| RN1 | 253 | 115 | 29 | -49.77 USD |
+| ferrariChampions2026 | 287 | 168 | 16 | -37.54 USD |
+| RN1 | 255 | 115 | 27 | -47.00 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1783
-- **Aciertos:** 1146 (64.3%)
-- **Cuota promedio de entrada:** 63.6%
+- **Apuestas resueltas:** 1787
+- **Aciertos:** 1150 (64.4%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,903.82
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $161.99 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,923.82
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $162.13 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -101,9 +101,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 881 | 50.1% | 50.1% | -0.1 pp |
-| 60-79% | 539 | 70.7% | 67.6% | +3.1 pp |
-| 80-94% | 243 | 85.6% | 87.0% | -1.4 pp |
-| 95-99% (casi seguro) | 120 | 96.7% | 97.3% | -0.6 pp |
+| 60-79% | 540 | 70.7% | 67.6% | +3.1 pp |
+| 80-94% | 245 | 85.7% | 87.1% | -1.4 pp |
+| 95-99% (casi seguro) | 121 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -422,7 +422,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| AV23IUa | Winston-Salem Open: Miomir Kecmanovic vs | Miomir Kecmanovic (BUY) | 59% | 5.00 | 12.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Miomir Kecmanovic vs | Miomir Kecmanovic (BUY) | 59% | 5.00 | 14.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mia Pohankova vs Katie Vol | Katie Volynets (BUY) | 99% | 5.00 | 3.3% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 68% | 5.00 | 122.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Alina Charae | Susan Bandecchi (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -435,10 +436,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 63% | 5.00 | 3.1% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 99% | 5.00 | 1.9% | ✅ ganada | +0.05 |
 | RN1 | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Viktoria Hru | Viktoria Hruncakova (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF M25 Oldenzaal Men: Jelle Sels vs Sti | Jelle Sels (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | ITF M25 Oldenzaal Men: Jelle Sels vs Sti | Jelle Sels (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
 | RN1 | US Open, Qualification ATP: Gauthier Onc | Vitaliy Sachko (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Stoke City FC vs. Hull City AFC: O/U 2.5 | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Watford FC win on 2026-08-25? | Yes (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -451,4 +452,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Barnsley FC win on 2026-08-25? | Yes (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Al Taawoun Saudi Club vs. Al Fayha Saudi | Over (BUY) | 66% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 89% | 5.00 | 3.2% | ✅ ganada | +0.59 |
-| RN1 | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
