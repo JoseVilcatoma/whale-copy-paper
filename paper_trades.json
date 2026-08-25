@@ -50572,5 +50572,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787695496.9300342,
     "fills": 1
+  },
+  {
+    "timestamp": 1787695622,
+    "timestamp_added": 1787695623.2468648,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-kym-added-2026-08-25",
+    "title": "US Open, Qualification ATP: Jerome Kym vs Dan Added",
+    "outcome": "Jerome Kym",
+    "side": "BUY",
+    "whale_usd": 888.24,
+    "whale_pct": 0.291,
+    "whale_value_at_open": 304715.898,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787695623.246881,
+    "fills": 1
   }
 ]
