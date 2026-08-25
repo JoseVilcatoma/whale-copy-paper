@@ -48365,8 +48365,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -48406,8 +48406,8 @@
     "title": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova",
     "outcome": "Martyna Kubka",
     "side": "BUY",
-    "whale_usd": 1357.6000000000001,
-    "whale_pct": 0.78,
+    "whale_usd": 3030.6012,
+    "whale_pct": 1.741,
     "whale_value_at_open": 174055.8713,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -48418,8 +48418,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787682939.0331678,
-    "fills": 1
+    "last_fill_at": 1787685026.8298187,
+    "fills": 2
   },
   {
     "timestamp": 1787683211,

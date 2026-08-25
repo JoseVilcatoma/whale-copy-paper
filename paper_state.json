@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.0842089917289,
+  "bankroll": 515.131714042234,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9370,6 +9370,11 @@
       "timestamp": 1787684595.9721162,
       "bankroll": 515.08,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo"
+    },
+    {
+      "timestamp": 1787685117.4977224,
+      "bankroll": 515.13,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Mia Pohankova vs Katie Volynets"
     }
   ]
 }
