@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 08:29:03 (hora de Perú)
+Actualizado: 2026-08-25 08:31:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $531.72
-**Retorno acumulado:** +6.34%
+**Bankroll actual:** $537.25
+**Retorno acumulado:** +7.45%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 08:29:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $316.72)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $337.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,14 +22,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | swisstony | 77 | 12 | 0 | +50.64 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 52 | 20 | 1 | +39.96 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 17 | 7 | 1 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| TAIWANNUMBERONE | 6 | 1 | 1 | +25.87 USD |
 | SDTrading | 24 | 17 | 3 | +22.98 USD |
-| ChonkyChocolateCake | 32 | 19 | 1 | +13.61 USD |
+| TAIWANNUMBERONE | 6 | 2 | 0 | +20.79 USD |
+| ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Djdjdjekekek | 18 | 13 | 0 | +9.52 USD |
@@ -84,14 +84,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1715
-- **Aciertos:** 1106 (64.5%)
+- **Apuestas resueltas:** 1718
+- **Aciertos:** 1108 (64.5%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,563.82
-- **ROI sobre lo apostado:** -0.58%
-- **Comisiones pagadas (taker fee):** $155.60 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.24% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,578.82
+- **ROI sobre lo apostado:** -0.51%
+- **Comisiones pagadas (taker fee):** $155.94 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -99,8 +99,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 843 | 50.1% | 50.1% | -0.1 pp |
-| 60-79% | 522 | 71.3% | 67.6% | +3.7 pp |
+| 40-59% | 845 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 523 | 71.1% | 67.6% | +3.5 pp |
 | 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 116 | 96.6% | 97.3% | -0.8 pp |
 
@@ -407,7 +407,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 5.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 6.5% | ⏳ pendiente | — |
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 12.0% | ⏳ pendiente | — |
@@ -421,8 +421,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Emile Hudd (BUY) | 74% | 5.00 | 4.1% | ✅ ganada | +1.69 |
 |  | FK Bodø/Glimt vs. NEC: Team to Advance | FK Bodø/Glimt (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 69% | 5.00 | 1.9% | ✅ ganada | +2.17 |
-| DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 50% | 5.00 | 53.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 46% | 5.00 | 71.1% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 50% | 5.00 | 53.8% | ✅ ganada | +4.88 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 46% | 5.00 | 71.1% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Roehampton 2: Patrick Zahraj vs Patrick  | Patrick Brady (BUY) | 80% | 5.00 | 6.9% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 88% | 5.00 | 16.0% | ✅ ganada | +0.65 |
 |  | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 56% | 5.00 | 6.4% | ⏳ pendiente | — |

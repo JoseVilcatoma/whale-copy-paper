@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.7229227545017,
+  "bankroll": 537.247487971893,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8995,6 +8995,21 @@
       "timestamp": 1787663327.9627926,
       "bankroll": 531.72,
       "event": "lost: DoNotTailMe \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787664621.029127,
+      "bankroll": 526.64,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In"
+    },
+    {
+      "timestamp": 1787664625.8925614,
+      "bankroll": 532.37,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787664625.9927237,
+      "bankroll": 537.25,
+      "event": "won: DoNotTailMe \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner"
     }
   ]
 }
