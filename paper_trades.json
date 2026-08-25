@@ -44806,5 +44806,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787641700.1085522,
     "fills": 1
+  },
+  {
+    "timestamp": 1787642797,
+    "timestamp_added": 1787642797.9681563,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-preda-capeti-2026-08-25",
+    "title": "ITF W15 Brasov Women: Anastasia Preda vs Ana Maria Capeti",
+    "outcome": "Anastasia Preda",
+    "side": "BUY",
+    "whale_usd": 1510.8307,
+    "whale_pct": 2.844,
+    "whale_value_at_open": 53121.5917,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787642797.9681714,
+    "fills": 1
   }
 ]
