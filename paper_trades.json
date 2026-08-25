@@ -46922,8 +46922,8 @@
     "title": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek",
     "outcome": "Laura Samson",
     "side": "BUY",
-    "whale_usd": 6089.730178,
-    "whale_pct": 3.37,
+    "whale_usd": 8443.200178,
+    "whale_pct": 4.672,
     "whale_value_at_open": 180715.6866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -46936,8 +46936,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787676090.956271,
-    "fills": 3
+    "last_fill_at": 1787676207.9461164,
+    "fills": 4
   },
   {
     "timestamp": 1787673109,
