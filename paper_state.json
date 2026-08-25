@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.7534044432871,
+  "bankroll": 480.7323135341962,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9670,6 +9670,11 @@
       "timestamp": 1787692885.258935,
       "bankroll": 476.75,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka"
+    },
+    {
+      "timestamp": 1787693180.5274038,
+      "bankroll": 480.73,
+      "event": "won: ferrariChampions2026 \u2014 Valencia CF vs. Real Betis Balompi\u00e9: O/U 2.5"
     }
   ]
 }
