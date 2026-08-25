@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.21260955237983,
+  "bankroll": 484.1046095523798,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9635,6 +9635,11 @@
       "timestamp": 1787692072.484722,
       "bankroll": 489.21,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Keshav Chopra vs Kaylan Bigun"
+    },
+    {
+      "timestamp": 1787692256.585815,
+      "bankroll": 484.1,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: FK Bod\u00f8/Glimt (-1.5)"
     }
   ]
 }
