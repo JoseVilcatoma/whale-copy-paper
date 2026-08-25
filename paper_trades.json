@@ -48652,8 +48652,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 13644.0173,
-    "whale_pct": 6.677,
+    "whale_usd": 19354.0156,
+    "whale_pct": 9.471,
     "whale_value_at_open": 204349.5985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -48668,8 +48668,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787687283.1352003,
-    "fills": 5
+    "last_fill_at": 1787689202.7920403,
+    "fills": 8
   },
   {
     "timestamp": 1787685498,
@@ -48776,8 +48776,8 @@
     "title": "US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova",
     "outcome": "Kristina Liutova",
     "side": "BUY",
-    "whale_usd": 5327.6982,
-    "whale_pct": 2.272,
+    "whale_usd": 6258.0795,
+    "whale_pct": 2.669,
     "whale_value_at_open": 234503.137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -48788,8 +48788,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787688915.543531,
-    "fills": 3
+    "last_fill_at": 1787689153.4386828,
+    "fills": 4
   },
   {
     "timestamp": 1787686115,
@@ -49302,8 +49302,8 @@
     "title": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
     "outcome": "Daniil Glinka",
     "side": "BUY",
-    "whale_usd": 2556.0000999999997,
-    "whale_pct": 1.012,
+    "whale_usd": 8376.0044,
+    "whale_pct": 3.316,
     "whale_value_at_open": 252604.3597,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -49314,8 +49314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787688611.7918599,
-    "fills": 1
+    "last_fill_at": 1787689196.9958003,
+    "fills": 3
   },
   {
     "timestamp": 1787688765,
