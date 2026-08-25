@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:34:47 (hora de Perú)
+Actualizado: 2026-08-25 16:37:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $480.73
-**Retorno acumulado:** -3.85%
+**Bankroll actual:** $477.77
+**Retorno acumulado:** -4.45%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:34:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $25.73)
+**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $42.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 221 | 118 | 37 | -26.37 USD |
+| HomeRunHazard | 223 | 119 | 34 | -30.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 289 | 171 | 21 | -47.88 USD |
+| ferrariChampions2026 | 290 | 171 | 20 | -47.17 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 36 | 29 | 5 | -73.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1847
-- **Aciertos:** 1188 (64.3%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 1851
+- **Aciertos:** 1191 (64.3%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,223.82
-- **ROI sobre lo apostado:** -1.12%
-- **Comisiones pagadas (taker fee):** $166.86 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.69% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,243.82
+- **ROI sobre lo apostado:** -1.15%
+- **Comisiones pagadas (taker fee):** $167.10 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,9 +100,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 901 | 49.9% | 50.2% | -0.2 pp |
+| 40-59% | 902 | 49.9% | 50.2% | -0.3 pp |
 | 60-79% | 563 | 70.0% | 67.6% | +2.4 pp |
-| 80-94% | 257 | 86.4% | 87.0% | -0.6 pp |
+| 80-94% | 260 | 86.5% | 87.0% | -0.5 pp |
 | 95-99% (casi seguro) | 126 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -456,7 +456,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 4.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 4.2% | ✅ ganada | +0.71 |
 | HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 69% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |

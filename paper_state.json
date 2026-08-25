@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.7323135341962,
+  "bankroll": 477.7737835552832,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9675,6 +9675,26 @@
       "timestamp": 1787693180.5274038,
       "bankroll": 480.73,
       "event": "won: ferrariChampions2026 \u2014 Valencia CF vs. Real Betis Balompi\u00e9: O/U 2.5"
+    },
+    {
+      "timestamp": 1787693807.445737,
+      "bankroll": 481.78,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Martyna Kubka vs Annika Penickova"
+    },
+    {
+      "timestamp": 1787693808.235281,
+      "bankroll": 476.64,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Martyna Kubka vs Annika Penickova"
+    },
+    {
+      "timestamp": 1787693811.1516416,
+      "bankroll": 477.06,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Stefanos Sakellaridis vs Christopher O'Connell"
+    },
+    {
+      "timestamp": 1787693812.6307275,
+      "bankroll": 477.77,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Martyna Kubka vs Annika Penickova"
     }
   ]
 }
