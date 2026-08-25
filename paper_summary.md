@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 03:13:45 (hora de Perú)
+Actualizado: 2026-08-25 03:15:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $545.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 03:13:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $430.36)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $420.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 1 | 0 | 0 | +3.98 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | vito3corleone | 1 | 0 | 0 | +2.84 USD |
-| 11vsldfdsgfkjgos | 1 | 0 | 0 | +2.72 USD |
+| 11vsldfdsgfkjgos | 1 | 0 | 1 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -73,7 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ferrariChampions2026 | 263 | 151 | 6 | -14.23 USD |
+| ferrariChampions2026 | 263 | 151 | 7 | -14.23 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
@@ -399,6 +399,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 11vsldfdsgfkjgos | ITF M25 Poznan Men: Adam Kaczmarek vs Le | Leonardo Iemmi (BUY) | 79% | 5.00 | 40.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | PuckChamp (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 85% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Brasov Women: Anastasia Preda vs | Anastasia Preda (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Trieste Women: Verena Meliss vs  | Verena Meliss (BUY) | 50% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -427,5 +429,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 66% | 5.00 | 848.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ❌ perdida | -5.14 |
 | Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 9.8% | ❌ perdida | -5.13 |
-| HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
-| HomeRunHazard | Spread: Atlanta Dream (-10.5) | Atlanta Dream (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
