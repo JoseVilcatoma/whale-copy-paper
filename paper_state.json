@@ -1,5 +1,5 @@
 {
-  "bankroll": 564.8284774735821,
+  "bankroll": 559.7364774735821,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8385,6 +8385,11 @@
       "timestamp": 1787620090.608215,
       "bankroll": 564.83,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Roman Safiullin vs Hugo Grenier"
+    },
+    {
+      "timestamp": 1787620207.634032,
+      "bankroll": 559.74,
+      "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals: O/U 9.5"
     }
   ]
 }
