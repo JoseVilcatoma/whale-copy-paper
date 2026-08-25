@@ -1,5 +1,5 @@
 {
-  "bankroll": 581.6799910347005,
+  "bankroll": 583.5544354791449,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8305,6 +8305,11 @@
       "timestamp": 1787615716.6005125,
       "bankroll": 581.68,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Pol Martin Tiffon vs Tom Gentzsch"
+    },
+    {
+      "timestamp": 1787616330.3666914,
+      "bankroll": 583.55,
+      "event": "won: casualbet2020 \u2014 Valorant: KR\u00dc Blaze vs Looking For Laburo - Map 1 Winner"
     }
   ]
 }
