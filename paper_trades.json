@@ -45256,8 +45256,8 @@
     "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner",
     "outcome": "Kiwoom DRX Challengers",
     "side": "BUY",
-    "whale_usd": 814.4705449999999,
-    "whale_pct": 8.515,
+    "whale_usd": 5969.861145,
+    "whale_pct": 62.413,
     "whale_value_at_open": 9565.0548,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -45268,8 +45268,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787655548.5158765,
-    "fills": 1
+    "last_fill_at": 1787655737.8720584,
+    "fills": 7
   },
   {
     "timestamp": 1787655551,
@@ -45280,8 +45280,8 @@
     "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner",
     "outcome": "Kiwoom DRX Challengers",
     "side": "BUY",
-    "whale_usd": 6453.675,
-    "whale_pct": 38.772,
+    "whale_usd": 8958.6924,
+    "whale_pct": 53.821,
     "whale_value_at_open": 16645.2216,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -45294,7 +45294,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787655630.7023878,
-    "fills": 3
+    "last_fill_at": 1787655721.2773185,
+    "fills": 4
   }
 ]
