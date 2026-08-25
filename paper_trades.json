@@ -51240,8 +51240,8 @@
     "title": "Pittsburgh Pirates vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 14930.001,
-    "whale_pct": 3.443,
+    "whale_usd": 17695.476000000002,
+    "whale_pct": 4.081,
     "whale_value_at_open": 433592.2286,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -51252,8 +51252,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787700278.8382742,
-    "fills": 3
+    "last_fill_at": 1787700294.9595175,
+    "fills": 4
   },
   {
     "timestamp": 1787700231,
@@ -51304,5 +51304,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787700235.3659353,
     "fills": 2
+  },
+  {
+    "timestamp": 1787700382,
+    "timestamp_added": 1787700382.5093284,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mil-nym-2026-08-25-spread-home-2pt5",
+    "title": "Spread: New York Mets (-2.5)",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 654.342,
+    "whale_pct": 0.141,
+    "whale_value_at_open": 462657.1549,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787700382.509342,
+    "fills": 1
   }
 ]
