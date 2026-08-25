@@ -45862,8 +45862,8 @@
     "title": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 985.5765999999999,
-    "whale_pct": 2.773,
+    "whale_usd": 3057.0051710000002,
+    "whale_pct": 8.6,
     "whale_value_at_open": 35545.8795,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -45874,8 +45874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787666419.1654341,
-    "fills": 1
+    "last_fill_at": 1787674291.2189617,
+    "fills": 2
   },
   {
     "timestamp": 1787667170,
@@ -47168,8 +47168,8 @@
     "title": "Will Real Betis Balompi\u00e9 win on 2026-08-25?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 14917.77,
-    "whale_pct": 75.058,
+    "whale_usd": 18875.3607,
+    "whale_pct": 94.97,
     "whale_value_at_open": 19875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -47180,7 +47180,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787674136.9385877,
-    "fills": 2
+    "last_fill_at": 1787674199.9648535,
+    "fills": 3
   }
 ]
