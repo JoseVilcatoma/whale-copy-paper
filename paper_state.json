@@ -1,5 +1,5 @@
 {
-  "bankroll": 559.7364774735821,
+  "bankroll": 559.9081441402487,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8390,6 +8390,16 @@
       "timestamp": 1787620207.634032,
       "bankroll": 559.74,
       "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1787620331.8646936,
+      "bankroll": 565.02,
+      "event": "won: Sassy-Bucket \u2014 Colorado Rockies vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787620332.7452977,
+      "bankroll": 559.91,
+      "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals: O/U 8.5"
     }
   ]
 }
