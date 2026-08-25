@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 22:04:46 (hora de Perú)
+Actualizado: 2026-08-24 22:06:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $539.54
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 22:04:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $299.54)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $294.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,7 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 13 | 20 | 2 | -43.47 USD |
 | RN1 | 236 | 104 | 4 | -45.04 USD |
-|  | 33 | 24 | 2 | -54.80 USD |
+|  | 33 | 24 | 3 | -54.80 USD |
 
 ## Análisis general
 
@@ -396,6 +396,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Set Handicap: Jones (-1.5) vs Lamens (+1 | Jones (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 43% | 5.00 | 9.0% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 57% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 45% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -425,4 +426,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ❌ perdida | -5.12 |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ✅ ganada | +4.68 |
-| HomeRunHazard | US Open, Qualification WTA: Ekaterine Go | Ekaterine Gorgodze (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
