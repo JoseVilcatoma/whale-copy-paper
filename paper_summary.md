@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 23:50:38 (hora de Perú)
+Actualizado: 2026-08-24 23:52:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $560.68
@@ -411,7 +411,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 57% | 5.00 | 2.7% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 45% | 5.00 | 2.2% | ❌ perdida | -5.14 |
 | RN1 | ITF M25 Taipei 2 Men: Kai-I Wang vs Ryot | Ryota Tanuma (BUY) | 86% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
 | mikesports | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 84% | 5.00 | 28.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 66% | 5.00 | 143.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ⏳ pendiente | — |
