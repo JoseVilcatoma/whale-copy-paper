@@ -47312,8 +47312,8 @@
     "title": "Will Sabah FK win on 2026-08-25?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1759.5,
-    "whale_pct": 0.732,
+    "whale_usd": 2548.75,
+    "whale_pct": 1.061,
     "whale_value_at_open": 240292.4987,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -47324,8 +47324,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787675465.3377726,
-    "fills": 1
+    "last_fill_at": 1787678704.0311563,
+    "fills": 2
   },
   {
     "timestamp": 1787675691,
@@ -47569,8 +47569,8 @@
     "title": "US Open, Qualification ATP: Lorenzo Giustino vs Grigor Dimitrov",
     "outcome": "Grigor Dimitrov",
     "side": "BUY",
-    "whale_usd": 648.045,
-    "whale_pct": 0.29,
+    "whale_usd": 2226.3522,
+    "whale_pct": 0.998,
     "whale_value_at_open": 223165.1911,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -47583,8 +47583,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787677796.9458668,
-    "fills": 1
+    "last_fill_at": 1787678651.8082438,
+    "fills": 2
   },
   {
     "timestamp": 1787678020,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 12:24:05 (hora de Perú)
+Actualizado: 2026-08-25 12:26:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $524.78
@@ -422,7 +422,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 62% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Oleksii Krutykh vs Matias Soto | Matias Soto (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 73% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 42% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 58% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -432,7 +432,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Dusan Lajovic (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Braden Shick | Braden Shick (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Sabah FK win on 2026-08-25? | No (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Will Sabah FK win on 2026-08-25? | No (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: 1st  | Under (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Al Fayha Saudi Club win on 2026-08- | No (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Timofey Skat | Timofey Skatov (BUY) | 79% | 5.00 | 1.5% | ✅ ganada | +1.28 |
