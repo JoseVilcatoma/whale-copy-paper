@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 09:20:32 (hora de Perú)
+Actualizado: 2026-08-25 09:22:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.63
@@ -408,7 +408,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 72% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 72% | 5.00 | 4.5% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 59% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 46% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Daniel Masur (BUY) | 97% | 5.00 | 2.9% | ⏳ pendiente | — |

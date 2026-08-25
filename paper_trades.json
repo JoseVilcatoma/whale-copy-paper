@@ -45886,8 +45886,8 @@
     "title": "Augsburg: Kai Wehnelt vs Nick Hardt",
     "outcome": "Kai Wehnelt",
     "side": "BUY",
-    "whale_usd": 2110.6241,
-    "whale_pct": 1.624,
+    "whale_usd": 5815.6241,
+    "whale_pct": 4.475,
     "whale_value_at_open": 129963.1283,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -45900,8 +45900,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667171.202348,
-    "fills": 1
+    "last_fill_at": 1787667700.5795128,
+    "fills": 3
   },
   {
     "timestamp": 1787667429,
