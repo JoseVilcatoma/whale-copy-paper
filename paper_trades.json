@@ -50782,8 +50782,8 @@
     "title": "US Open, Qualification WTA: Sofia Costoulas vs Jennifer Ruggeri",
     "outcome": "Sofia Costoulas",
     "side": "BUY",
-    "whale_usd": 4817.1944,
-    "whale_pct": 1.448,
+    "whale_usd": 6491.107443000001,
+    "whale_pct": 1.951,
     "whale_value_at_open": 332775.7201,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -50794,8 +50794,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787696872.2206962,
-    "fills": 3
+    "last_fill_at": 1787697044.8631442,
+    "fills": 4
   },
   {
     "timestamp": 1787696525,
