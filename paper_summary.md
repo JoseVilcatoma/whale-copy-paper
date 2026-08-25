@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:00:03 (hora de Perú)
+Actualizado: 2026-08-25 10:02:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $531.06
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:00:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $286.06)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $281.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 273 | 158 | 20 | -29.59 USD |
+| ferrariChampions2026 | 273 | 158 | 21 | -29.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 239 | 106 | 8 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
@@ -410,6 +410,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Roehampton 2: Inaki Montes vs Gabi Boita | Gabi Boitan (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Allershausen Men: Edison Ambarzu | Edison Ambarzumjan (BUY) | 96% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | ITF M15 Allershausen Men: Hazem Naw vs B | Bruno Fernandez (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -439,4 +440,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 3.3% | ❌ perdida | -5.09 |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 12.0% | ✅ ganada | +1.60 |
 | ferrariChampions2026 | ITF W35 Verbier 2 Women: Karolina Kozako | Karolina Kozakova (BUY) | 70% | 5.00 | 4.6% | ❌ perdida | -5.08 |
-| SDTrading | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
