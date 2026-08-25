@@ -1,5 +1,5 @@
 {
-  "bankroll": 542.4125103062427,
+  "bankroll": 545.382026435275,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8735,6 +8735,11 @@
       "timestamp": 1787630180.0296204,
       "bankroll": 542.41,
       "event": "lost: RN1 \u2014 Monterrey Open: Clara Tauson vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1787631688.2404752,
+      "bankroll": 545.38,
+      "event": "won: HomeRunHazard \u2014 Minnesota Twins vs. Athletics: O/U 9.5"
     }
   ]
 }
