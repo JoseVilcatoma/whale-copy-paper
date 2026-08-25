@@ -50486,8 +50486,8 @@
     "title": "Colorado Rockies vs. Washington Nationals",
     "outcome": "Washington Nationals",
     "side": "BUY",
-    "whale_usd": 5285.998799999999,
-    "whale_pct": 1.892,
+    "whale_usd": 8516.000399999999,
+    "whale_pct": 3.049,
     "whale_value_at_open": 279333.5667,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -50498,8 +50498,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787695146.317048,
-    "fills": 1
+    "last_fill_at": 1787701780.1615012,
+    "fills": 2
   },
   {
     "timestamp": 1787695175,
