@@ -1,5 +1,5 @@
 {
-  "bankroll": 550.7871450739557,
+  "bankroll": 554.7148798295403,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8435,6 +8435,56 @@
       "timestamp": 1787621825.0998085,
       "bankroll": 550.79,
       "event": "lost: HomeRunHazard \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1787621944.8412116,
+      "bankroll": 554.45,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787621949.6781712,
+      "bankroll": 559.53,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787621949.973454,
+      "bankroll": 563.35,
+      "event": "won: SDTrading \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787621951.7445862,
+      "bankroll": 569.83,
+      "event": "won: HomeRunHazard \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1787621952.645182,
+      "bankroll": 564.69,
+      "event": "lost: Sassy-Bucket \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787621952.9456546,
+      "bankroll": 559.55,
+      "event": "lost: RN1 \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787621953.0459332,
+      "bankroll": 563.21,
+      "event": "won: RN1 \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787621953.1460981,
+      "bankroll": 558.08,
+      "event": "lost: Donghui \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787621953.3465035,
+      "bankroll": 559.86,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787621954.4746149,
+      "bankroll": 554.71,
+      "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 7.5"
     }
   ]
 }
