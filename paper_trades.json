@@ -45232,8 +45232,8 @@
     "title": "Roehampton 2: Patrick Zahraj vs Patrick Brady",
     "outcome": "Patrick Brady",
     "side": "BUY",
-    "whale_usd": 1520.5832719999999,
-    "whale_pct": 1.466,
+    "whale_usd": 7163.440414,
+    "whale_pct": 6.905,
     "whale_value_at_open": 103749.2286,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -45244,7 +45244,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787654310.168769,
-    "fills": 2
+    "last_fill_at": 1787654418.8369026,
+    "fills": 3
   }
 ]
