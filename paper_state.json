@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.57642947275394,
+  "bankroll": 490.48700523032977,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9595,6 +9595,31 @@
       "timestamp": 1787691455.0515254,
       "bankroll": 496.58,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Lola Radivojevic vs Kajsa Rinaldo Persson"
+    },
+    {
+      "timestamp": 1787691945.2268684,
+      "bankroll": 491.45,
+      "event": "lost: quavoo \u2014 Winston-Salem Open: Mattia Bellucci vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1787691949.6137114,
+      "bankroll": 495.43,
+      "event": "won: AV23IUa \u2014 Winston-Salem Open: Mattia Bellucci vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1787691949.7139184,
+      "bankroll": 490.29,
+      "event": "lost: ferrariChampions2026 \u2014 Winston-Salem Open: Mattia Bellucci vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1787691957.1233628,
+      "bankroll": 485.2,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Mattia Bellucci vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1787691957.2235687,
+      "bankroll": 490.49,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Mattia Bellucci vs Luciano Darderi"
     }
   ]
 }

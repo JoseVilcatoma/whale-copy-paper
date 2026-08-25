@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:04:04 (hora de Perú)
+Actualizado: 2026-08-25 16:06:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $496.58
-**Retorno acumulado:** -0.68%
+**Bankroll actual:** $490.49
+**Retorno acumulado:** -1.90%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:04:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $495.00 en 99 posiciones abiertas (disponible para nuevas apuestas: $1.58)
+**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $20.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| AV23IUa | 3 | 2 | 7 | +1.10 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
@@ -58,9 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| quavoo | 1 | 1 | 1 | -0.98 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| AV23IUa | 2 | 2 | 8 | -2.88 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -70,29 +69,30 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 215 | 115 | 39 | -22.44 USD |
+| HomeRunHazard | 216 | 116 | 37 | -22.24 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 288 | 169 | 24 | -41.62 USD |
+| ferrariChampions2026 | 288 | 170 | 23 | -46.75 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 36 | 29 | 4 | -73.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1831
-- **Aciertos:** 1179 (64.4%)
+- **Apuestas resueltas:** 1836
+- **Aciertos:** 1181 (64.3%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,143.82
-- **ROI sobre lo apostado:** -0.96%
-- **Comisiones pagadas (taker fee):** $165.48 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.85% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,168.82
+- **ROI sobre lo apostado:** -1.02%
+- **Comisiones pagadas (taker fee):** $166.07 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,8 +100,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 894 | 50.0% | 50.2% | -0.2 pp |
-| 60-79% | 558 | 70.3% | 67.6% | +2.6 pp |
+| 40-59% | 898 | 50.0% | 50.2% | -0.2 pp |
+| 60-79% | 559 | 70.1% | 67.6% | +2.5 pp |
 | 80-94% | 254 | 86.2% | 87.0% | -0.8 pp |
 | 95-99% (casi seguro) | 125 | 96.8% | 97.3% | -0.5 pp |
 
@@ -441,7 +441,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Cruz  | Arthur Fery (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Cruz  | Arthur Fery (BUY) | 91% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DOCISK vs Forsaken (BO3) - Rift Leg | Forsaken (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Tatiana Prozorova (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
