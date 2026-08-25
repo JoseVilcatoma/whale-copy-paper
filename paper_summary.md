@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 12:32:15 (hora de Perú)
+Actualizado: 2026-08-25 12:34:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $526.44
-**Retorno acumulado:** +5.29%
+**Bankroll actual:** $527.07
+**Retorno acumulado:** +5.41%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 12:32:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $106.44)
+**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $92.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,20 +79,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 196 | 109 | 9 | -25.04 USD |
 | ferrariChampions2026 | 283 | 164 | 24 | -31.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 246 | 110 | 28 | -41.66 USD |
+| RN1 | 247 | 111 | 31 | -41.04 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1758
-- **Aciertos:** 1132 (64.4%)
+- **Apuestas resueltas:** 1760
+- **Aciertos:** 1133 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,778.82
-- **ROI sobre lo apostado:** -0.63%
-- **Comisiones pagadas (taker fee):** $159.69 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,788.82
+- **ROI sobre lo apostado:** -0.62%
+- **Comisiones pagadas (taker fee):** $159.93 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 869 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 871 | 50.2% | 50.1% | +0.0 pp |
 | 60-79% | 531 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 239 | 85.4% | 87.0% | -1.7 pp |
 | 95-99% (casi seguro) | 119 | 96.6% | 97.3% | -0.7 pp |
@@ -419,8 +419,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Gauthier Onc | Gauthier Onclin (BUY) | 64% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | Will Southampton FC win on 2026-08-25? | No (BUY) | 53% | 5.00 | 4.4% | ⏳ pendiente | — |
+| RN1 | Will Watford FC win on 2026-08-25? | No (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 68% | 5.00 | 3.5% | ⏳ pendiente | — |
+| RN1 | Will Sabah FK win on 2026-08-25? | Yes (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF W35 Barueri Women: Leticia Garcia Vi | Leticia Garcia Vidal (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will Barnsley FC win on 2026-08-25? | Yes (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Barnsley FC win on 2026-08-25? | Yes (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Al Taawoun Saudi Club vs. Al Fayha Saudi | Over (BUY) | 66% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 89% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -444,8 +449,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will FK Auda Riga win on 2026-08-25? | No (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
 | vito3corleone | Will Real Betis Balompié win on 2026-08- | No (BUY) | 64% | 5.00 | 218.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Dominic Stephan Stricker vs Ma | Martin Krumich (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
-| ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Mur | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 0.4% | ✅ ganada | +0.78 |
-| RN1 | US Open, Qualification ATP: Shintaro Moc | Daniel Milavsky (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Lucie Havlic | Lucie Havlickova (BUY) | 84% | 5.00 | 1.1% | ✅ ganada | +0.91 |
-| RN1 | Philadelphia: Xiyu Wang vs Jessica Bouza | Jessica Bouzas Maneiro (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |

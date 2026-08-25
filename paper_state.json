@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.4368399404966,
+  "bankroll": 527.0664051578879,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9210,6 +9210,16 @@
       "timestamp": 1787678947.9332569,
       "bankroll": 526.44,
       "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Jodie Burrage vs Guiomar Maristany"
+    },
+    {
+      "timestamp": 1787679258.2506464,
+      "bankroll": 532.17,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky"
+    },
+    {
+      "timestamp": 1787679262.7135723,
+      "bankroll": 527.07,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky"
     }
   ]
 }
