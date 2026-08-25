@@ -45862,8 +45862,8 @@
     "title": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 17164.055168,
-    "whale_pct": 48.287,
+    "whale_usd": 17715.635168,
+    "whale_pct": 49.839,
     "whale_value_at_open": 35545.8795,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -45874,8 +45874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787680240.5926688,
-    "fills": 12
+    "last_fill_at": 1787680504.6486382,
+    "fills": 13
   },
   {
     "timestamp": 1787667170,
