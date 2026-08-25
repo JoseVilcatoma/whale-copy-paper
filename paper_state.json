@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.0675677539973,
+  "bankroll": 496.31772564873415,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9880,6 +9880,11 @@
       "timestamp": 1787699902.9994726,
       "bankroll": 496.07,
       "event": "won: HomeRunHazard \u2014 Monterrey Open: Shuai Zhang vs Maria Timofeeva"
+    },
+    {
+      "timestamp": 1787701697.8389797,
+      "bankroll": 496.32,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Darja Semenistaja vs Hayu Kinoshita"
     }
   ]
 }

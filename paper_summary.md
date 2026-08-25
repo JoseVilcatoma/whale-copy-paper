@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 18:47:27 (hora de Perú)
+Actualizado: 2026-08-25 18:49:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $496.07
-**Retorno acumulado:** -0.79%
+**Bankroll actual:** $496.32
+**Retorno acumulado:** -0.74%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 18:47:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $495.00 en 99 posiciones abiertas (disponible para nuevas apuestas: $1.07)
+**Capital comprometido ahora mismo:** $495.00 en 99 posiciones abiertas (disponible para nuevas apuestas: $1.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,13 +65,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | AV23IUa | 3 | 3 | 6 | -4.02 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| HomeRunHazard | 240 | 121 | 49 | -5.08 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 239 | 121 | 50 | -5.33 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -83,17 +83,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 271 | 123 | 3 | -43.13 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
 | ferrariChampions2026 | 293 | 176 | 12 | -63.34 USD |
-|  | 38 | 29 | 11 | -68.76 USD |
+|  | 38 | 29 | 12 | -68.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1888
-- **Aciertos:** 1218 (64.5%)
+- **Apuestas resueltas:** 1889
+- **Aciertos:** 1219 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,428.82
+- **Total apostado (suma de stakes):** $9,433.82
 - **ROI sobre lo apostado:** -0.93%
-- **Comisiones pagadas (taker fee):** $170.20 (1.81% del capital apostado)
+- **Comisiones pagadas (taker fee):** $170.22 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 918 | 50.1% | 50.2% | -0.1 pp |
 | 60-79% | 576 | 70.3% | 67.6% | +2.7 pp |
 | 80-94% | 265 | 86.0% | 87.0% | -1.0 pp |
-| 95-99% (casi seguro) | 129 | 96.9% | 97.3% | -0.4 pp |
+| 95-99% (casi seguro) | 130 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -438,12 +438,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tex-cws-2026-08-25-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | wnba-chi-conn-2026-08-25-spread-away-6pt5 | HomeRunHazard, winwin518168 |
 | wta-valdman-carle-2026-08-25 | , HomeRunHazard |
+| wta-kalieva-mladeno-2026-08-25 | , HomeRunHazard |
 | mlb-cle-laa-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -457,7 +459,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Mees Rottgering (BUY) | 81% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Elena Pridan | Elena Pridankina (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Chicago Sky vs. Connecticut Sun | Chicago Sky (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Darja Semeni | Darja Semenistaja (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Darja Semeni | Darja Semenistaja (BUY) | 95% | 5.00 | 0.8% | ✅ ganada | +0.25 |
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-8.5) | Dallas Wings (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will FC Universitario win on 2026-08-25? | Yes (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -473,4 +475,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Tomas Machac (BUY) | 64% | 5.00 | 7.2% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Shuai Zhang vs Maria Tim | Maria Timofeeva (BUY) | 69% | 5.00 | 1.5% | ✅ ganada | +2.17 |
