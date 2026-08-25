@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.8179227545018,
+  "bankroll": 531.7229227545017,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8990,6 +8990,11 @@
       "timestamp": 1787662828.885729,
       "bankroll": 536.82,
       "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Fabrizio Andaloro vs Emile Hudd"
+    },
+    {
+      "timestamp": 1787663327.9627926,
+      "bankroll": 531.72,
+      "event": "lost: DoNotTailMe \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 3 Winner"
     }
   ]
 }
