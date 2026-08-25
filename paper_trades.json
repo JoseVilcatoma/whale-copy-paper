@@ -44484,5 +44484,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787628423.671118,
     "fills": 1
+  },
+  {
+    "timestamp": 1787631912,
+    "timestamp_added": 1787631913.7662315,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "itf-turini-steiner-2026-08-25",
+    "title": "ITF W35 Trieste Women: Viola Turini vs Valentina Steiner",
+    "outcome": "Valentina Steiner",
+    "side": "BUY",
+    "whale_usd": 1811.2399990000001,
+    "whale_pct": 3.34,
+    "whale_value_at_open": 54234.0095,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787631913.766245,
+    "fills": 1
   }
 ]

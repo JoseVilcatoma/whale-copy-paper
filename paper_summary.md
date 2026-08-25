@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 23:23:53 (hora de Perú)
+Actualizado: 2026-08-24 23:25:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $545.38
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 23:23:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $325.38)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $320.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,7 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 13 | 20 | 2 | -43.47 USD |
 | RN1 | 237 | 105 | 2 | -46.52 USD |
-|  | 33 | 24 | 4 | -54.80 USD |
+|  | 33 | 24 | 5 | -54.80 USD |
 
 ## Análisis general
 
@@ -397,6 +397,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | ITF W35 Trieste Women: Viola Turini vs V | Valentina Steiner (BUY) | 57% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 50% | 5.00 | 5.1% | ⏳ pendiente | — |
 |  | Set Handicap: Valdmannova (-1.5) vs Carl | Valdmannova (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -426,4 +427,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will LASK Linz win on 2026-08-25? | Yes (BUY) | 51% | 5.00 | 12.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Washington Nationals (BUY) | 88% | 5.00 | 1.4% | ✅ ganada | +0.65 |
-| HomeRunHazard | US Open, Qualification ATP: Coleman Wong | Coleman Wong (BUY) | 96% | 5.00 | 1.6% | ✅ ganada | +0.20 |
