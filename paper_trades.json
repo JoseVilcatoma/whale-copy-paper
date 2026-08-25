@@ -48372,5 +48372,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787682614.5727675,
     "fills": 2
+  },
+  {
+    "timestamp": 1787682825,
+    "timestamp_added": 1787682826.4232411,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-kecmano-marozsa-2026-08-25",
+    "title": "Winston-Salem Open: Miomir Kecmanovic vs Fabian Marozsan",
+    "outcome": "Miomir Kecmanovic",
+    "side": "BUY",
+    "whale_usd": 24751.5,
+    "whale_pct": 12.894,
+    "whale_value_at_open": 191959.4997,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787682835.0472243,
+    "fills": 6
   }
 ]

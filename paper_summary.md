@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:32:57 (hora de Perú)
+Actualizado: 2026-08-25 13:35:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:32:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $100.76)
+**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $95.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | quavoo | 1 | 1 | 1 | -0.98 USD |
-| AV23IUa | 1 | 1 | 4 | -1.16 USD |
+| AV23IUa | 1 | 1 | 5 | -1.16 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -422,6 +422,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Winston-Salem Open: Miomir Kecmanovic vs | Miomir Kecmanovic (BUY) | 59% | 5.00 | 12.9% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mia Pohankova vs Katie Vol | Katie Volynets (BUY) | 99% | 5.00 | 3.3% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 68% | 5.00 | 122.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Alina Charae | Susan Bandecchi (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -451,4 +452,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Al Taawoun Saudi Club vs. Al Fayha Saudi | Over (BUY) | 66% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 89% | 5.00 | 3.2% | ✅ ganada | +0.59 |
 | RN1 | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
