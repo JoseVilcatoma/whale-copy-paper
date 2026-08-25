@@ -47532,5 +47532,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787677367.4468682,
     "fills": 2
+  },
+  {
+    "timestamp": 1787677529,
+    "timestamp_added": 1787677531.0549746,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-samson-zidanse-2026-08-25",
+    "title": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek",
+    "outcome": "Tamara Zidansek",
+    "side": "BUY",
+    "whale_usd": 2453.9975999999997,
+    "whale_pct": 1.145,
+    "whale_value_at_open": 214247.9539,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787677531.0549843,
+    "fills": 1
   }
 ]
