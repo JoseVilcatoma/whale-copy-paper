@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.06571649103387,
+  "bankroll": 487.1132215415389,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9760,6 +9760,11 @@
       "timestamp": 1787695811.9679873,
       "bankroll": 487.07,
       "event": "won:  \u2014 Will LASK Linz win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787696756.6703334,
+      "bankroll": 487.11,
+      "event": "won:  \u2014 FK Bod\u00f8/Glimt vs. NEC: Team to Advance"
     }
   ]
 }
