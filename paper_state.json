@@ -1,5 +1,5 @@
 {
-  "bankroll": 562.9898798295403,
+  "bankroll": 560.1348210060108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8505,6 +8505,16 @@
       "timestamp": 1787622385.7273436,
       "bankroll": 562.99,
       "event": "won: Sassy-Bucket \u2014 Texas Rangers vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787622446.5395837,
+      "bankroll": 557.86,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda"
+    },
+    {
+      "timestamp": 1787622448.6567512,
+      "bankroll": 560.13,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda"
     }
   ]
 }
