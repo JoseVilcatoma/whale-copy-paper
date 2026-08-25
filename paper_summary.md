@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:37:00 (hora de Perú)
+Actualizado: 2026-08-25 16:39:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:37:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $42.77)
+**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $37.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 223 | 119 | 34 | -30.05 USD |
+| HomeRunHazard | 223 | 119 | 35 | -30.05 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 290 | 171 | 20 | -47.17 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
@@ -436,6 +436,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Storm Hunter | Storm Hunter (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will Deportivo Madryn win on 2026-08-25? | Yes (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julia Avdeev | Katherine Sebov (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Yeon-Woo Ku  | Yeon-Woo Ku (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -465,4 +466,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 56% | 5.00 | 17.1% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 59% | 5.00 | 3.1% | ⏳ pendiente | — |
-| AV23IUa | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
