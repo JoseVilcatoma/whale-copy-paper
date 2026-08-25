@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:35:13 (hora de Perú)
+Actualizado: 2026-08-25 15:37:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $513.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:35:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $83.22)
+**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $63.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 1 | 0 | 1 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| AV23IUa | 2 | 1 | 4 | +2.21 USD |
+| AV23IUa | 2 | 1 | 7 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 211 | 112 | 38 | -14.94 USD |
+| HomeRunHazard | 211 | 112 | 39 | -14.94 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
@@ -405,6 +405,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drxc-foxy-2026-08-25-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | mlb-chc-ari-2026-08-25-total-8pt5 | SDTrading, ferrariChampions2026, texaskid |
 | atp-hassan-serna-2026-08-25 | RN1, ferrariChampions2026 |
+| mlb-bos-mia-2026-08-25 | AV23IUa, ferrariChampions2026 |
 | atp-wehnelt-hardt-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-zandsch-vallejo-2026-08-25 | AV23IUa, HomeRunHazard |
 | atp-cretu-mcdona-2026-08-24 | RN1, ferrariChampions2026 |
@@ -427,6 +428,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
+| AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 59% | 5.00 | 3.1% | ⏳ pendiente | — |
+| AV23IUa | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
+| AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 60% | 5.00 | 23.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Luca Van Assche vs A | Aleksandar Kovacevic (BUY) | 70% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Stefanos Sak | Christopher O'Connell (BUY) | 92% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -453,7 +458,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Ignac | Adam Walton (BUY) | 61% | 5.00 | 1.7% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 99% | 5.00 | 102.4% | ✅ ganada | +0.05 |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 88% | 5.00 | 0.3% | ✅ ganada | +0.65 |
-| HomeRunHazard | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 66% | 5.00 | 2.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Lola Radivoj | Lola Radivojevic (BUY) | 71% | 5.00 | 3.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 74% | 5.00 | 3.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Pedro Martinez (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
