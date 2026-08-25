@@ -48310,8 +48310,8 @@
     "title": "US Open, Qualification WTA: Alina Charaeva vs Susan Bandecchi",
     "outcome": "Susan Bandecchi",
     "side": "BUY",
-    "whale_usd": 699.1218,
-    "whale_pct": 0.434,
+    "whale_usd": 1224.1218,
+    "whale_pct": 0.759,
     "whale_value_at_open": 161188.9389,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -48322,8 +48322,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787682345.9420664,
-    "fills": 1
+    "last_fill_at": 1787683190.774334,
+    "fills": 2
   },
   {
     "timestamp": 1787682436,
@@ -48419,6 +48419,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787682939.0331678,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787683211,
+    "timestamp_added": 1787683211.5888782,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-zandsch-vallejo-2026-08-25",
+    "title": "Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo",
+    "outcome": "Botic van de Zandschulp",
+    "side": "BUY",
+    "whale_usd": 912.0600000000001,
+    "whale_pct": 0.529,
+    "whale_value_at_open": 172349.103,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787683211.588891,
     "fills": 1
   }
 ]
