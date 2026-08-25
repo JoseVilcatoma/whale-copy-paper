@@ -1,5 +1,5 @@
 {
-  "bankroll": 554.7861441402488,
+  "bankroll": 552.1035736453842,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8405,6 +8405,26 @@
       "timestamp": 1787620454.9812574,
       "bankroll": 554.79,
       "event": "lost: HomeRunHazard \u2014 Philadelphia: Mananchaya Sawangkaew vs Sloane Stephens"
+    },
+    {
+      "timestamp": 1787621007.5781877,
+      "bankroll": 557.63,
+      "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Janice Tjen vs Dayana Yastremska"
+    },
+    {
+      "timestamp": 1787621011.8483105,
+      "bankroll": 552.51,
+      "event": "lost: ferrariChampions2026 \u2014 Monterrey Open: Alycia Parks vs Petra Marcinko"
+    },
+    {
+      "timestamp": 1787621019.0252843,
+      "bankroll": 547.42,
+      "event": "lost: HomeRunHazard \u2014 Monterrey Open: Janice Tjen vs Dayana Yastremska"
+    },
+    {
+      "timestamp": 1787621019.325796,
+      "bankroll": 552.1,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Janice Tjen vs Dayana Yastremska"
     }
   ]
 }
