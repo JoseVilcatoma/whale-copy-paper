@@ -49718,8 +49718,8 @@
     "title": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh",
     "outcome": "Juan Manuel Cerundolo",
     "side": "BUY",
-    "whale_usd": 11652.100999999999,
-    "whale_pct": 3.589,
+    "whale_usd": 14604.59522,
+    "whale_pct": 4.498,
     "whale_value_at_open": 324666.0956,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -49730,8 +49730,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787693187.0625987,
-    "fills": 5
+    "last_fill_at": 1787694730.3543868,
+    "fills": 6
   },
   {
     "timestamp": 1787690746,
