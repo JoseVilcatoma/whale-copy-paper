@@ -45346,5 +45346,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787657359.5834668,
     "fills": 1
+  },
+  {
+    "timestamp": 1787657789,
+    "timestamp_added": 1787657789.9020808,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-andalor-hudd-2026-08-25",
+    "title": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd",
+    "outcome": "Emile Hudd",
+    "side": "BUY",
+    "whale_usd": 1459.9781,
+    "whale_pct": 1.143,
+    "whale_value_at_open": 127691.8995,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787657789.9020963,
+    "fills": 1
   }
 ]
