@@ -41840,8 +41840,8 @@
     "title": "Texas Rangers vs. Chicago White Sox",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 6225.1884,
-    "whale_pct": 3.05,
+    "whale_usd": 12914.186399999999,
+    "whale_pct": 6.327,
     "whale_value_at_open": 204100.4371,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -41852,8 +41852,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787615376.7819464,
-    "fills": 2
+    "last_fill_at": 1787619042.353164,
+    "fills": 3
   },
   {
     "timestamp": 1787605563,
