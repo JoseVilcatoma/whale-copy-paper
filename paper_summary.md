@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 18:22:34 (hora de Perú)
+Actualizado: 2026-08-25 18:24:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 18:22:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $56.07)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $31.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 239 | 121 | 40 | -5.33 USD |
+| HomeRunHazard | 239 | 121 | 45 | -5.33 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -437,11 +437,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-nardi-cina-2026-08-25 | , HomeRunHazard |
 | mlb-tex-cws-2026-08-25-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | wnba-chi-conn-2026-08-25-spread-away-6pt5 | HomeRunHazard, winwin518168 |
+| wta-valdman-carle-2026-08-25 | , HomeRunHazard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 81% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 55% | 5.00 | 3.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Moez Echargu | Hugo Dellien (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Mees Rottgering (BUY) | 81% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Elena Pridan | Elena Pridankina (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Chicago Sky vs. Connecticut Sun | Chicago Sky (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Darja Semeni | Darja Semenistaja (BUY) | 95% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -467,8 +473,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 57% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jerome Kym v | Jerome Kym (BUY) | 98% | 5.00 | 1.0% | ✅ ganada | +0.10 |
-| HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs HANJIN BRION | HANJIN BRION (BUY) | 45% | 5.00 | 11.4% | ⏳ pendiente | — |
-|  | Will Lyn 1896 FK win on 2026-08-26? | Yes (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 60% | 5.00 | 1.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
