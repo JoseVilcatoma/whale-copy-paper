@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 07:59:38 (hora de Perú)
+Actualizado: 2026-08-25 08:01:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $540.25
-**Retorno acumulado:** +8.05%
+**Bankroll actual:** $536.82
+**Retorno acumulado:** +7.36%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 07:59:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $325.25)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $331.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| ferrariChampions2026 | 267 | 153 | 18 | -17.13 USD |
+| ferrariChampions2026 | 268 | 154 | 16 | -20.56 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 239 | 106 | 1 | -44.52 USD |
@@ -84,14 +84,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1712
-- **Aciertos:** 1105 (64.5%)
+- **Apuestas resueltas:** 1714
+- **Aciertos:** 1106 (64.5%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,548.82
-- **ROI sobre lo apostado:** -0.48%
-- **Comisiones pagadas (taker fee):** $155.32 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,558.82
+- **ROI sobre lo apostado:** -0.52%
+- **Comisiones pagadas (taker fee):** $155.50 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -99,8 +99,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 842 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 520 | 71.3% | 67.6% | +3.8 pp |
+| 40-59% | 843 | 50.1% | 50.1% | -0.1 pp |
+| 60-79% | 521 | 71.4% | 67.6% | +3.8 pp |
 | 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 116 | 96.6% | 97.3% | -0.8 pp |
 
@@ -404,18 +404,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 4.3% | ⏳ pendiente | — |
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 8.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 12.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier 2 Women: Karolina Kozako | Karolina Kozakova (BUY) | 70% | 5.00 | 4.6% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | NEC (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Luca Potenza (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 3.5% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Constantin Bittoun Kouzmine (BUY) | 60% | 5.00 | 1.3% | ❌ perdida | -5.10 |
-| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Emile Hudd (BUY) | 74% | 5.00 | 4.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Emile Hudd (BUY) | 74% | 5.00 | 4.1% | ✅ ganada | +1.69 |
 |  | FK Bodø/Glimt vs. NEC: Team to Advance | FK Bodø/Glimt (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 69% | 5.00 | 1.9% | ✅ ganada | +2.17 |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 50% | 5.00 | 53.8% | ⏳ pendiente | — |

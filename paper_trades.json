@@ -45363,8 +45363,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -45413,8 +45413,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -45550,8 +45550,8 @@
     "title": "Roehampton 2: Alec Deckers vs Luca Potenza",
     "outcome": "Alec Deckers",
     "side": "BUY",
-    "whale_usd": 10924.650461,
-    "whale_pct": 8.637,
+    "whale_usd": 15233.846361,
+    "whale_pct": 12.045,
     "whale_value_at_open": 126479.6148,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -45562,8 +45562,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787661395.6308138,
-    "fills": 2
+    "last_fill_at": 1787662829.9505293,
+    "fills": 3
   },
   {
     "timestamp": 1787661188,
@@ -45622,8 +45622,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Juan Manuel La Serna",
     "side": "BUY",
-    "whale_usd": 3135.923452,
-    "whale_pct": 2.14,
+    "whale_usd": 6265.853577,
+    "whale_pct": 4.276,
     "whale_value_at_open": 146538.1387,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -45634,7 +45634,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787661841.4938588,
-    "fills": 2
+    "last_fill_at": 1787662844.945894,
+    "fills": 3
   }
 ]
