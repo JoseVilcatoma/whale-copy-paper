@@ -48752,8 +48752,8 @@
     "title": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
     "outcome": "Pedro Martinez",
     "side": "BUY",
-    "whale_usd": 1582.93,
-    "whale_pct": 0.675,
+    "whale_usd": 3242.9324,
+    "whale_pct": 1.383,
     "whale_value_at_open": 234503.137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -48764,8 +48764,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787685927.0149777,
-    "fills": 2
+    "last_fill_at": 1787687651.459393,
+    "fills": 3
   },
   {
     "timestamp": 1787685903,
