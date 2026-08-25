@@ -1,5 +1,5 @@
 {
-  "bankroll": 510.61373576980515,
+  "bankroll": 505.790893664542,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9555,6 +9555,16 @@
       "timestamp": 1787690651.6773665,
       "bankroll": 510.61,
       "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Adam Walton vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1787690774.5465913,
+      "bankroll": 505.54,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia: Anastasia Zakharova vs Kylie Collins"
+    },
+    {
+      "timestamp": 1787690776.8910978,
+      "bankroll": 505.79,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Anastasia Zakharova vs Kylie Collins"
     }
   ]
 }
