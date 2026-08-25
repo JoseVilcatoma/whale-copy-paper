@@ -1,5 +1,5 @@
 {
-  "bankroll": 485.2736476865303,
+  "bankroll": 476.7534044432871,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9655,6 +9655,21 @@
       "timestamp": 1787692441.0519233,
       "bankroll": 485.27,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Zsombor Piros vs Max Alcala Gurri"
+    },
+    {
+      "timestamp": 1787692877.8281891,
+      "bankroll": 480.18,
+      "event": "lost: vito3corleone \u2014 Will Real Betis Balompi\u00e9 win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787692883.451027,
+      "bankroll": 475.06,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka"
+    },
+    {
+      "timestamp": 1787692885.258935,
+      "bankroll": 476.75,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka"
     }
   ]
 }
