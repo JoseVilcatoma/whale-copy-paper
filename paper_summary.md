@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 20:36:10 (hora de Perú)
+Actualizado: 2026-08-24 20:38:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $552.10
-**Retorno acumulado:** +10.42%
+**Bankroll actual:** $550.79
+**Retorno acumulado:** +10.16%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 20:36:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $475.00 en 95 posiciones abiertas (disponible para nuevas apuestas: $77.10)
+**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $80.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,21 +75,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 259 | 147 | 8 | -11.21 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 12 | 17 | 5 | -33.00 USD |
-| HomeRunHazard | 162 | 87 | 57 | -33.91 USD |
+| Sassy-Bucket | 12 | 17 | 6 | -33.00 USD |
+| HomeRunHazard | 163 | 88 | 55 | -35.22 USD |
 | RN1 | 232 | 103 | 5 | -51.15 USD |
 |  | 32 | 24 | 3 | -59.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1603
-- **Aciertos:** 1042 (65.0%)
+- **Apuestas resueltas:** 1605
+- **Aciertos:** 1043 (65.0%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,003.82
-- **ROI sobre lo apostado:** -0.41%
-- **Comisiones pagadas (taker fee):** $143.63 (1.79% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,013.82
+- **ROI sobre lo apostado:** -0.43%
+- **Comisiones pagadas (taker fee):** $143.88 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,7 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 767 | 50.1% | 50.1% | -0.1 pp |
+| 40-59% | 769 | 50.1% | 50.1% | -0.1 pp |
 | 60-79% | 496 | 71.6% | 67.6% | +4.0 pp |
 | 80-94% | 227 | 85.5% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 113 | 96.5% | 97.3% | -0.9 pp |
@@ -376,6 +376,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-gx-g2-2026-08-24-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | atp-johnso-garin-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | wta-boisson-jauffre-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
+| mlb-min-oak-2026-08-24 | Sassy-Bucket, ferrariChampions2026 |
 | atp-cecchin-broady-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
 | mlb-bos-mia-2026-08-24-total-6pt5 | HomeRunHazard, SDTrading |
 | atp-ouden-olivier-2026-08-24 | HomeRunHazard, ferrariChampions2026 |
@@ -393,7 +394,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 5.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Atlanta Dream (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs F | Daniel Altmaier (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -417,9 +419,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Ekaterine Go | Ekaterine Gorgodze (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Los Angeles Sparks (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Alvaro Guillen Meza vs Andre | Andrew Fenty (BUY) | 86% | 5.00 | 0.4% | ✅ ganada | +0.78 |
-| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 46% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 |  | US Open, Qualification WTA: Arantxa Rus  | Teodora Kostovic (BUY) | 72% | 5.00 | 3.5% | ⏳ pendiente | — |
 | HomeRunHazard | Djere vs. Muller: Match O/U 22.5 | Under (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Minnesota Lynx (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Golden State Valkyries (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 56% | 5.00 | 0.6% | ✅ ganada | +3.82 |
