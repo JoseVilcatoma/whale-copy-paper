@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.1563947331463,
+  "bankroll": 536.8765897265586,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8960,6 +8960,21 @@
       "timestamp": 1787661523.6665914,
       "bankroll": 539.16,
       "event": "lost: ferrariChampions2026 \u2014 Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A"
+    },
+    {
+      "timestamp": 1787661762.5231757,
+      "bankroll": 539.81,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine"
+    },
+    {
+      "timestamp": 1787661762.8237484,
+      "bankroll": 541.98,
+      "event": "won:  \u2014 Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine"
+    },
+    {
+      "timestamp": 1787661763.306558,
+      "bankroll": 536.88,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine"
     }
   ]
 }

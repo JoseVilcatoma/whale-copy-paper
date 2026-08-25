@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 07:40:52 (hora de Perú)
+Actualizado: 2026-08-25 07:42:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $539.16
-**Retorno acumulado:** +7.83%
+**Bankroll actual:** $536.88
+**Retorno acumulado:** +7.38%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 07:40:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $309.16)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $321.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,24 +74,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ferrariChampions2026 | 266 | 152 | 19 | -12.68 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
+| ferrariChampions2026 | 267 | 153 | 17 | -17.13 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 239 | 106 | 1 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
-|  | 33 | 26 | 10 | -64.98 USD |
+|  | 34 | 26 | 9 | -62.81 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1708
-- **Aciertos:** 1102 (64.5%)
+- **Apuestas resueltas:** 1711
+- **Aciertos:** 1104 (64.5%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,528.82
-- **ROI sobre lo apostado:** -0.49%
-- **Comisiones pagadas (taker fee):** $155.00 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,543.82
+- **ROI sobre lo apostado:** -0.52%
+- **Comisiones pagadas (taker fee):** $155.21 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,8 +100,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 841 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 518 | 71.4% | 67.6% | +3.8 pp |
-| 80-94% | 233 | 85.4% | 87.1% | -1.7 pp |
+| 60-79% | 520 | 71.3% | 67.6% | +3.8 pp |
+| 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 116 | 96.6% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -413,14 +413,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Luca Potenza (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Constantin Bittoun Kouzmine (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Constantin Bittoun Kouzmine (BUY) | 60% | 5.00 | 1.3% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Emile Hudd (BUY) | 74% | 5.00 | 4.1% | ⏳ pendiente | — |
 |  | FK Bodø/Glimt vs. NEC: Team to Advance | FK Bodø/Glimt (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
-|  | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
+|  | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 69% | 5.00 | 1.9% | ✅ ganada | +2.17 |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 50% | 5.00 | 53.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 46% | 5.00 | 71.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Patrick Zahraj vs Patrick  | Patrick Brady (BUY) | 80% | 5.00 | 6.9% | ✅ ganada | +1.20 |
-| ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 88% | 5.00 | 16.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 88% | 5.00 | 16.0% | ✅ ganada | +0.65 |
 |  | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 56% | 5.00 | 6.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 62% | 5.00 | 56.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Hugo Grenier vs Seba | Sebastian Baez (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
