@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.31772564873415,
+  "bankroll": 498.2869791698609,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9885,6 +9885,11 @@
       "timestamp": 1787701697.8389797,
       "bankroll": 496.32,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Darja Semenistaja vs Hayu Kinoshita"
+    },
+    {
+      "timestamp": 1787702188.2114403,
+      "bankroll": 498.29,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: James Duckworth vs Mariano Navone"
     }
   ]
 }
