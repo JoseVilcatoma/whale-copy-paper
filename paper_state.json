@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.6071759516272,
+  "bankroll": 496.57642947275394,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9590,6 +9590,11 @@
       "timestamp": 1787691341.5565968,
       "bankroll": 494.61,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Benjamin Bonzi vs Quentin Halys"
+    },
+    {
+      "timestamp": 1787691455.0515254,
+      "bankroll": 496.58,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Lola Radivojevic vs Kajsa Rinaldo Persson"
     }
   ]
 }

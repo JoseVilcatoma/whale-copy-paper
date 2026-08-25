@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:55:50 (hora de Perú)
+Actualizado: 2026-08-25 15:57:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.61
-**Retorno acumulado:** -1.08%
+**Bankroll actual:** $496.58
+**Retorno acumulado:** -0.68%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:55:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $475.00 en 95 posiciones abiertas (disponible para nuevas apuestas: $19.61)
+**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $26.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 214 | 115 | 37 | -24.41 USD |
+| HomeRunHazard | 215 | 115 | 36 | -22.44 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 288 | 169 | 22 | -41.62 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
@@ -85,14 +85,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1830
-- **Aciertos:** 1178 (64.4%)
+- **Apuestas resueltas:** 1831
+- **Aciertos:** 1179 (64.4%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,138.82
-- **ROI sobre lo apostado:** -0.98%
-- **Comisiones pagadas (taker fee):** $165.40 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,143.82
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $165.48 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.85% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -101,7 +101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 894 | 50.0% | 50.2% | -0.2 pp |
-| 60-79% | 557 | 70.2% | 67.6% | +2.6 pp |
+| 60-79% | 558 | 70.3% | 67.6% | +2.6 pp |
 | 80-94% | 254 | 86.2% | 87.0% | -0.8 pp |
 | 95-99% (casi seguro) | 125 | 96.8% | 97.3% | -0.5 pp |
 
@@ -443,7 +443,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 4.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 47% | 5.00 | 7.1% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 55% | 5.00 | 1.1% | ⏳ pendiente | — |
