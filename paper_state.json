@@ -1,5 +1,5 @@
 {
-  "bankroll": 582.4080477240428,
+  "bankroll": 583.6851616480934,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8325,6 +8325,11 @@
       "timestamp": 1787618078.7848463,
       "bankroll": 582.41,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Laslo Djere vs Alexandre Muller"
+    },
+    {
+      "timestamp": 1787618457.531595,
+      "bankroll": 583.69,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: John Chin vs Benjamin Willwerth"
     }
   ]
 }
