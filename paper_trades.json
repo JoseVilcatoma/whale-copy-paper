@@ -46115,8 +46115,8 @@
     "title": "Augsburg: Facundo Mena vs Max Hans Rehberg",
     "outcome": "Max Hans Rehberg",
     "side": "BUY",
-    "whale_usd": 3343.223177,
-    "whale_pct": 2.937,
+    "whale_usd": 7822.073177,
+    "whale_pct": 6.871,
     "whale_value_at_open": 113838.0763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -46127,8 +46127,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787668724.9073834,
-    "fills": 1
+    "last_fill_at": 1787669666.6113043,
+    "fills": 2
   },
   {
     "timestamp": 1787668807,
@@ -46202,6 +46202,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787669402.8689134,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787669702,
+    "timestamp_added": 1787669702.7097595,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-ambarzu-bekeni-2026-08-25",
+    "title": "ITF M15 Allershausen Men: Edison Ambarzumjan vs Marko Bekeni",
+    "outcome": "Edison Ambarzumjan",
+    "side": "BUY",
+    "whale_usd": 1637.48,
+    "whale_pct": 1.068,
+    "whale_value_at_open": 153341.9808,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787669702.7097695,
     "fills": 1
   }
 ]
