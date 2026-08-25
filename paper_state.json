@@ -1,5 +1,5 @@
 {
-  "bankroll": 554.7148798295403,
+  "bankroll": 557.9482131628737,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8485,6 +8485,11 @@
       "timestamp": 1787621954.4746149,
       "bankroll": 554.71,
       "event": "lost: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787622137.4051845,
+      "bankroll": 557.95,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins: O/U 4.5"
     }
   ]
 }
