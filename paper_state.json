@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.8330660786646,
+  "bankroll": 542.4383737709724,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8905,6 +8905,11 @@
       "timestamp": 1787638314.5702882,
       "bankroll": 539.83,
       "event": "won: RN1 \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787638373.8096445,
+      "bankroll": 542.44,
+      "event": "won: RN1 \u2014 Pittsburgh Pirates vs. San Diego Padres: O/U 6.5"
     }
   ]
 }

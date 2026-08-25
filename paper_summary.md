@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 01:12:00 (hora de Perú)
+Actualizado: 2026-08-25 01:14:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $539.83
-**Retorno acumulado:** +7.97%
+**Bankroll actual:** $542.44
+**Retorno acumulado:** +8.49%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 01:12:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $444.83)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $452.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,20 +77,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 195 | 109 | 2 | -25.24 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 238 | 106 | 2 | -47.13 USD |
+| RN1 | 239 | 106 | 1 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 33 | 25 | 5 | -59.90 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1698
-- **Aciertos:** 1095 (64.5%)
+- **Apuestas resueltas:** 1699
+- **Aciertos:** 1096 (64.5%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,478.82
-- **ROI sobre lo apostado:** -0.48%
-- **Comisiones pagadas (taker fee):** $154.24 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,483.82
+- **ROI sobre lo apostado:** -0.44%
+- **Comisiones pagadas (taker fee):** $154.32 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -99,7 +99,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 839 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 512 | 71.3% | 67.6% | +3.7 pp |
+| 60-79% | 513 | 71.3% | 67.6% | +3.7 pp |
 | 80-94% | 232 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
 
@@ -403,7 +403,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 3.5% | ✅ ganada | +4.50 |
 | Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ✅ ganada | +6.48 |
 | Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | 💰 vendida anticipada | -5.02 |
-| RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ✅ ganada | +2.61 |
 | 11vsldfdsgfkjgos | ITF M15 Maanshan 8 Men: Vladimir Osminki | Reiya Komagata (BUY) | 64% | 5.00 | 70.8% | ⏳ pendiente | — |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 60% | 5.00 | 13.2% | ❌ perdida | -5.10 |
 |  | ITF W35 Trieste Women: Viola Turini vs V | Valentina Steiner (BUY) | 57% | 5.00 | 3.3% | ⏳ pendiente | — |
