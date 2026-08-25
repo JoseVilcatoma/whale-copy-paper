@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.13290061346333,
+  "bankroll": 482.3837949224064,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9745,6 +9745,16 @@
       "timestamp": 1787695200.3100965,
       "bankroll": 481.13,
       "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova"
+    },
+    {
+      "timestamp": 1787695503.2299974,
+      "bankroll": 481.33,
+      "event": "won: RN1 \u2014 ITF M15 Allershausen Men: Edison Ambarzumjan vs Marko Bekeni"
+    },
+    {
+      "timestamp": 1787695512.8260772,
+      "bankroll": 482.38,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Andre Ilagan vs Tristan Boyer"
     }
   ]
 }
