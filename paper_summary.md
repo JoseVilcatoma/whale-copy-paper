@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 18:26:45 (hora de Perú)
+Actualizado: 2026-08-25 18:28:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 18:26:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $26.07)
+**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $16.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 17 | 7 | 1 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 24 | 17 | 3 | +22.98 USD |
+| SDTrading | 24 | 17 | 4 | +22.98 USD |
 | TAIWANNUMBERONE | 6 | 2 | 2 | +20.79 USD |
 | ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -71,7 +71,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| HomeRunHazard | 239 | 121 | 46 | -5.33 USD |
+| HomeRunHazard | 239 | 121 | 47 | -5.33 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -438,11 +438,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tex-cws-2026-08-25-total-7pt5 | HomeRunHazard, Sassy-Bucket |
 | wnba-chi-conn-2026-08-25-spread-away-6pt5 | HomeRunHazard, winwin518168 |
 | wta-valdman-carle-2026-08-25 | , HomeRunHazard |
+| mlb-cle-laa-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Mets (-2.5) | Milwaukee Brewers (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 81% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -471,5 +474,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 87.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: James Duckworth vs M | James Duckworth (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
-|  | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 57% | 5.00 | 2.9% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
