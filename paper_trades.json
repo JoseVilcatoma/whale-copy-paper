@@ -45708,5 +45708,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787664075.5789707,
     "fills": 1
+  },
+  {
+    "timestamp": 1787664664,
+    "timestamp_added": 1787664665.0869372,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-perot-brunold-2026-08-25",
+    "title": "Augsburg: Raphael Perot vs Mika Brunold",
+    "outcome": "Mika Brunold",
+    "side": "BUY",
+    "whale_usd": 1095.73,
+    "whale_pct": 0.892,
+    "whale_value_at_open": 122883.6842,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787664665.0869493,
+    "fills": 1
   }
 ]
