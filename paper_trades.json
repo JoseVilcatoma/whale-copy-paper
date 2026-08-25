@@ -50524,5 +50524,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787695175.9106455,
     "fills": 1
+  },
+  {
+    "timestamp": 1787695388,
+    "timestamp_added": 1787695389.129091,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kt-bro2-2026-08-26-game-handicap-away-1pt5",
+    "title": "Game Handicap: KT (-1.5) vs HANJIN BRION (+1.5)",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "whale_usd": 1490.9224,
+    "whale_pct": 11.433,
+    "whale_value_at_open": 13040.7661,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787695389.1291084,
+    "fills": 1
   }
 ]
