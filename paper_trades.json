@@ -45988,8 +45988,8 @@
     "title": "ITF W15 Torello Women: Alice Gillan vs Esther Lopez Alcaraz",
     "outcome": "Esther Lopez Alcaraz",
     "side": "BUY",
-    "whale_usd": 1587.3570560000003,
-    "whale_pct": 1.038,
+    "whale_usd": 2520.6288560000003,
+    "whale_pct": 1.648,
     "whale_value_at_open": 152920.1083,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -46000,8 +46000,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787668025.8201947,
-    "fills": 2
+    "last_fill_at": 1787668149.9387622,
+    "fills": 3
   },
   {
     "timestamp": 1787668065,
@@ -46053,6 +46053,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787668081.7789643,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787668169,
+    "timestamp_added": 1787668169.6278524,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-gillan-alcaraz-2026-08-25",
+    "title": "ITF W15 Torello Women: Alice Gillan vs Esther Lopez Alcaraz",
+    "outcome": "Alice Gillan",
+    "side": "BUY",
+    "whale_usd": 663.40944,
+    "whale_pct": 0.466,
+    "whale_value_at_open": 142293.9907,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787668169.6278656,
     "fills": 1
   }
 ]
