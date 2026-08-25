@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.5999067175548,
+  "bankroll": 508.09874576984237,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9455,6 +9455,26 @@
       "timestamp": 1787687291.0098734,
       "bankroll": 507.6,
       "event": "lost: RN1 \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: Team to Advance"
+    },
+    {
+      "timestamp": 1787687576.8099875,
+      "bankroll": 506.35,
+      "event": "venta anticipada: OOOwhyOOO \u2014 Kingston 2: Keshav Chopra vs Kaylan Bigun (-1.25 USD)"
+    },
+    {
+      "timestamp": 1787687592.909051,
+      "bankroll": 501.28,
+      "event": "lost:  \u2014 US Open, Qualification WTA: Arantxa Rus vs Teodora Kostovic"
+    },
+    {
+      "timestamp": 1787687596.7337909,
+      "bankroll": 502.13,
+      "event": "won:  \u2014 US Open, Qualification ATP: Arthur Gea vs Sumit Nagal"
+    },
+    {
+      "timestamp": 1787687605.3613677,
+      "bankroll": 508.1,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Arantxa Rus vs Teodora Kostovic"
     }
   ]
 }

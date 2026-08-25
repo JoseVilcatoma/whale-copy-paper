@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:51:30 (hora de Perú)
+Actualizado: 2026-08-25 14:53:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $507.60
-**Retorno acumulado:** +1.52%
+**Bankroll actual:** $508.10
+**Retorno acumulado:** +1.62%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:51:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $67.60)
+**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $78.10)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,13 +41,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
-| HVAB | 7 | 2 | 2 | +3.08 USD |
 | vito3corleone | 1 | 0 | 1 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
+| HVAB | 7 | 3 | 1 | +1.83 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -75,24 +75,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| HomeRunHazard | 207 | 111 | 32 | -14.32 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 206 | 111 | 31 | -20.29 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
 | RN1 | 262 | 119 | 16 | -50.99 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
-|  | 35 | 28 | 6 | -69.26 USD |
+|  | 36 | 29 | 4 | -73.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1806
-- **Aciertos:** 1163 (64.4%)
+- **Apuestas resueltas:** 1809
+- **Aciertos:** 1165 (64.4%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,018.82
-- **ROI sobre lo apostado:** -0.81%
-- **Comisiones pagadas (taker fee):** $163.59 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,033.82
+- **ROI sobre lo apostado:** -0.79%
+- **Comisiones pagadas (taker fee):** $163.83 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,9 +100,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 887 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 548 | 70.8% | 67.7% | +3.1 pp |
-| 80-94% | 248 | 85.9% | 87.1% | -1.2 pp |
+| 40-59% | 888 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 549 | 70.7% | 67.7% | +3.0 pp |
+| 80-94% | 249 | 85.9% | 87.1% | -1.1 pp |
 | 95-99% (casi seguro) | 123 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -425,8 +425,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Benjamin Bonzi (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
-| OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 80% | 5.00 | 51.4% | ⏳ pendiente | — |
+| OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 80% | 5.00 | 51.4% | 💰 vendida anticipada | -1.25 |
 | Djdjdjekekek | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 58% | 5.00 | 262.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Matthew Forbes | Aidan Mayo (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -453,5 +455,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Suzan Lamens | Suzan Lamens (BUY) | 79% | 5.00 | 1.1% | ✅ ganada | +1.28 |
 | HomeRunHazard | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 82% | 5.00 | 4.9% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Miomir Kecmanovic vs | Miomir Kecmanovic (BUY) | 59% | 5.00 | 14.3% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Mia Pohankova vs Katie Vol | Katie Volynets (BUY) | 99% | 5.00 | 3.3% | ✅ ganada | +0.05 |
