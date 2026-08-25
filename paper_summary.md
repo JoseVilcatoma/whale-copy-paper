@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:41:23 (hora de Perú)
+Actualizado: 2026-08-25 10:43:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $538.16
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:41:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $223.16)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $218.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 275 | 160 | 24 | -30.11 USD |
+| ferrariChampions2026 | 275 | 160 | 25 | -30.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 241 | 106 | 16 | -36.92 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
@@ -413,10 +413,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open, Qualification WTA: Elizabeth Ma | Elizabeth Mandlik (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia: Xiyu Wang vs Jessica Bouza | Xiyu Wang (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Elizabeth Ma | Elizabeth Mandlik (BUY) | 85% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Champaign, IL Men: Preston Stear | Preston Stearns (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 64% | 5.00 | 7.4% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 64% | 5.00 | 17.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sabah FK vs. MH Hapoel Be'er Sheva: O/U  | Under (BUY) | 46% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Gijs Brouwer vs Andres Marti | Andres Martin (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Xorazm Fk Urganch win on 2026-08-25 | No (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -427,7 +428,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: PFK Dinamo Samarqand (-1.5) | Pakhtakor (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Alejandro Garcia Carbajal (BUY) | 82% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Javier Barranco Cosano (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 53% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 53% | 5.00 | 11.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 51% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Braden Shick | Clement Tabur (BUY) | 70% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Braden Shick | Clement Tabur (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -442,4 +443,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Alice Gillan (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 152.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Niels McDonald (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
-| RN1 | ITF W15 Torello Women: Alice Gillan vs E | Esther Lopez Alcaraz (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |

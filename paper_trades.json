@@ -46359,8 +46359,8 @@
     "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
     "outcome": "Kei Nishikori",
     "side": "BUY",
-    "whale_usd": 5963.2716,
-    "whale_pct": 4.018,
+    "whale_usd": 16403.054799999998,
+    "whale_pct": 11.053,
     "whale_value_at_open": 148399.5927,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -46373,8 +46373,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787670900.0916226,
-    "fills": 2
+    "last_fill_at": 1787672607.798803,
+    "fills": 3
   },
   {
     "timestamp": 1787671010,
@@ -46625,8 +46625,8 @@
     "title": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys",
     "outcome": "Quentin Halys",
     "side": "BUY",
-    "whale_usd": 6739.020266,
-    "whale_pct": 7.375,
+    "whale_usd": 16008.755130000001,
+    "whale_pct": 17.519,
     "whale_value_at_open": 91380.3367,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -46637,8 +46637,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787672291.7220984,
-    "fills": 4
+    "last_fill_at": 1787672598.876125,
+    "fills": 5
   },
   {
     "timestamp": 1787672153,
@@ -46699,8 +46699,8 @@
     "title": "US Open, Qualification WTA: Elizabeth Mandlik vs Kristina Penickova",
     "outcome": "Elizabeth Mandlik",
     "side": "BUY",
-    "whale_usd": 2067.4552999999996,
-    "whale_pct": 1.174,
+    "whale_usd": 3908.4552999999996,
+    "whale_pct": 2.22,
     "whale_value_at_open": 176031.6983,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -46711,7 +46711,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787672375.5980277,
+    "last_fill_at": 1787672564.681825,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787672583,
+    "timestamp_added": 1787672584.5775192,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-wan-maneiro-2026-08-25",
+    "title": "Philadelphia: Xiyu Wang vs Jessica Bouzas Maneiro",
+    "outcome": "Xiyu Wang",
+    "side": "BUY",
+    "whale_usd": 1171.59,
+    "whale_pct": 0.695,
+    "whale_value_at_open": 168553.9329,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787672584.57753,
     "fills": 1
   }
 ]
