@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.74403471767545,
+  "bankroll": 500.15428185149403,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9845,6 +9845,21 @@
       "timestamp": 1787699077.6347532,
       "bankroll": 489.74,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Jerome Kym vs Dan Added"
+    },
+    {
+      "timestamp": 1787699270.7945497,
+      "bankroll": 493.72,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Katie Swan vs Katrina Scott"
+    },
+    {
+      "timestamp": 1787699271.5135643,
+      "bankroll": 498.8,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Storm Hunter vs Maddison Inglis"
+    },
+    {
+      "timestamp": 1787699271.7738607,
+      "bankroll": 500.15,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Mario Gonzalez Fernandez vs Mitchell Krueger"
     }
   ]
 }
