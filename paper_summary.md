@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:02:06 (hora de Perú)
+Actualizado: 2026-08-25 10:04:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $531.06
-**Retorno acumulado:** +6.21%
+**Bankroll actual:** $533.56
+**Retorno acumulado:** +6.71%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:02:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $281.06)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $298.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,22 +77,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 273 | 158 | 21 | -29.59 USD |
+| ferrariChampions2026 | 274 | 159 | 19 | -28.97 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 239 | 106 | 8 | -44.52 USD |
+| RN1 | 240 | 106 | 7 | -42.65 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1730
-- **Aciertos:** 1115 (64.5%)
+- **Apuestas resueltas:** 1733
+- **Aciertos:** 1117 (64.5%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,638.82
-- **ROI sobre lo apostado:** -0.58%
-- **Comisiones pagadas (taker fee):** $157.08 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.24% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,653.82
+- **ROI sobre lo apostado:** -0.55%
+- **Comisiones pagadas (taker fee):** $157.39 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,8 +100,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 852 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 527 | 71.0% | 67.6% | +3.4 pp |
+| 40-59% | 854 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 528 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 117 | 96.6% | 97.3% | -0.7 pp |
 
@@ -424,12 +424,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 55% | 5.00 | 6.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 72% | 5.00 | 4.5% | ⏳ pendiente | — |
+| RN1 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 72% | 5.00 | 4.5% | ✅ ganada | +1.87 |
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 59% | 5.00 | 2.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 46% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 46% | 5.00 | 1.1% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Daniel Masur (BUY) | 97% | 5.00 | 2.9% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Benjamin Hassan (BUY) | 54% | 5.00 | 15.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Nick Hardt (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Nick Hardt (BUY) | 57% | 5.00 | 1.5% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 61% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 7.6% | ✅ ganada | +1.69 |
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |

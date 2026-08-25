@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.0581994402227,
+  "bankroll": 533.5592091020584,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9070,6 +9070,21 @@
       "timestamp": 1787669623.5072134,
       "bankroll": 531.06,
       "event": "won: quavoo \u2014 KBO: Lotte Giants vs. Kia Tigers"
+    },
+    {
+      "timestamp": 1787670247.8172476,
+      "bankroll": 525.95,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Kai Wehnelt vs Nick Hardt"
+    },
+    {
+      "timestamp": 1787670248.017615,
+      "bankroll": 531.68,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Kai Wehnelt vs Nick Hardt"
+    },
+    {
+      "timestamp": 1787670248.4208045,
+      "bankroll": 533.56,
+      "event": "won: RN1 \u2014 Augsburg: Kai Wehnelt vs Nick Hardt"
     }
   ]
 }
