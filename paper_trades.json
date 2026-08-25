@@ -50596,5 +50596,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787695623.246881,
     "fills": 1
+  },
+  {
+    "timestamp": 1787695770,
+    "timestamp_added": 1787695770.593617,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-vidmano-birrell-2026-08-25",
+    "title": "Monterrey Open: Darja Vidmanova vs Kimberly Birrell",
+    "outcome": "Darja Vidmanova",
+    "side": "BUY",
+    "whale_usd": 895.0524,
+    "whale_pct": 0.292,
+    "whale_value_at_open": 306066.9178,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787695770.5936317,
+    "fills": 1
   }
 ]
