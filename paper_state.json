@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.9139401809634,
+  "bankroll": 531.0581994402227,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9065,6 +9065,11 @@
       "timestamp": 1787668745.7614088,
       "bankroll": 526.91,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Raphael Perot vs Mika Brunold"
+    },
+    {
+      "timestamp": 1787669623.5072134,
+      "bankroll": 531.06,
+      "event": "won: quavoo \u2014 KBO: Lotte Giants vs. Kia Tigers"
     }
   ]
 }
