@@ -44950,5 +44950,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787647976.4942422,
     "fills": 1
+  },
+  {
+    "timestamp": 1787648168,
+    "timestamp_added": 1787648169.411447,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "dota2-pckcp-nemiga-2026-08-25-game2",
+    "title": "Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner",
+    "outcome": "PuckChamp",
+    "side": "BUY",
+    "whale_usd": 788.1673000000001,
+    "whale_pct": 1.221,
+    "whale_value_at_open": 64527.3066,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787648169.4114616,
+    "fills": 1
   }
 ]
