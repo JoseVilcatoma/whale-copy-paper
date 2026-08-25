@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 22:21:18 (hora de Perú)
+Actualizado: 2026-08-24 22:23:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $540.38
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 22:21:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $300.38)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $295.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ferrariChampions2026 | 259 | 147 | 9 | -11.21 USD |
+| ferrariChampions2026 | 259 | 147 | 10 | -11.21 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 184 | 101 | 21 | -28.73 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
@@ -396,6 +396,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 50% | 5.00 | 5.1% | ⏳ pendiente | — |
 |  | Set Handicap: Valdmannova (-1.5) vs Carl | Valdmannova (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | Set Handicap: Jones (-1.5) vs Lamens (+1 | Jones (BUY) | 49% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 43% | 5.00 | 9.0% | ⏳ pendiente | — |
@@ -425,4 +426,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Washington Nationals (BUY) | 88% | 5.00 | 1.4% | ✅ ganada | +0.65 |
 | HomeRunHazard | US Open, Qualification ATP: Coleman Wong | Coleman Wong (BUY) | 96% | 5.00 | 1.6% | ✅ ganada | +0.20 |
 | Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ❌ perdida | -5.12 |
-| HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ❌ perdida | -5.14 |

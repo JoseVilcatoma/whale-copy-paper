@@ -44432,5 +44432,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787627390.6441336,
     "fills": 1
+  },
+  {
+    "timestamp": 1787628139,
+    "timestamp_added": 1787628140.306914,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-cin-sf-2026-08-24-total-7pt5",
+    "title": "Cincinnati Reds vs. San Francisco Giants: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 10968.630399999998,
+    "whale_pct": 5.089,
+    "whale_value_at_open": 215542.999,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787628158.469654,
+    "fills": 4
   }
 ]
