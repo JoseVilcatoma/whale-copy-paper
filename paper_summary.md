@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:19:44 (hora de Perú)
+Actualizado: 2026-08-25 11:21:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.30
@@ -431,7 +431,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Jodie Burrage (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Guiomar Maristany (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 56% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 60% | 5.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 60% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 84% | 5.00 | 12.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: PCIFIC  vs SU Esports (BO5) - TCL P | SU Esports (BUY) | 82% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 52% | 5.00 | 12.5% | ⏳ pendiente | — |
