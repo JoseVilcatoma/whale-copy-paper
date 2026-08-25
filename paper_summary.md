@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:27:53 (hora de Perú)
+Actualizado: 2026-08-25 11:29:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.30
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:27:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $132.30)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $127.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 277 | 162 | 32 | -34.82 USD |
-| RN1 | 242 | 107 | 24 | -38.07 USD |
+| RN1 | 242 | 107 | 25 | -38.07 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -416,9 +416,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: 1st  | Under (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Al Fayha Saudi Club win on 2026-08- | No (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Timofey Skat | Timofey Skatov (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will FK Auda Riga win on 2026-08-25? | No (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
 | vito3corleone | Will Real Betis Balompié win on 2026-08- | No (BUY) | 64% | 5.00 | 218.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Dominic Stephan Stricker vs Ma | Martin Krumich (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -445,4 +446,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 64% | 5.00 | 29.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sabah FK vs. MH Hapoel Be'er Sheva: O/U  | Under (BUY) | 46% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Gijs Brouwer vs Andres Marti | Andres Martin (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Will Xorazm Fk Urganch win on 2026-08-25 | No (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |

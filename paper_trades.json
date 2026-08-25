@@ -47216,8 +47216,8 @@
     "title": "US Open, Qualification WTA: Janae Preston vs Nao Hibino",
     "outcome": "Nao Hibino",
     "side": "BUY",
-    "whale_usd": 2697.368475,
-    "whale_pct": 1.368,
+    "whale_usd": 4277.368475,
+    "whale_pct": 2.17,
     "whale_value_at_open": 197123.0602,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -47228,8 +47228,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787674454.7926528,
-    "fills": 3
+    "last_fill_at": 1787675318.3483326,
+    "fills": 4
   },
   {
     "timestamp": 1787674547,
@@ -47277,6 +47277,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787674660.6557462,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787675281,
+    "timestamp_added": 1787675281.649007,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "ucl-sf-hbs-2026-08-25-first-half-total-1pt5",
+    "title": "Sabah FK vs. MH Hapoel Be'er Sheva: 1st Half O/U 1.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1345.584453,
+    "whale_pct": 0.563,
+    "whale_value_at_open": 238980.7527,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787675281.6490247,
     "fills": 1
   }
 ]
