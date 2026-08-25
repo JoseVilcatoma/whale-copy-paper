@@ -45574,8 +45574,8 @@
     "title": "Augsburg: Petr Brunclik vs Daniel Masur",
     "outcome": "Petr Brunclik",
     "side": "BUY",
-    "whale_usd": 1398.0288,
-    "whale_pct": 0.968,
+    "whale_usd": 4822.3588,
+    "whale_pct": 3.338,
     "whale_value_at_open": 144450.5972,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -45586,8 +45586,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787661188.8179915,
-    "fills": 1
+    "last_fill_at": 1787662641.4108925,
+    "fills": 2
   },
   {
     "timestamp": 1787661482,
