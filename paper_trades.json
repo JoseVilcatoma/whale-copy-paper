@@ -45622,8 +45622,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Juan Manuel La Serna",
     "side": "BUY",
-    "whale_usd": 14728.068221,
-    "whale_pct": 10.051,
+    "whale_usd": 15886.307176999999,
+    "whale_pct": 10.841,
     "whale_value_at_open": 146538.1387,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -45634,8 +45634,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787666592.3395548,
-    "fills": 8
+    "last_fill_at": 1787667922.4321723,
+    "fills": 9
   },
   {
     "timestamp": 1787663380,
@@ -45790,8 +45790,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Benjamin Hassan",
     "side": "BUY",
-    "whale_usd": 17905.566524,
-    "whale_pct": 13.057,
+    "whale_usd": 21005.709978000003,
+    "whale_pct": 15.318,
     "whale_value_at_open": 137134.2227,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -45802,8 +45802,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667798.889864,
-    "fills": 6
+    "last_fill_at": 1787667983.7432091,
+    "fills": 8
   },
   {
     "timestamp": 1787665906,
@@ -45912,8 +45912,8 @@
     "title": "Augsburg: Cezar Cretu vs Niels McDonald",
     "outcome": "Cezar Cretu",
     "side": "BUY",
-    "whale_usd": 3256.2000000000003,
-    "whale_pct": 2.386,
+    "whale_usd": 6151.799999999999,
+    "whale_pct": 4.508,
     "whale_value_at_open": 136461.0683,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -45924,8 +45924,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667430.5189512,
-    "fills": 1
+    "last_fill_at": 1787667903.6521766,
+    "fills": 3
   },
   {
     "timestamp": 1787667493,
@@ -45962,8 +45962,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Juan Manuel La Serna",
     "side": "BUY",
-    "whale_usd": 2291.6475,
-    "whale_pct": 1.554,
+    "whale_usd": 3714.5635,
+    "whale_pct": 2.519,
     "whale_value_at_open": 147488.721,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -45976,7 +45976,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667844.0959244,
-    "fills": 1
+    "last_fill_at": 1787667994.1086805,
+    "fills": 2
   }
 ]

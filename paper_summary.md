@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 09:24:46 (hora de Perú)
+Actualizado: 2026-08-25 09:26:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.63
@@ -407,21 +407,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
+| RN1 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 55% | 5.00 | 4.5% | ⏳ pendiente | — |
 | RN1 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 72% | 5.00 | 4.5% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 59% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 46% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Daniel Masur (BUY) | 97% | 5.00 | 2.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Benjamin Hassan (BUY) | 54% | 5.00 | 13.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Benjamin Hassan (BUY) | 54% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Nick Hardt (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 61% | 5.00 | 6.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 7.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 8.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 10.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 10.8% | ⏳ pendiente | — |
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 12.0% | ✅ ganada | +1.60 |
