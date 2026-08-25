@@ -49810,5 +49810,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787690797.1150095,
     "fills": 1
+  },
+  {
+    "timestamp": 1787691119,
+    "timestamp_added": 1787691119.6601098,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-cerund-suresh-2026-08-25",
+    "title": "Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh",
+    "outcome": "Juan Manuel Cerundolo",
+    "side": "BUY",
+    "whale_usd": 543.7445,
+    "whale_pct": 0.16,
+    "whale_value_at_open": 339284.6936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787691119.6601198,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787691155,
+    "timestamp_added": 1787691156.363352,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-collign-hijikat-2026-08-25",
+    "title": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
+    "outcome": "Rinky Hijikata",
+    "side": "BUY",
+    "whale_usd": 2811.254318,
+    "whale_pct": 0.915,
+    "whale_value_at_open": 307297.8372,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787691156.3633645,
+    "fills": 1
   }
 ]

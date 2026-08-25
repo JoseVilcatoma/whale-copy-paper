@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:51:42 (hora de Perú)
+Actualizado: 2026-08-25 15:53:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.84
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:51:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $36.84)
+**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $26.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,7 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 213 | 114 | 38 | -22.37 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 288 | 169 | 18 | -41.62 USD |
+| ferrariChampions2026 | 288 | 169 | 20 | -41.62 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 36 | 29 | 4 | -73.49 USD |
@@ -428,11 +428,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-gaston-justo-2026-08-25 | Djdjdjekekek, HomeRunHazard |
 | mlb-phi-sea-2026-08-25-total-8pt5 | AV23IUa, HomeRunHazard |
 | atp-collign-hijikat-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
+| atp-cerund-suresh-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -461,5 +464,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 51% | 5.00 | 652.1% | 💰 vendida anticipada | +4.68 |
 | OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 83% | 5.00 | 102.0% | 💰 vendida anticipada | -0.09 |
 | HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Benjamin Bonzi (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
