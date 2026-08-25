@@ -45790,8 +45790,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Benjamin Hassan",
     "side": "BUY",
-    "whale_usd": 16523.289524,
-    "whale_pct": 12.049,
+    "whale_usd": 17905.566524,
+    "whale_pct": 13.057,
     "whale_value_at_open": 137134.2227,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -45802,8 +45802,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667448.1568806,
-    "fills": 5
+    "last_fill_at": 1787667798.889864,
+    "fills": 6
   },
   {
     "timestamp": 1787665906,
@@ -45951,6 +45951,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787667493.77573,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787667843,
+    "timestamp_added": 1787667844.0959115,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-hassan-serna-2026-08-25",
+    "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
+    "outcome": "Juan Manuel La Serna",
+    "side": "BUY",
+    "whale_usd": 2291.6475,
+    "whale_pct": 1.554,
+    "whale_value_at_open": 147488.721,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787667844.0959244,
     "fills": 1
   }
 ]
