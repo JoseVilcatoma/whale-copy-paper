@@ -42928,8 +42928,8 @@
     "title": "Tampa Bay Rays vs. Detroit Tigers",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 7716.3893,
-    "whale_pct": 2.934,
+    "whale_usd": 25824.382100000003,
+    "whale_pct": 9.82,
     "whale_value_at_open": 262984.5759,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -42944,8 +42944,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787614219.7528996,
-    "fills": 2
+    "last_fill_at": 1787619518.8985047,
+    "fills": 4
   },
   {
     "timestamp": 1787611605,
@@ -43085,8 +43085,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 582.0014228287732,
+  "bankroll": 576.9614228287733,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8345,6 +8345,11 @@
       "timestamp": 1787619268.931481,
       "bankroll": 582.0,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez"
+    },
+    {
+      "timestamp": 1787619465.8088927,
+      "bankroll": 576.96,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Dominika Salkova vs Akasha Urhobo"
     }
   ]
 }
