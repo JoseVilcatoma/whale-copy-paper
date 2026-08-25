@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.3797322815105,
+  "bankroll": 525.0710667222636,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9155,6 +9155,16 @@
       "timestamp": 1787676766.7729106,
       "bankroll": 523.38,
       "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Elizabeth Mandlik vs Kristina Penickova"
+    },
+    {
+      "timestamp": 1787678016.451918,
+      "bankroll": 524.29,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Lucie Havlickova vs Elizara Yaneva"
+    },
+    {
+      "timestamp": 1787678016.9726508,
+      "bankroll": 525.07,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Benito Sanchez Martinez vs Murkel Dellien"
     }
   ]
 }

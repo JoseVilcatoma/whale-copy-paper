@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 12:11:25 (hora de Perú)
+Actualizado: 2026-08-25 12:13:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $523.38
-**Retorno acumulado:** +4.68%
+**Bankroll actual:** $525.07
+**Retorno acumulado:** +5.01%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 12:11:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $88.38)
+**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $95.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 196 | 109 | 6 | -25.04 USD |
+| HomeRunHazard | 196 | 109 | 7 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 243 | 108 | 28 | -36.96 USD |
-| ferrariChampions2026 | 278 | 163 | 30 | -39.71 USD |
+| ferrariChampions2026 | 280 | 163 | 28 | -38.02 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1747
-- **Aciertos:** 1124 (64.3%)
+- **Apuestas resueltas:** 1749
+- **Aciertos:** 1126 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,723.82
-- **ROI sobre lo apostado:** -0.66%
-- **Comisiones pagadas (taker fee):** $158.78 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,733.82
+- **ROI sobre lo apostado:** -0.64%
+- **Comisiones pagadas (taker fee):** $158.86 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 864 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 529 | 70.9% | 67.6% | +3.3 pp |
-| 80-94% | 236 | 85.2% | 87.1% | -1.9 pp |
+| 80-94% | 238 | 85.3% | 87.1% | -1.8 pp |
 | 95-99% (casi seguro) | 118 | 96.6% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -395,6 +395,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-col-wsh-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | atp-wong-moeller-2026-08-24 | , HomeRunHazard, RN1 |
 | wnba-atl-la-2026-08-24-spread-away-9pt5 | HomeRunHazard, ferrariChampions2026 |
+| wta-rus-kostovi-2026-08-25 | , HomeRunHazard |
 | lol-drxc-foxy-2026-08-25 | BrotherObama, TAIWANNUMBERONE |
 | mlb-pit-sd-2026-08-24 | , Djdjdjekekek, RN1 |
 | atp-bellucc-darderi-2026-08-25 | AV23IUa, ferrariChampions2026, quavoo |
@@ -418,6 +419,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 42% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -436,9 +438,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will FK Auda Riga win on 2026-08-25? | No (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
 | vito3corleone | Will Real Betis Balompié win on 2026-08- | No (BUY) | 64% | 5.00 | 218.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Dominic Stephan Stricker vs Ma | Martin Krumich (BUY) | 97% | 5.00 | 0.2% | ✅ ganada | +0.15 |
-| ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Mur | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Mur | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 0.4% | ✅ ganada | +0.78 |
 | RN1 | US Open, Qualification ATP: Shintaro Moc | Daniel Milavsky (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Lucie Havlic | Lucie Havlickova (BUY) | 84% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Lucie Havlic | Lucie Havlickova (BUY) | 84% | 5.00 | 1.1% | ✅ ganada | +0.91 |
 | RN1 | Philadelphia: Xiyu Wang vs Jessica Bouza | Jessica Bouzas Maneiro (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | FK Auda Riga vs. FK Liepaja: 1st Half O/ | Under (BUY) | 59% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -447,4 +449,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 56% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 60% | 5.00 | 26.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 84% | 5.00 | 12.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: PCIFIC  vs SU Esports (BO5) - TCL P | SU Esports (BUY) | 82% | 5.00 | 1.6% | ⏳ pendiente | — |
