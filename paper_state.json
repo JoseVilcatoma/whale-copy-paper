@@ -1,5 +1,5 @@
 {
-  "bankroll": 518.5180718245545,
+  "bankroll": 522.0015630526246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9235,6 +9235,16 @@
       "timestamp": 1787679577.1159494,
       "bankroll": 518.52,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Braden Shick vs Clement Tabur"
+    },
+    {
+      "timestamp": 1787679749.251734,
+      "bankroll": 521.75,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Janae Preston vs Nao Hibino"
+    },
+    {
+      "timestamp": 1787679750.3145902,
+      "bankroll": 522.0,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Janae Preston vs Nao Hibino"
     }
   ]
 }

@@ -47223,8 +47223,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -47469,8 +47469,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [
       "RN1"
     ],
@@ -48086,8 +48086,8 @@
     "title": "Will Wolverhampton Wanderers FC win on 2026-08-25?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 7948.8,
-    "whale_pct": 2.244,
+    "whale_usd": 11048.8,
+    "whale_pct": 3.119,
     "whale_value_at_open": 354201.3444,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -48098,7 +48098,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787679634.015125,
-    "fills": 3
+    "last_fill_at": 1787679636.5802684,
+    "fills": 4
   }
 ]
