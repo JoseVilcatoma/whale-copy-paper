@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:28:17 (hora de Perú)
+Actualizado: 2026-08-25 17:30:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $487.11
@@ -447,7 +447,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 87.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: James Duckworth vs M | James Duckworth (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 57% | 5.00 | 2.9% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jerome Kym v | Jerome Kym (BUY) | 98% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs HANJIN BRION | HANJIN BRION (BUY) | 45% | 5.00 | 11.4% | ⏳ pendiente | — |
