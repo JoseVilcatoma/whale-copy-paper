@@ -46196,8 +46196,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -48704,8 +48704,8 @@
     "title": "Colorado Rockies vs. Washington Nationals",
     "outcome": "Colorado Rockies",
     "side": "BUY",
-    "whale_usd": 942.0,
-    "whale_pct": 0.436,
+    "whale_usd": 4660.990400000001,
+    "whale_pct": 2.157,
     "whale_value_at_open": 216085.5738,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -48716,8 +48716,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787685640.9839394,
-    "fills": 1
+    "last_fill_at": 1787702316.9806807,
+    "fills": 2
   },
   {
     "timestamp": 1787685901,
@@ -50343,8 +50343,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -50367,8 +50367,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -50443,8 +50443,8 @@
     "odds_at_bet": 85,
     "fee_usd": 0.038,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.84,
     "overlaps_with": [
       ""
     ],
@@ -50613,8 +50613,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.97,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -50639,8 +50639,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "HomeRunHazard",
       "ferrariChampions2026"
@@ -51192,8 +51192,8 @@
     "title": "Winston-Salem Open: Mees Rottgering vs Tomas Machac",
     "outcome": "Mees Rottgering",
     "side": "BUY",
-    "whale_usd": 4930.548,
-    "whale_pct": 1.16,
+    "whale_usd": 5563.067999999999,
+    "whale_pct": 1.309,
     "whale_value_at_open": 425048.086,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -51204,8 +51204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787700200.424355,
-    "fills": 1
+    "last_fill_at": 1787702370.9812124,
+    "fills": 2
   },
   {
     "timestamp": 1787700211,
@@ -51475,6 +51475,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787701715.2752447,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787702273,
+    "timestamp_added": 1787702274.442689,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-hong-basilas-2026-08-25",
+    "title": "US Open, Qualification ATP: Seong-Chan Hong vs Nikoloz Basilashvili",
+    "outcome": "Seong-Chan Hong",
+    "side": "BUY",
+    "whale_usd": 1963.6699980000003,
+    "whale_pct": 2.472,
+    "whale_value_at_open": 79449.3544,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787702274.4427018,
     "fills": 1
   }
 ]

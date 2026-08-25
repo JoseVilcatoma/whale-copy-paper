@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.2869791698609,
+  "bankroll": 491.2853905905695,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9890,6 +9890,36 @@
       "timestamp": 1787702188.2114403,
       "bankroll": 498.29,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: James Duckworth vs Mariano Navone"
+    },
+    {
+      "timestamp": 1787702370.9644022,
+      "bankroll": 493.15,
+      "event": "lost: ferrariChampions2026 \u2014 Monterrey Open: Darja Vidmanova vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1787702379.2178164,
+      "bankroll": 494.67,
+      "event": "won:  \u2014 US Open, Qualification ATP: Luca Nardi vs Federico Cina"
+    },
+    {
+      "timestamp": 1787702379.3180573,
+      "bankroll": 489.58,
+      "event": "lost: HomeRunHazard \u2014 Monterrey Open: Darja Vidmanova vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1787702379.8158784,
+      "bankroll": 490.42,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Luca Nardi vs Federico Cina"
+    },
+    {
+      "timestamp": 1787702380.9435353,
+      "bankroll": 496.39,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Darja Vidmanova vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1787702381.0437627,
+      "bankroll": 491.29,
+      "event": "lost:  \u2014 Monterrey Open: Darja Vidmanova vs Kimberly Birrell"
     }
   ]
 }
