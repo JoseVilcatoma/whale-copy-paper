@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 06:48:46 (hora de Perú)
+Actualizado: 2026-08-25 06:50:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $545.68
@@ -404,7 +404,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Constantin Bittoun Kouzmine (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Emile Hudd (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | FK Bodø/Glimt vs. NEC: Team to Advance | FK Bodø/Glimt (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
