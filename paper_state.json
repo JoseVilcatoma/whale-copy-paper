@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.7737835552832,
+  "bankroll": 478.1331276413047,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9695,6 +9695,11 @@
       "timestamp": 1787693812.6307275,
       "bankroll": 477.77,
       "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Martyna Kubka vs Annika Penickova"
+    },
+    {
+      "timestamp": 1787694051.2288885,
+      "bankroll": 478.13,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Francesca Jones vs Nuria Brancaccio"
     }
   ]
 }
