@@ -1,5 +1,5 @@
 {
-  "bankroll": 573.3693058738604,
+  "bankroll": 573.7526037462009,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8615,6 +8615,16 @@
       "timestamp": 1787623987.1583705,
       "bankroll": 573.37,
       "event": "won: RN1 \u2014 Colorado Rockies vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1787625537.4425585,
+      "bankroll": 578.87,
+      "event": "won: HomeRunHazard \u2014 Spread: Minnesota Lynx (-4.5)"
+    },
+    {
+      "timestamp": 1787625537.5426977,
+      "bankroll": 573.75,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-4.5)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 21:38:09 (hora de Perú)
+Actualizado: 2026-08-24 21:40:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $573.37
-**Retorno acumulado:** +14.67%
+**Bankroll actual:** $573.75
+**Retorno acumulado:** +14.75%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 21:38:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $253.37)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $258.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,21 +74,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 259 | 147 | 9 | -11.21 USD |
-| HomeRunHazard | 179 | 94 | 33 | -15.85 USD |
+| HomeRunHazard | 180 | 95 | 31 | -15.46 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 13 | 19 | 3 | -38.39 USD |
-| RN1 | 235 | 104 | 4 | -45.75 USD |
+| RN1 | 235 | 104 | 5 | -45.75 USD |
 |  | 32 | 24 | 3 | -59.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1641
-- **Aciertos:** 1067 (65.0%)
-- **Cuota promedio de entrada:** 64.0%
+- **Apuestas resueltas:** 1643
+- **Aciertos:** 1068 (65.0%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,193.82
+- **Total apostado (suma de stakes):** $8,203.82
 - **ROI sobre lo apostado:** -0.14%
-- **Comisiones pagadas (taker fee):** $147.70 (1.80% del capital apostado)
+- **Comisiones pagadas (taker fee):** $147.95 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -97,7 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 795 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 797 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 502 | 71.9% | 67.6% | +4.3 pp |
 | 80-94% | 229 | 85.2% | 87.1% | -2.0 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
@@ -396,6 +396,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 57% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei 2 Men: Kai-I Wang vs Ryot | Ryota Tanuma (BUY) | 86% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -425,4 +426,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Ekaterine Go | Ekaterine Gorgodze (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Atlanta Dream (-9.5) | Los Angeles Sparks (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
