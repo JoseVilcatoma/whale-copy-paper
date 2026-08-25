@@ -44936,8 +44936,8 @@
     "title": "ITF W35 Verbier 2 Women: Liv Boulard vs Cristina Pescucci",
     "outcome": "Liv Boulard",
     "side": "BUY",
-    "whale_usd": 1061.3999999999999,
-    "whale_pct": 1.771,
+    "whale_usd": 1937.3999999999999,
+    "whale_pct": 3.232,
     "whale_value_at_open": 59939.7623,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -44948,8 +44948,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787647976.4942422,
-    "fills": 1
+    "last_fill_at": 1787648327.673643,
+    "fills": 2
   },
   {
     "timestamp": 1787648168,
