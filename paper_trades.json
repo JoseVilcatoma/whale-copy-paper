@@ -48348,5 +48348,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787682440.0627286,
     "fills": 2
+  },
+  {
+    "timestamp": 1787682612,
+    "timestamp_added": 1787682613.155561,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-pohanko-volynet-2026-08-26",
+    "title": "Philadelphia: Mia Pohankova vs Katie Volynets",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "whale_usd": 5355.28559,
+    "whale_pct": 3.251,
+    "whale_value_at_open": 164742.4665,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787682614.5727675,
+    "fills": 2
   }
 ]
