@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 05:05:09 (hora de Perú)
+Actualizado: 2026-08-25 05:07:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $546.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 05:05:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $376.52)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $371.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 17 | 7 | 1 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 24 | 17 | 0 | +22.98 USD |
-| ChonkyChocolateCake | 31 | 18 | 1 | +15.33 USD |
+| ChonkyChocolateCake | 31 | 18 | 2 | +15.33 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Djdjdjekekek | 18 | 13 | 0 | +9.52 USD |
@@ -402,6 +402,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 62% | 5.00 | 30.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Hugo Grenier vs Seba | Sebastian Baez (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | Nemiga Gaming (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
@@ -431,4 +432,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | ITF W35 Trieste Women: Viola Turini vs V | Valentina Steiner (BUY) | 57% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 54% | 5.00 | 0.6% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 50% | 5.00 | 5.1% | ✅ ganada | +4.88 |
-|  | Set Handicap: Valdmannova (-1.5) vs Carl | Valdmannova (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
