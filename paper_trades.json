@@ -46706,8 +46706,8 @@
     "odds_at_bet": 85,
     "fee_usd": 0.038,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -47401,6 +47401,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787676637.2481241,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787676766,
+    "timestamp_added": 1787676767.1242054,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-squire-sanchis-2026-08-25",
+    "title": "US Open, Qualification ATP: Henri Squire vs David Jorda Sanchis",
+    "outcome": "David Jorda Sanchis",
+    "side": "BUY",
+    "whale_usd": 2520.5,
+    "whale_pct": 0.824,
+    "whale_value_at_open": 306015.684,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787676767.1242173,
     "fills": 1
   }
 ]

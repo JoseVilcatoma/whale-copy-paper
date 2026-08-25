@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.4177322815106,
+  "bankroll": 523.3797322815105,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9150,6 +9150,11 @@
       "timestamp": 1787676446.6062603,
       "bankroll": 528.42,
       "event": "lost: AV23IUa \u2014 Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage"
+    },
+    {
+      "timestamp": 1787676766.7729106,
+      "bankroll": 523.38,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Elizabeth Mandlik vs Kristina Penickova"
     }
   ]
 }
