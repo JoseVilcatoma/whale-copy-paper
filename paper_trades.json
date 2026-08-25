@@ -45022,5 +45022,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787648742.8823347,
     "fills": 1
+  },
+  {
+    "timestamp": 1787648962,
+    "timestamp_added": 1787648962.5877097,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "lol-drxc-foxy-2026-08-25",
+    "title": "LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In",
+    "outcome": "BNK FearX Youth",
+    "side": "BUY",
+    "whale_usd": 920.517843,
+    "whale_pct": 32.379,
+    "whale_value_at_open": 2842.9418,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787648962.5877204,
+    "fills": 1
   }
 ]

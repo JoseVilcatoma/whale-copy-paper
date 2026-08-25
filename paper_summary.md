@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 04:07:27 (hora de Perú)
+Actualizado: 2026-08-25 04:09:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $545.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 04:07:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $395.36)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $390.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,6 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -393,12 +394,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-col-wsh-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | atp-wong-moeller-2026-08-24 | , HomeRunHazard, RN1 |
 | wnba-atl-la-2026-08-24-spread-away-9pt5 | HomeRunHazard, ferrariChampions2026 |
+| lol-drxc-foxy-2026-08-25 | BrotherObama, TAIWANNUMBERONE |
 | mlb-pit-sd-2026-08-24 | , Djdjdjekekek, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 50% | 5.00 | 32.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 59% | 5.00 | 138.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valencia CF vs. Real Betis Balompié: O/U | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 |  | Dota 2: PuckChamp vs Nemiga Gaming - Gam | PuckChamp (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -428,4 +431,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 43% | 5.00 | 9.0% | ❌ perdida | -5.14 |
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 57% | 5.00 | 2.7% | ✅ ganada | +3.66 |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 45% | 5.00 | 2.2% | ❌ perdida | -5.14 |
-| RN1 | ITF M25 Taipei 2 Men: Kai-I Wang vs Ryot | Ryota Tanuma (BUY) | 86% | 5.00 | 2.8% | ⏳ pendiente | — |
