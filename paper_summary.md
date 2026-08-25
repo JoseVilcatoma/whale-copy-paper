@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:57:54 (hora de Perú)
+Actualizado: 2026-08-25 15:59:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.58
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:57:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $26.58)
+**Capital comprometido ahora mismo:** $485.00 en 97 posiciones abiertas (disponible para nuevas apuestas: $11.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,9 +76,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 215 | 115 | 36 | -22.44 USD |
+| HomeRunHazard | 215 | 115 | 37 | -22.44 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 288 | 169 | 22 | -41.62 USD |
+| ferrariChampions2026 | 288 | 169 | 24 | -41.62 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 36 | 29 | 4 | -73.49 USD |
@@ -417,6 +417,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-wan-maneiro-2026-08-25 | RN1, ferrariChampions2026 |
 | wta-samson-zidanse-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-presto-hibino-2026-08-25 | HomeRunHazard, RN1 |
+| wta-zhang-timofee-2026-08-25 | AV23IUa, ferrariChampions2026 |
 | atp-bolt-ruiz-2026-08-25 | HomeRunHazard, RN1 |
 | atp-kouame-basavar-2026-08-25 | HomeRunHazard, RN1 |
 | atp-kim-johns-2026-08-25 | HomeRunHazard, OOOwhyOOO |
@@ -426,6 +427,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-liutova-prozoro-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 | atp-walton-buse-2026-08-25 | Djdjdjekekek, HomeRunHazard |
 | atp-gaston-justo-2026-08-25 | Djdjdjekekek, HomeRunHazard |
+| wta-astakho-ribera-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 | mlb-phi-sea-2026-08-25-total-8pt5 | AV23IUa, HomeRunHazard |
 | atp-collign-hijikat-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 | atp-cerund-suresh-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
@@ -434,6 +436,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Arthur Fery vs Cruz  | Arthur Fery (BUY) | 91% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DOCISK vs Forsaken (BO3) - Rift Leg | Forsaken (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Tatiana Prozorova (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -442,7 +447,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 87% | 5.00 | 4.2% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 69% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 4.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 47% | 5.00 | 7.1% | ⏳ pendiente | — |
@@ -461,6 +466,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Daniil Glinka (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Kylie Collins (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
-| HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 47% | 5.00 | 2.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Marina Bassols Ribera (BUY) | 57% | 5.00 | 2.2% | ⏳ pendiente | — |
-| HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
