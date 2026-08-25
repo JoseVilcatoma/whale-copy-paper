@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:35:11 (hora de Perú)
+Actualizado: 2026-08-25 10:37:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $538.16
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:35:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $243.16)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $233.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
-| AV23IUa | 1 | 0 | 3 | +3.98 USD |
+| AV23IUa | 1 | 0 | 4 | +3.98 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | vito3corleone | 1 | 0 | 0 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | ferrariChampions2026 | 275 | 160 | 23 | -30.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 241 | 106 | 14 | -36.92 USD |
+| RN1 | 241 | 106 | 15 | -36.92 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -412,6 +412,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Champaign, IL Men: Preston Stear | Preston Stearns (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 64% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Sabah FK vs. MH Hapoel Be'er Sheva: O/U  | Under (BUY) | 46% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Gijs Brouwer vs Andres Marti | Andres Martin (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Xorazm Fk Urganch win on 2026-08-25 | No (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -440,5 +442,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Esther Lopez Alcaraz (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 2.5% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 49% | 5.00 | 8.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 55% | 5.00 | 6.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 72% | 5.00 | 4.5% | ✅ ganada | +1.87 |
