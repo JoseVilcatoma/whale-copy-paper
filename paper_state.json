@@ -1,5 +1,5 @@
 {
-  "bankroll": 552.6446069474813,
+  "bankroll": 553.3587333842629,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8675,6 +8675,11 @@
       "timestamp": 1787625847.2985008,
       "bankroll": 552.64,
       "event": "won:  \u2014 Golden State Valkyries vs. Minnesota Lynx: O/U 161.5"
+    },
+    {
+      "timestamp": 1787626149.089634,
+      "bankroll": 553.36,
+      "event": "won: RN1 \u2014 Will Am\u00e9rica FC win on 2026-08-24?"
     }
   ]
 }
