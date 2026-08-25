@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 00:42:29 (hora de Perú)
+Actualizado: 2026-08-25 00:44:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $546.61
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 00:42:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $426.61)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $421.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 194 | 109 | 3 | -27.85 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 237 | 105 | 3 | -46.52 USD |
+| RN1 | 237 | 105 | 4 | -46.52 USD |
 | Sassy-Bucket | 13 | 21 | 1 | -48.61 USD |
 |  | 33 | 24 | 6 | -54.80 USD |
 
@@ -399,6 +399,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -428,4 +429,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Jack Pinnington Jones (BUY) | 68% | 5.00 | 0.1% | ✅ ganada | +2.27 |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 75% | 5.00 | 0.2% | ✅ ganada | +1.60 |
 | HomeRunHazard | Portland Fire vs. Dallas Wings: O/U 176. | Under (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Over (BUY) | 48% | 5.00 | 0.2% | ✅ ganada | +5.29 |
