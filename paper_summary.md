@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:42:54 (hora de Perú)
+Actualizado: 2026-08-25 17:44:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $489.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 17:42:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $39.52)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $34.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,6 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
+| SnakeBall | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -439,6 +440,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SnakeBall | Will CR Brasil win on 2026-08-25? | No (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Tomas Machac (BUY) | 64% | 5.00 | 7.2% | ⏳ pendiente | — |
@@ -468,4 +470,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andre Ilagan | Andre Ilagan (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Cristina Bucsa vs Anna B | Cristina Bucsa (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |

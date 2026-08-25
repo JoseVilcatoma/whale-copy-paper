@@ -50820,5 +50820,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787696525.5662022,
     "fills": 1
+  },
+  {
+    "timestamp": 1787697855,
+    "timestamp_added": 1787697856.3924892,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "bra2-juv-crb-2026-08-25-crb",
+    "title": "Will CR Brasil win on 2026-08-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1111.1499999999999,
+    "whale_pct": 1.292,
+    "whale_value_at_open": 86020.5379,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787697856.3925014,
+    "fills": 1
   }
 ]
