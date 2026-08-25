@@ -46529,8 +46529,8 @@
     "title": "LoL: Eintracht Spandau vs Kaufland Hangry Knights (BO5) - Prime League 1st Division Playoffs",
     "outcome": "Eintracht Spandau",
     "side": "BUY",
-    "whale_usd": 3000.0,
-    "whale_pct": 52.422,
+    "whale_usd": 4500.0,
+    "whale_pct": 78.633,
     "whale_value_at_open": 5722.7685,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -46541,8 +46541,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787671751.9805002,
-    "fills": 1
+    "last_fill_at": 1787688076.0351357,
+    "fills": 2
   },
   {
     "timestamp": 1787671878,
@@ -49176,8 +49176,8 @@
     "title": "Winston-Salem Open: Adam Walton vs Ignacio Buse",
     "outcome": "Ignacio Buse",
     "side": "BUY",
-    "whale_usd": 9039.38,
-    "whale_pct": 120.332,
+    "whale_usd": 48986.48039900001,
+    "whale_pct": 652.107,
     "whale_value_at_open": 7512.0289,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -49190,7 +49190,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787687923.684364,
-    "fills": 1
+    "last_fill_at": 1787688072.2211757,
+    "fills": 7
   }
 ]

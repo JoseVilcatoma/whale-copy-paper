@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:59:42 (hora de Perú)
+Actualizado: 2026-08-25 15:01:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $516.41
@@ -426,7 +426,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 51% | 5.00 | 120.3% | ⏳ pendiente | — |
+| Djdjdjekekek | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 51% | 5.00 | 652.1% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 83% | 5.00 | 102.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Benjamin Bonzi (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
