@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.13319094240313,
+  "bankroll": 496.0675677539973,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9865,6 +9865,21 @@
       "timestamp": 1787699586.587661,
       "bankroll": 504.13,
       "event": "won: HomeRunHazard \u2014 Monterrey Open: Cristina Bucsa vs Anna Bondar"
+    },
+    {
+      "timestamp": 1787699893.0284016,
+      "bankroll": 499.02,
+      "event": "lost: AV23IUa \u2014 Monterrey Open: Shuai Zhang vs Maria Timofeeva"
+    },
+    {
+      "timestamp": 1787699898.9693468,
+      "bankroll": 493.9,
+      "event": "lost: ferrariChampions2026 \u2014 Monterrey Open: Shuai Zhang vs Maria Timofeeva"
+    },
+    {
+      "timestamp": 1787699902.9994726,
+      "bankroll": 496.07,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Shuai Zhang vs Maria Timofeeva"
     }
   ]
 }
