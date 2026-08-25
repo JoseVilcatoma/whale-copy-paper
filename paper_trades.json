@@ -42155,8 +42155,8 @@
     "title": "Boston Red Sox vs. Miami Marlins",
     "outcome": "Miami Marlins",
     "side": "BUY",
-    "whale_usd": 13475.6965,
-    "whale_pct": 5.605,
+    "whale_usd": 23729.198399999997,
+    "whale_pct": 9.87,
     "whale_value_at_open": 240423.7531,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -42169,8 +42169,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787618561.3103814,
-    "fills": 4
+    "last_fill_at": 1787619649.43761,
+    "fills": 6
   },
   {
     "timestamp": 1787607393,
