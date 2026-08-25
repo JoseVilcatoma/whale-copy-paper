@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.4130105707732,
+  "bankroll": 516.3275105707731,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9505,6 +9505,11 @@
       "timestamp": 1787687924.6128979,
       "bankroll": 516.41,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1787688427.6521194,
+      "bankroll": 516.33,
+      "event": "venta anticipada: OOOwhyOOO \u2014 Kingston 2: Keshav Chopra vs Kaylan Bigun (-0.09 USD)"
     }
   ]
 }

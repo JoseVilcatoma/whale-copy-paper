@@ -48824,8 +48824,8 @@
     "title": "Winston-Salem Open: Adam Walton vs Ignacio Buse",
     "outcome": "Ignacio Buse",
     "side": "BUY",
-    "whale_usd": 4157.1157,
-    "whale_pct": 1.717,
+    "whale_usd": 5691.6157,
+    "whale_pct": 2.351,
     "whale_value_at_open": 242077.6877,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -48836,8 +48836,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787686239.3203814,
-    "fills": 1
+    "last_fill_at": 1787688407.937491,
+    "fills": 2
   },
   {
     "timestamp": 1787686274,
@@ -49157,15 +49157,17 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.09,
     "overlaps_with": [
       "HomeRunHazard"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787687923.682768,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.086,
+    "closed_price": 83
   },
   {
     "timestamp": 1787687923,
@@ -49263,6 +49265,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787688212.61831,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787688366,
+    "timestamp_added": 1787688367.2107882,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-zakharo-collins-2026-08-25",
+    "title": "Philadelphia: Anastasia Zakharova vs Kylie Collins",
+    "outcome": "Kylie Collins",
+    "side": "BUY",
+    "whale_usd": 655.6407,
+    "whale_pct": 0.259,
+    "whale_value_at_open": 252783.1879,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787688367.2108018,
     "fills": 1
   }
 ]
