@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.1348210060108,
+  "bankroll": 560.3331543393442,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8515,6 +8515,11 @@
       "timestamp": 1787622448.6567512,
       "bankroll": 560.13,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Jack Pinnington Jones vs Trevor Svajda"
+    },
+    {
+      "timestamp": 1787622766.5393906,
+      "bankroll": 560.33,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Eva Vedder vs Bianca Andreescu"
     }
   ]
 }
