@@ -50606,8 +50606,8 @@
     "title": "Monterrey Open: Darja Vidmanova vs Kimberly Birrell",
     "outcome": "Darja Vidmanova",
     "side": "BUY",
-    "whale_usd": 2411.5371,
-    "whale_pct": 0.788,
+    "whale_usd": 6009.5375,
+    "whale_pct": 1.963,
     "whale_value_at_open": 306066.9178,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -50620,8 +50620,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787696308.081373,
-    "fills": 2
+    "last_fill_at": 1787696844.7583053,
+    "fills": 3
   },
   {
     "timestamp": 1787695811,
@@ -50782,8 +50782,8 @@
     "title": "US Open, Qualification WTA: Sofia Costoulas vs Jennifer Ruggeri",
     "outcome": "Sofia Costoulas",
     "side": "BUY",
-    "whale_usd": 601.4,
-    "whale_pct": 0.181,
+    "whale_usd": 4817.1944,
+    "whale_pct": 1.448,
     "whale_value_at_open": 332775.7201,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -50794,8 +50794,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787696511.8673074,
-    "fills": 1
+    "last_fill_at": 1787696872.2206962,
+    "fills": 3
   },
   {
     "timestamp": 1787696525,
