@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:10:00 (hora de Perú)
+Actualizado: 2026-08-25 13:12:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $514.11
-**Retorno acumulado:** +2.82%
+**Bankroll actual:** $508.23
+**Retorno acumulado:** +1.65%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:10:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $94.11)
+**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $118.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 198 | 110 | 9 | -23.14 USD |
+| HomeRunHazard | 200 | 111 | 7 | -25.86 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 284 | 167 | 20 | -42.60 USD |
-| RN1 | 252 | 114 | 31 | -45.25 USD |
+| ferrariChampions2026 | 285 | 168 | 18 | -41.24 USD |
+| RN1 | 253 | 115 | 29 | -49.77 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1775
-- **Aciertos:** 1141 (64.3%)
+- **Apuestas resueltas:** 1782
+- **Aciertos:** 1145 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,863.82
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $161.30 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,898.82
+- **ROI sobre lo apostado:** -0.82%
+- **Comisiones pagadas (taker fee):** $161.89 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,9 +100,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 878 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 536 | 70.7% | 67.6% | +3.1 pp |
-| 80-94% | 241 | 85.5% | 87.0% | -1.6 pp |
+| 40-59% | 881 | 50.1% | 50.1% | -0.1 pp |
+| 60-79% | 538 | 70.6% | 67.6% | +3.0 pp |
+| 80-94% | 243 | 85.6% | 87.0% | -1.4 pp |
 | 95-99% (casi seguro) | 120 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -421,6 +421,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -441,13 +442,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W35 Barueri Women: Leticia Garcia Vi | Leticia Garcia Vidal (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Barnsley FC win on 2026-08-25? | Yes (BUY) | 55% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Al Taawoun Saudi Club vs. Al Fayha Saudi | Over (BUY) | 66% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 89% | 5.00 | 3.2% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 89% | 5.00 | 3.2% | ✅ ganada | +0.59 |
 | RN1 | Will MH Hapoel Be'er Sheva win on 2026-0 | No (BUY) | 78% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 62% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Oleksii Krutykh vs Matias Soto | Matias Soto (BUY) | 89% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
+| HomeRunHazard | Augsburg: Oleksii Krutykh vs Matias Soto | Matias Soto (BUY) | 89% | 5.00 | 0.7% | ✅ ganada | +0.59 |
 | HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 73% | 5.00 | 3.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 73% | 5.00 | 3.3% | ✅ ganada | +1.78 |
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 42% | 5.00 | 1.0% | ✅ ganada | +6.76 |
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 58% | 5.00 | 0.9% | ❌ perdida | -5.11 |
-| HomeRunHazard | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |

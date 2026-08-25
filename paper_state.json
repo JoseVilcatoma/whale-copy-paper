@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.1122420082736,
+  "bankroll": 508.23341910969066,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9295,6 +9295,41 @@
       "timestamp": 1787681143.8318942,
       "bankroll": 514.11,
       "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Inaki Montes vs Gabi Boitan"
+    },
+    {
+      "timestamp": 1787681460.9360194,
+      "bankroll": 508.99,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Laura Samson vs Tamara Zidansek"
+    },
+    {
+      "timestamp": 1787681462.043289,
+      "bankroll": 503.88,
+      "event": "lost: RN1 \u2014 US Open, Qualification WTA: Laura Samson vs Tamara Zidansek"
+    },
+    {
+      "timestamp": 1787681462.143459,
+      "bankroll": 510.37,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Laura Samson vs Tamara Zidansek"
+    },
+    {
+      "timestamp": 1787681463.6094506,
+      "bankroll": 512.15,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Laura Samson vs Tamara Zidansek"
+    },
+    {
+      "timestamp": 1787681464.204868,
+      "bankroll": 512.74,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Oleksii Krutykh vs Matias Soto"
+    },
+    {
+      "timestamp": 1787681464.3050265,
+      "bankroll": 507.64,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Laura Samson vs Tamara Zidansek"
+    },
+    {
+      "timestamp": 1787681464.5053027,
+      "bankroll": 508.23,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Laura Samson vs Tamara Zidansek"
     }
   ]
 }
