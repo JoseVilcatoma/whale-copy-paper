@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.1331276413047,
+  "bankroll": 474.95398478416183,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9700,6 +9700,26 @@
       "timestamp": 1787694051.2288885,
       "bankroll": 478.13,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Francesca Jones vs Nuria Brancaccio"
+    },
+    {
+      "timestamp": 1787694878.9484224,
+      "bankroll": 473.05,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic"
+    },
+    {
+      "timestamp": 1787694879.6963277,
+      "bankroll": 468.01,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic"
+    },
+    {
+      "timestamp": 1787694879.7965655,
+      "bankroll": 472.89,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic"
+    },
+    {
+      "timestamp": 1787694885.1393652,
+      "bankroll": 474.95,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic"
     }
   ]
 }

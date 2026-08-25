@@ -46464,8 +46464,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -46877,8 +46877,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.04,
     "overlaps_with": [
       "RN1"
     ],
@@ -47369,8 +47369,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -49479,8 +49479,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -49544,8 +49544,8 @@
     "title": "Boston Red Sox vs. Miami Marlins",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 9999.5886,
-    "whale_pct": 3.104,
+    "whale_usd": 10690.064789999999,
+    "whale_pct": 3.319,
     "whale_value_at_open": 322105.1564,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -49558,8 +49558,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787690202.1402853,
-    "fills": 1
+    "last_fill_at": 1787694839.7389772,
+    "fills": 2
   },
   {
     "timestamp": 1787690221,
