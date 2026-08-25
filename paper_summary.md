@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 12:36:32 (hora de Perú)
+Actualizado: 2026-08-25 12:38:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $527.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 12:36:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $82.07)
+**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $57.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 196 | 109 | 9 | -25.04 USD |
 | ferrariChampions2026 | 283 | 164 | 24 | -31.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 247 | 111 | 33 | -41.04 USD |
+| RN1 | 247 | 111 | 38 | -41.04 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -399,7 +399,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-drxc-foxy-2026-08-25 | BrotherObama, TAIWANNUMBERONE |
 | mlb-pit-sd-2026-08-24 | , Djdjdjekekek, RN1 |
 | atp-bellucc-darderi-2026-08-25 | AV23IUa, ferrariChampions2026, quavoo |
-| atp-giustin-dimitro-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
+| atp-giustin-dimitro-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
 | kor-seo-bch-2026-08-25-spread-home-1pt5 | , ferrariChampions2026 |
 | atp-matusev-kouzmin-2026-08-25 | , ferrariChampions2026 |
 | lol-drxc-foxy-2026-08-25-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
@@ -419,8 +419,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 99% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Viktoria Hru | Viktoria Hruncakova (BUY) | 72% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | ITF M25 Oldenzaal Men: Jelle Sels vs Sti | Jelle Sels (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Gauthier Onc | Vitaliy Sachko (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Stoke City FC vs. Hull City AFC: O/U 2.5 | Under (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Will Watford FC win on 2026-08-25? | Yes (BUY) | 45% | 5.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | Will Watford FC win on 2026-08-25? | Yes (BUY) | 45% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Gauthier Onc | Gauthier Onclin (BUY) | 64% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will Southampton FC win on 2026-08-25? | No (BUY) | 53% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Will Watford FC win on 2026-08-25? | No (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -444,8 +449,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Dusan Lajovic (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Braden Shick | Braden Shick (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will Sabah FK win on 2026-08-25? | No (BUY) | 52% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: 1st  | Under (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will Al Fayha Saudi Club win on 2026-08- | No (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Timofey Skat | Timofey Skatov (BUY) | 79% | 5.00 | 1.5% | ✅ ganada | +1.28 |
-| RN1 | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 60% | 5.00 | 2.2% | ⏳ pendiente | — |
