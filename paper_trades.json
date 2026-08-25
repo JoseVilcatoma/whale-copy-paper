@@ -45550,8 +45550,8 @@
     "title": "Roehampton 2: Alec Deckers vs Luca Potenza",
     "outcome": "Alec Deckers",
     "side": "BUY",
-    "whale_usd": 892.3204609999999,
-    "whale_pct": 0.706,
+    "whale_usd": 10924.650461,
+    "whale_pct": 8.637,
     "whale_value_at_open": 126479.6148,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -45562,8 +45562,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787660944.3728423,
-    "fills": 1
+    "last_fill_at": 1787661395.6308138,
+    "fills": 2
   },
   {
     "timestamp": 1787661188,
