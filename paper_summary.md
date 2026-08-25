@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:02:25 (hora de Perú)
+Actualizado: 2026-08-25 11:04:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $542.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:02:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $162.08)
+**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $152.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 276 | 161 | 32 | -30.16 USD |
+| ferrariChampions2026 | 276 | 161 | 34 | -30.16 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 242 | 106 | 21 | -32.94 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
@@ -416,6 +416,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Dominic Stephan Stricker vs Ma | Martin Krumich (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Mur | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Shintaro Moc | Daniel Milavsky (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Lucie Havlic | Lucie Havlickova (BUY) | 84% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Xiyu Wang vs Jessica Bouza | Jessica Bouzas Maneiro (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -431,7 +433,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Henri Haupt vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 98% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Samuel De Felipe Gar | Xavi Palomar (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia: Xiyu Wang vs Jessica Bouza | Xiyu Wang (BUY) | 51% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia: Xiyu Wang vs Jessica Bouza | Xiyu Wang (BUY) | 51% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elizabeth Ma | Elizabeth Mandlik (BUY) | 85% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Champaign, IL Men: Preston Stear | Preston Stearns (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -444,5 +446,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Facundo Mena (BUY) | 92% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 67% | 5.00 | 8.2% | ⏳ pendiente | — |
 | RN1 | Spread: PFK Dinamo Samarqand (-1.5) | Pakhtakor (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Alejandro Garcia Carbajal (BUY) | 82% | 5.00 | 2.6% | ⏳ pendiente | — |
-| RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Javier Barranco Cosano (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
