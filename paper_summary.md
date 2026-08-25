@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 19:21:23 (hora de Perú)
+Actualizado: 2026-08-24 19:23:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $583.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 19:21:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $510.00 en 102 posiciones abiertas (disponible para nuevas apuestas: $73.65)
+**Capital comprometido ahora mismo:** $515.00 en 103 posiciones abiertas (disponible para nuevas apuestas: $68.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,7 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 232 | 102 | 6 | -46.03 USD |
-|  | 32 | 23 | 3 | -54.37 USD |
+|  | 32 | 23 | 4 | -54.37 USD |
 
 ## Análisis general
 
@@ -391,9 +391,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will LASK Linz win on 2026-08-25? | Yes (BUY) | 51% | 5.00 | 12.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Washington Nationals (BUY) | 88% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Coleman Wong | Coleman Wong (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Coleman Wong | Coleman Wong (BUY) | 96% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -413,11 +414,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Donghui | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 53% | 5.00 | 23.2% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Laslo Djere  | Laslo Djere (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Dayana Yastremska (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 64.4% | ⏳ pendiente | — |
 | mikesports | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 49.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Akasha Urhobo (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |

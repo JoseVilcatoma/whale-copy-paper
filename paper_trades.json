@@ -43253,8 +43253,8 @@
     "title": "Monterrey Open: Janice Tjen vs Dayana Yastremska",
     "outcome": "Dayana Yastremska",
     "side": "BUY",
-    "whale_usd": 1552.9326,
-    "whale_pct": 0.538,
+    "whale_usd": 2167.6676,
+    "whale_pct": 0.751,
     "whale_value_at_open": 288609.9977,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -43267,8 +43267,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787614387.4431639,
-    "fills": 2
+    "last_fill_at": 1787617363.5643728,
+    "fills": 3
   },
   {
     "timestamp": 1787613372,
@@ -43752,8 +43752,8 @@
     "title": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller",
     "outcome": "Coleman Wong",
     "side": "BUY",
-    "whale_usd": 3095.044,
-    "whale_pct": 0.84,
+    "whale_usd": 4095.1139999999996,
+    "whale_pct": 1.111,
     "whale_value_at_open": 368633.1556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -43767,8 +43767,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787616920.8584282,
-    "fills": 1
+    "last_fill_at": 1787617314.0966961,
+    "fills": 2
   },
   {
     "timestamp": 1787617052,
@@ -43816,6 +43816,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787617053.80437,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787617359,
+    "timestamp_added": 1787617360.1719491,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "ucl-lin2-cel-2026-08-25-lin2",
+    "title": "Will LASK Linz win on 2026-08-25?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 8224.199999,
+    "whale_pct": 12.082,
+    "whale_value_at_open": 68067.6394,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787617360.171961,
     "fills": 1
   }
 ]
