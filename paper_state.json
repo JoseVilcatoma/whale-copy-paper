@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.64699390134894,
+  "bankroll": 489.74403471767545,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9840,6 +9840,11 @@
       "timestamp": 1787698960.2510014,
       "bankroll": 489.65,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Yeon-Woo Ku vs Astra Sharma"
+    },
+    {
+      "timestamp": 1787699077.6347532,
+      "bankroll": 489.74,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Jerome Kym vs Dan Added"
     }
   ]
 }

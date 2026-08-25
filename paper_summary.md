@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 18:03:48 (hora de Perú)
+Actualizado: 2026-08-25 18:05:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $489.65
-**Retorno acumulado:** -2.07%
+**Bankroll actual:** $489.74
+**Retorno acumulado:** -2.05%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 18:03:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $49.65)
+**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $39.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,22 +78,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 233 | 121 | 41 | -22.00 USD |
+| HomeRunHazard | 234 | 121 | 42 | -21.90 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 271 | 123 | 3 | -43.13 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
 | ferrariChampions2026 | 293 | 175 | 13 | -58.22 USD |
-|  | 38 | 29 | 8 | -68.76 USD |
+|  | 38 | 29 | 9 | -68.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1880
-- **Aciertos:** 1212 (64.5%)
+- **Apuestas resueltas:** 1881
+- **Aciertos:** 1213 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,388.82
-- **ROI sobre lo apostado:** -1.01%
-- **Comisiones pagadas (taker fee):** $169.48 (1.81% del capital apostado)
+- **Total apostado (suma de stakes):** $9,393.82
+- **ROI sobre lo apostado:** -1.00%
+- **Comisiones pagadas (taker fee):** $169.48 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 913 | 50.1% | 50.2% | -0.1 pp |
 | 60-79% | 574 | 70.2% | 67.6% | +2.6 pp |
 | 80-94% | 265 | 86.0% | 87.0% | -1.0 pp |
-| 95-99% (casi seguro) | 128 | 96.9% | 97.3% | -0.4 pp |
+| 95-99% (casi seguro) | 129 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -442,6 +442,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will FC Universitario win on 2026-08-25? | Yes (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Rio Noguchi (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 |  | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -458,7 +461,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: James Duckworth vs M | James Duckworth (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 57% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 2.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Jerome Kym v | Jerome Kym (BUY) | 98% | 5.00 | 1.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Jerome Kym v | Jerome Kym (BUY) | 98% | 5.00 | 1.0% | ✅ ganada | +0.10 |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs HANJIN BRION | HANJIN BRION (BUY) | 45% | 5.00 | 11.4% | ⏳ pendiente | — |
 |  | Will Lyn 1896 FK win on 2026-08-26? | Yes (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -469,6 +472,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Luca Nardi v | Federico Cina (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Julia Avdeev | Julia Avdeeva (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
-| HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Storm Hunter | Storm Hunter (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
