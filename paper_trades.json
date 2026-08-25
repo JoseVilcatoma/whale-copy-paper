@@ -44318,8 +44318,8 @@
     "title": "Monterrey Open: Clara Tauson vs Renata Zarazua",
     "outcome": "Renata Zarazua",
     "side": "BUY",
-    "whale_usd": 1416.773678,
-    "whale_pct": 0.574,
+    "whale_usd": 5521.545077999999,
+    "whale_pct": 2.238,
     "whale_value_at_open": 246691.0446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -44330,8 +44330,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787625276.9362705,
-    "fills": 1
+    "last_fill_at": 1787625893.6096995,
+    "fills": 2
   },
   {
     "timestamp": 1787625290,
@@ -44368,8 +44368,8 @@
     "title": "Monterrey Open: Clara Tauson vs Renata Zarazua",
     "outcome": "Renata Zarazua",
     "side": "BUY",
-    "whale_usd": 6882.339962,
-    "whale_pct": 6.108,
+    "whale_usd": 10119.246662,
+    "whale_pct": 8.98,
     "whale_value_at_open": 112686.5762,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -44382,7 +44382,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787625771.7984452,
-    "fills": 3
+    "last_fill_at": 1787625893.5668764,
+    "fills": 4
   }
 ]
