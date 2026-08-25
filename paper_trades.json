@@ -46129,5 +46129,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787668724.9073834,
     "fills": 1
+  },
+  {
+    "timestamp": 1787668807,
+    "timestamp_added": 1787668807.6038246,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-chc-ari-2026-08-25-total-8pt5",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3984.484,
+    "whale_pct": 25.716,
+    "whale_value_at_open": 15494.0783,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787668807.6038375,
+    "fills": 1
   }
 ]

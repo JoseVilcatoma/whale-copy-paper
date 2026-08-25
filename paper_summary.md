@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 09:39:12 (hora de Perú)
+Actualizado: 2026-08-25 09:41:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $526.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 09:39:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $296.91)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $291.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,6 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| texaskid | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -400,6 +401,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kor-seo-bch-2026-08-25-spread-home-1pt5 | , ferrariChampions2026 |
 | atp-matusev-kouzmin-2026-08-25 | , ferrariChampions2026 |
 | lol-drxc-foxy-2026-08-25-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
+| mlb-chc-ari-2026-08-25-total-8pt5 | SDTrading, texaskid |
 | atp-hassan-serna-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-wehnelt-hardt-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-cretu-mcdona-2026-08-24 | RN1, ferrariChampions2026 |
@@ -408,6 +410,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 25.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Max Hans Rehberg (BUY) | 74% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 47% | 5.00 | 25.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Alice Gillan (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -437,4 +440,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | NEC (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Luca Potenza (BUY) | 41% | 5.00 | 0.7% | ❌ perdida | -5.15 |
-| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 3.5% | ❌ perdida | -5.12 |
