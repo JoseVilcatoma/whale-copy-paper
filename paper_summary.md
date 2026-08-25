@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:22:28 (hora de Perú)
+Actualizado: 2026-08-25 16:24:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.75
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:22:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $46.75)
+**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $41.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 221 | 118 | 32 | -26.37 USD |
+| HomeRunHazard | 221 | 118 | 33 | -26.37 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 288 | 171 | 22 | -51.86 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
@@ -436,6 +436,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Cristina Bucsa vs Anna B | Cristina Bucsa (BUY) | 55% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -465,4 +466,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Stefanos Sak | Christopher O'Connell (BUY) | 92% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 99% | 5.00 | 1.7% | ✅ ganada | +0.05 |
 | HomeRunHazard | US Open, Qualification WTA: Francesca Jo | Francesca Jones (BUY) | 93% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
