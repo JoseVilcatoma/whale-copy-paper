@@ -46896,8 +46896,8 @@
     "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
     "outcome": "Kei Nishikori",
     "side": "BUY",
-    "whale_usd": 11658.316652000001,
-    "whale_pct": 6.451,
+    "whale_usd": 12344.900852,
+    "whale_pct": 6.831,
     "whale_value_at_open": 180715.6866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -46910,8 +46910,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787674889.92205,
-    "fills": 6
+    "last_fill_at": 1787675588.716425,
+    "fills": 7
   },
   {
     "timestamp": 1787673091,
@@ -46922,8 +46922,8 @@
     "title": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek",
     "outcome": "Laura Samson",
     "side": "BUY",
-    "whale_usd": 2463.2073880000003,
-    "whale_pct": 1.363,
+    "whale_usd": 3688.2301780000003,
+    "whale_pct": 2.041,
     "whale_value_at_open": 180715.6866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -46936,8 +46936,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787673091.3558922,
-    "fills": 1
+    "last_fill_at": 1787675622.7040498,
+    "fills": 2
   },
   {
     "timestamp": 1787673109,
