@@ -1,5 +1,5 @@
 {
-  "bankroll": 576.9614228287733,
+  "bankroll": 566.9227561621067,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8350,6 +8350,21 @@
       "timestamp": 1787619465.8088927,
       "bankroll": 576.96,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Dominika Salkova vs Akasha Urhobo"
+    },
+    {
+      "timestamp": 1787619711.187206,
+      "bankroll": 571.84,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Coleman Wong vs Elmer Moeller"
+    },
+    {
+      "timestamp": 1787619711.287386,
+      "bankroll": 566.72,
+      "event": "lost:  \u2014 US Open, Qualification ATP: Coleman Wong vs Elmer Moeller"
+    },
+    {
+      "timestamp": 1787619713.9383872,
+      "bankroll": 566.92,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Coleman Wong vs Elmer Moeller"
     }
   ]
 }
