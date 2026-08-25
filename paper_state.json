@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.1046095523798,
+  "bankroll": 485.2736476865303,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9640,6 +9640,21 @@
       "timestamp": 1787692256.585815,
       "bankroll": 484.1,
       "event": "lost: ferrariChampions2026 \u2014 Spread: FK Bod\u00f8/Glimt (-1.5)"
+    },
+    {
+      "timestamp": 1787692379.660388,
+      "bankroll": 484.64,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Hugo Gaston vs Guido Justo"
+    },
+    {
+      "timestamp": 1787692380.2612767,
+      "bankroll": 485.23,
+      "event": "won: Djdjdjekekek \u2014 US Open, Qualification ATP: Hugo Gaston vs Guido Justo"
+    },
+    {
+      "timestamp": 1787692441.0519233,
+      "bankroll": 485.27,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Zsombor Piros vs Max Alcala Gurri"
     }
   ]
 }
