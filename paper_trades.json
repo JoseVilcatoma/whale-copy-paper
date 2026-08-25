@@ -49390,5 +49390,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787689079.710272,
     "fills": 1
+  },
+  {
+    "timestamp": 1787689400,
+    "timestamp_added": 1787689401.122983,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-jones-brancac-2026-08-25",
+    "title": "US Open, Qualification WTA: Francesca Jones vs Nuria Brancaccio",
+    "outcome": "Francesca Jones",
+    "side": "BUY",
+    "whale_usd": 927.2900000000001,
+    "whale_pct": 0.323,
+    "whale_value_at_open": 287476.8717,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787689401.1229963,
+    "fills": 1
   }
 ]
