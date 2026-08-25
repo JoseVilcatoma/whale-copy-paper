@@ -46625,8 +46625,8 @@
     "title": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys",
     "outcome": "Quentin Halys",
     "side": "BUY",
-    "whale_usd": 16008.755130000001,
-    "whale_pct": 17.519,
+    "whale_usd": 24644.795130000002,
+    "whale_pct": 26.969,
     "whale_value_at_open": 91380.3367,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -46637,8 +46637,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787672598.876125,
-    "fills": 5
+    "last_fill_at": 1787673183.1643739,
+    "fills": 6
   },
   {
     "timestamp": 1787672153,
@@ -46870,8 +46870,8 @@
     "title": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
     "outcome": "Soon-Woo Kwon",
     "side": "BUY",
-    "whale_usd": 11478.8602,
-    "whale_pct": 5.658,
+    "whale_usd": 25849.960295999997,
+    "whale_pct": 12.741,
     "whale_value_at_open": 202880.2706,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -46884,8 +46884,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787673074.2469862,
-    "fills": 1
+    "last_fill_at": 1787673218.6614637,
+    "fills": 4
   },
   {
     "timestamp": 1787673075,
@@ -46985,6 +46985,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787673112.0717213,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787673150,
+    "timestamp_added": 1787673150.9132404,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-samson-zidanse-2026-08-25",
+    "title": "US Open, Qualification WTA: Laura Samson vs Tamara Zidansek",
+    "outcome": "Tamara Zidansek",
+    "side": "BUY",
+    "whale_usd": 4996.551724,
+    "whale_pct": 2.019,
+    "whale_value_at_open": 247500.3935,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787673150.9132514,
     "fills": 1
   }
 ]
