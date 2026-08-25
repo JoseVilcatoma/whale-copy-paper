@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 20:44:34 (hora de Perú)
+Actualizado: 2026-08-24 20:46:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $563.23
-**Retorno acumulado:** +12.65%
+**Bankroll actual:** $562.99
+**Retorno acumulado:** +12.60%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 20:44:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $153.23)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $157.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 77 | 12 | 0 | +50.64 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 52 | 20 | 0 | +39.96 USD |
-| TAIWANNUMBERONE | 6 | 0 | 0 | +30.97 USD |
+| TAIWANNUMBERONE | 6 | 0 | 1 | +30.97 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 16 | 7 | 1 | +22.86 USD |
@@ -74,21 +74,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 259 | 147 | 8 | -11.21 USD |
-| HomeRunHazard | 169 | 89 | 48 | -14.84 USD |
+| HomeRunHazard | 169 | 90 | 47 | -19.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 12 | 18 | 5 | -38.14 USD |
+| Sassy-Bucket | 13 | 18 | 4 | -33.26 USD |
 | RN1 | 233 | 104 | 3 | -52.63 USD |
 |  | 32 | 24 | 3 | -59.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1617
-- **Aciertos:** 1051 (65.0%)
+- **Apuestas resueltas:** 1619
+- **Aciertos:** 1052 (65.0%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,073.82
-- **ROI sobre lo apostado:** -0.27%
-- **Comisiones pagadas (taker fee):** $145.33 (1.80% del capital apostado)
+- **Total apostado (suma de stakes):** $8,083.82
+- **ROI sobre lo apostado:** -0.28%
+- **Comisiones pagadas (taker fee):** $145.58 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -97,7 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 779 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 781 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 498 | 71.7% | 67.6% | +4.1 pp |
 | 80-94% | 227 | 85.5% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 113 | 96.5% | 97.3% | -0.9 pp |
@@ -394,6 +394,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 66% | 5.00 | 143.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -423,4 +424,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification WTA: Arantxa Rus  | Teodora Kostovic (BUY) | 72% | 5.00 | 3.5% | ⏳ pendiente | — |
 | HomeRunHazard | Djere vs. Muller: Match O/U 22.5 | Under (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Minnesota Lynx (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 56% | 5.00 | 0.6% | ✅ ganada | +3.82 |

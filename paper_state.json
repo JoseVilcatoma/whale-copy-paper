@@ -1,5 +1,5 @@
 {
-  "bankroll": 563.2348798295403,
+  "bankroll": 562.9898798295403,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8495,6 +8495,16 @@
       "timestamp": 1787622268.1511316,
       "bankroll": 563.23,
       "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins: O/U 5.5"
+    },
+    {
+      "timestamp": 1787622384.2530327,
+      "bankroll": 558.11,
+      "event": "lost: HomeRunHazard \u2014 Texas Rangers vs. Chicago White Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1787622385.7273436,
+      "bankroll": 562.99,
+      "event": "won: Sassy-Bucket \u2014 Texas Rangers vs. Chicago White Sox: O/U 8.5"
     }
   ]
 }
