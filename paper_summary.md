@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 09:55:59 (hora de Perú)
+Actualizado: 2026-08-25 09:58:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $531.06
@@ -410,7 +410,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF M15 Allershausen Men: Edison Ambarzu | Edison Ambarzumjan (BUY) | 96% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF M15 Allershausen Men: Edison Ambarzu | Edison Ambarzumjan (BUY) | 96% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | RN1 | ITF M15 Allershausen Men: Hazem Naw vs B | Bruno Fernandez (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 25.7% | ⏳ pendiente | — |

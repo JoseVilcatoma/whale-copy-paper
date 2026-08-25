@@ -46213,8 +46213,8 @@
     "title": "ITF M15 Allershausen Men: Edison Ambarzumjan vs Marko Bekeni",
     "outcome": "Edison Ambarzumjan",
     "side": "BUY",
-    "whale_usd": 1637.48,
-    "whale_pct": 1.068,
+    "whale_usd": 3292.38,
+    "whale_pct": 2.147,
     "whale_value_at_open": 153341.9808,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -46225,7 +46225,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787669702.7097695,
-    "fills": 1
+    "last_fill_at": 1787669792.656004,
+    "fills": 2
   }
 ]
