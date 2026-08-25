@@ -1,5 +1,5 @@
 {
-  "bankroll": 573.7526037462009,
+  "bankroll": 552.6446069474813,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8625,6 +8625,56 @@
       "timestamp": 1787625537.5426977,
       "bankroll": 573.75,
       "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-4.5)"
+    },
+    {
+      "timestamp": 1787625836.777596,
+      "bankroll": 568.63,
+      "event": "lost: HomeRunHazard \u2014 Golden State Valkyries vs. Minnesota Lynx: O/U 159.5"
+    },
+    {
+      "timestamp": 1787625837.1089454,
+      "bankroll": 563.55,
+      "event": "lost: HomeRunHazard \u2014 Golden State Valkyries vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1787625837.6960967,
+      "bankroll": 558.42,
+      "event": "lost: HomeRunHazard \u2014 Golden State Valkyries vs. Minnesota Lynx: O/U 160.5"
+    },
+    {
+      "timestamp": 1787625839.8030722,
+      "bankroll": 553.3,
+      "event": "lost: HomeRunHazard \u2014 Spread: Minnesota Lynx (-6.5)"
+    },
+    {
+      "timestamp": 1787625840.465233,
+      "bankroll": 558.17,
+      "event": "won: HomeRunHazard \u2014 Spread: Minnesota Lynx (-5.5)"
+    },
+    {
+      "timestamp": 1787625841.6437585,
+      "bankroll": 563.25,
+      "event": "won: HomeRunHazard \u2014 Golden State Valkyries vs. Minnesota Lynx: O/U 160.5"
+    },
+    {
+      "timestamp": 1787625844.011585,
+      "bankroll": 558.12,
+      "event": "lost: HomeRunHazard \u2014 Golden State Valkyries vs. Minnesota Lynx: O/U 161.5"
+    },
+    {
+      "timestamp": 1787625845.8718472,
+      "bankroll": 553.04,
+      "event": "lost: mikesports \u2014 Golden State Valkyries vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1787625845.9720187,
+      "bankroll": 547.96,
+      "event": "lost: Sassy-Bucket \u2014 Golden State Valkyries vs. Minnesota Lynx"
+    },
+    {
+      "timestamp": 1787625847.2985008,
+      "bankroll": 552.64,
+      "event": "won:  \u2014 Golden State Valkyries vs. Minnesota Lynx: O/U 161.5"
     }
   ]
 }

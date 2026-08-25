@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 21:42:18 (hora de Perú)
+Actualizado: 2026-08-24 21:44:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $573.75
-**Retorno acumulado:** +14.75%
+**Bankroll actual:** $552.64
+**Retorno acumulado:** +10.53%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 21:42:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $258.75)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $287.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
-| mikesports | 0 | 0 | 2 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -63,6 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
+| mikesports | 0 | 1 | 1 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
@@ -74,22 +74,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 259 | 147 | 9 | -11.21 USD |
-| HomeRunHazard | 180 | 95 | 31 | -15.46 USD |
+| HomeRunHazard | 182 | 100 | 24 | -31.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 13 | 19 | 3 | -38.39 USD |
+| Sassy-Bucket | 13 | 20 | 2 | -43.47 USD |
 | RN1 | 235 | 104 | 5 | -45.75 USD |
-|  | 32 | 24 | 3 | -59.48 USD |
+|  | 33 | 24 | 2 | -54.80 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1643
-- **Aciertos:** 1068 (65.0%)
+- **Apuestas resueltas:** 1653
+- **Aciertos:** 1071 (64.8%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,203.82
-- **ROI sobre lo apostado:** -0.14%
-- **Comisiones pagadas (taker fee):** $147.95 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,253.82
+- **ROI sobre lo apostado:** -0.39%
+- **Comisiones pagadas (taker fee):** $149.07 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.41% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,8 +97,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 797 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 502 | 71.9% | 67.6% | +4.3 pp |
+| 40-59% | 804 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 505 | 71.5% | 67.6% | +3.8 pp |
 | 80-94% | 229 | 85.2% | 87.1% | -2.0 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
 
@@ -396,7 +396,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 43% | 5.00 | 3.4% | ⏳ pendiente | — |
+| RN1 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 43% | 5.00 | 6.1% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Clara Tauson vs Renata Z | Clara Tauson (BUY) | 57% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Clara Tauson vs Renata Z | Renata Zarazua (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Taipei 2 Men: Kai-I Wang vs Ryot | Ryota Tanuma (BUY) | 86% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -424,5 +424,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Coleman Wong | Coleman Wong (BUY) | 96% | 5.00 | 1.6% | ✅ ganada | +0.20 |
 | Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ❌ perdida | -5.12 |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
-|  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
+|  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ✅ ganada | +4.68 |
 | HomeRunHazard | US Open, Qualification WTA: Ekaterine Go | Ekaterine Gorgodze (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |
