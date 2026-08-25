@@ -50386,8 +50386,8 @@
     "title": "Texas Rangers vs. Chicago White Sox: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 4983.0017,
-    "whale_pct": 1.668,
+    "whale_usd": 19438.004399999998,
+    "whale_pct": 6.507,
     "whale_value_at_open": 298737.076,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -50398,8 +50398,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787694389.7143967,
-    "fills": 1
+    "last_fill_at": 1787701099.3952816,
+    "fills": 4
   },
   {
     "timestamp": 1787694389,
@@ -50410,8 +50410,8 @@
     "title": "Texas Rangers vs. Chicago White Sox: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5358.8883,
-    "whale_pct": 24.621,
+    "whale_usd": 33600.090982999995,
+    "whale_pct": 154.375,
     "whale_value_at_open": 21765.2223,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -50424,8 +50424,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787694390.9619887,
-    "fills": 2
+    "last_fill_at": 1787701119.9427946,
+    "fills": 7
   },
   {
     "timestamp": 1787694392,
