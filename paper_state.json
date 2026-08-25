@@ -1,5 +1,5 @@
 {
-  "bankroll": 561.1235971738098,
+  "bankroll": 560.6835187424373,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8815,6 +8815,16 @@
       "timestamp": 1787632948.7886918,
       "bankroll": 561.12,
       "event": "won: HomeRunHazard \u2014 Chicago Cubs vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787633264.4380686,
+      "bankroll": 565.81,
+      "event": "won: HomeRunHazard \u2014 Atlanta Dream vs. Los Angeles Sparks: O/U 181.5"
+    },
+    {
+      "timestamp": 1787633265.165954,
+      "bankroll": 560.68,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners"
     }
   ]
 }
