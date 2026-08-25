@@ -1,5 +1,5 @@
 {
-  "bankroll": 547.4249138150147,
+  "bankroll": 542.4125103062427,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8715,6 +8715,26 @@
       "timestamp": 1787629550.0391805,
       "bankroll": 547.42,
       "event": "won: casualbet2020 \u2014 Valorant: Ushiras vs Arashi GC (BO3) - VCT Game Changers Brazil Final Stage Playoffs"
+    },
+    {
+      "timestamp": 1787630171.5389798,
+      "bankroll": 549.03,
+      "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Clara Tauson vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1787630179.8293247,
+      "bankroll": 543.89,
+      "event": "lost: ferrariChampions2026 \u2014 Monterrey Open: Clara Tauson vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1787630179.9294631,
+      "bankroll": 547.56,
+      "event": "won: RN1 \u2014 Monterrey Open: Clara Tauson vs Renata Zarazua"
+    },
+    {
+      "timestamp": 1787630180.0296204,
+      "bankroll": 542.41,
+      "event": "lost: RN1 \u2014 Monterrey Open: Clara Tauson vs Renata Zarazua"
     }
   ]
 }
