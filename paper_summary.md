@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:09:44 (hora de Perú)
+Actualizado: 2026-08-25 17:11:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.38
-**Retorno acumulado:** -3.52%
+**Bankroll actual:** $487.07
+**Retorno acumulado:** -2.59%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 17:09:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $32.38)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $32.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 228 | 119 | 40 | -22.04 USD |
+| HomeRunHazard | 228 | 119 | 41 | -22.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 292 | 173 | 16 | -50.57 USD |
 | RN1 | 267 | 122 | 8 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 1 | -53.74 USD |
-|  | 36 | 29 | 7 | -73.49 USD |
+|  | 37 | 29 | 7 | -68.81 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1863
-- **Aciertos:** 1200 (64.4%)
+- **Apuestas resueltas:** 1864
+- **Aciertos:** 1201 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,303.82
-- **ROI sobre lo apostado:** -1.09%
-- **Comisiones pagadas (taker fee):** $167.98 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.71% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,308.82
+- **ROI sobre lo apostado:** -1.04%
+- **Comisiones pagadas (taker fee):** $168.10 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.76% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 905 | 49.9% | 50.2% | -0.2 pp |
+| 40-59% | 906 | 50.0% | 50.2% | -0.2 pp |
 | 60-79% | 568 | 70.1% | 67.6% | +2.5 pp |
 | 80-94% | 263 | 86.3% | 87.0% | -0.7 pp |
 | 95-99% (casi seguro) | 127 | 96.9% | 97.3% | -0.4 pp |
@@ -409,7 +409,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-wehnelt-hardt-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-zandsch-vallejo-2026-08-25 | AV23IUa, HomeRunHazard |
 | atp-cretu-mcdona-2026-08-24 | RN1, ferrariChampions2026 |
-| wta-vidmano-birrell-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
+| wta-vidmano-birrell-2026-08-25 | , HomeRunHazard, ferrariChampions2026 |
 | atp-ofner-nishiko-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-shick-tabur-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-squire-sanchis-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
@@ -439,6 +439,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Winston-Salem Open: James Duckworth vs M | James Duckworth (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
+|  | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 57% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jerome Kym v | Jerome Kym (BUY) | 98% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -467,5 +469,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Cruz  | Arthur Fery (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: DOCISK vs Forsaken (BO3) - Rift Leg | Forsaken (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |

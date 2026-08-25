@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.3837949224064,
+  "bankroll": 487.06571649103387,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9755,6 +9755,11 @@
       "timestamp": 1787695512.8260772,
       "bankroll": 482.38,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Andre Ilagan vs Tristan Boyer"
+    },
+    {
+      "timestamp": 1787695811.9679873,
+      "bankroll": 487.07,
+      "event": "won:  \u2014 Will LASK Linz win on 2026-08-25?"
     }
   ]
 }
