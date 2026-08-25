@@ -1,5 +1,5 @@
 {
-  "bankroll": 587.4700477240428,
+  "bankroll": 582.4080477240428,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8320,6 +8320,11 @@
       "timestamp": 1787617902.3179846,
       "bankroll": 587.47,
       "event": "won: HomeRunHazard \u2014 Djere vs. Muller: Match O/U 22.5"
+    },
+    {
+      "timestamp": 1787618078.7848463,
+      "bankroll": 582.41,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Laslo Djere vs Alexandre Muller"
     }
   ]
 }
