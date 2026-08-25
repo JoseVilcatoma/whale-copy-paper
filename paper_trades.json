@@ -46038,8 +46038,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 1173.913043,
-    "whale_pct": 3.282,
+    "whale_usd": 29253.913043,
+    "whale_pct": 81.79,
     "whale_value_at_open": 35767.1187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -46052,8 +46052,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787668081.7789643,
-    "fills": 1
+    "last_fill_at": 1787668481.584157,
+    "fills": 3
   },
   {
     "timestamp": 1787668169,
@@ -46077,6 +46077,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787668169.6278656,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787668478,
+    "timestamp_added": 1787668479.3164685,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-bellucc-darderi-2026-08-25",
+    "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
+    "outcome": "Mattia Bellucci",
+    "side": "BUY",
+    "whale_usd": 23000.0,
+    "whale_pct": 25.067,
+    "whale_value_at_open": 91752.824,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "quavoo"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787668479.3164804,
     "fills": 1
   }
 ]
