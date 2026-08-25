@@ -48260,8 +48260,8 @@
     "title": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys",
     "outcome": "Quentin Halys",
     "side": "BUY",
-    "whale_usd": 1318.2811,
-    "whale_pct": 0.849,
+    "whale_usd": 2288.4811,
+    "whale_pct": 1.474,
     "whale_value_at_open": 155238.1008,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -48274,8 +48274,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787682217.6904297,
-    "fills": 1
+    "last_fill_at": 1787683327.833266,
+    "fills": 2
   },
   {
     "timestamp": 1787682223,
@@ -48445,6 +48445,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787683211.588891,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787683340,
+    "timestamp_added": 1787683341.1878855,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-lamens-jone-2026-08-25",
+    "title": "US Open, Qualification WTA: Suzan Lamens vs Emerson Jones",
+    "outcome": "Suzan Lamens",
+    "side": "BUY",
+    "whale_usd": 809.0691300000001,
+    "whale_pct": 0.459,
+    "whale_value_at_open": 176134.0121,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787683341.1878963,
     "fills": 1
   }
 ]
