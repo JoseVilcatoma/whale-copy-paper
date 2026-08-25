@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 23:29:56 (hora de Perú)
+Actualizado: 2026-08-24 23:32:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $549.62
-**Retorno acumulado:** +9.92%
+**Bankroll actual:** $563.54
+**Retorno acumulado:** +12.71%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 23:29:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $339.62)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $393.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 17 | 7 | 0 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 23 | 17 | 1 | +15.93 USD |
+| SDTrading | 24 | 17 | 0 | +22.98 USD |
 | ChonkyChocolateCake | 31 | 18 | 0 | +15.33 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -59,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
+| ferrariChampions2026 | 263 | 149 | 5 | -3.97 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | mikesports | 0 | 1 | 1 | -5.08 USD |
@@ -72,9 +73,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ferrariChampions2026 | 261 | 149 | 7 | -15.00 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 186 | 101 | 19 | -21.26 USD |
+| HomeRunHazard | 188 | 104 | 14 | -25.42 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 13 | 20 | 2 | -43.47 USD |
 | RN1 | 237 | 105 | 2 | -46.52 USD |
@@ -82,14 +82,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1669
-- **Aciertos:** 1080 (64.7%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 1677
+- **Aciertos:** 1085 (64.7%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,333.82
-- **ROI sobre lo apostado:** -0.43%
-- **Comisiones pagadas (taker fee):** $150.84 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,373.82
+- **ROI sobre lo apostado:** -0.26%
+- **Comisiones pagadas (taker fee):** $151.86 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.55% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,8 +97,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 815 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 509 | 71.5% | 67.6% | +3.9 pp |
+| 40-59% | 822 | 50.4% | 50.1% | +0.3 pp |
+| 60-79% | 510 | 71.4% | 67.6% | +3.7 pp |
 | 80-94% | 230 | 85.2% | 87.1% | -1.9 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
 

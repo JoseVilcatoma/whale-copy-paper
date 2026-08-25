@@ -1,5 +1,5 @@
 {
-  "bankroll": 549.6194110506596,
+  "bankroll": 563.5389452544865,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8755,6 +8755,46 @@
       "timestamp": 1787632011.2490604,
       "bankroll": 549.62,
       "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1787632313.0768394,
+      "bankroll": 544.5,
+      "event": "lost: HomeRunHazard \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1787632313.87485,
+      "bankroll": 539.37,
+      "event": "lost: HomeRunHazard \u2014 Minnesota Twins vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1787632314.2906878,
+      "bankroll": 546.42,
+      "event": "won: SDTrading \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787632314.3908966,
+      "bankroll": 553.47,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787632314.4911368,
+      "bankroll": 560.51,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787632314.591348,
+      "bankroll": 564.66,
+      "event": "won: HomeRunHazard \u2014 Minnesota Twins vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1787632314.6915362,
+      "bankroll": 568.64,
+      "event": "won: ferrariChampions2026 \u2014 Minnesota Twins vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1787632317.1367745,
+      "bankroll": 563.54,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants"
     }
   ]
 }
