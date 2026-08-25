@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 00:13:07 (hora de Perú)
+Actualizado: 2026-08-25 00:15:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $546.61
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 00:13:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $431.61)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $426.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| Djdjdjekekek | 17 | 12 | 1 | +8.06 USD |
+| Djdjdjekekek | 17 | 12 | 2 | +8.06 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
@@ -393,12 +393,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-col-wsh-2026-08-24-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | atp-wong-moeller-2026-08-24 | , HomeRunHazard, RN1 |
 | wnba-atl-la-2026-08-24-spread-away-9pt5 | HomeRunHazard, ferrariChampions2026 |
-| mlb-pit-sd-2026-08-24 | , RN1 |
+| mlb-pit-sd-2026-08-24 | , Djdjdjekekek, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF M15 Maanshan 8 Men: Vladimir Osminki | Reiya Komagata (BUY) | 64% | 5.00 | 70.8% | ⏳ pendiente | — |
@@ -428,4 +429,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 75% | 5.00 | 0.2% | ✅ ganada | +1.60 |
 | HomeRunHazard | Portland Fire vs. Dallas Wings: O/U 176. | Under (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Over (BUY) | 48% | 5.00 | 0.2% | ✅ ganada | +5.29 |
-| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
