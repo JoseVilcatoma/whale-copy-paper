@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.7723559288907,
+  "bankroll": 489.5222480176031,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9775,6 +9775,26 @@
       "timestamp": 1787697398.0212383,
       "bankroll": 491.77,
       "event": "won: ferrariChampions2026 \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Dhakshineswar Suresh"
+    },
+    {
+      "timestamp": 1787697703.547248,
+      "bankroll": 496.09,
+      "event": "won: RN1 \u2014 Will Southampton FC win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787697707.0775998,
+      "bankroll": 499.75,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Darya Astakhova vs Marina Bassols Ribera"
+    },
+    {
+      "timestamp": 1787697707.177791,
+      "bankroll": 494.62,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Darya Astakhova vs Marina Bassols Ribera"
+    },
+    {
+      "timestamp": 1787697710.131475,
+      "bankroll": 489.52,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Darya Astakhova vs Marina Bassols Ribera"
     }
   ]
 }
