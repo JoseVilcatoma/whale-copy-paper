@@ -45936,8 +45936,8 @@
     "title": "Augsburg: Cezar Cretu vs Niels McDonald",
     "outcome": "Cezar Cretu",
     "side": "BUY",
-    "whale_usd": 11052.420399999999,
-    "whale_pct": 7.543,
+    "whale_usd": 11756.123399999999,
+    "whale_pct": 8.023,
     "whale_value_at_open": 146529.3288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -45950,8 +45950,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787670488.650289,
-    "fills": 2
+    "last_fill_at": 1787670660.1459866,
+    "fills": 3
   },
   {
     "timestamp": 1787667843,
@@ -46275,5 +46275,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787670472.2667446,
     "fills": 3
+  },
+  {
+    "timestamp": 1787670715,
+    "timestamp_added": 1787670715.765925,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-shick-tabur-2026-08-25",
+    "title": "US Open, Qualification ATP: Braden Shick vs Clement Tabur",
+    "outcome": "Clement Tabur",
+    "side": "BUY",
+    "whale_usd": 4579.881600000001,
+    "whale_pct": 3.35,
+    "whale_value_at_open": 136706.3474,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787670716.2840667,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787670719,
+    "timestamp_added": 1787670719.9853163,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-shick-tabur-2026-08-25",
+    "title": "US Open, Qualification ATP: Braden Shick vs Clement Tabur",
+    "outcome": "Clement Tabur",
+    "side": "BUY",
+    "whale_usd": 3295.417741,
+    "whale_pct": 1.981,
+    "whale_value_at_open": 166348.14,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787670719.985328,
+    "fills": 1
   }
 ]
