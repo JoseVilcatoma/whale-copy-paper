@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 23:40:26 (hora de Perú)
+Actualizado: 2026-08-24 23:42:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $557.61
-**Retorno acumulado:** +11.52%
+**Bankroll actual:** $561.12
+**Retorno acumulado:** +12.22%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 23:40:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $397.61)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $401.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,6 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| 11vsldfdsgfkjgos | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -74,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 189 | 106 | 11 | -31.35 USD |
+| HomeRunHazard | 190 | 106 | 10 | -27.83 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 13 | 20 | 2 | -43.47 USD |
 | RN1 | 237 | 105 | 2 | -46.52 USD |
@@ -82,14 +83,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1680
-- **Aciertos:** 1086 (64.6%)
+- **Apuestas resueltas:** 1681
+- **Aciertos:** 1087 (64.7%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,388.82
-- **ROI sobre lo apostado:** -0.33%
-- **Comisiones pagadas (taker fee):** $152.22 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.49% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,393.82
+- **ROI sobre lo apostado:** -0.29%
+- **Comisiones pagadas (taker fee):** $152.33 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 825 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 826 | 50.4% | 50.1% | +0.3 pp |
 | 60-79% | 510 | 71.4% | 67.6% | +3.7 pp |
 | 80-94% | 230 | 85.2% | 87.1% | -1.9 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
@@ -398,6 +399,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 11vsldfdsgfkjgos | ITF M15 Maanshan 8 Men: Vladimir Osminki | Reiya Komagata (BUY) | 64% | 5.00 | 70.8% | ⏳ pendiente | — |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 60% | 5.00 | 13.2% | ⏳ pendiente | — |
 |  | ITF W35 Trieste Women: Viola Turini vs V | Valentina Steiner (BUY) | 57% | 5.00 | 3.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -427,4 +429,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
 | HomeRunHazard | US Open, Qualification WTA: Eva Vedder v | Bianca Andreescu (BUY) | 96% | 5.00 | 0.2% | ✅ ganada | +0.20 |
 |  | Will LASK Linz win on 2026-08-25? | Yes (BUY) | 51% | 5.00 | 12.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
