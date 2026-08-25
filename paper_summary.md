@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:16:31 (hora de Perú)
+Actualizado: 2026-08-25 15:18:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $513.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:16:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $108.22)
+**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $103.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 211 | 112 | 33 | -14.94 USD |
+| HomeRunHazard | 211 | 112 | 34 | -14.94 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
@@ -427,6 +427,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Djdjdjekekek | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 89% | 5.00 | 1589.1% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Daniil Glinka (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -456,4 +457,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Kaylan Bigun (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 6.7% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
