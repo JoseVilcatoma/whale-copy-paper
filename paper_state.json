@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.4110931062528,
+  "bankroll": 533.5577322815105,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9140,6 +9140,11 @@
       "timestamp": 1787675516.1158915,
       "bankroll": 533.41,
       "event": "won: RN1 \u2014 ITF W15 Torello Women: Alice Gillan vs Esther Lopez Alcaraz"
+    },
+    {
+      "timestamp": 1787676146.194215,
+      "bankroll": 533.56,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Dominic Stephan Stricker vs Martin Krumich"
     }
   ]
 }
