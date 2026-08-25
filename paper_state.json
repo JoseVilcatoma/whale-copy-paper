@@ -1,5 +1,5 @@
 {
-  "bankroll": 508.23341910969066,
+  "bankroll": 507.5286420012569,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9330,6 +9330,11 @@
       "timestamp": 1787681464.5053027,
       "bankroll": 508.23,
       "event": "won: RN1 \u2014 US Open, Qualification WTA: Laura Samson vs Tamara Zidansek"
+    },
+    {
+      "timestamp": 1787681527.234202,
+      "bankroll": 507.53,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification ATP: Bernard Tomic vs Lloyd Harris (-0.70 USD)"
     }
   ]
 }

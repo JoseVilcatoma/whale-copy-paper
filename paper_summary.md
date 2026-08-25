@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:12:06 (hora de Perú)
+Actualizado: 2026-08-25 13:14:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $508.23
-**Retorno acumulado:** +1.65%
+**Bankroll actual:** $507.53
+**Retorno acumulado:** +1.51%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:12:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $118.23)
+**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $122.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,9 +48,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| HVAB | 6 | 1 | 1 | +1.51 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| HVAB | 6 | 2 | 0 | +0.81 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
@@ -422,7 +422,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | ⏳ pendiente | — |
+| OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | 💰 vendida anticipada | -0.70 |
 | HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 1.4% | ⏳ pendiente | — |
