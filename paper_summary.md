@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:44:59 (hora de Perú)
+Actualizado: 2026-08-25 17:47:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $489.52
-**Retorno acumulado:** -2.10%
+**Bankroll actual:** $486.81
+**Retorno acumulado:** -2.64%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 17:44:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $34.52)
+**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $51.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,23 +77,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 230 | 120 | 42 | -21.34 USD |
+| HomeRunHazard | 231 | 120 | 41 | -20.87 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 268 | 122 | 7 | -48.95 USD |
-| ferrariChampions2026 | 293 | 174 | 14 | -53.18 USD |
+| RN1 | 270 | 123 | 4 | -47.11 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
-|  | 38 | 29 | 6 | -68.76 USD |
+| ferrariChampions2026 | 293 | 175 | 13 | -58.22 USD |
+|  | 38 | 29 | 7 | -68.76 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1871
-- **Aciertos:** 1206 (64.5%)
+- **Apuestas resueltas:** 1876
+- **Aciertos:** 1209 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,343.82
-- **ROI sobre lo apostado:** -1.01%
-- **Comisiones pagadas (taker fee):** $168.72 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,368.82
+- **ROI sobre lo apostado:** -1.04%
+- **Comisiones pagadas (taker fee):** $169.12 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -101,9 +101,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 909 | 50.1% | 50.2% | -0.1 pp |
-| 60-79% | 571 | 70.1% | 67.6% | +2.5 pp |
-| 80-94% | 263 | 86.3% | 87.0% | -0.7 pp |
+| 40-59% | 911 | 50.1% | 50.2% | -0.1 pp |
+| 60-79% | 572 | 70.1% | 67.6% | +2.5 pp |
+| 80-94% | 265 | 86.0% | 87.0% | -1.0 pp |
 | 95-99% (casi seguro) | 128 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -440,6 +440,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 72% | 5.00 | 5.0% | ⏳ pendiente | — |
 | SnakeBall | Will CR Brasil win on 2026-08-25? | No (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -469,4 +470,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Yeon-Woo Ku  | Yeon-Woo Ku (BUY) | 78% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andre Ilagan | Andre Ilagan (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
-| HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |

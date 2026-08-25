@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.5222480176031,
+  "bankroll": 486.81052070787575,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9795,6 +9795,31 @@
       "timestamp": 1787697710.131475,
       "bankroll": 489.52,
       "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Darya Astakhova vs Marina Bassols Ribera"
+    },
+    {
+      "timestamp": 1787698016.2066135,
+      "bankroll": 493.67,
+      "event": "won: RN1 \u2014 Will Watford FC win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787698016.3068285,
+      "bankroll": 488.53,
+      "event": "lost: RN1 \u2014 Will Watford FC win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787698016.917555,
+      "bankroll": 491.37,
+      "event": "won: RN1 \u2014 Will Wolverhampton Wanderers FC win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787698022.5840464,
+      "bankroll": 486.34,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: DOCISK vs Forsaken (BO3) - Rift Legends Regular Season"
+    },
+    {
+      "timestamp": 1787698022.8223484,
+      "bankroll": 486.81,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Arthur Fery vs Cruz Hewitt"
     }
   ]
 }
