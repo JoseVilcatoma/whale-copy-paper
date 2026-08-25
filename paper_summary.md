@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:49:47 (hora de Perú)
+Actualizado: 2026-08-25 10:51:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $538.16
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:49:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $198.16)
+**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $168.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,9 +77,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 275 | 160 | 28 | -30.11 USD |
+| ferrariChampions2026 | 275 | 160 | 32 | -30.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 241 | 106 | 17 | -36.92 USD |
+| RN1 | 241 | 106 | 19 | -36.92 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -408,12 +408,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-ofner-nishiko-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-shick-tabur-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-squire-sanchis-2026-08-25 | RN1, ferrariChampions2026 |
+| atp-kwon-lajovic-2026-08-25 | RN1, ferrariChampions2026 |
+| wta-samson-zidanse-2026-08-25 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 52% | 5.00 | 4.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Jodie Burrage (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Guiomar Maristany (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 56% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 84% | 5.00 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: PCIFIC  vs SU Esports (BO5) - TCL P | SU Esports (BUY) | 82% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 52% | 5.00 | 12.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Henri Haupt vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 98% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Samuel De Felipe Gar | Xavi Palomar (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -428,7 +436,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 76% | 5.00 | 52.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Shintaro Moc | Shintaro Mochizuki (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Facundo Mena (BUY) | 92% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 67% | 5.00 | 8.2% | ⏳ pendiente | — |
 | RN1 | Spread: PFK Dinamo Samarqand (-1.5) | Pakhtakor (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Alejandro Garcia Carbajal (BUY) | 82% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Javier Barranco Cosano (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -437,9 +445,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Braden Shick | Clement Tabur (BUY) | 70% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Braden Shick | Clement Tabur (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Sebastian Of | Sebastian Ofner (BUY) | 50% | 5.00 | 3.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Inaki Montes vs Gabi Boita | Gabi Boitan (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | ITF M15 Allershausen Men: Edison Ambarzu | Edison Ambarzumjan (BUY) | 96% | 5.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
-| RN1 | ITF M15 Allershausen Men: Hazem Naw vs B | Bruno Fernandez (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
-| texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 150.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Max Hans Rehberg (BUY) | 74% | 5.00 | 6.9% | ⏳ pendiente | — |
