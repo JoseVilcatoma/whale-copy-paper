@@ -1,5 +1,5 @@
 {
-  "bankroll": 518.92028492346,
+  "bankroll": 519.921797528502,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9390,6 +9390,21 @@
       "timestamp": 1787685738.5386422,
       "bankroll": 518.92,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Alina Charaeva vs Susan Bandecchi"
+    },
+    {
+      "timestamp": 1787686045.1896935,
+      "bankroll": 513.83,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko"
+    },
+    {
+      "timestamp": 1787686045.7427223,
+      "bankroll": 517.65,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Gauthier Onclin vs Vitaliy Sachko"
+    },
+    {
+      "timestamp": 1787686048.2209837,
+      "bankroll": 519.92,
+      "event": "won: OOOwhyOOO \u2014 US Open, Qualification ATP: Bernard Tomic vs Lloyd Harris"
     }
   ]
 }
