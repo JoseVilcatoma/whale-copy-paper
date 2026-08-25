@@ -44888,8 +44888,8 @@
     "title": "ITF M25 Poznan Men: Adam Kaczmarek vs Leonardo Iemmi",
     "outcome": "Leonardo Iemmi",
     "side": "BUY",
-    "whale_usd": 1355.869564,
-    "whale_pct": 81.789,
+    "whale_usd": 3090.026664,
+    "whale_pct": 186.398,
     "whale_value_at_open": 1657.7591,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -44900,7 +44900,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787646004.272314,
-    "fills": 2
+    "last_fill_at": 1787646227.6339474,
+    "fills": 3
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 03:22:09 (hora de Perú)
+Actualizado: 2026-08-25 03:24:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $545.36
@@ -399,7 +399,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 11vsldfdsgfkjgos | ITF M25 Poznan Men: Adam Kaczmarek vs Le | Leonardo Iemmi (BUY) | 79% | 5.00 | 81.8% | ⏳ pendiente | — |
+| 11vsldfdsgfkjgos | ITF M25 Poznan Men: Adam Kaczmarek vs Le | Leonardo Iemmi (BUY) | 79% | 5.00 | 186.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | PuckChamp (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 85% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W15 Brasov Women: Anastasia Preda vs | Anastasia Preda (BUY) | 60% | 5.00 | 2.8% | ⏳ pendiente | — |
