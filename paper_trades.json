@@ -44912,8 +44912,8 @@
     "title": "FC Seoul vs. Bucheon FC 1995: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2824.6065,
-    "whale_pct": 5.051,
+    "whale_usd": 5247.776499,
+    "whale_pct": 9.384,
     "whale_value_at_open": 55921.1362,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -44924,8 +44924,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787646689.8257282,
-    "fills": 1
+    "last_fill_at": 1787649899.7594128,
+    "fills": 2
   },
   {
     "timestamp": 1787647976,
@@ -45071,6 +45071,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787649366.2535563,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787649877,
+    "timestamp_added": 1787649878.012878,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "kor-seo-bch-2026-08-25-spread-home-1pt5",
+    "title": "Spread: FC Seoul (-1.5)",
+    "outcome": "Bucheon FC 1995",
+    "side": "BUY",
+    "whale_usd": 7057.009998999999,
+    "whale_pct": 10.352,
+    "whale_value_at_open": 68169.7015,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787649878.0128922,
     "fills": 1
   }
 ]
