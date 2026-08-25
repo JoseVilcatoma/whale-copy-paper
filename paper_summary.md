@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 19:52:43 (hora de Perú)
+Actualizado: 2026-08-24 19:54:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $584.46
-**Retorno acumulado:** +16.89%
+**Bankroll actual:** $582.00
+**Retorno acumulado:** +16.40%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 19:52:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $535.00 en 107 posiciones abiertas (disponible para nuevas apuestas: $49.46)
+**Capital comprometido ahora mismo:** $530.00 en 106 posiciones abiertas (disponible para nuevas apuestas: $52.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 157 | 80 | 64 | -13.81 USD |
+| HomeRunHazard | 158 | 81 | 63 | -16.27 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 232 | 102 | 6 | -46.03 USD |
@@ -82,14 +82,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1585
-- **Aciertos:** 1035 (65.3%)
+- **Apuestas resueltas:** 1587
+- **Aciertos:** 1036 (65.3%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,913.82
-- **ROI sobre lo apostado:** -0.01%
-- **Comisiones pagadas (taker fee):** $142.02 (1.79% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,923.82
+- **ROI sobre lo apostado:** -0.04%
+- **Comisiones pagadas (taker fee):** $142.17 (1.79% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.75% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 759 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 490 | 71.8% | 67.6% | +4.2 pp |
+| 60-79% | 492 | 71.7% | 67.7% | +4.1 pp |
 | 80-94% | 224 | 86.6% | 87.1% | -0.5 pp |
 | 95-99% (casi seguro) | 112 | 96.4% | 97.3% | -0.9 pp |
 
@@ -392,7 +392,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 4. | Over (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 4. | Over (BUY) | 60% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Miami Marlins (BUY) | 86% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Jack Pinnington Jones (BUY) | 68% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -421,4 +422,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 50% | 5.00 | 36.5% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Dayana Ya | Janice Tjen (BUY) | 51% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Donghui | Winston-Salem Open: Daniel Altmaier vs F | Francisco Comesana (BUY) | 53% | 5.00 | 37.5% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |

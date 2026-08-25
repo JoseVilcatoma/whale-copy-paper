@@ -1,5 +1,5 @@
 {
-  "bankroll": 584.4641151364655,
+  "bankroll": 582.0014228287732,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8335,6 +8335,16 @@
       "timestamp": 1787618960.8641968,
       "bankroll": 584.46,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Alvaro Guillen Meza vs Andrew Fenty"
+    },
+    {
+      "timestamp": 1787619267.4288645,
+      "bankroll": 579.4,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez"
+    },
+    {
+      "timestamp": 1787619268.931481,
+      "bankroll": 582.0,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Caroline Dolehide vs Veronika Podrez"
     }
   ]
 }
