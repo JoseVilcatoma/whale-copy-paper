@@ -47168,8 +47168,8 @@
     "title": "Will Real Betis Balompi\u00e9 win on 2026-08-25?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 43492.411510000005,
-    "whale_pct": 218.83,
+    "whale_usd": 61518.45341500001,
+    "whale_pct": 309.527,
     "whale_value_at_open": 19875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -47180,8 +47180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787674576.442357,
-    "fills": 6
+    "last_fill_at": 1787680735.823847,
+    "fills": 17
   },
   {
     "timestamp": 1787674325,
