@@ -1,5 +1,5 @@
 {
-  "bankroll": 508.09874576984237,
+  "bankroll": 516.4130105707732,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9475,6 +9475,36 @@
       "timestamp": 1787687605.3613677,
       "bankroll": 508.1,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Arantxa Rus vs Teodora Kostovic"
+    },
+    {
+      "timestamp": 1787687914.8622067,
+      "bankroll": 511.47,
+      "event": "won: AV23IUa \u2014 Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo"
+    },
+    {
+      "timestamp": 1787687918.2564135,
+      "bankroll": 514.84,
+      "event": "won: RN1 \u2014 FK Auda Riga vs. FK Liepaja: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1787687918.988032,
+      "bankroll": 509.74,
+      "event": "lost: RN1 \u2014 Will FK Auda Riga win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787687922.1444135,
+      "bankroll": 513.56,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy"
+    },
+    {
+      "timestamp": 1787687922.605035,
+      "bankroll": 515.43,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy"
+    },
+    {
+      "timestamp": 1787687924.6128979,
+      "bankroll": 516.41,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Botic van de Zandschulp vs Adolfo Vallejo"
     }
   ]
 }
