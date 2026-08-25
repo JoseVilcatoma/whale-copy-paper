@@ -47378,5 +47378,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787675867.912681,
     "fills": 1
+  },
+  {
+    "timestamp": 1787676636,
+    "timestamp_added": 1787676637.248111,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "wta-zhang-timofee-2026-08-25",
+    "title": "Monterrey Open: Shuai Zhang vs Maria Timofeeva",
+    "outcome": "Shuai Zhang",
+    "side": "BUY",
+    "whale_usd": 7101.9884,
+    "whale_pct": 4.341,
+    "whale_value_at_open": 163597.414,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787676637.2481241,
+    "fills": 1
   }
 ]

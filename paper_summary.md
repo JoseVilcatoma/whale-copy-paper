@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:48:43 (hora de Perú)
+Actualizado: 2026-08-25 11:50:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.42
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:48:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $128.42)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $123.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | quavoo | 1 | 1 | 1 | -0.98 USD |
-| AV23IUa | 1 | 1 | 3 | -1.16 USD |
+| AV23IUa | 1 | 1 | 4 | -1.16 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -416,6 +416,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Dusan Lajovic (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Braden Shick | Braden Shick (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Sabah FK win on 2026-08-25? | No (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -445,4 +446,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Philadelphia: Xiyu Wang vs Jessica Bouza | Xiyu Wang (BUY) | 51% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elizabeth Ma | Elizabeth Mandlik (BUY) | 85% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | ITF M15 Champaign, IL Men: Preston Stear | Preston Stearns (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
