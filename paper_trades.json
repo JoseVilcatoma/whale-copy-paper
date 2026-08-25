@@ -44662,5 +44662,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787636908.6819403,
     "fills": 4
+  },
+  {
+    "timestamp": 1787637972,
+    "timestamp_added": 1787637972.7484562,
+    "username": "quavoo",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "kbo-lot-kia-2026-08-25",
+    "title": "KBO: Lotte Giants vs. Kia Tigers",
+    "outcome": "Kia Tigers",
+    "side": "BUY",
+    "whale_usd": 761.08,
+    "whale_pct": 0.368,
+    "whale_value_at_open": 206623.5073,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787637972.7484705,
+    "fills": 1
   }
 ]

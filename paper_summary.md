@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 01:05:37 (hora de Perú)
+Actualizado: 2026-08-25 01:07:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $541.58
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 01:05:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $421.58)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $416.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
-| quavoo | 0 | 1 | 0 | -5.12 USD |
+| quavoo | 0 | 1 | 1 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
@@ -399,6 +399,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| quavoo | KBO: Lotte Giants vs. Kia Tigers | Kia Tigers (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 3.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | 💰 vendida anticipada | -5.02 |
@@ -428,4 +429,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Miami Marlins (BUY) | 86% | 5.00 | 2.2% | ❌ perdida | -5.04 |
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Jack Pinnington Jones (BUY) | 68% | 5.00 | 0.1% | ✅ ganada | +2.27 |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 75% | 5.00 | 0.2% | ✅ ganada | +1.60 |
-| HomeRunHazard | Portland Fire vs. Dallas Wings: O/U 176. | Under (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
