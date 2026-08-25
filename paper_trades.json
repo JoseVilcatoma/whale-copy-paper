@@ -45516,5 +45516,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787659984.8011482,
     "fills": 1
+  },
+  {
+    "timestamp": 1787660725,
+    "timestamp_added": 1787660725.7635136,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-kozakov-manta-2026-08-25",
+    "title": "ITF W35 Verbier 2 Women: Karolina Kozakova vs Noelia Manta",
+    "outcome": "Karolina Kozakova",
+    "side": "BUY",
+    "whale_usd": 2429.2799999999997,
+    "whale_pct": 1.967,
+    "whale_value_at_open": 123523.2121,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787660757.035974,
+    "fills": 2
   }
 ]
