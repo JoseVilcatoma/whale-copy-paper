@@ -49520,8 +49520,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 10483.9629,
-    "whale_pct": 4.14,
+    "whale_usd": 11248.9629,
+    "whale_pct": 4.442,
     "whale_value_at_open": 253222.9469,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -49532,8 +49532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787690154.0812454,
-    "fills": 1
+    "last_fill_at": 1787700631.1762793,
+    "fills": 2
   },
   {
     "timestamp": 1787690201,
@@ -49768,8 +49768,8 @@
     "title": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
     "outcome": "Raphael Collignon",
     "side": "BUY",
-    "whale_usd": 3885.0020000000004,
-    "whale_pct": 1.182,
+    "whale_usd": 7992.420300000001,
+    "whale_pct": 2.432,
     "whale_value_at_open": 328670.4691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -49782,8 +49782,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787690783.6730168,
-    "fills": 1
+    "last_fill_at": 1787700655.3466005,
+    "fills": 2
   },
   {
     "timestamp": 1787690794,
@@ -49998,8 +49998,8 @@
     "title": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
     "outcome": "Rinky Hijikata",
     "side": "BUY",
-    "whale_usd": 11559.693800000001,
-    "whale_pct": 3.512,
+    "whale_usd": 14532.443800000001,
+    "whale_pct": 4.415,
     "whale_value_at_open": 329151.0837,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -50012,8 +50012,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787700272.6216269,
-    "fills": 3
+    "last_fill_at": 1787700619.271766,
+    "fills": 4
   },
   {
     "timestamp": 1787691756,
