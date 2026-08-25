@@ -48652,8 +48652,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 5559.0176,
-    "whale_pct": 2.72,
+    "whale_usd": 9602.0162,
+    "whale_pct": 4.699,
     "whale_value_at_open": 204349.5985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -48668,8 +48668,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787686273.3165686,
-    "fills": 3
+    "last_fill_at": 1787686447.4860165,
+    "fills": 4
   },
   {
     "timestamp": 1787685498,
@@ -48861,6 +48861,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787686274.4913342,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787686478,
+    "timestamp_added": 1787686479.2129056,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-kim-johns-2026-08-25",
+    "title": "Kingston 2: Aidan Kim vs Garrett Johns",
+    "outcome": "Garrett Johns",
+    "side": "BUY",
+    "whale_usd": 4847.766,
+    "whale_pct": 102.385,
+    "whale_value_at_open": 4734.8314,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787686479.2129161,
     "fills": 1
   }
 ]

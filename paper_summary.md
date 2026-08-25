@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:33:15 (hora de Perú)
+Actualizado: 2026-08-25 14:35:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:33:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $74.92)
+**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $69.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
-| HVAB | 7 | 2 | 0 | +3.08 USD |
+| HVAB | 7 | 2 | 1 | +3.08 USD |
 | vito3corleone | 1 | 0 | 1 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -418,11 +418,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-presto-hibino-2026-08-25 | HomeRunHazard, RN1 |
 | atp-bolt-ruiz-2026-08-25 | HomeRunHazard, RN1 |
 | atp-kouame-basavar-2026-08-25 | HomeRunHazard, RN1 |
+| atp-kim-johns-2026-08-25 | HomeRunHazard, OOOwhyOOO |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 99% | 5.00 | 102.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 66% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Lola Radivoj | Lola Radivojevic (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -431,7 +433,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Kaylan Bigun (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 2.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 169 | Over (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -452,4 +454,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ✅ ganada | +0.25 |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | 💰 vendida anticipada | -0.70 |
 | HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 3.8% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
