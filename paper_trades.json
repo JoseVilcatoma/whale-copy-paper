@@ -45172,5 +45172,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787652433.1306286,
     "fills": 2
+  },
+  {
+    "timestamp": 1787652884,
+    "timestamp_added": 1787652884.3161724,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "kor-seo-bch-2026-08-25-spread-home-1pt5",
+    "title": "Spread: FC Seoul (-1.5)",
+    "outcome": "Bucheon FC 1995",
+    "side": "BUY",
+    "whale_usd": 4780.729998000001,
+    "whale_pct": 6.406,
+    "whale_value_at_open": 74624.6763,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787652886.2867827,
+    "fills": 2
   }
 ]
