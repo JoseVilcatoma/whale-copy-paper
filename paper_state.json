@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.3275105707731,
+  "bankroll": 512.9377333930969,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9510,6 +9510,21 @@
       "timestamp": 1787688427.6521194,
       "bankroll": 516.33,
       "event": "venta anticipada: OOOwhyOOO \u2014 Kingston 2: Keshav Chopra vs Kaylan Bigun (-0.09 USD)"
+    },
+    {
+      "timestamp": 1787688542.1212032,
+      "bankroll": 517.04,
+      "event": "won: RN1 \u2014 Will Al Fayha Saudi Club win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787688542.9551487,
+      "bankroll": 511.96,
+      "event": "lost: RN1 \u2014 Al Taawoun Saudi Club vs. Al Fayha Saudi Club: O/U 0.5"
+    },
+    {
+      "timestamp": 1787688548.1825218,
+      "bankroll": 512.94,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Henrique Rocha vs Michael Mmoh"
     }
   ]
 }
