@@ -49290,5 +49290,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787688367.2108018,
     "fills": 1
+  },
+  {
+    "timestamp": 1787688611,
+    "timestamp_added": 1787688611.791851,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-martine-glinka-2026-08-25",
+    "title": "US Open, Qualification ATP: Pedro Martinez vs Daniil Glinka",
+    "outcome": "Daniil Glinka",
+    "side": "BUY",
+    "whale_usd": 2556.0000999999997,
+    "whale_pct": 1.012,
+    "whale_value_at_open": 252604.3597,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787688611.7918599,
+    "fills": 1
   }
 ]

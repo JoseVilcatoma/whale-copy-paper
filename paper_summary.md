@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:10:11 (hora de Perú)
+Actualizado: 2026-08-25 15:12:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $512.94
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:10:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $102.94)
+**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $97.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 210 | 111 | 33 | -10.49 USD |
+| HomeRunHazard | 210 | 111 | 34 | -10.49 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
@@ -426,6 +426,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Daniil Glinka (BUY) | 74% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Kylie Collins (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Marina Bassols Ribera (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -455,4 +456,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 169 | Over (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 2.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Annika Penickova (BUY) | 44% | 5.00 | 2.3% | ⏳ pendiente | — |
