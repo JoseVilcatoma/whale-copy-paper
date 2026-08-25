@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.6291546385595,
+  "bankroll": 523.6887938138173,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9025,6 +9025,16 @@
       "timestamp": 1787666187.665917,
       "bankroll": 528.63,
       "event": "lost: ferrariChampions2026 \u2014 ITF W35 Verbier 2 Women: Karolina Kozakova vs Noelia Manta"
+    },
+    {
+      "timestamp": 1787668067.9317522,
+      "bankroll": 523.54,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Petr Brunclik vs Daniel Masur"
+    },
+    {
+      "timestamp": 1787668070.011851,
+      "bankroll": 523.69,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Petr Brunclik vs Daniel Masur"
     }
   ]
 }
