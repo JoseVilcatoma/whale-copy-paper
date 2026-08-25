@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.81052070787575,
+  "bankroll": 488.29173749109253,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9820,6 +9820,21 @@
       "timestamp": 1787698022.8223484,
       "bankroll": 486.81,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Arthur Fery vs Cruz Hewitt"
+    },
+    {
+      "timestamp": 1787698643.0272975,
+      "bankroll": 490.79,
+      "event": "won: RN1 \u2014 Stoke City FC vs. Hull City AFC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787698650.8578956,
+      "bankroll": 485.69,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Julia Avdeeva vs Katherine Sebov"
+    },
+    {
+      "timestamp": 1787698651.7814007,
+      "bankroll": 488.29,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Julia Avdeeva vs Katherine Sebov"
     }
   ]
 }
