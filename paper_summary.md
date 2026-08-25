@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 21:58:38 (hora de Perú)
+Actualizado: 2026-08-24 22:00:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $553.36
-**Retorno acumulado:** +10.67%
+**Bankroll actual:** $544.64
+**Retorno acumulado:** +8.93%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 21:58:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $293.36)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $299.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| vibing123 | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -67,14 +66,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
+| vibing123 | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
-| Donghui | 0 | 2 | 2 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 259 | 147 | 9 | -11.21 USD |
-| HomeRunHazard | 182 | 100 | 24 | -31.08 USD |
+| Donghui | 0 | 3 | 1 | -15.38 USD |
+| HomeRunHazard | 183 | 100 | 23 | -29.56 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 13 | 20 | 2 | -43.47 USD |
 | RN1 | 236 | 104 | 4 | -45.04 USD |
@@ -82,14 +82,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1654
-- **Aciertos:** 1072 (64.8%)
+- **Apuestas resueltas:** 1657
+- **Aciertos:** 1073 (64.8%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,258.82
-- **ROI sobre lo apostado:** -0.39%
-- **Comisiones pagadas (taker fee):** $149.10 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.42% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,273.82
+- **ROI sobre lo apostado:** -0.49%
+- **Comisiones pagadas (taker fee):** $149.40 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,8 +97,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 804 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 505 | 71.5% | 67.6% | +3.8 pp |
+| 40-59% | 806 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 506 | 71.5% | 67.7% | +3.9 pp |
 | 80-94% | 230 | 85.2% | 87.1% | -1.9 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
 
@@ -407,7 +407,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Atlanta Dream (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs F | Daniel Altmaier (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs F | Daniel Altmaier (BUY) | 76% | 5.00 | 0.2% | ✅ ganada | +1.52 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 4. | Over (BUY) | 60% | 5.00 | 1.8% | ✅ ganada | +3.23 |

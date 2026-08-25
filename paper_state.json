@@ -1,5 +1,5 @@
 {
-  "bankroll": 553.3587333842629,
+  "bankroll": 544.640680752684,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8680,6 +8680,21 @@
       "timestamp": 1787626149.089634,
       "bankroll": 553.36,
       "event": "won: RN1 \u2014 Will Am\u00e9rica FC win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787626757.0804086,
+      "bankroll": 548.24,
+      "event": "lost: vibing123 \u2014 Winston-Salem Open: Daniel Altmaier vs Francisco Comesana"
+    },
+    {
+      "timestamp": 1787626762.6583347,
+      "bankroll": 543.12,
+      "event": "lost: Donghui \u2014 Winston-Salem Open: Daniel Altmaier vs Francisco Comesana"
+    },
+    {
+      "timestamp": 1787626764.7722123,
+      "bankroll": 544.64,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Daniel Altmaier vs Francisco Comesana"
     }
   ]
 }
