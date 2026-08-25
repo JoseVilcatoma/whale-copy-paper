@@ -48552,8 +48552,8 @@
     "title": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova",
     "outcome": "Annika Penickova",
     "side": "BUY",
-    "whale_usd": 6395.854466,
-    "whale_pct": 3.209,
+    "whale_usd": 7754.854466,
+    "whale_pct": 3.891,
     "whale_value_at_open": 199295.2555,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -48564,8 +48564,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787689522.8507817,
-    "fills": 4
+    "last_fill_at": 1787689613.350247,
+    "fills": 5
   },
   {
     "timestamp": 1787685165,
@@ -49414,5 +49414,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787689401.1229963,
     "fills": 1
+  },
+  {
+    "timestamp": 1787689658,
+    "timestamp_added": 1787689659.1257498,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-piros-gurri-2026-08-25",
+    "title": "US Open, Qualification ATP: Zsombor Piros vs Max Alcala Gurri",
+    "outcome": "Zsombor Piros",
+    "side": "BUY",
+    "whale_usd": 5116.5880799999995,
+    "whale_pct": 1.723,
+    "whale_value_at_open": 297000.0405,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787689660.3720162,
+    "fills": 2
   }
 ]
