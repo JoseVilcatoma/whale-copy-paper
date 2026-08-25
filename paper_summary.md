@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:24:56 (hora de Perú)
+Actualizado: 2026-08-25 14:27:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $518.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:24:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $88.92)
+**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $73.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 204 | 111 | 21 | -23.95 USD |
+| HomeRunHazard | 204 | 111 | 24 | -23.95 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 168 | 16 | -37.54 USD |
 | RN1 | 258 | 115 | 24 | -44.01 USD |
@@ -423,12 +423,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Pedro Martinez (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Kaylan Bigun (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 169 | Over (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Annika Penickova (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 83% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -450,6 +453,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 63% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 99% | 5.00 | 1.9% | ✅ ganada | +0.05 |
-| RN1 | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification WTA: Viktoria Hru | Viktoria Hruncakova (BUY) | 72% | 5.00 | 0.3% | ✅ ganada | +1.87 |
-| RN1 | ITF M25 Oldenzaal Men: Jelle Sels vs Sti | Jelle Sels (BUY) | 64% | 5.00 | 0.2% | ✅ ganada | +2.72 |
