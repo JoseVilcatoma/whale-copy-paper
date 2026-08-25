@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:28:57 (hora de Perú)
+Actualizado: 2026-08-25 10:31:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $538.16
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:28:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $273.16)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $258.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 17 | 7 | 1 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 24 | 17 | 3 | +22.98 USD |
-| TAIWANNUMBERONE | 6 | 2 | 0 | +20.79 USD |
+| TAIWANNUMBERONE | 6 | 2 | 1 | +20.79 USD |
 | ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -77,9 +77,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 275 | 160 | 20 | -30.11 USD |
+| ferrariChampions2026 | 275 | 160 | 21 | -30.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 241 | 106 | 12 | -36.92 USD |
+| RN1 | 241 | 106 | 13 | -36.92 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -412,6 +412,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 76% | 5.00 | 52.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Shintaro Moc | Shintaro Mochizuki (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Facundo Mena (BUY) | 92% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Spread: PFK Dinamo Samarqand (-1.5) | Pakhtakor (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Alejandro Garcia Carbajal (BUY) | 82% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -439,6 +442,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 59% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 46% | 5.00 | 1.1% | ✅ ganada | +5.73 |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Daniel Masur (BUY) | 97% | 5.00 | 2.9% | ✅ ganada | +0.15 |
-| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Benjamin Hassan (BUY) | 54% | 5.00 | 15.3% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Nick Hardt (BUY) | 57% | 5.00 | 1.5% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 61% | 5.00 | 6.2% | ⏳ pendiente | — |
