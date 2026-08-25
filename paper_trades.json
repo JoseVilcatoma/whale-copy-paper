@@ -49998,8 +49998,8 @@
     "title": "Winston-Salem Open: Raphael Collignon vs Rinky Hijikata",
     "outcome": "Rinky Hijikata",
     "side": "BUY",
-    "whale_usd": 2531.6973,
-    "whale_pct": 0.769,
+    "whale_usd": 5834.6973,
+    "whale_pct": 1.773,
     "whale_value_at_open": 329151.0837,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -50012,8 +50012,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787691593.436636,
-    "fills": 1
+    "last_fill_at": 1787698735.606536,
+    "fills": 2
   },
   {
     "timestamp": 1787691756,
@@ -50462,8 +50462,8 @@
     "title": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi",
     "outcome": "Yunchaokete Bu",
     "side": "BUY",
-    "whale_usd": 2249.9976,
-    "whale_pct": 0.74,
+    "whale_usd": 4611.7707,
+    "whale_pct": 1.517,
     "whale_value_at_open": 304021.0733,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -50474,8 +50474,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787694559.5843456,
-    "fills": 1
+    "last_fill_at": 1787698748.8710036,
+    "fills": 3
   },
   {
     "timestamp": 1787695145,
@@ -50806,8 +50806,8 @@
     "title": "Spread: Chicago Sky (-6.5)",
     "outcome": "Chicago Sky",
     "side": "BUY",
-    "whale_usd": 679.5672,
-    "whale_pct": 0.204,
+    "whale_usd": 1428.210468,
+    "whale_pct": 0.429,
     "whale_value_at_open": 332775.7201,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -50818,8 +50818,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787696525.5662022,
-    "fills": 1
+    "last_fill_at": 1787698742.3150737,
+    "fills": 2
   },
   {
     "timestamp": 1787697855,
@@ -50966,5 +50966,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787698518.3002403,
     "fills": 1
+  },
+  {
+    "timestamp": 1787698745,
+    "timestamp_added": 1787698745.990772,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-bu-noguchi-2026-08-25",
+    "title": "US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi",
+    "outcome": "Rio Noguchi",
+    "side": "BUY",
+    "whale_usd": 4570.4083,
+    "whale_pct": 1.288,
+    "whale_value_at_open": 354830.3336,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787698750.5626755,
+    "fills": 3
   }
 ]

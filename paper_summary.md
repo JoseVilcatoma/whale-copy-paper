@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:57:40 (hora de Perú)
+Actualizado: 2026-08-25 17:59:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.29
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 17:57:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $48.29)
+**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $43.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,7 +78,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 232 | 121 | 41 | -23.36 USD |
+| HomeRunHazard | 232 | 121 | 42 | -23.36 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 271 | 123 | 3 | -43.13 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
@@ -442,13 +442,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Rio Noguchi (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
 |  | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | winwin518168 | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 58% | 5.00 | 73.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-6.5) | Connecticut Sun (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 72% | 5.00 | 5.0% | ⏳ pendiente | — |
 | SnakeBall | Will CR Brasil win on 2026-08-25? | No (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Tomas Machac (BUY) | 64% | 5.00 | 7.2% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Shuai Zhang vs Maria Tim | Maria Timofeeva (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -462,7 +463,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs HANJIN BRION | HANJIN BRION (BUY) | 45% | 5.00 | 11.4% | ⏳ pendiente | — |
 |  | Will Lyn 1896 FK win on 2026-08-26? | Yes (BUY) | 48% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 60% | 5.00 | 1.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Luca Nardi v | Federico Cina (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 48% | 5.00 | 24.6% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -471,4 +472,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Julia Avdeev | Julia Avdeeva (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
 | HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Storm Hunter | Storm Hunter (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
-|  | Will Deportivo Madryn win on 2026-08-25? | Yes (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
