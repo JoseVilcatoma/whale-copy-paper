@@ -44582,5 +44582,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787633322.0388112,
     "fills": 1
+  },
+  {
+    "timestamp": 1787634425,
+    "timestamp_added": 1787634426.666983,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "wta-parry-vekic-2026-08-24",
+    "title": "Monterrey Open: Diane Parry vs Donna Vekic",
+    "outcome": "Donna Vekic",
+    "side": "BUY",
+    "whale_usd": 24603.1912,
+    "whale_pct": 779.22,
+    "whale_value_at_open": 3157.413,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787634488.1513689,
+    "fills": 2
   }
 ]
