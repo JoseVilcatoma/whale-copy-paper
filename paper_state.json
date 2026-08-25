@@ -1,5 +1,5 @@
 {
-  "bankroll": 547.7961210283563,
+  "bankroll": 550.7656371573886,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8930,6 +8930,11 @@
       "timestamp": 1787654332.0665624,
       "bankroll": 547.8,
       "event": "won: 11vsldfdsgfkjgos \u2014 ITF M25 Poznan Men: Adam Kaczmarek vs Leonardo Iemmi"
+    },
+    {
+      "timestamp": 1787656522.884272,
+      "bankroll": 550.77,
+      "event": "won: ferrariChampions2026 \u2014 ITF W35 Verbier 2 Women: Liv Boulard vs Cristina Pescucci"
     }
   ]
 }
