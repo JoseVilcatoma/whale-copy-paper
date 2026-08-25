@@ -43331,8 +43331,8 @@
     "title": "Winston-Salem Open: Daniel Altmaier vs Francisco Comesana",
     "outcome": "Francisco Comesana",
     "side": "BUY",
-    "whale_usd": 15219.105200000002,
-    "whale_pct": 23.203,
+    "whale_usd": 24594.519733,
+    "whale_pct": 37.496,
     "whale_value_at_open": 65592.1662,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -43345,8 +43345,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787613756.5410132,
-    "fills": 2
+    "last_fill_at": 1787617969.5450234,
+    "fills": 4
   },
   {
     "timestamp": 1787614159,
