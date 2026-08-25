@@ -45198,5 +45198,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787652886.2867827,
     "fills": 2
+  },
+  {
+    "timestamp": 1787653622,
+    "timestamp_added": 1787653622.9805148,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-matusev-kouzmin-2026-08-25",
+    "title": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine",
+    "outcome": "Anton Matusevich",
+    "side": "BUY",
+    "whale_usd": 3859.017242,
+    "whale_pct": 3.986,
+    "whale_value_at_open": 96822.9121,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787653646.5666964,
+    "fills": 2
   }
 ]
