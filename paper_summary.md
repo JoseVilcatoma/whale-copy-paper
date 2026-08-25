@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:17:51 (hora de Perú)
+Actualizado: 2026-08-25 17:19:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $487.07
@@ -444,7 +444,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 45.2% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: James Duckworth vs M | James Duckworth (BUY) | 71% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 57% | 5.00 | 2.9% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Darja Vidmanova (BUY) | 45% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jerome Kym v | Jerome Kym (BUY) | 98% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 10.5 | Under (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: KT (-1.5) vs HANJIN BRION | HANJIN BRION (BUY) | 45% | 5.00 | 11.4% | ⏳ pendiente | — |
@@ -458,10 +458,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Luca Nardi v | Federico Cina (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julia Avdeev | Julia Avdeeva (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Storm Hunter | Storm Hunter (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Storm Hunter | Storm Hunter (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will Deportivo Madryn win on 2026-08-25? | Yes (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julia Avdeev | Katherine Sebov (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Yeon-Woo Ku  | Yeon-Woo Ku (BUY) | 78% | 5.00 | 2.1% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Yeon-Woo Ku  | Yeon-Woo Ku (BUY) | 78% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andre Ilagan | Andre Ilagan (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
