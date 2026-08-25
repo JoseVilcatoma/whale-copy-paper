@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:53:26 (hora de Perú)
+Actualizado: 2026-08-25 17:55:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.81
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 17:53:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $41.81)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $31.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -78,12 +78,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 231 | 120 | 42 | -20.87 USD |
+| HomeRunHazard | 231 | 120 | 43 | -20.87 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 270 | 123 | 4 | -47.11 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
 | ferrariChampions2026 | 293 | 175 | 13 | -58.22 USD |
-|  | 38 | 29 | 7 | -68.76 USD |
+|  | 38 | 29 | 8 | -68.76 USD |
 
 ## Análisis general
 
@@ -442,12 +442,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| winwin518168 | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 58% | 5.00 | 48.5% | ⏳ pendiente | — |
+|  | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
+| winwin518168 | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 58% | 5.00 | 73.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-6.5) | Connecticut Sun (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 72% | 5.00 | 5.0% | ⏳ pendiente | — |
 | SnakeBall | Will CR Brasil win on 2026-08-25? | No (BUY) | 72% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Tomas Machac (BUY) | 64% | 5.00 | 7.2% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Shuai Zhang vs Maria Tim | Maria Timofeeva (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -470,5 +472,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Mario Gonzalez Fernandez vs  | Mario Gonzalez Fernandez (BUY) | 78% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Storm Hunter | Storm Hunter (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | Will Deportivo Madryn win on 2026-08-25? | Yes (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Julia Avdeev | Katherine Sebov (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Yeon-Woo Ku  | Yeon-Woo Ku (BUY) | 78% | 5.00 | 2.6% | ⏳ pendiente | — |
