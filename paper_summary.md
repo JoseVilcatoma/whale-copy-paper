@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:21:45 (hora de Perú)
+Actualizado: 2026-08-25 11:23:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.30
@@ -417,7 +417,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Will Al Fayha Saudi Club win on 2026-08- | No (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Timofey Skat | Timofey Skatov (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Timofey Skat | Timofey Skatov (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will FK Auda Riga win on 2026-08-25? | No (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
 | vito3corleone | Will Real Betis Balompié win on 2026-08- | No (BUY) | 64% | 5.00 | 218.8% | ⏳ pendiente | — |

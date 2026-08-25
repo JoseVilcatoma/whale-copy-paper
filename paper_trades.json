@@ -46457,8 +46457,8 @@
     "title": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
     "outcome": "Soon-Woo Kwon",
     "side": "BUY",
-    "whale_usd": 19680.077047,
-    "whale_pct": 12.738,
+    "whale_usd": 21125.098528,
+    "whale_pct": 13.673,
     "whale_value_at_open": 154496.9866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -46469,8 +46469,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787674629.6802065,
-    "fills": 8
+    "last_fill_at": 1787674909.4779215,
+    "fills": 9
   },
   {
     "timestamp": 1787671740,
@@ -47240,8 +47240,8 @@
     "title": "US Open, Qualification ATP: Timofey Skatov vs Gilles Arnaud Bailly",
     "outcome": "Timofey Skatov",
     "side": "BUY",
-    "whale_usd": 2312.67826,
-    "whale_pct": 1.122,
+    "whale_usd": 3012.0782600000002,
+    "whale_pct": 1.461,
     "whale_value_at_open": 206128.2219,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -47252,8 +47252,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787674547.906435,
-    "fills": 1
+    "last_fill_at": 1787675007.9582965,
+    "fills": 2
   },
   {
     "timestamp": 1787674659,
