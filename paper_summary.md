@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:02:11 (hora de Perú)
+Actualizado: 2026-08-25 14:04:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $514.42
-**Retorno acumulado:** +2.88%
+**Bankroll actual:** $515.08
+**Retorno acumulado:** +3.02%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:02:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $89.42)
+**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $100.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 201 | 111 | 17 | -25.45 USD |
+| HomeRunHazard | 202 | 111 | 16 | -25.20 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 168 | 16 | -37.54 USD |
-| RN1 | 255 | 115 | 27 | -47.00 USD |
+| RN1 | 256 | 115 | 26 | -46.59 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1787
-- **Aciertos:** 1150 (64.4%)
+- **Apuestas resueltas:** 1789
+- **Aciertos:** 1152 (64.4%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,923.82
-- **ROI sobre lo apostado:** -0.74%
-- **Comisiones pagadas (taker fee):** $162.13 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,933.82
+- **ROI sobre lo apostado:** -0.73%
+- **Comisiones pagadas (taker fee):** $162.16 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,8 +102,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 881 | 50.1% | 50.1% | -0.1 pp |
 | 60-79% | 540 | 70.7% | 67.6% | +3.1 pp |
-| 80-94% | 245 | 85.7% | 87.1% | -1.4 pp |
-| 95-99% (casi seguro) | 121 | 96.7% | 97.3% | -0.6 pp |
+| 80-94% | 246 | 85.8% | 87.1% | -1.3 pp |
+| 95-99% (casi seguro) | 122 | 96.7% | 97.3% | -0.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -436,7 +436,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Washington Mystics (-2.5) | Washington Mystics (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ✅ ganada | +0.25 |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | 💰 vendida anticipada | -0.70 |
 | HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |

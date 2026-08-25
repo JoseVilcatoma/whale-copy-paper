@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.4192684882964,
+  "bankroll": 515.0842089917289,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9360,6 +9360,16 @@
       "timestamp": 1787683026.222557,
       "bankroll": 514.42,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Lorenzo Giustino vs Grigor Dimitrov"
+    },
+    {
+      "timestamp": 1787684589.280321,
+      "bankroll": 514.83,
+      "event": "won: RN1 \u2014 Spread: PFK Dinamo Samarqand (-1.5)"
+    },
+    {
+      "timestamp": 1787684595.9721162,
+      "bankroll": 515.08,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Luka Mikrut vs Nikolas Sanchez Izquierdo"
     }
   ]
 }
