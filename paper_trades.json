@@ -43052,8 +43052,8 @@
     "title": "US Open, Qualification ATP: Coleman Wong vs Elmer Moeller",
     "outcome": "Elmer Moeller",
     "side": "BUY",
-    "whale_usd": 3550.3052979999998,
-    "whale_pct": 4.386,
+    "whale_usd": 7044.685297,
+    "whale_pct": 8.703,
     "whale_value_at_open": 80948.368,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -43066,8 +43066,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787615941.8492882,
-    "fills": 3
+    "last_fill_at": 1787616521.482654,
+    "fills": 4
   },
   {
     "timestamp": 1787612277,

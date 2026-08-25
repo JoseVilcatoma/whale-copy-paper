@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 19:06:48 (hora de Perú)
+Actualizado: 2026-08-24 19:08:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $583.55
@@ -418,6 +418,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Akasha Urhobo (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 4.4% | ⏳ pendiente | — |
+|  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 8.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Veronika Podrez (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: John Chin vs Benjamin Willwe | Benjamin Willwerth (BUY) | 79% | 5.00 | 1.5% | ⏳ pendiente | — |
