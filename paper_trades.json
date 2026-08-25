@@ -45208,8 +45208,8 @@
     "title": "Roehampton 2: Anton Matusevich vs Constantin Bittoun Kouzmine",
     "outcome": "Anton Matusevich",
     "side": "BUY",
-    "whale_usd": 10559.518425999999,
-    "whale_pct": 10.906,
+    "whale_usd": 12617.518425999999,
+    "whale_pct": 13.032,
     "whale_value_at_open": 96822.9121,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -45220,7 +45220,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787653934.154359,
-    "fills": 3
+    "last_fill_at": 1787654084.8539877,
+    "fills": 4
   }
 ]
