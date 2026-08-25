@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:32:46 (hora de Perú)
+Actualizado: 2026-08-25 16:34:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.73
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:32:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $40.73)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $25.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,12 +76,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 221 | 118 | 35 | -26.37 USD |
+| HomeRunHazard | 221 | 118 | 37 | -26.37 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 289 | 171 | 21 | -47.88 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
-|  | 36 | 29 | 4 | -73.49 USD |
+|  | 36 | 29 | 5 | -73.49 USD |
 
 ## Análisis general
 
@@ -436,6 +436,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Deportivo Madryn win on 2026-08-25? | Yes (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Julia Avdeev | Katherine Sebov (BUY) | 59% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Yeon-Woo Ku  | Yeon-Woo Ku (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andre Ilagan | Andre Ilagan (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -463,6 +466,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 59% | 5.00 | 3.1% | ⏳ pendiente | — |
 | AV23IUa | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
-| AV23IUa | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 60% | 5.00 | 23.3% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Luca Van Assche vs A | Aleksandar Kovacevic (BUY) | 70% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Stefanos Sak | Christopher O'Connell (BUY) | 92% | 5.00 | 3.1% | ⏳ pendiente | — |
