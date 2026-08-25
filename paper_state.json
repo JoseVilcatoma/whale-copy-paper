@@ -1,5 +1,5 @@
 {
-  "bankroll": 513.2209781940476,
+  "bankroll": 510.61373576980515,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9545,6 +9545,16 @@
       "timestamp": 1787688859.617968,
       "bankroll": 513.22,
       "event": "won: OOOwhyOOO \u2014 Kingston 2: Aidan Kim vs Garrett Johns"
+    },
+    {
+      "timestamp": 1787690651.5771801,
+      "bankroll": 515.71,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Adam Walton vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1787690651.6773665,
+      "bankroll": 510.61,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Adam Walton vs Ignacio Buse"
     }
   ]
 }

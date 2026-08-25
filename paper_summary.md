@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:43:23 (hora de Perú)
+Actualizado: 2026-08-25 15:45:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $513.22
-**Retorno acumulado:** +2.64%
+**Bankroll actual:** $510.61
+**Retorno acumulado:** +2.12%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:43:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $48.22)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $45.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,24 +75,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 211 | 112 | 40 | -14.94 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
+| HomeRunHazard | 212 | 113 | 38 | -17.55 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
+| ferrariChampions2026 | 287 | 169 | 17 | -42.67 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 36 | 29 | 4 | -73.49 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1821
-- **Aciertos:** 1174 (64.5%)
+- **Apuestas resueltas:** 1823
+- **Aciertos:** 1175 (64.5%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,093.82
-- **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $164.66 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,103.82
+- **ROI sobre lo apostado:** -0.81%
+- **Comisiones pagadas (taker fee):** $164.84 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -101,7 +101,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 892 | 50.1% | 50.2% | -0.0 pp |
-| 60-79% | 552 | 70.5% | 67.7% | +2.8 pp |
+| 60-79% | 554 | 70.4% | 67.6% | +2.8 pp |
 | 80-94% | 253 | 86.2% | 87.0% | -0.9 pp |
 | 95-99% (casi seguro) | 124 | 96.8% | 97.3% | -0.5 pp |
 
@@ -421,6 +421,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kouame-basavar-2026-08-25 | HomeRunHazard, RN1 |
 | atp-kim-johns-2026-08-25 | HomeRunHazard, OOOwhyOOO |
 | atp-chopra-bigun-2026-08-25 | HomeRunHazard, OOOwhyOOO |
+| wta-liutova-prozoro-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 | atp-walton-buse-2026-08-25 | Djdjdjekekek, HomeRunHazard |
 | atp-gaston-justo-2026-08-25 | Djdjdjekekek, HomeRunHazard |
 | mlb-phi-sea-2026-08-25-total-8pt5 | AV23IUa, HomeRunHazard |
@@ -429,6 +430,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Raphael Collignon (BUY) | 56% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 47% | 5.00 | 7.1% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 55% | 5.00 | 1.1% | ⏳ pendiente | — |
 | AV23IUa | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 56% | 5.00 | 17.1% | ⏳ pendiente | — |
@@ -446,7 +449,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Daniil Glinka (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Kylie Collins (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 47% | 5.00 | 2.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Marina Bassols Ribera (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Marina Bassols Ribera (BUY) | 57% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 51% | 5.00 | 652.1% | 💰 vendida anticipada | +4.68 |
 | OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 83% | 5.00 | 102.0% | 💰 vendida anticipada | -0.09 |
@@ -457,5 +460,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 58% | 5.00 | 262.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Matthew Forbes | Aidan Mayo (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 42% | 5.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
