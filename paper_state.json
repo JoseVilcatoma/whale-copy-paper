@@ -1,5 +1,5 @@
 {
-  "bankroll": 545.3592071043057,
+  "bankroll": 546.5190071043057,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8920,6 +8920,11 @@
       "timestamp": 1787641144.8892446,
       "bankroll": 545.36,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Ekaterine Gorgodze vs Katarzyna Kawa"
+    },
+    {
+      "timestamp": 1787651675.776183,
+      "bankroll": 546.52,
+      "event": "venta anticipada: BrotherObama \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth (BO5) - LCK Challengers League Play-In (+1.16 USD)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 04:52:37 (hora de Perú)
+Actualizado: 2026-08-25 04:54:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $545.36
-**Retorno acumulado:** +9.07%
+**Bankroll actual:** $546.52
+**Retorno acumulado:** +9.30%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 04:52:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $370.36)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $376.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,10 +50,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | HVAB | 6 | 1 | 0 | +1.51 USD |
+| BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| BrotherObama | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -406,7 +406,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | Nemiga Gaming (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
 |  | Spread: FC Seoul (-1.5) | FC Seoul (BUY) | 45% | 5.00 | 8.5% | ⏳ pendiente | — |
-| BrotherObama | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 50% | 5.00 | 156.8% | ⏳ pendiente | — |
+| BrotherObama | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 50% | 5.00 | 156.8% | 💰 vendida anticipada | +1.16 |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 59% | 5.00 | 138.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valencia CF vs. Real Betis Balompié: O/U | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 |  | Dota 2: PuckChamp vs Nemiga Gaming - Gam | PuckChamp (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
