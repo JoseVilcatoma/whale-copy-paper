@@ -1,5 +1,5 @@
 {
-  "bankroll": 540.3777918637952,
+  "bankroll": 547.4249138150147,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8710,6 +8710,11 @@
       "timestamp": 1787627391.0134015,
       "bankroll": 540.38,
       "event": "lost: HomeRunHazard \u2014 Texas Rangers vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1787629550.0391805,
+      "bankroll": 547.42,
+      "event": "won: casualbet2020 \u2014 Valorant: Ushiras vs Arashi GC (BO3) - VCT Game Changers Brazil Final Stage Playoffs"
     }
   ]
 }
