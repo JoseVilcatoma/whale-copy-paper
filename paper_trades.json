@@ -51216,8 +51216,8 @@
     "title": "US Open, Qualification ATP: Moez Echargui vs Hugo Dellien",
     "outcome": "Hugo Dellien",
     "side": "BUY",
-    "whale_usd": 2347.4352,
-    "whale_pct": 0.552,
+    "whale_usd": 5140.4352,
+    "whale_pct": 1.209,
     "whale_value_at_open": 425048.086,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -51228,8 +51228,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787700212.261362,
-    "fills": 1
+    "last_fill_at": 1787701264.1013515,
+    "fills": 2
   },
   {
     "timestamp": 1787700225,
