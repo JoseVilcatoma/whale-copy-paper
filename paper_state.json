@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.2432743332977,
+  "bankroll": 526.9139401809634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9055,6 +9055,16 @@
       "timestamp": 1787668372.4790044,
       "bankroll": 521.24,
       "event": "won:  \u2014 Spread: FC Seoul (-1.5)"
+    },
+    {
+      "timestamp": 1787668689.3971968,
+      "bankroll": 525.22,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: George Loffhagen vs Alastair Gray"
+    },
+    {
+      "timestamp": 1787668745.7614088,
+      "bankroll": 526.91,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Raphael Perot vs Mika Brunold"
     }
   ]
 }

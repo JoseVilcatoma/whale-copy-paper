@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 09:37:10 (hora de Perú)
+Actualizado: 2026-08-25 09:39:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $521.24
-**Retorno acumulado:** +4.25%
+**Bankroll actual:** $526.91
+**Retorno acumulado:** +5.38%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 09:37:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $286.24)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $296.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,22 +76,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
+| ferrariChampions2026 | 273 | 158 | 19 | -29.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 271 | 158 | 20 | -35.26 USD |
 | RN1 | 239 | 106 | 6 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1727
-- **Aciertos:** 1112 (64.4%)
+- **Apuestas resueltas:** 1729
+- **Aciertos:** 1114 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,623.82
-- **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $156.79 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,633.82
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $156.96 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -99,8 +99,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 850 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 526 | 70.9% | 67.6% | +3.3 pp |
+| 40-59% | 851 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 527 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 117 | 96.6% | 97.3% | -0.7 pp |
 
@@ -408,10 +408,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Max Hans Rehberg (BUY) | 74% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 47% | 5.00 | 25.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Alice Gillan (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 81.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Niels McDonald (BUY) | 49% | 5.00 | 6.9% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 83.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Niels McDonald (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Esther Lopez Alcaraz (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
@@ -423,10 +424,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Benjamin Hassan (BUY) | 54% | 5.00 | 15.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Kai Wehnelt vs Nick Hardt | Nick Hardt (BUY) | 57% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 61% | 5.00 | 6.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 7.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 7.6% | ✅ ganada | +1.69 |
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 8.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 8.8% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 10.8% | ⏳ pendiente | — |
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 3.3% | ❌ perdida | -5.09 |
@@ -437,4 +438,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Luca Potenza (BUY) | 41% | 5.00 | 0.7% | ❌ perdida | -5.15 |
 | ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 3.5% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Constantin Bittoun Kouzmine (BUY) | 60% | 5.00 | 1.3% | ❌ perdida | -5.10 |
