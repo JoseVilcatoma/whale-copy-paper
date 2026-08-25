@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.6835187424373,
+  "bankroll": 556.8930896012456,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8825,6 +8825,41 @@
       "timestamp": 1787633265.165954,
       "bankroll": 560.68,
       "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787633583.8660855,
+      "bankroll": 561.74,
+      "event": "won: HomeRunHazard \u2014 Atlanta Dream vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1787633584.6829076,
+      "bankroll": 566.05,
+      "event": "won: HomeRunHazard \u2014 Spread: Atlanta Dream (-10.5)"
+    },
+    {
+      "timestamp": 1787633586.7732322,
+      "bankroll": 560.93,
+      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Dream (-9.5)"
+    },
+    {
+      "timestamp": 1787633587.3587868,
+      "bankroll": 566.22,
+      "event": "won: HomeRunHazard \u2014 Spread: Atlanta Dream (-9.5)"
+    },
+    {
+      "timestamp": 1787633588.6252816,
+      "bankroll": 561.1,
+      "event": "lost: HomeRunHazard \u2014 Spread: Atlanta Dream (-10.5)"
+    },
+    {
+      "timestamp": 1787633589.5873911,
+      "bankroll": 562.01,
+      "event": "won: mikesports \u2014 Atlanta Dream vs. Los Angeles Sparks"
+    },
+    {
+      "timestamp": 1787633591.3245385,
+      "bankroll": 556.89,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-9.5)"
     }
   ]
 }
