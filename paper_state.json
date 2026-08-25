@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.5426807526841,
+  "bankroll": 540.3777918637952,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8700,6 +8700,16 @@
       "timestamp": 1787627071.9063723,
       "bankroll": 539.54,
       "event": "lost: SDTrading \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1787627388.7465866,
+      "bankroll": 545.52,
+      "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1787627391.0134015,
+      "bankroll": 540.38,
+      "event": "lost: HomeRunHazard \u2014 Texas Rangers vs. Chicago White Sox"
     }
   ]
 }
