@@ -1,5 +1,5 @@
 {
-  "bankroll": 583.6851616480934,
+  "bankroll": 584.4641151364655,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8330,6 +8330,11 @@
       "timestamp": 1787618457.531595,
       "bankroll": 583.69,
       "event": "won: HomeRunHazard \u2014 Kingston 2: John Chin vs Benjamin Willwerth"
+    },
+    {
+      "timestamp": 1787618960.8641968,
+      "bankroll": 584.46,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Alvaro Guillen Meza vs Andrew Fenty"
     }
   ]
 }
