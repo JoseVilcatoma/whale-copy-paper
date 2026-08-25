@@ -45828,5 +45828,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787666108.605083,
     "fills": 3
+  },
+  {
+    "timestamp": 1787666299,
+    "timestamp_added": 1787666300.0599163,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-wehnelt-hardt-2026-08-25",
+    "title": "Augsburg: Kai Wehnelt vs Nick Hardt",
+    "outcome": "Kai Wehnelt",
+    "side": "BUY",
+    "whale_usd": 1548.63,
+    "whale_pct": 1.112,
+    "whale_value_at_open": 139252.3753,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787666301.814693,
+    "fills": 2
   }
 ]
