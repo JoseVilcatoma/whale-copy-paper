@@ -45684,5 +45684,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787663608.4450636,
     "fills": 1
+  },
+  {
+    "timestamp": 1787664075,
+    "timestamp_added": 1787664075.5789547,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-1win-nemi1-2026-08-25",
+    "title": "Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 8404.4575,
+    "whale_pct": 25.569,
+    "whale_value_at_open": 32870.316,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787664075.5789707,
+    "fills": 1
   }
 ]
