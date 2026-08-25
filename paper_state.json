@@ -1,5 +1,5 @@
 {
-  "bankroll": 556.8930896012456,
+  "bankroll": 546.6050896012456,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8860,6 +8860,16 @@
       "timestamp": 1787633591.3245385,
       "bankroll": 556.89,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-9.5)"
+    },
+    {
+      "timestamp": 1787633901.4241698,
+      "bankroll": 551.75,
+      "event": "lost: ferrariChampions2026 \u2014 Minnesota Twins vs. Athletics"
+    },
+    {
+      "timestamp": 1787633903.9852157,
+      "bankroll": 546.61,
+      "event": "lost: Sassy-Bucket \u2014 Minnesota Twins vs. Athletics"
     }
   ]
 }

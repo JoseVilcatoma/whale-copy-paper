@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 23:56:46 (hora de Perú)
+Actualizado: 2026-08-24 23:58:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $556.89
-**Retorno acumulado:** +11.38%
+**Bankroll actual:** $546.61
+**Retorno acumulado:** +9.32%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 23:56:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $436.89)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $436.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,28 +69,28 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 263 | 150 | 4 | -9.09 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| ferrariChampions2026 | 263 | 151 | 3 | -14.23 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 194 | 109 | 3 | -27.85 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 13 | 20 | 2 | -43.47 USD |
 | RN1 | 237 | 105 | 3 | -46.52 USD |
+| Sassy-Bucket | 13 | 21 | 1 | -48.61 USD |
 |  | 33 | 24 | 6 | -54.80 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1690
-- **Aciertos:** 1092 (64.6%)
+- **Apuestas resueltas:** 1692
+- **Aciertos:** 1092 (64.5%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,438.82
-- **ROI sobre lo apostado:** -0.34%
-- **Comisiones pagadas (taker fee):** $153.26 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,448.82
+- **ROI sobre lo apostado:** -0.46%
+- **Comisiones pagadas (taker fee):** $153.55 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 833 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 835 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 510 | 71.4% | 67.6% | +3.7 pp |
 | 80-94% | 232 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
@@ -414,7 +414,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 58% | 5.00 | 2.3% | ⏳ pendiente | — |
 | mikesports | Atlanta Dream vs. Los Angeles Sparks | Atlanta Dream (BUY) | 84% | 5.00 | 28.1% | ✅ ganada | +0.91 |
 | TAIWANNUMBERONE | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 66% | 5.00 | 143.8% | ⏳ pendiente | — |
-| Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Minnesota Twins vs. Athletics | Athletics (BUY) | 43% | 5.00 | 29.2% | ❌ perdida | -5.14 |
 | Sassy-Bucket | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 0.3% | ✅ ganada | +4.32 |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Atlanta Dream (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
