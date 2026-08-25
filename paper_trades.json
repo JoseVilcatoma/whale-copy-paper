@@ -45526,8 +45526,8 @@
     "title": "ITF W35 Verbier 2 Women: Karolina Kozakova vs Noelia Manta",
     "outcome": "Karolina Kozakova",
     "side": "BUY",
-    "whale_usd": 4725.0,
-    "whale_pct": 3.825,
+    "whale_usd": 5635.98,
+    "whale_pct": 4.563,
     "whale_value_at_open": 123523.2121,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -45538,8 +45538,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787660931.5080392,
-    "fills": 4
+    "last_fill_at": 1787661532.9878275,
+    "fills": 5
   },
   {
     "timestamp": 1787660943,

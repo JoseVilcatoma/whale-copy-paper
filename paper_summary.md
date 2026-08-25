@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 07:38:51 (hora de Perú)
+Actualizado: 2026-08-25 07:40:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $539.16
@@ -407,7 +407,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 8.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Verbier 2 Women: Karolina Kozako | Karolina Kozakova (BUY) | 70% | 5.00 | 3.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Verbier 2 Women: Karolina Kozako | Karolina Kozakova (BUY) | 70% | 5.00 | 4.6% | ⏳ pendiente | — |
 | SDTrading | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | NEC (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 43% | 5.00 | 2.8% | ⏳ pendiente | — |
