@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.95398478416183,
+  "bankroll": 481.13290061346333,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9720,6 +9720,31 @@
       "timestamp": 1787694885.1393652,
       "bankroll": 474.95,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Luca Van Assche vs Aleksandar Kovacevic"
+    },
+    {
+      "timestamp": 1787695196.1377861,
+      "bankroll": 477.8,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Alice Tubello vs Priscilla Hon"
+    },
+    {
+      "timestamp": 1787695196.2937844,
+      "bankroll": 479.49,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova"
+    },
+    {
+      "timestamp": 1787695199.5036166,
+      "bankroll": 482.59,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova"
+    },
+    {
+      "timestamp": 1787695200.00945,
+      "bankroll": 486.25,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Alice Tubello vs Priscilla Hon"
+    },
+    {
+      "timestamp": 1787695200.3100965,
+      "bankroll": 481.13,
+      "event": "lost: ferrariChampions2026 \u2014 US Open, Qualification WTA: Kristina Liutova vs Tatiana Prozorova"
     }
   ]
 }

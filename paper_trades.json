@@ -48735,8 +48735,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -48783,8 +48783,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -49675,8 +49675,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.1,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -49801,8 +49801,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -49879,8 +49879,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -50096,8 +50096,8 @@
     "title": "Monterrey Open: Cristina Bucsa vs Anna Bondar",
     "outcome": "Cristina Bucsa",
     "side": "BUY",
-    "whale_usd": 6536.3508,
-    "whale_pct": 2.21,
+    "whale_usd": 7372.7508,
+    "whale_pct": 2.492,
     "whale_value_at_open": 295818.0061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -50108,8 +50108,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787692630.5489354,
-    "fills": 3
+    "last_fill_at": 1787695269.946049,
+    "fills": 4
   },
   {
     "timestamp": 1787693001,
@@ -50120,8 +50120,8 @@
     "title": "US Open, Qualification WTA: Katie Swan vs Katrina Scott",
     "outcome": "Katie Swan",
     "side": "BUY",
-    "whale_usd": 722.7846000000001,
-    "whale_pct": 0.24,
+    "whale_usd": 2082.7846,
+    "whale_pct": 0.691,
     "whale_value_at_open": 301617.6277,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -50132,8 +50132,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787693002.3374486,
-    "fills": 1
+    "last_fill_at": 1787695174.3908532,
+    "fills": 2
   },
   {
     "timestamp": 1787693100,
@@ -50192,8 +50192,8 @@
     "title": "US Open, Qualification WTA: Yeon-Woo Ku vs Astra Sharma",
     "outcome": "Yeon-Woo Ku",
     "side": "BUY",
-    "whale_usd": 2153.6652,
-    "whale_pct": 0.676,
+    "whale_usd": 6738.027300000001,
+    "whale_pct": 2.114,
     "whale_value_at_open": 318671.8329,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -50204,8 +50204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787693674.3399534,
-    "fills": 1
+    "last_fill_at": 1787695287.8814173,
+    "fills": 3
   },
   {
     "timestamp": 1787693678,
@@ -50499,6 +50499,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787695146.317048,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787695175,
+    "timestamp_added": 1787695175.9106302,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "nor2-asa-lyn-2026-08-26-lyn",
+    "title": "Will Lyn 1896 FK win on 2026-08-26?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1381.2999989999998,
+    "whale_pct": 0.51,
+    "whale_value_at_open": 270930.8936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787695175.9106455,
     "fills": 1
   }
 ]
