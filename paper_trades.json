@@ -46342,8 +46342,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -46680,8 +46680,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -46730,8 +46730,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -47053,8 +47053,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -47419,8 +47419,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -47495,8 +47495,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -47522,8 +47522,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.76,
     "overlaps_with": [
       "RN1",
       "ferrariChampions2026"
@@ -48100,5 +48100,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787679636.5802684,
     "fills": 4
+  },
+  {
+    "timestamp": 1787679886,
+    "timestamp_added": 1787679886.567891,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-kouame-basavar-2026-08-25",
+    "title": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy",
+    "outcome": "Nishesh Basavareddy",
+    "side": "BUY",
+    "whale_usd": 2372.0035,
+    "whale_pct": 1.446,
+    "whale_value_at_open": 164044.3872,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787679886.5679007,
+    "fills": 1
   }
 ]
