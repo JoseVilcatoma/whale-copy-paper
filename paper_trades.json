@@ -47158,5 +47158,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787673822.1230707,
     "fills": 1
+  },
+  {
+    "timestamp": 1787674065,
+    "timestamp_added": 1787674065.9121354,
+    "username": "vito3corleone",
+    "wallet": "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83",
+    "slug": "lal-val-bet-2026-08-25-bet",
+    "title": "Will Real Betis Balompi\u00e9 win on 2026-08-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 14917.77,
+    "whale_pct": 75.058,
+    "whale_value_at_open": 19875,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787674136.9385877,
+    "fills": 2
   }
 ]
