@@ -44458,5 +44458,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787628158.469654,
     "fills": 4
+  },
+  {
+    "timestamp": 1787628423,
+    "timestamp_added": 1787628423.671107,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wnba-atl-la-2026-08-24-spread-away-9pt5",
+    "title": "Spread: Atlanta Dream (-9.5)",
+    "outcome": "Atlanta Dream",
+    "side": "BUY",
+    "whale_usd": 1236.5430000000001,
+    "whale_pct": 0.617,
+    "whale_value_at_open": 200544.2522,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787628423.671118,
+    "fills": 1
   }
 ]
