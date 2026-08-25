@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:08:31 (hora de Perú)
+Actualizado: 2026-08-25 14:10:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $515.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:08:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $100.08)
+**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $95.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 202 | 111 | 16 | -25.20 USD |
+| HomeRunHazard | 202 | 111 | 17 | -25.20 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 168 | 16 | -37.54 USD |
 | RN1 | 256 | 115 | 26 | -46.59 USD |
@@ -423,6 +423,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Annika Penickova (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 83% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury:  | Over (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -452,4 +453,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Gauthier Onc | Gauthier Onclin (BUY) | 64% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will Southampton FC win on 2026-08-25? | No (BUY) | 53% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | Will Watford FC win on 2026-08-25? | No (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 68% | 5.00 | 6.2% | ⏳ pendiente | — |
