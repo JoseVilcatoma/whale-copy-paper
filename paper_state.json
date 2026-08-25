@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.0710667222636,
+  "bankroll": 522.2577416219239,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9165,6 +9165,21 @@
       "timestamp": 1787678016.9726508,
       "bankroll": 525.07,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Benito Sanchez Martinez vs Murkel Dellien"
+    },
+    {
+      "timestamp": 1787678322.8945613,
+      "bankroll": 519.93,
+      "event": "lost: RN1 \u2014 ITF M25 Oviedo Men: Alejandro Garcia Carbajal vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1787678322.9947236,
+      "bankroll": 520.98,
+      "event": "won: RN1 \u2014 ITF M25 Oviedo Men: Alejandro Garcia Carbajal vs Javier Barranco Cosano"
+    },
+    {
+      "timestamp": 1787678330.4940012,
+      "bankroll": 522.26,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Timofey Skatov vs Gilles Arnaud Bailly"
     }
   ]
 }
