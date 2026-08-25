@@ -44974,5 +44974,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787648169.4114616,
     "fills": 1
+  },
+  {
+    "timestamp": 1787648696,
+    "timestamp_added": 1787648696.9317877,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lal-val-bet-2026-08-25-total-2pt5",
+    "title": "Valencia CF vs. Real Betis Balompi\u00e9: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1728.8799990000002,
+    "whale_pct": 2.757,
+    "whale_value_at_open": 62704.2783,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787648696.931802,
+    "fills": 1
   }
 ]
