@@ -45356,8 +45356,8 @@
     "title": "Roehampton 2: Fabrizio Andaloro vs Emile Hudd",
     "outcome": "Emile Hudd",
     "side": "BUY",
-    "whale_usd": 1459.9781,
-    "whale_pct": 1.143,
+    "whale_usd": 2263.367573,
+    "whale_pct": 1.773,
     "whale_value_at_open": 127691.8995,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -45368,8 +45368,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787657789.9020963,
-    "fills": 1
+    "last_fill_at": 1787660275.4795408,
+    "fills": 2
   },
   {
     "timestamp": 1787657906,

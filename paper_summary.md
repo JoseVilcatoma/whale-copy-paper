@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 07:15:57 (hora de Perú)
+Actualizado: 2026-08-25 07:18:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $541.78
@@ -410,7 +410,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Luca Potenza (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Fabrizio Andaloro (BUY) | 51% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Anton Matusevich vs Consta | Constantin Bittoun Kouzmine (BUY) | 60% | 5.00 | 1.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Emile Hudd (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: Fabrizio Andaloro vs Emile | Emile Hudd (BUY) | 74% | 5.00 | 1.8% | ⏳ pendiente | — |
 |  | FK Bodø/Glimt vs. NEC: Team to Advance | FK Bodø/Glimt (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Roehampton 2: Anton Matusevich vs Consta | Anton Matusevich (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | Kiwoom DRX Challengers (BUY) | 50% | 5.00 | 53.8% | ⏳ pendiente | — |
