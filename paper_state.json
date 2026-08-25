@@ -1,5 +1,5 @@
 {
-  "bankroll": 522.2577416219239,
+  "bankroll": 524.7800780357346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9180,6 +9180,26 @@
       "timestamp": 1787678330.4940012,
       "bankroll": 522.26,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Timofey Skatov vs Gilles Arnaud Bailly"
+    },
+    {
+      "timestamp": 1787678631.0661993,
+      "bankroll": 517.13,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori"
+    },
+    {
+      "timestamp": 1787678631.8553545,
+      "bankroll": 521.45,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori"
+    },
+    {
+      "timestamp": 1787678636.4042158,
+      "bankroll": 521.55,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Henri Haupt vs Svyatoslav Gulin"
+    },
+    {
+      "timestamp": 1787678637.1372118,
+      "bankroll": 524.78,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori"
     }
   ]
 }
