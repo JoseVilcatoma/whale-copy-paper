@@ -46038,8 +46038,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 29917.044782,
-    "whale_pct": 83.644,
+    "whale_usd": 30422.496521,
+    "whale_pct": 85.057,
     "whale_value_at_open": 35767.1187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -46052,8 +46052,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787668634.5094469,
-    "fills": 4
+    "last_fill_at": 1787669476.6126842,
+    "fills": 5
   },
   {
     "timestamp": 1787668169,
@@ -46178,6 +46178,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787669015.5661833,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787669402,
+    "timestamp_added": 1787669402.868903,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-vidmano-birrell-2026-08-25",
+    "title": "Monterrey Open: Darja Vidmanova vs Kimberly Birrell",
+    "outcome": "Kimberly Birrell",
+    "side": "BUY",
+    "whale_usd": 4927.05,
+    "whale_pct": 3.88,
+    "whale_value_at_open": 126970.1721,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787669402.8689134,
     "fills": 1
   }
 ]
