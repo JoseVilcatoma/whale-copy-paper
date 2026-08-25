@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:03:42 (hora de Perú)
+Actualizado: 2026-08-25 13:05:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $519.25
-**Retorno acumulado:** +3.85%
+**Bankroll actual:** $514.11
+**Retorno acumulado:** +2.82%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:03:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $104.25)
+**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $99.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,23 +76,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 198 | 110 | 8 | -23.14 USD |
+| HomeRunHazard | 198 | 110 | 9 | -23.14 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 284 | 166 | 21 | -37.46 USD |
+| ferrariChampions2026 | 284 | 167 | 20 | -42.60 USD |
 | RN1 | 252 | 114 | 31 | -45.25 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1774
+- **Apuestas resueltas:** 1775
 - **Aciertos:** 1141 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,858.82
-- **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $161.16 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,863.82
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $161.30 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 877 | 50.2% | 50.1% | +0.0 pp |
+| 40-59% | 878 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 536 | 70.7% | 67.6% | +3.1 pp |
 | 80-94% | 241 | 85.5% | 87.0% | -1.6 pp |
 | 95-99% (casi seguro) | 120 | 96.7% | 97.3% | -0.6 pp |
@@ -414,12 +414,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-wan-maneiro-2026-08-25 | RN1, ferrariChampions2026 |
 | wta-samson-zidanse-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-presto-hibino-2026-08-25 | HomeRunHazard, RN1 |
+| atp-bolt-ruiz-2026-08-25 | HomeRunHazard, RN1 |
 | atp-kouame-basavar-2026-08-25 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will Wolverhampton Wanderers FC win on 2 | Yes (BUY) | 63% | 5.00 | 3.1% | ⏳ pendiente | — |
@@ -449,4 +451,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 58% | 5.00 | 0.9% | ❌ perdida | -5.11 |
 | HomeRunHazard | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: Team | MH Hapoel Be'er Sheva (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 51% | 5.00 | 0.8% | ✅ ganada | +4.68 |

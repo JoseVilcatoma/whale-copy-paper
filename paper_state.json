@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.2502420082736,
+  "bankroll": 514.1122420082736,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9290,6 +9290,11 @@
       "timestamp": 1787680830.535558,
       "bankroll": 519.25,
       "event": "won: RN1 \u2014 ITF M15 Champaign, IL Men: Preston Stearns vs Jon Gamble"
+    },
+    {
+      "timestamp": 1787681143.8318942,
+      "bankroll": 514.11,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Inaki Montes vs Gabi Boitan"
     }
   ]
 }

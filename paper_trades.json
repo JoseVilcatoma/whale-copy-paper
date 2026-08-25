@@ -46244,8 +46244,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -47168,8 +47168,8 @@
     "title": "Will Real Betis Balompi\u00e9 win on 2026-08-25?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 74887.71041500001,
-    "whale_pct": 376.794,
+    "whale_usd": 77700.630415,
+    "whale_pct": 390.947,
     "whale_value_at_open": 19875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -47180,8 +47180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787680891.7838416,
-    "fills": 20
+    "last_fill_at": 1787681034.110331,
+    "fills": 21
   },
   {
     "timestamp": 1787674325,
@@ -48149,6 +48149,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787680072.1269948,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787681083,
+    "timestamp_added": 1787681084.5836675,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-bolt-ruiz-2026-08-25",
+    "title": "US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz",
+    "outcome": "Pablo Llamas Ruiz",
+    "side": "BUY",
+    "whale_usd": 2201.9976,
+    "whale_pct": 1.308,
+    "whale_value_at_open": 168332.5146,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787681084.5836794,
     "fills": 1
   }
 ]
