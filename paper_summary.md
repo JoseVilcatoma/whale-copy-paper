@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:55:21 (hora de Perú)
+Actualizado: 2026-08-25 16:57:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.95
@@ -440,7 +440,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Luca Nardi v | Federico Cina (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Luca Nardi v | Federico Cina (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 48% | 5.00 | 24.6% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Under (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 62% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -461,7 +461,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Cruz  | Arthur Fery (BUY) | 91% | 5.00 | 1.5% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Cruz  | Arthur Fery (BUY) | 91% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: DOCISK vs Forsaken (BO3) - Rift Leg | Forsaken (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Kristina Liu | Tatiana Prozorova (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 46% | 5.00 | 0.9% | ⏳ pendiente | — |

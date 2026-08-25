@@ -49922,8 +49922,8 @@
     "title": "Winston-Salem Open: Arthur Fery vs Cruz Hewitt",
     "outcome": "Arthur Fery",
     "side": "BUY",
-    "whale_usd": 4787.597699999999,
-    "whale_pct": 1.534,
+    "whale_usd": 5351.4792,
+    "whale_pct": 1.714,
     "whale_value_at_open": 312149.721,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -49934,8 +49934,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787694063.7682407,
-    "fills": 3
+    "last_fill_at": 1787695017.3185925,
+    "fills": 4
   },
   {
     "timestamp": 1787691482,
@@ -50436,8 +50436,8 @@
     "title": "US Open, Qualification ATP: Luca Nardi vs Federico Cina",
     "outcome": "Federico Cina",
     "side": "BUY",
-    "whale_usd": 1034.5203,
-    "whale_pct": 0.346,
+    "whale_usd": 2431.0203,
+    "whale_pct": 0.814,
     "whale_value_at_open": 298737.076,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -50450,8 +50450,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787694393.2243369,
-    "fills": 1
+    "last_fill_at": 1787695000.5926056,
+    "fills": 2
   },
   {
     "timestamp": 1787694559,
