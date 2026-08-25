@@ -44830,5 +44830,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787642797.9681714,
     "fills": 1
+  },
+  {
+    "timestamp": 1787644967,
+    "timestamp_added": 1787644967.9032562,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-gea-nagal-2026-08-25",
+    "title": "US Open, Qualification ATP: Arthur Gea vs Sumit Nagal",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "whale_usd": 1161.7899949999999,
+    "whale_pct": 1.895,
+    "whale_value_at_open": 61305.7208,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787644967.9032717,
+    "fills": 1
   }
 ]
