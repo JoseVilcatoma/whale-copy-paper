@@ -49073,8 +49073,8 @@
     "title": "US Open, Qualification ATP: Hugo Gaston vs Guido Justo",
     "outcome": "Hugo Gaston",
     "side": "BUY",
-    "whale_usd": 1419.733333,
-    "whale_pct": 0.542,
+    "whale_usd": 3370.7338330000002,
+    "whale_pct": 1.286,
     "whale_value_at_open": 262072.9299,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -49085,8 +49085,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787687392.2863295,
-    "fills": 1
+    "last_fill_at": 1787689787.4759047,
+    "fills": 2
   },
   {
     "timestamp": 1787687569,
@@ -49437,6 +49437,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787689660.3720162,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787689754,
+    "timestamp_added": 1787689755.1865654,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-sakella-oconnel-2026-08-25",
+    "title": "US Open, Qualification ATP: Stefanos Sakellaridis vs Christopher O'Connell",
+    "outcome": "Christopher O'Connell",
+    "side": "BUY",
+    "whale_usd": 5048.424,
+    "whale_pct": 1.676,
+    "whale_value_at_open": 301276.7641,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787689755.8196943,
     "fills": 2
   }
 ]

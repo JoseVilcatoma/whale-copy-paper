@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:28:54 (hora de Perú)
+Actualizado: 2026-08-25 15:30:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $513.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:28:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $93.22)
+**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $88.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 211 | 112 | 36 | -14.94 USD |
+| HomeRunHazard | 211 | 112 | 37 | -14.94 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
@@ -427,6 +427,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Stefanos Sak | Christopher O'Connell (BUY) | 92% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Francesca Jo | Francesca Jones (BUY) | 93% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -441,7 +442,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 83% | 5.00 | 102.0% | 💰 vendida anticipada | -0.09 |
 | HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Benjamin Bonzi (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 90% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 80% | 5.00 | 51.4% | 💰 vendida anticipada | -1.25 |
 | Djdjdjekekek | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 58% | 5.00 | 262.9% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Matthew Forbes | Aidan Mayo (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -456,4 +457,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 74% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Pedro Martinez (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
