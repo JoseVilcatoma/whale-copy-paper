@@ -48652,8 +48652,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 19354.0156,
-    "whale_pct": 9.471,
+    "whale_usd": 25370.015199999998,
+    "whale_pct": 12.415,
     "whale_value_at_open": 204349.5985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -48668,8 +48668,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787689202.7920403,
-    "fills": 8
+    "last_fill_at": 1787689357.4221487,
+    "fills": 9
   },
   {
     "timestamp": 1787685498,
