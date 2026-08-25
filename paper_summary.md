@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 21:07:25 (hora de Perú)
+Actualizado: 2026-08-24 21:09:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $560.48
-**Retorno acumulado:** +12.10%
+**Bankroll actual:** $570.99
+**Retorno acumulado:** +14.20%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 21:07:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $175.48)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $270.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 16 | 7 | 1 | +22.86 USD |
-| SDTrading | 21 | 15 | 5 | +15.36 USD |
+| SDTrading | 23 | 16 | 2 | +21.03 USD |
 | ChonkyChocolateCake | 31 | 18 | 0 | +15.33 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -39,6 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| AV23IUa | 1 | 0 | 0 | +3.98 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | vito3corleone | 1 | 0 | 0 | +2.84 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -52,7 +53,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | vibing123 | 0 | 0 | 1 | +0.00 USD |
-| AV23IUa | 0 | 0 | 1 | +0.00 USD |
 | mikesports | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -67,29 +67,29 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 0 | 1 | 0 | -5.12 USD |
-| Donghui | 0 | 1 | 3 | -5.14 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
+| Donghui | 0 | 2 | 2 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 259 | 147 | 8 | -11.21 USD |
-| HomeRunHazard | 172 | 91 | 43 | -22.47 USD |
+| HomeRunHazard | 179 | 94 | 33 | -15.85 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| Sassy-Bucket | 13 | 18 | 4 | -33.26 USD |
-| RN1 | 233 | 104 | 3 | -52.63 USD |
+| Sassy-Bucket | 13 | 19 | 3 | -38.39 USD |
+| RN1 | 234 | 104 | 2 | -48.13 USD |
 |  | 32 | 24 | 3 | -59.48 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1623
-- **Aciertos:** 1055 (65.0%)
+- **Apuestas resueltas:** 1640
+- **Aciertos:** 1066 (65.0%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,103.82
-- **ROI sobre lo apostado:** -0.31%
-- **Comisiones pagadas (taker fee):** $145.80 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.49% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,188.82
+- **ROI sobre lo apostado:** -0.17%
+- **Comisiones pagadas (taker fee):** $147.61 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,9 +97,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 782 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 499 | 71.7% | 67.6% | +4.1 pp |
-| 80-94% | 227 | 85.5% | 87.1% | -1.7 pp |
+| 40-59% | 795 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 501 | 71.9% | 67.6% | +4.2 pp |
+| 80-94% | 229 | 85.2% | 87.1% | -2.0 pp |
 | 95-99% (casi seguro) | 115 | 96.5% | 97.3% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -403,18 +403,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 4. | Over (BUY) | 60% | 5.00 | 1.8% | ✅ ganada | +3.23 |
-| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Miami Marlins (BUY) | 86% | 5.00 | 2.2% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Miami Marlins (BUY) | 86% | 5.00 | 2.2% | ❌ perdida | -5.04 |
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Jack Pinnington Jones (BUY) | 68% | 5.00 | 0.1% | ✅ ganada | +2.27 |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 75% | 5.00 | 0.2% | ✅ ganada | +1.60 |
 | HomeRunHazard | Portland Fire vs. Dallas Wings: O/U 176. | Under (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Over (BUY) | 48% | 5.00 | 0.2% | ✅ ganada | +5.29 |
-| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
 | HomeRunHazard | US Open, Qualification WTA: Eva Vedder v | Bianca Andreescu (BUY) | 96% | 5.00 | 0.2% | ✅ ganada | +0.20 |
 |  | Will LASK Linz win on 2026-08-25? | Yes (BUY) | 51% | 5.00 | 12.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Washington Nationals (BUY) | 88% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 50% | 5.00 | 0.8% | ✅ ganada | +4.88 |
+| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Washington Nationals (BUY) | 88% | 5.00 | 1.4% | ✅ ganada | +0.65 |
 | HomeRunHazard | US Open, Qualification ATP: Coleman Wong | Coleman Wong (BUY) | 96% | 5.00 | 1.6% | ✅ ganada | +0.20 |
-| Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ⏳ pendiente | — |
+| Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ❌ perdida | -5.12 |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Golden State Valkyries vs. Minnesota Lyn | Under (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Ekaterine Go | Ekaterine Gorgodze (BUY) | 96% | 5.00 | 0.9% | ⏳ pendiente | — |

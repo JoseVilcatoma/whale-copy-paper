@@ -1,5 +1,5 @@
 {
-  "bankroll": 560.479793514602,
+  "bankroll": 570.9886193066963,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8525,6 +8525,91 @@
       "timestamp": 1787622892.7410638,
       "bankroll": 560.48,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Martin Damm vs Abedallah Shelbayh"
+    },
+    {
+      "timestamp": 1787623667.7148168,
+      "bankroll": 555.35,
+      "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1787623670.716657,
+      "bankroll": 559.67,
+      "event": "won: SDTrading \u2014 Boston Red Sox vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1787623670.816863,
+      "bankroll": 563.99,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1787623672.6836379,
+      "bankroll": 558.85,
+      "event": "lost: SDTrading \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787623675.76868,
+      "bankroll": 565.34,
+      "event": "won: SDTrading \u2014 Boston Red Sox vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1787623677.2061474,
+      "bankroll": 560.2,
+      "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787623677.6273522,
+      "bankroll": 564.18,
+      "event": "won: AV23IUa \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787623677.9324114,
+      "bankroll": 566.06,
+      "event": "won: HomeRunHazard \u2014 Spread: Miami Marlins (-1.5)"
+    },
+    {
+      "timestamp": 1787623678.0326493,
+      "bankroll": 560.92,
+      "event": "lost: Sassy-Bucket \u2014 Boston Red Sox vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1787623678.4560118,
+      "bankroll": 565.42,
+      "event": "won: RN1 \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787623679.9442732,
+      "bankroll": 568.94,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787623681.5819113,
+      "bankroll": 563.82,
+      "event": "lost: Donghui \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787623681.921266,
+      "bankroll": 564.47,
+      "event": "won: HomeRunHazard \u2014 Spread: Colorado Rockies (-1.5)"
+    },
+    {
+      "timestamp": 1787623682.4002519,
+      "bankroll": 569.34,
+      "event": "won: HomeRunHazard \u2014 Spread: Washington Nationals (-1.5)"
+    },
+    {
+      "timestamp": 1787623683.0153677,
+      "bankroll": 574.42,
+      "event": "won: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
+    },
+    {
+      "timestamp": 1787623683.4706547,
+      "bankroll": 576.02,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins: O/U 6.5"
+    },
+    {
+      "timestamp": 1787623683.5708985,
+      "bankroll": 570.99,
+      "event": "lost: HomeRunHazard \u2014 Spread: Boston Red Sox (-1.5)"
     }
   ]
 }
