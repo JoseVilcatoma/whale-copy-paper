@@ -48728,8 +48728,8 @@
     "title": "US Open, Qualification WTA: Alice Tubello vs Priscilla Hon",
     "outcome": "Priscilla Hon",
     "side": "BUY",
-    "whale_usd": 4370.0,
-    "whale_pct": 1.864,
+    "whale_usd": 4934.2,
+    "whale_pct": 2.104,
     "whale_value_at_open": 234503.137,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -48740,8 +48740,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787691515.7801175,
-    "fills": 2
+    "last_fill_at": 1787692544.5344245,
+    "fills": 3
   },
   {
     "timestamp": 1787685902,
@@ -50096,8 +50096,8 @@
     "title": "Monterrey Open: Cristina Bucsa vs Anna Bondar",
     "outcome": "Cristina Bucsa",
     "side": "BUY",
-    "whale_usd": 1092.3498,
-    "whale_pct": 0.369,
+    "whale_usd": 2877.3498,
+    "whale_pct": 0.973,
     "whale_value_at_open": 295818.0061,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -50108,7 +50108,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787692398.4419284,
-    "fills": 1
+    "last_fill_at": 1787692469.6598845,
+    "fills": 2
   }
 ]
