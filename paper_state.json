@@ -1,5 +1,5 @@
 {
-  "bankroll": 545.6806371573886,
+  "bankroll": 541.7776371573887,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8940,6 +8940,16 @@
       "timestamp": 1787657770.9634488,
       "bankroll": 545.68,
       "event": "lost:  \u2014 Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787658956.271629,
+      "bankroll": 546.88,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Patrick Zahraj vs Patrick Brady"
+    },
+    {
+      "timestamp": 1787659020.5911357,
+      "bankroll": 541.78,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner"
     }
   ]
 }
