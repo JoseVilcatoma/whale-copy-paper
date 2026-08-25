@@ -1,5 +1,5 @@
 {
-  "bankroll": 550.7656371573886,
+  "bankroll": 545.6806371573886,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8935,6 +8935,11 @@
       "timestamp": 1787656522.884272,
       "bankroll": 550.77,
       "event": "won: ferrariChampions2026 \u2014 ITF W35 Verbier 2 Women: Liv Boulard vs Cristina Pescucci"
+    },
+    {
+      "timestamp": 1787657770.9634488,
+      "bankroll": 545.68,
+      "event": "lost:  \u2014 Dota 2: PuckChamp vs Nemiga Gaming - Game 2 Winner"
     }
   ]
 }

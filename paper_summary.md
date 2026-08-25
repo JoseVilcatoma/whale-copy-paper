@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 06:34:08 (hora de Perú)
+Actualizado: 2026-08-25 06:36:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $550.77
-**Retorno acumulado:** +10.15%
+**Bankroll actual:** $545.68
+**Retorno acumulado:** +9.14%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 06:34:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $350.77)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $350.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,18 +80,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 239 | 106 | 1 | -44.52 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
-|  | 33 | 25 | 11 | -59.90 USD |
+|  | 33 | 26 | 10 | -64.98 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1703
+- **Apuestas resueltas:** 1704
 - **Aciertos:** 1100 (64.6%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,503.82
-- **ROI sobre lo apostado:** -0.36%
-- **Comisiones pagadas (taker fee):** $154.57 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.46% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,508.82
+- **ROI sobre lo apostado:** -0.42%
+- **Comisiones pagadas (taker fee):** $154.65 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 839 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 516 | 71.5% | 67.6% | +3.9 pp |
+| 60-79% | 517 | 71.4% | 67.6% | +3.8 pp |
 | 80-94% | 232 | 85.3% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 116 | 96.6% | 97.3% | -0.8 pp |
 
@@ -419,7 +419,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 50% | 5.00 | 156.8% | 💰 vendida anticipada | +1.16 |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 59% | 5.00 | 138.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valencia CF vs. Real Betis Balompié: O/U | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
-|  | Dota 2: PuckChamp vs Nemiga Gaming - Gam | PuckChamp (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
+|  | Dota 2: PuckChamp vs Nemiga Gaming - Gam | PuckChamp (BUY) | 66% | 5.00 | 1.2% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | ITF W35 Verbier 2 Women: Liv Boulard vs  | Liv Boulard (BUY) | 62% | 5.00 | 9.3% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | FC Seoul vs. Bucheon FC 1995: O/U 2.5 | Over (BUY) | 58% | 5.00 | 9.4% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF M25 Poznan Men: Adam Kaczmarek vs Le | Leonardo Iemmi (BUY) | 79% | 5.00 | 186.4% | ✅ ganada | +1.28 |
