@@ -45622,8 +45622,8 @@
     "title": "Augsburg: Benjamin Hassan vs Juan Manuel La Serna",
     "outcome": "Juan Manuel La Serna",
     "side": "BUY",
-    "whale_usd": 9528.628223,
-    "whale_pct": 6.502,
+    "whale_usd": 14728.068221,
+    "whale_pct": 10.051,
     "whale_value_at_open": 146538.1387,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -45634,8 +45634,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787664593.758641,
-    "fills": 6
+    "last_fill_at": 1787666592.3395548,
+    "fills": 8
   },
   {
     "timestamp": 1787663380,
