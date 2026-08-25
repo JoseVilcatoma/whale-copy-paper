@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:06:09 (hora de Perú)
+Actualizado: 2026-08-25 16:08:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $490.49
-**Retorno acumulado:** -1.90%
+**Bankroll actual:** $489.21
+**Retorno acumulado:** -2.16%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:06:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $20.49)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $29.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 216 | 116 | 37 | -22.24 USD |
+| HomeRunHazard | 218 | 117 | 35 | -23.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 288 | 170 | 23 | -46.75 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
@@ -85,14 +85,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1836
-- **Aciertos:** 1181 (64.3%)
+- **Apuestas resueltas:** 1839
+- **Aciertos:** 1183 (64.3%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,168.82
-- **ROI sobre lo apostado:** -1.02%
-- **Comisiones pagadas (taker fee):** $166.07 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,183.82
+- **ROI sobre lo apostado:** -1.03%
+- **Comisiones pagadas (taker fee):** $166.31 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -101,8 +101,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 898 | 50.0% | 50.2% | -0.2 pp |
-| 60-79% | 559 | 70.1% | 67.6% | +2.5 pp |
-| 80-94% | 254 | 86.2% | 87.0% | -0.8 pp |
+| 60-79% | 561 | 70.1% | 67.6% | +2.4 pp |
+| 80-94% | 255 | 86.3% | 87.0% | -0.7 pp |
 | 95-99% (casi seguro) | 125 | 96.8% | 97.3% | -0.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -436,6 +436,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Atlanta Braves (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -465,4 +466,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Francesca Jo | Francesca Jones (BUY) | 93% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Djdjdjekekek | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 89% | 5.00 | 1589.1% | ⏳ pendiente | — |
-| HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |

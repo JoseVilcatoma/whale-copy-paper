@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.48700523032977,
+  "bankroll": 489.21260955237983,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9620,6 +9620,21 @@
       "timestamp": 1787691957.2235687,
       "bankroll": 490.49,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Mattia Bellucci vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1787692011.9168143,
+      "bankroll": 491.47,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Aidan Mayo vs Matthew Forbes"
+    },
+    {
+      "timestamp": 1787692071.2946835,
+      "bankroll": 486.37,
+      "event": "lost: HomeRunHazard \u2014 Kingston 2: Keshav Chopra vs Kaylan Bigun"
+    },
+    {
+      "timestamp": 1787692072.484722,
+      "bankroll": 489.21,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Keshav Chopra vs Kaylan Bigun"
     }
   ]
 }
