@@ -48110,8 +48110,8 @@
     "title": "US Open, Qualification ATP: Moise Kouame vs Nishesh Basavareddy",
     "outcome": "Nishesh Basavareddy",
     "side": "BUY",
-    "whale_usd": 2372.0035,
-    "whale_pct": 1.446,
+    "whale_usd": 3248.6124999999997,
+    "whale_pct": 1.98,
     "whale_value_at_open": 164044.3872,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -48124,8 +48124,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787679886.5679007,
-    "fills": 1
+    "last_fill_at": 1787685229.094462,
+    "fills": 2
   },
   {
     "timestamp": 1787680071,
@@ -48565,6 +48565,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787684982.8841662,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787685165,
+    "timestamp_added": 1787685165.9956946,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-zakharo-collins-2026-08-25",
+    "title": "Philadelphia: Anastasia Zakharova vs Kylie Collins",
+    "outcome": "Anastasia Zakharova",
+    "side": "BUY",
+    "whale_usd": 1854.9579999999999,
+    "whale_pct": 0.913,
+    "whale_value_at_open": 203238.2747,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787685165.99571,
     "fills": 1
   }
 ]
