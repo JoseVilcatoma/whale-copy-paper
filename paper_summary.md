@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:06:19 (hora de Perú)
+Actualizado: 2026-08-25 10:08:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.56
@@ -410,7 +410,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | US Open, Qualification ATP: Sebastian Of | Sebastian Ofner (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Sebastian Of | Sebastian Ofner (BUY) | 50% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Inaki Montes vs Gabi Boita | Gabi Boitan (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M15 Allershausen Men: Edison Ambarzu | Edison Ambarzumjan (BUY) | 96% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Darja Vidmanova vs Kimbe | Kimberly Birrell (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -419,11 +419,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Max Hans Rehberg (BUY) | 74% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 47% | 5.00 | 25.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Alice Gillan (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 85.1% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 116.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Niels McDonald (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Esther Lopez Alcaraz (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 49% | 5.00 | 7.5% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Niels McDonald | Cezar Cretu (BUY) | 55% | 5.00 | 6.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Kai Wehnelt vs Nick Hardt | Kai Wehnelt (BUY) | 72% | 5.00 | 4.5% | ✅ ganada | +1.87 |
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 59% | 5.00 | 2.8% | ⏳ pendiente | — |

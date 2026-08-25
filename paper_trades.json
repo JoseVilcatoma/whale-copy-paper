@@ -45936,8 +45936,8 @@
     "title": "Augsburg: Cezar Cretu vs Niels McDonald",
     "outcome": "Cezar Cretu",
     "side": "BUY",
-    "whale_usd": 4771.2,
-    "whale_pct": 3.256,
+    "whale_usd": 11052.420399999999,
+    "whale_pct": 7.543,
     "whale_value_at_open": 146529.3288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -45950,8 +45950,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787667493.77573,
-    "fills": 1
+    "last_fill_at": 1787670488.650289,
+    "fills": 2
   },
   {
     "timestamp": 1787667843,
@@ -46038,8 +46038,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 30422.496521,
-    "whale_pct": 85.057,
+    "whale_usd": 41545.956521,
+    "whale_pct": 116.157,
     "whale_value_at_open": 35767.1187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -46052,8 +46052,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787669476.6126842,
-    "fills": 5
+    "last_fill_at": 1787670488.8077922,
+    "fills": 6
   },
   {
     "timestamp": 1787668169,
@@ -46261,8 +46261,8 @@
     "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
     "outcome": "Sebastian Ofner",
     "side": "BUY",
-    "whale_usd": 2342.69,
-    "whale_pct": 1.44,
+    "whale_usd": 6227.756246,
+    "whale_pct": 3.828,
     "whale_value_at_open": 162678.2854,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -46273,7 +46273,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787670351.1993525,
-    "fills": 1
+    "last_fill_at": 1787670472.2667446,
+    "fills": 3
   }
 ]
