@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.0709114525525,
+  "bankroll": 512.7029067175548,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9415,6 +9415,41 @@
       "timestamp": 1787686675.3132522,
       "bankroll": 516.07,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Suzan Lamens vs Emerson Jones"
+    },
+    {
+      "timestamp": 1787686976.2902405,
+      "bankroll": 510.94,
+      "event": "lost: ferrariChampions2026 \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: O/U 2.5"
+    },
+    {
+      "timestamp": 1787686979.2580287,
+      "bankroll": 505.84,
+      "event": "lost: RN1 \u2014 Sabah FK vs. MH Hapoel Be'er Sheva: 1st Half O/U 1.5"
+    },
+    {
+      "timestamp": 1787686979.598715,
+      "bankroll": 500.72,
+      "event": "lost: RN1 \u2014 Will Sabah FK win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787686981.1028597,
+      "bankroll": 502.08,
+      "event": "won: RN1 \u2014 Will MH Hapoel Be'er Sheva win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787686981.9423966,
+      "bankroll": 508.05,
+      "event": "won: RN1 \u2014 Will Sabah FK win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787686982.2865477,
+      "bankroll": 510.32,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz"
+    },
+    {
+      "timestamp": 1787686984.7942603,
+      "bankroll": 512.7,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Alex Bolt vs Pablo Llamas Ruiz"
     }
   ]
 }
