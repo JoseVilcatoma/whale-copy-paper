@@ -46457,8 +46457,8 @@
     "title": "US Open, Qualification ATP: Soon-Woo Kwon vs Dusan Lajovic",
     "outcome": "Soon-Woo Kwon",
     "side": "BUY",
-    "whale_usd": 12650.8068,
-    "whale_pct": 8.188,
+    "whale_usd": 16876.161647,
+    "whale_pct": 10.923,
     "whale_value_at_open": 154496.9866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -46469,8 +46469,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787673102.1072602,
-    "fills": 5
+    "last_fill_at": 1787674535.7179537,
+    "fills": 7
   },
   {
     "timestamp": 1787671740,
@@ -47168,8 +47168,8 @@
     "title": "Will Real Betis Balompi\u00e9 win on 2026-08-25?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 19386.17151,
-    "whale_pct": 97.54,
+    "whale_usd": 34319.29151,
+    "whale_pct": 172.676,
     "whale_value_at_open": 19875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -47180,8 +47180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787674353.3636475,
-    "fills": 4
+    "last_fill_at": 1787674489.3579774,
+    "fills": 5
   },
   {
     "timestamp": 1787674325,
@@ -47205,6 +47205,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787674362.193662,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787674452,
+    "timestamp_added": 1787674453.2652373,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-presto-hibino-2026-08-25",
+    "title": "US Open, Qualification WTA: Janae Preston vs Nao Hibino",
+    "outcome": "Nao Hibino",
+    "side": "BUY",
+    "whale_usd": 2697.368475,
+    "whale_pct": 1.368,
+    "whale_value_at_open": 197123.0602,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787674454.7926528,
     "fills": 3
   }
 ]
