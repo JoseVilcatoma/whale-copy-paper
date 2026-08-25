@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 20:05:13 (hora de Perú)
+Actualizado: 2026-08-24 20:07:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $566.92
-**Retorno acumulado:** +13.38%
+**Bankroll actual:** $570.02
+**Retorno acumulado:** +14.00%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 20:05:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $525.00 en 105 posiciones abiertas (disponible para nuevas apuestas: $41.92)
+**Capital comprometido ahora mismo:** $525.00 en 105 posiciones abiertas (disponible para nuevas apuestas: $45.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 159 | 82 | 64 | -21.11 USD |
+| HomeRunHazard | 160 | 82 | 64 | -18.01 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 232 | 103 | 5 | -51.15 USD |
@@ -82,14 +82,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1591
-- **Aciertos:** 1037 (65.2%)
+- **Apuestas resueltas:** 1592
+- **Aciertos:** 1038 (65.2%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,943.82
-- **ROI sobre lo apostado:** -0.23%
-- **Comisiones pagadas (taker fee):** $142.46 (1.79% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.56% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,948.82
+- **ROI sobre lo apostado:** -0.19%
+- **Comisiones pagadas (taker fee):** $142.56 (1.79% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.60% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -98,7 +98,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 761 | 50.1% | 50.1% | -0.1 pp |
-| 60-79% | 492 | 71.7% | 67.7% | +4.1 pp |
+| 60-79% | 493 | 71.8% | 67.6% | +4.2 pp |
 | 80-94% | 225 | 86.2% | 87.1% | -0.9 pp |
 | 95-99% (casi seguro) | 113 | 96.5% | 97.3% | -0.9 pp |
 
@@ -393,6 +393,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Atlanta Dream (-10.5) | Atlanta Dream (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs F | Daniel Altmaier (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -422,4 +423,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Golden State Valkyries (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Trevor Svajda (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Over (BUY) | 43% | 5.00 | 0.2% | ⏳ pendiente | — |

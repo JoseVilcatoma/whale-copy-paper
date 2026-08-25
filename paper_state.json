@@ -1,5 +1,5 @@
 {
-  "bankroll": 566.9227561621067,
+  "bankroll": 570.0214774735821,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8365,6 +8365,11 @@
       "timestamp": 1787619713.9383872,
       "bankroll": 566.92,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Coleman Wong vs Elmer Moeller"
+    },
+    {
+      "timestamp": 1787619956.5687256,
+      "bankroll": 570.02,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Jenson Brooksby vs Stefanos Tsitsipas"
     }
   ]
 }
