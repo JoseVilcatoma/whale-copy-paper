@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 16:02:01 (hora de Perú)
+Actualizado: 2026-08-25 16:04:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.58
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 16:02:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $485.00 en 97 posiciones abiertas (disponible para nuevas apuestas: $11.58)
+**Capital comprometido ahora mismo:** $495.00 en 99 posiciones abiertas (disponible para nuevas apuestas: $1.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 215 | 115 | 37 | -22.44 USD |
+| HomeRunHazard | 215 | 115 | 39 | -22.44 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 288 | 169 | 24 | -41.62 USD |
 | RN1 | 265 | 121 | 11 | -53.27 USD |
@@ -436,6 +436,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Atlanta Braves (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Raphael Collignon vs | Rinky Hijikata (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 61% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -460,9 +462,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Luca Van Assche vs A | Aleksandar Kovacevic (BUY) | 70% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Stefanos Sak | Christopher O'Connell (BUY) | 92% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Francesca Jo | Francesca Jones (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Francesca Jo | Francesca Jones (BUY) | 93% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 170 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Djdjdjekekek | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 89% | 5.00 | 1589.1% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Pedro Martin | Daniil Glinka (BUY) | 74% | 5.00 | 3.3% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Kylie Collins (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
