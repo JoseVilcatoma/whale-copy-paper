@@ -45646,8 +45646,8 @@
     "title": "Roehampton 2: George Loffhagen vs Alastair Gray",
     "outcome": "George Loffhagen",
     "side": "BUY",
-    "whale_usd": 9457.946784,
-    "whale_pct": 8.14,
+    "whale_usd": 10243.788784,
+    "whale_pct": 8.816,
     "whale_value_at_open": 116197.2593,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -45658,8 +45658,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787665563.17294,
-    "fills": 4
+    "last_fill_at": 1787665707.165453,
+    "fills": 5
   },
   {
     "timestamp": 1787663607,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 08:47:19 (hora de Perú)
+Actualizado: 2026-08-25 08:49:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.70
@@ -410,7 +410,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Raphael Perot vs Mika Brunold | Mika Brunold (BUY) | 74% | 5.00 | 7.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 8.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 8.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 6.5% | ⏳ pendiente | — |
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 3.3% | ⏳ pendiente | — |
