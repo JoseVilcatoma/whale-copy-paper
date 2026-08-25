@@ -1,5 +1,5 @@
 {
-  "bankroll": 583.6514762954714,
+  "bankroll": 587.4700477240428,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8315,6 +8315,11 @@
       "timestamp": 1787617079.3862898,
       "bankroll": 583.65,
       "event": "won: RN1 \u2014 Will CA Central C\u00f3rdoba win on 2026-08-24?"
+    },
+    {
+      "timestamp": 1787617902.3179846,
+      "bankroll": 587.47,
+      "event": "won: HomeRunHazard \u2014 Djere vs. Muller: Match O/U 22.5"
     }
   ]
 }

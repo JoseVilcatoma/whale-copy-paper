@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 19:29:35 (hora de Perú)
+Actualizado: 2026-08-24 19:31:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $583.65
-**Retorno acumulado:** +16.73%
+**Bankroll actual:** $587.47
+**Retorno acumulado:** +17.49%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 19:29:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $520.00 en 104 posiciones abiertas (disponible para nuevas apuestas: $63.65)
+**Capital comprometido ahora mismo:** $525.00 en 105 posiciones abiertas (disponible para nuevas apuestas: $62.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 154 | 79 | 61 | -14.63 USD |
+| HomeRunHazard | 155 | 79 | 62 | -10.81 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
 | RN1 | 232 | 102 | 6 | -46.03 USD |
@@ -82,14 +82,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1581
-- **Aciertos:** 1032 (65.3%)
+- **Apuestas resueltas:** 1582
+- **Aciertos:** 1033 (65.3%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,893.82
-- **ROI sobre lo apostado:** -0.02%
-- **Comisiones pagadas (taker fee):** $141.76 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $7,898.82
+- **ROI sobre lo apostado:** +0.03%
+- **Comisiones pagadas (taker fee):** $141.87 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,7 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 758 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 759 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 488 | 71.9% | 67.6% | +4.3 pp |
 | 80-94% | 223 | 86.5% | 87.2% | -0.6 pp |
 | 95-99% (casi seguro) | 112 | 96.4% | 97.3% | -0.9 pp |
@@ -391,6 +391,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Over (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Eva Vedder v | Bianca Andreescu (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will LASK Linz win on 2026-08-25? | Yes (BUY) | 51% | 5.00 | 12.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -404,7 +406,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Alvaro Guillen Meza vs Andre | Andrew Fenty (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Arantxa Rus  | Teodora Kostovic (BUY) | 72% | 5.00 | 3.5% | ⏳ pendiente | — |
-| HomeRunHazard | Djere vs. Muller: Match O/U 22.5 | Under (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Djere vs. Muller: Match O/U 22.5 | Under (BUY) | 56% | 5.00 | 0.5% | ✅ ganada | +3.82 |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Minnesota Lynx (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 56% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Lynx (-4.5) | Golden State Valkyries (BUY) | 47% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -419,5 +421,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Atlanta Dream (-9.5) | Atlanta Dream (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Roman Safiullin vs H | Hugo Grenier (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 64.4% | ⏳ pendiente | — |
-| mikesports | Golden State Valkyries vs. Minnesota Lyn | Minnesota Lynx (BUY) | 68% | 5.00 | 49.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
