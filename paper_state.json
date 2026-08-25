@@ -1,5 +1,5 @@
 {
-  "bankroll": 537.247487971893,
+  "bankroll": 533.7041546385595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9010,6 +9010,16 @@
       "timestamp": 1787664625.9927237,
       "bankroll": 537.25,
       "event": "won: DoNotTailMe \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787665561.594509,
+      "bankroll": 532.1,
+      "event": "lost: ferrariChampions2026 \u2014 Roehampton 2: Alec Deckers vs Luca Potenza"
+    },
+    {
+      "timestamp": 1787665562.847619,
+      "bankroll": 533.7,
+      "event": "won: ferrariChampions2026 \u2014 Roehampton 2: Alec Deckers vs Luca Potenza"
     }
   ]
 }
