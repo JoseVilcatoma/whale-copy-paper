@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 20:42:23 (hora de Perú)
+Actualizado: 2026-08-24 20:44:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $557.95
-**Retorno acumulado:** +11.59%
+**Bankroll actual:** $563.23
+**Retorno acumulado:** +12.65%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 20:42:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $142.95)
+**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $153.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ferrariChampions2026 | 259 | 147 | 8 | -11.21 USD |
-| HomeRunHazard | 168 | 89 | 49 | -20.13 USD |
+| HomeRunHazard | 169 | 89 | 48 | -14.84 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 12 | 18 | 5 | -38.14 USD |
 | RN1 | 233 | 104 | 3 | -52.63 USD |
@@ -82,14 +82,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1616
-- **Aciertos:** 1050 (65.0%)
+- **Apuestas resueltas:** 1617
+- **Aciertos:** 1051 (65.0%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,068.82
-- **ROI sobre lo apostado:** -0.34%
-- **Comisiones pagadas (taker fee):** $145.20 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.46% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,073.82
+- **ROI sobre lo apostado:** -0.27%
+- **Comisiones pagadas (taker fee):** $145.33 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -97,7 +97,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 778 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 779 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 498 | 71.7% | 67.6% | +4.1 pp |
 | 80-94% | 227 | 85.5% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 113 | 96.5% | 97.3% | -0.9 pp |
@@ -406,7 +406,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Jack Pinning | Jack Pinnington Jones (BUY) | 68% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 6. | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Portland Fire vs. Dallas Wings: O/U 176. | Under (BUY) | 50% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Over (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Over (BUY) | 48% | 5.00 | 0.2% | ✅ ganada | +5.29 |
 | HomeRunHazard | Spread: Boston Red Sox (-1.5) | Boston Red Sox (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Eva Vedder v | Bianca Andreescu (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Will LASK Linz win on 2026-08-25? | Yes (BUY) | 51% | 5.00 | 12.1% | ⏳ pendiente | — |
