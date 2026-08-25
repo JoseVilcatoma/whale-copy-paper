@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 07:36:45 (hora de Perú)
+Actualizado: 2026-08-25 07:38:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $541.78
-**Retorno acumulado:** +8.36%
+**Bankroll actual:** $539.16
+**Retorno acumulado:** +7.83%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 07:36:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $306.78)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $309.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 17 | 7 | 1 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 6 | 1 | 1 | +25.87 USD |
-| SDTrading | 24 | 17 | 2 | +22.98 USD |
+| SDTrading | 24 | 17 | 3 | +22.98 USD |
 | ChonkyChocolateCake | 31 | 18 | 3 | +15.33 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -70,11 +70,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 0 | 1 | 2 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| ferrariChampions2026 | 265 | 151 | 21 | -10.06 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| ferrariChampions2026 | 266 | 152 | 19 | -12.68 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
@@ -84,14 +84,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1706
-- **Aciertos:** 1101 (64.5%)
+- **Apuestas resueltas:** 1708
+- **Aciertos:** 1102 (64.5%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,518.82
-- **ROI sobre lo apostado:** -0.46%
-- **Comisiones pagadas (taker fee):** $154.81 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,528.82
+- **ROI sobre lo apostado:** -0.49%
+- **Comisiones pagadas (taker fee):** $155.00 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -99,8 +99,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 840 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 517 | 71.4% | 67.6% | +3.8 pp |
+| 40-59% | 841 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 518 | 71.4% | 67.6% | +3.8 pp |
 | 80-94% | 233 | 85.4% | 87.1% | -1.7 pp |
 | 95-99% (casi seguro) | 116 | 96.6% | 97.3% | -0.8 pp |
 
@@ -404,6 +404,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Petr Brunclik vs Daniel Masur | Petr Brunclik (BUY) | 65% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: Alec Deckers vs Luca Poten | Alec Deckers (BUY) | 75% | 5.00 | 8.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF W35 Verbier 2 Women: Karolina Kozako | Karolina Kozakova (BUY) | 70% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -423,7 +424,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 56% | 5.00 | 6.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 62% | 5.00 | 56.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Hugo Grenier vs Seba | Sebastian Baez (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | Nemiga Gaming (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | Nemiga Gaming (BUY) | 55% | 5.00 | 0.8% | ❌ perdida | -5.11 |
 | ferrariChampions2026 | Spread: FC Seoul (-1.5) | Bucheon FC 1995 (BUY) | 55% | 5.00 | 10.4% | ⏳ pendiente | — |
 |  | Spread: FC Seoul (-1.5) | FC Seoul (BUY) | 45% | 5.00 | 8.5% | ⏳ pendiente | — |
 | BrotherObama | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 50% | 5.00 | 156.8% | 💰 vendida anticipada | +1.16 |
@@ -433,4 +434,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF W35 Verbier 2 Women: Liv Boulard vs  | Liv Boulard (BUY) | 62% | 5.00 | 9.3% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | FC Seoul vs. Bucheon FC 1995: O/U 2.5 | Over (BUY) | 58% | 5.00 | 9.4% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF M25 Poznan Men: Adam Kaczmarek vs Le | Leonardo Iemmi (BUY) | 79% | 5.00 | 186.4% | ✅ ganada | +1.28 |
-| ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | PuckChamp (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |

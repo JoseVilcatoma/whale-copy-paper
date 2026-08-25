@@ -1,5 +1,5 @@
 {
-  "bankroll": 541.7776371573887,
+  "bankroll": 539.1563947331463,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8950,6 +8950,16 @@
       "timestamp": 1787659020.5911357,
       "bankroll": 541.78,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Kiwoom DRX Challengers vs BNK FearX Youth - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787661522.2968137,
+      "bankroll": 544.27,
+      "event": "won: ferrariChampions2026 \u2014 Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A"
+    },
+    {
+      "timestamp": 1787661523.6665914,
+      "bankroll": 539.16,
+      "event": "lost: ferrariChampions2026 \u2014 Dota 2: PuckChamp vs Nemiga Gaming (BO3) - EPL Masters Play-In Group A"
     }
   ]
 }
