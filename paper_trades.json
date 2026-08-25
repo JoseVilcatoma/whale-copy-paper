@@ -45919,8 +45919,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -45943,8 +45943,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [
       "RN1"
     ],
@@ -46019,8 +46019,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "RN1"
     ],
@@ -47085,6 +47085,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787673299.4563158,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787673682,
+    "timestamp_added": 1787673682.7137737,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-mochizu-milavsk-2026-08-25",
+    "title": "US Open, Qualification ATP: Shintaro Mochizuki vs Daniel Milavsky",
+    "outcome": "Daniel Milavsky",
+    "side": "BUY",
+    "whale_usd": 1129.445588,
+    "whale_pct": 0.616,
+    "whale_value_at_open": 183478.4427,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787673682.7137856,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 538.1576834103587,
+  "bankroll": 542.0846741339208,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9100,6 +9100,21 @@
       "timestamp": 1787671178.8275635,
       "bankroll": 538.16,
       "event": "won: RN1 \u2014 Augsburg: Benjamin Hassan vs Juan Manuel La Serna"
+    },
+    {
+      "timestamp": 1787673674.957202,
+      "bankroll": 542.14,
+      "event": "won: RN1 \u2014 Augsburg: Cezar Cretu vs Niels McDonald"
+    },
+    {
+      "timestamp": 1787673675.0573342,
+      "bankroll": 547.21,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Cezar Cretu vs Niels McDonald"
+    },
+    {
+      "timestamp": 1787673675.4722335,
+      "bankroll": 542.08,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Cezar Cretu vs Niels McDonald"
     }
   ]
 }

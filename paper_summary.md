@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:00:19 (hora de Perú)
+Actualizado: 2026-08-25 11:02:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $538.16
-**Retorno acumulado:** +7.63%
+**Bankroll actual:** $542.08
+**Retorno acumulado:** +8.42%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:00:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $148.16)
+**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $162.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,22 +77,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 275 | 160 | 34 | -30.11 USD |
+| ferrariChampions2026 | 276 | 161 | 32 | -30.16 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 241 | 106 | 21 | -36.92 USD |
+| RN1 | 242 | 106 | 21 | -32.94 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1736
-- **Aciertos:** 1119 (64.5%)
+- **Apuestas resueltas:** 1739
+- **Aciertos:** 1121 (64.5%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,668.82
-- **ROI sobre lo apostado:** -0.50%
-- **Comisiones pagadas (taker fee):** $157.75 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.32% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,683.82
+- **ROI sobre lo apostado:** -0.45%
+- **Comisiones pagadas (taker fee):** $158.12 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 857 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 860 | 50.3% | 50.1% | +0.2 pp |
 | 60-79% | 528 | 71.0% | 67.6% | +3.4 pp |
 | 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 117 | 96.6% | 97.3% | -0.7 pp |
@@ -416,6 +416,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Shintaro Moc | Daniel Milavsky (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Lucie Havlic | Lucie Havlickova (BUY) | 84% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Xiyu Wang vs Jessica Bouza | Jessica Bouzas Maneiro (BUY) | 66% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | FK Auda Riga vs. FK Liepaja: 1st Half O/ | Under (BUY) | 59% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -445,4 +446,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: PFK Dinamo Samarqand (-1.5) | Pakhtakor (BUY) | 92% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Alejandro Garcia Carbajal (BUY) | 82% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Alejandro Garcia Car | Javier Barranco Cosano (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 53% | 5.00 | 12.1% | ⏳ pendiente | — |
