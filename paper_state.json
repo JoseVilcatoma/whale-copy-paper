@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.0061584866784,
+  "bankroll": 518.92028492346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9380,6 +9380,16 @@
       "timestamp": 1787685422.7841737,
       "bankroll": 517.01,
       "event": "won: RN1 \u2014 US Open, Qualification WTA: Viktoria Hruncakova vs Julia Riera"
+    },
+    {
+      "timestamp": 1787685734.51897,
+      "bankroll": 517.72,
+      "event": "won: RN1 \u2014 ITF W35 Barueri Women: Leticia Garcia Vidal vs Virginia Crocker"
+    },
+    {
+      "timestamp": 1787685738.5386422,
+      "bankroll": 518.92,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Alina Charaeva vs Susan Bandecchi"
     }
   ]
 }
