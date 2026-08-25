@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 15:01:47 (hora de Perú)
+Actualizado: 2026-08-25 15:04:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $516.41
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 15:01:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $106.41)
+**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $91.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 209 | 111 | 30 | -11.47 USD |
+| HomeRunHazard | 209 | 111 | 33 | -11.47 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 169 | 15 | -42.67 USD |
@@ -426,6 +426,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Darya Astakhova (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Darya Astakh | Marina Bassols Ribera (BUY) | 57% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 51% | 5.00 | 652.1% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Keshav Chopra vs Kaylan Bigu | Keshav Chopra (BUY) | 83% | 5.00 | 102.0% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Benjamin Bonzi (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -453,6 +456,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Annika Penickova (BUY) | 44% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 83% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Washington Mystics (-1.5) | Washington Mystics (BUY) | 53% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Washington Mystics vs. Phoenix Mercury:  | Over (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Suzan Lamens | Suzan Lamens (BUY) | 79% | 5.00 | 1.1% | ✅ ganada | +1.28 |
