@@ -46038,8 +46038,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 41545.956521,
-    "whale_pct": 116.157,
+    "whale_usd": 54458.999999,
+    "whale_pct": 152.26,
     "whale_value_at_open": 35767.1187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -46052,8 +46052,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787670488.8077922,
-    "fills": 6
+    "last_fill_at": 1787670996.0689318,
+    "fills": 7
   },
   {
     "timestamp": 1787668169,
@@ -46349,5 +46349,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787670803.374467,
     "fills": 3
+  },
+  {
+    "timestamp": 1787670886,
+    "timestamp_added": 1787670886.551564,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-ofner-nishiko-2026-08-25",
+    "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
+    "outcome": "Kei Nishikori",
+    "side": "BUY",
+    "whale_usd": 5963.2716,
+    "whale_pct": 4.018,
+    "whale_value_at_open": 148399.5927,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787670900.0916226,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 10:14:36 (hora de Perú)
+Actualizado: 2026-08-25 10:16:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.56
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 10:14:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $278.56)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $273.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 274 | 159 | 21 | -28.97 USD |
+| ferrariChampions2026 | 274 | 159 | 22 | -28.97 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 240 | 106 | 9 | -42.65 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
@@ -405,12 +405,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-hassan-serna-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-wehnelt-hardt-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-cretu-mcdona-2026-08-24 | RN1, ferrariChampions2026 |
+| atp-ofner-nishiko-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-shick-tabur-2026-08-25 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 53% | 5.00 | 4.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Braden Shick | Clement Tabur (BUY) | 70% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Braden Shick | Clement Tabur (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -423,7 +425,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Facundo Mena vs Max Hans Rehbe | Max Hans Rehberg (BUY) | 74% | 5.00 | 6.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 47% | 5.00 | 25.1% | ⏳ pendiente | — |
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Alice Gillan (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 116.2% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 55% | 5.00 | 152.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Cezar Cretu vs Niels McDonald | Niels McDonald (BUY) | 49% | 5.00 | 10.2% | ⏳ pendiente | — |
 | RN1 | ITF W15 Torello Women: Alice Gillan vs E | Esther Lopez Alcaraz (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -440,4 +442,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: 1WIN vs Nemiga (BO3) - M | Nemiga (BUY) | 44% | 5.00 | 25.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 49% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Roehampton 2: George Loffhagen vs Alasta | George Loffhagen (BUY) | 55% | 5.00 | 8.8% | ✅ ganada | +3.98 |
-| ferrariChampions2026 | Augsburg: Benjamin Hassan vs Juan Manuel | Juan Manuel La Serna (BUY) | 55% | 5.00 | 12.4% | ⏳ pendiente | — |
