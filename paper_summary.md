@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:52:56 (hora de Perú)
+Actualizado: 2026-08-25 11:55:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.38
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:52:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $118.38)
+**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $108.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,9 +76,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
+| HomeRunHazard | 196 | 109 | 2 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 243 | 108 | 27 | -36.96 USD |
+| RN1 | 243 | 108 | 28 | -36.96 USD |
 | ferrariChampions2026 | 278 | 163 | 30 | -39.71 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
@@ -411,11 +411,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kwon-lajovic-2026-08-25 | RN1, ferrariChampions2026 |
 | wta-wan-maneiro-2026-08-25 | RN1, ferrariChampions2026 |
 | wta-samson-zidanse-2026-08-25 | RN1, ferrariChampions2026 |
+| wta-presto-hibino-2026-08-25 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: Team | MH Hapoel Be'er Sheva (BUY) | 59% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Monterrey Open: Shuai Zhang vs Maria Tim | Shuai Zhang (BUY) | 53% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Soon-Woo Kwo | Dusan Lajovic (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -444,5 +447,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Augsburg: Henri Haupt vs Svyatoslav Guli | Svyatoslav Gulin (BUY) | 98% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF M25 Oviedo Men: Samuel De Felipe Gar | Xavi Palomar (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia: Xiyu Wang vs Jessica Bouza | Xiyu Wang (BUY) | 51% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Elizabeth Ma | Elizabeth Mandlik (BUY) | 85% | 5.00 | 2.2% | ❌ perdida | -5.04 |
