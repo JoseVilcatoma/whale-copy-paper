@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 00:46:41 (hora de Perú)
+Actualizado: 2026-08-25 00:48:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $546.61
@@ -399,7 +399,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 52% | 5.00 | 3.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 43% | 5.00 | 62.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Monterrey Open: Diane Parry vs Donna Vek | Donna Vekic (BUY) | 57% | 5.00 | 779.2% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 65% | 5.00 | 1.3% | ⏳ pendiente | — |
