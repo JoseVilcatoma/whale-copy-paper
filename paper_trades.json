@@ -46335,8 +46335,8 @@
     "title": "US Open, Qualification ATP: Henri Squire vs David Jorda Sanchis",
     "outcome": "Henri Squire",
     "side": "BUY",
-    "whale_usd": 6364.261,
-    "whale_pct": 4.675,
+    "whale_usd": 7877.513396,
+    "whale_pct": 5.786,
     "whale_value_at_open": 136145.1344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -46347,8 +46347,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787672048.8242524,
-    "fills": 4
+    "last_fill_at": 1787672346.2017727,
+    "fills": 6
   },
   {
     "timestamp": 1787670886,
@@ -46625,8 +46625,8 @@
     "title": "Winston-Salem Open: Benjamin Bonzi vs Quentin Halys",
     "outcome": "Quentin Halys",
     "side": "BUY",
-    "whale_usd": 5410.656754,
-    "whale_pct": 5.921,
+    "whale_usd": 6739.020266,
+    "whale_pct": 7.375,
     "whale_value_at_open": 91380.3367,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -46637,8 +46637,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787672144.8834014,
-    "fills": 2
+    "last_fill_at": 1787672291.7220984,
+    "fills": 4
   },
   {
     "timestamp": 1787672153,
@@ -46662,6 +46662,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787672154.6387,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787672235,
+    "timestamp_added": 1787672236.3558218,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-squire-sanchis-2026-08-25",
+    "title": "US Open, Qualification ATP: Henri Squire vs David Jorda Sanchis",
+    "outcome": "Henri Squire",
+    "side": "BUY",
+    "whale_usd": 758.5875,
+    "whale_pct": 0.473,
+    "whale_value_at_open": 160386.8018,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787672236.3558316,
     "fills": 1
   }
 ]
