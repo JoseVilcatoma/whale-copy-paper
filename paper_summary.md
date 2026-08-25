@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 04:21:44 (hora de Perú)
+Actualizado: 2026-08-25 04:23:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $545.36
@@ -406,7 +406,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: Kiwoom DRX Challengers vs BNK FearX | BNK FearX Youth (BUY) | 59% | 5.00 | 138.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valencia CF vs. Real Betis Balompié: O/U | Under (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 |  | Dota 2: PuckChamp vs Nemiga Gaming - Gam | PuckChamp (BUY) | 66% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF W35 Verbier 2 Women: Liv Boulard vs  | Liv Boulard (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF W35 Verbier 2 Women: Liv Boulard vs  | Liv Boulard (BUY) | 62% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Seoul vs. Bucheon FC 1995: O/U 2.5 | Over (BUY) | 58% | 5.00 | 5.1% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF M25 Poznan Men: Adam Kaczmarek vs Le | Leonardo Iemmi (BUY) | 79% | 5.00 | 186.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Dota 2: PuckChamp vs Nemiga Gaming (BO3) | PuckChamp (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
