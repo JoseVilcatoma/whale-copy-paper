@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.5577322815105,
+  "bankroll": 528.4177322815106,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9145,6 +9145,11 @@
       "timestamp": 1787676146.194215,
       "bankroll": 533.56,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Dominic Stephan Stricker vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787676446.6062603,
+      "bankroll": 528.42,
+      "event": "lost: AV23IUa \u2014 Counter-Strike: 1WIN vs Nemiga (BO3) - Moscow Cyber Games European Qualifier Group Stage"
     }
   ]
 }
