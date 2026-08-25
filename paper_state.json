@@ -1,5 +1,5 @@
 {
-  "bankroll": 583.5544354791449,
+  "bankroll": 583.6514762954714,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -8310,6 +8310,11 @@
       "timestamp": 1787616330.3666914,
       "bankroll": 583.55,
       "event": "won: casualbet2020 \u2014 Valorant: KR\u00dc Blaze vs Looking For Laburo - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787617079.3862898,
+      "bankroll": 583.65,
+      "event": "won: RN1 \u2014 Will CA Central C\u00f3rdoba win on 2026-08-24?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-24 19:17:06 (hora de Perú)
+Actualizado: 2026-08-24 19:19:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $583.55
-**Retorno acumulado:** +16.71%
+**Bankroll actual:** $583.65
+**Retorno acumulado:** +16.73%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-24 19:17:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $505.00 en 101 posiciones abiertas (disponible para nuevas apuestas: $78.55)
+**Capital comprometido ahora mismo:** $510.00 en 102 posiciones abiertas (disponible para nuevas apuestas: $73.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,21 +74,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 154 | 79 | 58 | -14.63 USD |
+| HomeRunHazard | 154 | 79 | 60 | -14.63 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 11 | 17 | 5 | -38.29 USD |
-| RN1 | 231 | 102 | 7 | -46.13 USD |
+| RN1 | 232 | 102 | 6 | -46.03 USD |
 |  | 32 | 23 | 3 | -54.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1580
-- **Aciertos:** 1031 (65.3%)
+- **Apuestas resueltas:** 1581
+- **Aciertos:** 1032 (65.3%)
 - **Cuota promedio de entrada:** 64.1%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $7,888.82
+- **Total apostado (suma de stakes):** $7,893.82
 - **ROI sobre lo apostado:** -0.02%
-- **Comisiones pagadas (taker fee):** $141.75 (1.80% del capital apostado)
+- **Comisiones pagadas (taker fee):** $141.76 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.78% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -100,7 +100,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 758 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 488 | 71.9% | 67.6% | +4.3 pp |
 | 80-94% | 223 | 86.5% | 87.2% | -0.6 pp |
-| 95-99% (casi seguro) | 111 | 96.4% | 97.3% | -0.9 pp |
+| 95-99% (casi seguro) | 112 | 96.4% | 97.3% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -391,6 +391,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Washington Nationals (-1.5) | Washington Nationals (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Washington Nationals (BUY) | 88% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Coleman Wong | Coleman Wong (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Donghui | Boston Red Sox vs. Miami Marlins | Miami Marlins (BUY) | 52% | 5.00 | 41.1% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -419,5 +421,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Pittsburgh Pirates (-1.5) | San Diego Padres (BUY) | 65% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mananchaya Sawangkaew vs S | Sloane Stephens (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Akasha Urhobo (BUY) | 84% | 5.00 | 0.6% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Coleman Wong | Elmer Moeller (BUY) | 55% | 5.00 | 8.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Caroline Dol | Veronika Podrez (BUY) | 65% | 5.00 | 1.2% | ⏳ pendiente | — |
