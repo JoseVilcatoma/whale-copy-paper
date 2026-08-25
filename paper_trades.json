@@ -44368,8 +44368,8 @@
     "title": "Monterrey Open: Clara Tauson vs Renata Zarazua",
     "outcome": "Renata Zarazua",
     "side": "BUY",
-    "whale_usd": 2223.259862,
-    "whale_pct": 1.973,
+    "whale_usd": 3774.9499619999997,
+    "whale_pct": 3.35,
     "whale_value_at_open": 112686.5762,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -44382,7 +44382,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787625515.6282635,
-    "fills": 1
+    "last_fill_at": 1787625663.2093112,
+    "fills": 2
   }
 ]
