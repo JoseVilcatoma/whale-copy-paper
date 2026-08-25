@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:22:31 (hora de Perú)
+Actualizado: 2026-08-25 13:24:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:22:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $130.76)
+**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $115.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 200 | 111 | 7 | -25.86 USD |
+| HomeRunHazard | 200 | 111 | 10 | -25.86 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 286 | 168 | 17 | -38.01 USD |
 | RN1 | 253 | 115 | 29 | -49.77 USD |
@@ -411,6 +411,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-shick-tabur-2026-08-25 | RN1, ferrariChampions2026 |
 | atp-squire-sanchis-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-kwon-lajovic-2026-08-25 | RN1, ferrariChampions2026 |
+| atp-bonzi-halys-2026-08-25 | AV23IUa, HomeRunHazard |
 | wta-wan-maneiro-2026-08-25 | RN1, ferrariChampions2026 |
 | wta-samson-zidanse-2026-08-25 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wta-presto-hibino-2026-08-25 | HomeRunHazard, RN1 |
@@ -421,6 +422,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Washington Mystics (-2.5) | Washington Mystics (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Luka Mikrut (BUY) | 95% | 5.00 | 0.5% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | 💰 vendida anticipada | -0.70 |
 | HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -448,6 +452,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Oleksii Krutykh vs Matias Soto | Matias Soto (BUY) | 89% | 5.00 | 0.7% | ✅ ganada | +0.59 |
 | HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Laura Samson | Tamara Zidansek (BUY) | 73% | 5.00 | 3.3% | ✅ ganada | +1.78 |
-| HomeRunHazard | US Open, Qualification ATP: Henri Squire | David Jorda Sanchis (BUY) | 42% | 5.00 | 1.0% | ✅ ganada | +6.76 |
-| HomeRunHazard | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 58% | 5.00 | 0.9% | ❌ perdida | -5.11 |
