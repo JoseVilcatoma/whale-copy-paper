@@ -1,5 +1,5 @@
 {
-  "bankroll": 542.0846741339208,
+  "bankroll": 532.2994567426164,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9115,6 +9115,21 @@
       "timestamp": 1787673675.4722335,
       "bankroll": 542.08,
       "event": "lost: ferrariChampions2026 \u2014 Augsburg: Cezar Cretu vs Niels McDonald"
+    },
+    {
+      "timestamp": 1787674571.5370126,
+      "bankroll": 537.02,
+      "event": "lost: ferrariChampions2026 \u2014 Augsburg: Facundo Mena vs Max Hans Rehberg"
+    },
+    {
+      "timestamp": 1787674572.0047944,
+      "bankroll": 531.88,
+      "event": "lost: RN1 \u2014 ITF M15 Allershausen Men: Hazem Naw vs Bruno Fernandez"
+    },
+    {
+      "timestamp": 1787674575.3279915,
+      "bankroll": 532.3,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Facundo Mena vs Max Hans Rehberg"
     }
   ]
 }

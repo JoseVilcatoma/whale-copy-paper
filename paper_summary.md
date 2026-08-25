@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:15:40 (hora de Perú)
+Actualizado: 2026-08-25 11:17:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $542.08
-**Retorno acumulado:** +8.42%
+**Bankroll actual:** $532.30
+**Retorno acumulado:** +6.46%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:15:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $137.08)
+**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $132.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,22 +77,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
-| ferrariChampions2026 | 276 | 161 | 34 | -30.16 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 242 | 106 | 23 | -32.94 USD |
+| ferrariChampions2026 | 277 | 162 | 32 | -34.82 USD |
+| RN1 | 242 | 107 | 24 | -38.07 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1739
-- **Aciertos:** 1121 (64.5%)
+- **Apuestas resueltas:** 1742
+- **Aciertos:** 1122 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $8,683.82
-- **ROI sobre lo apostado:** -0.45%
-- **Comisiones pagadas (taker fee):** $158.12 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $8,698.82
+- **ROI sobre lo apostado:** -0.56%
+- **Comisiones pagadas (taker fee):** $158.34 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -100,9 +100,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 860 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 528 | 71.0% | 67.6% | +3.4 pp |
-| 80-94% | 234 | 85.5% | 87.1% | -1.6 pp |
+| 40-59% | 861 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 529 | 70.9% | 67.6% | +3.3 pp |
+| 80-94% | 235 | 85.5% | 87.1% | -1.6 pp |
 | 95-99% (casi seguro) | 117 | 96.6% | 97.3% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -416,9 +416,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Al Fayha Saudi Club win on 2026-08- | No (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Timofey Skat | Timofey Skatov (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Janae Presto | Nao Hibino (BUY) | 60% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Will FK Auda Riga win on 2026-08-25? | No (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
-| vito3corleone | Will Real Betis Balompié win on 2026-08- | No (BUY) | 64% | 5.00 | 172.7% | ⏳ pendiente | — |
+| vito3corleone | Will Real Betis Balompié win on 2026-08- | No (BUY) | 64% | 5.00 | 218.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Dominic Stephan Stricker vs Ma | Martin Krumich (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Mur | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Shintaro Moc | Daniel Milavsky (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -429,7 +431,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Jodie Burrage (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Jodie Burrag | Guiomar Maristany (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 56% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Sebastian Of | Kei Nishikori (BUY) | 60% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification ATP: Soon-Woo Kwo | Soon-Woo Kwon (BUY) | 84% | 5.00 | 12.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: PCIFIC  vs SU Esports (BO5) - TCL P | SU Esports (BUY) | 82% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 52% | 5.00 | 12.5% | ⏳ pendiente | — |
@@ -444,5 +446,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Sabah FK vs. MH Hapoel Be'er Sheva: O/U  | Under (BUY) | 46% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Gijs Brouwer vs Andres Marti | Andres Martin (BUY) | 60% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Will Xorazm Fk Urganch win on 2026-08-25 | No (BUY) | 89% | 5.00 | 0.4% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 76% | 5.00 | 52.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Shintaro Moc | Shintaro Mochizuki (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
