@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 14:31:10 (hora de Perú)
+Actualizado: 2026-08-25 14:33:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 14:31:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $79.92)
+**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $74.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 204 | 111 | 26 | -23.95 USD |
+| HomeRunHazard | 204 | 111 | 27 | -23.95 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 287 | 168 | 16 | -37.54 USD |
 | RN1 | 259 | 116 | 22 | -45.28 USD |
@@ -423,6 +423,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Garrett Johns (BUY) | 88% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Adam Walton vs Ignac | Ignacio Buse (BUY) | 66% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Lola Radivoj | Lola Radivojevic (BUY) | 71% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 74% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -430,8 +431,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Alice Tubell | Priscilla Hon (BUY) | 63% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Keshav Chopra vs Kaylan Bigu | Kaylan Bigun (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Luciano Darderi (BUY) | 48% | 5.00 | 2.7% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Mattia Bellucci vs L | Mattia Bellucci (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Sky vs. Connecticut Sun: O/U 169 | Over (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Anastasia Zakharova vs Kyl | Anastasia Zakharova (BUY) | 71% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Annika Penickova (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -440,7 +441,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury:  | Over (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Suzan Lamens | Suzan Lamens (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 82% | 5.00 | 4.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 82% | 5.00 | 4.9% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Miomir Kecmanovic vs | Miomir Kecmanovic (BUY) | 59% | 5.00 | 14.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Mia Pohankova vs Katie Vol | Katie Volynets (BUY) | 99% | 5.00 | 3.3% | ✅ ganada | +0.05 |
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 68% | 5.00 | 122.5% | ✅ ganada | +2.27 |
@@ -452,4 +453,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification ATP: Bernard Tomi | Lloyd Harris (BUY) | 83% | 5.00 | 93.0% | 💰 vendida anticipada | -0.70 |
 | HomeRunHazard | US Open, Qualification ATP: Alex Bolt vs | Pablo Llamas Ruiz (BUY) | 67% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Kim vs Garrett Johns | Aidan Kim (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Moise Kouame | Nishesh Basavareddy (BUY) | 72% | 5.00 | 3.8% | ⏳ pendiente | — |

@@ -48406,8 +48406,8 @@
     "title": "US Open, Qualification WTA: Martyna Kubka vs Annika Penickova",
     "outcome": "Martyna Kubka",
     "side": "BUY",
-    "whale_usd": 7864.8145,
-    "whale_pct": 4.519,
+    "whale_usd": 8461.9285,
+    "whale_pct": 4.862,
     "whale_value_at_open": 174055.8713,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -48418,8 +48418,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787685505.4149282,
-    "fills": 4
+    "last_fill_at": 1787686287.0027163,
+    "fills": 5
   },
   {
     "timestamp": 1787683211,
@@ -48624,8 +48624,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Mattia Bellucci",
     "side": "BUY",
-    "whale_usd": 4054.0002,
-    "whale_pct": 1.957,
+    "whale_usd": 4762.314143,
+    "whale_pct": 2.299,
     "whale_value_at_open": 207171.1908,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -48640,8 +48640,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787685390.93973,
-    "fills": 1
+    "last_fill_at": 1787686330.5669518,
+    "fills": 2
   },
   {
     "timestamp": 1787685488,
@@ -48652,8 +48652,8 @@
     "title": "Winston-Salem Open: Mattia Bellucci vs Luciano Darderi",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 3822.4676,
-    "whale_pct": 1.871,
+    "whale_usd": 5559.0176,
+    "whale_pct": 2.72,
     "whale_value_at_open": 204349.5985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -48668,8 +48668,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787686121.02872,
-    "fills": 2
+    "last_fill_at": 1787686273.3165686,
+    "fills": 3
   },
   {
     "timestamp": 1787685498,
@@ -48837,6 +48837,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787686239.3203814,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787686274,
+    "timestamp_added": 1787686274.4913208,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-kim-johns-2026-08-25",
+    "title": "Kingston 2: Aidan Kim vs Garrett Johns",
+    "outcome": "Garrett Johns",
+    "side": "BUY",
+    "whale_usd": 825.8174,
+    "whale_pct": 0.341,
+    "whale_value_at_open": 242077.6877,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787686274.4913342,
     "fills": 1
   }
 ]
