@@ -48504,8 +48504,8 @@
     "title": "Spread: Washington Mystics (-1.5)",
     "outcome": "Washington Mystics",
     "side": "BUY",
-    "whale_usd": 1404.0,
-    "whale_pct": 0.741,
+    "whale_usd": 2814.3540000000003,
+    "whale_pct": 1.486,
     "whale_value_at_open": 189365.1105,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -48516,8 +48516,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787684331.1164608,
-    "fills": 1
+    "last_fill_at": 1787684901.1469555,
+    "fills": 2
   },
   {
     "timestamp": 1787684373,
