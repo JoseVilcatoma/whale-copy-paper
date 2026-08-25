@@ -46846,8 +46846,8 @@
     "title": "LoL: PCIFIC  vs SU Esports (BO5) - TCL Playoffs",
     "outcome": "SU Esports",
     "side": "BUY",
-    "whale_usd": 2073.52,
-    "whale_pct": 1.022,
+    "whale_usd": 3193.2316,
+    "whale_pct": 1.574,
     "whale_value_at_open": 202880.2706,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -46858,8 +46858,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787673342.1258557,
-    "fills": 2
+    "last_fill_at": 1787673469.410712,
+    "fills": 3
   },
   {
     "timestamp": 1787673073,
@@ -46896,8 +46896,8 @@
     "title": "US Open, Qualification ATP: Sebastian Ofner vs Kei Nishikori",
     "outcome": "Kei Nishikori",
     "side": "BUY",
-    "whale_usd": 535.072439,
-    "whale_pct": 0.296,
+    "whale_usd": 1831.8809489999999,
+    "whale_pct": 1.014,
     "whale_value_at_open": 180715.6866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -46910,8 +46910,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787673076.2500966,
-    "fills": 1
+    "last_fill_at": 1787673411.0902994,
+    "fills": 2
   },
   {
     "timestamp": 1787673091,
