@@ -47168,8 +47168,8 @@
     "title": "Will Real Betis Balompi\u00e9 win on 2026-08-25?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 211875.76640199998,
-    "whale_pct": 1066.042,
+    "whale_usd": 213771.28640199997,
+    "whale_pct": 1075.579,
     "whale_value_at_open": 19875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -47180,8 +47180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787682158.5755224,
-    "fills": 27
+    "last_fill_at": 1787682304.731307,
+    "fills": 28
   },
   {
     "timestamp": 1787674325,
@@ -48299,6 +48299,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787682224.621639,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787682345,
+    "timestamp_added": 1787682345.942056,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-charaev-bandecc-2026-08-25",
+    "title": "US Open, Qualification WTA: Alina Charaeva vs Susan Bandecchi",
+    "outcome": "Susan Bandecchi",
+    "side": "BUY",
+    "whale_usd": 699.1218,
+    "whale_pct": 0.434,
+    "whale_value_at_open": 161188.9389,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787682345.9420664,
     "fills": 1
   }
 ]

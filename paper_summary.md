@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 13:24:35 (hora de Perú)
+Actualizado: 2026-08-25 13:26:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 13:24:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $115.76)
+**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $110.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 200 | 111 | 10 | -25.86 USD |
+| HomeRunHazard | 200 | 111 | 11 | -25.86 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 286 | 168 | 17 | -38.01 USD |
 | RN1 | 253 | 115 | 29 | -49.77 USD |
@@ -422,6 +422,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Alina Charae | Susan Bandecchi (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Washington Mystics (-2.5) | Washington Mystics (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -451,4 +452,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Laura Samson | Laura Samson (BUY) | 62% | 5.00 | 1.0% | ❌ perdida | -5.09 |
 | HomeRunHazard | Augsburg: Oleksii Krutykh vs Matias Soto | Matias Soto (BUY) | 89% | 5.00 | 0.7% | ✅ ganada | +0.59 |
 | HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Lorenzo Gius | Grigor Dimitrov (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
