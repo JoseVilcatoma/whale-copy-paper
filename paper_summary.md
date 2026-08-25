@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 11:34:17 (hora de Perú)
+Actualizado: 2026-08-25 11:36:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.41
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 11:34:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $133.41)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $128.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 196 | 109 | 1 | -25.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 277 | 162 | 32 | -34.82 USD |
-| RN1 | 243 | 108 | 24 | -36.96 USD |
+| RN1 | 243 | 108 | 25 | -36.96 USD |
 | Sassy-Bucket | 13 | 22 | 0 | -53.74 USD |
 |  | 35 | 27 | 7 | -64.13 USD |
 
@@ -416,6 +416,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Braden Shick | Braden Shick (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Sabah FK win on 2026-08-25? | No (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Sabah FK vs. MH Hapoel Be'er Sheva: 1st  | Under (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Al Fayha Saudi Club win on 2026-08- | No (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -445,4 +446,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Henri Squire | Henri Squire (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF M15 Champaign, IL Men: Preston Stear | Preston Stearns (BUY) | 83% | 5.00 | 0.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Benjamin Bonzi vs Qu | Quentin Halys (BUY) | 64% | 5.00 | 29.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Sabah FK vs. MH Hapoel Be'er Sheva: O/U  | Under (BUY) | 46% | 5.00 | 1.9% | ⏳ pendiente | — |

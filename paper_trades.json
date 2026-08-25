@@ -47326,5 +47326,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787675465.3377726,
     "fills": 1
+  },
+  {
+    "timestamp": 1787675691,
+    "timestamp_added": 1787675692.0811589,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-shick-tabur-2026-08-25",
+    "title": "US Open, Qualification ATP: Braden Shick vs Clement Tabur",
+    "outcome": "Braden Shick",
+    "side": "BUY",
+    "whale_usd": 512.307692,
+    "whale_pct": 0.2,
+    "whale_value_at_open": 256764.2015,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787675692.0811698,
+    "fills": 1
   }
 ]
