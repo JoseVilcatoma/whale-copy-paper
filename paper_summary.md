@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 17:19:52 (hora de Perú)
+Actualizado: 2026-08-25 17:21:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $487.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 17:19:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $17.07)
+**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $7.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,7 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 228 | 119 | 42 | -22.04 USD |
+| HomeRunHazard | 228 | 119 | 44 | -22.04 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 292 | 173 | 16 | -50.57 USD |
 | RN1 | 267 | 122 | 8 | -53.27 USD |
@@ -439,6 +439,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Sofia Costou | Sofia Costoulas (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Tomas Machac (BUY) | 64% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Shuai Zhang vs Maria Tim | Maria Timofeeva (BUY) | 69% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. Miami Marlins: O/U 7. | Over (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 45.2% | ⏳ pendiente | — |
@@ -467,5 +469,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Cristina Bucsa vs Anna B | Cristina Bucsa (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Tampa Bay Rays (-2.5) | Detroit Tigers (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Los Angeles Dodgers (-2.5) | Atlanta Braves (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
