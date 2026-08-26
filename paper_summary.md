@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:17:06 (hora de Perú)
+Actualizado: 2026-08-26 09:19:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.42
@@ -482,7 +482,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Smouha SC win on 2026-08-26? | No (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 7.9% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nik Mikovic (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nik Mikovic (BUY) | 93% | 5.00 | 1.3% | ⏳ pendiente | — |
 |  | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will FC Bunyodkor win on 2026-08-26? | No (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |

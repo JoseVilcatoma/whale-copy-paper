@@ -55533,8 +55533,8 @@
     "title": "ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Mak Mikovic vs Nik Mikovic",
     "outcome": "Nik Mikovic",
     "side": "BUY",
-    "whale_usd": 855.4,
-    "whale_pct": 0.494,
+    "whale_usd": 2185.3,
+    "whale_pct": 1.263,
     "whale_value_at_open": 173087.0107,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -55545,8 +55545,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787753368.526488,
-    "fills": 1
+    "last_fill_at": 1787753938.4880018,
+    "fills": 2
   },
   {
     "timestamp": 1787753450,
