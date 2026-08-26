@@ -50952,8 +50952,8 @@
     "title": "Kingston 2: Juan Pablo Ficovich vs Evan Zhu",
     "outcome": "Juan Pablo Ficovich",
     "side": "BUY",
-    "whale_usd": 24972.159994999998,
-    "whale_pct": 43.921,
+    "whale_usd": 29328.55998999999,
+    "whale_pct": 51.583,
     "whale_value_at_open": 56856.7542,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -50964,8 +50964,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787704835.7298105,
-    "fills": 6
+    "last_fill_at": 1787705349.9441118,
+    "fills": 11
   },
   {
     "timestamp": 1787698745,
