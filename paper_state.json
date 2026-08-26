@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.0435906141595,
+  "bankroll": 499.9155906141595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10015,6 +10015,11 @@
       "timestamp": 1787706081.9432857,
       "bankroll": 505.04,
       "event": "won: casualbet2020 \u2014 Valorant: Akave Esports Black vs FUSION X - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787707013.3297555,
+      "bankroll": 499.92,
+      "event": "lost: HomeRunHazard \u2014 Houston Astros vs. New York Yankees: O/U 8.5"
     }
   ]
 }
