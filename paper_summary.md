@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:08:24 (hora de Perú)
+Actualizado: 2026-08-25 21:10:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $466.04
-**Retorno acumulado:** -6.79%
+**Bankroll actual:** $466.01
+**Retorno acumulado:** -6.80%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:08:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $71.04)
+**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $71.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
-| SnakeBall | 0 | 0 | 1 | +0.00 USD |
+| SnakeBall | 0 | 0 | 2 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -78,22 +78,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| HomeRunHazard | 257 | 134 | 29 | -16.54 USD |
+| HomeRunHazard | 257 | 135 | 28 | -21.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 271 | 124 | 6 | -48.17 USD |
+| RN1 | 271 | 124 | 7 | -48.17 USD |
 | Sassy-Bucket | 14 | 22 | 4 | -48.45 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
-|  | 46 | 33 | 6 | -74.45 USD |
+|  | 47 | 33 | 5 | -69.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1942
-- **Aciertos:** 1250 (64.4%)
+- **Apuestas resueltas:** 1944
+- **Aciertos:** 1251 (64.4%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,698.48
+- **Total apostado (suma de stakes):** $9,708.48
 - **ROI sobre lo apostado:** -1.22%
-- **Comisiones pagadas (taker fee):** $174.75 (1.80% del capital apostado)
+- **Comisiones pagadas (taker fee):** $174.99 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -102,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 942 | 49.9% | 50.2% | -0.3 pp |
+| 40-59% | 944 | 49.9% | 50.2% | -0.3 pp |
 | 60-79% | 591 | 70.1% | 67.6% | +2.5 pp |
 | 80-94% | 273 | 86.1% | 87.0% | -0.9 pp |
 | 95-99% (casi seguro) | 136 | 96.3% | 97.4% | -1.0 pp |
@@ -442,6 +442,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-valdman-carle-2026-08-25 | , HomeRunHazard |
 | atp-ficovic-zh-2026-08-25 | , OOOwhyOOO |
 | wta-kalieva-mladeno-2026-08-25 | , HomeRunHazard, OOOwhyOOO |
+| mlb-pit-sd-2026-08-25 | HomeRunHazard, RN1 |
 | mlb-mil-nym-2026-08-25 | HomeRunHazard, RN1 |
 | mlb-cle-laa-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading |
 | atp-daniel-johnson-2026-08-25 | , HomeRunHazard |
@@ -454,6 +455,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
+| SnakeBall | Will Independiente del Valle win on 2026 | Yes (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. New York Mets | New York Mets (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Cleveland Guardians vs. Los Angeles Ange | Los Angeles Angels (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -482,5 +485,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Yulia Sta | Yulia Starodubtseva (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Dalma Galfi  | Dalma Galfi (BUY) | 49% | 5.00 | 5.4% | ❌ perdida | -5.13 |
-| HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Kansas City Royals (BUY) | 83% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
