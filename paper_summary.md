@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 14:22:21 (hora de Perú)
+Actualizado: 2026-08-26 14:24:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $493.85
-**Retorno acumulado:** -1.23%
+**Bankroll actual:** $492.92
+**Retorno acumulado:** -1.42%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 14:22:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $28.85)
+**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $42.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| HomeRunHazard | 306 | 150 | 37 | +48.23 USD |
+| HomeRunHazard | 308 | 151 | 34 | +47.29 USD |
 | BOOMBOYS.Kiritych | 28 | 14 | 1 | +43.04 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2151
-- **Aciertos:** 1387 (64.5%)
+- **Apuestas resueltas:** 2154
+- **Aciertos:** 1389 (64.5%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,742.59
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $193.65 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,757.59
+- **ROI sobre lo apostado:** -0.86%
+- **Comisiones pagadas (taker fee):** $193.95 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -107,8 +107,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1045 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 649 | 69.5% | 67.6% | +1.9 pp |
+| 40-59% | 1046 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 651 | 69.6% | 67.6% | +2.0 pp |
 | 80-94% | 307 | 87.0% | 86.8% | +0.2 pp |
 | 95-99% (casi seguro) | 150 | 95.3% | 97.4% | -2.0 pp |
 
@@ -521,7 +521,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Baronen11 | Will Burnley FC win on 2026-08-26? | No (BUY) | 56% | 5.00 | 110.8% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Max Purcell vs Garrett Johns | Max Purcell (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Paulo Dos Santos vs Andres M | Andres Martin (BUY) | 75% | 5.00 | 5.7% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Paulo Dos Santos vs Andres M | Andres Martin (BUY) | 75% | 5.00 | 5.7% | ✅ ganada | +1.60 |
 | HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 9.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Galions - Game 3 Win | Galions (BUY) | 65% | 5.00 | 63.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Real Madrid CF (-2.5) | Real Sociedad de Fútbol (BUY) | 61% | 5.00 | 2.6% | ⏳ pendiente | — |

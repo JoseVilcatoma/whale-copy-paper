@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.85338781873315,
+  "bankroll": 492.9153621777075,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11220,6 +11220,21 @@
       "timestamp": 1787772068.803255,
       "bankroll": 493.85,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Francisca Jorge vs Mia Ristic"
+    },
+    {
+      "timestamp": 1787772197.727194,
+      "bankroll": 496.46,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Julieta Pareja vs Iryna Shymanovich"
+    },
+    {
+      "timestamp": 1787772197.9275374,
+      "bankroll": 491.31,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Julieta Pareja vs Iryna Shymanovich"
+    },
+    {
+      "timestamp": 1787772199.5463448,
+      "bankroll": 492.92,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Paulo Dos Santos vs Andres Martin"
     }
   ]
 }
