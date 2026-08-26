@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 04:41:11 (hora de Perú)
+Actualizado: 2026-08-26 04:43:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 04:41:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $230.40)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $225.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| plonker2026 | 3 | 2 | 0 | +7.38 USD |
+| plonker2026 | 3 | 2 | 1 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -467,6 +467,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| plonker2026 | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 6.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -496,4 +497,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3 | G2 (BUY) | 53% | 5.00 | 86.4% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 84% | 5.00 | 3.2% | ✅ ganada | +0.91 |
 | RN1 | ITF W75 Bytom Women: Sapfo Sakellaridi v | Sapfo Sakellaridi (BUY) | 90% | 5.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
