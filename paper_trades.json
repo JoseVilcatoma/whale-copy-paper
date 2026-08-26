@@ -58960,8 +58960,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -59867,8 +59867,8 @@
     "title": "CA River Plate vs. Independiente Santa Fe: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 41010.327699999994,
-    "whale_pct": 52.364,
+    "whale_usd": 53554.66269999999,
+    "whale_pct": 68.381,
     "whale_value_at_open": 78317.9441,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59879,8 +59879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787788090.5526717,
-    "fills": 11
+    "last_fill_at": 1787788246.6762545,
+    "fills": 12
   },
   {
     "timestamp": 1787787728,
@@ -60103,6 +60103,59 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787788231.276887,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787788287,
+    "timestamp_added": 1787788287.8604488,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-kc-tor-2026-08-26",
+    "title": "Kansas City Royals vs. Toronto Blue Jays",
+    "outcome": "Kansas City Royals",
+    "side": "BUY",
+    "whale_usd": 1008.5,
+    "whale_pct": 0.32,
+    "whale_value_at_open": 315532.7281,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading",
+      "texaskid"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787788287.8604631,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787788289,
+    "timestamp_added": 1787788289.501451,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-liutova-radivoj-2026-08-26",
+    "title": "US Open, Qualification WTA: Kristina Liutova vs Lola Radivojevic",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "whale_usd": 1067.381018,
+    "whale_pct": 0.338,
+    "whale_value_at_open": 315532.7281,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787788289.501462,
     "fills": 1
   }
 ]

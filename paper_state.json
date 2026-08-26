@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.0547154869469,
+  "bankroll": 480.4099718972033,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11775,6 +11775,11 @@
       "timestamp": 1787788223.4670455,
       "bankroll": 479.05,
       "event": "lost:  \u2014 Set Handicap: Watson (-1.5) vs Boluda (+1.5)"
+    },
+    {
+      "timestamp": 1787788349.64801,
+      "bankroll": 480.41,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Heather Watson vs Angela Fita Boluda"
     }
   ]
 }
