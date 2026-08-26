@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 04:55:38 (hora de Perú)
+Actualizado: 2026-08-26 04:57:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 04:55:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $225.93)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $220.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 284 | 132 | 18 | -49.91 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 50 | 35 | 6 | -72.46 USD |
+|  | 50 | 35 | 7 | -72.46 USD |
 
 ## Análisis general
 
@@ -468,9 +468,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 43% | 5.00 | 1.0% | ⏳ pendiente | — |
 | plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
 | plonker2026 | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 3.0% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 6.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 6.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 5.5% | ⏳ pendiente | — |
@@ -497,4 +498,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Al Faisaly Saudi Club win on 2026-0 | No (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 | KT Rolster (BUY) | 61% | 5.00 | 28.5% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3 | G2 (BUY) | 53% | 5.00 | 86.4% | ⏳ pendiente | — |
-| RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 84% | 5.00 | 3.2% | ✅ ganada | +0.91 |

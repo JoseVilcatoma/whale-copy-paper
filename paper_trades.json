@@ -54087,8 +54087,8 @@
     "title": "Augsburg: Juan Manuel La Serna vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 1327.2056,
-    "whale_pct": 3.006,
+    "whale_usd": 2810.9688,
+    "whale_pct": 6.367,
     "whale_value_at_open": 44150.3918,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -54101,8 +54101,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787737483.435385,
-    "fills": 2
+    "last_fill_at": 1787738173.8076112,
+    "fills": 3
   },
   {
     "timestamp": 1787737382,
@@ -54152,6 +54152,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787738132.4632335,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787738225,
+    "timestamp_added": 1787738225.440477,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-guerrie-schwaer-2026-08-26",
+    "title": "US Open, Qualification ATP: Andrea Guerrieri vs Joel Schwaerzler",
+    "outcome": "Andrea Guerrieri",
+    "side": "BUY",
+    "whale_usd": 565.119999,
+    "whale_pct": 0.978,
+    "whale_value_at_open": 57772.8313,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787738225.4404867,
     "fills": 1
   }
 ]
