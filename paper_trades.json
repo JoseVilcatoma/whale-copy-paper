@@ -51436,8 +51436,8 @@
     "title": "US Open, Qualification ATP: Nicolas Mejia vs Liam Draxl",
     "outcome": "Liam Draxl",
     "side": "BUY",
-    "whale_usd": 1076.75,
-    "whale_pct": 0.224,
+    "whale_usd": 3194.7500999999997,
+    "whale_pct": 0.664,
     "whale_value_at_open": 480797.296,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -51448,8 +51448,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787700714.1494472,
-    "fills": 1
+    "last_fill_at": 1787702419.7602692,
+    "fills": 2
   },
   {
     "timestamp": 1787701714,
