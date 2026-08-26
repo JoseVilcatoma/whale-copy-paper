@@ -54799,8 +54799,8 @@
     "title": "LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 2950.0,
-    "whale_pct": 4.676,
+    "whale_usd": 5751.774299999999,
+    "whale_pct": 9.117,
     "whale_value_at_open": 63086.8253,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -54811,7 +54811,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787745423.2517047,
-    "fills": 1
+    "last_fill_at": 1787745498.3583777,
+    "fills": 3
   }
 ]
