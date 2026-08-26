@@ -53545,5 +53545,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787732140.4792323,
     "fills": 1
+  },
+  {
+    "timestamp": 1787732411,
+    "timestamp_added": 1787732412.174347,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-pedone-kulamba-2026-08-26",
+    "title": "ITF W50 Kursumlijska Banja Women: Giorgia Pedone vs Zhibek Kulambayeva",
+    "outcome": "Giorgia Pedone",
+    "side": "BUY",
+    "whale_usd": 850.2,
+    "whale_pct": 1.15,
+    "whale_value_at_open": 73933.0304,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787732412.1743588,
+    "fills": 1
   }
 ]
