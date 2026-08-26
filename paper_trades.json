@@ -57180,8 +57180,8 @@
     "title": "US Open, Qualification WTA: Francisca Jorge vs Mia Ristic",
     "outcome": "Mia Ristic",
     "side": "BUY",
-    "whale_usd": 12628.2542,
-    "whale_pct": 5.541,
+    "whale_usd": 17483.2508,
+    "whale_pct": 7.672,
     "whale_value_at_open": 227891.9229,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -57192,8 +57192,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768479.1466172,
-    "fills": 3
+    "last_fill_at": 1787769269.0319188,
+    "fills": 4
   },
   {
     "timestamp": 1787767019,
@@ -57302,8 +57302,8 @@
     "title": "US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov",
     "outcome": "Grigor Dimitrov",
     "side": "BUY",
-    "whale_usd": 5107.263599999999,
-    "whale_pct": 2.405,
+    "whale_usd": 7452.262599999999,
+    "whale_pct": 3.509,
     "whale_value_at_open": 212355.446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -57314,8 +57314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769176.9646869,
-    "fills": 3
+    "last_fill_at": 1787769337.7611868,
+    "fills": 4
   },
   {
     "timestamp": 1787768136,
