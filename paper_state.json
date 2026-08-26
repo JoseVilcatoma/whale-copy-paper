@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.3555618301145,
+  "bankroll": 498.3286729412256,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10815,6 +10815,11 @@
       "timestamp": 1787751952.784662,
       "bankroll": 492.36,
       "event": "won: HomeRunHazard \u2014 Augsburg: Max Schoenhaus vs Daniel Masur"
+    },
+    {
+      "timestamp": 1787752567.2493699,
+      "bankroll": 498.33,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: KT (-1.5) vs HANJIN BRION (+1.5)"
     }
   ]
 }
