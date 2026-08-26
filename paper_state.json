@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.68052412637184,
+  "bankroll": 497.5126460775914,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10780,6 +10780,21 @@
       "timestamp": 1787749141.615542,
       "bankroll": 500.68,
       "event": "won: HomeRunHazard \u2014 Monterrey Open: Janice Tjen vs Yulia Starodubtseva"
+    },
+    {
+      "timestamp": 1787750143.7059472,
+      "bankroll": 495.61,
+      "event": "lost:  \u2014 LoL: KT Rolster vs HANJIN BRION - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787750143.8060925,
+      "bankroll": 502.65,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: KT Rolster vs HANJIN BRION - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787750143.9062605,
+      "bankroll": 497.51,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: KT Rolster vs HANJIN BRION - Game 3 Winner"
     }
   ]
 }
