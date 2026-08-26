@@ -59213,5 +59213,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787781510.2262166,
     "fills": 1
+  },
+  {
+    "timestamp": 1787783385,
+    "timestamp_added": 1787783385.9461193,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-emp2-cce-2026-08-26",
+    "title": "Counter-Strike: EMPIRE vs Chicken Coop Esports (BO3) - ESL Challenger League North America Cup #1 Playoffs",
+    "outcome": "Chicken Coop Esports",
+    "side": "BUY",
+    "whale_usd": 1003.8892,
+    "whale_pct": 2.882,
+    "whale_value_at_open": 34832.1351,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787783385.9461312,
+    "fills": 1
   }
 ]
