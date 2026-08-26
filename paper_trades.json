@@ -54677,8 +54677,8 @@
     "title": "Vietnam vs. Thailand: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 755.5506,
-    "whale_pct": 1.704,
+    "whale_usd": 2238.977556,
+    "whale_pct": 5.051,
     "whale_value_at_open": 44327.2868,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -54689,8 +54689,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787742795.1858501,
-    "fills": 1
+    "last_fill_at": 1787753267.789095,
+    "fills": 2
   },
   {
     "timestamp": 1787743022,
@@ -55019,8 +55019,8 @@
     "title": "Vietnam vs. Thailand: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2874.809451,
-    "whale_pct": 5.612,
+    "whale_usd": 5104.799451,
+    "whale_pct": 9.966,
     "whale_value_at_open": 51223.4689,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -55031,8 +55031,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787747813.0330162,
-    "fills": 2
+    "last_fill_at": 1787753264.8526032,
+    "fills": 3
   },
   {
     "timestamp": 1787747851,
@@ -55117,8 +55117,8 @@
     "title": "Vietnam vs. Thailand: O/U 4.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 669.230769,
-    "whale_pct": 1.065,
+    "whale_usd": 3237.080769,
+    "whale_pct": 5.153,
     "whale_value_at_open": 62813.9468,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -55129,8 +55129,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787748904.836771,
-    "fills": 1
+    "last_fill_at": 1787753266.3377247,
+    "fills": 2
   },
   {
     "timestamp": 1787749293,
@@ -55446,6 +55446,82 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787753195.323194,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787753208,
+    "timestamp_added": 1787753209.0166256,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uzb1-lok-bun-2026-08-26-bun",
+    "title": "Will FC Bunyodkor win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1534.3628569999998,
+    "whale_pct": 0.907,
+    "whale_value_at_open": 169236.1826,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787753209.016638,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787753228,
+    "timestamp_added": 1787753228.4856174,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-chc-ari-2026-08-26-total-8pt5",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1109.2987,
+    "whale_pct": 1.927,
+    "whale_value_at_open": 57558.0918,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787753228.4856324,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787753267,
+    "timestamp_added": 1787753267.3356724,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "asean-vie-tha-2026-08-26-total-2pt5",
+    "title": "Vietnam vs. Thailand: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1272.6599990000002,
+    "whale_pct": 1.778,
+    "whale_value_at_open": 71567.5887,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787753267.3356862,
     "fills": 1
   }
 ]
