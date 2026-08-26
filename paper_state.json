@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.6102166891219,
+  "bankroll": 514.9920556045923,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10560,6 +10560,26 @@
       "timestamp": 1787729753.5471349,
       "bankroll": 517.61,
       "event": "won: HomeRunHazard \u2014 Spread: Athletics (-2.5)"
+    },
+    {
+      "timestamp": 1787730061.2449064,
+      "bankroll": 521.59,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1787730061.345063,
+      "bankroll": 516.46,
+      "event": "lost: AV23IUa \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 8.5"
+    },
+    {
+      "timestamp": 1787730064.4246788,
+      "bankroll": 511.33,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1787730065.4386885,
+      "bankroll": 514.99,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 6.5"
     }
   ]
 }
