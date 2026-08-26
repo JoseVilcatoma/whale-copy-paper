@@ -52149,5 +52149,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787709620.5376801,
     "fills": 1
+  },
+  {
+    "timestamp": 1787709800,
+    "timestamp_added": 1787709800.3867064,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "mlb-mil-nym-2026-08-25-total-5pt5",
+    "title": "Milwaukee Brewers vs. New York Mets: O/U 5.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 5184.259999,
+    "whale_pct": 1.751,
+    "whale_value_at_open": 296076.2957,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787709800.3867202,
+    "fills": 1
   }
 ]
