@@ -56593,8 +56593,8 @@
     "title": "SE Palmeiras vs. Santos FC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 5110.399996,
-    "whale_pct": 6.065,
+    "whale_usd": 6509.659995,
+    "whale_pct": 7.725,
     "whale_value_at_open": 84262.0193,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -56605,8 +56605,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787759188.580033,
-    "fills": 3
+    "last_fill_at": 1787759434.6464305,
+    "fills": 4
   },
   {
     "timestamp": 1787759114,
