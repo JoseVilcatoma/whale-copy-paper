@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:16:03 (hora de Perú)
+Actualizado: 2026-08-26 10:18:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $487.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:16:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $62.09)
+**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $57.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 289 | 145 | 16 | +44.36 USD |
+| HomeRunHazard | 289 | 145 | 17 | +44.36 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -486,12 +486,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 13.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Francesca Pace (BUY) | 86% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 42% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 41% | 5.00 | 2.7% | ⏳ pendiente | — |
 |  | Counter-Strike: Natus Vincere vs M80 (BO | Natus Vincere (BUY) | 95% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Elena Pridan | Rebecca Marino (BUY) | 45% | 5.00 | 2.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Elena Pridan | Rebecca Marino (BUY) | 45% | 5.00 | 4.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-13.5) | Connecticut Sun (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Mosc | K27 (BUY) | 49% | 5.00 | 41.8% | ⏳ pendiente | — |
@@ -515,4 +516,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nik Mikovic (BUY) | 93% | 5.00 | 1.3% | ✅ ganada | +0.36 |
 |  | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Will FC Bunyodkor win on 2026-08-26? | No (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |
