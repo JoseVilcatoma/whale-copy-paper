@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.175661251362,
+  "bankroll": 508.69699458469535,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10860,6 +10860,11 @@
       "timestamp": 1787754136.0234356,
       "bankroll": 507.18,
       "event": "won:  \u2014 Roehampton 2: Oliver Tarvet vs Oliver Bonding"
+    },
+    {
+      "timestamp": 1787754678.1351976,
+      "bankroll": 508.7,
+      "event": "venta anticipada: Djdjdjekekek \u2014 Augsburg: Facundo Mena vs Kai Wehnelt (+1.52 USD)"
     }
   ]
 }
