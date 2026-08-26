@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 16:30:41 (hora de Perú)
+Actualizado: 2026-08-26 16:32:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $526.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 16:30:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $126.09)
+**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $116.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 329 | 156 | 41 | +64.33 USD |
+| HomeRunHazard | 329 | 156 | 42 | +64.33 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -88,7 +88,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 312 | 143 | 1 | -42.38 USD |
 | Sassy-Bucket | 15 | 25 | 2 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 59 | 43 | 6 | -83.24 USD |
+|  | 59 | 43 | 7 | -83.24 USD |
 
 ## Análisis general
 
@@ -500,14 +500,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-phi-sea-2026-08-26 | HomeRunHazard, Sassy-Bucket |
 | atp-virtane-jones-2026-08-26 | HomeRunHazard, OOOwhyOOO |
 | mlb-chc-ari-2026-08-26 | Djdjdjekekek, HomeRunHazard |
+| wta-swan-stoiana-2026-08-26 | , HomeRunHazard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
+|  | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kei Nishikor | Kei Nishikori (BUY) | 91% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Rei Sakamoto (BUY) | 97% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -533,5 +536,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 49% | 5.00 | 41.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Cleveland Guardians (BUY) | 57% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Yue Yuan vs  | Yue Yuan (BUY) | 71% | 5.00 | 1.7% | ✅ ganada | +1.97 |
-| HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 48% | 5.00 | 3.9% | ⏳ pendiente | — |
