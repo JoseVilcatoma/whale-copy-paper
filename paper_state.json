@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.2452931229126,
+  "bankroll": 532.2902483727343,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11290,6 +11290,21 @@
       "timestamp": 1787773814.7901502,
       "bankroll": 527.25,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Susan Bandecchi vs Viktoria Hruncakova"
+    },
+    {
+      "timestamp": 1787774062.4511504,
+      "bankroll": 530.34,
+      "event": "won: AV23IUa \u2014 Winston-Salem Open: Botic van de Zandschulp vs Luciano Darderi"
+    },
+    {
+      "timestamp": 1787774064.502667,
+      "bankroll": 531.7,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: David Jorda Sanchis vs Dusan Lajovic"
+    },
+    {
+      "timestamp": 1787774066.5080416,
+      "bankroll": 532.29,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Botic van de Zandschulp vs Luciano Darderi"
     }
   ]
 }
