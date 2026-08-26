@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.26741075287094,
+  "bankroll": 489.1335071384131,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11040,6 +11040,16 @@
       "timestamp": 1787765302.992134,
       "bankroll": 493.27,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Alice Rame vs Katerina Tsygourova"
+    },
+    {
+      "timestamp": 1787765620.1578639,
+      "bankroll": 488.15,
+      "event": "lost: RN1 \u2014 US Open, Qualification WTA: Anouk Koevermans vs Linda Klimovicova"
+    },
+    {
+      "timestamp": 1787765621.917351,
+      "bankroll": 489.13,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Linda Fruhvirtova vs Carson Branstine"
     }
   ]
 }
