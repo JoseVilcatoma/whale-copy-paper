@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.8848493265243,
+  "bankroll": 496.8028493265243,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10765,6 +10765,11 @@
       "timestamp": 1787744754.919875,
       "bankroll": 501.88,
       "event": "lost: RN1 \u2014 ITF M25 Oviedo Men: Samuel De Felipe Garcia vs Xavi Palomar"
+    },
+    {
+      "timestamp": 1787746636.5660644,
+      "bankroll": 496.8,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: KT Rolster vs HANJIN BRION - Game 2 Winner"
     }
   ]
 }
