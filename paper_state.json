@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.70160834174237,
+  "bankroll": 492.3555618301145,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10805,6 +10805,16 @@
       "timestamp": 1787750393.7826266,
       "bankroll": 496.7,
       "event": "lost:  \u2014 Counter-Strike: Aurora Gaming vs G2 (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1787751951.9090166,
+      "bankroll": 491.58,
+      "event": "lost: HomeRunHazard \u2014 Augsburg: Max Schoenhaus vs Daniel Masur"
+    },
+    {
+      "timestamp": 1787751952.784662,
+      "bankroll": 492.36,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Max Schoenhaus vs Daniel Masur"
     }
   ]
 }
