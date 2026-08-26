@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 16:07:45 (hora de Perú)
+Actualizado: 2026-08-26 16:09:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.03
@@ -503,8 +503,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 55% | 5.00 | 200.1% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Mees  | Arthur Fery (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
+| Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 55% | 5.00 | 203.0% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Mees  | Arthur Fery (BUY) | 97% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 48% | 5.00 | 439.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Alexandre Muller (BUY) | 41% | 5.00 | 0.5% | ⏳ pendiente | — |

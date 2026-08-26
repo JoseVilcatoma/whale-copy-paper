@@ -58633,8 +58633,8 @@
     "title": "Winston-Salem Open: Arthur Fery vs Mees Rottgering",
     "outcome": "Arthur Fery",
     "side": "BUY",
-    "whale_usd": 721.99,
-    "whale_pct": 0.215,
+    "whale_usd": 10693.771677,
+    "whale_pct": 3.178,
     "whale_value_at_open": 336506.1477,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -58645,8 +58645,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787778073.577445,
-    "fills": 1
+    "last_fill_at": 1787778490.4445922,
+    "fills": 3
   },
   {
     "timestamp": 1787778425,
@@ -58657,8 +58657,8 @@
     "title": "Chicago Cubs vs. Arizona Diamondbacks",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 35090.7498,
-    "whale_pct": 200.062,
+    "whale_usd": 35611.3158,
+    "whale_pct": 203.03,
     "whale_value_at_open": 17539.9379,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -58671,7 +58671,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787778459.987904,
-    "fills": 2
+    "last_fill_at": 1787778470.75434,
+    "fills": 3
   }
 ]
