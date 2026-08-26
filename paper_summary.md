@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 03:43:27 (hora de Perú)
+Actualizado: 2026-08-26 03:45:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.49
@@ -473,7 +473,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Pecs Men: Herman Hoeyeraal vs Fi | Herman Hoeyeraal (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 3.4% | ⏳ pendiente | — |
-| RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 3.1% | ⏳ pendiente | — |
+| RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | ITF W50 Kursumlijska Banja Women: Giorgi | Giorgia Pedone (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Carles Hernandez (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Al Faisaly Saudi Club win on 2026-0 | No (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |

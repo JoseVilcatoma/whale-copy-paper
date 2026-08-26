@@ -44494,8 +44494,8 @@
     "title": "ITF W35 Trieste Women: Viola Turini vs Valentina Steiner",
     "outcome": "Valentina Steiner",
     "side": "BUY",
-    "whale_usd": 1811.2399990000001,
-    "whale_pct": 3.34,
+    "whale_usd": 3039.819998,
+    "whale_pct": 5.605,
     "whale_value_at_open": 54234.0095,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -44506,8 +44506,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787631913.766245,
-    "fills": 1
+    "last_fill_at": 1787733863.9333262,
+    "fills": 2
   },
   {
     "timestamp": 1787632667,
@@ -53579,8 +53579,8 @@
     "title": "ITF W50 Kursumlijska Banja Women: Lea Boskovic vs Tahlia Kokkinis",
     "outcome": "Lea Boskovic",
     "side": "BUY",
-    "whale_usd": 2329.726153,
-    "whale_pct": 3.096,
+    "whale_usd": 3334.073979,
+    "whale_pct": 4.43,
     "whale_value_at_open": 75260.2013,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -53591,8 +53591,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787733199.4040277,
-    "fills": 2
+    "last_fill_at": 1787733851.0101056,
+    "fills": 3
   },
   {
     "timestamp": 1787733111,
