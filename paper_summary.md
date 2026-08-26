@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 02:57:56 (hora de Perú)
+Actualizado: 2026-08-26 03:00:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 02:57:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $348.49)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $338.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 282 | 131 | 3 | -46.26 USD |
+| RN1 | 282 | 131 | 5 | -46.26 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 4 | -72.46 USD |
@@ -463,6 +463,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 84% | 5.00 | 3.2% | ⏳ pendiente | — |
+| RN1 | ITF W75 Bytom Women: Sapfo Sakellaridi v | Sapfo Sakellaridi (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | SnakeBall | Will Club León FC vs. Real Salt Lake end | No (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -491,5 +493,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Will Club León FC win on 2026-08-25? | No (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ❌ perdida | -5.08 |
 | swisstony | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ❌ perdida | -5.08 |
-| swisstony | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 48% | 5.00 | 0.2% | ❌ perdida | -5.13 |
-| RN1 | Minnesota Twins vs. Athletics: O/U 8.5 | Under (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |
