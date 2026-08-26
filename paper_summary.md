@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:01:25 (hora de Perú)
+Actualizado: 2026-08-26 10:03:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.73
@@ -483,7 +483,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Mosc | K27 (BUY) | 49% | 5.00 | 34.5% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Mosc | K27 (BUY) | 49% | 5.00 | 41.8% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SnakeBall | Lokomotiv Tashkent vs. FC Bunyodkor: Bot | Yes (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 50% | 5.00 | 9.2% | ⏳ pendiente | — |

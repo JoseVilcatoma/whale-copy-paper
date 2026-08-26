@@ -55975,8 +55975,8 @@
     "title": "Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage",
     "outcome": "K27",
     "side": "BUY",
-    "whale_usd": 12000.0,
-    "whale_pct": 34.463,
+    "whale_usd": 14561.075700000001,
+    "whale_pct": 41.818,
     "whale_value_at_open": 34820.1612,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -55987,7 +55987,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787756384.4842813,
-    "fills": 1
+    "last_fill_at": 1787756608.053251,
+    "fills": 4
   }
 ]
