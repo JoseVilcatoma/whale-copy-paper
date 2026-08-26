@@ -57146,5 +57146,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787766545.9858816,
     "fills": 1
+  },
+  {
+    "timestamp": 1787766790,
+    "timestamp_added": 1787766790.6558733,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-hontama-garcia-2026-08-26",
+    "title": "US Open, Qualification WTA: Mai Hontama vs Andrea Lazaro Garcia",
+    "outcome": "Andrea Lazaro Garcia",
+    "side": "BUY",
+    "whale_usd": 521.7336,
+    "whale_pct": 0.235,
+    "whale_value_at_open": 222004.9995,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787766790.6558828,
+    "fills": 1
   }
 ]
