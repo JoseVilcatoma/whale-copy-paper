@@ -57302,8 +57302,8 @@
     "title": "US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov",
     "outcome": "Grigor Dimitrov",
     "side": "BUY",
-    "whale_usd": 15548.750469999997,
-    "whale_pct": 7.322,
+    "whale_usd": 16433.875409999997,
+    "whale_pct": 7.739,
     "whale_value_at_open": 212355.446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -57314,8 +57314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769952.8263361,
-    "fills": 7
+    "last_fill_at": 1787770284.9387364,
+    "fills": 8
   },
   {
     "timestamp": 1787768136,
@@ -57472,8 +57472,8 @@
     "title": "Real Madrid CF vs. Real Sociedad de F\u00fatbol: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 236141.5,
-    "whale_pct": 80.023,
+    "whale_usd": 246544.881276,
+    "whale_pct": 83.548,
     "whale_value_at_open": 295093.1161,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -57486,8 +57486,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768876.605208,
-    "fills": 1
+    "last_fill_at": 1787770379.7181318,
+    "fills": 2
   },
   {
     "timestamp": 1787768947,
