@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.3286729412256,
+  "bankroll": 505.42435540943757,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10820,6 +10820,36 @@
       "timestamp": 1787752567.2493699,
       "bankroll": 498.33,
       "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: KT (-1.5) vs HANJIN BRION (+1.5)"
+    },
+    {
+      "timestamp": 1787752886.1875682,
+      "bankroll": 501.43,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: KT Rolster vs HANJIN BRION - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787752886.2878025,
+      "bankroll": 503.92,
+      "event": "won: DoNotTailMe \u2014 LoL: KT Rolster vs HANJIN BRION - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787752886.4504004,
+      "bankroll": 498.79,
+      "event": "lost: HomeRunHazard \u2014 Augsburg: Svyatoslav Gulin vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787752886.5505214,
+      "bankroll": 501.89,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Svyatoslav Gulin vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787752887.6452672,
+      "bankroll": 505.12,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: KT Rolster vs HANJIN BRION (BO5) - LCK Play-In"
+    },
+    {
+      "timestamp": 1787752890.747783,
+      "bankroll": 505.42,
+      "event": "won:  \u2014 Augsburg: Svyatoslav Gulin vs Martin Krumich"
     }
   ]
 }
