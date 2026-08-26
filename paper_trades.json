@@ -57920,8 +57920,8 @@
     "title": "Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 4237.9994,
-    "whale_pct": 1.657,
+    "whale_usd": 8477.9988,
+    "whale_pct": 3.315,
     "whale_value_at_open": 255751.0236,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -57932,8 +57932,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787772380.4011636,
-    "fills": 1
+    "last_fill_at": 1787784476.8525338,
+    "fills": 2
   },
   {
     "timestamp": 1787772414,
@@ -58164,8 +58164,8 @@
     "title": "Cleveland Guardians vs. Los Angeles Angels",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 5705.472900000001,
-    "whale_pct": 2.394,
+    "whale_usd": 13521.077900000002,
+    "whale_pct": 5.674,
     "whale_value_at_open": 238301.1954,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -58176,8 +58176,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787775856.440275,
-    "fills": 2
+    "last_fill_at": 1787784391.313251,
+    "fills": 4
   },
   {
     "timestamp": 1787773443,
@@ -58936,8 +58936,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.8226422014968,
+  "bankroll": 505.4273088681635,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11615,6 +11615,11 @@
       "timestamp": 1787784157.1329467,
       "bankroll": 503.82,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Nao Hibino vs Anna Siskova"
+    },
+    {
+      "timestamp": 1787784405.5098164,
+      "bankroll": 505.43,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Sebastian Baez"
     }
   ]
 }
