@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:24:45 (hora de Perú)
+Actualizado: 2026-08-25 21:26:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $477.87
-**Retorno acumulado:** -4.43%
+**Bankroll actual:** $490.11
+**Retorno acumulado:** -1.98%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:24:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $32.87)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $85.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
+| HomeRunHazard | 266 | 136 | 18 | +6.97 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -72,12 +73,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| AV23IUa | 3 | 4 | 5 | -9.13 USD |
 | ExplosiveNinja | 0 | 2 | 0 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
-| HomeRunHazard | 260 | 135 | 25 | -10.39 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| AV23IUa | 3 | 5 | 4 | -14.23 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 15 | 22 | 3 | -42.72 USD |
@@ -87,14 +87,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1949
-- **Aciertos:** 1255 (64.4%)
+- **Apuestas resueltas:** 1957
+- **Aciertos:** 1261 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,733.48
-- **ROI sobre lo apostado:** -1.09%
-- **Comisiones pagadas (taker fee):** $175.55 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.71% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,773.48
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $176.42 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,9 +102,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 947 | 49.9% | 50.2% | -0.3 pp |
-| 60-79% | 593 | 70.2% | 67.6% | +2.6 pp |
-| 80-94% | 273 | 86.1% | 87.0% | -0.9 pp |
+| 40-59% | 953 | 50.1% | 50.2% | -0.2 pp |
+| 60-79% | 594 | 70.2% | 67.6% | +2.6 pp |
+| 80-94% | 274 | 86.1% | 86.9% | -0.8 pp |
 | 95-99% (casi seguro) | 136 | 96.3% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)

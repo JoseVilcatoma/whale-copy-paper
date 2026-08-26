@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.87009624047886,
+  "bankroll": 490.112744597033,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10190,6 +10190,46 @@
       "timestamp": 1787710829.5905104,
       "bankroll": 477.87,
       "event": "lost: Djdjdjekekek \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787711122.643908,
+      "bankroll": 482.75,
+      "event": "won: HomeRunHazard \u2014 Portland Fire vs. Dallas Wings: O/U 176.5"
+    },
+    {
+      "timestamp": 1787711128.2533982,
+      "bankroll": 477.64,
+      "event": "lost: AV23IUa \u2014 Winston-Salem Open: Miomir Kecmanovic vs Fabian Marozsan"
+    },
+    {
+      "timestamp": 1787711129.7196102,
+      "bankroll": 472.5,
+      "event": "lost: HomeRunHazard \u2014 Kansas City Royals vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1787711130.1421928,
+      "bankroll": 475.6,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Toronto Blue Jays: O/U 9.5"
+    },
+    {
+      "timestamp": 1787711135.5245903,
+      "bankroll": 480.28,
+      "event": "won: HomeRunHazard \u2014 Spread: Dallas Wings (-8.5)"
+    },
+    {
+      "timestamp": 1787711135.8540661,
+      "bankroll": 484.26,
+      "event": "won: HomeRunHazard \u2014 Spread: Dallas Wings (-7.5)"
+    },
+    {
+      "timestamp": 1787711139.2379463,
+      "bankroll": 485.24,
+      "event": "won: HomeRunHazard \u2014 Spread: Toronto Blue Jays (-2.5)"
+    },
+    {
+      "timestamp": 1787711140.1485696,
+      "bankroll": 490.11,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Miomir Kecmanovic vs Fabian Marozsan"
     }
   ]
 }
