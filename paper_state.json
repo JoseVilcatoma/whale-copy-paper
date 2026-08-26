@@ -1,5 +1,5 @@
 {
-  "bankroll": 508.69699458469535,
+  "bankroll": 503.60999458469536,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10865,6 +10865,11 @@
       "timestamp": 1787754678.1351976,
       "bankroll": 508.7,
       "event": "venta anticipada: Djdjdjekekek \u2014 Augsburg: Facundo Mena vs Kai Wehnelt (+1.52 USD)"
+    },
+    {
+      "timestamp": 1787754758.867231,
+      "bankroll": 503.61,
+      "event": "lost: GoalLineGhost \u2014 Will Gangwon FC win on 2026-08-26?"
     }
   ]
 }

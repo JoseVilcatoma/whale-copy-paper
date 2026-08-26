@@ -54342,8 +54342,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -54409,8 +54409,8 @@
     "title": "US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato",
     "outcome": "Vilius Gaubas",
     "side": "BUY",
-    "whale_usd": 1929.059998,
-    "whale_pct": 3.158,
+    "whale_usd": 2500.059996,
+    "whale_pct": 4.092,
     "whale_value_at_open": 61091.2716,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -54421,8 +54421,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787740634.866612,
-    "fills": 1
+    "last_fill_at": 1787754810.1437912,
+    "fills": 2
   },
   {
     "timestamp": 1787740862,
@@ -55411,8 +55411,8 @@
     "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Adrien Berrut vs Jeffrey Von Der Schulenburg",
     "outcome": "Adrien Berrut",
     "side": "BUY",
-    "whale_usd": 2637.6763,
-    "whale_pct": 1.559,
+    "whale_usd": 3170.1863000000003,
+    "whale_pct": 1.873,
     "whale_value_at_open": 169236.1826,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -55423,8 +55423,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787754340.4086301,
-    "fills": 3
+    "last_fill_at": 1787754713.9186308,
+    "fills": 4
   },
   {
     "timestamp": 1787753194,
@@ -55718,6 +55718,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787754583.60821,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787754771,
+    "timestamp_added": 1787754772.3982108,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "egy1-sms-apc-2026-08-26-apc",
+    "title": "Will Asyut Petroleum SC win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 643.5,
+    "whale_pct": 0.336,
+    "whale_value_at_open": 191415.098,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787754772.3982234,
     "fills": 1
   }
 ]
