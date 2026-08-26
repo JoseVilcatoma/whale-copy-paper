@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 11:37:46 (hora de Perú)
+Actualizado: 2026-08-26 11:39:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.89
@@ -491,7 +491,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Linda Fruhvi | Carson Branstine (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Kyrian Jacquet (BUY) | 53% | 4.11 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Alevtina Ibr | Mariam Bolkvadze (BUY) | 70% | 5.00 | 5.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Alevtina Ibr | Mariam Bolkvadze (BUY) | 70% | 5.00 | 5.9% | ⏳ pendiente | — |
 |  | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 55% | 5.00 | 7.7% | ⏳ pendiente | — |
 | texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 50% | 5.00 | 214.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Aziz Dougaz (BUY) | 57% | 5.00 | 4.4% | ⏳ pendiente | — |
