@@ -53377,5 +53377,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787716609.8291383,
     "fills": 1
+  },
+  {
+    "timestamp": 1787731047,
+    "timestamp_added": 1787731048.5294065,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lal-rea-rso-2026-08-26-spread-home-1pt5",
+    "title": "Spread: Real Madrid CF (-1.5)",
+    "outcome": "Real Madrid CF",
+    "side": "BUY",
+    "whale_usd": 1101.6000000000001,
+    "whale_pct": 1.731,
+    "whale_value_at_open": 63644.4731,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787731049.7963915,
+    "fills": 2
   }
 ]
