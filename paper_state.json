@@ -1,5 +1,5 @@
 {
-  "bankroll": 532.5789584126255,
+  "bankroll": 533.1699359407154,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11475,6 +11475,11 @@
       "timestamp": 1787780094.4621148,
       "bankroll": 532.58,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Arantxa Rus vs Suzan Lamens"
+    },
+    {
+      "timestamp": 1787780405.330522,
+      "bankroll": 533.17,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Bianca Andreescu vs Veronika Podrez"
     }
   ]
 }

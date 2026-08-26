@@ -58246,8 +58246,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -58683,8 +58683,8 @@
     "title": "Pittsburgh Pirates vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 778.5134,
-    "whale_pct": 0.221,
+    "whale_usd": 8510.5148,
+    "whale_pct": 2.42,
     "whale_value_at_open": 351729.3096,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -58697,8 +58697,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787778633.814447,
-    "fills": 1
+    "last_fill_at": 1787780406.85075,
+    "fills": 2
   },
   {
     "timestamp": 1787778904,
@@ -59025,8 +59025,8 @@
     "title": "Milwaukee Brewers vs. New York Mets: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4411.3823999999995,
-    "whale_pct": 11.311,
+    "whale_usd": 46277.541415,
+    "whale_pct": 118.661,
     "whale_value_at_open": 38999.9444,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59039,7 +59039,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787780340.0184028,
-    "fills": 1
+    "last_fill_at": 1787780363.6274664,
+    "fills": 4
   }
 ]
