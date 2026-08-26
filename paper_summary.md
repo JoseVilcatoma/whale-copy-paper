@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 22:23:49 (hora de Perú)
+Actualizado: 2026-08-25 22:25:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $512.68
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 22:23:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $147.68)
+**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $142.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 15 | 23 | 2 | -47.85 USD |
 | RN1 | 273 | 125 | 15 | -49.99 USD |
 | ferrariChampions2026 | 297 | 178 | 6 | -58.54 USD |
-|  | 48 | 33 | 6 | -69.07 USD |
+|  | 48 | 33 | 7 | -69.07 USD |
 
 ## Análisis general
 
@@ -453,13 +453,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wnba-wsh-phx-2026-08-25 | RN1, Sassy-Bucket |
 | mlb-chc-ari-2026-08-25 | , Djdjdjekekek, RN1, swisstony |
 | wta-oliynyk-parry-2026-08-25 | HomeRunHazard, RN1, swisstony |
-| mlb-phi-sea-2026-08-25 | RN1, swisstony |
+| mlb-phi-sea-2026-08-25 | , RN1, swisstony |
 | lib-ind1-tol-2026-08-18-total-3pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 80% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Set Handicap: Watson (-1.5) vs Boluda (+ | Watson (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -489,4 +490,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Monterrey Open: Nikola Bartunkova vs Ana | Nikola Bartunkova (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SnakeBall | Will Independiente del Valle win on 2026 | Yes (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Milwaukee Brewers vs. New York Mets | New York Mets (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |

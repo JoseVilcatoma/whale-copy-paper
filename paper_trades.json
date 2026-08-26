@@ -53049,5 +53049,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787714392.4957926,
     "fills": 1
+  },
+  {
+    "timestamp": 1787714664,
+    "timestamp_added": 1787714664.9016168,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-phi-sea-2026-08-25",
+    "title": "Philadelphia Phillies vs. Seattle Mariners",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 805.3599979999999,
+    "whale_pct": 1.648,
+    "whale_value_at_open": 48876.2477,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787714664.901627,
+    "fills": 1
   }
 ]
