@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.3123597453957,
+  "bankroll": 500.5568835549195,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10050,6 +10050,21 @@
       "timestamp": 1787707574.8778458,
       "bankroll": 498.31,
       "event": "won:  \u2014 US Open, Qualification ATP: Seong-Chan Hong vs Nikoloz Basilashvili"
+    },
+    {
+      "timestamp": 1787707637.404814,
+      "bankroll": 493.2,
+      "event": "lost: AV23IUa \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787707638.3341074,
+      "bankroll": 495.27,
+      "event": "won: HomeRunHazard \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1787707638.6287816,
+      "bankroll": 500.56,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 7.5"
     }
   ]
 }
