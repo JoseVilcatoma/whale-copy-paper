@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.782476992138,
+  "bankroll": 521.761386083047,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10485,6 +10485,11 @@
       "timestamp": 1787720400.5505435,
       "bankroll": 517.78,
       "event": "won:  \u2014 Will FC Universitario win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787724410.670749,
+      "bankroll": 521.76,
+      "event": "won: RN1 \u2014 Will Barnsley FC win on 2026-08-25?"
     }
   ]
 }
