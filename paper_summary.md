@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:35:57 (hora de Perú)
+Actualizado: 2026-08-26 09:38:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.61
-**Retorno acumulado:** +0.72%
+**Bankroll actual:** $486.73
+**Retorno acumulado:** -2.65%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:35:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $128.61)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $136.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| plonker2026 | 3 | 2 | 2 | +7.38 USD |
+| plonker2026 | 4 | 3 | 0 | +8.46 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -67,7 +67,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
-| GoalLineGhost | 0 | 1 | 20 | -5.09 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -81,22 +80,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
+| GoalLineGhost | 1 | 4 | 16 | -17.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 295 | 137 | 8 | -45.55 USD |
+| RN1 | 295 | 137 | 10 | -45.55 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 53 | 37 | 16 | -78.56 USD |
+|  | 53 | 38 | 15 | -83.66 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2084
-- **Aciertos:** 1343 (64.4%)
-- **Cuota promedio de entrada:** 63.9%
+- **Apuestas resueltas:** 2091
+- **Aciertos:** 1345 (64.3%)
+- **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,408.48
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $188.14 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,443.48
+- **ROI sobre lo apostado:** -0.95%
+- **Comisiones pagadas (taker fee):** $188.96 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -104,8 +104,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1018 | 50.5% | 50.2% | +0.3 pp |
-| 60-79% | 630 | 69.4% | 67.5% | +1.8 pp |
+| 40-59% | 1023 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 632 | 69.3% | 67.5% | +1.8 pp |
 | 80-94% | 291 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 145 | 95.9% | 97.4% | -1.5 pp |
 
@@ -442,6 +442,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-cerund-suresh-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 | atp-nardi-cina-2026-08-25 | , HomeRunHazard |
 | mlb-tex-cws-2026-08-25-total-7pt5 | HomeRunHazard, Sassy-Bucket |
+| nor2-asa-lyn-2026-08-26-lyn | , RN1 |
 | wnba-chi-conn-2026-08-25-spread-away-6pt5 | HomeRunHazard, winwin518168 |
 | wta-valdman-carle-2026-08-25 | , HomeRunHazard |
 | atp-ficovic-zh-2026-08-25 | , OOOwhyOOO |
@@ -480,6 +481,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will PFK Mash AL Mubarek vs. Navbahor en | No (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Will Lyn 1896 FK win on 2026-08-26? | No (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Asyut Petroleum SC win on 2026-08-2 | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Al Faisaly Saudi Club vs. Al Fateh Saudi | Over (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 52% | 5.00 | 30.5% | ⏳ pendiente | — |
@@ -508,5 +511,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Vietnam vs. Thailand: O/U 4.5 | Under (BUY) | 89% | 5.00 | 5.2% | ⏳ pendiente | — |
 | GoalLineGhost | CA River Plate vs. Independiente Santa F | Over (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vietnam win on 2026-08-26? | Yes (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Max Schoenhaus (BUY) | 50% | 5.00 | 6.1% | ❌ perdida | -5.12 |
-| GoalLineGhost | Vietnam vs. Thailand: O/U 3.5 | Under (BUY) | 75% | 5.00 | 13.8% | ⏳ pendiente | — |

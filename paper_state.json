@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.60999458469536,
+  "bankroll": 486.7283885240893,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10870,6 +10870,41 @@
       "timestamp": 1787754758.867231,
       "bankroll": 503.61,
       "event": "lost: GoalLineGhost \u2014 Will Gangwon FC win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787755076.9570124,
+      "bankroll": 498.5,
+      "event": "lost: GoalLineGhost \u2014 Will Daejeon Hana Citizen FC win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787755077.2262778,
+      "bankroll": 493.36,
+      "event": "lost: plonker2026 \u2014 Daejeon Hana Citizen FC vs. Ulsan HD FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787755077.3264742,
+      "bankroll": 499.59,
+      "event": "won: plonker2026 \u2014 Will Daejeon Hana Citizen FC win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787755078.0544264,
+      "bankroll": 494.48,
+      "event": "lost: GoalLineGhost \u2014 FC Anyang vs. Incheon United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787755078.535438,
+      "bankroll": 496.97,
+      "event": "won: GoalLineGhost \u2014 Daejeon Hana Citizen FC vs. Ulsan HD FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787755078.635635,
+      "bankroll": 491.83,
+      "event": "lost: GoalLineGhost \u2014 Daejeon Hana Citizen FC vs. Ulsan HD FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787755079.3654678,
+      "bankroll": 486.73,
+      "event": "lost:  \u2014 FC Anyang vs. Incheon United FC: O/U 2.5"
     }
   ]
 }
