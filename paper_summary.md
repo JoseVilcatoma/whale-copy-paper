@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:48:28 (hora de Perú)
+Actualizado: 2026-08-26 18:50:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $484.17
-**Retorno acumulado:** -3.17%
+**Bankroll actual:** $479.05
+**Retorno acumulado:** -4.19%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:48:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $144.17)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $124.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 3 | 2 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 313 | 143 | 18 | -42.08 USD |
+| RN1 | 313 | 143 | 22 | -42.08 USD |
 | Sassy-Bucket | 15 | 27 | 1 | -68.37 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
-|  | 60 | 46 | 3 | -96.35 USD |
+|  | 60 | 47 | 2 | -101.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2261
-- **Aciertos:** 1460 (64.6%)
+- **Apuestas resueltas:** 2262
+- **Aciertos:** 1460 (64.5%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,292.59
-- **ROI sobre lo apostado:** -0.90%
-- **Comisiones pagadas (taker fee):** $203.36 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,297.59
+- **ROI sobre lo apostado:** -0.94%
+- **Comisiones pagadas (taker fee):** $203.47 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1097 | 50.0% | 50.2% | -0.1 pp |
+| 40-59% | 1098 | 50.0% | 50.2% | -0.2 pp |
 | 60-79% | 681 | 69.9% | 67.7% | +2.2 pp |
 | 80-94% | 327 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 156 | 95.5% | 97.4% | -1.9 pp |
@@ -486,7 +486,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-rea-rso-2026-08-26-total-3pt5 | GoalLineGhost, ripley86alien |
 | lal-rea-rso-2026-08-26-rea | GoalLineGhost, kilian7kilian |
 | mlb-pit-sd-2026-08-26 | HomeRunHazard, SDTrading |
-| mlb-kc-tor-2026-08-26 | SDTrading, texaskid |
+| mlb-kc-tor-2026-08-26 | RN1, SDTrading, texaskid |
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 | atp-cretu-damas-2026-08-26 | HomeRunHazard, RN1 |
 | wta-hibino-siskova-2026-08-26 | , HomeRunHazard |
@@ -504,6 +504,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-phi-sea-2026-08-26 | HomeRunHazard, Sassy-Bucket |
 | atp-virtane-jones-2026-08-26 | HomeRunHazard, OOOwhyOOO |
 | mlb-chc-ari-2026-08-26 | Djdjdjekekek, HomeRunHazard |
+| mlb-kc-tor-2026-08-26-total-8pt5 | HomeRunHazard, RN1 |
 | wta-swan-stoiana-2026-08-26 | , HomeRunHazard |
 | mlb-mil-nym-2026-08-26-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-lad-atl-2026-08-26 | Djdjdjekekek, HomeRunHazard, RN1, texaskid |
@@ -514,13 +515,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Baltimore Orioles vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 60% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Yankees (-2.5) | Houston Astros (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 52% | 5.00 | 5.2% | ⏳ pendiente | — |
 | kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 52.4% | ⏳ pendiente | — |
-| RN1 | Spread: Kansas City Royals (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Spread: Kansas City Royals (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Federico Cin | Federico Cina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Santos FC: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | kekasaur | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 18.0% | ⏳ pendiente | — |
@@ -540,7 +545,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 46% | 5.00 | 110.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
-| texaskid | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 60% | 5.00 | 9.2% | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 85% | 5.00 | 0.2% | ✅ ganada | +0.84 |
-| HomeRunHazard | US Open, Qualification ATP: Vitaliy Sach | Pablo Llamas Ruiz (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
