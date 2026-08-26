@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 16:05:39 (hora de Perú)
+Actualizado: 2026-08-26 16:07:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.03
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 16:05:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $78.03)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $73.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 13 | 6 | 0 | +1.64 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| Djdjdjekekek | 21 | 16 | 0 | +0.95 USD |
+| Djdjdjekekek | 21 | 16 | 1 | +0.95 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | kilian7kilian | 0 | 0 | 1 | +0.00 USD |
@@ -497,11 +497,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cin-sf-2026-08-26 | HomeRunHazard, SDTrading |
 | mlb-phi-sea-2026-08-26 | HomeRunHazard, Sassy-Bucket |
 | atp-virtane-jones-2026-08-26 | HomeRunHazard, OOOwhyOOO |
+| mlb-chc-ari-2026-08-26 | Djdjdjekekek, HomeRunHazard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 55% | 5.00 | 200.1% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Arthur Fery vs Mees  | Arthur Fery (BUY) | 97% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 48% | 5.00 | 439.3% | ⏳ pendiente | — |
@@ -531,4 +533,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Seattle Storm (-4.5) | Toronto Tempo (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Andrew Fenty vs Keshav Chopr | Andrew Fenty (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 84% | 5.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
