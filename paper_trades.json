@@ -53749,8 +53749,8 @@
     "title": "ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Sina Herrmann vs Amandine Monnot",
     "outcome": "Amandine Monnot",
     "side": "BUY",
-    "whale_usd": 7417.884978,
-    "whale_pct": 11.148,
+    "whale_usd": 8485.734978,
+    "whale_pct": 12.753,
     "whale_value_at_open": 66537.1275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -53761,8 +53761,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787734030.5468826,
-    "fills": 7
+    "last_fill_at": 1787734146.0589118,
+    "fills": 8
   },
   {
     "timestamp": 1787733566,
@@ -53834,6 +53834,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787734011.0102024,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787734087,
+    "timestamp_added": 1787734087.303215,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-peliwo-charlto-2026-08-26",
+    "title": "Greece F17, Singles: Filip Peliwo vs Joshua Charlton",
+    "outcome": "Joshua Charlton",
+    "side": "BUY",
+    "whale_usd": 959.5722000000001,
+    "whale_pct": 1.106,
+    "whale_value_at_open": 86782.9565,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787734087.3032243,
     "fills": 1
   }
 ]
