@@ -54170,8 +54170,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.48,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -55956,8 +55956,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [
       ""
     ],
@@ -56522,8 +56522,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [
       "",
       "RN1"
@@ -57097,6 +57097,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787766052.327751,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787766165,
+    "timestamp_added": 1787766165.5766056,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-bertola-wendelk-2026-08-25",
+    "title": "US Open, Qualification ATP: Remy Bertola vs Harry Wendelken",
+    "outcome": "Harry Wendelken",
+    "side": "BUY",
+    "whale_usd": 1465.957446,
+    "whale_pct": 0.685,
+    "whale_value_at_open": 213884.6247,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787766165.576615,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.8632695753273,
+  "bankroll": 493.343298503291,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11075,6 +11075,21 @@
       "timestamp": 1787765931.725931,
       "bankroll": 484.86,
       "event": "won: RN1 \u2014 US Open, Qualification WTA: Lucia Bronzetti vs Polina Iatcenko"
+    },
+    {
+      "timestamp": 1787766239.182378,
+      "bankroll": 491.35,
+      "event": "won:  \u2014 US Open, Qualification ATP: Andrea Guerrieri vs Joel Schwaerzler"
+    },
+    {
+      "timestamp": 1787766247.7255826,
+      "bankroll": 498.4,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Andrea Guerrieri vs Joel Schwaerzler"
+    },
+    {
+      "timestamp": 1787766249.9531264,
+      "bankroll": 493.34,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Andrea Guerrieri vs Joel Schwaerzler"
     }
   ]
 }
