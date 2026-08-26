@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.39496282945976,
+  "bankroll": 506.99484932652433,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10750,6 +10750,16 @@
       "timestamp": 1787743199.9338021,
       "bankroll": 501.39,
       "event": "won: SPCEXBUYER \u2014 LoL: KT Rolster vs HANJIN BRION - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787743509.1110742,
+      "bankroll": 505.21,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oviedo (Spain), clay: Ryan Nijboer vs Carles Hernandez"
+    },
+    {
+      "timestamp": 1787743509.904806,
+      "bankroll": 506.99,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Richard Antoni vs Daniel Verbeek"
     }
   ]
 }
