@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 07:51:51 (hora de Perú)
+Actualizado: 2026-08-26 07:54:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.58
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 07:51:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $167.58)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $157.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| GoalLineGhost | 0 | 0 | 14 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 16 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 20 | 16 | 0 | -0.57 USD |
@@ -475,6 +475,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | CA River Plate vs. Independiente Santa F | Over (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
+| GoalLineGhost | Will Vietnam win on 2026-08-26? | Yes (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Max Schoenhaus (BUY) | 50% | 5.00 | 2.1% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 3.5 | Under (BUY) | 75% | 5.00 | 5.6% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 50% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -503,5 +505,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Luka Mikrut  | Nishesh Basavareddy (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 67% | 5.00 | 3.2% | ⏳ pendiente | — |
 | GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 43% | 5.00 | 2.4% | ⏳ pendiente | — |
-| GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
-| GoalLineGhost | Will Gangwon FC win on 2026-08-26? | Yes (BUY) | 65% | 5.00 | 3.7% | ⏳ pendiente | — |
