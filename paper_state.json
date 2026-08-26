@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.0213955712148,
+  "bankroll": 539.8399669997863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11315,6 +11315,11 @@
       "timestamp": 1787774684.3850183,
       "bankroll": 536.02,
       "event": "won: GoalLineGhost \u2014 Al Faisaly Saudi Club vs. Al Fateh Saudi Club: O/U 1.5"
+    },
+    {
+      "timestamp": 1787774802.2012362,
+      "bankroll": 539.84,
+      "event": "won: SPCEXBUYER \u2014 Map Handicap: FURIA (-1.5) vs paiN (+1.5)"
     }
   ]
 }

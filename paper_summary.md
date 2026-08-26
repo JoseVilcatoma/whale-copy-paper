@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 15:05:50 (hora de Perú)
+Actualizado: 2026-08-26 15:07:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $536.02
-**Retorno acumulado:** +7.20%
+**Bankroll actual:** $539.84
+**Retorno acumulado:** +7.97%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 15:05:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $91.02)
+**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $99.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | HomeRunHazard | 318 | 151 | 38 | +68.52 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| BOOMBOYS.Kiritych | 28 | 14 | 1 | +43.04 USD |
+| BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2170
-- **Aciertos:** 1405 (64.7%)
+- **Apuestas resueltas:** 2171
+- **Aciertos:** 1406 (64.8%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,837.59
-- **ROI sobre lo apostado:** -0.45%
-- **Comisiones pagadas (taker fee):** $195.25 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,842.59
+- **ROI sobre lo apostado:** -0.42%
+- **Comisiones pagadas (taker fee):** $195.36 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.38% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -107,7 +107,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1050 | 50.5% | 50.2% | +0.3 pp |
+| 40-59% | 1051 | 50.5% | 50.2% | +0.3 pp |
 | 60-79% | 658 | 69.9% | 67.6% | +2.3 pp |
 | 80-94% | 312 | 87.2% | 86.8% | +0.4 pp |
 | 95-99% (casi seguro) | 150 | 95.3% | 97.4% | -2.0 pp |
@@ -511,7 +511,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 57% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Dalibor Svrc | Dalibor Svrcina (BUY) | 81% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Storm (-4.5) | Toronto Tempo (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Andrew Fenty vs Keshav Chopr | Andrew Fenty (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Andrew Fenty vs Keshav Chopr | Andrew Fenty (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 84% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Kristina Penickova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |

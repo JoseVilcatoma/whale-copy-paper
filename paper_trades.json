@@ -57091,8 +57091,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.82,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -57970,8 +57970,8 @@
     "title": "Kingston 2: Andrew Fenty vs Keshav Chopra",
     "outcome": "Andrew Fenty",
     "side": "BUY",
-    "whale_usd": 1730.0276000000001,
-    "whale_pct": 0.64,
+    "whale_usd": 2432.1776,
+    "whale_pct": 0.9,
     "whale_value_at_open": 270114.7749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -57982,8 +57982,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787772541.4398944,
-    "fills": 1
+    "last_fill_at": 1787774842.298959,
+    "fills": 2
   },
   {
     "timestamp": 1787772641,
