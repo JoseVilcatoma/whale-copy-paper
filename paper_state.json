@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.4492917507703,
+  "bankroll": 489.74331337430806,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11655,6 +11655,21 @@
       "timestamp": 1787785421.0078754,
       "bankroll": 491.45,
       "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787785728.3896194,
+      "bankroll": 486.3,
+      "event": "lost:  \u2014 US Open, Qualification ATP: Kei Nishikori vs Michael Antonius"
+    },
+    {
+      "timestamp": 1787785734.0100834,
+      "bankroll": 489.27,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Tamara Zidansek vs Guiomar Maristany"
+    },
+    {
+      "timestamp": 1787785734.4680183,
+      "bankroll": 489.74,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Kei Nishikori vs Michael Antonius"
     }
   ]
 }

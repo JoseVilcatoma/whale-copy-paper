@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:06:53 (hora de Perú)
+Actualizado: 2026-08-26 18:09:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.45
-**Retorno acumulado:** -1.71%
+**Bankroll actual:** $489.74
+**Retorno acumulado:** -2.05%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:06:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $151.45)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $164.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| HomeRunHazard | 345 | 165 | 35 | +50.42 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| HomeRunHazard | 343 | 165 | 37 | +46.98 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -89,18 +89,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 313 | 143 | 0 | -42.08 USD |
 | Sassy-Bucket | 15 | 26 | 2 | -63.24 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
-|  | 60 | 44 | 5 | -86.08 USD |
+|  | 60 | 45 | 4 | -91.23 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2238
-- **Aciertos:** 1446 (64.6%)
+- **Apuestas resueltas:** 2241
+- **Aciertos:** 1448 (64.6%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,177.59
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $201.10 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,192.59
+- **ROI sobre lo apostado:** -0.85%
+- **Comisiones pagadas (taker fee):** $201.37 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1083 | 50.1% | 50.2% | -0.0 pp |
-| 60-79% | 676 | 69.8% | 67.7% | +2.2 pp |
-| 80-94% | 324 | 87.3% | 86.8% | +0.6 pp |
+| 40-59% | 1084 | 50.1% | 50.2% | -0.1 pp |
+| 60-79% | 677 | 69.9% | 67.7% | +2.2 pp |
+| 80-94% | 325 | 87.4% | 86.8% | +0.6 pp |
 | 95-99% (casi seguro) | 155 | 95.5% | 97.4% | -1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -527,7 +527,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 55% | 5.00 | 1427.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Nao Hibino v | Nao Hibino (BUY) | 72% | 5.00 | 1.1% | ✅ ganada | +1.87 |
-| Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 166.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 232.3% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Connecticut S | Golden State Valkyries (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Heather Wats | Heather Watson (BUY) | 78% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -536,8 +536,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Moyuka Uchij | Lucie Havlickova (BUY) | 81% | 5.00 | 0.9% | ✅ ganada | +1.13 |
 | HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Kei Nishikor | Kei Nishikori (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Kei Nishikor | Kei Nishikori (BUY) | 91% | 5.00 | 2.2% | ✅ ganada | +0.47 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 4.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 4.5% | ✅ ganada | +2.97 |
 | HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Rei Sakamoto (BUY) | 97% | 5.00 | 0.6% | ✅ ganada | +0.15 |
