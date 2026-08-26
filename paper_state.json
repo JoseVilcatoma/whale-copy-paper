@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.02945616452257,
+  "bankroll": 513.3023973409931,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11145,6 +11145,11 @@
       "timestamp": 1787767938.0186605,
       "bankroll": 511.03,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Aidan Mayo vs Benjamin Willwerth"
+    },
+    {
+      "timestamp": 1787768444.0442047,
+      "bankroll": 513.3,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Dominika Salkova vs Gabriela Knutson"
     }
   ]
 }
