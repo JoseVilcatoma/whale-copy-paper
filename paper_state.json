@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.68598534791,
+  "bankroll": 520.5739603222395,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11405,6 +11405,46 @@
       "timestamp": 1787778835.1542025,
       "bankroll": 525.69,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Remy Bertola vs Harry Wendelken"
+    },
+    {
+      "timestamp": 1787779138.1682425,
+      "bankroll": 529.66,
+      "event": "won: RN1 \u2014 Spread: Real Madrid CF (-1.5)"
+    },
+    {
+      "timestamp": 1787779138.4690742,
+      "bankroll": 524.55,
+      "event": "lost:  \u2014 Set Handicap: Fenty (-1.5) vs Chopra (+1.5)"
+    },
+    {
+      "timestamp": 1787779139.650886,
+      "bankroll": 519.43,
+      "event": "lost: GoalLineGhost \u2014 Real Madrid CF vs. Real Sociedad de F\u00fatbol: O/U 3.5"
+    },
+    {
+      "timestamp": 1787779142.7886271,
+      "bankroll": 519.73,
+      "event": "won: GoalLineGhost \u2014 Will Real Sociedad de F\u00fatbol win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787779143.040975,
+      "bankroll": 514.65,
+      "event": "lost:  \u2014 Olympique Lyonnais vs. Fenerbah\u00e7e SK: Team to Advance"
+    },
+    {
+      "timestamp": 1787779145.8538954,
+      "bankroll": 518.8,
+      "event": "won: ripley86alien \u2014 Real Madrid CF vs. Real Sociedad de F\u00fatbol: O/U 3.5"
+    },
+    {
+      "timestamp": 1787779147.2164774,
+      "bankroll": 519.45,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Andrew Fenty vs Keshav Chopra"
+    },
+    {
+      "timestamp": 1787779147.6681626,
+      "bankroll": 520.57,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Dalibor Svrcina vs Alexis Galarneau"
     }
   ]
 }
