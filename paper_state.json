@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.74331337430806,
+  "bankroll": 492.0162545507786,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11670,6 +11670,11 @@
       "timestamp": 1787785734.4680183,
       "bankroll": 489.74,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Kei Nishikori vs Michael Antonius"
+    },
+    {
+      "timestamp": 1787785919.5707188,
+      "bankroll": 492.02,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Martyna Kubka vs Marina Bassols Ribera"
     }
   ]
 }

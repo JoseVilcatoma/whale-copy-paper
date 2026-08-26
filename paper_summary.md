@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:11:02 (hora de Perú)
+Actualizado: 2026-08-26 18:13:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $489.74
-**Retorno acumulado:** -2.05%
+**Bankroll actual:** $492.02
+**Retorno acumulado:** -1.60%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:11:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $159.74)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $167.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 345 | 165 | 35 | +50.42 USD |
+| HomeRunHazard | 346 | 165 | 34 | +52.69 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2241
-- **Aciertos:** 1448 (64.6%)
+- **Apuestas resueltas:** 2242
+- **Aciertos:** 1449 (64.6%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,192.59
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $201.37 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,197.59
+- **ROI sobre lo apostado:** -0.83%
+- **Comisiones pagadas (taker fee):** $201.45 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,7 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1084 | 50.1% | 50.2% | -0.1 pp |
-| 60-79% | 677 | 69.9% | 67.7% | +2.2 pp |
+| 60-79% | 678 | 69.9% | 67.7% | +2.3 pp |
 | 80-94% | 325 | 87.4% | 86.8% | +0.6 pp |
 | 95-99% (casi seguro) | 155 | 95.5% | 97.4% | -1.9 pp |
 
@@ -527,7 +527,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Cristina Bucsa vs Darja  | Darja Vidmanova (BUY) | 58% | 5.00 | 2.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 55% | 5.00 | 1427.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 68% | 5.00 | 0.7% | ✅ ganada | +2.27 |
 | HomeRunHazard | US Open, Qualification WTA: Nao Hibino v | Nao Hibino (BUY) | 72% | 5.00 | 1.1% | ✅ ganada | +1.87 |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 232.3% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
