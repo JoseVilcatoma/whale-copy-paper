@@ -52234,8 +52234,8 @@
     "title": "Chicago Cubs vs. Arizona Diamondbacks",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 1074.8400000000001,
-    "whale_pct": 0.234,
+    "whale_usd": 1592.8929000000003,
+    "whale_pct": 0.346,
     "whale_value_at_open": 460127.2668,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -52248,8 +52248,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710016.4392488,
-    "fills": 1
+    "last_fill_at": 1787710318.1966033,
+    "fills": 2
   },
   {
     "timestamp": 1787710063,
@@ -52373,6 +52373,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787710162.5125728,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787710257,
+    "timestamp_added": 1787710257.9598868,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "wta-bartunk-potapov-2026-08-26",
+    "title": "Monterrey Open: Nikola Bartunkova vs Anastasia Potapova",
+    "outcome": "Nikola Bartunkova",
+    "side": "BUY",
+    "whale_usd": 843.03,
+    "whale_pct": 0.283,
+    "whale_value_at_open": 297784.983,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787710257.9598973,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787710337,
+    "timestamp_added": 1787710338.3916004,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wnba-wsh-phx-2026-08-25",
+    "title": "Washington Mystics vs. Phoenix Mercury",
+    "outcome": "Phoenix Mercury",
+    "side": "BUY",
+    "whale_usd": 544.72,
+    "whale_pct": 0.113,
+    "whale_value_at_open": 482971.3601,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787710338.3916109,
     "fills": 1
   }
 ]

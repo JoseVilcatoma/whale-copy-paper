@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:10:28 (hora de Perú)
+Actualizado: 2026-08-25 21:12:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:10:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $71.01)
+**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $61.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 77 | 12 | 6 | +50.64 USD |
+| swisstony | 77 | 12 | 7 | +50.64 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
 | casualbet2020 | 18 | 7 | 0 | +30.82 USD |
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 257 | 135 | 28 | -21.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 271 | 124 | 7 | -48.17 USD |
+| RN1 | 271 | 124 | 8 | -48.17 USD |
 | Sassy-Bucket | 14 | 22 | 4 | -48.45 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
 |  | 47 | 33 | 5 | -69.37 USD |
@@ -449,18 +449,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-mejia-draxl-2026-08-25 | , HomeRunHazard, RN1 |
 | wta-galfi-sasnovi-2026-08-25 | , HomeRunHazard, OOOwhyOOO |
 | wta-udvardy-joint-2026-08-25 | HomeRunHazard, OOOwhyOOO |
+| wnba-wsh-phx-2026-08-25 | RN1, Sassy-Bucket |
 | mlb-chc-ari-2026-08-25 | Djdjdjekekek, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
+| swisstony | Monterrey Open: Nikola Bartunkova vs Ana | Nikola Bartunkova (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SnakeBall | Will Independiente del Valle win on 2026 | Yes (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. New York Mets | New York Mets (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Cleveland Guardians vs. Los Angeles Ange | Los Angeles Angels (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Nicolas Meji | Nicolas Mejia (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 51% | 5.00 | 4621.6% | ⏳ pendiente | — |
@@ -483,5 +486,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 224.7% | 💰 vendida anticipada | +0.29 |
 | HomeRunHazard | Winston-Salem Open: Miomir Kecmanovic vs | Fabian Marozsan (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Janice Tjen vs Yulia Sta | Yulia Starodubtseva (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
-|  | US Open, Qualification WTA: Dalma Galfi  | Dalma Galfi (BUY) | 49% | 5.00 | 5.4% | ❌ perdida | -5.13 |
