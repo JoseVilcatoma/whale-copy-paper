@@ -53418,8 +53418,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.53,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -54087,8 +54087,8 @@
     "title": "Augsburg: Juan Manuel La Serna vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 520.625,
-    "whale_pct": 1.179,
+    "whale_usd": 1327.2056,
+    "whale_pct": 3.006,
     "whale_value_at_open": 44150.3918,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -54101,8 +54101,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787737161.0759747,
-    "fills": 1
+    "last_fill_at": 1787737483.435385,
+    "fills": 2
   },
   {
     "timestamp": 1787737382,
