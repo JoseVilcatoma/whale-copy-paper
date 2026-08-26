@@ -55542,8 +55542,8 @@
     "odds_at_bet": 93,
     "fee_usd": 0.017,
     "odds_ballena": 91,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -56038,6 +56038,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787756714.1541653,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787756841,
+    "timestamp_added": 1787756841.8021033,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-pridank-marino-2026-08-26",
+    "title": "US Open, Qualification WTA: Elena Pridankina vs Rebecca Marino",
+    "outcome": "Rebecca Marino",
+    "side": "BUY",
+    "whale_usd": 2250.0016,
+    "whale_pct": 2.521,
+    "whale_value_at_open": 89267.7906,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787756841.8021169,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.7283885240893,
+  "bankroll": 487.08773261011083,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10905,6 +10905,11 @@
       "timestamp": 1787755079.3654678,
       "bankroll": 486.73,
       "event": "lost:  \u2014 FC Anyang vs. Incheon United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787756846.7954586,
+      "bankroll": 487.09,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Mak Mikovic vs Nik Mikovic"
     }
   ]
 }
