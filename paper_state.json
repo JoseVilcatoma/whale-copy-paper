@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.42290281636303,
+  "bankroll": 493.26741075287094,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11035,6 +11035,11 @@
       "timestamp": 1787764988.8876967,
       "bankroll": 490.42,
       "event": "won: RN1 \u2014 US Open, Qualification WTA: Qinwen Zheng vs Clara Burel"
+    },
+    {
+      "timestamp": 1787765302.992134,
+      "bankroll": 493.27,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Alice Rame vs Katerina Tsygourova"
     }
   ]
 }
