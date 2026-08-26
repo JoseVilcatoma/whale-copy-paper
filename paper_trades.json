@@ -52159,8 +52159,8 @@
     "title": "Chicago Cubs vs. Arizona Diamondbacks",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 6673.875,
-    "whale_pct": 4621.615,
+    "whale_usd": 132367.126,
+    "whale_pct": 91663.366,
     "whale_value_at_open": 144.4057,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -52171,8 +52171,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787709916.5591652,
-    "fills": 5
+    "last_fill_at": 1787710917.219753,
+    "fills": 7
   },
   {
     "timestamp": 1787709917,
@@ -52482,8 +52482,8 @@
     "title": "Washington Mystics vs. Phoenix Mercury",
     "outcome": "Washington Mystics",
     "side": "BUY",
-    "whale_usd": 1485.6,
-    "whale_pct": 0.308,
+    "whale_usd": 2414.1,
+    "whale_pct": 0.501,
     "whale_value_at_open": 481761.8492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -52496,8 +52496,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710667.3480375,
-    "fills": 2
+    "last_fill_at": 1787710845.2277718,
+    "fills": 3
   },
   {
     "timestamp": 1787710477,

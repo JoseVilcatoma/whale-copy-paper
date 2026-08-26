@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:20:44 (hora de Perú)
+Actualizado: 2026-08-25 21:22:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.87
@@ -470,7 +470,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 69% | 5.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Adrian Mannarino vs  | Lorenzo Sonego (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -483,7 +483,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Nicolas Meji | Nicolas Mejia (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 51% | 5.00 | 4621.6% | ⏳ pendiente | — |
+| Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 51% | 5.00 | 91663.4% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: CD Tolima (-1.5) | Independiente del Valle (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
