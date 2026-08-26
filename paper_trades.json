@@ -56789,8 +56789,8 @@
     "title": "US Open, Qualification WTA: Dominika Salkova vs Gabriela Knutson",
     "outcome": "Gabriela Knutson",
     "side": "BUY",
-    "whale_usd": 3346.0001,
-    "whale_pct": 1.352,
+    "whale_usd": 7283.0024,
+    "whale_pct": 2.944,
     "whale_value_at_open": 247425.1961,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -56801,8 +56801,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787764154.5445268,
-    "fills": 1
+    "last_fill_at": 1787764523.9314225,
+    "fills": 2
   },
   {
     "timestamp": 1787764156,
@@ -56922,6 +56922,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787764471.3796337,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787764572,
+    "timestamp_added": 1787764573.171779,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tb-det-2026-08-26",
+    "title": "Tampa Bay Rays vs. Detroit Tigers",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 1370.48907,
+    "whale_pct": 0.598,
+    "whale_value_at_open": 229209.9868,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787764573.1717918,
     "fills": 1
   }
 ]

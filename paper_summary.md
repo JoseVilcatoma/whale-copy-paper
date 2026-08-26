@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:14:49 (hora de Perú)
+Actualizado: 2026-08-26 12:16:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:14:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $469.11 en 94 posiciones abiertas (disponible para nuevas apuestas: $19.80)
+**Capital comprometido ahora mismo:** $474.11 en 95 posiciones abiertas (disponible para nuevas apuestas: $14.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 292 | 147 | 26 | +42.72 USD |
+| HomeRunHazard | 292 | 147 | 27 | +42.72 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -483,17 +483,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-det-2026-08-26-total-8pt5 | HomeRunHazard, RN1 |
 | atp-rincon-jordanl-2026-08-26 | HomeRunHazard, RN1 |
 | wta-bronzet-iatcenk-2026-08-26 | HomeRunHazard, RN1 |
+| mlb-tb-det-2026-08-26 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 46% | 5.00 | 12.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Tereza Val | Tereza Valentova (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Benjamin Willw | Aidan Mayo (BUY) | 91% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Hugo Cardinaud (BUY) | 65% | 5.00 | 30.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Gabriela Knutson (BUY) | 68% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Gabriela Knutson (BUY) | 68% | 5.00 | 2.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Frederico Fe | Jurij Rodionov (BUY) | 99% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Marvin Moeller vs Matias Soto | Marvin Moeller (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -517,4 +519,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W15 Hurghada 6 (Egy | Naomi Mckenzie (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Lokomotiv Tashkent vs. FC Bunyodkor: O/U | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alena Kovackova (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 12.8% | ⏳ pendiente | — |
