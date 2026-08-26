@@ -51623,5 +51623,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787703128.2122743,
     "fills": 1
+  },
+  {
+    "timestamp": 1787703868,
+    "timestamp_added": 1787703868.6773329,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-galfi-sasnovi-2026-08-25",
+    "title": "US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich",
+    "outcome": "Dalma Galfi",
+    "side": "BUY",
+    "whale_usd": 4375.489998,
+    "whale_pct": 5.359,
+    "whale_value_at_open": 81645.3277,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787703869.171036,
+    "fills": 2
   }
 ]

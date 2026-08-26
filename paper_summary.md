@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:22:30 (hora de Perú)
+Actualizado: 2026-08-25 19:24:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.58
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 19:22:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $23.58)
+**Capital comprometido ahora mismo:** $475.00 en 95 posiciones abiertas (disponible para nuevas apuestas: $18.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 271 | 123 | 3 | -43.13 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
 | ferrariChampions2026 | 293 | 177 | 11 | -68.47 USD |
-|  | 39 | 30 | 11 | -72.35 USD |
+|  | 39 | 30 | 12 | -72.35 USD |
 
 ## Análisis general
 
@@ -445,6 +445,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification WTA: Dalma Galfi  | Dalma Galfi (BUY) | 49% | 5.00 | 5.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Kansas City Royals (BUY) | 83% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 99% | 5.00 | 1127.0% | ⏳ pendiente | — |
@@ -474,4 +475,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Rio Noguchi (BUY) | 59% | 5.00 | 1.3% | ❌ perdida | -5.10 |
 |  | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
-| winwin518168 | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 58% | 5.00 | 73.2% | ⏳ pendiente | — |
