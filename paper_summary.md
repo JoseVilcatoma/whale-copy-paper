@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:12:31 (hora de Perú)
+Actualizado: 2026-08-25 21:14:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:12:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $61.01)
+**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $46.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | HomeRunHazard | 257 | 135 | 28 | -21.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 271 | 124 | 8 | -48.17 USD |
+| RN1 | 271 | 124 | 11 | -48.17 USD |
 | Sassy-Bucket | 14 | 22 | 4 | -48.45 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
 |  | 47 | 33 | 5 | -69.37 USD |
@@ -456,6 +456,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Winston-Salem Open: Adrian Mannarino vs  | Lorenzo Sonego (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 45% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Nikola Bartunkova vs Ana | Nikola Bartunkova (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -483,6 +486,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 83% | 5.00 | 1.6% | ✅ ganada | +0.98 |
 | HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 3.9% | ✅ ganada | +0.30 |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Baltimore Orioles (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 224.7% | 💰 vendida anticipada | +0.29 |
-| HomeRunHazard | Winston-Salem Open: Miomir Kecmanovic vs | Fabian Marozsan (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
