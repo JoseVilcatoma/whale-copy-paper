@@ -1,5 +1,5 @@
 {
-  "bankroll": 522.9370062380858,
+  "bankroll": 525.7815141745938,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10505,6 +10505,11 @@
       "timestamp": 1787726267.6991043,
       "bankroll": 522.94,
       "event": "won: SnakeBall \u2014 Club Le\u00f3n FC vs. Real Salt Lake: Real Salt Lake O/U 2.5"
+    },
+    {
+      "timestamp": 1787726878.1598303,
+      "bankroll": 525.78,
+      "event": "won: SnakeBall \u2014 Club Le\u00f3n FC vs. Real Salt Lake: O/U 3.5"
     }
   ]
 }
