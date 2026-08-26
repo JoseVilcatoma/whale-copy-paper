@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 06:59:36 (hora de Perú)
+Actualizado: 2026-08-26 07:01:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.88
@@ -473,7 +473,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION (BO5) -  | KT Rolster (BUY) | 60% | 5.00 | 9.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION (BO5) -  | KT Rolster (BUY) | 60% | 5.00 | 17.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Madrid CF win on 2026-08-26? | Yes (BUY) | 79% | 5.00 | 3.1% | ⏳ pendiente | — |
 | GoalLineGhost | Real Madrid CF vs. Real Sociedad de Fútb | Under (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vietnam win on 2026-08-26? | No (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
