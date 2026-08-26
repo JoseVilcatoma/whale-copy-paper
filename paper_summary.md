@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 03:51:34 (hora de Perú)
+Actualizado: 2026-08-26 03:53:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 03:51:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $274.49)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $269.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 282 | 132 | 17 | -51.35 USD |
+| RN1 | 282 | 132 | 18 | -51.35 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 5 | -72.46 USD |
@@ -464,8 +464,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nicolo Toffanin (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Greece F17, Singles: Filip Peliwo vs Jos | Joshua Charlton (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Amandine Monnot (BUY) | 83% | 5.00 | 12.8% | ⏳ pendiente | — |
@@ -493,4 +494,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ✅ ganada | +1.13 |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 45% | 5.00 | 2.0% | ✅ ganada | +5.97 |
 | RN1 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
-| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.2% | ✅ ganada | +4.68 |

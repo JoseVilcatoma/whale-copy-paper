@@ -53821,8 +53821,8 @@
     "title": "Augsburg: Juan Manuel La Serna vs Hynek Barton",
     "outcome": "Hynek Barton",
     "side": "BUY",
-    "whale_usd": 642.519705,
-    "whale_pct": 0.83,
+    "whale_usd": 3065.079705,
+    "whale_pct": 3.959,
     "whale_value_at_open": 77415.598,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -53833,8 +53833,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787734011.0102024,
-    "fills": 1
+    "last_fill_at": 1787734317.2601705,
+    "fills": 2
   },
   {
     "timestamp": 1787734087,
@@ -53858,6 +53858,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787734087.3032243,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787734335,
+    "timestamp_added": 1787734336.1690958,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-urankar-toffani-2026-08-26",
+    "title": "ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Vaal Urankar vs Nicolo Toffanin",
+    "outcome": "Nicolo Toffanin",
+    "side": "BUY",
+    "whale_usd": 511.111111,
+    "whale_pct": 0.571,
+    "whale_value_at_open": 89443.5437,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787734336.1691098,
     "fills": 1
   }
 ]
