@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.0162545507786,
+  "bankroll": 498.01032943519,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11675,6 +11675,36 @@
       "timestamp": 1787785919.5707188,
       "bankroll": 492.02,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Martyna Kubka vs Marina Bassols Ribera"
+    },
+    {
+      "timestamp": 1787786041.0647888,
+      "bankroll": 486.9,
+      "event": "lost: HomeRunHazard \u2014 Cleveland Guardians vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1787786041.1649783,
+      "bankroll": 492.19,
+      "event": "won: SDTrading \u2014 Cleveland Guardians vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1787786042.7833285,
+      "bankroll": 495.16,
+      "event": "won: SDTrading \u2014 Cleveland Guardians vs. Los Angeles Angels: O/U 9.5"
+    },
+    {
+      "timestamp": 1787786046.2070243,
+      "bankroll": 499.47,
+      "event": "won: HomeRunHazard \u2014 Cleveland Guardians vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1787786046.5137079,
+      "bankroll": 503.14,
+      "event": "won: HomeRunHazard \u2014 Cleveland Guardians vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1787786046.6138928,
+      "bankroll": 498.01,
+      "event": "lost: Sassy-Bucket \u2014 Cleveland Guardians vs. Los Angeles Angels: O/U 8.5"
     }
   ]
 }
