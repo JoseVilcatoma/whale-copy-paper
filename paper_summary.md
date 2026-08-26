@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:03:28 (hora de Perú)
+Actualizado: 2026-08-26 10:05:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.73
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:03:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $96.73)
+**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $86.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 289 | 145 | 12 | +44.36 USD |
+| HomeRunHazard | 289 | 145 | 14 | +44.36 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -477,12 +477,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 | atp-cretu-damas-2026-08-26 | HomeRunHazard, RN1 |
 | atp-mena-wehnelt-2026-08-26 | Djdjdjekekek, RN1 |
+| wnba-tor-sea-2026-08-26-total-174pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-tb-det-2026-08-26-total-8pt5 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Golden State Valkyries (-13.5) | Connecticut Sun (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Mosc | K27 (BUY) | 49% | 5.00 | 41.8% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SnakeBall | Lokomotiv Tashkent vs. FC Bunyodkor: Bot | Yes (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -511,5 +514,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 90.1% | 💰 vendida anticipada | +1.52 |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 9 | Under (BUY) | 70% | 5.00 | 11.1% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
-|  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ✅ ganada | +0.15 |
-|  | US Open, Qualification WTA: Nao Hibino v | Anna Siskova (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
