@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:43:16 (hora de Perú)
+Actualizado: 2026-08-26 05:45:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $485.51
-**Retorno acumulado:** -2.90%
+**Bankroll actual:** $489.49
+**Retorno acumulado:** -2.10%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:43:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $195.51)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $204.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,21 +81,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 288 | 133 | 13 | -50.87 USD |
+| RN1 | 289 | 133 | 12 | -46.89 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 51 | 35 | 12 | -68.80 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2051
-- **Aciertos:** 1321 (64.4%)
+- **Apuestas resueltas:** 2052
+- **Aciertos:** 1322 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,243.48
-- **ROI sobre lo apostado:** -0.96%
-- **Comisiones pagadas (taker fee):** $184.94 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.84% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,248.48
+- **ROI sobre lo apostado:** -0.93%
+- **Comisiones pagadas (taker fee):** $185.05 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.88% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -103,7 +103,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1002 | 50.3% | 50.2% | +0.1 pp |
+| 40-59% | 1003 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 617 | 69.5% | 67.6% | +1.9 pp |
 | 80-94% | 288 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
@@ -494,7 +494,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 2 | KT Rolster (BUY) | 67% | 5.00 | 240.8% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Paper Rex vs Nongshim RedForce | Nongshim RedForce (BUY) | 72% | 5.00 | 99.8% | ✅ ganada | +1.87 |
 |  | Set Handicap: Fenty (-1.5) vs Chopra (+1 | Chopra (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W15 Torello (Spain) | Sayaka Ishii (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W15 Torello (Spain) | Sayaka Ishii (BUY) | 55% | 5.00 | 0.7% | ✅ ganada | +3.98 |
 | RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Juan Manuel La Serna (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nicolo Toffanin (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Greece F17, Singles: Filip Peliwo vs Jos | Joshua Charlton (BUY) | 79% | 5.00 | 1.1% | ✅ ganada | +1.28 |

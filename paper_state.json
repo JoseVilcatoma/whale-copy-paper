@@ -1,5 +1,5 @@
 {
-  "bankroll": 485.5108537268481,
+  "bankroll": 489.4897628177572,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10700,6 +10700,11 @@
       "timestamp": 1787740718.710444,
       "bankroll": 485.51,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Sina Herrmann vs Amandine Monnot"
+    },
+    {
+      "timestamp": 1787741027.532033,
+      "bankroll": 489.49,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Torello (Spain), hard: Neus Torner Sensano vs Sayaka Ishii"
     }
   ]
 }
