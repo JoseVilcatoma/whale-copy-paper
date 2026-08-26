@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 06:01:44 (hora de Perú)
+Actualizado: 2026-08-26 06:03:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $489.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 06:01:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $189.49)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $174.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,14 +23,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 4 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 2 | +40.75 USD |
-| HomeRunHazard | 283 | 143 | 7 | +37.29 USD |
+| HomeRunHazard | 283 | 143 | 9 | +37.29 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 6 | 2 | 2 | +20.79 USD |
 | SDTrading | 25 | 19 | 1 | +19.23 USD |
-| ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
+| ChonkyChocolateCake | 33 | 19 | 1 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -466,12 +466,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kor-dae1-uls-2026-08-26-total-2pt5 | GoalLineGhost, plonker2026 |
 | kor-any-inc-2026-08-26-total-2pt5 | , GoalLineGhost |
 | lol-kt-bro2-2026-08-26-game3 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
+| lol-kt-bro2-2026-08-26-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 61% | 5.00 | 15.0% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Juan Estevez vs Benito Sanchez | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Svyatoslav Gulin (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 66% | 5.00 | 77.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 61% | 5.00 | 62.3% | ⏳ pendiente | — |
 |  | Will Vietnam win on 2026-08-26? | Yes (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Thailand win on 2026-08-26? | No (BUY) | 80% | 5.00 | 3.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -498,6 +502,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: Paper Rex vs Nongshim RedForce | Nongshim RedForce (BUY) | 72% | 5.00 | 99.8% | ✅ ganada | +1.87 |
 |  | Set Handicap: Fenty (-1.5) vs Chopra (+1 | Chopra (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Torello (Spain) | Sayaka Ishii (BUY) | 55% | 5.00 | 0.7% | ✅ ganada | +3.98 |
-| RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Juan Manuel La Serna (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nicolo Toffanin (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Greece F17, Singles: Filip Peliwo vs Jos | Joshua Charlton (BUY) | 79% | 5.00 | 1.1% | ✅ ganada | +1.28 |
