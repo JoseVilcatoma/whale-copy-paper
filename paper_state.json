@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.74099993028494,
+  "bankroll": 477.87009624047886,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10170,6 +10170,26 @@
       "timestamp": 1787710504.3320205,
       "bankroll": 471.74,
       "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. Miami Marlins: O/U 7.5"
+    },
+    {
+      "timestamp": 1787710814.695037,
+      "bankroll": 478.79,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787710819.4530802,
+      "bankroll": 481.39,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-2.5)"
+    },
+    {
+      "timestamp": 1787710826.3173451,
+      "bankroll": 483.0,
+      "event": "won: HomeRunHazard \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1787710829.5905104,
+      "bankroll": 477.87,
+      "event": "lost: Djdjdjekekek \u2014 Los Angeles Dodgers vs. Atlanta Braves"
     }
   ]
 }
