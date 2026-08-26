@@ -56813,8 +56813,8 @@
     "title": "ITF MEN - SINGLES: M15 Monastir 28 (Tunisia), hard: Hugo Cardinaud vs Ilya Polonskiy",
     "outcome": "Hugo Cardinaud",
     "side": "BUY",
-    "whale_usd": 11860.266599999999,
-    "whale_pct": 109.192,
+    "whale_usd": 17829.9466,
+    "whale_pct": 164.153,
     "whale_value_at_open": 10861.8,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -56825,8 +56825,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787766616.376664,
-    "fills": 6
+    "last_fill_at": 1787766643.1932755,
+    "fills": 7
   },
   {
     "timestamp": 1787764165,
