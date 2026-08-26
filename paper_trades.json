@@ -51412,8 +51412,8 @@
     "title": "US Open, Qualification ATP: Taro Daniel vs Andrew Johnson",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 1962.0,
-    "whale_pct": 0.408,
+    "whale_usd": 4128.682199999999,
+    "whale_pct": 0.859,
     "whale_value_at_open": 480797.296,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -51424,8 +51424,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787700692.4525342,
-    "fills": 1
+    "last_fill_at": 1787703415.6523385,
+    "fills": 2
   },
   {
     "timestamp": 1787700713,

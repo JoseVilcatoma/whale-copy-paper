@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:16:09 (hora de Perú)
+Actualizado: 2026-08-25 19:18:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.29
@@ -453,7 +453,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Seong-Chan H | Seong-Chan Hong (BUY) | 70% | 5.00 | 2.5% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
