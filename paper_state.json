@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.86051296391315,
+  "bankroll": 498.73251296391317,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11200,6 +11200,11 @@
       "timestamp": 1787770961.826233,
       "bankroll": 503.86,
       "event": "won: HomeRunHazard \u2014 Philadelphia: Fangran Tian vs Tereza Valentova"
+    },
+    {
+      "timestamp": 1787771270.9304118,
+      "bankroll": 498.73,
+      "event": "lost: SPCEXBUYER \u2014 Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage"
     }
   ]
 }
