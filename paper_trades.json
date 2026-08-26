@@ -52003,5 +52003,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787708359.6918042,
     "fills": 5
+  },
+  {
+    "timestamp": 1787708783,
+    "timestamp_added": 1787708783.6187317,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-wsh-phx-2026-08-25",
+    "title": "Washington Mystics vs. Phoenix Mercury",
+    "outcome": "Phoenix Mercury",
+    "side": "BUY",
+    "whale_usd": 506.92,
+    "whale_pct": 0.562,
+    "whale_value_at_open": 90124.5743,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787708783.6187506,
+    "fills": 1
   }
 ]

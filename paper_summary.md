@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 20:45:02 (hora de Perú)
+Actualizado: 2026-08-25 20:47:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 20:45:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $349.66 en 70 posiciones abiertas (disponible para nuevas apuestas: $119.11)
+**Capital comprometido ahora mismo:** $354.66 en 71 posiciones abiertas (disponible para nuevas apuestas: $114.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 271 | 124 | 2 | -48.17 USD |
-| Sassy-Bucket | 14 | 22 | 3 | -48.45 USD |
+| Sassy-Bucket | 14 | 22 | 4 | -48.45 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
 |  | 46 | 33 | 6 | -74.45 USD |
 
@@ -451,6 +451,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants | Over (BUY) | 53% | 5.00 | 97.0% | ⏳ pendiente | — |
 | OOOwhyOOO | Monterrey Open: Panna Udvardy vs Maya Jo | Panna Udvardy (BUY) | 99% | 5.00 | 70.4% | ⏳ pendiente | — |
 |  | Chicago Sky vs. Connecticut Sun | Connecticut Sun (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
@@ -480,4 +481,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Mets (-2.5) | Milwaukee Brewers (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 81% | 5.00 | 1.5% | ✅ ganada | +1.13 |
