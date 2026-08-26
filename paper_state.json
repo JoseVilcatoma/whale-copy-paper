@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.37719378989374,
+  "bankroll": 494.6635451412451,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9960,6 +9960,11 @@
       "timestamp": 1787703920.7123618,
       "bankroll": 494.38,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Raphael Collignon vs Rinky Hijikata"
+    },
+    {
+      "timestamp": 1787704166.7333066,
+      "bankroll": 494.66,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich (+0.29 USD)"
     }
   ]
 }

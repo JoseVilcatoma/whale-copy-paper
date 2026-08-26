@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:28:40 (hora de Perú)
+Actualizado: 2026-08-25 19:30:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.38
-**Retorno acumulado:** -1.12%
+**Bankroll actual:** $494.66
+**Retorno acumulado:** -1.07%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 19:28:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $14.38)
+**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $14.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,14 +43,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| HVAB | 9 | 4 | 1 | +2.08 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
-| HVAB | 8 | 4 | 2 | +1.79 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| HomeRunHazard | 247 | 124 | 47 | +1.08 USD |
+| HomeRunHazard | 247 | 124 | 48 | +1.08 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
@@ -441,20 +441,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-valdman-carle-2026-08-25 | , HomeRunHazard |
 | wta-kalieva-mladeno-2026-08-25 | , HomeRunHazard, OOOwhyOOO |
 | mlb-cle-laa-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading |
-| wta-galfi-sasnovi-2026-08-25 | , OOOwhyOOO |
+| wta-galfi-sasnovi-2026-08-25 | , HomeRunHazard, OOOwhyOOO |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Baltimore Orioles (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 224.7% | ⏳ pendiente | — |
+| OOOwhyOOO | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 224.7% | 💰 vendida anticipada | +0.29 |
 | HomeRunHazard | Winston-Salem Open: Miomir Kecmanovic vs | Fabian Marozsan (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Janice Tjen vs Yulia Sta | Yulia Starodubtseva (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Dalma Galfi  | Dalma Galfi (BUY) | 49% | 5.00 | 5.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Kansas City Royals (BUY) | 83% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 99% | 5.00 | 1127.0% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Atlanta Braves (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -476,4 +477,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Darja Semeni | Darja Semenistaja (BUY) | 95% | 5.00 | 0.8% | ✅ ganada | +0.25 |
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Dallas Wings (-8.5) | Dallas Wings (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
-|  | Will FC Universitario win on 2026-08-25? | Yes (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |

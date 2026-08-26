@@ -51585,8 +51585,8 @@
     "title": "Kansas City Royals vs. Toronto Blue Jays",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 3934.3267,
-    "whale_pct": 0.78,
+    "whale_usd": 5404.9147,
+    "whale_pct": 1.071,
     "whale_value_at_open": 504550.827,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -51597,8 +51597,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787703127.617378,
-    "fills": 1
+    "last_fill_at": 1787704160.9747694,
+    "fills": 2
   },
   {
     "timestamp": 1787703127,
@@ -51738,15 +51738,17 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.29,
     "overlaps_with": [
       ""
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787704103.4230223,
-    "fills": 4
+    "fills": 4,
+    "fee_total_usd": 0.119,
+    "closed_price": 80
   },
   {
     "timestamp": 1787704101,
@@ -51771,5 +51773,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787704101.9545765,
     "fills": 1
+  },
+  {
+    "timestamp": 1787704157,
+    "timestamp_added": 1787704157.6863885,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-galfi-sasnovi-2026-08-25",
+    "title": "US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich",
+    "outcome": "Aliaksandra Sasnovich",
+    "side": "BUY",
+    "whale_usd": 3484.9440000000004,
+    "whale_pct": 0.793,
+    "whale_value_at_open": 439253.6271,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "OOOwhyOOO"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787704190.8850145,
+    "fills": 2
   }
 ]
