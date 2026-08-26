@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.3718972448247,
+  "bankroll": 526.3705364200824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11500,6 +11500,16 @@
       "timestamp": 1787781959.1916306,
       "bankroll": 531.37,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Arthur Gea vs Clement Chidekh"
+    },
+    {
+      "timestamp": 1787782390.4067686,
+      "bankroll": 526.22,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Rei Sakamoto vs Alexandre Muller"
+    },
+    {
+      "timestamp": 1787782391.202924,
+      "bankroll": 526.37,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Rei Sakamoto vs Alexandre Muller"
     }
   ]
 }
