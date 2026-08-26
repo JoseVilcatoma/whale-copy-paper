@@ -53931,5 +53931,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787734996.1086078,
     "fills": 1
+  },
+  {
+    "timestamp": 1787735092,
+    "timestamp_added": 1787735093.1730864,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-fenty-chopra-2026-08-26-set-handicap-home-1pt5",
+    "title": "Set Handicap: Fenty (-1.5) vs Chopra (+1.5)",
+    "outcome": "Chopra",
+    "side": "BUY",
+    "whale_usd": 511.299999,
+    "whale_pct": 0.956,
+    "whale_value_at_open": 53477.6869,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787735093.173104,
+    "fills": 1
   }
 ]
