@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 15:26:14 (hora de Perú)
+Actualizado: 2026-08-26 15:28:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $534.76
-**Retorno acumulado:** +6.95%
+**Bankroll actual:** $537.37
+**Retorno acumulado:** +7.47%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 15:26:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $69.76)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $72.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 318 | 152 | 42 | +63.44 USD |
+| HomeRunHazard | 318 | 152 | 43 | +63.44 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -29,8 +29,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 26 | 19 | 7 | +24.96 USD |
+| ChonkyChocolateCake | 35 | 19 | 1 | +23.59 USD |
 | TAIWANNUMBERONE | 7 | 3 | 2 | +21.67 USD |
-| ChonkyChocolateCake | 34 | 19 | 2 | +20.98 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2172
-- **Aciertos:** 1406 (64.7%)
+- **Apuestas resueltas:** 2173
+- **Aciertos:** 1407 (64.7%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,847.59
-- **ROI sobre lo apostado:** -0.47%
-- **Comisiones pagadas (taker fee):** $195.43 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,852.59
+- **ROI sobre lo apostado:** -0.44%
+- **Comisiones pagadas (taker fee):** $195.52 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1051 | 50.5% | 50.2% | +0.3 pp |
-| 60-79% | 659 | 69.8% | 67.6% | +2.2 pp |
+| 60-79% | 660 | 69.8% | 67.6% | +2.3 pp |
 | 80-94% | 312 | 87.2% | 86.8% | +0.4 pp |
 | 95-99% (casi seguro) | 150 | 95.3% | 97.4% | -2.0 pp |
 
@@ -502,11 +502,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Moyuka Uchij | Moyuka Uchijima (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Tyra Caterin | Himeno Sakatsume (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Juan Pablo Ficovich vs Migue | Miguel Tobon (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 49% | 5.00 | 1.5% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 49% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Nishesh Basavareddy (BUY) | 93% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 64% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 45% | 5.00 | 92.6% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Bianca Andre | Bianca Andreescu (BUY) | 89% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -531,4 +532,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification WTA: Despina Papa | Ekaterine Gorgodze (BUY) | 82% | 5.00 | 193.1% | 💰 vendida anticipada | -0.78 |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 81% | 5.00 | 20.3% | 💰 vendida anticipada | -0.16 |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 79% | 5.00 | 16.2% | 💰 vendida anticipada | +0.35 |
-| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 4 | Under (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |

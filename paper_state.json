@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.7649669997862,
+  "bankroll": 537.370274692094,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11325,6 +11325,11 @@
       "timestamp": 1787775173.2912986,
       "bankroll": 534.76,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones"
+    },
+    {
+      "timestamp": 1787776011.9494622,
+      "bankroll": 537.37,
+      "event": "won: DoNotTailMe \u2014 LoL: TLN Pirates vs Galions - Game 3 Winner"
     }
   ]
 }

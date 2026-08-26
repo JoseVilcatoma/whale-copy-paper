@@ -57285,8 +57285,8 @@
     "odds_at_bet": 65,
     "fee_usd": 0.087,
     "odds_ballena": 64,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.61,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -58313,8 +58313,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 1738.2393000000002,
-    "whale_pct": 0.623,
+    "whale_usd": 3511.960193,
+    "whale_pct": 1.26,
     "whale_value_at_open": 278833.2036,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -58327,8 +58327,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787774951.2833219,
-    "fills": 1
+    "last_fill_at": 1787776066.7055323,
+    "fills": 3
   },
   {
     "timestamp": 1787775029,
@@ -58365,8 +58365,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 4173.0960000000005,
-    "whale_pct": 1.492,
+    "whale_usd": 7716.764700000001,
+    "whale_pct": 2.759,
     "whale_value_at_open": 279705.3039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -58379,8 +58379,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787775370.4342132,
-    "fills": 1
+    "last_fill_at": 1787776064.65058,
+    "fills": 2
   },
   {
     "timestamp": 1787775524,
@@ -58428,6 +58428,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787775796.0470476,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787776025,
+    "timestamp_added": 1787776025.8074071,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-uchijim-havlick-2026-08-26",
+    "title": "US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova",
+    "outcome": "Moyuka Uchijima",
+    "side": "BUY",
+    "whale_usd": 1847.0023,
+    "whale_pct": 0.63,
+    "whale_value_at_open": 293061.3704,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787776025.8074172,
     "fills": 1
   }
 ]
