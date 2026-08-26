@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 08:21:04 (hora de Perú)
+Actualizado: 2026-08-26 08:23:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.70
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 08:21:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $151.70)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $146.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 294 | 137 | 3 | -47.15 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 51 | 37 | 14 | -79.01 USD |
+|  | 51 | 37 | 15 | -79.01 USD |
 
 ## Análisis general
 
@@ -476,6 +476,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Nao Hibino v | Anna Siskova (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 59% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Storm (-5.5) | Seattle Storm (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -505,4 +506,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Juan Estevez vs Benito Sanchez | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 2.6% | ✅ ganada | +0.78 |
 | HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Svyatoslav Gulin (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 66% | 5.00 | 198.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 61% | 5.00 | 98.5% | ⏳ pendiente | — |

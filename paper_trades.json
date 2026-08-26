@@ -55277,5 +55277,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787750428.1045177,
     "fills": 1
+  },
+  {
+    "timestamp": 1787750563,
+    "timestamp_added": 1787750564.0643625,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-tarvet-bonding-2026-08-26",
+    "title": "Roehampton 2: Oliver Tarvet vs Oliver Bonding",
+    "outcome": "Oliver Tarvet",
+    "side": "BUY",
+    "whale_usd": 606.1094999999999,
+    "whale_pct": 0.852,
+    "whale_value_at_open": 71178.0806,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787750564.0643744,
+    "fills": 1
   }
 ]
