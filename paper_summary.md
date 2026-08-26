@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:26:28 (hora de Perú)
+Actualizado: 2026-08-26 10:28:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.28
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:26:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $21.28)
+**Capital comprometido ahora mismo:** $475.00 en 95 posiciones abiertas (disponible para nuevas apuestas: $16.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| HomeRunHazard | 290 | 145 | 18 | +48.50 USD |
+| HomeRunHazard | 290 | 145 | 19 | +48.50 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -478,6 +478,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 | atp-cretu-damas-2026-08-26 | HomeRunHazard, RN1 |
 | atp-mena-wehnelt-2026-08-26 | Djdjdjekekek, RN1 |
+| wta-montgom-vandrom-2026-08-26 | , HomeRunHazard |
 | wnba-tor-sea-2026-08-26-total-174pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
 | mlb-tb-det-2026-08-26-total-8pt5 | HomeRunHazard, RN1 |
 | atp-rincon-jordanl-2026-08-26 | HomeRunHazard, RN1 |
@@ -487,8 +488,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Anouk Koever | Linda Klimovicova (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ⏳ pendiente | — |
@@ -498,7 +500,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Lokomotiv Tashkent vs. FC Bunyodkor: O/U | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alena Kovackova (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 19.3% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 20.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Francesca Pace (BUY) | 86% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 42% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 41% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -516,4 +518,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Vienna Men: Aleksandr Braynin vs | Aleksandr Braynin (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | RN1 | Will PFK Mash AL Mubarek vs. Navbahor en | No (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Lyn 1896 FK win on 2026-08-26? | No (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Will Asyut Petroleum SC win on 2026-08-2 | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |

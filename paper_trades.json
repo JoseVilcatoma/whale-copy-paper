@@ -55729,8 +55729,8 @@
     "title": "Will Asyut Petroleum SC win on 2026-08-26?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 643.5,
-    "whale_pct": 0.336,
+    "whale_usd": 1287.0,
+    "whale_pct": 0.672,
     "whale_value_at_open": 191415.098,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -55741,8 +55741,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787754772.3982234,
-    "fills": 1
+    "last_fill_at": 1787758055.6422606,
+    "fills": 2
   },
   {
     "timestamp": 1787754979,
@@ -56173,8 +56173,8 @@
     "title": "Winston-Salem Open: Botic van de Zandschulp vs Luciano Darderi",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 20622.195,
-    "whale_pct": 19.31,
+    "whale_usd": 21699.105,
+    "whale_pct": 20.319,
     "whale_value_at_open": 106793.38,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -56185,8 +56185,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787757640.1225433,
-    "fills": 2
+    "last_fill_at": 1787758100.9533634,
+    "fills": 3
   },
   {
     "timestamp": 1787757485,
@@ -56415,8 +56415,8 @@
     "title": "US Open, Qualification WTA: Qinwen Zheng vs Clara Burel",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 3804.34,
-    "whale_pct": 2.019,
+    "whale_usd": 4607.81826,
+    "whale_pct": 2.445,
     "whale_value_at_open": 188432.2356,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -56427,8 +56427,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787757916.6339424,
-    "fills": 1
+    "last_fill_at": 1787758058.3911824,
+    "fills": 2
   },
   {
     "timestamp": 1787757921,
@@ -56454,6 +56454,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787757921.4108317,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787758097,
+    "timestamp_added": 1787758098.011095,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-montgom-vandrom-2026-08-26",
+    "title": "US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme",
+    "outcome": "Robin Montgomery",
+    "side": "BUY",
+    "whale_usd": 1563.7741019999996,
+    "whale_pct": 1.505,
+    "whale_value_at_open": 103920.2483,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787758098.0111058,
     "fills": 1
   }
 ]
