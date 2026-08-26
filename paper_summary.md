@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 02:35:04 (hora de Perú)
+Actualizado: 2026-08-26 02:37:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $522.59
-**Retorno acumulado:** +4.52%
+**Bankroll actual:** $517.61
+**Retorno acumulado:** +3.52%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 02:35:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $292.59)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $317.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,11 +24,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
 | swisstony | 82 | 15 | 4 | +41.57 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
-| HomeRunHazard | 280 | 141 | 8 | +38.77 USD |
+| HomeRunHazard | 281 | 142 | 6 | +34.78 USD |
 | casualbet2020 | 18 | 7 | 0 | +30.82 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| SDTrading | 25 | 17 | 3 | +29.46 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| SDTrading | 25 | 18 | 2 | +24.34 USD |
 | TAIWANNUMBERONE | 6 | 2 | 2 | +20.79 USD |
 | ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -80,21 +80,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 6 | 1 | -11.46 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 279 | 129 | 7 | -49.45 USD |
+| RN1 | 281 | 130 | 4 | -45.32 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 178 | 6 | -58.54 USD |
 |  | 50 | 34 | 5 | -67.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2017
-- **Aciertos:** 1303 (64.6%)
+- **Apuestas resueltas:** 2023
+- **Aciertos:** 1306 (64.6%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,073.48
-- **ROI sobre lo apostado:** -0.61%
-- **Comisiones pagadas (taker fee):** $181.92 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,103.48
+- **ROI sobre lo apostado:** -0.66%
+- **Comisiones pagadas (taker fee):** $182.57 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,9 +102,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 984 | 50.4% | 50.2% | +0.2 pp |
+| 40-59% | 989 | 50.4% | 50.2% | +0.2 pp |
 | 60-79% | 609 | 70.0% | 67.6% | +2.4 pp |
-| 80-94% | 281 | 86.5% | 86.9% | -0.4 pp |
+| 80-94% | 282 | 86.5% | 86.9% | -0.4 pp |
 | 95-99% (casi seguro) | 143 | 96.5% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -469,12 +469,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SnakeBall | Will Club León FC win on 2026-08-25? | Yes (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 35.8% | ❌ perdida | -5.10 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 41% | 5.00 | 3.0% | ✅ ganada | +7.05 |
-| HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ✅ ganada | +1.13 |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 45% | 5.00 | 2.0% | ✅ ganada | +5.97 |
 | RN1 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.2% | ✅ ganada | +4.68 |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Minnesota Twins vs. Athletics: O/U 8.5 | Over (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Minnesota Twins vs. Athletics: O/U 8.5 | Over (BUY) | 52% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 |  | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 80% | 5.00 | 1.6% | ✅ ganada | +1.20 |
 |  | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Set Handicap: Watson (-1.5) vs Boluda (+ | Watson (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -491,5 +491,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ⏳ pendiente | — |
 | swisstony | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 48% | 5.00 | 0.2% | ❌ perdida | -5.13 |
-| RN1 | Minnesota Twins vs. Athletics: O/U 8.5 | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Minnesota Twins vs. Athletics: O/U 8.5 | Under (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |
+| RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Under (BUY) | 58% | 5.00 | 0.3% | ✅ ganada | +3.52 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 522.5941223103854,
+  "bankroll": 517.6102166891219,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10530,6 +10530,36 @@
       "timestamp": 1787728104.7062635,
       "bankroll": 522.59,
       "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 4.5"
+    },
+    {
+      "timestamp": 1787729747.5105078,
+      "bankroll": 517.48,
+      "event": "lost: SDTrading \u2014 Minnesota Twins vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1787729750.778676,
+      "bankroll": 512.35,
+      "event": "lost: RN1 \u2014 Minnesota Twins vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1787729750.8788724,
+      "bankroll": 515.87,
+      "event": "won: RN1 \u2014 Minnesota Twins vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1787729751.14201,
+      "bankroll": 521.6,
+      "event": "won: RN1 \u2014 Minnesota Twins vs. Athletics: O/U 8.5"
+    },
+    {
+      "timestamp": 1787729753.1887956,
+      "bankroll": 516.48,
+      "event": "lost: HomeRunHazard \u2014 Minnesota Twins vs. Athletics: O/U 8.5"
+    },
+    {
+      "timestamp": 1787729753.5471349,
+      "bankroll": 517.61,
+      "event": "won: HomeRunHazard \u2014 Spread: Athletics (-2.5)"
     }
   ]
 }
