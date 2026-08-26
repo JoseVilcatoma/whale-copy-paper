@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.73251296391317,
+  "bankroll": 497.9540068663522,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11205,6 +11205,11 @@
       "timestamp": 1787771270.9304118,
       "bankroll": 498.73,
       "event": "lost: SPCEXBUYER \u2014 Counter-Strike: HOTU vs K27 (BO3) - Moscow Cyber Games European Qualifier Group Stage"
+    },
+    {
+      "timestamp": 1787771444.800059,
+      "bankroll": 497.95,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification WTA: Despina Papamichail vs Ekaterine Gorgodze (-0.78 USD)"
     }
   ]
 }
