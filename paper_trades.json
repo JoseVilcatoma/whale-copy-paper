@@ -55019,8 +55019,8 @@
     "title": "Vietnam vs. Thailand: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 5104.799451,
-    "whale_pct": 9.966,
+    "whale_usd": 7050.029451,
+    "whale_pct": 13.763,
     "whale_value_at_open": 51223.4689,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -55031,8 +55031,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787753264.8526032,
-    "fills": 3
+    "last_fill_at": 1787753967.995353,
+    "fills": 4
   },
   {
     "timestamp": 1787747851,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:19:07 (hora de Perú)
+Actualizado: 2026-08-26 09:21:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.42
@@ -503,7 +503,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CA River Plate vs. Independiente Santa F | Over (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vietnam win on 2026-08-26? | Yes (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Max Schoenhaus (BUY) | 50% | 5.00 | 6.1% | ❌ perdida | -5.12 |
-| GoalLineGhost | Vietnam vs. Thailand: O/U 3.5 | Under (BUY) | 75% | 5.00 | 10.0% | ⏳ pendiente | — |
+| GoalLineGhost | Vietnam vs. Thailand: O/U 3.5 | Under (BUY) | 75% | 5.00 | 13.8% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 50% | 5.00 | 8.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente Santa Fe win on 2026- | No (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
