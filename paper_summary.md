@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 17:24:47 (hora de Perú)
+Actualizado: 2026-08-26 17:26:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $512.07
-**Retorno acumulado:** +2.41%
+**Bankroll actual:** $507.05
+**Retorno acumulado:** +1.41%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 17:24:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $132.07)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $162.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 337 | 162 | 40 | +53.42 USD |
+| HomeRunHazard | 339 | 163 | 37 | +51.03 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -53,9 +53,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 13 | 6 | 0 | +1.64 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| kilian7kilian | 0 | 0 | 1 | +0.00 USD |
 | Baronen11 | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -82,24 +82,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
+| GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
-| GoalLineGhost | 10 | 8 | 3 | -16.20 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 312 | 143 | 1 | -42.38 USD |
+| RN1 | 313 | 143 | 0 | -42.08 USD |
 | Sassy-Bucket | 15 | 25 | 3 | -58.10 USD |
-| ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
+| ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 43 | 6 | -80.97 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2221
-- **Aciertos:** 1436 (64.7%)
+- **Apuestas resueltas:** 2228
+- **Aciertos:** 1441 (64.7%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,092.59
-- **ROI sobre lo apostado:** -0.66%
-- **Comisiones pagadas (taker fee):** $199.63 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,127.59
+- **ROI sobre lo apostado:** -0.70%
+- **Comisiones pagadas (taker fee):** $200.09 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -107,9 +107,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1075 | 50.4% | 50.2% | +0.2 pp |
-| 60-79% | 671 | 69.6% | 67.6% | +2.0 pp |
-| 80-94% | 320 | 87.2% | 86.8% | +0.4 pp |
+| 40-59% | 1077 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 673 | 69.7% | 67.6% | +2.1 pp |
+| 80-94% | 323 | 87.3% | 86.8% | +0.5 pp |
 | 95-99% (casi seguro) | 155 | 95.5% | 97.4% | -1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -522,7 +522,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Heather Wats | Heather Watson (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 75% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 79% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Moyuka Uchij | Lucie Havlickova (BUY) | 81% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Moyuka Uchij | Lucie Havlickova (BUY) | 81% | 5.00 | 0.9% | ✅ ganada | +1.13 |
 | HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kei Nishikor | Kei Nishikori (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |

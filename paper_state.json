@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.069047771611,
+  "bankroll": 507.0531977570524,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11570,6 +11570,41 @@
       "timestamp": 1787783016.0626721,
       "bankroll": 512.07,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Hugo Gaston vs Andre Ilagan"
+    },
+    {
+      "timestamp": 1787783199.4845655,
+      "bankroll": 506.94,
+      "event": "lost: ferrariChampions2026 \u2014 ITF W35 Trieste Women: Verena Meliss vs Camilla Zanolini"
+    },
+    {
+      "timestamp": 1787783201.3631196,
+      "bankroll": 508.22,
+      "event": "won: GoalLineGhost \u2014 Will Real Madrid CF win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787783204.6670175,
+      "bankroll": 508.53,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Hurghada 6 (Egypt), hard: Viola Bedini vs Naomi Mckenzie"
+    },
+    {
+      "timestamp": 1787783205.3118844,
+      "bankroll": 509.44,
+      "event": "won: kilian7kilian \u2014 Will Real Madrid CF win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787783205.957263,
+      "bankroll": 511.04,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi"
+    },
+    {
+      "timestamp": 1787783207.9866438,
+      "bankroll": 505.93,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova"
+    },
+    {
+      "timestamp": 1787783209.3844776,
+      "bankroll": 507.05,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova"
     }
   ]
 }
