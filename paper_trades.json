@@ -52737,8 +52737,8 @@
     "title": "Chicago Cubs vs. Arizona Diamondbacks",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 2097.7575,
-    "whale_pct": 0.475,
+    "whale_usd": 2833.5975000000003,
+    "whale_pct": 0.642,
     "whale_value_at_open": 441644.3499,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -52752,8 +52752,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787713784.1985455,
-    "fills": 2
+    "last_fill_at": 1787716664.2388155,
+    "fills": 3
   },
   {
     "timestamp": 1787711219,
