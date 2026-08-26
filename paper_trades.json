@@ -52291,8 +52291,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -52541,8 +52541,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "swisstony"
     ],
@@ -52819,8 +52819,8 @@
     "odds_at_bet": 86,
     "fee_usd": 0.035,
     "odds_ballena": 84,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.78,
     "overlaps_with": [
       "RN1",
       "swisstony"
