@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.13120966177854,
+  "bankroll": 505.0435906141595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10010,6 +10010,11 @@
       "timestamp": 1787705165.8284261,
       "bankroll": 504.13,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Vendula Valdmannova vs Maria Lourdes Carle"
+    },
+    {
+      "timestamp": 1787706081.9432857,
+      "bankroll": 505.04,
+      "event": "won: casualbet2020 \u2014 Valorant: Akave Esports Black vs FUSION X - Map 1 Winner"
     }
   ]
 }
