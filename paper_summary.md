@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:17:16 (hora de Perú)
+Actualizado: 2026-08-26 18:19:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $498.01
-**Retorno acumulado:** -0.40%
+**Bankroll actual:** $497.37
+**Retorno acumulado:** -0.53%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:17:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $198.01)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $232.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,10 +21,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 348 | 166 | 31 | +55.55 USD |
+| HomeRunHazard | 351 | 168 | 26 | +56.21 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
-| SDTrading | 29 | 19 | 4 | +38.30 USD |
+| SDTrading | 30 | 20 | 2 | +37.00 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -93,13 +93,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2248
-- **Aciertos:** 1453 (64.6%)
+- **Apuestas resueltas:** 2255
+- **Aciertos:** 1457 (64.6%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,227.59
+- **Total apostado (suma de stakes):** $11,262.59
 - **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $202.14 (1.80% del capital apostado)
+- **Comisiones pagadas (taker fee):** $202.89 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1089 | 50.1% | 50.2% | -0.0 pp |
-| 60-79% | 679 | 70.0% | 67.6% | +2.3 pp |
-| 80-94% | 325 | 87.4% | 86.8% | +0.6 pp |
+| 40-59% | 1094 | 50.2% | 50.2% | +0.0 pp |
+| 60-79% | 680 | 69.9% | 67.6% | +2.2 pp |
+| 80-94% | 326 | 87.4% | 86.8% | +0.6 pp |
 | 95-99% (casi seguro) | 155 | 95.5% | 97.4% | -1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -540,5 +540,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Katie Swan v | Katie Swan (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kei Nishikor | Kei Nishikori (BUY) | 91% | 5.00 | 2.2% | ✅ ganada | +0.47 |
-| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 45% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |

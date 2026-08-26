@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.01032943519,
+  "bankroll": 497.3677435712148,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11705,6 +11705,41 @@
       "timestamp": 1787786046.6138928,
       "bankroll": 498.01,
       "event": "lost: Sassy-Bucket \u2014 Cleveland Guardians vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1787786292.0728564,
+      "bankroll": 492.87,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. San Diego Padres: O/U 5.5"
+    },
+    {
+      "timestamp": 1787786351.3365045,
+      "bankroll": 496.69,
+      "event": "won: SDTrading \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787786354.492069,
+      "bankroll": 491.57,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787786354.8729956,
+      "bankroll": 496.26,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. San Diego Padres: O/U 8.5"
+    },
+    {
+      "timestamp": 1787786355.7437704,
+      "bankroll": 491.17,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787786355.843976,
+      "bankroll": 496.24,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787786356.2446046,
+      "bankroll": 497.37,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. San Diego Padres"
     }
   ]
 }
