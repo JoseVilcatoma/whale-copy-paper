@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.2853905905695,
+  "bankroll": 493.57596190583575,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9920,6 +9920,26 @@
       "timestamp": 1787702381.0437627,
       "bankroll": 491.29,
       "event": "lost:  \u2014 Monterrey Open: Darja Vidmanova vs Kimberly Birrell"
+    },
+    {
+      "timestamp": 1787703618.1726768,
+      "bankroll": 493.45,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi"
+    },
+    {
+      "timestamp": 1787703619.6348073,
+      "bankroll": 496.3,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Sofia Costoulas vs Jennifer Ruggeri"
+    },
+    {
+      "timestamp": 1787703620.6362016,
+      "bankroll": 491.2,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Yunchaokete Bu vs Rio Noguchi"
+    },
+    {
+      "timestamp": 1787703621.690388,
+      "bankroll": 493.58,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Moez Echargui vs Hugo Dellien"
     }
   ]
 }
