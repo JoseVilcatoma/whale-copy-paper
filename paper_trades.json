@@ -53411,8 +53411,8 @@
     "title": "ITF W75 Bytom Women: Sapfo Sakellaridi vs Angelica Moratelli",
     "outcome": "Sapfo Sakellaridi",
     "side": "BUY",
-    "whale_usd": 1020.8,
-    "whale_pct": 1.574,
+    "whale_usd": 1555.071111,
+    "whale_pct": 2.398,
     "whale_value_at_open": 64836.9842,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -53423,8 +53423,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787731155.2206295,
-    "fills": 1
+    "last_fill_at": 1787732639.8989692,
+    "fills": 2
   },
   {
     "timestamp": 1787731172,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 03:23:00 (hora de Perú)
+Actualizado: 2026-08-26 03:25:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $493.49
@@ -469,7 +469,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 | KT Rolster (BUY) | 61% | 5.00 | 28.5% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3 | G2 (BUY) | 53% | 5.00 | 86.4% | ⏳ pendiente | — |
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 84% | 5.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | ITF W75 Bytom Women: Sapfo Sakellaridi v | Sapfo Sakellaridi (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | ITF W75 Bytom Women: Sapfo Sakellaridi v | Sapfo Sakellaridi (BUY) | 90% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | SnakeBall | Will Club León FC vs. Real Salt Lake end | No (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |
