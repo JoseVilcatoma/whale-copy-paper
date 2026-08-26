@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.9602168556466,
+  "bankroll": 512.2771791197976,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10475,6 +10475,11 @@
       "timestamp": 1787718558.8058658,
       "bankroll": 507.96,
       "event": "lost:  \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787718854.7414606,
+      "bankroll": 512.28,
+      "event": "won: HomeRunHazard \u2014 Spread: Washington Mystics (-1.5)"
     }
   ]
 }
