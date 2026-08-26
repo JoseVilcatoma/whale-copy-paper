@@ -52925,5 +52925,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787713214.3210695,
     "fills": 1
+  },
+  {
+    "timestamp": 1787713469,
+    "timestamp_added": 1787713470.4953232,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "lec-leo-rsl-2026-08-25-total-3pt5",
+    "title": "Club Le\u00f3n FC vs. Real Salt Lake: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 674.0516,
+    "whale_pct": 0.829,
+    "whale_value_at_open": 81295.9531,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787713470.4953365,
+    "fills": 1
   }
 ]
