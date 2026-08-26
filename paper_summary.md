@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 13:05:13 (hora de Perú)
+Actualizado: 2026-08-26 13:07:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.56
@@ -505,7 +505,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Iryna Shymanovich (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 89% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Julieta Pareja (BUY) | 65% | 5.00 | 2.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Julieta Pareja (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 50% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 46% | 5.00 | 12.3% | ⏳ pendiente | — |

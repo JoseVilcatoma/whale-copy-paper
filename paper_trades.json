@@ -56959,8 +56959,8 @@
     "title": "US Open, Qualification WTA: Julieta Pareja vs Iryna Shymanovich",
     "outcome": "Julieta Pareja",
     "side": "BUY",
-    "whale_usd": 6679.847888,
-    "whale_pct": 2.915,
+    "whale_usd": 11503.843388000001,
+    "whale_pct": 5.02,
     "whale_value_at_open": 229173.6999,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -56971,8 +56971,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787765520.0621073,
-    "fills": 3
+    "last_fill_at": 1787767543.766659,
+    "fills": 4
   },
   {
     "timestamp": 1787764676,
