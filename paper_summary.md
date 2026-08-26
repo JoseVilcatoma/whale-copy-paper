@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:23:16 (hora de Perú)
+Actualizado: 2026-08-26 09:25:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:23:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $142.18)
+**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $137.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 295 | 137 | 7 | -45.55 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 53 | 37 | 15 | -78.56 USD |
+|  | 53 | 37 | 16 | -78.56 USD |
 
 ## Análisis general
 
@@ -479,6 +479,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification WTA: Robin Montgo | Jeline Vandromme (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Olympique Lyonnais vs. Fenerbahçe SK: Te | Olympique Lyonnais (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Smouha SC win on 2026-08-26? | No (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -508,4 +509,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 50% | 5.00 | 8.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente Santa Fe win on 2026- | No (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
-| HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
