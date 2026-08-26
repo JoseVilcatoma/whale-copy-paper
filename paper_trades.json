@@ -57302,8 +57302,8 @@
     "title": "US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov",
     "outcome": "Grigor Dimitrov",
     "side": "BUY",
-    "whale_usd": 4115.7519999999995,
-    "whale_pct": 1.938,
+    "whale_usd": 5107.263599999999,
+    "whale_pct": 2.405,
     "whale_value_at_open": 212355.446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -57314,8 +57314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769128.5867908,
-    "fills": 2
+    "last_fill_at": 1787769176.9646869,
+    "fills": 3
   },
   {
     "timestamp": 1787768136,
