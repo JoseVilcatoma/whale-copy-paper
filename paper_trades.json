@@ -55349,5 +55349,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787751773.458218,
     "fills": 2
+  },
+  {
+    "timestamp": 1787752038,
+    "timestamp_added": 1787752038.6667964,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "atp-mena-wehnelt-2026-08-26",
+    "title": "Augsburg: Facundo Mena vs Kai Wehnelt",
+    "outcome": "Facundo Mena",
+    "side": "BUY",
+    "whale_usd": 14105.868,
+    "whale_pct": 8.41,
+    "whale_value_at_open": 167735.0984,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787752086.7900393,
+    "fills": 2
   }
 ]
