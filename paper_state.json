@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.0531977570524,
+  "bankroll": 503.8226422014968,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11605,6 +11605,16 @@
       "timestamp": 1787783209.3844776,
       "bankroll": 507.05,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Moyuka Uchijima vs Lucie Havlickova"
+    },
+    {
+      "timestamp": 1787784150.57209,
+      "bankroll": 501.95,
+      "event": "lost:  \u2014 US Open, Qualification WTA: Nao Hibino vs Anna Siskova"
+    },
+    {
+      "timestamp": 1787784157.1329467,
+      "bankroll": 503.82,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Nao Hibino vs Anna Siskova"
     }
   ]
 }

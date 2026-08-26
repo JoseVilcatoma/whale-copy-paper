@@ -55270,8 +55270,8 @@
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -58365,8 +58365,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 17466.9064,
-    "whale_pct": 6.245,
+    "whale_usd": 19718.310279999998,
+    "whale_pct": 7.05,
     "whale_value_at_open": 279705.3039,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -58379,8 +58379,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787784040.1281834,
-    "fills": 4
+    "last_fill_at": 1787784167.7217405,
+    "fills": 5
   },
   {
     "timestamp": 1787775524,
@@ -59058,8 +59058,8 @@
     "odds_at_bet": 72,
     "fee_usd": 0.07,
     "odds_ballena": 71,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.87,
     "overlaps_with": [
       ""
     ],
@@ -59125,8 +59125,8 @@
     "title": "Monterrey Open: Cristina Bucsa vs Darja Vidmanova",
     "outcome": "Darja Vidmanova",
     "side": "BUY",
-    "whale_usd": 936.6125999999999,
-    "whale_pct": 0.278,
+    "whale_usd": 6638.8182,
+    "whale_pct": 1.97,
     "whale_value_at_open": 336988.0331,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -59137,8 +59137,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787781416.4088047,
-    "fills": 1
+    "last_fill_at": 1787784142.5510192,
+    "fills": 2
   },
   {
     "timestamp": 1787781432,
