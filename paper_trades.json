@@ -58164,8 +58164,8 @@
     "title": "Cleveland Guardians vs. Los Angeles Angels",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 3788.0024000000003,
-    "whale_pct": 1.59,
+    "whale_usd": 5705.472900000001,
+    "whale_pct": 2.394,
     "whale_value_at_open": 238301.1954,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -58176,8 +58176,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787773371.9067771,
-    "fills": 1
+    "last_fill_at": 1787775856.440275,
+    "fills": 2
   },
   {
     "timestamp": 1787773443,
@@ -58239,8 +58239,8 @@
     "title": "US Open, Qualification WTA: Bianca Andreescu vs Veronika Podrez",
     "outcome": "Bianca Andreescu",
     "side": "BUY",
-    "whale_usd": 4453.076,
-    "whale_pct": 1.752,
+    "whale_usd": 5268.996,
+    "whale_pct": 2.073,
     "whale_value_at_open": 254126.8335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -58251,8 +58251,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787775638.5058696,
-    "fills": 3
+    "last_fill_at": 1787775875.4818914,
+    "fills": 4
   },
   {
     "timestamp": 1787774732,
