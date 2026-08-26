@@ -57824,8 +57824,8 @@
     "title": "US Open, Qualification ATP: Remy Bertola vs Harry Wendelken",
     "outcome": "Remy Bertola",
     "side": "BUY",
-    "whale_usd": 4332.0459,
-    "whale_pct": 1.455,
+    "whale_usd": 5706.7513,
+    "whale_pct": 1.917,
     "whale_value_at_open": 297749.7336,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -57836,8 +57836,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787771039.5813663,
-    "fills": 2
+    "last_fill_at": 1787772472.227592,
+    "fills": 3
   },
   {
     "timestamp": 1787771111,
@@ -57848,8 +57848,8 @@
     "title": "Philadelphia: Fiona Crawley vs Ekaterina Ovcharenko",
     "outcome": "Fiona Crawley",
     "side": "BUY",
-    "whale_usd": 659.3379329999999,
-    "whale_pct": 0.218,
+    "whale_usd": 4344.333533000001,
+    "whale_pct": 1.435,
     "whale_value_at_open": 302787.5348,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -57860,8 +57860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787771111.9786277,
-    "fills": 1
+    "last_fill_at": 1787772492.8412163,
+    "fills": 3
   },
   {
     "timestamp": 1787771114,
@@ -57933,6 +57933,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787772380.4011636,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787772414,
+    "timestamp_added": 1787772415.2646484,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-gea-chidekh-2026-08-26",
+    "title": "US Open, Qualification ATP: Arthur Gea vs Clement Chidekh",
+    "outcome": "Arthur Gea",
+    "side": "BUY",
+    "whale_usd": 4137.9988,
+    "whale_pct": 1.618,
+    "whale_value_at_open": 255751.0236,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787772415.2646573,
     "fills": 1
   }
 ]
