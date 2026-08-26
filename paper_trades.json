@@ -58381,5 +58381,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787775370.4342132,
     "fills": 1
+  },
+  {
+    "timestamp": 1787775524,
+    "timestamp_added": 1787775525.2553346,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-ficovic-tobon-2026-08-26",
+    "title": "Kingston 2: Juan Pablo Ficovich vs Miguel Tobon",
+    "outcome": "Miguel Tobon",
+    "side": "BUY",
+    "whale_usd": 3403.4874999999997,
+    "whale_pct": 1.19,
+    "whale_value_at_open": 286035.466,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787775525.2553592,
+    "fills": 1
   }
 ]
