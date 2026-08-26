@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 22:42:23 (hora de Perú)
+Actualizado: 2026-08-25 22:44:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.54
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 22:42:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $127.54)
+**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $117.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 15 | 23 | 2 | -47.85 USD |
-| RN1 | 273 | 125 | 15 | -49.99 USD |
+| RN1 | 273 | 125 | 17 | -49.99 USD |
 | ferrariChampions2026 | 297 | 178 | 6 | -58.54 USD |
 |  | 48 | 33 | 7 | -69.07 USD |
 
@@ -434,6 +434,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-walton-buse-2026-08-25 | Djdjdjekekek, HomeRunHazard |
 | atp-gaston-justo-2026-08-25 | Djdjdjekekek, HomeRunHazard |
 | wta-astakho-ribera-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
+| mlb-cin-sf-2026-08-25 | AV23IUa, RN1 |
 | mlb-phi-sea-2026-08-25-total-8pt5 | AV23IUa, HomeRunHazard |
 | atp-collign-hijikat-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 | atp-cerund-suresh-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
@@ -461,6 +462,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 8.5 | Over (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -489,5 +492,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Winston-Salem Open: Adrian Mannarino vs  | Lorenzo Sonego (BUY) | 91% | 5.00 | 0.1% | ✅ ganada | +0.47 |
-| RN1 | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |

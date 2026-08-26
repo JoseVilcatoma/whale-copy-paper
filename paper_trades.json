@@ -53150,5 +53150,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787715637.525467,
     "fills": 1
+  },
+  {
+    "timestamp": 1787715809,
+    "timestamp_added": 1787715809.7982554,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cin-sf-2026-08-25",
+    "title": "Cincinnati Reds vs. San Francisco Giants",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "whale_usd": 1353.506,
+    "whale_pct": 0.515,
+    "whale_value_at_open": 262783.4368,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787715809.7982657,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787715848,
+    "timestamp_added": 1787715848.5844195,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-pit-sd-2026-08-25",
+    "title": "Pittsburgh Pirates vs. San Diego Padres",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 1697.4940000000001,
+    "whale_pct": 0.64,
+    "whale_value_at_open": 265176.7616,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787715849.1051726,
+    "fills": 2
   }
 ]
