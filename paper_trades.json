@@ -51989,8 +51989,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 30703.322,
-    "whale_pct": 75.206,
+    "whale_usd": 39587.782,
+    "whale_pct": 96.968,
     "whale_value_at_open": 40825.6002,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -52001,7 +52001,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787707942.6058168,
-    "fills": 1
+    "last_fill_at": 1787708359.6918042,
+    "fills": 5
   }
 ]
