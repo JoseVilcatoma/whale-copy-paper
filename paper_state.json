@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.9920556045923,
+  "bankroll": 493.4943148638517,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10580,6 +10580,46 @@
       "timestamp": 1787730065.4386885,
       "bankroll": 514.99,
       "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1787730691.0797045,
+      "bankroll": 509.88,
+      "event": "lost: SDTrading \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787730691.1798797,
+      "bankroll": 514.76,
+      "event": "won: texaskid \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787730691.7833793,
+      "bankroll": 509.64,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787730693.5294642,
+      "bankroll": 504.51,
+      "event": "lost: Djdjdjekekek \u2014 Chicago Cubs vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787730693.6296484,
+      "bankroll": 508.66,
+      "event": "won: RN1 \u2014 Chicago Cubs vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787730694.308871,
+      "bankroll": 503.58,
+      "event": "lost: swisstony \u2014 Chicago Cubs vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787730694.4090717,
+      "bankroll": 498.5,
+      "event": "lost: RN1 \u2014 Chicago Cubs vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787730695.8614972,
+      "bankroll": 493.49,
+      "event": "lost:  \u2014 Chicago Cubs vs. Arizona Diamondbacks"
     }
   ]
 }

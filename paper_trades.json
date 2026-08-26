@@ -45605,8 +45605,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -46146,8 +46146,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "SDTrading"
     ],
@@ -46826,8 +46826,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "SDTrading",
       "texaskid"
@@ -52166,8 +52166,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -52241,8 +52241,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.14,
     "overlaps_with": [
       "Djdjdjekekek"
     ],
@@ -52717,8 +52717,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "Djdjdjekekek",
       "RN1"
@@ -52744,8 +52744,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "Djdjdjekekek",
       "swisstony"
@@ -53038,8 +53038,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.0,
     "overlaps_with": [
       "Djdjdjekekek",
       "RN1",

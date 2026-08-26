@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 02:49:34 (hora de Perú)
+Actualizado: 2026-08-26 02:51:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $514.99
-**Retorno acumulado:** +3.00%
+**Bankroll actual:** $493.49
+**Retorno acumulado:** -1.30%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 02:49:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $334.99)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $353.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,14 +22,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
-| swisstony | 82 | 15 | 4 | +41.57 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
 | HomeRunHazard | 283 | 143 | 3 | +37.29 USD |
+| swisstony | 82 | 16 | 3 | +36.49 USD |
 | casualbet2020 | 18 | 7 | 0 | +30.82 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 25 | 18 | 2 | +24.34 USD |
 | TAIWANNUMBERONE | 6 | 2 | 2 | +20.79 USD |
+| SDTrading | 25 | 19 | 1 | +19.23 USD |
 | ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | SnakeBall | 6 | 0 | 4 | +5.94 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| Djdjdjekekek | 20 | 15 | 1 | +4.55 USD |
+| texaskid | 1 | 0 | 0 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -54,9 +54,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| texaskid | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
+| Djdjdjekekek | 20 | 16 | 0 | -0.57 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
@@ -80,21 +80,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 281 | 130 | 4 | -45.32 USD |
+| RN1 | 282 | 131 | 2 | -46.26 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
-| ferrariChampions2026 | 297 | 178 | 6 | -58.54 USD |
-|  | 50 | 34 | 5 | -67.46 USD |
+| ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
+|  | 50 | 35 | 4 | -72.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2027
-- **Aciertos:** 1308 (64.5%)
+- **Apuestas resueltas:** 2035
+- **Aciertos:** 1310 (64.4%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,123.48
-- **ROI sobre lo apostado:** -0.68%
-- **Comisiones pagadas (taker fee):** $183.05 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,163.48
+- **ROI sobre lo apostado:** -0.89%
+- **Comisiones pagadas (taker fee):** $183.81 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,10 +102,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 993 | 50.4% | 50.2% | +0.2 pp |
-| 60-79% | 609 | 70.0% | 67.6% | +2.4 pp |
+| 40-59% | 998 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 611 | 69.7% | 67.6% | +2.2 pp |
 | 80-94% | 282 | 86.5% | 86.9% | -0.4 pp |
-| 95-99% (casi seguro) | 143 | 96.5% | 97.4% | -0.9 pp |
+| 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -476,7 +476,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 57% | 5.00 | 1.6% | ✅ ganada | +3.66 |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 8.5 | Over (BUY) | 52% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 |  | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 80% | 5.00 | 1.6% | ✅ ganada | +1.20 |
-|  | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
+|  | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 99% | 5.00 | 1.0% | ❌ perdida | -5.00 |
 |  | Set Handicap: Watson (-1.5) vs Boluda (+ | Watson (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.9% | ✅ ganada | +0.78 |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
@@ -488,8 +488,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 86% | 5.00 | 7.4% | ✅ ganada | +0.78 |
 | swisstony | Club León FC vs. Real Salt Lake: O/U 1.5 | Over (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Club León FC win on 2026-08-25? | No (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ⏳ pendiente | — |
-| swisstony | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ❌ perdida | -5.08 |
+| swisstony | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ❌ perdida | -5.08 |
 | swisstony | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 48% | 5.00 | 0.2% | ❌ perdida | -5.13 |
 | RN1 | Minnesota Twins vs. Athletics: O/U 8.5 | Under (BUY) | 46% | 5.00 | 0.2% | ✅ ganada | +5.73 |
 | RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Under (BUY) | 58% | 5.00 | 0.3% | ✅ ganada | +3.52 |
