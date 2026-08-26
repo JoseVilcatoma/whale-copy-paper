@@ -58215,8 +58215,8 @@
     "title": "US Open, Qualification WTA: Arantxa Rus vs Suzan Lamens",
     "outcome": "Arantxa Rus",
     "side": "BUY",
-    "whale_usd": 2238.999,
-    "whale_pct": 0.934,
+    "whale_usd": 6799.995,
+    "whale_pct": 2.837,
     "whale_value_at_open": 239701.9318,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -58227,8 +58227,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787773786.3048258,
-    "fills": 1
+    "last_fill_at": 1787775633.329137,
+    "fills": 2
   },
   {
     "timestamp": 1787774290,
@@ -58239,8 +58239,8 @@
     "title": "US Open, Qualification WTA: Bianca Andreescu vs Veronika Podrez",
     "outcome": "Bianca Andreescu",
     "side": "BUY",
-    "whale_usd": 2636.0784,
-    "whale_pct": 1.037,
+    "whale_usd": 4453.076,
+    "whale_pct": 1.752,
     "whale_value_at_open": 254126.8335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -58251,8 +58251,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787775129.205249,
-    "fills": 2
+    "last_fill_at": 1787775638.5058696,
+    "fills": 3
   },
   {
     "timestamp": 1787774732,
