@@ -57326,8 +57326,8 @@
     "title": "Kingston 2: Paulo Dos Santos vs Andres Martin",
     "outcome": "Andres Martin",
     "side": "BUY",
-    "whale_usd": 2625.002,
-    "whale_pct": 1.198,
+    "whale_usd": 3790.4791999999998,
+    "whale_pct": 1.73,
     "whale_value_at_open": 219065.8416,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -57338,8 +57338,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768136.3086047,
-    "fills": 1
+    "last_fill_at": 1787768372.8058584,
+    "fills": 3
   },
   {
     "timestamp": 1787768201,
@@ -57350,8 +57350,8 @@
     "title": "Kingston 2: Max Purcell vs Garrett Johns",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 611.15,
-    "whale_pct": 0.275,
+    "whale_usd": 1228.85,
+    "whale_pct": 0.553,
     "whale_value_at_open": 222047.6043,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -57362,8 +57362,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768202.3352296,
-    "fills": 1
+    "last_fill_at": 1787768306.3768275,
+    "fills": 2
   },
   {
     "timestamp": 1787768202,
