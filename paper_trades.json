@@ -55915,5 +55915,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787755778.644234,
     "fills": 2
+  },
+  {
+    "timestamp": 1787755858,
+    "timestamp_added": 1787755859.0025573,
+    "username": "SnakeBall",
+    "wallet": "0xc29198ad764bd6adaf7bb971a3757a689ece5d74",
+    "slug": "uzb1-lok-bun-2026-08-26-btts",
+    "title": "Lokomotiv Tashkent vs. FC Bunyodkor: Both Teams to Score",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 695.36,
+    "whale_pct": 1.098,
+    "whale_value_at_open": 63307.4599,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787755859.002571,
+    "fills": 1
   }
 ]
