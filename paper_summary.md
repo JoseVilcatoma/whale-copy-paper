@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 04:37:02 (hora de Perú)
+Actualizado: 2026-08-26 04:39:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $479.49
-**Retorno acumulado:** -4.10%
+**Bankroll actual:** $480.40
+**Retorno acumulado:** -3.92%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 04:37:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $229.49)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $235.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,21 +81,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 282 | 132 | 20 | -51.35 USD |
+| RN1 | 283 | 132 | 19 | -50.44 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 6 | -72.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2042
-- **Aciertos:** 1313 (64.3%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 2043
+- **Aciertos:** 1314 (64.3%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,198.48
-- **ROI sobre lo apostado:** -1.03%
-- **Comisiones pagadas (taker fee):** $184.39 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,203.48
+- **ROI sobre lo apostado:** -1.02%
+- **Comisiones pagadas (taker fee):** $184.43 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1000 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 615 | 69.4% | 67.6% | +1.9 pp |
-| 80-94% | 283 | 86.6% | 86.9% | -0.3 pp |
+| 80-94% | 284 | 86.6% | 86.9% | -0.2 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -492,7 +492,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Al Faisaly Saudi Club win on 2026-0 | No (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 | KT Rolster (BUY) | 61% | 5.00 | 28.5% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3 | G2 (BUY) | 53% | 5.00 | 86.4% | ⏳ pendiente | — |
-| RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 84% | 5.00 | 3.2% | ⏳ pendiente | — |
+| RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 84% | 5.00 | 3.2% | ✅ ganada | +0.91 |
 | RN1 | ITF W75 Bytom Women: Sapfo Sakellaridi v | Sapfo Sakellaridi (BUY) | 90% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
