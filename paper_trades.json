@@ -57800,8 +57800,8 @@
     "title": "US Open, Qualification ATP: Toby Samuel vs Billy Harris",
     "outcome": "Toby Samuel",
     "side": "BUY",
-    "whale_usd": 662.4075,
-    "whale_pct": 0.223,
+    "whale_usd": 1549.7407429999998,
+    "whale_pct": 0.522,
     "whale_value_at_open": 296669.3369,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -57812,8 +57812,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787770996.7559361,
-    "fills": 1
+    "last_fill_at": 1787774457.8163638,
+    "fills": 2
   },
   {
     "timestamp": 1787771032,
