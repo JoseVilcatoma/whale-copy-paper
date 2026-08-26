@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 13:44:52 (hora de Perú)
+Actualizado: 2026-08-26 13:47:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 13:44:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $52.92)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $47.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 2 | +48.17 USD |
-| HomeRunHazard | 303 | 150 | 32 | +46.53 USD |
+| HomeRunHazard | 303 | 150 | 33 | +46.53 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -496,6 +496,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Daniel Altmaier (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Harriet Dart (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Ignacio Buse (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -509,7 +510,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Baronen11 | Will Burnley FC win on 2026-08-26? | No (BUY) | 56% | 5.00 | 110.8% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Max Purcell vs Garrett Johns | Max Purcell (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Paulo Dos Santos vs Andres M | Andres Martin (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 5.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 7.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Galions - Game 3 Win | Galions (BUY) | 65% | 5.00 | 63.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Real Madrid CF (-2.5) | Real Sociedad de Fútbol (BUY) | 61% | 5.00 | 2.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 61% | 5.00 | 32.7% | ⏳ pendiente | — |
@@ -525,4 +526,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Julieta Pareja (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 50% | 5.00 | 2.5% | ⏳ pendiente | — |
-| SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |

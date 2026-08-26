@@ -57302,8 +57302,8 @@
     "title": "US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov",
     "outcome": "Grigor Dimitrov",
     "side": "BUY",
-    "whale_usd": 11869.801799999997,
-    "whale_pct": 5.59,
+    "whale_usd": 15548.750469999997,
+    "whale_pct": 7.322,
     "whale_value_at_open": 212355.446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -57314,8 +57314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769790.2814577,
-    "fills": 6
+    "last_fill_at": 1787769952.8263361,
+    "fills": 7
   },
   {
     "timestamp": 1787768136,
@@ -57631,6 +57631,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787769766.183135,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787769952,
+    "timestamp_added": 1787769953.3788073,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-tor-sea-2026-08-26-total-174pt5",
+    "title": "Toronto Tempo vs. Seattle Storm: O/U 174.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1427.86,
+    "whale_pct": 0.511,
+    "whale_value_at_open": 279214.2119,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787769953.3788176,
     "fills": 1
   }
 ]
