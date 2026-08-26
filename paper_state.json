@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.57596190583575,
+  "bankroll": 494.37719378989374,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9940,6 +9940,26 @@
       "timestamp": 1787703621.690388,
       "bankroll": 493.58,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Moez Echargui vs Hugo Dellien"
+    },
+    {
+      "timestamp": 1787703920.4117591,
+      "bankroll": 488.47,
+      "event": "lost: ferrariChampions2026 \u2014 Winston-Salem Open: Raphael Collignon vs Rinky Hijikata"
+    },
+    {
+      "timestamp": 1787703920.5120142,
+      "bankroll": 483.36,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Raphael Collignon vs Rinky Hijikata"
+    },
+    {
+      "timestamp": 1787703920.6122208,
+      "bankroll": 489.09,
+      "event": "won: ferrariChampions2026 \u2014 Winston-Salem Open: Raphael Collignon vs Rinky Hijikata"
+    },
+    {
+      "timestamp": 1787703920.7123618,
+      "bankroll": 494.38,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Raphael Collignon vs Rinky Hijikata"
     }
   ]
 }
