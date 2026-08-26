@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 14:43:07 (hora de Perú)
+Actualizado: 2026-08-26 14:45:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $525.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 14:43:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $65.01)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $60.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 310 | 142 | 4 | -43.85 USD |
-| Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
+| Sassy-Bucket | 15 | 25 | 1 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 57 | 41 | 10 | -80.40 USD |
 
@@ -453,7 +453,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-pridank-marino-2026-08-26 | , HomeRunHazard |
 | mlb-pit-sd-2026-08-25 | , HomeRunHazard, RN1 |
 | mlb-mil-nym-2026-08-25 | HomeRunHazard, RN1 |
-| mlb-cle-laa-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading |
+| mlb-cle-laa-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading, Sassy-Bucket |
 | atp-daniel-johnson-2026-08-25 | , HomeRunHazard |
 | atp-mejia-draxl-2026-08-25 | , HomeRunHazard, RN1 |
 | wta-galfi-sasnovi-2026-08-25 | , HomeRunHazard, OOOwhyOOO |
@@ -499,6 +499,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 49% | 5.00 | 7.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Cleveland Guardians (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Yue Yuan vs  | Yue Yuan (BUY) | 71% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -512,7 +513,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Kristina Penickova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia: Fiona Crawley vs Ekaterina | Fiona Crawley (BUY) | 96% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia: Fiona Crawley vs Ekaterina | Fiona Crawley (BUY) | 96% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 93% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Despina Papa | Ekaterine Gorgodze (BUY) | 82% | 5.00 | 193.1% | 💰 vendida anticipada | -0.78 |
@@ -528,4 +529,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Susan Bandec | Susan Bandecchi (BUY) | 76% | 5.00 | 4.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 70% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ripley86alien | Real Madrid CF vs. Real Sociedad de Fútb | Over (BUY) | 54% | 5.00 | 83.5% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Rinky Hijikata vs Be | Benjamin Bonzi (BUY) | 75% | 5.00 | 2.7% | ⏳ pendiente | — |

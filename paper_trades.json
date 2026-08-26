@@ -57848,8 +57848,8 @@
     "title": "Philadelphia: Fiona Crawley vs Ekaterina Ovcharenko",
     "outcome": "Fiona Crawley",
     "side": "BUY",
-    "whale_usd": 4344.333533000001,
-    "whale_pct": 1.435,
+    "whale_usd": 5616.551333000001,
+    "whale_pct": 1.855,
     "whale_value_at_open": 302787.5348,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -57860,8 +57860,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787772492.8412163,
-    "fills": 3
+    "last_fill_at": 1787773430.6602383,
+    "fills": 4
   },
   {
     "timestamp": 1787771114,
@@ -58177,6 +58177,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787773371.9067771,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787773443,
+    "timestamp_added": 1787773443.4165587,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-cle-laa-2026-08-26-total-8pt5",
+    "title": "Cleveland Guardians vs. Los Angeles Angels: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2400.0,
+    "whale_pct": 7.822,
+    "whale_value_at_open": 30684.0566,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787773443.4165711,
     "fills": 1
   }
 ]
