@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:08:48 (hora de Perú)
+Actualizado: 2026-08-26 09:10:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.42
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:08:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $155.42)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $150.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 294 | 137 | 6 | -47.15 USD |
+| RN1 | 294 | 137 | 7 | -47.15 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 52 | 37 | 15 | -78.71 USD |
@@ -478,12 +478,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nik Mikovic (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
 |  | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Will FC Bunyodkor win on 2026-08-26? | No (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 1.5 | Over (BUY) | 82% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Adrien Berrut (BUY) | 70% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 74% | 5.00 | 1.4% | ⏳ pendiente | — |
 | Djdjdjekekek | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 90.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 9 | Under (BUY) | 70% | 5.00 | 11.1% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -507,4 +508,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 6.0% | ⏳ pendiente | — |
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 49% | 5.00 | 28.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION (BO5) -  | KT Rolster (BUY) | 60% | 5.00 | 17.3% | ✅ ganada | +3.23 |
