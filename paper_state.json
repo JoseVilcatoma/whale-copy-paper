@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.4673540328302,
+  "bankroll": 503.66217963057983,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11185,6 +11185,16 @@
       "timestamp": 1787770702.2438312,
       "bankroll": 503.47,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Madison Brengle vs Lucrezia Stefanini"
+    },
+    {
+      "timestamp": 1787770853.7185612,
+      "bankroll": 503.82,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones (+0.35 USD)"
+    },
+    {
+      "timestamp": 1787770877.212905,
+      "bankroll": 503.66,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones (-0.16 USD)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 13:59:35 (hora de Perú)
+Actualizado: 2026-08-26 14:01:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.47
-**Retorno acumulado:** +0.69%
+**Bankroll actual:** $503.66
+**Retorno acumulado:** +0.73%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 13:59:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $43.47)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $43.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| HVAB | 12 | 4 | 0 | +2.23 USD |
+| HVAB | 13 | 5 | 0 | +2.42 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -492,15 +492,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-bronzet-iatcenk-2026-08-26 | HomeRunHazard, RN1 |
 | mlb-phi-sea-2026-08-26-total-7pt5 | HomeRunHazard, texaskid |
 | mlb-tb-det-2026-08-26 | HomeRunHazard, SDTrading, wr0ngw4yb3tt0r |
+| atp-virtane-jones-2026-08-26 | HomeRunHazard, OOOwhyOOO |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 81% | 5.00 | 20.3% | 💰 vendida anticipada | -0.16 |
+| OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 79% | 5.00 | 16.2% | 💰 vendida anticipada | +0.35 |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 4 | Under (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Daniel Altmaier (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Daniel Altmaier (BUY) | 47% | 5.00 | 5.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Harriet Dart (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Ignacio Buse (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Tyra Caterin | Tyra Caterina Grant (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -525,5 +528,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | Map Handicap: FURIA (-1.5) vs paiN (+1.5 | FURIA (BUY) | 56% | 5.00 | 5144.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Madison Bren | Lucrezia Stefanini (BUY) | 89% | 5.00 | 2.9% | ✅ ganada | +0.59 |
 | HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Iryna Shymanovich (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 89% | 5.00 | 2.0% | ✅ ganada | +0.59 |
-| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |

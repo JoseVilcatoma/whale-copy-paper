@@ -57618,8 +57618,8 @@
     "title": "Winston-Salem Open: Daniel Altmaier vs Ignacio Buse",
     "outcome": "Daniel Altmaier",
     "side": "BUY",
-    "whale_usd": 4513.9259999999995,
-    "whale_pct": 1.793,
+    "whale_usd": 12730.075499999999,
+    "whale_pct": 5.056,
     "whale_value_at_open": 251761.5343,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -57630,8 +57630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769766.183135,
-    "fills": 1
+    "last_fill_at": 1787770861.0991735,
+    "fills": 3
   },
   {
     "timestamp": 1787769952,
@@ -57708,5 +57708,61 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787770618.2200086,
     "fills": 1
+  },
+  {
+    "timestamp": 1787770830,
+    "timestamp_added": 1787770831.3959506,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-virtane-jones-2026-08-26",
+    "title": "US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones",
+    "outcome": "Jack Pinnington Jones",
+    "side": "BUY",
+    "whale_usd": 816.2008,
+    "whale_pct": 16.228,
+    "whale_value_at_open": 5029.4985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "cerrada_venta",
+    "profit_usd": 0.35,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787770831.3959618,
+    "fills": 1,
+    "fee_total_usd": 0.09,
+    "closed_price": 86
+  },
+  {
+    "timestamp": 1787770872,
+    "timestamp_added": 1787770872.9264207,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-virtane-jones-2026-08-26",
+    "title": "US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones",
+    "outcome": "Jack Pinnington Jones",
+    "side": "BUY",
+    "whale_usd": 1022.26,
+    "whale_pct": 20.325,
+    "whale_value_at_open": 5029.4985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "cerrada_venta",
+    "profit_usd": -0.16,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787770872.926433,
+    "fills": 1,
+    "fee_total_usd": 0.096,
+    "closed_price": 80
   }
 ]
