@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:39:54 (hora de Perú)
+Actualizado: 2026-08-26 12:42:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $484.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:39:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $439.11 en 88 posiciones abiertas (disponible para nuevas apuestas: $45.75)
+**Capital comprometido ahora mismo:** $444.11 en 89 posiciones abiertas (disponible para nuevas apuestas: $40.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
+| BOOMBOYS.Kiritych | 28 | 13 | 2 | +48.17 USD |
 | HomeRunHazard | 296 | 148 | 26 | +46.32 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -490,6 +490,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | Map Handicap: FURIA (-1.5) vs paiN (+1.5 | FURIA (BUY) | 56% | 5.00 | 4313.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Madison Bren | Lucrezia Stefanini (BUY) | 89% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Iryna Shymanovich (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 89% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -519,4 +520,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ✅ ganada | +1.60 |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 1.3% | ✅ ganada | +2.84 |
 | RN1 | US Open, Qualification WTA: Anouk Koever | Linda Klimovicova (BUY) | 54% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ✅ ganada | +1.52 |
