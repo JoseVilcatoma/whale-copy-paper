@@ -50534,8 +50534,8 @@
     "title": "Game Handicap: KT (-1.5) vs HANJIN BRION (+1.5)",
     "outcome": "HANJIN BRION",
     "side": "BUY",
-    "whale_usd": 1490.9224,
-    "whale_pct": 11.433,
+    "whale_usd": 2150.9224,
+    "whale_pct": 16.494,
     "whale_value_at_open": 13040.7661,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -50546,8 +50546,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787695389.1291084,
-    "fills": 1
+    "last_fill_at": 1787710714.7513692,
+    "fills": 2
   },
   {
     "timestamp": 1787695496,
@@ -52260,8 +52260,8 @@
     "title": "Cleveland Guardians vs. Los Angeles Angels",
     "outcome": "Los Angeles Angels",
     "side": "BUY",
-    "whale_usd": 1274.72,
-    "whale_pct": 0.277,
+    "whale_usd": 2872.167466,
+    "whale_pct": 0.624,
     "whale_value_at_open": 460127.2668,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -52272,8 +52272,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710064.454039,
-    "fills": 1
+    "last_fill_at": 1787710663.02924,
+    "fills": 3
   },
   {
     "timestamp": 1787710085,
@@ -52284,8 +52284,8 @@
     "title": "Monterrey Open: Oleksandra Oliynykova vs Diane Parry",
     "outcome": "Diane Parry",
     "side": "BUY",
-    "whale_usd": 1109.26,
-    "whale_pct": 0.376,
+    "whale_usd": 1959.49,
+    "whale_pct": 0.664,
     "whale_value_at_open": 294893.6411,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -52296,8 +52296,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710085.9360805,
-    "fills": 1
+    "last_fill_at": 1787710660.1752965,
+    "fills": 2
   },
   {
     "timestamp": 1787710092,
@@ -52482,8 +52482,8 @@
     "title": "Washington Mystics vs. Phoenix Mercury",
     "outcome": "Washington Mystics",
     "side": "BUY",
-    "whale_usd": 656.14,
-    "whale_pct": 0.136,
+    "whale_usd": 1485.6,
+    "whale_pct": 0.308,
     "whale_value_at_open": 481761.8492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -52496,8 +52496,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710424.2050862,
-    "fills": 1
+    "last_fill_at": 1787710667.3480375,
+    "fills": 2
   },
   {
     "timestamp": 1787710477,
@@ -52534,8 +52534,8 @@
     "title": "Monterrey Open: Oleksandra Oliynykova vs Diane Parry",
     "outcome": "Diane Parry",
     "side": "BUY",
-    "whale_usd": 10078.1823,
-    "whale_pct": 2.081,
+    "whale_usd": 16983.6646,
+    "whale_pct": 3.508,
     "whale_value_at_open": 484179.377,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -52548,8 +52548,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710480.5346706,
-    "fills": 3
+    "last_fill_at": 1787710660.3463366,
+    "fills": 5
   },
   {
     "timestamp": 1787710589,
@@ -52573,6 +52573,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787710590.4792655,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787710617,
+    "timestamp_added": 1787710618.0814557,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "lib-ind1-tol-2026-08-18-total-3pt5",
+    "title": "Independiente del Valle vs. CD Tolima: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 507.2826,
+    "whale_pct": 0.118,
+    "whale_value_at_open": 430908.8726,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787710618.0814676,
     "fills": 1
   }
 ]

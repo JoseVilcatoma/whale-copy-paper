@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:16:35 (hora de Perú)
+Actualizado: 2026-08-25 21:18:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $471.74
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:16:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $41.74)
+**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $36.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 257 | 135 | 28 | -21.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 15 | 22 | 3 | -42.72 USD |
-| RN1 | 271 | 124 | 13 | -48.17 USD |
+| RN1 | 271 | 124 | 14 | -48.17 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
 |  | 47 | 33 | 5 | -69.37 USD |
 
@@ -453,15 +453,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wnba-wsh-phx-2026-08-25 | RN1, Sassy-Bucket |
 | mlb-chc-ari-2026-08-25 | Djdjdjekekek, RN1 |
 | wta-oliynyk-parry-2026-08-25 | RN1, swisstony |
+| lib-ind1-tol-2026-08-18-total-3pt5 | RN1, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 78% | 5.00 | 0.1% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 69% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 69% | 5.00 | 3.5% | ⏳ pendiente | — |
 | RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 54% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Adrian Mannarino vs  | Lorenzo Sonego (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -469,8 +471,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SnakeBall | Will Independiente del Valle win on 2026 | Yes (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. New York Mets | New York Mets (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
-| swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Cleveland Guardians vs. Los Angeles Ange | Los Angeles Angels (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Cleveland Guardians vs. Los Angeles Ange | Los Angeles Angels (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Nicolas Meji | Nicolas Mejia (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -487,4 +489,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 99% | 5.00 | 564.6% | ✅ ganada | +0.05 |
 |  | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 61% | 5.00 | 1.1% | ❌ perdida | -5.10 |
 | HomeRunHazard | Monterrey Open: Panna Udvardy vs Maya Jo | Maya Joint (BUY) | 72% | 4.66 | 2.2% | ❌ perdida | -4.73 |
-|  | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 94% | 5.00 | 4.3% | ⏳ pendiente | — |
