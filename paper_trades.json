@@ -50952,8 +50952,8 @@
     "title": "Kingston 2: Juan Pablo Ficovich vs Evan Zhu",
     "outcome": "Juan Pablo Ficovich",
     "side": "BUY",
-    "whale_usd": 1125.1799999999998,
-    "whale_pct": 1.979,
+    "whale_usd": 1640.8199989999998,
+    "whale_pct": 2.886,
     "whale_value_at_open": 56856.7542,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -50964,8 +50964,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787698518.3002403,
-    "fills": 1
+    "last_fill_at": 1787704725.9027271,
+    "fills": 2
   },
   {
     "timestamp": 1787698745,
@@ -51395,8 +51395,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -51783,8 +51783,8 @@
     "title": "US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich",
     "outcome": "Aliaksandra Sasnovich",
     "side": "BUY",
-    "whale_usd": 14802.747200000002,
-    "whale_pct": 3.37,
+    "whale_usd": 17167.7498,
+    "whale_pct": 3.908,
     "whale_value_at_open": 439253.6271,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -51798,8 +51798,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787704420.4095614,
-    "fills": 8
+    "last_fill_at": 1787704686.265358,
+    "fills": 9
   },
   {
     "timestamp": 1787704274,

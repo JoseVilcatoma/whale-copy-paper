@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:36:56 (hora de Perú)
+Actualizado: 2026-08-25 19:38:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.66
-**Retorno acumulado:** -1.07%
+**Bankroll actual:** $499.74
+**Retorno acumulado:** -0.05%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 19:36:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $494.66 en 99 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $489.66 en 98 posiciones abiertas (disponible para nuevas apuestas: $10.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,6 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| HomeRunHazard | 248 | 124 | 48 | +6.16 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
@@ -50,7 +51,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| HomeRunHazard | 247 | 124 | 49 | +1.08 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | texaskid | 0 | 0 | 1 | +0.00 USD |
@@ -87,14 +87,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1904
-- **Aciertos:** 1228 (64.5%)
+- **Apuestas resueltas:** 1905
+- **Aciertos:** 1229 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,508.82
-- **ROI sobre lo apostado:** -0.94%
-- **Comisiones pagadas (taker fee):** $171.70 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,513.82
+- **ROI sobre lo apostado:** -0.89%
+- **Comisiones pagadas (taker fee):** $171.83 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 926 | 50.0% | 50.2% | -0.2 pp |
+| 40-59% | 927 | 50.1% | 50.2% | -0.2 pp |
 | 60-79% | 582 | 70.4% | 67.6% | +2.8 pp |
 | 80-94% | 266 | 86.1% | 87.0% | -0.9 pp |
 | 95-99% (casi seguro) | 130 | 96.9% | 97.3% | -0.4 pp |
@@ -451,7 +451,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Panna Udvardy vs Maya Jo | Maya Joint (BUY) | 72% | 4.66 | 2.2% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 94% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 83% | 5.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 3.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Baltimore Orioles (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 224.7% | 💰 vendida anticipada | +0.29 |
 | HomeRunHazard | Winston-Salem Open: Miomir Kecmanovic vs | Fabian Marozsan (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -467,7 +467,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 2.3% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Mets (-2.5) | Milwaukee Brewers (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
