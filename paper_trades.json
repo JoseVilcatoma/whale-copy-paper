@@ -51412,8 +51412,8 @@
     "title": "US Open, Qualification ATP: Taro Daniel vs Andrew Johnson",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 7504.195,
-    "whale_pct": 1.561,
+    "whale_usd": 10921.19976,
+    "whale_pct": 2.271,
     "whale_value_at_open": 480797.296,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -51424,8 +51424,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787704274.856372,
-    "fills": 3
+    "last_fill_at": 1787704454.7437184,
+    "fills": 4
   },
   {
     "timestamp": 1787700713,
@@ -51783,8 +51783,8 @@
     "title": "US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich",
     "outcome": "Aliaksandra Sasnovich",
     "side": "BUY",
-    "whale_usd": 12599.744400000001,
-    "whale_pct": 2.868,
+    "whale_usd": 14802.747200000002,
+    "whale_pct": 3.37,
     "whale_value_at_open": 439253.6271,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -51798,8 +51798,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787704353.2271056,
-    "fills": 7
+    "last_fill_at": 1787704420.4095614,
+    "fills": 8
   },
   {
     "timestamp": 1787704274,
@@ -51827,5 +51827,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787704274.9422922,
     "fills": 1
+  },
+  {
+    "timestamp": 1787704379,
+    "timestamp_added": 1787704379.913302,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-mejia-draxl-2026-08-25",
+    "title": "US Open, Qualification ATP: Nicolas Mejia vs Liam Draxl",
+    "outcome": "Liam Draxl",
+    "side": "BUY",
+    "whale_usd": 1489.919988,
+    "whale_pct": 2.133,
+    "whale_value_at_open": 69858.5203,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787704379.9133139,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787704433,
+    "timestamp_added": 1787704434.069547,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-udvardy-joint-2026-08-25",
+    "title": "Monterrey Open: Panna Udvardy vs Maya Joint",
+    "outcome": "Maya Joint",
+    "side": "BUY",
+    "whale_usd": 9629.061099999999,
+    "whale_pct": 2.047,
+    "whale_value_at_open": 470391.5309,
+    "paper_stake_usd": 4.66,
+    "odds_at_bet": 72,
+    "fee_usd": 0.065,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787704434.5106297,
+    "fills": 2
   }
 ]
