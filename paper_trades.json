@@ -54545,5 +54545,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787741641.4984508,
     "fills": 1
+  },
+  {
+    "timestamp": 1787741906,
+    "timestamp_added": 1787741907.36732,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-kt-bro2-2026-08-26-game4",
+    "title": "LoL: KT Rolster vs HANJIN BRION - Game 4 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 3000.0,
+    "whale_pct": 14.958,
+    "whale_value_at_open": 20055.7585,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787741907.367333,
+    "fills": 1
   }
 ]
