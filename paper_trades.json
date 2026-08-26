@@ -59434,5 +59434,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787784807.091859,
     "fills": 2
+  },
+  {
+    "timestamp": 1787785814,
+    "timestamp_added": 1787785814.8575869,
+    "username": "Donghui",
+    "wallet": "0x58776759ee5c70a915138706a1308add8bc5d894",
+    "slug": "wta-bucsa-vidmano-2026-08-26",
+    "title": "Monterrey Open: Cristina Bucsa vs Darja Vidmanova",
+    "outcome": "Cristina Bucsa",
+    "side": "BUY",
+    "whale_usd": 6314.7744,
+    "whale_pct": 20.657,
+    "whale_value_at_open": 30569.9962,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787785814.8575988,
+    "fills": 1
   }
 ]

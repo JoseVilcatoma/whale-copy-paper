@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:09:02 (hora de Perú)
+Actualizado: 2026-08-26 18:11:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $489.74
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:09:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $164.74)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $159.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
-| Donghui | 0 | 3 | 1 | -15.38 USD |
+| Donghui | 0 | 3 | 2 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 313 | 143 | 0 | -42.08 USD |
 | Sassy-Bucket | 15 | 26 | 2 | -63.24 USD |
@@ -506,11 +506,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-swan-stoiana-2026-08-26 | , HomeRunHazard |
 | mlb-mil-nym-2026-08-26-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-lad-atl-2026-08-26 | Djdjdjekekek, HomeRunHazard, texaskid |
+| wta-bucsa-vidmano-2026-08-26 | Donghui, HomeRunHazard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donghui | Monterrey Open: Cristina Bucsa vs Darja  | Cristina Bucsa (BUY) | 45% | 5.00 | 20.7% | ⏳ pendiente | — |
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 46% | 5.00 | 110.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -540,4 +542,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 4.5% | ✅ ganada | +2.97 |
-| HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Rei Sakamoto (BUY) | 97% | 5.00 | 0.6% | ✅ ganada | +0.15 |
