@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.2949463937695,
+  "bankroll": 501.8719692795196,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10295,6 +10295,31 @@
       "timestamp": 1787712587.0893831,
       "bankroll": 497.29,
       "event": "won: RN1 \u2014 Winston-Salem Open: Adrian Mannarino vs Lorenzo Sonego"
+    },
+    {
+      "timestamp": 1787713346.5210779,
+      "bankroll": 499.17,
+      "event": "won: SnakeBall \u2014 Will CR Brasil win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787713348.9904184,
+      "bankroll": 503.85,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Nicolas Mejia vs Liam Draxl"
+    },
+    {
+      "timestamp": 1787713350.1161182,
+      "bankroll": 506.7,
+      "event": "won: HomeRunHazard \u2014 Baltimore Orioles vs. St. Louis Cardinals"
+    },
+    {
+      "timestamp": 1787713350.2163017,
+      "bankroll": 507.0,
+      "event": "won:  \u2014 US Open, Qualification ATP: Nicolas Mejia vs Liam Draxl"
+    },
+    {
+      "timestamp": 1787713353.1265852,
+      "bankroll": 501.87,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Nicolas Mejia vs Liam Draxl"
     }
   ]
 }
