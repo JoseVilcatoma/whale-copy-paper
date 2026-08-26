@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.26782994781837,
+  "bankroll": 494.1123378843263,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10935,6 +10935,11 @@
       "timestamp": 1787759787.2887886,
       "bankroll": 491.27,
       "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Adrien Berrut vs Jeffrey Von Der Schulenburg"
+    },
+    {
+      "timestamp": 1787760099.5050256,
+      "bankroll": 494.11,
+      "event": "won: RN1 \u2014 Augsburg: Facundo Mena vs Kai Wehnelt"
     }
   ]
 }
