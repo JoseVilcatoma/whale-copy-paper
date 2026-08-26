@@ -58313,8 +58313,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 18008.373693,
-    "whale_pct": 6.458,
+    "whale_usd": 27461.908983,
+    "whale_pct": 9.849,
     "whale_value_at_open": 278833.2036,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -58327,8 +58327,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787779317.0769706,
-    "fills": 6
+    "last_fill_at": 1787781278.4637465,
+    "fills": 7
   },
   {
     "timestamp": 1787775029,
@@ -59090,6 +59090,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787781213.7826817,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787781230,
+    "timestamp_added": 1787781230.974037,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "mlb-lad-atl-2026-08-26",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 9165.004200000001,
+    "whale_pct": 83.636,
+    "whale_value_at_open": 10958.1452,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787781230.974049,
     "fills": 1
   }
 ]

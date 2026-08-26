@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 16:53:35 (hora de Perú)
+Actualizado: 2026-08-26 16:55:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 16:53:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $93.32)
+**Capital comprometido ahora mismo:** $445.00 en 89 posiciones abiertas (disponible para nuevas apuestas: $88.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 13 | 6 | 0 | +1.64 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| Djdjdjekekek | 21 | 16 | 1 | +0.95 USD |
+| Djdjdjekekek | 21 | 16 | 2 | +0.95 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | kilian7kilian | 0 | 0 | 1 | +0.00 USD |
@@ -508,6 +508,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 55% | 5.00 | 83.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Martyna Kubk | Martyna Kubka (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Nao Hibino v | Nao Hibino (BUY) | 72% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 118.7% | ⏳ pendiente | — |
@@ -537,4 +538,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Moyuka Uchij | Moyuka Uchijima (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Tyra Caterin | Himeno Sakatsume (BUY) | 44% | 5.00 | 0.7% | ✅ ganada | +6.22 |
 | HomeRunHazard | Kingston 2: Juan Pablo Ficovich vs Migue | Miguel Tobon (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
-| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
