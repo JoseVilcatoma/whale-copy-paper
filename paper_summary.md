@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:58:56 (hora de Perú)
+Actualizado: 2026-08-26 13:01:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.04
-**Retorno acumulado:** -1.19%
+**Bankroll actual:** $503.38
+**Retorno acumulado:** +0.68%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:58:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $449.11 en 90 posiciones abiertas (disponible para nuevas apuestas: $44.93)
+**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $78.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 2 | +48.17 USD |
-| HomeRunHazard | 298 | 149 | 27 | +41.97 USD |
+| HomeRunHazard | 299 | 150 | 25 | +41.42 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -35,6 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 4 | 3 | 0 | +8.46 USD |
+| SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -52,10 +53,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | Djdjdjekekek | 21 | 16 | 0 | +0.95 USD |
-| SnakeBall | 8 | 2 | 1 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 4 | +0.00 USD |
 | kilian7kilian | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -83,21 +83,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | GoalLineGhost | 6 | 7 | 8 | -19.32 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 305 | 140 | 11 | -40.39 USD |
+| RN1 | 308 | 140 | 8 | -37.27 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 56 | 40 | 12 | -77.77 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2130
-- **Aciertos:** 1372 (64.4%)
+- **Apuestas resueltas:** 2136
+- **Aciertos:** 1377 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,638.48
-- **ROI sobre lo apostado:** -0.86%
-- **Comisiones pagadas (taker fee):** $192.34 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,667.59
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $192.81 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -105,10 +105,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1040 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 644 | 69.4% | 67.6% | +1.8 pp |
-| 80-94% | 299 | 87.3% | 86.8% | +0.5 pp |
-| 95-99% (casi seguro) | 147 | 95.9% | 97.4% | -1.5 pp |
+| 40-59% | 1043 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 645 | 69.5% | 67.6% | +1.9 pp |
+| 80-94% | 300 | 87.3% | 86.8% | +0.5 pp |
+| 95-99% (casi seguro) | 148 | 95.9% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -492,6 +492,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Spread: Real Madrid CF (-2.5) | Real Sociedad de Fútbol (BUY) | 61% | 5.00 | 2.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 61% | 5.00 | 32.7% | ⏳ pendiente | — |
 | kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes (BUY) | 84% | 5.00 | 573.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Francisca Jo | Mia Ristic (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -515,10 +516,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Frederico Fe | Jurij Rodionov (BUY) | 99% | 5.00 | 2.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Augsburg: Marvin Moeller vs Matias Soto | Marvin Moeller (BUY) | 88% | 5.00 | 0.9% | ✅ ganada | +0.65 |
 | HomeRunHazard | US Open, Qualification WTA: Linda Fruhvi | Carson Branstine (BUY) | 83% | 5.00 | 2.3% | ✅ ganada | +0.98 |
-| HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Kyrian Jacquet (BUY) | 53% | 4.11 | 5.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Kyrian Jacquet (BUY) | 53% | 4.11 | 5.3% | ❌ perdida | -4.21 |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Alevtina Ibr | Mariam Bolkvadze (BUY) | 70% | 5.00 | 5.9% | ✅ ganada | +2.07 |
 |  | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 55% | 5.00 | 7.7% | ⏳ pendiente | — |
 | texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 50% | 5.00 | 214.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Aziz Dougaz (BUY) | 57% | 5.00 | 4.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Andrea Guerr | Joel Schwaerzler (BUY) | 79% | 5.00 | 6.2% | ❌ perdida | -5.05 |
+| HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Aziz Dougaz (BUY) | 57% | 5.00 | 4.4% | ✅ ganada | +3.66 |

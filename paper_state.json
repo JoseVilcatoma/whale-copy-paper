@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.0426217356142,
+  "bankroll": 503.38240615655957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11100,6 +11100,36 @@
       "timestamp": 1787766619.9234526,
       "bankroll": 494.04,
       "event": "won: HomeRunHazard \u2014 Augsburg: Marvin Moeller vs Matias Soto"
+    },
+    {
+      "timestamp": 1787767183.7681797,
+      "bankroll": 494.69,
+      "event": "won: RN1 \u2014 Will FC Bunyodkor win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787767185.7967196,
+      "bankroll": 494.89,
+      "event": "won: RN1 \u2014 Will PFK Mash AL Mubarek vs. Navbahor end in a draw?"
+    },
+    {
+      "timestamp": 1787767186.799112,
+      "bankroll": 501.65,
+      "event": "won: SnakeBall \u2014 Lokomotiv Tashkent vs. FC Bunyodkor: Both Teams to Score"
+    },
+    {
+      "timestamp": 1787767188.2780473,
+      "bankroll": 503.93,
+      "event": "won: RN1 \u2014 Lokomotiv Tashkent vs. FC Bunyodkor: O/U 4.5"
+    },
+    {
+      "timestamp": 1787767189.0148058,
+      "bankroll": 507.59,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Kyrian Jacquet vs Aziz Dougaz"
+    },
+    {
+      "timestamp": 1787767189.7288988,
+      "bankroll": 503.38,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Kyrian Jacquet vs Aziz Dougaz"
     }
   ]
 }
