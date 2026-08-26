@@ -54349,5 +54349,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787739415.6297767,
     "fills": 1
+  },
+  {
+    "timestamp": 1787739873,
+    "timestamp_added": 1787739874.431539,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "kor-dae1-uls-2026-08-26-total-3pt5",
+    "title": "Daejeon Hana Citizen FC vs. Ulsan HD FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 529.49,
+    "whale_pct": 1.476,
+    "whale_value_at_open": 35878.8312,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787739874.43155,
+    "fills": 1
   }
 ]
