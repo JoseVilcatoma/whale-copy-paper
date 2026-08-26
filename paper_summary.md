@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 14:32:41 (hora de Perú)
+Actualizado: 2026-08-26 14:34:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $492.92
-**Retorno acumulado:** -1.42%
+**Bankroll actual:** $504.91
+**Retorno acumulado:** +0.98%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 14:32:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $22.92)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $49.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| HomeRunHazard | 311 | 151 | 36 | +56.19 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| HomeRunHazard | 308 | 151 | 38 | +47.29 USD |
 | BOOMBOYS.Kiritych | 28 | 14 | 1 | +43.04 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -85,21 +85,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 309 | 142 | 5 | -46.95 USD |
+| RN1 | 310 | 142 | 4 | -43.85 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 57 | 41 | 10 | -80.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2154
-- **Aciertos:** 1389 (64.5%)
+- **Apuestas resueltas:** 2158
+- **Aciertos:** 1393 (64.6%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,757.59
-- **ROI sobre lo apostado:** -0.86%
-- **Comisiones pagadas (taker fee):** $193.95 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,777.59
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $194.31 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -107,9 +107,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1046 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 651 | 69.6% | 67.6% | +2.0 pp |
-| 80-94% | 307 | 87.0% | 86.8% | +0.2 pp |
+| 40-59% | 1047 | 50.3% | 50.2% | +0.2 pp |
+| 60-79% | 653 | 69.7% | 67.6% | +2.1 pp |
+| 80-94% | 308 | 87.0% | 86.8% | +0.2 pp |
 | 95-99% (casi seguro) | 150 | 95.3% | 97.4% | -2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -499,6 +499,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Dalibor Svrc | Dalibor Svrcina (BUY) | 81% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Storm (-4.5) | Toronto Tempo (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Andrew Fenty vs Keshav Chopr | Andrew Fenty (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 84% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -506,12 +507,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Kristina Penickova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fiona Crawley vs Ekaterina | Fiona Crawley (BUY) | 96% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 93% | 5.00 | 1.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 93% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Despina Papa | Ekaterine Gorgodze (BUY) | 82% | 5.00 | 193.1% | 💰 vendida anticipada | -0.78 |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 81% | 5.00 | 20.3% | 💰 vendida anticipada | -0.16 |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 79% | 5.00 | 16.2% | 💰 vendida anticipada | +0.35 |
-| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 4 | Under (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 4 | Under (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | HomeRunHazard | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Daniel Altmaier (BUY) | 47% | 5.00 | 5.1% | ⏳ pendiente | — |
@@ -528,4 +529,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Max Purcell vs Garrett Johns | Max Purcell (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Paulo Dos Santos vs Andres M | Andres Martin (BUY) | 75% | 5.00 | 5.7% | ✅ ganada | +1.60 |
 | HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 9.5% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: TLN Pirates vs Galions - Game 3 Win | Galions (BUY) | 65% | 5.00 | 63.8% | ⏳ pendiente | — |

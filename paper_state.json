@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.9153621777075,
+  "bankroll": 504.91116059382495,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11235,6 +11235,26 @@
       "timestamp": 1787772199.5463448,
       "bankroll": 492.92,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Paulo Dos Santos vs Andres Martin"
+    },
+    {
+      "timestamp": 1787772819.3420541,
+      "bankroll": 496.01,
+      "event": "won: RN1 \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787772819.4422667,
+      "bankroll": 498.98,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787772819.5881855,
+      "bankroll": 503.86,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787772824.826331,
+      "bankroll": 504.91,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 4.5"
     }
   ]
 }
