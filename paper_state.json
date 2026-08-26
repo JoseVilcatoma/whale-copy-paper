@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.08773261011083,
+  "bankroll": 487.13523766061587,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10910,6 +10910,11 @@
       "timestamp": 1787756846.7954586,
       "bankroll": 487.09,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Mak Mikovic vs Nik Mikovic"
+    },
+    {
+      "timestamp": 1787757669.0235434,
+      "bankroll": 487.14,
+      "event": "won: RN1 \u2014 ITF M15 Vienna Men: Aleksandr Braynin vs Paul Schmid"
     }
   ]
 }

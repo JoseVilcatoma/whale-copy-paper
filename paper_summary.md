@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:20:19 (hora de Perú)
+Actualizado: 2026-08-26 10:22:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $487.09
-**Retorno acumulado:** -2.58%
+**Bankroll actual:** $487.14
+**Retorno acumulado:** -2.57%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:20:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $37.09)
+**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $32.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 289 | 145 | 18 | +44.36 USD |
+| HomeRunHazard | 289 | 145 | 19 | +44.36 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -82,19 +82,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | GoalLineGhost | 1 | 4 | 16 | -17.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 296 | 137 | 17 | -45.19 USD |
+| RN1 | 297 | 137 | 17 | -45.14 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 53 | 38 | 16 | -83.66 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2092
-- **Aciertos:** 1346 (64.3%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 2093
+- **Aciertos:** 1347 (64.4%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,448.48
-- **ROI sobre lo apostado:** -0.95%
+- **Total apostado (suma de stakes):** $10,453.48
+- **ROI sobre lo apostado:** -0.94%
 - **Comisiones pagadas (taker fee):** $188.98 (1.81% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
 
@@ -107,7 +107,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1023 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 632 | 69.3% | 67.5% | +1.8 pp |
 | 80-94% | 292 | 87.0% | 86.9% | +0.1 pp |
-| 95-99% (casi seguro) | 145 | 95.9% | 97.4% | -1.5 pp |
+| 95-99% (casi seguro) | 146 | 95.9% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -486,12 +486,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Thomas Fancutt vs Luis Guto  | Luis Guto Miguel (BUY) | 81% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Genaro Alber | Genaro Alberto Olivieri (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Hurghada 6 (Egy | Naomi Mckenzie (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Lokomotiv Tashkent vs. FC Bunyodkor: O/U | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alena Kovackova (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 13.2% | ⏳ pendiente | — |
+| AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 19.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Francesca Pace (BUY) | 86% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 42% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 41% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -506,7 +508,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 62% | 5.00 | 13.5% | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 63% | 5.00 | 7.6% | ⏳ pendiente | — |
-| RN1 | ITF M15 Vienna Men: Aleksandr Braynin vs | Aleksandr Braynin (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | ITF M15 Vienna Men: Aleksandr Braynin vs | Aleksandr Braynin (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | RN1 | Will PFK Mash AL Mubarek vs. Navbahor en | No (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Lyn 1896 FK win on 2026-08-26? | No (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Asyut Petroleum SC win on 2026-08-2 | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -514,5 +516,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 52% | 5.00 | 30.5% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Robin Montgo | Jeline Vandromme (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Olympique Lyonnais vs. Fenerbahçe SK: Te | Olympique Lyonnais (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
-| GoalLineGhost | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
-| GoalLineGhost | Will Smouha SC win on 2026-08-26? | No (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
