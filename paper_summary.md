@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 11:56:04 (hora de Perú)
+Actualizado: 2026-08-26 11:58:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.89
-**Retorno acumulado:** -1.02%
+**Bankroll actual:** $496.02
+**Retorno acumulado:** -0.80%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 11:56:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $494.11 en 99 posiciones abiertas (disponible para nuevas apuestas: $0.78)
+**Capital comprometido ahora mismo:** $489.11 en 98 posiciones abiertas (disponible para nuevas apuestas: $6.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 291 | 145 | 24 | +51.87 USD |
+| HomeRunHazard | 292 | 145 | 23 | +53.00 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -89,14 +89,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2099
-- **Aciertos:** 1352 (64.4%)
+- **Apuestas resueltas:** 2100
+- **Aciertos:** 1353 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,483.48
-- **ROI sobre lo apostado:** -0.87%
-- **Comisiones pagadas (taker fee):** $189.46 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,488.48
+- **ROI sobre lo apostado:** -0.86%
+- **Comisiones pagadas (taker fee):** $189.51 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -106,7 +106,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1025 | 50.4% | 50.2% | +0.2 pp |
 | 60-79% | 635 | 69.3% | 67.5% | +1.7 pp |
-| 80-94% | 293 | 87.0% | 86.9% | +0.2 pp |
+| 80-94% | 294 | 87.1% | 86.8% | +0.2 pp |
 | 95-99% (casi seguro) | 146 | 95.9% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -503,12 +503,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Anouk Koever | Linda Klimovicova (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Thomas Fancutt vs Luis Guto  | Luis Guto Miguel (BUY) | 81% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Thomas Fancutt vs Luis Guto  | Luis Guto Miguel (BUY) | 81% | 5.00 | 0.5% | ✅ ganada | +1.13 |
 | HomeRunHazard | US Open, Qualification ATP: Genaro Alber | Genaro Alberto Olivieri (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Hurghada 6 (Egy | Naomi Mckenzie (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Lokomotiv Tashkent vs. FC Bunyodkor: O/U | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alena Kovackova (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 5.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 12.2% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 36.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Francesca Pace (BUY) | 86% | 5.00 | 1.9% | ✅ ganada | +0.78 |
 | HomeRunHazard | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 42% | 5.00 | 2.3% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.8912913726984,
+  "bankroll": 496.0171308788712,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10945,6 +10945,11 @@
       "timestamp": 1787761032.9076142,
       "bankroll": 494.89,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Francesca Pace vs Enola Chiesa"
+    },
+    {
+      "timestamp": 1787763428.0493665,
+      "bankroll": 496.02,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Thomas Fancutt vs Luis Guto Miguel"
     }
   ]
 }
