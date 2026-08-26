@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.27949691987516,
+  "bankroll": 496.34282994781836,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10920,6 +10920,16 @@
       "timestamp": 1787757914.2370844,
       "bankroll": 491.28,
       "event": "won: HomeRunHazard \u2014 KBO: Doosan Bears vs. KT Wiz"
+    },
+    {
+      "timestamp": 1787758234.7789648,
+      "bankroll": 494.65,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Cezar Cretu vs Miguel Damas"
+    },
+    {
+      "timestamp": 1787758235.3387802,
+      "bankroll": 496.34,
+      "event": "won: RN1 \u2014 Augsburg: Cezar Cretu vs Miguel Damas"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:28:35 (hora de Perú)
+Actualizado: 2026-08-26 10:30:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.28
-**Retorno acumulado:** -1.74%
+**Bankroll actual:** $496.34
+**Retorno acumulado:** -0.73%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:28:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $475.00 en 95 posiciones abiertas (disponible para nuevas apuestas: $16.28)
+**Capital comprometido ahora mismo:** $470.00 en 94 posiciones abiertas (disponible para nuevas apuestas: $26.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| HomeRunHazard | 291 | 145 | 18 | +51.87 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| HomeRunHazard | 290 | 145 | 19 | +48.50 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -82,21 +82,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | GoalLineGhost | 1 | 4 | 16 | -17.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 297 | 137 | 21 | -45.14 USD |
+| RN1 | 298 | 137 | 21 | -43.45 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 53 | 38 | 16 | -83.66 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2094
-- **Aciertos:** 1348 (64.4%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 2096
+- **Aciertos:** 1350 (64.4%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,458.48
-- **ROI sobre lo apostado:** -0.90%
-- **Comisiones pagadas (taker fee):** $189.09 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.90% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,468.48
+- **ROI sobre lo apostado:** -0.86%
+- **Comisiones pagadas (taker fee):** $189.26 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -104,8 +104,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1024 | 50.4% | 50.2% | +0.2 pp |
-| 60-79% | 632 | 69.3% | 67.5% | +1.8 pp |
+| 40-59% | 1025 | 50.4% | 50.2% | +0.2 pp |
+| 60-79% | 633 | 69.4% | 67.5% | +1.8 pp |
 | 80-94% | 292 | 87.0% | 86.9% | +0.1 pp |
 | 95-99% (casi seguro) | 146 | 95.9% | 97.4% | -1.5 pp |
 
@@ -488,7 +488,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Will Qizilqum Zarafshon win on 2026-08-2 | No (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -517,4 +518,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 63% | 5.00 | 7.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Vienna Men: Aleksandr Braynin vs | Aleksandr Braynin (BUY) | 99% | 5.00 | 0.4% | ✅ ganada | +0.05 |
 | RN1 | Will PFK Mash AL Mubarek vs. Navbahor en | No (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Will Lyn 1896 FK win on 2026-08-26? | No (BUY) | 51% | 5.00 | 0.9% | ⏳ pendiente | — |
