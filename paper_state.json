@@ -1,5 +1,5 @@
 {
-  "bankroll": 538.8892220605151,
+  "bankroll": 541.6928630861562,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11335,6 +11335,16 @@
       "timestamp": 1787776641.1920118,
       "bankroll": 538.89,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Toby Samuel vs Billy Harris"
+    },
+    {
+      "timestamp": 1787776953.2698162,
+      "bankroll": 541.49,
+      "event": "won: 11vsldfdsgfkjgos \u2014 ITF MEN - SINGLES: M15 Monastir 28 (Tunisia), hard: Hugo Cardinaud vs Ilya Polonskiy"
+    },
+    {
+      "timestamp": 1787776956.1364982,
+      "bankroll": 541.69,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Fiona Crawley vs Ekaterina Ovcharenko"
     }
   ]
 }
