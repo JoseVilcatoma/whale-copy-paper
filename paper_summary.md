@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:32:48 (hora de Perú)
+Actualizado: 2026-08-26 10:34:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.34
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:32:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $16.34)
+**Capital comprometido ahora mismo:** $485.00 en 97 posiciones abiertas (disponible para nuevas apuestas: $11.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| texaskid | 1 | 0 | 0 | +4.88 USD |
+| texaskid | 1 | 0 | 1 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -462,7 +462,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ind1-tol-2026-08-18-total-3pt5 | RN1, swisstony |
 | mlb-min-oak-2026-08-25-total-8pt5 | HomeRunHazard, RN1 |
 | lec-leo-rsl-2026-08-25-leo | SnakeBall, swisstony |
-| mlb-chc-ari-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading |
+| mlb-chc-ari-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading, texaskid |
 | cs2-aur1-g2-2026-08-26 | , SPCEXBUYER |
 | atp-kopp-brunold-2026-08-26 | HomeRunHazard, RN1 |
 | atp-serna-barton-2026-08-26 | HomeRunHazard, RN1 |
@@ -488,13 +488,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 50% | 5.00 | 214.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Aziz Dougaz (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andrea Guerr | Joel Schwaerzler (BUY) | 79% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | Will Qizilqum Zarafshon win on 2026-08-2 | No (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Anouk Koever | Linda Klimovicova (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Thomas Fancutt vs Luis Guto  | Luis Guto Miguel (BUY) | 81% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -517,4 +518,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 50% | 5.00 | 9.2% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 62% | 5.00 | 13.5% | ⏳ pendiente | — |
 | RN1 | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 63% | 5.00 | 7.6% | ⏳ pendiente | — |

@@ -56391,8 +56391,8 @@
     "title": "ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Alice Rame vs Katerina Tsygourova",
     "outcome": "Alice Rame",
     "side": "BUY",
-    "whale_usd": 1092.44,
-    "whale_pct": 0.59,
+    "whale_usd": 2431.5600000000004,
+    "whale_pct": 1.312,
     "whale_value_at_open": 185290.9542,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -56403,8 +56403,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787757863.2859526,
-    "fills": 1
+    "last_fill_at": 1787758447.2356286,
+    "fills": 2
   },
   {
     "timestamp": 1787757916,
@@ -56555,6 +56555,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787758315.1806622,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787758422,
+    "timestamp_added": 1787758423.0938056,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-chc-ari-2026-08-26-total-8pt5",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 32973.7562,
+    "whale_pct": 214.842,
+    "whale_value_at_open": 15347.9078,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787758423.0938163,
     "fills": 1
   }
 ]
