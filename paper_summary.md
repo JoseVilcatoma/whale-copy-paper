@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 06:16:01 (hora de Perú)
+Actualizado: 2026-08-26 06:18:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.30
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 06:16:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $213.30)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $208.30)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 292 | 136 | 6 | -47.64 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 51 | 35 | 13 | -68.80 USD |
+|  | 51 | 35 | 14 | -68.80 USD |
 
 ## Análisis general
 
@@ -472,6 +472,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification ATP: Kei Nishikor | Michael Antonius (BUY) | 41% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Under (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Martin Krumich (BUY) | 61% | 5.00 | 5.7% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Juan Estevez vs Benito Sanchez | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -501,4 +502,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 6.9% | ✅ ganada | +4.88 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 2 | KT Rolster (BUY) | 67% | 5.00 | 240.8% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Paper Rex vs Nongshim RedForce | Nongshim RedForce (BUY) | 72% | 5.00 | 99.8% | ✅ ganada | +1.87 |
