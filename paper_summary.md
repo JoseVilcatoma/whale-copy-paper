@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:12:05 (hora de Perú)
+Actualizado: 2026-08-25 19:14:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.29
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 19:12:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $11.29)
+**Capital comprometido ahora mismo:** $490.00 en 98 posiciones abiertas (disponible para nuevas apuestas: $1.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| HomeRunHazard | 243 | 122 | 47 | -1.39 USD |
+| HomeRunHazard | 243 | 122 | 49 | -1.39 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -445,6 +445,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Kansas City Royals (BUY) | 83% | 5.00 | 0.1% | ⏳ pendiente | — |
+| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 99% | 5.00 | 1127.0% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Atlanta Braves (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -473,5 +475,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 61% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
 | winwin518168 | Spread: Chicago Sky (-6.5) | Chicago Sky (BUY) | 58% | 5.00 | 73.2% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Chicago Sky (-6.5) | Connecticut Sun (BUY) | 45% | 5.00 | 0.7% | ⏳ pendiente | — |
-|  | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 72% | 5.00 | 5.0% | ⏳ pendiente | — |
