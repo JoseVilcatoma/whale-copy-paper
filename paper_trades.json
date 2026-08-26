@@ -55409,8 +55409,8 @@
     "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Adrien Berrut vs Jeffrey Von Der Schulenburg",
     "outcome": "Adrien Berrut",
     "side": "BUY",
-    "whale_usd": 1734.4264,
-    "whale_pct": 1.025,
+    "whale_usd": 2637.6763,
+    "whale_pct": 1.559,
     "whale_value_at_open": 169236.1826,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -55421,8 +55421,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787753180.8360639,
-    "fills": 2
+    "last_fill_at": 1787754340.4086301,
+    "fills": 3
   },
   {
     "timestamp": 1787753194,
@@ -55557,8 +55557,8 @@
     "title": "Augsburg: Facundo Mena vs Kai Wehnelt",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 13764.123651,
-    "whale_pct": 7.896,
+    "whale_usd": 15962.382651,
+    "whale_pct": 9.157,
     "whale_value_at_open": 174312.6482,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -55571,8 +55571,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787753451.539051,
-    "fills": 4
+    "last_fill_at": 1787754404.8186045,
+    "fills": 6
   },
   {
     "timestamp": 1787753550,
@@ -55668,6 +55668,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787754223.292702,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787754366,
+    "timestamp_added": 1787754367.4828322,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-tor-sea-2026-08-26-total-174pt5",
+    "title": "Toronto Tempo vs. Seattle Storm: O/U 174.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 13346.158774999998,
+    "whale_pct": 29.169,
+    "whale_value_at_open": 45753.8536,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787754367.482846,
     "fills": 1
   }
 ]
