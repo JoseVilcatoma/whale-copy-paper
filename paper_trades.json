@@ -54325,5 +54325,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787739244.5863385,
     "fills": 1
+  },
+  {
+    "timestamp": 1787739414,
+    "timestamp_added": 1787739415.6297648,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "kor-gwo-gwa-2026-08-26-gwo",
+    "title": "Will Gangwon FC win on 2026-08-26?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1207.0016,
+    "whale_pct": 3.685,
+    "whale_value_at_open": 32753.8842,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787739415.6297767,
+    "fills": 1
   }
 ]
