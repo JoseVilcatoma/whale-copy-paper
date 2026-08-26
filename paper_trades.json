@@ -57302,8 +57302,8 @@
     "title": "US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov",
     "outcome": "Grigor Dimitrov",
     "side": "BUY",
-    "whale_usd": 663.7479999999999,
-    "whale_pct": 0.313,
+    "whale_usd": 4115.7519999999995,
+    "whale_pct": 1.938,
     "whale_value_at_open": 212355.446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -57314,8 +57314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768015.4519603,
-    "fills": 1
+    "last_fill_at": 1787769128.5867908,
+    "fills": 2
   },
   {
     "timestamp": 1787768136,
@@ -57448,8 +57448,8 @@
     "title": "Winston-Salem Open: Rinky Hijikata vs Benjamin Bonzi",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 686.424,
-    "whale_pct": 0.312,
+    "whale_usd": 5912.424,
+    "whale_pct": 2.687,
     "whale_value_at_open": 220016.2575,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -57460,8 +57460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768862.03641,
-    "fills": 1
+    "last_fill_at": 1787769026.8028777,
+    "fills": 2
   },
   {
     "timestamp": 1787768876,
