@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.02339013813054,
+  "bankroll": 488.91386287780693,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10960,6 +10960,61 @@
       "timestamp": 1787763735.9618435,
       "bankroll": 495.02,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Elena Pridankina vs Rebecca Marino"
+    },
+    {
+      "timestamp": 1787764039.9123726,
+      "bankroll": 496.22,
+      "event": "won: GoalLineGhost \u2014 Will Thailand win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787764040.1770978,
+      "bankroll": 491.11,
+      "event": "lost:  \u2014 Will Vietnam win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787764040.4292033,
+      "bankroll": 485.99,
+      "event": "lost: GoalLineGhost \u2014 Vietnam vs. Thailand: O/U 2.5"
+    },
+    {
+      "timestamp": 1787764040.674713,
+      "bankroll": 492.21,
+      "event": "won: GoalLineGhost \u2014 Will Vietnam win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787764042.6757324,
+      "bankroll": 497.09,
+      "event": "won: GoalLineGhost \u2014 Vietnam vs. Thailand: O/U 2.5"
+    },
+    {
+      "timestamp": 1787764042.9366672,
+      "bankroll": 492.03,
+      "event": "lost: GoalLineGhost \u2014 Vietnam vs. Thailand: O/U 3.5"
+    },
+    {
+      "timestamp": 1787764043.0368865,
+      "bankroll": 486.91,
+      "event": "lost: GoalLineGhost \u2014 Will Vietnam win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787764043.6195157,
+      "bankroll": 487.5,
+      "event": "won: GoalLineGhost \u2014 Vietnam vs. Thailand: O/U 4.5"
+    },
+    {
+      "timestamp": 1787764045.1629524,
+      "bankroll": 488.55,
+      "event": "won: GoalLineGhost \u2014 Vietnam vs. Thailand: O/U 1.5"
+    },
+    {
+      "timestamp": 1787764045.6318681,
+      "bankroll": 494.06,
+      "event": "won:  \u2014 Vietnam vs. Thailand: O/U 2.5"
+    },
+    {
+      "timestamp": 1787764051.6631434,
+      "bankroll": 488.91,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Genaro Alberto Olivieri vs Tomas Barrios"
     }
   ]
 }
