@@ -55597,5 +55597,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787753551.3523657,
     "fills": 1
+  },
+  {
+    "timestamp": 1787753807,
+    "timestamp_added": 1787753808.3075588,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "lal-rea-rso-2026-08-26-rso",
+    "title": "Will Real Sociedad de F\u00fatbol win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2691.0,
+    "whale_pct": 1.788,
+    "whale_value_at_open": 150515.9648,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787753808.3075714,
+    "fills": 1
   }
 ]
