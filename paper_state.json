@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.87094364564393,
+  "bankroll": 498.29624151798436,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10735,6 +10735,16 @@
       "timestamp": 1787742271.7260883,
       "bankroll": 497.87,
       "event": "won: HomeRunHazard \u2014 Augsburg: Juan Manuel La Serna vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787742581.0082138,
+      "bankroll": 492.79,
+      "event": "lost: RN1 \u2014 ITF M15 Pecs Men: Herman Hoeyeraal vs Filip Drab"
+    },
+    {
+      "timestamp": 1787742582.4633954,
+      "bankroll": 498.3,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Vaal Urankar vs Nicolo Toffanin"
     }
   ]
 }
