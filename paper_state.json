@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.2445026025386,
+  "bankroll": 498.3123597453957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10045,6 +10045,11 @@
       "timestamp": 1787707324.696882,
       "bankroll": 496.24,
       "event": "won: Sassy-Bucket \u2014 Texas Rangers vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1787707574.8778458,
+      "bankroll": 498.31,
+      "event": "won:  \u2014 US Open, Qualification ATP: Seong-Chan Hong vs Nikoloz Basilashvili"
     }
   ]
 }

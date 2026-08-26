@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 20:24:14 (hora de Perú)
+Actualizado: 2026-08-25 20:26:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $496.24
-**Retorno acumulado:** -0.75%
+**Bankroll actual:** $498.31
+**Retorno acumulado:** -0.34%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 20:24:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $434.66 en 87 posiciones abiertas (disponible para nuevas apuestas: $61.58)
+**Capital comprometido ahora mismo:** $429.66 en 86 posiciones abiertas (disponible para nuevas apuestas: $68.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,19 +82,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 271 | 123 | 3 | -43.13 USD |
 | Sassy-Bucket | 14 | 22 | 2 | -48.45 USD |
+|  | 44 | 31 | 10 | -67.40 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
-|  | 43 | 31 | 11 | -69.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1920
-- **Aciertos:** 1240 (64.6%)
+- **Apuestas resueltas:** 1921
+- **Aciertos:** 1241 (64.6%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,588.82
-- **ROI sobre lo apostado:** -0.92%
-- **Comisiones pagadas (taker fee):** $172.85 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.88% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,593.82
+- **ROI sobre lo apostado:** -0.90%
+- **Comisiones pagadas (taker fee):** $172.92 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -103,7 +103,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 932 | 50.0% | 50.2% | -0.2 pp |
-| 60-79% | 584 | 70.4% | 67.6% | +2.8 pp |
+| 60-79% | 585 | 70.4% | 67.6% | +2.8 pp |
 | 80-94% | 272 | 86.4% | 87.0% | -0.6 pp |
 | 95-99% (casi seguro) | 132 | 97.0% | 97.3% | -0.3 pp |
 
@@ -470,7 +470,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 99% | 5.00 | 1127.0% | ✅ ganada | +0.05 |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Atlanta Braves (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Seong-Chan H | Seong-Chan Hong (BUY) | 70% | 5.00 | 2.5% | ⏳ pendiente | — |
+|  | US Open, Qualification ATP: Seong-Chan H | Seong-Chan Hong (BUY) | 70% | 5.00 | 2.5% | ✅ ganada | +2.07 |
 |  | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 85% | 5.00 | 0.8% | ✅ ganada | +0.84 |
 | HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 2.3% | ⏳ pendiente | — |
