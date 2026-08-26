@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.761386083047,
+  "bankroll": 522.9370062380858,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10490,6 +10490,21 @@
       "timestamp": 1787724410.670749,
       "bankroll": 521.76,
       "event": "won: RN1 \u2014 Will Barnsley FC win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787726265.7478132,
+      "bankroll": 521.96,
+      "event": "won: SnakeBall \u2014 Club Le\u00f3n FC vs. Real Salt Lake: O/U 5.5"
+    },
+    {
+      "timestamp": 1787726266.055159,
+      "bankroll": 522.74,
+      "event": "won: SnakeBall \u2014 Club Le\u00f3n FC vs. Real Salt Lake: O/U 4.5"
+    },
+    {
+      "timestamp": 1787726267.6991043,
+      "bankroll": 522.94,
+      "event": "won: SnakeBall \u2014 Club Le\u00f3n FC vs. Real Salt Lake: Real Salt Lake O/U 2.5"
     }
   ]
 }

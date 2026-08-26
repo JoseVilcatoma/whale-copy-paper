@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 01:35:49 (hora de Perú)
+Actualizado: 2026-08-26 01:37:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $521.76
-**Retorno acumulado:** +4.35%
+**Bankroll actual:** $522.94
+**Retorno acumulado:** +4.59%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 01:35:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $251.76)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $267.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,13 +42,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
+| SnakeBall | 5 | 0 | 5 | +3.10 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | HVAB | 12 | 4 | 0 | +2.23 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
-| SnakeBall | 2 | 0 | 8 | +1.92 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -87,14 +87,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2009
-- **Aciertos:** 1297 (64.6%)
+- **Apuestas resueltas:** 2012
+- **Aciertos:** 1300 (64.6%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,033.48
-- **ROI sobre lo apostado:** -0.62%
-- **Comisiones pagadas (taker fee):** $181.32 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,048.48
+- **ROI sobre lo apostado:** -0.61%
+- **Comisiones pagadas (taker fee):** $181.38 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -104,8 +104,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 981 | 50.5% | 50.2% | +0.3 pp |
 | 60-79% | 607 | 69.9% | 67.6% | +2.3 pp |
-| 80-94% | 280 | 86.4% | 86.9% | -0.5 pp |
-| 95-99% (casi seguro) | 141 | 96.5% | 97.4% | -0.9 pp |
+| 80-94% | 281 | 86.5% | 86.9% | -0.4 pp |
+| 95-99% (casi seguro) | 143 | 96.5% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -465,7 +465,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | SnakeBall | Will Club León FC vs. Real Salt Lake end | No (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |
-| SnakeBall | Club León FC vs. Real Salt Lake: Real Sa | Under (BUY) | 96% | 5.00 | 1.1% | ⏳ pendiente | — |
+| SnakeBall | Club León FC vs. Real Salt Lake: Real Sa | Under (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
 | SnakeBall | Will Club León FC win on 2026-08-25? | Yes (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 35.8% | ❌ perdida | -5.10 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 41% | 5.00 | 3.0% | ✅ ganada | +7.05 |
@@ -478,8 +478,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 80% | 5.00 | 1.6% | ✅ ganada | +1.20 |
 |  | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Set Handicap: Watson (-1.5) vs Boluda (+ | Watson (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.9% | ⏳ pendiente | — |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
+| SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.9% | ✅ ganada | +0.78 |
+| SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 3.5 | Under (BUY) | 63% | 5.00 | 2.7% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: Club Le | Under (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 2.5 | Under (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
