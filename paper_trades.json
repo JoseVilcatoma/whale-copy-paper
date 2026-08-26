@@ -54725,8 +54725,8 @@
     "title": "Will Vietnam win on 2026-08-26?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 801.7567260000001,
-    "whale_pct": 1.691,
+    "whale_usd": 1341.961426,
+    "whale_pct": 2.83,
     "whale_value_at_open": 47414.2556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -54739,8 +54739,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787743558.002408,
-    "fills": 1
+    "last_fill_at": 1787747454.0345728,
+    "fills": 2
   },
   {
     "timestamp": 1787743689,
