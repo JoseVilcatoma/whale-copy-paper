@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:24:52 (hora de Perú)
+Actualizado: 2026-08-26 05:26:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:24:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $198.99)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $193.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| GoalLineGhost | 0 | 0 | 5 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 6 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 20 | 16 | 0 | -0.57 USD |
@@ -463,12 +463,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kopp-brunold-2026-08-26 | HomeRunHazard, RN1 |
 | atp-serna-barton-2026-08-26 | HomeRunHazard, RN1 |
 | kor-dae1-uls-2026-08-26-dae1 | GoalLineGhost, plonker2026 |
+| kor-dae1-uls-2026-08-26-total-2pt5 | GoalLineGhost, plonker2026 |
 | lol-kt-bro2-2026-08-26-game3 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 43% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gangwon FC win on 2026-08-26? | Yes (BUY) | 65% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 3 | KT Rolster (BUY) | 44% | 5.00 | 9.7% | ⏳ pendiente | — |
@@ -498,4 +500,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Mika Brunold (BUY) | 54% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Daniel Verbeek (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Counter-Strike: Aurora Gaming vs G2 (BO3 | Aurora Gaming (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | ITF M15 Pecs Men: Herman Hoeyeraal vs Fi | Herman Hoeyeraal (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
