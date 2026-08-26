@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:37:07 (hora de Perú)
+Actualizado: 2026-08-26 05:39:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $484.53
-**Retorno acumulado:** -3.09%
+**Bankroll actual:** $485.51
+**Retorno acumulado:** -2.90%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:37:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $209.53)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $210.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,21 +81,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 287 | 133 | 14 | -51.85 USD |
+| RN1 | 288 | 133 | 13 | -50.87 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 51 | 35 | 8 | -68.80 USD |
+|  | 51 | 35 | 9 | -68.80 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2050
-- **Aciertos:** 1320 (64.4%)
+- **Apuestas resueltas:** 2051
+- **Aciertos:** 1321 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,238.48
-- **ROI sobre lo apostado:** -0.97%
-- **Comisiones pagadas (taker fee):** $184.90 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,243.48
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $184.94 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1002 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 617 | 69.5% | 67.6% | +1.9 pp |
-| 80-94% | 287 | 86.8% | 86.8% | -0.1 pp |
+| 80-94% | 288 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -470,6 +470,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 67% | 5.00 | 3.2% | ⏳ pendiente | — |
 | GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 43% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gangwon FC win on 2026-08-26? | Yes (BUY) | 65% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -496,7 +497,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Amandine Monnot (BUY) | 83% | 5.00 | 12.8% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Amandine Monnot (BUY) | 83% | 5.00 | 12.8% | ✅ ganada | +0.98 |
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Mika Brunold (BUY) | 54% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Daniel Verbeek (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
-|  | Counter-Strike: Aurora Gaming vs G2 (BO3 | Aurora Gaming (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |

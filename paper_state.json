@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.5297573413059,
+  "bankroll": 485.5108537268481,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10695,6 +10695,11 @@
       "timestamp": 1787740104.311379,
       "bankroll": 484.53,
       "event": "won: casualbet2020 \u2014 Valorant: Paper Rex vs Nongshim RedForce (BO3) - VCT Pacific Playoffs"
+    },
+    {
+      "timestamp": 1787740718.710444,
+      "bankroll": 485.51,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Sina Herrmann vs Amandine Monnot"
     }
   ]
 }
