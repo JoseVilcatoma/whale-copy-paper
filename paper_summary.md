@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 20:51:23 (hora de Perú)
+Actualizado: 2026-08-25 20:53:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $468.77
-**Retorno acumulado:** -6.25%
+**Bankroll actual:** $466.04
+**Retorno acumulado:** -6.79%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 20:51:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $354.66 en 71 posiciones abiertas (disponible para nuevas apuestas: $114.11)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $126.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 33 | 19 | 0 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| Djdjdjekekek | 20 | 14 | 0 | +9.68 USD |
+| Djdjdjekekek | 20 | 14 | 1 | +9.68 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| HVAB | 11 | 4 | 1 | +2.18 USD |
+| HVAB | 12 | 4 | 0 | +2.23 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -77,8 +77,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| HomeRunHazard | 256 | 132 | 32 | -13.76 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
+| HomeRunHazard | 257 | 134 | 29 | -16.54 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 271 | 124 | 2 | -48.17 USD |
 | Sassy-Bucket | 14 | 22 | 4 | -48.45 USD |
@@ -87,14 +87,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1938
-- **Aciertos:** 1248 (64.4%)
+- **Apuestas resueltas:** 1942
+- **Aciertos:** 1250 (64.4%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,678.82
-- **ROI sobre lo apostado:** -1.19%
-- **Comisiones pagadas (taker fee):** $174.44 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,698.48
+- **ROI sobre lo apostado:** -1.22%
+- **Comisiones pagadas (taker fee):** $174.75 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,10 +102,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 941 | 49.8% | 50.2% | -0.4 pp |
-| 60-79% | 589 | 70.3% | 67.6% | +2.7 pp |
+| 40-59% | 942 | 49.9% | 50.2% | -0.3 pp |
+| 60-79% | 591 | 70.1% | 67.6% | +2.5 pp |
 | 80-94% | 273 | 86.1% | 87.0% | -0.9 pp |
-| 95-99% (casi seguro) | 135 | 96.3% | 97.3% | -1.0 pp |
+| 95-99% (casi seguro) | 136 | 96.3% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -424,6 +424,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-bolt-ruiz-2026-08-25 | HomeRunHazard, RN1 |
 | atp-kouame-basavar-2026-08-25 | HomeRunHazard, RN1 |
 | atp-kim-johns-2026-08-25 | HomeRunHazard, OOOwhyOOO |
+| mlb-lad-atl-2026-08-25 | Djdjdjekekek, HomeRunHazard |
 | atp-kecmano-marozsa-2026-08-25 | AV23IUa, HomeRunHazard |
 | wta-kubka-penick-2026-08-25 | HomeRunHazard, ferrariChampions2026 |
 | atp-chopra-bigun-2026-08-25 | HomeRunHazard, OOOwhyOOO |
@@ -451,13 +452,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
+| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 10.5% | ⏳ pendiente | — |
+| Sassy-Bucket | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 47% | 5.00 | 3.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants | Over (BUY) | 53% | 5.00 | 97.0% | ⏳ pendiente | — |
-| OOOwhyOOO | Monterrey Open: Panna Udvardy vs Maya Jo | Panna Udvardy (BUY) | 99% | 5.00 | 70.4% | ⏳ pendiente | — |
+| OOOwhyOOO | Monterrey Open: Panna Udvardy vs Maya Jo | Panna Udvardy (BUY) | 99% | 5.00 | 70.4% | ✅ ganada | +0.05 |
 |  | Chicago Sky vs. Connecticut Sun | Connecticut Sun (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | OOOwhyOOO | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 99% | 5.00 | 564.6% | ✅ ganada | +0.05 |
 |  | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 61% | 5.00 | 1.1% | ❌ perdida | -5.10 |
-| HomeRunHazard | Monterrey Open: Panna Udvardy vs Maya Jo | Maya Joint (BUY) | 72% | 4.66 | 2.2% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Panna Udvardy vs Maya Jo | Maya Joint (BUY) | 72% | 4.66 | 2.2% | ❌ perdida | -4.73 |
 |  | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 94% | 5.00 | 4.3% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 83% | 5.00 | 1.6% | ✅ ganada | +0.98 |
 | HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 3.9% | ✅ ganada | +0.30 |
@@ -480,4 +482,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Mets (-2.5) | Milwaukee Brewers (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |

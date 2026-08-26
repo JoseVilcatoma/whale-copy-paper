@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.768726078516,
+  "bankroll": 466.03835308024054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10135,6 +10135,26 @@
       "timestamp": 1787708565.3568945,
       "bankroll": 468.77,
       "event": "lost: RN1 \u2014 ITF M25 Taipei 2 Men: Kai-I Wang vs Ryota Tanuma"
+    },
+    {
+      "timestamp": 1787709137.6580923,
+      "bankroll": 464.04,
+      "event": "lost: HomeRunHazard \u2014 Monterrey Open: Panna Udvardy vs Maya Joint"
+    },
+    {
+      "timestamp": 1787709137.7583084,
+      "bankroll": 464.09,
+      "event": "won: OOOwhyOOO \u2014 Monterrey Open: Panna Udvardy vs Maya Joint"
+    },
+    {
+      "timestamp": 1787709198.5317998,
+      "bankroll": 471.14,
+      "event": "won: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1787709201.3656843,
+      "bankroll": 466.04,
+      "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals"
     }
   ]
 }
