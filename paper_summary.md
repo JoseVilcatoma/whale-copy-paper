@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 04:59:46 (hora de Perú)
+Actualizado: 2026-08-26 05:01:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $480.93
-**Retorno acumulado:** -3.81%
+**Bankroll actual:** $481.64
+**Retorno acumulado:** -3.67%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 04:59:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $220.93)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $226.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,21 +81,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 284 | 132 | 18 | -49.91 USD |
+| RN1 | 285 | 132 | 17 | -49.20 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 7 | -72.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2044
-- **Aciertos:** 1315 (64.3%)
+- **Apuestas resueltas:** 2045
+- **Aciertos:** 1316 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,208.48
+- **Total apostado (suma de stakes):** $10,213.48
 - **ROI sobre lo apostado:** -1.01%
-- **Comisiones pagadas (taker fee):** $184.46 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $184.49 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1000 | 50.3% | 50.2% | +0.1 pp |
 | 60-79% | 615 | 69.4% | 67.6% | +1.9 pp |
-| 80-94% | 285 | 86.7% | 86.9% | -0.2 pp |
+| 80-94% | 286 | 86.7% | 86.9% | -0.2 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -472,7 +472,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
 | plonker2026 | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 6.4% | ⏳ pendiente | — |
-| GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 6.4% | ⏳ pendiente | — |
+| GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 10.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 5.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 2 | KT Rolster (BUY) | 67% | 5.00 | 240.8% | ⏳ pendiente | — |
@@ -491,7 +491,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: Aurora Gaming vs G2 (BO3 | Aurora Gaming (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF M15 Pecs Men: Herman Hoeyeraal vs Fi | Herman Hoeyeraal (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 3.4% | ⏳ pendiente | — |
+| RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 3.4% | ✅ ganada | +0.71 |
 | RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | ITF W50 Kursumlijska Banja Women: Giorgi | Giorgia Pedone (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Carles Hernandez (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |

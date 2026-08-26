@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.9301427114678,
+  "bankroll": 481.6442691482494,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10665,6 +10665,11 @@
       "timestamp": 1787737447.6713474,
       "bankroll": 480.93,
       "event": "won: RN1 \u2014 ITF W75 Bytom Women: Sapfo Sakellaridi vs Angelica Moratelli"
+    },
+    {
+      "timestamp": 1787738441.1147263,
+      "bankroll": 481.64,
+      "event": "won: RN1 \u2014 ITF M15 Vienna Men: Daniel Bien vs Juan Ignacio Gallego"
     }
   ]
 }
