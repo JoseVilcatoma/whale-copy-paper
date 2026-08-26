@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.60010991689995,
+  "bankroll": 473.80372607851604,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10085,6 +10085,51 @@
       "timestamp": 1787708138.7870233,
       "bankroll": 493.6,
       "event": "won: OOOwhyOOO \u2014 Kingston 2: Juan Pablo Ficovich vs Evan Zhu"
+    },
+    {
+      "timestamp": 1787708255.9677896,
+      "bankroll": 488.49,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Connecticut Sun: O/U 169.5"
+    },
+    {
+      "timestamp": 1787708257.6185174,
+      "bankroll": 483.35,
+      "event": "lost: HomeRunHazard \u2014 Baltimore Orioles vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1787708257.8887246,
+      "bankroll": 488.22,
+      "event": "won: HomeRunHazard \u2014 Chicago Sky vs. Connecticut Sun: O/U 170.5"
+    },
+    {
+      "timestamp": 1787708258.6908395,
+      "bankroll": 483.1,
+      "event": "lost: HomeRunHazard \u2014 Chicago Sky vs. Connecticut Sun: O/U 170.5"
+    },
+    {
+      "timestamp": 1787708319.1605334,
+      "bankroll": 477.99,
+      "event": "lost: HomeRunHazard \u2014 Spread: Chicago Sky (-6.5)"
+    },
+    {
+      "timestamp": 1787708319.3608773,
+      "bankroll": 483.96,
+      "event": "won: HomeRunHazard \u2014 Spread: Chicago Sky (-6.5)"
+    },
+    {
+      "timestamp": 1787708319.4610662,
+      "bankroll": 478.85,
+      "event": "lost: winwin518168 \u2014 Spread: Chicago Sky (-6.5)"
+    },
+    {
+      "timestamp": 1787708320.272251,
+      "bankroll": 473.76,
+      "event": "lost:  \u2014 Chicago Sky vs. Connecticut Sun"
+    },
+    {
+      "timestamp": 1787708322.4904528,
+      "bankroll": 473.8,
+      "event": "won:  \u2014 Chicago Sky vs. Connecticut Sun"
     }
   ]
 }
