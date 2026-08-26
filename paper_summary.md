@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 17:14:18 (hora de Perú)
+Actualizado: 2026-08-26 17:16:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $526.37
-**Retorno acumulado:** +5.27%
+**Bankroll actual:** $521.31
+**Retorno acumulado:** +4.26%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 17:14:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $86.37)
+**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $126.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,27 +21,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 334 | 158 | 47 | +62.33 USD |
+| HomeRunHazard | 336 | 161 | 42 | +57.56 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| SDTrading | 27 | 19 | 6 | +30.04 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 26 | 19 | 7 | +24.96 USD |
 | ChonkyChocolateCake | 35 | 20 | 0 | +18.49 USD |
 | TAIWANNUMBERONE | 7 | 4 | 1 | +16.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| texaskid | 2 | 0 | 1 | +9.76 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 4 | 3 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
-| wr0ngw4yb3tt0r | 1 | 0 | 3 | +6.22 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| texaskid | 1 | 0 | 2 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -54,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 13 | 6 | 0 | +1.64 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| Djdjdjekekek | 21 | 16 | 2 | +0.95 USD |
+| wr0ngw4yb3tt0r | 1 | 1 | 2 | +1.10 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | kilian7kilian | 0 | 0 | 1 | +0.00 USD |
@@ -67,6 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
+| Djdjdjekekek | 21 | 17 | 1 | -4.16 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2209
-- **Aciertos:** 1431 (64.8%)
-- **Cuota promedio de entrada:** 64.1%
+- **Apuestas resueltas:** 2218
+- **Aciertos:** 1435 (64.7%)
+- **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,032.59
-- **ROI sobre lo apostado:** -0.53%
-- **Comisiones pagadas (taker fee):** $198.27 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,077.59
+- **ROI sobre lo apostado:** -0.58%
+- **Comisiones pagadas (taker fee):** $199.37 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -107,7 +107,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1065 | 50.5% | 50.2% | +0.3 pp |
+| 40-59% | 1074 | 50.5% | 50.2% | +0.3 pp |
 | 60-79% | 670 | 69.7% | 67.6% | +2.1 pp |
 | 80-94% | 319 | 87.1% | 86.8% | +0.3 pp |
 | 95-99% (casi seguro) | 155 | 95.5% | 97.4% | -1.9 pp |
@@ -531,7 +531,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Rei Sakamoto (BUY) | 97% | 5.00 | 0.6% | ✅ ganada | +0.15 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 81% | 5.00 | 4.3% | ⏳ pendiente | — |
-| Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 55% | 5.00 | 203.0% | ⏳ pendiente | — |
+| Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 55% | 5.00 | 203.0% | ❌ perdida | -5.11 |
 | HomeRunHazard | Winston-Salem Open: Arthur Fery vs Mees  | Arthur Fery (BUY) | 97% | 5.00 | 3.2% | ✅ ganada | +0.15 |
 | HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 48% | 5.00 | 439.3% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.3705364200824,
+  "bankroll": 521.3079513860689,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11510,6 +11510,51 @@
       "timestamp": 1787782391.202924,
       "bankroll": 526.37,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Rei Sakamoto vs Alexandre Muller"
+    },
+    {
+      "timestamp": 1787782571.3659685,
+      "bankroll": 521.25,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787782572.3243036,
+      "bankroll": 526.32,
+      "event": "won: SDTrading \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787782575.2657142,
+      "bankroll": 531.61,
+      "event": "won: HomeRunHazard \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787782576.1521802,
+      "bankroll": 536.49,
+      "event": "won: texaskid \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787782576.7709403,
+      "bankroll": 531.36,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 8.5"
+    },
+    {
+      "timestamp": 1787782579.3156557,
+      "bankroll": 526.25,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1787782579.6078446,
+      "bankroll": 521.13,
+      "event": "lost: HomeRunHazard \u2014 Chicago Cubs vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787782579.7080493,
+      "bankroll": 526.42,
+      "event": "won: HomeRunHazard \u2014 Chicago Cubs vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1787782581.7528968,
+      "bankroll": 521.31,
+      "event": "lost: Djdjdjekekek \u2014 Chicago Cubs vs. Arizona Diamondbacks"
     }
   ]
 }
