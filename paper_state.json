@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.4897628177572,
+  "bankroll": 497.87094364564393,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10705,6 +10705,36 @@
       "timestamp": 1787741027.532033,
       "bankroll": 489.49,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Torello (Spain), hard: Neus Torner Sensano vs Sayaka Ishii"
+    },
+    {
+      "timestamp": 1787742268.8915865,
+      "bankroll": 484.37,
+      "event": "lost: RN1 \u2014 Augsburg: Sandro Kopp vs Mika Brunold"
+    },
+    {
+      "timestamp": 1787742269.3623128,
+      "bankroll": 488.52,
+      "event": "won: RN1 \u2014 Augsburg: Sandro Kopp vs Mika Brunold"
+    },
+    {
+      "timestamp": 1787742269.691873,
+      "bankroll": 493.39,
+      "event": "won: RN1 \u2014 Augsburg: Juan Manuel La Serna vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787742270.1411636,
+      "bankroll": 488.31,
+      "event": "lost: RN1 \u2014 Augsburg: Juan Manuel La Serna vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787742270.9665813,
+      "bankroll": 493.19,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Sandro Kopp vs Mika Brunold"
+    },
+    {
+      "timestamp": 1787742271.7260883,
+      "bankroll": 497.87,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Juan Manuel La Serna vs Hynek Barton"
     }
   ]
 }
