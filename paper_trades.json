@@ -56025,8 +56025,8 @@
     "title": "Spread: Golden State Valkyries (-13.5)",
     "outcome": "Connecticut Sun",
     "side": "BUY",
-    "whale_usd": 2091.3984,
-    "whale_pct": 2.415,
+    "whale_usd": 3448.3965,
+    "whale_pct": 3.982,
     "whale_value_at_open": 86599.3767,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -56037,8 +56037,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787764339.166876,
-    "fills": 2
+    "last_fill_at": 1787777329.0049987,
+    "fills": 3
   },
   {
     "timestamp": 1787756841,
@@ -57237,8 +57237,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

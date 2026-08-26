@@ -1,5 +1,5 @@
 {
-  "bankroll": 541.6928630861562,
+  "bankroll": 536.5948630861562,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11345,6 +11345,11 @@
       "timestamp": 1787776956.1364982,
       "bankroll": 541.69,
       "event": "won: HomeRunHazard \u2014 Philadelphia: Fiona Crawley vs Ekaterina Ovcharenko"
+    },
+    {
+      "timestamp": 1787777269.0638392,
+      "bankroll": 536.59,
+      "event": "lost: DoNotTailMe \u2014 LoL: Eintracht Spandau vs Kaufland Hangry Knights - Game 4 Winner"
     }
   ]
 }
