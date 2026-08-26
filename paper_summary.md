@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:04:26 (hora de Perú)
+Actualizado: 2026-08-26 12:06:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $495.02
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:04:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $484.11 en 97 posiciones abiertas (disponible para nuevas apuestas: $10.91)
+**Capital comprometido ahora mismo:** $489.11 en 98 posiciones abiertas (disponible para nuevas apuestas: $5.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 292 | 146 | 23 | +47.86 USD |
+| HomeRunHazard | 292 | 146 | 24 | +47.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -488,6 +488,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Frederico Fe | Jurij Rodionov (BUY) | 99% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Marvin Moeller vs Matias Soto | Marvin Moeller (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Linda Fruhvi | Carson Branstine (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Kyrian Jacquet (BUY) | 53% | 4.11 | 5.3% | ⏳ pendiente | — |
@@ -517,4 +518,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: Natus Vincere vs M80 (BO | Natus Vincere (BUY) | 95% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Elena Pridan | Rebecca Marino (BUY) | 45% | 5.00 | 4.6% | ❌ perdida | -5.14 |
 | HomeRunHazard | Spread: Golden State Valkyries (-13.5) | Connecticut Sun (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
