@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:12:49 (hora de Perú)
+Actualizado: 2026-08-26 12:14:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:12:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $464.11 en 93 posiciones abiertas (disponible para nuevas apuestas: $24.80)
+**Capital comprometido ahora mismo:** $469.11 en 94 posiciones abiertas (disponible para nuevas apuestas: $19.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 7 | 2 | 3 | +26.76 USD |
 | ChonkyChocolateCake | 34 | 19 | 0 | +20.98 USD |
-| SDTrading | 25 | 19 | 7 | +19.23 USD |
+| SDTrading | 25 | 19 | 8 | +19.23 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -488,10 +488,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 46% | 5.00 | 12.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Tereza Val | Tereza Valentova (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Benjamin Willw | Aidan Mayo (BUY) | 91% | 5.00 | 1.3% | ⏳ pendiente | — |
-| 11vsldfdsgfkjgos | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Hugo Cardinaud (BUY) | 65% | 5.00 | 17.9% | ⏳ pendiente | — |
+| 11vsldfdsgfkjgos | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Hugo Cardinaud (BUY) | 65% | 5.00 | 30.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Gabriela Knutson (BUY) | 68% | 5.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Frederico Fe | Jurij Rodionov (BUY) | 99% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -517,4 +518,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Lokomotiv Tashkent vs. FC Bunyodkor: O/U | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alena Kovackova (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 12.8% | ⏳ pendiente | — |
-| AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 36.1% | ⏳ pendiente | — |

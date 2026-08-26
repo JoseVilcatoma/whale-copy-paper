@@ -56813,8 +56813,8 @@
     "title": "ITF MEN - SINGLES: M15 Monastir 28 (Tunisia), hard: Hugo Cardinaud vs Ilya Polonskiy",
     "outcome": "Hugo Cardinaud",
     "side": "BUY",
-    "whale_usd": 1941.44,
-    "whale_pct": 17.874,
+    "whale_usd": 3260.0299999999997,
+    "whale_pct": 30.014,
     "whale_value_at_open": 10861.8,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -56825,8 +56825,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787764156.405714,
-    "fills": 1
+    "last_fill_at": 1787764396.2258492,
+    "fills": 2
   },
   {
     "timestamp": 1787764165,
@@ -56898,6 +56898,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787764301.704894,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787764470,
+    "timestamp_added": 1787764471.3796203,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-cin-sf-2026-08-26",
+    "title": "Cincinnati Reds vs. San Francisco Giants",
+    "outcome": "San Francisco Giants",
+    "side": "BUY",
+    "whale_usd": 1625.0,
+    "whale_pct": 2.102,
+    "whale_value_at_open": 77314.309,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787764471.3796337,
     "fills": 1
   }
 ]
