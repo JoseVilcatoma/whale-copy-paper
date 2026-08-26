@@ -51031,8 +51031,8 @@
     "odds_at_bet": 97,
     "fee_usd": 0.008,
     "odds_ballena": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -51467,8 +51467,8 @@
     "odds_at_bet": 85,
     "fee_usd": 0.038,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.84,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -51565,8 +51565,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 99,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "",
       "HomeRunHazard"

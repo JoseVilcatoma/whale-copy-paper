@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.77546628007104,
+  "bankroll": 496.8139634470103,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9980,6 +9980,21 @@
       "timestamp": 1787704855.6079006,
       "bankroll": 495.78,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Mees Rottgering vs Tomas Machac"
+    },
+    {
+      "timestamp": 1787704972.689845,
+      "bankroll": 495.92,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Elvina Kalieva vs Kristina Mladenovic"
+    },
+    {
+      "timestamp": 1787704974.0920014,
+      "bankroll": 496.77,
+      "event": "won:  \u2014 US Open, Qualification WTA: Elvina Kalieva vs Kristina Mladenovic"
+    },
+    {
+      "timestamp": 1787704974.492768,
+      "bankroll": 496.81,
+      "event": "won: OOOwhyOOO \u2014 US Open, Qualification WTA: Elvina Kalieva vs Kristina Mladenovic"
     }
   ]
 }

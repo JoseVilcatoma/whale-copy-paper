@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:41:03 (hora de Perú)
+Actualizado: 2026-08-25 19:43:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.78
-**Retorno acumulado:** -0.84%
+**Bankroll actual:** $496.81
+**Retorno acumulado:** -0.64%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 19:41:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $479.66 en 96 posiciones abiertas (disponible para nuevas apuestas: $16.12)
+**Capital comprometido ahora mismo:** $464.66 en 93 posiciones abiertas (disponible para nuevas apuestas: $32.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,8 +43,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| HomeRunHazard | 249 | 125 | 46 | +2.20 USD |
-| HVAB | 9 | 4 | 1 | +2.08 USD |
+| HomeRunHazard | 250 | 125 | 45 | +2.35 USD |
+| HVAB | 10 | 4 | 0 | +2.13 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -83,18 +83,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 271 | 123 | 3 | -43.13 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
-|  | 39 | 30 | 14 | -72.35 USD |
+|  | 40 | 30 | 13 | -71.51 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1907
-- **Aciertos:** 1230 (64.5%)
+- **Apuestas resueltas:** 1910
+- **Aciertos:** 1233 (64.6%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,523.82
-- **ROI sobre lo apostado:** -0.93%
-- **Comisiones pagadas (taker fee):** $171.97 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.88% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,538.82
+- **ROI sobre lo apostado:** -0.92%
+- **Comisiones pagadas (taker fee):** $172.02 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -104,8 +104,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 927 | 50.1% | 50.2% | -0.2 pp |
 | 60-79% | 583 | 70.3% | 67.6% | +2.7 pp |
-| 80-94% | 267 | 86.1% | 87.0% | -0.9 pp |
-| 95-99% (casi seguro) | 130 | 96.9% | 97.3% | -0.4 pp |
+| 80-94% | 268 | 86.2% | 87.0% | -0.8 pp |
+| 95-99% (casi seguro) | 132 | 97.0% | 97.3% | -0.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -460,11 +460,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification WTA: Dalma Galfi  | Dalma Galfi (BUY) | 49% | 5.00 | 5.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Kansas City Royals (BUY) | 83% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 99% | 5.00 | 1127.0% | ⏳ pendiente | — |
+| OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 99% | 5.00 | 1127.0% | ✅ ganada | +0.05 |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins: O/U 5. | Under (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Los Angeles Dodgers (-1.5) | Atlanta Braves (BUY) | 75% | 5.00 | 0.4% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Seong-Chan H | Seong-Chan Hong (BUY) | 70% | 5.00 | 2.5% | ⏳ pendiente | — |
-|  | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
+|  | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 85% | 5.00 | 0.8% | ✅ ganada | +0.84 |
 | HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
