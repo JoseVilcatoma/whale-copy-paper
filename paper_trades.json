@@ -51548,5 +51548,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787702724.166773,
     "fills": 1
+  },
+  {
+    "timestamp": 1787702876,
+    "timestamp_added": 1787702877.1802917,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-kalieva-mladeno-2026-08-25",
+    "title": "US Open, Qualification WTA: Elvina Kalieva vs Kristina Mladenovic",
+    "outcome": "Elvina Kalieva",
+    "side": "BUY",
+    "whale_usd": 16828.6437,
+    "whale_pct": 1126.981,
+    "whale_value_at_open": 1493.25,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787702878.0672233,
+    "fills": 4
   }
 ]
