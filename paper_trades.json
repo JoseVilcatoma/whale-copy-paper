@@ -54555,8 +54555,8 @@
     "title": "LoL: KT Rolster vs HANJIN BRION - Game 4 Winner",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 12501.4777,
-    "whale_pct": 62.334,
+    "whale_usd": 17141.5609,
+    "whale_pct": 85.47,
     "whale_value_at_open": 20055.7585,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -54567,8 +54567,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787742223.3187766,
-    "fills": 4
+    "last_fill_at": 1787742454.3268197,
+    "fills": 8
   },
   {
     "timestamp": 1787742118,

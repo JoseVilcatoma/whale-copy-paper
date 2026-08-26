@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 06:05:46 (hora de Perú)
+Actualizado: 2026-08-26 06:07:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.87
@@ -475,7 +475,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Juan Estevez vs Benito Sanchez | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Svyatoslav Gulin (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 66% | 5.00 | 198.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 61% | 5.00 | 62.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 61% | 5.00 | 85.5% | ⏳ pendiente | — |
 |  | Will Vietnam win on 2026-08-26? | Yes (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Thailand win on 2026-08-26? | No (BUY) | 80% | 5.00 | 3.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
