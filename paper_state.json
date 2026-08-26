@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.0837124094863,
+  "bankroll": 507.92337650474036,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11155,6 +11155,26 @@
       "timestamp": 1787769635.1744432,
       "bankroll": 515.08,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Mai Hontama vs Andrea Lazaro Garcia"
+    },
+    {
+      "timestamp": 1787769693.8079329,
+      "bankroll": 517.46,
+      "event": "won:  \u2014 US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato"
+    },
+    {
+      "timestamp": 1787769699.9189177,
+      "bankroll": 512.37,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Eintracht Spandau vs Kaufland Hangry Knights - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787769701.7887213,
+      "bankroll": 507.33,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Alena Kovackova vs Eva Bennemann"
+    },
+    {
+      "timestamp": 1787769704.2166038,
+      "bankroll": 507.92,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato"
     }
   ]
 }
