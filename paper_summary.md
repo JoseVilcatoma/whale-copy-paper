@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 15:01:45 (hora de Perú)
+Actualizado: 2026-08-26 15:03:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.29
@@ -501,7 +501,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | US Open, Qualification WTA: Bianca Andre | Bianca Andreescu (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 49% | 5.00 | 7.8% | ⏳ pendiente | — |
+| Sassy-Bucket | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 49% | 5.00 | 41.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Cleveland Guardians (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Yue Yuan vs  | Yue Yuan (BUY) | 71% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -517,7 +517,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fiona Crawley vs Ekaterina | Fiona Crawley (BUY) | 96% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Remy Bertola (BUY) | 93% | 5.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 76% | 5.00 | 1.6% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Despina Papa | Ekaterine Gorgodze (BUY) | 82% | 5.00 | 193.1% | 💰 vendida anticipada | -0.78 |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 81% | 5.00 | 20.3% | 💰 vendida anticipada | -0.16 |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 79% | 5.00 | 16.2% | 💰 vendida anticipada | +0.35 |

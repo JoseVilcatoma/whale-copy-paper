@@ -57800,8 +57800,8 @@
     "title": "US Open, Qualification ATP: Toby Samuel vs Billy Harris",
     "outcome": "Toby Samuel",
     "side": "BUY",
-    "whale_usd": 1549.7407429999998,
-    "whale_pct": 0.522,
+    "whale_usd": 4683.7381829999995,
+    "whale_pct": 1.579,
     "whale_value_at_open": 296669.3369,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -57812,8 +57812,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787774457.8163638,
-    "fills": 2
+    "last_fill_at": 1787774524.5388675,
+    "fills": 3
   },
   {
     "timestamp": 1787771032,
@@ -58188,8 +58188,8 @@
     "title": "Cleveland Guardians vs. Los Angeles Angels: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2400.0,
-    "whale_pct": 7.822,
+    "whale_usd": 12786.36,
+    "whale_pct": 41.671,
     "whale_value_at_open": 30684.0566,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -58203,8 +58203,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787773443.4165711,
-    "fills": 1
+    "last_fill_at": 1787774569.5186038,
+    "fills": 4
   },
   {
     "timestamp": 1787773785,
