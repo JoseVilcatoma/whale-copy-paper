@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 08:04:31 (hora de Perú)
+Actualizado: 2026-08-26 08:06:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.68
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 08:04:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $155.68)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $150.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 287 | 143 | 8 | +50.73 USD |
+| HomeRunHazard | 287 | 143 | 9 | +50.73 USD |
 | BOOMBOYS.Kiritych | 27 | 13 | 1 | +43.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 21 | 4 | +40.61 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -475,6 +475,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Daniel Masur (BUY) | 86% | 5.00 | 9.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX (BO | BNK FEARX (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 4.5 | Under (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | CA River Plate vs. Independiente Santa F | Over (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -504,4 +505,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Thailand win on 2026-08-26? | No (BUY) | 80% | 5.00 | 5.5% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | FC Anyang vs. Incheon United FC: O/U 2.5 | Under (BUY) | 61% | 5.00 | 6.7% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Luka Mikrut  | Nishesh Basavareddy (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
