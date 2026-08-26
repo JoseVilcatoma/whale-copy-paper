@@ -56641,8 +56641,8 @@
     "title": "Philadelphia Phillies vs. Seattle Mariners: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 910.4549999999999,
-    "whale_pct": 0.566,
+    "whale_usd": 2287.3224,
+    "whale_pct": 1.423,
     "whale_value_at_open": 160751.6851,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -56653,8 +56653,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787760157.063932,
-    "fills": 1
+    "last_fill_at": 1787775380.8241894,
+    "fills": 2
   },
   {
     "timestamp": 1787760232,
@@ -58354,6 +58354,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787775029.6095326,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787775370,
+    "timestamp_added": 1787775370.4342003,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cin-sf-2026-08-26",
+    "title": "Cincinnati Reds vs. San Francisco Giants",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 4173.0960000000005,
+    "whale_pct": 1.492,
+    "whale_value_at_open": 279705.3039,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787775370.4342132,
     "fills": 1
   }
 ]
