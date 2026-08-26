@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:56:52 (hora de Perú)
+Actualizado: 2026-08-26 12:58:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.04
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:56:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $434.11 en 87 posiciones abiertas (disponible para nuevas apuestas: $59.93)
+**Capital comprometido ahora mismo:** $449.11 en 90 posiciones abiertas (disponible para nuevas apuestas: $44.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,13 +23,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 2 | +48.17 USD |
-| HomeRunHazard | 298 | 149 | 26 | +41.97 USD |
+| HomeRunHazard | 298 | 149 | 27 | +41.97 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 7 | 2 | 3 | +26.76 USD |
-| ChonkyChocolateCake | 34 | 19 | 0 | +20.98 USD |
+| ChonkyChocolateCake | 34 | 19 | 1 | +20.98 USD |
 | SDTrading | 25 | 19 | 8 | +19.23 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -56,6 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
+| kilian7kilian | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -476,6 +477,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-kt-bro2-2026-08-26-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | atp-gulin-krumich-2026-08-26 | , HomeRunHazard |
 | asean-vie-tha-2026-08-26-total-2pt5 | , GoalLineGhost |
+| lal-rea-rso-2026-08-26-rea | GoalLineGhost, kilian7kilian |
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 | atp-cretu-damas-2026-08-26 | HomeRunHazard, RN1 |
 | atp-mena-wehnelt-2026-08-26 | Djdjdjekekek, RN1 |
@@ -490,10 +492,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 61% | 5.00 | 32.7% | ⏳ pendiente | — |
+| kilian7kilian | Will Real Madrid CF win on 2026-08-26? | Yes (BUY) | 84% | 5.00 | 573.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Francisca Jo | Mia Ristic (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Andrea Lazaro Garcia (BUY) | 73% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: David Jorda  | Dusan Lajovic (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Harry Wendelken (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
-| SPCEXBUYER | Map Handicap: FURIA (-1.5) vs paiN (+1.5 | FURIA (BUY) | 56% | 5.00 | 5047.0% | ⏳ pendiente | — |
+| SPCEXBUYER | Map Handicap: FURIA (-1.5) vs paiN (+1.5 | FURIA (BUY) | 56% | 5.00 | 5144.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Madison Bren | Lucrezia Stefanini (BUY) | 89% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Iryna Shymanovich (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 89% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -517,6 +522,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 50% | 5.00 | 214.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Aziz Dougaz (BUY) | 57% | 5.00 | 4.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andrea Guerr | Joel Schwaerzler (BUY) | 79% | 5.00 | 6.2% | ❌ perdida | -5.05 |
-| RN1 | Will Qizilqum Zarafshon win on 2026-08-2 | No (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 9.6% | ✅ ganada | +2.97 |
-| RN1 | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 73% | 5.00 | 0.4% | ✅ ganada | +1.78 |
