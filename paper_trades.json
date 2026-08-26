@@ -58090,8 +58090,8 @@
     "title": "Chicago Cubs vs. Arizona Diamondbacks",
     "outcome": "Arizona Diamondbacks",
     "side": "BUY",
-    "whale_usd": 9036.0009,
-    "whale_pct": 3.864,
+    "whale_usd": 18666.9993,
+    "whale_pct": 7.983,
     "whale_value_at_open": 233836.5755,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -58102,8 +58102,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787773134.6560369,
-    "fills": 2
+    "last_fill_at": 1787780944.4593673,
+    "fills": 3
   },
   {
     "timestamp": 1787773213,
@@ -58640,8 +58640,8 @@
     "odds_at_bet": 97,
     "fee_usd": 0.008,
     "odds_ballena": 95,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -58929,8 +58929,8 @@
     "title": "Winston-Salem Open: Juan Manuel Cerundolo vs Sebastian Baez",
     "outcome": "Juan Manuel Cerundolo",
     "side": "BUY",
-    "whale_usd": 2137.548,
-    "whale_pct": 0.727,
+    "whale_usd": 4737.259851,
+    "whale_pct": 1.611,
     "whale_value_at_open": 294079.09,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -58941,8 +58941,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787780296.2192264,
-    "fills": 2
+    "last_fill_at": 1787780891.9824378,
+    "fills": 3
   },
   {
     "timestamp": 1787780185,

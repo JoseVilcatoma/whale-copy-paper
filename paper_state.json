@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.1699359407154,
+  "bankroll": 533.3165751159731,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11480,6 +11480,11 @@
       "timestamp": 1787780405.330522,
       "bankroll": 533.17,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Bianca Andreescu vs Veronika Podrez"
+    },
+    {
+      "timestamp": 1787780898.71009,
+      "bankroll": 533.32,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Arthur Fery vs Mees Rottgering"
     }
   ]
 }
