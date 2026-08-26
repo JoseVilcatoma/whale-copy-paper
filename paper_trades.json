@@ -57326,8 +57326,8 @@
     "title": "Kingston 2: Paulo Dos Santos vs Andres Martin",
     "outcome": "Andres Martin",
     "side": "BUY",
-    "whale_usd": 3790.4791999999998,
-    "whale_pct": 1.73,
+    "whale_usd": 8776.4756,
+    "whale_pct": 4.006,
     "whale_value_at_open": 219065.8416,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -57338,8 +57338,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768372.8058584,
-    "fills": 3
+    "last_fill_at": 1787768976.954914,
+    "fills": 5
   },
   {
     "timestamp": 1787768201,
@@ -57487,6 +57487,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787768876.605208,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787768947,
+    "timestamp_added": 1787768947.434579,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-virtane-jones-2026-08-26",
+    "title": "US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones",
+    "outcome": "Jack Pinnington Jones",
+    "side": "BUY",
+    "whale_usd": 1760.5695,
+    "whale_pct": 0.783,
+    "whale_value_at_open": 224819.9073,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787768947.4345872,
     "fills": 1
   }
 ]
