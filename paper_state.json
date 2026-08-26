@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.7765346648243,
+  "bankroll": 507.9602168556466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10355,6 +10355,126 @@
       "timestamp": 1787718227.6307213,
       "bankroll": 516.78,
       "event": "won: HomeRunHazard \u2014 Washington Mystics vs. Phoenix Mercury: O/U 167.5"
+    },
+    {
+      "timestamp": 1787718546.2116559,
+      "bankroll": 522.28,
+      "event": "won: HomeRunHazard \u2014 Spread: Washington Mystics (-2.5)"
+    },
+    {
+      "timestamp": 1787718546.5751061,
+      "bankroll": 517.18,
+      "event": "lost: AV23IUa \u2014 Minnesota Twins vs. Athletics"
+    },
+    {
+      "timestamp": 1787718546.9039552,
+      "bankroll": 521.68,
+      "event": "won: AV23IUa \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787718548.1845553,
+      "bankroll": 526.17,
+      "event": "won: HomeRunHazard \u2014 Minnesota Twins vs. Athletics: O/U 10.5"
+    },
+    {
+      "timestamp": 1787718548.855274,
+      "bankroll": 521.06,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787718550.0742407,
+      "bankroll": 515.93,
+      "event": "lost: Sassy-Bucket \u2014 Washington Mystics vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1787718550.6945908,
+      "bankroll": 515.98,
+      "event": "won: swisstony \u2014 Spread: CD Tolima (-1.5)"
+    },
+    {
+      "timestamp": 1787718551.0010877,
+      "bankroll": 516.02,
+      "event": "won: swisstony \u2014 Independiente del Valle vs. CD Tolima: O/U 1.5"
+    },
+    {
+      "timestamp": 1787718551.2987926,
+      "bankroll": 520.52,
+      "event": "won: swisstony \u2014 Independiente del Valle vs. CD Tolima: O/U 2.5"
+    },
+    {
+      "timestamp": 1787718551.7552257,
+      "bankroll": 520.57,
+      "event": "won: swisstony \u2014 Independiente del Valle vs. CD Tolima: O/U 4.5"
+    },
+    {
+      "timestamp": 1787718552.323749,
+      "bankroll": 520.61,
+      "event": "won: SnakeBall \u2014 Will Independiente del Valle win on 2026-08-18?"
+    },
+    {
+      "timestamp": 1787718552.4239552,
+      "bankroll": 515.52,
+      "event": "lost: RN1 \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787718552.727198,
+      "bankroll": 510.38,
+      "event": "lost: RN1 \u2014 Washington Mystics vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1787718553.0708306,
+      "bankroll": 514.87,
+      "event": "won: RN1 \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787718553.1710744,
+      "bankroll": 519.02,
+      "event": "won: RN1 \u2014 Washington Mystics vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1787718553.5609531,
+      "bankroll": 513.95,
+      "event": "lost: swisstony \u2014 Independiente del Valle vs. CD Tolima: O/U 3.5"
+    },
+    {
+      "timestamp": 1787718553.6611795,
+      "bankroll": 508.9,
+      "event": "lost: RN1 \u2014 Independiente del Valle vs. CD Tolima: O/U 3.5"
+    },
+    {
+      "timestamp": 1787718553.7613785,
+      "bankroll": 503.77,
+      "event": "lost: RN1 \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787718554.2607853,
+      "bankroll": 498.64,
+      "event": "lost: swisstony \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787718557.5952246,
+      "bankroll": 499.84,
+      "event": "won:  \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787718558.2084067,
+      "bankroll": 500.04,
+      "event": "won: RN1 \u2014 Cincinnati Reds vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787718558.3085928,
+      "bankroll": 506.01,
+      "event": "won: RN1 \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787718558.7056699,
+      "bankroll": 513.06,
+      "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. San Diego Padres"
+    },
+    {
+      "timestamp": 1787718558.8058658,
+      "bankroll": 507.96,
+      "event": "lost:  \u2014 Pittsburgh Pirates vs. San Diego Padres"
     }
   ]
 }
