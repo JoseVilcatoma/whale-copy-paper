@@ -58313,8 +58313,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 3511.960193,
-    "whale_pct": 1.26,
+    "whale_usd": 8875.957693,
+    "whale_pct": 3.183,
     "whale_value_at_open": 278833.2036,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -58327,8 +58327,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787776066.7055323,
-    "fills": 3
+    "last_fill_at": 1787777046.125863,
+    "fills": 4
   },
   {
     "timestamp": 1787775029,
@@ -58550,6 +58550,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787776893.1315596,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787777063,
+    "timestamp_added": 1787777064.1529078,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-sakamot-muller-2026-08-26",
+    "title": "US Open, Qualification ATP: Rei Sakamoto vs Alexandre Muller",
+    "outcome": "Alexandre Muller",
+    "side": "BUY",
+    "whale_usd": 1437.272666,
+    "whale_pct": 0.46,
+    "whale_value_at_open": 312589.3385,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787777064.1529195,
     "fills": 1
   }
 ]
