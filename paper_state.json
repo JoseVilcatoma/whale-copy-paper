@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.5568835549195,
+  "bankroll": 490.4538835549195,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10065,6 +10065,16 @@
       "timestamp": 1787707638.6287816,
       "bankroll": 500.56,
       "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787707821.5919085,
+      "bankroll": 495.55,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Taro Daniel vs Andrew Johnson"
+    },
+    {
+      "timestamp": 1787707823.2152145,
+      "bankroll": 490.45,
+      "event": "lost:  \u2014 US Open, Qualification ATP: Taro Daniel vs Andrew Johnson"
     }
   ]
 }
