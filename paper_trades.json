@@ -53186,8 +53186,8 @@
     "title": "Pittsburgh Pirates vs. San Diego Padres",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 4036.5486659999997,
-    "whale_pct": 1.522,
+    "whale_usd": 5252.971332,
+    "whale_pct": 1.981,
     "whale_value_at_open": 265176.7616,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -53200,8 +53200,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787716520.139639,
-    "fills": 4
+    "last_fill_at": 1787716798.3505063,
+    "fills": 5
   },
   {
     "timestamp": 1787715965,

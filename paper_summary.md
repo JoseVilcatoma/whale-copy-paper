@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 22:59:02 (hora de Perú)
+Actualizado: 2026-08-25 23:01:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.54
@@ -470,7 +470,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 35.8% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 45% | 5.00 | 2.0% | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
