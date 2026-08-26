@@ -54653,8 +54653,8 @@
     "title": "Augsburg: Svyatoslav Gulin vs Martin Krumich",
     "outcome": "Martin Krumich",
     "side": "BUY",
-    "whale_usd": 5244.3605,
-    "whale_pct": 11.504,
+    "whale_usd": 8039.3573,
+    "whale_pct": 17.635,
     "whale_value_at_open": 45588.5106,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -54665,8 +54665,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787747813.7129695,
-    "fills": 3
+    "last_fill_at": 1787748419.4449341,
+    "fills": 4
   },
   {
     "timestamp": 1787742794,
