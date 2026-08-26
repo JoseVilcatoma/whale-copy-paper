@@ -56173,8 +56173,8 @@
     "title": "Winston-Salem Open: Botic van de Zandschulp vs Luciano Darderi",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 21699.105,
-    "whale_pct": 20.319,
+    "whale_usd": 22299.105,
+    "whale_pct": 20.881,
     "whale_value_at_open": 106793.38,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -56185,8 +56185,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758100.9533634,
-    "fills": 3
+    "last_fill_at": 1787758535.986219,
+    "fills": 4
   },
   {
     "timestamp": 1787757485,
@@ -56582,6 +56582,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787758423.0938163,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787758537,
+    "timestamp_added": 1787758537.9866703,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "brco-pal-san-2026-08-26-total-2pt5",
+    "title": "SE Palmeiras vs. Santos FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1022.079999,
+    "whale_pct": 1.213,
+    "whale_value_at_open": 84262.0193,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787758537.986684,
     "fills": 1
   }
 ]
