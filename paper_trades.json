@@ -56515,8 +56515,8 @@
     "title": "US Open, Qualification ATP: Andrea Guerrieri vs Joel Schwaerzler",
     "outcome": "Joel Schwaerzler",
     "side": "BUY",
-    "whale_usd": 3962.9931469999997,
-    "whale_pct": 3.388,
+    "whale_usd": 7293.993347,
+    "whale_pct": 6.237,
     "whale_value_at_open": 116956.3122,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -56530,8 +56530,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758276.9034593,
-    "fills": 2
+    "last_fill_at": 1787758860.2397313,
+    "fills": 3
   },
   {
     "timestamp": 1787758314,
@@ -56593,8 +56593,8 @@
     "title": "SE Palmeiras vs. Santos FC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1022.079999,
-    "whale_pct": 1.213,
+    "whale_usd": 4201.889998000001,
+    "whale_pct": 4.987,
     "whale_value_at_open": 84262.0193,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -56605,7 +56605,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758537.986684,
-    "fills": 1
+    "last_fill_at": 1787758782.096587,
+    "fills": 2
   }
 ]
