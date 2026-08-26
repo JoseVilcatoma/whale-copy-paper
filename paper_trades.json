@@ -57522,8 +57522,8 @@
     "title": "US Open, Qualification WTA: Susan Bandecchi vs Viktoria Hruncakova",
     "outcome": "Susan Bandecchi",
     "side": "BUY",
-    "whale_usd": 11136.6067,
-    "whale_pct": 4.548,
+    "whale_usd": 11740.0867,
+    "whale_pct": 4.794,
     "whale_value_at_open": 244889.9379,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -57534,8 +57534,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769434.478129,
-    "fills": 3
+    "last_fill_at": 1787770509.256742,
+    "fills": 4
   },
   {
     "timestamp": 1787769455,
