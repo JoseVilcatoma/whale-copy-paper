@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:08:28 (hora de Perú)
+Actualizado: 2026-08-26 12:10:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:08:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $439.11 en 88 posiciones abiertas (disponible para nuevas apuestas: $49.80)
+**Capital comprometido ahora mismo:** $454.11 en 91 posiciones abiertas (disponible para nuevas apuestas: $34.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 292 | 147 | 23 | +42.72 USD |
+| HomeRunHazard | 292 | 147 | 25 | +42.72 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | texaskid | 1 | 0 | 1 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
+| 11vsldfdsgfkjgos | 2 | 0 | 1 | +4.00 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -488,6 +488,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: Aidan Mayo vs Benjamin Willw | Aidan Mayo (BUY) | 91% | 5.00 | 1.3% | ⏳ pendiente | — |
+| 11vsldfdsgfkjgos | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Hugo Cardinaud (BUY) | 65% | 5.00 | 17.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Gabriela Knutson (BUY) | 68% | 5.00 | 1.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Frederico Fe | Jurij Rodionov (BUY) | 99% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Marvin Moeller vs Matias Soto | Marvin Moeller (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -515,6 +518,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 36.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Francesca Pace (BUY) | 86% | 5.00 | 1.9% | ✅ ganada | +0.78 |
 | HomeRunHazard | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 42% | 5.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 41% | 5.00 | 2.7% | ⏳ pendiente | — |
-|  | Counter-Strike: Natus Vincere vs M80 (BO | Natus Vincere (BUY) | 95% | 5.00 | 3.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Elena Pridan | Rebecca Marino (BUY) | 45% | 5.00 | 4.6% | ❌ perdida | -5.14 |
