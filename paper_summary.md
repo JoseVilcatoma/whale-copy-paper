@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 20:57:39 (hora de Perú)
+Actualizado: 2026-08-25 20:59:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.04
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 20:57:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $126.04)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $111.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 77 | 12 | 0 | +50.64 USD |
+| swisstony | 77 | 12 | 3 | +50.64 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
 | casualbet2020 | 18 | 7 | 0 | +30.82 USD |
@@ -452,8 +452,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
+| swisstony | Spread: CD Tolima (-1.5) | Independiente del Valle (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
+| swisstony | Spread: San Francisco Giants (-1.5) | Cincinnati Reds (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 541.0% | ⏳ pendiente | — |
-| Sassy-Bucket | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 47% | 5.00 | 13.2% | ⏳ pendiente | — |
+| Sassy-Bucket | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 47% | 5.00 | 24.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants | Over (BUY) | 53% | 5.00 | 97.0% | ⏳ pendiente | — |
 | OOOwhyOOO | Monterrey Open: Panna Udvardy vs Maya Jo | Panna Udvardy (BUY) | 99% | 5.00 | 70.4% | ✅ ganada | +0.05 |
 |  | Chicago Sky vs. Connecticut Sun | Connecticut Sun (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
@@ -479,6 +482,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 2.3% | ❌ perdida | -5.00 |
 | HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
-| SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
-| HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: New York Mets (-2.5) | Milwaukee Brewers (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
