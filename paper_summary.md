@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:22:21 (hora de Perú)
+Actualizado: 2026-08-26 10:24:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $487.14
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:22:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $32.14)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $22.14)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | GoalLineGhost | 1 | 4 | 16 | -17.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 297 | 137 | 17 | -45.14 USD |
+| RN1 | 297 | 137 | 19 | -45.14 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 53 | 38 | 16 | -83.66 USD |
@@ -486,6 +486,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Anouk Koever | Linda Klimovicova (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Thomas Fancutt vs Luis Guto  | Luis Guto Miguel (BUY) | 81% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Genaro Alber | Genaro Alberto Olivieri (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -514,5 +516,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Asyut Petroleum SC win on 2026-08-2 | No (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | GoalLineGhost | Al Faisaly Saudi Club vs. Al Fateh Saudi | Over (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 52% | 5.00 | 30.5% | ⏳ pendiente | — |
-|  | US Open, Qualification WTA: Robin Montgo | Jeline Vandromme (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
-|  | Olympique Lyonnais vs. Fenerbahçe SK: Te | Olympique Lyonnais (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
