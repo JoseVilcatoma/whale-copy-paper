@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.7263457544915,
+  "bankroll": 527.2452931229126,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11285,6 +11285,11 @@
       "timestamp": 1787773564.2128916,
       "bankroll": 525.73,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Max Purcell vs Garrett Johns"
+    },
+    {
+      "timestamp": 1787773814.7901502,
+      "bankroll": 527.25,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Susan Bandecchi vs Viktoria Hruncakova"
     }
   ]
 }

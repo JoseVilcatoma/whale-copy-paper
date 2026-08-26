@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 14:49:26 (hora de Perú)
+Actualizado: 2026-08-26 14:51:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $525.73
-**Retorno acumulado:** +5.15%
+**Bankroll actual:** $527.25
+**Retorno acumulado:** +5.45%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 14:49:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $65.73)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $67.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 315 | 151 | 38 | +65.05 USD |
+| HomeRunHazard | 316 | 151 | 38 | +66.57 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 14 | 1 | +43.04 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2164
-- **Aciertos:** 1399 (64.6%)
-- **Cuota promedio de entrada:** 63.9%
+- **Apuestas resueltas:** 2165
+- **Aciertos:** 1400 (64.7%)
+- **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,807.59
-- **ROI sobre lo apostado:** -0.55%
-- **Comisiones pagadas (taker fee):** $194.87 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,812.59
+- **ROI sobre lo apostado:** -0.54%
+- **Comisiones pagadas (taker fee):** $194.93 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1050 | 50.5% | 50.2% | +0.3 pp |
-| 60-79% | 654 | 69.7% | 67.6% | +2.1 pp |
+| 60-79% | 655 | 69.8% | 67.6% | +2.2 pp |
 | 80-94% | 310 | 87.1% | 86.8% | +0.3 pp |
 | 95-99% (casi seguro) | 150 | 95.3% | 97.4% | -2.0 pp |
 
@@ -499,6 +499,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 49% | 5.00 | 7.8% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Cleveland Guardians (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -526,6 +527,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Harriet Dart (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Ignacio Buse (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Tyra Caterin | Tyra Caterina Grant (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Susan Bandec | Susan Bandecchi (BUY) | 76% | 5.00 | 4.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Susan Bandec | Susan Bandecchi (BUY) | 76% | 5.00 | 4.8% | ✅ ganada | +1.52 |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 70% | 5.00 | 4.9% | ⏳ pendiente | — |
-| ripley86alien | Real Madrid CF vs. Real Sociedad de Fútb | Over (BUY) | 54% | 5.00 | 83.5% | ⏳ pendiente | — |
