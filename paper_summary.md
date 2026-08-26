@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 03:33:18 (hora de Perú)
+Actualizado: 2026-08-26 03:35:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.40
-**Retorno acumulado:** -2.32%
+**Bankroll actual:** $479.49
+**Retorno acumulado:** -4.10%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 03:33:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $298.40)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $314.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 2 | +40.75 USD |
 | HomeRunHazard | 283 | 143 | 3 | +37.29 USD |
-| swisstony | 82 | 16 | 3 | +36.49 USD |
+| swisstony | 83 | 17 | 1 | +32.61 USD |
 | casualbet2020 | 18 | 7 | 0 | +30.82 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -37,7 +37,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| SnakeBall | 6 | 0 | 4 | +5.94 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | texaskid | 1 | 0 | 0 | +4.88 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -52,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
@@ -80,21 +80,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 282 | 132 | 10 | -51.35 USD |
+| RN1 | 282 | 132 | 11 | -51.35 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 4 | -72.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2036
-- **Aciertos:** 1310 (64.3%)
+- **Apuestas resueltas:** 2042
+- **Aciertos:** 1313 (64.3%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,168.48
-- **ROI sobre lo apostado:** -0.94%
-- **Comisiones pagadas (taker fee):** $183.90 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,198.48
+- **ROI sobre lo apostado:** -1.03%
+- **Comisiones pagadas (taker fee):** $184.39 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,9 +102,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 998 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 612 | 69.6% | 67.5% | +2.1 pp |
-| 80-94% | 282 | 86.5% | 86.9% | -0.4 pp |
+| 40-59% | 1000 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 615 | 69.4% | 67.6% | +1.9 pp |
+| 80-94% | 283 | 86.6% | 86.9% | -0.3 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -463,9 +463,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF M15 Pecs Men: Herman Hoeyeraal vs Fi | Herman Hoeyeraal (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 3.4% | ⏳ pendiente | — |
+| RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | ITF W50 Kursumlijska Banja Women: Giorgi | Giorgia Pedone (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Carles Hernandez (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Al Faisaly Saudi Club win on 2026-0 | No (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -475,9 +476,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W75 Bytom Women: Sapfo Sakellaridi v | Sapfo Sakellaridi (BUY) | 90% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
-| SnakeBall | Will Club León FC vs. Real Salt Lake end | No (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |
+| SnakeBall | Will Club León FC vs. Real Salt Lake end | No (BUY) | 73% | 5.00 | 0.9% | ✅ ganada | +1.78 |
 | SnakeBall | Club León FC vs. Real Salt Lake: Real Sa | Under (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
-| SnakeBall | Will Club León FC win on 2026-08-25? | Yes (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
+| SnakeBall | Will Club León FC win on 2026-08-25? | Yes (BUY) | 59% | 5.00 | 0.7% | ✅ ganada | +3.37 |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 35.8% | ❌ perdida | -5.10 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 41% | 5.00 | 3.0% | ✅ ganada | +7.05 |
 | HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ✅ ganada | +1.13 |
@@ -492,4 +493,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.9% | ✅ ganada | +0.78 |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 3.5 | Under (BUY) | 63% | 5.00 | 2.7% | ✅ ganada | +2.84 |
-| SnakeBall | Club León FC vs. Real Salt Lake: Club Le | Under (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |

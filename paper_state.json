@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.4023148638517,
+  "bankroll": 479.4872062035313,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10625,6 +10625,36 @@
       "timestamp": 1787732911.1200182,
       "bankroll": 488.4,
       "event": "lost: RN1 \u2014 Cleveland Guardians vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1787733223.7674859,
+      "bankroll": 483.32,
+      "event": "lost: swisstony \u2014 Will Club Le\u00f3n FC win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787733224.0233972,
+      "bankroll": 484.52,
+      "event": "won: swisstony \u2014 Club Le\u00f3n FC vs. Real Salt Lake: O/U 1.5"
+    },
+    {
+      "timestamp": 1787733224.314737,
+      "bankroll": 479.41,
+      "event": "lost: SnakeBall \u2014 Club Le\u00f3n FC vs. Real Salt Lake: O/U 2.5"
+    },
+    {
+      "timestamp": 1787733224.6130419,
+      "bankroll": 474.33,
+      "event": "lost: SnakeBall \u2014 Club Le\u00f3n FC vs. Real Salt Lake: Club Le\u00f3n FC O/U 1.5"
+    },
+    {
+      "timestamp": 1787733224.983868,
+      "bankroll": 477.71,
+      "event": "won: SnakeBall \u2014 Will Club Le\u00f3n FC win on 2026-08-25?"
+    },
+    {
+      "timestamp": 1787733225.2480085,
+      "bankroll": 479.49,
+      "event": "won: SnakeBall \u2014 Will Club Le\u00f3n FC vs. Real Salt Lake end in a draw?"
     }
   ]
 }
