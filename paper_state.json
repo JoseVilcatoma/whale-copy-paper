@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.58180281489643,
+  "bankroll": 500.68052412637184,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10775,6 +10775,11 @@
       "timestamp": 1787748136.4194033,
       "bankroll": 497.58,
       "event": "won: HomeRunHazard \u2014 Augsburg: Juan Estevez vs Benito Sanchez Martinez"
+    },
+    {
+      "timestamp": 1787749141.615542,
+      "bankroll": 500.68,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Janice Tjen vs Yulia Starodubtseva"
     }
   ]
 }
