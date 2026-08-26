@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:02:41 (hora de Perú)
+Actualizado: 2026-08-26 18:04:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $511.03
-**Retorno acumulado:** +2.21%
+**Bankroll actual:** $491.45
+**Retorno acumulado:** -1.71%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:02:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $146.03)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $151.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 342 | 163 | 40 | +56.28 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
+| HomeRunHazard | 343 | 165 | 37 | +46.98 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -33,7 +33,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 7 | 4 | 1 | +16.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| texaskid | 2 | 0 | 3 | +9.76 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 4 | 3 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -41,6 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| texaskid | 2 | 1 | 2 | +4.62 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -87,20 +87,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 313 | 143 | 0 | -42.08 USD |
-| Sassy-Bucket | 15 | 25 | 3 | -58.10 USD |
+| Sassy-Bucket | 15 | 26 | 2 | -63.24 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 44 | 5 | -86.08 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2233
-- **Aciertos:** 1445 (64.7%)
-- **Cuota promedio de entrada:** 64.1%
+- **Apuestas resueltas:** 2238
+- **Aciertos:** 1446 (64.6%)
+- **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,152.59
-- **ROI sobre lo apostado:** -0.67%
-- **Comisiones pagadas (taker fee):** $200.50 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,177.59
+- **ROI sobre lo apostado:** -0.84%
+- **Comisiones pagadas (taker fee):** $201.10 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1079 | 50.3% | 50.2% | +0.1 pp |
+| 40-59% | 1083 | 50.1% | 50.2% | -0.0 pp |
 | 60-79% | 676 | 69.8% | 67.7% | +2.2 pp |
-| 80-94% | 323 | 87.3% | 86.8% | +0.5 pp |
+| 80-94% | 324 | 87.3% | 86.8% | +0.6 pp |
 | 95-99% (casi seguro) | 155 | 95.5% | 97.4% | -1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)

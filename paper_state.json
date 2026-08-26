@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.02719536522807,
+  "bankroll": 491.4492917507703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11630,6 +11630,31 @@
       "timestamp": 1787785355.7296996,
       "bankroll": 511.03,
       "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 6.5"
+    },
+    {
+      "timestamp": 1787785418.6663659,
+      "bankroll": 505.88,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1787785419.0390315,
+      "bankroll": 500.75,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787785419.1392024,
+      "bankroll": 495.61,
+      "event": "lost: texaskid \u2014 Philadelphia Phillies vs. Seattle Mariners: O/U 7.5"
+    },
+    {
+      "timestamp": 1787785420.7074027,
+      "bankroll": 490.47,
+      "event": "lost: Sassy-Bucket \u2014 Philadelphia Phillies vs. Seattle Mariners"
+    },
+    {
+      "timestamp": 1787785421.0078754,
+      "bankroll": 491.45,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Seattle Mariners"
     }
   ]
 }
