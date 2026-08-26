@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.13523766061587,
+  "bankroll": 491.27949691987516,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10915,6 +10915,11 @@
       "timestamp": 1787757669.0235434,
       "bankroll": 487.14,
       "event": "won: RN1 \u2014 ITF M15 Vienna Men: Aleksandr Braynin vs Paul Schmid"
+    },
+    {
+      "timestamp": 1787757914.2370844,
+      "bankroll": 491.28,
+      "event": "won: HomeRunHazard \u2014 KBO: Doosan Bears vs. KT Wiz"
     }
   ]
 }
