@@ -57896,8 +57896,8 @@
     "title": "US Open, Qualification WTA: Kristina Penickova vs Harriet Dart",
     "outcome": "Kristina Penickova",
     "side": "BUY",
-    "whale_usd": 1554.0403,
-    "whale_pct": 0.509,
+    "whale_usd": 2579.0402999999997,
+    "whale_pct": 0.845,
     "whale_value_at_open": 305171.8143,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -57908,7 +57908,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787771366.4575024,
-    "fills": 1
+    "last_fill_at": 1787771578.1070654,
+    "fills": 2
   }
 ]
