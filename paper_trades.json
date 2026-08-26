@@ -56744,8 +56744,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -57084,8 +57084,8 @@
     "title": "Map Handicap: FURIA (-1.5) vs paiN (+1.5)",
     "outcome": "FURIA",
     "side": "BUY",
-    "whale_usd": 98812.9325,
-    "whale_pct": 4313.612,
+    "whale_usd": 115612.92689999999,
+    "whale_pct": 5047.004,
     "whale_value_at_open": 2290.7238,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -57096,8 +57096,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787766052.327751,
-    "fills": 1
+    "last_fill_at": 1787766489.8803144,
+    "fills": 2
   },
   {
     "timestamp": 1787766165,

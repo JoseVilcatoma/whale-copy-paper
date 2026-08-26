@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.343298503291,
+  "bankroll": 493.39080355379605,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11090,6 +11090,11 @@
       "timestamp": 1787766249.9531264,
       "bankroll": 493.34,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Andrea Guerrieri vs Joel Schwaerzler"
+    },
+    {
+      "timestamp": 1787766432.2897215,
+      "bankroll": 493.39,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Frederico Ferreira Silva vs Jurij Rodionov"
     }
   ]
 }
