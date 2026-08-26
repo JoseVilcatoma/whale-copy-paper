@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 03:35:20 (hora de Perú)
+Actualizado: 2026-08-26 03:37:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 03:35:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $314.49)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $304.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,10 +80,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 282 | 132 | 11 | -51.35 USD |
+| RN1 | 282 | 132 | 12 | -51.35 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 50 | 35 | 4 | -72.46 USD |
+|  | 50 | 35 | 5 | -72.46 USD |
 
 ## Análisis general
 
@@ -458,11 +458,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ind1-tol-2026-08-18-total-3pt5 | RN1, swisstony |
 | mlb-min-oak-2026-08-25-total-8pt5 | HomeRunHazard, RN1 |
 | lec-leo-rsl-2026-08-25-leo | SnakeBall, swisstony |
+| cs2-aur1-g2-2026-08-26 | , SPCEXBUYER |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Daniel Verbeek (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
+|  | Counter-Strike: Aurora Gaming vs G2 (BO3 | Aurora Gaming (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF M15 Pecs Men: Herman Hoeyeraal vs Fi | Herman Hoeyeraal (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -491,5 +494,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 99% | 5.00 | 1.0% | ❌ perdida | -5.00 |
 |  | Set Handicap: Watson (-1.5) vs Boluda (+ | Watson (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.9% | ✅ ganada | +0.78 |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 3.5 | Under (BUY) | 63% | 5.00 | 2.7% | ✅ ganada | +2.84 |
