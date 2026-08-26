@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 16:43:13 (hora de Perú)
+Actualizado: 2026-08-26 16:45:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 16:43:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $98.17)
+**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $93.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 331 | 156 | 46 | +71.40 USD |
+| HomeRunHazard | 331 | 156 | 47 | +71.40 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -487,6 +487,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-pit-sd-2026-08-26 | HomeRunHazard, SDTrading |
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 | atp-cretu-damas-2026-08-26 | HomeRunHazard, RN1 |
+| wta-hibino-siskova-2026-08-26 | , HomeRunHazard |
 | atp-mena-wehnelt-2026-08-26 | Djdjdjekekek, RN1 |
 | wta-montgom-vandrom-2026-08-26 | , HomeRunHazard |
 | wnba-tor-sea-2026-08-26-total-174pt5 | HomeRunHazard, wr0ngw4yb3tt0r |
@@ -507,6 +508,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Nao Hibino v | Nao Hibino (BUY) | 72% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 118.7% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Connecticut S | Golden State Valkyries (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -536,4 +538,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Juan Pablo Ficovich vs Migue | Miguel Tobon (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Nishesh Basavareddy (BUY) | 93% | 5.00 | 1.3% | ✅ ganada | +0.36 |
-| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 64% | 5.00 | 6.5% | ⏳ pendiente | — |
