@@ -54127,5 +54127,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787737382.6436627,
     "fills": 1
+  },
+  {
+    "timestamp": 1787738132,
+    "timestamp_added": 1787738132.463225,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "kor-dae1-uls-2026-08-26-dae1",
+    "title": "Will Daejeon Hana Citizen FC win on 2026-08-26?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 502.08950000000004,
+    "whale_pct": 1.261,
+    "whale_value_at_open": 39815.3396,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787738132.4632335,
+    "fills": 1
   }
 ]
