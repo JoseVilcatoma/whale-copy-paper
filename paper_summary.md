@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 02:06:23 (hora de Perú)
+Actualizado: 2026-08-26 02:08:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $528.16
-**Retorno acumulado:** +5.63%
+**Bankroll actual:** $522.59
+**Retorno acumulado:** +4.52%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 02:06:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $283.16)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $292.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,10 +21,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 82 | 14 | 5 | +46.70 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
+| swisstony | 82 | 15 | 4 | +41.57 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
-| HomeRunHazard | 279 | 141 | 9 | +34.09 USD |
+| HomeRunHazard | 280 | 141 | 8 | +38.77 USD |
 | casualbet2020 | 18 | 7 | 0 | +30.82 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 25 | 17 | 3 | +29.46 USD |
@@ -81,20 +81,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 279 | 129 | 7 | -49.45 USD |
-| Sassy-Bucket | 15 | 24 | 1 | -52.98 USD |
+| Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 178 | 6 | -58.54 USD |
 |  | 50 | 34 | 5 | -67.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2014
-- **Aciertos:** 1302 (64.6%)
+- **Apuestas resueltas:** 2017
+- **Aciertos:** 1303 (64.6%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,058.48
-- **ROI sobre lo apostado:** -0.56%
-- **Comisiones pagadas (taker fee):** $181.55 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,073.48
+- **ROI sobre lo apostado:** -0.61%
+- **Comisiones pagadas (taker fee):** $181.92 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -102,7 +102,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 981 | 50.5% | 50.2% | +0.3 pp |
+| 40-59% | 984 | 50.4% | 50.2% | +0.2 pp |
 | 60-79% | 609 | 70.0% | 67.6% | +2.4 pp |
 | 80-94% | 281 | 86.5% | 86.9% | -0.4 pp |
 | 95-99% (casi seguro) | 143 | 96.5% | 97.4% | -0.9 pp |
@@ -472,7 +472,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 45% | 5.00 | 2.0% | ✅ ganada | +5.97 |
 | RN1 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
-| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.2% | ✅ ganada | +4.68 |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Minnesota Twins vs. Athletics: O/U 8.5 | Over (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 |  | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 80% | 5.00 | 1.6% | ✅ ganada | +1.20 |

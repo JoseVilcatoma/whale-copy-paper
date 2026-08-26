@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.1622007417579,
+  "bankroll": 522.5941223103854,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10515,6 +10515,21 @@
       "timestamp": 1787727794.075102,
       "bankroll": 528.16,
       "event": "won: HomeRunHazard \u2014 Pittsburgh Pirates vs. San Diego Padres: O/U 5.5"
+    },
+    {
+      "timestamp": 1787728100.3001556,
+      "bankroll": 523.05,
+      "event": "lost: Sassy-Bucket \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1787728100.6013405,
+      "bankroll": 517.91,
+      "event": "lost: swisstony \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1787728104.7062635,
+      "bankroll": 522.59,
+      "event": "won: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 4.5"
     }
   ]
 }
