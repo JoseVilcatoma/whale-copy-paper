@@ -59067,5 +59067,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787780679.1277947,
     "fills": 2
+  },
+  {
+    "timestamp": 1787781213,
+    "timestamp_added": 1787781213.7826693,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-kubka-ribera-2026-08-26",
+    "title": "US Open, Qualification WTA: Martyna Kubka vs Marina Bassols Ribera",
+    "outcome": "Martyna Kubka",
+    "side": "BUY",
+    "whale_usd": 2192.9971,
+    "whale_pct": 0.678,
+    "whale_value_at_open": 323610.5048,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787781213.7826817,
+    "fills": 1
   }
 ]
