@@ -54741,5 +54741,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787743558.002408,
     "fills": 1
+  },
+  {
+    "timestamp": 1787743689,
+    "timestamp_added": 1787743690.8522477,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "lal-rea-rso-2026-08-26-total-3pt5",
+    "title": "Real Madrid CF vs. Real Sociedad de F\u00fatbol: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1230.9768,
+    "whale_pct": 2.566,
+    "whale_value_at_open": 47978.6235,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787743690.8522747,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 06:26:16 (hora de Perú)
+Actualizado: 2026-08-26 06:28:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 06:26:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $226.99)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $221.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| GoalLineGhost | 0 | 0 | 9 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 10 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 20 | 16 | 0 | -0.57 USD |
@@ -473,6 +473,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Real Madrid CF vs. Real Sociedad de Fútb | Under (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vietnam win on 2026-08-26? | No (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Kei Nishikor | Michael Antonius (BUY) | 41% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Under (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -502,4 +503,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 6.4% | ✅ ganada | +4.68 |
 | GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 10.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 6.9% | ✅ ganada | +4.88 |
