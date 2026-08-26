@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 07:20:28 (hora de Perú)
+Actualizado: 2026-08-26 07:22:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.80
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 07:20:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $196.80)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $186.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 285 | 143 | 8 | +46.85 USD |
+| HomeRunHazard | 285 | 143 | 9 | +46.85 USD |
 | BOOMBOYS.Kiritych | 27 | 13 | 1 | +43.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 21 | 4 | +40.61 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 6 | 2 | 2 | +20.79 USD |
-| SDTrading | 25 | 19 | 4 | +19.23 USD |
+| SDTrading | 25 | 19 | 5 | +19.23 USD |
 | ChonkyChocolateCake | 33 | 19 | 1 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -469,11 +469,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-kt-bro2-2026-08-26-game3 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
 | asean-vie-tha-2026-08-26-vie | , GoalLineGhost |
 | lol-kt-bro2-2026-08-26-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
+| mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
+| SDTrading | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 58% | 5.00 | 4.6% | ⏳ pendiente | — |
 | SDTrading | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SDTrading | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 49% | 5.00 | 28.6% | ⏳ pendiente | — |
@@ -502,5 +505,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | LoL: KT Rolster vs HANJIN BRION - Game 3 | KT Rolster (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Winston-Salem Open: Lorenzo Sonego vs Ja | Lorenzo Sonego (BUY) | 56% | 5.00 | 3.5% | ⏳ pendiente | — |
 | GoalLineGhost | FC Anyang vs. Incheon United FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 3.4% | ⏳ pendiente | — |
-| GoalLineGhost | Spread: Ranheim (-2.5) | Stabaek IF (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 43% | 5.00 | 1.0% | ⏳ pendiente | — |
