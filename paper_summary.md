@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:34:51 (hora de Perú)
+Actualizado: 2026-08-25 19:36:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.66
@@ -448,7 +448,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Monterrey Open: Panna Udvardy vs Maya Jo | Maya Joint (BUY) | 72% | 4.66 | 2.0% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Panna Udvardy vs Maya Jo | Maya Joint (BUY) | 72% | 4.66 | 2.2% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 94% | 5.00 | 2.1% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 83% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -456,7 +456,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 224.7% | 💰 vendida anticipada | +0.29 |
 | HomeRunHazard | Winston-Salem Open: Miomir Kecmanovic vs | Fabian Marozsan (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 46% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Janice Tjen vs Yulia Sta | Yulia Starodubtseva (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Janice Tjen vs Yulia Sta | Yulia Starodubtseva (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Dalma Galfi  | Dalma Galfi (BUY) | 49% | 5.00 | 5.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Toronto Blue Jays (-2.5) | Kansas City Royals (BUY) | 83% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |

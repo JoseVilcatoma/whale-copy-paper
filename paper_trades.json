@@ -51657,8 +51657,8 @@
     "title": "Monterrey Open: Janice Tjen vs Yulia Starodubtseva",
     "outcome": "Yulia Starodubtseva",
     "side": "BUY",
-    "whale_usd": 1432.44,
-    "whale_pct": 0.339,
+    "whale_usd": 2628.2148,
+    "whale_pct": 0.622,
     "whale_value_at_open": 422338.572,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -51669,8 +51669,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787703877.785268,
-    "fills": 1
+    "last_fill_at": 1787704587.9695892,
+    "fills": 2
   },
   {
     "timestamp": 1787703965,
@@ -51863,8 +51863,8 @@
     "title": "Monterrey Open: Panna Udvardy vs Maya Joint",
     "outcome": "Maya Joint",
     "side": "BUY",
-    "whale_usd": 9629.061099999999,
-    "whale_pct": 2.047,
+    "whale_usd": 10178.561399999999,
+    "whale_pct": 2.164,
     "whale_value_at_open": 470391.5309,
     "paper_stake_usd": 4.66,
     "odds_at_bet": 72,
@@ -51875,7 +51875,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787704434.5106297,
-    "fills": 2
+    "last_fill_at": 1787704515.6630547,
+    "fills": 3
   }
 ]
