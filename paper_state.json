@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.5823681366613,
+  "bankroll": 531.794539853833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11360,6 +11360,21 @@
       "timestamp": 1787777766.8232613,
       "bankroll": 531.58,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Juan Pablo Ficovich vs Miguel Tobon"
+    },
+    {
+      "timestamp": 1787777885.2150667,
+      "bankroll": 536.87,
+      "event": "won:  \u2014 Will Lyn 1896 FK win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787777887.3367693,
+      "bankroll": 536.92,
+      "event": "won: GoalLineGhost \u2014 Spread: Ranheim (-2.5)"
+    },
+    {
+      "timestamp": 1787777892.5456097,
+      "bankroll": 531.79,
+      "event": "lost: RN1 \u2014 Will Lyn 1896 FK win on 2026-08-26?"
     }
   ]
 }
