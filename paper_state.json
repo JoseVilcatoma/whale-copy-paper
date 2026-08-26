@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.4099718972033,
+  "bankroll": 478.78766155237577,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11780,6 +11780,16 @@
       "timestamp": 1787788349.64801,
       "bankroll": 480.41,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Heather Watson vs Angela Fita Boluda"
+    },
+    {
+      "timestamp": 1787788662.7000408,
+      "bankroll": 483.93,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Cristina Bucsa vs Darja Vidmanova"
+    },
+    {
+      "timestamp": 1787788663.8288105,
+      "bankroll": 478.79,
+      "event": "lost: Donghui \u2014 Monterrey Open: Cristina Bucsa vs Darja Vidmanova"
     }
   ]
 }
