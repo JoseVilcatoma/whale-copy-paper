@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.7142691482494,
+  "bankroll": 478.99138307230004,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10680,6 +10680,11 @@
       "timestamp": 1787738864.3971515,
       "bankroll": 477.71,
       "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Hurghada 6 (Egypt), hard: Marat Salbiev vs Michal Krajci"
+    },
+    {
+      "timestamp": 1787739176.546724,
+      "bankroll": 478.99,
+      "event": "won: RN1 \u2014 Greece F17, Singles: Filip Peliwo vs Joshua Charlton"
     }
   ]
 }

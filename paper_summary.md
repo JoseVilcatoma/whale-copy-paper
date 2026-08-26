@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:12:40 (hora de Perú)
+Actualizado: 2026-08-26 05:14:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $477.71
-**Retorno acumulado:** -4.46%
+**Bankroll actual:** $478.99
+**Retorno acumulado:** -4.20%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:12:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $212.71)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $208.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 1 | +45.69 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 3 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 2 | +40.75 USD |
 | HomeRunHazard | 283 | 143 | 7 | +37.29 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -81,21 +81,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 286 | 133 | 15 | -53.13 USD |
+| RN1 | 287 | 133 | 14 | -51.85 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 9 | -72.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2047
-- **Aciertos:** 1317 (64.3%)
+- **Apuestas resueltas:** 2048
+- **Aciertos:** 1318 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,223.48
-- **ROI sobre lo apostado:** -1.04%
-- **Comisiones pagadas (taker fee):** $184.67 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.76% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,228.48
+- **ROI sobre lo apostado:** -1.03%
+- **Comisiones pagadas (taker fee):** $184.72 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -104,7 +104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1001 | 50.2% | 50.2% | +0.0 pp |
-| 60-79% | 615 | 69.4% | 67.6% | +1.9 pp |
+| 60-79% | 616 | 69.5% | 67.6% | +1.9 pp |
 | 80-94% | 287 | 86.8% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
@@ -463,11 +463,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-kopp-brunold-2026-08-26 | HomeRunHazard, RN1 |
 | atp-serna-barton-2026-08-26 | HomeRunHazard, RN1 |
 | kor-dae1-uls-2026-08-26-dae1 | GoalLineGhost, plonker2026 |
+| lol-kt-bro2-2026-08-26-game3 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 3 | KT Rolster (BUY) | 44% | 5.00 | 9.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 3 | HANJIN BRION (BUY) | 41% | 5.00 | 9.4% | ⏳ pendiente | — |
 |  | LoL: KT Rolster vs HANJIN BRION - Game 3 | KT Rolster (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | Winston-Salem Open: Lorenzo Sonego vs Ja | Lorenzo Sonego (BUY) | 56% | 5.00 | 3.5% | ⏳ pendiente | — |
 | GoalLineGhost | FC Anyang vs. Incheon United FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -485,7 +488,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W15 Torello (Spain) | Sayaka Ishii (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Juan Manuel La Serna (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nicolo Toffanin (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Greece F17, Singles: Filip Peliwo vs Jos | Joshua Charlton (BUY) | 79% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | Greece F17, Singles: Filip Peliwo vs Jos | Joshua Charlton (BUY) | 79% | 5.00 | 1.1% | ✅ ganada | +1.28 |
 | RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -496,5 +499,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF M15 Pecs Men: Herman Hoeyeraal vs Fi | Herman Hoeyeraal (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 3.4% | ✅ ganada | +0.71 |
-| RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
-| RN1 | ITF W50 Kursumlijska Banja Women: Giorgi | Giorgia Pedone (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |
