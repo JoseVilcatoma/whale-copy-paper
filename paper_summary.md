@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 08:06:33 (hora de Perú)
+Actualizado: 2026-08-26 08:08:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.68
@@ -475,7 +475,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Daniel Masur (BUY) | 86% | 5.00 | 9.8% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Daniel Masur (BUY) | 86% | 5.00 | 10.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX (BO | BNK FEARX (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 4.5 | Under (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | CA River Plate vs. Independiente Santa F | Over (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |

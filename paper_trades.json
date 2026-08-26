@@ -55165,8 +55165,8 @@
     "title": "Augsburg: Max Schoenhaus vs Daniel Masur",
     "outcome": "Daniel Masur",
     "side": "BUY",
-    "whale_usd": 5462.142,
-    "whale_pct": 9.774,
+    "whale_usd": 6026.794,
+    "whale_pct": 10.784,
     "whale_value_at_open": 55885.8962,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -55177,7 +55177,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787749473.971517,
-    "fills": 2
+    "last_fill_at": 1787749684.550132,
+    "fills": 3
   }
 ]
