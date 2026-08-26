@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.34282994781836,
+  "bankroll": 491.26782994781837,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10930,6 +10930,11 @@
       "timestamp": 1787758235.3387802,
       "bankroll": 496.34,
       "event": "won: RN1 \u2014 Augsburg: Cezar Cretu vs Miguel Damas"
+    },
+    {
+      "timestamp": 1787759787.2887886,
+      "bankroll": 491.27,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Adrien Berrut vs Jeffrey Von Der Schulenburg"
     }
   ]
 }

@@ -55418,8 +55418,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -56173,8 +56173,8 @@
     "title": "Winston-Salem Open: Botic van de Zandschulp vs Luciano Darderi",
     "outcome": "Botic van de Zandschulp",
     "side": "BUY",
-    "whale_usd": 22299.105,
-    "whale_pct": 20.881,
+    "whale_usd": 38577.363,
+    "whale_pct": 36.123,
     "whale_value_at_open": 106793.38,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -56185,8 +56185,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758535.986219,
-    "fills": 4
+    "last_fill_at": 1787759838.960002,
+    "fills": 5
   },
   {
     "timestamp": 1787757485,
@@ -56465,8 +56465,8 @@
     "title": "US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme",
     "outcome": "Robin Montgomery",
     "side": "BUY",
-    "whale_usd": 8347.430401999998,
-    "whale_pct": 8.033,
+    "whale_usd": 9104.657601999997,
+    "whale_pct": 8.761,
     "whale_value_at_open": 103920.2483,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -56479,8 +56479,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758662.4313662,
-    "fills": 3
+    "last_fill_at": 1787759759.8795428,
+    "fills": 4
   },
   {
     "timestamp": 1787758134,
