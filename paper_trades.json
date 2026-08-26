@@ -57326,8 +57326,8 @@
     "title": "Kingston 2: Paulo Dos Santos vs Andres Martin",
     "outcome": "Andres Martin",
     "side": "BUY",
-    "whale_usd": 9674.3391,
-    "whale_pct": 4.416,
+    "whale_usd": 12446.5376,
+    "whale_pct": 5.682,
     "whale_value_at_open": 219065.8416,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -57338,8 +57338,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769745.423509,
-    "fills": 6
+    "last_fill_at": 1787770126.1990585,
+    "fills": 7
   },
   {
     "timestamp": 1787768201,
