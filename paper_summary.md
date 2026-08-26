@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 13:13:28 (hora de Perú)
+Actualizado: 2026-08-26 13:15:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.03
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 13:13:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $96.03)
+**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $86.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 2 | +48.17 USD |
-| HomeRunHazard | 300 | 150 | 24 | +41.89 USD |
+| HomeRunHazard | 300 | 150 | 26 | +41.89 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -492,6 +492,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: Paulo Dos Santos vs Andres M | Andres Martin (BUY) | 75% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Galions - Game 3 Win | Galions (BUY) | 65% | 5.00 | 63.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Real Madrid CF (-2.5) | Real Sociedad de Fútbol (BUY) | 61% | 5.00 | 2.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 61% | 5.00 | 32.7% | ⏳ pendiente | — |
@@ -520,5 +522,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Kyrian Jacquet (BUY) | 53% | 4.11 | 5.3% | ❌ perdida | -4.21 |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Alevtina Ibr | Mariam Bolkvadze (BUY) | 70% | 5.00 | 5.9% | ✅ ganada | +2.07 |
-|  | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 55% | 5.00 | 7.7% | ⏳ pendiente | — |
-| texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 50% | 5.00 | 214.8% | ⏳ pendiente | — |
