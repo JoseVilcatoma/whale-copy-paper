@@ -58699,5 +58699,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787778633.814447,
     "fills": 1
+  },
+  {
+    "timestamp": 1787778904,
+    "timestamp_added": 1787778905.1576004,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-sakamot-muller-2026-08-26",
+    "title": "US Open, Qualification ATP: Rei Sakamoto vs Alexandre Muller",
+    "outcome": "Rei Sakamoto",
+    "side": "BUY",
+    "whale_usd": 1900.0,
+    "whale_pct": 0.599,
+    "whale_value_at_open": 317077.7822,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787778905.1576133,
+    "fills": 1
   }
 ]
