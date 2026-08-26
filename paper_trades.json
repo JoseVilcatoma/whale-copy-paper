@@ -55117,8 +55117,8 @@
     "title": "Vietnam vs. Thailand: O/U 4.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3237.080769,
-    "whale_pct": 5.153,
+    "whale_usd": 5160.650769,
+    "whale_pct": 8.216,
     "whale_value_at_open": 62813.9468,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -55129,8 +55129,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787753266.3377247,
-    "fills": 2
+    "last_fill_at": 1787755261.4297411,
+    "fills": 3
   },
   {
     "timestamp": 1787749293,
@@ -55816,6 +55816,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787755134.1478114,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787755313,
+    "timestamp_added": 1787755314.092815,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-es1-khk-2026-08-26-game1",
+    "title": "LoL: Eintracht Spandau vs Kaufland Hangry Knights - Game 1 Winner",
+    "outcome": "Eintracht Spandau",
+    "side": "BUY",
+    "whale_usd": 1308.392363,
+    "whale_pct": 7.581,
+    "whale_value_at_open": 17257.8044,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787755314.092827,
     "fills": 1
   }
 ]
