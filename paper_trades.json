@@ -58018,8 +58018,8 @@
     "title": "US Open, Qualification ATP: Dalibor Svrcina vs Alexis Galarneau",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 2254.099532,
-    "whale_pct": 0.873,
+    "whale_usd": 5155.102032000001,
+    "whale_pct": 1.997,
     "whale_value_at_open": 258164.8338,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -58030,8 +58030,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787772878.670582,
-    "fills": 2
+    "last_fill_at": 1787773213.5885525,
+    "fills": 3
   },
   {
     "timestamp": 1787772922,
@@ -58042,8 +58042,8 @@
     "title": "Chicago Cubs vs. Arizona Diamondbacks: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 694.9936,
-    "whale_pct": 0.269,
+    "whale_usd": 1814.9936,
+    "whale_pct": 0.703,
     "whale_value_at_open": 258164.8338,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -58054,8 +58054,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787772923.332741,
-    "fills": 1
+    "last_fill_at": 1787773153.0789933,
+    "fills": 2
   },
   {
     "timestamp": 1787773127,
@@ -58066,8 +58066,8 @@
     "title": "Chicago Cubs vs. Arizona Diamondbacks",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 4676.0013,
-    "whale_pct": 2.0,
+    "whale_usd": 5542.667966,
+    "whale_pct": 2.37,
     "whale_value_at_open": 233836.5755,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -58078,8 +58078,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787773127.9410183,
-    "fills": 1
+    "last_fill_at": 1787773150.2872393,
+    "fills": 2
   },
   {
     "timestamp": 1787773133,
@@ -58104,5 +58104,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787773134.6560369,
     "fills": 2
+  },
+  {
+    "timestamp": 1787773213,
+    "timestamp_added": 1787773213.9481175,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-yuan-avdeeva-2026-08-26",
+    "title": "US Open, Qualification WTA: Yue Yuan vs Julia Avdeeva",
+    "outcome": "Yue Yuan",
+    "side": "BUY",
+    "whale_usd": 568.617,
+    "whale_pct": 0.228,
+    "whale_value_at_open": 248981.2091,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787773213.9481297,
+    "fills": 1
   }
 ]
