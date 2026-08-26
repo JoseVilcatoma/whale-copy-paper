@@ -2,7 +2,7 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787523231.3889632,
-    "roi_pct": 1467.31,
+    "roi_pct": 1496.99,
     "short_term_pct": 100.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
@@ -20,7 +20,7 @@
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1787692469.446457,
-    "roi_pct": 13069.45,
+    "roi_pct": 12825.56,
     "short_term_pct": 100.0
   },
   "0xdb859a551fcf56e49416160911476bea7307152f": {
@@ -32,7 +32,7 @@
   "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c": {
     "username": "",
     "added_at": 1787709476.6234312,
-    "roi_pct": 296.38,
+    "roi_pct": 312.41,
     "short_term_pct": 100.0
   },
   "0x6d20c35f65d9899b6d6b74f8466e824580f9a165": {
@@ -44,19 +44,19 @@
   "0x5268527977f700f9bf9b6d5cd843859e4e70135d": {
     "username": "HomeRunHazard",
     "added_at": 1787714693.8282444,
-    "roi_pct": 253.89,
+    "roi_pct": 330.7,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1787715655.613642,
-    "roi_pct": 71.02,
+    "roi_pct": 88.12,
     "short_term_pct": 100.0
   },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1787716610.615041,
-    "roi_pct": 61.67,
+    "roi_pct": 69.17,
     "short_term_pct": 70.0
   }
 }

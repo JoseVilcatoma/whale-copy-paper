@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.0946130961969,
+  "bankroll": 516.7765346648243,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10350,6 +10350,11 @@
       "timestamp": 1787717598.6010962,
       "bankroll": 512.09,
       "event": "won: HomeRunHazard \u2014 Monterrey Open: Oleksandra Oliynykova vs Diane Parry"
+    },
+    {
+      "timestamp": 1787718227.6307213,
+      "bankroll": 516.78,
+      "event": "won: HomeRunHazard \u2014 Washington Mystics vs. Phoenix Mercury: O/U 167.5"
     }
   ]
 }
