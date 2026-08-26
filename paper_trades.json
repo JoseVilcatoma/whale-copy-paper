@@ -56665,8 +56665,8 @@
     "title": "US Open, Qualification ATP: Kyrian Jacquet vs Aziz Dougaz",
     "outcome": "Kyrian Jacquet",
     "side": "BUY",
-    "whale_usd": 4681.4687,
-    "whale_pct": 2.885,
+    "whale_usd": 8589.596000000001,
+    "whale_pct": 5.294,
     "whale_value_at_open": 162257.3298,
     "paper_stake_usd": 4.11,
     "odds_at_bet": 53,
@@ -56677,8 +56677,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1787762749.213555,
-    "fills": 3
+    "last_fill_at": 1787763495.187939,
+    "fills": 4
   },
   {
     "timestamp": 1787761056,
@@ -56702,6 +56702,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787761057.3452384,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787763488,
+    "timestamp_added": 1787763488.4893942,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-moelle-soto-2026-08-26",
+    "title": "Augsburg: Marvin Moeller vs Matias Soto",
+    "outcome": "Marvin Moeller",
+    "side": "BUY",
+    "whale_usd": 819.39,
+    "whale_pct": 0.372,
+    "whale_value_at_open": 220343.7495,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787763488.489404,
     "fills": 1
   }
 ]
