@@ -54137,8 +54137,8 @@
     "title": "Will Daejeon Hana Citizen FC win on 2026-08-26?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 12933.3895,
-    "whale_pct": 32.483,
+    "whale_usd": 22468.4245,
+    "whale_pct": 56.432,
     "whale_value_at_open": 39815.3396,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -54151,8 +54151,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787738632.5322855,
-    "fills": 4
+    "last_fill_at": 1787739142.5642183,
+    "fills": 5
   },
   {
     "timestamp": 1787738225,

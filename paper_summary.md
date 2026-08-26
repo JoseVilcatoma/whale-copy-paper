@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:10:38 (hora de Perú)
+Actualizado: 2026-08-26 05:12:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.71
@@ -473,7 +473,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FC Anyang vs. Incheon United FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 3.4% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Ranheim (-2.5) | Stabaek IF (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 43% | 5.00 | 1.0% | ⏳ pendiente | — |
-| plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 32.5% | ⏳ pendiente | — |
+| plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 56.4% | ⏳ pendiente | — |
 | plonker2026 | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 6.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 10.6% | ⏳ pendiente | — |
