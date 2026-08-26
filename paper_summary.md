@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 07:41:23 (hora de Perú)
+Actualizado: 2026-08-26 07:43:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $496.80
-**Retorno acumulado:** -0.64%
+**Bankroll actual:** $497.58
+**Retorno acumulado:** -0.48%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 07:41:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $161.80)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $167.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 285 | 143 | 10 | +46.85 USD |
+| HomeRunHazard | 286 | 143 | 9 | +47.63 USD |
 | BOOMBOYS.Kiritych | 27 | 13 | 1 | +43.85 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 21 | 4 | +40.61 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -88,14 +88,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2065
-- **Aciertos:** 1330 (64.4%)
+- **Apuestas resueltas:** 2066
+- **Aciertos:** 1331 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,313.48
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $186.42 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,318.48
+- **ROI sobre lo apostado:** -0.84%
+- **Comisiones pagadas (taker fee):** $186.45 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.97% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1011 | 50.5% | 50.3% | +0.3 pp |
 | 60-79% | 622 | 69.3% | 67.6% | +1.7 pp |
-| 80-94% | 288 | 86.8% | 86.8% | -0.0 pp |
+| 80-94% | 289 | 86.9% | 86.8% | +0.0 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -492,7 +492,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Kei Nishikor | Michael Antonius (BUY) | 41% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Under (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Martin Krumich (BUY) | 61% | 5.00 | 11.5% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Juan Estevez vs Benito Sanchez | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 2.6% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Juan Estevez vs Benito Sanchez | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 2.6% | ✅ ganada | +0.78 |
 | HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Svyatoslav Gulin (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 66% | 5.00 | 198.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 61% | 5.00 | 98.5% | ⏳ pendiente | — |

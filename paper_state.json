@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.8028493265243,
+  "bankroll": 497.58180281489643,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10770,6 +10770,11 @@
       "timestamp": 1787746636.5660644,
       "bankroll": 496.8,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: KT Rolster vs HANJIN BRION - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787748136.4194033,
+      "bankroll": 497.58,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Juan Estevez vs Benito Sanchez Martinez"
     }
   ]
 }
