@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.1335071384131,
+  "bankroll": 484.8632695753273,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11050,6 +11050,31 @@
       "timestamp": 1787765621.917351,
       "bankroll": 489.13,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Linda Fruhvirtova vs Carson Branstine"
+    },
+    {
+      "timestamp": 1787765930.420946,
+      "bankroll": 483.99,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Daniel Rincon vs Jordan Lee"
+    },
+    {
+      "timestamp": 1787765930.521112,
+      "bankroll": 478.84,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Daniel Rincon vs Jordan Lee"
+    },
+    {
+      "timestamp": 1787765930.814051,
+      "bankroll": 481.56,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Lucia Bronzetti vs Polina Iatcenko"
+    },
+    {
+      "timestamp": 1787765931.6257393,
+      "bankroll": 483.08,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Daniel Rincon vs Jordan Lee"
+    },
+    {
+      "timestamp": 1787765931.725931,
+      "bankroll": 484.86,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Lucia Bronzetti vs Polina Iatcenko"
     }
   ]
 }

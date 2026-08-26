@@ -56106,8 +56106,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -56130,8 +56130,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "RN1"
     ],
@@ -56204,8 +56204,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -56348,8 +56348,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -56446,8 +56446,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -56861,8 +56861,8 @@
     "title": "Philadelphia: Fangran Tian vs Tereza Valentova",
     "outcome": "Tereza Valentova",
     "side": "BUY",
-    "whale_usd": 532.9141999999999,
-    "whale_pct": 0.209,
+    "whale_usd": 2418.9111999999996,
+    "whale_pct": 0.948,
     "whale_value_at_open": 255131.0052,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -56873,8 +56873,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787764280.8225927,
-    "fills": 1
+    "last_fill_at": 1787765941.3055015,
+    "fills": 2
   },
   {
     "timestamp": 1787764301,
