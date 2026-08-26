@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 08:50:16 (hora de Perú)
+Actualizado: 2026-08-26 08:52:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.36
@@ -481,7 +481,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Nao Hibino v | Anna Siskova (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 59% | 5.00 | 3.0% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Storm (-5.5) | Seattle Storm (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 |  | Augsburg: Svyatoslav Gulin vs Martin Kru | Martin Krumich (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Daniel Masur (BUY) | 86% | 5.00 | 10.8% | ✅ ganada | +0.78 |
