@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:48:43 (hora de Perú)
+Actualizado: 2026-08-26 09:50:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.73
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:48:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $126.73)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $111.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 0 | +48.17 USD |
-| HomeRunHazard | 289 | 145 | 10 | +44.36 USD |
+| HomeRunHazard | 289 | 145 | 12 | +44.36 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | GoalLineGhost | 1 | 4 | 16 | -17.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 295 | 137 | 11 | -45.55 USD |
+| RN1 | 295 | 137 | 12 | -45.55 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 53 | 38 | 15 | -83.66 USD |
@@ -476,11 +476,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 | atp-cretu-damas-2026-08-26 | HomeRunHazard, RN1 |
 | atp-mena-wehnelt-2026-08-26 | Djdjdjekekek, RN1 |
+| mlb-tb-det-2026-08-26-total-8pt5 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 50% | 5.00 | 9.2% | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 62% | 5.00 | 13.5% | ⏳ pendiente | — |
+| RN1 | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 61% | 5.00 | 2.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 63% | 5.00 | 7.6% | ⏳ pendiente | — |
 | RN1 | ITF M15 Vienna Men: Aleksandr Braynin vs | Aleksandr Braynin (BUY) | 99% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will PFK Mash AL Mubarek vs. Navbahor en | No (BUY) | 96% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -508,6 +512,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 59% | 5.00 | 9.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Storm (-5.5) | Seattle Storm (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
 |  | Augsburg: Svyatoslav Gulin vs Martin Kru | Martin Krumich (BUY) | 94% | 5.00 | 0.8% | ✅ ganada | +0.30 |
-| HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Daniel Masur (BUY) | 86% | 5.00 | 10.8% | ✅ ganada | +0.78 |
-| TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX (BO | BNK FEARX (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
-| GoalLineGhost | Vietnam vs. Thailand: O/U 4.5 | Under (BUY) | 89% | 5.00 | 8.2% | ⏳ pendiente | — |
