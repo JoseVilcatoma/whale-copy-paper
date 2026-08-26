@@ -58733,8 +58733,8 @@
     "title": "US Open, Qualification WTA: Tamara Zidansek vs Guiomar Maristany",
     "outcome": "Tamara Zidansek",
     "side": "BUY",
-    "whale_usd": 10649.13011,
-    "whale_pct": 3.443,
+    "whale_usd": 14031.13211,
+    "whale_pct": 4.536,
     "whale_value_at_open": 309298.7717,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -58745,8 +58745,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787779982.7938056,
-    "fills": 5
+    "last_fill_at": 1787780287.56153,
+    "fills": 6
   },
   {
     "timestamp": 1787779139,
@@ -58805,8 +58805,8 @@
     "title": "US Open, Qualification ATP: Kei Nishikori vs Michael Antonius",
     "outcome": "Kei Nishikori",
     "side": "BUY",
-    "whale_usd": 4779.667166,
-    "whale_pct": 1.542,
+    "whale_usd": 6776.668766000001,
+    "whale_pct": 2.187,
     "whale_value_at_open": 309919.6271,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -58819,8 +58819,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787780221.593422,
-    "fills": 3
+    "last_fill_at": 1787780335.7508907,
+    "fills": 4
   },
   {
     "timestamp": 1787779922,
@@ -58929,8 +58929,8 @@
     "title": "Winston-Salem Open: Juan Manuel Cerundolo vs Sebastian Baez",
     "outcome": "Juan Manuel Cerundolo",
     "side": "BUY",
-    "whale_usd": 562.548,
-    "whale_pct": 0.191,
+    "whale_usd": 2137.548,
+    "whale_pct": 0.727,
     "whale_value_at_open": 294079.09,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -58941,8 +58941,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787780122.1921258,
-    "fills": 1
+    "last_fill_at": 1787780296.2192264,
+    "fills": 2
   },
   {
     "timestamp": 1787780185,
@@ -58990,6 +58990,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787780205.553213,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787780339,
+    "timestamp_added": 1787780339.598731,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-mil-nym-2026-08-26-total-8pt5",
+    "title": "Milwaukee Brewers vs. New York Mets: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 4778.9976,
+    "whale_pct": 1.656,
+    "whale_value_at_open": 288533.4766,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787780339.5987456,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787780339,
+    "timestamp_added": 1787780340.01839,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-mil-nym-2026-08-26-total-8pt5",
+    "title": "Milwaukee Brewers vs. New York Mets: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 4411.3823999999995,
+    "whale_pct": 11.311,
+    "whale_value_at_open": 38999.9444,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787780340.0184028,
     "fills": 1
   }
 ]
