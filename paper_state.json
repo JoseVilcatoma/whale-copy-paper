@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.92337650474036,
+  "bankroll": 502.87637650474034,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11175,6 +11175,11 @@
       "timestamp": 1787769704.2166038,
       "bankroll": 507.92,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Vilius Gaubas vs Marco Cecchinato"
+    },
+    {
+      "timestamp": 1787770643.4222677,
+      "bankroll": 502.88,
+      "event": "lost: RN1 \u2014 Will Qizilqum Zarafshon win on 2026-08-26?"
     }
   ]
 }
