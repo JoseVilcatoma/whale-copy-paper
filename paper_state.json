@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.4538835549195,
+  "bankroll": 493.60010991689995,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10075,6 +10075,16 @@
       "timestamp": 1787707823.2152145,
       "bankroll": 490.45,
       "event": "lost:  \u2014 US Open, Qualification ATP: Taro Daniel vs Andrew Johnson"
+    },
+    {
+      "timestamp": 1787708135.5986414,
+      "bankroll": 493.55,
+      "event": "won:  \u2014 Kingston 2: Juan Pablo Ficovich vs Evan Zhu"
+    },
+    {
+      "timestamp": 1787708138.7870233,
+      "bankroll": 493.6,
+      "event": "won: OOOwhyOOO \u2014 Kingston 2: Juan Pablo Ficovich vs Evan Zhu"
     }
   ]
 }
