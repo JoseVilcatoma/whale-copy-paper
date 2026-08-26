@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:31:01 (hora de Perú)
+Actualizado: 2026-08-25 21:33:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:31:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $127.76)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $122.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| swisstony | 77 | 12 | 11 | +50.64 USD |
+| swisstony | 77 | 12 | 12 | +50.64 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 0 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 0 | +40.75 USD |
 | casualbet2020 | 18 | 7 | 0 | +30.82 USD |
@@ -460,6 +460,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| swisstony | Club León FC vs. Real Salt Lake: O/U 1.5 | Over (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Club León FC win on 2026-08-25? | No (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
 | swisstony | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -489,4 +490,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
 | swisstony | Spread: CD Tolima (-1.5) | Independiente del Valle (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | swisstony | Spread: San Francisco Giants (-1.5) | Cincinnati Reds (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
-| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 541.0% | ❌ perdida | -5.13 |
