@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.38240615655957,
+  "bankroll": 510.5569506700171,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11130,6 +11130,16 @@
       "timestamp": 1787767189.7288988,
       "bankroll": 503.38,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Kyrian Jacquet vs Aziz Dougaz"
+    },
+    {
+      "timestamp": 1787767499.074443,
+      "bankroll": 510.14,
+      "event": "won: GoalLineGhost \u2014 Will Smouha SC win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787767500.461617,
+      "bankroll": 510.56,
+      "event": "won: RN1 \u2014 Will Asyut Petroleum SC win on 2026-08-26?"
     }
   ]
 }
