@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.99484932652433,
+  "bankroll": 501.8848493265243,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10760,6 +10760,11 @@
       "timestamp": 1787743509.904806,
       "bankroll": 506.99,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Richard Antoni vs Daniel Verbeek"
+    },
+    {
+      "timestamp": 1787744754.919875,
+      "bankroll": 501.88,
+      "event": "lost: RN1 \u2014 ITF M25 Oviedo Men: Samuel De Felipe Garcia vs Xavi Palomar"
     }
   ]
 }
