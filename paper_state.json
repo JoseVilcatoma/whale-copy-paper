@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.5948630861562,
+  "bankroll": 531.5348630861563,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11350,6 +11350,11 @@
       "timestamp": 1787777269.0638392,
       "bankroll": 536.59,
       "event": "lost: DoNotTailMe \u2014 LoL: Eintracht Spandau vs Kaufland Hangry Knights - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787777573.7316644,
+      "bankroll": 531.53,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Eintracht Spandau vs Kaufland Hangry Knights (BO5) - Prime League 1st Division Playoffs"
     }
   ]
 }
