@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 15:07:51 (hora de Perú)
+Actualizado: 2026-08-26 15:10:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $539.84
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 15:07:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $440.00 en 88 posiciones abiertas (disponible para nuevas apuestas: $99.84)
+**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $89.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 318 | 151 | 38 | +68.52 USD |
+| HomeRunHazard | 318 | 151 | 39 | +68.52 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 311 | 142 | 3 | -41.24 USD |
-| Sassy-Bucket | 15 | 25 | 1 | -58.10 USD |
+| Sassy-Bucket | 15 | 25 | 2 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 57 | 41 | 10 | -80.40 USD |
 
@@ -493,12 +493,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-bronzet-iatcenk-2026-08-26 | HomeRunHazard, RN1 |
 | mlb-phi-sea-2026-08-26-total-7pt5 | HomeRunHazard, texaskid |
 | mlb-tb-det-2026-08-26 | HomeRunHazard, SDTrading, wr0ngw4yb3tt0r |
+| mlb-cin-sf-2026-08-26 | HomeRunHazard, SDTrading |
+| mlb-phi-sea-2026-08-26 | HomeRunHazard, Sassy-Bucket |
 | atp-virtane-jones-2026-08-26 | HomeRunHazard, OOOwhyOOO |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 45% | 5.00 | 92.6% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Bianca Andre | Bianca Andreescu (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -527,5 +531,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Under (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Daniel Altmaier (BUY) | 47% | 5.00 | 5.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Harriet Dart (BUY) | 78% | 5.00 | 2.8% | ⏳ pendiente | — |
-| HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Ignacio Buse (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Tyra Caterin | Tyra Caterina Grant (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
