@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 08:48:14 (hora de Perú)
+Actualizado: 2026-08-26 08:50:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.36
@@ -476,7 +476,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 8.4% | ⏳ pendiente | — |
+| Djdjdjekekek | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 90.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 9 | Under (BUY) | 70% | 5.00 | 11.1% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ⏳ pendiente | — |

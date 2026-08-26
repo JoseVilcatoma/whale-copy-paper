@@ -55359,8 +55359,8 @@
     "title": "Augsburg: Facundo Mena vs Kai Wehnelt",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 14105.868,
-    "whale_pct": 8.41,
+    "whale_usd": 151100.52499900002,
+    "whale_pct": 90.083,
     "whale_value_at_open": 167735.0984,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -55371,7 +55371,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787752086.7900393,
-    "fills": 2
+    "last_fill_at": 1787752207.4910202,
+    "fills": 7
   }
 ]
