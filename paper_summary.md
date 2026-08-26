@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 03:45:30 (hora de Perú)
+Actualizado: 2026-08-26 03:47:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 03:45:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $284.49)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $279.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 282 | 132 | 15 | -51.35 USD |
+| RN1 | 282 | 132 | 16 | -51.35 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 5 | -72.46 USD |
@@ -464,9 +464,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Amandine Monnot (BUY) | 83% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Amandine Monnot (BUY) | 83% | 5.00 | 11.1% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Mika Brunold (BUY) | 54% | 5.00 | 4.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Daniel Verbeek (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Counter-Strike: Aurora Gaming vs G2 (BO3 | Aurora Gaming (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -493,4 +494,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 96% | 5.00 | 0.5% | ✅ ganada | +0.20 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.2% | ✅ ganada | +4.68 |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 57% | 5.00 | 1.6% | ✅ ganada | +3.66 |
-| HomeRunHazard | Minnesota Twins vs. Athletics: O/U 8.5 | Over (BUY) | 52% | 5.00 | 0.2% | ❌ perdida | -5.12 |
