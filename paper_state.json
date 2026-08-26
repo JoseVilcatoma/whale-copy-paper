@@ -1,5 +1,5 @@
 {
-  "bankroll": 520.5739603222395,
+  "bankroll": 521.6975966858759,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11445,6 +11445,16 @@
       "timestamp": 1787779147.6681626,
       "bankroll": 520.57,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Dalibor Svrcina vs Alexis Galarneau"
+    },
+    {
+      "timestamp": 1787779459.6495218,
+      "bankroll": 515.47,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Tyra Caterina Grant vs Himeno Sakatsume"
+    },
+    {
+      "timestamp": 1787779463.2630663,
+      "bankroll": 521.7,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Tyra Caterina Grant vs Himeno Sakatsume"
     }
   ]
 }
