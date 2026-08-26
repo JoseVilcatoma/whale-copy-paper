@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.2771791197976,
+  "bankroll": 517.782476992138,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10480,6 +10480,11 @@
       "timestamp": 1787718854.7414606,
       "bankroll": 512.28,
       "event": "won: HomeRunHazard \u2014 Spread: Washington Mystics (-1.5)"
+    },
+    {
+      "timestamp": 1787720400.5505435,
+      "bankroll": 517.78,
+      "event": "won:  \u2014 Will FC Universitario win on 2026-08-25?"
     }
   ]
 }
