@@ -53569,5 +53569,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787732412.1743588,
     "fills": 1
+  },
+  {
+    "timestamp": 1787732707,
+    "timestamp_added": 1787732707.7998455,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-boskovi-kokkini-2026-08-26",
+    "title": "ITF W50 Kursumlijska Banja Women: Lea Boskovic vs Tahlia Kokkinis",
+    "outcome": "Lea Boskovic",
+    "side": "BUY",
+    "whale_usd": 853.8461530000001,
+    "whale_pct": 1.135,
+    "whale_value_at_open": 75260.2013,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787732707.7998602,
+    "fills": 1
   }
 ]
