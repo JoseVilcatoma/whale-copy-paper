@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:27:38 (hora de Perú)
+Actualizado: 2026-08-26 09:29:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.18
@@ -480,7 +480,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 52% | 5.00 | 29.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 52% | 5.00 | 30.5% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Robin Montgo | Jeline Vandromme (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Olympique Lyonnais vs. Fenerbahçe SK: Te | Olympique Lyonnais (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |

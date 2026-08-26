@@ -55679,8 +55679,8 @@
     "title": "Toronto Tempo vs. Seattle Storm: O/U 174.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 13346.158774999998,
-    "whale_pct": 29.169,
+    "whale_usd": 13970.648569999998,
+    "whale_pct": 30.534,
     "whale_value_at_open": 45753.8536,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -55691,7 +55691,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787754367.482846,
-    "fills": 1
+    "last_fill_at": 1787754495.960181,
+    "fills": 2
   }
 ]
