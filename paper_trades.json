@@ -52754,5 +52754,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787710786.401516,
     "fills": 1
+  },
+  {
+    "timestamp": 1787711219,
+    "timestamp_added": 1787711219.9453652,
+    "username": "swisstony",
+    "wallet": "0x204f72f35326db932158cba6adff0b9a1da95e14",
+    "slug": "lec-leo-rsl-2026-08-25-leo",
+    "title": "Will Club Le\u00f3n FC win on 2026-08-25?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 822.4699980000001,
+    "whale_pct": 0.293,
+    "whale_value_at_open": 280961.7811,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787711219.945377,
+    "fills": 1
   }
 ]
