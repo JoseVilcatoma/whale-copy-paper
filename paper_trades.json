@@ -51929,5 +51929,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787705845.01179,
     "fills": 2
+  },
+  {
+    "timestamp": 1787705864,
+    "timestamp_added": 1787705864.982661,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wnba-chi-conn-2026-08-25",
+    "title": "Chicago Sky vs. Connecticut Sun",
+    "outcome": "Connecticut Sun",
+    "side": "BUY",
+    "whale_usd": 605.089987,
+    "whale_pct": 0.486,
+    "whale_value_at_open": 124555.4883,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787705864.9826727,
+    "fills": 1
   }
 ]
