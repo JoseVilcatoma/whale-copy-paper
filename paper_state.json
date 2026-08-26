@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.112744597033,
+  "bankroll": 497.7590259860119,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10230,6 +10230,46 @@
       "timestamp": 1787711140.1485696,
       "bankroll": 490.11,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Miomir Kecmanovic vs Fabian Marozsan"
+    },
+    {
+      "timestamp": 1787711436.3045235,
+      "bankroll": 491.24,
+      "event": "won: ferrariChampions2026 \u2014 Winston-Salem Open: Hugo Grenier vs Sebastian Baez"
+    },
+    {
+      "timestamp": 1787711438.37754,
+      "bankroll": 494.34,
+      "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787711441.2654305,
+      "bankroll": 489.22,
+      "event": "lost: HomeRunHazard \u2014 Kansas City Royals vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1787711441.7433288,
+      "bankroll": 492.06,
+      "event": "won: HomeRunHazard \u2014 Milwaukee Brewers vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1787711442.6658216,
+      "bankroll": 495.43,
+      "event": "won: AV23IUa \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787711446.00131,
+      "bankroll": 490.34,
+      "event": "lost: HomeRunHazard \u2014 Milwaukee Brewers vs. New York Mets: O/U 6.5"
+    },
+    {
+      "timestamp": 1787711448.0374997,
+      "bankroll": 491.54,
+      "event": "won: HomeRunHazard \u2014 Spread: New York Mets (-2.5)"
+    },
+    {
+      "timestamp": 1787711449.4211185,
+      "bankroll": 497.76,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Toronto Blue Jays"
     }
   ]
 }
