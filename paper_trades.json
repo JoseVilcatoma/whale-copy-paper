@@ -58673,5 +58673,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787778470.75434,
     "fills": 3
+  },
+  {
+    "timestamp": 1787778633,
+    "timestamp_added": 1787778633.8144321,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-sd-2026-08-26",
+    "title": "Pittsburgh Pirates vs. San Diego Padres",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 778.5134,
+    "whale_pct": 0.221,
+    "whale_value_at_open": 351729.3096,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787778633.814447,
+    "fills": 1
   }
 ]
