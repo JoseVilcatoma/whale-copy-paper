@@ -55239,8 +55239,8 @@
     "title": "Augsburg: Cezar Cretu vs Miguel Damas",
     "outcome": "Cezar Cretu",
     "side": "BUY",
-    "whale_usd": 1083.22,
-    "whale_pct": 1.694,
+    "whale_usd": 1902.39,
+    "whale_pct": 2.976,
     "whale_value_at_open": 63926.8574,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -55251,8 +55251,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787750191.037473,
-    "fills": 1
+    "last_fill_at": 1787750657.9140105,
+    "fills": 2
   },
   {
     "timestamp": 1787750427,
