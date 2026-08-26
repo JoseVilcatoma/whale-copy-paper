@@ -53466,8 +53466,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.32,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -53682,8 +53682,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [
       "SPCEXBUYER"
     ],
@@ -55252,6 +55252,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787750191.037473,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787750427,
+    "timestamp_added": 1787750428.1045055,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-hibino-siskova-2026-08-26",
+    "title": "US Open, Qualification WTA: Nao Hibino vs Anna Siskova",
+    "outcome": "Anna Siskova",
+    "side": "BUY",
+    "whale_usd": 551.889999,
+    "whale_pct": 0.779,
+    "whale_value_at_open": 70845.8391,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787750428.1045177,
     "fills": 1
   }
 ]
