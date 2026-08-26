@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 17:22:39 (hora de Perú)
+Actualizado: 2026-08-26 17:24:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $511.09
-**Retorno acumulado:** +2.22%
+**Bankroll actual:** $512.07
+**Retorno acumulado:** +2.41%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 17:22:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $126.09)
+**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $132.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 336 | 162 | 41 | +52.44 USD |
+| HomeRunHazard | 337 | 162 | 40 | +53.42 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2220
-- **Aciertos:** 1435 (64.6%)
+- **Apuestas resueltas:** 2221
+- **Aciertos:** 1436 (64.7%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,087.59
-- **ROI sobre lo apostado:** -0.67%
-- **Comisiones pagadas (taker fee):** $199.59 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,092.59
+- **ROI sobre lo apostado:** -0.66%
+- **Comisiones pagadas (taker fee):** $199.63 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,7 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1075 | 50.4% | 50.2% | +0.2 pp |
 | 60-79% | 671 | 69.6% | 67.6% | +2.0 pp |
-| 80-94% | 319 | 87.1% | 86.8% | +0.3 pp |
+| 80-94% | 320 | 87.2% | 86.8% | +0.4 pp |
 | 95-99% (casi seguro) | 155 | 95.5% | 97.4% | -1.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -537,5 +537,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 48% | 5.00 | 439.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Alexandre Muller (BUY) | 41% | 5.00 | 0.5% | ❌ perdida | -5.15 |
 | HomeRunHazard | Spread: Golden State Valkyries (-13.5) | Golden State Valkyries (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 83% | 5.00 | 0.2% | ✅ ganada | +0.98 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |

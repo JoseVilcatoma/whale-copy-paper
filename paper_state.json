@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.08795138606894,
+  "bankroll": 512.069047771611,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11565,6 +11565,11 @@
       "timestamp": 1787782893.3924096,
       "bankroll": 511.09,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1787783016.0626721,
+      "bankroll": 512.07,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Hugo Gaston vs Andre Ilagan"
     }
   ]
 }
