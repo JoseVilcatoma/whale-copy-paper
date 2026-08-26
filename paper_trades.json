@@ -54863,5 +54863,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787746622.1588795,
     "fills": 1
+  },
+  {
+    "timestamp": 1787746802,
+    "timestamp_added": 1787746803.0402892,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-kc-tor-2026-08-26",
+    "title": "Kansas City Royals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 524.2832000000001,
+    "whale_pct": 1.053,
+    "whale_value_at_open": 49771.2204,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787746803.0403013,
+    "fills": 1
   }
 ]
