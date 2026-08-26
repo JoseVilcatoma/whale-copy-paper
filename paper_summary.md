@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:43:39 (hora de Perú)
+Actualizado: 2026-08-25 21:45:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.82
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:43:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $131.82)
+**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $126.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
-| HomeRunHazard | 269 | 139 | 14 | +1.87 USD |
+| HomeRunHazard | 269 | 139 | 15 | +1.87 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -460,6 +460,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 86% | 5.00 | 5.4% | ⏳ pendiente | — |
 | swisstony | Club León FC vs. Real Salt Lake: O/U 1.5 | Over (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -489,4 +490,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | swisstony | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 51% | 5.00 | 111596.1% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
