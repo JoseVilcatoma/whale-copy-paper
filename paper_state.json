@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.0171308788712,
+  "bankroll": 495.02339013813054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10950,6 +10950,16 @@
       "timestamp": 1787763428.0493665,
       "bankroll": 496.02,
       "event": "won: HomeRunHazard \u2014 Kingston 2: Thomas Fancutt vs Luis Guto Miguel"
+    },
+    {
+      "timestamp": 1787763721.6827705,
+      "bankroll": 500.16,
+      "event": "won:  \u2014 US Open, Qualification WTA: Elena Pridankina vs Rebecca Marino"
+    },
+    {
+      "timestamp": 1787763735.9618435,
+      "bankroll": 495.02,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Elena Pridankina vs Rebecca Marino"
     }
   ]
 }

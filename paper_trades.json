@@ -51175,8 +51175,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -56056,8 +56056,8 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       ""
     ],
@@ -56197,8 +56197,8 @@
     "title": "US Open, Qualification WTA: Lucia Bronzetti vs Polina Iatcenko",
     "outcome": "Polina Iatcenko",
     "side": "BUY",
-    "whale_usd": 12133.739300000001,
-    "whale_pct": 12.24,
+    "whale_usd": 12650.801300000001,
+    "whale_pct": 12.761,
     "whale_value_at_open": 99134.3449,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -56209,8 +56209,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787763465.9067705,
-    "fills": 5
+    "last_fill_at": 1787763609.936434,
+    "fills": 6
   },
   {
     "timestamp": 1787757537,
