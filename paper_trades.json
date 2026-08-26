@@ -51168,8 +51168,8 @@
     "title": "US Open, Qualification WTA: Elena Pridankina vs Rebecca Marino",
     "outcome": "Elena Pridankina",
     "side": "BUY",
-    "whale_usd": 2132.5359989999997,
-    "whale_pct": 2.919,
+    "whale_usd": 6334.305993999999,
+    "whale_pct": 8.672,
     "whale_value_at_open": 73046.8369,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -51180,8 +51180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787732049.8835824,
-    "fills": 2
+    "last_fill_at": 1787760721.4402742,
+    "fills": 3
   },
   {
     "timestamp": 1787700200,
@@ -56075,8 +56075,8 @@
     "title": "Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 1156.979998,
-    "whale_pct": 1.385,
+    "whale_usd": 3182.609996,
+    "whale_pct": 3.811,
     "whale_value_at_open": 83515.0645,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -56087,8 +56087,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787756881.590278,
-    "fills": 2
+    "last_fill_at": 1787760723.0629742,
+    "fills": 3
   },
   {
     "timestamp": 1787756898,

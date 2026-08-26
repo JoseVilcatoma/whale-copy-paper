@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 11:09:58 (hora de Perú)
+Actualizado: 2026-08-26 11:12:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.11
@@ -512,7 +512,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Francesca Pace (BUY) | 86% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 42% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Jordan Lee (BUY) | 41% | 5.00 | 2.7% | ⏳ pendiente | — |
-|  | Counter-Strike: Natus Vincere vs M80 (BO | Natus Vincere (BUY) | 95% | 5.00 | 1.4% | ⏳ pendiente | — |
+|  | Counter-Strike: Natus Vincere vs M80 (BO | Natus Vincere (BUY) | 95% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Elena Pridan | Rebecca Marino (BUY) | 45% | 5.00 | 4.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Golden State Valkyries (-13.5) | Connecticut Sun (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
