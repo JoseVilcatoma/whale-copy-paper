@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 16:57:47 (hora de Perú)
+Actualizado: 2026-08-26 16:59:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $533.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 16:57:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $73.32)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $68.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 332 | 156 | 50 | +71.55 USD |
+| HomeRunHazard | 332 | 156 | 51 | +71.55 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -509,6 +509,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Colorado Rockies vs. Washington National | Over (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 48% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Cristina Bucsa vs Darja  | Darja Vidmanova (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -538,4 +539,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Golden State Valkyries (-13.5) | Golden State Valkyries (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Hugo Gaston  | Hugo Gaston (BUY) | 83% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 83% | 5.00 | 2.6% | ⏳ pendiente | — |

@@ -59189,5 +59189,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787781438.181901,
     "fills": 1
+  },
+  {
+    "timestamp": 1787781509,
+    "timestamp_added": 1787781510.2262044,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-col-wsh-2026-08-26-total-9pt5",
+    "title": "Colorado Rockies vs. Washington Nationals: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1353.0944279999999,
+    "whale_pct": 0.383,
+    "whale_value_at_open": 353360.638,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787781510.2262166,
+    "fills": 1
   }
 ]
