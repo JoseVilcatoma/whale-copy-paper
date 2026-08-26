@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 13:42:46 (hora de Perú)
+Actualizado: 2026-08-26 13:44:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.92
@@ -507,9 +507,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 44% | 5.00 | 7.7% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Baronen11 | Will Burnley FC win on 2026-08-26? | No (BUY) | 56% | 5.00 | 110.8% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Max Purcell vs Garrett Johns | Max Purcell (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Max Purcell vs Garrett Johns | Max Purcell (BUY) | 87% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Paulo Dos Santos vs Andres M | Andres Martin (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 3.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 5.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Galions - Game 3 Win | Galions (BUY) | 65% | 5.00 | 63.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Real Madrid CF (-2.5) | Real Sociedad de Fútbol (BUY) | 61% | 5.00 | 2.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 61% | 5.00 | 32.7% | ⏳ pendiente | — |

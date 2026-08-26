@@ -57302,8 +57302,8 @@
     "title": "US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov",
     "outcome": "Grigor Dimitrov",
     "side": "BUY",
-    "whale_usd": 8217.798599999998,
-    "whale_pct": 3.87,
+    "whale_usd": 11869.801799999997,
+    "whale_pct": 5.59,
     "whale_value_at_open": 212355.446,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -57314,8 +57314,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769617.514123,
-    "fills": 5
+    "last_fill_at": 1787769790.2814577,
+    "fills": 6
   },
   {
     "timestamp": 1787768136,
@@ -57350,8 +57350,8 @@
     "title": "Kingston 2: Max Purcell vs Garrett Johns",
     "outcome": "Max Purcell",
     "side": "BUY",
-    "whale_usd": 1228.85,
-    "whale_pct": 0.553,
+    "whale_usd": 1784.4307999999999,
+    "whale_pct": 0.804,
     "whale_value_at_open": 222047.6043,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -57362,8 +57362,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787768306.3768275,
-    "fills": 2
+    "last_fill_at": 1787769803.927297,
+    "fills": 3
   },
   {
     "timestamp": 1787768202,
