@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:38:59 (hora de Perú)
+Actualizado: 2026-08-25 19:41:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $499.74
-**Retorno acumulado:** -0.05%
+**Bankroll actual:** $495.78
+**Retorno acumulado:** -0.84%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 19:38:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $489.66 en 98 posiciones abiertas (disponible para nuevas apuestas: $10.08)
+**Capital comprometido ahora mismo:** $479.66 en 96 posiciones abiertas (disponible para nuevas apuestas: $16.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,13 +37,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 3 | 2 | 0 | +7.38 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| HomeRunHazard | 248 | 124 | 48 | +6.16 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 11vsldfdsgfkjgos | 2 | 0 | 0 | +4.00 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| HomeRunHazard | 249 | 125 | 46 | +2.20 USD |
 | HVAB | 9 | 4 | 1 | +2.08 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
@@ -87,14 +87,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1905
-- **Aciertos:** 1229 (64.5%)
+- **Apuestas resueltas:** 1907
+- **Aciertos:** 1230 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,513.82
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $171.83 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $9,523.82
+- **ROI sobre lo apostado:** -0.93%
+- **Comisiones pagadas (taker fee):** $171.97 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.88% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -103,8 +103,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 927 | 50.1% | 50.2% | -0.2 pp |
-| 60-79% | 582 | 70.4% | 67.6% | +2.8 pp |
-| 80-94% | 266 | 86.1% | 87.0% | -0.9 pp |
+| 60-79% | 583 | 70.3% | 67.6% | +2.7 pp |
+| 80-94% | 267 | 86.1% | 87.0% | -0.9 pp |
 | 95-99% (casi seguro) | 130 | 96.9% | 97.3% | -0.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -475,6 +475,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 81% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 55% | 5.00 | 4.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Moez Echargu | Hugo Dellien (BUY) | 67% | 5.00 | 2.5% | ✅ ganada | +2.38 |
-| HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Mees Rottgering (BUY) | 81% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | Winston-Salem Open: Mees Rottgering vs T | Mees Rottgering (BUY) | 81% | 5.00 | 1.3% | ✅ ganada | +1.13 |
 |  | US Open, Qualification WTA: Elena Pridan | Elena Pridankina (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Chicago Sky vs. Connecticut Sun | Chicago Sky (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |

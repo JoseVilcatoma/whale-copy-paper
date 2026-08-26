@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.7396267738982,
+  "bankroll": 495.77546628007104,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9970,6 +9970,16 @@
       "timestamp": 1787704727.1101387,
       "bankroll": 499.74,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Daniil Medvedev vs Martin Damm"
+    },
+    {
+      "timestamp": 1787704853.8980258,
+      "bankroll": 494.65,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Mees Rottgering vs Tomas Machac"
+    },
+    {
+      "timestamp": 1787704855.6079006,
+      "bankroll": 495.78,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Mees Rottgering vs Tomas Machac"
     }
   ]
 }
