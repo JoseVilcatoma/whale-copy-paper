@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:42:06 (hora de Perú)
+Actualizado: 2026-08-26 18:44:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $484.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:42:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $169.17)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $149.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 3 | 2 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 313 | 143 | 13 | -42.08 USD |
+| RN1 | 313 | 143 | 17 | -42.08 USD |
 | Sassy-Bucket | 15 | 27 | 1 | -68.37 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 46 | 3 | -96.35 USD |
@@ -508,18 +508,23 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-nym-2026-08-26-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-lad-atl-2026-08-26 | Djdjdjekekek, HomeRunHazard, RN1, texaskid |
 | wta-bucsa-vidmano-2026-08-26 | Donghui, HomeRunHazard |
+| sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 5.5% | ⏳ pendiente | — |
+| RN1 | Spread: New York Yankees (-2.5) | Houston Astros (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 52% | 5.00 | 5.2% | ⏳ pendiente | — |
+| kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 35.2% | ⏳ pendiente | — |
 | RN1 | Spread: Kansas City Royals (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Federico Cin | Federico Cina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Santos FC: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | kekasaur | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 18.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: NS (-1.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 61% | 5.00 | 5.8% | ⏳ pendiente | — |
-| RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Oksana Selekhmeteva (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Oksana Selekhmeteva (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Tristan Scho | Seong-Chan Hong (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -539,7 +544,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Vitaliy Sach | Pablo Llamas Ruiz (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 99% | 5.00 | 0.5% | ✅ ganada | +0.05 |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Under (BUY) | 73% | 5.00 | 1.7% | ✅ ganada | +1.78 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: EMPIRE vs Chicken Coop E | Chicken Coop Esports (BUY) | 62% | 5.00 | 2.9% | ⏳ pendiente | — |
-| HomeRunHazard | Colorado Rockies vs. Washington National | Over (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 48% | 5.00 | 0.4% | ❌ perdida | -5.13 |
-| HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 46% | 5.00 | 1.3% | ⏳ pendiente | — |
