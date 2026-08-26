@@ -58164,8 +58164,8 @@
     "title": "Cleveland Guardians vs. Los Angeles Angels",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 13521.077900000002,
-    "whale_pct": 5.674,
+    "whale_usd": 14880.437900000003,
+    "whale_pct": 6.244,
     "whale_value_at_open": 238301.1954,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -58176,8 +58176,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787784391.313251,
-    "fills": 4
+    "last_fill_at": 1787784520.5591056,
+    "fills": 5
   },
   {
     "timestamp": 1787773443,
@@ -58263,8 +58263,8 @@
     "title": "Kansas City Royals vs. Toronto Blue Jays: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3558.0,
-    "whale_pct": 1.315,
+    "whale_usd": 8240.998599999999,
+    "whale_pct": 3.045,
     "whale_value_at_open": 270605.3432,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -58275,8 +58275,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787774732.9872649,
-    "fills": 1
+    "last_fill_at": 1787784569.2112293,
+    "fills": 2
   },
   {
     "timestamp": 1787774950,
@@ -58953,8 +58953,8 @@
     "title": "US Open, Qualification WTA: Heather Watson vs Angela Fita Boluda",
     "outcome": "Heather Watson",
     "side": "BUY",
-    "whale_usd": 2537.0016,
-    "whale_pct": 0.893,
+    "whale_usd": 6729.4096,
+    "whale_pct": 2.369,
     "whale_value_at_open": 284068.67,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -58965,8 +58965,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787780186.4545684,
-    "fills": 1
+    "last_fill_at": 1787784566.4719248,
+    "fills": 3
   },
   {
     "timestamp": 1787780205,
@@ -59333,5 +59333,55 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787784041.7570968,
     "fills": 1
+  },
+  {
+    "timestamp": 1787784579,
+    "timestamp_added": 1787784579.9997497,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-kc-tor-2026-08-26",
+    "title": "Kansas City Royals vs. Toronto Blue Jays",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 1801.396778,
+    "whale_pct": 9.24,
+    "whale_value_at_open": 19496.2062,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787784579.9997578,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787784581,
+    "timestamp_added": 1787784581.8816562,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-liutova-radivoj-2026-08-26",
+    "title": "US Open, Qualification WTA: Kristina Liutova vs Lola Radivojevic",
+    "outcome": "Kristina Liutova",
+    "side": "BUY",
+    "whale_usd": 5200.0365,
+    "whale_pct": 1.156,
+    "whale_value_at_open": 449979.409,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787784582.3041816,
+    "fills": 2
   }
 ]

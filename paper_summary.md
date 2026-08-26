@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 17:47:57 (hora de Perú)
+Actualizado: 2026-08-26 17:49:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.43
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 17:47:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $150.43)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $140.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 341 | 163 | 39 | +54.50 USD |
+| HomeRunHazard | 341 | 163 | 40 | +54.50 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 7 | 4 | 1 | +16.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| texaskid | 2 | 0 | 1 | +9.76 USD |
+| texaskid | 2 | 0 | 2 | +9.76 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 4 | 3 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -486,6 +486,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-rea-rso-2026-08-26-total-3pt5 | GoalLineGhost, ripley86alien |
 | lal-rea-rso-2026-08-26-rea | GoalLineGhost, kilian7kilian |
 | mlb-pit-sd-2026-08-26 | HomeRunHazard, SDTrading |
+| mlb-kc-tor-2026-08-26 | SDTrading, texaskid |
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 | atp-cretu-damas-2026-08-26 | HomeRunHazard, RN1 |
 | wta-hibino-siskova-2026-08-26 | , HomeRunHazard |
@@ -510,6 +511,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 87% | 5.00 | 1.2% | ⏳ pendiente | — |
+| texaskid | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 60% | 5.00 | 9.2% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Vitaliy Sach | Pablo Llamas Ruiz (BUY) | 85% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Yunchaokete  | Yunchaokete Bu (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -525,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 49% | 5.00 | 166.2% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Golden State Valkyries vs. Connecticut S | Golden State Valkyries (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Heather Wats | Heather Watson (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Heather Wats | Heather Watson (BUY) | 78% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 75% | 5.00 | 1.6% | ✅ ganada | +1.60 |
 | HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 79% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Moyuka Uchij | Lucie Havlickova (BUY) | 81% | 5.00 | 0.9% | ✅ ganada | +1.13 |
@@ -538,5 +541,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Rei Sakamoto (BUY) | 97% | 5.00 | 0.6% | ✅ ganada | +0.15 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 81% | 5.00 | 4.3% | ⏳ pendiente | — |
 | Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 55% | 5.00 | 203.0% | ❌ perdida | -5.11 |
-| HomeRunHazard | Winston-Salem Open: Arthur Fery vs Mees  | Arthur Fery (BUY) | 97% | 5.00 | 3.2% | ✅ ganada | +0.15 |
-| HomeRunHazard | Texas Rangers vs. Chicago White Sox: O/U | Over (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
