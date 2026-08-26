@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.8122193177098,
+  "bankroll": 525.0122193177099,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11275,6 +11275,11 @@
       "timestamp": 1787773126.3472643,
       "bankroll": 523.81,
       "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 9.5"
+    },
+    {
+      "timestamp": 1787773378.9884183,
+      "bankroll": 525.01,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Timofey Skatov vs Grigor Dimitrov"
     }
   ]
 }

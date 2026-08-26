@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 14:41:00 (hora de Perú)
+Actualizado: 2026-08-26 14:43:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $523.81
-**Retorno acumulado:** +4.76%
+**Bankroll actual:** $525.01
+**Retorno acumulado:** +5.00%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 14:41:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $68.81)
+**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $65.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 313 | 151 | 38 | +63.14 USD |
+| HomeRunHazard | 314 | 151 | 39 | +64.34 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 14 | 1 | +43.04 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2162
-- **Aciertos:** 1397 (64.6%)
+- **Apuestas resueltas:** 2163
+- **Aciertos:** 1398 (64.6%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,797.59
-- **ROI sobre lo apostado:** -0.57%
-- **Comisiones pagadas (taker fee):** $194.79 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,802.59
+- **ROI sobre lo apostado:** -0.56%
+- **Comisiones pagadas (taker fee):** $194.84 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,7 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1050 | 50.5% | 50.2% | +0.3 pp |
 | 60-79% | 654 | 69.7% | 67.6% | +2.1 pp |
-| 80-94% | 308 | 87.0% | 86.8% | +0.2 pp |
+| 80-94% | 309 | 87.1% | 86.8% | +0.3 pp |
 | 95-99% (casi seguro) | 150 | 95.3% | 97.4% | -2.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -499,6 +499,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Cleveland Guardians (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
+| HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 53% | 5.00 | 4.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Yue Yuan vs  | Yue Yuan (BUY) | 71% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 48% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 52% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -527,5 +529,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 70% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ripley86alien | Real Madrid CF vs. Real Sociedad de Fútb | Over (BUY) | 54% | 5.00 | 83.5% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Rinky Hijikata vs Be | Benjamin Bonzi (BUY) | 75% | 5.00 | 2.7% | ⏳ pendiente | — |
-| texaskid | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 44% | 5.00 | 7.7% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 45% | 5.00 | 1.5% | ⏳ pendiente | — |
