@@ -51953,5 +51953,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787705864.9826727,
     "fills": 1
+  },
+  {
+    "timestamp": 1787706870,
+    "timestamp_added": 1787706870.8538163,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-udvardy-joint-2026-08-25",
+    "title": "Monterrey Open: Panna Udvardy vs Maya Joint",
+    "outcome": "Panna Udvardy",
+    "side": "BUY",
+    "whale_usd": 16652.6019,
+    "whale_pct": 70.422,
+    "whale_value_at_open": 23646.902,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787706870.8538308,
+    "fills": 1
   }
 ]

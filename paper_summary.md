@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 20:13:58 (hora de Perú)
+Actualizado: 2026-08-25 20:16:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.04
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 20:13:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $459.66 en 92 posiciones abiertas (disponible para nuevas apuestas: $45.38)
+**Capital comprometido ahora mismo:** $464.66 en 93 posiciones abiertas (disponible para nuevas apuestas: $40.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| HVAB | 10 | 4 | 1 | +2.13 USD |
+| HVAB | 10 | 4 | 2 | +2.13 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -445,11 +445,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-daniel-johnson-2026-08-25 | , HomeRunHazard |
 | atp-mejia-draxl-2026-08-25 | , HomeRunHazard |
 | wta-galfi-sasnovi-2026-08-25 | , HomeRunHazard, OOOwhyOOO |
+| wta-udvardy-joint-2026-08-25 | HomeRunHazard, OOOwhyOOO |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | Monterrey Open: Panna Udvardy vs Maya Jo | Panna Udvardy (BUY) | 99% | 5.00 | 70.4% | ⏳ pendiente | — |
 |  | Chicago Sky vs. Connecticut Sun | Connecticut Sun (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 99% | 5.00 | 564.6% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 61% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -479,4 +481,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 81% | 5.00 | 1.5% | ✅ ganada | +1.13 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 55% | 5.00 | 4.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Moez Echargu | Hugo Dellien (BUY) | 67% | 5.00 | 2.5% | ✅ ganada | +2.38 |
