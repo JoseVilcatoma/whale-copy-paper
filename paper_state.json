@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.84209651239127,
+  "bankroll": 482.8896015628963,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11760,6 +11760,11 @@
       "timestamp": 1787786537.4804072,
       "bankroll": 482.84,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Katie Swan vs Mary Stoiana"
+    },
+    {
+      "timestamp": 1787786663.4998634,
+      "bankroll": 482.89,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Yunchaokete Bu vs Borna Gojo"
     }
   ]
 }
