@@ -57546,8 +57546,8 @@
     "title": "US Open, Qualification WTA: Tyra Caterina Grant vs Himeno Sakatsume",
     "outcome": "Tyra Caterina Grant",
     "side": "BUY",
-    "whale_usd": 503.85999999999996,
-    "whale_pct": 0.206,
+    "whale_usd": 4811.8605,
+    "whale_pct": 1.965,
     "whale_value_at_open": 244889.9379,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -57558,8 +57558,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787769455.6571207,
-    "fills": 1
+    "last_fill_at": 1787772636.1286852,
+    "fills": 2
   },
   {
     "timestamp": 1787769491,
@@ -57959,6 +57959,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787772415.2646573,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787772541,
+    "timestamp_added": 1787772541.4398863,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-fenty-chopra-2026-08-26",
+    "title": "Kingston 2: Andrew Fenty vs Keshav Chopra",
+    "outcome": "Andrew Fenty",
+    "side": "BUY",
+    "whale_usd": 1730.0276000000001,
+    "whale_pct": 0.64,
+    "whale_value_at_open": 270114.7749,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787772541.4398944,
     "fills": 1
   }
 ]

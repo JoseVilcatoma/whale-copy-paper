@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 14:28:37 (hora de Perú)
+Actualizado: 2026-08-26 14:30:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 14:28:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $32.92)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $27.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| HomeRunHazard | 308 | 151 | 36 | +47.29 USD |
+| HomeRunHazard | 308 | 151 | 37 | +47.29 USD |
 | BOOMBOYS.Kiritych | 28 | 14 | 1 | +43.04 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -499,6 +499,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kingston 2: Andrew Fenty vs Keshav Chopr | Andrew Fenty (BUY) | 88% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 84% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Kristina Penickova (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -515,7 +516,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Daniel Altmaier (BUY) | 47% | 5.00 | 5.1% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Kristina Pen | Harriet Dart (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniel Altmaier vs I | Ignacio Buse (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Tyra Caterin | Tyra Caterina Grant (BUY) | 60% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Tyra Caterin | Tyra Caterina Grant (BUY) | 60% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Susan Bandec | Susan Bandecchi (BUY) | 76% | 5.00 | 4.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 70% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ripley86alien | Real Madrid CF vs. Real Sociedad de Fútb | Over (BUY) | 54% | 5.00 | 83.5% | ⏳ pendiente | — |
@@ -528,4 +529,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 9.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Galions - Game 3 Win | Galions (BUY) | 65% | 5.00 | 63.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Real Madrid CF (-2.5) | Real Sociedad de Fútbol (BUY) | 61% | 5.00 | 2.6% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: Eintracht Spandau vs Kaufland Hangr | Eintracht Spandau (BUY) | 61% | 5.00 | 32.7% | ⏳ pendiente | — |
