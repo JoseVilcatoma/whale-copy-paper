@@ -50534,8 +50534,8 @@
     "title": "Game Handicap: KT (-1.5) vs HANJIN BRION (+1.5)",
     "outcome": "HANJIN BRION",
     "side": "BUY",
-    "whale_usd": 2150.9224,
-    "whale_pct": 16.494,
+    "whale_usd": 3945.2424,
+    "whale_pct": 30.253,
     "whale_value_at_open": 13040.7661,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -50546,8 +50546,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710714.7513692,
-    "fills": 2
+    "last_fill_at": 1787716427.733662,
+    "fills": 3
   },
   {
     "timestamp": 1787695496,
@@ -53236,8 +53236,8 @@
     "title": "Pittsburgh Pirates vs. San Diego Padres",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 3894.0040000000004,
-    "whale_pct": 1.102,
+    "whale_usd": 10607.604000000001,
+    "whale_pct": 3.002,
     "whale_value_at_open": 353365.6889,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -53250,8 +53250,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787716060.1589532,
-    "fills": 1
+    "last_fill_at": 1787716495.3778145,
+    "fills": 2
   },
   {
     "timestamp": 1787716060,

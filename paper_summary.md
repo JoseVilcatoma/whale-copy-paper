@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 22:52:45 (hora de Perú)
+Actualizado: 2026-08-25 22:55:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.54
@@ -467,7 +467,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SnakeBall | Club León FC vs. Real Salt Lake: Real Sa | Under (BUY) | 96% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SnakeBall | Will Club León FC win on 2026-08-25? | Yes (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 35.8% | ⏳ pendiente | — |
-| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
