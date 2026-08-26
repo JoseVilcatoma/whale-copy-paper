@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:04:37 (hora de Perú)
+Actualizado: 2026-08-26 05:06:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:04:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $226.64)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $221.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| GoalLineGhost | 0 | 0 | 1 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 2 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 20 | 16 | 0 | -0.57 USD |
@@ -468,6 +468,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: Ranheim (-2.5) | Stabaek IF (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 43% | 5.00 | 1.0% | ⏳ pendiente | — |
 | plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 32.5% | ⏳ pendiente | — |
 | plonker2026 | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
@@ -497,4 +498,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Carles Hernandez (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Al Faisaly Saudi Club win on 2026-0 | No (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 | KT Rolster (BUY) | 61% | 5.00 | 28.5% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: Aurora Gaming vs G2 (BO3 | G2 (BUY) | 53% | 5.00 | 86.4% | ⏳ pendiente | — |
