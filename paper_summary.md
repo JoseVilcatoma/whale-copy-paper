@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 20:30:28 (hora de Perú)
+Actualizado: 2026-08-25 20:32:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 20:30:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $404.66 en 81 posiciones abiertas (disponible para nuevas apuestas: $85.79)
+**Capital comprometido ahora mismo:** $409.66 en 82 posiciones abiertas (disponible para nuevas apuestas: $80.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 271 | 123 | 3 | -43.13 USD |
-| Sassy-Bucket | 14 | 22 | 2 | -48.45 USD |
+| Sassy-Bucket | 14 | 22 | 3 | -48.45 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
 |  | 44 | 32 | 9 | -72.50 USD |
 
@@ -451,6 +451,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Cincinnati Reds vs. San Francisco Giants | Over (BUY) | 53% | 5.00 | 75.2% | ⏳ pendiente | — |
 | OOOwhyOOO | Monterrey Open: Panna Udvardy vs Maya Jo | Panna Udvardy (BUY) | 99% | 5.00 | 70.4% | ⏳ pendiente | — |
 |  | Chicago Sky vs. Connecticut Sun | Connecticut Sun (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Juan Pablo Ficovich vs Evan  | Juan Pablo Ficovich (BUY) | 99% | 5.00 | 564.6% | ⏳ pendiente | — |
@@ -480,4 +481,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: New York Mets (-2.5) | Milwaukee Brewers (BUY) | 80% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Vendula Vald | Vendula Valdmannova (BUY) | 81% | 5.00 | 1.5% | ✅ ganada | +1.13 |
-| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 55% | 5.00 | 4.1% | ⏳ pendiente | — |
