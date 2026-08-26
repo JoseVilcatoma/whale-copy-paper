@@ -52284,8 +52284,8 @@
     "title": "Monterrey Open: Oleksandra Oliynykova vs Diane Parry",
     "outcome": "Diane Parry",
     "side": "BUY",
-    "whale_usd": 4192.5593,
-    "whale_pct": 1.422,
+    "whale_usd": 9246.549287,
+    "whale_pct": 3.136,
     "whale_value_at_open": 294893.6411,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -52296,8 +52296,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787712930.3708622,
-    "fills": 3
+    "last_fill_at": 1787713716.1875074,
+    "fills": 4
   },
   {
     "timestamp": 1787710092,
@@ -52996,6 +52996,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787713555.0112286,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787713667,
+    "timestamp_added": 1787713667.7282753,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-watson-boluda-2026-08-26-set-handicap-home-1pt5",
+    "title": "Set Handicap: Watson (-1.5) vs Boluda (+1.5)",
+    "outcome": "Watson",
+    "side": "BUY",
+    "whale_usd": 1006.589999,
+    "whale_pct": 2.137,
+    "whale_value_at_open": 47104.2803,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787713667.728288,
     "fills": 1
   }
 ]

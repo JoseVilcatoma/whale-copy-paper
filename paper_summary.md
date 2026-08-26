@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 22:06:46 (hora de Perú)
+Actualizado: 2026-08-25 22:08:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.87
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 22:06:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $136.87)
+**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $131.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sassy-Bucket | 15 | 23 | 2 | -47.85 USD |
 | RN1 | 273 | 125 | 15 | -49.99 USD |
 | ferrariChampions2026 | 296 | 178 | 7 | -63.62 USD |
-|  | 48 | 33 | 4 | -69.07 USD |
+|  | 48 | 33 | 5 | -69.07 USD |
 
 ## Análisis general
 
@@ -460,6 +460,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Set Handicap: Watson (-1.5) vs Boluda (+ | Watson (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 3.5 | Under (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -488,5 +489,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SnakeBall | Will Independiente del Valle win on 2026 | Yes (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. New York Mets | New York Mets (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |
-| swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Cleveland Guardians vs. Los Angeles Ange | Los Angeles Angels (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
+| swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 3.1% | ⏳ pendiente | — |
