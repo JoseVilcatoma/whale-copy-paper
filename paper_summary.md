@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 08:12:49 (hora de Perú)
+Actualizado: 2026-08-26 08:14:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.68
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 08:12:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $150.68)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $145.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 294 | 137 | 3 | -47.15 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 51 | 35 | 14 | -68.80 USD |
+|  | 51 | 35 | 15 | -68.80 USD |
 
 ## Análisis general
 
@@ -469,12 +469,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-kt-bro2-2026-08-26-game3 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
 | asean-vie-tha-2026-08-26-vie | , GoalLineGhost |
 | lol-kt-bro2-2026-08-26-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
+| atp-gulin-krumich-2026-08-26 | , HomeRunHazard |
 | mlb-mil-nym-2026-08-26-total-7pt5 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Augsburg: Svyatoslav Gulin vs Martin Kru | Martin Krumich (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Max Schoenhaus vs Daniel Masur | Daniel Masur (BUY) | 86% | 5.00 | 10.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX (BO | BNK FEARX (BUY) | 43% | 5.00 | 3.2% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 4.5 | Under (BUY) | 89% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -504,4 +506,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Will Vietnam win on 2026-08-26? | Yes (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Thailand win on 2026-08-26? | No (BUY) | 80% | 5.00 | 5.5% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
-|  | FC Anyang vs. Incheon United FC: O/U 2.5 | Under (BUY) | 61% | 5.00 | 6.7% | ⏳ pendiente | — |
