@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:25:34 (hora de Perú)
+Actualizado: 2026-08-26 18:27:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.89
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:25:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $217.89)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $207.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 3 | 2 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 313 | 143 | 5 | -42.08 USD |
+| RN1 | 313 | 143 | 7 | -42.08 USD |
 | Sassy-Bucket | 15 | 27 | 1 | -68.37 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 46 | 3 | -96.35 USD |
@@ -512,12 +512,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 76% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Capucine Jauffret (BUY) | 86% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees | New York Yankees (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Darja Semeni | Darja Semenistaja (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
-| kekasaur | Spread: CA River Plate (-1.5) | CA River Plate (BUY) | 49% | 5.00 | 65.2% | ⏳ pendiente | — |
+| kekasaur | Spread: CA River Plate (-1.5) | CA River Plate (BUY) | 49% | 5.00 | 134.9% | ⏳ pendiente | — |
 | Donghui | Monterrey Open: Cristina Bucsa vs Darja  | Cristina Bucsa (BUY) | 45% | 5.00 | 20.7% | ⏳ pendiente | — |
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 46% | 5.00 | 110.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -540,5 +542,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Golden State Valkyries vs. Connecticut S | Golden State Valkyries (BUY) | 93% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Heather Wats | Heather Watson (BUY) | 78% | 5.00 | 2.4% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 75% | 5.00 | 1.6% | ✅ ganada | +1.60 |
-| HomeRunHazard | US Open, Qualification ATP: Zsombor Piro | Zsombor Piros (BUY) | 79% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Moyuka Uchij | Lucie Havlickova (BUY) | 81% | 5.00 | 0.9% | ✅ ganada | +1.13 |
