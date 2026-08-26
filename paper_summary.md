@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 16:20:14 (hora de Perú)
+Actualizado: 2026-08-26 16:22:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $520.57
@@ -505,7 +505,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Rei Sakamoto | Rei Sakamoto (BUY) | 97% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
 | Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 55% | 5.00 | 203.0% | ⏳ pendiente | — |
@@ -522,7 +522,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Juan Pablo Ficovich vs Migue | Miguel Tobon (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Cincinnati Reds (BUY) | 49% | 5.00 | 4.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Luka Mikrut  | Nishesh Basavareddy (BUY) | 93% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 64% | 5.00 | 3.5% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 64% | 5.00 | 6.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 45% | 5.00 | 92.6% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Bianca Andre | Bianca Andreescu (BUY) | 89% | 5.00 | 2.1% | ⏳ pendiente | — |

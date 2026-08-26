@@ -58313,8 +58313,8 @@
     "title": "Cincinnati Reds vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 9735.697693,
-    "whale_pct": 3.492,
+    "whale_usd": 18008.373693,
+    "whale_pct": 6.458,
     "whale_value_at_open": 278833.2036,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -58327,8 +58327,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787778795.1541376,
-    "fills": 5
+    "last_fill_at": 1787779317.0769706,
+    "fills": 6
   },
   {
     "timestamp": 1787775029,
@@ -58733,8 +58733,8 @@
     "title": "US Open, Qualification WTA: Tamara Zidansek vs Guiomar Maristany",
     "outcome": "Tamara Zidansek",
     "side": "BUY",
-    "whale_usd": 1465.37641,
-    "whale_pct": 0.474,
+    "whale_usd": 3781.3780100000004,
+    "whale_pct": 1.223,
     "whale_value_at_open": 309298.7717,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -58745,8 +58745,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787779101.9489372,
-    "fills": 1
+    "last_fill_at": 1787779320.0198984,
+    "fills": 2
   },
   {
     "timestamp": 1787779139,
