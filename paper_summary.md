@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:21:10 (hora de Perú)
+Actualizado: 2026-08-26 09:23:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.42
-**Retorno acumulado:** +1.08%
+**Bankroll actual:** $507.18
+**Retorno acumulado:** +1.44%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:21:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $135.42)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $142.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,21 +81,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 294 | 137 | 8 | -47.15 USD |
+| RN1 | 295 | 137 | 7 | -45.55 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 52 | 37 | 15 | -78.71 USD |
+|  | 53 | 37 | 15 | -78.56 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2081
-- **Aciertos:** 1341 (64.4%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 2083
+- **Aciertos:** 1343 (64.5%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,393.48
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $187.98 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,403.48
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $188.05 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -104,9 +104,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1018 | 50.5% | 50.2% | +0.3 pp |
-| 60-79% | 628 | 69.4% | 67.5% | +1.9 pp |
+| 60-79% | 629 | 69.5% | 67.6% | +1.9 pp |
 | 80-94% | 291 | 86.9% | 86.8% | +0.1 pp |
-| 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
+| 95-99% (casi seguro) | 145 | 95.9% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -479,6 +479,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Olympique Lyonnais vs. Fenerbahçe SK: Te | Olympique Lyonnais (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Smouha SC win on 2026-08-26? | No (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 7.9% | ⏳ pendiente | — |
@@ -492,7 +493,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 90.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 9 | Under (BUY) | 70% | 5.00 | 11.1% | ⏳ pendiente | — |
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
-|  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ⏳ pendiente | — |
+|  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ✅ ganada | +0.15 |
 |  | US Open, Qualification WTA: Nao Hibino v | Anna Siskova (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Seattle Storm (-5.5) | Seattle Storm (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -508,4 +509,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Independiente Santa Fe win on 2026- | No (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
-| SDTrading | Milwaukee Brewers vs. New York Mets: O/U | Over (BUY) | 58% | 5.00 | 4.6% | ⏳ pendiente | — |

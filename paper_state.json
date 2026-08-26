@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.42435540943757,
+  "bankroll": 507.175661251362,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10850,6 +10850,16 @@
       "timestamp": 1787752890.747783,
       "bankroll": 505.42,
       "event": "won:  \u2014 Augsburg: Svyatoslav Gulin vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787754126.2301002,
+      "bankroll": 507.03,
+      "event": "won: RN1 \u2014 ITF W50 Kursumlijska Banja Women: Lea Boskovic vs Tahlia Kokkinis"
+    },
+    {
+      "timestamp": 1787754136.0234356,
+      "bankroll": 507.18,
+      "event": "won:  \u2014 Roehampton 2: Oliver Tarvet vs Oliver Bonding"
     }
   ]
 }
