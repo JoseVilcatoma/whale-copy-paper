@@ -54423,5 +54423,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787740634.866612,
     "fills": 1
+  },
+  {
+    "timestamp": 1787740862,
+    "timestamp_added": 1787740863.8139832,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "atp-mikrut-basavar-2026-08-26",
+    "title": "US Open, Qualification ATP: Luka Mikrut vs Nishesh Basavareddy",
+    "outcome": "Nishesh Basavareddy",
+    "side": "BUY",
+    "whale_usd": 773.289997,
+    "whale_pct": 1.212,
+    "whale_value_at_open": 63779.0938,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787740863.813994,
+    "fills": 1
   }
 ]

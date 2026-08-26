@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:39:09 (hora de Perú)
+Actualizado: 2026-08-26 05:41:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $485.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:39:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $210.51)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $205.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 288 | 133 | 13 | -50.87 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 51 | 35 | 9 | -68.80 USD |
+|  | 51 | 35 | 10 | -68.80 USD |
 
 ## Análisis general
 
@@ -470,6 +470,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | US Open, Qualification ATP: Luka Mikrut  | Nishesh Basavareddy (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 67% | 5.00 | 3.2% | ⏳ pendiente | — |
 | GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 43% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -499,4 +500,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Amandine Monnot (BUY) | 83% | 5.00 | 12.8% | ✅ ganada | +0.98 |
 | RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Mika Brunold (BUY) | 54% | 5.00 | 4.0% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Daniel Verbeek (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
