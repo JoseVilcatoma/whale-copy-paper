@@ -56617,8 +56617,8 @@
     "title": "US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze",
     "outcome": "Mariam Bolkvadze",
     "side": "BUY",
-    "whale_usd": 3547.0001999999995,
-    "whale_pct": 2.614,
+    "whale_usd": 7106.996999999999,
+    "whale_pct": 5.238,
     "whale_value_at_open": 135678.5265,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -56629,8 +56629,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787759115.0655353,
-    "fills": 1
+    "last_fill_at": 1787760282.057089,
+    "fills": 2
   },
   {
     "timestamp": 1787760156,
@@ -56654,6 +56654,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787760157.063932,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787760232,
+    "timestamp_added": 1787760232.9279428,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-jacquet-dougaz-2026-08-26",
+    "title": "US Open, Qualification ATP: Kyrian Jacquet vs Aziz Dougaz",
+    "outcome": "Kyrian Jacquet",
+    "side": "BUY",
+    "whale_usd": 1055.704,
+    "whale_pct": 0.651,
+    "whale_value_at_open": 162257.3298,
+    "paper_stake_usd": 4.11,
+    "odds_at_bet": 53,
+    "fee_usd": 0.097,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787760232.9279552,
     "fills": 1
   }
 ]
