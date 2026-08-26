@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:29:40 (hora de Perú)
+Actualizado: 2026-08-26 18:31:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.89
@@ -515,7 +515,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Tristan Scho | Seong-Chan Hong (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 54% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 76% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Capucine Jauffret (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees | New York Yankees (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
