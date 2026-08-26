@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.0940514358813,
+  "bankroll": 532.5789584126255,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11470,6 +11470,11 @@
       "timestamp": 1787779780.6798258,
       "bankroll": 526.09,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Luka Mikrut vs Nishesh Basavareddy"
+    },
+    {
+      "timestamp": 1787780094.4621148,
+      "bankroll": 532.58,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Arantxa Rus vs Suzan Lamens"
     }
   ]
 }
