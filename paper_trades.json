@@ -51264,8 +51264,8 @@
     "title": "US Open, Qualification WTA: Vendula Valdmannova vs Maria Lourdes Carle",
     "outcome": "Vendula Valdmannova",
     "side": "BUY",
-    "whale_usd": 4068.8634,
-    "whale_pct": 0.938,
+    "whale_usd": 6445.86544,
+    "whale_pct": 1.487,
     "whale_value_at_open": 433592.2286,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -51278,8 +51278,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787700232.4264488,
-    "fills": 2
+    "last_fill_at": 1787702971.6514966,
+    "fills": 3
   },
   {
     "timestamp": 1787700234,
