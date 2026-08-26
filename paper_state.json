@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.91116059382495,
+  "bankroll": 523.8122193177098,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11255,6 +11255,26 @@
       "timestamp": 1787772824.826331,
       "bankroll": 504.91,
       "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 4.5"
+    },
+    {
+      "timestamp": 1787773059.215282,
+      "bankroll": 510.65,
+      "event": "won: SDTrading \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787773059.4156418,
+      "bankroll": 515.52,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787773059.5158267,
+      "bankroll": 521.74,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Tampa Bay Rays vs. Detroit Tigers"
+    },
+    {
+      "timestamp": 1787773126.3472643,
+      "bankroll": 523.81,
+      "event": "won: HomeRunHazard \u2014 Tampa Bay Rays vs. Detroit Tigers: O/U 9.5"
     }
   ]
 }
