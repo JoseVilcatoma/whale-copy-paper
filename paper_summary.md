@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 13:15:42 (hora de Perú)
+Actualizado: 2026-08-26 13:17:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.03
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 13:15:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $86.03)
+**Capital comprometido ahora mismo:** $435.00 en 87 posiciones abiertas (disponible para nuevas apuestas: $76.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 2 | +48.17 USD |
-| HomeRunHazard | 300 | 150 | 26 | +41.89 USD |
+| HomeRunHazard | 300 | 150 | 27 | +41.89 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -57,6 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | wr0ngw4yb3tt0r | 0 | 0 | 4 | +0.00 USD |
 | kilian7kilian | 0 | 0 | 1 | +0.00 USD |
+| Baronen11 | 0 | 0 | 1 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -492,6 +493,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Baronen11 | Will Burnley FC win on 2026-08-26? | No (BUY) | 56% | 5.00 | 110.8% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Max Purcell vs Garrett Johns | Max Purcell (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Paulo Dos Santos vs Andres M | Andres Martin (BUY) | 75% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Timofey Skat | Grigor Dimitrov (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Galions - Game 3 Win | Galions (BUY) | 65% | 5.00 | 63.8% | ⏳ pendiente | — |
@@ -501,7 +504,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Francisca Jo | Mia Ristic (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Andrea Lazaro Garcia (BUY) | 73% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: David Jorda  | Dusan Lajovic (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Harry Wendelken (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Harry Wendelken (BUY) | 54% | 5.00 | 2.0% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: FURIA (-1.5) vs paiN (+1.5 | FURIA (BUY) | 56% | 5.00 | 5144.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Madison Bren | Lucrezia Stefanini (BUY) | 89% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Iryna Shymanovich (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -520,5 +523,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Marvin Moeller vs Matias Soto | Marvin Moeller (BUY) | 88% | 5.00 | 0.9% | ✅ ganada | +0.65 |
 | HomeRunHazard | US Open, Qualification WTA: Linda Fruhvi | Carson Branstine (BUY) | 83% | 5.00 | 2.3% | ✅ ganada | +0.98 |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Kyrian Jacquet (BUY) | 53% | 4.11 | 5.3% | ❌ perdida | -4.21 |
-| HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Alevtina Ibr | Mariam Bolkvadze (BUY) | 70% | 5.00 | 5.9% | ✅ ganada | +2.07 |
