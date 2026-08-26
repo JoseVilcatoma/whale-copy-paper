@@ -56542,8 +56542,8 @@
     "title": "US Open, Qualification ATP: Kyrian Jacquet vs Aziz Dougaz",
     "outcome": "Aziz Dougaz",
     "side": "BUY",
-    "whale_usd": 4547.8685000000005,
-    "whale_pct": 3.889,
+    "whale_usd": 5108.5488700000005,
+    "whale_pct": 4.368,
     "whale_value_at_open": 116956.3122,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -56554,8 +56554,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758639.8727024,
-    "fills": 2
+    "last_fill_at": 1787761452.4947324,
+    "fills": 3
   },
   {
     "timestamp": 1787758422,
