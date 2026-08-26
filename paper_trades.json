@@ -59460,5 +59460,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787785814.8575988,
     "fills": 1
+  },
+  {
+    "timestamp": 1787786170,
+    "timestamp_added": 1787786170.534472,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "sud-riv-san1-2026-08-19-spread-home-1pt5",
+    "title": "Spread: CA River Plate (-1.5)",
+    "outcome": "CA River Plate",
+    "side": "BUY",
+    "whale_usd": 2301.0672,
+    "whale_pct": 9.972,
+    "whale_value_at_open": 23076.0172,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787786170.5344865,
+    "fills": 1
   }
 ]

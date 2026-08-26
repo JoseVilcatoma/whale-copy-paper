@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:15:11 (hora de Perú)
+Actualizado: 2026-08-26 18:17:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 18:15:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $203.01)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $198.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 1 | +0.00 USD |
-| kekasaur | 3 | 3 | 0 | -0.05 USD |
+| kekasaur | 3 | 3 | 1 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -512,6 +512,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Spread: CA River Plate (-1.5) | CA River Plate (BUY) | 49% | 5.00 | 10.0% | ⏳ pendiente | — |
 | Donghui | Monterrey Open: Cristina Bucsa vs Darja  | Cristina Bucsa (BUY) | 45% | 5.00 | 20.7% | ⏳ pendiente | — |
 | texaskid | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 46% | 5.00 | 110.8% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. Miami Marlins | Boston Red Sox (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -541,4 +542,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Kei Nishikor | Kei Nishikori (BUY) | 91% | 5.00 | 2.2% | ✅ ganada | +0.47 |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Over (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Tamara Zidan | Tamara Zidansek (BUY) | 62% | 5.00 | 4.5% | ✅ ganada | +2.97 |
