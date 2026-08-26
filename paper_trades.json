@@ -56422,8 +56422,8 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.6,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -56837,8 +56837,8 @@
     "title": "Kingston 2: Aidan Mayo vs Benjamin Willwerth",
     "outcome": "Aidan Mayo",
     "side": "BUY",
-    "whale_usd": 3126.9972000000002,
-    "whale_pct": 1.264,
+    "whale_usd": 3834.4622000000004,
+    "whale_pct": 1.55,
     "whale_value_at_open": 247425.1961,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -56849,8 +56849,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787764165.536888,
-    "fills": 1
+    "last_fill_at": 1787764994.2563756,
+    "fills": 2
   },
   {
     "timestamp": 1787764280,
@@ -57025,6 +57025,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787764690.6911535,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787764880,
+    "timestamp_added": 1787764880.7767456,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-pareja-shymano-2026-08-26",
+    "title": "US Open, Qualification WTA: Julieta Pareja vs Iryna Shymanovich",
+    "outcome": "Iryna Shymanovich",
+    "side": "BUY",
+    "whale_usd": 2135.608,
+    "whale_pct": 0.875,
+    "whale_value_at_open": 243964.1698,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787764880.776758,
     "fills": 1
   }
 ]

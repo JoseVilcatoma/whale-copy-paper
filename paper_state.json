@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.81823614969636,
+  "bankroll": 490.42290281636303,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11030,6 +11030,11 @@
       "timestamp": 1787764673.3439732,
       "bankroll": 488.82,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze"
+    },
+    {
+      "timestamp": 1787764988.8876967,
+      "bankroll": 490.42,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Qinwen Zheng vs Clara Burel"
     }
   ]
 }

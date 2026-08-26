@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:21:01 (hora de Perú)
+Actualizado: 2026-08-26 12:23:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.82
-**Retorno acumulado:** -2.24%
+**Bankroll actual:** $490.42
+**Retorno acumulado:** -1.92%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:21:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $474.11 en 95 posiciones abiertas (disponible para nuevas apuestas: $14.71)
+**Capital comprometido ahora mismo:** $474.11 en 95 posiciones abiertas (disponible para nuevas apuestas: $16.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 294 | 147 | 27 | +47.76 USD |
+| HomeRunHazard | 294 | 147 | 28 | +47.76 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -82,21 +82,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | GoalLineGhost | 6 | 7 | 8 | -19.32 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 300 | 138 | 18 | -44.91 USD |
+| RN1 | 301 | 138 | 17 | -43.31 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 55 | 40 | 13 | -84.25 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2116
-- **Aciertos:** 1362 (64.4%)
+- **Apuestas resueltas:** 2117
+- **Aciertos:** 1363 (64.4%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,568.48
-- **ROI sobre lo apostado:** -0.92%
-- **Comisiones pagadas (taker fee):** $191.14 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,573.48
+- **ROI sobre lo apostado:** -0.90%
+- **Comisiones pagadas (taker fee):** $191.21 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -105,7 +105,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1035 | 50.3% | 50.2% | +0.1 pp |
-| 60-79% | 638 | 69.3% | 67.5% | +1.7 pp |
+| 60-79% | 639 | 69.3% | 67.6% | +1.8 pp |
 | 80-94% | 297 | 87.2% | 86.8% | +0.4 pp |
 | 95-99% (casi seguro) | 146 | 95.9% | 97.4% | -1.5 pp |
 
@@ -490,6 +490,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Iryna Shymanovich (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 89% | 5.00 | 2.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Julieta Pareja (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -497,7 +498,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 46% | 5.00 | 12.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Tereza Val | Tereza Valentova (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Aidan Mayo vs Benjamin Willw | Aidan Mayo (BUY) | 91% | 5.00 | 1.3% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Aidan Mayo vs Benjamin Willw | Aidan Mayo (BUY) | 91% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 11vsldfdsgfkjgos | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Hugo Cardinaud (BUY) | 65% | 5.00 | 30.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Gabriela Knutson (BUY) | 68% | 5.00 | 2.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -514,9 +515,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Qizilqum Zarafshon win on 2026-08-2 | No (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 9.6% | ✅ ganada | +2.97 |
 | RN1 | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ✅ ganada | +1.60 |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Anouk Koever | Linda Klimovicova (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Thomas Fancutt vs Luis Guto  | Luis Guto Miguel (BUY) | 81% | 5.00 | 0.5% | ✅ ganada | +1.13 |
-| HomeRunHazard | US Open, Qualification ATP: Genaro Alber | Genaro Alberto Olivieri (BUY) | 42% | 5.00 | 2.0% | ❌ perdida | -5.14 |
