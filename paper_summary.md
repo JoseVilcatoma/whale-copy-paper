@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:54:47 (hora de Perú)
+Actualizado: 2026-08-26 12:56:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.04
@@ -490,7 +490,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Andrea Lazaro Garcia (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Mai Hontama  | Andrea Lazaro Garcia (BUY) | 73% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: David Jorda  | Dusan Lajovic (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Harry Wendelken (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: FURIA (-1.5) vs paiN (+1.5 | FURIA (BUY) | 56% | 5.00 | 5047.0% | ⏳ pendiente | — |

@@ -57156,8 +57156,8 @@
     "title": "US Open, Qualification WTA: Mai Hontama vs Andrea Lazaro Garcia",
     "outcome": "Andrea Lazaro Garcia",
     "side": "BUY",
-    "whale_usd": 521.7336,
-    "whale_pct": 0.235,
+    "whale_usd": 4007.736,
+    "whale_pct": 1.805,
     "whale_value_at_open": 222004.9995,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -57168,7 +57168,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787766790.6558828,
-    "fills": 1
+    "last_fill_at": 1787766905.874302,
+    "fills": 2
   }
 ]
