@@ -54507,8 +54507,8 @@
     "title": "Will Thailand win on 2026-08-26?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1485.549,
-    "whale_pct": 3.672,
+    "whale_usd": 2207.192557,
+    "whale_pct": 5.456,
     "whale_value_at_open": 40457.8653,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -54519,8 +54519,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787741169.1924536,
-    "fills": 1
+    "last_fill_at": 1787748949.0454202,
+    "fills": 2
   },
   {
     "timestamp": 1787741640,
@@ -54849,8 +54849,8 @@
     "title": "Pittsburgh Pirates vs. San Diego Padres",
     "outcome": "San Diego Padres",
     "side": "BUY",
-    "whale_usd": 567.6,
-    "whale_pct": 1.165,
+    "whale_usd": 2929.619,
+    "whale_pct": 6.013,
     "whale_value_at_open": 48725.3062,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -54861,8 +54861,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787746622.1588795,
-    "fills": 1
+    "last_fill_at": 1787748922.4279127,
+    "fills": 2
   },
   {
     "timestamp": 1787746802,
@@ -55043,8 +55043,8 @@
     "title": "Augsburg: Max Schoenhaus vs Daniel Masur",
     "outcome": "Max Schoenhaus",
     "side": "BUY",
-    "whale_usd": 1134.0021,
-    "whale_pct": 2.094,
+    "whale_usd": 3308.495,
+    "whale_pct": 6.11,
     "whale_value_at_open": 54148.4691,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -55055,8 +55055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787747851.4945815,
-    "fills": 1
+    "last_fill_at": 1787748893.5950205,
+    "fills": 2
   },
   {
     "timestamp": 1787748713,
@@ -55106,6 +55106,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787748814.556252,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787748904,
+    "timestamp_added": 1787748904.8367589,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "asean-vie-tha-2026-08-26-total-4pt5",
+    "title": "Vietnam vs. Thailand: O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 669.230769,
+    "whale_pct": 1.065,
+    "whale_value_at_open": 62813.9468,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787748904.836771,
     "fills": 1
   }
 ]
