@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 22:48:40 (hora de Perú)
+Actualizado: 2026-08-25 22:50:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.54
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 22:48:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.00 en 81 posiciones abiertas (disponible para nuevas apuestas: $102.54)
+**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $87.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
-| SnakeBall | 1 | 0 | 6 | +1.87 USD |
+| SnakeBall | 1 | 0 | 9 | +1.87 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -457,11 +457,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-phi-sea-2026-08-25 | , RN1, swisstony |
 | lib-ind1-tol-2026-08-18-total-3pt5 | RN1, swisstony |
 | mlb-min-oak-2026-08-25-total-8pt5 | HomeRunHazard, RN1 |
+| lec-leo-rsl-2026-08-25-leo | SnakeBall, swisstony |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SnakeBall | Will Club León FC vs. Real Salt Lake end | No (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |
+| SnakeBall | Club León FC vs. Real Salt Lake: Real Sa | Under (BUY) | 96% | 5.00 | 1.1% | ⏳ pendiente | — |
+| SnakeBall | Will Club León FC win on 2026-08-25? | Yes (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 |  | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 35.8% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres | Pittsburgh Pirates (BUY) | 41% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Athletics (-2.5) | Minnesota Twins (BUY) | 81% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -473,11 +477,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 80% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 99% | 5.00 | 1.0% | ⏳ pendiente | — |
 |  | Set Handicap: Watson (-1.5) vs Boluda (+ | Watson (BUY) | 55% | 5.00 | 2.1% | ⏳ pendiente | — |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
+| SnakeBall | Club León FC vs. Real Salt Lake: O/U 4.5 | Under (BUY) | 86% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ⏳ pendiente | — |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 3.5 | Under (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
+| SnakeBall | Club León FC vs. Real Salt Lake: O/U 3.5 | Under (BUY) | 63% | 5.00 | 2.7% | ⏳ pendiente | — |
 | SnakeBall | Club León FC vs. Real Salt Lake: Club Le | Under (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 2.5 | Under (BUY) | 57% | 5.00 | 0.9% | ⏳ pendiente | — |
+| SnakeBall | Club León FC vs. Real Salt Lake: O/U 2.5 | Under (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 86% | 5.00 | 7.4% | ⏳ pendiente | — |
@@ -489,6 +493,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Minnesota Twins vs. Athletics: O/U 8.5 | Under (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Under (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Philadelphia Phillies vs. Seattle Marine | Philadelphia Phillies (BUY) | 48% | 5.00 | 0.1% | ⏳ pendiente | — |
-| RN1 | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 78% | 5.00 | 0.1% | ⏳ pendiente | — |
-| swisstony | Independiente del Valle vs. CD Tolima: O | Under (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 69% | 5.00 | 4.1% | ⏳ pendiente | — |
