@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:59:21 (hora de Perú)
+Actualizado: 2026-08-26 10:01:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.73
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:59:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $101.73)
+**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $96.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| BOOMBOYS.Kiritych | 28 | 13 | 0 | +48.17 USD |
+| BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
 | HomeRunHazard | 289 | 145 | 12 | +44.36 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -483,6 +483,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | Counter-Strike: HOTU vs K27 (BO3) - Mosc | K27 (BUY) | 49% | 5.00 | 34.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SnakeBall | Lokomotiv Tashkent vs. FC Bunyodkor: Bot | Yes (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 50% | 5.00 | 9.2% | ⏳ pendiente | — |
@@ -512,4 +513,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Colorado Rockies vs. Washington National | Under (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 |  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ✅ ganada | +0.15 |
 |  | US Open, Qualification WTA: Nao Hibino v | Anna Siskova (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 59% | 5.00 | 9.4% | ⏳ pendiente | — |
