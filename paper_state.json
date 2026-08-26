@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.9410068663522,
+  "bankroll": 493.85338781873315,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11215,6 +11215,11 @@
       "timestamp": 1787771885.4074414,
       "bankroll": 492.94,
       "event": "lost:  \u2014 Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1787772068.803255,
+      "bankroll": 493.85,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Francisca Jorge vs Mia Ristic"
     }
   ]
 }
