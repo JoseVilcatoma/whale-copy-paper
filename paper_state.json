@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.99138307230004,
+  "bankroll": 484.5297573413059,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10685,6 +10685,16 @@
       "timestamp": 1787739176.546724,
       "bankroll": 478.99,
       "event": "won: RN1 \u2014 Greece F17, Singles: Filip Peliwo vs Joshua Charlton"
+    },
+    {
+      "timestamp": 1787740094.2130609,
+      "bankroll": 482.66,
+      "event": "won:  \u2014 ITF W35 Trieste Women: Viola Turini vs Valentina Steiner"
+    },
+    {
+      "timestamp": 1787740104.311379,
+      "bankroll": 484.53,
+      "event": "won: casualbet2020 \u2014 Valorant: Paper Rex vs Nongshim RedForce (BO3) - VCT Pacific Playoffs"
     }
   ]
 }

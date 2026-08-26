@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:26:55 (hora de Perú)
+Actualizado: 2026-08-26 05:28:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $478.99
-**Retorno acumulado:** -4.20%
+**Bankroll actual:** $484.53
+**Retorno acumulado:** -3.09%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:26:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $193.99)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $209.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 3 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 2 | +40.75 USD |
 | HomeRunHazard | 283 | 143 | 7 | +37.29 USD |
+| casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
-| casualbet2020 | 18 | 7 | 1 | +30.82 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 6 | 2 | 2 | +20.79 USD |
@@ -84,18 +84,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 287 | 133 | 14 | -51.85 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 50 | 35 | 9 | -72.46 USD |
+|  | 51 | 35 | 8 | -68.80 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2048
-- **Aciertos:** 1318 (64.4%)
+- **Apuestas resueltas:** 2050
+- **Aciertos:** 1320 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,228.48
-- **ROI sobre lo apostado:** -1.03%
-- **Comisiones pagadas (taker fee):** $184.72 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,238.48
+- **ROI sobre lo apostado:** -0.97%
+- **Comisiones pagadas (taker fee):** $184.90 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -103,8 +103,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1001 | 50.2% | 50.2% | +0.0 pp |
-| 60-79% | 616 | 69.5% | 67.6% | +1.9 pp |
+| 40-59% | 1002 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 617 | 69.5% | 67.6% | +1.9 pp |
 | 80-94% | 287 | 86.8% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
@@ -485,9 +485,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 6.4% | ⏳ pendiente | — |
 | GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 10.6% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 5.5% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 6.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 2 | KT Rolster (BUY) | 67% | 5.00 | 240.8% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Paper Rex vs Nongshim RedForce | Nongshim RedForce (BUY) | 72% | 5.00 | 99.8% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Paper Rex vs Nongshim RedForce | Nongshim RedForce (BUY) | 72% | 5.00 | 99.8% | ✅ ganada | +1.87 |
 |  | Set Handicap: Fenty (-1.5) vs Chopra (+1 | Chopra (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Torello (Spain) | Sayaka Ishii (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Juan Manuel La Serna (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
