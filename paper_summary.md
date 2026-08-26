@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:04:38 (hora de Perú)
+Actualizado: 2026-08-26 09:06:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.42
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:04:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $180.42)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $170.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| GoalLineGhost | 0 | 0 | 17 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 18 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 20 | 16 | 1 | -0.57 USD |
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 294 | 137 | 4 | -47.15 USD |
+| RN1 | 294 | 137 | 5 | -47.15 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 52 | 37 | 14 | -78.71 USD |
@@ -477,6 +477,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Vietnam vs. Thailand: O/U 1.5 | Over (BUY) | 82% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Adrien Berrut (BUY) | 70% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Djdjdjekekek | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 90.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 9 | Under (BUY) | 70% | 5.00 | 11.1% | ⏳ pendiente | — |
@@ -505,5 +507,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Real Madrid CF win on 2026-08-26? | Yes (BUY) | 79% | 5.00 | 3.1% | ⏳ pendiente | — |
 | GoalLineGhost | Real Madrid CF vs. Real Sociedad de Fútb | Under (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vietnam win on 2026-08-26? | No (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
-|  | US Open, Qualification ATP: Kei Nishikor | Michael Antonius (BUY) | 41% | 5.00 | 1.3% | ⏳ pendiente | — |
-| GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Under (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
