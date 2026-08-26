@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.66217963057983,
+  "bankroll": 503.86051296391315,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11195,6 +11195,11 @@
       "timestamp": 1787770877.212905,
       "bankroll": 503.66,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones (-0.16 USD)"
+    },
+    {
+      "timestamp": 1787770961.826233,
+      "bankroll": 503.86,
+      "event": "won: HomeRunHazard \u2014 Philadelphia: Fangran Tian vs Tereza Valentova"
     }
   ]
 }

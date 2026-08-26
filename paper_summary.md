@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 14:01:41 (hora de Perú)
+Actualizado: 2026-08-26 14:03:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.66
-**Retorno acumulado:** +0.73%
+**Bankroll actual:** $503.86
+**Retorno acumulado:** +0.77%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 14:01:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $460.00 en 92 posiciones abiertas (disponible para nuevas apuestas: $43.66)
+**Capital comprometido ahora mismo:** $465.00 en 93 posiciones abiertas (disponible para nuevas apuestas: $38.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 2 | +48.17 USD |
-| HomeRunHazard | 304 | 150 | 34 | +47.12 USD |
+| HomeRunHazard | 305 | 150 | 34 | +47.32 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| HVAB | 13 | 5 | 0 | +2.42 USD |
+| HVAB | 13 | 5 | 1 | +2.42 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -92,13 +92,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2147
-- **Aciertos:** 1385 (64.5%)
+- **Apuestas resueltas:** 2148
+- **Aciertos:** 1386 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,722.59
+- **Total apostado (suma de stakes):** $10,727.59
 - **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $193.46 (1.80% del capital apostado)
+- **Comisiones pagadas (taker fee):** $193.47 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -110,7 +110,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1044 | 50.4% | 50.2% | +0.2 pp |
 | 60-79% | 649 | 69.5% | 67.6% | +1.9 pp |
 | 80-94% | 306 | 86.9% | 86.8% | +0.1 pp |
-| 95-99% (casi seguro) | 148 | 95.9% | 97.4% | -1.4 pp |
+| 95-99% (casi seguro) | 149 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -498,6 +498,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Toby Samuel  | Toby Samuel (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
+| OOOwhyOOO | US Open, Qualification WTA: Despina Papa | Ekaterine Gorgodze (BUY) | 82% | 5.00 | 193.1% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 81% | 5.00 | 20.3% | 💰 vendida anticipada | -0.16 |
 | OOOwhyOOO | US Open, Qualification ATP: Otto Virtane | Jack Pinnington Jones (BUY) | 79% | 5.00 | 16.2% | 💰 vendida anticipada | +0.35 |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 4 | Under (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -526,5 +528,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: David Jorda  | Dusan Lajovic (BUY) | 78% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Remy Bertola | Harry Wendelken (BUY) | 54% | 5.00 | 2.0% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: FURIA (-1.5) vs paiN (+1.5 | FURIA (BUY) | 56% | 5.00 | 5144.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Madison Bren | Lucrezia Stefanini (BUY) | 89% | 5.00 | 2.9% | ✅ ganada | +0.59 |
-| HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Iryna Shymanovich (BUY) | 41% | 5.00 | 0.9% | ⏳ pendiente | — |
