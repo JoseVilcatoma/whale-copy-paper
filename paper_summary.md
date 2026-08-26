@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:35:50 (hora de Perú)
+Actualizado: 2026-08-26 12:37:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $489.13
@@ -500,8 +500,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 46% | 5.00 | 12.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Tereza Val | Tereza Valentova (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Benjamin Willw | Aidan Mayo (BUY) | 91% | 5.00 | 1.6% | ⏳ pendiente | — |
-| 11vsldfdsgfkjgos | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Hugo Cardinaud (BUY) | 65% | 5.00 | 30.0% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Gabriela Knutson (BUY) | 68% | 5.00 | 4.9% | ⏳ pendiente | — |
+| 11vsldfdsgfkjgos | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Hugo Cardinaud (BUY) | 65% | 5.00 | 39.0% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Dominika Sal | Gabriela Knutson (BUY) | 68% | 5.00 | 5.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 50% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Frederico Fe | Jurij Rodionov (BUY) | 99% | 5.00 | 2.2% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Marvin Moeller vs Matias Soto | Marvin Moeller (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |

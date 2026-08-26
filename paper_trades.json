@@ -56789,8 +56789,8 @@
     "title": "US Open, Qualification WTA: Dominika Salkova vs Gabriela Knutson",
     "outcome": "Gabriela Knutson",
     "side": "BUY",
-    "whale_usd": 12032.0012,
-    "whale_pct": 4.863,
+    "whale_usd": 12848.5012,
+    "whale_pct": 5.193,
     "whale_value_at_open": 247425.1961,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -56801,8 +56801,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787765452.8006835,
-    "fills": 3
+    "last_fill_at": 1787765811.589407,
+    "fills": 4
   },
   {
     "timestamp": 1787764156,
@@ -56813,8 +56813,8 @@
     "title": "ITF MEN - SINGLES: M15 Monastir 28 (Tunisia), hard: Hugo Cardinaud vs Ilya Polonskiy",
     "outcome": "Hugo Cardinaud",
     "side": "BUY",
-    "whale_usd": 3260.0299999999997,
-    "whale_pct": 30.014,
+    "whale_usd": 4232.0779999999995,
+    "whale_pct": 38.963,
     "whale_value_at_open": 10861.8,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -56825,8 +56825,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787764396.2258492,
-    "fills": 2
+    "last_fill_at": 1787765849.4379036,
+    "fills": 3
   },
   {
     "timestamp": 1787764165,
