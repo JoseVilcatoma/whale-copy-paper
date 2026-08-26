@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.9155906141595,
+  "bankroll": 496.2445026025386,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10020,6 +10020,31 @@
       "timestamp": 1787707013.3297555,
       "bankroll": 499.92,
       "event": "lost: HomeRunHazard \u2014 Houston Astros vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1787707262.1438856,
+      "bankroll": 494.79,
+      "event": "lost:  \u2014 US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich"
+    },
+    {
+      "timestamp": 1787707262.6447134,
+      "bankroll": 495.09,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich"
+    },
+    {
+      "timestamp": 1787707262.7451682,
+      "bankroll": 496.07,
+      "event": "won:  \u2014 US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich"
+    },
+    {
+      "timestamp": 1787707324.5966487,
+      "bankroll": 490.96,
+      "event": "lost: HomeRunHazard \u2014 Texas Rangers vs. Chicago White Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1787707324.696882,
+      "bankroll": 496.24,
+      "event": "won: Sassy-Bucket \u2014 Texas Rangers vs. Chicago White Sox: O/U 7.5"
     }
   ]
 }
