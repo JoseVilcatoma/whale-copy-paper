@@ -54995,8 +54995,8 @@
     "title": "Vietnam vs. Thailand: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2231.8720000000003,
-    "whale_pct": 4.129,
+    "whale_usd": 4672.8752,
+    "whale_pct": 8.644,
     "whale_value_at_open": 54059.5304,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -55007,8 +55007,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787747813.5058978,
-    "fills": 3
+    "last_fill_at": 1787753505.6863334,
+    "fills": 4
   },
   {
     "timestamp": 1787747811,
@@ -55383,8 +55383,8 @@
     "title": "Augsburg: Cezar Cretu vs Miguel Damas",
     "outcome": "Cezar Cretu",
     "side": "BUY",
-    "whale_usd": 2340.835124,
-    "whale_pct": 1.418,
+    "whale_usd": 4028.364124,
+    "whale_pct": 2.441,
     "whale_value_at_open": 165034.0668,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -55397,8 +55397,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787753374.615512,
-    "fills": 3
+    "last_fill_at": 1787753454.4331446,
+    "fills": 4
   },
   {
     "timestamp": 1787753168,
@@ -55546,6 +55546,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787753368.526488,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787753450,
+    "timestamp_added": 1787753451.080088,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-mena-wehnelt-2026-08-26",
+    "title": "Augsburg: Facundo Mena vs Kai Wehnelt",
+    "outcome": "Facundo Mena",
+    "side": "BUY",
+    "whale_usd": 13764.123651,
+    "whale_pct": 7.896,
+    "whale_value_at_open": 174312.6482,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787753451.539051,
+    "fills": 4
+  },
+  {
+    "timestamp": 1787753550,
+    "timestamp_added": 1787753551.3523526,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "egy1-sms-apc-2026-08-26-sms",
+    "title": "Will Smouha SC win on 2026-08-26?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 660.760169,
+    "whale_pct": 0.469,
+    "whale_value_at_open": 140740.0229,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787753551.3523657,
     "fills": 1
   }
 ]
