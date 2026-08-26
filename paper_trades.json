@@ -54046,8 +54046,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -59101,8 +59101,8 @@
     "title": "Los Angeles Dodgers vs. Atlanta Braves",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 149014.226722,
-    "whale_pct": 1359.849,
+    "whale_usd": 156420.69712199998,
+    "whale_pct": 1427.438,
     "whale_value_at_open": 10958.1452,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -59113,8 +59113,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787781433.212918,
-    "fills": 5
+    "last_fill_at": 1787781616.7514105,
+    "fills": 6
   },
   {
     "timestamp": 1787781416,
