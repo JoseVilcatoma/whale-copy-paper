@@ -1,5 +1,5 @@
 {
-  "bankroll": 510.5569506700171,
+  "bankroll": 511.02945616452257,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11140,6 +11140,11 @@
       "timestamp": 1787767500.461617,
       "bankroll": 510.56,
       "event": "won: RN1 \u2014 Will Asyut Petroleum SC win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787767938.0186605,
+      "bankroll": 511.03,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Aidan Mayo vs Benjamin Willwerth"
     }
   ]
 }
