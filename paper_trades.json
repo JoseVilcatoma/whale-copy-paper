@@ -54077,5 +54077,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787736868.9049513,
     "fills": 2
+  },
+  {
+    "timestamp": 1787737160,
+    "timestamp_added": 1787737161.075961,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-serna-barton-2026-08-26",
+    "title": "Augsburg: Juan Manuel La Serna vs Hynek Barton",
+    "outcome": "Hynek Barton",
+    "side": "BUY",
+    "whale_usd": 520.625,
+    "whale_pct": 1.179,
+    "whale_value_at_open": 44150.3918,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787737161.0759747,
+    "fills": 1
   }
 ]

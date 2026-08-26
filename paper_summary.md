@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 04:39:05 (hora de Perú)
+Actualizado: 2026-08-26 04:41:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 04:39:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $235.40)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $230.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 1 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 2 | +40.75 USD |
-| HomeRunHazard | 283 | 143 | 6 | +37.29 USD |
+| HomeRunHazard | 283 | 143 | 7 | +37.29 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | casualbet2020 | 18 | 7 | 1 | +30.82 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -461,11 +461,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lec-leo-rsl-2026-08-25-leo | SnakeBall, swisstony |
 | cs2-aur1-g2-2026-08-26 | , SPCEXBUYER |
 | atp-kopp-brunold-2026-08-26 | HomeRunHazard, RN1 |
+| atp-serna-barton-2026-08-26 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 6.4% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | Under (BUY) | 48% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 5.5% | ⏳ pendiente | — |
@@ -495,4 +497,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF W75 Bytom Women: Laura Hietaranta vs | Laura Hietaranta (BUY) | 84% | 5.00 | 3.2% | ✅ ganada | +0.91 |
 | RN1 | ITF W75 Bytom Women: Sapfo Sakellaridi v | Sapfo Sakellaridi (BUY) | 90% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
