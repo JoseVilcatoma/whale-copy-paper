@@ -59867,8 +59867,8 @@
     "title": "CA River Plate vs. Independiente Santa Fe: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 27563.217699999997,
-    "whale_pct": 35.194,
+    "whale_usd": 33906.827699999994,
+    "whale_pct": 43.294,
     "whale_value_at_open": 78317.9441,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59879,8 +59879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787787830.7636049,
-    "fills": 5
+    "last_fill_at": 1787787967.9001777,
+    "fills": 8
   },
   {
     "timestamp": 1787787728,
@@ -59978,6 +59978,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787787826.4248197,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787787949,
+    "timestamp_added": 1787787950.231335,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-hou-nyy-2026-08-26-total-9pt5",
+    "title": "Houston Astros vs. New York Yankees: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 847.06,
+    "whale_pct": 0.274,
+    "whale_value_at_open": 309484.2974,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787787950.231363,
     "fills": 1
   }
 ]
