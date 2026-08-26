@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 19:30:45 (hora de Perú)
+Actualizado: 2026-08-25 19:32:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.66
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 19:30:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $480.00 en 96 posiciones abiertas (disponible para nuevas apuestas: $14.66)
+**Capital comprometido ahora mismo:** $485.00 en 97 posiciones abiertas (disponible para nuevas apuestas: $9.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 271 | 123 | 3 | -43.13 USD |
 | Sassy-Bucket | 13 | 22 | 3 | -53.74 USD |
 | ferrariChampions2026 | 294 | 178 | 9 | -67.85 USD |
-|  | 39 | 30 | 12 | -72.35 USD |
+|  | 39 | 30 | 13 | -72.35 USD |
 
 ## Análisis general
 
@@ -447,7 +447,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 0.8% | ⏳ pendiente | — |
+|  | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 83% | 5.00 | 1.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 94% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. St. Louis Cardinal | Baltimore Orioles (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Dalma Galfi  | Aliaksandra Sasnovich (BUY) | 74% | 5.00 | 224.7% | 💰 vendida anticipada | +0.29 |
 | HomeRunHazard | Winston-Salem Open: Miomir Kecmanovic vs | Fabian Marozsan (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -462,7 +463,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Seong-Chan H | Seong-Chan Hong (BUY) | 70% | 5.00 | 2.5% | ⏳ pendiente | — |
 |  | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 85% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Nicolas Meji | Liam Draxl (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Taro Daniel  | Taro Daniel (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Winston-Salem Open: Daniil Medvedev vs M | Martin Damm (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 48% | 5.00 | 3.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -476,4 +477,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Chicago Sky vs. Connecticut Sun | Chicago Sky (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Darja Semeni | Darja Semenistaja (BUY) | 95% | 5.00 | 0.8% | ✅ ganada | +0.25 |
 | HomeRunHazard | Spread: Dallas Wings (-7.5) | Dallas Wings (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Dallas Wings (-8.5) | Dallas Wings (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |

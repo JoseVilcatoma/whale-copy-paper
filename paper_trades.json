@@ -51412,8 +51412,8 @@
     "title": "US Open, Qualification ATP: Taro Daniel vs Andrew Johnson",
     "outcome": "Taro Daniel",
     "side": "BUY",
-    "whale_usd": 4128.682199999999,
-    "whale_pct": 0.859,
+    "whale_usd": 7504.195,
+    "whale_pct": 1.561,
     "whale_value_at_open": 480797.296,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -51424,8 +51424,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787703415.6523385,
-    "fills": 2
+    "last_fill_at": 1787704274.856372,
+    "fills": 3
   },
   {
     "timestamp": 1787700713,
@@ -51783,8 +51783,8 @@
     "title": "US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich",
     "outcome": "Aliaksandra Sasnovich",
     "side": "BUY",
-    "whale_usd": 3484.9440000000004,
-    "whale_pct": 0.793,
+    "whale_usd": 12599.744400000001,
+    "whale_pct": 2.868,
     "whale_value_at_open": 439253.6271,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -51798,7 +51798,34 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787704190.8850145,
-    "fills": 2
+    "last_fill_at": 1787704353.2271056,
+    "fills": 7
+  },
+  {
+    "timestamp": 1787704274,
+    "timestamp_added": 1787704274.9422786,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "wta-galfi-sasnovi-2026-08-25",
+    "title": "US Open, Qualification WTA: Dalma Galfi vs Aliaksandra Sasnovich",
+    "outcome": "Aliaksandra Sasnovich",
+    "side": "BUY",
+    "whale_usd": 1149.5399989999999,
+    "whale_pct": 1.6,
+    "whale_value_at_open": 71824.9285,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "OOOwhyOOO"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787704274.9422922,
+    "fills": 1
   }
 ]
