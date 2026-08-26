@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.82244089926405,
+  "bankroll": 497.2949463937695,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10290,6 +10290,11 @@
       "timestamp": 1787711770.7451487,
       "bankroll": 496.82,
       "event": "won: RN1 \u2014 Milwaukee Brewers vs. New York Mets"
+    },
+    {
+      "timestamp": 1787712587.0893831,
+      "bankroll": 497.29,
+      "event": "won: RN1 \u2014 Winston-Salem Open: Adrian Mannarino vs Lorenzo Sonego"
     }
   ]
 }

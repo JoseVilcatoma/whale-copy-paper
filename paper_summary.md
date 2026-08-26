@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:47:46 (hora de Perú)
+Actualizado: 2026-08-25 21:49:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $496.82
-**Retorno acumulado:** -0.64%
+**Bankroll actual:** $497.29
+**Retorno acumulado:** -0.54%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:47:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $126.82)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $132.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,20 +80,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 4 | 5 | 3 | -10.86 USD |
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 272 | 124 | 17 | -45.33 USD |
+| RN1 | 273 | 124 | 16 | -44.86 USD |
 | Sassy-Bucket | 15 | 23 | 2 | -47.85 USD |
 | ferrariChampions2026 | 296 | 178 | 7 | -63.62 USD |
 |  | 47 | 33 | 5 | -69.37 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 1969
-- **Aciertos:** 1269 (64.4%)
+- **Apuestas resueltas:** 1970
+- **Aciertos:** 1270 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $9,833.48
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $177.67 (1.81% del capital apostado)
+- **Total apostado (suma de stakes):** $9,838.48
+- **ROI sobre lo apostado:** -0.88%
+- **Comisiones pagadas (taker fee):** $177.69 (1.81% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -104,7 +104,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 959 | 50.1% | 50.2% | -0.2 pp |
 | 60-79% | 598 | 70.2% | 67.6% | +2.7 pp |
-| 80-94% | 276 | 86.2% | 86.9% | -0.7 pp |
+| 80-94% | 277 | 86.3% | 86.9% | -0.6 pp |
 | 95-99% (casi seguro) | 136 | 96.3% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -462,7 +462,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 86% | 5.00 | 5.4% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 86% | 5.00 | 7.4% | ⏳ pendiente | — |
 | swisstony | Club León FC vs. Real Salt Lake: O/U 1.5 | Over (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Club León FC win on 2026-08-25? | No (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -477,7 +477,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Minnesota Twins vs. Athletics: O/U 9.5 | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Winston-Salem Open: Adrian Mannarino vs  | Lorenzo Sonego (BUY) | 91% | 5.00 | 0.1% | ⏳ pendiente | — |
+| RN1 | Winston-Salem Open: Adrian Mannarino vs  | Lorenzo Sonego (BUY) | 91% | 5.00 | 0.1% | ✅ ganada | +0.47 |
 | RN1 | Washington Mystics vs. Phoenix Mercury | Phoenix Mercury (BUY) | 45% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Monterrey Open: Nikola Bartunkova vs Ana | Nikola Bartunkova (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
