@@ -58114,8 +58114,8 @@
     "title": "US Open, Qualification WTA: Yue Yuan vs Julia Avdeeva",
     "outcome": "Yue Yuan",
     "side": "BUY",
-    "whale_usd": 568.617,
-    "whale_pct": 0.228,
+    "whale_usd": 4315.6203,
+    "whale_pct": 1.733,
     "whale_value_at_open": 248981.2091,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -58126,8 +58126,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787773213.9481297,
-    "fills": 1
+    "last_fill_at": 1787777344.1378627,
+    "fills": 2
   },
   {
     "timestamp": 1787773348,
