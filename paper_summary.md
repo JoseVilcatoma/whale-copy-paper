@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 06:55:26 (hora de Perú)
+Actualizado: 2026-08-26 06:57:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.88
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 06:55:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $216.88)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $211.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | HomeRunHazard | 285 | 143 | 8 | +46.85 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 4 | +45.69 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 5 | +45.69 USD |
 | BOOMBOYS.Kiritych | 27 | 13 | 1 | +43.85 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -473,6 +473,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION (BO5) -  | KT Rolster (BUY) | 60% | 5.00 | 4.7% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Madrid CF win on 2026-08-26? | Yes (BUY) | 79% | 5.00 | 3.1% | ⏳ pendiente | — |
 | GoalLineGhost | Real Madrid CF vs. Real Sociedad de Fútb | Under (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will Vietnam win on 2026-08-26? | No (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -502,4 +503,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 56.4% | ⏳ pendiente | — |
 | plonker2026 | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 6.4% | ✅ ganada | +4.68 |
-| GoalLineGhost | Will Daejeon Hana Citizen FC win on 2026 | No (BUY) | 58% | 5.00 | 10.6% | ⏳ pendiente | — |
