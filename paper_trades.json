@@ -57505,8 +57505,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -58239,8 +58239,8 @@
     "title": "US Open, Qualification WTA: Bianca Andreescu vs Veronika Podrez",
     "outcome": "Bianca Andreescu",
     "side": "BUY",
-    "whale_usd": 814.0764,
-    "whale_pct": 0.32,
+    "whale_usd": 2636.0784,
+    "whale_pct": 1.037,
     "whale_value_at_open": 254126.8335,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -58251,8 +58251,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787774290.882522,
-    "fills": 1
+    "last_fill_at": 1787775129.205249,
+    "fills": 2
   },
   {
     "timestamp": 1787774732,

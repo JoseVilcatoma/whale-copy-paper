@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.8399669997863,
+  "bankroll": 534.7649669997862,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11320,6 +11320,11 @@
       "timestamp": 1787774802.2012362,
       "bankroll": 539.84,
       "event": "won: SPCEXBUYER \u2014 Map Handicap: FURIA (-1.5) vs paiN (+1.5)"
+    },
+    {
+      "timestamp": 1787775173.2912986,
+      "bankroll": 534.76,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Otto Virtanen vs Jack Pinnington Jones"
     }
   ]
 }

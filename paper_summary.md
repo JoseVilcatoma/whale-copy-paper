@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 15:12:05 (hora de Perú)
+Actualizado: 2026-08-26 15:14:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $539.84
-**Retorno acumulado:** +7.97%
+**Bankroll actual:** $534.76
+**Retorno acumulado:** +6.95%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 15:12:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $455.00 en 91 posiciones abiertas (disponible para nuevas apuestas: $84.84)
+**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $84.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| HomeRunHazard | 318 | 151 | 40 | +68.52 USD |
+| HomeRunHazard | 318 | 152 | 39 | +63.44 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -92,14 +92,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2171
-- **Aciertos:** 1406 (64.8%)
+- **Apuestas resueltas:** 2172
+- **Aciertos:** 1406 (64.7%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,842.59
-- **ROI sobre lo apostado:** -0.42%
-- **Comisiones pagadas (taker fee):** $195.36 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.38% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,847.59
+- **ROI sobre lo apostado:** -0.47%
+- **Comisiones pagadas (taker fee):** $195.43 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1051 | 50.5% | 50.2% | +0.3 pp |
-| 60-79% | 658 | 69.9% | 67.6% | +2.3 pp |
+| 60-79% | 659 | 69.8% | 67.6% | +2.2 pp |
 | 80-94% | 312 | 87.2% | 86.8% | +0.4 pp |
 | 95-99% (casi seguro) | 150 | 95.3% | 97.4% | -2.0 pp |
 
@@ -506,7 +506,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Philadelphia Phillies vs. Seattle Marine | Seattle Mariners (BUY) | 45% | 5.00 | 92.6% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Over (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Bianca Andre | Bianca Andreescu (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Bianca Andre | Bianca Andreescu (BUY) | 89% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Arantxa Rus  | Arantxa Rus (BUY) | 43% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Cleveland Guardians vs. Los Angeles Ange | Over (BUY) | 49% | 5.00 | 41.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cleveland Guardians vs. Los Angeles Ange | Cleveland Guardians (BUY) | 57% | 5.00 | 1.6% | ⏳ pendiente | — |
