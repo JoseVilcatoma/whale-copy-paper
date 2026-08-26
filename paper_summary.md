@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:53:32 (hora de Perú)
+Actualizado: 2026-08-26 05:55:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $489.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:53:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $199.49)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $194.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 289 | 133 | 12 | -46.89 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 51 | 35 | 12 | -68.80 USD |
+|  | 51 | 35 | 13 | -68.80 USD |
 
 ## Análisis general
 
@@ -471,6 +471,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will Vietnam win on 2026-08-26? | Yes (BUY) | 56% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Thailand win on 2026-08-26? | No (BUY) | 80% | 5.00 | 3.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Arthur Gea v | Arthur Gea (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | FC Anyang vs. Incheon United FC: O/U 2.5 | Under (BUY) | 61% | 5.00 | 6.7% | ⏳ pendiente | — |
@@ -500,4 +501,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nicolo Toffanin (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Greece F17, Singles: Filip Peliwo vs Jos | Joshua Charlton (BUY) | 79% | 5.00 | 1.1% | ✅ ganada | +1.28 |
 | RN1 | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 50% | 5.00 | 4.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 54% | 5.00 | 2.6% | ⏳ pendiente | — |
