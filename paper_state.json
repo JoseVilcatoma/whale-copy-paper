@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.87637650474034,
+  "bankroll": 503.4673540328302,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11180,6 +11180,11 @@
       "timestamp": 1787770643.4222677,
       "bankroll": 502.88,
       "event": "lost: RN1 \u2014 Will Qizilqum Zarafshon win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787770702.2438312,
+      "bankroll": 503.47,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Madison Brengle vs Lucrezia Stefanini"
     }
   ]
 }
