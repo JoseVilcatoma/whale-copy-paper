@@ -58912,8 +58912,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.28,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -59518,8 +59518,8 @@
     "title": "Los Angeles Dodgers vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 789.1,
-    "whale_pct": 0.284,
+    "whale_usd": 1698.028,
+    "whale_pct": 0.61,
     "whale_value_at_open": 278321.6898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -59534,8 +59534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787786616.9873242,
-    "fills": 1
+    "last_fill_at": 1787787264.8672285,
+    "fills": 2
   },
   {
     "timestamp": 1787786618,
@@ -59707,6 +59707,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787786968.093635,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787787270,
+    "timestamp_added": 1787787270.870393,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-selekhm-jauffre-2026-08-26",
+    "title": "Philadelphia: Oksana Selekhmeteva vs Capucine Jauffret",
+    "outcome": "Oksana Selekhmeteva",
+    "side": "BUY",
+    "whale_usd": 1771.623,
+    "whale_pct": 0.63,
+    "whale_value_at_open": 281350.2265,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787787270.8704076,
     "fills": 1
   }
 ]

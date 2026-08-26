@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.8896015628963,
+  "bankroll": 484.16671548694694,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11765,6 +11765,11 @@
       "timestamp": 1787786663.4998634,
       "bankroll": 482.89,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Yunchaokete Bu vs Borna Gojo"
+    },
+    {
+      "timestamp": 1787787280.9618783,
+      "bankroll": 484.17,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Zsombor Piros vs Daniil Glinka"
     }
   ]
 }
