@@ -53021,5 +53021,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787713667.728288,
     "fills": 1
+  },
+  {
+    "timestamp": 1787714391,
+    "timestamp_added": 1787714392.4957814,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "mlb-chc-ari-2026-08-25",
+    "title": "Chicago Cubs vs. Arizona Diamondbacks",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 502.4699989999999,
+    "whale_pct": 1.042,
+    "whale_value_at_open": 48202.2135,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "RN1",
+      "swisstony"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787714392.4957926,
+    "fills": 1
   }
 ]
