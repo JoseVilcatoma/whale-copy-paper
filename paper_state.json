@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.9540068663522,
+  "bankroll": 492.9410068663522,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11210,6 +11210,11 @@
       "timestamp": 1787771444.800059,
       "bankroll": 497.95,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification WTA: Despina Papamichail vs Ekaterine Gorgodze (-0.78 USD)"
+    },
+    {
+      "timestamp": 1787771885.4074414,
+      "bankroll": 492.94,
+      "event": "lost:  \u2014 Counter-Strike: Natus Vincere vs M80 (BO3) - BLAST Open Porto Group A"
     }
   ]
 }
