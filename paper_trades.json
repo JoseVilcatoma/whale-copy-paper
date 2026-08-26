@@ -56465,8 +56465,8 @@
     "title": "US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme",
     "outcome": "Robin Montgomery",
     "side": "BUY",
-    "whale_usd": 9104.657601999997,
-    "whale_pct": 8.761,
+    "whale_usd": 9935.757401999997,
+    "whale_pct": 9.561,
     "whale_value_at_open": 103920.2483,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -56479,8 +56479,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787759759.8795428,
-    "fills": 4
+    "last_fill_at": 1787761657.6051517,
+    "fills": 5
   },
   {
     "timestamp": 1787758134,

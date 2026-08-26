@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 11:26:39 (hora de Perú)
+Actualizado: 2026-08-26 11:28:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.89
@@ -497,7 +497,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Aziz Dougaz (BUY) | 57% | 5.00 | 4.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andrea Guerr | Joel Schwaerzler (BUY) | 79% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | Will Qizilqum Zarafshon win on 2026-08-2 | No (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 8.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 9.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
