@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.91386287780693,
+  "bankroll": 488.81823614969636,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11015,6 +11015,21 @@
       "timestamp": 1787764051.6631434,
       "bankroll": 488.91,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Genaro Alberto Olivieri vs Tomas Barrios"
+    },
+    {
+      "timestamp": 1787764667.0606253,
+      "bankroll": 483.78,
+      "event": "lost:  \u2014 US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme"
+    },
+    {
+      "timestamp": 1787764672.3285208,
+      "bankroll": 486.75,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme"
+    },
+    {
+      "timestamp": 1787764673.3439732,
+      "bankroll": 488.82,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Alevtina Ibragimova vs Mariam Bolkvadze"
     }
   ]
 }

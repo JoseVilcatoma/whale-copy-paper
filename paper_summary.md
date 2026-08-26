@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 12:16:49 (hora de Perú)
+Actualizado: 2026-08-26 12:18:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.91
-**Retorno acumulado:** -2.22%
+**Bankroll actual:** $488.82
+**Retorno acumulado:** -2.24%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 12:16:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $474.11 en 95 posiciones abiertas (disponible para nuevas apuestas: $14.80)
+**Capital comprometido ahora mismo:** $474.11 en 95 posiciones abiertas (disponible para nuevas apuestas: $14.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 292 | 147 | 27 | +42.72 USD |
+| HomeRunHazard | 294 | 147 | 27 | +47.76 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 1 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| wr0ngw4yb3tt0r | 0 | 0 | 2 | +0.00 USD |
+| wr0ngw4yb3tt0r | 0 | 0 | 3 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -85,17 +85,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 300 | 138 | 18 | -44.91 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 55 | 39 | 14 | -79.12 USD |
+|  | 55 | 40 | 13 | -84.25 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2113
-- **Aciertos:** 1360 (64.4%)
+- **Apuestas resueltas:** 2116
+- **Aciertos:** 1362 (64.4%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,553.48
+- **Total apostado (suma de stakes):** $10,568.48
 - **ROI sobre lo apostado:** -0.92%
-- **Comisiones pagadas (taker fee):** $190.84 (1.81% del capital apostado)
+- **Comisiones pagadas (taker fee):** $191.14 (1.81% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -104,8 +104,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1034 | 50.4% | 50.2% | +0.2 pp |
-| 60-79% | 636 | 69.2% | 67.6% | +1.6 pp |
+| 40-59% | 1035 | 50.3% | 50.2% | +0.1 pp |
+| 60-79% | 638 | 69.3% | 67.5% | +1.7 pp |
 | 80-94% | 297 | 87.2% | 86.8% | +0.4 pp |
 | 95-99% (casi seguro) | 146 | 95.9% | 97.4% | -1.5 pp |
 
@@ -471,6 +471,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-guerrie-schwaer-2026-08-26 | , HomeRunHazard, RN1 |
 | kor-any-inc-2026-08-26-total-2pt5 | , GoalLineGhost |
 | lol-kt-bro2-2026-08-26-game3 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
+| atp-gaubas-cecchin-2026-08-26 | , HomeRunHazard |
 | asean-vie-tha-2026-08-26-vie | , GoalLineGhost |
 | lol-kt-bro2-2026-08-26-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | atp-gulin-krumich-2026-08-26 | , HomeRunHazard |
@@ -483,13 +484,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-tb-det-2026-08-26-total-8pt5 | HomeRunHazard, RN1 |
 | atp-rincon-jordanl-2026-08-26 | HomeRunHazard, RN1 |
 | wta-bronzet-iatcenk-2026-08-26 | HomeRunHazard, RN1 |
-| mlb-tb-det-2026-08-26 | HomeRunHazard, SDTrading |
+| mlb-tb-det-2026-08-26 | HomeRunHazard, SDTrading, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification ATP: Vilius Gauba | Vilius Gaubas (BUY) | 89% | 5.00 | 2.0% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Julieta Pare | Julieta Pareja (BUY) | 65% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 50% | 5.00 | 2.5% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. San Francisco Giants | San Francisco Giants (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SDTrading | Tampa Bay Rays vs. Detroit Tigers | Tampa Bay Rays (BUY) | 46% | 5.00 | 12.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia: Fangran Tian vs Tereza Val | Tereza Valentova (BUY) | 96% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -502,13 +506,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open, Qualification WTA: Linda Fruhvi | Carson Branstine (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Kyrian Jacquet (BUY) | 53% | 4.11 | 5.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Alevtina Ibr | Mariam Bolkvadze (BUY) | 70% | 5.00 | 5.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Alevtina Ibr | Mariam Bolkvadze (BUY) | 70% | 5.00 | 5.9% | ✅ ganada | +2.07 |
 |  | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 55% | 5.00 | 7.7% | ⏳ pendiente | — |
 | texaskid | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 50% | 5.00 | 214.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Kyrian Jacqu | Aziz Dougaz (BUY) | 57% | 5.00 | 4.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification ATP: Andrea Guerr | Joel Schwaerzler (BUY) | 79% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | Will Qizilqum Zarafshon win on 2026-08-2 | No (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 9.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open, Qualification WTA: Robin Montgo | Robin Montgomery (BUY) | 62% | 5.00 | 9.6% | ✅ ganada | +2.97 |
 | RN1 | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 73% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Qinwen Zheng | Qinwen Zheng (BUY) | 75% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alice Rame (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -516,6 +520,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 76% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Thomas Fancutt vs Luis Guto  | Luis Guto Miguel (BUY) | 81% | 5.00 | 0.5% | ✅ ganada | +1.13 |
 | HomeRunHazard | US Open, Qualification ATP: Genaro Alber | Genaro Alberto Olivieri (BUY) | 42% | 5.00 | 2.0% | ❌ perdida | -5.14 |
-| RN1 | ITF WOMEN - SINGLES: W15 Hurghada 6 (Egy | Naomi Mckenzie (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Lokomotiv Tashkent vs. FC Bunyodkor: O/U | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alena Kovackova (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
