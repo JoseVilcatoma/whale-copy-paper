@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 07:10:02 (hora de Perú)
+Actualizado: 2026-08-26 07:12:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.88
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 07:10:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $211.88)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $206.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 6 | 2 | 2 | +20.79 USD |
-| SDTrading | 25 | 19 | 1 | +19.23 USD |
+| SDTrading | 25 | 19 | 2 | +19.23 USD |
 | ChonkyChocolateCake | 33 | 19 | 1 | +18.49 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -459,6 +459,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lib-ind1-tol-2026-08-18-total-3pt5 | RN1, swisstony |
 | mlb-min-oak-2026-08-25-total-8pt5 | HomeRunHazard, RN1 |
 | lec-leo-rsl-2026-08-25-leo | SnakeBall, swisstony |
+| mlb-chc-ari-2026-08-26-total-8pt5 | HomeRunHazard, SDTrading |
 | cs2-aur1-g2-2026-08-26 | , SPCEXBUYER |
 | atp-kopp-brunold-2026-08-26 | HomeRunHazard, RN1 |
 | atp-serna-barton-2026-08-26 | HomeRunHazard, RN1 |
@@ -473,6 +474,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 49% | 5.00 | 28.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION (BO5) -  | KT Rolster (BUY) | 60% | 5.00 | 17.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Madrid CF win on 2026-08-26? | Yes (BUY) | 79% | 5.00 | 3.1% | ⏳ pendiente | — |
 | GoalLineGhost | Real Madrid CF vs. Real Sociedad de Fútb | Under (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -502,4 +504,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 43% | 5.00 | 1.0% | ⏳ pendiente | — |
 | plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 56.4% | ⏳ pendiente | — |
 | plonker2026 | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Juan Manuel La Serna vs Hynek  | Hynek Barton (BUY) | 51% | 5.00 | 6.4% | ✅ ganada | +4.68 |
