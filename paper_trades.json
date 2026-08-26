@@ -59518,8 +59518,8 @@
     "title": "Los Angeles Dodgers vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 1698.028,
-    "whale_pct": 0.61,
+    "whale_usd": 2640.0280000000002,
+    "whale_pct": 0.949,
     "whale_value_at_open": 278321.6898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -59534,8 +59534,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787787264.8672285,
-    "fills": 2
+    "last_fill_at": 1787788026.18517,
+    "fills": 3
   },
   {
     "timestamp": 1787786618,
@@ -59642,8 +59642,8 @@
     "title": "Los Angeles Dodgers vs. Atlanta Braves",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 968.0,
-    "whale_pct": 0.335,
+    "whale_usd": 1916.6399999999999,
+    "whale_pct": 0.662,
     "whale_value_at_open": 289328.7292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -59658,8 +59658,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787786847.9017015,
-    "fills": 1
+    "last_fill_at": 1787788003.2260003,
+    "fills": 2
   },
   {
     "timestamp": 1787786874,
@@ -59867,8 +59867,8 @@
     "title": "CA River Plate vs. Independiente Santa Fe: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 33906.827699999994,
-    "whale_pct": 43.294,
+    "whale_usd": 41010.327699999994,
+    "whale_pct": 52.364,
     "whale_value_at_open": 78317.9441,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59879,8 +59879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787787967.9001777,
-    "fills": 8
+    "last_fill_at": 1787788090.5526717,
+    "fills": 11
   },
   {
     "timestamp": 1787787728,

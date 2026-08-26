@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:46:20 (hora de Perú)
+Actualizado: 2026-08-26 18:48:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $484.17
@@ -519,7 +519,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 52% | 5.00 | 5.2% | ⏳ pendiente | — |
-| kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 43.3% | ⏳ pendiente | — |
+| kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 52.4% | ⏳ pendiente | — |
 | RN1 | Spread: Kansas City Royals (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Federico Cin | Federico Cina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Santos FC: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -528,12 +528,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Oksana Selekhmeteva (BUY) | 47% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Tristan Scho | Seong-Chan Hong (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 76% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Capucine Jauffret (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees | New York Yankees (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Darja Semeni | Darja Semenistaja (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | kekasaur | Spread: CA River Plate (-1.5) | CA River Plate (BUY) | 49% | 5.00 | 165.1% | ⏳ pendiente | — |
 | Donghui | Monterrey Open: Cristina Bucsa vs Darja  | Cristina Bucsa (BUY) | 45% | 5.00 | 20.7% | ⏳ pendiente | — |
