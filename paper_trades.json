@@ -57984,5 +57984,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787772541.4398944,
     "fills": 1
+  },
+  {
+    "timestamp": 1787772641,
+    "timestamp_added": 1787772641.4204023,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-tor-sea-2026-08-26-spread-home-4pt5",
+    "title": "Spread: Seattle Storm (-4.5)",
+    "outcome": "Toronto Tempo",
+    "side": "BUY",
+    "whale_usd": 1014.0280000000001,
+    "whale_pct": 0.424,
+    "whale_value_at_open": 239215.5901,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787772641.4204118,
+    "fills": 1
   }
 ]
