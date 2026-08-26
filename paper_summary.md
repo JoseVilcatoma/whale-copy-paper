@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:54:09 (hora de Perú)
+Actualizado: 2026-08-25 21:56:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.29
@@ -483,7 +483,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Pittsburgh Pirates vs. San Diego Padres | San Diego Padres (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SnakeBall | Will Independiente del Valle win on 2026 | Yes (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. New York Mets | New York Mets (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |
-| swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 0.7% | ⏳ pendiente | — |
+| swisstony | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 75% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Cleveland Guardians vs. Los Angeles Ange | Los Angeles Angels (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Arizona Diamondbacks (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Nicolas Meji | Nicolas Mejia (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |

@@ -52284,8 +52284,8 @@
     "title": "Monterrey Open: Oleksandra Oliynykova vs Diane Parry",
     "outcome": "Diane Parry",
     "side": "BUY",
-    "whale_usd": 1959.49,
-    "whale_pct": 0.664,
+    "whale_usd": 4192.5593,
+    "whale_pct": 1.422,
     "whale_value_at_open": 294893.6411,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -52296,8 +52296,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787710660.1752965,
-    "fills": 2
+    "last_fill_at": 1787712930.3708622,
+    "fills": 3
   },
   {
     "timestamp": 1787710092,
