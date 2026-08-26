@@ -56465,8 +56465,8 @@
     "title": "US Open, Qualification WTA: Robin Montgomery vs Jeline Vandromme",
     "outcome": "Robin Montgomery",
     "side": "BUY",
-    "whale_usd": 4896.449602,
-    "whale_pct": 4.712,
+    "whale_usd": 8347.430401999998,
+    "whale_pct": 8.033,
     "whale_value_at_open": 103920.2483,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -56479,8 +56479,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758181.5306172,
-    "fills": 2
+    "last_fill_at": 1787758662.4313662,
+    "fills": 3
   },
   {
     "timestamp": 1787758134,
@@ -56542,8 +56542,8 @@
     "title": "US Open, Qualification ATP: Kyrian Jacquet vs Aziz Dougaz",
     "outcome": "Aziz Dougaz",
     "side": "BUY",
-    "whale_usd": 2959.9976,
-    "whale_pct": 2.531,
+    "whale_usd": 4547.8685000000005,
+    "whale_pct": 3.889,
     "whale_value_at_open": 116956.3122,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -56554,8 +56554,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787758315.1806622,
-    "fills": 1
+    "last_fill_at": 1787758639.8727024,
+    "fills": 2
   },
   {
     "timestamp": 1787758422,
