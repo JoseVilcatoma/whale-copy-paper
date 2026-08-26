@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.5348630861563,
+  "bankroll": 531.5823681366613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11355,6 +11355,11 @@
       "timestamp": 1787777573.7316644,
       "bankroll": 531.53,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Eintracht Spandau vs Kaufland Hangry Knights (BO5) - Prime League 1st Division Playoffs"
+    },
+    {
+      "timestamp": 1787777766.8232613,
+      "bankroll": 531.58,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Juan Pablo Ficovich vs Miguel Tobon"
     }
   ]
 }
