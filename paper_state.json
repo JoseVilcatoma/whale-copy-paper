@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.794539853833,
+  "bankroll": 528.0277962640895,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11375,6 +11375,16 @@
       "timestamp": 1787777892.5456097,
       "bankroll": 531.79,
       "event": "lost: RN1 \u2014 Will Lyn 1896 FK win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787778208.4837365,
+      "bankroll": 533.15,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Kristina Penickova vs Harriet Dart"
+    },
+    {
+      "timestamp": 1787778209.1506052,
+      "bankroll": 528.03,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Kristina Penickova vs Harriet Dart"
     }
   ]
 }
