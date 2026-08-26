@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.6975966858759,
+  "bankroll": 526.0940514358813,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11455,6 +11455,21 @@
       "timestamp": 1787779463.2630663,
       "bankroll": 521.7,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Tyra Caterina Grant vs Himeno Sakatsume"
+    },
+    {
+      "timestamp": 1787779770.6147537,
+      "bankroll": 523.77,
+      "event": "won:  \u2014 US Open, Qualification ATP: Luka Mikrut vs Nishesh Basavareddy"
+    },
+    {
+      "timestamp": 1787779779.2460754,
+      "bankroll": 525.73,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Yue Yuan vs Julia Avdeeva"
+    },
+    {
+      "timestamp": 1787779780.6798258,
+      "bankroll": 526.09,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Luka Mikrut vs Nishesh Basavareddy"
     }
   ]
 }
