@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.0277962640895,
+  "bankroll": 525.68598534791,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11385,6 +11385,26 @@
       "timestamp": 1787778209.1506052,
       "bankroll": 528.03,
       "event": "lost: HomeRunHazard \u2014 US Open, Qualification WTA: Kristina Penickova vs Harriet Dart"
+    },
+    {
+      "timestamp": 1787778833.2848935,
+      "bankroll": 532.17,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Remy Bertola vs Harry Wendelken"
+    },
+    {
+      "timestamp": 1787778834.853614,
+      "bankroll": 535.84,
+      "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Daniel Altmaier vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1787778834.9538321,
+      "bankroll": 530.7,
+      "event": "lost: HomeRunHazard \u2014 Winston-Salem Open: Daniel Altmaier vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1787778835.1542025,
+      "bankroll": 525.69,
+      "event": "lost: HomeRunHazard \u2014 US Open, Qualification ATP: Remy Bertola vs Harry Wendelken"
     }
   ]
 }
