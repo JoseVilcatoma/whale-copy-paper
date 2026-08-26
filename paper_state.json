@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.4273088681635,
+  "bankroll": 509.2458802967349,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11620,6 +11620,11 @@
       "timestamp": 1787784405.5098164,
       "bankroll": 505.43,
       "event": "won: HomeRunHazard \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Sebastian Baez"
+    },
+    {
+      "timestamp": 1787784783.9708238,
+      "bankroll": 509.25,
+      "event": "won: Baronen11 \u2014 Will Burnley FC win on 2026-08-26?"
     }
   ]
 }
