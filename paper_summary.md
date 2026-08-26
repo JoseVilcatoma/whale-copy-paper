@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 10:18:07 (hora de Perú)
+Actualizado: 2026-08-26 10:20:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $487.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 10:18:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $430.00 en 86 posiciones abiertas (disponible para nuevas apuestas: $57.09)
+**Capital comprometido ahora mismo:** $450.00 en 90 posiciones abiertas (disponible para nuevas apuestas: $37.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 28 | 13 | 1 | +48.17 USD |
-| HomeRunHazard | 289 | 145 | 17 | +44.36 USD |
+| HomeRunHazard | 289 | 145 | 18 | +44.36 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 1 | -16.59 USD |
 | GoalLineGhost | 1 | 4 | 16 | -17.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 296 | 137 | 14 | -45.19 USD |
+| RN1 | 296 | 137 | 17 | -45.19 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 53 | 38 | 16 | -83.66 USD |
@@ -486,6 +486,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open, Qualification ATP: Genaro Alber | Genaro Alberto Olivieri (BUY) | 42% | 5.00 | 2.0% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W15 Hurghada 6 (Egy | Naomi Mckenzie (BUY) | 94% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Lokomotiv Tashkent vs. FC Bunyodkor: O/U | Over (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Alena Kovackova (BUY) | 84% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open, Qualification WTA: Lucia Bronze | Polina Iatcenko (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Botic van de Zandsch | Botic van de Zandschulp (BUY) | 61% | 5.00 | 13.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Oldenzaal (Neth | Francesca Pace (BUY) | 86% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -512,7 +516,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Olympique Lyonnais vs. Fenerbahçe SK: Te | Olympique Lyonnais (BUY) | 67% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Real Sociedad de Fútbol win on 2026 | No (BUY) | 94% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Will Smouha SC win on 2026-08-26? | No (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Augsburg: Facundo Mena vs Kai Wehnelt | Facundo Mena (BUY) | 63% | 5.00 | 11.2% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Nik Mikovic (BUY) | 93% | 5.00 | 1.3% | ✅ ganada | +0.36 |
-|  | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 47% | 5.00 | 1.8% | ⏳ pendiente | — |
-| HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Under (BUY) | 48% | 5.00 | 1.9% | ⏳ pendiente | — |
