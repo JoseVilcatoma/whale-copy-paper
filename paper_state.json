@@ -1,5 +1,5 @@
 {
-  "bankroll": 513.3023973409931,
+  "bankroll": 515.0837124094863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11150,6 +11150,11 @@
       "timestamp": 1787768444.0442047,
       "bankroll": 513.3,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Dominika Salkova vs Gabriela Knutson"
+    },
+    {
+      "timestamp": 1787769635.1744432,
+      "bankroll": 515.08,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Mai Hontama vs Andrea Lazaro Garcia"
     }
   ]
 }
