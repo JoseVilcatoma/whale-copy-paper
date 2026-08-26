@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 03:31:14 (hora de Perú)
+Actualizado: 2026-08-26 03:33:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $488.40
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 03:31:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $308.40)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $298.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 282 | 132 | 8 | -51.35 USD |
+| RN1 | 282 | 132 | 10 | -51.35 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 50 | 35 | 4 | -72.46 USD |
@@ -463,6 +463,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF W50 Kursumlijska Banja Women: Giorgi | Giorgia Pedone (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Carles Hernandez (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -491,5 +493,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 5.5 | Under (BUY) | 96% | 5.00 | 0.8% | ✅ ganada | +0.20 |
 | SnakeBall | Club León FC vs. Real Salt Lake: O/U 3.5 | Under (BUY) | 63% | 5.00 | 2.7% | ✅ ganada | +2.84 |
 | SnakeBall | Club León FC vs. Real Salt Lake: Club Le | Under (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
-| SnakeBall | Club León FC vs. Real Salt Lake: O/U 2.5 | Under (BUY) | 57% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. Seattle Marine | Over (BUY) | 49% | 5.00 | 0.3% | ❌ perdida | -5.13 |
