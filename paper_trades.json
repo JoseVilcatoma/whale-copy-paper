@@ -55939,5 +55939,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787755859.002571,
     "fills": 1
+  },
+  {
+    "timestamp": 1787756338,
+    "timestamp_added": 1787756339.1577508,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-guerrie-schwaer-2026-08-26",
+    "title": "US Open, Qualification ATP: Andrea Guerrieri vs Joel Schwaerzler",
+    "outcome": "Andrea Guerrieri",
+    "side": "BUY",
+    "whale_usd": 779.2625330000001,
+    "whale_pct": 0.581,
+    "whale_value_at_open": 134186.4259,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      ""
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787756339.1577625,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 09:57:05 (hora de Perú)
+Actualizado: 2026-08-26 09:59:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.73
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 09:57:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $106.73)
+**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $101.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | GoalLineGhost | 1 | 4 | 16 | -17.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 295 | 137 | 12 | -45.55 USD |
+| RN1 | 295 | 137 | 13 | -45.55 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
 |  | 53 | 38 | 15 | -83.66 USD |
@@ -467,6 +467,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-serna-barton-2026-08-26 | HomeRunHazard, RN1 |
 | kor-dae1-uls-2026-08-26-dae1 | GoalLineGhost, plonker2026 |
 | kor-dae1-uls-2026-08-26-total-2pt5 | GoalLineGhost, plonker2026 |
+| atp-guerrie-schwaer-2026-08-26 | , RN1 |
 | kor-any-inc-2026-08-26-total-2pt5 | , GoalLineGhost |
 | lol-kt-bro2-2026-08-26-game3 | , 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 |
 | asean-vie-tha-2026-08-26-vie | , GoalLineGhost |
@@ -482,6 +483,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | SnakeBall | Lokomotiv Tashkent vs. FC Bunyodkor: Bot | Yes (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 7 | Under (BUY) | 50% | 5.00 | 9.2% | ⏳ pendiente | — |
 | HomeRunHazard | Tampa Bay Rays vs. Detroit Tigers: O/U 8 | Under (BUY) | 62% | 5.00 | 13.5% | ⏳ pendiente | — |
@@ -511,4 +513,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Roehampton 2: Oliver Tarvet vs Oliver Bo | Oliver Tarvet (BUY) | 97% | 5.00 | 0.9% | ✅ ganada | +0.15 |
 |  | US Open, Qualification WTA: Nao Hibino v | Anna Siskova (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Cezar Cretu vs Miguel Damas | Cezar Cretu (BUY) | 59% | 5.00 | 9.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Seattle Storm (-5.5) | Seattle Storm (BUY) | 56% | 5.00 | 1.3% | ⏳ pendiente | — |
