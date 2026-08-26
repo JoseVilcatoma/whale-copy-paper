@@ -55793,5 +55793,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787755029.3991244,
     "fills": 1
+  },
+  {
+    "timestamp": 1787755133,
+    "timestamp_added": 1787755134.1477978,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-braynin-schmid-2026-08-26",
+    "title": "ITF M15 Vienna Men: Aleksandr Braynin vs Paul Schmid",
+    "outcome": "Aleksandr Braynin",
+    "side": "BUY",
+    "whale_usd": 539.0,
+    "whale_pct": 0.405,
+    "whale_value_at_open": 132978.469,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 98,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787755134.1478114,
+    "fills": 1
   }
 ]
