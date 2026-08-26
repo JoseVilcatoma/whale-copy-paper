@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 05:06:39 (hora de Perú)
+Actualizado: 2026-08-26 05:08:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $481.64
-**Retorno acumulado:** -3.67%
+**Bankroll actual:** $477.71
+**Retorno acumulado:** -4.46%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 05:06:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $221.64)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $212.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| GoalLineGhost | 0 | 0 | 2 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 3 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 20 | 16 | 0 | -0.57 USD |
@@ -81,21 +81,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 3 | 1 | -15.38 USD |
 | AV23IUa | 5 | 7 | 0 | -16.59 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 285 | 132 | 17 | -49.20 USD |
+| RN1 | 286 | 133 | 15 | -53.13 USD |
 | Sassy-Bucket | 15 | 25 | 0 | -58.10 USD |
 | ferrariChampions2026 | 297 | 179 | 5 | -63.66 USD |
-|  | 50 | 35 | 7 | -72.46 USD |
+|  | 50 | 35 | 9 | -72.46 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2045
-- **Aciertos:** 1316 (64.4%)
+- **Apuestas resueltas:** 2047
+- **Aciertos:** 1317 (64.3%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $10,213.48
-- **ROI sobre lo apostado:** -1.01%
-- **Comisiones pagadas (taker fee):** $184.49 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $10,223.48
+- **ROI sobre lo apostado:** -1.04%
+- **Comisiones pagadas (taker fee):** $184.67 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.76% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -103,9 +103,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1000 | 50.3% | 50.2% | +0.1 pp |
+| 40-59% | 1001 | 50.2% | 50.2% | +0.0 pp |
 | 60-79% | 615 | 69.4% | 67.6% | +1.9 pp |
-| 80-94% | 286 | 86.7% | 86.9% | -0.2 pp |
+| 80-94% | 287 | 86.8% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 144 | 95.8% | 97.4% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -468,6 +468,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | LoL: KT Rolster vs HANJIN BRION - Game 3 | KT Rolster (BUY) | 70% | 5.00 | 0.9% | ⏳ pendiente | — |
+|  | Winston-Salem Open: Lorenzo Sonego vs Ja | Lorenzo Sonego (BUY) | 56% | 5.00 | 3.5% | ⏳ pendiente | — |
+| GoalLineGhost | FC Anyang vs. Incheon United FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 3.4% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Ranheim (-2.5) | Stabaek IF (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Andrea Guerr | Andrea Guerrieri (BUY) | 43% | 5.00 | 1.0% | ⏳ pendiente | — |
 | plonker2026 | Will Daejeon Hana Citizen FC win on 2026 | Yes (BUY) | 44% | 5.00 | 32.5% | ⏳ pendiente | — |
@@ -491,10 +494,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Daniel Verbeek (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 |  | Counter-Strike: Aurora Gaming vs G2 (BO3 | Aurora Gaming (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF M15 Pecs Men: Herman Hoeyeraal vs Fi | Herman Hoeyeraal (BUY) | 68% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M15 Hurghada 6 (Egypt | Marat Salbiev (BUY) | 48% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | RN1 | ITF M15 Vienna Men: Daniel Bien vs Juan  | Juan Ignacio Gallego (BUY) | 87% | 5.00 | 3.4% | ✅ ganada | +0.71 |
 | RN1 | ITF W50 Kursumlijska Banja Women: Lea Bo | Lea Boskovic (BUY) | 75% | 5.00 | 4.4% | ⏳ pendiente | — |
-| RN1 | ITF W50 Kursumlijska Banja Women: Giorgi | Giorgia Pedone (BUY) | 80% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Carles Hernandez (BUY) | 56% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Will Al Faisaly Saudi Club win on 2026-0 | No (BUY) | 65% | 5.00 | 0.9% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: KT Rolster vs HANJIN BRION - Game 1 | KT Rolster (BUY) | 61% | 5.00 | 28.5% | ⏳ pendiente | — |
+| RN1 | ITF W50 Kursumlijska Banja Women: Giorgi | Giorgia Pedone (BUY) | 80% | 5.00 | 1.1% | ✅ ganada | +1.20 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.6442691482494,
+  "bankroll": 477.7142691482494,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10670,6 +10670,16 @@
       "timestamp": 1787738441.1147263,
       "bankroll": 481.64,
       "event": "won: RN1 \u2014 ITF M15 Vienna Men: Daniel Bien vs Juan Ignacio Gallego"
+    },
+    {
+      "timestamp": 1787738863.6566088,
+      "bankroll": 482.84,
+      "event": "won: RN1 \u2014 ITF W50 Kursumlijska Banja Women: Giorgia Pedone vs Zhibek Kulambayeva"
+    },
+    {
+      "timestamp": 1787738864.3971515,
+      "bankroll": 477.71,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Hurghada 6 (Egypt), hard: Marat Salbiev vs Michal Krajci"
     }
   ]
 }
