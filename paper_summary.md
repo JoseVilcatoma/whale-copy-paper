@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 07:35:10 (hora de Perú)
+Actualizado: 2026-08-26 07:37:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.80
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 07:35:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $171.80)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $166.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 8 | 2 | 0 | +0.90 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| GoalLineGhost | 0 | 0 | 13 | +0.00 USD |
+| GoalLineGhost | 0 | 0 | 14 | +0.00 USD |
 | kekasaur | 3 | 3 | 0 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | Djdjdjekekek | 20 | 16 | 0 | -0.57 USD |
@@ -475,7 +475,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 50% | 5.00 | 2.6% | ⏳ pendiente | — |
+| GoalLineGhost | Vietnam vs. Thailand: O/U 3.5 | Under (BUY) | 75% | 5.00 | 5.6% | ⏳ pendiente | — |
+| GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Over (BUY) | 50% | 5.00 | 4.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Independiente Santa Fe win on 2026- | No (BUY) | 92% | 5.00 | 1.0% | ⏳ pendiente | — |
 | SDTrading | Cleveland Guardians vs. Los Angeles Ange | Under (BUY) | 62% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Milwaukee Brewers vs. New York Mets: O/U | Under (BUY) | 44% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -489,7 +490,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Vietnam win on 2026-08-26? | No (BUY) | 44% | 5.00 | 2.8% | ⏳ pendiente | — |
 |  | US Open, Qualification ATP: Kei Nishikor | Michael Antonius (BUY) | 41% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | Vietnam vs. Thailand: O/U 2.5 | Under (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Martin Krumich (BUY) | 61% | 5.00 | 5.7% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Martin Krumich (BUY) | 61% | 5.00 | 11.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Juan Estevez vs Benito Sanchez | Benito Sanchez Martinez (BUY) | 86% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Svyatoslav Gulin vs Martin Kru | Svyatoslav Gulin (BUY) | 48% | 5.00 | 3.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: KT Rolster vs HANJIN BRION - Game 4 | KT Rolster (BUY) | 66% | 5.00 | 198.9% | ⏳ pendiente | — |
@@ -504,4 +505,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Daejeon Hana Citizen FC vs. Ulsan HD FC: | Under (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Gangwon FC win on 2026-08-26? | Yes (BUY) | 65% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 3 | KT Rolster (BUY) | 44% | 5.00 | 9.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 3 | HANJIN BRION (BUY) | 41% | 5.00 | 9.4% | ⏳ pendiente | — |
