@@ -52013,8 +52013,8 @@
     "title": "Washington Mystics vs. Phoenix Mercury",
     "outcome": "Phoenix Mercury",
     "side": "BUY",
-    "whale_usd": 7150.819256000001,
-    "whale_pct": 7.934,
+    "whale_usd": 11927.672900000001,
+    "whale_pct": 13.235,
     "whale_value_at_open": 90124.5743,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -52025,8 +52025,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787709285.9442458,
-    "fills": 8
+    "last_fill_at": 1787709404.5624921,
+    "fills": 12
   },
   {
     "timestamp": 1787709196,
