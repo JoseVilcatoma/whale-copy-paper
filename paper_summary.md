@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 04:10:15 (hora de Perú)
+Actualizado: 2026-08-26 04:12:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $479.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 04:10:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $244.49)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $239.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 53 | 20 | 1 | +45.69 USD |
 | BOOMBOYS.Kiritych | 26 | 13 | 2 | +40.75 USD |
-| HomeRunHazard | 283 | 143 | 4 | +37.29 USD |
+| HomeRunHazard | 283 | 143 | 5 | +37.29 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | casualbet2020 | 18 | 7 | 1 | +30.82 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -459,12 +459,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-min-oak-2026-08-25-total-8pt5 | HomeRunHazard, RN1 |
 | lec-leo-rsl-2026-08-25-leo | SnakeBall, swisstony |
 | cs2-aur1-g2-2026-08-26 | , SPCEXBUYER |
+| atp-kopp-brunold-2026-08-26 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 2 | KT Rolster (BUY) | 67% | 5.00 | 116.3% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Sandro Kopp vs Mika Brunold | Sandro Kopp (BUY) | 50% | 5.00 | 5.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: KT Rolster vs HANJIN BRION - Game 2 | KT Rolster (BUY) | 67% | 5.00 | 240.8% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Paper Rex vs Nongshim RedForce | Nongshim RedForce (BUY) | 72% | 5.00 | 99.8% | ⏳ pendiente | — |
 |  | Set Handicap: Fenty (-1.5) vs Chopra (+1 | Chopra (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Torello (Spain) | Sayaka Ishii (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -493,4 +495,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago Cubs vs. Arizona Diamondbacks: O | Over (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | SnakeBall | Will Club León FC vs. Real Salt Lake end | No (BUY) | 73% | 5.00 | 0.9% | ✅ ganada | +1.78 |
 | SnakeBall | Club León FC vs. Real Salt Lake: Real Sa | Under (BUY) | 96% | 5.00 | 1.1% | ✅ ganada | +0.20 |
-| SnakeBall | Will Club León FC win on 2026-08-25? | Yes (BUY) | 59% | 5.00 | 0.7% | ✅ ganada | +3.37 |
