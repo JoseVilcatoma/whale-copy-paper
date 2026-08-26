@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.8139634470103,
+  "bankroll": 504.13120966177854,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -9995,6 +9995,21 @@
       "timestamp": 1787704974.492768,
       "bankroll": 496.81,
       "event": "won: OOOwhyOOO \u2014 US Open, Qualification WTA: Elvina Kalieva vs Kristina Mladenovic"
+    },
+    {
+      "timestamp": 1787705152.778372,
+      "bankroll": 501.13,
+      "event": "won:  \u2014 Set Handicap: Valdmannova (-1.5) vs Carle (+1.5)"
+    },
+    {
+      "timestamp": 1787705164.4315412,
+      "bankroll": 503.01,
+      "event": "won:  \u2014 US Open, Qualification WTA: Vendula Valdmannova vs Maria Lourdes Carle"
+    },
+    {
+      "timestamp": 1787705165.8284261,
+      "bankroll": 504.13,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Vendula Valdmannova vs Maria Lourdes Carle"
     }
   ]
 }
