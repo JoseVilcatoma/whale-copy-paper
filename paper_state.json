@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.29624151798436,
+  "bankroll": 501.39496282945976,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10745,6 +10745,11 @@
       "timestamp": 1787742582.4633954,
       "bankroll": 498.3,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Vaal Urankar vs Nicolo Toffanin"
+    },
+    {
+      "timestamp": 1787743199.9338021,
+      "bankroll": 501.39,
+      "event": "won: SPCEXBUYER \u2014 LoL: KT Rolster vs HANJIN BRION - Game 1 Winner"
     }
   ]
 }
