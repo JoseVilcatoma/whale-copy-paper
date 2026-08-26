@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-25 21:37:11 (hora de Perú)
+Actualizado: 2026-08-25 21:39:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $496.82
@@ -13,7 +13,7 @@ Actualizado: 2026-08-25 21:37:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $141.82)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $131.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
-| HomeRunHazard | 269 | 139 | 12 | +1.87 USD |
+| HomeRunHazard | 269 | 139 | 14 | +1.87 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
@@ -452,7 +452,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-udvardy-joint-2026-08-25 | HomeRunHazard, OOOwhyOOO |
 | wnba-wsh-phx-2026-08-25 | RN1, Sassy-Bucket |
 | mlb-chc-ari-2026-08-25 | Djdjdjekekek, RN1, swisstony |
-| wta-oliynyk-parry-2026-08-25 | RN1, swisstony |
+| wta-oliynyk-parry-2026-08-25 | HomeRunHazard, RN1, swisstony |
 | mlb-phi-sea-2026-08-25 | RN1, swisstony |
 | lib-ind1-tol-2026-08-18-total-3pt5 | RN1, swisstony |
 
@@ -460,6 +460,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Pittsburgh Pirates vs. San Diego Padres: | Under (BUY) | 67% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Oleksandra Oliynykova vs | Diane Parry (BUY) | 86% | 5.00 | 5.4% | ⏳ pendiente | — |
 | swisstony | Club León FC vs. Real Salt Lake: O/U 1.5 | Over (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
 | swisstony | Will Club León FC win on 2026-08-25? | No (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 68% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -488,5 +490,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Chicago Cubs vs. Arizona Diamondbacks | Chicago Cubs (BUY) | 51% | 5.00 | 111596.1% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | swisstony | Independiente del Valle vs. CD Tolima: O | Over (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
-| swisstony | Spread: CD Tolima (-1.5) | Independiente del Valle (BUY) | 99% | 5.00 | 0.5% | ⏳ pendiente | — |
-| swisstony | Spread: San Francisco Giants (-1.5) | Cincinnati Reds (BUY) | 47% | 5.00 | 1.3% | ⏳ pendiente | — |
