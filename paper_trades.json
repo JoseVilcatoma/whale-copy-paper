@@ -58838,8 +58838,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -58862,8 +58862,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       ""
     ],
@@ -59484,5 +59484,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787786412.1142151,
     "fills": 4
+  },
+  {
+    "timestamp": 1787786558,
+    "timestamp_added": 1787786558.6088288,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wta-semenis-shublad-2026-08-26",
+    "title": "US Open, Qualification WTA: Darja Semenistaja vs Alexandra Shubladze",
+    "outcome": "Darja Semenistaja",
+    "side": "BUY",
+    "whale_usd": 1268.5728,
+    "whale_pct": 0.46,
+    "whale_value_at_open": 275557.4518,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787786558.6088421,
+    "fills": 1
   }
 ]
