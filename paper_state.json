@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.1123378843263,
+  "bankroll": 494.8912913726984,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10940,6 +10940,11 @@
       "timestamp": 1787760099.5050256,
       "bankroll": 494.11,
       "event": "won: RN1 \u2014 Augsburg: Facundo Mena vs Kai Wehnelt"
+    },
+    {
+      "timestamp": 1787761032.9076142,
+      "bankroll": 494.89,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Oldenzaal (Netherlands), clay: Francesca Pace vs Enola Chiesa"
     }
   ]
 }
