@@ -54490,8 +54490,8 @@
     "odds_at_bet": 68,
     "fee_usd": 0.08,
     "odds_ballena": 67,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.27,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -57951,8 +57951,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [
       ""
     ],
@@ -59025,8 +59025,8 @@
     "title": "Milwaukee Brewers vs. New York Mets: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 46277.541415,
-    "whale_pct": 118.661,
+    "whale_usd": 64827.026715,
+    "whale_pct": 166.223,
     "whale_value_at_open": 38999.9444,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59039,8 +59039,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787780363.6274664,
-    "fills": 4
+    "last_fill_at": 1787781887.9104054,
+    "fills": 5
   },
   {
     "timestamp": 1787780649,

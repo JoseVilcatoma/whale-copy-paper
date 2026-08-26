@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.1865751159731,
+  "bankroll": 531.3718972448247,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11490,6 +11490,16 @@
       "timestamp": 1787781641.9202168,
       "bankroll": 528.19,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1787781953.1029634,
+      "bankroll": 530.46,
+      "event": "won:  \u2014 US Open, Qualification ATP: Arthur Gea vs Clement Chidekh"
+    },
+    {
+      "timestamp": 1787781959.1916306,
+      "bankroll": 531.37,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Arthur Gea vs Clement Chidekh"
     }
   ]
 }
