@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.8719692795196,
+  "bankroll": 512.6826161295639,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -10320,6 +10320,16 @@
       "timestamp": 1787713353.1265852,
       "bankroll": 501.87,
       "event": "lost: RN1 \u2014 US Open, Qualification ATP: Nicolas Mejia vs Liam Draxl"
+    },
+    {
+      "timestamp": 1787714292.701808,
+      "bankroll": 506.95,
+      "event": "won: ferrariChampions2026 \u2014 Texas Rangers vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1787714300.7536063,
+      "bankroll": 512.68,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Toronto Blue Jays: O/U 6.5"
     }
   ]
 }
