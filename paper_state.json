@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.39080355379605,
+  "bankroll": 494.0426217356142,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11095,6 +11095,11 @@
       "timestamp": 1787766432.2897215,
       "bankroll": 493.39,
       "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Frederico Ferreira Silva vs Jurij Rodionov"
+    },
+    {
+      "timestamp": 1787766619.9234526,
+      "bankroll": 494.04,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Marvin Moeller vs Matias Soto"
     }
   ]
 }

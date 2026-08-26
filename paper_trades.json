@@ -56720,8 +56720,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.65,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -56813,8 +56813,8 @@
     "title": "ITF MEN - SINGLES: M15 Monastir 28 (Tunisia), hard: Hugo Cardinaud vs Ilya Polonskiy",
     "outcome": "Hugo Cardinaud",
     "side": "BUY",
-    "whale_usd": 4232.0779999999995,
-    "whale_pct": 38.963,
+    "whale_usd": 11860.266599999999,
+    "whale_pct": 109.192,
     "whale_value_at_open": 10861.8,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -56825,8 +56825,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787765849.4379036,
-    "fills": 3
+    "last_fill_at": 1787766616.376664,
+    "fills": 6
   },
   {
     "timestamp": 1787764165,
@@ -57060,8 +57060,8 @@
     "title": "US Open, Qualification WTA: Madison Brengle vs Lucrezia Stefanini",
     "outcome": "Lucrezia Stefanini",
     "side": "BUY",
-    "whale_usd": 4344.9975,
-    "whale_pct": 1.757,
+    "whale_usd": 7126.8141000000005,
+    "whale_pct": 2.883,
     "whale_value_at_open": 247229.5625,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -57072,8 +57072,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787765677.6308808,
-    "fills": 1
+    "last_fill_at": 1787766597.9268954,
+    "fills": 4
   },
   {
     "timestamp": 1787766051,
@@ -57121,6 +57121,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787766165.576615,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787766545,
+    "timestamp_added": 1787766545.9858682,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-sanchis-lajovic-2026-08-26",
+    "title": "US Open, Qualification ATP: David Jorda Sanchis vs Dusan Lajovic",
+    "outcome": "Dusan Lajovic",
+    "side": "BUY",
+    "whale_usd": 1888.63,
+    "whale_pct": 0.883,
+    "whale_value_at_open": 213946.0146,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787766545.9858816,
     "fills": 1
   }
 ]
