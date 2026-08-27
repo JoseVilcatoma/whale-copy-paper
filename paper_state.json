@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.0427305186986,
+  "bankroll": 449.82404558719173,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12250,6 +12250,11 @@
       "timestamp": 1787829364.1845171,
       "bankroll": 448.04,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Allershausen (Germany), clay: Thiago Cigarran vs Frederic Schlossmann"
+    },
+    {
+      "timestamp": 1787829488.1393723,
+      "bankroll": 449.82,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: STATE vs GenOne (BO3) - CCT Europe Series #7 Playoffs"
     }
   ]
 }
