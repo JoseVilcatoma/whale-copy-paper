@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:05:44 (hora de Perú)
+Actualizado: 2026-08-27 06:07:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $452.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 06:05:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $82.49)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $77.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 13 | 8 | 9 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
-| RN1 | 340 | 156 | 18 | -22.32 USD |
+| RN1 | 340 | 156 | 19 | -22.32 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
@@ -526,6 +526,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | KBO: Hanwha Eagles vs. SSG Landers | SSG Landers (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 6.2% | ⏳ pendiente | — |
@@ -555,4 +556,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 51% | 5.00 | 68.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Thiago Cigarran (BUY) | 89% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Lea Boskovic (BUY) | 72% | 5.00 | 7.9% | ✅ ganada | +1.87 |
-| SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 65% | 5.00 | 197.2% | ⏳ pendiente | — |
