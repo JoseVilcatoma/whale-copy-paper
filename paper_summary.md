@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 16:53:59 (hora de Perú)
+Actualizado: 2026-08-27 16:56:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $475.28
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 16:53:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $335.28)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $330.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 39 | 22 | 0 | +25.08 USD |
 | casualbet2020 | 20 | 9 | 1 | +24.43 USD |
 | texaskid | 6 | 1 | 0 | +22.32 USD |
-| TAIWANNUMBERONE | 9 | 6 | 0 | +15.92 USD |
+| TAIWANNUMBERONE | 9 | 6 | 1 | +15.92 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -532,12 +532,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-rincon-barrios-2026-08-27 | Donghui, RN1 |
 | atp-cretu-moelle-2026-08-27 | HomeRunHazard, RN1 |
 | uel-rbs-ma-2026-08-27-spread-home-1pt5 | RN1, plonker2026 |
-| mlb-lad-atl-2026-08-27 | Djdjdjekekek, Sassy-Bucket, Talvez10, casualbet2020 |
+| mlb-lad-atl-2026-08-27 | Djdjdjekekek, Sassy-Bucket, TAIWANNUMBERONE, Talvez10, casualbet2020 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 171.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 151.4% | ⏳ pendiente | — |
 | Djdjdjekekek | Valorant: LOUD vs FURIA Esports - Map 1  | FURIA Esports (BUY) | 46% | 5.00 | 38.2% | ⏳ pendiente | — |
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 2849.2% | ⏳ pendiente | — |
@@ -567,4 +568,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Panathinaikós AO win on 2026-08-27? | Yes (BUY) | 44% | 5.00 | 1.2% | ❌ perdida | -5.14 |
 | texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 32.6% | ✅ ganada | +5.08 |
 | RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ✅ ganada | +1.05 |
-| RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |

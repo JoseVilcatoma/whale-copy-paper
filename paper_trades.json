@@ -64334,5 +64334,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787865596.3989794,
     "fills": 3
+  },
+  {
+    "timestamp": 1787867734,
+    "timestamp_added": 1787867734.7949386,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 13000.0,
+    "whale_pct": 171.506,
+    "whale_value_at_open": 7579.9191,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "Sassy-Bucket",
+      "Talvez10",
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787867734.7949548,
+    "fills": 1
   }
 ]
