@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.0088365756661,
+  "bankroll": 481.599883618224,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12755,6 +12755,41 @@
       "timestamp": 1787863499.903137,
       "bankroll": 476.01,
       "event": "lost: RN1 \u2014 Spread: AS Monaco FC (-1.5)"
+    },
+    {
+      "timestamp": 1787864125.9588113,
+      "bankroll": 477.06,
+      "event": "won: GoalLineGhost \u2014 Will FC Red Bull Salzburg win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787864126.9112098,
+      "bankroll": 481.56,
+      "event": "won: GoalLineGhost \u2014 Will RC Celta de Vigo win on 2026-08-16?"
+    },
+    {
+      "timestamp": 1787864128.4176314,
+      "bankroll": 487.06,
+      "event": "won: plonker2026 \u2014 Will FC Twente win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787864128.5178335,
+      "bankroll": 481.94,
+      "event": "lost: RN1 \u2014 Will FC Twente win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787864129.5420485,
+      "bankroll": 485.46,
+      "event": "won: RN1 \u2014 Spread: FC Red Bull Salzburg (-1.5)"
+    },
+    {
+      "timestamp": 1787864130.3449905,
+      "bankroll": 486.73,
+      "event": "won: RN1 \u2014 Will FC Red Bull Salzburg win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787864130.4451768,
+      "bankroll": 481.6,
+      "event": "lost: plonker2026 \u2014 Spread: FC Red Bull Salzburg (-1.5)"
     }
   ]
 }
