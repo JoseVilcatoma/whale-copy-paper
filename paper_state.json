@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.78629791601213,
+  "bankroll": 469.64629791601214,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11805,6 +11805,11 @@
       "timestamp": 1787791486.2841485,
       "bankroll": 474.79,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Henrique Rocha vs Lloyd Harris"
+    },
+    {
+      "timestamp": 1787791669.4717615,
+      "bankroll": 469.65,
+      "event": "lost: HomeRunHazard \u2014 Baltimore Orioles vs. St. Louis Cardinals: O/U 7.5"
     }
   ]
 }
