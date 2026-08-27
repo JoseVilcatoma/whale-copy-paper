@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 11:38:54 (hora de Perú)
+Actualizado: 2026-08-27 11:41:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.96
@@ -541,7 +541,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Toby Samuel  | Cristian Garin (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: FC Red Bull Salzburg (-1.5) | FC Red Bull Salzburg (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Will Panathinaikós AO win on 2026-08-27? | Yes (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
-| texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 12.3% | ⏳ pendiente | — |
+| texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 32.6% | ⏳ pendiente | — |
 | RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
