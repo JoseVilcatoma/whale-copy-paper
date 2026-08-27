@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 15:41:34 (hora de Perú)
+Actualizado: 2026-08-27 15:43:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.01
@@ -536,7 +536,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 157.4% | ⏳ pendiente | — |
+| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 233.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ⏳ pendiente | — |
