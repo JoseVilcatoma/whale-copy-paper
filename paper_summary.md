@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 23:59:23 (hora de Perú)
+Actualizado: 2026-08-27 00:01:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.67
@@ -520,7 +520,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 37.3% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 50.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 20.7% | ⏳ pendiente | — |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Athletics (BUY) | 50% | 5.00 | 137.3% | ✅ ganada | +4.88 |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | 💰 vendida anticipada | -0.44 |
