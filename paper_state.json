@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.4149320105183,
+  "bankroll": 469.0968535791458,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12660,6 +12660,11 @@
       "timestamp": 1787861066.0861735,
       "bankroll": 464.41,
       "event": "lost: DoNotTailMe \u2014 LoL: Karmine Corp Blue vs Skillcamp Esport - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787861854.4754074,
+      "bankroll": 469.1,
+      "event": "won: DoNotTailMe \u2014 LoL: BIG vs G2 NORD - Game 2 Winner"
     }
   ]
 }
