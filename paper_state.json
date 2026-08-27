@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.91123608472344,
+  "bankroll": 475.2777535323805,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12830,6 +12830,26 @@
       "timestamp": 1787866940.5921586,
       "bankroll": 479.91,
       "event": "won: GoalLineGhost \u2014 Will FK Crvena zvezda win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787867254.7326014,
+      "bankroll": 474.77,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: BIG vs G2 NORD (BO5) - Prime League 1st Division Playoffs"
+    },
+    {
+      "timestamp": 1787867257.57879,
+      "bankroll": 469.63,
+      "event": "lost: RN1 \u2014 Will Panathinaik\u00f3s AO win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787867258.6025226,
+      "bankroll": 471.91,
+      "event": "won: DoNotTailMe \u2014 LoL: BIG vs G2 NORD - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787867260.4659257,
+      "bankroll": 475.28,
+      "event": "won: DoNotTailMe \u2014 LoL: BIG vs G2 NORD (BO5) - Prime League 1st Division Playoffs"
     }
   ]
 }
