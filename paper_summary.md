@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 23:45:04 (hora de Perú)
+Actualizado: 2026-08-26 23:47:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $465.98
-**Retorno acumulado:** -6.80%
+**Bankroll actual:** $460.84
+**Retorno acumulado:** -7.83%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 23:45:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $285.98)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $285.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,20 +87,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 5 | 1 | -25.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | RN1 | 333 | 154 | 4 | -35.64 USD |
-| Sassy-Bucket | 16 | 28 | 3 | -68.43 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
+| Sassy-Bucket | 16 | 29 | 2 | -73.57 USD |
 |  | 60 | 48 | 2 | -106.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2325
+- **Apuestas resueltas:** 2326
 - **Aciertos:** 1497 (64.4%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,612.59
-- **ROI sobre lo apostado:** -1.02%
-- **Comisiones pagadas (taker fee):** $209.98 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,617.59
+- **ROI sobre lo apostado:** -1.07%
+- **Comisiones pagadas (taker fee):** $210.12 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.74% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1142 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 1143 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 688 | 70.1% | 67.7% | +2.4 pp |
 | 80-94% | 336 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 159 | 95.6% | 97.4% | -1.8 pp |
@@ -520,7 +520,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 |  | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 23.8% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 37.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 20.7% | ⏳ pendiente | — |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Athletics (BUY) | 50% | 5.00 | 137.3% | ✅ ganada | +4.88 |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | 💰 vendida anticipada | -0.44 |
@@ -528,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 4805.4% | ❌ perdida | -5.14 |
 | Donghui | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 48% | 5.00 | 32.4% | ❌ perdida | -5.13 |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 175 | Over (BUY) | 48% | 5.00 | 23.8% | ⏳ pendiente | — |
-| Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 176 | Over (BUY) | 44% | 5.00 | 32.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 176 | Over (BUY) | 44% | 5.00 | 32.3% | ❌ perdida | -5.14 |
 | Sassy-Bucket | Minnesota Twins vs. Athletics: O/U 9.5 | Under (BUY) | 44% | 5.00 | 1.6% | ❌ perdida | -5.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Voca vs FarmVille (BO3)  | Voca (BUY) | 95% | 5.00 | 4.9% | ✅ ganada | +0.25 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 44% | 5.00 | 3.8% | ⏳ pendiente | — |

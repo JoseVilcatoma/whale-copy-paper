@@ -60587,8 +60587,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -60778,8 +60778,8 @@
     "title": "Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 11084.376354,
-    "whale_pct": 23.837,
+    "whale_usd": 17354.782354,
+    "whale_pct": 37.322,
     "whale_value_at_open": 46500,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -60790,8 +60790,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787805022.6013944,
-    "fills": 2
+    "last_fill_at": 1787805907.077749,
+    "fills": 3
   },
   {
     "timestamp": 1787805790,
