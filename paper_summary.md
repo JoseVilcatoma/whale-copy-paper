@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 09:25:29 (hora de Perú)
+Actualizado: 2026-08-27 09:27:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.85
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 09:25:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $126.85)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $121.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 3 | -25.65 USD |
-| RN1 | 351 | 160 | 13 | -26.52 USD |
+| RN1 | 351 | 160 | 14 | -26.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -528,6 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Modern SC win on 2026-08-27? | No (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Raiders (-2.5) | 49ers (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Andrea De Marchi (BUY) | 76% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 65% | 5.00 | 12.8% | ⏳ pendiente | — |
@@ -557,4 +558,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | Valorant: VARREL vs Global Esports (BO3) | Global Esports (BUY) | 59% | 5.00 | 35.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 63% | 5.00 | 12.2% | ✅ ganada | +2.84 |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 45% | 5.00 | 64.2% | ✅ ganada | +5.97 |
-| GoalLineGhost | SK Iberia 1999 vs. Jagiellonia Białystok | Over (BUY) | 79% | 5.00 | 2.1% | ⏳ pendiente | — |
