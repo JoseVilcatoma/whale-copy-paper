@@ -61879,5 +61879,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787824468.6120903,
     "fills": 1
+  },
+  {
+    "timestamp": 1787824760,
+    "timestamp_added": 1787824761.4549806,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-geng-ns1-2026-08-27",
+    "title": "Valorant: Gen.G Esports vs Nongshim RedForce (BO3) - VCT Pacific Playoffs",
+    "outcome": "Gen.G Esports",
+    "side": "BUY",
+    "whale_usd": 8400.0,
+    "whale_pct": 103.327,
+    "whale_value_at_open": 8129.5625,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787824761.4549885,
+    "fills": 1
   }
 ]
