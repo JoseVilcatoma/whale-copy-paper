@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 07:16:33 (hora de Perú)
+Actualizado: 2026-08-27 07:18:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $445.20
-**Retorno acumulado:** -10.96%
+**Bankroll actual:** $441.83
+**Retorno acumulado:** -11.63%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 07:16:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $70.20)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $91.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 22 | 1 | +59.95 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | BOOMBOYS.Kiritych | 29 | 16 | 4 | +36.63 USD |
-| HomeRunHazard | 366 | 180 | 12 | +35.68 USD |
+| HomeRunHazard | 367 | 181 | 10 | +33.38 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 13 | 8 | 16 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
-| RN1 | 347 | 158 | 18 | -23.37 USD |
+| RN1 | 349 | 159 | 15 | -24.44 USD |
 | Donghui | 0 | 5 | 3 | -25.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2371
-- **Aciertos:** 1523 (64.2%)
+- **Apuestas resueltas:** 2376
+- **Aciertos:** 1526 (64.2%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,842.59
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $214.40 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,867.59
+- **ROI sobre lo apostado:** -1.21%
+- **Comisiones pagadas (taker fee):** $214.90 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,10 +108,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1167 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 702 | 69.8% | 67.7% | +2.1 pp |
+| 40-59% | 1170 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 703 | 69.8% | 67.7% | +2.2 pp |
 | 80-94% | 341 | 87.4% | 86.8% | +0.6 pp |
-| 95-99% (casi seguro) | 161 | 95.7% | 97.4% | -1.7 pp |
+| 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -528,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Aljaz Jeran (BUY) | 61% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 53% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | Donghui | Counter-Strike: MOUZ vs 9z - Map 1 Winne | MOUZ (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC St. Gallen vs. FC Nordsjælland: O/U 2 | Over (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 41% | 5.00 | 19.3% | ⏳ pendiente | — |
@@ -540,7 +540,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will RC Celta de Vigo win on 2026-08-16? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Steffan Van Weldam (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
 | Donghui | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 66% | 5.00 | 52997.0% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Adrien Burdet (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Adrien Burdet (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
 | GoalLineGhost | Spread: FC Thun (-2.5) | KKS Lech Poznań (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Thun (-1.5) | KKS Lech Poznań (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Dimitar Kuzmanov (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -551,9 +551,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Vladyslav Orlov (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Valorant: VARREL vs Global Esports (BO3) | Global Esports (BUY) | 59% | 5.00 | 35.5% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 63% | 5.00 | 12.2% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 63% | 5.00 | 12.2% | ✅ ganada | +2.84 |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 45% | 5.00 | 64.2% | ⏳ pendiente | — |
 | GoalLineGhost | SK Iberia 1999 vs. Jagiellonia Białystok | Over (BUY) | 79% | 5.00 | 2.1% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 43% | 5.00 | 3.0% | ❌ perdida | -5.14 |
+| RN1 | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 44% | 5.00 | 2.2% | ❌ perdida | -5.14 |
 | GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 445.2003068108412,
+  "bankroll": 441.8305440706574,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12325,6 +12325,31 @@
       "timestamp": 1787832983.2678287,
       "bankroll": 445.2,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Nongshim Red Force vs BNK FEARX - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787833048.2226253,
+      "bankroll": 445.45,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Alexander Weis vs Adrien Burdet"
+    },
+    {
+      "timestamp": 1787833110.9218,
+      "bankroll": 449.27,
+      "event": "won: RN1 \u2014 Augsburg: Daniel Masur vs Facundo Mena"
+    },
+    {
+      "timestamp": 1787833111.4225087,
+      "bankroll": 444.13,
+      "event": "lost: RN1 \u2014 Augsburg: Daniel Masur vs Facundo Mena"
+    },
+    {
+      "timestamp": 1787833111.522653,
+      "bankroll": 438.99,
+      "event": "lost: HomeRunHazard \u2014 Augsburg: Daniel Masur vs Facundo Mena"
+    },
+    {
+      "timestamp": 1787833112.0338616,
+      "bankroll": 441.83,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Daniel Masur vs Facundo Mena"
     }
   ]
 }
