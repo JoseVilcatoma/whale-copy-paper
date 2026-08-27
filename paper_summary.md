@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 22:51:15 (hora de Perú)
+Actualizado: 2026-08-26 22:53:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $471.39
-**Retorno acumulado:** -5.72%
+**Bankroll actual:** $476.26
+**Retorno acumulado:** -4.75%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 22:51:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $286.39)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $296.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,6 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | wr0ngw4yb3tt0r | 1 | 2 | 1 | -4.00 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| Djdjdjekekek | 22 | 19 | 1 | -4.83 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -77,7 +78,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| Djdjdjekekek | 21 | 19 | 2 | -9.71 USD |
 | ExplosiveNinja | 0 | 2 | 1 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2322
-- **Aciertos:** 1496 (64.4%)
+- **Apuestas resueltas:** 2323
+- **Aciertos:** 1497 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,597.59
-- **ROI sobre lo apostado:** -0.98%
-- **Comisiones pagadas (taker fee):** $209.58 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,602.59
+- **ROI sobre lo apostado:** -0.94%
+- **Comisiones pagadas (taker fee):** $209.70 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1139 | 49.9% | 50.1% | -0.3 pp |
+| 40-59% | 1140 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 688 | 70.1% | 67.7% | +2.4 pp |
 | 80-94% | 336 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 159 | 95.6% | 97.4% | -1.8 pp |
@@ -520,7 +520,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 18.1% | ⏳ pendiente | — |
-| Djdjdjekekek | Minnesota Twins vs. Athletics | Athletics (BUY) | 50% | 5.00 | 137.3% | ⏳ pendiente | — |
+| Djdjdjekekek | Minnesota Twins vs. Athletics | Athletics (BUY) | 50% | 5.00 | 137.3% | ✅ ganada | +4.88 |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | 💰 vendida anticipada | -0.44 |
 | TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 46% | 5.00 | 21.4% | ⏳ pendiente | — |
 | Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 4805.4% | ⏳ pendiente | — |
