@@ -62167,5 +62167,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787826745.0816503,
     "fills": 1
+  },
+  {
+    "timestamp": 1787827095,
+    "timestamp_added": 1787827096.898887,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "uel-agf-ben-2026-08-27-ben",
+    "title": "Will Sport Lisboa e Benfica win on 2026-08-27?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 576.9987,
+    "whale_pct": 1.228,
+    "whale_value_at_open": 46969.2082,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787827096.898897,
+    "fills": 1
   }
 ]
