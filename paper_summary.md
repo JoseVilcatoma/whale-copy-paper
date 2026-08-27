@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:23:28 (hora de Perú)
+Actualizado: 2026-08-27 18:25:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 18:23:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $385.99)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $380.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 8 | 8 | 0 | -13.74 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 374 | 175 | 4 | -32.06 USD |
+| RN1 | 374 | 175 | 5 | -32.06 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 31 | 1 | -83.82 USD |
@@ -532,12 +532,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-rincon-barrios-2026-08-27 | Donghui, RN1 |
 | atp-cretu-moelle-2026-08-27 | HomeRunHazard, RN1 |
 | uel-rbs-ma-2026-08-27-spread-home-1pt5 | RN1, plonker2026 |
+| mlb-lad-atl-2026-08-27-total-6pt5 | RN1, SDTrading |
 | mlb-lad-atl-2026-08-27 | Djdjdjekekek, Sassy-Bucket, TAIWANNUMBERONE, Talvez10, casualbet2020 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -567,4 +569,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 2 Winner | G2 NORD (BUY) | 51% | 5.00 | 23.7% | ✅ ganada | +4.68 |
 | RN1 | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 79% | 5.00 | 3.8% | ✅ ganada | +1.28 |
 | RN1 | Spread: AFC Ajax (-1.5) | FC Sion (BUY) | 41% | 5.00 | 1.9% | ❌ perdida | -5.15 |
-| RN1 | US Open, Qualification ATP: Toby Samuel  | Cristian Garin (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
