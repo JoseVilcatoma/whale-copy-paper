@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.22426436829375,
+  "bankroll": 473.29212151115087,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12865,6 +12865,11 @@
       "timestamp": 1787867891.8009677,
       "bankroll": 471.22,
       "event": "lost: RN1 \u2014 Spread: AFC Ajax (-1.5)"
+    },
+    {
+      "timestamp": 1787868203.3413482,
+      "bankroll": 473.29,
+      "event": "won: GoalLineGhost \u2014 Will Sport Lisboa e Benfica win on 2026-08-27?"
     }
   ]
 }
