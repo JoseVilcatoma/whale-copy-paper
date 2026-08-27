@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 20:34:45 (hora de Perú)
+Actualizado: 2026-08-26 20:36:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 20:34:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $117.92)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $137.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | SDTrading | 31 | 20 | 1 | +40.52 USD |
-| HomeRunHazard | 357 | 174 | 14 | +38.70 USD |
+| HomeRunHazard | 359 | 175 | 11 | +38.60 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 4 | 1 | -20.52 USD |
-| RN1 | 318 | 145 | 28 | -27.13 USD |
+| RN1 | 319 | 145 | 27 | -27.03 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 16 | 27 | 3 | -63.29 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
@@ -93,13 +93,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2280
-- **Aciertos:** 1470 (64.5%)
+- **Apuestas resueltas:** 2284
+- **Aciertos:** 1473 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,387.59
+- **Total apostado (suma de stakes):** $11,407.59
 - **ROI sobre lo apostado:** -0.90%
-- **Comisiones pagadas (taker fee):** $205.54 (1.80% del capital apostado)
+- **Comisiones pagadas (taker fee):** $205.83 (1.80% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.91% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -108,10 +108,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1113 | 50.0% | 50.2% | -0.1 pp |
+| 40-59% | 1115 | 50.0% | 50.2% | -0.1 pp |
 | 60-79% | 683 | 70.0% | 67.7% | +2.3 pp |
-| 80-94% | 328 | 87.2% | 86.8% | +0.4 pp |
-| 95-99% (casi seguro) | 156 | 95.5% | 97.4% | -1.9 pp |
+| 80-94% | 329 | 87.2% | 86.8% | +0.5 pp |
+| 95-99% (casi seguro) | 157 | 95.5% | 97.4% | -1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -535,7 +535,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Golden State Valkyries vs. Connecticut S | Over (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
 | RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will CD Universidad Católica win on 2026 | Yes (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 98% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 98% | 5.00 | 1.2% | ✅ ganada | +0.10 |
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Baltimore Orioles vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |

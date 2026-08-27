@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.92475091456197,
+  "bankroll": 482.92488043182107,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11865,6 +11865,26 @@
       "timestamp": 1787794234.9196782,
       "bankroll": 482.92,
       "event": "won: RN1 \u2014 Colorado Rockies vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1787794536.6119456,
+      "bankroll": 477.8,
+      "event": "lost: HomeRunHazard \u2014 Spread: Golden State Valkyries (-13.5)"
+    },
+    {
+      "timestamp": 1787794538.6517737,
+      "bankroll": 482.11,
+      "event": "won: HomeRunHazard \u2014 Spread: Golden State Valkyries (-13.5)"
+    },
+    {
+      "timestamp": 1787794541.5585039,
+      "bankroll": 482.83,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification WTA: Kristina Liutova vs Lola Radivojevic"
+    },
+    {
+      "timestamp": 1787794549.0215664,
+      "bankroll": 482.92,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Kristina Liutova vs Lola Radivojevic"
     }
   ]
 }
