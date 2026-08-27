@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:48:59 (hora de Perú)
+Actualizado: 2026-08-27 05:51:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 05:48:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $104.77)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $99.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 3 | +48.85 USD |
-| BOOMBOYS.Kiritych | 29 | 14 | 3 | +46.86 USD |
+| BOOMBOYS.Kiritych | 29 | 14 | 4 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | HomeRunHazard | 366 | 180 | 11 | +35.68 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -520,16 +520,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-ns-fox1-2026-08-27-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER |
 | lol-ns-fox1-2026-08-27-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | atp-masur-mena-2026-08-27 | HomeRunHazard, RN1 |
+| lol-ns-fox1-2026-08-27-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 45% | 5.00 | 64.2% | ⏳ pendiente | — |
 | GoalLineGhost | SK Iberia 1999 vs. Jagiellonia Białystok | Over (BUY) | 79% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 54% | 5.00 | 20.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 54% | 5.00 | 21.9% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Kirill Kivattsev (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -554,4 +556,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Jenny Lim (BUY) | 65% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 75% | 5.00 | 18.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kuopion PS vs. Shamrock Rovers FC: O/U 1 | Over (BUY) | 69% | 5.00 | 4.4% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Federica Urgesi (BUY) | 84% | 5.00 | 8.8% | ⏳ pendiente | — |

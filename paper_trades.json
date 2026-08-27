@@ -62153,8 +62153,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 4 Winner",
     "outcome": "Nongshim Red Force",
     "side": "BUY",
-    "whale_usd": 20246.8494,
-    "whale_pct": 20.39,
+    "whale_usd": 21741.9195,
+    "whale_pct": 21.896,
     "whale_value_at_open": 99298.3941,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -62165,8 +62165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787827706.988582,
-    "fills": 10
+    "last_fill_at": 1787827799.6990738,
+    "fills": 11
   },
   {
     "timestamp": 1787827095,
@@ -62265,5 +62265,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787827439.4977534,
     "fills": 1
+  },
+  {
+    "timestamp": 1787827739,
+    "timestamp_added": 1787827739.4925957,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-ns-fox1-2026-08-27-game4",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 4 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 20490.554185,
+    "whale_pct": 64.185,
+    "whale_value_at_open": 31924.4317,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787827782.0345616,
+    "fills": 4
   }
 ]
