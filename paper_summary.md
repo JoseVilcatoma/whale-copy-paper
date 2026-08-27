@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:07:04 (hora de Perú)
+Actualizado: 2026-08-27 05:09:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 05:07:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $135.77)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $130.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 12 | -32.08 USD |
+| RN1 | 337 | 156 | 13 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 5 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -524,6 +524,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Roehampton 2: Inaki Montes vs George Lof | Inaki Montes (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 5.5 | Under (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 1.5 | Over (BUY) | 90% | 5.00 | 4.9% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 4.5 | Under (BUY) | 72% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -553,4 +554,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 16.5% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Tokyo Yakult Swallows vs. Yomiuri Giants | Tokyo Yakult Swallows (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: BIG vs G2 NORD (BO5) - Prime League | BIG (BUY) | 45% | 5.00 | 15.1% | ⏳ pendiente | — |

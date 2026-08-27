@@ -61999,5 +61999,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787825167.2380807,
     "fills": 1
+  },
+  {
+    "timestamp": 1787825317,
+    "timestamp_added": 1787825318.066908,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-montes-loffhag-2026-08-27",
+    "title": "Roehampton 2: Inaki Montes vs George Loffhagen",
+    "outcome": "Inaki Montes",
+    "side": "BUY",
+    "whale_usd": 2096.74,
+    "whale_pct": 2.439,
+    "whale_value_at_open": 85967.9054,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787825318.0669193,
+    "fills": 1
   }
 ]
