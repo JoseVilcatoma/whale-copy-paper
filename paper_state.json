@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.4890440746727,
+  "bankroll": 461.6329642624661,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12590,6 +12590,21 @@
       "timestamp": 1787853719.148709,
       "bankroll": 459.49,
       "event": "won: RN1 \u2014 Will Modern SC win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787855897.370895,
+      "bankroll": 464.78,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787855897.4711223,
+      "bankroll": 459.66,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787855908.6195414,
+      "bankroll": 461.63,
+      "event": "won: casualbet2020 \u2014 Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B"
     }
   ]
 }
