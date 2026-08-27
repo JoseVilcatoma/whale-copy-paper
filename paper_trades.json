@@ -60239,8 +60239,8 @@
     "title": "Toronto Tempo vs. Seattle Storm: O/U 174.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2901.645,
-    "whale_pct": 2.155,
+    "whale_usd": 18191.84,
+    "whale_pct": 13.509,
     "whale_value_at_open": 134668.037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -60254,8 +60254,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787791369.4063723,
-    "fills": 3
+    "last_fill_at": 1787795972.1141174,
+    "fills": 5
   },
   {
     "timestamp": 1787789201,
@@ -60604,8 +60604,8 @@
     "title": "Toronto Tempo vs. Seattle Storm: O/U 175.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1992.7718,
-    "whale_pct": 13.937,
+    "whale_usd": 3402.7718,
+    "whale_pct": 23.797,
     "whale_value_at_open": 14298.8793,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -60616,8 +60616,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787795512.2311306,
-    "fills": 2
+    "last_fill_at": 1787795981.0930622,
+    "fills": 4
   },
   {
     "timestamp": 1787795586,
