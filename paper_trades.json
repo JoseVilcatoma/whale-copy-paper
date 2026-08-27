@@ -64292,8 +64292,8 @@
     "title": "Valorant: LOUD vs FURIA Esports - Map 1 Winner",
     "outcome": "FURIA Esports",
     "side": "BUY",
-    "whale_usd": 2062.0025000000005,
-    "whale_pct": 0.185,
+    "whale_usd": 425823.715454,
+    "whale_pct": 38.247,
     "whale_value_at_open": 1113346.4079,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -64304,7 +64304,35 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787865249.5444944,
-    "fills": 1
+    "last_fill_at": 1787865287.8747485,
+    "fills": 5
+  },
+  {
+    "timestamp": 1787865335,
+    "timestamp_added": 1787865335.7810447,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Los Angeles Dodgers",
+    "side": "BUY",
+    "whale_usd": 70236.48,
+    "whale_pct": 88.601,
+    "whale_value_at_open": 79273.1716,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "Talvez10",
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787865357.841091,
+    "fills": 2
   }
 ]
