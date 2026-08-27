@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 03:46:39 (hora de Perú)
+Actualizado: 2026-08-27 03:48:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 03:46:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $270.77)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $260.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,9 +85,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 1 | -32.08 USD |
+| RN1 | 337 | 156 | 2 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 298 | 181 | 4 | -70.06 USD |
+| ferrariChampions2026 | 298 | 181 | 5 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 61 | 49 | 3 | -105.95 USD |
 
@@ -515,11 +515,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
+| atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
+| RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Tokyo Yakult Swallows vs. Yomiuri Giants | Tokyo Yakult Swallows (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BIG vs G2 NORD (BO5) - Prime League | BIG (BUY) | 45% | 5.00 | 7.0% | ⏳ pendiente | — |
@@ -548,5 +551,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | 💰 vendida anticipada | -0.44 |
 | TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 46% | 5.00 | 53.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 4805.4% | ❌ perdida | -5.14 |
-| Donghui | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 48% | 5.00 | 32.4% | ❌ perdida | -5.13 |
-| Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 175 | Over (BUY) | 48% | 5.00 | 23.8% | ❌ perdida | -5.13 |
