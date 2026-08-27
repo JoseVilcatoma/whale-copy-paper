@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 00:38:22 (hora de Perú)
+Actualizado: 2026-08-27 00:40:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.67
@@ -520,7 +520,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 60% | 5.00 | 6.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: STATE vs GenOne (BO3) -  | GenOne (BUY) | 73% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 56% | 5.00 | 5.7% | ⏳ pendiente | — |
