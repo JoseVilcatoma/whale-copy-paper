@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 14:24:41 (hora de Perú)
+Actualizado: 2026-08-27 14:26:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $466.56
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 14:24:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $156.56)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $151.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BOOMBOYS.Kiritych | 33 | 16 | 0 | +55.63 USD |
+| BOOMBOYS.Kiritych | 33 | 16 | 1 | +55.63 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | SDTrading | 32 | 20 | 1 | +44.18 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -516,7 +516,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
 | cs2-mouz-9z-2026-08-27 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Donghui, SPCEXBUYER |
 | cs2-mouz-9z-2026-08-27-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, SPCEXBUYER |
-| cs2-fal2-lvg-2026-08-27 | AV23IUa, ExplosiveNinja |
+| cs2-fal2-lvg-2026-08-27 | AV23IUa, ExplosiveNinja, SPCEXBUYER |
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
 | lol-big1-g2nord-2026-08-27 | DoNotTailMe, TAIWANNUMBERONE |
 | atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
@@ -536,6 +536,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ⏳ pendiente | — |
 | AV23IUa | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 60% | 5.00 | 6.6% | ⏳ pendiente | — |
@@ -565,4 +566,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ❌ perdida | -5.03 |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Spread: AS Monaco FC (-1.5) | Górnik Zabrze (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
