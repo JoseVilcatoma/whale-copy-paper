@@ -61347,8 +61347,8 @@
     "title": "Augsburg: Benito Sanchez Martinez vs Hynek Barton",
     "outcome": "Benito Sanchez Martinez",
     "side": "BUY",
-    "whale_usd": 3575.0282,
-    "whale_pct": 12.711,
+    "whale_usd": 4643.214452,
+    "whale_pct": 16.509,
     "whale_value_at_open": 28125.8834,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -61359,8 +61359,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787822653.316367,
-    "fills": 3
+    "last_fill_at": 1787823756.806872,
+    "fills": 4
   },
   {
     "timestamp": 1787820400,
