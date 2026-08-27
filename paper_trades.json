@@ -64421,8 +64421,8 @@
     "title": "Steelers vs. Bills",
     "outcome": "Steelers",
     "side": "BUY",
-    "whale_usd": 604.8000000000001,
-    "whale_pct": 0.462,
+    "whale_usd": 2617.6,
+    "whale_pct": 2.0,
     "whale_value_at_open": 130895.6765,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -64433,8 +64433,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787872777.0811594,
-    "fills": 1
+    "last_fill_at": 1787873558.3775377,
+    "fills": 2
   },
   {
     "timestamp": 1787872945,
@@ -64445,8 +64445,8 @@
     "title": "Monterrey Open: Darja Vidmanova vs Nikola Bartunkova",
     "outcome": "Nikola Bartunkova",
     "side": "BUY",
-    "whale_usd": 1140.2735289999998,
-    "whale_pct": 0.855,
+    "whale_usd": 3411.738529,
+    "whale_pct": 2.559,
     "whale_value_at_open": 133317.0999,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -64457,8 +64457,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787872946.2952893,
-    "fills": 1
+    "last_fill_at": 1787873516.8067482,
+    "fills": 2
   },
   {
     "timestamp": 1787873028,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:31:36 (hora de Perú)
+Actualizado: 2026-08-27 18:33:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.48
@@ -543,8 +543,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 54% | 5.00 | 40.7% | 💰 vendida anticipada | -0.51 |
 | RN1 | Will SC Internacional win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 2.6% | ⏳ pendiente | — |
+| RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 575.2% | ⏳ pendiente | — |
