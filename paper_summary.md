@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 20:59:47 (hora de Perú)
+Actualizado: 2026-08-26 21:01:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $483.26
-**Retorno acumulado:** -3.35%
+**Bankroll actual:** $478.11
+**Retorno acumulado:** -4.38%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 20:59:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $203.26)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $203.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,8 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
-| RN1 | 325 | 147 | 19 | -19.40 USD |
 | Donghui | 0 | 4 | 2 | -20.52 USD |
+| RN1 | 325 | 148 | 18 | -24.54 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 16 | 27 | 4 | -63.29 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2299
+- **Apuestas resueltas:** 2300
 - **Aciertos:** 1483 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,482.59
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $207.26 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,487.59
+- **ROI sobre lo apostado:** -0.93%
+- **Comisiones pagadas (taker fee):** $207.40 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1123 | 50.0% | 50.2% | -0.2 pp |
+| 40-59% | 1124 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 686 | 70.1% | 67.7% | +2.5 pp |
 | 80-94% | 333 | 87.4% | 86.8% | +0.6 pp |
 | 95-99% (casi seguro) | 157 | 95.5% | 97.4% | -1.8 pp |
@@ -544,7 +544,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 49% | 5.00 | 0.3% | ✅ ganada | +5.08 |
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 60% | 5.00 | 0.4% | ✅ ganada | +3.23 |
 | RN1 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | RN1 | Spread: New York Yankees (-2.5) | Houston Astros (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ✅ ganada | +6.22 |
 | RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |

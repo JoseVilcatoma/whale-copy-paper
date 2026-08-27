@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.25507397487183,
+  "bankroll": 478.11007397487185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11960,6 +11960,11 @@
       "timestamp": 1787795786.1905913,
       "bankroll": 483.26,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Federico Cina vs Hugo Dellien"
+    },
+    {
+      "timestamp": 1787796094.9049973,
+      "bankroll": 478.11,
+      "event": "lost: RN1 \u2014 Houston Astros vs. New York Yankees: O/U 9.5"
     }
   ]
 }
