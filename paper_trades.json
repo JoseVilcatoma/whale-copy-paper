@@ -63801,5 +63801,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787847073.5084958,
     "fills": 1
+  },
+  {
+    "timestamp": 1787847340,
+    "timestamp_added": 1787847340.4128215,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "uel-rbs-ma-2026-08-27-spread-home-1pt5",
+    "title": "Spread: FC Red Bull Salzburg (-1.5)",
+    "outcome": "Mj\u00e4llby AIF",
+    "side": "BUY",
+    "whale_usd": 6770.5019999999995,
+    "whale_pct": 3.731,
+    "whale_value_at_open": 181484.3925,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787847340.936547,
+    "fills": 2
   }
 ]

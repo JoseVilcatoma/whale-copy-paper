@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 11:13:48 (hora de Perú)
+Actualizado: 2026-08-27 11:15:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 11:13:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $109.24)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $104.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 5 | 1 | 1 | +8.57 USD |
-| plonker2026 | 4 | 3 | 2 | +8.46 USD |
+| plonker2026 | 4 | 3 | 3 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -528,11 +528,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | col-qar-twe-2026-08-27-twe | RN1, plonker2026 |
 | atp-rincon-barrios-2026-08-27 | Donghui, RN1 |
 | atp-cretu-moelle-2026-08-27 | HomeRunHazard, RN1 |
+| uel-rbs-ma-2026-08-27-spread-home-1pt5 | RN1, plonker2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| plonker2026 | Spread: FC Red Bull Salzburg (-1.5) | Mjällby AIF (BUY) | 46% | 5.00 | 3.7% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 2 Winner | G2 NORD (BUY) | 51% | 5.00 | 23.7% | ⏳ pendiente | — |
 | RN1 | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 79% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Spread: AFC Ajax (-1.5) | FC Sion (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -562,4 +564,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will FC Twente win on 2026-08-27? | No (BUY) | 52% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Donghui | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 49% | 5.00 | 59.8% | ⏳ pendiente | — |
 | plonker2026 | Will FC Twente win on 2026-08-27? | Yes (BUY) | 47% | 5.00 | 212.9% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Julia Stusek (BUY) | 91% | 5.00 | 2.7% | ⏳ pendiente | — |
