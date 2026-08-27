@@ -1,5 +1,5 @@
 {
-  "bankroll": 445.4473068108412,
+  "bankroll": 445.2003068108412,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12315,6 +12315,16 @@
       "timestamp": 1787832297.5796802,
       "bankroll": 445.45,
       "event": "won: DoNotTailMe \u2014 LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787832983.1676898,
+      "bankroll": 440.33,
+      "event": "lost: SPCEXBUYER \u2014 LoL: Nongshim Red Force vs BNK FEARX - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787832983.2678287,
+      "bankroll": 445.2,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Nongshim Red Force vs BNK FEARX - Game 3 Winner"
     }
   ]
 }
