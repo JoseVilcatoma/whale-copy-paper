@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.9475234446962,
+  "bankroll": 476.84452344469616,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12910,6 +12910,11 @@
       "timestamp": 1787869777.3739727,
       "bankroll": 481.95,
       "event": "won: plonker2026 \u2014 Will Trabzonspor win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787870706.3149743,
+      "bankroll": 476.84,
+      "event": "lost:  \u2014 Will FC Midtjylland win on 2026-08-27?"
     }
   ]
 }
