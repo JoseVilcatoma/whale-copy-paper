@@ -1,5 +1,5 @@
 {
-  "bankroll": 436.7835440706574,
+  "bankroll": 447.2252834699881,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12355,6 +12355,26 @@
       "timestamp": 1787833171.4268901,
       "bankroll": 436.78,
       "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Poznan (Poland), clay: Nikita Mashtakov vs Kirill Kivattsev"
+    },
+    {
+      "timestamp": 1787834178.0917938,
+      "bankroll": 443.27,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In"
+    },
+    {
+      "timestamp": 1787834178.7494583,
+      "bankroll": 446.37,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: NS (-1.5) vs BNK FEARX (+1.5)"
+    },
+    {
+      "timestamp": 1787834243.968515,
+      "bankroll": 441.25,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Nongshim Red Force vs BNK FEARX - Game 4 Winner"
+    },
+    {
+      "timestamp": 1787834244.2689602,
+      "bankroll": 447.23,
+      "event": "won: SPCEXBUYER \u2014 LoL: Nongshim Red Force vs BNK FEARX - Game 4 Winner"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 07:35:25 (hora de Perú)
+Actualizado: 2026-08-27 07:37:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $436.78
-**Retorno acumulado:** -12.64%
+**Bankroll actual:** $447.23
+**Retorno acumulado:** -10.55%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 07:35:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $86.78)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $117.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,18 +21,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 22 | 1 | +59.95 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
-| BOOMBOYS.Kiritych | 29 | 16 | 4 | +36.63 USD |
+| BOOMBOYS.Kiritych | 30 | 16 | 3 | +42.60 USD |
 | HomeRunHazard | 367 | 181 | 11 | +33.38 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 19 | 9 | 0 | +22.46 USD |
+| TAIWANNUMBERONE | 9 | 5 | 1 | +21.06 USD |
 | ChonkyChocolateCake | 36 | 21 | 0 | +19.87 USD |
 | texaskid | 4 | 1 | 0 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| TAIWANNUMBERONE | 7 | 5 | 3 | +11.48 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 4 | 3 | 0 | +8.46 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2377
-- **Aciertos:** 1526 (64.2%)
+- **Apuestas resueltas:** 2381
+- **Aciertos:** 1529 (64.2%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,872.59
-- **ROI sobre lo apostado:** -1.25%
-- **Comisiones pagadas (taker fee):** $214.95 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.56% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,892.59
+- **ROI sobre lo apostado:** -1.16%
+- **Comisiones pagadas (taker fee):** $215.44 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.65% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,8 +108,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1170 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 703 | 69.8% | 67.7% | +2.2 pp |
+| 40-59% | 1173 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 704 | 69.9% | 67.7% | +2.2 pp |
 | 80-94% | 342 | 87.1% | 86.8% | +0.4 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
@@ -535,7 +535,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FC St. Gallen vs. FC Nordsjælland: O/U 2 | Over (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 41% | 5.00 | 19.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-1.5) | SK Iberia 1999 (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 46% | 5.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 46% | 5.00 | 8.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Noah Karma (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-2.5) | SK Iberia 1999 (BUY) | 92% | 5.00 | 1.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will FK Crvena zvezda win on 2026-08-27? | No (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -550,11 +550,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | KBO: Hanwha Eagles vs. SSG Landers | SSG Landers (BUY) | 54% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 6.2% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 7.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Vladyslav Orlov (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Valorant: VARREL vs Global Esports (BO3) | Global Esports (BUY) | 59% | 5.00 | 35.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 63% | 5.00 | 12.2% | ✅ ganada | +2.84 |
-| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 45% | 5.00 | 64.2% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 45% | 5.00 | 64.2% | ✅ ganada | +5.97 |
 | GoalLineGhost | SK Iberia 1999 vs. Jagiellonia Białystok | Over (BUY) | 79% | 5.00 | 2.1% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 43% | 5.00 | 3.0% | ❌ perdida | -5.14 |
 | RN1 | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 44% | 5.00 | 2.2% | ❌ perdida | -5.14 |
