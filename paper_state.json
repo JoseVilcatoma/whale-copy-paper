@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.1368281076709,
+  "bankroll": 471.38698600240775,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12075,6 +12075,11 @@
       "timestamp": 1787801360.1085331,
       "bankroll": 471.14,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: EMPIRE vs Chicken Coop Esports (BO3) - ESL Challenger League North America Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1787802301.4255579,
+      "bankroll": 471.39,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Voca vs FarmVille (BO3) - ESL Challenger League North America Cup #1 Playoffs"
     }
   ]
 }
