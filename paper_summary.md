@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 20:13:40 (hora de Perú)
+Actualizado: 2026-08-26 20:15:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.25
@@ -519,9 +519,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | Sassy-Bucket | Minnesota Twins vs. Athletics: O/U 9.5 | Under (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Voca vs FarmVille (BO3)  | Voca (BUY) | 95% | 5.00 | 4.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Inner Circle | Vitality (BUY) | 89% | 5.00 | 5.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 67% | 5.00 | 16.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 44% | 5.00 | 2.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Inner Circle | Vitality (BUY) | 89% | 5.00 | 7.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 67% | 5.00 | 18.4% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ⏳ pendiente | — |
