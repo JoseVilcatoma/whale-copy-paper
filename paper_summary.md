@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:03:34 (hora de Perú)
+Actualizado: 2026-08-27 06:05:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $452.49
@@ -528,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 4.9% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 6.2% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Vladyslav Orlov (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Valorant: VARREL vs Global Esports (BO3) | Global Esports (BUY) | 59% | 5.00 | 20.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
