@@ -61717,8 +61717,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 33359.82862,
-    "whale_pct": 345.189,
+    "whale_usd": 35045.161953,
+    "whale_pct": 362.628,
     "whale_value_at_open": 9664.2187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -61731,8 +61731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787829970.9847863,
-    "fills": 12
+    "last_fill_at": 1787830195.3757775,
+    "fills": 14
   },
   {
     "timestamp": 1787823434,
@@ -62608,5 +62608,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787830025.3059568,
     "fills": 1
+  },
+  {
+    "timestamp": 1787830172,
+    "timestamp_added": 1787830173.198178,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-angelin-weldam-2026-08-27",
+    "title": "ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Lorenzo Angelini vs Steffan Van Weldam",
+    "outcome": "Steffan Van Weldam",
+    "side": "BUY",
+    "whale_usd": 1393.7652480000002,
+    "whale_pct": 1.867,
+    "whale_value_at_open": 74633.7837,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787830190.8713734,
+    "fills": 2
   }
 ]
