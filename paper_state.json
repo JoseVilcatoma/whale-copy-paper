@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.24562393482097,
+  "bankroll": 469.110623934821,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11825,6 +11825,11 @@
       "timestamp": 1787792330.9321108,
       "bankroll": 474.25,
       "event": "won: RN1 \u2014 US Open, Qualification WTA: Yeon-Woo Ku vs Storm Hunter"
+    },
+    {
+      "timestamp": 1787793588.518727,
+      "bankroll": 469.11,
+      "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals: O/U 8.5"
     }
   ]
 }
