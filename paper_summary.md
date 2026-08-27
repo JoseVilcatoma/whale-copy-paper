@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:13:20 (hora de Perú)
+Actualizado: 2026-08-27 04:15:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 04:13:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $205.77)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $200.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 7 | -32.08 USD |
+| RN1 | 337 | 156 | 8 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 5 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -522,6 +522,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Mara Guth (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Anas Mazdrashki (BUY) | 87% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Jenny Lim (BUY) | 65% | 5.00 | 5.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 75% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -551,4 +552,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 61% | 5.00 | 4.5% | ❌ perdida | -5.10 |
 | ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 60% | 5.00 | 12.0% | ❌ perdida | -5.10 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: STATE vs GenOne (BO3) -  | GenOne (BUY) | 73% | 5.00 | 3.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 56% | 5.00 | 8.1% | ✅ ganada | +3.82 |
