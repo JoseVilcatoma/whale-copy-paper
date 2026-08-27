@@ -61717,8 +61717,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 171886.551143,
-    "whale_pct": 1778.587,
+    "whale_usd": 175884.051143,
+    "whale_pct": 1819.951,
     "whale_value_at_open": 9664.2187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -61731,8 +61731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787831567.9542582,
-    "fills": 25
+    "last_fill_at": 1787831991.9411998,
+    "fills": 28
   },
   {
     "timestamp": 1787823434,
@@ -62775,6 +62775,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787831863.7931256,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787831951,
+    "timestamp_added": 1787831951.681628,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mouz-9z-2026-08-27-map-handicap-away-1pt5",
+    "title": "Map Handicap: MOUZ (-1.5) vs 9z (+1.5)",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 64789.612700000005,
+    "whale_pct": 19.29,
+    "whale_value_at_open": 335871.9015,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787831951.681636,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787831973,
+    "timestamp_added": 1787831974.0603194,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "col-stg-nor-2026-08-27-total-2pt5",
+    "title": "FC St. Gallen vs. FC Nordsj\u00e6lland: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 618.9996,
+    "whale_pct": 1.052,
+    "whale_value_at_open": 58816.4115,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787831974.0603266,
     "fills": 1
   }
 ]

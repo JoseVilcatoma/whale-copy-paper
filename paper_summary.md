@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:57:48 (hora de Perú)
+Actualizado: 2026-08-27 06:59:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $442.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 06:57:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $62.95)
+**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $52.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 3 | +48.85 USD |
-| BOOMBOYS.Kiritych | 29 | 14 | 5 | +46.86 USD |
+| BOOMBOYS.Kiritych | 29 | 14 | 6 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | HomeRunHazard | 366 | 180 | 12 | +35.68 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 13 | 8 | 15 | -12.34 USD |
+| GoalLineGhost | 13 | 8 | 16 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | RN1 | 347 | 158 | 16 | -23.37 USD |
@@ -515,6 +515,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
 | cs2-mouz-9z-2026-08-27 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Donghui, SPCEXBUYER |
+| cs2-mouz-9z-2026-08-27-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, SPCEXBUYER |
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
 | lol-ns-fox1-2026-08-27-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER |
@@ -526,6 +527,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | FC St. Gallen vs. FC Nordsjælland: O/U 2 | Over (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
+| SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 41% | 5.00 | 19.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-1.5) | SK Iberia 1999 (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Noah Karma (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -554,5 +557,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 54% | 5.00 | 27.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Kirill Kivattsev (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 3.1% | ✅ ganada | +0.10 |
-| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Justina Mikulskyte (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
