@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.7709147886613,
+  "bankroll": 452.4897121742822,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12225,6 +12225,16 @@
       "timestamp": 1787826979.75228,
       "bankroll": 449.77,
       "event": "won: ferrariChampions2026 \u2014 Augsburg: Benito Sanchez Martinez vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787828167.3735952,
+      "bankroll": 451.65,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Lea Boskovic vs Ksenia Zaytseva"
+    },
+    {
+      "timestamp": 1787828167.9781897,
+      "bankroll": 452.49,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Ioana Maria Sandru vs Bianca Elena Barbulescu"
     }
   ]
 }
