@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 16:18:28 (hora de Perú)
+Actualizado: 2026-08-27 16:20:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.49
@@ -538,7 +538,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 88.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 151.4% | ⏳ pendiente | — |
 | Djdjdjekekek | Valorant: LOUD vs FURIA Esports - Map 1  | FURIA Esports (BUY) | 46% | 5.00 | 38.2% | ⏳ pendiente | — |
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 2849.2% | ⏳ pendiente | — |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 639.0% | ⏳ pendiente | — |
