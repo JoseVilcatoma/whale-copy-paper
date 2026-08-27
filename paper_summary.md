@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 12:58:56 (hora de Perú)
+Actualizado: 2026-08-27 13:00:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $463.52
@@ -535,7 +535,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | plonker2026 | Spread: Brighton & Hove Albion FC (-2.5) | Brighton & Hove Albion FC (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
-| plonker2026 | Brighton & Hove Albion FC vs. Tromsø IL: | Over (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |
+| plonker2026 | Brighton & Hove Albion FC vs. Tromsø IL: | Over (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 3 Winner | G2 NORD (BUY) | 68% | 5.00 | 22.6% | ⏳ pendiente | — |
 | texaskid | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 57% | 5.00 | 285.7% | ⏳ pendiente | — |
