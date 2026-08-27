@@ -297,7 +297,11 @@ def market_result(market, outcome):
             return "won"
         if p <= 0.01:
             return "lost"
-        return None
+        # Cerrado pero SIN ganador claro. Pasa sobre todo en tenis: si un jugador
+        # abandona o hay walkover, Polymarket anula y los precios quedan cerca de
+        # 0.50 en vez de definirse. Antes esto devolvía None y la posición quedaba
+        # colgada para siempre, con el capital trabado sin liberarse nunca.
+        return ("ambiguo", p)
     except Exception:
         return None
 
@@ -471,10 +475,10 @@ def build_summary_md():
     for tr in trades:
         w = tr["wallet"]
         per_wallet.setdefault(w, {"username": tr["username"], "won": 0, "lost": 0, "pending": 0, "pnl_usd": 0.0})
-        if tr["status"] == "won" or (tr["status"] == "cerrada_venta" and tr.get("profit_usd", 0.0) >= 0):
+        if tr["status"] == "won" or (tr["status"] in ("cerrada_venta", "anulado") and tr.get("profit_usd", 0.0) >= 0):
             per_wallet[w]["won"] += 1
             per_wallet[w]["pnl_usd"] += tr.get("profit_usd", 0.0)
-        elif tr["status"] == "lost" or (tr["status"] == "cerrada_venta" and tr.get("profit_usd", 0.0) < 0):
+        elif tr["status"] == "lost" or (tr["status"] in ("cerrada_venta", "anulado") and tr.get("profit_usd", 0.0) < 0):
             per_wallet[w]["lost"] += 1
             per_wallet[w]["pnl_usd"] += tr.get("profit_usd", 0.0)
         else:
@@ -596,7 +600,7 @@ def build_summary_md():
                "|---|---|---|---|---|---|---|---|"]
     for tr in sorted(trades, key=lambda t: t["timestamp_added"], reverse=True)[:30]:
         estado = {"pending": "⏳ pendiente", "won": "✅ ganada", "lost": "❌ perdida",
-                  "cerrada_venta": "💰 vendida anticipada"}.get(tr["status"], tr["status"])
+                  "cerrada_venta": "💰 vendida anticipada", "anulado": "⚖️ anulada/devuelta"}.get(tr["status"], tr["status"])
         resultado = f"{tr['profit_usd']:+,.2f}" if tr["status"] != "pending" else "—"
         titulo = (tr.get("title") or "(sin título)")[:40]
         marca_tope = " ⚠️" if tr.get("recortado_por_tope") else ""
@@ -685,6 +689,32 @@ def resolve_pending_trades():
     for tr in pending:
         market = get_market(tr["slug"])
         result = market_result(market, tr["outcome"])
+
+        # Mercado cerrado con precio ambiguo -> lo liquidamos al precio final,
+        # igual que haría Polymarket al anular/devolver, para liberar el capital.
+        if isinstance(result, tuple) and result[0] == "ambiguo":
+            precio_final = result[1]
+            stake = tr["paper_stake_usd"]
+            entry = tr["odds_at_bet"] / 100.0
+            valor = stake * (precio_final / entry) if entry > 0 else 0
+            fee = tr.get("fee_usd") or taker_fee(stake, tr["odds_at_bet"])
+            profit = valor - stake - fee
+            with lock:
+                tr["status"] = "anulado"
+                tr["profit_usd"] = round(profit, 2)
+                tr["closed_price"] = round(precio_final * 100)
+                bankroll += profit
+                bankroll_history.append({
+                    "timestamp": time.time(),
+                    "bankroll": round(bankroll, 2),
+                    "event": f"anulado (precio {precio_final:.2f}): {tr['username']} — {tr['title']}",
+                })
+            trades_dirty = True
+            print(f"  ⚖ {tr['slug']}: cerrado sin ganador claro (precio {precio_final:.2f}, típico de "
+                  f"partido anulado) -> liquidado a {profit:+.2f} USD, capital liberado")
+            time.sleep(0.1)
+            continue
+
         if result not in ("won", "lost"):
             if market is None:
                 print(f"  ⚠ {tr['slug']}: no se pudo consultar el mercado (posible error de red o slug incorrecto)")
