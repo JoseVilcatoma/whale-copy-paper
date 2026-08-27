@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.2501852267225,
+  "bankroll": 468.2151852267225,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12560,6 +12560,11 @@
       "timestamp": 1787849674.5854166,
       "bankroll": 473.25,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Carolina Bohrer Martins vs Ana Candiotto"
+    },
+    {
+      "timestamp": 1787849931.7152963,
+      "bankroll": 468.22,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Cap d'Agde (France), clay: Kenny De Schepper vs Samuele Seghetti"
     }
   ]
 }
