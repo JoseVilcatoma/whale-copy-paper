@@ -63078,8 +63078,8 @@
     "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Urszula Radwanska vs Julia Stusek",
     "outcome": "Julia Stusek",
     "side": "BUY",
-    "whale_usd": 1563.7219089999999,
-    "whale_pct": 0.964,
+    "whale_usd": 4410.061909,
+    "whale_pct": 2.719,
     "whale_value_at_open": 162209.203,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -63090,7 +63090,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787841636.3516965,
-    "fills": 2
+    "last_fill_at": 1787841788.7001612,
+    "fills": 4
   }
 ]
