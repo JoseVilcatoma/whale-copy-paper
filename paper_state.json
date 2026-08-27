@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.6383821540772,
+  "bankroll": 468.1673119786386,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12060,6 +12060,16 @@
       "timestamp": 1787800741.346427,
       "bankroll": 469.64,
       "event": "won: RN1 \u2014 Will CDP Junior FC win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787801051.2242734,
+      "bankroll": 464.5,
+      "event": "lost: RN1 \u2014 Texas Rangers vs. Chicago White Sox"
+    },
+    {
+      "timestamp": 1787801051.8501468,
+      "bankroll": 468.17,
+      "event": "won: RN1 \u2014 Texas Rangers vs. Chicago White Sox"
     }
   ]
 }
