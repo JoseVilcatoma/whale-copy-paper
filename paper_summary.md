@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 07:04:04 (hora de Perú)
+Actualizado: 2026-08-27 07:06:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $442.95
-**Retorno acumulado:** -11.41%
+**Bankroll actual:** $445.45
+**Retorno acumulado:** -10.91%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 07:04:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $42.95)
+**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $65.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,15 +21,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 3 | +48.85 USD |
-| BOOMBOYS.Kiritych | 29 | 14 | 6 | +46.86 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 57 | 22 | 2 | +55.07 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
+| BOOMBOYS.Kiritych | 29 | 15 | 5 | +41.75 USD |
 | HomeRunHazard | 366 | 180 | 12 | +35.68 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 19 | 9 | 0 | +22.46 USD |
-| ChonkyChocolateCake | 35 | 20 | 2 | +18.49 USD |
+| ChonkyChocolateCake | 36 | 21 | 0 | +19.87 USD |
 | texaskid | 4 | 1 | 0 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | TAIWANNUMBERONE | 7 | 5 | 3 | +11.48 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2365
-- **Aciertos:** 1520 (64.3%)
+- **Apuestas resueltas:** 2369
+- **Aciertos:** 1522 (64.2%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,812.59
-- **ROI sobre lo apostado:** -1.20%
-- **Comisiones pagadas (taker fee):** $213.67 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,832.59
+- **ROI sobre lo apostado:** -1.18%
+- **Comisiones pagadas (taker fee):** $214.16 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,8 +108,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1162 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 701 | 69.9% | 67.7% | +2.2 pp |
+| 40-59% | 1165 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 702 | 69.8% | 67.7% | +2.1 pp |
 | 80-94% | 341 | 87.4% | 86.8% | +0.6 pp |
 | 95-99% (casi seguro) | 161 | 95.7% | 97.4% | -1.7 pp |
 
@@ -538,7 +538,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will FK Crvena zvezda win on 2026-08-27? | No (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will RC Celta de Vigo win on 2026-08-16? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Steffan Van Weldam (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
-| Donghui | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 66% | 5.00 | 49340.9% | ⏳ pendiente | — |
+| Donghui | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 66% | 5.00 | 52997.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Adrien Burdet (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Thun (-2.5) | KKS Lech Poznań (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Thun (-1.5) | KKS Lech Poznań (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |

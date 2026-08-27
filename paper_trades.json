@@ -61404,8 +61404,8 @@
     "odds_at_bet": 56,
     "fee_usd": 0.11,
     "odds_ballena": 55,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -61428,8 +61428,8 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.22,
     "overlaps_with": [
       "SPCEXBUYER"
     ],
@@ -61454,8 +61454,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "SPCEXBUYER"
@@ -61505,8 +61505,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.48,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
       "SPCEXBUYER"
@@ -62591,8 +62591,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 19500.0,
-    "whale_pct": 49340.857,
+    "whale_usd": 20944.9534,
+    "whale_pct": 52997.023,
     "whale_value_at_open": 39.521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -62606,8 +62606,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787830025.3059568,
-    "fills": 1
+    "last_fill_at": 1787832320.94685,
+    "fills": 2
   },
   {
     "timestamp": 1787830172,
