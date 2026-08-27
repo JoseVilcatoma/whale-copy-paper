@@ -63314,5 +63314,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787843515.1531665,
     "fills": 1
+  },
+  {
+    "timestamp": 1787843976,
+    "timestamp_added": 1787843977.0970273,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-kaji-milovan-2026-08-27",
+    "title": "ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Haruka Kaji vs Elena Milovanovic",
+    "outcome": "Elena Milovanovic",
+    "side": "BUY",
+    "whale_usd": 1143.76,
+    "whale_pct": 0.562,
+    "whale_value_at_open": 203681.846,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787843977.097045,
+    "fills": 1
   }
 ]
