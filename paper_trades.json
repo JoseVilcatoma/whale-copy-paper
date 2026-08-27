@@ -60692,5 +60692,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787798565.3221316,
     "fills": 1
+  },
+  {
+    "timestamp": 1787798673,
+    "timestamp_added": 1787798674.3971412,
+    "username": "Djdjdjekekek",
+    "wallet": "0x6d20c35f65d9899b6d6b74f8466e824580f9a165",
+    "slug": "mlb-min-oak-2026-08-26",
+    "title": "Minnesota Twins vs. Athletics",
+    "outcome": "Minnesota Twins",
+    "side": "BUY",
+    "whale_usd": 23807.435,
+    "whale_pct": 26.347,
+    "whale_value_at_open": 90359.6625,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787798674.3971646,
+    "fills": 1
   }
 ]
