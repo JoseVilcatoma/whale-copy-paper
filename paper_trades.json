@@ -61717,8 +61717,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 32512.94862,
-    "whale_pct": 336.426,
+    "whale_usd": 33359.82862,
+    "whale_pct": 345.189,
     "whale_value_at_open": 9664.2187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -61731,8 +61731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787829823.4623113,
-    "fills": 11
+    "last_fill_at": 1787829970.9847863,
+    "fills": 12
   },
   {
     "timestamp": 1787823434,
@@ -62556,6 +62556,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787829430.6250412,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787829911,
+    "timestamp_added": 1787829912.1004202,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-weis-burdet-2026-08-27",
+    "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Alexander Weis vs Adrien Burdet",
+    "outcome": "Adrien Burdet",
+    "side": "BUY",
+    "whale_usd": 539.4,
+    "whale_pct": 0.554,
+    "whale_value_at_open": 97292.6742,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787829912.100429,
     "fills": 1
   }
 ]
