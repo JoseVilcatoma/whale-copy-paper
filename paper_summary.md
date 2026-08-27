@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 20:45:14 (hora de Perú)
+Actualizado: 2026-08-26 20:47:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $478.14
-**Retorno acumulado:** -4.37%
+**Bankroll actual:** $473.59
+**Retorno acumulado:** -5.28%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 20:45:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $143.14)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $148.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 4 | 1 | -20.52 USD |
-| RN1 | 319 | 145 | 27 | -27.03 USD |
+| RN1 | 320 | 146 | 25 | -31.57 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 16 | 27 | 3 | -63.29 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2286
-- **Aciertos:** 1474 (64.5%)
+- **Apuestas resueltas:** 2288
+- **Aciertos:** 1475 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,417.59
-- **ROI sobre lo apostado:** -0.94%
-- **Comisiones pagadas (taker fee):** $205.99 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,427.59
+- **ROI sobre lo apostado:** -0.98%
+- **Comisiones pagadas (taker fee):** $206.15 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1116 | 50.0% | 50.2% | -0.2 pp |
+| 40-59% | 1117 | 50.0% | 50.2% | -0.2 pp |
 | 60-79% | 683 | 70.0% | 67.7% | +2.3 pp |
-| 80-94% | 330 | 87.3% | 86.8% | +0.5 pp |
+| 80-94% | 331 | 87.3% | 86.8% | +0.5 pp |
 | 95-99% (casi seguro) | 157 | 95.5% | 97.4% | -1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -528,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CDP Junior FC win on 2026-08-26? | No (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Tristan Scho | Tristan Schoolkate (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Tristan Scho | Tristan Schoolkate (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | RN1 | US Open, Qualification ATP: Henrique Roc | Lloyd Harris (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
 | RN1 | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |

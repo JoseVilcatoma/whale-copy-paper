@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.13622451784255,
+  "bankroll": 473.5922020459324,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11895,6 +11895,16 @@
       "timestamp": 1787794852.988299,
       "bankroll": 478.14,
       "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. Miami Marlins"
+    },
+    {
+      "timestamp": 1787795166.4942107,
+      "bankroll": 473.0,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Tristan Schoolkate vs Seong-Chan Hong"
+    },
+    {
+      "timestamp": 1787795171.4430683,
+      "bankroll": 473.59,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Tristan Schoolkate vs Seong-Chan Hong"
     }
   ]
 }
