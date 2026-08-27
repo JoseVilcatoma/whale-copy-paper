@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.52493201051834,
+  "bankroll": 464.4149320105183,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12655,6 +12655,11 @@
       "timestamp": 1787860632.5638227,
       "bankroll": 469.52,
       "event": "won: GoalLineGhost \u2014 Spread: Jagiellonia Bia\u0142ystok (-1.5)"
+    },
+    {
+      "timestamp": 1787861066.0861735,
+      "bankroll": 464.41,
+      "event": "lost: DoNotTailMe \u2014 LoL: Karmine Corp Blue vs Skillcamp Esport - Game 3 Winner"
     }
   ]
 }
