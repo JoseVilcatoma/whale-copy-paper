@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.5922020459324,
+  "bankroll": 476.4376099225843,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11905,6 +11905,51 @@
       "timestamp": 1787795171.4430683,
       "bankroll": 473.59,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Tristan Schoolkate vs Seong-Chan Hong"
+    },
+    {
+      "timestamp": 1787795471.7763035,
+      "bankroll": 477.26,
+      "event": "won: SDTrading \u2014 Kansas City Royals vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1787795474.6454592,
+      "bankroll": 472.13,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Dodgers vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1787795475.4785843,
+      "bankroll": 467.0,
+      "event": "lost: HomeRunHazard \u2014 Kansas City Royals vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1787795477.4518747,
+      "bankroll": 467.85,
+      "event": "won: HomeRunHazard \u2014 US Open, Qualification ATP: Vitaliy Sachko vs Pablo Llamas Ruiz"
+    },
+    {
+      "timestamp": 1787795477.5520532,
+      "bankroll": 471.08,
+      "event": "won: texaskid \u2014 Kansas City Royals vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1787795481.3077452,
+      "bankroll": 473.25,
+      "event": "won: RN1 \u2014 Spread: Kansas City Royals (-1.5)"
+    },
+    {
+      "timestamp": 1787795483.5318475,
+      "bankroll": 476.48,
+      "event": "won: RN1 \u2014 Kansas City Royals vs. Toronto Blue Jays: O/U 8.5"
+    },
+    {
+      "timestamp": 1787795483.6320484,
+      "bankroll": 481.56,
+      "event": "won: RN1 \u2014 Kansas City Royals vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1787795484.126573,
+      "bankroll": 476.44,
+      "event": "lost: RN1 \u2014 Kansas City Royals vs. Toronto Blue Jays"
     }
   ]
 }
