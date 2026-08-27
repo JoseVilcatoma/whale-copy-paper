@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.494883618224,
+  "bankroll": 482.84734338833897,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12795,6 +12795,26 @@
       "timestamp": 1787865055.6586225,
       "bankroll": 476.49,
       "event": "lost:  \u2014 SK Brann vs. PAOK: Team to Advance"
+    },
+    {
+      "timestamp": 1787865683.0151634,
+      "bankroll": 478.37,
+      "event": "won: GoalLineGhost \u2014 FC Barcelona vs. Athletic Club: O/U 4.5"
+    },
+    {
+      "timestamp": 1787865683.3711424,
+      "bankroll": 478.9,
+      "event": "won: GoalLineGhost \u2014 FC Barcelona vs. Athletic Club: O/U 1.5"
+    },
+    {
+      "timestamp": 1787865683.7544835,
+      "bankroll": 479.61,
+      "event": "won: GoalLineGhost \u2014 FC Barcelona vs. Athletic Club: O/U 5.5"
+    },
+    {
+      "timestamp": 1787865689.792349,
+      "bankroll": 482.85,
+      "event": "won: AV23IUa \u2014 Spread: FC Barcelona (-1.5)"
     }
   ]
 }
