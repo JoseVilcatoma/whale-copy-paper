@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:50:23 (hora de Perú)
+Actualizado: 2026-08-27 04:52:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 04:50:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $180.77)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $170.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 1 | +48.85 USD |
-| BOOMBOYS.Kiritych | 29 | 14 | 2 | +46.86 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 2 | +48.85 USD |
+| BOOMBOYS.Kiritych | 29 | 14 | 3 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | HomeRunHazard | 366 | 180 | 9 | +35.68 USD |
 | casualbet2020 | 19 | 7 | 1 | +32.69 USD |
@@ -518,11 +518,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
 | lol-ns-fox1-2026-08-27-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER |
+| lol-ns-fox1-2026-08-27-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 50% | 5.00 | 47.1% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 51% | 5.00 | 68.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Thiago Cigarran (BUY) | 89% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Lea Boskovic (BUY) | 72% | 5.00 | 7.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 65% | 5.00 | 151.6% | ⏳ pendiente | — |
@@ -551,5 +554,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will SC Freiburg win on 2026-08-27? | Yes (BUY) | 81% | 5.00 | 16.7% | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 44% | 5.00 | 3.0% | ⏳ pendiente | — |
 |  | Will FC Midtjylland win on 2026-08-27? | No (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
-|  | Counter-Strike: Nemiga vs Black Phoenix  | Nemiga (BUY) | 74% | 5.00 | 7.5% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Acend vs UNiTY esports ( | Acend (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
