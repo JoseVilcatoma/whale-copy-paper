@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 19:07:20 (hora de Perú)
+Actualizado: 2026-08-26 19:09:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.79
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 19:07:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $103.79)
+**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $93.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 4 | 1 | -20.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 313 | 143 | 28 | -42.08 USD |
+| RN1 | 313 | 143 | 30 | -42.08 USD |
 | Sassy-Bucket | 15 | 27 | 2 | -68.37 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 47 | 2 | -101.46 USD |
@@ -517,6 +517,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Tristan Scho | Tristan Schoolkate (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Henrique Roc | Lloyd Harris (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Connecticut S | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -531,11 +533,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Yankees (-2.5) | Houston Astros (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 52% | 5.00 | 5.2% | ⏳ pendiente | — |
 | kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 73.3% | ⏳ pendiente | — |
 | RN1 | Spread: Kansas City Royals (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Federico Cin | Federico Cina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Federico Cin | Federico Cina (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Santos FC: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | kekasaur | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 18.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: NS (-1.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 61% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -545,5 +547,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Henrique Roc | Henrique Rocha (BUY) | 54% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 76% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Capucine Jauffret (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | Houston Astros vs. New York Yankees | New York Yankees (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
