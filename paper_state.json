@@ -1,5 +1,5 @@
 {
-  "bankroll": 467.3872348487936,
+  "bankroll": 481.9475234446962,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12895,6 +12895,21 @@
       "timestamp": 1787869210.4431968,
       "bankroll": 467.39,
       "event": "lost: Djdjdjekekek \u2014 Valorant: LOUD vs FURIA Esports - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787869776.6457808,
+      "bankroll": 472.46,
+      "event": "won: plonker2026 \u2014 Brighton & Hove Albion FC vs. Troms\u00f8 IL: O/U 3.5"
+    },
+    {
+      "timestamp": 1787869776.990653,
+      "bankroll": 477.97,
+      "event": "won: plonker2026 \u2014 Spread: Brighton & Hove Albion FC (-2.5)"
+    },
+    {
+      "timestamp": 1787869777.3739727,
+      "bankroll": 481.95,
+      "event": "won: plonker2026 \u2014 Will Trabzonspor win on 2026-08-27?"
     }
   ]
 }
