@@ -1,5 +1,5 @@
 {
-  "bankroll": 438.598294074628,
+  "bankroll": 440.7666708862222,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12205,6 +12205,11 @@
       "timestamp": 1787813805.1026084,
       "bankroll": 438.6,
       "event": "lost: RN1 \u2014 Monterrey Open: Ekaterina Alexandrova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787815691.965274,
+      "bankroll": 440.77,
+      "event": "won: GoalLineGhost \u2014 CA River Plate vs. Independiente Santa Fe: O/U 1.5"
     }
   ]
 }
