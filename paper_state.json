@@ -1,5 +1,5 @@
 {
-  "bankroll": 461.6329642624661,
+  "bankroll": 458.8913170582647,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12605,6 +12605,21 @@
       "timestamp": 1787855908.6195414,
       "bankroll": 461.63,
       "event": "won: casualbet2020 \u2014 Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787856849.8284755,
+      "bankroll": 456.55,
+      "event": "lost: GoalLineGhost \u2014 Kuopion PS vs. Shamrock Rovers FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1787856857.7965665,
+      "bankroll": 457.54,
+      "event": "won: RN1 \u2014 Kuopion PS vs. Shamrock Rovers FC: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1787856915.2879312,
+      "bankroll": 458.89,
+      "event": "won: RN1 \u2014 Will Shamrock Rovers FC win on 2026-08-27?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 13:53:14 (hora de Perú)
+Actualizado: 2026-08-27 13:55:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $461.63
-**Retorno acumulado:** -7.67%
+**Bankroll actual:** $458.89
+**Retorno acumulado:** -8.22%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 13:53:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $121.63)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $133.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,26 +81,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 13 | 8 | 16 | -12.34 USD |
 | AV23IUa | 6 | 7 | 2 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
+| GoalLineGhost | 13 | 9 | 15 | -17.42 USD |
 | Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 364 | 171 | 16 | -42.99 USD |
+| RN1 | 366 | 171 | 14 | -40.65 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2427
-- **Aciertos:** 1559 (64.2%)
-- **Cuota promedio de entrada:** 63.7%
+- **Apuestas resueltas:** 2430
+- **Aciertos:** 1561 (64.2%)
+- **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,122.59
-- **ROI sobre lo apostado:** -1.02%
-- **Comisiones pagadas (taker fee):** $219.85 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.80% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,137.59
+- **ROI sobre lo apostado:** -1.04%
+- **Comisiones pagadas (taker fee):** $220.03 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,8 +109,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1195 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 722 | 70.2% | 67.7% | +2.6 pp |
-| 80-94% | 348 | 86.5% | 86.8% | -0.3 pp |
+| 60-79% | 724 | 70.2% | 67.7% | +2.5 pp |
+| 80-94% | 349 | 86.5% | 86.8% | -0.3 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -535,7 +535,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 14.2% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ⏳ pendiente | — |
 | AV23IUa | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Karmine Corp Blue vs Skillcamp Espo | Skillcamp Esport (BUY) | 56% | 5.00 | 15.8% | ⏳ pendiente | — |
@@ -556,7 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 32.6% | ⏳ pendiente | — |
 | RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ✅ ganada | +1.05 |
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
-| RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ✅ ganada | +0.98 |
 | HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ❌ perdida | -5.09 |
 | casualbet2020 | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 71% | 5.00 | 37.6% | ✅ ganada | +1.97 |
 | RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -564,4 +564,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: AS Monaco FC (-1.5) | Górnik Zabrze (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 78% | 5.00 | 1.0% | ✅ ganada | +1.36 |
