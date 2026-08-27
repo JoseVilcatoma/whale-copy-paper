@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:33:52 (hora de Perú)
+Actualizado: 2026-08-27 04:35:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 04:33:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $195.77)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $190.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 1 | +48.85 USD |
-| BOOMBOYS.Kiritych | 29 | 14 | 1 | +46.86 USD |
+| BOOMBOYS.Kiritych | 29 | 14 | 2 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | HomeRunHazard | 366 | 180 | 9 | +35.68 USD |
 | casualbet2020 | 19 | 7 | 1 | +32.69 USD |
@@ -514,6 +514,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-liutova-radivoj-2026-08-26 | HomeRunHazard, RN1 |
 | sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
+| cs2-mouz-9z-2026-08-27 | 0x29b52d98ac9ef9414b04164246c95BC63d7, SPCEXBUYER |
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
 | lol-ns-fox1-2026-08-27-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER |
@@ -522,6 +523,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 65% | 5.00 | 151.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Viktoria Plzeň (-1.5) | FK Crvena zvezda (BUY) | 79% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Mara Guth (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Anas Mazdrashki (BUY) | 87% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -551,4 +553,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Acend vs UNiTY esports ( | Acend (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 |  | SK Brann vs. PAOK: Team to Advance | PAOK (BUY) | 58% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 61% | 5.00 | 4.5% | ❌ perdida | -5.10 |
-| ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 60% | 5.00 | 12.0% | ❌ perdida | -5.10 |

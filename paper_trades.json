@@ -61707,5 +61707,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787823172.6658375,
     "fills": 1
+  },
+  {
+    "timestamp": 1787823258,
+    "timestamp_added": 1787823259.5240774,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mouz-9z-2026-08-27",
+    "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 14653.112176999999,
+    "whale_pct": 151.622,
+    "whale_value_at_open": 9664.2187,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787823259.5240903,
+    "fills": 1
   }
 ]
