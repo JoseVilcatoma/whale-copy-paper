@@ -62461,5 +62461,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787828872.8286963,
     "fills": 1
+  },
+  {
+    "timestamp": 1787828894,
+    "timestamp_added": 1787828895.2572713,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "kbo-han-ssg-2026-08-27",
+    "title": "KBO: Hanwha Eagles vs. SSG Landers",
+    "outcome": "Hanwha Eagles",
+    "side": "BUY",
+    "whale_usd": 985.39,
+    "whale_pct": 0.989,
+    "whale_value_at_open": 99668.6656,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787828895.2572796,
+    "fills": 1
   }
 ]
