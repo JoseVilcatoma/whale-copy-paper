@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.0392557172956,
+  "bankroll": 469.6383821540772,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12050,6 +12050,16 @@
       "timestamp": 1787800122.001784,
       "bankroll": 474.04,
       "event": "lost: Sassy-Bucket \u2014 Minnesota Twins vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1787800740.3883326,
+      "bankroll": 468.92,
+      "event": "lost: RN1 \u2014 Baltimore Orioles vs. St. Louis Cardinals"
+    },
+    {
+      "timestamp": 1787800741.346427,
+      "bankroll": 469.64,
+      "event": "won: RN1 \u2014 Will CDP Junior FC win on 2026-08-26?"
     }
   ]
 }
