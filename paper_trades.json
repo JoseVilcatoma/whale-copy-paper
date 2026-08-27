@@ -63811,8 +63811,8 @@
     "title": "Spread: FC Red Bull Salzburg (-1.5)",
     "outcome": "Mj\u00e4llby AIF",
     "side": "BUY",
-    "whale_usd": 6770.5019999999995,
-    "whale_pct": 3.731,
+    "whale_usd": 7577.982,
+    "whale_pct": 4.176,
     "whale_value_at_open": 181484.3925,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -63825,7 +63825,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787847340.936547,
-    "fills": 2
+    "last_fill_at": 1787848082.6785145,
+    "fills": 3
   }
 ]
