@@ -61767,8 +61767,8 @@
     "title": "ITF MEN - SINGLES: M15 Allershausen (Germany), clay: Thiago Cigarran vs Frederic Schlossmann",
     "outcome": "Thiago Cigarran",
     "side": "BUY",
-    "whale_usd": 1024.3119,
-    "whale_pct": 1.464,
+    "whale_usd": 2157.645233,
+    "whale_pct": 3.084,
     "whale_value_at_open": 69958.5704,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -61779,8 +61779,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787823689.7758791,
-    "fills": 1
+    "last_fill_at": 1787824490.748572,
+    "fills": 2
   },
   {
     "timestamp": 1787824224,
