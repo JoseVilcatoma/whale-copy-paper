@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:37:02 (hora de Perú)
+Actualizado: 2026-08-27 06:39:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $442.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 06:37:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $87.95)
+**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $82.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 13 | 8 | 12 | -12.34 USD |
+| GoalLineGhost | 13 | 8 | 13 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | RN1 | 347 | 158 | 14 | -23.37 USD |
@@ -526,6 +526,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will FK Crvena zvezda win on 2026-08-27? | No (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will RC Celta de Vigo win on 2026-08-16? | No (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Steffan Van Weldam (BUY) | 45% | 5.00 | 1.9% | ⏳ pendiente | — |
 | Donghui | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 66% | 5.00 | 49340.9% | ⏳ pendiente | — |
@@ -555,4 +556,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Roehampton 2: Inaki Montes vs George Lof | Inaki Montes (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 5.5 | Under (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 1.5 | Over (BUY) | 90% | 5.00 | 4.9% | ⏳ pendiente | — |
-| GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 4.5 | Under (BUY) | 72% | 5.00 | 4.9% | ⏳ pendiente | — |
