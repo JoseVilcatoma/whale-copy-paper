@@ -61073,5 +61073,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787811340.2761073,
     "fills": 1
+  },
+  {
+    "timestamp": 1787812184,
+    "timestamp_added": 1787812184.947664,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "cs2-nemi1-blackp-2026-08-27",
+    "title": "Counter-Strike: Nemiga vs Black Phoenix (BO3) - CCT Europe Series #7 Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 1396.1499949999998,
+    "whale_pct": 3.187,
+    "whale_value_at_open": 43805.8359,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787812216.9119618,
+    "fills": 2
   }
 ]
