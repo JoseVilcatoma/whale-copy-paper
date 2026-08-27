@@ -64397,8 +64397,8 @@
     "title": "Spread: Milwaukee Brewers (-1.5)",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 510.0,
-    "whale_pct": 1.272,
+    "whale_usd": 1362.21,
+    "whale_pct": 3.398,
     "whale_value_at_open": 40093.0273,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -64409,7 +64409,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787871911.5611694,
-    "fills": 1
+    "last_fill_at": 1787872189.8874323,
+    "fills": 2
   }
 ]
