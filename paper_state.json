@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.50336057811165,
+  "bankroll": 466.5559215537214,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12635,6 +12635,11 @@
       "timestamp": 1787857037.3105655,
       "bankroll": 465.5,
       "event": "won: RN1 \u2014 Will Kuopion PS win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787857169.0150318,
+      "bankroll": 466.56,
+      "event": "won: RN1 \u2014 Kuopion PS vs. Shamrock Rovers FC: O/U 3.5"
     }
   ]
 }

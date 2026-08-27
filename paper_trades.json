@@ -63281,8 +63281,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -64055,8 +64055,8 @@
     "title": "Spread: FC Barcelona (-1.5)",
     "outcome": "FC Barcelona",
     "side": "BUY",
-    "whale_usd": 4195.4468289999995,
-    "whale_pct": 2.478,
+    "whale_usd": 11237.096828999998,
+    "whale_pct": 6.636,
     "whale_value_at_open": 169327.2934,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -64067,8 +64067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787856669.065903,
-    "fills": 1
+    "last_fill_at": 1787857139.9521415,
+    "fills": 2
   },
   {
     "timestamp": 1787856684,
