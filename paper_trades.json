@@ -61717,8 +61717,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 35045.161953,
-    "whale_pct": 362.628,
+    "whale_usd": 44870.335286,
+    "whale_pct": 464.293,
     "whale_value_at_open": 9664.2187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -61731,8 +61731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787830195.3757775,
-    "fills": 14
+    "last_fill_at": 1787830480.4425714,
+    "fills": 15
   },
   {
     "timestamp": 1787823434,
@@ -62301,8 +62301,8 @@
     "title": "Augsburg: Daniel Masur vs Facundo Mena",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 4111.722094,
-    "whale_pct": 8.706,
+    "whale_usd": 5760.906094,
+    "whale_pct": 12.198,
     "whale_value_at_open": 47227.0087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -62315,8 +62315,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787830270.432678,
-    "fills": 3
+    "last_fill_at": 1787830385.1154838,
+    "fills": 4
   },
   {
     "timestamp": 1787828117,
