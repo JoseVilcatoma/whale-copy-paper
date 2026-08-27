@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 11:09:35 (hora de Perú)
+Actualizado: 2026-08-27 11:11:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 11:09:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $114.24)
+**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $109.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 19 | 9 | 1 | +22.46 USD |
 | TAIWANNUMBERONE | 9 | 5 | 1 | +21.06 USD |
-| ChonkyChocolateCake | 36 | 21 | 0 | +19.87 USD |
+| ChonkyChocolateCake | 36 | 21 | 1 | +19.87 USD |
 | texaskid | 4 | 1 | 1 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -533,6 +533,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: BIG vs G2 NORD - Game 2 Winner | G2 NORD (BUY) | 51% | 5.00 | 23.7% | ⏳ pendiente | — |
 | RN1 | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 79% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Spread: AFC Ajax (-1.5) | FC Sion (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Toby Samuel  | Cristian Garin (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -562,4 +563,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Donghui | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 49% | 5.00 | 59.8% | ⏳ pendiente | — |
 | plonker2026 | Will FC Twente win on 2026-08-27? | Yes (BUY) | 47% | 5.00 | 212.9% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Julia Stusek (BUY) | 91% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Selena Janicijevic (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
