@@ -63020,5 +63020,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787841103.2583826,
     "fills": 6
+  },
+  {
+    "timestamp": 1787841416,
+    "timestamp_added": 1787841417.7973044,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-scheppe-seghett-2026-08-27",
+    "title": "ITF MEN - SINGLES: M15 Cap d'Agde (France), clay: Kenny De Schepper vs Samuele Seghetti",
+    "outcome": "Samuele Seghetti",
+    "side": "BUY",
+    "whale_usd": 1658.3333320000002,
+    "whale_pct": 1.04,
+    "whale_value_at_open": 159480.4442,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787841425.8265707,
+    "fills": 3
   }
 ]
