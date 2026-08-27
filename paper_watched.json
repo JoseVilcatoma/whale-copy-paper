@@ -2,61 +2,61 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787523231.3889632,
-    "roi_pct": 543.07,
-    "short_term_pct": 90.0
-  },
-  "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
-    "username": "TAIWANNUMBERONE",
-    "added_at": 1787833315.6064136,
-    "roi_pct": 423.86,
+    "roi_pct": 601.15,
     "short_term_pct": 90.0
   },
   "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
     "username": "texaskid",
     "added_at": 1787863220.5287902,
-    "roi_pct": 520.34,
+    "roi_pct": 450.67,
     "short_term_pct": 100.0
   },
   "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
     "username": "Sassy-Bucket",
     "added_at": 1787865120.1539018,
-    "roi_pct": 569.06,
+    "roi_pct": 789.67,
     "short_term_pct": 100.0
   },
   "0x9db82de5a71ae539bc82f4d9ac3a007c7d742eff": {
     "username": "sulumos",
     "added_at": 1787868929.731332,
-    "roi_pct": 2112.06,
+    "roi_pct": 2112.63,
     "short_term_pct": 100.0
   },
   "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9": {
     "username": "plonker2026",
     "added_at": 1787869882.8071644,
-    "roi_pct": 533.67,
+    "roi_pct": 534.15,
     "short_term_pct": 100.0
   },
   "0xdb859a551fcf56e49416160911476bea7307152f": {
     "username": "AV23IUa",
     "added_at": 1787871785.116267,
-    "roi_pct": 342.15,
+    "roi_pct": 284.02,
     "short_term_pct": 100.0
   },
   "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
     "username": "OOOwhyOOO",
     "added_at": 1787872734.9749074,
-    "roi_pct": 2565.69,
+    "roi_pct": 3112.56,
     "short_term_pct": 100.0
   },
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787872734.9749217,
-    "roi_pct": 1482.37,
+    "roi_pct": 1156.79,
     "short_term_pct": 100.0
   },
   "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
     "username": "RN1",
     "added_at": 1787872734.9749346,
-    "roi_pct": 263.55,
+    "roi_pct": 228.38,
+    "short_term_pct": 100.0
+  },
+  "0xee00ba338c59557141789b127927a55f5cc5cea1": {
+    "username": "S-Works",
+    "added_at": 1787873685.9047534,
+    "roi_pct": 248.57,
     "short_term_pct": 100.0
   }
 }
