@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 19:30:17 (hora de Perú)
+Actualizado: 2026-08-26 19:32:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.79
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 19:30:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $68.79)
+**Capital comprometido ahora mismo:** $425.00 en 85 posiciones abiertas (disponible para nuevas apuestas: $53.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 1 | +0.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 4 | +0.00 USD |
 | kekasaur | 3 | 3 | 3 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -517,6 +517,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 44% | 5.00 | 1.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Inner Circle | Vitality (BUY) | 89% | 5.00 | 1.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 67% | 5.00 | 7.4% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -544,6 +547,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Kansas City Royals (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Federico Cin | Federico Cina (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Santos FC: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
-| kekasaur | SE Palmeiras vs. Santos FC: O/U 2.5 | Under (BUY) | 56% | 5.00 | 20.1% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: NS (-1.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 61% | 5.00 | 5.8% | ⏳ pendiente | — |
-| RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Oksana Selekhmeteva (BUY) | 47% | 5.00 | 2.9% | ⏳ pendiente | — |
