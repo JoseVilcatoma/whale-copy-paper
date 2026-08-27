@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 07:02:02 (hora de Perú)
+Actualizado: 2026-08-27 07:04:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $442.95
@@ -528,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 53% | 5.00 | 2.3% | ⏳ pendiente | — |
-| Donghui | Counter-Strike: MOUZ vs 9z - Map 1 Winne | MOUZ (BUY) | 57% | 5.00 | 4.1% | ⏳ pendiente | — |
+| Donghui | Counter-Strike: MOUZ vs 9z - Map 1 Winne | MOUZ (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC St. Gallen vs. FC Nordsjælland: O/U 2 | Over (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 41% | 5.00 | 19.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-1.5) | SK Iberia 1999 (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |

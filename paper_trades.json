@@ -62836,8 +62836,8 @@
     "title": "Counter-Strike: MOUZ vs 9z - Map 1 Winner",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 1039.8416,
-    "whale_pct": 4.112,
+    "whale_usd": 1616.9272,
+    "whale_pct": 6.394,
     "whale_value_at_open": 25289.521,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -62848,8 +62848,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787832063.5624855,
-    "fills": 1
+    "last_fill_at": 1787832169.6303775,
+    "fills": 2
   },
   {
     "timestamp": 1787832092,
