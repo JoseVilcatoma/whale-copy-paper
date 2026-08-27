@@ -63995,5 +63995,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787853820.9491835,
     "fills": 1
+  },
+  {
+    "timestamp": 1787854999,
+    "timestamp_added": 1787855000.8984323,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-kcb-sc-2026-08-27-game3",
+    "title": "LoL: Karmine Corp Blue vs Skillcamp Esport - Game 3 Winner",
+    "outcome": "Skillcamp Esport",
+    "side": "BUY",
+    "whale_usd": 2312.2000000000003,
+    "whale_pct": 6.482,
+    "whale_value_at_open": 35673.3937,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787855001.97989,
+    "fills": 4
   }
 ]
