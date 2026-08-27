@@ -59546,8 +59546,8 @@
     "title": "Houston Astros vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 5517.3,
-    "whale_pct": 1.982,
+    "whale_usd": 7056.3336,
+    "whale_pct": 2.535,
     "whale_value_at_open": 278321.6898,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -59558,8 +59558,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787789614.555905,
-    "fills": 4
+    "last_fill_at": 1787790069.5262198,
+    "fills": 5
   },
   {
     "timestamp": 1787786623,
@@ -60141,8 +60141,8 @@
     "title": "US Open, Qualification WTA: Kristina Liutova vs Lola Radivojevic",
     "outcome": "Kristina Liutova",
     "side": "BUY",
-    "whale_usd": 3076.201018,
-    "whale_pct": 0.975,
+    "whale_usd": 3882.218037,
+    "whale_pct": 1.23,
     "whale_value_at_open": 315532.7281,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -60155,8 +60155,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787788382.346594,
-    "fills": 2
+    "last_fill_at": 1787790041.1574175,
+    "fills": 3
   },
   {
     "timestamp": 1787788463,
@@ -60239,8 +60239,8 @@
     "title": "Toronto Tempo vs. Seattle Storm: O/U 174.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1565.645,
-    "whale_pct": 1.163,
+    "whale_usd": 2190.645,
+    "whale_pct": 1.627,
     "whale_value_at_open": 134668.037,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -60254,8 +60254,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787788952.4047964,
-    "fills": 1
+    "last_fill_at": 1787790051.1708663,
+    "fills": 2
   },
   {
     "timestamp": 1787789201,
