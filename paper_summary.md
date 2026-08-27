@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:23:36 (hora de Perú)
+Actualizado: 2026-08-27 04:25:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -535,7 +535,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 44% | 5.00 | 81.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 56% | 5.00 | 1849.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 10.2% | ⏳ pendiente | — |
+| RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 12.7% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Tokyo Yakult Swallows vs. Yomiuri Giants | Tokyo Yakult Swallows (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BIG vs G2 NORD (BO5) - Prime League | BIG (BUY) | 45% | 5.00 | 15.1% | ⏳ pendiente | — |
