@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:12:04 (hora de Perú)
+Actualizado: 2026-08-27 06:14:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $452.49
-**Retorno acumulado:** -9.50%
+**Bankroll actual:** $447.45
+**Retorno acumulado:** -10.51%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 06:12:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $72.49)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $72.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,9 +30,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 19 | 8 | 1 | +27.60 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 35 | 20 | 2 | +18.49 USD |
-| TAIWANNUMBERONE | 7 | 4 | 4 | +16.61 USD |
 | texaskid | 4 | 1 | 0 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| TAIWANNUMBERONE | 7 | 5 | 3 | +11.48 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 4 | 3 | 0 | +8.46 USD |
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 13 | 8 | 9 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
-| RN1 | 340 | 156 | 20 | -22.32 USD |
+| RN1 | 341 | 156 | 20 | -22.22 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2353
-- **Aciertos:** 1512 (64.3%)
+- **Apuestas resueltas:** 2355
+- **Aciertos:** 1513 (64.2%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,752.59
-- **ROI sobre lo apostado:** -1.13%
-- **Comisiones pagadas (taker fee):** $212.87 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.68% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,762.59
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $213.01 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.64% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,10 +108,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1159 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 1160 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 697 | 69.9% | 67.7% | +2.2 pp |
 | 80-94% | 338 | 87.6% | 86.8% | +0.8 pp |
-| 95-99% (casi seguro) | 159 | 95.6% | 97.4% | -1.8 pp |
+| 95-99% (casi seguro) | 160 | 95.6% | 97.4% | -1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -526,6 +526,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Dimitar Kuzmanov (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | KBO: Hanwha Eagles vs. SSG Landers | Hanwha Eagles (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | KBO: Hanwha Eagles vs. SSG Landers | SSG Landers (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -551,8 +552,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 4.5 | Under (BUY) | 72% | 5.00 | 4.9% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FK Crvena zvezda (-2.5) | FC Viktoria Plzeň (BUY) | 97% | 5.00 | 3.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Gen.G Esports (BUY) | 43% | 5.00 | 103.3% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Andrey Chepelev (BUY) | 98% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Andrey Chepelev (BUY) | 98% | 5.00 | 1.0% | ✅ ganada | +0.10 |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Bianca Elena Barbulescu (BUY) | 85% | 5.00 | 1.3% | ✅ ganada | +0.84 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 50% | 5.00 | 49.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 51% | 5.00 | 68.4% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Thiago Cigarran (BUY) | 89% | 5.00 | 3.1% | ⏳ pendiente | — |

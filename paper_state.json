@@ -1,5 +1,5 @@
 {
-  "bankroll": 452.4897121742822,
+  "bankroll": 447.4517529906087,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12235,6 +12235,16 @@
       "timestamp": 1787828167.9781897,
       "bankroll": 452.49,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Ioana Maria Sandru vs Bianca Elena Barbulescu"
+    },
+    {
+      "timestamp": 1787829173.859677,
+      "bankroll": 447.35,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787829180.2484956,
+      "bankroll": 447.45,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Tymur Bieldiugin"
     }
   ]
 }
