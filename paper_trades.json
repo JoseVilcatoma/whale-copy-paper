@@ -64205,5 +64205,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787863504.2736158,
     "fills": 1
+  },
+  {
+    "timestamp": 1787864239,
+    "timestamp_added": 1787864240.153143,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "val-loud-fur-2026-08-27",
+    "title": "Valorant: LOUD vs FURIA Esports (BO3) - VCT Americas Stage 2 Playoffs",
+    "outcome": "LOUD",
+    "side": "BUY",
+    "whale_usd": 6765.957445999999,
+    "whale_pct": 161.346,
+    "whale_value_at_open": 4193.4399,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787864240.153158,
+    "fills": 1
   }
 ]

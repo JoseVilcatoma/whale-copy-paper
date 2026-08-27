@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 15:55:53 (hora de Perú)
+Actualizado: 2026-08-27 15:57:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.60
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 15:55:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $306.60)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $301.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BOOMBOYS.Kiritych | 33 | 16 | 1 | +55.63 USD |
+| BOOMBOYS.Kiritych | 33 | 16 | 2 | +55.63 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | SDTrading | 32 | 20 | 1 | +44.18 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -536,6 +536,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 161.3% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 271.3% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |
@@ -565,4 +566,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ❌ perdida | -5.09 |
 | casualbet2020 | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 71% | 5.00 | 37.6% | ✅ ganada | +1.97 |
 | RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ✅ ganada | +5.73 |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ❌ perdida | -5.03 |
