@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.35704641913463,
+  "bankroll": 466.8933111123993,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12495,6 +12495,16 @@
       "timestamp": 1787844904.942762,
       "bankroll": 462.36,
       "event": "won: SPCEXBUYER \u2014 Map Handicap: MOUZ (-1.5) vs 9z (+1.5)"
+    },
+    {
+      "timestamp": 1787845838.0510888,
+      "bankroll": 465.2,
+      "event": "won: RN1 \u2014 KBO: Doosan Bears vs. KT Wiz"
+    },
+    {
+      "timestamp": 1787845843.1654694,
+      "bankroll": 466.89,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Noah Karma vs Alessandro Hunziker"
     }
   ]
 }

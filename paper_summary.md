@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 10:48:38 (hora de Perú)
+Actualizado: 2026-08-27 10:50:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $462.36
-**Retorno acumulado:** -7.53%
+**Bankroll actual:** $466.89
+**Retorno acumulado:** -6.62%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 10:48:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $102.36)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $111.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,22 +85,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 1 | 5 | 3 | -21.99 USD |
+| RN1 | 358 | 165 | 24 | -30.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 356 | 165 | 25 | -34.64 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2405
-- **Aciertos:** 1545 (64.2%)
+- **Apuestas resueltas:** 2407
+- **Aciertos:** 1547 (64.3%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,012.59
-- **ROI sobre lo apostado:** -1.02%
-- **Comisiones pagadas (taker fee):** $217.91 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,022.59
+- **ROI sobre lo apostado:** -0.98%
+- **Comisiones pagadas (taker fee):** $218.07 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,7 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1188 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 711 | 70.0% | 67.7% | +2.4 pp |
+| 60-79% | 713 | 70.1% | 67.7% | +2.5 pp |
 | 80-94% | 344 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
@@ -532,6 +532,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will Panathinaikós AO win on 2026-08-27? | Yes (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 12.3% | ⏳ pendiente | — |
 | RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -561,4 +562,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Will Kuopion PS win on 2026-08-27? | No (BUY) | 53% | 5.00 | 97.0% | ⏳ pendiente | — |
 | RN1 | Will Modern SC win on 2026-08-27? | No (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Raiders (-2.5) | 49ers (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Andrea De Marchi (BUY) | 76% | 5.00 | 1.6% | ✅ ganada | +1.52 |
