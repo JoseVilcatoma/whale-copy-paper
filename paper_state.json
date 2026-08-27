@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.82404558719173,
+  "bankroll": 444.83408640351826,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12255,6 +12255,16 @@
       "timestamp": 1787829488.1393723,
       "bankroll": 449.82,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: STATE vs GenOne (BO3) - CCT Europe Series #7 Playoffs"
+    },
+    {
+      "timestamp": 1787829737.8443305,
+      "bankroll": 444.74,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Jenny Lim vs Valentini Grammatikopoulou"
+    },
+    {
+      "timestamp": 1787829739.819193,
+      "bankroll": 444.83,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Jenny Lim vs Valentini Grammatikopoulou"
     }
   ]
 }
