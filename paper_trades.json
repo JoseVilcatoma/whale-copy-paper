@@ -63126,8 +63126,8 @@
     "title": "US Open, Qualification ATP: Daniel Rincon vs Tomas Barrios",
     "outcome": "Daniel Rincon",
     "side": "BUY",
-    "whale_usd": 3098.062522,
-    "whale_pct": 10.242,
+    "whale_usd": 18098.062522,
+    "whale_pct": 59.828,
     "whale_value_at_open": 30249.935,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -63138,8 +63138,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787842800.03207,
-    "fills": 4
+    "last_fill_at": 1787843515.8753252,
+    "fills": 5
   },
   {
     "timestamp": 1787842290,
@@ -63263,6 +63263,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787843449.390145,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787843508,
+    "timestamp_added": 1787843508.8078568,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-kps-shr-2026-08-27-total-3pt5",
+    "title": "Kuopion PS vs. Shamrock Rovers FC: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 531.4399999999999,
+    "whale_pct": 0.272,
+    "whale_value_at_open": 195340.288,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787843508.8078701,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787843514,
+    "timestamp_added": 1787843515.1531532,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-rincon-barrios-2026-08-27",
+    "title": "US Open, Qualification ATP: Daniel Rincon vs Tomas Barrios",
+    "outcome": "Tomas Barrios",
+    "side": "BUY",
+    "whale_usd": 2448.5,
+    "whale_pct": 1.253,
+    "whale_value_at_open": 195340.288,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Donghui"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787843515.1531665,
     "fills": 1
   }
 ]
