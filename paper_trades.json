@@ -62301,8 +62301,8 @@
     "title": "Augsburg: Daniel Masur vs Facundo Mena",
     "outcome": "Facundo Mena",
     "side": "BUY",
-    "whale_usd": 1541.687094,
-    "whale_pct": 3.264,
+    "whale_usd": 4111.722094,
+    "whale_pct": 8.706,
     "whale_value_at_open": 47227.0087,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -62315,8 +62315,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787829634.4664981,
-    "fills": 2
+    "last_fill_at": 1787830270.432678,
+    "fills": 3
   },
   {
     "timestamp": 1787828117,
