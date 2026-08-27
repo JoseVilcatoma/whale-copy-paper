@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:37:46 (hora de Perú)
+Actualizado: 2026-08-27 18:39:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.48
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 18:37:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $365.48)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $360.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 8 | 8 | 0 | -13.74 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 374 | 175 | 7 | -32.06 USD |
+| RN1 | 374 | 175 | 8 | -32.06 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 31 | 1 | -83.82 USD |
@@ -534,11 +534,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | uel-rbs-ma-2026-08-27-spread-home-1pt5 | RN1, plonker2026 |
 | mlb-lad-atl-2026-08-27-total-6pt5 | RN1, SDTrading |
 | mlb-lad-atl-2026-08-27 | Djdjdjekekek, Sassy-Bucket, TAIWANNUMBERONE, Talvez10, casualbet2020 |
+| atp-cerund-buse-2026-08-27 | OOOwhyOOO, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 73% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 51% | 5.00 | 18.9% | ⏳ pendiente | — |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 54% | 5.00 | 40.7% | 💰 vendida anticipada | -0.51 |
@@ -568,4 +570,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 50% | 5.00 | 30.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 3 Winner | G2 NORD (BUY) | 68% | 5.00 | 22.6% | ✅ ganada | +2.27 |
 | texaskid | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 57% | 5.00 | 285.7% | ✅ ganada | +3.66 |
-| AV23IUa | Map Handicap: FAL (-1.5) vs Lynn Vision  | Team Falcons (BUY) | 67% | 5.00 | 38.1% | ❌ perdida | -5.08 |
