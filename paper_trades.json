@@ -64445,8 +64445,8 @@
     "title": "Monterrey Open: Darja Vidmanova vs Nikola Bartunkova",
     "outcome": "Nikola Bartunkova",
     "side": "BUY",
-    "whale_usd": 3411.738529,
-    "whale_pct": 2.559,
+    "whale_usd": 9778.238529,
+    "whale_pct": 7.335,
     "whale_value_at_open": 133317.0999,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -64457,8 +64457,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787873516.8067482,
-    "fills": 2
+    "last_fill_at": 1787874385.5293324,
+    "fills": 3
   },
   {
     "timestamp": 1787873028,
