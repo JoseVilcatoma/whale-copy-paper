@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.64629791601214,
+  "bankroll": 474.24562393482097,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11810,6 +11810,21 @@
       "timestamp": 1787791669.4717615,
       "bankroll": 469.65,
       "event": "lost: HomeRunHazard \u2014 Baltimore Orioles vs. St. Louis Cardinals: O/U 7.5"
+    },
+    {
+      "timestamp": 1787792316.2114425,
+      "bankroll": 473.16,
+      "event": "won: SDTrading \u2014 Milwaukee Brewers vs. New York Mets: O/U 7.5"
+    },
+    {
+      "timestamp": 1787792316.311545,
+      "bankroll": 468.02,
+      "event": "lost: HomeRunHazard \u2014 Milwaukee Brewers vs. New York Mets: O/U 7.5"
+    },
+    {
+      "timestamp": 1787792330.9321108,
+      "bankroll": 474.25,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Yeon-Woo Ku vs Storm Hunter"
     }
   ]
 }

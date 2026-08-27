@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 19:57:19 (hora de Perú)
+Actualizado: 2026-08-26 19:59:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.65
-**Retorno acumulado:** -6.07%
+**Bankroll actual:** $474.25
+**Retorno acumulado:** -5.15%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 19:57:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $54.65)
+**Capital comprometido ahora mismo:** $400.00 en 80 posiciones abiertas (disponible para nuevas apuestas: $74.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,9 +22,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| HomeRunHazard | 356 | 171 | 18 | +47.87 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
-| SDTrading | 30 | 20 | 2 | +37.00 USD |
+| HomeRunHazard | 356 | 172 | 17 | +42.73 USD |
+| SDTrading | 31 | 20 | 1 | +40.52 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 4 | 1 | -20.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 314 | 144 | 33 | -40.98 USD |
+| RN1 | 315 | 144 | 32 | -34.76 USD |
 | Sassy-Bucket | 15 | 27 | 3 | -68.37 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 48 | 1 | -106.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2269
-- **Aciertos:** 1463 (64.5%)
-- **Cuota promedio de entrada:** 64.0%
+- **Apuestas resueltas:** 2272
+- **Aciertos:** 1465 (64.5%)
+- **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,332.59
-- **ROI sobre lo apostado:** -1.02%
-- **Comisiones pagadas (taker fee):** $204.27 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,347.59
+- **ROI sobre lo apostado:** -0.98%
+- **Comisiones pagadas (taker fee):** $204.66 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1104 | 49.9% | 50.2% | -0.3 pp |
+| 40-59% | 1107 | 50.0% | 50.2% | -0.2 pp |
 | 60-79% | 682 | 69.9% | 67.7% | +2.3 pp |
 | 80-94% | 327 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 156 | 95.5% | 97.4% | -1.9 pp |
@@ -542,7 +542,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: New York Yankees (-2.5) | Houston Astros (BUY) | 53% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ✅ ganada | +6.22 |
 | RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 52% | 5.00 | 5.2% | ⏳ pendiente | — |
 | kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 82.6% | ⏳ pendiente | — |
