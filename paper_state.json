@@ -1,5 +1,5 @@
 {
-  "bankroll": 455.7089860024078,
+  "bankroll": 444.5561226483705,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12105,6 +12105,46 @@
       "timestamp": 1787806161.8287802,
       "bankroll": 455.71,
       "event": "lost: Sassy-Bucket \u2014 Toronto Tempo vs. Seattle Storm: O/U 175.5"
+    },
+    {
+      "timestamp": 1787806353.264502,
+      "bankroll": 459.53,
+      "event": "won: HomeRunHazard \u2014 Spread: Seattle Storm (-5.5)"
+    },
+    {
+      "timestamp": 1787806353.6820376,
+      "bankroll": 454.41,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Toronto Tempo vs. Seattle Storm: O/U 174.5"
+    },
+    {
+      "timestamp": 1787806353.7822096,
+      "bankroll": 449.29,
+      "event": "lost: HomeRunHazard \u2014 Toronto Tempo vs. Seattle Storm: O/U 174.5"
+    },
+    {
+      "timestamp": 1787806354.1903675,
+      "bankroll": 444.18,
+      "event": "lost:  \u2014 SE Palmeiras vs. Santos FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787806354.2905874,
+      "bankroll": 449.05,
+      "event": "won: HomeRunHazard \u2014 Toronto Tempo vs. Seattle Storm: O/U 174.5"
+    },
+    {
+      "timestamp": 1787806356.0194762,
+      "bankroll": 443.94,
+      "event": "lost: kekasaur \u2014 SE Palmeiras vs. Santos FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787806356.119631,
+      "bankroll": 449.68,
+      "event": "won: RN1 \u2014 SE Palmeiras vs. Santos FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787806357.138074,
+      "bankroll": 444.56,
+      "event": "lost: Sassy-Bucket \u2014 Toronto Tempo vs. Seattle Storm: O/U 174.5"
     }
   ]
 }
