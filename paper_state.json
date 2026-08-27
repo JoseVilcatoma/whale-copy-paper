@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.8305440706574,
+  "bankroll": 436.7835440706574,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12350,6 +12350,11 @@
       "timestamp": 1787833112.0338616,
       "bankroll": 441.83,
       "event": "won: HomeRunHazard \u2014 Augsburg: Daniel Masur vs Facundo Mena"
+    },
+    {
+      "timestamp": 1787833171.4268901,
+      "bankroll": 436.78,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Poznan (Poland), clay: Nikita Mashtakov vs Kirill Kivattsev"
     }
   ]
 }
