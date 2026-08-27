@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.110623934821,
+  "bankroll": 469.06970556747405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11830,6 +11830,16 @@
       "timestamp": 1787793588.518727,
       "bankroll": 469.11,
       "event": "lost: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787793907.7712593,
+      "bankroll": 463.99,
+      "event": "lost: HomeRunHazard \u2014 Milwaukee Brewers vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1787793907.87147,
+      "bankroll": 469.07,
+      "event": "won: Sassy-Bucket \u2014 Milwaukee Brewers vs. New York Mets: O/U 8.5"
     }
   ]
 }
