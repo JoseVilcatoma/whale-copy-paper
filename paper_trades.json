@@ -61549,8 +61549,8 @@
     "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Federica Urgesi vs Justina Mikulskyte",
     "outcome": "Federica Urgesi",
     "side": "BUY",
-    "whale_usd": 2645.614034,
-    "whale_pct": 7.264,
+    "whale_usd": 3215.058478,
+    "whale_pct": 8.828,
     "whale_value_at_open": 36418.7365,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -61561,8 +61561,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787821705.4589083,
-    "fills": 2
+    "last_fill_at": 1787823204.0493631,
+    "fills": 3
   },
   {
     "timestamp": 1787821703,
@@ -61597,8 +61597,8 @@
     "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Noelia Manta vs Angella Okutoyi",
     "outcome": "Angella Okutoyi",
     "side": "BUY",
-    "whale_usd": 3826.3199999999997,
-    "whale_pct": 9.178,
+    "whale_usd": 7634.759999999998,
+    "whale_pct": 18.312,
     "whale_value_at_open": 41691.925,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -61609,8 +61609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787822846.9368577,
-    "fills": 3
+    "last_fill_at": 1787823141.8090847,
+    "fills": 6
   },
   {
     "timestamp": 1787821881,
@@ -61682,6 +61682,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787822066.868486,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787823172,
+    "timestamp_added": 1787823172.6658244,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "uel-plz-crv-2026-08-27-spread-home-1pt5",
+    "title": "Spread: FC Viktoria Plze\u0148 (-1.5)",
+    "outcome": "FK Crvena zvezda",
+    "side": "BUY",
+    "whale_usd": 606.9987,
+    "whale_pct": 1.916,
+    "whale_value_at_open": 31675.3616,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787823172.6658375,
     "fills": 1
   }
 ]
