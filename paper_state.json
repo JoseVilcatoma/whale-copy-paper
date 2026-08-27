@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.83408640351826,
+  "bankroll": 439.57518719927424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12265,6 +12265,31 @@
       "timestamp": 1787829739.819193,
       "bankroll": 444.83,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Jenny Lim vs Valentini Grammatikopoulou"
+    },
+    {
+      "timestamp": 1787830046.0692832,
+      "bankroll": 446.44,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Noelia Manta vs Angella Okutoyi"
+    },
+    {
+      "timestamp": 1787830046.3746703,
+      "bankroll": 447.15,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Anas Mazdrashki vs Rares Teodor Pieleanu"
+    },
+    {
+      "timestamp": 1787830113.2356653,
+      "bankroll": 442.11,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Federica Urgesi vs Justina Mikulskyte"
+    },
+    {
+      "timestamp": 1787830114.385487,
+      "bankroll": 436.97,
+      "event": "lost: casualbet2020 \u2014 Valorant: Gen.G Esports vs Nongshim RedForce (BO3) - VCT Pacific Playoffs"
+    },
+    {
+      "timestamp": 1787830115.0864923,
+      "bankroll": 439.58,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Federica Urgesi vs Justina Mikulskyte"
     }
   ]
 }

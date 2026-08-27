@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:26:34 (hora de Perú)
+Actualizado: 2026-08-27 06:28:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $444.83
-**Retorno acumulado:** -11.03%
+**Bankroll actual:** $439.58
+**Retorno acumulado:** -12.08%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 06:26:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $74.83)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $89.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,8 +27,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 366 | 180 | 12 | +35.68 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| casualbet2020 | 19 | 8 | 1 | +27.60 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| casualbet2020 | 19 | 9 | 0 | +22.46 USD |
 | ChonkyChocolateCake | 35 | 20 | 2 | +18.49 USD |
 | texaskid | 4 | 1 | 0 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -84,8 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 13 | 8 | 11 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
-| Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 343 | 157 | 18 | -26.62 USD |
+| Donghui | 0 | 5 | 2 | -25.65 USD |
+| RN1 | 346 | 158 | 14 | -26.74 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2359
-- **Aciertos:** 1516 (64.3%)
+- **Apuestas resueltas:** 2364
+- **Aciertos:** 1519 (64.3%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,782.59
-- **ROI sobre lo apostado:** -1.19%
-- **Comisiones pagadas (taker fee):** $213.20 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,807.59
+- **ROI sobre lo apostado:** -1.23%
+- **Comisiones pagadas (taker fee):** $213.56 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1160 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 699 | 69.8% | 67.7% | +2.1 pp |
-| 80-94% | 339 | 87.6% | 86.8% | +0.8 pp |
+| 40-59% | 1161 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 701 | 69.9% | 67.7% | +2.2 pp |
+| 80-94% | 341 | 87.4% | 86.8% | +0.6 pp |
 | 95-99% (casi seguro) | 161 | 95.7% | 97.4% | -1.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -514,7 +514,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-liutova-radivoj-2026-08-26 | HomeRunHazard, RN1 |
 | sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
-| cs2-mouz-9z-2026-08-27 | 0x29b52d98ac9ef9414b04164246c95BC63d7, SPCEXBUYER |
+| cs2-mouz-9z-2026-08-27 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Donghui, SPCEXBUYER |
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
 | lol-ns-fox1-2026-08-27-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER |
@@ -526,6 +526,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Donghui | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 66% | 5.00 | 49340.9% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Adrien Burdet (BUY) | 95% | 5.00 | 0.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Thun (-2.5) | KKS Lech Poznań (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Thun (-1.5) | KKS Lech Poznań (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -547,12 +548,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Kirill Kivattsev (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 3.1% | ✅ ganada | +0.10 |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Justina Mikulskyte (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Justina Mikulskyte (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
 | RN1 | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 56% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Roehampton 2: Inaki Montes vs George Lof | Inaki Montes (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 5.5 | Under (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 1.5 | Over (BUY) | 90% | 5.00 | 4.9% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 4.5 | Under (BUY) | 72% | 5.00 | 4.9% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FK Crvena zvezda (-2.5) | FC Viktoria Plzeň (BUY) | 97% | 5.00 | 3.3% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Gen.G Esports (BUY) | 43% | 5.00 | 103.3% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Andrey Chepelev (BUY) | 98% | 5.00 | 1.0% | ✅ ganada | +0.10 |
+| casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Gen.G Esports (BUY) | 43% | 5.00 | 103.3% | ❌ perdida | -5.14 |
