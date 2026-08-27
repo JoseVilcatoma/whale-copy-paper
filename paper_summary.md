@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:09:05 (hora de Perú)
+Actualizado: 2026-08-27 05:11:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -532,7 +532,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Gen.G Esports (BUY) | 43% | 5.00 | 103.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Andrey Chepelev (BUY) | 98% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Bianca Elena Barbulescu (BUY) | 85% | 5.00 | 1.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 50% | 5.00 | 47.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 50% | 5.00 | 49.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 51% | 5.00 | 68.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Thiago Cigarran (BUY) | 89% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Lea Boskovic (BUY) | 72% | 5.00 | 7.9% | ⏳ pendiente | — |

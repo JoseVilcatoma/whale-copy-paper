@@ -61815,8 +61815,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 3 Winner",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 18519.746,
-    "whale_pct": 47.139,
+    "whale_usd": 19314.546,
+    "whale_pct": 49.162,
     "whale_value_at_open": 39287.862,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -61829,8 +61829,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787824317.8671455,
-    "fills": 9
+    "last_fill_at": 1787825399.6439161,
+    "fills": 10
   },
   {
     "timestamp": 1787824387,
