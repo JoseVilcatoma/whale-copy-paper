@@ -64067,5 +64067,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787856669.065903,
     "fills": 1
+  },
+  {
+    "timestamp": 1787856684,
+    "timestamp_added": 1787856685.5535638,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-big1-g2nord-2026-08-27",
+    "title": "LoL: BIG vs G2 NORD (BO5) - Prime League 1st Division Playoffs",
+    "outcome": "G2 NORD",
+    "side": "BUY",
+    "whale_usd": 4965.4418749999995,
+    "whale_pct": 14.199,
+    "whale_value_at_open": 34970.1353,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787856793.6567452,
+    "fills": 3
   }
 ]

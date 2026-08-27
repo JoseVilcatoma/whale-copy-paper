@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 13:51:12 (hora de Perú)
+Actualizado: 2026-08-27 13:53:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $461.63
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 13:51:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $126.63)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $121.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 20 | 9 | 0 | +24.43 USD |
 | TAIWANNUMBERONE | 9 | 5 | 1 | +21.06 USD |
-| ChonkyChocolateCake | 36 | 21 | 3 | +19.87 USD |
+| ChonkyChocolateCake | 36 | 21 | 4 | +19.87 USD |
 | texaskid | 4 | 1 | 2 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -517,6 +517,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-mouz-9z-2026-08-27 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Donghui, SPCEXBUYER |
 | cs2-mouz-9z-2026-08-27-map-handicap-away-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, SPCEXBUYER |
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
+| lol-big1-g2nord-2026-08-27 | DoNotTailMe, TAIWANNUMBERONE |
 | atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
 | lol-ns-fox1-2026-08-27-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER |
 | lol-ns-fox1-2026-08-27-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
@@ -534,6 +535,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 14.2% | ⏳ pendiente | — |
 | AV23IUa | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Karmine Corp Blue vs Skillcamp Espo | Skillcamp Esport (BUY) | 56% | 5.00 | 15.8% | ⏳ pendiente | — |
@@ -563,4 +565,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: AS Monaco FC (-1.5) | Górnik Zabrze (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Cezar Cretu (BUY) | 47% | 5.00 | 0.4% | ✅ ganada | +5.51 |
