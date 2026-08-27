@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 11:51:31 (hora de Perú)
+Actualizado: 2026-08-27 11:53:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $470.96
-**Retorno acumulado:** -5.81%
+**Bankroll actual:** $471.56
+**Retorno acumulado:** -5.69%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 11:51:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $115.96)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $136.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,9 +75,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| ExplosiveNinja | 1 | 2 | 2 | -7.11 USD |
 | wr0ngw4yb3tt0r | 1 | 3 | 0 | -9.12 USD |
 | Djdjdjekekek | 22 | 20 | 0 | -9.97 USD |
-| ExplosiveNinja | 0 | 2 | 3 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 359 | 167 | 25 | -33.51 USD |
+| RN1 | 361 | 168 | 22 | -36.01 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2413
-- **Aciertos:** 1551 (64.3%)
+- **Apuestas resueltas:** 2417
+- **Aciertos:** 1554 (64.3%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,052.59
-- **ROI sobre lo apostado:** -0.95%
-- **Comisiones pagadas (taker fee):** $218.63 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,072.59
+- **ROI sobre lo apostado:** -0.94%
+- **Comisiones pagadas (taker fee):** $218.97 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.88% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1190 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 716 | 70.3% | 67.7% | +2.6 pp |
-| 80-94% | 345 | 86.7% | 86.8% | -0.1 pp |
+| 40-59% | 1191 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 718 | 70.3% | 67.7% | +2.7 pp |
+| 80-94% | 346 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -554,12 +554,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: AS Monaco FC (-1.5) | Górnik Zabrze (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Cezar Cretu (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Elena Milovanovic (BUY) | 69% | 5.00 | 4.7% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Elena Milovanovic (BUY) | 69% | 5.00 | 4.7% | ✅ ganada | +2.17 |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Tomas Barrios (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: O/U 3 | Under (BUY) | 82% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Kuopion PS win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Vilius Gauba | Harry Wendelken (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Haruka Kaji (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Haruka Kaji (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Marlon Vankan (BUY) | 46% | 5.00 | 0.4% | ❌ perdida | -5.13 |
 | RN1 | Will FC Twente win on 2026-08-27? | No (BUY) | 52% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Donghui | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 49% | 5.00 | 59.8% | ⏳ pendiente | — |

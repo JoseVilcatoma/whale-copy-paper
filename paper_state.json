@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.96182485239063,
+  "bankroll": 471.55842846996575,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12535,6 +12535,26 @@
       "timestamp": 1787848221.3920572,
       "bankroll": 470.96,
       "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Selena Janicijevic vs Dunja Maric"
+    },
+    {
+      "timestamp": 1787849547.3068683,
+      "bankroll": 471.43,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Urszula Radwanska vs Julia Stusek"
+    },
+    {
+      "timestamp": 1787849608.855152,
+      "bankroll": 474.53,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Acend vs UNiTY esports (BO3) - CCT Europe Series #7 Playoffs"
+    },
+    {
+      "timestamp": 1787849617.643844,
+      "bankroll": 469.39,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Haruka Kaji vs Elena Milovanovic"
+    },
+    {
+      "timestamp": 1787849618.3416462,
+      "bankroll": 471.56,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Haruka Kaji vs Elena Milovanovic"
     }
   ]
 }
