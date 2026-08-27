@@ -61007,8 +61007,8 @@
     "title": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
     "outcome": "Ekaterina Alexandrova",
     "side": "BUY",
-    "whale_usd": 4126.5652,
-    "whale_pct": 3.511,
+    "whale_usd": 5297.031199999999,
+    "whale_pct": 4.507,
     "whale_value_at_open": 117527.1035,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -61023,7 +61023,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787809667.5940514,
-    "fills": 4
+    "last_fill_at": 1787810091.9180734,
+    "fills": 6
   }
 ]
