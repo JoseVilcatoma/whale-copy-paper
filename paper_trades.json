@@ -62153,8 +62153,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 4 Winner",
     "outcome": "Nongshim Red Force",
     "side": "BUY",
-    "whale_usd": 2650.0,
-    "whale_pct": 2.669,
+    "whale_usd": 20246.8494,
+    "whale_pct": 20.39,
     "whale_value_at_open": 99298.3941,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -62165,8 +62165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787826745.0816503,
-    "fills": 1
+    "last_fill_at": 1787827706.988582,
+    "fills": 10
   },
   {
     "timestamp": 1787827095,
