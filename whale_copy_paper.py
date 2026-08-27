@@ -127,6 +127,14 @@ TAKER_FEE_COEF = float(os.environ.get("TAKER_FEE_COEF", "0.05"))
 # Como acciones = stake / precio, con $5 se cubre todo el rango de cuotas que usamos
 # (a cuota 95% hacen falta $4.75); con $1 no se llega en ninguna.
 MIN_SHARES = float(os.environ.get("MIN_SHARES", "5"))
+# Días que esperamos antes de dar por ANULADO un mercado cerrado cuyo precio no
+# llegó a los extremos. Polymarket cierra el mercado cuando arranca el partido,
+# pero la resolución la hace un oráculo DESPUÉS, y puede demorar. Un precio ~0.50
+# casi siempre significa "todavía sin resolver", no "anulado" — sobre todo en
+# partidos parejos, donde el último precio operado queda naturalmente en la mitad.
+# Solo después de este plazo asumimos que de verdad quedó anulado y liberamos el
+# capital, para no perder resoluciones legítimas por apurarnos.
+VOID_AFTER_DAYS = float(os.environ.get("VOID_AFTER_DAYS", "3"))
 
 
 def taker_fee(stake_usd, precio_pct):
@@ -694,6 +702,13 @@ def resolve_pending_trades():
         # igual que haría Polymarket al anular/devolver, para liberar el capital.
         if isinstance(result, tuple) and result[0] == "ambiguo":
             precio_final = result[1]
+            dias_abierta = (time.time() - tr["timestamp_added"]) / 86400
+            if dias_abierta < VOID_AFTER_DAYS:
+                print(f"  … {tr['slug']}: cerrado pero el oráculo todavía no resolvió "
+                      f"(precio {precio_final:.2f}, lleva {dias_abierta:.1f} días) — "
+                      f"seguimos esperando hasta {VOID_AFTER_DAYS:.0f} días")
+                time.sleep(0.1)
+                continue
             stake = tr["paper_stake_usd"]
             entry = tr["odds_at_bet"] / 100.0
             valor = stake * (precio_final / entry) if entry > 0 else 0
@@ -707,11 +722,11 @@ def resolve_pending_trades():
                 bankroll_history.append({
                     "timestamp": time.time(),
                     "bankroll": round(bankroll, 2),
-                    "event": f"anulado (precio {precio_final:.2f}): {tr['username']} — {tr['title']}",
+                    "event": f"anulado tras {VOID_AFTER_DAYS:.0f}+ días sin resolver (precio {precio_final:.2f}): {tr['username']} — {tr['title']}",
                 })
             trades_dirty = True
-            print(f"  ⚖ {tr['slug']}: cerrado sin ganador claro (precio {precio_final:.2f}, típico de "
-                  f"partido anulado) -> liquidado a {profit:+.2f} USD, capital liberado")
+            print(f"  ⚖ {tr['slug']}: lleva {dias_abierta:.1f} días cerrado sin resolver "
+                  f"(precio {precio_final:.2f}) -> se da por anulado, liquidado a {profit:+.2f} USD, capital liberado")
             time.sleep(0.1)
             continue
 
