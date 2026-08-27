@@ -1,5 +1,5 @@
 {
-  "bankroll": 444.5561226483705,
+  "bankroll": 435.66923724087184,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12145,6 +12145,36 @@
       "timestamp": 1787806357.138074,
       "bankroll": 444.56,
       "event": "lost: Sassy-Bucket \u2014 Toronto Tempo vs. Seattle Storm: O/U 174.5"
+    },
+    {
+      "timestamp": 1787806671.182887,
+      "bankroll": 444.97,
+      "event": "won: GoalLineGhost \u2014 Will Independiente Santa Fe win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787806673.0102158,
+      "bankroll": 439.84,
+      "event": "lost: kekasaur \u2014 Spread: CA River Plate (-1.5)"
+    },
+    {
+      "timestamp": 1787806673.4361868,
+      "bankroll": 441.36,
+      "event": "won: RN1 \u2014 CA River Plate vs. Independiente Santa Fe: O/U 3.5"
+    },
+    {
+      "timestamp": 1787806674.2203808,
+      "bankroll": 436.23,
+      "event": "lost: kekasaur \u2014 CA River Plate vs. Independiente Santa Fe: O/U 2.5"
+    },
+    {
+      "timestamp": 1787806674.3206296,
+      "bankroll": 440.73,
+      "event": "won: RN1 \u2014 CA River Plate vs. Independiente Santa Fe: O/U 2.5"
+    },
+    {
+      "timestamp": 1787806674.734411,
+      "bankroll": 435.67,
+      "event": "lost: RN1 \u2014 Will CA River Plate win on 2026-08-19?"
     }
   ]
 }

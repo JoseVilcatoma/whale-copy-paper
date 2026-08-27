@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 23:57:23 (hora de Perú)
+Actualizado: 2026-08-26 23:59:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $444.56
-**Retorno acumulado:** -11.09%
+**Bankroll actual:** $435.67
+**Retorno acumulado:** -12.87%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 23:57:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $314.56)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $335.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,7 +73,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| kekasaur | 3 | 4 | 2 | -5.16 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | wr0ngw4yb3tt0r | 1 | 3 | 0 | -9.12 USD |
@@ -83,9 +82,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
-| GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
+| GoalLineGhost | 12 | 8 | 1 | -14.51 USD |
+| kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 334 | 154 | 3 | -29.91 USD |
+| RN1 | 336 | 155 | 0 | -28.95 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2335
-- **Aciertos:** 1500 (64.2%)
+- **Apuestas resueltas:** 2341
+- **Aciertos:** 1503 (64.2%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,662.59
-- **ROI sobre lo apostado:** -1.20%
-- **Comisiones pagadas (taker fee):** $211.20 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,692.59
+- **ROI sobre lo apostado:** -1.28%
+- **Comisiones pagadas (taker fee):** $211.72 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1152 | 49.7% | 50.1% | -0.5 pp |
-| 60-79% | 688 | 70.1% | 67.7% | +2.4 pp |
-| 80-94% | 336 | 87.5% | 86.8% | +0.7 pp |
+| 40-59% | 1155 | 49.6% | 50.1% | -0.5 pp |
+| 60-79% | 690 | 70.0% | 67.7% | +2.3 pp |
+| 80-94% | 337 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 159 | 95.6% | 97.4% | -1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -544,7 +544,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 13.5% | ❌ perdida | -5.12 |
 | RN1 | Golden State Valkyries vs. Connecticut S | Over (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
-| RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ❌ perdida | -5.06 |
 | RN1 | Will CD Universidad Católica win on 2026 | Yes (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | RN1 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 98% | 5.00 | 1.2% | ✅ ganada | +0.10 |
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 51% | 5.00 | 0.3% | ❌ perdida | -5.12 |
