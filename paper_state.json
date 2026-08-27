@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.5559215537214,
+  "bankroll": 469.52493201051834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12640,6 +12640,21 @@
       "timestamp": 1787857169.0150318,
       "bankroll": 466.56,
       "event": "won: RN1 \u2014 Kuopion PS vs. Shamrock Rovers FC: O/U 3.5"
+    },
+    {
+      "timestamp": 1787860630.3851492,
+      "bankroll": 467.83,
+      "event": "won: GoalLineGhost \u2014 SK Iberia 1999 vs. Jagiellonia Bia\u0142ystok: O/U 1.5"
+    },
+    {
+      "timestamp": 1787860632.2495184,
+      "bankroll": 468.25,
+      "event": "won: GoalLineGhost \u2014 Spread: Jagiellonia Bia\u0142ystok (-2.5)"
+    },
+    {
+      "timestamp": 1787860632.5638227,
+      "bankroll": 469.52,
+      "event": "won: GoalLineGhost \u2014 Spread: Jagiellonia Bia\u0142ystok (-1.5)"
     }
   ]
 }
