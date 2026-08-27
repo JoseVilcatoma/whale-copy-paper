@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 15:57:56 (hora de Perú)
+Actualizado: 2026-08-27 16:00:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.60
@@ -536,7 +536,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 161.3% | ⏳ pendiente | — |
+| SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 189.2% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 271.3% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |

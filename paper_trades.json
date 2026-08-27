@@ -64215,8 +64215,8 @@
     "title": "Valorant: LOUD vs FURIA Esports (BO3) - VCT Americas Stage 2 Playoffs",
     "outcome": "LOUD",
     "side": "BUY",
-    "whale_usd": 6765.957445999999,
-    "whale_pct": 161.346,
+    "whale_usd": 7931.957445999999,
+    "whale_pct": 189.152,
     "whale_value_at_open": 4193.4399,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -64227,7 +64227,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787864240.153158,
-    "fills": 1
+    "last_fill_at": 1787864372.89072,
+    "fills": 2
   }
 ]
