@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 03:56:50 (hora de Perú)
+Actualizado: 2026-08-27 03:58:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 03:56:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $260.77)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $250.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
-| BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 1 | +48.85 USD |
+| BOOMBOYS.Kiritych | 29 | 14 | 1 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | HomeRunHazard | 366 | 180 | 9 | +35.68 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
@@ -516,11 +516,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
 | wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
 | atp-benitos-barton-2026-08-27 | RN1, ferrariChampions2026 |
+| lol-ns-fox1-2026-08-27-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 44% | 5.00 | 44.9% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 56% | 5.00 | 770.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -549,5 +552,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 20.7% | ⏳ pendiente | — |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Athletics (BUY) | 50% | 5.00 | 137.3% | ✅ ganada | +4.88 |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | 💰 vendida anticipada | -0.44 |
-| TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 46% | 5.00 | 53.0% | ⏳ pendiente | — |
-| Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 4805.4% | ❌ perdida | -5.14 |
