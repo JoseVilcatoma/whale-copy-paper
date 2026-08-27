@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.66923724087184,
+  "bankroll": 438.598294074628,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12175,6 +12175,36 @@
       "timestamp": 1787806674.734411,
       "bankroll": 435.67,
       "event": "lost: RN1 \u2014 Will CA River Plate win on 2026-08-19?"
+    },
+    {
+      "timestamp": 1787813803.608047,
+      "bankroll": 441.4,
+      "event": "won:  \u2014 Monterrey Open: Ekaterina Alexandrova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787813804.016474,
+      "bankroll": 443.01,
+      "event": "won: HomeRunHazard \u2014 Monterrey Open: Ekaterina Alexandrova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787813804.4611292,
+      "bankroll": 444.98,
+      "event": "won: RN1 \u2014 Monterrey Open: Ekaterina Alexandrova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787813804.5612943,
+      "bankroll": 448.8,
+      "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Ekaterina Alexandrova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787813805.002454,
+      "bankroll": 443.7,
+      "event": "lost: ferrariChampions2026 \u2014 Monterrey Open: Ekaterina Alexandrova vs Clara Tauson"
+    },
+    {
+      "timestamp": 1787813805.1026084,
+      "bankroll": 438.6,
+      "event": "lost: RN1 \u2014 Monterrey Open: Ekaterina Alexandrova vs Clara Tauson"
     }
   ]
 }
