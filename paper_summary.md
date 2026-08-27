@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 03:52:46 (hora de Perú)
+Actualizado: 2026-08-27 03:54:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -525,7 +525,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Tokyo Yakult Swallows vs. Yomiuri Giants | Tokyo Yakult Swallows (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: BIG vs G2 NORD (BO5) - Prime League | BIG (BUY) | 45% | 5.00 | 7.0% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: BIG vs G2 NORD (BO5) - Prime League | BIG (BUY) | 45% | 5.00 | 10.2% | ⏳ pendiente | — |
 | HomeRunHazard | Tokyo Yakult Swallows vs. Yomiuri Giants | Yomiuri Giants (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | Orix Buffaloes vs. Tohoku Rakuten Golden | Tohoku Rakuten Golden Eagles (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury:  | Over (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |

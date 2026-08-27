@@ -61275,8 +61275,8 @@
     "title": "LoL: BIG vs G2 NORD (BO5) - Prime League 1st Division Playoffs",
     "outcome": "BIG",
     "side": "BUY",
-    "whale_usd": 1629.32,
-    "whale_pct": 6.998,
+    "whale_usd": 2377.3199999999997,
+    "whale_pct": 10.21,
     "whale_value_at_open": 23283.3918,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -61287,8 +61287,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787819793.617118,
-    "fills": 1
+    "last_fill_at": 1787820857.7819915,
+    "fills": 2
   },
   {
     "timestamp": 1787820351,
