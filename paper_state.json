@@ -1,5 +1,5 @@
 {
-  "bankroll": 449.0862881042787,
+  "bankroll": 462.35704641913463,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12485,6 +12485,16 @@
       "timestamp": 1787844590.2994823,
       "bankroll": 449.09,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Aljaz Jeran vs Andrea De Marchi"
+    },
+    {
+      "timestamp": 1787844895.4951873,
+      "bankroll": 455.31,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: MOUZ (-1.5) vs 9z (+1.5)"
+    },
+    {
+      "timestamp": 1787844904.942762,
+      "bankroll": 462.36,
+      "event": "won: SPCEXBUYER \u2014 Map Handicap: MOUZ (-1.5) vs 9z (+1.5)"
     }
   ]
 }
