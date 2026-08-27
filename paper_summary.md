@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:39:09 (hora de Perú)
+Actualizado: 2026-08-27 06:41:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $442.95
@@ -552,7 +552,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 3.1% | ✅ ganada | +0.10 |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Justina Mikulskyte (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
-| RN1 | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 56% | 5.00 | 3.6% | ⏳ pendiente | — |
+| RN1 | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 56% | 5.00 | 5.7% | ⏳ pendiente | — |
 | RN1 | Roehampton 2: Inaki Montes vs George Lof | Inaki Montes (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 5.5 | Under (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 1.5 | Over (BUY) | 90% | 5.00 | 4.9% | ⏳ pendiente | — |
