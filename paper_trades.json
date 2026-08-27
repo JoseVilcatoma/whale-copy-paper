@@ -59766,8 +59766,8 @@
     "title": "SE Palmeiras vs. Santos FC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 10794.514500000001,
-    "whale_pct": 17.993,
+    "whale_usd": 12078.846500000001,
+    "whale_pct": 20.134,
     "whale_value_at_open": 59991.2728,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -59780,8 +59780,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787787459.6923058,
-    "fills": 2
+    "last_fill_at": 1787789674.1335583,
+    "fills": 3
   },
   {
     "timestamp": 1787787458,
@@ -59917,8 +59917,8 @@
     "title": "Texas Rangers vs. Chicago White Sox",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 3946.8936009999998,
-    "whale_pct": 1.359,
+    "whale_usd": 4473.990029,
+    "whale_pct": 1.541,
     "whale_value_at_open": 290414.8762,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -59929,8 +59929,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787789445.8257353,
-    "fills": 5
+    "last_fill_at": 1787789645.9149616,
+    "fills": 6
   },
   {
     "timestamp": 1787787798,
@@ -60401,6 +60401,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787789578.6109152,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787789668,
+    "timestamp_added": 1787789669.6096406,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-tex-cws-2026-08-26",
+    "title": "Texas Rangers vs. Chicago White Sox",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 1072.4,
+    "whale_pct": 0.358,
+    "whale_value_at_open": 299971.19,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787789669.609651,
     "fills": 1
   }
 ]
