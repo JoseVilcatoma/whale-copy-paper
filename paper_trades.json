@@ -61717,8 +61717,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 161106.136786,
-    "whale_pct": 1667.037,
+    "whale_usd": 163761.551143,
+    "whale_pct": 1694.514,
     "whale_value_at_open": 9664.2187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -61731,8 +61731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787830749.4010136,
-    "fills": 18
+    "last_fill_at": 1787831093.2579691,
+    "fills": 22
   },
   {
     "timestamp": 1787823434,
