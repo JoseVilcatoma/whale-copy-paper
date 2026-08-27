@@ -64593,8 +64593,8 @@
     "title": "Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse",
     "outcome": "Ignacio Buse",
     "side": "BUY",
-    "whale_usd": 3628.08,
-    "whale_pct": 2.514,
+    "whale_usd": 6853.04,
+    "whale_pct": 4.748,
     "whale_value_at_open": 144336.164,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -64607,7 +64607,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787873984.287031,
-    "fills": 1
+    "last_fill_at": 1787874145.0110323,
+    "fills": 2
   }
 ]
