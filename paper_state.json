@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.67766155237575,
+  "bankroll": 474.78629791601213,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11795,6 +11795,16 @@
       "timestamp": 1787791039.897152,
       "bankroll": 473.68,
       "event": "lost:  \u2014 Winston-Salem Open: Lorenzo Sonego vs James Duckworth"
+    },
+    {
+      "timestamp": 1787791483.162521,
+      "bankroll": 468.56,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Henrique Rocha vs Lloyd Harris"
+    },
+    {
+      "timestamp": 1787791486.2841485,
+      "bankroll": 474.79,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Henrique Rocha vs Lloyd Harris"
     }
   ]
 }

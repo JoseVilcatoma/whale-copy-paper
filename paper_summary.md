@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 19:42:47 (hora de Perú)
+Actualizado: 2026-08-26 19:44:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.68
-**Retorno acumulado:** -5.26%
+**Bankroll actual:** $474.79
+**Retorno acumulado:** -5.04%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 19:42:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.00 en 84 posiciones abiertas (disponible para nuevas apuestas: $53.68)
+**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $64.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 4 | 1 | -20.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 313 | 143 | 35 | -42.08 USD |
+| RN1 | 314 | 144 | 33 | -40.98 USD |
 | Sassy-Bucket | 15 | 27 | 2 | -68.37 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 48 | 1 | -106.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2266
-- **Aciertos:** 1462 (64.5%)
+- **Apuestas resueltas:** 2268
+- **Aciertos:** 1463 (64.5%)
 - **Cuota promedio de entrada:** 64.0%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,317.59
-- **ROI sobre lo apostado:** -0.99%
-- **Comisiones pagadas (taker fee):** $203.88 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.82% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,327.59
+- **ROI sobre lo apostado:** -0.98%
+- **Comisiones pagadas (taker fee):** $204.13 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1101 | 50.0% | 50.2% | -0.2 pp |
+| 40-59% | 1103 | 50.0% | 50.2% | -0.2 pp |
 | 60-79% | 682 | 69.9% | 67.7% | +2.3 pp |
 | 80-94% | 327 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 156 | 95.5% | 97.4% | -1.9 pp |
@@ -526,9 +526,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CDP Junior FC win on 2026-08-26? | No (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Tristan Scho | Tristan Schoolkate (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Henrique Roc | Lloyd Harris (BUY) | 44% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Henrique Roc | Lloyd Harris (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
 | RN1 | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
-| Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 1.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Connecticut S | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will CD Universidad Católica win on 2026 | Yes (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
