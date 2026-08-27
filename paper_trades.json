@@ -59618,8 +59618,8 @@
     "title": "US Open, Qualification ATP: Henrique Rocha vs Lloyd Harris",
     "outcome": "Henrique Rocha",
     "side": "BUY",
-    "whale_usd": 6279.425383000001,
-    "whale_pct": 2.135,
+    "whale_usd": 8641.660783000001,
+    "whale_pct": 2.938,
     "whale_value_at_open": 294137.1391,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -59630,8 +59630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787788956.9014072,
-    "fills": 4
+    "last_fill_at": 1787789105.4888453,
+    "fills": 5
   },
   {
     "timestamp": 1787786847,
