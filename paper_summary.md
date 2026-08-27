@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 19:05:15 (hora de Perú)
+Actualizado: 2026-08-26 19:07:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.79
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 19:05:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $108.79)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $103.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 4 | 1 | -20.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 313 | 143 | 27 | -42.08 USD |
+| RN1 | 313 | 143 | 28 | -42.08 USD |
 | Sassy-Bucket | 15 | 27 | 2 | -68.37 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
 |  | 60 | 47 | 2 | -101.46 USD |
@@ -509,6 +509,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-nym-2026-08-26-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-lad-atl-2026-08-26 | Djdjdjekekek, HomeRunHazard, RN1, texaskid |
 | wta-bucsa-vidmano-2026-08-26 | Donghui, HomeRunHazard |
+| mlb-col-wsh-2026-08-26-total-9pt5 | HomeRunHazard, RN1 |
 | wta-liutova-radivoj-2026-08-26 | HomeRunHazard, RN1 |
 | sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 
@@ -516,6 +517,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Connecticut S | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -545,4 +547,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 76% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Philadelphia: Oksana Selekhmeteva vs Cap | Capucine Jauffret (BUY) | 86% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees | New York Yankees (BUY) | 58% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 1.2% | ⏳ pendiente | — |
