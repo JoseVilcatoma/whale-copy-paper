@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 07:39:41 (hora de Perú)
+Actualizado: 2026-08-27 07:41:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $447.23
@@ -530,7 +530,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Spread: Raiders (-2.5) | 49ers (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Andrea De Marchi (BUY) | 76% | 5.00 | 1.6% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 65% | 5.00 | 11.2% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 65% | 5.00 | 12.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Aljaz Jeran (BUY) | 61% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | Donghui | Counter-Strike: MOUZ vs 9z - Map 1 Winne | MOUZ (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
@@ -552,7 +552,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | KBO: Hanwha Eagles vs. SSG Landers | SSG Landers (BUY) | 54% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 7.8% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 12.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Vladyslav Orlov (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Valorant: VARREL vs Global Esports (BO3) | Global Esports (BUY) | 59% | 5.00 | 35.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 63% | 5.00 | 12.2% | ✅ ganada | +2.84 |

@@ -62375,8 +62375,8 @@
     "title": "ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Anja Stankovic vs Alina Granwehr",
     "outcome": "Alina Granwehr",
     "side": "BUY",
-    "whale_usd": 7115.073547999999,
-    "whale_pct": 7.843,
+    "whale_usd": 10873.135548,
+    "whale_pct": 11.985,
     "whale_value_at_open": 90723.9613,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -62387,8 +62387,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787834201.7905285,
-    "fills": 7
+    "last_fill_at": 1787834453.352879,
+    "fills": 10
   },
   {
     "timestamp": 1787828530,
@@ -62908,8 +62908,8 @@
     "title": "Augsburg: Sandro Kopp vs Martin Krumich",
     "outcome": "Sandro Kopp",
     "side": "BUY",
-    "whale_usd": 5000.9954,
-    "whale_pct": 11.178,
+    "whale_usd": 5710.086309,
+    "whale_pct": 12.763,
     "whale_value_at_open": 44738.7122,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -62922,8 +62922,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787834332.0335784,
-    "fills": 4
+    "last_fill_at": 1787834408.423481,
+    "fills": 5
   },
   {
     "timestamp": 1787834294,
