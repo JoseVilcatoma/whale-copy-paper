@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 10:36:06 (hora de Perú)
+Actualizado: 2026-08-27 10:38:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 10:36:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $127.36)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $122.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | BOOMBOYS.Kiritych | 32 | 16 | 1 | +53.02 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
-| HomeRunHazard | 371 | 183 | 6 | +36.71 USD |
+| HomeRunHazard | 371 | 183 | 7 | +36.71 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -526,12 +526,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | col-kps-shr-2026-08-27-kps | RN1, plonker2026 |
 | col-qar-twe-2026-08-27-twe | RN1, plonker2026 |
 | atp-rincon-barrios-2026-08-27 | Donghui, RN1 |
+| atp-cretu-moelle-2026-08-27 | HomeRunHazard, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| casualbet2020 | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 71% | 5.00 | 6.8% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
+| casualbet2020 | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 71% | 5.00 | 37.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -560,4 +562,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Aljaz Jeran (BUY) | 61% | 5.00 | 2.7% | ❌ perdida | -5.10 |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 53% | 5.00 | 3.0% | ✅ ganada | +4.32 |
 | Donghui | Counter-Strike: MOUZ vs 9z - Map 1 Winne | MOUZ (BUY) | 57% | 5.00 | 6.4% | ✅ ganada | +3.66 |
-| GoalLineGhost | FC St. Gallen vs. FC Nordsjælland: O/U 2 | Over (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |

@@ -63516,8 +63516,8 @@
     "title": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
     "outcome": "Legacy",
     "side": "BUY",
-    "whale_usd": 3578.647333,
-    "whale_pct": 6.76,
+    "whale_usd": 19884.619999,
+    "whale_pct": 37.563,
     "whale_value_at_open": 52936.3863,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -63531,7 +63531,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787844959.84489,
-    "fills": 2
+    "last_fill_at": 1787845084.9545817,
+    "fills": 4
+  },
+  {
+    "timestamp": 1787845043,
+    "timestamp_added": 1787845044.5478442,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-cretu-moelle-2026-08-27",
+    "title": "Augsburg: Cezar Cretu vs Marvin Moeller",
+    "outcome": "Marvin Moeller",
+    "side": "BUY",
+    "whale_usd": 602.0526309999999,
+    "whale_pct": 0.728,
+    "whale_value_at_open": 82725.0432,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787845044.5478594,
+    "fills": 1
   }
 ]
