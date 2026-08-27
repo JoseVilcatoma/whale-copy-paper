@@ -1,5 +1,5 @@
 {
-  "bankroll": 439.57518719927424,
+  "bankroll": 442.94676347046067,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12290,6 +12290,11 @@
       "timestamp": 1787830115.0864923,
       "bankroll": 439.58,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Federica Urgesi vs Justina Mikulskyte"
+    },
+    {
+      "timestamp": 1787830549.2893763,
+      "bankroll": 442.95,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Mara Guth vs Tiphanie Lemaitre"
     }
   ]
 }
