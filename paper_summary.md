@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:37:59 (hora de Perú)
+Actualizado: 2026-08-27 04:40:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -523,7 +523,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Lea Boskovic (BUY) | 72% | 5.00 | 4.1% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Lea Boskovic (BUY) | 72% | 5.00 | 7.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 65% | 5.00 | 151.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Viktoria Plzeň (-1.5) | FK Crvena zvezda (BUY) | 79% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Mara Guth (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |

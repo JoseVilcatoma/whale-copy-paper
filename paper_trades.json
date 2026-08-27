@@ -61743,8 +61743,8 @@
     "title": "ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Lea Boskovic vs Ksenia Zaytseva",
     "outcome": "Lea Boskovic",
     "side": "BUY",
-    "whale_usd": 2581.56,
-    "whale_pct": 4.076,
+    "whale_usd": 4999.5,
+    "whale_pct": 7.894,
     "whale_value_at_open": 63335.1491,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -61755,7 +61755,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787823463.3435662,
-    "fills": 2
+    "last_fill_at": 1787823583.065819,
+    "fills": 4
   }
 ]
