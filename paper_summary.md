@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 10:57:02 (hora de Perú)
+Actualizado: 2026-08-27 10:59:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 10:57:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $134.24)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $119.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 358 | 166 | 23 | -35.24 USD |
+| RN1 | 358 | 166 | 26 | -35.24 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
@@ -532,6 +532,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Spread: AFC Ajax (-1.5) | FC Sion (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Toby Samuel  | Cristian Garin (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Spread: FC Red Bull Salzburg (-1.5) | FC Red Bull Salzburg (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Will Panathinaikós AO win on 2026-08-27? | Yes (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 12.3% | ⏳ pendiente | — |
 | RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -559,6 +562,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Julia Stusek (BUY) | 91% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Selena Janicijevic (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Cap d'Agde (Franc | Samuele Seghetti (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
-| plonker2026 | Will Kuopion PS win on 2026-08-27? | No (BUY) | 53% | 5.00 | 97.0% | ⏳ pendiente | — |
-| RN1 | Will Modern SC win on 2026-08-27? | No (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Raiders (-2.5) | 49ers (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
