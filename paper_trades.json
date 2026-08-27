@@ -60460,8 +60460,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 6418.7376,
-    "whale_pct": 12.714,
+    "whale_usd": 8340.816,
+    "whale_pct": 16.521,
     "whale_value_at_open": 50486.8186,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -60472,8 +60472,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787791505.316928,
-    "fills": 2
+    "last_fill_at": 1787792414.320833,
+    "fills": 3
   },
   {
     "timestamp": 1787790628,
@@ -60484,8 +60484,8 @@
     "title": "Counter-Strike: Vitality vs Inner Circle Esports (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 1773.9387000000002,
-    "whale_pct": 3.514,
+    "whale_usd": 2738.934,
+    "whale_pct": 5.425,
     "whale_value_at_open": 50486.8186,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -60496,8 +60496,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787791511.5866866,
-    "fills": 2
+    "last_fill_at": 1787792417.8283954,
+    "fills": 3
   },
   {
     "timestamp": 1787790629,
