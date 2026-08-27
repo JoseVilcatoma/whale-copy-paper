@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 15:37:33 (hora de Perú)
+Actualizado: 2026-08-27 15:41:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $485.09
-**Retorno acumulado:** -2.98%
+**Bankroll actual:** $480.01
+**Retorno acumulado:** -4.00%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 15:37:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $270.09)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $265.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,17 +74,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| Djdjdjekekek | 23 | 20 | 0 | -5.29 USD |
+| Djdjdjekekek | 23 | 20 | 1 | -5.29 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | wr0ngw4yb3tt0r | 1 | 3 | 0 | -9.12 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| AV23IUa | 6 | 7 | 3 | -13.49 USD |
 | GoalLineGhost | 16 | 9 | 12 | -14.45 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | RN1 | 371 | 171 | 9 | -17.46 USD |
+| AV23IUa | 6 | 8 | 2 | -18.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2444
+- **Apuestas resueltas:** 2445
 - **Aciertos:** 1572 (64.3%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,207.59
-- **ROI sobre lo apostado:** -0.83%
-- **Comisiones pagadas (taker fee):** $221.44 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,212.59
+- **ROI sobre lo apostado:** -0.87%
+- **Comisiones pagadas (taker fee):** $221.52 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,7 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1205 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 726 | 70.2% | 67.7% | +2.5 pp |
+| 60-79% | 727 | 70.2% | 67.7% | +2.4 pp |
 | 80-94% | 351 | 86.6% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
@@ -536,6 +536,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 157.4% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ⏳ pendiente | — |
@@ -548,7 +549,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 3 Winner | G2 NORD (BUY) | 68% | 5.00 | 22.6% | ⏳ pendiente | — |
 | texaskid | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 57% | 5.00 | 285.7% | ✅ ganada | +3.66 |
-| AV23IUa | Map Handicap: FAL (-1.5) vs Lynn Vision  | Team Falcons (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
+| AV23IUa | Map Handicap: FAL (-1.5) vs Lynn Vision  | Team Falcons (BUY) | 67% | 5.00 | 38.1% | ❌ perdida | -5.08 |
 | plonker2026 | Spread: FC Red Bull Salzburg (-1.5) | Mjällby AIF (BUY) | 46% | 5.00 | 4.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 2 Winner | G2 NORD (BUY) | 51% | 5.00 | 23.7% | ✅ ganada | +4.68 |
 | RN1 | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 79% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -565,4 +566,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ✅ ganada | +5.73 |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ❌ perdida | -5.03 |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
-| RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ✅ ganada | +4.68 |
