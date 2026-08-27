@@ -63006,8 +63006,8 @@
     "title": "Will Kuopion PS win on 2026-08-27?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 10655.666666000001,
-    "whale_pct": 65.165,
+    "whale_usd": 15855.666666000001,
+    "whale_pct": 96.965,
     "whale_value_at_open": 16351.9445,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -63018,7 +63018,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787841096.1882415,
-    "fills": 5
+    "last_fill_at": 1787841103.2583826,
+    "fills": 6
   }
 ]

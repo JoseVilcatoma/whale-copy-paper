@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 09:31:42 (hora de Perú)
+Actualizado: 2026-08-27 09:33:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.85
@@ -528,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| plonker2026 | Will Kuopion PS win on 2026-08-27? | No (BUY) | 53% | 5.00 | 65.2% | ⏳ pendiente | — |
+| plonker2026 | Will Kuopion PS win on 2026-08-27? | No (BUY) | 53% | 5.00 | 97.0% | ⏳ pendiente | — |
 | RN1 | Will Modern SC win on 2026-08-27? | No (BUY) | 68% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Raiders (-2.5) | 49ers (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Andrea De Marchi (BUY) | 76% | 5.00 | 1.6% | ⏳ pendiente | — |
