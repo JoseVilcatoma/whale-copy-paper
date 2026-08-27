@@ -63224,8 +63224,8 @@
     "title": "US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken",
     "outcome": "Harry Wendelken",
     "side": "BUY",
-    "whale_usd": 2050.0,
-    "whale_pct": 1.113,
+    "whale_usd": 3092.3728810000002,
+    "whale_pct": 1.679,
     "whale_value_at_open": 184182.8451,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -63236,7 +63236,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787842559.7073576,
+    "last_fill_at": 1787843370.793377,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787843449,
+    "timestamp_added": 1787843449.390133,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-kps-shr-2026-08-27-kps",
+    "title": "Will Kuopion PS win on 2026-08-27?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 577.6,
+    "whale_pct": 0.298,
+    "whale_value_at_open": 193584.9833,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "plonker2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787843449.390145,
     "fills": 1
   }
 ]
