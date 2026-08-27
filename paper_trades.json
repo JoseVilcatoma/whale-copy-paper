@@ -60866,5 +60866,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787806997.8185632,
     "fills": 1
+  },
+  {
+    "timestamp": 1787807093,
+    "timestamp_added": 1787807094.1162684,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wnba-wsh-phx-2026-08-27",
+    "title": "Washington Mystics vs. Phoenix Mercury",
+    "outcome": "Washington Mystics",
+    "side": "BUY",
+    "whale_usd": 567.9513,
+    "whale_pct": 1.532,
+    "whale_value_at_open": 37061.2647,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787807094.1162853,
+    "fills": 1
   }
 ]
