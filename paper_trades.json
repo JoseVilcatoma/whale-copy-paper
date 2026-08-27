@@ -62752,5 +62752,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787831707.8779678,
     "fills": 1
+  },
+  {
+    "timestamp": 1787831863,
+    "timestamp_added": 1787831863.7931178,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "uel-sab-jag-2026-08-27-spread-away-1pt5",
+    "title": "Spread: Jagiellonia Bia\u0142ystok (-1.5)",
+    "outcome": "SK Iberia 1999",
+    "side": "BUY",
+    "whale_usd": 966.9968,
+    "whale_pct": 1.672,
+    "whale_value_at_open": 57824.7651,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787831863.7931256,
+    "fills": 1
   }
 ]

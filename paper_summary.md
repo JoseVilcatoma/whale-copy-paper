@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:55:42 (hora de Perú)
+Actualizado: 2026-08-27 06:57:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $442.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 06:55:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $67.95)
+**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $62.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 13 | 8 | 14 | -12.34 USD |
+| GoalLineGhost | 13 | 8 | 15 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | RN1 | 347 | 158 | 16 | -23.37 USD |
@@ -526,6 +526,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Spread: Jagiellonia Białystok (-1.5) | SK Iberia 1999 (BUY) | 79% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Noah Karma (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-2.5) | SK Iberia 1999 (BUY) | 92% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -555,4 +556,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 3.1% | ✅ ganada | +0.10 |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Justina Mikulskyte (BUY) | 65% | 5.00 | 0.6% | ✅ ganada | +2.61 |
-| RN1 | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 56% | 5.00 | 5.7% | ⏳ pendiente | — |
