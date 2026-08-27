@@ -62095,5 +62095,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787826320.8820505,
     "fills": 1
+  },
+  {
+    "timestamp": 1787826424,
+    "timestamp_added": 1787826424.508553,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-lim-grammat-2026-08-27",
+    "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Jenny Lim vs Valentini Grammatikopoulou",
+    "outcome": "Valentini Grammatikopoulou",
+    "side": "BUY",
+    "whale_usd": 1316.8799999999999,
+    "whale_pct": 1.335,
+    "whale_value_at_open": 98623.9856,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787826424.5085618,
+    "fills": 1
   }
 ]
