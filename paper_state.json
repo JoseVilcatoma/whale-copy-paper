@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.11698600240777,
+  "bankroll": 465.9789860024078,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12090,6 +12090,11 @@
       "timestamp": 1787805729.698481,
       "bankroll": 471.12,
       "event": "lost: HomeRunHazard \u2014 Spread: Seattle Storm (-4.5)"
+    },
+    {
+      "timestamp": 1787805853.6677294,
+      "bankroll": 465.98,
+      "event": "lost: Djdjdjekekek \u2014 Toronto Tempo vs. Seattle Storm"
     }
   ]
 }
