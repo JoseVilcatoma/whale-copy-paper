@@ -1,5 +1,5 @@
 {
-  "bankroll": 445.7042932199678,
+  "bankroll": 449.0862881042787,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12430,6 +12430,61 @@
       "timestamp": 1787844274.883452,
       "bankroll": 445.7,
       "event": "won: Donghui \u2014 Counter-Strike: MOUZ vs 9z - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787844582.5523746,
+      "bankroll": 447.87,
+      "event": "won: HomeRunHazard \u2014 KBO: Samsung Lions vs. Kiwoom Heroes"
+    },
+    {
+      "timestamp": 1787844584.8759716,
+      "bankroll": 442.73,
+      "event": "lost: RN1 \u2014 Roehampton 2: Inaki Montes vs George Loffhagen"
+    },
+    {
+      "timestamp": 1787844585.9252725,
+      "bankroll": 446.1,
+      "event": "won: SPCEXBUYER \u2014 Valorant: VARREL vs Global Esports (BO3) - VCT Pacific Playoffs"
+    },
+    {
+      "timestamp": 1787844586.2257688,
+      "bankroll": 440.99,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Anja Stankovic vs Alina Granwehr"
+    },
+    {
+      "timestamp": 1787844586.8357463,
+      "bankroll": 445.13,
+      "event": "won: RN1 \u2014 KBO: Hanwha Eagles vs. SSG Landers"
+    },
+    {
+      "timestamp": 1787844586.9359317,
+      "bankroll": 440.01,
+      "event": "lost: RN1 \u2014 KBO: Hanwha Eagles vs. SSG Landers"
+    },
+    {
+      "timestamp": 1787844588.9938173,
+      "bankroll": 445.74,
+      "event": "won: RN1 \u2014 Augsburg: Sandro Kopp vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787844589.790653,
+      "bankroll": 450.06,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Anja Stankovic vs Alina Granwehr"
+    },
+    {
+      "timestamp": 1787844590.0990772,
+      "bankroll": 444.96,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Aljaz Jeran vs Andrea De Marchi"
+    },
+    {
+      "timestamp": 1787844590.1992967,
+      "bankroll": 447.57,
+      "event": "won: HomeRunHazard \u2014 Augsburg: Sandro Kopp vs Martin Krumich"
+    },
+    {
+      "timestamp": 1787844590.2994823,
+      "bankroll": 449.09,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Aljaz Jeran vs Andrea De Marchi"
     }
   ]
 }
