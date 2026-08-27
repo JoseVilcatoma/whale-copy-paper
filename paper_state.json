@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.0968535791458,
+  "bankroll": 474.8314187965371,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12665,6 +12665,11 @@
       "timestamp": 1787861854.4754074,
       "bankroll": 469.1,
       "event": "won: DoNotTailMe \u2014 LoL: BIG vs G2 NORD - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787862162.5563776,
+      "bankroll": 474.83,
+      "event": "won: RN1 \u2014 US Open, Qualification WTA: Julieta Pareja vs Lucrezia Stefanini"
     }
   ]
 }
