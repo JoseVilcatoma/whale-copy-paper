@@ -55141,8 +55141,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 3458.2489,
-    "whale_pct": 8.067,
+    "whale_usd": 4212.634864,
+    "whale_pct": 9.827,
     "whale_value_at_open": 42866.866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -55153,8 +55153,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787807776.776343,
-    "fills": 2
+    "last_fill_at": 1787808604.5587716,
+    "fills": 3
   },
   {
     "timestamp": 1787749472,
@@ -60850,8 +60850,8 @@
     "title": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
     "outcome": "Clara Tauson",
     "side": "BUY",
-    "whale_usd": 1498.508253,
-    "whale_pct": 4.116,
+    "whale_usd": 4332.189853,
+    "whale_pct": 11.899,
     "whale_value_at_open": 36407.355,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -60864,8 +60864,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787807517.3937485,
-    "fills": 2
+    "last_fill_at": 1787808598.0035641,
+    "fills": 3
   },
   {
     "timestamp": 1787807093,
@@ -60979,8 +60979,8 @@
     "title": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
     "outcome": "Ekaterina Alexandrova",
     "side": "BUY",
-    "whale_usd": 3333.3960549999997,
-    "whale_pct": 3.536,
+    "whale_usd": 6338.404354999999,
+    "whale_pct": 6.724,
     "whale_value_at_open": 94262.9846,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -60995,7 +60995,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787808347.7183347,
-    "fills": 2
+    "last_fill_at": 1787808597.6591134,
+    "fills": 4
   }
 ]
