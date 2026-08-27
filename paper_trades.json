@@ -61397,8 +61397,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
     "outcome": "Nongshim Red Force",
     "side": "BUY",
-    "whale_usd": 141240.3188,
-    "whale_pct": 1499.32,
+    "whale_usd": 174244.8628,
+    "whale_pct": 1849.676,
     "whale_value_at_open": 9420.2919,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -61409,8 +61409,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787821358.9996498,
-    "fills": 19
+    "last_fill_at": 1787821476.7274272,
+    "fills": 26
   },
   {
     "timestamp": 1787821117,
@@ -61488,5 +61488,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787821305.797079,
     "fills": 2
+  },
+  {
+    "timestamp": 1787821411,
+    "timestamp_added": 1787821411.6818573,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-ns-fox1-2026-08-27-game2",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 3706.4541000000004,
+    "whale_pct": 30.887,
+    "whale_value_at_open": 12000.2203,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "SPCEXBUYER"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787821411.6818657,
+    "fills": 1
   }
 ]

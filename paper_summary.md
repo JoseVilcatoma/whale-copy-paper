@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:02:57 (hora de Perú)
+Actualizado: 2026-08-27 04:04:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 04:02:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $240.77)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $235.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ChonkyChocolateCake | 35 | 20 | 1 | +18.49 USD |
+| ChonkyChocolateCake | 35 | 20 | 2 | +18.49 USD |
 | TAIWANNUMBERONE | 7 | 4 | 4 | +16.61 USD |
 | texaskid | 4 | 1 | 0 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -522,10 +522,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 43% | 5.00 | 30.9% | ⏳ pendiente | — |
 | RN1 | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 61% | 5.00 | 188.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 44% | 5.00 | 81.2% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 56% | 5.00 | 1499.3% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 56% | 5.00 | 1849.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 10.2% | ⏳ pendiente | — |
 | HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -551,4 +552,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 60% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 46% | 5.00 | 3.9% | ✅ ganada | +5.73 |
 | ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 50.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 20.7% | ⏳ pendiente | — |
