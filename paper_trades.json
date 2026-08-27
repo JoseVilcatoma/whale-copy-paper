@@ -63102,8 +63102,8 @@
     "title": "Will FC Twente win on 2026-08-27?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 73927.27119999999,
-    "whale_pct": 211.131,
+    "whale_usd": 74559.85139999999,
+    "whale_pct": 212.937,
     "whale_value_at_open": 35014.9308,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -63114,8 +63114,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787842444.718333,
-    "fills": 11
+    "last_fill_at": 1787842487.0363173,
+    "fills": 12
   },
   {
     "timestamp": 1787842131,
@@ -63213,6 +63213,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787842392.3536563,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787842559,
+    "timestamp_added": 1787842559.707345,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gaubas-wendelk-2026-08-27",
+    "title": "US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken",
+    "outcome": "Harry Wendelken",
+    "side": "BUY",
+    "whale_usd": 2050.0,
+    "whale_pct": 1.113,
+    "whale_value_at_open": 184182.8451,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787842559.7073576,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 09:54:04 (hora de Perú)
+Actualizado: 2026-08-27 09:56:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.85
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 09:54:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $76.85)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $71.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 4 | -25.65 USD |
-| RN1 | 351 | 160 | 20 | -26.52 USD |
+| RN1 | 351 | 160 | 21 | -26.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -529,11 +529,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open, Qualification ATP: Vilius Gauba | Harry Wendelken (BUY) | 42% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Haruka Kaji (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Marlon Vankan (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will FC Twente win on 2026-08-27? | No (BUY) | 52% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Donghui | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 49% | 5.00 | 5.7% | ⏳ pendiente | — |
-| plonker2026 | Will FC Twente win on 2026-08-27? | Yes (BUY) | 47% | 5.00 | 211.1% | ⏳ pendiente | — |
+| plonker2026 | Will FC Twente win on 2026-08-27? | Yes (BUY) | 47% | 5.00 | 212.9% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Julia Stusek (BUY) | 91% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Selena Janicijevic (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Cap d'Agde (Franc | Samuele Seghetti (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -558,4 +559,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Adrien Burdet (BUY) | 95% | 5.00 | 0.6% | ✅ ganada | +0.25 |
 | GoalLineGhost | Spread: FC Thun (-2.5) | KKS Lech Poznań (BUY) | 95% | 5.00 | 1.8% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Thun (-1.5) | KKS Lech Poznań (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Dimitar Kuzmanov (BUY) | 65% | 5.00 | 1.1% | ✅ ganada | +2.61 |
