@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.29212151115087,
+  "bankroll": 472.5222348487936,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12870,6 +12870,26 @@
       "timestamp": 1787868203.3413482,
       "bankroll": 473.29,
       "event": "won: GoalLineGhost \u2014 Will Sport Lisboa e Benfica win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787868517.2524624,
+      "bankroll": 473.76,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787868519.7503586,
+      "bankroll": 476.04,
+      "event": "won: GoalLineGhost \u2014 FC St. Gallen vs. FC Nordsj\u00e6lland: O/U 2.5"
+    },
+    {
+      "timestamp": 1787868522.3473446,
+      "bankroll": 477.64,
+      "event": "won: AV23IUa \u2014 Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787868522.4475536,
+      "bankroll": 472.52,
+      "event": "lost: SPCEXBUYER \u2014 Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B"
     }
   ]
 }

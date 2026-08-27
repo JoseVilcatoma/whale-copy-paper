@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 17:06:38 (hora de Perú)
+Actualizado: 2026-08-27 17:08:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.29
-**Retorno acumulado:** -5.34%
+**Bankroll actual:** $472.52
+**Retorno acumulado:** -5.50%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 17:06:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $348.29)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $367.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| BOOMBOYS.Kiritych | 33 | 16 | 2 | +55.63 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
+| BOOMBOYS.Kiritych | 33 | 17 | 1 | +50.51 USD |
 | SDTrading | 32 | 20 | 1 | +44.18 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HomeRunHazard | 371 | 184 | 6 | +31.62 USD |
@@ -62,10 +62,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| ExplosiveNinja | 2 | 2 | 1 | -1.82 USD |
+| ExplosiveNinja | 3 | 2 | 0 | -1.35 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
@@ -76,14 +77,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Djdjdjekekek | 23 | 20 | 2 | -5.29 USD |
-| GoalLineGhost | 26 | 10 | 1 | -5.56 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | wr0ngw4yb3tt0r | 1 | 3 | 0 | -9.12 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| AV23IUa | 7 | 8 | 1 | -15.34 USD |
+| AV23IUa | 8 | 8 | 0 | -13.74 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 374 | 175 | 2 | -32.06 USD |
@@ -94,13 +94,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2470
-- **Aciertos:** 1589 (64.3%)
+- **Apuestas resueltas:** 2474
+- **Aciertos:** 1592 (64.3%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,337.59
-- **ROI sobre lo apostado:** -0.92%
-- **Comisiones pagadas (taker fee):** $223.60 (1.81% del capital apostado)
+- **Total apostado (suma de stakes):** $12,357.59
+- **ROI sobre lo apostado:** -0.93%
+- **Comisiones pagadas (taker fee):** $223.88 (1.81% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -109,9 +109,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1216 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 734 | 70.3% | 67.7% | +2.6 pp |
-| 80-94% | 356 | 86.8% | 86.8% | +0.0 pp |
+| 40-59% | 1217 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 736 | 70.4% | 67.8% | +2.6 pp |
+| 80-94% | 357 | 86.8% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -546,8 +546,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 189.2% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 350.9% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ❌ perdida | -5.12 |
+| AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ✅ ganada | +1.60 |
 | DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ✅ ganada | +3.37 |
 | AV23IUa | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 60% | 5.00 | 6.6% | ✅ ganada | +3.23 |
 | Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | 💰 vendida anticipada | +4.68 |
