@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 01:15:17 (hora de Perú)
+Actualizado: 2026-08-27 01:17:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.67
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 01:15:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $290.67)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $285.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | wr0ngw4yb3tt0r | 1 | 3 | 0 | -9.12 USD |
 | Djdjdjekekek | 22 | 20 | 0 | -9.97 USD |
-| ExplosiveNinja | 0 | 2 | 2 | -10.21 USD |
+| ExplosiveNinja | 0 | 2 | 3 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -520,6 +520,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Acend vs UNiTY esports ( | Acend (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 |  | SK Brann vs. PAOK: Team to Advance | PAOK (BUY) | 58% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 61% | 5.00 | 4.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 60% | 5.00 | 12.0% | ⏳ pendiente | — |
@@ -549,4 +550,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ✅ ganada | +5.73 |
 | RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | RN1 | Will CDP Junior FC win on 2026-08-26? | No (BUY) | 87% | 5.00 | 0.2% | ✅ ganada | +0.71 |
-| RN1 | US Open, Qualification ATP: Tristan Scho | Tristan Schoolkate (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |

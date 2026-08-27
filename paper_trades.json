@@ -61049,5 +61049,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787810580.5751042,
     "fills": 1
+  },
+  {
+    "timestamp": 1787811339,
+    "timestamp_added": 1787811340.2760913,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-ace1-unity-2026-08-27",
+    "title": "Counter-Strike: Acend vs UNiTY esports (BO3) - CCT Europe Series #7 Playoffs",
+    "outcome": "Acend",
+    "side": "BUY",
+    "whale_usd": 1398.024,
+    "whale_pct": 1.922,
+    "whale_value_at_open": 72749.9833,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787811340.2761073,
+    "fills": 1
   }
 ]
