@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 10:29:58 (hora de Perú)
+Actualizado: 2026-08-27 10:32:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.09
@@ -536,7 +536,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: AS Monaco FC (-1.5) | Górnik Zabrze (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Cezar Cretu (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Elena Milovanovic (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Elena Milovanovic (BUY) | 69% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Tomas Barrios (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: O/U 3 | Under (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Kuopion PS win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
