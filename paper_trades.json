@@ -55141,8 +55141,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX (BO5) - LCK Play-In",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 4212.634864,
-    "whale_pct": 9.827,
+    "whale_usd": 7160.284863999999,
+    "whale_pct": 16.704,
     "whale_value_at_open": 42866.866,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -55153,8 +55153,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787808604.5587716,
-    "fills": 3
+    "last_fill_at": 1787809864.0527177,
+    "fills": 4
   },
   {
     "timestamp": 1787749472,
