@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:06:58 (hora de Perú)
+Actualizado: 2026-08-27 04:09:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 04:06:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $235.77)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $220.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 29 | 14 | 1 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | HomeRunHazard | 366 | 180 | 9 | +35.68 USD |
-| casualbet2020 | 19 | 7 | 0 | +32.69 USD |
+| casualbet2020 | 19 | 7 | 1 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -81,11 +81,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 13 | 8 | 0 | -12.34 USD |
+| GoalLineGhost | 13 | 8 | 1 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 3 | -32.08 USD |
+| RN1 | 337 | 156 | 4 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 5 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -522,6 +522,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Kuopion PS vs. Shamrock Rovers FC: O/U 1 | Over (BUY) | 69% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Federica Urgesi (BUY) | 84% | 5.00 | 7.3% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Nongshim RedForce (BUY) | 64% | 5.00 | 10.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 43% | 5.00 | 30.9% | ⏳ pendiente | — |
 | RN1 | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 61% | 5.00 | 188.2% | ⏳ pendiente | — |
@@ -549,6 +552,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 71% | 5.00 | 3.3% | ✅ ganada | +1.97 |
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 75% | 5.00 | 47.8% | ✅ ganada | +1.60 |
-| HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 60% | 5.00 | 1.6% | ⏳ pendiente | — |
-|  | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 46% | 5.00 | 3.9% | ✅ ganada | +5.73 |
-| ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 50.8% | ⏳ pendiente | — |
