@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 21:44:51 (hora de Perú)
+Actualizado: 2026-08-26 21:46:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $474.07
-**Retorno acumulado:** -5.19%
+**Bankroll actual:** $473.63
+**Retorno acumulado:** -5.27%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 21:44:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $234.07)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $228.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,7 +57,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 5 | +0.00 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 0 | 0 | 6 | +0.00 USD |
 | kekasaur | 3 | 3 | 3 | -0.05 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -67,8 +67,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | wr0ngw4yb3tt0r | 1 | 2 | 1 | -4.00 USD |
-| Djdjdjekekek | 21 | 17 | 3 | -4.16 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| Djdjdjekekek | 21 | 18 | 3 | -4.60 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -505,6 +505,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-virtane-jones-2026-08-26 | HomeRunHazard, OOOwhyOOO |
 | mlb-chc-ari-2026-08-26 | Djdjdjekekek, HomeRunHazard |
 | mlb-kc-tor-2026-08-26-total-8pt5 | HomeRunHazard, RN1 |
+| cs2-lgc-fut-2026-08-27 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | wta-swan-stoiana-2026-08-26 | , HomeRunHazard |
 | mlb-mil-nym-2026-08-26-total-8pt5 | HomeRunHazard, Sassy-Bucket |
 | mlb-lad-atl-2026-08-26 | Djdjdjekekek, HomeRunHazard, RN1, texaskid |
@@ -518,7 +519,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 6.1% | ⏳ pendiente | — |
+| Djdjdjekekek | Minnesota Twins vs. Athletics | Athletics (BUY) | 50% | 5.00 | 118.3% | ⏳ pendiente | — |
+| Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | 💰 vendida anticipada | -0.44 |
 | TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 46% | 5.00 | 21.4% | ⏳ pendiente | — |
 | Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 4805.4% | ⏳ pendiente | — |
 | Donghui | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 48% | 5.00 | 32.4% | ❌ perdida | -5.13 |
@@ -546,5 +549,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Baltimore Orioles vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 49% | 5.00 | 0.3% | ✅ ganada | +5.08 |
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Under (BUY) | 60% | 5.00 | 0.4% | ✅ ganada | +3.23 |
-| RN1 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 89% | 5.00 | 0.3% | ✅ ganada | +0.59 |
-| RN1 | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |

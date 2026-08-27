@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.06774144973457,
+  "bankroll": 473.627163018362,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12015,6 +12015,11 @@
       "timestamp": 1787798564.0644176,
       "bankroll": 474.07,
       "event": "lost: Donghui \u2014 Winston-Salem Open: Martin Damm vs Fabian Marozsan"
+    },
+    {
+      "timestamp": 1787798777.256149,
+      "bankroll": 473.63,
+      "event": "venta anticipada: Djdjdjekekek \u2014 Minnesota Twins vs. Athletics (-0.44 USD)"
     }
   ]
 }
