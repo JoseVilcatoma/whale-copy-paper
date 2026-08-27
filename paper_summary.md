@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 12:16:46 (hora de Perú)
+Actualizado: 2026-08-27 12:18:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $468.22
-**Retorno acumulado:** -6.36%
+**Bankroll actual:** $463.52
+**Retorno acumulado:** -7.30%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 12:16:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $128.22)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $138.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 33 | 16 | 0 | +55.63 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
-| HomeRunHazard | 371 | 183 | 7 | +36.71 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
+| HomeRunHazard | 371 | 184 | 6 | +31.62 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 19 | 9 | 1 | +22.46 USD |
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 362 | 169 | 20 | -39.36 USD |
+| RN1 | 363 | 170 | 18 | -38.96 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2419
-- **Aciertos:** 1555 (64.3%)
+- **Apuestas resueltas:** 2422
+- **Aciertos:** 1556 (64.2%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,082.59
-- **ROI sobre lo apostado:** -0.97%
-- **Comisiones pagadas (taker fee):** $219.07 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.85% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,097.59
+- **ROI sobre lo apostado:** -1.00%
+- **Comisiones pagadas (taker fee):** $219.41 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.81% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,8 +108,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1191 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 719 | 70.4% | 67.7% | +2.7 pp |
+| 40-59% | 1193 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 720 | 70.3% | 67.7% | +2.6 pp |
 | 80-94% | 347 | 86.5% | 86.8% | -0.4 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
@@ -548,15 +548,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ❌ perdida | -5.09 |
 | casualbet2020 | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 71% | 5.00 | 37.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ❌ perdida | -5.03 |
-| RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
 | RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: AS Monaco FC (-1.5) | Górnik Zabrze (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Cezar Cretu (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Cezar Cretu (BUY) | 47% | 5.00 | 0.4% | ✅ ganada | +5.51 |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Elena Milovanovic (BUY) | 69% | 5.00 | 4.7% | ✅ ganada | +2.17 |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Tomas Barrios (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: O/U 3 | Under (BUY) | 82% | 5.00 | 0.7% | ⏳ pendiente | — |
