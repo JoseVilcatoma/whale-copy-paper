@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.5222348487936,
+  "bankroll": 467.3872348487936,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12890,6 +12890,11 @@
       "timestamp": 1787868522.4475536,
       "bankroll": 472.52,
       "event": "lost: SPCEXBUYER \u2014 Counter-Strike: Team Falcons vs Lynn Vision (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787869210.4431968,
+      "bankroll": 467.39,
+      "event": "lost: Djdjdjekekek \u2014 Valorant: LOUD vs FURIA Esports - Map 1 Winner"
     }
   ]
 }
