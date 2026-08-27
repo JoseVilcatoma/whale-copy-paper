@@ -61669,8 +61669,8 @@
     "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Mara Guth vs Tiphanie Lemaitre",
     "outcome": "Mara Guth",
     "side": "BUY",
-    "whale_usd": 1064.3,
-    "whale_pct": 2.17,
+    "whale_usd": 2330.45,
+    "whale_pct": 4.751,
     "whale_value_at_open": 49050.8561,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -61681,8 +61681,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787822066.868486,
-    "fills": 1
+    "last_fill_at": 1787826162.5535698,
+    "fills": 2
   },
   {
     "timestamp": 1787823172,
@@ -62022,6 +62022,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787825318.0669193,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787826202,
+    "timestamp_added": 1787826203.2154658,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-masur-mena-2026-08-27",
+    "title": "Augsburg: Daniel Masur vs Facundo Mena",
+    "outcome": "Facundo Mena",
+    "side": "BUY",
+    "whale_usd": 2789.05,
+    "whale_pct": 3.022,
+    "whale_value_at_open": 92278.5689,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787826203.2154756,
     "fills": 1
   }
 ]
