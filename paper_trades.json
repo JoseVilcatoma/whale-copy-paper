@@ -63875,5 +63875,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787850232.994497,
     "fills": 1
+  },
+  {
+    "timestamp": 1787850440,
+    "timestamp_added": 1787850441.44474,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-big1-g2nord-2026-08-27-game3",
+    "title": "LoL: BIG vs G2 NORD - Game 3 Winner",
+    "outcome": "G2 NORD",
+    "side": "BUY",
+    "whale_usd": 5842.982900000001,
+    "whale_pct": 22.617,
+    "whale_value_at_open": 25834.6826,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787850441.444758,
+    "fills": 1
   }
 ]

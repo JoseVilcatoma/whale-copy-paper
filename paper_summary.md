@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 12:06:18 (hora de Perú)
+Actualizado: 2026-08-27 12:08:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $468.22
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 12:06:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $133.22)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $128.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 19 | 9 | 1 | +22.46 USD |
 | TAIWANNUMBERONE | 9 | 5 | 1 | +21.06 USD |
-| ChonkyChocolateCake | 36 | 21 | 1 | +19.87 USD |
+| ChonkyChocolateCake | 36 | 21 | 2 | +19.87 USD |
 | texaskid | 4 | 1 | 2 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -534,6 +534,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: BIG vs G2 NORD - Game 3 Winner | G2 NORD (BUY) | 68% | 5.00 | 22.6% | ⏳ pendiente | — |
 | texaskid | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 57% | 5.00 | 285.7% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: FAL (-1.5) vs Lynn Vision  | Team Falcons (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
 | plonker2026 | Spread: FC Red Bull Salzburg (-1.5) | Mjällby AIF (BUY) | 46% | 5.00 | 4.6% | ⏳ pendiente | — |
@@ -563,4 +564,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Vilius Gauba | Harry Wendelken (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Haruka Kaji (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Marlon Vankan (BUY) | 46% | 5.00 | 0.4% | ❌ perdida | -5.13 |
-| RN1 | Will FC Twente win on 2026-08-27? | No (BUY) | 52% | 5.00 | 2.5% | ⏳ pendiente | — |
