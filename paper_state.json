@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.55842846996575,
+  "bankroll": 473.2501852267225,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12555,6 +12555,11 @@
       "timestamp": 1787849618.3416462,
       "bankroll": 471.56,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Haruka Kaji vs Elena Milovanovic"
+    },
+    {
+      "timestamp": 1787849674.5854166,
+      "bankroll": 473.25,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Carolina Bohrer Martins vs Ana Candiotto"
     }
   ]
 }
