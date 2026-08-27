@@ -64167,8 +64167,8 @@
     "title": "Los Angeles Dodgers vs. Atlanta Braves",
     "outcome": "Los Angeles Dodgers",
     "side": "BUY",
-    "whale_usd": 859852.5070709999,
-    "whale_pct": 271.258,
+    "whale_usd": 1083160.607871,
+    "whale_pct": 341.706,
     "whale_value_at_open": 316986.5537,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -64179,8 +64179,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787863460.063142,
-    "fills": 8
+    "last_fill_at": 1787864894.5308275,
+    "fills": 10
   },
   {
     "timestamp": 1787863503,
@@ -64229,5 +64229,58 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787864372.89072,
     "fills": 2
+  },
+  {
+    "timestamp": 1787864893,
+    "timestamp_added": 1787864893.784135,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 28631.595200000003,
+    "whale_pct": 638.98,
+    "whale_value_at_open": 4480.8286,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787864893.7841485,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787864893,
+    "timestamp_added": 1787864894.6839657,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "mlb-lad-atl-2026-08-27",
+    "title": "Los Angeles Dodgers vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 78000.0,
+    "whale_pct": 2849.2,
+    "whale_value_at_open": 2737.6104,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Djdjdjekekek",
+      "casualbet2020"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787864894.6839788,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 16:08:13 (hora de Perú)
+Actualizado: 2026-08-27 16:10:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $481.60
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 16:08:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $301.60)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $291.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 371 | 184 | 6 | +31.62 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 20 | 9 | 0 | +24.43 USD |
+| casualbet2020 | 20 | 9 | 1 | +24.43 USD |
 | texaskid | 6 | 1 | 0 | +22.32 USD |
 | TAIWANNUMBERONE | 9 | 5 | 1 | +21.06 USD |
 | ChonkyChocolateCake | 37 | 22 | 2 | +19.44 USD |
@@ -58,6 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| Talvez10 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -531,14 +532,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-rincon-barrios-2026-08-27 | Donghui, RN1 |
 | atp-cretu-moelle-2026-08-27 | HomeRunHazard, RN1 |
 | uel-rbs-ma-2026-08-27-spread-home-1pt5 | RN1, plonker2026 |
+| mlb-lad-atl-2026-08-27 | Djdjdjekekek, Talvez10, casualbet2020 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 2849.2% | ⏳ pendiente | — |
+| casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 639.0% | ⏳ pendiente | — |
 | SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 189.2% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ⏳ pendiente | — |
-| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 271.3% | ⏳ pendiente | — |
+| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 341.7% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ⏳ pendiente | — |
@@ -564,5 +568,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ✅ ganada | +0.98 |
 | HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ❌ perdida | -5.09 |
-| casualbet2020 | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 71% | 5.00 | 37.6% | ✅ ganada | +1.97 |
-| RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ✅ ganada | +5.73 |
