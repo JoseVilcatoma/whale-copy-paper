@@ -63126,8 +63126,8 @@
     "title": "US Open, Qualification ATP: Daniel Rincon vs Tomas Barrios",
     "outcome": "Daniel Rincon",
     "side": "BUY",
-    "whale_usd": 1713.4655999999998,
-    "whale_pct": 5.664,
+    "whale_usd": 3098.062522,
+    "whale_pct": 10.242,
     "whale_value_at_open": 30249.935,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -63138,8 +63138,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787842422.3948982,
-    "fills": 2
+    "last_fill_at": 1787842800.03207,
+    "fills": 4
   },
   {
     "timestamp": 1787842290,
