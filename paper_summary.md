@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:11:12 (hora de Perú)
+Actualizado: 2026-08-27 18:13:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.84
@@ -539,7 +539,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 3.3% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 306.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 151.4% | ⏳ pendiente | — |
 | Djdjdjekekek | Valorant: LOUD vs FURIA Esports - Map 1  | FURIA Esports (BUY) | 46% | 5.00 | 38.2% | ❌ perdida | -5.13 |
