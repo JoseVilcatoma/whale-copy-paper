@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.4517529906087,
+  "bankroll": 448.0427305186986,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12245,6 +12245,11 @@
       "timestamp": 1787829180.2484956,
       "bankroll": 447.45,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Tymur Bieldiugin"
+    },
+    {
+      "timestamp": 1787829364.1845171,
+      "bankroll": 448.04,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Allershausen (Germany), clay: Thiago Cigarran vs Frederic Schlossmann"
     }
   ]
 }
