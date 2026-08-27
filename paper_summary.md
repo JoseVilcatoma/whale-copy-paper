@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 21:40:35 (hora de Perú)
+Actualizado: 2026-08-26 21:42:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $484.34
-**Retorno acumulado:** -3.13%
+**Bankroll actual:** $474.07
+**Retorno acumulado:** -5.19%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 21:40:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $244.34)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $239.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 362 | 178 | 5 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 35 | 20 | 0 | +18.49 USD |
-| TAIWANNUMBERONE | 7 | 4 | 2 | +16.61 USD |
+| TAIWANNUMBERONE | 7 | 4 | 3 | +16.61 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -84,8 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
-| Donghui | 0 | 4 | 2 | -20.52 USD |
-| RN1 | 330 | 150 | 11 | -23.82 USD |
+| Donghui | 0 | 5 | 1 | -25.65 USD |
+| RN1 | 330 | 151 | 10 | -28.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 16 | 27 | 4 | -63.29 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2308
+- **Apuestas resueltas:** 2310
 - **Aciertos:** 1489 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,527.59
-- **ROI sobre lo apostado:** -0.88%
-- **Comisiones pagadas (taker fee):** $208.05 (1.80% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,537.59
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $208.32 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1128 | 50.0% | 50.2% | -0.2 pp |
+| 40-59% | 1130 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 687 | 70.0% | 67.7% | +2.4 pp |
 | 80-94% | 335 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 158 | 95.6% | 97.4% | -1.8 pp |
@@ -518,8 +518,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 1437.3% | ⏳ pendiente | — |
-| Donghui | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 48% | 5.00 | 32.4% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 46% | 5.00 | 21.4% | ⏳ pendiente | — |
+| Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 4805.4% | ⏳ pendiente | — |
+| Donghui | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 48% | 5.00 | 32.4% | ❌ perdida | -5.13 |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 175 | Over (BUY) | 48% | 5.00 | 23.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 176 | Over (BUY) | 44% | 5.00 | 32.3% | ⏳ pendiente | — |
 | Sassy-Bucket | Minnesota Twins vs. Athletics: O/U 9.5 | Under (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -527,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 44% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Inner Circle | Vitality (BUY) | 89% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 67% | 5.00 | 20.6% | ⏳ pendiente | — |
-| RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | RN1 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ✅ ganada | +5.73 |
 | RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
@@ -547,4 +548,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Milwaukee Brewers vs. New York Mets | Milwaukee Brewers (BUY) | 89% | 5.00 | 0.3% | ✅ ganada | +0.59 |
 | RN1 | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 42% | 5.00 | 0.3% | ❌ perdida | -5.14 |
 | RN1 | Spread: New York Yankees (-2.5) | Houston Astros (BUY) | 53% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ✅ ganada | +6.22 |

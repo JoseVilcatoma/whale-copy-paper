@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.33774144973455,
+  "bankroll": 474.06774144973457,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12005,6 +12005,16 @@
       "timestamp": 1787797629.2155697,
       "bankroll": 484.34,
       "event": "lost: RN1 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1787798561.852554,
+      "bankroll": 479.2,
+      "event": "lost: RN1 \u2014 Winston-Salem Open: Martin Damm vs Fabian Marozsan"
+    },
+    {
+      "timestamp": 1787798564.0644176,
+      "bankroll": 474.07,
+      "event": "lost: Donghui \u2014 Winston-Salem Open: Martin Damm vs Fabian Marozsan"
     }
   ]
 }
