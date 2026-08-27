@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 13:28:07 (hora de Perú)
+Actualizado: 2026-08-27 13:30:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $459.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 13:28:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $119.49)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $114.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | ExplosiveNinja | 1 | 2 | 2 | -7.11 USD |
 | wr0ngw4yb3tt0r | 1 | 3 | 0 | -9.12 USD |
-| Djdjdjekekek | 22 | 20 | 0 | -9.97 USD |
+| Djdjdjekekek | 22 | 20 | 1 | -9.97 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -534,6 +534,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Karmine Corp Blue vs Skillcamp Espo | Skillcamp Esport (BUY) | 56% | 5.00 | 15.8% | ⏳ pendiente | — |
 | plonker2026 | Will Trabzonspor win on 2026-08-27? | No (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | plonker2026 | Spread: Brighton & Hove Albion FC (-2.5) | Brighton & Hove Albion FC (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -563,4 +564,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Shamrock Rovers FC win on 2026-08-2 | No (BUY) | 78% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Cezar Cretu (BUY) | 47% | 5.00 | 0.4% | ✅ ganada | +5.51 |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Elena Milovanovic (BUY) | 69% | 5.00 | 4.7% | ✅ ganada | +2.17 |
-| RN1 | US Open, Qualification ATP: Daniel Rinco | Tomas Barrios (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
