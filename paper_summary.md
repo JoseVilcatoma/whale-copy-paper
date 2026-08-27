@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:43:54 (hora de Perú)
+Actualizado: 2026-08-27 18:45:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.48
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 18:43:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $360.48)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $355.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | BrotherObama | 1 | 0 | 0 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
-| HVAB | 13 | 7 | 2 | +1.13 USD |
+| HVAB | 13 | 7 | 3 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
@@ -540,6 +540,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | Kingston 2: Andrew Fenty vs Luis Guto Mi | Luis Guto Miguel (BUY) | 94% | 5.00 | 3.7% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 73% | 5.00 | 4.7% | ⏳ pendiente | — |
 | RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 51% | 5.00 | 18.9% | ⏳ pendiente | — |
@@ -569,4 +570,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Brighton & Hove Albion FC vs. Tromsø IL: | Over (BUY) | 49% | 5.00 | 3.3% | ✅ ganada | +5.08 |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 50% | 5.00 | 30.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 3 Winner | G2 NORD (BUY) | 68% | 5.00 | 22.6% | ✅ ganada | +2.27 |
-| texaskid | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 57% | 5.00 | 285.7% | ✅ ganada | +3.66 |

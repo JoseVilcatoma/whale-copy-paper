@@ -64609,5 +64609,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787874145.0110323,
     "fills": 2
+  },
+  {
+    "timestamp": 1787874229,
+    "timestamp_added": 1787874244.48838,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-fenty-miguel-2026-08-28",
+    "title": "Kingston 2: Andrew Fenty vs Luis Guto Miguel",
+    "outcome": "Luis Guto Miguel",
+    "side": "BUY",
+    "whale_usd": 529.0,
+    "whale_pct": 3.664,
+    "whale_value_at_open": 14437.2994,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787874244.4883933,
+    "fills": 1
   }
 ]
