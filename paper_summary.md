@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 15:26:34 (hora de Perú)
+Actualizado: 2026-08-27 15:35:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $474.83
-**Retorno acumulado:** -5.03%
+**Bankroll actual:** $485.09
+**Retorno acumulado:** -2.98%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 15:26:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $189.83)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $270.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,14 +24,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 33 | 16 | 1 | +55.63 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | SDTrading | 32 | 20 | 1 | +44.18 USD |
-| swisstony | 83 | 17 | 1 | +32.61 USD |
+| swisstony | 83 | 18 | 0 | +32.30 USD |
 | HomeRunHazard | 371 | 184 | 6 | +31.62 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 20 | 9 | 0 | +24.43 USD |
+| texaskid | 6 | 1 | 0 | +22.32 USD |
 | TAIWANNUMBERONE | 9 | 5 | 1 | +21.06 USD |
 | ChonkyChocolateCake | 37 | 22 | 2 | +19.44 USD |
-| texaskid | 4 | 1 | 2 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -84,23 +84,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 3 | -13.49 USD |
 | GoalLineGhost | 16 | 9 | 12 | -14.45 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
-| Donghui | 2 | 5 | 2 | -19.50 USD |
-| RN1 | 369 | 171 | 11 | -26.82 USD |
-| danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
+| RN1 | 371 | 171 | 9 | -17.46 USD |
+| Donghui | 2 | 7 | 0 | -24.94 USD |
+| danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2439
-- **Aciertos:** 1568 (64.3%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 2444
+- **Aciertos:** 1572 (64.3%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,182.59
-- **ROI sobre lo apostado:** -0.94%
-- **Comisiones pagadas (taker fee):** $220.83 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,207.59
+- **ROI sobre lo apostado:** -0.83%
+- **Comisiones pagadas (taker fee):** $221.44 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1200 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1205 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 726 | 70.2% | 67.7% | +2.5 pp |
 | 80-94% | 351 | 86.6% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
@@ -547,7 +547,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Brighton & Hove Albion FC vs. Tromsø IL: | Over (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |
 | SDTrading | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 50% | 5.00 | 0.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 3 Winner | G2 NORD (BUY) | 68% | 5.00 | 22.6% | ⏳ pendiente | — |
-| texaskid | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 57% | 5.00 | 285.7% | ⏳ pendiente | — |
+| texaskid | Colorado Rockies vs. Washington National | Washington Nationals (BUY) | 57% | 5.00 | 285.7% | ✅ ganada | +3.66 |
 | AV23IUa | Map Handicap: FAL (-1.5) vs Lynn Vision  | Team Falcons (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
 | plonker2026 | Spread: FC Red Bull Salzburg (-1.5) | Mjällby AIF (BUY) | 46% | 5.00 | 4.6% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: BIG vs G2 NORD - Game 2 Winner | G2 NORD (BUY) | 51% | 5.00 | 23.7% | ✅ ganada | +4.68 |
@@ -556,7 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Toby Samuel  | Cristian Garin (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: FC Red Bull Salzburg (-1.5) | FC Red Bull Salzburg (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Will Panathinaikós AO win on 2026-08-27? | Yes (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
-| texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 32.6% | ⏳ pendiente | — |
+| texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 32.6% | ✅ ganada | +5.08 |
 | RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ✅ ganada | +1.05 |
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ✅ ganada | +0.98 |
@@ -565,4 +565,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ✅ ganada | +5.73 |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ❌ perdida | -5.03 |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.7% | ❌ perdida | -5.11 |
-| RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ✅ ganada | +4.68 |

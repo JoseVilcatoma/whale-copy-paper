@@ -32278,13 +32278,14 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787503833.3405762,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787504210,
@@ -32302,13 +32303,14 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787504210.8227248,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787504410,
@@ -32326,13 +32328,14 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.22,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787504411.1532764,
-    "fills": 2
+    "fills": 2,
+    "closed_price": 50
   },
   {
     "timestamp": 1787504437,
@@ -36152,13 +36155,14 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": 0.81,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787568757.0340874,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787569441,
@@ -39402,13 +39406,14 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.4,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787589959.36815,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787590085,
@@ -39924,13 +39929,14 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787592700.860274,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787592834,
@@ -40120,15 +40126,16 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.31,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787593459.3076909,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787593493,
@@ -44823,13 +44830,14 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.93,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787642797.9681714,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787644967,
@@ -52391,13 +52399,14 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "anulado",
+    "profit_usd": -0.31,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787710257.9598973,
-    "fills": 1
+    "fills": 1,
+    "closed_price": 50
   },
   {
     "timestamp": 1787710337,
@@ -63133,8 +63142,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -63305,8 +63314,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "Donghui"
     ],
@@ -63427,8 +63436,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -63648,8 +63657,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -63868,8 +63877,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.66,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

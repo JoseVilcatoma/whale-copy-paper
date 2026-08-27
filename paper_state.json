@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.8314187965371,
+  "bankroll": 485.0899970694933,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12670,6 +12670,76 @@
       "timestamp": 1787862162.5563776,
       "bankroll": 474.83,
       "event": "won: RN1 \u2014 US Open, Qualification WTA: Julieta Pareja vs Lucrezia Stefanini"
+    },
+    {
+      "timestamp": 1787862810.1893625,
+      "bankroll": 474.52,
+      "event": "anulado (precio 0.50): danielwolfmorales3pddb6dl6 \u2014 Kingston 2: Evan Zhu vs Arthur Reymond"
+    },
+    {
+      "timestamp": 1787862810.5575047,
+      "bankroll": 474.21,
+      "event": "anulado (precio 0.50): danielwolfmorales3pddb6dl6 \u2014 Philadelphia: Liudmila Samsonova vs Taylah Preston"
+    },
+    {
+      "timestamp": 1787862810.875137,
+      "bankroll": 473.99,
+      "event": "anulado (precio 0.50): danielwolfmorales3pddb6dl6 \u2014 Winston-Salem Open: Dino Prizmic vs Cruz Hewitt"
+    },
+    {
+      "timestamp": 1787862811.1681888,
+      "bankroll": 474.79,
+      "event": "anulado (precio 0.50): ferrariChampions2026 \u2014 Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva"
+    },
+    {
+      "timestamp": 1787862811.4756103,
+      "bankroll": 474.39,
+      "event": "anulado (precio 0.50): ferrariChampions2026 \u2014 US Open, Qualification ATP: Lukas Neumayer vs Oliver Crawford"
+    },
+    {
+      "timestamp": 1787862811.575816,
+      "bankroll": 473.67,
+      "event": "anulado (precio 0.50): ferrariChampions2026 \u2014 Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva"
+    },
+    {
+      "timestamp": 1787862811.6760564,
+      "bankroll": 473.36,
+      "event": "anulado (precio 0.50): Donghui \u2014 Winston-Salem Open: Lorenzo Sonego vs Vit Kopriva"
+    },
+    {
+      "timestamp": 1787862812.0125327,
+      "bankroll": 472.43,
+      "event": "anulado (precio 0.50): ferrariChampions2026 \u2014 ITF W15 Brasov Women: Anastasia Preda vs Ana Maria Capeti"
+    },
+    {
+      "timestamp": 1787862812.3125498,
+      "bankroll": 472.11,
+      "event": "anulado (precio 0.50): swisstony \u2014 Monterrey Open: Nikola Bartunkova vs Anastasia Potapova"
+    },
+    {
+      "timestamp": 1787862819.30122,
+      "bankroll": 466.99,
+      "event": "lost: Donghui \u2014 US Open, Qualification ATP: Daniel Rincon vs Tomas Barrios"
+    },
+    {
+      "timestamp": 1787862819.706801,
+      "bankroll": 471.67,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Daniel Rincon vs Tomas Barrios"
+    },
+    {
+      "timestamp": 1787862820.3717961,
+      "bankroll": 476.35,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Aziz Dougaz vs Andrea Guerrieri"
+    },
+    {
+      "timestamp": 1787862820.5927963,
+      "bankroll": 481.43,
+      "event": "won: texaskid \u2014 Colorado Rockies vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1787862822.4703074,
+      "bankroll": 485.09,
+      "event": "won: texaskid \u2014 Colorado Rockies vs. Washington Nationals"
     }
   ]
 }
