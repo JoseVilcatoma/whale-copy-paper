@@ -64559,5 +64559,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787873392.3067067,
     "fills": 5
+  },
+  {
+    "timestamp": 1787873789,
+    "timestamp_added": 1787873790.0773332,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "nfl-pit-buf-2026-08-27-total-41pt5",
+    "title": "Steelers vs. Bills: O/U 41.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2296.7999999999997,
+    "whale_pct": 1.6,
+    "whale_value_at_open": 143561.6401,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787873799.2968326,
+    "fills": 4
   }
 ]
