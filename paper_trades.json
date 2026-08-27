@@ -63617,8 +63617,8 @@
     "title": "Will Modern SC win on 2026-08-27?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1807.3683999999998,
-    "whale_pct": 1.02,
+    "whale_usd": 2998.4183999999996,
+    "whale_pct": 1.693,
     "whale_value_at_open": 177107.9976,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -63629,8 +63629,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787845572.4242566,
-    "fills": 3
+    "last_fill_at": 1787845628.4494863,
+    "fills": 4
   },
   {
     "timestamp": 1787845517,

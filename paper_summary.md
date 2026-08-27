@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 10:46:36 (hora de Perú)
+Actualizado: 2026-08-27 10:48:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.36
@@ -533,7 +533,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 12.3% | ⏳ pendiente | — |
-| RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
