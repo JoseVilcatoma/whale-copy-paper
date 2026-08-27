@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.6766708862222,
+  "bankroll": 449.7709147886613,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12215,6 +12215,16 @@
       "timestamp": 1787826351.0790114,
       "bankroll": 435.68,
       "event": "lost: casualbet2020 \u2014 Valorant: Gen.G Esports vs Nongshim RedForce - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787826979.652125,
+      "bankroll": 442.72,
+      "event": "won: RN1 \u2014 Augsburg: Benito Sanchez Martinez vs Hynek Barton"
+    },
+    {
+      "timestamp": 1787826979.75228,
+      "bankroll": 449.77,
+      "event": "won: ferrariChampions2026 \u2014 Augsburg: Benito Sanchez Martinez vs Hynek Barton"
     }
   ]
 }
