@@ -62996,5 +62996,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787840770.1075637,
     "fills": 1
+  },
+  {
+    "timestamp": 1787840996,
+    "timestamp_added": 1787840997.2237155,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "col-kps-shr-2026-08-27-kps",
+    "title": "Will Kuopion PS win on 2026-08-27?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 10655.666666000001,
+    "whale_pct": 65.165,
+    "whale_value_at_open": 16351.9445,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787841096.1882415,
+    "fills": 5
   }
 ]
