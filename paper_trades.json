@@ -62738,8 +62738,8 @@
     "title": "Augsburg: Sandro Kopp vs Martin Krumich",
     "outcome": "Sandro Kopp",
     "side": "BUY",
-    "whale_usd": 654.5454540000001,
-    "whale_pct": 0.822,
+    "whale_usd": 1282.4519540000001,
+    "whale_pct": 1.611,
     "whale_value_at_open": 79603.4144,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -62750,8 +62750,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787831707.8779678,
-    "fills": 1
+    "last_fill_at": 1787833748.4979985,
+    "fills": 2
   },
   {
     "timestamp": 1787831863,

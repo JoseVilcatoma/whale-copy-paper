@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 07:27:00 (hora de Perú)
+Actualizado: 2026-08-27 07:29:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.78
@@ -533,7 +533,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | FC St. Gallen vs. FC Nordsjælland: O/U 2 | Over (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 41% | 5.00 | 19.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-1.5) | SK Iberia 1999 (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |
-| RN1 | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 46% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Noah Karma (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-2.5) | SK Iberia 1999 (BUY) | 92% | 5.00 | 1.6% | ⏳ pendiente | — |
 | GoalLineGhost | Will FK Crvena zvezda win on 2026-08-27? | No (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
