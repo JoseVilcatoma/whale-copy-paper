@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.11007397487185,
+  "bankroll": 474.10821117674055,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11965,6 +11965,21 @@
       "timestamp": 1787796094.9049973,
       "bankroll": 478.11,
       "event": "lost: RN1 \u2014 Houston Astros vs. New York Yankees: O/U 9.5"
+    },
+    {
+      "timestamp": 1787796400.2670114,
+      "bankroll": 473.03,
+      "event": "lost: RN1 \u2014 Colorado Rockies vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1787796403.3649838,
+      "bankroll": 473.13,
+      "event": "won: RN1 \u2014 Will CD Universidad Cat\u00f3lica win on 2026-08-26?"
+    },
+    {
+      "timestamp": 1787796404.397537,
+      "bankroll": 474.11,
+      "event": "won: RN1 \u2014 Colorado Rockies vs. Washington Nationals"
     }
   ]
 }

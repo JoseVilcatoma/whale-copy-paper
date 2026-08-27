@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 21:05:56 (hora de Perú)
+Actualizado: 2026-08-26 21:07:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $478.11
-**Retorno acumulado:** -4.38%
+**Bankroll actual:** $474.11
+**Retorno acumulado:** -5.18%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 21:05:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $203.11)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $214.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 4 | 2 | -20.52 USD |
-| RN1 | 325 | 148 | 18 | -24.54 USD |
+| RN1 | 327 | 149 | 15 | -28.54 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 16 | 27 | 4 | -63.29 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2300
-- **Aciertos:** 1483 (64.5%)
+- **Apuestas resueltas:** 2303
+- **Aciertos:** 1485 (64.5%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,487.59
-- **ROI sobre lo apostado:** -0.93%
-- **Comisiones pagadas (taker fee):** $207.40 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,502.59
+- **ROI sobre lo apostado:** -0.97%
+- **Comisiones pagadas (taker fee):** $207.53 (1.80% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.84% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,9 +109,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1124 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 686 | 70.1% | 67.7% | +2.5 pp |
-| 80-94% | 333 | 87.4% | 86.8% | +0.6 pp |
-| 95-99% (casi seguro) | 157 | 95.5% | 97.4% | -1.8 pp |
+| 60-79% | 687 | 70.0% | 67.7% | +2.4 pp |
+| 80-94% | 334 | 87.4% | 86.8% | +0.6 pp |
+| 95-99% (casi seguro) | 158 | 95.6% | 97.4% | -1.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -529,7 +529,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
 | RN1 | Will CDP Junior FC win on 2026-08-26? | No (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Tristan Scho | Tristan Schoolkate (BUY) | 89% | 5.00 | 0.5% | ✅ ganada | +0.59 |
 | RN1 | US Open, Qualification ATP: Henrique Roc | Lloyd Harris (BUY) | 44% | 5.00 | 0.8% | ✅ ganada | +6.22 |
@@ -537,7 +537,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 13.5% | ⏳ pendiente | — |
 | RN1 | Golden State Valkyries vs. Connecticut S | Over (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
 | RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | Will CD Universidad Católica win on 2026 | Yes (BUY) | 98% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will CD Universidad Católica win on 2026 | Yes (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | RN1 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 98% | 5.00 | 1.2% | ✅ ganada | +0.10 |
 | RN1 | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 51% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | RN1 | Baltimore Orioles vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
