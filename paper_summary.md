@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:51:03 (hora de Perú)
+Actualizado: 2026-08-27 05:53:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $449.77
@@ -531,7 +531,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 43% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Augsburg: Daniel Masur vs Facundo Mena | Daniel Masur (BUY) | 44% | 5.00 | 2.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will Sport Lisboa e Benfica win on 2026- | Yes (BUY) | 70% | 5.00 | 1.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 54% | 5.00 | 21.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 54% | 5.00 | 24.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Kirill Kivattsev (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
