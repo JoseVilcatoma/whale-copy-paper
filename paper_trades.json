@@ -61693,8 +61693,8 @@
     "title": "Spread: FC Viktoria Plze\u0148 (-1.5)",
     "outcome": "FK Crvena zvezda",
     "side": "BUY",
-    "whale_usd": 606.9987,
-    "whale_pct": 1.916,
+    "whale_usd": 1802.0002,
+    "whale_pct": 5.689,
     "whale_value_at_open": 31675.3616,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -61705,8 +61705,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787823172.6658375,
-    "fills": 1
+    "last_fill_at": 1787824047.8361027,
+    "fills": 3
   },
   {
     "timestamp": 1787823258,
