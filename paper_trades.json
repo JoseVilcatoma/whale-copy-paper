@@ -62143,5 +62143,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787826558.7831302,
     "fills": 1
+  },
+  {
+    "timestamp": 1787826744,
+    "timestamp_added": 1787826745.0816405,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-ns-fox1-2026-08-27-game4",
+    "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 4 Winner",
+    "outcome": "Nongshim Red Force",
+    "side": "BUY",
+    "whale_usd": 2650.0,
+    "whale_pct": 2.669,
+    "whale_value_at_open": 99298.3941,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787826745.0816503,
+    "fills": 1
   }
 ]
