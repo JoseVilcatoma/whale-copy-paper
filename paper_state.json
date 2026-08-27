@@ -1,5 +1,5 @@
 {
-  "bankroll": 458.8913170582647,
+  "bankroll": 465.50336057811165,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12620,6 +12620,21 @@
       "timestamp": 1787856915.2879312,
       "bankroll": 458.89,
       "event": "won: RN1 \u2014 Will Shamrock Rovers FC win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787857004.9251137,
+      "bankroll": 463.57,
+      "event": "venta anticipada: Djdjdjekekek \u2014 Counter-Strike: Team Falcons vs Lynn Vision - Map 2 Winner (+4.68 USD)"
+    },
+    {
+      "timestamp": 1787857036.6061552,
+      "bankroll": 458.46,
+      "event": "lost: plonker2026 \u2014 Will Kuopion PS win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787857037.3105655,
+      "bankroll": 465.5,
+      "event": "won: RN1 \u2014 Will Kuopion PS win on 2026-08-27?"
     }
   ]
 }

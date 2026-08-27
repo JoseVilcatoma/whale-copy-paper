@@ -63013,8 +63013,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -63255,8 +63255,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [
       "plonker2026"
     ],
@@ -64036,13 +64036,15 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787855308.3820133,
-    "fills": 4
+    "fills": 4,
+    "fee_total_usd": 0.122,
+    "closed_price": 100
   },
   {
     "timestamp": 1787856668,

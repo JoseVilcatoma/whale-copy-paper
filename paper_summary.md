@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 13:55:23 (hora de Perú)
+Actualizado: 2026-08-27 13:57:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $458.89
-**Retorno acumulado:** -8.22%
+**Bankroll actual:** $465.50
+**Retorno acumulado:** -6.90%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 13:55:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $133.89)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $155.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| plonker2026 | 4 | 3 | 6 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -45,6 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 5 | 2 | 0 | +3.46 USD |
+| plonker2026 | 4 | 4 | 5 | +3.34 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -74,10 +74,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| Djdjdjekekek | 23 | 20 | 0 | -5.29 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | wr0ngw4yb3tt0r | 1 | 3 | 0 | -9.12 USD |
-| Djdjdjekekek | 22 | 20 | 1 | -9.97 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 13 | 9 | 15 | -17.42 USD |
 | Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 366 | 171 | 14 | -40.65 USD |
+| RN1 | 367 | 171 | 13 | -33.60 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2430
-- **Aciertos:** 1561 (64.2%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 2432
+- **Aciertos:** 1562 (64.2%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,137.59
-- **ROI sobre lo apostado:** -1.04%
-- **Comisiones pagadas (taker fee):** $220.03 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.77% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,147.59
+- **ROI sobre lo apostado:** -1.02%
+- **Comisiones pagadas (taker fee):** $220.29 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.79% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1195 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1197 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 724 | 70.2% | 67.7% | +2.5 pp |
 | 80-94% | 349 | 86.5% | 86.8% | -0.3 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
@@ -537,7 +537,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ⏳ pendiente | — |
 | AV23IUa | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | ⏳ pendiente | — |
+| Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | 💰 vendida anticipada | +4.68 |
 | DoNotTailMe | LoL: Karmine Corp Blue vs Skillcamp Espo | Skillcamp Esport (BUY) | 56% | 5.00 | 15.8% | ⏳ pendiente | — |
 | plonker2026 | Will Trabzonspor win on 2026-08-27? | No (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | plonker2026 | Spread: Brighton & Hove Albion FC (-2.5) | Brighton & Hove Albion FC (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
