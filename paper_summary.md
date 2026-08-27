@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 02:42:34 (hora de Perú)
+Actualizado: 2026-08-27 02:44:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -538,7 +538,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 20.7% | ⏳ pendiente | — |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Athletics (BUY) | 50% | 5.00 | 137.3% | ✅ ganada | +4.88 |
 | Djdjdjekekek | Minnesota Twins vs. Athletics | Minnesota Twins (BUY) | 51% | 5.00 | 26.3% | 💰 vendida anticipada | -0.44 |
-| TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 46% | 5.00 | 29.4% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 46% | 5.00 | 53.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Toronto Tempo vs. Seattle Storm | Toronto Tempo (BUY) | 45% | 5.00 | 4805.4% | ❌ perdida | -5.14 |
 | Donghui | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 48% | 5.00 | 32.4% | ❌ perdida | -5.13 |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 175 | Over (BUY) | 48% | 5.00 | 23.8% | ❌ perdida | -5.13 |
