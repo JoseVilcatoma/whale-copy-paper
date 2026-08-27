@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:21:25 (hora de Perú)
+Actualizado: 2026-08-27 18:23:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $476.84
-**Retorno acumulado:** -4.63%
+**Bankroll actual:** $480.99
+**Retorno acumulado:** -3.80%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 18:21:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $381.84)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $385.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
-| BOOMBOYS.Kiritych | 33 | 17 | 1 | +50.51 USD |
+| BOOMBOYS.Kiritych | 34 | 17 | 0 | +54.65 USD |
 | SDTrading | 32 | 20 | 1 | +44.18 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HomeRunHazard | 371 | 184 | 6 | +31.62 USD |
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 8 | 8 | 0 | -13.74 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 374 | 175 | 3 | -32.06 USD |
+| RN1 | 374 | 175 | 4 | -32.06 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 31 | 1 | -83.82 USD |
@@ -94,14 +94,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2479
-- **Aciertos:** 1595 (64.3%)
-- **Cuota promedio de entrada:** 63.8%
+- **Apuestas resueltas:** 2480
+- **Aciertos:** 1596 (64.4%)
+- **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,382.59
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $224.50 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,387.59
+- **ROI sobre lo apostado:** -0.85%
+- **Comisiones pagadas (taker fee):** $224.61 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,7 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1222 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1223 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 736 | 70.4% | 67.8% | +2.6 pp |
 | 80-94% | 357 | 86.8% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
@@ -538,6 +538,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
@@ -546,7 +547,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Valorant: LOUD vs FURIA Esports - Map 1  | FURIA Esports (BUY) | 46% | 5.00 | 38.2% | ❌ perdida | -5.13 |
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 2849.2% | ⏳ pendiente | — |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 639.0% | ⏳ pendiente | — |
-| SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 189.2% | ⏳ pendiente | — |
+| SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 189.2% | ✅ ganada | +4.14 |
 | OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ⏳ pendiente | — |
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 350.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ❌ perdida | -5.12 |
@@ -567,4 +568,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 79% | 5.00 | 3.8% | ✅ ganada | +1.28 |
 | RN1 | Spread: AFC Ajax (-1.5) | FC Sion (BUY) | 41% | 5.00 | 1.9% | ❌ perdida | -5.15 |
 | RN1 | US Open, Qualification ATP: Toby Samuel  | Cristian Garin (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Spread: FC Red Bull Salzburg (-1.5) | FC Red Bull Salzburg (BUY) | 58% | 5.00 | 3.0% | ✅ ganada | +3.52 |

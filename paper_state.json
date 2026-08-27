@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.84452344469616,
+  "bankroll": 480.98878270395545,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12915,6 +12915,11 @@
       "timestamp": 1787870706.3149743,
       "bankroll": 476.84,
       "event": "lost:  \u2014 Will FC Midtjylland win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787872895.8338492,
+      "bankroll": 480.99,
+      "event": "won: SPCEXBUYER \u2014 Valorant: LOUD vs FURIA Esports (BO3) - VCT Americas Stage 2 Playoffs"
     }
   ]
 }
