@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 01:17:18 (hora de Perú)
+Actualizado: 2026-08-27 01:19:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.67
@@ -528,7 +528,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 56% | 5.00 | 8.1% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 71% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 75% | 5.00 | 46.0% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 75% | 5.00 | 47.8% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 60% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 50.8% | ⏳ pendiente | — |
