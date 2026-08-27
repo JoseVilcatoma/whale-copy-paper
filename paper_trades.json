@@ -60728,8 +60728,8 @@
     "title": "Minnesota Twins vs. Athletics",
     "outcome": "Athletics",
     "side": "BUY",
-    "whale_usd": 106915.67629999999,
-    "whale_pct": 118.322,
+    "whale_usd": 124049.59462999998,
+    "whale_pct": 137.284,
     "whale_value_at_open": 90359.6625,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -60740,8 +60740,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787798797.0076928,
-    "fills": 7
+    "last_fill_at": 1787798890.03827,
+    "fills": 11
   },
   {
     "timestamp": 1787798699,
