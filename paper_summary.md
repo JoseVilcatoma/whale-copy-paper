@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 21:57:16 (hora de Perú)
+Actualizado: 2026-08-26 21:59:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $473.63
-**Retorno acumulado:** -5.27%
+**Bankroll actual:** $479.18
+**Retorno acumulado:** -4.16%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-26 21:57:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $228.63)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $259.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,18 +24,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
+| HomeRunHazard | 363 | 178 | 4 | +35.64 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| HomeRunHazard | 362 | 178 | 5 | +29.91 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 35 | 20 | 0 | +18.49 USD |
 | TAIWANNUMBERONE | 7 | 4 | 3 | +16.61 USD |
+| texaskid | 4 | 1 | 0 | +13.58 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 4 | 3 | 0 | +8.46 USD |
-| texaskid | 3 | 1 | 1 | +7.85 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -68,7 +68,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
 | wr0ngw4yb3tt0r | 1 | 2 | 1 | -4.00 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Djdjdjekekek | 21 | 18 | 3 | -4.60 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -78,6 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| Djdjdjekekek | 21 | 19 | 2 | -9.71 USD |
 | ExplosiveNinja | 0 | 2 | 1 | -10.21 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | GoalLineGhost | 11 | 8 | 2 | -14.92 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 330 | 151 | 10 | -28.96 USD |
+| RN1 | 331 | 152 | 8 | -29.76 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | Sassy-Bucket | 16 | 27 | 4 | -63.29 USD |
 | ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2310
-- **Aciertos:** 1489 (64.5%)
+- **Apuestas resueltas:** 2315
+- **Aciertos:** 1492 (64.4%)
 - **Cuota promedio de entrada:** 63.9%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,537.59
-- **ROI sobre lo apostado:** -0.96%
-- **Comisiones pagadas (taker fee):** $208.32 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.84% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,562.59
+- **ROI sobre lo apostado:** -0.91%
+- **Comisiones pagadas (taker fee):** $208.94 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,7 +108,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1130 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1135 | 50.0% | 50.1% | -0.2 pp |
 | 60-79% | 687 | 70.0% | 67.7% | +2.4 pp |
 | 80-94% | 335 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 158 | 95.6% | 97.4% | -1.8 pp |

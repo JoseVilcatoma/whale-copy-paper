@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.627163018362,
+  "bankroll": 479.1792557172956,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12020,6 +12020,31 @@
       "timestamp": 1787798777.256149,
       "bankroll": 473.63,
       "event": "venta anticipada: Djdjdjekekek \u2014 Minnesota Twins vs. Athletics (-0.44 USD)"
+    },
+    {
+      "timestamp": 1787799492.270954,
+      "bankroll": 468.52,
+      "event": "lost: Djdjdjekekek \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787799492.3711658,
+      "bankroll": 474.25,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787799492.8347402,
+      "bankroll": 479.98,
+      "event": "won: texaskid \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787799493.3622751,
+      "bankroll": 484.3,
+      "event": "won: RN1 \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787799493.8975809,
+      "bankroll": 479.18,
+      "event": "lost: RN1 \u2014 Los Angeles Dodgers vs. Atlanta Braves"
     }
   ]
 }
