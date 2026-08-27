@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.98878270395545,
+  "bankroll": 480.4803104817332,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12920,6 +12920,11 @@
       "timestamp": 1787872895.8338492,
       "bankroll": 480.99,
       "event": "won: SPCEXBUYER \u2014 Valorant: LOUD vs FURIA Esports (BO3) - VCT Americas Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1787873382.0294628,
+      "bankroll": 480.48,
+      "event": "venta anticipada: OOOwhyOOO \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse (-0.51 USD)"
     }
   ]
 }
