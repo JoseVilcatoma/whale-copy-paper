@@ -61717,8 +61717,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 27726.388619999998,
-    "whale_pct": 286.897,
+    "whale_usd": 32512.94862,
+    "whale_pct": 336.426,
     "whale_value_at_open": 9664.2187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -61731,8 +61731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787829730.1356404,
-    "fills": 9
+    "last_fill_at": 1787829823.4623113,
+    "fills": 11
   },
   {
     "timestamp": 1787823434,
@@ -62447,8 +62447,8 @@
     "title": "KBO: Hanwha Eagles vs. SSG Landers",
     "outcome": "SSG Landers",
     "side": "BUY",
-    "whale_usd": 2223.1,
-    "whale_pct": 2.23,
+    "whale_usd": 4960.54,
+    "whale_pct": 4.977,
     "whale_value_at_open": 99668.6656,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -62459,8 +62459,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787829562.2939303,
-    "fills": 2
+    "last_fill_at": 1787829830.663543,
+    "fills": 4
   },
   {
     "timestamp": 1787828894,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 06:22:27 (hora de Perú)
+Actualizado: 2026-08-27 06:24:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $444.83
@@ -530,7 +530,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Spread: FC Thun (-1.5) | KKS Lech Poznań (BUY) | 85% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Dimitar Kuzmanov (BUY) | 65% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | KBO: Hanwha Eagles vs. SSG Landers | Hanwha Eagles (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | KBO: Hanwha Eagles vs. SSG Landers | SSG Landers (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | KBO: Hanwha Eagles vs. SSG Landers | SSG Landers (BUY) | 54% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Red Bull Salzburg win on 2026-08 | Yes (BUY) | 82% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Alina Granwehr (BUY) | 56% | 5.00 | 6.2% | ⏳ pendiente | — |
