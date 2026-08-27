@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.0079970694933,
+  "bankroll": 476.0088365756661,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12745,6 +12745,16 @@
       "timestamp": 1787863178.7753127,
       "bankroll": 480.01,
       "event": "lost: AV23IUa \u2014 Map Handicap: FAL (-1.5) vs Lynn Vision (+1.5)"
+    },
+    {
+      "timestamp": 1787863492.9055529,
+      "bankroll": 481.13,
+      "event": "won: RN1 \u2014 Will SC Freiburg win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787863499.903137,
+      "bankroll": 476.01,
+      "event": "lost: RN1 \u2014 Spread: AS Monaco FC (-1.5)"
     }
   ]
 }
