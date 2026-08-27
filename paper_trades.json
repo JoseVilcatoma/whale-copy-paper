@@ -61717,8 +61717,8 @@
     "title": "Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 19056.305776999998,
-    "whale_pct": 197.184,
+    "whale_usd": 19632.305776999998,
+    "whale_pct": 203.144,
     "whale_value_at_open": 9664.2187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -61731,8 +61731,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787828580.3736742,
-    "fills": 2
+    "last_fill_at": 1787829045.356092,
+    "fills": 3
   },
   {
     "timestamp": 1787823434,
@@ -62327,8 +62327,8 @@
     "title": "Valorant: VARREL vs Global Esports (BO3) - VCT Pacific Playoffs",
     "outcome": "Global Esports",
     "side": "BUY",
-    "whale_usd": 11600.0,
-    "whale_pct": 20.466,
+    "whale_usd": 20150.0,
+    "whale_pct": 35.55,
     "whale_value_at_open": 56680.6451,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -62339,8 +62339,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787828335.3686974,
-    "fills": 2
+    "last_fill_at": 1787829101.2611237,
+    "fills": 3
   },
   {
     "timestamp": 1787828155,
