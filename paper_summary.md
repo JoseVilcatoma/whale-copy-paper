@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:57:22 (hora de Perú)
+Actualizado: 2026-08-27 05:59:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $452.49
@@ -527,7 +527,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Vladyslav Orlov (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
-| SPCEXBUYER | Valorant: VARREL vs Global Esports (BO3) | Global Esports (BUY) | 59% | 5.00 | 12.3% | ⏳ pendiente | — |
+| SPCEXBUYER | Valorant: VARREL vs Global Esports (BO3) | Global Esports (BUY) | 59% | 5.00 | 20.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 63% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 45% | 5.00 | 64.2% | ⏳ pendiente | — |
 | GoalLineGhost | SK Iberia 1999 vs. Jagiellonia Białystok | Over (BUY) | 79% | 5.00 | 2.1% | ⏳ pendiente | — |

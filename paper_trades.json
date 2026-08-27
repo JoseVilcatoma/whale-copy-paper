@@ -62327,8 +62327,8 @@
     "title": "Valorant: VARREL vs Global Esports (BO3) - VCT Pacific Playoffs",
     "outcome": "Global Esports",
     "side": "BUY",
-    "whale_usd": 6959.999999999999,
-    "whale_pct": 12.279,
+    "whale_usd": 11600.0,
+    "whale_pct": 20.466,
     "whale_value_at_open": 56680.6451,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -62339,8 +62339,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787828118.0816405,
-    "fills": 1
+    "last_fill_at": 1787828335.3686974,
+    "fills": 2
   },
   {
     "timestamp": 1787828155,
