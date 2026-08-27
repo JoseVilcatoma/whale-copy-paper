@@ -60678,8 +60678,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 1 Winner",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 2087.5802719999997,
-    "whale_pct": 21.395,
+    "whale_usd": 2866.8002719999995,
+    "whale_pct": 29.381,
     "whale_value_at_open": 9757.1715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -60690,8 +60690,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787798565.3221316,
-    "fills": 1
+    "last_fill_at": 1787809467.3130002,
+    "fills": 2
   },
   {
     "timestamp": 1787798673,
@@ -60979,8 +60979,8 @@
     "title": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
     "outcome": "Ekaterina Alexandrova",
     "side": "BUY",
-    "whale_usd": 6338.404354999999,
-    "whale_pct": 6.724,
+    "whale_usd": 6974.767990999999,
+    "whale_pct": 7.399,
     "whale_value_at_open": 94262.9846,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -60995,8 +60995,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787808597.6591134,
-    "fills": 4
+    "last_fill_at": 1787809387.5358965,
+    "fills": 5
   },
   {
     "timestamp": 1787809081,
