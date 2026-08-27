@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:28:00 (hora de Perú)
+Actualizado: 2026-08-27 05:30:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.68
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 05:28:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $110.68)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $105.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 16 | -32.08 USD |
+| RN1 | 337 | 156 | 17 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 5 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -524,7 +524,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Kirill Kivattsev (BUY) | 81% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 98% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Justina Mikulskyte (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 56% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -553,4 +554,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 61% | 5.00 | 188.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 44% | 5.00 | 81.2% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 56% | 5.00 | 1849.7% | ⏳ pendiente | — |
