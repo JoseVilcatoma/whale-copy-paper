@@ -63274,8 +63274,8 @@
     "title": "Kuopion PS vs. Shamrock Rovers FC: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 531.4399999999999,
-    "whale_pct": 0.272,
+    "whale_usd": 1273.3899999999999,
+    "whale_pct": 0.652,
     "whale_value_at_open": 195340.288,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -63286,8 +63286,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787843508.8078701,
-    "fills": 1
+    "last_fill_at": 1787846349.286843,
+    "fills": 2
   },
   {
     "timestamp": 1787843514,
@@ -63444,8 +63444,8 @@
     "title": "Augsburg: Cezar Cretu vs Marvin Moeller",
     "outcome": "Marvin Moeller",
     "side": "BUY",
-    "whale_usd": 532.874347,
-    "whale_pct": 0.34,
+    "whale_usd": 1117.776165,
+    "whale_pct": 0.712,
     "whale_value_at_open": 156920.43,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -63456,8 +63456,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787844593.9715533,
-    "fills": 1
+    "last_fill_at": 1787846394.7177339,
+    "fills": 2
   },
   {
     "timestamp": 1787844815,
