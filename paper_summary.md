@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:15:22 (hora de Perú)
+Actualizado: 2026-08-27 04:17:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -525,7 +525,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Mara Guth (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Anas Mazdrashki (BUY) | 87% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Jenny Lim (BUY) | 65% | 5.00 | 5.5% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 75% | 5.00 | 3.2% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 75% | 5.00 | 5.9% | ⏳ pendiente | — |
 | GoalLineGhost | Kuopion PS vs. Shamrock Rovers FC: O/U 1 | Over (BUY) | 69% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Federica Urgesi (BUY) | 84% | 5.00 | 7.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Nongshim RedForce (BUY) | 64% | 5.00 | 10.6% | ⏳ pendiente | — |
