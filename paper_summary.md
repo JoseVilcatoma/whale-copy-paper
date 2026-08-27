@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:39:48 (hora de Perú)
+Actualizado: 2026-08-27 18:41:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $480.48
@@ -541,7 +541,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 73% | 5.00 | 2.5% | ⏳ pendiente | — |
-| RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 51% | 5.00 | 18.9% | ⏳ pendiente | — |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 54% | 5.00 | 40.7% | 💰 vendida anticipada | -0.51 |
 | RN1 | Will SC Internacional win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |

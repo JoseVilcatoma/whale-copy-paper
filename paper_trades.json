@@ -64569,8 +64569,8 @@
     "title": "Steelers vs. Bills: O/U 41.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2296.7999999999997,
-    "whale_pct": 1.6,
+    "whale_usd": 3321.7407999999996,
+    "whale_pct": 2.314,
     "whale_value_at_open": 143561.6401,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -64581,8 +64581,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787873799.2968326,
-    "fills": 4
+    "last_fill_at": 1787874074.7066615,
+    "fills": 6
   },
   {
     "timestamp": 1787873983,
