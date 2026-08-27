@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 04:35:55 (hora de Perú)
+Actualizado: 2026-08-27 04:37:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 04:35:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $190.77)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $185.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 8 | -32.08 USD |
+| RN1 | 337 | 156 | 9 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 5 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -523,6 +523,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Lea Boskovic (BUY) | 72% | 5.00 | 4.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 65% | 5.00 | 151.6% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: FC Viktoria Plzeň (-1.5) | FK Crvena zvezda (BUY) | 79% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Mara Guth (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -552,4 +553,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |  | Counter-Strike: Nemiga vs Black Phoenix  | Nemiga (BUY) | 74% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Acend vs UNiTY esports ( | Acend (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 |  | SK Brann vs. PAOK: Team to Advance | PAOK (BUY) | 58% | 5.00 | 9.4% | ⏳ pendiente | — |
-| RN1 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 61% | 5.00 | 4.5% | ❌ perdida | -5.10 |
