@@ -60426,5 +60426,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787789669.609651,
     "fills": 1
+  },
+  {
+    "timestamp": 1787789762,
+    "timestamp_added": 1787789763.049865,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-damm-marozsa-2026-08-26",
+    "title": "Winston-Salem Open: Martin Damm vs Fabian Marozsan",
+    "outcome": "Martin Damm",
+    "side": "BUY",
+    "whale_usd": 2158.5828,
+    "whale_pct": 0.714,
+    "whale_value_at_open": 302512.7734,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787789763.0498734,
+    "fills": 1
   }
 ]
