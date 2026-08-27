@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 13:23:55 (hora de Perú)
+Actualizado: 2026-08-27 13:25:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $459.49
@@ -534,7 +534,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| DoNotTailMe | LoL: Karmine Corp Blue vs Skillcamp Espo | Skillcamp Esport (BUY) | 56% | 5.00 | 6.5% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Karmine Corp Blue vs Skillcamp Espo | Skillcamp Esport (BUY) | 56% | 5.00 | 15.8% | ⏳ pendiente | — |
 | plonker2026 | Will Trabzonspor win on 2026-08-27? | No (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | plonker2026 | Spread: Brighton & Hove Albion FC (-2.5) | Brighton & Hove Albion FC (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
 | plonker2026 | Brighton & Hove Albion FC vs. Tromsø IL: | Over (BUY) | 49% | 5.00 | 3.3% | ⏳ pendiente | — |

@@ -64005,8 +64005,8 @@
     "title": "LoL: Karmine Corp Blue vs Skillcamp Esport - Game 3 Winner",
     "outcome": "Skillcamp Esport",
     "side": "BUY",
-    "whale_usd": 2312.2000000000003,
-    "whale_pct": 6.482,
+    "whale_usd": 5638.628313,
+    "whale_pct": 15.806,
     "whale_value_at_open": 35673.3937,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -64017,7 +64017,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787855001.97989,
-    "fills": 4
+    "last_fill_at": 1787855128.4235303,
+    "fills": 7
   }
 ]
