@@ -59470,8 +59470,8 @@
     "title": "Spread: CA River Plate (-1.5)",
     "outcome": "CA River Plate",
     "side": "BUY",
-    "whale_usd": 38640.195907999994,
-    "whale_pct": 167.447,
+    "whale_usd": 43773.460162999996,
+    "whale_pct": 189.692,
     "whale_value_at_open": 23076.0172,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59482,8 +59482,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787789893.5176642,
-    "fills": 7
+    "last_fill_at": 1787790499.6176496,
+    "fills": 8
   },
   {
     "timestamp": 1787786558,
@@ -59867,8 +59867,8 @@
     "title": "CA River Plate vs. Independiente Santa Fe: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 57428.08269999999,
-    "whale_pct": 73.327,
+    "whale_usd": 64680.59889999999,
+    "whale_pct": 82.587,
     "whale_value_at_open": 78317.9441,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59879,8 +59879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787788776.847199,
-    "fills": 14
+    "last_fill_at": 1787790577.1375966,
+    "fills": 19
   },
   {
     "timestamp": 1787787728,
