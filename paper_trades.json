@@ -64387,5 +64387,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787871793.748791,
     "fills": 1
+  },
+  {
+    "timestamp": 1787871911,
+    "timestamp_added": 1787871911.5611567,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-mil-nym-2026-08-27-spread-away-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 510.0,
+    "whale_pct": 1.272,
+    "whale_value_at_open": 40093.0273,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787871911.5611694,
+    "fills": 1
   }
 ]

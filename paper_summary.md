@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 18:04:54 (hora de Perú)
+Actualizado: 2026-08-27 18:06:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.84
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 18:04:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $391.84)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $386.84)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 39 | 22 | 0 | +25.08 USD |
 | casualbet2020 | 20 | 9 | 1 | +24.43 USD |
-| texaskid | 6 | 1 | 0 | +22.32 USD |
+| texaskid | 6 | 1 | 1 | +22.32 USD |
 | plonker2026 | 8 | 5 | 0 | +18.29 USD |
 | TAIWANNUMBERONE | 9 | 6 | 2 | +15.92 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -538,6 +538,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 3.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 306.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 151.4% | ⏳ pendiente | — |
@@ -567,4 +568,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification ATP: Toby Samuel  | Cristian Garin (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Spread: FC Red Bull Salzburg (-1.5) | FC Red Bull Salzburg (BUY) | 58% | 5.00 | 3.0% | ✅ ganada | +3.52 |
 | RN1 | Will Panathinaikós AO win on 2026-08-27? | Yes (BUY) | 44% | 5.00 | 1.2% | ❌ perdida | -5.14 |
-| texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 32.6% | ✅ ganada | +5.08 |
