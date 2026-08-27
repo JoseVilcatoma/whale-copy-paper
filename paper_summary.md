@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 03:05:11 (hora de Perú)
+Actualizado: 2026-08-27 03:07:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 03:05:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $310.77)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $305.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 0 | -32.08 USD |
+| RN1 | 337 | 156 | 1 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 4 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -520,6 +520,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will SC Freiburg win on 2026-08-27? | Yes (BUY) | 81% | 5.00 | 16.7% | ⏳ pendiente | — |
 | HomeRunHazard | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 44% | 5.00 | 3.0% | ⏳ pendiente | — |
 |  | Will FC Midtjylland win on 2026-08-27? | No (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 |  | Counter-Strike: Nemiga vs Black Phoenix  | Nemiga (BUY) | 74% | 5.00 | 7.5% | ⏳ pendiente | — |
@@ -549,4 +550,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Inner Circle | Vitality (BUY) | 89% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs 9z (BO3) - BLAST | MOUZ (BUY) | 67% | 5.00 | 20.6% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ❌ perdida | -5.14 |
-| RN1 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 57% | 5.00 | 0.4% | ✅ ganada | +3.66 |

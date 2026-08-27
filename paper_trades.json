@@ -61145,5 +61145,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787815224.4125485,
     "fills": 1
+  },
+  {
+    "timestamp": 1787817989,
+    "timestamp_added": 1787817990.8380115,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "col-scf-mot-2026-08-27-scf",
+    "title": "Will SC Freiburg win on 2026-08-27?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 3950.0,
+    "whale_pct": 16.703,
+    "whale_value_at_open": 23648.6528,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787818000.7414095,
+    "fills": 4
   }
 ]
