@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 00:13:47 (hora de Perú)
+Actualizado: 2026-08-27 00:15:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.67
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 00:13:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $315.67)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $310.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -87,7 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 0 | 5 | 1 | -25.65 USD |
 | RN1 | 336 | 155 | 1 | -28.95 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| ferrariChampions2026 | 297 | 180 | 4 | -68.78 USD |
+| ferrariChampions2026 | 297 | 180 | 5 | -68.78 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 60 | 49 | 1 | -111.68 USD |
 
@@ -514,12 +514,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-liutova-radivoj-2026-08-26 | HomeRunHazard, RN1 |
 | sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
-| wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1 |
+| wta-alexand-tauson-2026-08-26 | , HomeRunHazard, RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 71% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 75% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -549,4 +550,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Colorado Rockies vs. Washington National | Over (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | Sassy-Bucket | Toronto Tempo vs. Seattle Storm: O/U 174 | Over (BUY) | 51% | 5.00 | 13.5% | ❌ perdida | -5.12 |
 | RN1 | Golden State Valkyries vs. Connecticut S | Over (BUY) | 72% | 5.00 | 0.6% | ✅ ganada | +1.87 |
-| RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ❌ perdida | -5.06 |

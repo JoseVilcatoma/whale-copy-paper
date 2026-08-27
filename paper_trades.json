@@ -60917,5 +60917,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787807139.1839635,
     "fills": 1
+  },
+  {
+    "timestamp": 1787807669,
+    "timestamp_added": 1787807670.4858456,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-alexand-tauson-2026-08-26",
+    "title": "Monterrey Open: Ekaterina Alexandrova vs Clara Tauson",
+    "outcome": "Clara Tauson",
+    "side": "BUY",
+    "whale_usd": 1008.5020000000002,
+    "whale_pct": 1.041,
+    "whale_value_at_open": 96850.9222,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "",
+      "HomeRunHazard",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787807670.4858599,
+    "fills": 1
   }
 ]
