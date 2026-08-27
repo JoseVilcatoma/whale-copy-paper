@@ -1,5 +1,5 @@
 {
-  "bankroll": 479.1792557172956,
+  "bankroll": 474.0392557172956,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12045,6 +12045,11 @@
       "timestamp": 1787799493.8975809,
       "bankroll": 479.18,
       "event": "lost: RN1 \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787800122.001784,
+      "bankroll": 474.04,
+      "event": "lost: Sassy-Bucket \u2014 Minnesota Twins vs. Athletics: O/U 9.5"
     }
   ]
 }
