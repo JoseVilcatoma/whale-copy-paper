@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 02:09:41 (hora de Perú)
+Actualizado: 2026-08-27 02:11:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $438.60
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 02:09:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $313.60)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $308.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 4 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
-|  | 61 | 49 | 2 | -105.95 USD |
+|  | 61 | 49 | 3 | -105.95 USD |
 
 ## Análisis general
 
@@ -520,6 +520,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+|  | Will FC Midtjylland win on 2026-08-27? | No (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
 |  | Counter-Strike: Nemiga vs Black Phoenix  | Nemiga (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Acend vs UNiTY esports ( | Acend (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 |  | SK Brann vs. PAOK: Team to Advance | PAOK (BUY) | 58% | 5.00 | 9.4% | ⏳ pendiente | — |
@@ -549,4 +550,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ❌ perdida | -5.14 |
 | RN1 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 57% | 5.00 | 0.4% | ✅ ganada | +3.66 |
 | RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ✅ ganada | +5.73 |
-| RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ✅ ganada | +0.98 |
