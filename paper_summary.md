@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 02:21:59 (hora de Perú)
+Actualizado: 2026-08-27 02:24:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $438.60
@@ -522,7 +522,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Houston Astros vs. New York Yankees: O/U | Under (BUY) | 44% | 5.00 | 3.0% | ⏳ pendiente | — |
 |  | Will FC Midtjylland win on 2026-08-27? | No (BUY) | 59% | 5.00 | 1.5% | ⏳ pendiente | — |
-|  | Counter-Strike: Nemiga vs Black Phoenix  | Nemiga (BUY) | 74% | 5.00 | 6.2% | ⏳ pendiente | — |
+|  | Counter-Strike: Nemiga vs Black Phoenix  | Nemiga (BUY) | 74% | 5.00 | 7.5% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Acend vs UNiTY esports ( | Acend (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 |  | SK Brann vs. PAOK: Team to Advance | PAOK (BUY) | 58% | 5.00 | 9.4% | ⏳ pendiente | — |
 | RN1 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 61% | 5.00 | 4.5% | ❌ perdida | -5.10 |
