@@ -61397,8 +61397,8 @@
     "title": "LoL: Nongshim Red Force vs BNK FEARX - Game 2 Winner",
     "outcome": "Nongshim Red Force",
     "side": "BUY",
-    "whale_usd": 138400.326,
-    "whale_pct": 1469.172,
+    "whale_usd": 141240.3188,
+    "whale_pct": 1499.32,
     "whale_value_at_open": 9420.2919,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -61409,8 +61409,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787821246.0630896,
-    "fills": 17
+    "last_fill_at": 1787821358.9996498,
+    "fills": 19
   },
   {
     "timestamp": 1787821117,
@@ -61474,8 +61474,8 @@
     "title": "KBO: Doosan Bears vs. KT Wiz",
     "outcome": "KT Wiz",
     "side": "BUY",
-    "whale_usd": 1240.0,
-    "whale_pct": 3.814,
+    "whale_usd": 2401.6816,
+    "whale_pct": 7.387,
     "whale_value_at_open": 32511.3001,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -61486,7 +61486,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787821236.3766503,
-    "fills": 1
+    "last_fill_at": 1787821305.797079,
+    "fills": 2
   }
 ]
