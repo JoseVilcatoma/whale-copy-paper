@@ -64043,5 +64043,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787855308.3820133,
     "fills": 4
+  },
+  {
+    "timestamp": 1787856668,
+    "timestamp_added": 1787856669.0658777,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "lal-bar-bil-2026-08-27-spread-home-1pt5",
+    "title": "Spread: FC Barcelona (-1.5)",
+    "outcome": "FC Barcelona",
+    "side": "BUY",
+    "whale_usd": 4195.4468289999995,
+    "whale_pct": 2.478,
+    "whale_value_at_open": 169327.2934,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787856669.065903,
+    "fills": 1
   }
 ]
