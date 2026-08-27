@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 10:23:28 (hora de Perú)
+Actualizado: 2026-08-27 10:25:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $450.51
-**Retorno acumulado:** -9.90%
+**Bankroll actual:** $445.70
+**Retorno acumulado:** -10.86%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 10:23:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $65.51)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $80.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | BOOMBOYS.Kiritych | 30 | 16 | 3 | +42.60 USD |
-| HomeRunHazard | 369 | 182 | 9 | +37.05 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
+| HomeRunHazard | 369 | 183 | 8 | +31.93 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 19 | 9 | 0 | +22.46 USD |
@@ -84,8 +84,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 13 | 8 | 16 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
-| Donghui | 0 | 5 | 4 | -25.65 USD |
-| RN1 | 351 | 160 | 26 | -26.52 USD |
+| Donghui | 1 | 5 | 3 | -21.99 USD |
+| RN1 | 352 | 161 | 24 | -29.88 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2388
-- **Aciertos:** 1534 (64.2%)
+- **Apuestas resueltas:** 2392
+- **Aciertos:** 1536 (64.2%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,927.59
-- **ROI sobre lo apostado:** -1.13%
-- **Comisiones pagadas (taker fee):** $216.02 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.68% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,947.59
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $216.45 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.65% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,8 +108,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1176 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 706 | 70.0% | 67.7% | +2.3 pp |
+| 40-59% | 1179 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 707 | 70.0% | 67.7% | +2.3 pp |
 | 80-94% | 344 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
@@ -535,7 +535,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Elena Milovanovic (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Daniel Rinco | Tomas Barrios (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: O/U 3 | Under (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will Kuopion PS win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Kuopion PS win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Vilius Gauba | Harry Wendelken (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Haruka Kaji (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Marlon Vankan (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -552,7 +552,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Sandro Kopp vs Martin Krumich | Sandro Kopp (BUY) | 65% | 5.00 | 12.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Aljaz Jeran (BUY) | 61% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
-| Donghui | Counter-Strike: MOUZ vs 9z - Map 1 Winne | MOUZ (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
+| Donghui | Counter-Strike: MOUZ vs 9z - Map 1 Winne | MOUZ (BUY) | 57% | 5.00 | 6.4% | ✅ ganada | +3.66 |
 | GoalLineGhost | FC St. Gallen vs. FC Nordsjælland: O/U 2 | Over (BUY) | 68% | 5.00 | 1.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: MOUZ (-1.5) vs 9z (+1.5) | MOUZ (BUY) | 41% | 5.00 | 19.3% | ⏳ pendiente | — |
 | GoalLineGhost | Spread: Jagiellonia Białystok (-1.5) | SK Iberia 1999 (BUY) | 79% | 5.00 | 3.3% | ⏳ pendiente | — |

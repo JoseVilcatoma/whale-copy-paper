@@ -1,5 +1,5 @@
 {
-  "bankroll": 450.5140483269132,
+  "bankroll": 445.7042932199678,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12410,6 +12410,26 @@
       "timestamp": 1787843946.772046,
       "bankroll": 450.51,
       "event": "lost: HomeRunHazard \u2014 Tokyo Yakult Swallows vs. Yomiuri Giants"
+    },
+    {
+      "timestamp": 1787844265.289911,
+      "bankroll": 445.4,
+      "event": "lost: HomeRunHazard \u2014 Chunichi Dragons vs. Hanshin Tigers"
+    },
+    {
+      "timestamp": 1787844270.9609907,
+      "bankroll": 447.18,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Lorenzo Angelini vs Steffan Van Weldam"
+    },
+    {
+      "timestamp": 1787844272.3285525,
+      "bankroll": 442.04,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Lorenzo Angelini vs Steffan Van Weldam"
+    },
+    {
+      "timestamp": 1787844274.883452,
+      "bankroll": 445.7,
+      "event": "won: Donghui \u2014 Counter-Strike: MOUZ vs 9z - Map 1 Winner"
     }
   ]
 }
