@@ -61083,8 +61083,8 @@
     "title": "Counter-Strike: Nemiga vs Black Phoenix (BO3) - CCT Europe Series #7 Playoffs",
     "outcome": "Nemiga",
     "side": "BUY",
-    "whale_usd": 1396.1499949999998,
-    "whale_pct": 3.187,
+    "whale_usd": 2149.989995,
+    "whale_pct": 4.908,
     "whale_value_at_open": 43805.8359,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -61095,7 +61095,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787812216.9119618,
-    "fills": 2
+    "last_fill_at": 1787812338.0408306,
+    "fills": 3
   }
 ]
