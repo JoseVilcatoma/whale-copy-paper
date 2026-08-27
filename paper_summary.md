@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 09:50:00 (hora de Perú)
+Actualizado: 2026-08-27 09:52:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $446.85
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 09:50:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $91.85)
+**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $86.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 4 | -25.65 USD |
-| RN1 | 351 | 160 | 17 | -26.52 USD |
+| RN1 | 351 | 160 | 18 | -26.52 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -523,13 +523,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-masur-mena-2026-08-27 | HomeRunHazard, RN1 |
 | lol-ns-fox1-2026-08-27-game4 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | atp-kopp-krumich-2026-08-27 | HomeRunHazard, RN1 |
+| col-qar-twe-2026-08-27-twe | RN1, plonker2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will FC Twente win on 2026-08-27? | No (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Donghui | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 49% | 5.00 | 3.9% | ⏳ pendiente | — |
-| plonker2026 | Will FC Twente win on 2026-08-27? | Yes (BUY) | 47% | 5.00 | 93.3% | ⏳ pendiente | — |
+| plonker2026 | Will FC Twente win on 2026-08-27? | Yes (BUY) | 47% | 5.00 | 204.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Julia Stusek (BUY) | 91% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Selena Janicijevic (BUY) | 42% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Cap d'Agde (Franc | Samuele Seghetti (BUY) | 86% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -557,4 +559,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Dimitar Kuzmanov (BUY) | 65% | 5.00 | 1.1% | ✅ ganada | +2.61 |
 | RN1 | KBO: Hanwha Eagles vs. SSG Landers | Hanwha Eagles (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | KBO: Hanwha Eagles vs. SSG Landers | SSG Landers (BUY) | 54% | 5.00 | 5.0% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
