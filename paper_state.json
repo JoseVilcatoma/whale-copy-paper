@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.84734338833897,
+  "bankroll": 479.91123608472344,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12815,6 +12815,21 @@
       "timestamp": 1787865689.792349,
       "bankroll": 482.85,
       "event": "won: AV23IUa \u2014 Spread: FC Barcelona (-1.5)"
+    },
+    {
+      "timestamp": 1787866938.5007617,
+      "bankroll": 477.8,
+      "event": "lost: GoalLineGhost \u2014 Spread: FC Viktoria Plze\u0148 (-1.5)"
+    },
+    {
+      "timestamp": 1787866938.8524816,
+      "bankroll": 477.94,
+      "event": "won: GoalLineGhost \u2014 Spread: FK Crvena zvezda (-2.5)"
+    },
+    {
+      "timestamp": 1787866940.5921586,
+      "bankroll": 479.91,
+      "event": "won: GoalLineGhost \u2014 Will FK Crvena zvezda win on 2026-08-27?"
     }
   ]
 }
