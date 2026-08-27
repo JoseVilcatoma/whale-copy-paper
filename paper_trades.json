@@ -60580,8 +60580,8 @@
     "title": "Toronto Tempo vs. Seattle Storm: O/U 176.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1226.6739,
-    "whale_pct": 15.054,
+    "whale_usd": 2633.6339,
+    "whale_pct": 32.319,
     "whale_value_at_open": 8148.7471,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -60592,8 +60592,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787794400.1270013,
-    "fills": 2
+    "last_fill_at": 1787795563.446364,
+    "fills": 3
   },
   {
     "timestamp": 1787795245,
@@ -60604,8 +60604,8 @@
     "title": "Toronto Tempo vs. Seattle Storm: O/U 175.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1386.9418,
-    "whale_pct": 9.7,
+    "whale_usd": 1992.7718,
+    "whale_pct": 13.937,
     "whale_value_at_open": 14298.8793,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -60616,7 +60616,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787795245.9437807,
+    "last_fill_at": 1787795512.2311306,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787795586,
+    "timestamp_added": 1787795587.2042744,
+    "username": "Donghui",
+    "wallet": "0x58776759ee5c70a915138706a1308add8bc5d894",
+    "slug": "atp-damm-marozsa-2026-08-26",
+    "title": "Winston-Salem Open: Martin Damm vs Fabian Marozsan",
+    "outcome": "Martin Damm",
+    "side": "BUY",
+    "whale_usd": 9400.0,
+    "whale_pct": 32.382,
+    "whale_value_at_open": 29028.5191,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787795587.2042928,
     "fills": 1
   }
 ]
