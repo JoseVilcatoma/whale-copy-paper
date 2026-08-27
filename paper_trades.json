@@ -59867,8 +59867,8 @@
     "title": "CA River Plate vs. Independiente Santa Fe: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 54058.58269999999,
-    "whale_pct": 69.025,
+    "whale_usd": 57428.08269999999,
+    "whale_pct": 73.327,
     "whale_value_at_open": 78317.9441,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -59879,8 +59879,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787788613.8889294,
-    "fills": 13
+    "last_fill_at": 1787788776.847199,
+    "fills": 14
   },
   {
     "timestamp": 1787787728,

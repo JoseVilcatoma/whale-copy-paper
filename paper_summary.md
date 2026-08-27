@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 18:58:55 (hora de Perú)
+Actualizado: 2026-08-26 19:01:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.79
@@ -530,7 +530,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open, Qualification WTA: Yeon-Woo Ku  | Storm Hunter (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Chicago White Sox | Texas Rangers (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | CA River Plate vs. Independiente Santa F | Under (BUY) | 52% | 5.00 | 5.2% | ⏳ pendiente | — |
-| kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 69.0% | ⏳ pendiente | — |
+| kekasaur | CA River Plate vs. Independiente Santa F | Over (BUY) | 49% | 5.00 | 73.3% | ⏳ pendiente | — |
 | RN1 | Spread: Kansas City Royals (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Federico Cin | Federico Cina (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | SE Palmeiras vs. Santos FC: O/U 2.5 | Over (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
