@@ -60752,8 +60752,8 @@
     "title": "Counter-Strike: Legacy vs FUT Esports (BO3) - BLAST Open Porto Group B",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 10789.858800000002,
-    "whale_pct": 18.077,
+    "whale_usd": 11843.420400000003,
+    "whale_pct": 19.843,
     "whale_value_at_open": 59686.9043,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -60766,7 +60766,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787802297.275657,
-    "fills": 4
+    "last_fill_at": 1787803205.7888193,
+    "fills": 5
   }
 ]
