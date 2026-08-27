@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:04:59 (hora de Perú)
+Actualizado: 2026-08-27 05:07:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $440.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 05:04:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $155.77)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $135.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| GoalLineGhost | 13 | 8 | 2 | -12.34 USD |
+| GoalLineGhost | 13 | 8 | 6 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
@@ -524,6 +524,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 5.5 | Under (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
+| GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 1.5 | Over (BUY) | 90% | 5.00 | 4.9% | ⏳ pendiente | — |
+| GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 4.5 | Under (BUY) | 72% | 5.00 | 4.9% | ⏳ pendiente | — |
+| GoalLineGhost | Spread: FK Crvena zvezda (-2.5) | FC Viktoria Plzeň (BUY) | 97% | 5.00 | 3.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Gen.G Esports (BUY) | 43% | 5.00 | 103.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Andrey Chepelev (BUY) | 98% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Bianca Elena Barbulescu (BUY) | 85% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -550,7 +554,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | Tokyo Yakult Swallows vs. Yomiuri Giants | Tokyo Yakult Swallows (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BIG vs G2 NORD (BO5) - Prime League | BIG (BUY) | 45% | 5.00 | 15.1% | ⏳ pendiente | — |
-| HomeRunHazard | Tokyo Yakult Swallows vs. Yomiuri Giants | Yomiuri Giants (BUY) | 58% | 5.00 | 3.4% | ⏳ pendiente | — |
-| HomeRunHazard | Orix Buffaloes vs. Tohoku Rakuten Golden | Tohoku Rakuten Golden Eagles (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
-| HomeRunHazard | Washington Mystics vs. Phoenix Mercury:  | Over (BUY) | 48% | 5.00 | 2.0% | ⏳ pendiente | — |
-| HomeRunHazard | Chunichi Dragons vs. Hanshin Tigers | Chunichi Dragons (BUY) | 53% | 5.00 | 3.4% | ⏳ pendiente | — |
