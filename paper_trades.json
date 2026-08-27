@@ -60388,8 +60388,8 @@
     "title": "US Open, Qualification ATP: Jerome Kym vs Colton Smith",
     "outcome": "Colton Smith",
     "side": "BUY",
-    "whale_usd": 2340.4500000000003,
-    "whale_pct": 0.828,
+    "whale_usd": 6626.264000000001,
+    "whale_pct": 2.344,
     "whale_value_at_open": 282650.5394,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -60400,8 +60400,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787789578.6109152,
-    "fills": 1
+    "last_fill_at": 1787790137.8147576,
+    "fills": 3
   },
   {
     "timestamp": 1787789668,

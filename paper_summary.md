@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-26 19:21:57 (hora de Perú)
+Actualizado: 2026-08-26 19:24:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.79
@@ -519,7 +519,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Winston-Salem Open: Martin Damm vs Fabia | Martin Damm (BUY) | 44% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Texas Rangers vs. Chicago White Sox | Chicago White Sox (BUY) | 57% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | US Open, Qualification ATP: Jerome Kym v | Colton Smith (BUY) | 46% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Washington National | Colorado Rockies (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CDP Junior FC win on 2026-08-26? | No (BUY) | 87% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Tristan Scho | Tristan Schoolkate (BUY) | 89% | 5.00 | 0.5% | ⏳ pendiente | — |
