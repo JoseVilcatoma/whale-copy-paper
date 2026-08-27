@@ -63751,5 +63751,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787846313.5701494,
     "fills": 2
+  },
+  {
+    "timestamp": 1787846762,
+    "timestamp_added": 1787846762.4326797,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "uel-rbs-ma-2026-08-27-rbs",
+    "title": "Will FC Red Bull Salzburg win on 2026-08-27?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 7700.0,
+    "whale_pct": 3.751,
+    "whale_value_at_open": 205272.8572,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "GoalLineGhost"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787846762.4326978,
+    "fills": 1
   }
 ]
