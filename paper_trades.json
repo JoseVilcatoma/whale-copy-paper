@@ -59618,8 +59618,8 @@
     "title": "US Open, Qualification ATP: Henrique Rocha vs Lloyd Harris",
     "outcome": "Henrique Rocha",
     "side": "BUY",
-    "whale_usd": 5108.307883,
-    "whale_pct": 1.737,
+    "whale_usd": 6279.425383000001,
+    "whale_pct": 2.135,
     "whale_value_at_open": 294137.1391,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -59630,8 +59630,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787787054.9080038,
-    "fills": 3
+    "last_fill_at": 1787788956.9014072,
+    "fills": 4
   },
   {
     "timestamp": 1787786847,
@@ -60229,5 +60229,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787788564.813641,
     "fills": 2
+  },
+  {
+    "timestamp": 1787788952,
+    "timestamp_added": 1787788952.4047854,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-tor-sea-2026-08-26-total-174pt5",
+    "title": "Toronto Tempo vs. Seattle Storm: O/U 174.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1565.645,
+    "whale_pct": 1.163,
+    "whale_value_at_open": 134668.037,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "wr0ngw4yb3tt0r"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787788952.4047964,
+    "fills": 1
   }
 ]
