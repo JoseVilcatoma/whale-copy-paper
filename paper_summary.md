@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 11:28:25 (hora de Perú)
+Actualizado: 2026-08-27 11:30:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.24
-**Retorno acumulado:** -6.15%
+**Bankroll actual:** $470.96
+**Retorno acumulado:** -5.81%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 11:28:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $104.24)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $115.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 358 | 166 | 27 | -35.24 USD |
+| RN1 | 359 | 167 | 25 | -33.51 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2411
-- **Aciertos:** 1550 (64.3%)
+- **Apuestas resueltas:** 2413
+- **Aciertos:** 1551 (64.3%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,042.59
-- **ROI sobre lo apostado:** -0.96%
-- **Comisiones pagadas (taker fee):** $218.45 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.85% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,052.59
+- **ROI sobre lo apostado:** -0.95%
+- **Comisiones pagadas (taker fee):** $218.63 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.87% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,9 +108,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1189 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1190 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 716 | 70.3% | 67.7% | +2.6 pp |
-| 80-94% | 344 | 86.9% | 86.8% | +0.1 pp |
+| 80-94% | 345 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -548,7 +548,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
 | casualbet2020 | Counter-Strike: Legacy vs FUT Esports (B | Legacy (BUY) | 71% | 5.00 | 37.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification WTA: Julieta Pare | Lucrezia Stefanini (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Dunja Maric (BUY) | 87% | 5.00 | 0.9% | ❌ perdida | -5.03 |
 | RN1 | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 55% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Aziz Dougaz  | Andrea Guerrieri (BUY) | 51% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Spread: AS Monaco FC (-1.5) | Górnik Zabrze (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
