@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.8933111123993,
+  "bankroll": 469.23506294762876,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12505,6 +12505,26 @@
       "timestamp": 1787845843.1654694,
       "bankroll": 466.89,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Noah Karma vs Alessandro Hunziker"
+    },
+    {
+      "timestamp": 1787846151.6931276,
+      "bankroll": 469.27,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787846155.6780043,
+      "bankroll": 471.88,
+      "event": "won: SPCEXBUYER \u2014 Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787846158.8324769,
+      "bankroll": 474.37,
+      "event": "won: Donghui \u2014 Counter-Strike: MOUZ vs 9z (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1787846162.3758588,
+      "bankroll": 469.24,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Allershausen (Germany), clay: Marlon Vankan vs Jaron Held"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 10:54:58 (hora de Perú)
+Actualizado: 2026-08-27 10:57:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $466.89
-**Retorno acumulado:** -6.62%
+**Bankroll actual:** $469.24
+**Retorno acumulado:** -6.15%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 10:54:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $111.89)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $134.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,8 +21,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| BOOMBOYS.Kiritych | 33 | 16 | 0 | +55.63 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
-| BOOMBOYS.Kiritych | 32 | 16 | 1 | +53.02 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
 | HomeRunHazard | 371 | 183 | 7 | +36.71 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 5 | 1 | 1 | +8.57 USD |
 | plonker2026 | 4 | 3 | 2 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 4 | 1 | 2 | +6.19 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
@@ -84,23 +84,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 13 | 8 | 16 | -12.34 USD |
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
-| Donghui | 1 | 5 | 3 | -21.99 USD |
-| RN1 | 358 | 165 | 24 | -30.11 USD |
+| Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
+| RN1 | 358 | 166 | 23 | -35.24 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2407
-- **Aciertos:** 1547 (64.3%)
+- **Apuestas resueltas:** 2411
+- **Aciertos:** 1550 (64.3%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,022.59
-- **ROI sobre lo apostado:** -0.98%
-- **Comisiones pagadas (taker fee):** $218.07 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,042.59
+- **ROI sobre lo apostado:** -0.96%
+- **Comisiones pagadas (taker fee):** $218.45 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.85% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -108,8 +108,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1188 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 713 | 70.1% | 67.7% | +2.5 pp |
+| 40-59% | 1189 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 716 | 70.3% | 67.7% | +2.6 pp |
 | 80-94% | 344 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
@@ -552,7 +552,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Kuopion PS win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | US Open, Qualification ATP: Vilius Gauba | Harry Wendelken (BUY) | 42% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Haruka Kaji (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Marlon Vankan (BUY) | 46% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M15 Allershausen (Ger | Marlon Vankan (BUY) | 46% | 5.00 | 0.4% | ❌ perdida | -5.13 |
 | RN1 | Will FC Twente win on 2026-08-27? | No (BUY) | 52% | 5.00 | 2.5% | ⏳ pendiente | — |
 | Donghui | US Open, Qualification ATP: Daniel Rinco | Daniel Rincon (BUY) | 49% | 5.00 | 59.8% | ⏳ pendiente | — |
 | plonker2026 | Will FC Twente win on 2026-08-27? | Yes (BUY) | 47% | 5.00 | 212.9% | ⏳ pendiente | — |
