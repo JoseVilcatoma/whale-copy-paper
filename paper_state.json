@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.06970556747405,
+  "bankroll": 482.92475091456197,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -11840,6 +11840,31 @@
       "timestamp": 1787793907.87147,
       "bankroll": 469.07,
       "event": "won: Sassy-Bucket \u2014 Milwaukee Brewers vs. New York Mets: O/U 8.5"
+    },
+    {
+      "timestamp": 1787794224.9688344,
+      "bankroll": 475.29,
+      "event": "won: HomeRunHazard \u2014 Colorado Rockies vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1787794228.1892262,
+      "bankroll": 470.26,
+      "event": "lost: RN1 \u2014 Philadelphia: Oksana Selekhmeteva vs Capucine Jauffret"
+    },
+    {
+      "timestamp": 1787794229.4448223,
+      "bankroll": 475.76,
+      "event": "won: RN1 \u2014 Philadelphia: Oksana Selekhmeteva vs Capucine Jauffret"
+    },
+    {
+      "timestamp": 1787794234.7193577,
+      "bankroll": 477.64,
+      "event": "won: RN1 \u2014 Golden State Valkyries vs. Connecticut Sun: O/U 151.5"
+    },
+    {
+      "timestamp": 1787794234.9196782,
+      "bankroll": 482.92,
+      "event": "won: RN1 \u2014 Colorado Rockies vs. Washington Nationals: O/U 9.5"
     }
   ]
 }
