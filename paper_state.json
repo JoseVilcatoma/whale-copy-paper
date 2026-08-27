@@ -1,5 +1,5 @@
 {
-  "bankroll": 440.7666708862222,
+  "bankroll": 435.6766708862222,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12210,6 +12210,11 @@
       "timestamp": 1787815691.965274,
       "bankroll": 440.77,
       "event": "won: GoalLineGhost \u2014 CA River Plate vs. Independiente Santa Fe: O/U 1.5"
+    },
+    {
+      "timestamp": 1787826351.0790114,
+      "bankroll": 435.68,
+      "event": "lost: casualbet2020 \u2014 Valorant: Gen.G Esports vs Nongshim RedForce - Map 2 Winner"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 05:23:48 (hora de Perú)
+Actualizado: 2026-08-27 05:25:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $440.77
-**Retorno acumulado:** -11.85%
+**Bankroll actual:** $435.68
+**Retorno acumulado:** -12.86%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 05:23:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $125.77)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $115.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,10 +24,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 2 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 3 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
-| HomeRunHazard | 366 | 180 | 9 | +35.68 USD |
-| casualbet2020 | 19 | 7 | 2 | +32.69 USD |
+| HomeRunHazard | 366 | 180 | 10 | +35.68 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| casualbet2020 | 19 | 8 | 1 | +27.60 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 35 | 20 | 2 | +18.49 USD |
 | TAIWANNUMBERONE | 7 | 4 | 4 | +16.61 USD |
@@ -85,7 +85,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 6 | 7 | 0 | -13.49 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 0 | 5 | 1 | -25.65 USD |
-| RN1 | 337 | 156 | 14 | -32.08 USD |
+| RN1 | 337 | 156 | 15 | -32.08 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
 | ferrariChampions2026 | 298 | 181 | 5 | -70.06 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
@@ -93,14 +93,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2348
+- **Apuestas resueltas:** 2349
 - **Aciertos:** 1508 (64.2%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $11,727.59
-- **ROI sobre lo apostado:** -1.23%
-- **Comisiones pagadas (taker fee):** $212.38 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $11,732.59
+- **ROI sobre lo apostado:** -1.27%
+- **Comisiones pagadas (taker fee):** $212.47 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,7 +109,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1157 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 695 | 69.9% | 67.7% | +2.3 pp |
+| 60-79% | 696 | 69.8% | 67.7% | +2.2 pp |
 | 80-94% | 337 | 87.5% | 86.8% | +0.7 pp |
 | 95-99% (casi seguro) | 159 | 95.6% | 97.4% | -1.8 pp |
 
@@ -524,6 +524,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 52% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Justina Mikulskyte (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Daniel Masur vs Facundo Mena | Facundo Mena (BUY) | 56% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Roehampton 2: Inaki Montes vs George Lof | Inaki Montes (BUY) | 42% | 5.00 | 2.4% | ⏳ pendiente | — |
 | GoalLineGhost | FC Barcelona vs. Athletic Club: O/U 5.5 | Under (BUY) | 87% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -545,12 +547,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 75% | 5.00 | 18.3% | ⏳ pendiente | — |
 | GoalLineGhost | Kuopion PS vs. Shamrock Rovers FC: O/U 1 | Over (BUY) | 69% | 5.00 | 4.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Federica Urgesi (BUY) | 84% | 5.00 | 8.8% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Nongshim RedForce (BUY) | 64% | 5.00 | 10.6% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Gen.G Esports vs Nongshim RedF | Nongshim RedForce (BUY) | 64% | 5.00 | 10.6% | ❌ perdida | -5.09 |
 | DoNotTailMe | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 43% | 5.00 | 30.9% | ⏳ pendiente | — |
 | RN1 | KBO: Doosan Bears vs. KT Wiz | KT Wiz (BUY) | 63% | 5.00 | 7.4% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 61% | 5.00 | 188.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Nongshim Red Force vs BNK FEARX - G | BNK FEARX (BUY) | 44% | 5.00 | 81.2% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: Nongshim Red Force vs BNK FEARX - G | Nongshim Red Force (BUY) | 56% | 5.00 | 1849.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | Augsburg: Benito Sanchez Martinez vs Hyn | Benito Sanchez Martinez (BUY) | 41% | 5.00 | 16.5% | ⏳ pendiente | — |
-| HomeRunHazard | KBO: Samsung Lions vs. Kiwoom Heroes | Samsung Lions (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
