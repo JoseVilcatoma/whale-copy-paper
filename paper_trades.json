@@ -60570,5 +60570,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787791572.2100124,
     "fills": 1
+  },
+  {
+    "timestamp": 1787794398,
+    "timestamp_added": 1787794399.607557,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-tor-sea-2026-08-26-total-176pt5",
+    "title": "Toronto Tempo vs. Seattle Storm: O/U 176.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1226.6739,
+    "whale_pct": 15.054,
+    "whale_value_at_open": 8148.7471,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787794400.1270013,
+    "fills": 2
   }
 ]
