@@ -62982,8 +62982,8 @@
     "title": "Will Modern SC win on 2026-08-27?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 961.45,
-    "whale_pct": 0.663,
+    "whale_usd": 1564.0900000000001,
+    "whale_pct": 1.079,
     "whale_value_at_open": 145021.9724,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -62994,8 +62994,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787840770.1075637,
-    "fills": 1
+    "last_fill_at": 1787844783.177824,
+    "fills": 2
   },
   {
     "timestamp": 1787840996,
@@ -63324,8 +63324,8 @@
     "title": "ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Haruka Kaji vs Elena Milovanovic",
     "outcome": "Elena Milovanovic",
     "side": "BUY",
-    "whale_usd": 4186.44,
-    "whale_pct": 2.055,
+    "whale_usd": 8649.6556,
+    "whale_pct": 4.247,
     "whale_value_at_open": 203681.846,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -63336,8 +63336,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787844695.4733217,
-    "fills": 4
+    "last_fill_at": 1787844787.8687584,
+    "fills": 10
   },
   {
     "timestamp": 1787844119,
@@ -63457,6 +63457,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787844593.9715533,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787844815,
+    "timestamp_added": 1787844815.5063868,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-janicij-maric-2026-08-27",
+    "title": "ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Selena Janicijevic vs Dunja Maric",
+    "outcome": "Dunja Maric",
+    "side": "BUY",
+    "whale_usd": 1552.95,
+    "whale_pct": 0.934,
+    "whale_value_at_open": 166349.0589,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787844815.5064,
     "fills": 1
   }
 ]
