@@ -61573,8 +61573,8 @@
     "title": "Kuopion PS vs. Shamrock Rovers FC: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 661.0008,
-    "whale_pct": 2.253,
+    "whale_usd": 1301.0032,
+    "whale_pct": 4.435,
     "whale_value_at_open": 29333.6563,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -61585,8 +61585,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787821704.82949,
-    "fills": 1
+    "last_fill_at": 1787822787.9318504,
+    "fills": 2
   },
   {
     "timestamp": 1787821880,
@@ -61597,8 +61597,8 @@
     "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Noelia Manta vs Angella Okutoyi",
     "outcome": "Angella Okutoyi",
     "side": "BUY",
-    "whale_usd": 2467.4399999999996,
-    "whale_pct": 5.918,
+    "whale_usd": 3826.3199999999997,
+    "whale_pct": 9.178,
     "whale_value_at_open": 41691.925,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -61609,8 +61609,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787822172.4530737,
-    "fills": 2
+    "last_fill_at": 1787822846.9368577,
+    "fills": 3
   },
   {
     "timestamp": 1787821881,
