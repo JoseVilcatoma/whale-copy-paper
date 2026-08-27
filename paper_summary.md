@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 13:00:58 (hora de Perú)
+Actualizado: 2026-08-27 13:02:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $463.52
-**Retorno acumulado:** -7.30%
+**Bankroll actual:** $459.49
+**Retorno acumulado:** -8.10%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 13:00:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $123.52)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $129.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,21 +86,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Donghui | 2 | 5 | 2 | -19.50 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 20 | 3 | -32.36 USD |
-| RN1 | 363 | 170 | 18 | -38.96 USD |
+| RN1 | 364 | 171 | 16 | -42.99 USD |
 | ferrariChampions2026 | 299 | 181 | 4 | -63.01 USD |
 | Sassy-Bucket | 16 | 31 | 0 | -83.82 USD |
 |  | 62 | 49 | 2 | -104.26 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2422
-- **Aciertos:** 1556 (64.2%)
+- **Apuestas resueltas:** 2424
+- **Aciertos:** 1557 (64.2%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $12,097.59
-- **ROI sobre lo apostado:** -1.00%
-- **Comisiones pagadas (taker fee):** $219.41 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.81% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,107.59
+- **ROI sobre lo apostado:** -1.04%
+- **Comisiones pagadas (taker fee):** $219.54 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -109,8 +109,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1193 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 720 | 70.3% | 67.7% | +2.6 pp |
-| 80-94% | 347 | 86.5% | 86.8% | -0.4 pp |
+| 60-79% | 721 | 70.2% | 67.7% | +2.5 pp |
+| 80-94% | 348 | 86.5% | 86.8% | -0.3 pp |
 | 95-99% (casi seguro) | 162 | 95.7% | 97.4% | -1.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -548,7 +548,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: FC Red Bull Salzburg (-1.5) | FC Red Bull Salzburg (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
 | RN1 | Will Panathinaikós AO win on 2026-08-27? | Yes (BUY) | 44% | 5.00 | 1.2% | ⏳ pendiente | — |
 | texaskid | Colorado Rockies vs. Washington National | Under (BUY) | 49% | 5.00 | 32.6% | ⏳ pendiente | — |
-| RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Will Modern SC win on 2026-08-27? | Yes (BUY) | 82% | 5.00 | 1.7% | ✅ ganada | +1.05 |
 | RN1 | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Candiotto (BUY) | 74% | 5.00 | 0.4% | ✅ ganada | +1.69 |
 | RN1 | Kuopion PS vs. Shamrock Rovers FC: 1st H | Under (BUY) | 83% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Augsburg: Cezar Cretu vs Marvin Moeller | Marvin Moeller (BUY) | 63% | 5.00 | 0.7% | ❌ perdida | -5.09 |

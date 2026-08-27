@@ -1,5 +1,5 @@
 {
-  "bankroll": 463.5164830990629,
+  "bankroll": 459.4890440746727,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12580,6 +12580,16 @@
       "timestamp": 1787851059.5335584,
       "bankroll": 463.52,
       "event": "lost: HomeRunHazard \u2014 Augsburg: Cezar Cretu vs Marvin Moeller"
+    },
+    {
+      "timestamp": 1787853716.9447355,
+      "bankroll": 458.44,
+      "event": "lost: RN1 \u2014 Will Modern SC win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787853719.148709,
+      "bankroll": 459.49,
+      "event": "won: RN1 \u2014 Will Modern SC win on 2026-08-27?"
     }
   ]
 }
