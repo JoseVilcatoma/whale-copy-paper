@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.26198600240775,
+  "bankroll": 471.11698600240777,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12085,6 +12085,11 @@
       "timestamp": 1787802731.0467193,
       "bankroll": 476.26,
       "event": "won: Djdjdjekekek \u2014 Minnesota Twins vs. Athletics"
+    },
+    {
+      "timestamp": 1787805729.698481,
+      "bankroll": 471.12,
+      "event": "lost: HomeRunHazard \u2014 Spread: Seattle Storm (-4.5)"
     }
   ]
 }
