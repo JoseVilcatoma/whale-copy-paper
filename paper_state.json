@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.85469200507407,
+  "bankroll": 450.5140483269132,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12395,6 +12395,21 @@
       "timestamp": 1787840498.1263943,
       "bankroll": 446.85,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Edoardo Cherie Ligniere vs Dimitar Kuzmanov"
+    },
+    {
+      "timestamp": 1787843946.0437984,
+      "bankroll": 452.14,
+      "event": "won: HomeRunHazard \u2014 Orix Buffaloes vs. Tohoku Rakuten Golden Eagles"
+    },
+    {
+      "timestamp": 1787843946.3730636,
+      "bankroll": 455.66,
+      "event": "won: HomeRunHazard \u2014 Tokyo Yakult Swallows vs. Yomiuri Giants"
+    },
+    {
+      "timestamp": 1787843946.772046,
+      "bankroll": 450.51,
+      "event": "lost: HomeRunHazard \u2014 Tokyo Yakult Swallows vs. Yomiuri Giants"
     }
   ]
 }
