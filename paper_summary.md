@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 00:32:13 (hora de Perú)
+Actualizado: 2026-08-27 00:34:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.67
@@ -523,7 +523,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Ekaterina Alexandrova (BUY) | 60% | 5.00 | 6.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: STATE vs GenOne (BO3) -  | GenOne (BUY) | 73% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 56% | 5.00 | 5.7% | ⏳ pendiente | — |
-| RN1 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 71% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Washington Mystics vs. Phoenix Mercury | Washington Mystics (BUY) | 64% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 75% | 5.00 | 11.9% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 60% | 5.00 | 1.6% | ⏳ pendiente | — |
