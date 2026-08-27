@@ -61025,5 +61025,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787810091.9180734,
     "fills": 6
+  },
+  {
+    "timestamp": 1787810579,
+    "timestamp_added": 1787810580.5750885,
+    "username": "",
+    "wallet": "0x076daa87c4fe1a85402a9b6b8e0a866224388d4c",
+    "slug": "col-bra-pao1-2026-08-27-team-to-advance",
+    "title": "SK Brann vs. PAOK: Team to Advance",
+    "outcome": "PAOK",
+    "side": "BUY",
+    "whale_usd": 3525.5899979999995,
+    "whale_pct": 9.409,
+    "whale_value_at_open": 37470.8846,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787810580.5751042,
+    "fills": 1
   }
 ]
