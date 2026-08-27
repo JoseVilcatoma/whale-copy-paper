@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 00:01:24 (hora de Perú)
+Actualizado: 2026-08-27 00:03:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.67
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 00:01:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $335.67)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $325.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 56 | 22 | 0 | +48.85 USD |
 | BOOMBOYS.Kiritych | 29 | 14 | 0 | +46.86 USD |
 | SDTrading | 32 | 20 | 0 | +44.18 USD |
-| HomeRunHazard | 365 | 180 | 0 | +34.08 USD |
+| HomeRunHazard | 365 | 180 | 2 | +34.08 USD |
 | casualbet2020 | 19 | 7 | 0 | +32.69 USD |
 | swisstony | 83 | 17 | 1 | +32.61 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -514,11 +514,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-liutova-radivoj-2026-08-26 | HomeRunHazard, RN1 |
 | sud-riv-san1-2026-08-19-total-2pt5 | RN1, kekasaur |
 | atp-damm-marozsa-2026-08-26 | Donghui, RN1 |
+| wta-alexand-tauson-2026-08-26 | , HomeRunHazard |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 75% | 5.00 | 1.7% | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Atlanta Braves:  | Under (BUY) | 60% | 5.00 | 1.6% | ⏳ pendiente | — |
 |  | Monterrey Open: Ekaterina Alexandrova vs | Clara Tauson (BUY) | 46% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 91% | 5.00 | 50.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs FUT Esports (B | FUT Esports (BUY) | 55% | 5.00 | 20.7% | ⏳ pendiente | — |
@@ -547,5 +550,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA River Plate win on 2026-08-19? | Yes (BUY) | 76% | 5.00 | 1.5% | ❌ perdida | -5.06 |
 | RN1 | Will CD Universidad Católica win on 2026 | Yes (BUY) | 98% | 5.00 | 0.6% | ✅ ganada | +0.10 |
 | RN1 | US Open, Qualification WTA: Kristina Liu | Kristina Liutova (BUY) | 98% | 5.00 | 1.2% | ✅ ganada | +0.10 |
-| RN1 | Kansas City Royals vs. Toronto Blue Jays | Kansas City Royals (BUY) | 51% | 5.00 | 0.3% | ❌ perdida | -5.12 |
-| RN1 | Baltimore Orioles vs. St. Louis Cardinal | St. Louis Cardinals (BUY) | 54% | 5.00 | 0.2% | ❌ perdida | -5.12 |
