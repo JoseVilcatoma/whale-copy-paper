@@ -62241,5 +62241,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787827125.1645856,
     "fills": 1
+  },
+  {
+    "timestamp": 1787827439,
+    "timestamp_added": 1787827439.497743,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "uel-sab-jag-2026-08-27-total-1pt5",
+    "title": "SK Iberia 1999 vs. Jagiellonia Bia\u0142ystok: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1004.003,
+    "whale_pct": 2.108,
+    "whale_value_at_open": 47622.0833,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787827439.4977534,
+    "fills": 1
   }
 ]
