@@ -65122,8 +65122,8 @@
     "title": "Counter-Strike: Sashi Esport vs ex-RUSTEC (BO3) - CCT Europe Series #7 Playoffs",
     "outcome": "Sashi Esport",
     "side": "BUY",
-    "whale_usd": 5433.0836,
-    "whale_pct": 44.916,
+    "whale_usd": 10974.499500000002,
+    "whale_pct": 90.729,
     "whale_value_at_open": 12095.9738,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -65134,7 +65134,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787895939.7950394,
-    "fills": 1
+    "last_fill_at": 1787896850.8987403,
+    "fills": 2
   }
 ]

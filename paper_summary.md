@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 00:59:20 (hora de Perú)
+Actualizado: 2026-08-28 01:01:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.26
@@ -544,7 +544,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ExplosiveNinja | Counter-Strike: Sashi Esport vs ex-RUSTE | Sashi Esport (BUY) | 68% | 5.00 | 44.9% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Sashi Esport vs ex-RUSTE | Sashi Esport (BUY) | 68% | 5.00 | 90.7% | ⏳ pendiente | — |
 | plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 16.2% | ⏳ pendiente | — |
 | plonker2026 | Will FC Groningen win on 2026-08-28? | Yes (BUY) | 63% | 5.00 | 36.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Manchester City FC (-1.5) | Crystal Palace FC (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
