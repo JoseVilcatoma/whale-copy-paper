@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.244747249833,
+  "bankroll": 494.6040913358545,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13505,6 +13505,11 @@
       "timestamp": 1787956811.8724768,
       "bankroll": 494.24,
       "event": "won: OOOwhyOOO \u2014 ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Victoria Luiza Barros vs Nauhany Vitoria Leme Da Silva"
+    },
+    {
+      "timestamp": 1787957554.9693472,
+      "bankroll": 494.6,
+      "event": "won: ferrariChampions2026 \u2014 Philadelphia: Tereza Valentova vs Julia Grabher"
     }
   ]
 }

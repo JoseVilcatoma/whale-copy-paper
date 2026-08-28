@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 17:52:15 (hora de Perú)
+Actualizado: 2026-08-28 17:54:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.24
-**Retorno acumulado:** -1.15%
+**Bankroll actual:** $494.60
+**Retorno acumulado:** -1.08%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 17:52:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $309.24)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $309.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,19 +90,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 5 | 10 | 6 | -25.96 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
-| ferrariChampions2026 | 304 | 188 | 9 | -72.60 USD |
-| Sassy-Bucket | 16 | 32 | 1 | -88.95 USD |
+| ferrariChampions2026 | 305 | 188 | 8 | -72.24 USD |
+| Sassy-Bucket | 16 | 32 | 2 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2589
-- **Aciertos:** 1661 (64.2%)
+- **Apuestas resueltas:** 2590
+- **Aciertos:** 1662 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,932.59
+- **Total apostado (suma de stakes):** $12,937.59
 - **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $236.01 (1.82% del capital apostado)
+- **Comisiones pagadas (taker fee):** $236.02 (1.82% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -113,7 +113,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1295 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 763 | 70.5% | 67.7% | +2.8 pp |
-| 80-94% | 362 | 86.7% | 86.8% | -0.1 pp |
+| 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -557,6 +557,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
 | AV23IUa | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 60% | 5.00 | 4.5% | ⏳ pendiente | — |
 | Sassy-Bucket | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 47% | 5.00 | 14.7% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 43% | 5.00 | 11.6% | ⏳ pendiente | — |
@@ -564,7 +565,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 51% | 5.00 | 44.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality (BUY) | 53% | 5.00 | 18.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 1 W | Vitality (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Philadelphia: Tereza Valentova vs Julia  | Tereza Valentova (BUY) | 93% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Philadelphia: Tereza Valentova vs Julia  | Tereza Valentova (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benj | Ignacio Buse (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 2 W | Vitality (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -586,4 +587,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 28.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 55% | 5.00 | 2.2% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Will Deportivo Alavés win on 2026-08-28? | No (BUY) | 45% | 5.00 | 0.5% | ❌ perdida | -5.14 |
-| ferrariChampions2026 | Monterrey Open: Nikola Bartunkova vs Eli | Elise Mertens (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
