@@ -64817,8 +64817,8 @@
     "title": "Arizona Diamondbacks vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 3972.4377999999997,
-    "whale_pct": 0.977,
+    "whale_usd": 4540.435399999999,
+    "whale_pct": 1.116,
     "whale_value_at_open": 406699.2375,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -64829,8 +64829,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787887777.2242417,
-    "fills": 3
+    "last_fill_at": 1787888865.2522578,
+    "fills": 4
   },
   {
     "timestamp": 1787884511,
