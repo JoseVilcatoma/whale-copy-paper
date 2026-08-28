@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 08:30:53 (hora de Perú)
+Actualizado: 2026-08-28 08:33:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $513.05
@@ -551,7 +551,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 46% | 5.00 | 6.6% | ⏳ pendiente | — |
-| pleaseplease123 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 106.7% | ⏳ pendiente | — |
+| pleaseplease123 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 113.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: AC Milan (-1.5) | Venezia FC (BUY) | 60% | 5.00 | 6.6% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers: O/U | Over (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | HANJIN BRION (BUY) | 56% | 5.00 | 32.5% | ⏳ pendiente | — |
