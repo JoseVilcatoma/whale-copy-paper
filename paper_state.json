@@ -1,5 +1,5 @@
 {
-  "bankroll": 480.4803104817332,
+  "bankroll": 486.9435471188538,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12925,6 +12925,16 @@
       "timestamp": 1787873382.0294628,
       "bankroll": 480.48,
       "event": "venta anticipada: OOOwhyOOO \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse (-0.51 USD)"
+    },
+    {
+      "timestamp": 1787877506.6615276,
+      "bankroll": 485.16,
+      "event": "won: OOOwhyOOO \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1787877507.0871596,
+      "bankroll": 486.94,
+      "event": "won: RN1 \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse"
     }
   ]
 }
