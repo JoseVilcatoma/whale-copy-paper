@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 02:44:02 (hora de Perú)
+Actualizado: 2026-08-28 02:46:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.15
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 02:44:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $432.15)
+**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $427.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 379 | 180 | 2 | -44.53 USD |
+| RN1 | 379 | 180 | 3 | -44.53 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -546,6 +546,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Tianjin 4 (Chin | Vaishnavi Adkar (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: EDward Gaming vs Ninjas in Pyjamas  | EDward Gaming (BUY) | 49% | 5.00 | 25.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 83% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -575,4 +576,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 68% | 5.00 | 0.8% | ✅ ganada | +2.27 |
 | RN1 | Winston-Salem Open: Fabian Marozsan vs J | Fabian Marozsan (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | OOOwhyOOO | Kingston 2: Andrew Fenty vs Luis Guto Mi | Luis Guto Miguel (BUY) | 94% | 5.00 | 3.7% | ✅ ganada | +0.30 |
-| RN1 | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 73% | 5.00 | 4.7% | ✅ ganada | +1.78 |
