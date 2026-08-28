@@ -65040,5 +65040,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787890453.5608666,
     "fills": 9
+  },
+  {
+    "timestamp": 1787891126,
+    "timestamp_added": 1787891127.1700158,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "epl-cry-mac-2026-08-28-spread-away-1pt5",
+    "title": "Spread: Manchester City FC (-1.5)",
+    "outcome": "Crystal Palace FC",
+    "side": "BUY",
+    "whale_usd": 1292.4434,
+    "whale_pct": 0.492,
+    "whale_value_at_open": 262767.2604,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787891127.1700256,
+    "fills": 1
   }
 ]
