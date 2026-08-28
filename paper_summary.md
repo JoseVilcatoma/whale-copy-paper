@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 14:48:33 (hora de Perú)
+Actualizado: 2026-08-28 14:50:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $529.13
-**Retorno acumulado:** +5.83%
+**Bankroll actual:** $533.27
+**Retorno acumulado:** +6.65%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 14:48:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $364.13)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $373.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,8 +28,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 15 | 7 | 0 | +36.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| casualbet2020 | 23 | 10 | 1 | +28.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 22 | 10 | 2 | +24.65 USD |
 | ChonkyChocolateCake | 41 | 24 | 1 | +24.24 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2564
-- **Aciertos:** 1650 (64.4%)
+- **Apuestas resueltas:** 2565
+- **Aciertos:** 1651 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,807.59
-- **ROI sobre lo apostado:** -0.49%
-- **Comisiones pagadas (taker fee):** $233.44 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.33% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,812.59
+- **ROI sobre lo apostado:** -0.46%
+- **Comisiones pagadas (taker fee):** $233.55 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1281 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 1282 | 50.2% | 50.1% | +0.0 pp |
 | 60-79% | 754 | 70.8% | 67.8% | +3.1 pp |
 | 80-94% | 361 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 168 | 95.8% | 97.3% | -1.5 pp |
@@ -578,7 +578,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 49% | 5.00 | 1.2% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | Spread: Washington Mystics (-5.5) | Los Angeles Sparks (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Talvez10 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 93.1% | ⏳ pendiente | — |
-| casualbet2020 | Map Handicap: FURIA (-1.5) vs M80 (+1.5) | FURIA (BUY) | 54% | 5.00 | 44.6% | ⏳ pendiente | — |
+| casualbet2020 | Map Handicap: FURIA (-1.5) vs M80 (+1.5) | FURIA (BUY) | 54% | 5.00 | 44.6% | ✅ ganada | +4.14 |
 | wr0ngw4yb3tt0r | Will Paris Saint-Germain FC win on 2026- | No (BUY) | 43% | 5.00 | 1.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Fire Flux Espor | Fire Flux Esports (BUY) | 41% | 5.00 | 7.0% | ❌ perdida | -5.15 |
 | TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 13.9% | ✅ ganada | +5.73 |

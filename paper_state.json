@@ -1,5 +1,5 @@
 {
-  "bankroll": 529.1291066259228,
+  "bankroll": 533.273365885182,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13375,6 +13375,11 @@
       "timestamp": 1787945518.1320868,
       "bankroll": 529.13,
       "event": "won: OOOwhyOOO \u2014 ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Ana Sofia Sanchez vs Carolyn Ansari"
+    },
+    {
+      "timestamp": 1787946535.8909152,
+      "bankroll": 533.27,
+      "event": "won: casualbet2020 \u2014 Map Handicap: FURIA (-1.5) vs M80 (+1.5)"
     }
   ]
 }
