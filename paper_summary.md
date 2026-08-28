@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 05:47:09 (hora de Perú)
+Actualizado: 2026-08-28 05:49:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.12
@@ -550,7 +550,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 4  | BNK FEARX (BUY) | 48% | 5.00 | 3.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 4  | BNK FEARX (BUY) | 48% | 5.00 | 6.9% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Nikita Mashtakov (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Sinners vs Bushido Wildc | Sinners (BUY) | 71% | 5.00 | 9.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 57% | 5.00 | 13.5% | ⏳ pendiente | — |
@@ -564,7 +564,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Teodora Miron (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ilinca Dalina Amariei (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Facundo Mena (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 8.1% | ⏳ pendiente | — |
+| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 9.5% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Dragos Nicolae Madaras (BUY) | 58% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ✅ ganada | +4.50 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ❌ perdida | -5.12 |

@@ -65621,8 +65621,8 @@
     "title": "Augsburg: Benito Sanchez Martinez vs Facundo Mena",
     "outcome": "Benito Sanchez Martinez",
     "side": "BUY",
-    "whale_usd": 7230.64482,
-    "whale_pct": 8.057,
+    "whale_usd": 8556.226215,
+    "whale_pct": 9.534,
     "whale_value_at_open": 89743.4985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -65633,8 +65633,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787914015.0989995,
-    "fills": 4
+    "last_fill_at": 1787914046.3132217,
+    "fills": 5
   },
   {
     "timestamp": 1787906696,
@@ -65959,8 +65959,8 @@
     "title": "LoL: HANJIN BRION vs BNK FEARX - Game 4 Winner",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 7585.766035000001,
-    "whale_pct": 3.31,
+    "whale_usd": 15912.155835000001,
+    "whale_pct": 6.943,
     "whale_value_at_open": 229187.3666,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -65971,7 +65971,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787914027.6847973,
-    "fills": 5
+    "last_fill_at": 1787914129.6366658,
+    "fills": 9
   }
 ]
