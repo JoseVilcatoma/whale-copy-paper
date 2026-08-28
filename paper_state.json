@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.4623312837906,
+  "bankroll": 499.1540880405474,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13170,6 +13170,11 @@
       "timestamp": 1787912575.0885384,
       "bankroll": 497.46,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Aurora Gaming vs DENDELE CS - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787913143.0152123,
+      "bankroll": 499.15,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Xinyu Gao"
     }
   ]
 }
