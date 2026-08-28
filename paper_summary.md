@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 00:34:35 (hora de Perú)
+Actualizado: 2026-08-28 00:36:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.26
@@ -573,4 +573,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 7.3% | ✅ ganada | +0.84 |
 | RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 2.0% | ❌ perdida | -5.11 |
 | texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ❌ perdida | -5.12 |
-| TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 10.7% | ⏳ pendiente | — |

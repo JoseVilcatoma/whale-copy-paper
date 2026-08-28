@@ -64373,8 +64373,8 @@
     "title": "LoL: HANJIN BRION vs BNK FEARX (BO5) - LCK Play-In",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 1375.0268880000003,
-    "whale_pct": 7.426,
+    "whale_usd": 1986.1379990000005,
+    "whale_pct": 10.727,
     "whale_value_at_open": 18515.445,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -64385,8 +64385,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787872278.0192118,
-    "fills": 2
+    "last_fill_at": 1787895372.3806822,
+    "fills": 3
   },
   {
     "timestamp": 1787871911,
