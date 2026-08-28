@@ -1,5 +1,5 @@
 {
-  "bankroll": 488.30857866875624,
+  "bankroll": 504.7469525889537,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12990,6 +12990,26 @@
       "timestamp": 1787882236.4515722,
       "bankroll": 488.31,
       "event": "won: RN1 \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787883165.144908,
+      "bankroll": 494.53,
+      "event": "won: HomeRunHazard \u2014 Houston Astros vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1787883165.7722023,
+      "bankroll": 499.03,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1787883167.947261,
+      "bankroll": 499.87,
+      "event": "won: RN1 \u2014 Monterrey Open: Darja Vidmanova vs Nikola Bartunkova"
+    },
+    {
+      "timestamp": 1787883169.1786206,
+      "bankroll": 504.75,
+      "event": "won: RN1 \u2014 Houston Astros vs. New York Yankees"
     }
   ]
 }

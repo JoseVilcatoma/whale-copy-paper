@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 21:11:53 (hora de Perú)
+Actualizado: 2026-08-27 21:13:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $488.31
-**Retorno acumulado:** -2.34%
+**Bankroll actual:** $504.75
+**Retorno acumulado:** +0.95%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 21:11:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $403.31)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $439.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,8 +23,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | BOOMBOYS.Kiritych | 34 | 17 | 0 | +54.65 USD |
+| HomeRunHazard | 374 | 184 | 3 | +45.57 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
-| HomeRunHazard | 372 | 184 | 5 | +34.85 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 21 | 9 | 0 | +28.75 USD |
@@ -87,7 +87,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 376 | 176 | 8 | -33.12 USD |
+| RN1 | 378 | 176 | 6 | -27.40 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
@@ -95,14 +95,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2493
-- **Aciertos:** 1605 (64.4%)
+- **Apuestas resueltas:** 2497
+- **Aciertos:** 1609 (64.4%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,452.59
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $225.94 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,472.59
+- **ROI sobre lo apostado:** -0.65%
+- **Comisiones pagadas (taker fee):** $226.36 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -110,9 +110,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1231 | 50.0% | 50.1% | -0.2 pp |
+| 40-59% | 1234 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 740 | 70.5% | 67.7% | +2.8 pp |
-| 80-94% | 358 | 86.9% | 86.8% | +0.1 pp |
+| 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -543,7 +543,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ⏳ pendiente | — |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 48% | 5.00 | 2.2% | ⏳ pendiente | — |
-| RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ✅ ganada | +4.88 |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 68% | 5.00 | 0.8% | ✅ ganada | +2.27 |
 | RN1 | Winston-Salem Open: Fabian Marozsan vs J | Fabian Marozsan (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Andrew Fenty vs Luis Guto Mi | Luis Guto Miguel (BUY) | 94% | 5.00 | 3.7% | ✅ ganada | +0.30 |
@@ -553,7 +553,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 54% | 5.00 | 40.7% | 💰 vendida anticipada | -0.51 |
 | RN1 | Will SC Internacional win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 55% | 5.00 | 0.8% | ❌ perdida | -5.11 |
-| RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 7.3% | ⏳ pendiente | — |
+| RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 7.3% | ✅ ganada | +0.84 |
 | RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
