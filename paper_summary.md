@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 08:33:06 (hora de Perú)
+Actualizado: 2026-08-28 08:35:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $513.05
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 08:33:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $403.05)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $398.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| wr0ngw4yb3tt0r | 4 | 5 | 4 | -6.88 USD |
+| wr0ngw4yb3tt0r | 4 | 5 | 5 | -6.88 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -550,6 +550,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| wr0ngw4yb3tt0r | Connecticut Sun vs. Indiana Fever: O/U 1 | Over (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 46% | 5.00 | 6.6% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 113.9% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: AC Milan (-1.5) | Venezia FC (BUY) | 60% | 5.00 | 6.6% | ⏳ pendiente | — |
@@ -579,4 +580,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 9.5% | ❌ perdida | -5.11 |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Dragos Nicolae Madaras (BUY) | 58% | 5.00 | 1.2% | ❌ perdida | -5.11 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ✅ ganada | +4.50 |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ❌ perdida | -5.12 |

@@ -66264,5 +66264,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787923686.535003,
     "fills": 1
+  },
+  {
+    "timestamp": 1787924020,
+    "timestamp_added": 1787924020.9483678,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "wnba-conn-ind-2026-08-28-total-177pt5",
+    "title": "Connecticut Sun vs. Indiana Fever: O/U 177.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 509.9969,
+    "whale_pct": 0.574,
+    "whale_value_at_open": 88823.8621,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787924020.9483798,
+    "fills": 1
   }
 ]
