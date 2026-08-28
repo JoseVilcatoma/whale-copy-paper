@@ -65026,8 +65026,8 @@
     "title": "Rams vs. Chargers",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 91059.0177,
-    "whale_pct": 30.591,
+    "whale_usd": 91847.6345,
+    "whale_pct": 30.856,
     "whale_value_at_open": 297666.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -65038,8 +65038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787892050.9185836,
-    "fills": 13
+    "last_fill_at": 1787892392.1222782,
+    "fills": 14
   },
   {
     "timestamp": 1787891126,
@@ -65064,5 +65064,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787891127.1700256,
     "fills": 1
+  },
+  {
+    "timestamp": 1787892373,
+    "timestamp_added": 1787892373.721341,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "ere-gro-sit-2026-08-28-gro",
+    "title": "Will FC Groningen win on 2026-08-28?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 11282.264,
+    "whale_pct": 21.749,
+    "whale_value_at_open": 51874.8508,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787892416.7203734,
+    "fills": 6
   }
 ]
