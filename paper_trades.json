@@ -64783,5 +64783,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787883355.6722639,
     "fills": 1
+  },
+  {
+    "timestamp": 1787883629,
+    "timestamp_added": 1787883630.0457275,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-edg-nip-2026-08-28",
+    "title": "LoL: EDward Gaming vs Ninjas in Pyjamas (BO5) - LPL Knights Rivals",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 780.532222,
+    "whale_pct": 5.923,
+    "whale_value_at_open": 13177.871,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787883630.0457387,
+    "fills": 1
   }
 ]

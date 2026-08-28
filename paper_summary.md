@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 21:20:07 (hora de Perú)
+Actualizado: 2026-08-27 21:22:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 21:20:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $434.64)
+**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $429.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 39 | 22 | 0 | +25.08 USD |
 | texaskid | 6 | 1 | 2 | +22.32 USD |
-| TAIWANNUMBERONE | 10 | 6 | 1 | +20.24 USD |
+| TAIWANNUMBERONE | 10 | 6 | 2 | +20.24 USD |
 | plonker2026 | 8 | 5 | 0 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -542,6 +542,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 74% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 34.9% | ⏳ pendiente | — |
 | ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ⏳ pendiente | — |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 48% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -571,4 +572,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ✅ ganada | +1.60 |
 | DoNotTailMe | LoL: BIG vs G2 NORD (BO5) - Prime League | G2 NORD (BUY) | 59% | 5.00 | 26.5% | ✅ ganada | +3.37 |
 | AV23IUa | Spread: FC Barcelona (-1.5) | FC Barcelona (BUY) | 60% | 5.00 | 6.6% | ✅ ganada | +3.23 |
-| Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | 💰 vendida anticipada | +4.68 |
