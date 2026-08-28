@@ -67499,8 +67499,8 @@
     "title": "Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 16783.2884,
-    "whale_pct": 18.286,
+    "whale_usd": 17988.616400000003,
+    "whale_pct": 19.599,
     "whale_value_at_open": 91783.4852,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -67511,8 +67511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787954390.3721185,
-    "fills": 5
+    "last_fill_at": 1787957098.3127058,
+    "fills": 6
   },
   {
     "timestamp": 1787951698,
@@ -67643,8 +67643,8 @@
     "title": "Map Handicap: VIT (-1.5) vs 9z (+1.5)",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 3195.3687999999997,
-    "whale_pct": 11.98,
+    "whale_usd": 4787.9976,
+    "whale_pct": 17.951,
     "whale_value_at_open": 26672.2495,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -67655,8 +67655,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787954394.2045567,
-    "fills": 1
+    "last_fill_at": 1787957104.5657432,
+    "fills": 2
   },
   {
     "timestamp": 1787956039,
