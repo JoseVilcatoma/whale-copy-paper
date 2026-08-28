@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.0083362416678,
+  "bankroll": 533.0468310870286,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13355,6 +13355,11 @@
       "timestamp": 1787940524.456156,
       "bankroll": 533.01,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Fnatic - Game 2 Winner (+0.03 USD)"
+    },
+    {
+      "timestamp": 1787940634.5882618,
+      "bankroll": 533.05,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Fnatic - Game 2 Winner (+0.04 USD)"
     }
   ]
 }
