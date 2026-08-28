@@ -66360,5 +66360,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787925415.4510245,
     "fills": 2
+  },
+  {
+    "timestamp": 1787925767,
+    "timestamp_added": 1787925767.7260919,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "cs2-navi-pain-2026-08-28",
+    "title": "Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 15095.032000000001,
+    "whale_pct": 56.789,
+    "whale_value_at_open": 26581.102,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787925767.7261035,
+    "fills": 1
   }
 ]
