@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 11:53:33 (hora de Perú)
+Actualizado: 2026-08-28 11:55:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.00
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 11:53:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $340.00)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $335.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 32 | 21 | 4 | +39.06 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| ChonkyChocolateCake | 41 | 23 | 1 | +29.35 USD |
+| ChonkyChocolateCake | 41 | 23 | 2 | +29.35 USD |
 | casualbet2020 | 21 | 9 | 4 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 13 | 7 | 2 | +25.71 USD |
@@ -553,7 +553,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 11.3% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 64% | 5.00 | 39.1% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 48.9% | ⏳ pendiente | — |
 | casualbet2020 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Fnatic (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | texaskid | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 67% | 5.00 | 25.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Shifters vs Team Heretics - Game 2  | Team Heretics (BUY) | 55% | 5.00 | 35.6% | ⏳ pendiente | — |
@@ -582,4 +583,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Kansas City Royals vs. Cleveland Guardia | Cleveland Guardians (BUY) | 57% | 5.00 | 79.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: G2 vs Spirit (BO3) - BLA | Spirit (BUY) | 71% | 5.00 | 8.3% | ✅ ganada | +1.97 |
 | ExplosiveNinja | Counter-Strike: Rune Eaters vs 9INE (BO3 | 9INE (BUY) | 58% | 5.00 | 48.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit (BUY) | 43% | 5.00 | 7.7% | ✅ ganada | +6.48 |
