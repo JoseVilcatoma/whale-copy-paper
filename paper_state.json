@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.34641736649945,
+  "bankroll": 488.30857866875624,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12945,6 +12945,51 @@
       "timestamp": 1787880029.960816,
       "bankroll": 490.35,
       "event": "won: OOOwhyOOO \u2014 Philadelphia: Fiona Crawley vs Julia Grabher"
+    },
+    {
+      "timestamp": 1787882230.8228707,
+      "bankroll": 493.58,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Atlanta Braves: O/U 7.5"
+    },
+    {
+      "timestamp": 1787882233.4459224,
+      "bankroll": 488.45,
+      "event": "lost: SDTrading \u2014 Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5"
+    },
+    {
+      "timestamp": 1787882233.6136117,
+      "bankroll": 483.32,
+      "event": "lost: Djdjdjekekek \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787882233.7137768,
+      "bankroll": 487.64,
+      "event": "won: casualbet2020 \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787882233.8139284,
+      "bankroll": 491.96,
+      "event": "won: Talvez10 \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787882233.91409,
+      "bankroll": 486.83,
+      "event": "lost: Sassy-Bucket \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787882234.014239,
+      "bankroll": 491.15,
+      "event": "won: TAIWANNUMBERONE \u2014 Los Angeles Dodgers vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787882235.40312,
+      "bankroll": 486.04,
+      "event": "lost: RN1 \u2014 Los Angeles Dodgers vs. Atlanta Braves: O/U 6.5"
+    },
+    {
+      "timestamp": 1787882236.4515722,
+      "bankroll": 488.31,
+      "event": "won: RN1 \u2014 Los Angeles Dodgers vs. Atlanta Braves"
     }
   ]
 }
