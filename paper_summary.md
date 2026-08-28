@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 05:14:32 (hora de Perú)
+Actualizado: 2026-08-28 05:16:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.03
-**Retorno acumulado:** +0.61%
+**Bankroll actual:** $502.40
+**Retorno acumulado:** +0.48%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 05:14:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $338.03)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $347.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,21 +89,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 381 | 180 | 12 | -38.70 USD |
+| RN1 | 382 | 181 | 10 | -39.32 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2521
-- **Aciertos:** 1622 (64.3%)
+- **Apuestas resueltas:** 2523
+- **Aciertos:** 1623 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,592.59
-- **ROI sobre lo apostado:** -0.67%
-- **Comisiones pagadas (taker fee):** $229.12 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,602.59
+- **ROI sobre lo apostado:** -0.68%
+- **Comisiones pagadas (taker fee):** $229.37 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1254 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1256 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 743 | 70.7% | 67.7% | +2.9 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 165 | 95.8% | 97.4% | -1.6 pp |
@@ -563,8 +563,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Facundo Mena (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 7.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Dragos Nicolae Madaras (BUY) | 58% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ✅ ganada | +4.50 |
+| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 54% | 5.00 | 71.0% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 49% | 5.00 | 72.9% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 159.0% | ⏳ pendiente | — |

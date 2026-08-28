@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.0301389760982,
+  "bankroll": 502.40052359148285,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13140,6 +13140,16 @@
       "timestamp": 1787911748.298726,
       "bankroll": 503.03,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Cap d'Agde (France), clay: Kenny De Schepper vs Lenny Couturier"
+    },
+    {
+      "timestamp": 1787912125.5906997,
+      "bankroll": 497.91,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentini Grammatikopoulou vs Angella Okutoyi"
+    },
+    {
+      "timestamp": 1787912125.6908438,
+      "bankroll": 502.4,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentini Grammatikopoulou vs Angella Okutoyi"
     }
   ]
 }
