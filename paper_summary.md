@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 09:54:41 (hora de Perú)
+Actualizado: 2026-08-28 09:56:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.00
@@ -552,11 +552,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: Washington Mystics (-5.5) | Los Angeles Sparks (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Talvez10 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 39.6% | ⏳ pendiente | — |
+| Talvez10 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 59.9% | ⏳ pendiente | — |
 | casualbet2020 | Map Handicap: FURIA (-1.5) vs M80 (+1.5) | FURIA (BUY) | 54% | 5.00 | 44.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Paris Saint-Germain FC win on 2026- | No (BUY) | 43% | 5.00 | 1.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Fire Flux Espor | Fire Flux Esports (BUY) | 41% | 5.00 | 7.0% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 13.9% | ⏳ pendiente | — |
 | casualbet2020 | Counter-Strike: Natus Vincere vs paiN (B | Natus Vincere (BUY) | 82% | 5.00 | 56.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: FC Bayern München (-2.5) | VfB Stuttgart (BUY) | 59% | 5.00 | 3.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |

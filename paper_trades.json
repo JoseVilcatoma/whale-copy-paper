@@ -66394,8 +66394,8 @@
     "title": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season",
     "outcome": "Shifters",
     "side": "BUY",
-    "whale_usd": 556.0245,
-    "whale_pct": 1.542,
+    "whale_usd": 4993.8469000000005,
+    "whale_pct": 13.851,
     "whale_value_at_open": 36054.9535,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -66406,8 +66406,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787925950.404421,
-    "fills": 1
+    "last_fill_at": 1787929003.470543,
+    "fills": 3
   },
   {
     "timestamp": 1787926034,
@@ -66490,8 +66490,8 @@
     "title": "Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 8538.96,
-    "whale_pct": 39.626,
+    "whale_usd": 12896.96,
+    "whale_pct": 59.85,
     "whale_value_at_open": 21548.7735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -66504,8 +66504,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787928150.1768725,
-    "fills": 3
+    "last_fill_at": 1787928994.260901,
+    "fills": 5
   },
   {
     "timestamp": 1787928224,
