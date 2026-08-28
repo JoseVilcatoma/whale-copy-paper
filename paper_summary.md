@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 04:08:37 (hora de Perú)
+Actualizado: 2026-08-28 04:10:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.15
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 04:08:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $337.15)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $327.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| ExplosiveNinja | 3 | 2 | 2 | -1.35 USD |
+| ExplosiveNinja | 3 | 2 | 3 | -1.35 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 379 | 180 | 13 | -44.53 USD |
+| RN1 | 379 | 180 | 14 | -44.53 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -549,8 +549,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 2  | BNK FEARX (BUY) | 55% | 5.00 | 10.7% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 74% | 5.00 | 2.1% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Aurora Gaming vs DENDELE | DENDELE CS (BUY) | 45% | 5.00 | 69.8% | ⏳ pendiente | — |
+| RN1 | Will Stade Lavallois Mayenne FC vs. Gren | No (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 2  | BNK FEARX (BUY) | 55% | 5.00 | 12.6% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 74% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Metizport vs Bushido Wil | Metizport (BUY) | 64% | 5.00 | 5.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 87% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Teodora Miron (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -558,7 +560,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Facundo Mena (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 7.4% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Dragos Nicolae Madaras (BUY) | 58% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 54% | 5.00 | 71.0% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 49% | 5.00 | 72.9% | ⏳ pendiente | — |
@@ -577,5 +579,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 15.9% | 💰 vendida anticipada | +0.56 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 73.8% | 💰 vendida anticipada | +0.59 |
 | ExplosiveNinja | Counter-Strike: Sashi Esport vs ex-RUSTE | Sashi Esport (BUY) | 68% | 5.00 | 143.1% | ⏳ pendiente | — |
-| plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 16.2% | ⏳ pendiente | — |
-| plonker2026 | Will FC Groningen win on 2026-08-28? | Yes (BUY) | 63% | 5.00 | 36.1% | ⏳ pendiente | — |
