@@ -65587,5 +65587,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787905289.206591,
     "fills": 1
+  },
+  {
+    "timestamp": 1787905508,
+    "timestamp_added": 1787905509.3169222,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-madaras-turcanu-2026-08-28",
+    "title": "ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Dragos Nicolae Madaras vs Radu David Turcanu",
+    "outcome": "Dragos Nicolae Madaras",
+    "side": "BUY",
+    "whale_usd": 1034.55,
+    "whale_pct": 1.197,
+    "whale_value_at_open": 86440.0765,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787905509.3169367,
+    "fills": 1
   }
 ]
