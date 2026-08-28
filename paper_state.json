@@ -1,5 +1,5 @@
 {
-  "bankroll": 496.87928924174855,
+  "bankroll": 501.53842362910035,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13200,6 +13200,16 @@
       "timestamp": 1787915107.6070654,
       "bankroll": 496.88,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas (BO5) - LPL Knights Rivals"
+    },
+    {
+      "timestamp": 1787915167.6891263,
+      "bankroll": 499.37,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787915167.7892883,
+      "bankroll": 501.54,
+      "event": "won: SPCEXBUYER \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 3 Winner"
     }
   ]
 }

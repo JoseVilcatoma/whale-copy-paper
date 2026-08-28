@@ -65430,8 +65430,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -65480,8 +65480,8 @@
     "odds_at_bet": 69,
     "fee_usd": 0.078,
     "odds_ballena": 68,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -66020,6 +66020,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787915035.4048796,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787915246,
+    "timestamp_added": 1787915247.0103743,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-g2-ts7-2026-08-28",
+    "title": "Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 3154.1206660000003,
+    "whale_pct": 8.343,
+    "whale_value_at_open": 37806.116,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787915247.010389,
     "fills": 1
   }
 ]
