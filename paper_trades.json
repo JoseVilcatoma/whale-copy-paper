@@ -67643,8 +67643,8 @@
     "title": "Map Handicap: VIT (-1.5) vs 9z (+1.5)",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 7216.1979,
-    "whale_pct": 27.055,
+    "whale_usd": 7904.1803,
+    "whale_pct": 29.634,
     "whale_value_at_open": 26672.2495,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -67655,8 +67655,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787957997.7834177,
-    "fills": 3
+    "last_fill_at": 1787958898.3926656,
+    "fills": 4
   },
   {
     "timestamp": 1787956039,
@@ -67837,8 +67837,8 @@
     "title": "Will Clube N\u00e1utico Capibaribe win on 2026-08-28?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 640.0015,
-    "whale_pct": 0.911,
+    "whale_usd": 1167.3515,
+    "whale_pct": 1.661,
     "whale_value_at_open": 70271.5702,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -67849,7 +67849,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787958603.1082275,
-    "fills": 1
+    "last_fill_at": 1787958845.1029444,
+    "fills": 2
+  },
+  {
+    "timestamp": 1787958779,
+    "timestamp_added": 1787958779.8997655,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-nrg-loud-2026-08-28",
+    "title": "Valorant: NRG vs LOUD (BO3) - VCT Americas Stage 2 Playoffs",
+    "outcome": "NRG",
+    "side": "BUY",
+    "whale_usd": 28406.89324,
+    "whale_pct": 119.854,
+    "whale_value_at_open": 23701.2717,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787958856.0465963,
+    "fills": 5
   }
 ]
