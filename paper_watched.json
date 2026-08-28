@@ -2,7 +2,7 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787523231.3889632,
-    "roi_pct": 651.35,
+    "roi_pct": 651.01,
     "short_term_pct": 100.0
   },
   "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
@@ -14,13 +14,13 @@
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1787890086.425708,
-    "roi_pct": 1201.95,
+    "roi_pct": 1202.19,
     "short_term_pct": 90.0
   },
   "0x224a89dbe0db0d6124b335edabd15b3f877da3d5": {
     "username": "wr0ngw4yb3tt0r",
     "added_at": 1787894763.6296325,
-    "roi_pct": 532.92,
+    "roi_pct": 532.8,
     "short_term_pct": 100.0
   },
   "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1": {
@@ -29,16 +29,10 @@
     "roi_pct": 491.31,
     "short_term_pct": 100.0
   },
-  "0xf201a19b43471261a3c1ba9247335d55270e527e": {
-    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-    "added_at": 1787912276.2958682,
-    "roi_pct": 619.51,
-    "short_term_pct": 100.0
-  },
   "0x65c18d740c8246af3353741c0b32e4b6da552988": {
     "username": "casualbet2020",
     "added_at": 1787915143.139546,
-    "roi_pct": 8128.8,
+    "roi_pct": 9190.68,
     "short_term_pct": 100.0
   },
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
@@ -47,16 +41,22 @@
     "roi_pct": 32582.38,
     "short_term_pct": 100.0
   },
-  "0xf23c5bc7b547867eb6532920144562718aa49f81": {
-    "username": "DoNotTailMe",
-    "added_at": 1787917054.901769,
-    "roi_pct": 2025.05,
-    "short_term_pct": 100.0
-  },
   "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
     "username": "pleaseplease123",
     "added_at": 1787920905.0779634,
     "roi_pct": 957.23,
+    "short_term_pct": 100.0
+  },
+  "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e": {
+    "username": "0x4f2",
+    "added_at": 1787922845.8097425,
+    "roi_pct": 443.49,
+    "short_term_pct": 100.0
+  },
+  "0x14c7111afa871fb215339f365043d7b2837b9ccf": {
+    "username": "kilian7kilian",
+    "added_at": 1787922845.8097448,
+    "roi_pct": 291.48,
     "short_term_pct": 100.0
   }
 }
