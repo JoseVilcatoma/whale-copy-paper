@@ -65016,5 +65016,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787886460.3273206,
     "fills": 1
+  },
+  {
+    "timestamp": 1787888351,
+    "timestamp_added": 1787888352.1094038,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "nfl-la-lac-2026-08-28",
+    "title": "Rams vs. Chargers",
+    "outcome": "Rams",
+    "side": "BUY",
+    "whale_usd": 3053.0627000000004,
+    "whale_pct": 1.026,
+    "whale_value_at_open": 297666.9786,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787888357.5600874,
+    "fills": 2
   }
 ]
