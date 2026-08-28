@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 11:49:25 (hora de Perú)
+Actualizado: 2026-08-28 11:51:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.00
@@ -553,7 +553,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 7.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 11.3% | ⏳ pendiente | — |
 | casualbet2020 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Fnatic (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | texaskid | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 67% | 5.00 | 25.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Shifters vs Team Heretics - Game 2  | Team Heretics (BUY) | 55% | 5.00 | 35.6% | ⏳ pendiente | — |

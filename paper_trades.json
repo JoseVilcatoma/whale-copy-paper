@@ -65050,8 +65050,8 @@
     "title": "Spread: Manchester City FC (-1.5)",
     "outcome": "Crystal Palace FC",
     "side": "BUY",
-    "whale_usd": 6014.125464000001,
-    "whale_pct": 2.289,
+    "whale_usd": 7698.678405000001,
+    "whale_pct": 2.93,
     "whale_value_at_open": 262767.2604,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -65062,8 +65062,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787935393.3644664,
-    "fills": 4
+    "last_fill_at": 1787935844.3514578,
+    "fills": 6
   },
   {
     "timestamp": 1787892373,
@@ -66691,8 +66691,8 @@
     "title": "Will Real Racing Club win on 2026-08-28?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 8499.998,
-    "whale_pct": 7.568,
+    "whale_usd": 12730.993699999999,
+    "whale_pct": 11.335,
     "whale_value_at_open": 112313.876,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -66703,7 +66703,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787935087.0523005,
-    "fills": 1
+    "last_fill_at": 1787935810.4463396,
+    "fills": 2
   }
 ]
