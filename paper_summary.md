@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 15:56:27 (hora de Perú)
+Actualizado: 2026-08-28 15:58:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $521.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 15:56:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $331.91)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $326.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,7 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 388 | 185 | 1 | -35.83 USD |
-| ferrariChampions2026 | 300 | 184 | 12 | -64.25 USD |
+| ferrariChampions2026 | 300 | 184 | 13 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -556,6 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Pittsburgh Pirates vs. St. Louis Cardina | St. Louis Cardinals (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 74% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Alavés vs. Villarreal CF  | No (BUY) | 72% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-1.5) | Washington Nationals (BUY) | 57% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -585,4 +586,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 57% | 5.00 | 32.7% | ❌ perdida | -5.11 |
 | DoNotTailMe | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 64% | 5.00 | 71.2% | ❌ perdida | -5.09 |
 | wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 157.5% | ⏳ pendiente | — |
-| casualbet2020 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Fnatic (BUY) | 42% | 5.00 | 7.1% | ❌ perdida | -5.14 |

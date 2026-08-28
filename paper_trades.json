@@ -67393,5 +67393,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787950552.1146543,
     "fills": 22
+  },
+  {
+    "timestamp": 1787950710,
+    "timestamp_added": 1787950710.8732615,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-pit-stl-2026-08-28",
+    "title": "Pittsburgh Pirates vs. St. Louis Cardinals",
+    "outcome": "St. Louis Cardinals",
+    "side": "BUY",
+    "whale_usd": 2057.3856,
+    "whale_pct": 0.75,
+    "whale_value_at_open": 274474.3819,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787950710.8732746,
+    "fills": 1
   }
 ]
