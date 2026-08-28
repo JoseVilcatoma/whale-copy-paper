@@ -65248,8 +65248,8 @@
     "title": "LoL: EDward Gaming vs Ninjas in Pyjamas - Game 2 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 2807.1211999999996,
-    "whale_pct": 10.561,
+    "whale_usd": 4465.1804999999995,
+    "whale_pct": 16.799,
     "whale_value_at_open": 26580.3687,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -65262,7 +65262,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787901224.5961382,
-    "fills": 3
+    "last_fill_at": 1787901346.1891358,
+    "fills": 4
   }
 ]
