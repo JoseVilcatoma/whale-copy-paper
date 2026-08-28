@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 14:09:27 (hora de Perú)
+Actualizado: 2026-08-28 14:11:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.98
@@ -556,7 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Sofia Sanchez (BUY) | 97% | 5.00 | 19.9% | ⏳ pendiente | — |
-| kekasaur | Spread: Sporting CP (-1.5) | Rio Ave FC (BUY) | 53% | 5.00 | 98.7% | ⏳ pendiente | — |
+| kekasaur | Spread: Sporting CP (-1.5) | Rio Ave FC (BUY) | 53% | 5.00 | 101.9% | ⏳ pendiente | — |
 | kekasaur | Will Dundalk FC win on 2026-08-28? | Yes (BUY) | 42% | 5.00 | 94.9% | ⏳ pendiente | — |
 | texaskid | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 53% | 5.00 | 4.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 2 Wi | Team Vitality (BUY) | 99% | 5.00 | 22.2% | ⏳ pendiente | — |
