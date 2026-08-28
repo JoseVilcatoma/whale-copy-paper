@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.5913876147087,
+  "bankroll": 521.9083498788596,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13415,6 +13415,11 @@
       "timestamp": 1787950011.2874284,
       "bankroll": 517.59,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: FC Bayern M\u00fcnchen (-2.5)"
+    },
+    {
+      "timestamp": 1787950569.6815622,
+      "bankroll": 521.91,
+      "event": "won: texaskid \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 8.5"
     }
   ]
 }
