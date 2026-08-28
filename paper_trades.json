@@ -66240,5 +66240,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787923574.7395613,
     "fills": 3
+  },
+  {
+    "timestamp": 1787923685,
+    "timestamp_added": 1787923686.534993,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-bal-oak-2026-08-28",
+    "title": "Baltimore Orioles vs. Athletics",
+    "outcome": "Athletics",
+    "side": "BUY",
+    "whale_usd": 1258.065,
+    "whale_pct": 6.646,
+    "whale_value_at_open": 18930.2598,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787923686.535003,
+    "fills": 1
   }
 ]
