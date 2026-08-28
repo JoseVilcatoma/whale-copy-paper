@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 11:57:41 (hora de Perú)
+Actualizado: 2026-08-28 11:59:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.00
@@ -554,9 +554,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 57% | 5.00 | 4.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 57% | 5.00 | 11.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 64% | 5.00 | 71.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 56.7% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 149.8% | ⏳ pendiente | — |
 | casualbet2020 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Fnatic (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | texaskid | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 67% | 5.00 | 25.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Shifters vs Team Heretics - Game 2  | Team Heretics (BUY) | 55% | 5.00 | 35.6% | ⏳ pendiente | — |
