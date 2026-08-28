@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.24769605502405,
+  "bankroll": 490.34641736649945,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12940,6 +12940,11 @@
       "timestamp": 1787878139.341386,
       "bankroll": 487.25,
       "event": "won: OOOwhyOOO \u2014 Kingston 2: Andrew Fenty vs Luis Guto Miguel"
+    },
+    {
+      "timestamp": 1787880029.960816,
+      "bankroll": 490.35,
+      "event": "won: OOOwhyOOO \u2014 Philadelphia: Fiona Crawley vs Julia Grabher"
     }
   ]
 }

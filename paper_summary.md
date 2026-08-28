@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 20:19:30 (hora de Perú)
+Actualizado: 2026-08-27 20:21:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $487.25
-**Retorno acumulado:** -2.55%
+**Bankroll actual:** $490.35
+**Retorno acumulado:** -1.93%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 20:19:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $357.25)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $365.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,12 +35,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 9 | 6 | 2 | +15.92 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| HVAB | 16 | 7 | 0 | +9.21 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| HVAB | 15 | 7 | 1 | +6.11 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
@@ -94,14 +94,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2483
-- **Aciertos:** 1599 (64.4%)
+- **Apuestas resueltas:** 2484
+- **Aciertos:** 1600 (64.4%)
 - **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,402.59
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $224.82 (1.81% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,407.59
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $224.91 (1.81% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -110,7 +110,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1224 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 737 | 70.4% | 67.8% | +2.7 pp |
+| 60-79% | 738 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 358 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
 
@@ -561,7 +561,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 2849.2% | ⏳ pendiente | — |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 639.0% | ⏳ pendiente | — |
 | SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 189.2% | ✅ ganada | +4.14 |
-| OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ⏳ pendiente | — |
+| OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ✅ ganada | +3.10 |
 | Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 350.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 52% | 5.00 | 7.6% | ❌ perdida | -5.12 |
 | AV23IUa | Counter-Strike: Team Falcons vs Lynn Vis | Team Falcons (BUY) | 75% | 5.00 | 120.1% | ✅ ganada | +1.60 |
