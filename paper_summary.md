@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 15:21:45 (hora de Perú)
+Actualizado: 2026-08-28 15:23:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.95
@@ -557,7 +557,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 28.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 55% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 55% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Alavés win on 2026-08-28? | No (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Nikola Bartunkova vs Eli | Elise Mertens (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 57% | 5.00 | 141.8% | ⏳ pendiente | — |

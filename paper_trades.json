@@ -67111,8 +67111,8 @@
     "title": "US Open, Qualification WTA: Elvina Kalieva vs Vendula Valdmannova",
     "outcome": "Elvina Kalieva",
     "side": "BUY",
-    "whale_usd": 1469.1564,
-    "whale_pct": 0.491,
+    "whale_usd": 6518.3886,
+    "whale_pct": 2.177,
     "whale_value_at_open": 299438.182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -67125,8 +67125,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787948411.4972708,
-    "fills": 1
+    "last_fill_at": 1787948615.6224036,
+    "fills": 3
   },
   {
     "timestamp": 1787948417,
