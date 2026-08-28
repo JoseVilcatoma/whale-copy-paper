@@ -65122,8 +65122,8 @@
     "title": "Counter-Strike: Sashi Esport vs ex-RUSTEC (BO3) - CCT Europe Series #7 Playoffs",
     "outcome": "Sashi Esport",
     "side": "BUY",
-    "whale_usd": 10974.499500000002,
-    "whale_pct": 90.729,
+    "whale_usd": 17305.456800000004,
+    "whale_pct": 143.068,
     "whale_value_at_open": 12095.9738,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -65134,8 +65134,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787896850.8987403,
-    "fills": 2
+    "last_fill_at": 1787897743.373971,
+    "fills": 3
   },
   {
     "timestamp": 1787897624,
@@ -65146,8 +65146,8 @@
     "title": "LoL: EDward Gaming vs Ninjas in Pyjamas - Game 1 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 1360.0,
-    "whale_pct": 10.972,
+    "whale_usd": 8323.439,
+    "whale_pct": 67.149,
     "whale_value_at_open": 12395.556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -65158,7 +65158,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787897624.316163,
-    "fills": 1
+    "last_fill_at": 1787897669.2314754,
+    "fills": 2
   }
 ]
