@@ -1,5 +1,5 @@
 {
-  "bankroll": 514.7138563904108,
+  "bankroll": 509.6088563904108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13310,6 +13310,11 @@
       "timestamp": 1787936746.6134086,
       "bankroll": 514.71,
       "event": "won: casualbet2020 \u2014 Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1787937678.619027,
+      "bankroll": 509.61,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Rune Eaters vs 9INE (BO3) - Logitech G Play Connect Closed Qualifier Group B"
     }
   ]
 }
