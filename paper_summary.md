@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 01:20:05 (hora de Perú)
+Actualizado: 2026-08-28 01:22:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.26
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 01:20:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $445.26)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $440.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 1 | +54.83 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 2 | +54.83 USD |
 | BOOMBOYS.Kiritych | 34 | 17 | 0 | +54.65 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
@@ -538,12 +538,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-lad-atl-2026-08-27 | Djdjdjekekek, RN1, Sassy-Bucket, TAIWANNUMBERONE, Talvez10, casualbet2020 |
 | atp-cerund-buse-2026-08-27 | OOOwhyOOO, RN1 |
 | nfl-sf-lv-2026-08-28 | ethBELIVER, wr0ngw4yb3tt0r |
+| lol-edg-nip-2026-08-28 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | mlb-ari-sf-2026-08-27 | TAIWANNUMBERONE, ethBELIVER, ethanaz, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 10.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 73.8% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Sashi Esport vs ex-RUSTE | Sashi Esport (BUY) | 68% | 5.00 | 143.1% | ⏳ pendiente | — |
 | plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 16.2% | ⏳ pendiente | — |
@@ -573,4 +575,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will SC Internacional win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.4% | ❌ perdida | -5.15 |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 55% | 5.00 | 0.8% | ❌ perdida | -5.11 |
 | RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 7.3% | ✅ ganada | +0.84 |
-| RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 2.0% | ❌ perdida | -5.11 |
