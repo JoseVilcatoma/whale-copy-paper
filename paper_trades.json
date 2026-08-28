@@ -65026,8 +65026,8 @@
     "title": "Rams vs. Chargers",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 10192.1561,
-    "whale_pct": 3.424,
+    "whale_usd": 11131.3661,
+    "whale_pct": 3.74,
     "whale_value_at_open": 297666.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -65038,7 +65038,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787888995.865515,
-    "fills": 5
+    "last_fill_at": 1787889020.788262,
+    "fills": 6
   }
 ]
