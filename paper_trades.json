@@ -66633,5 +66633,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787933331.6464696,
     "fills": 1
+  },
+  {
+    "timestamp": 1787934359,
+    "timestamp_added": 1787934360.5538173,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-tex-mil-2026-08-28",
+    "title": "Texas Rangers vs. Milwaukee Brewers",
+    "outcome": "Milwaukee Brewers",
+    "side": "BUY",
+    "whale_usd": 3494.1176469999996,
+    "whale_pct": 25.792,
+    "whale_value_at_open": 13547.0666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787934360.5538352,
+    "fills": 1
   }
 ]

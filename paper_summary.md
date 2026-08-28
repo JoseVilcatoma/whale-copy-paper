@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 11:24:48 (hora de Perú)
+Actualizado: 2026-08-28 11:26:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.00
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 11:24:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $355.00)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $350.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 13 | 7 | 2 | +25.71 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| texaskid | 6 | 3 | 0 | +12.07 USD |
+| texaskid | 6 | 3 | 1 | +12.07 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 16 | 7 | 0 | +9.21 USD |
@@ -553,6 +553,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 67% | 5.00 | 25.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Shifters vs Team Heretics - Game 2  | Team Heretics (BUY) | 55% | 5.00 | 35.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 76% | 5.00 | 12.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 46% | 5.00 | 54.6% | ⏳ pendiente | — |
@@ -582,4 +583,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit (BUY) | 43% | 5.00 | 7.7% | ✅ ganada | +6.48 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 4  | BNK FEARX (BUY) | 48% | 5.00 | 6.9% | ✅ ganada | +5.29 |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Nikita Mashtakov (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
-| ExplosiveNinja | Counter-Strike: Sinners vs Bushido Wildc | Sinners (BUY) | 71% | 5.00 | 9.0% | ⏳ pendiente | — |
