@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 05:32:54 (hora de Perú)
+Actualizado: 2026-08-28 05:34:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.15
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 05:32:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $364.15)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $359.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 383 | 181 | 9 | -37.63 USD |
+| RN1 | 383 | 181 | 10 | -37.63 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -550,6 +550,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Nikita Mashtakov (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Sinners vs Bushido Wildc | Sinners (BUY) | 71% | 5.00 | 4.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 57% | 5.00 | 13.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 53% | 5.00 | 31.0% | ⏳ pendiente | — |
@@ -579,4 +580,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 83% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 65% | 5.00 | 16.8% | ✅ ganada | +2.61 |
 | SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 2033.9% | ✅ ganada | +2.72 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 99% | 5.00 | 3.7% | ✅ ganada | +0.05 |

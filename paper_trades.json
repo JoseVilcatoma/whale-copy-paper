@@ -65925,5 +65925,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787913066.780564,
     "fills": 1
+  },
+  {
+    "timestamp": 1787913270,
+    "timestamp_added": 1787913271.2655175,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-orlov-mashtak-2026-08-28",
+    "title": "ITF MEN - SINGLES: M25 Poznan (Poland), clay: Vladyslav Orlov vs Nikita Mashtakov",
+    "outcome": "Nikita Mashtakov",
+    "side": "BUY",
+    "whale_usd": 1101.606164,
+    "whale_pct": 0.734,
+    "whale_value_at_open": 149986.031,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787913271.2655334,
+    "fills": 1
   }
 ]
