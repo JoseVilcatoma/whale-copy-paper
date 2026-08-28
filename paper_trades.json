@@ -64759,5 +64759,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787882887.2248352,
     "fills": 1
+  },
+  {
+    "timestamp": 1787883354,
+    "timestamp_added": 1787883355.6722498,
+    "username": "ethBELIVER",
+    "wallet": "0x05f6cb63d4ffdfaecd7ad8acd0765b6f6a5a25a1",
+    "slug": "nfl-sf-lv-2026-08-28",
+    "title": "49ers vs. Raiders",
+    "outcome": "Raiders",
+    "side": "BUY",
+    "whale_usd": 10179.765,
+    "whale_pct": 34.892,
+    "whale_value_at_open": 29175.2238,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787883355.6722639,
+    "fills": 1
   }
 ]
