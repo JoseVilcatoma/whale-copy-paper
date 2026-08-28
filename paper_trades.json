@@ -66564,8 +66564,8 @@
     "title": "LoL: Shifters vs Team Heretics - Game 2 Winner",
     "outcome": "Shifters",
     "side": "BUY",
-    "whale_usd": 1181.25,
-    "whale_pct": 16.618,
+    "whale_usd": 3881.25,
+    "whale_pct": 54.603,
     "whale_value_at_open": 7108.0996,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -66578,7 +66578,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787932718.7187903,
-    "fills": 1
+    "last_fill_at": 1787932819.3240964,
+    "fills": 3
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 10:59:25 (hora de Perú)
+Actualizado: 2026-08-28 11:01:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.00
@@ -552,7 +552,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 46% | 5.00 | 16.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 46% | 5.00 | 54.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Washington Mystics (-5.5) | Los Angeles Sparks (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Talvez10 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 93.1% | ⏳ pendiente | — |
