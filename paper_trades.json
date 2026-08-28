@@ -65074,8 +65074,8 @@
     "title": "Will FC Groningen win on 2026-08-28?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 11806.827399999998,
-    "whale_pct": 22.76,
+    "whale_usd": 18104.728199999998,
+    "whale_pct": 34.901,
     "whale_value_at_open": 51874.8508,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -65086,8 +65086,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787892421.3724232,
-    "fills": 7
+    "last_fill_at": 1787892950.6310315,
+    "fills": 9
   },
   {
     "timestamp": 1787892438,
