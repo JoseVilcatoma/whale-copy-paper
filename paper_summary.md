@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 07:49:21 (hora de Perú)
+Actualizado: 2026-08-28 07:51:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $498.67
-**Retorno acumulado:** -0.27%
+**Bankroll actual:** $499.79
+**Retorno acumulado:** -0.04%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 07:49:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $368.67)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $379.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,21 +89,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 386 | 184 | 4 | -43.70 USD |
+| RN1 | 387 | 185 | 2 | -42.59 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2542
-- **Aciertos:** 1635 (64.3%)
+- **Apuestas resueltas:** 2544
+- **Aciertos:** 1636 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,697.59
-- **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $231.05 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,707.59
+- **ROI sobre lo apostado:** -0.69%
+- **Comisiones pagadas (taker fee):** $231.30 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1264 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1266 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 751 | 70.8% | 67.7% | +3.1 pp |
 | 80-94% | 360 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 167 | 95.8% | 97.3% | -1.5 pp |
@@ -574,8 +574,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 87% | 5.00 | 2.5% | ❌ perdida | -5.03 |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Teodora Miron (BUY) | 53% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ilinca Dalina Amariei (BUY) | 62% | 5.00 | 0.6% | ✅ ganada | +2.97 |
-| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Facundo Mena (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 9.5% | ⏳ pendiente | — |
+| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Facundo Mena (BUY) | 44% | 5.00 | 1.3% | ✅ ganada | +6.22 |
+| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 9.5% | ❌ perdida | -5.11 |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Dragos Nicolae Madaras (BUY) | 58% | 5.00 | 1.2% | ❌ perdida | -5.11 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ✅ ganada | +4.50 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ❌ perdida | -5.12 |

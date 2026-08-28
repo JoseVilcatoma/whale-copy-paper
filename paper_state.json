@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.6694385447818,
+  "bankroll": 499.7850749084182,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13245,6 +13245,16 @@
       "timestamp": 1787918830.807306,
       "bankroll": 498.67,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787921448.3281226,
+      "bankroll": 493.56,
+      "event": "lost: RN1 \u2014 Augsburg: Benito Sanchez Martinez vs Facundo Mena"
+    },
+    {
+      "timestamp": 1787921448.4282684,
+      "bankroll": 499.79,
+      "event": "won: RN1 \u2014 Augsburg: Benito Sanchez Martinez vs Facundo Mena"
     }
   ]
 }
