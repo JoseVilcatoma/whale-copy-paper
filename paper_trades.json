@@ -66192,5 +66192,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787918649.8216164,
     "fills": 1
+  },
+  {
+    "timestamp": 1787920633,
+    "timestamp_added": 1787920633.8871198,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "sea-mil-ven-2026-08-28-spread-home-1pt5",
+    "title": "Spread: AC Milan (-1.5)",
+    "outcome": "Venezia FC",
+    "side": "BUY",
+    "whale_usd": 5384.448214000001,
+    "whale_pct": 6.597,
+    "whale_value_at_open": 81613.6439,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787920633.887131,
+    "fills": 1
   }
 ]
