@@ -65136,5 +65136,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787896850.8987403,
     "fills": 2
+  },
+  {
+    "timestamp": 1787897624,
+    "timestamp_added": 1787897624.3161495,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-edg-nip-2026-08-28-game1",
+    "title": "LoL: EDward Gaming vs Ninjas in Pyjamas - Game 1 Winner",
+    "outcome": "Ninjas in Pyjamas",
+    "side": "BUY",
+    "whale_usd": 1360.0,
+    "whale_pct": 10.972,
+    "whale_value_at_open": 12395.556,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787897624.316163,
+    "fills": 1
   }
 ]
