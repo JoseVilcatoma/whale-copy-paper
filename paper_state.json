@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.265034246863,
+  "bankroll": 489.6507918226206,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13090,6 +13090,16 @@
       "timestamp": 1787892592.8620741,
       "bankroll": 492.27,
       "event": "won: HomeRunHazard \u2014 Washington Mystics vs. Phoenix Mercury"
+    },
+    {
+      "timestamp": 1787894774.0987267,
+      "bankroll": 487.16,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Rams vs. Chargers"
+    },
+    {
+      "timestamp": 1787894774.1988757,
+      "bankroll": 489.65,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Rams vs. Chargers"
     }
   ]
 }
