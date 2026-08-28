@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 07:47:19 (hora de Perú)
+Actualizado: 2026-08-28 07:49:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.67
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 07:47:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $373.67)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $368.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 16 | 7 | 0 | +9.21 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
+| pleaseplease123 | 4 | 2 | 1 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -550,6 +550,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 68.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: AC Milan (-1.5) | Venezia FC (BUY) | 60% | 5.00 | 6.6% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers: O/U | Over (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | HANJIN BRION (BUY) | 56% | 5.00 | 32.5% | ⏳ pendiente | — |
@@ -579,4 +580,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ✅ ganada | +4.50 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ❌ perdida | -5.12 |
 | SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 54% | 5.00 | 71.0% | ✅ ganada | +4.14 |
-| DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 49% | 5.00 | 72.9% | ✅ ganada | +5.08 |

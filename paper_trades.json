@@ -66216,5 +66216,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787920633.887131,
     "fills": 1
+  },
+  {
+    "timestamp": 1787921264,
+    "timestamp_added": 1787921265.4419599,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-pit-stl-2026-08-28-total-7pt5",
+    "title": "Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 5463.8937,
+    "whale_pct": 68.118,
+    "whale_value_at_open": 8021.237,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787921265.441975,
+    "fills": 1
   }
 ]
