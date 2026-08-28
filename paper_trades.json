@@ -66384,5 +66384,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787925767.7261035,
     "fills": 1
+  },
+  {
+    "timestamp": 1787925949,
+    "timestamp_added": 1787925950.4044125,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-shft-th-2026-08-28",
+    "title": "LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season",
+    "outcome": "Shifters",
+    "side": "BUY",
+    "whale_usd": 556.0245,
+    "whale_pct": 1.542,
+    "whale_value_at_open": 36054.9535,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787925950.404421,
+    "fills": 1
   }
 ]
