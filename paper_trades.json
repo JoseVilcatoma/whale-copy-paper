@@ -65146,8 +65146,8 @@
     "title": "LoL: EDward Gaming vs Ninjas in Pyjamas - Game 1 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 8323.439,
-    "whale_pct": 67.149,
+    "whale_usd": 9153.309000000001,
+    "whale_pct": 73.843,
     "whale_value_at_open": 12395.556,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -65158,7 +65158,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787897669.2314754,
-    "fills": 2
+    "last_fill_at": 1787897888.5927916,
+    "fills": 3
   }
 ]
