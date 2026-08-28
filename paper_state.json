@@ -1,5 +1,5 @@
 {
-  "bankroll": 509.6088563904108,
+  "bankroll": 516.3686182951727,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13315,6 +13315,11 @@
       "timestamp": 1787937678.619027,
       "bankroll": 509.61,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Rune Eaters vs 9INE (BO3) - Logitech G Play Connect Closed Qualifier Group B"
+    },
+    {
+      "timestamp": 1787938297.670113,
+      "bankroll": 516.37,
+      "event": "won: RN1 \u2014 US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken"
     }
   ]
 }
