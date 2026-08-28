@@ -67427,8 +67427,8 @@
     "title": "Cincinnati Reds vs. Chicago Cubs",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 4779.85079,
-    "whale_pct": 1.727,
+    "whale_usd": 15226.902590000002,
+    "whale_pct": 5.502,
     "whale_value_at_open": 276770.6876,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -67439,8 +67439,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787950885.1512036,
-    "fills": 3
+    "last_fill_at": 1787952287.3431032,
+    "fills": 7
   },
   {
     "timestamp": 1787950852,
