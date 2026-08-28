@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 16:08:46 (hora de Perú)
+Actualizado: 2026-08-28 16:10:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $516.79
-**Retorno acumulado:** +3.36%
+**Bankroll actual:** $520.77
+**Retorno acumulado:** +4.15%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 16:08:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $316.79)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $325.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,20 +90,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 388 | 185 | 1 | -35.83 USD |
-| ferrariChampions2026 | 300 | 185 | 14 | -69.37 USD |
+| ferrariChampions2026 | 301 | 185 | 13 | -65.39 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2573
-- **Aciertos:** 1654 (64.3%)
+- **Apuestas resueltas:** 2574
+- **Aciertos:** 1655 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,852.59
-- **ROI sobre lo apostado:** -0.61%
-- **Comisiones pagadas (taker fee):** $234.31 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,857.59
+- **ROI sobre lo apostado:** -0.58%
+- **Comisiones pagadas (taker fee):** $234.42 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1287 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1288 | 50.1% | 50.1% | -0.1 pp |
 | 60-79% | 756 | 70.8% | 67.8% | +3.0 pp |
 | 80-94% | 361 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
@@ -570,7 +570,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs: O/U 12 | Under (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Portland Fire (BUY) | 48% | 5.00 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 28.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 55% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 55% | 5.00 | 2.2% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Will Deportivo Alavés win on 2026-08-28? | No (BUY) | 45% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Nikola Bartunkova vs Eli | Elise Mertens (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 57% | 5.00 | 141.8% | 💰 vendida anticipada | +2.75 |

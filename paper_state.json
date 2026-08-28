@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.7863498788596,
+  "bankroll": 520.7652589697686,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13425,6 +13425,11 @@
       "timestamp": 1787950877.7708373,
       "bankroll": 516.79,
       "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 12.5"
+    },
+    {
+      "timestamp": 1787951375.9081843,
+      "bankroll": 520.77,
+      "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Elvina Kalieva vs Vendula Valdmannova"
     }
   ]
 }
