@@ -66456,5 +66456,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787926420.4594443,
     "fills": 2
+  },
+  {
+    "timestamp": 1787927574,
+    "timestamp_added": 1787927575.6250978,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "cs2-m80-furia-2026-08-28-map-handicap-home-1pt5",
+    "title": "Map Handicap: FURIA (-1.5) vs M80 (+1.5)",
+    "outcome": "FURIA",
+    "side": "BUY",
+    "whale_usd": 20554.296488999997,
+    "whale_pct": 44.618,
+    "whale_value_at_open": 46067.551,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787927575.6251082,
+    "fills": 1
   }
 ]
