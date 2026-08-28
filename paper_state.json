@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.4277215020685,
+  "bankroll": 499.59387043823875,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13475,6 +13475,16 @@
       "timestamp": 1787953342.3413665,
       "bankroll": 504.43,
       "event": "won: ferrariChampions2026 \u2014 Deportivo Alav\u00e9s vs. Villarreal CF: O/U 1.5"
+    },
+    {
+      "timestamp": 1787953651.9705794,
+      "bankroll": 499.29,
+      "event": "lost: ferrariChampions2026 \u2014 Will Deportivo Alav\u00e9s win on 2026-08-28?"
+    },
+    {
+      "timestamp": 1787953654.4515188,
+      "bankroll": 499.59,
+      "event": "won: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago Cubs"
     }
   ]
 }
