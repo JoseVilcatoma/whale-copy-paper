@@ -67585,5 +67585,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787952438.0409825,
     "fills": 1
+  },
+  {
+    "timestamp": 1787952474,
+    "timestamp_added": 1787952474.7725928,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-valento-grabher-2026-08-28",
+    "title": "Philadelphia: Tereza Valentova vs Julia Grabher",
+    "outcome": "Tereza Valentova",
+    "side": "BUY",
+    "whale_usd": 637.0,
+    "whale_pct": 0.223,
+    "whale_value_at_open": 285759.6864,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787952474.7726047,
+    "fills": 1
   }
 ]
