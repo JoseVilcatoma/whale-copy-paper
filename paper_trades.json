@@ -66691,8 +66691,8 @@
     "title": "Will Real Racing Club win on 2026-08-28?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 168220.3007,
-    "whale_pct": 149.777,
+    "whale_usd": 176913.3107,
+    "whale_pct": 157.517,
     "whale_value_at_open": 112313.876,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -66703,8 +66703,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787936378.6104026,
-    "fills": 9
+    "last_fill_at": 1787936396.5257833,
+    "fills": 10
   },
   {
     "timestamp": 1787936017,
@@ -66739,8 +66739,8 @@
     "title": "LoL: Team Vitality vs Fnatic - Game 1 Winner",
     "outcome": "Team Vitality",
     "side": "BUY",
-    "whale_usd": 2139.4662,
-    "whale_pct": 11.849,
+    "whale_usd": 4803.118700000001,
+    "whale_pct": 26.6,
     "whale_value_at_open": 18056.8199,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -66753,7 +66753,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787936304.2053535,
-    "fills": 2
+    "last_fill_at": 1787936480.5274909,
+    "fills": 4
+  },
+  {
+    "timestamp": 1787936479,
+    "timestamp_added": 1787936479.990196,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "fl1-lil-psg-2026-08-28-total-2pt5",
+    "title": "Lille OSC vs. Paris Saint-Germain FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1222.49,
+    "whale_pct": 0.392,
+    "whale_value_at_open": 311975.7863,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787936479.9902108,
+    "fills": 1
   }
 ]
