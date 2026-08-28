@@ -65973,5 +65973,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787914129.6366658,
     "fills": 9
+  },
+  {
+    "timestamp": 1787914987,
+    "timestamp_added": 1787914988.9707186,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-g2-ts7-2026-08-28-map-handicap-home-1pt5",
+    "title": "Map Handicap: TS (-1.5) vs G2 (+1.5)",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 636.3,
+    "whale_pct": 2.43,
+    "whale_value_at_open": 26184.3826,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787914988.9707341,
+    "fills": 1
   }
 ]
