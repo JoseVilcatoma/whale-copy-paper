@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.4120526921858,
+  "bankroll": 497.1466179095771,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13120,6 +13120,11 @@
       "timestamp": 1787899152.1633449,
       "bankroll": 491.41,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas (BO5) - LPL Knights Rivals (+0.56 USD)"
+    },
+    {
+      "timestamp": 1787900991.1372116,
+      "bankroll": 497.15,
+      "event": "won: ethanaz \u2014 LA vs. LAC: O/U 38.5"
     }
   ]
 }

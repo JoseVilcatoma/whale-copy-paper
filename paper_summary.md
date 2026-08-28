@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 02:09:03 (hora de Perú)
+Actualizado: 2026-08-28 02:11:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.41
-**Retorno acumulado:** -1.72%
+**Bankroll actual:** $497.15
+**Retorno acumulado:** -0.57%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 02:09:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $446.41)
+**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $457.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,6 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | texaskid | 6 | 3 | 0 | +12.07 USD |
+| ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 16 | 7 | 0 | +9.21 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -41,7 +42,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| ethanaz | 1 | 0 | 1 | +5.73 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Talvez10 | 1 | 0 | 0 | +4.32 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2517
-- **Aciertos:** 1618 (64.3%)
+- **Apuestas resueltas:** 2518
+- **Aciertos:** 1619 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,572.59
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $228.81 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,577.59
+- **ROI sobre lo apostado:** -0.72%
+- **Comisiones pagadas (taker fee):** $228.94 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1252 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1253 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 742 | 70.6% | 67.7% | +2.9 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
@@ -563,7 +563,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 58% | 5.00 | 1.1% | ✅ ganada | +3.52 |
 | TAIWANNUMBERONE | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 74% | 5.00 | 170.0% | ⏳ pendiente | — |
 | ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 67.1% | ❌ perdida | -5.12 |
-| ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ⏳ pendiente | — |
+| ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ✅ ganada | +5.73 |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 48% | 5.00 | 2.2% | ❌ perdida | -5.13 |
 | RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ✅ ganada | +4.88 |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 68% | 5.00 | 0.8% | ✅ ganada | +2.27 |
