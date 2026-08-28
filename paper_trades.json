@@ -64769,8 +64769,8 @@
     "title": "49ers vs. Raiders",
     "outcome": "Raiders",
     "side": "BUY",
-    "whale_usd": 10179.765,
-    "whale_pct": 34.892,
+    "whale_usd": 19565.25,
+    "whale_pct": 67.061,
     "whale_value_at_open": 29175.2238,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -64781,8 +64781,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787883355.6722639,
-    "fills": 1
+    "last_fill_at": 1787884207.5323937,
+    "fills": 2
   },
   {
     "timestamp": 1787883629,

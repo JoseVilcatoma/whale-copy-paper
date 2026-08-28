@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 21:28:25 (hora de Perú)
+Actualizado: 2026-08-27 21:30:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.52
@@ -543,7 +543,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | TAIWANNUMBERONE | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 74% | 5.00 | 5.9% | ⏳ pendiente | — |
-| ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 34.9% | ⏳ pendiente | — |
+| ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 67.1% | ⏳ pendiente | — |
 | ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ⏳ pendiente | — |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 48% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ✅ ganada | +4.88 |
