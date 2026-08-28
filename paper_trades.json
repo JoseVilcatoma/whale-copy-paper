@@ -66643,8 +66643,8 @@
     "title": "Texas Rangers vs. Milwaukee Brewers",
     "outcome": "Milwaukee Brewers",
     "side": "BUY",
-    "whale_usd": 3494.1176469999996,
-    "whale_pct": 25.792,
+    "whale_usd": 7454.117646999999,
+    "whale_pct": 55.024,
     "whale_value_at_open": 13547.0666,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -66655,8 +66655,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787934360.5538352,
-    "fills": 1
+    "last_fill_at": 1787954696.6670616,
+    "fills": 2
   },
   {
     "timestamp": 1787934974,
