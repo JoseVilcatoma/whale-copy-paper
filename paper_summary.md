@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 23:04:07 (hora de Perú)
+Actualizado: 2026-08-27 23:06:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.74
@@ -545,7 +545,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Rams vs. Chargers | Rams (BUY) | 66% | 5.00 | 11.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 36.0% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 46.0% | ⏳ pendiente | — |
 | ethanaz | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 46% | 5.00 | 1212.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 48.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chargers | Chargers (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
