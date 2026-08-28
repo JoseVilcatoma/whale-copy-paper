@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 04:51:43 (hora de Perú)
+Actualizado: 2026-08-28 04:53:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.34
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 04:51:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $341.34)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $336.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 21 | 9 | 0 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ChonkyChocolateCake | 39 | 22 | 2 | +25.08 USD |
+| ChonkyChocolateCake | 39 | 22 | 3 | +25.08 USD |
 | TAIWANNUMBERONE | 11 | 7 | 2 | +20.20 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -549,6 +549,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs DENDELE | DENDELE CS (BUY) | 45% | 5.00 | 69.8% | ⏳ pendiente | — |
 | RN1 | Will Stade Lavallois Mayenne FC vs. Gren | No (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 2  | BNK FEARX (BUY) | 55% | 5.00 | 12.6% | ⏳ pendiente | — |
@@ -578,4 +579,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 99% | 5.00 | 3.7% | ✅ ganada | +0.05 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 15.9% | 💰 vendida anticipada | +0.56 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 73.8% | 💰 vendida anticipada | +0.59 |
-| ExplosiveNinja | Counter-Strike: Sashi Esport vs ex-RUSTE | Sashi Esport (BUY) | 68% | 5.00 | 143.1% | ⏳ pendiente | — |
