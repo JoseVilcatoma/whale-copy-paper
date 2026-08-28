@@ -66425,8 +66425,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -66991,8 +66991,8 @@
     "title": "Spread: Sporting CP (-1.5)",
     "outcome": "Rio Ave FC",
     "side": "BUY",
-    "whale_usd": 16757.4316,
-    "whale_pct": 75.238,
+    "whale_usd": 21976.188,
+    "whale_pct": 98.67,
     "whale_value_at_open": 22272.44,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -67003,8 +67003,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787943456.3105135,
-    "fills": 3
+    "last_fill_at": 1787944009.714876,
+    "fills": 5
   },
   {
     "timestamp": 1787943322,

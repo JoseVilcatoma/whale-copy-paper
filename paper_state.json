@@ -1,5 +1,5 @@
 {
-  "bankroll": 534.130467450665,
+  "bankroll": 528.982467450665,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13365,6 +13365,11 @@
       "timestamp": 1787940931.1484559,
       "bankroll": 534.13,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Fnatic (BO3) - LEC Regular Season (+1.08 USD)"
+    },
+    {
+      "timestamp": 1787944004.2663305,
+      "bankroll": 528.98,
+      "event": "lost: casualbet2020 \u2014 Valorant: Team Liquid vs Fire Flux Esports (BO3) - VCT EMEA Playoffs"
     }
   ]
 }
