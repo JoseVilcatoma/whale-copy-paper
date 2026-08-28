@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 23:51:01 (hora de Perú)
+Actualizado: 2026-08-27 23:53:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.27
@@ -547,7 +547,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 11.0% | ⏳ pendiente | — |
 | plonker2026 | Will FC Groningen win on 2026-08-28? | Yes (BUY) | 63% | 5.00 | 22.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Manchester City FC (-1.5) | Crystal Palace FC (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Rams vs. Chargers | Rams (BUY) | 66% | 5.00 | 32.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Rams vs. Chargers | Rams (BUY) | 66% | 5.00 | 32.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 51.8% | ✅ ganada | +5.08 |
 | ethanaz | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 46% | 5.00 | 1212.4% | ✅ ganada | +5.73 |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 48.2% | ❌ perdida | -5.12 |
