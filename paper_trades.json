@@ -64735,5 +64735,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787877828.04493,
     "fills": 1
+  },
+  {
+    "timestamp": 1787882886,
+    "timestamp_added": 1787882887.2248228,
+    "username": "ethanaz",
+    "wallet": "0xf28e42d20e4826f2b10a24bc952001697947cab2",
+    "slug": "nfl-la-lac-2026-08-28-total-38pt5",
+    "title": "LA vs. LAC: O/U 38.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3231.0854999999997,
+    "whale_pct": 153.136,
+    "whale_value_at_open": 2109.9445,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787882887.2248352,
+    "fills": 1
   }
 ]
