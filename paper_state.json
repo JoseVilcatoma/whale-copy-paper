@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.6507918226206,
+  "bankroll": 490.2633570400119,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13100,6 +13100,16 @@
       "timestamp": 1787894774.1988757,
       "bankroll": 489.65,
       "event": "won: wr0ngw4yb3tt0r \u2014 Rams vs. Chargers"
+    },
+    {
+      "timestamp": 1787895084.0284762,
+      "bankroll": 495.39,
+      "event": "won: HomeRunHazard \u2014 Spread: Raiders (-2.5)"
+    },
+    {
+      "timestamp": 1787895084.9644268,
+      "bankroll": 490.26,
+      "event": "lost: RN1 \u2014 Winston-Salem Open: Fabian Marozsan vs James Duckworth"
     }
   ]
 }
