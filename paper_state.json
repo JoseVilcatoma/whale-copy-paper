@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.0873655902396,
+  "bankroll": 509.99736559023967,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13295,6 +13295,11 @@
       "timestamp": 1787927134.3765352,
       "bankroll": 515.09,
       "event": "won: ExplosiveNinja \u2014 Counter-Strike: G2 vs Spirit (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1787928706.868882,
+      "bankroll": 510.0,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Metizport vs Bushido Wildcats (BO3) - Exort Fiesta Playoffs"
     }
   ]
 }
