@@ -1,5 +1,5 @@
 {
-  "bankroll": 517.0101659465129,
+  "bankroll": 506.7851659465129,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13445,6 +13445,16 @@
       "timestamp": 1787951620.64391,
       "bankroll": 517.01,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Lille OSC vs. Paris Saint-Germain FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787952704.4661303,
+      "bankroll": 511.93,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: Manchester City FC (-1.5)"
+    },
+    {
+      "timestamp": 1787952708.5061262,
+      "bankroll": 506.79,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will Manchester City FC win on 2026-08-28?"
     }
   ]
 }
