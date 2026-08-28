@@ -64998,8 +64998,8 @@
     "title": "Arizona Diamondbacks vs. San Francisco Giants",
     "outcome": "San Francisco Giants",
     "side": "BUY",
-    "whale_usd": 6160.343999999999,
-    "whale_pct": 26.311,
+    "whale_usd": 8426.763599999998,
+    "whale_pct": 35.991,
     "whale_value_at_open": 23413.7182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -65014,8 +65014,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787886460.3273206,
-    "fills": 1
+    "last_fill_at": 1787888601.5429218,
+    "fills": 2
   },
   {
     "timestamp": 1787888351,
@@ -65026,8 +65026,8 @@
     "title": "Rams vs. Chargers",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 4768.6863,
-    "whale_pct": 1.602,
+    "whale_usd": 5797.7259,
+    "whale_pct": 1.948,
     "whale_value_at_open": 297666.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -65038,7 +65038,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787888423.9671178,
-    "fills": 3
+    "last_fill_at": 1787888609.8287203,
+    "fills": 4
   }
 ]
