@@ -65447,8 +65447,8 @@
     "title": "LoL: EDward Gaming vs Ninjas in Pyjamas (BO5) - LPL Knights Rivals",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 4700.0,
-    "whale_pct": 12.848,
+    "whale_usd": 38870.1225,
+    "whale_pct": 106.253,
     "whale_value_at_open": 36582.4951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -65461,8 +65461,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787904137.0350974,
-    "fills": 1
+    "last_fill_at": 1787904459.9201992,
+    "fills": 3
   },
   {
     "timestamp": 1787904258,
@@ -65473,8 +65473,8 @@
     "title": "LoL: EDward Gaming vs Ninjas in Pyjamas - Game 3 Winner",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 130403.89286599998,
-    "whale_pct": 143.298,
+    "whale_usd": 144731.56296599997,
+    "whale_pct": 159.043,
     "whale_value_at_open": 91001.6716,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -65487,8 +65487,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787904381.1598666,
-    "fills": 20
+    "last_fill_at": 1787904405.11175,
+    "fills": 21
   },
   {
     "timestamp": 1787904377,
@@ -65499,8 +65499,8 @@
     "title": "LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 8934.855,
-    "whale_pct": 67.89,
+    "whale_usd": 9598.17,
+    "whale_pct": 72.93,
     "whale_value_at_open": 13160.7129,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -65511,7 +65511,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787904385.1826465,
-    "fills": 2
+    "last_fill_at": 1787904405.0712066,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787904413,
+    "timestamp_added": 1787904413.8599284,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "lol-bro2-fox1-2026-08-28-game1",
+    "title": "LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 153759.288401,
+    "whale_pct": 68.905,
+    "whale_value_at_open": 223145.4871,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "DoNotTailMe"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787904510.0288014,
+    "fills": 33
   }
 ]
