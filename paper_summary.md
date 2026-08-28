@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 21:48:45 (hora de Perú)
+Actualizado: 2026-08-27 21:50:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 21:48:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $409.52)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $399.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 21 | 9 | 0 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 39 | 22 | 0 | +25.08 USD |
-| TAIWANNUMBERONE | 10 | 6 | 2 | +20.24 USD |
+| TAIWANNUMBERONE | 10 | 6 | 3 | +20.24 USD |
 | plonker2026 | 8 | 5 | 0 | +18.29 USD |
 | texaskid | 6 | 2 | 1 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| wr0ngw4yb3tt0r | 1 | 3 | 3 | -9.12 USD |
+| wr0ngw4yb3tt0r | 1 | 3 | 4 | -9.12 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -538,12 +538,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-lad-atl-2026-08-27 | Djdjdjekekek, RN1, Sassy-Bucket, TAIWANNUMBERONE, Talvez10, casualbet2020 |
 | atp-cerund-buse-2026-08-27 | OOOwhyOOO, RN1 |
 | nfl-sf-lv-2026-08-28 | ethBELIVER, wr0ngw4yb3tt0r |
-| mlb-ari-sf-2026-08-27 | ethBELIVER, wr0ngw4yb3tt0r |
+| mlb-ari-sf-2026-08-27 | TAIWANNUMBERONE, ethBELIVER, wr0ngw4yb3tt0r |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 48.2% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Rams vs. Chargers | Chargers (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Raiders | Raiders (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ethBELIVER | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 42% | 5.00 | 17.7% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Raiders | 49ers (BUY) | 43% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -572,5 +574,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 2849.2% | ✅ ganada | +4.32 |
 | casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 639.0% | ✅ ganada | +4.32 |
 | SPCEXBUYER | Valorant: LOUD vs FURIA Esports (BO3) -  | LOUD (BUY) | 54% | 5.00 | 189.2% | ✅ ganada | +4.14 |
-| OOOwhyOOO | Philadelphia: Fiona Crawley vs Julia Gra | Julia Grabher (BUY) | 61% | 5.00 | 169.0% | ✅ ganada | +3.10 |
-| Djdjdjekekek | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 48% | 5.00 | 350.9% | ❌ perdida | -5.13 |
