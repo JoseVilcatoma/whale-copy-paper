@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 17:27:33 (hora de Perú)
+Actualizado: 2026-08-28 17:29:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 17:27:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $321.52)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $311.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| AV23IUa | 9 | 8 | 1 | -10.08 USD |
+| AV23IUa | 9 | 8 | 3 | -10.08 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -557,6 +557,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 43% | 5.00 | 11.6% | ⏳ pendiente | — |
+| AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 182.5% | ⏳ pendiente | — |
 | AV23IUa | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 51% | 5.00 | 44.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality (BUY) | 53% | 5.00 | 12.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 1 W | Vitality (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -585,5 +587,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Monterrey Open: Nikola Bartunkova vs Eli | Elise Mertens (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 57% | 5.00 | 141.8% | 💰 vendida anticipada | +2.75 |
 | OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Sofia Sanchez (BUY) | 97% | 5.00 | 19.9% | ✅ ganada | +0.15 |
-| kekasaur | Spread: Sporting CP (-1.5) | Rio Ave FC (BUY) | 53% | 5.00 | 118.2% | ⏳ pendiente | — |
-| kekasaur | Will Dundalk FC win on 2026-08-28? | Yes (BUY) | 42% | 5.00 | 94.9% | ⏳ pendiente | — |
