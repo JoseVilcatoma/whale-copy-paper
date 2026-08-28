@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.33838221934144,
+  "bankroll": 503.0301389760982,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13135,6 +13135,11 @@
       "timestamp": 1787909995.0985072,
       "bankroll": 501.34,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Tianjin 4 (China), hard: Peangtarn Plipuech vs Vaishnavi Adkar"
+    },
+    {
+      "timestamp": 1787911748.298726,
+      "bankroll": 503.03,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Cap d'Agde (France), clay: Kenny De Schepper vs Lenny Couturier"
     }
   ]
 }
