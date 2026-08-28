@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 14:17:41 (hora de Perú)
+Actualizado: 2026-08-28 14:19:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.98
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 14:17:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $363.98)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $358.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 6 | 3 | 2 | +12.07 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| HVAB | 16 | 7 | 1 | +9.21 USD |
+| HVAB | 16 | 7 | 2 | +9.21 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 2 | +6.73 USD |
@@ -555,6 +555,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 57% | 5.00 | 141.8% | ⏳ pendiente | — |
 | OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Sofia Sanchez (BUY) | 97% | 5.00 | 19.9% | ⏳ pendiente | — |
 | kekasaur | Spread: Sporting CP (-1.5) | Rio Ave FC (BUY) | 53% | 5.00 | 118.2% | ⏳ pendiente | — |
 | kekasaur | Will Dundalk FC win on 2026-08-28? | Yes (BUY) | 42% | 5.00 | 94.9% | ⏳ pendiente | — |
@@ -584,4 +585,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Counter-Strike: Natus Vincere vs paiN (B | Natus Vincere (BUY) | 82% | 5.00 | 56.8% | ✅ ganada | +1.05 |
 | wr0ngw4yb3tt0r | Spread: FC Bayern München (-2.5) | VfB Stuttgart (BUY) | 59% | 5.00 | 32.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
-| AV23IUa | Map Handicap: NAVI (-1.5) vs paiN (+1.5) | Natus Vincere (BUY) | 57% | 5.00 | 73.8% | ✅ ganada | +3.66 |
