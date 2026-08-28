@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 06:15:41 (hora de Perú)
+Actualizado: 2026-08-28 06:17:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.68
-**Retorno acumulado:** +1.14%
+**Bankroll actual:** $505.93
+**Retorno acumulado:** +1.19%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 06:15:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $385.68)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $390.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,21 +89,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 384 | 183 | 7 | -41.80 USD |
+| RN1 | 385 | 183 | 6 | -41.55 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2538
-- **Aciertos:** 1633 (64.3%)
+- **Apuestas resueltas:** 2539
+- **Aciertos:** 1634 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,677.59
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $230.71 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,682.59
+- **ROI sobre lo apostado:** -0.64%
+- **Comisiones pagadas (taker fee):** $230.73 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1262 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 750 | 70.8% | 67.8% | +3.0 pp |
 | 80-94% | 360 | 86.7% | 86.8% | -0.1 pp |
-| 95-99% (casi seguro) | 166 | 95.8% | 97.4% | -1.6 pp |
+| 95-99% (casi seguro) | 167 | 95.8% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -556,7 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Rune Eaters vs 9INE (BO3 | 9INE (BUY) | 58% | 5.00 | 40.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit (BUY) | 43% | 5.00 | 7.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 4  | BNK FEARX (BUY) | 48% | 5.00 | 6.9% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Nikita Mashtakov (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Nikita Mashtakov (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
 | ExplosiveNinja | Counter-Strike: Sinners vs Bushido Wildc | Sinners (BUY) | 71% | 5.00 | 9.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 57% | 5.00 | 13.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 53% | 5.00 | 31.0% | ⏳ pendiente | — |

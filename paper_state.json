@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.67876452101274,
+  "bankroll": 505.9289224157496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13225,6 +13225,11 @@
       "timestamp": 1787915733.7463489,
       "bankroll": 505.68,
       "event": "won: SPCEXBUYER \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787915794.906203,
+      "bankroll": 505.93,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Poznan (Poland), clay: Vladyslav Orlov vs Nikita Mashtakov"
     }
   ]
 }
