@@ -66432,5 +66432,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787926035.9751225,
     "fills": 1
+  },
+  {
+    "timestamp": 1787926364,
+    "timestamp_added": 1787926364.7708027,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "fl1-lil-psg-2026-08-28-psg",
+    "title": "Will Paris Saint-Germain FC win on 2026-08-28?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 792.9306,
+    "whale_pct": 0.811,
+    "whale_value_at_open": 97768.5979,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787926364.7708123,
+    "fills": 1
   }
 ]
