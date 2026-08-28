@@ -1,5 +1,5 @@
 {
-  "bankroll": 522.6943876147086,
+  "bankroll": 517.5913876147087,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13410,6 +13410,11 @@
       "timestamp": 1787948936.3535845,
       "bankroll": 522.69,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification WTA: Elvina Kalieva vs Vendula Valdmannova (+2.75 USD)"
+    },
+    {
+      "timestamp": 1787950011.2874284,
+      "bankroll": 517.59,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: FC Bayern M\u00fcnchen (-2.5)"
     }
   ]
 }
