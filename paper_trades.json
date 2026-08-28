@@ -65112,5 +65112,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787892885.684692,
     "fills": 6
+  },
+  {
+    "timestamp": 1787895934,
+    "timestamp_added": 1787895939.795029,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-sashi-rustec-2026-08-28",
+    "title": "Counter-Strike: Sashi Esport vs ex-RUSTEC (BO3) - CCT Europe Series #7 Playoffs",
+    "outcome": "Sashi Esport",
+    "side": "BUY",
+    "whale_usd": 5433.0836,
+    "whale_pct": 44.916,
+    "whale_value_at_open": 12095.9738,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787895939.7950394,
+    "fills": 1
   }
 ]

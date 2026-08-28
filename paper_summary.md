@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 00:44:53 (hora de Perú)
+Actualizado: 2026-08-28 00:46:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.26
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 00:44:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $35.00 en 7 posiciones abiertas (disponible para nuevas apuestas: $455.26)
+**Capital comprometido ahora mismo:** $40.00 en 8 posiciones abiertas (disponible para nuevas apuestas: $450.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
-| ExplosiveNinja | 3 | 2 | 0 | -1.35 USD |
+| ExplosiveNinja | 3 | 2 | 1 | -1.35 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -544,6 +544,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Sashi Esport vs ex-RUSTE | Sashi Esport (BUY) | 68% | 5.00 | 44.9% | ⏳ pendiente | — |
 | plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 16.2% | ⏳ pendiente | — |
 | plonker2026 | Will FC Groningen win on 2026-08-28? | Yes (BUY) | 63% | 5.00 | 36.1% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Manchester City FC (-1.5) | Crystal Palace FC (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -573,4 +574,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 7.3% | ✅ ganada | +0.84 |
 | RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 2.0% | ❌ perdida | -5.11 |
 | texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ❌ perdida | -5.12 |
-| TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 10.7% | ⏳ pendiente | — |
