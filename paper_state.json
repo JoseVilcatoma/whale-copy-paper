@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.1540880405474,
+  "bankroll": 494.12108804054736,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13175,6 +13175,11 @@
       "timestamp": 1787913143.0152123,
       "bankroll": 499.15,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Xinyu Gao"
+    },
+    {
+      "timestamp": 1787913837.5984752,
+      "bankroll": 494.12,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Lorenzo Angelini vs Daniel Verbeek"
     }
   ]
 }
