@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.8304358368843,
+  "bankroll": 489.542534246863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13050,6 +13050,41 @@
       "timestamp": 1787891971.907705,
       "bankroll": 483.83,
       "event": "lost: texaskid \u2014 Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1787892284.5886214,
+      "bankroll": 478.7,
+      "event": "lost: HomeRunHazard \u2014 Washington Mystics vs. Phoenix Mercury: O/U 167.5"
+    },
+    {
+      "timestamp": 1787892285.5120564,
+      "bankroll": 473.58,
+      "event": "lost: RN1 \u2014 US Open, Qualification ATP: Toby Samuel vs Cristian Garin"
+    },
+    {
+      "timestamp": 1787892286.6133263,
+      "bankroll": 477.09,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787892286.713472,
+      "bankroll": 483.85,
+      "event": "won: ethBELIVER \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787892287.09574,
+      "bankroll": 478.73,
+      "event": "lost: TAIWANNUMBERONE \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787892287.1959028,
+      "bankroll": 484.47,
+      "event": "won: ethanaz \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787892287.2960703,
+      "bankroll": 489.54,
+      "event": "won: TAIWANNUMBERONE \u2014 Arizona Diamondbacks vs. San Francisco Giants"
     }
   ]
 }
