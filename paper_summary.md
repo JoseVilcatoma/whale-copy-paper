@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 23:06:12 (hora de Perú)
+Actualizado: 2026-08-27 23:08:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $490.74
-**Retorno acumulado:** -1.85%
+**Bankroll actual:** $488.96
+**Retorno acumulado:** -2.21%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 23:06:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $395.74)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $403.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -88,22 +88,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 378 | 177 | 5 | -32.51 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 379 | 178 | 3 | -34.29 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2502
-- **Aciertos:** 1610 (64.3%)
+- **Apuestas resueltas:** 2504
+- **Aciertos:** 1611 (64.3%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,497.59
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $227.00 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,507.59
+- **ROI sobre lo apostado:** -0.78%
+- **Comisiones pagadas (taker fee):** $227.25 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1239 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1241 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 740 | 70.5% | 67.7% | +2.8 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
@@ -562,10 +562,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Winston-Salem Open: Fabian Marozsan vs J | Fabian Marozsan (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | OOOwhyOOO | Kingston 2: Andrew Fenty vs Luis Guto Mi | Luis Guto Miguel (BUY) | 94% | 5.00 | 3.7% | ✅ ganada | +0.30 |
 | RN1 | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 73% | 5.00 | 4.7% | ✅ ganada | +1.78 |
-| RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 2.3% | ✅ ganada | +3.37 |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 51% | 5.00 | 18.9% | ✅ ganada | +4.68 |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 54% | 5.00 | 40.7% | 💰 vendida anticipada | -0.51 |
-| RN1 | Will SC Internacional win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will SC Internacional win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.4% | ❌ perdida | -5.15 |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 55% | 5.00 | 0.8% | ❌ perdida | -5.11 |
 | RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 7.3% | ✅ ganada | +0.84 |
 | RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 2.0% | ❌ perdida | -5.11 |

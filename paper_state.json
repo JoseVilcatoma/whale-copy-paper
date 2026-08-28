@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.7368595656979,
+  "bankroll": 488.9604358368843,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13035,6 +13035,16 @@
       "timestamp": 1787888710.9950883,
       "bankroll": 490.74,
       "event": "lost: wr0ngw4yb3tt0r \u2014 49ers vs. Raiders"
+    },
+    {
+      "timestamp": 1787890093.1467335,
+      "bankroll": 485.59,
+      "event": "lost: RN1 \u2014 Will SC Internacional win on 2026-08-27?"
+    },
+    {
+      "timestamp": 1787890093.4885495,
+      "bankroll": 488.96,
+      "event": "won: RN1 \u2014 Steelers vs. Bills: O/U 41.5"
     }
   ]
 }
