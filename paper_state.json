@@ -1,5 +1,5 @@
 {
-  "bankroll": 522.1501659465129,
+  "bankroll": 517.0101659465129,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13440,6 +13440,11 @@
       "timestamp": 1787951558.8947566,
       "bankroll": 522.15,
       "event": "won: wr0ngw4yb3tt0r \u2014 Will Paris Saint-Germain FC win on 2026-08-28?"
+    },
+    {
+      "timestamp": 1787951620.64391,
+      "bankroll": 517.01,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Lille OSC vs. Paris Saint-Germain FC: O/U 2.5"
     }
   ]
 }
