@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 22:29:27 (hora de Perú)
+Actualizado: 2026-08-27 22:31:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.52
@@ -551,7 +551,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | 49ers vs. Raiders | Raiders (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ethBELIVER | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 42% | 5.00 | 48.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | 49ers vs. Raiders | 49ers (BUY) | 43% | 5.00 | 1.8% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 58% | 5.00 | 0.6% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 74% | 5.00 | 5.9% | ⏳ pendiente | — |
 | ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 67.1% | ⏳ pendiente | — |
 | ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ⏳ pendiente | — |
