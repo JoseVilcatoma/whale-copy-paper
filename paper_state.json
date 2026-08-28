@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.5772024469656,
+  "bankroll": 495.4602024469656,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13515,6 +13515,11 @@
       "timestamp": 1787958368.6357424,
       "bankroll": 500.58,
       "event": "won: wr0ngw4yb3tt0r \u2014 Wrexham AFC vs. Birmingham City FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1787958989.6646216,
+      "bankroll": 495.46,
+      "event": "lost: kekasaur \u2014 Spread: Sporting CP (-1.5)"
     }
   ]
 }
