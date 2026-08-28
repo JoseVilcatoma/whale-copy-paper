@@ -66681,5 +66681,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787935012.31152,
     "fills": 5
+  },
+  {
+    "timestamp": 1787935086,
+    "timestamp_added": 1787935087.052288,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "lal-rrc-elc-2026-08-28-rrc",
+    "title": "Will Real Racing Club win on 2026-08-28?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 8499.998,
+    "whale_pct": 7.568,
+    "whale_value_at_open": 112313.876,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787935087.0523005,
+    "fills": 1
   }
 ]
