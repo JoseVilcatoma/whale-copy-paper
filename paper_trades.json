@@ -66657,5 +66657,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787934360.5538352,
     "fills": 1
+  },
+  {
+    "timestamp": 1787934974,
+    "timestamp_added": 1787934974.7501342,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "lol-vit-fnc-2026-08-28",
+    "title": "LoL: Team Vitality vs Fnatic (BO3) - LEC Regular Season",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "whale_usd": 5668.869099999999,
+    "whale_pct": 7.103,
+    "whale_value_at_open": 79812.6735,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787935012.31152,
+    "fills": 5
   }
 ]
