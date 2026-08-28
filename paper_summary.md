@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 14:30:04 (hora de Perú)
+Actualizado: 2026-08-28 14:32:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $528.98
-**Retorno acumulado:** +5.80%
+**Bankroll actual:** $529.13
+**Retorno acumulado:** +5.83%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 14:30:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $358.98)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $364.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 6 | 3 | 2 | +12.07 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| HVAB | 16 | 7 | 2 | +9.21 USD |
+| HVAB | 17 | 7 | 1 | +9.36 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | pleaseplease123 | 4 | 2 | 2 | +6.73 USD |
@@ -96,13 +96,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2563
-- **Aciertos:** 1649 (64.3%)
-- **Cuota promedio de entrada:** 63.5%
+- **Apuestas resueltas:** 2564
+- **Aciertos:** 1650 (64.4%)
+- **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,802.59
+- **Total apostado (suma de stakes):** $12,807.59
 - **ROI sobre lo apostado:** -0.49%
-- **Comisiones pagadas (taker fee):** $233.43 (1.82% del capital apostado)
+- **Comisiones pagadas (taker fee):** $233.44 (1.82% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1281 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 754 | 70.8% | 67.8% | +3.1 pp |
 | 80-94% | 361 | 86.7% | 86.8% | -0.1 pp |
-| 95-99% (casi seguro) | 167 | 95.8% | 97.3% | -1.5 pp |
+| 95-99% (casi seguro) | 168 | 95.8% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -556,7 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 57% | 5.00 | 141.8% | ⏳ pendiente | — |
-| OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Sofia Sanchez (BUY) | 97% | 5.00 | 19.9% | ⏳ pendiente | — |
+| OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Sofia Sanchez (BUY) | 97% | 5.00 | 19.9% | ✅ ganada | +0.15 |
 | kekasaur | Spread: Sporting CP (-1.5) | Rio Ave FC (BUY) | 53% | 5.00 | 118.2% | ⏳ pendiente | — |
 | kekasaur | Will Dundalk FC win on 2026-08-28? | Yes (BUY) | 42% | 5.00 | 94.9% | ⏳ pendiente | — |
 | texaskid | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 53% | 5.00 | 4.5% | ⏳ pendiente | — |

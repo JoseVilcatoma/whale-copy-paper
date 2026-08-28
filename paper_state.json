@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.982467450665,
+  "bankroll": 529.1291066259228,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13370,6 +13370,11 @@
       "timestamp": 1787944004.2663305,
       "bankroll": 528.98,
       "event": "lost: casualbet2020 \u2014 Valorant: Team Liquid vs Fire Flux Esports (BO3) - VCT EMEA Playoffs"
+    },
+    {
+      "timestamp": 1787945518.1320868,
+      "bankroll": 529.13,
+      "event": "won: OOOwhyOOO \u2014 ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Ana Sofia Sanchez vs Carolyn Ansari"
     }
   ]
 }
