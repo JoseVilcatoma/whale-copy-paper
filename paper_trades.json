@@ -65885,8 +65885,8 @@
     "title": "LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner",
     "outcome": "HANJIN BRION",
     "side": "BUY",
-    "whale_usd": 13926.192000000001,
-    "whale_pct": 7.81,
+    "whale_usd": 18026.192,
+    "whale_pct": 10.109,
     "whale_value_at_open": 178316.0292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -65899,7 +65899,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787910916.1205943,
-    "fills": 5
+    "last_fill_at": 1787911168.223097,
+    "fills": 8
   }
 ]
