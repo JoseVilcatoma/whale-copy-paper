@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.9289224157496,
+  "bankroll": 503.78143854478185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13230,6 +13230,16 @@
       "timestamp": 1787915794.906203,
       "bankroll": 505.93,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Poznan (Poland), clay: Vladyslav Orlov vs Nikita Mashtakov"
+    },
+    {
+      "timestamp": 1787915984.979645,
+      "bankroll": 508.9,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Teodora Miron vs Ilinca Dalina Amariei"
+    },
+    {
+      "timestamp": 1787915985.0798366,
+      "bankroll": 503.78,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Teodora Miron vs Ilinca Dalina Amariei"
     }
   ]
 }
