@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 03:00:23 (hora de Perú)
+Actualizado: 2026-08-28 03:02:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.15
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 03:00:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $422.15)
+**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $407.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 60 | 23 | 2 | +55.98 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 60 | 23 | 4 | +55.98 USD |
 | BOOMBOYS.Kiritych | 34 | 17 | 1 | +54.65 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
@@ -56,7 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
-| BrotherObama | 1 | 0 | 0 | +1.16 USD |
+| BrotherObama | 1 | 0 | 1 | +1.16 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -536,6 +536,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | uel-rbs-ma-2026-08-27-spread-home-1pt5 | RN1, plonker2026 |
 | mlb-lad-atl-2026-08-27-total-6pt5 | RN1, SDTrading |
 | mlb-lad-atl-2026-08-27 | Djdjdjekekek, RN1, Sassy-Bucket, TAIWANNUMBERONE, Talvez10, casualbet2020 |
+| lol-bro2-fox1-2026-08-28 | BrotherObama, TAIWANNUMBERONE |
 | atp-cerund-buse-2026-08-27 | OOOwhyOOO, RN1 |
 | nfl-sf-lv-2026-08-28 | ethBELIVER, wr0ngw4yb3tt0r |
 | lol-edg-nip-2026-08-28 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
@@ -546,6 +547,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 96% | 5.00 | 12.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 66% | 5.00 | 4.7% | ⏳ pendiente | — |
+| BrotherObama | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | HANJIN BRION (BUY) | 49% | 5.00 | 57.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Cap d'Agde (Franc | Kenny De Schepper (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Tianjin 4 (Chin | Vaishnavi Adkar (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -573,6 +577,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 67.1% | ❌ perdida | -5.12 |
 | ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ✅ ganada | +5.73 |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 48% | 5.00 | 2.2% | ❌ perdida | -5.13 |
-| RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ✅ ganada | +4.88 |
-| RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 68% | 5.00 | 0.8% | ✅ ganada | +2.27 |
-| RN1 | Winston-Salem Open: Fabian Marozsan vs J | Fabian Marozsan (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
