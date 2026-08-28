@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 02:13:08 (hora de Perú)
+Actualizado: 2026-08-28 02:15:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.15
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 02:13:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $452.15)
+**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $447.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 60 | 23 | 1 | +55.98 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 60 | 23 | 2 | +55.98 USD |
 | BOOMBOYS.Kiritych | 34 | 17 | 1 | +54.65 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
@@ -540,11 +540,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nfl-sf-lv-2026-08-28 | ethBELIVER, wr0ngw4yb3tt0r |
 | lol-edg-nip-2026-08-28 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | mlb-ari-sf-2026-08-27 | TAIWANNUMBERONE, ethBELIVER, ethanaz, wr0ngw4yb3tt0r |
+| lol-edg-nip-2026-08-28-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 65% | 5.00 | 10.6% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 2033.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 99% | 5.00 | 3.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 15.9% | 💰 vendida anticipada | +0.56 |
@@ -574,4 +576,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 2.3% | ✅ ganada | +3.37 |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 51% | 5.00 | 18.9% | ✅ ganada | +4.68 |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Juan Manuel Cerundolo (BUY) | 54% | 5.00 | 40.7% | 💰 vendida anticipada | -0.51 |
-| RN1 | Will SC Internacional win on 2026-08-27? | Yes (BUY) | 41% | 5.00 | 0.4% | ❌ perdida | -5.15 |
