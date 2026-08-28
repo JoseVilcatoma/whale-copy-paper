@@ -67827,5 +67827,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787957992.8794727,
     "fills": 1
+  },
+  {
+    "timestamp": 1787958602,
+    "timestamp_added": 1787958603.108216,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "bra2-nau-ath-2026-08-28-nau",
+    "title": "Will Clube N\u00e1utico Capibaribe win on 2026-08-28?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 640.0015,
+    "whale_pct": 0.911,
+    "whale_value_at_open": 70271.5702,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787958603.1082275,
+    "fills": 1
   }
 ]

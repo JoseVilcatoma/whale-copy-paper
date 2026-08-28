@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 18:08:45 (hora de Perú)
+Actualizado: 2026-08-28 18:10:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.58
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 18:08:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $315.58)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $310.58)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
-| kekasaur | 3 | 6 | 2 | -15.42 USD |
+| kekasaur | 3 | 6 | 3 | -15.42 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 6 | 10 | 5 | -19.99 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -557,6 +557,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Will Clube Náutico Capibaribe win on 202 | Yes (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Elusive vs Zomblers (BO3 | Elusive (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
 | AV23IUa | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 60% | 5.00 | 4.5% | ⏳ pendiente | — |
@@ -586,4 +587,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs: O/U 12 | Under (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Portland Fire (BUY) | 48% | 5.00 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 28.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 55% | 5.00 | 2.2% | ✅ ganada | +3.98 |
