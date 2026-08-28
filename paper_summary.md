@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 09:23:35 (hora de Perú)
+Actualizado: 2026-08-28 09:25:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $506.63
-**Retorno acumulado:** +1.33%
+**Bankroll actual:** $515.09
+**Retorno acumulado:** +3.02%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 09:23:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $371.63)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $390.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| ExplosiveNinja | 5 | 4 | 3 | -3.12 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -83,7 +84,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ExplosiveNinja | 3 | 4 | 5 | -11.57 USD |
 | AV23IUa | 8 | 8 | 1 | -13.74 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2550
-- **Aciertos:** 1640 (64.3%)
+- **Apuestas resueltas:** 2552
+- **Aciertos:** 1642 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,737.59
-- **ROI sobre lo apostado:** -0.63%
-- **Comisiones pagadas (taker fee):** $232.00 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,747.59
+- **ROI sobre lo apostado:** -0.57%
+- **Comisiones pagadas (taker fee):** $232.22 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,8 +111,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1272 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 751 | 70.8% | 67.7% | +3.1 pp |
+| 40-59% | 1273 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 752 | 70.9% | 67.8% | +3.1 pp |
 | 80-94% | 360 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 167 | 95.8% | 97.3% | -1.5 pp |
 
@@ -567,9 +567,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Birmingham City FC: O/U  | Over (BUY) | 45% | 5.00 | 2.1% | ⏳ pendiente | — |
 | SDTrading | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 61% | 5.00 | 5.9% | ⏳ pendiente | — |
 | SDTrading | Kansas City Royals vs. Cleveland Guardia | Cleveland Guardians (BUY) | 57% | 5.00 | 79.9% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: G2 vs Spirit (BO3) - BLA | Spirit (BUY) | 71% | 5.00 | 8.3% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: G2 vs Spirit (BO3) - BLA | Spirit (BUY) | 71% | 5.00 | 8.3% | ✅ ganada | +1.97 |
 | ExplosiveNinja | Counter-Strike: Rune Eaters vs 9INE (BO3 | 9INE (BUY) | 58% | 5.00 | 48.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit (BUY) | 43% | 5.00 | 7.7% | ⏳ pendiente | — |
+| ExplosiveNinja | Map Handicap: TS (-1.5) vs G2 (+1.5) | Spirit (BUY) | 43% | 5.00 | 7.7% | ✅ ganada | +6.48 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 4  | BNK FEARX (BUY) | 48% | 5.00 | 6.9% | ✅ ganada | +5.29 |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Nikita Mashtakov (BUY) | 95% | 5.00 | 0.7% | ✅ ganada | +0.25 |
 | ExplosiveNinja | Counter-Strike: Sinners vs Bushido Wildc | Sinners (BUY) | 71% | 5.00 | 9.0% | ⏳ pendiente | — |
