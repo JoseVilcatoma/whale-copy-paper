@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.19412296008215,
+  "bankroll": 501.33838221934144,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13130,6 +13130,11 @@
       "timestamp": 1787908937.6641538,
       "bankroll": 497.19,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787909995.0985072,
+      "bankroll": 501.34,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Tianjin 4 (China), hard: Peangtarn Plipuech vs Vaishnavi Adkar"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 04:39:22 (hora de Perú)
+Actualizado: 2026-08-28 04:41:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $497.19
-**Retorno acumulado:** -0.56%
+**Bankroll actual:** $501.34
+**Retorno acumulado:** +0.27%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 04:39:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $332.19)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $341.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,21 +89,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 379 | 180 | 14 | -44.53 USD |
+| RN1 | 380 | 180 | 13 | -40.39 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2519
-- **Aciertos:** 1620 (64.3%)
+- **Apuestas resueltas:** 2520
+- **Aciertos:** 1621 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,582.59
-- **ROI sobre lo apostado:** -0.72%
-- **Comisiones pagadas (taker fee):** $228.94 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,587.59
+- **ROI sobre lo apostado:** -0.68%
+- **Comisiones pagadas (taker fee):** $229.06 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1253 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1254 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 742 | 70.6% | 67.7% | +2.9 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 165 | 95.8% | 97.4% | -1.6 pp |
@@ -570,7 +570,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | HANJIN BRION (BUY) | 49% | 5.00 | 57.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Cap d'Agde (Franc | Kenny De Schepper (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W15 Tianjin 4 (Chin | Vaishnavi Adkar (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W15 Tianjin 4 (Chin | Vaishnavi Adkar (BUY) | 54% | 5.00 | 1.1% | ✅ ganada | +4.14 |
 | DoNotTailMe | LoL: EDward Gaming vs Ninjas in Pyjamas  | EDward Gaming (BUY) | 49% | 5.00 | 25.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 83% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 65% | 5.00 | 16.8% | ⏳ pendiente | — |
