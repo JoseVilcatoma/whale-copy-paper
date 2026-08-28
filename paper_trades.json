@@ -66346,8 +66346,8 @@
     "title": "Spread: FC Bayern M\u00fcnchen (-2.5)",
     "outcome": "VfB Stuttgart",
     "side": "BUY",
-    "whale_usd": 26520.969800000003,
-    "whale_pct": 28.531,
+    "whale_usd": 29957.967200000003,
+    "whale_pct": 32.229,
     "whale_value_at_open": 92954.8143,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -66358,8 +66358,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787939531.5979838,
-    "fills": 12
+    "last_fill_at": 1787940399.9641528,
+    "fills": 13
   },
   {
     "timestamp": 1787925767,
@@ -66846,12 +66846,14 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 3.66,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787939601.7490184,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.227,
+    "closed_price": 80
   }
 ]

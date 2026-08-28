@@ -1,5 +1,5 @@
 {
-  "bankroll": 529.3207777310295,
+  "bankroll": 532.9827777310295,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13345,6 +13345,11 @@
       "timestamp": 1787938616.2638428,
       "bankroll": 529.32,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1787940389.99867,
+      "bankroll": 532.98,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Fnatic - Game 2 Winner (+3.66 USD)"
     }
   ]
 }
