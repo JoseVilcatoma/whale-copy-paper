@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 06:13:39 (hora de Perú)
+Actualizado: 2026-08-28 06:15:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $501.54
-**Retorno acumulado:** +0.31%
+**Bankroll actual:** $505.68
+**Retorno acumulado:** +1.14%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 06:13:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $366.54)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $385.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,16 +21,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 64 | 23 | 3 | +61.33 USD |
-| BOOMBOYS.Kiritych | 36 | 17 | 1 | +59.54 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 2 | +39.06 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 21 | 9 | 0 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| ChonkyChocolateCake | 40 | 23 | 1 | +25.03 USD |
 | TAIWANNUMBERONE | 12 | 7 | 1 | +21.89 USD |
-| ChonkyChocolateCake | 39 | 23 | 2 | +19.95 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | texaskid | 6 | 3 | 0 | +12.07 USD |
@@ -78,12 +78,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
-| ExplosiveNinja | 3 | 3 | 6 | -6.49 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | wr0ngw4yb3tt0r | 4 | 5 | 2 | -6.88 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| ExplosiveNinja | 3 | 4 | 5 | -11.57 USD |
 | AV23IUa | 8 | 8 | 0 | -13.74 USD |
 | kekasaur | 3 | 6 | 0 | -15.42 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2535
-- **Aciertos:** 1631 (64.3%)
+- **Apuestas resueltas:** 2538
+- **Aciertos:** 1633 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,662.59
-- **ROI sobre lo apostado:** -0.68%
-- **Comisiones pagadas (taker fee):** $230.39 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,677.59
+- **ROI sobre lo apostado:** -0.65%
+- **Comisiones pagadas (taker fee):** $230.71 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,8 +111,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1260 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 749 | 70.9% | 67.8% | +3.1 pp |
+| 40-59% | 1262 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 750 | 70.8% | 67.8% | +3.0 pp |
 | 80-94% | 360 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 166 | 95.8% | 97.4% | -1.6 pp |
 
@@ -573,8 +573,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Dragos Nicolae Madaras (BUY) | 58% | 5.00 | 1.2% | ❌ perdida | -5.11 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ✅ ganada | +4.50 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ❌ perdida | -5.12 |
-| SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 54% | 5.00 | 71.0% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 49% | 5.00 | 72.9% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 54% | 5.00 | 71.0% | ✅ ganada | +4.14 |
+| DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 49% | 5.00 | 72.9% | ✅ ganada | +5.08 |
 | SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 159.0% | ✅ ganada | +2.17 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 96% | 5.00 | 330.7% | ✅ ganada | +0.20 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 66% | 5.00 | 4.7% | ✅ ganada | +2.49 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.53842362910035,
+  "bankroll": 505.67876452101274,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13210,6 +13210,21 @@
       "timestamp": 1787915167.7892883,
       "bankroll": 501.54,
       "event": "won: SPCEXBUYER \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 3 Winner"
+    },
+    {
+      "timestamp": 1787915732.7103007,
+      "bankroll": 496.46,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Sashi Esport vs ex-RUSTEC (BO3) - CCT Europe Series #7 Playoffs"
+    },
+    {
+      "timestamp": 1787915733.6461327,
+      "bankroll": 501.53,
+      "event": "won: DoNotTailMe \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787915733.7463489,
+      "bankroll": 505.68,
+      "event": "won: SPCEXBUYER \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner"
     }
   ]
 }
