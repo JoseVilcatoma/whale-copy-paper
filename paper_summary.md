@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 18:27:15 (hora de Perú)
+Actualizado: 2026-08-28 18:29:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.46
-**Retorno acumulado:** -0.91%
+**Bankroll actual:** $499.28
+**Retorno acumulado:** -0.14%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 18:27:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $305.46)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $314.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,20 +90,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
-| ferrariChampions2026 | 305 | 188 | 8 | -72.24 USD |
+| ferrariChampions2026 | 306 | 188 | 7 | -68.42 USD |
 | Sassy-Bucket | 16 | 32 | 2 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2592
-- **Aciertos:** 1663 (64.2%)
+- **Apuestas resueltas:** 2593
+- **Aciertos:** 1664 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,947.59
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $236.28 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,952.59
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $236.39 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1297 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1298 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 763 | 70.5% | 67.7% | +2.8 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
@@ -569,7 +569,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality (BUY) | 53% | 5.00 | 29.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 1 W | Vitality (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia: Tereza Valentova vs Julia  | Tereza Valentova (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
-| ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benj | Ignacio Buse (BUY) | 56% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benj | Ignacio Buse (BUY) | 56% | 5.00 | 1.2% | ✅ ganada | +3.82 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 2 W | Vitality (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z (BO3) - B | Vitality (BUY) | 76% | 5.00 | 21.3% | ⏳ pendiente | — |

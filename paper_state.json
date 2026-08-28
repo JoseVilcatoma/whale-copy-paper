@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.4602024469656,
+  "bankroll": 499.278773875537,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13520,6 +13520,11 @@
       "timestamp": 1787958989.6646216,
       "bankroll": 495.46,
       "event": "lost: kekasaur \u2014 Spread: Sporting CP (-1.5)"
+    },
+    {
+      "timestamp": 1787959674.205968,
+      "bankroll": 499.28,
+      "event": "won: ferrariChampions2026 \u2014 Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi"
     }
   ]
 }
