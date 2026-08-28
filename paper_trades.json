@@ -66967,8 +66967,8 @@
     "title": "Will Dundalk FC win on 2026-08-28?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 12639.005654,
-    "whale_pct": 74.381,
+    "whale_usd": 16124.222954,
+    "whale_pct": 94.892,
     "whale_value_at_open": 16992.187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -66979,8 +66979,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787943417.0217552,
-    "fills": 7
+    "last_fill_at": 1787943453.5769267,
+    "fills": 10
   },
   {
     "timestamp": 1787942389,
@@ -66991,8 +66991,8 @@
     "title": "Spread: Sporting CP (-1.5)",
     "outcome": "Rio Ave FC",
     "side": "BUY",
-    "whale_usd": 6810.6584,
-    "whale_pct": 30.579,
+    "whale_usd": 16757.4316,
+    "whale_pct": 75.238,
     "whale_value_at_open": 22272.44,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -67003,8 +67003,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787942389.670003,
-    "fills": 1
+    "last_fill_at": 1787943456.3105135,
+    "fills": 3
   },
   {
     "timestamp": 1787943322,
