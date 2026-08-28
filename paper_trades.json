@@ -65523,8 +65523,8 @@
     "title": "LoL: HANJIN BRION vs BNK FEARX - Game 1 Winner",
     "outcome": "BNK FEARX",
     "side": "BUY",
-    "whale_usd": 153759.288401,
-    "whale_pct": 68.905,
+    "whale_usd": 158399.288401,
+    "whale_pct": 70.985,
     "whale_value_at_open": 223145.4871,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -65537,7 +65537,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787904510.0288014,
-    "fills": 33
+    "last_fill_at": 1787904516.77498,
+    "fills": 34
   }
 ]

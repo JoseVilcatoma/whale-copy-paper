@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 03:08:31 (hora de Perú)
+Actualizado: 2026-08-28 03:10:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.15
@@ -549,7 +549,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 54% | 5.00 | 68.9% | ⏳ pendiente | — |
+| SPCEXBUYER | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 54% | 5.00 | 71.0% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 1  | BNK FEARX (BUY) | 49% | 5.00 | 72.9% | ⏳ pendiente | — |
 | SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 159.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 96% | 5.00 | 106.3% | ⏳ pendiente | — |
