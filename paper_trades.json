@@ -65264,5 +65264,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787901346.1891358,
     "fills": 4
+  },
+  {
+    "timestamp": 1787901603,
+    "timestamp_added": 1787901604.6179962,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "ufc-son-uma-2026-08-29",
+    "title": "UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)",
+    "outcome": "Umar Nurmagomedov",
+    "side": "BUY",
+    "whale_usd": 1545.8969359999999,
+    "whale_pct": 2.745,
+    "whale_value_at_open": 56321.4829,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787901604.6180117,
+    "fills": 1
   }
 ]
