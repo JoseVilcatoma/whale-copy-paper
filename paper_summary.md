@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 07:05:19 (hora de Perú)
+Actualizado: 2026-08-28 07:07:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.78
-**Retorno acumulado:** +0.76%
+**Bankroll actual:** $498.67
+**Retorno acumulado:** -0.27%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 07:05:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $378.78)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $378.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 64 | 23 | 4 | +61.33 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 64 | 24 | 3 | +56.22 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 4 | +39.06 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2541
+- **Apuestas resueltas:** 2542
 - **Aciertos:** 1635 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,692.59
-- **ROI sobre lo apostado:** -0.66%
-- **Comisiones pagadas (taker fee):** $230.94 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,697.59
+- **ROI sobre lo apostado:** -0.70%
+- **Comisiones pagadas (taker fee):** $231.05 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1263 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1264 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 751 | 70.8% | 67.7% | +3.1 pp |
 | 80-94% | 360 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 167 | 95.8% | 97.3% | -1.5 pp |
@@ -566,7 +566,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 53% | 5.00 | 31.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs DENDELE | DENDELE CS (BUY) | 45% | 5.00 | 69.8% | ❌ perdida | -5.14 |
 | RN1 | Will Stade Lavallois Mayenne FC vs. Gren | No (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 2  | BNK FEARX (BUY) | 55% | 5.00 | 12.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 2  | BNK FEARX (BUY) | 55% | 5.00 | 12.6% | ❌ perdida | -5.11 |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 74% | 5.00 | 5.3% | ✅ ganada | +1.69 |
 | ExplosiveNinja | Counter-Strike: Metizport vs Bushido Wil | Metizport (BUY) | 64% | 5.00 | 22.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 87% | 5.00 | 2.5% | ❌ perdida | -5.03 |

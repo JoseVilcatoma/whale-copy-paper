@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.78143854478185,
+  "bankroll": 498.6694385447818,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13240,6 +13240,11 @@
       "timestamp": 1787915985.0798366,
       "bankroll": 503.78,
       "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Teodora Miron vs Ilinca Dalina Amariei"
+    },
+    {
+      "timestamp": 1787918830.807306,
+      "bankroll": 498.67,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: HANJIN BRION vs BNK FEARX - Game 2 Winner"
     }
   ]
 }
