@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 10:09:00 (hora de Perú)
+Actualizado: 2026-08-28 10:11:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $510.00
@@ -552,7 +552,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | wr0ngw4yb3tt0r | Spread: Washington Mystics (-5.5) | Los Angeles Sparks (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Talvez10 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 59.9% | ⏳ pendiente | — |
+| Talvez10 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 76.0% | ⏳ pendiente | — |
 | casualbet2020 | Map Handicap: FURIA (-1.5) vs M80 (+1.5) | FURIA (BUY) | 54% | 5.00 | 44.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Paris Saint-Germain FC win on 2026- | No (BUY) | 43% | 5.00 | 1.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Fire Flux Espor | Fire Flux Esports (BUY) | 41% | 5.00 | 7.0% | ⏳ pendiente | — |
