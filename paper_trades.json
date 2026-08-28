@@ -66820,15 +66820,17 @@
     "odds_at_bet": 44,
     "fee_usd": 0.14,
     "odds_ballena": 43,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.08,
     "overlaps_with": [
       "casualbet2020"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787937300.8888457,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.28,
+    "closed_price": 56
   },
   {
     "timestamp": 1787939601,
