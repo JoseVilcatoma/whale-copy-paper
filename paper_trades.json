@@ -65447,8 +65447,8 @@
     "title": "LoL: EDward Gaming vs Ninjas in Pyjamas (BO5) - LPL Knights Rivals",
     "outcome": "Ninjas in Pyjamas",
     "side": "BUY",
-    "whale_usd": 105256.33149999999,
-    "whale_pct": 287.723,
+    "whale_usd": 116977.10979999999,
+    "whale_pct": 319.763,
     "whale_value_at_open": 36582.4951,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 96,
@@ -65461,8 +65461,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787905153.4176135,
-    "fills": 6
+    "last_fill_at": 1787905372.670867,
+    "fills": 7
   },
   {
     "timestamp": 1787904258,
@@ -65562,6 +65562,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787905225.6808474,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787905289,
+    "timestamp_added": 1787905289.2065747,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-grammat-okutoyi-2026-08-28",
+    "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentini Grammatikopoulou vs Angella Okutoyi",
+    "outcome": "Angella Okutoyi",
+    "side": "BUY",
+    "whale_usd": 849.66,
+    "whale_pct": 1.046,
+    "whale_value_at_open": 81261.848,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787905289.206591,
     "fills": 1
   }
 ]
