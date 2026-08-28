@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 05:45:07 (hora de Perú)
+Actualizado: 2026-08-28 05:47:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.12
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 05:45:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $359.12)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $354.12)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 62 | 23 | 4 | +58.64 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 62 | 23 | 5 | +58.64 USD |
 | BOOMBOYS.Kiritych | 35 | 17 | 2 | +57.37 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
@@ -550,20 +550,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 4  | BNK FEARX (BUY) | 48% | 5.00 | 3.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Poznan (Poland),  | Nikita Mashtakov (BUY) | 95% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ExplosiveNinja | Counter-Strike: Sinners vs Bushido Wildc | Sinners (BUY) | 71% | 5.00 | 4.5% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Sinners vs Bushido Wildc | Sinners (BUY) | 71% | 5.00 | 9.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 57% | 5.00 | 13.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 53% | 5.00 | 31.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs DENDELE | DENDELE CS (BUY) | 45% | 5.00 | 69.8% | ❌ perdida | -5.14 |
 | RN1 | Will Stade Lavallois Mayenne FC vs. Gren | No (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 2  | BNK FEARX (BUY) | 55% | 5.00 | 12.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 74% | 5.00 | 5.3% | ✅ ganada | +1.69 |
-| ExplosiveNinja | Counter-Strike: Metizport vs Bushido Wil | Metizport (BUY) | 64% | 5.00 | 17.8% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: Metizport vs Bushido Wil | Metizport (BUY) | 64% | 5.00 | 22.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 87% | 5.00 | 2.5% | ❌ perdida | -5.03 |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Teodora Miron (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ilinca Dalina Amariei (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Facundo Mena (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 7.4% | ⏳ pendiente | — |
+| RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Benito Sanchez Martinez (BUY) | 57% | 5.00 | 8.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Dragos Nicolae Madaras (BUY) | 58% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 52% | 5.00 | 5.7% | ✅ ganada | +4.50 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentini Grammatikopoulou (BUY) | 50% | 5.00 | 1.0% | ❌ perdida | -5.12 |
@@ -579,4 +580,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: EDward Gaming vs Ninjas in Pyjamas  | EDward Gaming (BUY) | 49% | 5.00 | 25.8% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 83% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 65% | 5.00 | 16.8% | ✅ ganada | +2.61 |
-| SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 2033.9% | ✅ ganada | +2.72 |

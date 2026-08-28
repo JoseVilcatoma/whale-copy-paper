@@ -65621,8 +65621,8 @@
     "title": "Augsburg: Benito Sanchez Martinez vs Facundo Mena",
     "outcome": "Benito Sanchez Martinez",
     "side": "BUY",
-    "whale_usd": 6684.6511,
-    "whale_pct": 7.449,
+    "whale_usd": 7230.64482,
+    "whale_pct": 8.057,
     "whale_value_at_open": 89743.4985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -65633,8 +65633,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787906686.6422033,
-    "fills": 3
+    "last_fill_at": 1787914015.0989995,
+    "fills": 4
   },
   {
     "timestamp": 1787906696,
@@ -65741,8 +65741,8 @@
     "title": "Counter-Strike: Metizport vs Bushido Wildcats (BO3) - Exort Fiesta Playoffs",
     "outcome": "Metizport",
     "side": "BUY",
-    "whale_usd": 3747.1707,
-    "whale_pct": 17.825,
+    "whale_usd": 4647.0123,
+    "whale_pct": 22.105,
     "whale_value_at_open": 21022.0562,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -65753,8 +65753,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787913485.5390346,
-    "fills": 4
+    "last_fill_at": 1787913964.7176223,
+    "fills": 5
   },
   {
     "timestamp": 1787907824,
@@ -65911,8 +65911,8 @@
     "title": "Counter-Strike: Sinners vs Bushido Wildcats (BO3) - CCT Europe Series #7 Playoffs",
     "outcome": "Sinners",
     "side": "BUY",
-    "whale_usd": 1456.1399999999999,
-    "whale_pct": 4.537,
+    "whale_usd": 2879.4569999999994,
+    "whale_pct": 8.972,
     "whale_value_at_open": 32092.5529,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -65923,8 +65923,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787913066.780564,
-    "fills": 1
+    "last_fill_at": 1787913960.5755775,
+    "fills": 2
   },
   {
     "timestamp": 1787913270,
@@ -65949,5 +65949,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787913271.2655334,
     "fills": 1
+  },
+  {
+    "timestamp": 1787913974,
+    "timestamp_added": 1787913974.7294626,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-bro2-fox1-2026-08-28-game4",
+    "title": "LoL: HANJIN BRION vs BNK FEARX - Game 4 Winner",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 7585.766035000001,
+    "whale_pct": 3.31,
+    "whale_value_at_open": 229187.3666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787914027.6847973,
+    "fills": 5
   }
 ]
