@@ -64800,8 +64800,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -65454,8 +65454,8 @@
     "odds_at_bet": 96,
     "fee_usd": 0.01,
     "odds_ballena": 94,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.2,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
@@ -65996,6 +65996,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787914988.9707341,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787915034,
+    "timestamp_added": 1787915035.4048643,
+    "username": "ExplosiveNinja",
+    "wallet": "0x73e3fec494611d73c170cb2f23850fd998b21be9",
+    "slug": "cs2-run2-9ine-2026-08-28",
+    "title": "Counter-Strike: Rune Eaters vs 9INE (BO3) - Logitech G Play Connect Closed Qualifier Group B",
+    "outcome": "9INE",
+    "side": "BUY",
+    "whale_usd": 10715.999999999998,
+    "whale_pct": 40.925,
+    "whale_value_at_open": 26184.3826,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787915035.4048796,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.98919915165845,
+  "bankroll": 496.87928924174855,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13190,6 +13190,16 @@
       "timestamp": 1787914407.0292344,
       "bankroll": 494.99,
       "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Dragos Nicolae Madaras vs Radu David Turcanu"
+    },
+    {
+      "timestamp": 1787915105.3376927,
+      "bankroll": 496.68,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas (BO5) - LPL Knights Rivals"
+    },
+    {
+      "timestamp": 1787915107.6070654,
+      "bankroll": 496.88,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas (BO5) - LPL Knights Rivals"
     }
   ]
 }
