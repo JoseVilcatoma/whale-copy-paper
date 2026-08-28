@@ -66093,5 +66093,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787915552.2124906,
     "fills": 1
+  },
+  {
+    "timestamp": 1787916159,
+    "timestamp_added": 1787916160.4216774,
+    "username": "wr0ngw4yb3tt0r",
+    "wallet": "0x224a89dbe0db0d6124b335edabd15b3f877da3d5",
+    "slug": "elc-wre-bir-2026-08-28-total-2pt5",
+    "title": "Wrexham AFC vs. Birmingham City FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1681.4292,
+    "whale_pct": 2.113,
+    "whale_value_at_open": 79567.8138,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787916163.3941317,
+    "fills": 2
   }
 ]
