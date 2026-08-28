@@ -66957,5 +66957,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787941067.679038,
     "fills": 1
+  },
+  {
+    "timestamp": 1787941905,
+    "timestamp_added": 1787941906.2857828,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "irl1-dro-dun-2026-08-28-dun",
+    "title": "Will Dundalk FC win on 2026-08-28?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 694.9152539999999,
+    "whale_pct": 4.09,
+    "whale_value_at_open": 16992.187,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787941906.285796,
+    "fills": 1
   }
 ]
