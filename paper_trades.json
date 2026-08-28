@@ -66967,8 +66967,8 @@
     "title": "Will Dundalk FC win on 2026-08-28?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 694.9152539999999,
-    "whale_pct": 4.09,
+    "whale_usd": 1469.9054539999997,
+    "whale_pct": 8.65,
     "whale_value_at_open": 16992.187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -66979,7 +66979,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787941906.285796,
-    "fills": 1
+    "last_fill_at": 1787941979.4808714,
+    "fills": 2
   }
 ]
