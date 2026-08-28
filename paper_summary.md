@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 15:02:56 (hora de Perú)
+Actualizado: 2026-08-28 15:04:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $533.27
-**Retorno acumulado:** +6.65%
+**Bankroll actual:** $523.08
+**Retorno acumulado:** +4.62%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 15:02:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $373.27)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $373.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 72 | 25 | 2 | +72.12 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 72 | 26 | 1 | +67.01 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 4 | +39.06 USD |
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 23 | 10 | 1 | +28.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ChonkyChocolateCake | 41 | 24 | 1 | +24.24 USD |
+| ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | texaskid | 6 | 3 | 2 | +12.07 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2565
-- **Aciertos:** 1651 (64.4%)
+- **Apuestas resueltas:** 2567
+- **Aciertos:** 1651 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,812.59
-- **ROI sobre lo apostado:** -0.46%
-- **Comisiones pagadas (taker fee):** $233.55 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,822.59
+- **ROI sobre lo apostado:** -0.54%
+- **Comisiones pagadas (taker fee):** $233.75 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,8 +111,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1282 | 50.2% | 50.1% | +0.0 pp |
-| 60-79% | 754 | 70.8% | 67.8% | +3.1 pp |
+| 40-59% | 1283 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 755 | 70.7% | 67.8% | +3.0 pp |
 | 80-94% | 361 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 168 | 95.8% | 97.3% | -1.5 pp |
 
@@ -567,8 +567,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Team Vitality (BUY) | 44% | 5.00 | 4.4% | 💰 vendida anticipada | +1.08 |
 | wr0ngw4yb3tt0r | Will Manchester City FC win on 2026-08-2 | No (BUY) | 42% | 5.00 | 25.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Lille OSC vs. Paris Saint-Germain FC: O/ | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 57% | 5.00 | 32.7% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 64% | 5.00 | 71.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 57% | 5.00 | 32.7% | ❌ perdida | -5.11 |
+| DoNotTailMe | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 64% | 5.00 | 71.2% | ❌ perdida | -5.09 |
 | wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 157.5% | ⏳ pendiente | — |
 | casualbet2020 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Fnatic (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | texaskid | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 67% | 5.00 | 25.8% | ⏳ pendiente | — |
