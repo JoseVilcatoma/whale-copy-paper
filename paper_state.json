@@ -1,5 +1,5 @@
 {
-  "bankroll": 516.3686182951727,
+  "bankroll": 529.3207777310295,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13320,6 +13320,31 @@
       "timestamp": 1787938297.670113,
       "bankroll": 516.37,
       "event": "won: RN1 \u2014 US Open, Qualification ATP: Vilius Gaubas vs Harry Wendelken"
+    },
+    {
+      "timestamp": 1787938547.8532603,
+      "bankroll": 521.44,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Shifters vs Team Heretics - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787938547.953508,
+      "bankroll": 527.18,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Team Heretics - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787938548.1539094,
+      "bankroll": 522.07,
+      "event": "lost: DoNotTailMe \u2014 LoL: Shifters vs Team Heretics - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787938614.698918,
+      "bankroll": 527.8,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1787938616.2638428,
+      "bankroll": 529.32,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Team Heretics (BO3) - LEC Regular Season"
     }
   ]
 }

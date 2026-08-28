@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 12:34:58 (hora de Perú)
+Actualizado: 2026-08-28 12:37:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $516.37
-**Retorno acumulado:** +3.27%
+**Bankroll actual:** $529.32
+**Retorno acumulado:** +5.86%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 12:34:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $341.37)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $379.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,16 +21,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 68 | 25 | 2 | +67.31 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 66 | 25 | 4 | +60.06 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 4 | +39.06 USD |
+| TAIWANNUMBERONE | 15 | 7 | 0 | +36.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 22 | 9 | 3 | +29.80 USD |
-| ChonkyChocolateCake | 41 | 23 | 2 | +29.35 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| TAIWANNUMBERONE | 13 | 7 | 2 | +25.71 USD |
+| ChonkyChocolateCake | 41 | 24 | 1 | +24.24 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | texaskid | 6 | 3 | 1 | +12.07 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2557
-- **Aciertos:** 1645 (64.3%)
+- **Apuestas resueltas:** 2562
+- **Aciertos:** 1649 (64.4%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,772.59
-- **ROI sobre lo apostado:** -0.56%
-- **Comisiones pagadas (taker fee):** $232.71 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.26% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,797.59
+- **ROI sobre lo apostado:** -0.45%
+- **Comisiones pagadas (taker fee):** $233.28 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,8 +111,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1276 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 753 | 70.8% | 67.7% | +3.0 pp |
+| 40-59% | 1280 | 50.2% | 50.1% | +0.0 pp |
+| 60-79% | 754 | 70.8% | 67.8% | +3.1 pp |
 | 80-94% | 361 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 167 | 95.8% | 97.3% | -1.5 pp |
 
@@ -563,16 +563,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Will Real Racing Club win on 2026-08-28? | No (BUY) | 53% | 5.00 | 157.5% | ⏳ pendiente | — |
 | casualbet2020 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Fnatic (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | texaskid | Texas Rangers vs. Milwaukee Brewers | Milwaukee Brewers (BUY) | 67% | 5.00 | 25.8% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: Shifters vs Team Heretics - Game 2  | Team Heretics (BUY) | 55% | 5.00 | 35.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 76% | 5.00 | 12.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 46% | 5.00 | 54.6% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 49% | 5.00 | 1.2% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Shifters vs Team Heretics - Game 2  | Team Heretics (BUY) | 55% | 5.00 | 35.6% | ❌ perdida | -5.11 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 76% | 5.00 | 12.6% | ✅ ganada | +1.52 |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 46% | 5.00 | 54.6% | ✅ ganada | +5.73 |
+| TAIWANNUMBERONE | LoL: Shifters vs Team Heretics - Game 2  | Shifters (BUY) | 49% | 5.00 | 1.2% | ✅ ganada | +5.08 |
 | wr0ngw4yb3tt0r | Spread: Washington Mystics (-5.5) | Los Angeles Sparks (BUY) | 52% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Talvez10 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 93.1% | ⏳ pendiente | — |
 | casualbet2020 | Map Handicap: FURIA (-1.5) vs M80 (+1.5) | FURIA (BUY) | 54% | 5.00 | 44.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Paris Saint-Germain FC win on 2026- | No (BUY) | 43% | 5.00 | 1.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Fire Flux Espor | Fire Flux Esports (BUY) | 41% | 5.00 | 7.0% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 13.9% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 13.9% | ✅ ganada | +5.73 |
 | casualbet2020 | Counter-Strike: Natus Vincere vs paiN (B | Natus Vincere (BUY) | 82% | 5.00 | 56.8% | ✅ ganada | +1.05 |
 | wr0ngw4yb3tt0r | Spread: FC Bayern München (-2.5) | VfB Stuttgart (BUY) | 59% | 5.00 | 3.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
