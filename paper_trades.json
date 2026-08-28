@@ -65983,8 +65983,8 @@
     "title": "Map Handicap: TS (-1.5) vs G2 (+1.5)",
     "outcome": "Spirit",
     "side": "BUY",
-    "whale_usd": 636.3,
-    "whale_pct": 2.43,
+    "whale_usd": 2022.357931,
+    "whale_pct": 7.724,
     "whale_value_at_open": 26184.3826,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -65995,8 +65995,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787914988.9707341,
-    "fills": 1
+    "last_fill_at": 1787915477.4667745,
+    "fills": 3
   },
   {
     "timestamp": 1787915034,
@@ -66044,6 +66044,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787915247.010389,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787915424,
+    "timestamp_added": 1787915425.5763428,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-kc-cle-2026-08-28",
+    "title": "Kansas City Royals vs. Cleveland Guardians",
+    "outcome": "Cleveland Guardians",
+    "side": "BUY",
+    "whale_usd": 29906.8784,
+    "whale_pct": 79.862,
+    "whale_value_at_open": 37448.1354,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787915425.576362,
     "fills": 1
   }
 ]
