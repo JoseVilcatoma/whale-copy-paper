@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.9471244568139,
+  "bankroll": 522.6943876147086,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13405,6 +13405,11 @@
       "timestamp": 1787948122.239295,
       "bankroll": 519.95,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Fnatic - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787948936.3535845,
+      "bankroll": 522.69,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open, Qualification WTA: Elvina Kalieva vs Vendula Valdmannova (+2.75 USD)"
     }
   ]
 }

@@ -67046,13 +67046,15 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 2.75,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787944720.0284321,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.147,
+    "closed_price": 90
   },
   {
     "timestamp": 1787948250,
@@ -67161,8 +67163,8 @@
     "title": "Spread: Atlanta Dream (-12.5)",
     "outcome": "Portland Fire",
     "side": "BUY",
-    "whale_usd": 7713.189999,
-    "whale_pct": 2.585,
+    "whale_usd": 8974.620399,
+    "whale_pct": 3.007,
     "whale_value_at_open": 298430.5703,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -67173,7 +67175,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787948675.1938848,
-    "fills": 1
+    "last_fill_at": 1787948896.2077637,
+    "fills": 2
   }
 ]
