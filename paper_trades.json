@@ -67499,8 +67499,8 @@
     "title": "Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 17988.616400000003,
-    "whale_pct": 19.599,
+    "whale_usd": 19547.944400000004,
+    "whale_pct": 21.298,
     "whale_value_at_open": 91783.4852,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -67511,8 +67511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787957098.3127058,
-    "fills": 6
+    "last_fill_at": 1787957995.9427273,
+    "fills": 7
   },
   {
     "timestamp": 1787951698,
@@ -67643,8 +67643,8 @@
     "title": "Map Handicap: VIT (-1.5) vs 9z (+1.5)",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 4787.9976,
-    "whale_pct": 17.951,
+    "whale_usd": 7216.1979,
+    "whale_pct": 27.055,
     "whale_value_at_open": 26672.2495,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -67655,8 +67655,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787957104.5657432,
-    "fills": 2
+    "last_fill_at": 1787957997.7834177,
+    "fills": 3
   },
   {
     "timestamp": 1787956039,
@@ -67802,6 +67802,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787957551.5625176,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787957992,
+    "timestamp_added": 1787957992.8794575,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-elu1-zomb-2026-08-28",
+    "title": "Counter-Strike: Elusive vs Zomblers (BO3) - ESL Challenger League North America Cup #1 Playoffs",
+    "outcome": "Elusive",
+    "side": "BUY",
+    "whale_usd": 1074.5826,
+    "whale_pct": 1.864,
+    "whale_value_at_open": 57638.0901,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787957992.8794727,
     "fills": 1
   }
 ]
