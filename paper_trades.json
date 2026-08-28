@@ -66127,8 +66127,8 @@
     "title": "Texas Rangers vs. Milwaukee Brewers: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4838.4822,
-    "whale_pct": 7.002,
+    "whale_usd": 8298.3834,
+    "whale_pct": 12.008,
     "whale_value_at_open": 69104.9779,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -66139,8 +66139,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787916324.9659538,
-    "fills": 2
+    "last_fill_at": 1787918636.8833077,
+    "fills": 3
   },
   {
     "timestamp": 1787917172,
@@ -66168,5 +66168,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787917586.9617548,
     "fills": 16
+  },
+  {
+    "timestamp": 1787918649,
+    "timestamp_added": 1787918649.8216023,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-tex-mil-2026-08-28-total-8pt5",
+    "title": "Texas Rangers vs. Milwaukee Brewers: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2322.8084,
+    "whale_pct": 3.142,
+    "whale_value_at_open": 73917.1916,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787918649.8216164,
+    "fills": 1
   }
 ]
