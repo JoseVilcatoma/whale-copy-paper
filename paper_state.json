@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.6003312837906,
+  "bankroll": 497.4623312837906,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13165,6 +13165,11 @@
       "timestamp": 1787912376.0891361,
       "bankroll": 502.6,
       "event": "lost: DoNotTailMe \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787912575.0885384,
+      "bankroll": 497.46,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Aurora Gaming vs DENDELE CS - Map 1 Winner"
     }
   ]
 }
