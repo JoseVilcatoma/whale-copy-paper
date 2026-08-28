@@ -1,5 +1,5 @@
 {
-  "bankroll": 486.9435471188538,
+  "bankroll": 487.24769605502405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -12935,6 +12935,11 @@
       "timestamp": 1787877507.0871596,
       "bankroll": 486.94,
       "event": "won: RN1 \u2014 Winston-Salem Open: Juan Manuel Cerundolo vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1787878139.341386,
+      "bankroll": 487.25,
+      "event": "won: OOOwhyOOO \u2014 Kingston 2: Andrew Fenty vs Luis Guto Miguel"
     }
   ]
 }

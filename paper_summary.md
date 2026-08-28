@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 19:48:02 (hora de Perú)
+Actualizado: 2026-08-27 19:50:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $486.94
-**Retorno acumulado:** -2.61%
+**Bankroll actual:** $487.25
+**Retorno acumulado:** -2.55%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 19:48:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $351.94)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $357.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 4 | 2 | 0 | +6.73 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| HVAB | 14 | 7 | 2 | +5.81 USD |
+| HVAB | 15 | 7 | 1 | +6.11 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
@@ -94,13 +94,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2482
-- **Aciertos:** 1598 (64.4%)
-- **Cuota promedio de entrada:** 63.7%
+- **Apuestas resueltas:** 2483
+- **Aciertos:** 1599 (64.4%)
+- **Cuota promedio de entrada:** 63.8%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,397.59
+- **Total apostado (suma de stakes):** $12,402.59
 - **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $224.80 (1.81% del capital apostado)
+- **Comisiones pagadas (taker fee):** $224.82 (1.81% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1224 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 737 | 70.4% | 67.8% | +2.7 pp |
-| 80-94% | 357 | 86.8% | 86.8% | +0.1 pp |
+| 80-94% | 358 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -544,7 +544,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Fabian Marozsan vs J | Fabian Marozsan (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
-| OOOwhyOOO | Kingston 2: Andrew Fenty vs Luis Guto Mi | Luis Guto Miguel (BUY) | 94% | 5.00 | 3.7% | ⏳ pendiente | — |
+| OOOwhyOOO | Kingston 2: Andrew Fenty vs Luis Guto Mi | Luis Guto Miguel (BUY) | 94% | 5.00 | 3.7% | ✅ ganada | +0.30 |
 | RN1 | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 73% | 5.00 | 4.7% | ✅ ganada | +1.78 |
 | RN1 | Steelers vs. Bills: O/U 41.5 | Over (BUY) | 59% | 5.00 | 2.3% | ⏳ pendiente | — |
 | OOOwhyOOO | Winston-Salem Open: Juan Manuel Cerundol | Ignacio Buse (BUY) | 51% | 5.00 | 18.9% | ✅ ganada | +4.68 |
