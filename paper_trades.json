@@ -67499,8 +67499,8 @@
     "title": "Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 2325.495,
-    "whale_pct": 2.534,
+    "whale_usd": 5122.135,
+    "whale_pct": 5.581,
     "whale_value_at_open": 91783.4852,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -67511,8 +67511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787951687.9988508,
-    "fills": 1
+    "last_fill_at": 1787952591.8216112,
+    "fills": 2
   },
   {
     "timestamp": 1787951698,
@@ -67523,8 +67523,8 @@
     "title": "Counter-Strike: Vitality vs 9z - Map 2 Winner",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 883.4399999999999,
-    "whale_pct": 0.963,
+    "whale_usd": 2021.9015379999996,
+    "whale_pct": 2.203,
     "whale_value_at_open": 91783.4852,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -67535,8 +67535,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787951699.3814573,
-    "fills": 1
+    "last_fill_at": 1787952659.3902364,
+    "fills": 2
   },
   {
     "timestamp": 1787951703,
@@ -67608,6 +67608,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787952474.7726047,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787952599,
+    "timestamp_added": 1787952600.1473026,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-vit-9z-2026-08-29-game1",
+    "title": "Counter-Strike: Vitality vs 9z - Map 1 Winner",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 2248.8335999999995,
+    "whale_pct": 2.26,
+    "whale_value_at_open": 99497.4569,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787952600.1473196,
     "fills": 1
   }
 ]
