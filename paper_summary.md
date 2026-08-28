@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 09:13:07 (hora de Perú)
+Actualizado: 2026-08-28 09:15:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.63
@@ -550,7 +550,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| wr0ngw4yb3tt0r | Will Paris Saint-Germain FC win on 2026- | No (BUY) | 43% | 5.00 | 0.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Will Paris Saint-Germain FC win on 2026- | No (BUY) | 43% | 5.00 | 1.6% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Team Liquid vs Fire Flux Espor | Fire Flux Esports (BUY) | 41% | 5.00 | 7.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |
 | casualbet2020 | Counter-Strike: Natus Vincere vs paiN (B | Natus Vincere (BUY) | 82% | 5.00 | 56.8% | ⏳ pendiente | — |
