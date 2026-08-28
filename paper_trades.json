@@ -66967,8 +66967,8 @@
     "title": "Will Dundalk FC win on 2026-08-28?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2499.0054539999996,
-    "whale_pct": 14.707,
+    "whale_usd": 12639.005654,
+    "whale_pct": 74.381,
     "whale_value_at_open": 16992.187,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -66979,8 +66979,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787942414.9801257,
-    "fills": 3
+    "last_fill_at": 1787943417.0217552,
+    "fills": 7
   },
   {
     "timestamp": 1787942389,
@@ -67004,6 +67004,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787942389.670003,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787943322,
+    "timestamp_added": 1787943323.2620802,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "itf-sanch-ansari-2026-08-28",
+    "title": "ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Ana Sofia Sanchez vs Carolyn Ansari",
+    "outcome": "Ana Sofia Sanchez",
+    "side": "BUY",
+    "whale_usd": 1934.2759999999998,
+    "whale_pct": 19.947,
+    "whale_value_at_open": 9696.8695,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787943323.2620919,
     "fills": 1
   }
 ]
