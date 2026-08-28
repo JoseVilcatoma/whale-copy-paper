@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 08:54:11 (hora de Perú)
+Actualizado: 2026-08-28 08:56:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.63
@@ -560,7 +560,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | HANJIN BRION (BUY) | 56% | 5.00 | 32.5% | ❌ perdida | -5.11 |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers: O/U | Over (BUY) | 52% | 5.00 | 12.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Birmingham City FC: O/U  | Over (BUY) | 45% | 5.00 | 2.1% | ⏳ pendiente | — |
-| SDTrading | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 61% | 5.00 | 2.9% | ⏳ pendiente | — |
+| SDTrading | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 61% | 5.00 | 5.9% | ⏳ pendiente | — |
 | SDTrading | Kansas City Royals vs. Cleveland Guardia | Cleveland Guardians (BUY) | 57% | 5.00 | 79.9% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: G2 vs Spirit (BO3) - BLA | Spirit (BUY) | 71% | 5.00 | 8.3% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Rune Eaters vs 9INE (BO3 | 9INE (BUY) | 58% | 5.00 | 48.7% | ⏳ pendiente | — |
