@@ -65659,5 +65659,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787906697.205941,
     "fills": 1
+  },
+  {
+    "timestamp": 1787906834,
+    "timestamp_added": 1787906834.9611447,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-miron-amariei-2026-08-28",
+    "title": "ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Teodora Miron vs Ilinca Dalina Amariei",
+    "outcome": "Ilinca Dalina Amariei",
+    "side": "BUY",
+    "whale_usd": 622.1999999999999,
+    "whale_pct": 0.624,
+    "whale_value_at_open": 99722.7602,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787906834.9611592,
+    "fills": 1
   }
 ]
