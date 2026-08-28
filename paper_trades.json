@@ -65861,8 +65861,8 @@
     "title": "LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner",
     "outcome": "HANJIN BRION",
     "side": "BUY",
-    "whale_usd": 1040.0,
-    "whale_pct": 3.101,
+    "whale_usd": 10400.0,
+    "whale_pct": 31.011,
     "whale_value_at_open": 33536.4211,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -65873,7 +65873,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787910817.7479868,
-    "fills": 1
+    "last_fill_at": 1787910846.8303325,
+    "fills": 3
+  },
+  {
+    "timestamp": 1787910904,
+    "timestamp_added": 1787910904.5601456,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-bro2-fox1-2026-08-28-game3",
+    "title": "LoL: HANJIN BRION vs BNK FEARX - Game 3 Winner",
+    "outcome": "HANJIN BRION",
+    "side": "BUY",
+    "whale_usd": 13926.192000000001,
+    "whale_pct": 7.81,
+    "whale_value_at_open": 178316.0292,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "DoNotTailMe"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787910916.1205943,
+    "fills": 5
   }
 ]

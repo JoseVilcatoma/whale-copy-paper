@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 04:53:47 (hora de Perú)
+Actualizado: 2026-08-28 04:55:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.34
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 04:53:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $336.34)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $331.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 61 | 23 | 4 | +56.03 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 61 | 23 | 5 | +56.03 USD |
 | BOOMBOYS.Kiritych | 34 | 17 | 3 | +54.65 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
@@ -544,12 +544,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-edg-nip-2026-08-28-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, SPCEXBUYER |
 | lol-edg-nip-2026-08-28-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, SPCEXBUYER |
 | lol-bro2-fox1-2026-08-28-game1 | DoNotTailMe, SPCEXBUYER |
+| lol-bro2-fox1-2026-08-28-game3 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 53% | 5.00 | 3.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 57% | 5.00 | 7.8% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: HANJIN BRION vs BNK FEARX - Game 3  | HANJIN BRION (BUY) | 53% | 5.00 | 31.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Aurora Gaming vs DENDELE | DENDELE CS (BUY) | 45% | 5.00 | 69.8% | ⏳ pendiente | — |
 | RN1 | Will Stade Lavallois Mayenne FC vs. Gren | No (BUY) | 69% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX - Game 2  | BNK FEARX (BUY) | 55% | 5.00 | 12.6% | ⏳ pendiente | — |
@@ -578,4 +580,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 2033.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 99% | 5.00 | 3.7% | ✅ ganada | +0.05 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 15.9% | 💰 vendida anticipada | +0.56 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 73.8% | 💰 vendida anticipada | +0.59 |
