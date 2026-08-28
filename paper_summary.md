@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 09:06:52 (hora de Perú)
+Actualizado: 2026-08-28 09:08:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.63
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 09:06:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $381.63)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $376.63)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | ChonkyChocolateCake | 41 | 23 | 0 | +29.35 USD |
-| casualbet2020 | 21 | 9 | 1 | +28.75 USD |
+| casualbet2020 | 21 | 9 | 2 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | TAIWANNUMBERONE | 13 | 7 | 1 | +25.71 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
@@ -550,6 +550,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| casualbet2020 | Valorant: Team Liquid vs Fire Flux Espor | Fire Flux Esports (BUY) | 41% | 5.00 | 7.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 1.5% | ⏳ pendiente | — |
 | casualbet2020 | Counter-Strike: Natus Vincere vs paiN (B | Natus Vincere (BUY) | 82% | 5.00 | 56.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: FC Bayern München (-2.5) | VfB Stuttgart (BUY) | 59% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -579,4 +580,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 74% | 5.00 | 5.3% | ✅ ganada | +1.69 |
 | ExplosiveNinja | Counter-Strike: Metizport vs Bushido Wil | Metizport (BUY) | 64% | 5.00 | 22.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 87% | 5.00 | 2.5% | ❌ perdida | -5.03 |
-| RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Teodora Miron (BUY) | 53% | 5.00 | 0.5% | ❌ perdida | -5.12 |
