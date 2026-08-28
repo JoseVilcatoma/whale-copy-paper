@@ -64919,8 +64919,8 @@
     "title": "Rams vs. Chargers",
     "outcome": "Chargers",
     "side": "BUY",
-    "whale_usd": 1103.8408,
-    "whale_pct": 0.286,
+    "whale_usd": 5543.8408,
+    "whale_pct": 1.438,
     "whale_value_at_open": 385499.467,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -64931,8 +64931,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787885333.975,
-    "fills": 1
+    "last_fill_at": 1787892130.6509547,
+    "fills": 2
   },
   {
     "timestamp": 1787885412,
@@ -65026,8 +65026,8 @@
     "title": "Rams vs. Chargers",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 72726.8241,
-    "whale_pct": 24.432,
+    "whale_usd": 91059.0177,
+    "whale_pct": 30.591,
     "whale_value_at_open": 297666.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -65038,8 +65038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787892023.9871964,
-    "fills": 12
+    "last_fill_at": 1787892050.9185836,
+    "fills": 13
   },
   {
     "timestamp": 1787891126,
