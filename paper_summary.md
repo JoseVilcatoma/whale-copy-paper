@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 18:31:19 (hora de Perú)
+Actualizado: 2026-08-28 18:33:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.28
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 18:31:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $314.28)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $309.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | casualbet2020 | 23 | 11 | 1 | +23.65 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| texaskid | 7 | 3 | 1 | +16.39 USD |
+| texaskid | 7 | 3 | 2 | +16.39 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
@@ -557,6 +557,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 10.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ⏳ pendiente | — |
 | kekasaur | Will Clube Náutico Capibaribe win on 202 | Yes (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Elusive vs Zomblers (BO3 | Elusive (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -586,4 +587,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
 | OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Nauhany Vitoria Leme Da Silva (BUY) | 64% | 5.00 | 22.3% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs: O/U 12 | Under (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Portland Fire (BUY) | 48% | 5.00 | 3.0% | ⏳ pendiente | — |
