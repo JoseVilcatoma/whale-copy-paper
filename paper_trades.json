@@ -66226,8 +66226,8 @@
     "title": "Pittsburgh Pirates vs. St. Louis Cardinals: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5463.8937,
-    "whale_pct": 68.118,
+    "whale_usd": 6234.8937,
+    "whale_pct": 77.73,
     "whale_value_at_open": 8021.237,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -66238,7 +66238,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787921265.441975,
-    "fills": 1
+    "last_fill_at": 1787923445.7950308,
+    "fills": 2
   }
 ]
