@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 19:41:57 (hora de Perú)
+Actualizado: 2026-08-27 19:43:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $486.94
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 19:41:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $356.94)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $351.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 39 | 22 | 0 | +25.08 USD |
 | casualbet2020 | 20 | 9 | 1 | +24.43 USD |
-| texaskid | 6 | 1 | 1 | +22.32 USD |
+| texaskid | 6 | 1 | 2 | +22.32 USD |
 | plonker2026 | 8 | 5 | 0 | +18.29 USD |
 | TAIWANNUMBERONE | 9 | 6 | 2 | +15.92 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -540,6 +540,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 48% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 68% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Winston-Salem Open: Fabian Marozsan vs J | Fabian Marozsan (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -569,4 +570,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Djdjdjekekek | Counter-Strike: Team Falcons vs Lynn Vis | Lynn Vision (BUY) | 51% | 5.00 | 14.5% | 💰 vendida anticipada | +4.68 |
 | DoNotTailMe | LoL: Karmine Corp Blue vs Skillcamp Espo | Skillcamp Esport (BUY) | 56% | 5.00 | 15.8% | ❌ perdida | -5.11 |
 | plonker2026 | Will Trabzonspor win on 2026-08-27? | No (BUY) | 55% | 5.00 | 1.4% | ✅ ganada | +3.98 |
-| plonker2026 | Spread: Brighton & Hove Albion FC (-2.5) | Brighton & Hove Albion FC (BUY) | 47% | 5.00 | 1.1% | ✅ ganada | +5.51 |

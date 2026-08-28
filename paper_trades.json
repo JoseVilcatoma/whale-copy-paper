@@ -64711,5 +64711,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787874582.0893667,
     "fills": 1
+  },
+  {
+    "timestamp": 1787877827,
+    "timestamp_added": 1787877828.044921,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-ari-sf-2026-08-27-total-8pt5",
+    "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1107.931,
+    "whale_pct": 2.171,
+    "whale_value_at_open": 51041.8119,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787877828.04493,
+    "fills": 1
   }
 ]
