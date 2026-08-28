@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.52224724983296,
+  "bankroll": 494.244747249833,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13500,6 +13500,11 @@
       "timestamp": 1787954899.5773075,
       "bankroll": 491.52,
       "event": "lost: plonker2026 \u2014 Spread: FC Groningen (-1.5)"
+    },
+    {
+      "timestamp": 1787956811.8724768,
+      "bankroll": 494.24,
+      "event": "won: OOOwhyOOO \u2014 ITF WOMEN - SINGLES: W35 Barueri (Brazil), hard: Victoria Luiza Barros vs Nauhany Vitoria Leme Da Silva"
     }
   ]
 }

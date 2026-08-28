@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 17:39:49 (hora de Perú)
+Actualizado: 2026-08-28 17:41:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.52
-**Retorno acumulado:** -1.70%
+**Bankroll actual:** $494.24
+**Retorno acumulado:** -1.15%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 17:39:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $301.52)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $309.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,8 +32,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 23 | 11 | 0 | +23.65 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | texaskid | 7 | 3 | 1 | +16.39 USD |
+| HVAB | 19 | 7 | 0 | +14.83 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| HVAB | 18 | 7 | 1 | +12.11 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2588
-- **Aciertos:** 1660 (64.1%)
+- **Apuestas resueltas:** 2589
+- **Aciertos:** 1661 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,927.59
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $235.92 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,932.59
+- **ROI sobre lo apostado:** -0.78%
+- **Comisiones pagadas (taker fee):** $236.01 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -112,7 +112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1295 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 762 | 70.5% | 67.8% | +2.7 pp |
+| 60-79% | 763 | 70.5% | 67.7% | +2.8 pp |
 | 80-94% | 362 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
 
@@ -580,7 +580,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays: O/U | Under (BUY) | 52% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
-| OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Nauhany Vitoria Leme Da Silva (BUY) | 64% | 5.00 | 22.3% | ⏳ pendiente | — |
+| OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Nauhany Vitoria Leme Da Silva (BUY) | 64% | 5.00 | 22.3% | ✅ ganada | +2.72 |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs: O/U 12 | Under (BUY) | 51% | 5.00 | 0.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Spread: Atlanta Dream (-12.5) | Portland Fire (BUY) | 48% | 5.00 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 28.7% | ⏳ pendiente | — |
