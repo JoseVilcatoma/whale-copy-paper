@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 05:18:38 (hora de Perú)
+Actualizado: 2026-08-28 05:20:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $502.40
-**Retorno acumulado:** +0.48%
+**Bankroll actual:** $502.60
+**Retorno acumulado:** +0.52%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 05:18:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $347.40)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $362.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,16 +21,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 61 | 23 | 5 | +56.03 USD |
-| BOOMBOYS.Kiritych | 34 | 17 | 3 | +54.65 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 62 | 23 | 4 | +58.64 USD |
+| BOOMBOYS.Kiritych | 35 | 17 | 2 | +57.37 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 21 | 9 | 0 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ChonkyChocolateCake | 39 | 22 | 3 | +25.08 USD |
 | TAIWANNUMBERONE | 11 | 7 | 2 | +20.20 USD |
+| ChonkyChocolateCake | 39 | 23 | 2 | +19.95 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | texaskid | 6 | 3 | 0 | +12.07 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2523
-- **Aciertos:** 1623 (64.3%)
+- **Apuestas resueltas:** 2526
+- **Aciertos:** 1625 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,602.59
-- **ROI sobre lo apostado:** -0.68%
-- **Comisiones pagadas (taker fee):** $229.37 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,617.59
+- **ROI sobre lo apostado:** -0.67%
+- **Comisiones pagadas (taker fee):** $229.67 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,8 +111,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1256 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 743 | 70.7% | 67.7% | +2.9 pp |
+| 40-59% | 1257 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 745 | 70.7% | 67.7% | +3.0 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 165 | 95.8% | 97.4% | -1.6 pp |
 
@@ -574,9 +574,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M15 Cap d'Agde (Franc | Kenny De Schepper (BUY) | 74% | 5.00 | 1.1% | ✅ ganada | +1.69 |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Tianjin 4 (Chin | Vaishnavi Adkar (BUY) | 54% | 5.00 | 1.1% | ✅ ganada | +4.14 |
-| DoNotTailMe | LoL: EDward Gaming vs Ninjas in Pyjamas  | EDward Gaming (BUY) | 49% | 5.00 | 25.8% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: EDward Gaming vs Ninjas in Pyjamas  | EDward Gaming (BUY) | 49% | 5.00 | 25.8% | ❌ perdida | -5.13 |
 | wr0ngw4yb3tt0r | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 83% | 5.00 | 2.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 65% | 5.00 | 16.8% | ⏳ pendiente | — |
-| SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 2033.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 65% | 5.00 | 16.8% | ✅ ganada | +2.61 |
+| SPCEXBUYER | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 64% | 5.00 | 2033.9% | ✅ ganada | +2.72 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 99% | 5.00 | 3.7% | ✅ ganada | +0.05 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 15.9% | 💰 vendida anticipada | +0.56 |

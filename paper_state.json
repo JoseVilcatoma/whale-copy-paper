@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.40052359148285,
+  "bankroll": 502.6003312837906,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13150,6 +13150,21 @@
       "timestamp": 1787912125.6908438,
       "bankroll": 502.4,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentini Grammatikopoulou vs Angella Okutoyi"
+    },
+    {
+      "timestamp": 1787912375.7887433,
+      "bankroll": 505.12,
+      "event": "won: SPCEXBUYER \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787912375.8888597,
+      "bankroll": 507.73,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 2 Winner"
+    },
+    {
+      "timestamp": 1787912376.0891361,
+      "bankroll": 502.6,
+      "event": "lost: DoNotTailMe \u2014 LoL: EDward Gaming vs Ninjas in Pyjamas - Game 2 Winner"
     }
   ]
 }
