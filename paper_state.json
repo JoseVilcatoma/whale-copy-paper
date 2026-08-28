@@ -1,5 +1,5 @@
 {
-  "bankroll": 509.99736559023967,
+  "bankroll": 514.7138563904108,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13300,6 +13300,16 @@
       "timestamp": 1787928706.868882,
       "bankroll": 510.0,
       "event": "lost: ExplosiveNinja \u2014 Counter-Strike: Metizport vs Bushido Wildcats (BO3) - Exort Fiesta Playoffs"
+    },
+    {
+      "timestamp": 1787936745.7182498,
+      "bankroll": 513.66,
+      "event": "won: AV23IUa \u2014 Map Handicap: NAVI (-1.5) vs paiN (+1.5)"
+    },
+    {
+      "timestamp": 1787936746.6134086,
+      "bankroll": 514.71,
+      "event": "won: casualbet2020 \u2014 Counter-Strike: Natus Vincere vs paiN (BO3) - BLAST Open Porto Group A"
     }
   ]
 }
