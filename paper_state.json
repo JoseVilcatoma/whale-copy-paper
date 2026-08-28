@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.6389525889537,
+  "bankroll": 494.5189525889537,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13015,6 +13015,11 @@
       "timestamp": 1787883476.3177524,
       "bankroll": 499.64,
       "event": "lost: RN1 \u2014 Steelers vs. Bills"
+    },
+    {
+      "timestamp": 1787883785.9055426,
+      "bankroll": 494.52,
+      "event": "lost: texaskid \u2014 Spread: Milwaukee Brewers (-1.5)"
     }
   ]
 }

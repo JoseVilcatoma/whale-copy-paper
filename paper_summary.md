@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 21:22:12 (hora de Perú)
+Actualizado: 2026-08-27 21:24:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $499.64
-**Retorno acumulado:** -0.07%
+**Bankroll actual:** $494.52
+**Retorno acumulado:** -1.10%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 21:22:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $429.64)
+**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $429.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,9 +30,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 21 | 9 | 0 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 39 | 22 | 0 | +25.08 USD |
-| texaskid | 6 | 1 | 2 | +22.32 USD |
 | TAIWANNUMBERONE | 10 | 6 | 2 | +20.24 USD |
 | plonker2026 | 8 | 5 | 0 | +18.29 USD |
+| texaskid | 6 | 2 | 1 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 16 | 7 | 0 | +9.21 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2498
+- **Apuestas resueltas:** 2499
 - **Aciertos:** 1609 (64.4%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,477.59
-- **ROI sobre lo apostado:** -0.69%
-- **Comisiones pagadas (taker fee):** $226.47 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,482.59
+- **ROI sobre lo apostado:** -0.74%
+- **Comisiones pagadas (taker fee):** $226.59 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1235 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1236 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 740 | 70.5% | 67.7% | +2.8 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
@@ -558,7 +558,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Los Angeles Dodgers vs. Atlanta Braves:  | Over (BUY) | 55% | 5.00 | 0.8% | ❌ perdida | -5.11 |
 | RN1 | Monterrey Open: Darja Vidmanova vs Nikol | Nikola Bartunkova (BUY) | 85% | 5.00 | 7.3% | ✅ ganada | +0.84 |
 | RN1 | Steelers vs. Bills | Steelers (BUY) | 57% | 5.00 | 2.0% | ❌ perdida | -5.11 |
-| texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ⏳ pendiente | — |
+| texaskid | Spread: Milwaukee Brewers (-1.5) | New York Mets (BUY) | 52% | 5.00 | 3.4% | ❌ perdida | -5.12 |
 | TAIWANNUMBERONE | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | BNK FEARX (BUY) | 56% | 5.00 | 7.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 575.2% | ✅ ganada | +4.32 |
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 151.4% | ❌ perdida | -5.13 |
