@@ -1,5 +1,5 @@
 {
-  "bankroll": 520.7652589697686,
+  "bankroll": 522.1501659465129,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13430,6 +13430,16 @@
       "timestamp": 1787951375.9081843,
       "bankroll": 520.77,
       "event": "won: ferrariChampions2026 \u2014 US Open, Qualification WTA: Elvina Kalieva vs Vendula Valdmannova"
+    },
+    {
+      "timestamp": 1787951557.4053524,
+      "bankroll": 515.67,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Spread: AC Milan (-1.5)"
+    },
+    {
+      "timestamp": 1787951558.8947566,
+      "bankroll": 522.15,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Will Paris Saint-Germain FC win on 2026-08-28?"
     }
   ]
 }
