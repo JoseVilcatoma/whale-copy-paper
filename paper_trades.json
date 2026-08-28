@@ -66606,5 +66606,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787932968.18903,
     "fills": 1
+  },
+  {
+    "timestamp": 1787933331,
+    "timestamp_added": 1787933331.646449,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-shft-th-2026-08-28-game2",
+    "title": "LoL: Shifters vs Team Heretics - Game 2 Winner",
+    "outcome": "Team Heretics",
+    "side": "BUY",
+    "whale_usd": 5338.3751999999995,
+    "whale_pct": 35.607,
+    "whale_value_at_open": 14992.4986,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787933331.6464696,
+    "fills": 1
   }
 ]
