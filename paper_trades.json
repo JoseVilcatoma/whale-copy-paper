@@ -67899,5 +67899,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787959931.2605135,
     "fills": 2
+  },
+  {
+    "timestamp": 1787960052,
+    "timestamp_added": 1787960053.1485822,
+    "username": "kekasaur",
+    "wallet": "0xf5f92940519a72da460b1c2a606bc1230f0e87b0",
+    "slug": "arg-boc-lan-2026-08-29-total-2pt5",
+    "title": "CA Boca Juniors vs. CA Lan\u00fas: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1391.3124,
+    "whale_pct": 1.913,
+    "whale_value_at_open": 72716.0236,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787960053.1485941,
+    "fills": 1
   }
 ]
