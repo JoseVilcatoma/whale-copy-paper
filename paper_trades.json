@@ -67053,5 +67053,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787944720.0284321,
     "fills": 1
+  },
+  {
+    "timestamp": 1787948250,
+    "timestamp_added": 1787948251.361504,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-bartunk-mertens-2026-08-28",
+    "title": "Monterrey Open: Nikola Bartunkova vs Elise Mertens",
+    "outcome": "Elise Mertens",
+    "side": "BUY",
+    "whale_usd": 2281.2791999999995,
+    "whale_pct": 0.735,
+    "whale_value_at_open": 310312.4701,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787948251.3615189,
+    "fills": 1
   }
 ]

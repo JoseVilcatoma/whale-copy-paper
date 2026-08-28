@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 15:17:30 (hora de Perú)
+Actualizado: 2026-08-28 15:19:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $519.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 15:17:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $384.95)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $379.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,7 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 388 | 185 | 1 | -35.83 USD |
-| ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
+| ferrariChampions2026 | 300 | 184 | 1 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -555,6 +555,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Monterrey Open: Nikola Bartunkova vs Eli | Elise Mertens (BUY) | 59% | 5.00 | 0.7% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open, Qualification WTA: Elvina Kalie | Elvina Kalieva (BUY) | 57% | 5.00 | 141.8% | ⏳ pendiente | — |
 | OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Ana Sofia Sanchez (BUY) | 97% | 5.00 | 19.9% | ✅ ganada | +0.15 |
 | kekasaur | Spread: Sporting CP (-1.5) | Rio Ave FC (BUY) | 53% | 5.00 | 118.2% | ⏳ pendiente | — |
@@ -584,4 +585,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 13.9% | ✅ ganada | +5.73 |
 | casualbet2020 | Counter-Strike: Natus Vincere vs paiN (B | Natus Vincere (BUY) | 82% | 5.00 | 56.8% | ✅ ganada | +1.05 |
 | wr0ngw4yb3tt0r | Spread: FC Bayern München (-2.5) | VfB Stuttgart (BUY) | 59% | 5.00 | 32.2% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
