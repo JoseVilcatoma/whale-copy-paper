@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 13:15:55 (hora de Perú)
+Actualizado: 2026-08-28 13:17:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $534.13
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 13:15:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $384.13)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $379.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 41 | 24 | 1 | +24.24 USD |
 | plonker2026 | 8 | 5 | 2 | +18.29 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| texaskid | 6 | 3 | 1 | +12.07 USD |
+| texaskid | 6 | 3 | 2 | +12.07 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 16 | 7 | 0 | +9.21 USD |
@@ -555,6 +555,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 53% | 5.00 | 4.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 2 Wi | Team Vitality (BUY) | 99% | 5.00 | 22.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 2 Wi | Team Vitality (BUY) | 97% | 5.00 | 10.6% | 💰 vendida anticipada | +0.04 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 2 Wi | Team Vitality (BUY) | 94% | 5.00 | 19.2% | 💰 vendida anticipada | +0.03 |
@@ -584,4 +585,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Connecticut Sun vs. Indiana Fever: O/U 1 | Over (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
 | pleaseplease123 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 46% | 5.00 | 6.6% | ⏳ pendiente | — |
 | pleaseplease123 | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 51% | 5.00 | 113.9% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Spread: AC Milan (-1.5) | Venezia FC (BUY) | 60% | 5.00 | 23.4% | ⏳ pendiente | — |

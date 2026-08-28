@@ -66933,5 +66933,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787940758.8570387,
     "fills": 1
+  },
+  {
+    "timestamp": 1787941066,
+    "timestamp_added": 1787941067.6790233,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-cin-chc-2026-08-28-total-8pt5",
+    "title": "Cincinnati Reds vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3298.8436,
+    "whale_pct": 4.524,
+    "whale_value_at_open": 72926.2224,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787941067.679038,
+    "fills": 1
   }
 ]
