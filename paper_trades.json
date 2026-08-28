@@ -65050,8 +65050,8 @@
     "title": "Spread: Manchester City FC (-1.5)",
     "outcome": "Crystal Palace FC",
     "side": "BUY",
-    "whale_usd": 3704.1320640000004,
-    "whale_pct": 1.41,
+    "whale_usd": 6014.125464000001,
+    "whale_pct": 2.289,
     "whale_value_at_open": 262767.2604,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -65062,8 +65062,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787928465.604525,
-    "fills": 3
+    "last_fill_at": 1787935393.3644664,
+    "fills": 4
   },
   {
     "timestamp": 1787892373,
