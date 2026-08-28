@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.278773875537,
+  "bankroll": 506.0385357802989,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13525,6 +13525,11 @@
       "timestamp": 1787959674.205968,
       "bankroll": 499.28,
       "event": "won: ferrariChampions2026 \u2014 Winston-Salem Open: Ignacio Buse vs Benjamin Bonzi"
+    },
+    {
+      "timestamp": 1787960551.5936236,
+      "bankroll": 506.04,
+      "event": "won: kekasaur \u2014 Will Dundalk FC win on 2026-08-28?"
     }
   ]
 }
