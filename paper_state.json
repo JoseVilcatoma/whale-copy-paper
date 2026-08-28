@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.075365885182,
+  "bankroll": 519.9471244568139,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13390,6 +13390,21 @@
       "timestamp": 1787947415.5081022,
       "bankroll": 523.08,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Fnatic - Game 1 Winner"
+    },
+    {
+      "timestamp": 1787948116.7863288,
+      "bankroll": 525.04,
+      "event": "won: ExplosiveNinja \u2014 Counter-Strike: Sinners vs Bushido Wildcats (BO3) - CCT Europe Series #7 Playoffs"
+    },
+    {
+      "timestamp": 1787948121.613077,
+      "bankroll": 519.9,
+      "event": "lost: casualbet2020 \u2014 LoL: Team Vitality vs Fnatic (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1787948122.239295,
+      "bankroll": 519.95,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Vitality vs Fnatic - Game 2 Winner"
     }
   ]
 }
