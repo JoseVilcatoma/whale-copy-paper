@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 22:07:05 (hora de Perú)
+Actualizado: 2026-08-27 22:09:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $494.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 22:07:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $394.52)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $389.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 21 | 9 | 0 | +28.75 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 39 | 22 | 0 | +25.08 USD |
-| TAIWANNUMBERONE | 10 | 6 | 3 | +20.24 USD |
+| TAIWANNUMBERONE | 10 | 6 | 4 | +20.24 USD |
 | plonker2026 | 8 | 5 | 0 | +18.29 USD |
 | texaskid | 6 | 2 | 1 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -544,6 +544,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 26.3% | ⏳ pendiente | — |
 | ethanaz | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 46% | 5.00 | 1212.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 48.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chargers | Chargers (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -573,4 +574,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Los Angeles Dodgers vs. Atlanta Braves | Los Angeles Dodgers (BUY) | 49% | 5.00 | 151.4% | ❌ perdida | -5.13 |
 | Djdjdjekekek | Valorant: LOUD vs FURIA Esports - Map 1  | FURIA Esports (BUY) | 46% | 5.00 | 38.2% | ❌ perdida | -5.13 |
 | Talvez10 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 2849.2% | ✅ ganada | +4.32 |
-| casualbet2020 | Los Angeles Dodgers vs. Atlanta Braves | Atlanta Braves (BUY) | 53% | 5.00 | 639.0% | ✅ ganada | +4.32 |
