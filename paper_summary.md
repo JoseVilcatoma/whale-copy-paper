@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 22:43:50 (hora de Perú)
+Actualizado: 2026-08-27 22:45:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.52
-**Retorno acumulado:** -1.10%
+**Bankroll actual:** $490.74
+**Retorno acumulado:** -1.85%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 22:43:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $384.52)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $395.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,7 +60,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | ethanaz | 0 | 0 | 2 | +0.00 USD |
-| ethBELIVER | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -78,9 +77,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| ethBELIVER | 0 | 1 | 1 | -5.12 USD |
 | quavoo | 1 | 2 | 0 | -6.11 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| wr0ngw4yb3tt0r | 1 | 3 | 5 | -9.12 USD |
+| wr0ngw4yb3tt0r | 2 | 4 | 3 | -7.78 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2499
-- **Aciertos:** 1609 (64.4%)
+- **Apuestas resueltas:** 2502
+- **Aciertos:** 1610 (64.3%)
 - **Cuota promedio de entrada:** 63.7%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,482.59
-- **ROI sobre lo apostado:** -0.74%
-- **Comisiones pagadas (taker fee):** $226.59 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,497.59
+- **ROI sobre lo apostado:** -0.76%
+- **Comisiones pagadas (taker fee):** $227.00 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1236 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1239 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 740 | 70.5% | 67.7% | +2.8 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
@@ -549,12 +549,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ethanaz | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 46% | 5.00 | 1212.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 48.2% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chargers | Chargers (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | 49ers vs. Raiders | Raiders (BUY) | 42% | 5.00 | 0.4% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | 49ers vs. Raiders | Raiders (BUY) | 42% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | ethBELIVER | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 42% | 5.00 | 48.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | 49ers vs. Raiders | 49ers (BUY) | 43% | 5.00 | 1.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | 49ers vs. Raiders | 49ers (BUY) | 43% | 5.00 | 1.8% | ✅ ganada | +6.48 |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 58% | 5.00 | 1.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 74% | 5.00 | 5.9% | ⏳ pendiente | — |
-| ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 67.1% | ⏳ pendiente | — |
+| ethBELIVER | 49ers vs. Raiders | Raiders (BUY) | 51% | 5.00 | 67.1% | ❌ perdida | -5.12 |
 | ethanaz | LA vs. LAC: O/U 38.5 | Under (BUY) | 46% | 5.00 | 153.1% | ⏳ pendiente | — |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 48% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Houston Astros vs. New York Yankees | Houston Astros (BUY) | 50% | 5.00 | 0.5% | ✅ ganada | +4.88 |

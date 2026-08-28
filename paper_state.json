@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.5189525889537,
+  "bankroll": 490.7368595656979,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13020,6 +13020,21 @@
       "timestamp": 1787883785.9055426,
       "bankroll": 494.52,
       "event": "lost: texaskid \u2014 Spread: Milwaukee Brewers (-1.5)"
+    },
+    {
+      "timestamp": 1787888710.494191,
+      "bankroll": 489.4,
+      "event": "lost: ethBELIVER \u2014 49ers vs. Raiders"
+    },
+    {
+      "timestamp": 1787888710.7947226,
+      "bankroll": 495.88,
+      "event": "won: wr0ngw4yb3tt0r \u2014 49ers vs. Raiders"
+    },
+    {
+      "timestamp": 1787888710.9950883,
+      "bankroll": 490.74,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 49ers vs. Raiders"
     }
   ]
 }
