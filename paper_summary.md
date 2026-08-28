@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 03:58:25 (hora de Perú)
+Actualizado: 2026-08-28 04:00:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.15
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 03:58:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $357.15)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $352.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 379 | 180 | 11 | -44.53 USD |
+| RN1 | 379 | 180 | 12 | -44.53 USD |
 | ferrariChampions2026 | 300 | 184 | 0 | -64.25 USD |
 | Sassy-Bucket | 16 | 32 | 0 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -549,6 +549,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Lorenzo Angelini (BUY) | 87% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Teodora Miron (BUY) | 53% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ilinca Dalina Amariei (BUY) | 62% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Augsburg: Benito Sanchez Martinez vs Fac | Facundo Mena (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -578,4 +579,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wr0ngw4yb3tt0r | Spread: Manchester City FC (-1.5) | Crystal Palace FC (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Rams vs. Chargers | Rams (BUY) | 66% | 5.00 | 33.3% | ✅ ganada | +2.49 |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 51.8% | ✅ ganada | +5.08 |
-| ethanaz | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 46% | 5.00 | 1212.4% | ✅ ganada | +5.73 |
