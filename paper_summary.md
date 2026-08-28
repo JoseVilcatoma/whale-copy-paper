@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 12:14:16 (hora de Perú)
+Actualizado: 2026-08-28 12:16:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $514.71
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 12:14:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $334.71)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $329.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 66 | 25 | 3 | +60.06 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 66 | 25 | 4 | +60.06 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 4 | +39.06 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -548,12 +548,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-pit-stl-2026-08-28-total-7pt5 | Talvez10, pleaseplease123 |
 | lol-shft-th-2026-08-28 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-shft-th-2026-08-28-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe, TAIWANNUMBERONE |
+| lol-vit-fnc-2026-08-28 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, casualbet2020 |
 | lol-vit-fnc-2026-08-28-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Team Vitality (BUY) | 44% | 5.00 | 4.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Manchester City FC win on 2026-08-2 | No (BUY) | 42% | 5.00 | 25.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Lille OSC vs. Paris Saint-Germain FC: O/ | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 1 Wi | Team Vitality (BUY) | 57% | 5.00 | 32.7% | ⏳ pendiente | — |
@@ -583,4 +585,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | HANJIN BRION (BUY) | 56% | 5.00 | 32.5% | ❌ perdida | -5.11 |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers: O/U | Over (BUY) | 52% | 5.00 | 12.0% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Wrexham AFC vs. Birmingham City FC: O/U  | Over (BUY) | 45% | 5.00 | 2.1% | ⏳ pendiente | — |
-| SDTrading | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 61% | 5.00 | 5.9% | ⏳ pendiente | — |
