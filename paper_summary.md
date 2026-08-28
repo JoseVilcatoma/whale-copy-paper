@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 15:48:19 (hora de Perú)
+Actualizado: 2026-08-28 15:50:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $517.59
@@ -556,7 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 74% | 5.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 74% | 5.00 | 5.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Deportivo Alavés vs. Villarreal CF  | No (BUY) | 72% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Miami Marlins (-1.5) | Washington Nationals (BUY) | 57% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |

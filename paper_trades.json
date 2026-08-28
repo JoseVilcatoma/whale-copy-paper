@@ -67379,8 +67379,8 @@
     "title": "Deportivo Alav\u00e9s vs. Villarreal CF: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 8277.3948,
-    "whale_pct": 2.737,
+    "whale_usd": 15544.209100000002,
+    "whale_pct": 5.14,
     "whale_value_at_open": 302415.0096,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -67391,7 +67391,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787950088.640303,
-    "fills": 10
+    "last_fill_at": 1787950195.3652651,
+    "fills": 19
   }
 ]
