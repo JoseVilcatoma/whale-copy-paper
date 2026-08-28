@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.9083498788596,
+  "bankroll": 516.7863498788596,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13420,6 +13420,11 @@
       "timestamp": 1787950569.6815622,
       "bankroll": 521.91,
       "event": "won: texaskid \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1787950877.7708373,
+      "bankroll": 516.79,
+      "event": "lost: ferrariChampions2026 \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 12.5"
     }
   ]
 }
