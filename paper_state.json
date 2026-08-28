@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.12108804054736,
+  "bankroll": 494.98919915165845,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13180,6 +13180,16 @@
       "timestamp": 1787913837.5984752,
       "bankroll": 494.12,
       "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Lorenzo Angelini vs Daniel Verbeek"
+    },
+    {
+      "timestamp": 1787914406.3280754,
+      "bankroll": 500.09,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Dragos Nicolae Madaras vs Radu David Turcanu"
+    },
+    {
+      "timestamp": 1787914407.0292344,
+      "bankroll": 494.99,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Dragos Nicolae Madaras vs Radu David Turcanu"
     }
   ]
 }
