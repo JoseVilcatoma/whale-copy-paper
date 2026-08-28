@@ -66346,8 +66346,8 @@
     "title": "Spread: FC Bayern M\u00fcnchen (-2.5)",
     "outcome": "VfB Stuttgart",
     "side": "BUY",
-    "whale_usd": 3499.9984,
-    "whale_pct": 3.765,
+    "whale_usd": 26520.969800000003,
+    "whale_pct": 28.531,
     "whale_value_at_open": 92954.8143,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -66358,8 +66358,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787925415.4510245,
-    "fills": 2
+    "last_fill_at": 1787939531.5979838,
+    "fills": 12
   },
   {
     "timestamp": 1787925767,
@@ -66828,6 +66828,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787937300.8888457,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787939601,
+    "timestamp_added": 1787939601.7490032,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-vit-fnc-2026-08-28-game2",
+    "title": "LoL: Team Vitality vs Fnatic - Game 2 Winner",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "whale_usd": 3138.2692,
+    "whale_pct": 19.304,
+    "whale_value_at_open": 16257.0968,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787939601.7490184,
     "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 12:51:25 (hora de Perú)
+Actualizado: 2026-08-28 12:53:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $529.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 12:51:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $379.32)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $374.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 68 | 25 | 2 | +67.31 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 68 | 25 | 3 | +67.31 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 4 | +39.06 USD |
@@ -555,6 +555,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic - Game 2 Wi | Team Vitality (BUY) | 45% | 5.00 | 19.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Vitality vs Fnatic (BO3) - LEC | Team Vitality (BUY) | 44% | 5.00 | 4.4% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Will Manchester City FC win on 2026-08-2 | No (BUY) | 42% | 5.00 | 25.6% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Lille OSC vs. Paris Saint-Germain FC: O/ | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -574,7 +575,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: Team Liquid vs Fire Flux Espor | Fire Flux Esports (BUY) | 41% | 5.00 | 7.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Shifters vs Team Heretics (BO3) - L | Shifters (BUY) | 46% | 5.00 | 13.9% | ✅ ganada | +5.73 |
 | casualbet2020 | Counter-Strike: Natus Vincere vs paiN (B | Natus Vincere (BUY) | 82% | 5.00 | 56.8% | ✅ ganada | +1.05 |
-| wr0ngw4yb3tt0r | Spread: FC Bayern München (-2.5) | VfB Stuttgart (BUY) | 59% | 5.00 | 3.8% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Spread: FC Bayern München (-2.5) | VfB Stuttgart (BUY) | 59% | 5.00 | 28.5% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Arizona Diamondbacks vs. San Francisco G | Over (BUY) | 53% | 5.00 | 1.4% | ⏳ pendiente | — |
 | AV23IUa | Map Handicap: NAVI (-1.5) vs paiN (+1.5) | Natus Vincere (BUY) | 57% | 5.00 | 73.8% | ✅ ganada | +3.66 |
 | wr0ngw4yb3tt0r | Connecticut Sun vs. Indiana Fever: O/U 1 | Over (BUY) | 50% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -584,4 +585,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Texas Rangers vs. Milwaukee Brewers: O/U | Over (BUY) | 44% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: HANJIN BRION vs BNK FEARX (BO5) - L | HANJIN BRION (BUY) | 56% | 5.00 | 32.5% | ❌ perdida | -5.11 |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers: O/U | Over (BUY) | 52% | 5.00 | 12.0% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Wrexham AFC vs. Birmingham City FC: O/U  | Over (BUY) | 45% | 5.00 | 2.1% | ⏳ pendiente | — |
