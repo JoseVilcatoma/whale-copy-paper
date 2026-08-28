@@ -60892,8 +60892,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -65026,8 +65026,8 @@
     "title": "Rams vs. Chargers",
     "outcome": "Rams",
     "side": "BUY",
-    "whale_usd": 91847.6345,
-    "whale_pct": 30.856,
+    "whale_usd": 95959.8545,
+    "whale_pct": 32.237,
     "whale_value_at_open": 297666.9786,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -65038,8 +65038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787892392.1222782,
-    "fills": 14
+    "last_fill_at": 1787892542.7620885,
+    "fills": 15
   },
   {
     "timestamp": 1787891126,
@@ -65098,8 +65098,8 @@
     "title": "Spread: FC Groningen (-1.5)",
     "outcome": "FC Groningen",
     "side": "BUY",
-    "whale_usd": 4582.36,
-    "whale_pct": 8.182,
+    "whale_usd": 6162.0599999999995,
+    "whale_pct": 11.002,
     "whale_value_at_open": 56006.6429,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -65110,7 +65110,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787892527.550009,
-    "fills": 2
+    "last_fill_at": 1787892545.4271882,
+    "fills": 4
   }
 ]

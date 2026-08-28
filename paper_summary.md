@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-27 23:49:01 (hora de Perú)
+Actualizado: 2026-08-27 23:51:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $489.54
-**Retorno acumulado:** -2.09%
+**Bankroll actual:** $492.27
+**Retorno acumulado:** -1.55%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-27 23:49:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $429.54)
+**Capital comprometido ahora mismo:** $55.00 en 11 posiciones abiertas (disponible para nuevas apuestas: $437.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 58 | 23 | 0 | +54.83 USD |
 | BOOMBOYS.Kiritych | 34 | 17 | 0 | +54.65 USD |
-| HomeRunHazard | 374 | 185 | 2 | +40.44 USD |
+| HomeRunHazard | 375 | 185 | 1 | +43.16 USD |
 | SDTrading | 32 | 21 | 0 | +39.06 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -96,14 +96,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2512
-- **Aciertos:** 1615 (64.3%)
+- **Apuestas resueltas:** 2513
+- **Aciertos:** 1616 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $12,547.59
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $228.27 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $12,552.59
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $228.36 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -112,7 +112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1249 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 740 | 70.5% | 67.7% | +2.8 pp |
+| 60-79% | 741 | 70.6% | 67.7% | +2.8 pp |
 | 80-94% | 359 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 164 | 95.7% | 97.4% | -1.6 pp |
 
@@ -544,10 +544,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 8.2% | ⏳ pendiente | — |
+| plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 11.0% | ⏳ pendiente | — |
 | plonker2026 | Will FC Groningen win on 2026-08-28? | Yes (BUY) | 63% | 5.00 | 22.8% | ⏳ pendiente | — |
 | wr0ngw4yb3tt0r | Spread: Manchester City FC (-1.5) | Crystal Palace FC (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
-| wr0ngw4yb3tt0r | Rams vs. Chargers | Rams (BUY) | 66% | 5.00 | 30.9% | ⏳ pendiente | — |
+| wr0ngw4yb3tt0r | Rams vs. Chargers | Rams (BUY) | 66% | 5.00 | 32.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 51.8% | ✅ ganada | +5.08 |
 | ethanaz | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 46% | 5.00 | 1212.4% | ✅ ganada | +5.73 |
 | TAIWANNUMBERONE | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 48.2% | ❌ perdida | -5.12 |
