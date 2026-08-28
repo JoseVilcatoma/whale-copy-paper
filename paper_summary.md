@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 01:30:17 (hora de Perú)
+Actualizado: 2026-08-28 01:32:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $490.85
@@ -545,7 +545,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 10.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 75% | 5.00 | 15.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: EDward Gaming vs Ninjas in Pyjamas  | Ninjas in Pyjamas (BUY) | 69% | 5.00 | 73.8% | 💰 vendida anticipada | +0.59 |
 | ExplosiveNinja | Counter-Strike: Sashi Esport vs ex-RUSTE | Sashi Esport (BUY) | 68% | 5.00 | 143.1% | ⏳ pendiente | — |
 | plonker2026 | Spread: FC Groningen (-1.5) | FC Groningen (BUY) | 41% | 5.00 | 16.2% | ⏳ pendiente | — |
