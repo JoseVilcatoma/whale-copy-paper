@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.76224724983297,
+  "bankroll": 491.52224724983296,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13490,6 +13490,16 @@
       "timestamp": 1787954582.9716065,
       "bankroll": 501.76,
       "event": "won: RN1 \u2014 Will Stade Lavallois Mayenne FC vs. Grenoble Foot 38 end in a draw?"
+    },
+    {
+      "timestamp": 1787954899.3117473,
+      "bankroll": 496.67,
+      "event": "lost: plonker2026 \u2014 Will FC Groningen win on 2026-08-28?"
+    },
+    {
+      "timestamp": 1787954899.5773075,
+      "bankroll": 491.52,
+      "event": "lost: plonker2026 \u2014 Spread: FC Groningen (-1.5)"
     }
   ]
 }
