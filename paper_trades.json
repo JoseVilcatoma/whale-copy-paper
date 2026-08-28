@@ -65179,14 +65179,16 @@
     "odds_at_bet": 75,
     "fee_usd": 0.062,
     "odds_ballena": 74,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.56,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787898714.3841565,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.105,
+    "closed_price": 85
   }
 ]
