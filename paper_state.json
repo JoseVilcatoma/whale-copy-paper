@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.2601799693957,
+  "bankroll": 502.1232910805068,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14450,6 +14450,16 @@
       "timestamp": 1788040311.9237025,
       "bankroll": 501.26,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season (-2.91 USD)"
+    },
+    {
+      "timestamp": 1788040698.2810876,
+      "bankroll": 496.15,
+      "event": "lost: AV23IUa \u2014 Winston-Salem Open: Arthur Fery vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1788040699.5728014,
+      "bankroll": 502.12,
+      "event": "won: ArturitoFilito \u2014 Winston-Salem Open: Arthur Fery vs Ignacio Buse"
     }
   ]
 }
