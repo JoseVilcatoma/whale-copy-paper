@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.0616708096651,
+  "bankroll": 495.74359237829253,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14515,6 +14515,11 @@
       "timestamp": 1788043506.5786486,
       "bankroll": 491.06,
       "event": "lost: texaskid \u2014 Seattle Mariners vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1788044734.907173,
+      "bankroll": 495.74,
+      "event": "won: HomeRunHazard \u2014 North Carolina State vs. Virginia: O/U 51.5"
     }
   ]
 }
