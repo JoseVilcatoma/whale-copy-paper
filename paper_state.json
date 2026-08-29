@@ -1,5 +1,5 @@
 {
-  "bankroll": 537.6009988782569,
+  "bankroll": 529.510856021114,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13885,6 +13885,21 @@
       "timestamp": 1788006656.1234188,
       "bankroll": 537.6,
       "event": "won: ferrariChampions2026 \u2014 Will Kawasaki Frontale win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788006840.4256399,
+      "bankroll": 532.53,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Rositsa Dencheva vs Anja Stankovic"
+    },
+    {
+      "timestamp": 1788006840.82637,
+      "bankroll": 527.44,
+      "event": "lost: ferrariChampions2026 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Rositsa Dencheva vs Anja Stankovic"
+    },
+    {
+      "timestamp": 1788006841.95338,
+      "bankroll": 529.51,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Rositsa Dencheva vs Anja Stankovic"
     }
   ]
 }

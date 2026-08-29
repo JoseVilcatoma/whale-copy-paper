@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 07:32:03 (hora de Perú)
+Actualizado: 2026-08-29 07:34:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $537.60
-**Retorno acumulado:** +7.52%
+**Bankroll actual:** $529.51
+**Retorno acumulado:** +5.90%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 07:32:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $217.60)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $224.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,21 +91,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 393 | 187 | 24 | -38.01 USD |
-| ferrariChampions2026 | 324 | 192 | 14 | -44.94 USD |
+| RN1 | 394 | 188 | 22 | -41.01 USD |
+| ferrariChampions2026 | 324 | 193 | 13 | -50.03 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2661
-- **Aciertos:** 1712 (64.3%)
+- **Apuestas resueltas:** 2664
+- **Aciertos:** 1713 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,292.59
-- **ROI sobre lo apostado:** -0.45%
-- **Comisiones pagadas (taker fee):** $242.75 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,307.59
+- **ROI sobre lo apostado:** -0.51%
+- **Comisiones pagadas (taker fee):** $242.98 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1332 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 786 | 70.9% | 67.8% | +3.1 pp |
+| 60-79% | 789 | 70.7% | 67.8% | +3.0 pp |
 | 80-94% | 370 | 87.0% | 86.8% | +0.2 pp |
 | 95-99% (casi seguro) | 173 | 96.0% | 97.4% | -1.4 pp |
 
@@ -587,7 +587,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Liverpool FC vs. Nottingham Forest  | No (BUY) | 80% | 5.00 | 5.3% | ⏳ pendiente | — |
 | RN1 | Will Swansea City AFC win on 2026-08-29? | No (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Nottingham Forest FC win on 2026-08 | No (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 70% | 5.00 | 4.4% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 70% | 5.00 | 4.4% | ✅ ganada | +2.07 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentina Ryser (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 82% | 5.00 | 27.3% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC win on 2026-08-29? | Yes (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -598,7 +598,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will JEF United Ichihara Chiba win on 20 | No (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | RN1 | 1. FC Heidenheim 1846 vs. SG Dynamo Dres | Over (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Liverpool FC (-1.5) | Liverpool FC (BUY) | 43% | 5.00 | 6.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 64% | 5.00 | 0.6% | ❌ perdida | -5.09 |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Zenit (-1.5) | FK Fakel Voronezh (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 9.1% | ⏳ pendiente | — |
