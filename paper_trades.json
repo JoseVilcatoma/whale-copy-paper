@@ -72310,5 +72310,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788034451.5569322,
     "fills": 2
+  },
+  {
+    "timestamp": 1788036690,
+    "timestamp_added": 1788036691.226288,
+    "username": "sbsigner",
+    "wallet": "0x1b47e9b128e6b671edebfb2cac23dd3efc40d814",
+    "slug": "mlb-hou-nym-2026-08-29",
+    "title": "Houston Astros vs. New York Mets",
+    "outcome": "Houston Astros",
+    "side": "BUY",
+    "whale_usd": 3710.8055,
+    "whale_pct": 14.526,
+    "whale_value_at_open": 25545.8867,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788036691.226298,
+    "fills": 1
   }
 ]
