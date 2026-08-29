@@ -70200,8 +70200,8 @@
     "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 4467.3271,
-    "whale_pct": 1.997,
+    "whale_usd": 5260.9633,
+    "whale_pct": 2.352,
     "whale_value_at_open": 223669.1928,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -70214,8 +70214,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788006641.4118874,
-    "fills": 2
+    "last_fill_at": 1788006892.274037,
+    "fills": 3
   },
   {
     "timestamp": 1788005976,
@@ -70290,5 +70290,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788006503.4515948,
     "fills": 3
+  },
+  {
+    "timestamp": 1788006890,
+    "timestamp_added": 1788006890.9256682,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-cin-chc-2026-08-29-total-8pt5",
+    "title": "Cincinnati Reds vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 782.983888,
+    "whale_pct": 1.441,
+    "whale_value_at_open": 54320.3927,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788006890.9256794,
+    "fills": 1
   }
 ]
