@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.4439160704952,
+  "bankroll": 494.5646026376594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13620,6 +13620,21 @@
       "timestamp": 1787970643.891045,
       "bankroll": 502.44,
       "event": "won: casualbet2020 \u2014 Valorant: 100 Thieves vs Leviat\u00e1n Esports (BO3) - VCT Americas Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1787971269.729057,
+      "bankroll": 497.32,
+      "event": "lost: SDTrading \u2014 Texas Rangers vs. Milwaukee Brewers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787971269.9891884,
+      "bankroll": 492.18,
+      "event": "lost: SDTrading \u2014 Texas Rangers vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1787971271.1630507,
+      "bankroll": 494.56,
+      "event": "won: texaskid \u2014 Texas Rangers vs. Milwaukee Brewers"
     }
   ]
 }

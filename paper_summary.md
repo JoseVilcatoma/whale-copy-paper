@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 21:40:12 (hora de Perú)
+Actualizado: 2026-08-28 21:42:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $502.44
-**Retorno acumulado:** +0.49%
+**Bankroll actual:** $494.56
+**Retorno acumulado:** -1.09%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 21:40:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $367.44)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $374.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,14 +24,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 26 | 0 | +67.06 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
-| SDTrading | 33 | 22 | 2 | +37.05 USD |
 | TAIWANNUMBERONE | 15 | 7 | 3 | +36.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| SDTrading | 33 | 24 | 0 | +26.79 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| texaskid | 7 | 3 | 2 | +16.39 USD |
+| texaskid | 8 | 3 | 1 | +18.77 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
@@ -97,14 +97,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2612
-- **Aciertos:** 1675 (64.1%)
+- **Apuestas resueltas:** 2615
+- **Aciertos:** 1676 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,047.59
-- **ROI sobre lo apostado:** -0.71%
-- **Comisiones pagadas (taker fee):** $238.56 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.12% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,062.59
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $238.90 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -112,8 +112,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1311 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 769 | 70.6% | 67.7% | +2.9 pp |
+| 40-59% | 1313 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 770 | 70.6% | 67.7% | +2.9 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
 
