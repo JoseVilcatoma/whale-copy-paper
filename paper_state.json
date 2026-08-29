@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.7419478206046,
+  "bankroll": 515.1820784349239,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14175,6 +14175,21 @@
       "timestamp": 1788023672.8265142,
       "bankroll": 502.74,
       "event": "won: RN1 \u2014 Will Sheffield Wednesday FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788023977.239563,
+      "bankroll": 506.89,
+      "event": "won: 0x7A3f9C2D8b41E6a570F2c93B1d4E8A \u2014 Game Handicap: TES (-1.5) vs LGD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1788023978.590678,
+      "bankroll": 510.87,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: TES (-1.5) vs LGD Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1788023980.579076,
+      "bankroll": 515.18,
+      "event": "won: ArturitoFilito \u2014 LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs"
     }
   ]
 }
