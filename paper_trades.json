@@ -68055,8 +68055,8 @@
     "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 18109.2306,
-    "whale_pct": 101.152,
+    "whale_usd": 19421.7306,
+    "whale_pct": 108.483,
     "whale_value_at_open": 17902.9788,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -68067,8 +68067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787973127.0249863,
-    "fills": 6
+    "last_fill_at": 1787976090.8704758,
+    "fills": 7
   },
   {
     "timestamp": 1787970216,
@@ -68164,6 +68164,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787975860.1020648,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787975978,
+    "timestamp_added": 1787975979.108002,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ace1-g1-2026-08-29",
+    "title": "Counter-Strike: Acend vs GenOne (BO3) - CCT Europe Series #7 Playoffs",
+    "outcome": "GenOne",
+    "side": "BUY",
+    "whale_usd": 8908.718,
+    "whale_pct": 11.988,
+    "whale_value_at_open": 74310.5961,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787975979.1080134,
     "fills": 1
   }
 ]
