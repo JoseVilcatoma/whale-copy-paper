@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.9197171016961,
+  "bankroll": 501.29129337288254,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13665,6 +13665,11 @@
       "timestamp": 1787975659.8106077,
       "bankroll": 497.92,
       "event": "won: kekasaur \u2014 Will Clube N\u00e1utico Capibaribe win on 2026-08-28?"
+    },
+    {
+      "timestamp": 1787977227.254442,
+      "bankroll": 501.29,
+      "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Nikola Bartunkova vs Elise Mertens"
     }
   ]
 }
