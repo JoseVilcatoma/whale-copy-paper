@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 15:35:23 (hora de Perú)
+Actualizado: 2026-08-29 15:37:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.00
-**Retorno acumulado:** +1.00%
+**Bankroll actual:** $503.86
+**Retorno acumulado:** +0.77%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 15:35:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $265.00)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $273.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 35 | 3 | +71.50 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 36 | 2 | +66.38 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| TAIWANNUMBERONE | 19 | 8 | 4 | +38.69 USD |
+| TAIWANNUMBERONE | 20 | 8 | 3 | +42.67 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 14 | 2 | 3 | +33.18 USD |
 | HomeRunHazard | 381 | 192 | 24 | +32.81 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2750
-- **Aciertos:** 1766 (64.2%)
+- **Apuestas resueltas:** 2752
+- **Aciertos:** 1767 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,737.59
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $250.79 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,747.59
+- **ROI sobre lo apostado:** -0.66%
+- **Comisiones pagadas (taker fee):** $251.02 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1370 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1372 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 820 | 70.6% | 67.8% | +2.8 pp |
 | 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
@@ -601,7 +601,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners (BUY) | 50% | 5.00 | 5.2% | ⏳ pendiente | — |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs 9INE (BO3) -  | 9INE (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 82% | 5.00 | 2.1% | 💰 vendida anticipada | -0.59 |
