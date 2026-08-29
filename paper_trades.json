@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 8731.5116,
-    "whale_pct": 65.209,
+    "whale_usd": 10608.536399999999,
+    "whale_pct": 79.227,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788040793.7803662,
-    "fills": 4
+    "last_fill_at": 1788041701.5352447,
+    "fills": 5
   },
   {
     "timestamp": 1788038109,

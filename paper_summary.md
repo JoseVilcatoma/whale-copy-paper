@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 17:15:01 (hora de Perú)
+Actualizado: 2026-08-29 17:17:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.85
@@ -591,7 +591,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | JD Gaming (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma (BUY) | 87% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: AUR (-1.5) vs M80 (+1.5) | Aurora Gaming (BUY) | 46% | 5.00 | 19.6% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming (BO | Aurora Gaming (BUY) | 75% | 5.00 | 65.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming (BO | Aurora Gaming (BUY) | 75% | 5.00 | 79.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 46% | 5.00 | 95.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Shopify Rebellion (BUY) | 50% | 5.00 | 20.2% | 💰 vendida anticipada | -2.91 |
 | TAIWANNUMBERONE | Will South Africa win in regulation? | Yes (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
