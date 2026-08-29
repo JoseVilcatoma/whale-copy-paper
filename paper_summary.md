@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 01:40:20 (hora de Perú)
+Actualizado: 2026-08-29 01:42:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 01:40:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $394.51)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $389.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 26 | 0 | +67.06 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 1 | +48.89 USD |
-| TAIWANNUMBERONE | 15 | 7 | 4 | +36.52 USD |
+| TAIWANNUMBERONE | 15 | 7 | 5 | +36.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -554,11 +554,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-vit-fnc-2026-08-28-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | wta-kalieva-valdman-2026-08-27 | OOOwhyOOO, ferrariChampions2026 |
 | mlb-mia-wsh-2026-08-28-total-8pt5 | AV23IUa, ferrariChampions2026 |
+| lol-tes-lgd-2026-08-29-game-handicap-away-1pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-08-29? | Yes (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Hanshin Tigers vs. Yomiuri Giants | Yomiuri Giants (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | BV Borussia 09 Dortmund vs. Hamburger SV | Under (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -588,4 +590,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 182.5% | ✅ ganada | +2.17 |
 | AV23IUa | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 51% | 5.00 | 44.7% | ✅ ganada | +4.68 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality (BUY) | 53% | 5.00 | 29.6% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 1 W | Vitality (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |

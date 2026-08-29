@@ -68333,5 +68333,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787984944.2523777,
     "fills": 1
+  },
+  {
+    "timestamp": 1787985645,
+    "timestamp_added": 1787985645.9857402,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-tes-lgd-2026-08-29-game-handicap-away-1pt5",
+    "title": "Game Handicap: TES (-1.5) vs LGD Gaming (+1.5)",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 1331.6076,
+    "whale_pct": 2.547,
+    "whale_value_at_open": 52271.5367,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x7A3f9C2D8b41E6a570F2c93B1d4E8A"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787985645.9857526,
+    "fills": 1
   }
 ]
