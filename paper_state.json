@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.0593585971242,
+  "bankroll": 521.9613585971242,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14240,6 +14240,11 @@
       "timestamp": 1788026178.531271,
       "bankroll": 527.06,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Karmine Corp vs SK Gaming (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1788028961.6544194,
+      "bankroll": 521.96,
+      "event": "lost: nigiri99 \u2014 Tottenham Hotspur FC vs. Newcastle United FC: O/U 2.5"
     }
   ]
 }
