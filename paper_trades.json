@@ -69564,8 +69564,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 6814.6407,
-    "whale_pct": 5.834,
+    "whale_usd": 8684.3862,
+    "whale_pct": 7.434,
     "whale_value_at_open": 116817.6417,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -69576,8 +69576,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788004788.863087,
-    "fills": 4
+    "last_fill_at": 1788005682.2186573,
+    "fills": 5
   },
   {
     "timestamp": 1788000328,
