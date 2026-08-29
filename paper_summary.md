@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:49:22 (hora de Perú)
+Actualizado: 2026-08-29 05:51:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.75
@@ -580,7 +580,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Wuxi Wugou win on 2026-08-29? | No (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Vienna (Austria), | Giovanni Oradini (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Samuele Pieri (BUY) | 61% | 5.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Samuele Pieri (BUY) | 61% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kawasaki Frontale win on 2026-08-29 | Yes (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Milton Keynes Dons FC win on 2026-0 | Yes (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 43% | 5.00 | 1.2% | ⏳ pendiente | — |
