@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 03:07:15 (hora de Perú)
+Actualizado: 2026-08-29 03:09:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.02
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 03:07:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $361.02)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $356.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 0 | 0 | 2 | +0.00 USD |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -554,6 +554,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-vit-fnc-2026-08-28-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | wta-kalieva-valdman-2026-08-27 | OOOwhyOOO, ferrariChampions2026 |
 | mlb-mia-wsh-2026-08-28-total-8pt5 | AV23IUa, ferrariChampions2026 |
+| lol-t1-fox1-2026-08-29-game1 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, TAIWANNUMBERONE |
 | lol-tes-lgd-2026-08-29-game-handicap-away-1pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, TAIWANNUMBERONE |
 | ufc-din2-camnel-2026-08-29 | Sassy-Bucket, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-2pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, ferrariChampions2026 |
@@ -562,6 +563,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 51.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-2.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: T1 (-2.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 64% | 5.00 | 19.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 69% | 5.00 | 40.5% | ⏳ pendiente | — |
@@ -591,4 +593,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 11.8% | ⏳ pendiente | — |
 | kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ✅ ganada | +2.97 |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 63.3% | ❌ perdida | -5.13 |
-| casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ✅ ganada | +2.27 |

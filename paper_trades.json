@@ -68579,5 +68579,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787990645.4313753,
     "fills": 2
+  },
+  {
+    "timestamp": 1787990897,
+    "timestamp_added": 1787990897.705015,
+    "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+    "wallet": "0xc9a24fa249cf907c598544a4d46c077c1edf77d3",
+    "slug": "lol-t1-fox1-2026-08-29-game1",
+    "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 61090.365658,
+    "whale_pct": 51.597,
+    "whale_value_at_open": 118399.7204,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787990935.440489,
+    "fills": 9
   }
 ]
