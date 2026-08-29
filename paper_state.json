@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.07447695676944,
+  "bankroll": 487.84147695676944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13545,6 +13545,16 @@
       "timestamp": 1787964628.5517542,
       "bankroll": 498.07,
       "event": "lost: ferrariChampions2026 \u2014 San Diego Padres vs. Tampa Bay Rays: O/U 7.5"
+    },
+    {
+      "timestamp": 1787967692.6866806,
+      "bankroll": 492.94,
+      "event": "lost: Sassy-Bucket \u2014 Los Angeles Dodgers vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1787967692.9606996,
+      "bankroll": 487.84,
+      "event": "lost: AV23IUa \u2014 Los Angeles Dodgers vs. Detroit Tigers: O/U 6.5"
     }
   ]
 }
