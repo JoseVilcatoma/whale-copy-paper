@@ -69240,5 +69240,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787998866.101159,
     "fills": 1
+  },
+  {
+    "timestamp": 1787999044,
+    "timestamp_added": 1787999045.2677844,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "el1-mkd-lei-2026-08-29-mkd",
+    "title": "Will Milton Keynes Dons FC win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 4150.0,
+    "whale_pct": 7.074,
+    "whale_value_at_open": 58664.4208,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787999047.2839384,
+    "fills": 2
   }
 ]
