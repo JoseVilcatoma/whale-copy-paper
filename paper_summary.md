@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:16:43 (hora de Perú)
+Actualizado: 2026-08-29 05:18:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $509.09
@@ -568,7 +568,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | UFC Fight Night: Bilal Hasan vs. Nilson  | Bilal Hasan (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Bilal Hasan vs. Nilson  | Bilal Hasan (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ArturitoFilito | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 53% | 5.00 | 92.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |

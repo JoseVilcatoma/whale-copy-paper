@@ -69202,8 +69202,8 @@
     "title": "UFC Fight Night: Bilal Hasan vs. Nilson Rojas (Flyweight, Main Card)",
     "outcome": "Bilal Hasan",
     "side": "BUY",
-    "whale_usd": 595.0,
-    "whale_pct": 0.279,
+    "whale_usd": 1161.666666,
+    "whale_pct": 0.544,
     "whale_value_at_open": 213369.1158,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -69214,7 +69214,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787998526.7779932,
-    "fills": 1
+    "last_fill_at": 1787998620.9533017,
+    "fills": 2
   }
 ]
