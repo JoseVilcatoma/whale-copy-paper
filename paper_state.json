@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.6070810308426,
+  "bankroll": 493.7754578424368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13655,6 +13655,11 @@
       "timestamp": 1787973467.3432143,
       "bankroll": 491.61,
       "event": "won: wr0ngw4yb3tt0r \u2014 Arizona Diamondbacks vs. San Francisco Giants: O/U 7.5"
+    },
+    {
+      "timestamp": 1787975033.095974,
+      "bankroll": 493.78,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Marsborne vs Chicken Coop Esports (BO3) - ESL Challenger League North America Cup #1 Playoffs"
     }
   ]
 }

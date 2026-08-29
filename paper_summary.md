@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 22:42:55 (hora de Perú)
+Actualizado: 2026-08-28 22:44:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $491.61
-**Retorno acumulado:** -1.68%
+**Bankroll actual:** $493.78
+**Retorno acumulado:** -1.24%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 22:42:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $381.61)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $388.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,11 +41,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 6 | 2 | 6 | +5.63 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 5 | 2 | 7 | +3.46 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -97,14 +97,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2619
-- **Aciertos:** 1678 (64.1%)
+- **Apuestas resueltas:** 2620
+- **Aciertos:** 1679 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,082.59
-- **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $239.35 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,087.59
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $239.43 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -113,7 +113,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1316 | 49.8% | 50.1% | -0.2 pp |
-| 60-79% | 771 | 70.7% | 67.7% | +3.0 pp |
+| 60-79% | 772 | 70.7% | 67.7% | +3.0 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
 
@@ -586,6 +586,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 2 W | Vitality (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z (BO3) - B | Vitality (BUY) | 76% | 5.00 | 21.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Marsborne vs Chicken Coo | Marsborne (BUY) | 69% | 5.00 | 4.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Marsborne vs Chicken Coo | Marsborne (BUY) | 69% | 5.00 | 4.7% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Under (BUY) | 45% | 5.00 | 0.4% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 94% | 5.00 | 5.5% | ✅ ganada | +0.30 |
