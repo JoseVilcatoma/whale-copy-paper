@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.96311388570314,
+  "bankroll": 511.69767910309446,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13710,6 +13710,11 @@
       "timestamp": 1787992599.1432176,
       "bankroll": 505.96,
       "event": "lost: Talvez10 \u2014 UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)"
+    },
+    {
+      "timestamp": 1787993407.493114,
+      "bankroll": 511.7,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Xiao Long vs. Francesco Nuzzi (Bantamweight, Prelims)"
     }
   ]
 }

@@ -68622,8 +68622,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.73,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -68639,8 +68639,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 128856.25278000001,
-    "whale_pct": 2070.474,
+    "whale_usd": 132558.28704,
+    "whale_pct": 2129.959,
     "whale_value_at_open": 6223.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -68654,8 +68654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787993275.2887893,
-    "fills": 23
+    "last_fill_at": 1787993375.8553665,
+    "fills": 25
   },
   {
     "timestamp": 1787992652,
@@ -68727,6 +68727,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787993123.2944274,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787993373,
+    "timestamp_added": 1787993374.2814395,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-t1-fox1-2026-08-29-game-handicap-away-1pt5",
+    "title": "Game Handicap: T1 (-1.5) vs BNK FEARX (+1.5)",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 1667.05,
+    "whale_pct": 1.276,
+    "whale_value_at_open": 130688.4207,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787993374.2814512,
     "fills": 1
   }
 ]
