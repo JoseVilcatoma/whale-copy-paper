@@ -67940,8 +67940,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -68596,8 +68596,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
@@ -68646,8 +68646,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
       "TAIWANNUMBERONE"
@@ -69750,5 +69750,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788001816.02158,
     "fills": 2
+  },
+  {
+    "timestamp": 1788002305,
+    "timestamp_added": 1788002306.1051173,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-lad-det-2026-08-29-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1532.9988,
+    "whale_pct": 3.397,
+    "whale_value_at_open": 45128.3427,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788002306.10513,
+    "fills": 1
   }
 ]

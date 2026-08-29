@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:16:21 (hora de Perú)
+Actualizado: 2026-08-29 06:18:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $523.18
-**Retorno acumulado:** +4.64%
+**Bankroll actual:** $527.16
+**Retorno acumulado:** +5.43%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:16:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $203.18)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $217.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,10 +21,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 6 | +66.58 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 74 | 27 | 5 | +66.63 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 3 | +48.89 USD |
-| TAIWANNUMBERONE | 15 | 7 | 6 | +36.52 USD |
+| HomeRunHazard | 376 | 185 | 4 | +48.89 USD |
+| TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -50,6 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 1 | 0 | 2 | +1.97 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -58,7 +59,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 0 | 0 | 3 | +0.00 USD |
 | ArturitoFilito | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -98,14 +98,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2642
-- **Aciertos:** 1697 (64.2%)
-- **Cuota promedio de entrada:** 63.4%
+- **Apuestas resueltas:** 2645
+- **Aciertos:** 1700 (64.3%)
+- **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,197.59
-- **ROI sobre lo apostado:** -0.54%
-- **Comisiones pagadas (taker fee):** $241.36 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.29% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,212.59
+- **ROI sobre lo apostado:** -0.51%
+- **Comisiones pagadas (taker fee):** $241.51 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.32% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,9 +114,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1327 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 778 | 70.8% | 67.7% | +3.1 pp |
+| 60-79% | 780 | 70.9% | 67.8% | +3.1 pp |
 | 80-94% | 367 | 86.9% | 86.8% | +0.1 pp |
-| 95-99% (casi seguro) | 170 | 95.9% | 97.3% | -1.5 pp |
+| 95-99% (casi seguro) | 171 | 95.9% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -571,6 +571,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will JEF United Ichihara Chiba win on 20 | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | 1. FC Heidenheim 1846 vs. SG Dynamo Dres | Over (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -600,4 +601,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 89% | 5.00 | 2.9% | ✅ ganada | +0.59 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 3 Winner | T1 (BUY) | 69% | 5.00 | 28.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 6.3% | ⏳ pendiente | — |
-| ArturitoFilito | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 75% | 5.00 | 11.3% | ⏳ pendiente | — |

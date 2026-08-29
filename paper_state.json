@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.1771282487395,
+  "bankroll": 527.1631403414981,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13775,6 +13775,21 @@
       "timestamp": 1788001605.437824,
       "bankroll": 523.18,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: VIT (-1.5) vs 9z (+1.5)"
+    },
+    {
+      "timestamp": 1788002234.1421018,
+      "bankroll": 525.15,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: T1 vs BNK FEARX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788002238.8485825,
+      "bankroll": 527.12,
+      "event": "won: 0x7A3f9C2D8b41E6a570F2c93B1d4E8A \u2014 LoL: T1 vs BNK FEARX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788002238.9487698,
+      "bankroll": 527.16,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX - Game 1 Winner"
     }
   ]
 }
