@@ -71076,8 +71076,8 @@
     "title": "LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 4238.08,
-    "whale_pct": 5.399,
+    "whale_usd": 8124.688,
+    "whale_pct": 10.35,
     "whale_value_at_open": 78497.9608,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -71088,8 +71088,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788033274.4575467,
-    "fills": 2
+    "last_fill_at": 1788033482.4222312,
+    "fills": 3
   },
   {
     "timestamp": 1788013132,
