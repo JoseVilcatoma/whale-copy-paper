@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 19:56:24 (hora de Perú)
+Actualizado: 2026-08-28 19:58:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.07
@@ -557,7 +557,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 173.2% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 204.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 6.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
 | kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ⏳ pendiente | — |
