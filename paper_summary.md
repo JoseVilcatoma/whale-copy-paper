@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 07:29:57 (hora de Perú)
+Actualizado: 2026-08-29 07:32:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $536.55
-**Retorno acumulado:** +7.31%
+**Bankroll actual:** $537.60
+**Retorno acumulado:** +7.52%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 07:29:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $211.55)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $217.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,19 +92,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 393 | 187 | 24 | -38.01 USD |
-| ferrariChampions2026 | 323 | 192 | 15 | -45.99 USD |
+| ferrariChampions2026 | 324 | 192 | 14 | -44.94 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2660
-- **Aciertos:** 1711 (64.3%)
+- **Apuestas resueltas:** 2661
+- **Aciertos:** 1712 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,287.59
-- **ROI sobre lo apostado:** -0.46%
-- **Comisiones pagadas (taker fee):** $242.70 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $13,292.59
+- **ROI sobre lo apostado:** -0.45%
+- **Comisiones pagadas (taker fee):** $242.75 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1332 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 786 | 70.9% | 67.8% | +3.1 pp |
-| 80-94% | 369 | 87.0% | 86.8% | +0.2 pp |
+| 80-94% | 370 | 87.0% | 86.8% | +0.2 pp |
 | 95-99% (casi seguro) | 173 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -573,9 +573,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 43% | 5.00 | 10.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 99% | 5.00 | 39.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 99% | 5.00 | 46.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 2.0% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Will AO Itabaiana SE win on 2026-08-29? | No (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. Nottingham Forest FC: O | Under (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |

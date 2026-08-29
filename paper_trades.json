@@ -69283,8 +69283,8 @@
     "odds_at_bet": 82,
     "fee_usd": 0.045,
     "odds_ballena": 80,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -70200,8 +70200,8 @@
     "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 2862.5968000000003,
-    "whale_pct": 1.28,
+    "whale_usd": 4467.3271,
+    "whale_pct": 1.997,
     "whale_value_at_open": 223669.1928,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -70214,8 +70214,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788005816.5821333,
-    "fills": 1
+    "last_fill_at": 1788006641.4118874,
+    "fills": 2
   },
   {
     "timestamp": 1788005976,
@@ -70250,8 +70250,8 @@
     "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 57696.5457,
-    "whale_pct": 39.283,
+    "whale_usd": 67761.00117,
+    "whale_pct": 46.135,
     "whale_value_at_open": 146874.0774,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -70264,8 +70264,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788006593.800985,
-    "fills": 15
+    "last_fill_at": 1788006627.6937962,
+    "fills": 18
   },
   {
     "timestamp": 1788006480,
