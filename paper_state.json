@@ -1,5 +1,5 @@
 {
-  "bankroll": 493.7754578424368,
+  "bankroll": 497.9197171016961,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13660,6 +13660,11 @@
       "timestamp": 1787975033.095974,
       "bankroll": 493.78,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Marsborne vs Chicken Coop Esports (BO3) - ESL Challenger League North America Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1787975659.8106077,
+      "bankroll": 497.92,
+      "event": "won: kekasaur \u2014 Will Clube N\u00e1utico Capibaribe win on 2026-08-28?"
     }
   ]
 }
