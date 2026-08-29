@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 21:06:39 (hora de Perú)
+Actualizado: 2026-08-28 21:08:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.93
@@ -565,7 +565,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 13.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
 | kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ⏳ pendiente | — |
-| texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 61.1% | ⏳ pendiente | — |
+| texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 63.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ✅ ganada | +2.27 |
 | kekasaur | Will Clube Náutico Capibaribe win on 202 | Yes (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Elusive vs Zomblers (BO3 | Elusive (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
