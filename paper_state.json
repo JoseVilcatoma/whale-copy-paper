@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.5858876391487,
+  "bankroll": 500.3703320835932,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14065,6 +14065,16 @@
       "timestamp": 1788015496.093562,
       "bankroll": 503.59,
       "event": "won: RN1 \u2014 Karlsruher SC vs. VfL Wolfsburg: O/U 5.5"
+    },
+    {
+      "timestamp": 1788015753.5088084,
+      "bankroll": 505.46,
+      "event": "won: RN1 \u2014 1. FC Heidenheim 1846 vs. SG Dynamo Dresden: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1788015754.2800298,
+      "bankroll": 500.37,
+      "event": "lost: RN1 \u2014 Will VfL Wolfsburg win on 2026-08-29?"
     }
   ]
 }
