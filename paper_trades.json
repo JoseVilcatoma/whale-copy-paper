@@ -68862,8 +68862,8 @@
     "title": "Spread: Liverpool FC (-2.5)",
     "outcome": "Nottingham Forest FC",
     "side": "BUY",
-    "whale_usd": 7500.0,
-    "whale_pct": 23.286,
+    "whale_usd": 14900.0,
+    "whale_pct": 46.262,
     "whale_value_at_open": 32208.1139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -68874,8 +68874,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787994810.3255215,
-    "fills": 1
+    "last_fill_at": 1787997106.558071,
+    "fills": 2
   },
   {
     "timestamp": 1787995002,
@@ -69019,6 +69019,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787996692.2578156,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787997106,
+    "timestamp_added": 1787997106.8050506,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "epl-liv-not-2026-08-29-spread-home-2pt5",
+    "title": "Spread: Liverpool FC (-2.5)",
+    "outcome": "Nottingham Forest FC",
+    "side": "BUY",
+    "whale_usd": 3495.1295760000003,
+    "whale_pct": 11.344,
+    "whale_value_at_open": 30811.3013,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787997106.8050616,
     "fills": 1
   }
 ]

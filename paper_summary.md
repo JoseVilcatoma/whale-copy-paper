@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:50:35 (hora de Perú)
+Actualizado: 2026-08-29 04:52:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 04:50:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $296.92)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $291.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 0 | 0 | 3 | +0.00 USD |
+| ArturitoFilito | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -559,18 +560,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ufc-din2-camnel-2026-08-29 | Sassy-Bucket, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-2pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, ferrariChampions2026 |
+| epl-liv-not-2026-08-29-spread-home-2pt5 | ArturitoFilito, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ArturitoFilito | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 75% | 5.00 | 11.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Gamba Ōsaka vs. Sanfrecce Hiroshima | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Pecs (Hungary), c | Ignacio Monzon (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: LG Twins vs. Lotte Giants | LG Twins (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Namsrai Batbayar vs. An | Andre Lima (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will FC Mito Holly Hock win on 2026-08-2 | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 11.7% | ⏳ pendiente | — |
-| RN1 | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 76% | 5.00 | 23.3% | ⏳ pendiente | — |
+| RN1 | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 76% | 5.00 | 46.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 49% | 5.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Sebastian Sorger (BUY) | 61% | 5.00 | 8.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 73% | 5.00 | 13.8% | 💰 vendida anticipada | -0.48 |
@@ -593,4 +596,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | O/U 56.5 | Over (BUY) | 49% | 5.00 | 5.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-08-29? | Yes (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Hanshin Tigers vs. Yomiuri Giants | Yomiuri Giants (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
