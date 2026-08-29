@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.19447695676945,
+  "bankroll": 498.07447695676944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13540,6 +13540,11 @@
       "timestamp": 1787963684.0780292,
       "bankroll": 503.19,
       "event": "won: casualbet2020 \u2014 Valorant: NRG vs LOUD (BO3) - VCT Americas Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1787964628.5517542,
+      "bankroll": 498.07,
+      "event": "lost: ferrariChampions2026 \u2014 San Diego Padres vs. Tampa Bay Rays: O/U 7.5"
     }
   ]
 }
