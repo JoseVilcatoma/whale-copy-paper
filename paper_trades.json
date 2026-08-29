@@ -72790,8 +72790,8 @@
     "title": "LoL: Cloud9 vs LYON - Game 1 Winner",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 6648.219684000001,
-    "whale_pct": 39.037,
+    "whale_usd": 9561.969684,
+    "whale_pct": 56.146,
     "whale_value_at_open": 17030.6692,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -72802,8 +72802,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788044125.2726383,
-    "fills": 5
+    "last_fill_at": 1788044243.2769482,
+    "fills": 7
   },
   {
     "timestamp": 1788044007,
