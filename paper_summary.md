@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 02:11:08 (hora de Perú)
+Actualizado: 2026-08-29 02:13:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 02:11:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $379.51)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $374.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
 | ferrariChampions2026 | 310 | 190 | 6 | -60.12 USD |
-| Sassy-Bucket | 18 | 34 | 0 | -90.21 USD |
+| Sassy-Bucket | 18 | 34 | 1 | -90.21 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
@@ -560,6 +560,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 45% | 5.00 | 50.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | O/U 56.5 | Over (BUY) | 49% | 5.00 | 5.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -589,4 +590,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 60% | 5.00 | 4.5% | ❌ perdida | -5.10 |
 | Sassy-Bucket | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 47% | 5.00 | 14.7% | ❌ perdida | -5.13 |
 | AV23IUa | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 43% | 5.00 | 11.6% | ❌ perdida | -5.14 |
-| AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 182.5% | ✅ ganada | +2.17 |

@@ -68407,5 +68407,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787987356.4167647,
     "fills": 1
+  },
+  {
+    "timestamp": 1787987552,
+    "timestamp_added": 1787987552.997084,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "ufc-din2-camnel-2026-08-29",
+    "title": "UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)",
+    "outcome": "Cameron Nelson",
+    "side": "BUY",
+    "whale_usd": 11880.0,
+    "whale_pct": 50.532,
+    "whale_value_at_open": 23509.795,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787987552.9970942,
+    "fills": 1
   }
 ]
