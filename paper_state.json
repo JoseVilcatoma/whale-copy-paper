@@ -1,5 +1,5 @@
 {
-  "bankroll": 531.0051327452239,
+  "bankroll": 528.2563331446282,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13950,6 +13950,41 @@
       "timestamp": 1788009881.3777664,
       "bankroll": 531.01,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs (+1.46 USD)"
+    },
+    {
+      "timestamp": 1788010728.6126008,
+      "bankroll": 531.72,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788010732.0842159,
+      "bankroll": 526.64,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: T1 (-1.5) vs BNK FEARX (+1.5)"
+    },
+    {
+      "timestamp": 1788010732.343093,
+      "bankroll": 529.36,
+      "event": "won: 0x7A3f9C2D8b41E6a570F2c93B1d4E8A \u2014 Game Handicap: T1 (-2.5) vs BNK FEARX (+2.5)"
+    },
+    {
+      "timestamp": 1788010732.4432714,
+      "bankroll": 532.21,
+      "event": "won: ferrariChampions2026 \u2014 Game Handicap: T1 (-2.5) vs BNK FEARX (+2.5)"
+    },
+    {
+      "timestamp": 1788010732.54341,
+      "bankroll": 527.16,
+      "event": "lost: ferrariChampions2026 \u2014 Game Handicap: T1 (-1.5) vs BNK FEARX (+1.5)"
+    },
+    {
+      "timestamp": 1788010735.647793,
+      "bankroll": 528.21,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788010737.3644288,
+      "bankroll": 528.26,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs"
     }
   ]
 }
