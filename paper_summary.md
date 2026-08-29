@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:58:51 (hora de Perú)
+Actualizado: 2026-08-29 05:00:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 04:58:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $286.92)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $276.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 4 | +66.58 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 5 | +66.58 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 3 | +48.89 USD |
 | TAIWANNUMBERONE | 15 | 7 | 6 | +36.52 USD |
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 390 | 185 | 4 | -33.46 USD |
+| RN1 | 390 | 185 | 5 | -33.46 USD |
 | ferrariChampions2026 | 313 | 191 | 14 | -58.35 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -566,6 +566,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 89% | 5.00 | 2.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 3 Winner | T1 (BUY) | 69% | 5.00 | 3.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ArturitoFilito | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 75% | 5.00 | 11.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Gamba Ōsaka vs. Sanfrecce Hiroshima | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -594,5 +596,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Al Kholood Saudi Club vs. Al Ahli Saudi  | Over (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 45% | 5.00 | 50.5% | ✅ ganada | +5.97 |
 | HomeRunHazard | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
-| HomeRunHazard | O/U 56.5 | Over (BUY) | 49% | 5.00 | 5.1% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 3.9% | ⏳ pendiente | — |
