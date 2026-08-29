@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:39:15 (hora de Perú)
+Actualizado: 2026-08-29 06:41:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:39:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $210.46)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $195.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 75 | 27 | 6 | +66.72 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 75 | 27 | 7 | +66.72 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 4 | +48.89 USD |
 | TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 392 | 186 | 20 | -34.87 USD |
+| RN1 | 392 | 186 | 22 | -34.87 USD |
 | ferrariChampions2026 | 318 | 192 | 20 | -50.37 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -571,12 +571,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Will Liverpool FC vs. Nottingham Forest  | No (BUY) | 80% | 5.00 | 2.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: MOUZ vs Yellow Submarine - Game  | Yellow Submarine (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Spread: Celtic FC (-2.5) | Falkirk FC (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
+| RN1 | Liverpool FC vs. Nottingham Forest FC: B | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Will Liverpool FC vs. Nottingham Forest  | No (BUY) | 80% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | Will Swansea City AFC win on 2026-08-29? | No (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will Nottingham Forest FC win on 2026-08 | No (BUY) | 86% | 5.00 | 3.2% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 70% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | Will Nottingham Forest FC win on 2026-08 | No (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 70% | 5.00 | 3.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentina Ryser (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 82% | 5.00 | 27.3% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC win on 2026-08-29? | Yes (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Karlsruher SC vs. VfL Wolfsburg: O/U 5.5 | Over (BUY) | 72% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 96% | 5.00 | 1.5% | 💰 vendida anticipada | +0.09 |
@@ -598,6 +601,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Yokohama F·Marinos win on 2026-08-2 | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Wuxi Wugou win on 2026-08-29? | No (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Vienna (Austria), | Giovanni Oradini (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Samuele Pieri (BUY) | 61% | 5.00 | 2.9% | ✅ ganada | +3.10 |
-| ferrariChampions2026 | Will Kawasaki Frontale win on 2026-08-29 | Yes (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
