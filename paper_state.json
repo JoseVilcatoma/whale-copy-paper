@@ -1,5 +1,5 @@
 {
-  "bankroll": 513.9977729166587,
+  "bankroll": 512.5285324295963,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14315,6 +14315,21 @@
       "timestamp": 1788033312.2645333,
       "bankroll": 514.0,
       "event": "lost: sbsigner \u2014 Will Hull City AFC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788033617.825358,
+      "bankroll": 515.87,
+      "event": "won: nigiri99 \u2014 Will BV Borussia 09 Dortmund win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788033624.8084514,
+      "bankroll": 517.65,
+      "event": "won: ripley86alien \u2014 Will BV Borussia 09 Dortmund win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788033625.153406,
+      "bankroll": 512.53,
+      "event": "lost: HomeRunHazard \u2014 Spread: TCU (-7.5)"
     }
   ]
 }
