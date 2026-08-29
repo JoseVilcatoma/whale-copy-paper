@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 03:56:42 (hora de Perú)
+Actualizado: 2026-08-29 03:58:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.70
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 03:56:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $336.70)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $331.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 2 | -33.66 USD |
-| ferrariChampions2026 | 312 | 190 | 11 | -53.86 USD |
+| ferrariChampions2026 | 312 | 190 | 12 | -53.86 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -564,6 +564,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Lorenzo Carboni (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 79% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Sean Woodson vs. Jack J | Jack Jenkins (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Rei Tsuruya vs. Kevin B | Rei Tsuruya (BUY) | 88% | 5.00 | 3.3% | ⏳ pendiente | — |
@@ -593,4 +594,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 54% | 5.00 | 244.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 421.1% | ⏳ pendiente | — |
-| Sassy-Bucket | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 52% | 5.00 | 4.7% | ✅ ganada | +4.50 |
