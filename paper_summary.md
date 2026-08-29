@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:33:00 (hora de Perú)
+Actualizado: 2026-08-29 05:35:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.16
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 05:33:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $236.16)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $231.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 390 | 185 | 10 | -33.46 USD |
-| ferrariChampions2026 | 314 | 191 | 17 | -56.28 USD |
+| ferrariChampions2026 | 314 | 191 | 18 | -56.28 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -568,6 +568,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Yokohama F·Marinos win on 2026-08-2 | No (BUY) | 73% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will Wuxi Wugou win on 2026-08-29? | No (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Vienna (Austria), | Giovanni Oradini (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -597,4 +598,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 79% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Sean Woodson vs. Jack J | Jack Jenkins (BUY) | 43% | 5.00 | 0.4% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | UFC Fight Night: Rei Tsuruya vs. Kevin B | Rei Tsuruya (BUY) | 88% | 5.00 | 20.8% | ✅ ganada | +0.65 |
-| RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 96% | 5.00 | 6.8% | ✅ ganada | +0.20 |
