@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.69767910309446,
+  "bankroll": 511.2126928017246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13715,6 +13715,11 @@
       "timestamp": 1787993407.493114,
       "bankroll": 511.7,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Xiao Long vs. Francesco Nuzzi (Bantamweight, Prelims)"
+    },
+    {
+      "timestamp": 1787994298.1240127,
+      "bankroll": 511.21,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX - Game 2 Winner (-0.48 USD)"
     }
   ]
 }

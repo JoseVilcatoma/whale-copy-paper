@@ -68639,8 +68639,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 145890.32166,
-    "whale_pct": 2344.179,
+    "whale_usd": 147127.63311,
+    "whale_pct": 2364.06,
     "whale_value_at_open": 6223.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -68654,8 +68654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787994225.1644514,
-    "fills": 30
+    "last_fill_at": 1787994406.8059754,
+    "fills": 32
   },
   {
     "timestamp": 1787992652,
@@ -68690,8 +68690,8 @@
     "title": "UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",
     "outcome": "Rei Tsuruya",
     "side": "BUY",
-    "whale_usd": 6211.5392,
-    "whale_pct": 4.263,
+    "whale_usd": 30292.3992,
+    "whale_pct": 20.789,
     "whale_value_at_open": 145710.9826,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -68702,8 +68702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787994225.9749413,
-    "fills": 2
+    "last_fill_at": 1787994299.9369597,
+    "fills": 4
   },
   {
     "timestamp": 1787993122,
@@ -68795,13 +68795,15 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.48,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787994246.0646605,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.143,
+    "closed_price": 68
   },
   {
     "timestamp": 1787994243,
