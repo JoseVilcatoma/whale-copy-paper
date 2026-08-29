@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 16:27:15 (hora de Perú)
+Actualizado: 2026-08-29 16:29:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 16:27:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $299.17)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $294.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 36 | 2 | +69.75 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| TAIWANNUMBERONE | 21 | 8 | 3 | +46.33 USD |
+| TAIWANNUMBERONE | 21 | 8 | 4 | +46.33 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 14 | 2 | 6 | +33.18 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -588,6 +588,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma (BUY) | 87% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: AUR (-1.5) vs M80 (+1.5) | Aurora Gaming (BUY) | 46% | 5.00 | 10.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming (BO | Aurora Gaming (BUY) | 75% | 5.00 | 16.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 46% | 5.00 | 21.1% | ⏳ pendiente | — |
@@ -617,4 +618,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 54% | 5.00 | 6.9% | ❌ perdida | -5.12 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 97% | 5.00 | 2.5% | ✅ ganada | +0.15 |
 | 3edmond.dantes | Will ACF Fiorentina win on 2026-08-29? | No (BUY) | 45% | 5.00 | 1642.8% | ✅ ganada | +5.97 |
-| SDTrading | Houston Astros vs. New York Mets | New York Mets (BUY) | 57% | 5.00 | 16.9% | ⏳ pendiente | — |

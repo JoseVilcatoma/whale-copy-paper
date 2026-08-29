@@ -72484,5 +72484,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788038110.5145185,
     "fills": 1
+  },
+  {
+    "timestamp": 1788038865,
+    "timestamp_added": 1788038866.456048,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "boxing-itauma-hrgovi-2026-08-29",
+    "title": "Moises Itauma vs. Filip Hrgovic",
+    "outcome": "Moises Itauma",
+    "side": "BUY",
+    "whale_usd": 1816.617166,
+    "whale_pct": 2.985,
+    "whale_value_at_open": 60858.3047,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788038866.4560614,
+    "fills": 1
   }
 ]
