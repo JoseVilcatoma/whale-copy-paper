@@ -73043,8 +73043,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Aidan Mayo",
     "side": "BUY",
-    "whale_usd": 28449.413999999997,
-    "whale_pct": 15.013,
+    "whale_usd": 36558.564,
+    "whale_pct": 19.292,
     "whale_value_at_open": 189504.0763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -73055,8 +73055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788046581.289233,
-    "fills": 9
+    "last_fill_at": 1788047410.6297903,
+    "fills": 10
   },
   {
     "timestamp": 1788045252,
@@ -73168,8 +73168,8 @@
     "title": "Boston Red Sox vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 584.52,
-    "whale_pct": 0.282,
+    "whale_usd": 1186.132926,
+    "whale_pct": 0.573,
     "whale_value_at_open": 207095.0902,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -73180,8 +73180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788045664.4800148,
-    "fills": 1
+    "last_fill_at": 1788047406.8424518,
+    "fills": 2
   },
   {
     "timestamp": 1788045867,

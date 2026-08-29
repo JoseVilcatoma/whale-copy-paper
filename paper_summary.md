@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:48:21 (hora de Perú)
+Actualizado: 2026-08-29 18:50:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.92
@@ -603,12 +603,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Valorant: FURIA Esports vs G2 Esports (B | G2 Esports (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 45% | 5.00 | 11.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-29? | No (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 44% | 5.00 | 6.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 15.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 19.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | SDTrading | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 5.00 | 91.1% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
