@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 12:33:18 (hora de Perú)
+Actualizado: 2026-08-29 12:35:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $515.83
-**Retorno acumulado:** +3.17%
+**Bankroll actual:** $521.50
+**Retorno acumulado:** +4.30%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 12:33:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $170.83)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $196.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,9 +28,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 2 | 4 | +30.46 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 33 | 24 | 4 | +26.79 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 12 | 2 | 5 | +24.49 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
 | texaskid | 8 | 4 | 0 | +13.64 USD |
@@ -42,7 +42,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| ArturitoFilito | 2 | 0 | 2 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 1 | +4.14 USD |
@@ -52,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| ArturitoFilito | 3 | 1 | 0 | +2.38 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -83,11 +83,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 6 | 7 | 0 | -6.67 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| AV23IUa | 12 | 10 | 1 | -10.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
-| AV23IUa | 11 | 10 | 2 | -13.47 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2717
-- **Aciertos:** 1746 (64.3%)
+- **Apuestas resueltas:** 2721
+- **Aciertos:** 1749 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,572.59
-- **ROI sobre lo apostado:** -0.59%
-- **Comisiones pagadas (taker fee):** $247.64 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,592.59
+- **ROI sobre lo apostado:** -0.55%
+- **Comisiones pagadas (taker fee):** $248.09 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1352 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 811 | 70.5% | 67.8% | +2.7 pp |
+| 40-59% | 1354 | 50.1% | 50.1% | +0.1 pp |
+| 60-79% | 813 | 70.6% | 67.8% | +2.8 pp |
 | 80-94% | 380 | 86.6% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 174 | 96.0% | 97.4% | -1.4 pp |
 
@@ -604,7 +604,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | sbsigner | Will Coventry City FC vs. Hull City AFC  | No (BUY) | 58% | 5.00 | 4.3% | ✅ ganada | +3.52 |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX - Game 1 Wi | Natus Vincere (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ⏳ pendiente | — |
+| ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ✅ ganada | +1.60 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 90% | 5.00 | 2.6% | 💰 vendida anticipada | +0.07 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 1  | Karmine Corp (BUY) | 80% | 5.00 | 2.9% | 💰 vendida anticipada | -0.42 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.8338966167421,
+  "bankroll": 521.5000077278532,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14195,6 +14195,26 @@
       "timestamp": 1788024291.326423,
       "bankroll": 515.83,
       "event": "won: ferrariChampions2026 \u2014 Games Total: O/U 3.5"
+    },
+    {
+      "timestamp": 1788024918.4984384,
+      "bankroll": 521.81,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FUT (-1.5) vs Lynn Vision (+1.5)"
+    },
+    {
+      "timestamp": 1788024926.0085864,
+      "bankroll": 525.04,
+      "event": "won: AV23IUa \u2014 Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788024926.1091938,
+      "bankroll": 519.9,
+      "event": "lost: ArturitoFilito \u2014 Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788024927.3109527,
+      "bankroll": 521.5,
+      "event": "won: ArturitoFilito \u2014 Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B"
     }
   ]
 }
