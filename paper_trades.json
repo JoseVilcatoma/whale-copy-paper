@@ -72424,8 +72424,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 18216.01,
-    "whale_pct": 136.041,
+    "whale_usd": 20912.5208,
+    "whale_pct": 156.179,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72436,8 +72436,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788043494.7275798,
-    "fills": 7
+    "last_fill_at": 1788044400.1728199,
+    "fills": 8
   },
   {
     "timestamp": 1788038103,
@@ -72790,8 +72790,8 @@
     "title": "LoL: Cloud9 vs LYON - Game 1 Winner",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 9561.969684,
-    "whale_pct": 56.146,
+    "whale_usd": 10410.607784,
+    "whale_pct": 61.129,
     "whale_value_at_open": 17030.6692,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -72802,8 +72802,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788044243.2769482,
-    "fills": 7
+    "last_fill_at": 1788044395.417373,
+    "fills": 8
   },
   {
     "timestamp": 1788044007,
@@ -72840,8 +72840,8 @@
     "title": "Game Handicap: LY (-1.5) vs Cloud9 (+1.5)",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 4000.0,
-    "whale_pct": 21.12,
+    "whale_usd": 6027.04,
+    "whale_pct": 31.822,
     "whale_value_at_open": 18939.7722,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -72852,8 +72852,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788044049.108904,
-    "fills": 1
+    "last_fill_at": 1788044373.7083921,
+    "fills": 2
   },
   {
     "timestamp": 1788044050,
@@ -72877,6 +72877,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788044051.3977983,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788044372,
+    "timestamp_added": 1788044372.9757617,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-c9-ly-2026-08-29-game-handicap-home-1pt5",
+    "title": "Game Handicap: LY (-1.5) vs Cloud9 (+1.5)",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "whale_usd": 527.4599999999999,
+    "whale_pct": 0.253,
+    "whale_value_at_open": 208262.8945,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788044372.9757721,
     "fills": 1
   }
 ]
