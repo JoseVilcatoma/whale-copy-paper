@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.8277492410376,
+  "bankroll": 501.75474924103764,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14490,6 +14490,11 @@
       "timestamp": 1788042566.3225307,
       "bankroll": 506.83,
       "event": "won: HomeRunHazard \u2014 Miami Marlins vs. Washington Nationals: O/U 7.5"
+    },
+    {
+      "timestamp": 1788042883.8024695,
+      "bankroll": 501.75,
+      "event": "lost: ethanaz \u2014 Spread: USC (-20.5)"
     }
   ]
 }
