@@ -68886,8 +68886,8 @@
     "title": "LoL: Top Esports vs LGD Gaming - Game 1 Winner",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 22376.065357999996,
-    "whale_pct": 11.086,
+    "whale_usd": 23712.647557999997,
+    "whale_pct": 11.749,
     "whale_value_at_open": 201832.0749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -68898,8 +68898,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787996658.1279886,
-    "fills": 16
+    "last_fill_at": 1787996759.6055152,
+    "fills": 17
   },
   {
     "timestamp": 1787995168,
@@ -68995,6 +68995,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787996579.0681288,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787996691,
+    "timestamp_added": 1787996692.2578046,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "jap-gam-san-2026-08-29-draw",
+    "title": "Will Gamba \u014csaka vs. Sanfrecce Hiroshima end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 532.0008,
+    "whale_pct": 0.278,
+    "whale_value_at_open": 191162.0967,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787996692.2578156,
     "fills": 1
   }
 ]
