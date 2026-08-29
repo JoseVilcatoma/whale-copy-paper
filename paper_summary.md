@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 10:53:05 (hora de Perú)
+Actualizado: 2026-08-29 10:55:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 10:53:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $113.86)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $103.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 83 | 31 | 0 | +73.67 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 186 | 34 | +43.74 USD |
+| HomeRunHazard | 376 | 186 | 35 | +43.74 USD |
 | TAIWANNUMBERONE | 17 | 8 | 5 | +34.12 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 2 | 0 | 1 | +4.69 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| ripley86alien | 1 | 0 | 0 | +4.14 USD |
+| ripley86alien | 1 | 0 | 1 | +4.14 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -570,6 +570,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | epl-liv-not-2026-08-29-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | itf-denchev-stanko-2026-08-29 | RN1, ferrariChampions2026 |
 | mlb-sea-tor-2026-08-29-total-7pt5 | HomeRunHazard, nigiri99 |
+| bun-dor-hsv-2026-08-29-dor | nigiri99, ripley86alien |
 | cs2-fut-lvg-2026-08-29 | AV23IUa, ArturitoFilito |
 | nfl-chi-ten-2026-08-29-total-36pt5 | HomeRunHazard, SDTrading |
 | mlb-cws-min-2026-08-29 | HomeRunHazard, SDTrading |
@@ -578,6 +579,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: TCU (-7.5) | TCU (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ripley86alien | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 73% | 5.00 | 87.8% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -594,7 +597,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 90% | 5.00 | 2.6% | 💰 vendida anticipada | +0.07 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 1  | Karmine Corp (BUY) | 80% | 5.00 | 2.9% | 💰 vendida anticipada | -0.42 |
-| HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 53% | 5.00 | 7.5% | ⏳ pendiente | — |
 | SDTrading | CHI vs. TEN: O/U 36.5 | Over (BUY) | 54% | 5.00 | 6.0% | ⏳ pendiente | — |
 | HomeRunHazard | CHI vs. TEN: O/U 36.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | Lynn Vision (BUY) | 42% | 5.00 | 26.6% | ⏳ pendiente | — |
@@ -606,5 +609,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Stanford (-6.5) | Hawaii (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-5.5) | Hawaii (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | North Carolina State vs. Virginia: O/U 5 | Under (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
-| RN1 | AFC Bournemouth vs. Everton FC: O/U 2.5 | Under (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will Falkirk FC win on 2026-08-29? | No (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |

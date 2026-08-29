@@ -71248,8 +71248,8 @@
     "title": "Boston Red Sox vs. New York Yankees",
     "outcome": "New York Yankees",
     "side": "BUY",
-    "whale_usd": 4709.000400000001,
-    "whale_pct": 3.83,
+    "whale_usd": 9189.5454,
+    "whale_pct": 7.475,
     "whale_value_at_open": 122935.0252,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -71260,8 +71260,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788015080.4616466,
-    "fills": 1
+    "last_fill_at": 1788018838.4910383,
+    "fills": 2
   },
   {
     "timestamp": 1788015828,
@@ -71655,6 +71655,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788017984.9792726,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788018789,
+    "timestamp_added": 1788018790.0939145,
+    "username": "ripley86alien",
+    "wallet": "0x168a51f1cac0ad3b166797069382495a8aa10d24",
+    "slug": "bun-dor-hsv-2026-08-29-dor",
+    "title": "Will BV Borussia 09 Dortmund win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 89431.6896,
+    "whale_pct": 87.809,
+    "whale_value_at_open": 101847.46,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "nigiri99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788018790.093926,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788018798,
+    "timestamp_added": 1788018798.821049,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "cfb-ncar-tcu-2026-08-29-spread-home-7pt5",
+    "title": "Spread: TCU (-7.5)",
+    "outcome": "TCU",
+    "side": "BUY",
+    "whale_usd": 6419.9996,
+    "whale_pct": 3.16,
+    "whale_value_at_open": 203139.0622,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788018798.8210607,
     "fills": 1
   }
 ]
