@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.8581617570167,
+  "bankroll": 487.1042140445984,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14120,6 +14120,16 @@
       "timestamp": 1788018775.88547,
       "bankroll": 478.86,
       "event": "lost: RN1 \u2014 Will 1. FC K\u00f6ln win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788019815.8902574,
+      "bankroll": 484.83,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Acend vs GenOne (BO3) - CCT Europe Series #7 Playoffs"
+    },
+    {
+      "timestamp": 1788019818.5819988,
+      "bankroll": 487.1,
+      "event": "won: ferrariChampions2026 \u2014 Spread: FK Zenit (-1.5)"
     }
   ]
 }
