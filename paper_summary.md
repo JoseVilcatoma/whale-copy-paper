@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 10:34:22 (hora de Perú)
+Actualizado: 2026-08-29 10:36:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 10:34:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $127.51)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $117.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 83 | 31 | 0 | +73.67 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 186 | 30 | +43.74 USD |
+| HomeRunHazard | 376 | 186 | 32 | +43.74 USD |
 | TAIWANNUMBERONE | 17 | 8 | 5 | +34.12 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -578,7 +578,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| sbsigner | Will Hull City AFC win on 2026-08-29? | No (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
+| HomeRunHazard | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
+| sbsigner | Will Hull City AFC win on 2026-08-29? | No (BUY) | 90% | 5.00 | 3.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Minnesota Twins (-1.5) | Chicago White Sox (BUY) | 65% | 5.00 | 2.7% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 49% | 5.00 | 85.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -606,5 +608,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Falkirk FC win on 2026-08-29? | No (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will AFC Bournemouth win on 2026-08-29? | No (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | Spread: Juventus FC (-2.5) | Parma Calcio 1913 (BUY) | 70% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | Will Celtic FC win on 2026-08-29? | Yes (BUY) | 80% | 5.00 | 0.6% | ⏳ pendiente | — |
-| RN1 | Will Sheffield Wednesday FC win on 2026- | Yes (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
