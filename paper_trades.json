@@ -68721,8 +68721,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -68886,8 +68886,8 @@
     "title": "LoL: Top Esports vs LGD Gaming - Game 1 Winner",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 3555.1679999999997,
-    "whale_pct": 1.761,
+    "whale_usd": 5713.883399999999,
+    "whale_pct": 2.831,
     "whale_value_at_open": 201832.0749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -68898,8 +68898,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787995219.553966,
-    "fills": 3
+    "last_fill_at": 1787996012.2088552,
+    "fills": 5
   },
   {
     "timestamp": 1787995168,

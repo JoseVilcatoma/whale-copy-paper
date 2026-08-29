@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.2126928017246,
+  "bankroll": 506.0696928017246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13720,6 +13720,11 @@
       "timestamp": 1787994298.1240127,
       "bankroll": 511.21,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX - Game 2 Winner (-0.48 USD)"
+    },
+    {
+      "timestamp": 1787995968.759848,
+      "bankroll": 506.07,
+      "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Sean Woodson vs. Jack Jenkins (Featherweight, Prelims)"
     }
   ]
 }
