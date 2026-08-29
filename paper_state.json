@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.7630387296955,
+  "bankroll": 502.7419478206046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14170,6 +14170,11 @@
       "timestamp": 1788023051.3273172,
       "bankroll": 498.76,
       "event": "won: sbsigner \u2014 Will Coventry City FC vs. Hull City AFC end in a draw?"
+    },
+    {
+      "timestamp": 1788023672.8265142,
+      "bankroll": 502.74,
+      "event": "won: RN1 \u2014 Will Sheffield Wednesday FC win on 2026-08-29?"
     }
   ]
 }
