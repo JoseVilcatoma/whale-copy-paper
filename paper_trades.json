@@ -72246,8 +72246,8 @@
     "title": "LoL: Team Liquid vs Shopify Rebellion - Game 1 Winner",
     "outcome": "Team Liquid",
     "side": "BUY",
-    "whale_usd": 906.3599999999999,
-    "whale_pct": 0.612,
+    "whale_usd": 1591.8615,
+    "whale_pct": 1.074,
     "whale_value_at_open": 148153.8297,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -72258,7 +72258,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788034163.092462,
-    "fills": 1
+    "last_fill_at": 1788034354.124147,
+    "fills": 2
   }
 ]

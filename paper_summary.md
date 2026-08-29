@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 15:10:48 (hora de Perú)
+Actualizado: 2026-08-29 15:12:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $512.48
@@ -585,7 +585,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ArturitoFilito | Winston-Salem Open: Arthur Fery vs Ignac | Ignacio Buse (BUY) | 45% | 5.00 | 7.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 20.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | 💰 vendida anticipada | -0.04 |
