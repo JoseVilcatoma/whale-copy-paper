@@ -68127,8 +68127,8 @@
     "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
     "outcome": "Lawrence Lui",
     "side": "BUY",
-    "whale_usd": 1746.29,
-    "whale_pct": 28.196,
+    "whale_usd": 39746.29,
+    "whale_pct": 641.764,
     "whale_value_at_open": 6193.2875,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -68139,8 +68139,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787972551.6270034,
-    "fills": 1
+    "last_fill_at": 1787986631.8999112,
+    "fills": 2
   },
   {
     "timestamp": 1787975859,
