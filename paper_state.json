@@ -1,5 +1,5 @@
 {
-  "bankroll": 510.2820626036518,
+  "bankroll": 509.64244721903646,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13680,6 +13680,16 @@
       "timestamp": 1787978171.595979,
       "bankroll": 510.28,
       "event": "won: Sassy-Bucket \u2014 Philadelphia Phillies vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1787979427.9622493,
+      "bankroll": 505.15,
+      "event": "lost: pleaseplease123 \u2014 Baltimore Orioles vs. Athletics"
+    },
+    {
+      "timestamp": 1787979430.695712,
+      "bankroll": 509.64,
+      "event": "won: Sassy-Bucket \u2014 Baltimore Orioles vs. Athletics"
     }
   ]
 }
