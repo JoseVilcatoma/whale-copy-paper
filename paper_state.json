@@ -1,5 +1,5 @@
 {
-  "bankroll": 537.1338754835792,
+  "bankroll": 539.739183175887,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13915,6 +13915,11 @@
       "timestamp": 1788008602.9301455,
       "bankroll": 537.13,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Denisa Zoldakova vs Justina Mikulskyte"
+    },
+    {
+      "timestamp": 1788008727.4846814,
+      "bankroll": 539.74,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Trieste (Italy), clay: Gabriela Ce vs Pia Lovric"
     }
   ]
 }
