@@ -72904,5 +72904,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788044372.9757721,
     "fills": 1
+  },
+  {
+    "timestamp": 1788044596,
+    "timestamp_added": 1788044596.9100957,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mia-wsh-2026-08-29",
+    "title": "Miami Marlins vs. Washington Nationals",
+    "outcome": "Washington Nationals",
+    "side": "BUY",
+    "whale_usd": 1010.8800000000001,
+    "whale_pct": 0.449,
+    "whale_value_at_open": 225122.479,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788044596.9101083,
+    "fills": 1
   }
 ]

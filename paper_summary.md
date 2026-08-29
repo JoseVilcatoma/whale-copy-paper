@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:02:43 (hora de Perú)
+Actualizado: 2026-08-29 18:04:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.06
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 18:02:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $271.06)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $266.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 414 | 199 | 6 | -46.41 USD |
-| ferrariChampions2026 | 331 | 199 | 6 | -66.29 USD |
+| ferrariChampions2026 | 331 | 199 | 7 | -66.29 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -580,7 +580,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-navi-gx-2026-08-29-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | mlb-cws-min-2026-08-29 | HomeRunHazard, SDTrading |
 | mlb-sea-tor-2026-08-29 | HomeRunHazard, texaskid |
-| mlb-mia-wsh-2026-08-29 | HomeRunHazard, RN1 |
+| mlb-mia-wsh-2026-08-29 | HomeRunHazard, RN1, ferrariChampions2026 |
 | mlb-sd-tb-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-hou-nym-2026-08-29 | SDTrading, sbsigner |
 | atp-fery-buse-2026-08-29 | AV23IUa, ArturitoFilito |
@@ -592,6 +592,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | Cloud9 (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | CF Montréal (BUY) | 51% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | LYON (BUY) | 41% | 5.00 | 31.8% | ⏳ pendiente | — |
@@ -621,4 +622,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ArturitoFilito | Winston-Salem Open: Arthur Fery vs Ignac | Ignacio Buse (BUY) | 45% | 5.00 | 7.5% | ✅ ganada | +5.97 |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 21.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | 💰 vendida anticipada | -0.04 |
