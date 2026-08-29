@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.9299647135947,
+  "bankroll": 500.3153526917368,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13590,6 +13590,16 @@
       "timestamp": 1787968736.783279,
       "bankroll": 491.93,
       "event": "lost: Sassy-Bucket \u2014 Kansas City Royals vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1787969369.066705,
+      "bankroll": 495.03,
+      "event": "won: SDTrading \u2014 Seattle Mariners vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1787969371.8027155,
+      "bankroll": 500.32,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-12.5)"
     }
   ]
 }
