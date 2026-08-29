@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.29129337288254,
+  "bankroll": 505.7866779882672,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13670,6 +13670,11 @@
       "timestamp": 1787977227.254442,
       "bankroll": 501.29,
       "event": "won: ferrariChampions2026 \u2014 Monterrey Open: Nikola Bartunkova vs Elise Mertens"
+    },
+    {
+      "timestamp": 1787977852.1514373,
+      "bankroll": 505.79,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Washington Mystics (-5.5)"
     }
   ]
 }
