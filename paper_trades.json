@@ -68045,5 +68045,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787967507.267031,
     "fills": 1
+  },
+  {
+    "timestamp": 1787968578,
+    "timestamp_added": 1787968578.8465767,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-t1-fox1-2026-08-29",
+    "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 3938.4239999999995,
+    "whale_pct": 21.999,
+    "whale_value_at_open": 17902.9788,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787968578.846592,
+    "fills": 1
   }
 ]

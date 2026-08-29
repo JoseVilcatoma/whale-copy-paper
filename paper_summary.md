@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 20:54:24 (hora de Perú)
+Actualizado: 2026-08-28 20:56:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.18
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 20:54:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $327.18)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $322.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 26 | 0 | +67.06 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
-| TAIWANNUMBERONE | 15 | 7 | 2 | +36.52 USD |
+| TAIWANNUMBERONE | 15 | 7 | 3 | +36.52 USD |
 | SDTrading | 32 | 22 | 3 | +33.95 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -558,6 +558,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 22.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 52% | 5.00 | 4.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 64% | 5.00 | 87.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 204.0% | ⏳ pendiente | — |
@@ -587,4 +588,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Pittsburgh Pirates vs. St. Louis Cardina | St. Louis Cardinals (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 74% | 5.00 | 5.9% | ❌ perdida | -5.07 |
 | ferrariChampions2026 | Will Deportivo Alavés vs. Villarreal CF  | No (BUY) | 72% | 5.00 | 0.7% | ✅ ganada | +1.87 |
-| ferrariChampions2026 | Spread: Miami Marlins (-1.5) | Washington Nationals (BUY) | 57% | 5.00 | 2.4% | ✅ ganada | +3.66 |
