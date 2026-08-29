@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 14:44:01 (hora de Perú)
+Actualizado: 2026-08-29 14:46:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $515.57
-**Retorno acumulado:** +3.11%
+**Bankroll actual:** $520.25
+**Retorno acumulado:** +4.05%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 14:44:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $215.57)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $225.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,8 +23,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 34 | 2 | +71.54 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
+| HomeRunHazard | 377 | 187 | 33 | +43.29 USD |
 | TAIWANNUMBERONE | 19 | 8 | 3 | +38.69 USD |
-| HomeRunHazard | 376 | 187 | 34 | +38.61 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2733
-- **Aciertos:** 1757 (64.3%)
+- **Apuestas resueltas:** 2734
+- **Aciertos:** 1758 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,652.59
-- **ROI sobre lo apostado:** -0.58%
-- **Comisiones pagadas (taker fee):** $249.03 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.24% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,657.59
+- **ROI sobre lo apostado:** -0.55%
+- **Comisiones pagadas (taker fee):** $249.15 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.28% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1359 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 1360 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 815 | 70.6% | 67.8% | +2.8 pp |
 | 80-94% | 383 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
@@ -583,7 +583,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 59% | 5.00 | 11.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 59% | 5.00 | 14.2% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Tereza Valentova (BUY) | 59% | 5.00 | 52.8% | ⏳ pendiente | — |
 | kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 729.9% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Katie Volynets (BUY) | 76% | 5.00 | 217.9% | 💰 vendida anticipada | +0.08 |

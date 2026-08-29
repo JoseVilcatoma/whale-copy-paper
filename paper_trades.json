@@ -70235,8 +70235,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -72142,8 +72142,8 @@
     "title": "LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 5789.7720899999995,
-    "whale_pct": 11.363,
+    "whale_usd": 7226.43869,
+    "whale_pct": 14.183,
     "whale_value_at_open": 50951.6303,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -72156,7 +72156,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788032585.5481987,
-    "fills": 1
+    "last_fill_at": 1788032663.6473114,
+    "fills": 3
   }
 ]

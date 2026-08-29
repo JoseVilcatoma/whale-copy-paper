@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.5669675152529,
+  "bankroll": 520.2488890838804,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14285,6 +14285,11 @@
       "timestamp": 1788031741.7349913,
       "bankroll": 515.57,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season (-1.53 USD)"
+    },
+    {
+      "timestamp": 1788032686.3087273,
+      "bankroll": 520.25,
+      "event": "won: HomeRunHazard \u2014 Spread: New York Liberty (-8.5)"
     }
   ]
 }
