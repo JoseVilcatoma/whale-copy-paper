@@ -73350,5 +73350,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788046899.083718,
     "fills": 2
+  },
+  {
+    "timestamp": 1788046980,
+    "timestamp_added": 1788046981.0737114,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-parry-mertens-2026-08-29-first-set-winner-Parry-vs-Mertens",
+    "title": "Set 1 Winner: Parry vs Mertens",
+    "outcome": "Mertens",
+    "side": "BUY",
+    "whale_usd": 5000.0,
+    "whale_pct": 2.491,
+    "whale_value_at_open": 200732.8245,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788046981.494811,
+    "fills": 2
   }
 ]
