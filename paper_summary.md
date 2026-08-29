@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:56:50 (hora de Perú)
+Actualizado: 2026-08-29 04:58:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 04:56:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $291.92)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $286.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 3 | +66.58 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 4 | +66.58 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 3 | +48.89 USD |
 | TAIWANNUMBERONE | 15 | 7 | 6 | +36.52 USD |
@@ -566,6 +566,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ArturitoFilito | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 75% | 5.00 | 11.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Gamba Ōsaka vs. Sanfrecce Hiroshima | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Pecs (Hungary), c | Ignacio Monzon (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -595,4 +596,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | O/U 56.5 | Over (BUY) | 49% | 5.00 | 5.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 3.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will ACF Fiorentina win on 2026-08-29? | Yes (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
