@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 15:54:02 (hora de Perú)
+Actualizado: 2026-08-29 15:56:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $508.94
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 15:54:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $278.94)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $273.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 33 | 25 | 3 | +21.67 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| texaskid | 8 | 4 | 1 | +13.64 USD |
+| texaskid | 8 | 4 | 2 | +13.64 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | ethanaz | 2 | 0 | 1 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -573,6 +573,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-denchev-stanko-2026-08-29 | RN1, ferrariChampions2026 |
 | mlb-sea-tor-2026-08-29-total-7pt5 | HomeRunHazard, nigiri99 |
 | bun-dor-hsv-2026-08-29-dor | nigiri99, ripley86alien |
+| mlb-bos-nyy-2026-08-29-total-7pt5 | HomeRunHazard, texaskid |
 | lol-tl2-sr-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | cs2-fut-lvg-2026-08-29 | AV23IUa, ArturitoFilito |
 | nfl-chi-ten-2026-08-29-total-36pt5 | HomeRunHazard, SDTrading |
@@ -587,6 +588,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 229.9% | ⏳ pendiente | — |
 | sbsigner | Houston Astros vs. New York Mets | Houston Astros (BUY) | 44% | 5.00 | 14.5% | ⏳ pendiente | — |
 | sbsigner | Will Toulouse FC win on 2026-08-29? | Yes (BUY) | 70% | 5.00 | 19.5% | ⏳ pendiente | — |
 | sbsigner | Will Olympique Lyonnais win on 2026-08-2 | No (BUY) | 55% | 5.00 | 22.3% | ⏳ pendiente | — |
@@ -616,4 +618,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 73% | 5.00 | 87.8% | ✅ ganada | +1.78 |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
