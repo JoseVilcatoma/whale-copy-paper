@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 11:07:11 (hora de Perú)
+Actualizado: 2026-08-29 11:09:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 11:07:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $93.86)
+**Capital comprometido ahora mismo:** $390.00 en 78 posiciones abiertas (disponible para nuevas apuestas: $88.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
+| 3edmond.dantes | 1 | 1 | 1 | -0.62 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -561,6 +561,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-fox1-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-tes-lgd-2026-08-29-game-handicap-away-1pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, TAIWANNUMBERONE |
 | lol-kc-sk-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
+| sea-fio-fro-2026-08-29-fio | 3edmond.dantes, ferrariChampions2026 |
 | ufc-din2-camnel-2026-08-29 | Sassy-Bucket, ferrariChampions2026 |
 | itf-ritscha-contri-2026-08-29 | RN1, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
@@ -579,8 +580,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-08-29? | No (BUY) | 45% | 5.00 | 103.0% | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. New York Mets | New York Mets (BUY) | 57% | 5.00 | 16.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 5.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 9.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: TCU (-7.5) | TCU (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 73% | 5.00 | 87.8% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -608,4 +610,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: TCU (-8.5) | North Carolina (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 90% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Stanford (-6.5) | Hawaii (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |

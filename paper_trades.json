@@ -71716,8 +71716,8 @@
     "title": "LoL: Karmine Corp vs SK Gaming - Game 2 Winner",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 7387.6455000000005,
-    "whale_pct": 5.463,
+    "whale_usd": 12110.4138,
+    "whale_pct": 8.956,
     "whale_value_at_open": 135227.8334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -71728,8 +71728,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788019476.9858177,
-    "fills": 2
+    "last_fill_at": 1788019739.9202988,
+    "fills": 4
   },
   {
     "timestamp": 1788019365,
@@ -71753,6 +71753,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788019366.5895898,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788019683,
+    "timestamp_added": 1788019684.3109283,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "sea-fio-fro-2026-08-29-fio",
+    "title": "Will ACF Fiorentina win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 5280.0,
+    "whale_pct": 102.986,
+    "whale_value_at_open": 5126.91,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788019684.3109396,
     "fills": 1
   }
 ]
