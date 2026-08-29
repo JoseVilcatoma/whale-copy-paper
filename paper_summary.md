@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:28:56 (hora de Perú)
+Actualizado: 2026-08-29 06:31:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:28:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $245.46)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $240.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 392 | 186 | 14 | -34.87 USD |
+| RN1 | 392 | 186 | 15 | -34.87 USD |
 | ferrariChampions2026 | 318 | 192 | 20 | -50.37 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -571,7 +571,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | Karlsruher SC vs. VfL Wolfsburg: O/U 5.5 | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Liverpool FC win on 2026-08-29? | Yes (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Karlsruher SC vs. VfL Wolfsburg: O/U 5.5 | Over (BUY) | 72% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 96% | 5.00 | 1.5% | 💰 vendida anticipada | +0.09 |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -581,7 +582,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Zenit (-1.5) | FK Fakel Voronezh (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will V-Varen Nagasaki win on 2026-08-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 73% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Tōkyō Verdy win on 2026-08-29? | No (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -600,4 +601,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ArturitoFilito | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 53% | 5.00 | 92.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 89% | 5.00 | 2.9% | ✅ ganada | +0.59 |
