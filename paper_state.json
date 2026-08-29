@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.2563331446282,
+  "bankroll": 528.6711157533239,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13985,6 +13985,11 @@
       "timestamp": 1788010737.3644288,
       "bankroll": 528.26,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788010855.2756476,
+      "bankroll": 528.67,
+      "event": "won: RN1 \u2014 KBO: Kiwoom Heroes vs. Doosan Bears"
     }
   ]
 }

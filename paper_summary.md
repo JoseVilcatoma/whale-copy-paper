@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 08:39:04 (hora de Perú)
+Actualizado: 2026-08-29 08:41:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $528.26
-**Retorno acumulado:** +5.65%
+**Bankroll actual:** $528.67
+**Retorno acumulado:** +5.73%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 08:39:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $248.26)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $253.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,7 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 397 | 188 | 19 | -32.13 USD |
+| RN1 | 398 | 188 | 18 | -31.72 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 326 | 195 | 9 | -55.92 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
@@ -98,13 +98,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2679
-- **Aciertos:** 1723 (64.3%)
-- **Cuota promedio de entrada:** 63.5%
+- **Apuestas resueltas:** 2680
+- **Aciertos:** 1724 (64.3%)
+- **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,382.59
-- **ROI sobre lo apostado:** -0.52%
-- **Comisiones pagadas (taker fee):** $243.99 (1.82% del capital apostado)
+- **Total apostado (suma de stakes):** $13,387.59
+- **ROI sobre lo apostado:** -0.51%
+- **Comisiones pagadas (taker fee):** $244.01 (1.82% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1334 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 796 | 70.6% | 67.8% | +2.8 pp |
-| 80-94% | 375 | 86.7% | 86.8% | -0.1 pp |
+| 80-94% | 376 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 174 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -580,7 +580,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 55% | 5.00 | 10.7% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Tampa Bay Rays: O/U | Over (BUY) | 51% | 5.00 | 7.7% | ⏳ pendiente | — |
-| HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays:  | Over (BUY) | 50% | 5.00 | 5.8% | ⏳ pendiente | — |
+| HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays:  | Over (BUY) | 50% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Minnesota Twins: O | Over (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 45% | 5.00 | 9.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Under (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |

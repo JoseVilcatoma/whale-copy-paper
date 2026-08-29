@@ -69475,8 +69475,8 @@
     "odds_at_bet": 92,
     "fee_usd": 0.02,
     "odds_ballena": 90,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.41,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -70374,8 +70374,8 @@
     "title": "Seattle Mariners vs. Toronto Blue Jays: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3448.9581,
-    "whale_pct": 5.827,
+    "whale_usd": 5823.958699999999,
+    "whale_pct": 9.839,
     "whale_value_at_open": 59193.1062,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -70386,8 +70386,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788007593.9658372,
-    "fills": 3
+    "last_fill_at": 1788010845.0911984,
+    "fills": 4
   },
   {
     "timestamp": 1788008025,
