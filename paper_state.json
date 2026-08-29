@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.74359237829253,
+  "bankroll": 494.26752220285397,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14520,6 +14520,16 @@
       "timestamp": 1788044734.907173,
       "bankroll": 495.74,
       "event": "won: HomeRunHazard \u2014 North Carolina State vs. Virginia: O/U 51.5"
+    },
+    {
+      "timestamp": 1788045045.7354703,
+      "bankroll": 499.41,
+      "event": "won: SDTrading \u2014 Houston Astros vs. New York Mets"
+    },
+    {
+      "timestamp": 1788045047.0587635,
+      "bankroll": 494.27,
+      "event": "lost: sbsigner \u2014 Houston Astros vs. New York Mets"
     }
   ]
 }

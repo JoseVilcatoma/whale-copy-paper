@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:08:51 (hora de Perú)
+Actualizado: 2026-08-29 18:10:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.74
-**Retorno acumulado:** -0.85%
+**Bankroll actual:** $494.27
+**Retorno acumulado:** -1.15%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 18:08:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $275.74)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $274.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,8 +29,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| SDTrading | 35 | 25 | 2 | +30.41 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 34 | 25 | 2 | +26.75 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -65,7 +65,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| sbsigner | 2 | 2 | 1 | -2.61 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -81,6 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| sbsigner | 2 | 3 | 0 | -7.75 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -93,20 +93,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 414 | 199 | 6 | -46.41 USD |
-| ferrariChampions2026 | 331 | 199 | 7 | -66.29 USD |
+| ferrariChampions2026 | 331 | 199 | 8 | -66.29 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2778
-- **Aciertos:** 1781 (64.1%)
+- **Apuestas resueltas:** 2780
+- **Aciertos:** 1782 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,877.59
-- **ROI sobre lo apostado:** -0.69%
-- **Comisiones pagadas (taker fee):** $253.88 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,887.59
+- **ROI sobre lo apostado:** -0.70%
+- **Comisiones pagadas (taker fee):** $254.12 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1391 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1393 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 827 | 70.4% | 67.8% | +2.6 pp |
 | 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
@@ -592,12 +592,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 76% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | Cloud9 (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | CF Montréal (BUY) | 51% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | LYON (BUY) | 41% | 5.00 | 31.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 62% | 5.00 | 15.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 63% | 5.00 | 79.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 63% | 5.00 | 85.3% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Bears vs. Titans: O/U 39.5 | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: GenOne vs INOX Division  | INOX Division (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -616,9 +618,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Shopify Rebellion (BUY) | 50% | 5.00 | 20.2% | 💰 vendida anticipada | -2.91 |
 | TAIWANNUMBERONE | Will South Africa win in regulation? | Yes (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 1591.7% | ⏳ pendiente | — |
-| sbsigner | Houston Astros vs. New York Mets | Houston Astros (BUY) | 44% | 5.00 | 14.5% | ⏳ pendiente | — |
+| sbsigner | Houston Astros vs. New York Mets | Houston Astros (BUY) | 44% | 5.00 | 14.5% | ❌ perdida | -5.14 |
 | sbsigner | Will Toulouse FC win on 2026-08-29? | Yes (BUY) | 70% | 5.00 | 19.5% | ❌ perdida | -5.08 |
 | sbsigner | Will Olympique Lyonnais win on 2026-08-2 | No (BUY) | 55% | 5.00 | 22.3% | ✅ ganada | +3.98 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 6.8% | ⏳ pendiente | — |
-| ArturitoFilito | Winston-Salem Open: Arthur Fery vs Ignac | Ignacio Buse (BUY) | 45% | 5.00 | 7.5% | ✅ ganada | +5.97 |
-| TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 21.3% | ⏳ pendiente | — |
