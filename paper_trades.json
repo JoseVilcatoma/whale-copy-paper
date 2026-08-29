@@ -71279,13 +71279,15 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.42,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788015878.2377052,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.109,
+    "closed_price": 75
   },
   {
     "timestamp": 1788015854,
@@ -71296,8 +71298,8 @@
     "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 690.36,
-    "whale_pct": 0.524,
+    "whale_usd": 3261.4292,
+    "whale_pct": 2.475,
     "whale_value_at_open": 131796.5275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -71308,7 +71310,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788015855.1496878,
-    "fills": 1
+    "last_fill_at": 1788016041.0653253,
+    "fills": 2
   }
 ]
