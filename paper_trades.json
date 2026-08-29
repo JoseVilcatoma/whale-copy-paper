@@ -68489,8 +68489,8 @@
     "title": "UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)",
     "outcome": "Cameron Nelson",
     "side": "BUY",
-    "whale_usd": 2543.059199,
-    "whale_pct": 2.186,
+    "whale_usd": 3093.059199,
+    "whale_pct": 2.659,
     "whale_value_at_open": 116345.332,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -68503,7 +68503,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787988329.5026548,
-    "fills": 2
+    "last_fill_at": 1787988333.0103624,
+    "fills": 3
   }
 ]

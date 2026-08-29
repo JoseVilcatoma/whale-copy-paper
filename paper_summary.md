@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 02:25:32 (hora de Perú)
+Actualizado: 2026-08-29 02:27:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.51
@@ -561,7 +561,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 90% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 90% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Al Kholood Saudi Club vs. Al Ahli Saudi  | Over (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 45% | 5.00 | 50.5% | ⏳ pendiente | — |
