@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 10:13:20 (hora de Perú)
+Actualizado: 2026-08-29 10:15:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 10:13:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $164.95)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $154.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 82 | 31 | 0 | +73.60 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 82 | 31 | 1 | +73.60 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 186 | 26 | +43.74 USD |
 | TAIWANNUMBERONE | 17 | 8 | 4 | +34.12 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
-| ArturitoFilito | 1 | 0 | 2 | +1.60 USD |
+| ArturitoFilito | 1 | 0 | 3 | +1.60 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -559,6 +559,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-fox1-2026-08-29-game1 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-t1-fox1-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-tes-lgd-2026-08-29-game-handicap-away-1pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, TAIWANNUMBERONE |
+| lol-kc-sk-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | ufc-din2-camnel-2026-08-29 | Sassy-Bucket, ferrariChampions2026 |
 | itf-ritscha-contri-2026-08-29 | RN1, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
@@ -575,6 +576,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 90% | 5.00 | 2.6% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 1  | Karmine Corp (BUY) | 80% | 5.00 | 2.9% | 💰 vendida anticipada | -0.42 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -603,5 +606,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will 1. FC Köln win on 2026-08-29? | No (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | North Carolina vs. TCU: O/U 46.5 | Over (BUY) | 50% | 5.00 | 5.1% | ⏳ pendiente | — |
 | nigiri99 | AFC Bournemouth vs. Everton FC: Both Tea | Yes (BUY) | 60% | 5.00 | 1.0% | ⏳ pendiente | — |
-| nigiri99 | Tottenham Hotspur FC vs. Newcastle Unite | Over (BUY) | 61% | 5.00 | 0.7% | ⏳ pendiente | — |
-| nigiri99 | Seattle Mariners vs. Toronto Blue Jays:  | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
