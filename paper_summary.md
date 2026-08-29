@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 10:17:30 (hora de Perú)
+Actualizado: 2026-08-29 10:19:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.01
@@ -578,7 +578,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 90% | 5.00 | 2.6% | 💰 vendida anticipada | +0.07 |
-| HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 2.5% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 1  | Karmine Corp (BUY) | 80% | 5.00 | 2.9% | 💰 vendida anticipada | -0.42 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 53% | 5.00 | 3.8% | ⏳ pendiente | — |
 | SDTrading | CHI vs. TEN: O/U 36.5 | Over (BUY) | 54% | 5.00 | 6.0% | ⏳ pendiente | — |

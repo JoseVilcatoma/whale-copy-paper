@@ -71298,8 +71298,8 @@
     "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3261.4292,
-    "whale_pct": 2.475,
+    "whale_usd": 8290.449630000001,
+    "whale_pct": 6.29,
     "whale_value_at_open": 131796.5275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -71310,8 +71310,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788016041.0653253,
-    "fills": 2
+    "last_fill_at": 1788016671.9338033,
+    "fills": 4
   },
   {
     "timestamp": 1788016427,
