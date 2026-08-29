@@ -72196,8 +72196,8 @@
     "title": "LoL: Cloud9 vs LYON (BO3) - LCS Regular Season",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 20656.6295,
-    "whale_pct": 20.588,
+    "whale_usd": 21355.453029,
+    "whale_pct": 21.284,
     "whale_value_at_open": 100334.3595,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -72208,8 +72208,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788033832.0730162,
-    "fills": 1
+    "last_fill_at": 1788043220.553062,
+    "fills": 2
   },
   {
     "timestamp": 1788034085,
@@ -72655,6 +72655,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788043191.6748521,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788043304,
+    "timestamp_added": 1788043304.8724768,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-nyr-phi-2026-08-29-phi",
+    "title": "Will Philadelphia Union win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 1274.3005,
+    "whale_pct": 0.461,
+    "whale_value_at_open": 276331.5503,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788043304.8724878,
     "fills": 1
   }
 ]
