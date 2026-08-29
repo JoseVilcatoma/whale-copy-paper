@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.2065324295963,
+  "bankroll": 520.3550775913587,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14340,6 +14340,26 @@
       "timestamp": 1788034538.4733303,
       "bankroll": 515.21,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788034849.2872763,
+      "bankroll": 519.35,
+      "event": "won: RN1 \u2014 Al Kholood Saudi Club vs. Al Ahli Saudi Club: O/U 2.5"
+    },
+    {
+      "timestamp": 1788034849.6169388,
+      "bankroll": 521.52,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788034850.5380023,
+      "bankroll": 516.38,
+      "event": "lost: HomeRunHazard \u2014 Los Angeles Dodgers vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1788034851.6333544,
+      "bankroll": 520.36,
+      "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Detroit Tigers: O/U 7.5"
     }
   ]
 }
