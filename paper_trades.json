@@ -67957,8 +67957,8 @@
     "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 10440.562523,
-    "whale_pct": 9.136,
+    "whale_usd": 15540.562523,
+    "whale_pct": 13.599,
     "whale_value_at_open": 114276.9567,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -67969,8 +67969,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787967437.7239463,
-    "fills": 3
+    "last_fill_at": 1787967453.8062575,
+    "fills": 4
   },
   {
     "timestamp": 1787964899,
@@ -68019,5 +68019,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787967109.0251026,
     "fills": 2
+  },
+  {
+    "timestamp": 1787967506,
+    "timestamp_added": 1787967507.2670205,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-bal-oak-2026-08-28",
+    "title": "Baltimore Orioles vs. Athletics",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 6103.486512,
+    "whale_pct": 4.745,
+    "whale_value_at_open": 128620.6412,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787967507.267031,
+    "fills": 1
   }
 ]
