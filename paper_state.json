@@ -1,5 +1,5 @@
 {
-  "bankroll": 520.3550775913587,
+  "bankroll": 505.0020775913588,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14360,6 +14360,21 @@
       "timestamp": 1788034851.6333544,
       "bankroll": 520.36,
       "event": "won: HomeRunHazard \u2014 Los Angeles Dodgers vs. Detroit Tigers: O/U 7.5"
+    },
+    {
+      "timestamp": 1788035404.8351035,
+      "bankroll": 515.25,
+      "event": "lost: OOOwhyOOO \u2014 Philadelphia: Katie Volynets vs Tereza Valentova"
+    },
+    {
+      "timestamp": 1788035464.817742,
+      "bankroll": 510.12,
+      "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1788035468.2439554,
+      "bankroll": 505.0,
+      "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. New York Yankees"
     }
   ]
 }
