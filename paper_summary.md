@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 09:26:46 (hora de Perú)
+Actualizado: 2026-08-29 09:28:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.71
@@ -573,7 +573,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| AV23IUa | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 60% | 5.00 | 14.0% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 60% | 5.00 | 29.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: TCU (-9.5) | North Carolina (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: TCU (-8.5) | North Carolina (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 90% | 5.00 | 1.4% | ⏳ pendiente | — |

@@ -71148,8 +71148,8 @@
     "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
     "outcome": "FUT Esports",
     "side": "BUY",
-    "whale_usd": 28248.7811,
-    "whale_pct": 13.952,
+    "whale_usd": 58941.0,
+    "whale_pct": 29.111,
     "whale_value_at_open": 202471.1316,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -71160,7 +71160,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788013603.7535334,
-    "fills": 1
+    "last_fill_at": 1788013610.5827618,
+    "fills": 2
   }
 ]
