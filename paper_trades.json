@@ -68639,8 +68639,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 147127.63311,
-    "whale_pct": 2364.06,
+    "whale_usd": 153009.2556,
+    "whale_pct": 2458.567,
     "whale_value_at_open": 6223.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -68654,8 +68654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787994406.8059754,
-    "fills": 32
+    "last_fill_at": 1787994626.1617048,
+    "fills": 34
   },
   {
     "timestamp": 1787992652,
@@ -68828,5 +68828,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787994244.3189726,
     "fills": 1
+  },
+  {
+    "timestamp": 1787994599,
+    "timestamp_added": 1787994600.1338055,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-t1-fox1-2026-08-29-game2",
+    "title": "LoL: T1 vs BNK FEARX - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 6443.951999999999,
+    "whale_pct": 3.564,
+    "whale_value_at_open": 180826.3233,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787994602.7077203,
+    "fills": 2
   }
 ]
