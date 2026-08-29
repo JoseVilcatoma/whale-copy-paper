@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 09:01:44 (hora de Perú)
+Actualizado: 2026-08-29 09:03:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 09:01:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $246.86)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $231.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,12 +86,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
-| AV23IUa | 11 | 10 | 0 | -13.47 USD |
+| AV23IUa | 11 | 10 | 1 | -13.47 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 402 | 194 | 13 | -52.71 USD |
+| RN1 | 402 | 194 | 15 | -52.71 USD |
 | ferrariChampions2026 | 327 | 196 | 7 | -58.34 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -573,10 +573,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Spread: Juventus FC (-2.5) | Parma Calcio 1913 (BUY) | 70% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Will Celtic FC win on 2026-08-29? | Yes (BUY) | 80% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will Sheffield Wednesday FC win on 2026- | Yes (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Spread: SV 07 Elversberg (-1.5) | SV 07 Elversberg (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Eric Vanshelboim (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | San Jose State vs. USC: O/U 61.5 | Under (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | SV 07 Elversberg vs. Bayer 04 Leverkusen | Over (BUY) | 74% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | SV 07 Elversberg vs. Bayer 04 Leverkusen | Over (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | Will TSG 1899 Hoffenheim win on 2026-08- | Yes (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Köln win on 2026-08-29? | No (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | North Carolina vs. TCU: O/U 46.5 | Over (BUY) | 50% | 5.00 | 5.1% | ⏳ pendiente | — |
@@ -600,6 +603,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 8.4% | 💰 vendida anticipada | -1.52 |
 | HomeRunHazard | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Will AO Itabaiana SE win on 2026-08-29? | No (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
-| RN1 | Liverpool FC vs. Nottingham Forest FC: O | Under (BUY) | 85% | 5.00 | 0.4% | ✅ ganada | +0.84 |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 83% | 5.00 | 1.5% | ✅ ganada | +0.98 |
