@@ -72866,8 +72866,8 @@
     "title": "Spread: Inter Miami CF (-1.5)",
     "outcome": "CF Montr\u00e9al",
     "side": "BUY",
-    "whale_usd": 19639.209999,
-    "whale_pct": 8.585,
+    "whale_usd": 21388.029999,
+    "whale_pct": 9.349,
     "whale_value_at_open": 228764.4014,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -72878,8 +72878,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788045641.9167547,
-    "fills": 2
+    "last_fill_at": 1788047126.7602556,
+    "fills": 3
   },
   {
     "timestamp": 1788044372,
@@ -73192,8 +73192,8 @@
     "title": "Monterrey Open: Diane Parry vs Elise Mertens",
     "outcome": "Diane Parry",
     "side": "BUY",
-    "whale_usd": 23025.650199,
-    "whale_pct": 10.674,
+    "whale_usd": 25690.085199,
+    "whale_pct": 11.909,
     "whale_value_at_open": 215722.765,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -73204,8 +73204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788045868.487322,
-    "fills": 2
+    "last_fill_at": 1788047124.9823704,
+    "fills": 3
   },
   {
     "timestamp": 1788046061,

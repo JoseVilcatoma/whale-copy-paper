@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:44:19 (hora de Perú)
+Actualizado: 2026-08-29 18:46:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.92
@@ -602,7 +602,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: FURIA Esports vs G2 Esports (B | G2 Esports (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 45% | 5.00 | 10.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 45% | 5.00 | 11.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-29? | No (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -615,7 +615,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 76% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 55% | 5.00 | 0.4% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | Cloud9 (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | CF Montréal (BUY) | 51% | 5.00 | 8.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | CF Montréal (BUY) | 51% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | LYON (BUY) | 41% | 5.00 | 31.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 62% | 5.00 | 15.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 63% | 5.00 | 85.3% | 💰 vendida anticipada | +1.44 |
