@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 19:52:15 (hora de Perú)
+Actualizado: 2026-08-28 19:54:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $498.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 19:52:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $318.07)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $313.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
 | ferrariChampions2026 | 306 | 189 | 6 | -73.54 USD |
-| Sassy-Bucket | 16 | 32 | 2 | -88.95 USD |
+| Sassy-Bucket | 16 | 32 | 3 | -88.95 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
@@ -557,6 +557,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 6.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
 | kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ⏳ pendiente | — |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 10.3% | ⏳ pendiente | — |
@@ -586,4 +587,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 44% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays: O/U | Under (BUY) | 52% | 5.00 | 3.6% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
