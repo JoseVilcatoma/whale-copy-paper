@@ -73043,8 +73043,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Aidan Mayo",
     "side": "BUY",
-    "whale_usd": 36558.564,
-    "whale_pct": 19.292,
+    "whale_usd": 39777.261999999995,
+    "whale_pct": 20.99,
     "whale_value_at_open": 189504.0763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -73055,8 +73055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788047410.6297903,
-    "fills": 10
+    "last_fill_at": 1788047501.6458223,
+    "fills": 11
   },
   {
     "timestamp": 1788045252,
@@ -73192,8 +73192,8 @@
     "title": "Monterrey Open: Diane Parry vs Elise Mertens",
     "outcome": "Diane Parry",
     "side": "BUY",
-    "whale_usd": 25690.085199,
-    "whale_pct": 11.909,
+    "whale_usd": 32872.450399,
+    "whale_pct": 15.238,
     "whale_value_at_open": 215722.765,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -73204,8 +73204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788047124.9823704,
-    "fills": 3
+    "last_fill_at": 1788047474.5176814,
+    "fills": 5
   },
   {
     "timestamp": 1788046061,
@@ -73374,5 +73374,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788046981.494811,
     "fills": 2
+  },
+  {
+    "timestamp": 1788047476,
+    "timestamp_added": 1788047477.2101412,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-mia-mim-2026-08-29-draw",
+    "title": "Will Inter Miami CF vs. CF Montr\u00e9al end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 517.4399999999999,
+    "whale_pct": 0.248,
+    "whale_value_at_open": 209020.5193,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788047477.2101524,
+    "fills": 1
   }
 ]

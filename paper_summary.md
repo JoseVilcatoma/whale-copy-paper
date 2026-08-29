@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:50:23 (hora de Perú)
+Actualizado: 2026-08-29 18:52:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 18:50:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $270.92)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $265.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 416 | 200 | 3 | -43.42 USD |
-| ferrariChampions2026 | 336 | 199 | 17 | -53.41 USD |
+| ferrariChampions2026 | 336 | 199 | 18 | -53.41 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -595,6 +595,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will Inter Miami CF vs. CF Montréal end  | No (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Parry vs Mertens | Mertens (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | No (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -602,13 +603,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: FURIA Esports vs G2 Esports (B | G2 Esports (BUY) | 90% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 45% | 5.00 | 11.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 45% | 5.00 | 15.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 61% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-29? | No (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 44% | 5.00 | 6.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 19.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 21.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | SDTrading | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 5.00 | 91.1% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -624,4 +625,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: GenOne vs INOX Division  | INOX Division (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 52% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Will Philadelphia Union win on 2026-08-2 | No (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
-| RN1 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 50% | 5.00 | 0.3% | ✅ ganada | +4.88 |
