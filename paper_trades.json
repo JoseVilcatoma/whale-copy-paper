@@ -68103,8 +68103,8 @@
     "title": "LoL: Karmine Corp vs SK Gaming (BO3) - LEC Regular Season",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 2086.310192,
-    "whale_pct": 6.18,
+    "whale_usd": 3361.704092,
+    "whale_pct": 9.957,
     "whale_value_at_open": 33760.9542,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -68115,8 +68115,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788014460.4397385,
-    "fills": 3
+    "last_fill_at": 1788015061.8442512,
+    "fills": 4
   },
   {
     "timestamp": 1787972551,
@@ -71237,6 +71237,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788014940.9608114,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788015080,
+    "timestamp_added": 1788015080.4616337,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bos-nyy-2026-06-06",
+    "title": "Boston Red Sox vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 4709.000400000001,
+    "whale_pct": 3.83,
+    "whale_value_at_open": 122935.0252,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788015080.4616466,
     "fills": 1
   }
 ]
