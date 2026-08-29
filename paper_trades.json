@@ -69906,8 +69906,8 @@
     "title": "ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Rositsa Dencheva vs Anja Stankovic",
     "outcome": "Anja Stankovic",
     "side": "BUY",
-    "whale_usd": 3549.9399999999996,
-    "whale_pct": 3.151,
+    "whale_usd": 4919.459999999999,
+    "whale_pct": 4.367,
     "whale_value_at_open": 112658.7374,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -69920,8 +69920,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788003618.738829,
-    "fills": 3
+    "last_fill_at": 1788003697.3210018,
+    "fills": 4
   },
   {
     "timestamp": 1788003434,
@@ -70066,5 +70066,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788003644.3459313,
     "fills": 1
+  },
+  {
+    "timestamp": 1788003776,
+    "timestamp_added": 1788003776.543484,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bl2-ksc-wob-2026-08-29-wob",
+    "title": "Will VfL Wolfsburg win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2836.29,
+    "whale_pct": 1.886,
+    "whale_value_at_open": 150368.546,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788003776.9975288,
+    "fills": 2
   }
 ]
