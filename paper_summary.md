@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 07:00:26 (hora de Perú)
+Actualizado: 2026-08-29 07:02:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $528.28
-**Retorno acumulado:** +5.66%
+**Bankroll actual:** $528.33
+**Retorno acumulado:** +5.67%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 07:00:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $188.28)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $188.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 77 | 27 | 5 | +69.66 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 4 | +48.89 USD |
+| HomeRunHazard | 376 | 185 | 5 | +48.89 USD |
 | TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -92,17 +92,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 392 | 187 | 25 | -39.98 USD |
-| ferrariChampions2026 | 318 | 192 | 20 | -50.37 USD |
+| ferrariChampions2026 | 319 | 192 | 19 | -50.32 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2652
-- **Aciertos:** 1704 (64.3%)
+- **Apuestas resueltas:** 2653
+- **Aciertos:** 1705 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,247.59
+- **Total apostado (suma de stakes):** $13,252.59
 - **ROI sobre lo apostado:** -0.52%
 - **Comisiones pagadas (taker fee):** $242.18 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.30% _(referencia: cuánto pesan las comisiones)_
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1330 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 783 | 70.8% | 67.7% | +3.0 pp |
 | 80-94% | 368 | 87.0% | 86.8% | +0.1 pp |
-| 95-99% (casi seguro) | 171 | 95.9% | 97.4% | -1.4 pp |
+| 95-99% (casi seguro) | 172 | 95.9% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -571,6 +571,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Will AO Itabaiana SE win on 2026-08-29? | No (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. Nottingham Forest FC: O | Under (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 83% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -596,8 +597,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Zenit (-1.5) | FK Fakel Voronezh (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 5.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will V-Varen Nagasaki win on 2026-08-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will V-Varen Nagasaki win on 2026-08-29? | No (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 73% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Tōkyō Verdy win on 2026-08-29? | No (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 92% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Kawasaki Frontale vs. JEF United Ic | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.2836935068343,
+  "bankroll": 528.3311985573393,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13840,6 +13840,11 @@
       "timestamp": 1788004596.9127157,
       "bankroll": 528.28,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: MOUZ vs Yellow Submarine - Game 1 Winner (+2.33 USD)"
+    },
+    {
+      "timestamp": 1788004945.6508074,
+      "bankroll": 528.33,
+      "event": "won: ferrariChampions2026 \u2014 Will V-Varen Nagasaki win on 2026-08-29?"
     }
   ]
 }
