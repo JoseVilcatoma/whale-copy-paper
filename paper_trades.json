@@ -71716,8 +71716,8 @@
     "title": "LoL: Karmine Corp vs SK Gaming - Game 2 Winner",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 12110.4138,
-    "whale_pct": 8.956,
+    "whale_usd": 14562.3108,
+    "whale_pct": 10.769,
     "whale_value_at_open": 135227.8334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -71728,8 +71728,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788019739.9202988,
-    "fills": 4
+    "last_fill_at": 1788020108.2106683,
+    "fills": 6
   },
   {
     "timestamp": 1788019365,
