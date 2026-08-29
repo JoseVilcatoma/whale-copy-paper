@@ -73230,5 +73230,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788046062.0570934,
     "fills": 1
+  },
+  {
+    "timestamp": 1788046388,
+    "timestamp_added": 1788046388.9224708,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "val-fur-g21-2026-08-29",
+    "title": "Valorant: FURIA Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs",
+    "outcome": "G2 Esports",
+    "side": "BUY",
+    "whale_usd": 519.7808,
+    "whale_pct": 0.225,
+    "whale_value_at_open": 230820.9837,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788046388.9224794,
+    "fills": 1
   }
 ]
