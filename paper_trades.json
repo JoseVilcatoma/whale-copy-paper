@@ -68285,5 +68285,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787980918.3406725,
     "fills": 1
+  },
+  {
+    "timestamp": 1787984552,
+    "timestamp_added": 1787984552.7445123,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "npb-han-yom-2026-08-29",
+    "title": "Hanshin Tigers vs. Yomiuri Giants",
+    "outcome": "Yomiuri Giants",
+    "side": "BUY",
+    "whale_usd": 591.0,
+    "whale_pct": 0.999,
+    "whale_value_at_open": 59165.7756,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787984552.7445269,
+    "fills": 1
   }
 ]
