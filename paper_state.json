@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.7389044973922,
+  "bankroll": 533.7860264486118,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13865,6 +13865,11 @@
       "timestamp": 1788006147.5994015,
       "bankroll": 526.74,
       "event": "won: ferrariChampions2026 \u2014 Will Kawasaki Frontale vs. JEF United Ichihara Chiba end in a draw?"
+    },
+    {
+      "timestamp": 1788006338.4014134,
+      "bankroll": 533.79,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs LGD Gaming - Game 1 Winner"
     }
   ]
 }
