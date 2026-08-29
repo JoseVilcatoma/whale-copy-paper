@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 15:23:08 (hora de Perú)
+Actualizado: 2026-08-29 15:25:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $520.36
@@ -588,7 +588,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | sbsigner | Will Toulouse FC win on 2026-08-29? | Yes (BUY) | 70% | 5.00 | 19.5% | ⏳ pendiente | — |
 | sbsigner | Will Olympique Lyonnais win on 2026-08-2 | No (BUY) | 55% | 5.00 | 22.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 5.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ArturitoFilito | Winston-Salem Open: Arthur Fery vs Ignac | Ignacio Buse (BUY) | 45% | 5.00 | 7.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 20.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | 💰 vendida anticipada | -0.04 |
@@ -602,7 +602,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 8.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs 9INE (BO3) -  | 9INE (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 82% | 5.00 | 2.1% | 💰 vendida anticipada | -0.59 |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 54% | 5.00 | 6.9% | ❌ perdida | -5.12 |
