@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 16:02:46 (hora de Perú)
+Actualizado: 2026-08-29 16:04:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $515.98
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 16:02:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $285.98)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $280.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 36 | 1 | +69.75 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 36 | 2 | +69.75 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 21 | 8 | 3 | +46.33 USD |
 | HomeRunHazard | 382 | 192 | 23 | +37.89 USD |
@@ -588,6 +588,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Shopify Rebellion (BUY) | 50% | 5.00 | 20.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Will South Africa win in regulation? | Yes (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 229.9% | ⏳ pendiente | — |
 | sbsigner | Houston Astros vs. New York Mets | Houston Astros (BUY) | 44% | 5.00 | 14.5% | ⏳ pendiente | — |
@@ -617,4 +618,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 13.1% | 💰 vendida anticipada | -0.16 |
 | HomeRunHazard | Spread: TCU (-7.5) | TCU (BUY) | 50% | 5.00 | 3.2% | ❌ perdida | -5.12 |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 73% | 5.00 | 87.8% | ✅ ganada | +1.78 |
-| HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
