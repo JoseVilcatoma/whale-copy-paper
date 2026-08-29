@@ -1,5 +1,5 @@
 {
-  "bankroll": 523.5261157533239,
+  "bankroll": 513.2401157533238,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13995,6 +13995,16 @@
       "timestamp": 1788010978.8152964,
       "bankroll": 523.53,
       "event": "lost: RN1 \u2014 Will Milton Keynes Dons FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788011107.6530674,
+      "bankroll": 518.38,
+      "event": "lost: RN1 \u2014 Spread: Liverpool FC (-1.5)"
+    },
+    {
+      "timestamp": 1788011107.9536164,
+      "bankroll": 513.24,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Liverpool FC (-1.5)"
     }
   ]
 }

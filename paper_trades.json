@@ -69427,8 +69427,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -69671,8 +69671,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [
       "RN1"
     ],
@@ -70398,8 +70398,8 @@
     "title": "San Diego Padres vs. Tampa Bay Rays: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4915.0,
-    "whale_pct": 7.68,
+    "whale_usd": 7444.001,
+    "whale_pct": 11.632,
     "whale_value_at_open": 63998.0749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -70410,8 +70410,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788008119.0102413,
-    "fills": 2
+    "last_fill_at": 1788011060.0972164,
+    "fills": 3
   },
   {
     "timestamp": 1788008292,
@@ -70609,6 +70609,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788010881.127741,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788011007,
+    "timestamp_added": 1788011008.1547124,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "epl-tot-new-2026-08-29-total-2pt5",
+    "title": "Tottenham Hotspur FC vs. Newcastle United FC: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2013.6,
+    "whale_pct": 0.654,
+    "whale_value_at_open": 307825.4875,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788011008.1547253,
     "fills": 1
   }
 ]
