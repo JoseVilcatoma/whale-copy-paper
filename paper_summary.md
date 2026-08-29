@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 17:50:21 (hora de Perú)
+Actualizado: 2026-08-29 17:52:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.06
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 17:50:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $301.06)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $296.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 414 | 199 | 5 | -46.41 USD |
+| RN1 | 414 | 199 | 6 | -46.41 USD |
 | ferrariChampions2026 | 331 | 199 | 4 | -66.29 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -590,6 +590,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Bears vs. Titans: O/U 39.5 | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: GenOne vs INOX Division  | INOX Division (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -619,4 +620,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 729.9% | ❌ perdida | -5.09 |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Katie Volynets (BUY) | 76% | 5.00 | 217.9% | 💰 vendida anticipada | +0.08 |
 | ethanaz | Spread: USC (-20.5) | USC (BUY) | 71% | 5.00 | 91.2% | ❌ perdida | -5.07 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 17.0% | 💰 vendida anticipada | -1.53 |
