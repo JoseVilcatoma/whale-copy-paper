@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:28:54 (hora de Perú)
+Actualizado: 2026-08-29 05:30:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $509.09
-**Retorno acumulado:** +1.82%
+**Bankroll actual:** $511.16
+**Retorno acumulado:** +2.23%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 05:28:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $239.09)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $246.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,20 +92,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 390 | 185 | 9 | -33.46 USD |
-| ferrariChampions2026 | 313 | 191 | 17 | -58.35 USD |
+| ferrariChampions2026 | 314 | 191 | 16 | -56.28 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2635
-- **Aciertos:** 1690 (64.1%)
+- **Apuestas resueltas:** 2636
+- **Aciertos:** 1691 (64.2%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,162.59
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $240.89 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,167.59
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $240.96 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1326 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 774 | 70.7% | 67.7% | +2.9 pp |
+| 60-79% | 775 | 70.7% | 67.7% | +3.0 pp |
 | 80-94% | 365 | 86.8% | 86.8% | +0.0 pp |
 | 95-99% (casi seguro) | 170 | 95.9% | 97.3% | -1.5 pp |
 
@@ -584,7 +584,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Gamba Ōsaka vs. Sanfrecce Hiroshima | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Pecs (Hungary), c | Ignacio Monzon (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: LG Twins vs. Lotte Giants | LG Twins (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Namsrai Batbayar vs. An | Andre Lima (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Namsrai Batbayar vs. An | Andre Lima (BUY) | 70% | 5.00 | 0.3% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Will FC Mito Holly Hock win on 2026-08-2 | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 11.7% | ⏳ pendiente | — |
 | RN1 | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 76% | 5.00 | 46.3% | ⏳ pendiente | — |

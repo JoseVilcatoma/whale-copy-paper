@@ -1,5 +1,5 @@
 {
-  "bankroll": 509.0882211284703,
+  "bankroll": 511.15607827132743,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13740,6 +13740,11 @@
       "timestamp": 1787998205.2175214,
       "bankroll": 509.09,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Vitality vs 9z - Map 1 Winner"
+    },
+    {
+      "timestamp": 1787999425.1069958,
+      "bankroll": 511.16,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Namsrai Batbayar vs. Andre Lima (Flyweight, Main Card)"
     }
   ]
 }
