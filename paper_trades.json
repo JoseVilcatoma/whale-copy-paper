@@ -72208,5 +72208,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788033832.0730162,
     "fills": 1
+  },
+  {
+    "timestamp": 1788034085,
+    "timestamp_added": 1788034086.0919032,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "atp-fery-buse-2026-08-29",
+    "title": "Winston-Salem Open: Arthur Fery vs Ignacio Buse",
+    "outcome": "Ignacio Buse",
+    "side": "BUY",
+    "whale_usd": 1065.350942,
+    "whale_pct": 7.454,
+    "whale_value_at_open": 14292.0386,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788034086.0919125,
+    "fills": 1
   }
 ]
