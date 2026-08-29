@@ -69564,8 +69564,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 14513.8644,
-    "whale_pct": 12.424,
+    "whale_usd": 16546.7736,
+    "whale_pct": 14.165,
     "whale_value_at_open": 116817.6417,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -69576,8 +69576,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788008374.3358433,
-    "fills": 8
+    "last_fill_at": 1788009279.827664,
+    "fills": 9
   },
   {
     "timestamp": 1788000328,
@@ -70326,8 +70326,8 @@
     "title": "Map Handicap: FUT (-1.5) vs Lynn Vision (+1.5)",
     "outcome": "Lynn Vision",
     "side": "BUY",
-    "whale_usd": 1760.0,
-    "whale_pct": 3.0,
+    "whale_usd": 5586.3722,
+    "whale_pct": 9.521,
     "whale_value_at_open": 58671.891,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -70338,8 +70338,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788007175.3620296,
-    "fills": 2
+    "last_fill_at": 1788009279.0765772,
+    "fills": 3
   },
   {
     "timestamp": 1788007590,
