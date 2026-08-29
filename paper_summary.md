@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 13:39:48 (hora de Perú)
+Actualizado: 2026-08-29 13:41:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $527.06
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 13:39:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $227.06)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $222.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 6 | 7 | 0 | -6.67 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| AV23IUa | 12 | 10 | 1 | -10.24 USD |
+| AV23IUa | 12 | 10 | 2 | -10.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -581,6 +581,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 5.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs 9INE (BO3) -  | 9INE (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -610,4 +611,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 1  | Karmine Corp (BUY) | 80% | 5.00 | 2.9% | 💰 vendida anticipada | -0.42 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 53% | 5.00 | 7.5% | ⏳ pendiente | — |
 | SDTrading | CHI vs. TEN: O/U 36.5 | Over (BUY) | 54% | 5.00 | 6.0% | ⏳ pendiente | — |
-| HomeRunHazard | CHI vs. TEN: O/U 36.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
