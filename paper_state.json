@@ -1,5 +1,5 @@
 {
-  "bankroll": 509.73018327678363,
+  "bankroll": 506.8594431947043,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14035,6 +14035,26 @@
       "timestamp": 1788011360.0426574,
       "bankroll": 509.73,
       "event": "lost: RN1 \u2014 Will Liverpool FC vs. Nottingham Forest FC end in a draw?"
+    },
+    {
+      "timestamp": 1788011416.740642,
+      "bankroll": 516.22,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentina Ryser vs Angella Okutoyi"
+    },
+    {
+      "timestamp": 1788011417.875099,
+      "bankroll": 511.15,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Valentina Ryser vs Angella Okutoyi"
+    },
+    {
+      "timestamp": 1788011418.2645085,
+      "bankroll": 506.02,
+      "event": "lost: RN1 \u2014 Liverpool FC vs. Nottingham Forest FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788011418.6440468,
+      "bankroll": 506.86,
+      "event": "won: RN1 \u2014 Liverpool FC vs. Nottingham Forest FC: O/U 4.5"
     }
   ]
 }
