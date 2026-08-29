@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 14:06:44 (hora de Perú)
+Actualizado: 2026-08-29 14:08:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $527.26
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 14:06:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $227.26)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $222.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 33 | 24 | 4 | +26.79 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| HVAB | 19 | 7 | 0 | +14.83 USD |
+| HVAB | 19 | 7 | 1 | +14.83 USD |
 | texaskid | 8 | 4 | 1 | +13.64 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | ethanaz | 2 | 0 | 1 | +11.46 USD |
@@ -583,8 +583,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Katie Volynets (BUY) | 76% | 5.00 | 217.9% | ⏳ pendiente | — |
 | ethanaz | Spread: USC (-20.5) | USC (BUY) | 71% | 5.00 | 91.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 8.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 11.1% | ⏳ pendiente | — |
 | texaskid | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners (BUY) | 50% | 5.00 | 5.2% | ⏳ pendiente | — |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
@@ -612,4 +613,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | sbsigner | Will Coventry City FC vs. Hull City AFC  | No (BUY) | 58% | 5.00 | 4.3% | ✅ ganada | +3.52 |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX - Game 1 Wi | Natus Vincere (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ✅ ganada | +1.60 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 90% | 5.00 | 2.6% | 💰 vendida anticipada | +0.07 |

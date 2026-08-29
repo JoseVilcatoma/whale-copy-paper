@@ -72016,8 +72016,8 @@
     "title": "LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 4162.044263,
-    "whale_pct": 8.53,
+    "whale_usd": 5431.174763,
+    "whale_pct": 11.132,
     "whale_value_at_open": 48790.6414,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -72030,8 +72030,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788030401.698739,
-    "fills": 2
+    "last_fill_at": 1788030437.603257,
+    "fills": 3
   },
   {
     "timestamp": 1788030334,
@@ -72056,5 +72056,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788030354.5696754,
     "fills": 4
+  },
+  {
+    "timestamp": 1788030429,
+    "timestamp_added": 1788030430.0796254,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-volynet-valento-2026-08-29",
+    "title": "Philadelphia: Katie Volynets vs Tereza Valentova",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "whale_usd": 13363.53,
+    "whale_pct": 217.895,
+    "whale_value_at_open": 6133.0075,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788030430.0796344,
+    "fills": 1
   }
 ]
