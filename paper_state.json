@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.1387757684796,
+  "bankroll": 529.5406827452239,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13930,6 +13930,21 @@
       "timestamp": 1788008892.0897346,
       "bankroll": 533.14,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs (-1.52 USD)"
+    },
+    {
+      "timestamp": 1788009476.6293716,
+      "bankroll": 528.1,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)"
+    },
+    {
+      "timestamp": 1788009482.501995,
+      "bankroll": 534.58,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs LGD Gaming - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788009482.6021903,
+      "bankroll": 529.54,
+      "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 08:16:02 (hora de Perú)
+Actualizado: 2026-08-29 08:18:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $533.14
-**Retorno acumulado:** +6.63%
+**Bankroll actual:** $529.54
+**Retorno acumulado:** +5.91%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 08:16:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $218.14)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $224.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 78 | 30 | 3 | +64.98 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 79 | 30 | 2 | +71.46 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 14 | +48.89 USD |
+| HomeRunHazard | 376 | 185 | 15 | +48.89 USD |
 | TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -86,26 +86,26 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
-| wr0ngw4yb3tt0r | 9 | 11 | 1 | -11.41 USD |
 | AV23IUa | 11 | 10 | 0 | -13.47 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 397 | 188 | 19 | -32.13 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 325 | 193 | 12 | -48.67 USD |
+| ferrariChampions2026 | 325 | 194 | 11 | -53.71 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2669
-- **Aciertos:** 1717 (64.3%)
+- **Apuestas resueltas:** 2672
+- **Aciertos:** 1718 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,332.59
-- **ROI sobre lo apostado:** -0.47%
-- **Comisiones pagadas (taker fee):** $243.37 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,347.59
+- **ROI sobre lo apostado:** -0.50%
+- **Comisiones pagadas (taker fee):** $243.60 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.33% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -113,9 +113,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1333 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 1334 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 792 | 70.7% | 67.8% | +2.9 pp |
-| 80-94% | 371 | 87.1% | 86.8% | +0.3 pp |
+| 80-94% | 373 | 86.6% | 86.8% | -0.2 pp |
 | 95-99% (casi seguro) | 173 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -572,6 +572,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 55% | 5.00 | 10.7% | ⏳ pendiente | — |
@@ -601,4 +602,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Liverpool FC win on 2026-08-29? | Yes (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Karlsruher SC vs. VfL Wolfsburg: O/U 5.5 | Over (BUY) | 72% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 96% | 5.00 | 1.5% | 💰 vendida anticipada | +0.09 |
-| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 15.3% | ⏳ pendiente | — |
