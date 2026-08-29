@@ -71162,5 +71162,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788013610.5827618,
     "fills": 2
+  },
+  {
+    "timestamp": 1788014266,
+    "timestamp_added": 1788014266.4947693,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "cs2-fut-lvg-2026-08-29",
+    "title": "Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B",
+    "outcome": "Lynn Vision",
+    "side": "BUY",
+    "whale_usd": 13666.529999999999,
+    "whale_pct": 26.65,
+    "whale_value_at_open": 51281.9709,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788014266.4947798,
+    "fills": 1
   }
 ]
