@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 02:21:25 (hora de Perú)
+Actualizado: 2026-08-29 02:23:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 02:21:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $369.51)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $364.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 1 | -33.66 USD |
-| ferrariChampions2026 | 310 | 190 | 6 | -60.12 USD |
+| ferrariChampions2026 | 310 | 190 | 7 | -60.12 USD |
 | Sassy-Bucket | 18 | 34 | 1 | -90.21 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -560,6 +560,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Al Kholood Saudi Club vs. Al Ahli Saudi  | Over (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
 | Sassy-Bucket | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 45% | 5.00 | 50.5% | ⏳ pendiente | — |
 | HomeRunHazard | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -589,4 +590,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Elusive vs Zomblers (BO3 | Elusive (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 49% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | AV23IUa | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 60% | 5.00 | 4.5% | ❌ perdida | -5.10 |
-| Sassy-Bucket | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 47% | 5.00 | 14.7% | ❌ perdida | -5.13 |
