@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 11:03:33 (hora de Perú)
+Actualizado: 2026-08-29 11:04:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.86
@@ -580,7 +580,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | SDTrading | Houston Astros vs. New York Mets | New York Mets (BUY) | 57% | 5.00 | 16.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 4.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 5.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: TCU (-7.5) | TCU (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 73% | 5.00 | 87.8% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
