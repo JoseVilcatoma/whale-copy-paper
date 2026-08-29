@@ -1,5 +1,5 @@
 {
-  "bankroll": 490.4617925886597,
+  "bankroll": 498.57012592199305,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14140,6 +14140,16 @@
       "timestamp": 1788020220.8720078,
       "bankroll": 490.46,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Karmine Corp vs SK Gaming - Game 2 Winner (-0.16 USD)"
+    },
+    {
+      "timestamp": 1788020451.8507993,
+      "bankroll": 493.7,
+      "event": "won: nigiri99 \u2014 AFC Bournemouth vs. Everton FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788020453.7218523,
+      "bankroll": 498.57,
+      "event": "won: RN1 \u2014 AFC Bournemouth vs. Everton FC: O/U 2.5"
     }
   ]
 }

@@ -14,25 +14,25 @@
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787956784.2362013,
-    "roi_pct": 569.1,
+    "roi_pct": 565.2,
     "short_term_pct": 100.0
   },
   "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c": {
     "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
     "added_at": 1788002230.757534,
-    "roi_pct": 553.72,
+    "roi_pct": 553.96,
     "short_term_pct": 100.0
   },
   "0xf201a19b43471261a3c1ba9247335d55270e527e": {
     "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
     "added_at": 1788002230.7575386,
-    "roi_pct": 542.48,
+    "roi_pct": 499.59,
     "short_term_pct": 100.0
   },
   "0x336bf6f91a4619d54f0711a20fe468adf4d71233": {
     "username": "ArturitoFilito",
     "added_at": 1788011538.772905,
-    "roi_pct": 353.08,
+    "roi_pct": 364.55,
     "short_term_pct": 100.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
@@ -56,7 +56,7 @@
   "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748": {
     "username": "3edmond.dantes",
     "added_at": 1788019528.0351694,
-    "roi_pct": 31987.66,
+    "roi_pct": 2100.41,
     "short_term_pct": 100.0
   }
 }
