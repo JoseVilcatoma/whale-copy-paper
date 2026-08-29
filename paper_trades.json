@@ -69056,8 +69056,8 @@
     "title": "LoL: Top Esports vs LGD Gaming - Game 2 Winner",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 7241.639999999999,
-    "whale_pct": 2.899,
+    "whale_usd": 15704.0415,
+    "whale_pct": 6.287,
     "whale_value_at_open": 249803.3358,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -69068,8 +69068,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787997410.9773939,
-    "fills": 1
+    "last_fill_at": 1787998388.662587,
+    "fills": 5
   },
   {
     "timestamp": 1787997539,
@@ -69166,5 +69166,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787997958.5282216,
     "fills": 6
+  },
+  {
+    "timestamp": 1787998289,
+    "timestamp_added": 1787998289.7843425,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tes-lgd-2026-08-29",
+    "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 14050.763999999997,
+    "whale_pct": 4.059,
+    "whale_value_at_open": 346161.9051,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ArturitoFilito"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787998319.3265731,
+    "fills": 3
   }
 ]

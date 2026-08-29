@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:11:16 (hora de Perú)
+Actualizado: 2026-08-29 05:13:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $509.09
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 05:11:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $274.09)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $269.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 5 | +66.58 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 6 | +66.58 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 3 | +48.89 USD |
 | TAIWANNUMBERONE | 15 | 7 | 6 | +36.52 USD |
@@ -562,16 +562,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-fox1-2026-08-29-game-handicap-away-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-2pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, ferrariChampions2026 |
 | epl-liv-not-2026-08-29-spread-home-2pt5 | ArturitoFilito, RN1 |
+| lol-tes-lgd-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ArturitoFilito |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ArturitoFilito | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 53% | 5.00 | 92.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 89% | 5.00 | 2.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 3 Winner | T1 (BUY) | 69% | 5.00 | 28.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ArturitoFilito | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 75% | 5.00 | 11.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Gamba Ōsaka vs. Sanfrecce Hiroshima | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Pecs (Hungary), c | Ignacio Monzon (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -596,4 +598,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 69% | 5.00 | 40.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 90% | 5.00 | 2.7% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Al Kholood Saudi Club vs. Al Ahli Saudi  | Over (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
