@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 16:54:11 (hora de Perú)
+Actualizado: 2026-08-29 16:56:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.26
@@ -595,7 +595,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 46% | 5.00 | 59.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Shopify Rebellion (BUY) | 50% | 5.00 | 20.2% | 💰 vendida anticipada | -2.91 |
 | TAIWANNUMBERONE | Will South Africa win in regulation? | Yes (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
-| texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 229.9% | ⏳ pendiente | — |
+| texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 1591.7% | ⏳ pendiente | — |
 | sbsigner | Houston Astros vs. New York Mets | Houston Astros (BUY) | 44% | 5.00 | 14.5% | ⏳ pendiente | — |
 | sbsigner | Will Toulouse FC win on 2026-08-29? | Yes (BUY) | 70% | 5.00 | 19.5% | ❌ perdida | -5.08 |
 | sbsigner | Will Olympique Lyonnais win on 2026-08-2 | No (BUY) | 55% | 5.00 | 22.3% | ✅ ganada | +3.98 |
