@@ -2,13 +2,7 @@
   "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
     "username": "texaskid",
     "added_at": 1787863220.5287902,
-    "roi_pct": 1410.64,
-    "short_term_pct": 100.0
-  },
-  "0x34dd4a4b70eaf79a17878f7938263c801d4dfd83": {
-    "username": "vito3corleone",
-    "added_at": 1788018986.8140419,
-    "roi_pct": 5635.97,
+    "roi_pct": 1224.93,
     "short_term_pct": 100.0
   },
   "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748": {
@@ -20,13 +14,7 @@
   "0xf28e42d20e4826f2b10a24bc952001697947cab2": {
     "username": "ethanaz",
     "added_at": 1788022136.279037,
-    "roi_pct": 1025.59,
-    "short_term_pct": 100.0
-  },
-  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
-    "username": "BrotherObama",
-    "added_at": 1788024021.9210186,
-    "roi_pct": 2047.66,
+    "roi_pct": 1048.01,
     "short_term_pct": 100.0
   },
   "0x336bf6f91a4619d54f0711a20fe468adf4d71233": {
@@ -38,25 +26,37 @@
   "0xf5f92940519a72da460b1c2a606bc1230f0e87b0": {
     "username": "kekasaur",
     "added_at": 1788024962.5239882,
-    "roi_pct": 5432.32,
+    "roi_pct": 6356.57,
     "short_term_pct": 100.0
   },
   "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c": {
     "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
     "added_at": 1788026844.3941984,
-    "roi_pct": 537.18,
-    "short_term_pct": 100.0
-  },
-  "0xf201a19b43471261a3c1ba9247335d55270e527e": {
-    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
-    "added_at": 1788027787.938377,
-    "roi_pct": 8501.87,
+    "roi_pct": 671.98,
     "short_term_pct": 100.0
   },
   "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8": {
     "username": "OOOwhyOOO",
     "added_at": 1788027787.9383852,
     "roi_pct": 6632.84,
+    "short_term_pct": 100.0
+  },
+  "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
+    "username": "SDTrading",
+    "added_at": 1788028728.894161,
+    "roi_pct": 437.33,
+    "short_term_pct": 100.0
+  },
+  "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
+    "username": "TAIWANNUMBERONE",
+    "added_at": 1788028728.8941634,
+    "roi_pct": 398.1,
+    "short_term_pct": 100.0
+  },
+  "0xdb859a551fcf56e49416160911476bea7307152f": {
+    "username": "AV23IUa",
+    "added_at": 1788028728.8941653,
+    "roi_pct": 272.51,
     "short_term_pct": 100.0
   }
 }
