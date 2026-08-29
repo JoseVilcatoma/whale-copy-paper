@@ -1,5 +1,5 @@
 {
-  "bankroll": 509.3067299693957,
+  "bankroll": 504.1737299693957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14440,6 +14440,11 @@
       "timestamp": 1788037885.1807413,
       "bankroll": 509.31,
       "event": "won: HomeRunHazard \u2014 Spread: Minnesota Twins (-1.5)"
+    },
+    {
+      "timestamp": 1788038507.66862,
+      "bankroll": 504.17,
+      "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. St. Louis Cardinals: O/U 8.5"
     }
   ]
 }
