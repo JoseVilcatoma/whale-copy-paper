@@ -72175,15 +72175,17 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.04,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788033892.1099951,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.044,
+    "closed_price": 91
   },
   {
     "timestamp": 1788033831,
@@ -72233,6 +72235,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788034086.0919125,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788034162,
+    "timestamp_added": 1788034163.0924513,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tl2-sr-2026-08-29-game1",
+    "title": "LoL: Team Liquid vs Shopify Rebellion - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 906.3599999999999,
+    "whale_pct": 0.612,
+    "whale_value_at_open": 148153.8297,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 85,
+    "fee_usd": 0.038,
+    "odds_ballena": 83,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788034163.092462,
     "fills": 1
   }
 ]

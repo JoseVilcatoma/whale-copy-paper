@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 15:08:41 (hora de Perú)
+Actualizado: 2026-08-29 15:10:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $512.53
-**Retorno acumulado:** +2.51%
+**Bankroll actual:** $512.48
+**Retorno acumulado:** +2.50%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 15:08:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $242.53)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $242.48)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 34 | 3 | +71.54 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 35 | 3 | +71.50 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 379 | 189 | 29 | +42.05 USD |
 | TAIWANNUMBERONE | 19 | 8 | 4 | +38.69 USD |
@@ -585,9 +585,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ArturitoFilito | Winston-Salem Open: Arthur Fery vs Ignac | Ignacio Buse (BUY) | 45% | 5.00 | 7.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 20.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | 💰 vendida anticipada | -0.04 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 59% | 5.00 | 123.5% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Tereza Valentova (BUY) | 59% | 5.00 | 52.8% | ⏳ pendiente | — |
 | kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 729.9% | ⏳ pendiente | — |
@@ -614,4 +615,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
 | sbsigner | Will Hull City AFC win on 2026-08-29? | No (BUY) | 90% | 5.00 | 3.1% | ❌ perdida | -5.03 |
 | HomeRunHazard | Spread: Minnesota Twins (-1.5) | Chicago White Sox (BUY) | 65% | 5.00 | 2.7% | ⏳ pendiente | — |
-| SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 49% | 5.00 | 85.7% | ⏳ pendiente | — |
