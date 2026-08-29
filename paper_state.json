@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.1232910805068,
+  "bankroll": 506.2675503397661,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14460,6 +14460,11 @@
       "timestamp": 1788040699.5728014,
       "bankroll": 502.12,
       "event": "won: ArturitoFilito \u2014 Winston-Salem Open: Arthur Fery vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1788041317.2717535,
+      "bankroll": 506.27,
+      "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Cleveland Guardians: O/U 7.5"
     }
   ]
 }
