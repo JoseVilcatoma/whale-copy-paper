@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:22:43 (hora de Perú)
+Actualizado: 2026-08-29 06:24:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $532.37
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:22:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $242.37)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $237.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 74 | 27 | 5 | +66.63 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 74 | 27 | 6 | +66.63 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 4 | +48.89 USD |
 | TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
@@ -571,6 +571,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 96% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will JEF United Ichihara Chiba win on 20 | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -600,4 +601,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 89% | 5.00 | 2.9% | ✅ ganada | +0.59 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 3 Winner | T1 (BUY) | 69% | 5.00 | 28.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 6.3% | ⏳ pendiente | — |
