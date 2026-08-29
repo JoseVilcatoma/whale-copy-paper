@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.2628030415688,
+  "bankroll": 527.3455990942003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14265,6 +14265,11 @@
       "timestamp": 1788029888.6895955,
       "bankroll": 527.26,
       "event": "won: ferrariChampions2026 \u2014 KBO: LG Twins vs. Lotte Giants"
+    },
+    {
+      "timestamp": 1788030556.4457958,
+      "bankroll": 527.35,
+      "event": "venta anticipada: OOOwhyOOO \u2014 Philadelphia: Katie Volynets vs Tereza Valentova (+0.08 USD)"
     }
   ]
 }
