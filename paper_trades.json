@@ -68343,8 +68343,8 @@
     "title": "Game Handicap: TES (-1.5) vs LGD Gaming (+1.5)",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 1331.6076,
-    "whale_pct": 2.547,
+    "whale_usd": 2031.482817,
+    "whale_pct": 3.886,
     "whale_value_at_open": 52271.5367,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -68357,7 +68357,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787985645.9857526,
-    "fills": 1
+    "last_fill_at": 1787986789.4158943,
+    "fills": 2
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 01:58:56 (hora de Perú)
+Actualizado: 2026-08-29 02:00:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.51
@@ -560,7 +560,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 2.5% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will ACF Fiorentina win on 2026-08-29? | Yes (BUY) | 58% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Hanshin Tigers vs. Yomiuri Giants | Yomiuri Giants (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | BV Borussia 09 Dortmund vs. Hamburger SV | Under (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
