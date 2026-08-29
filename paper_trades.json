@@ -69142,5 +69142,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787997758.254047,
     "fills": 1
+  },
+  {
+    "timestamp": 1787997920,
+    "timestamp_added": 1787997920.9783313,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "lol-tes-lgd-2026-08-29",
+    "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 33712.2028,
+    "whale_pct": 92.717,
+    "whale_value_at_open": 36360.4857,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787997958.5282216,
+    "fills": 6
   }
 ]
