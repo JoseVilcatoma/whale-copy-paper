@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.8723406444349,
+  "bankroll": 509.3067299693957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14420,6 +14420,26 @@
       "timestamp": 1788037578.566055,
       "bankroll": 511.87,
       "event": "lost: sbsigner \u2014 Will Toulouse FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788037878.7743182,
+      "bankroll": 506.74,
+      "event": "lost: HomeRunHazard \u2014 Chicago White Sox vs. Minnesota Twins: O/U 9.5"
+    },
+    {
+      "timestamp": 1788037884.6671247,
+      "bankroll": 501.63,
+      "event": "lost: HomeRunHazard \u2014 Chicago White Sox vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1788037884.7673087,
+      "bankroll": 506.7,
+      "event": "won: SDTrading \u2014 Chicago White Sox vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1788037885.1807413,
+      "bankroll": 509.31,
+      "event": "won: HomeRunHazard \u2014 Spread: Minnesota Twins (-1.5)"
     }
   ]
 }
