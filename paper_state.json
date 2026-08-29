@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.79190500025993,
+  "bankroll": 492.51440500025996,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14095,6 +14095,11 @@
       "timestamp": 1788017335.9495475,
       "bankroll": 489.79,
       "event": "lost: RN1 \u2014 Will Swansea City AFC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788017522.637104,
+      "bankroll": 492.51,
+      "event": "won: RN1 \u2014 Will Wuxi Wugou win on 2026-08-29?"
     }
   ]
 }

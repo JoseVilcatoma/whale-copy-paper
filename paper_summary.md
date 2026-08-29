@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 10:30:06 (hora de Perú)
+Actualizado: 2026-08-29 10:32:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $489.79
-**Retorno acumulado:** -2.04%
+**Bankroll actual:** $492.51
+**Retorno acumulado:** -1.50%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 10:30:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $139.79)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $147.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,21 +92,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 404 | 196 | 14 | -59.19 USD |
+| RN1 | 405 | 196 | 13 | -56.47 USD |
 | ferrariChampions2026 | 327 | 197 | 6 | -63.43 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2699
-- **Aciertos:** 1732 (64.2%)
+- **Apuestas resueltas:** 2700
+- **Aciertos:** 1733 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,482.59
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $245.81 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,487.59
+- **ROI sobre lo apostado:** -0.78%
+- **Comisiones pagadas (taker fee):** $245.90 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1341 | 50.0% | 50.0% | -0.1 pp |
-| 60-79% | 805 | 70.4% | 67.8% | +2.6 pp |
+| 60-79% | 806 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 379 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 174 | 96.0% | 97.4% | -1.4 pp |
 
@@ -578,7 +578,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | sbsigner | Will Coventry City FC vs. Hull City AFC  | No (BUY) | 58% | 5.00 | 4.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX - Game 1 Wi | Natus Vincere (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ⏳ pendiente | — |

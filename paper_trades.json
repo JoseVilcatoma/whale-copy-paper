@@ -69379,8 +69379,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.72,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -71424,8 +71424,8 @@
     "title": "Arizona Diamondbacks vs. San Francisco Giants: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 938.4,
-    "whale_pct": 0.593,
+    "whale_usd": 1524.02,
+    "whale_pct": 0.964,
     "whale_value_at_open": 158135.1481,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -71436,8 +71436,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788016906.0488024,
-    "fills": 1
+    "last_fill_at": 1788017505.6971166,
+    "fills": 2
   },
   {
     "timestamp": 1788016910,
