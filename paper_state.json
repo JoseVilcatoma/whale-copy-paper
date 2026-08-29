@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.9755744106687,
+  "bankroll": 511.8723406444349,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14400,6 +14400,26 @@
       "timestamp": 1788037025.750633,
       "bankroll": 515.98,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1788037568.368814,
+      "bankroll": 518.04,
+      "event": "won: AV23IUa \u2014 Spread: Juventus FC (-2.5)"
+    },
+    {
+      "timestamp": 1788037576.4494734,
+      "bankroll": 512.97,
+      "event": "lost: AV23IUa \u2014 Will Olympique Lyonnais win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788037578.1760292,
+      "bankroll": 516.95,
+      "event": "won: sbsigner \u2014 Will Olympique Lyonnais win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788037578.566055,
+      "bankroll": 511.87,
+      "event": "lost: sbsigner \u2014 Will Toulouse FC win on 2026-08-29?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 16:04:47 (hora de Perú)
+Actualizado: 2026-08-29 16:06:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $515.98
-**Retorno acumulado:** +3.20%
+**Bankroll actual:** $511.87
+**Retorno acumulado:** +2.37%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 16:04:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $280.98)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $296.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,9 +63,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| sbsigner | 1 | 1 | 3 | -1.51 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| sbsigner | 2 | 2 | 1 | -2.61 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | beachboy4 | 1 | 1 | 0 | -3.36 USD |
@@ -83,11 +83,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 3 | 3 | 1 | -6.11 USD |
 | kekasaur | 6 | 7 | 1 | -6.67 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| AV23IUa | 12 | 10 | 3 | -10.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
+| AV23IUa | 13 | 11 | 1 | -13.25 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2755
-- **Aciertos:** 1770 (64.2%)
+- **Apuestas resueltas:** 2759
+- **Aciertos:** 1772 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,762.59
-- **ROI sobre lo apostado:** -0.57%
-- **Comisiones pagadas (taker fee):** $251.36 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.25% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,782.59
+- **ROI sobre lo apostado:** -0.60%
+- **Comisiones pagadas (taker fee):** $251.70 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1375 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 820 | 70.6% | 67.8% | +2.8 pp |
+| 40-59% | 1376 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 823 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
@@ -592,8 +592,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Will South Africa win in regulation? | Yes (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 229.9% | ⏳ pendiente | — |
 | sbsigner | Houston Astros vs. New York Mets | Houston Astros (BUY) | 44% | 5.00 | 14.5% | ⏳ pendiente | — |
-| sbsigner | Will Toulouse FC win on 2026-08-29? | Yes (BUY) | 70% | 5.00 | 19.5% | ⏳ pendiente | — |
-| sbsigner | Will Olympique Lyonnais win on 2026-08-2 | No (BUY) | 55% | 5.00 | 22.3% | ⏳ pendiente | — |
+| sbsigner | Will Toulouse FC win on 2026-08-29? | Yes (BUY) | 70% | 5.00 | 19.5% | ❌ perdida | -5.08 |
+| sbsigner | Will Olympique Lyonnais win on 2026-08-2 | No (BUY) | 55% | 5.00 | 22.3% | ✅ ganada | +3.98 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ArturitoFilito | Winston-Salem Open: Arthur Fery vs Ignac | Ignacio Buse (BUY) | 45% | 5.00 | 7.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 20.6% | ⏳ pendiente | — |
@@ -605,7 +605,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ethanaz | Spread: USC (-20.5) | USC (BUY) | 71% | 5.00 | 91.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 17.0% | 💰 vendida anticipada | -1.53 |
 | texaskid | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners (BUY) | 50% | 5.00 | 5.2% | ⏳ pendiente | — |
-| AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ⏳ pendiente | — |
+| AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ❌ perdida | -5.08 |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 11.0% | ⏳ pendiente | — |
