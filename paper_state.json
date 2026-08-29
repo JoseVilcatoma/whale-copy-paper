@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.0385357802989,
+  "bankroll": 500.9215357802989,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13530,6 +13530,11 @@
       "timestamp": 1787960551.5936236,
       "bankroll": 506.04,
       "event": "won: kekasaur \u2014 Will Dundalk FC win on 2026-08-28?"
+    },
+    {
+      "timestamp": 1787962428.9546745,
+      "bankroll": 500.92,
+      "event": "lost: wr0ngw4yb3tt0r \u2014 Will Real Racing Club win on 2026-08-28?"
     }
   ]
 }
