@@ -71042,5 +71042,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788012526.7732637,
     "fills": 1
+  },
+  {
+    "timestamp": 1788012636,
+    "timestamp_added": 1788012637.8305168,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bos-nyy-2026-08-29-total-7pt5",
+    "title": "Boston Red Sox vs. New York Yankees: O/U 7.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1068.9984,
+    "whale_pct": 1.012,
+    "whale_value_at_open": 105628.1988,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788012637.830529,
+    "fills": 1
   }
 ]
