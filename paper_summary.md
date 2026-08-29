@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:21:30 (hora de Perú)
+Actualizado: 2026-08-29 04:23:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.21
@@ -568,7 +568,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 76% | 5.00 | 23.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 49% | 5.00 | 4.1% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Sebastian Sorger (BUY) | 61% | 5.00 | 2.3% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Sebastian Sorger (BUY) | 61% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 73% | 5.00 | 13.8% | 💰 vendida anticipada | -0.48 |
 | ferrariChampions2026 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Lorenzo Carboni (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 79% | 5.00 | 1.3% | ⏳ pendiente | — |

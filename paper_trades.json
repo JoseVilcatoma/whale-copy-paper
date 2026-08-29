@@ -68814,8 +68814,8 @@
     "title": "ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Samuele Pieri vs Sebastian Sorger",
     "outcome": "Sebastian Sorger",
     "side": "BUY",
-    "whale_usd": 694.8,
-    "whale_pct": 2.3,
+    "whale_usd": 1892.09,
+    "whale_pct": 6.264,
     "whale_value_at_open": 30206.5336,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -68826,8 +68826,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787994244.3189726,
-    "fills": 1
+    "last_fill_at": 1787995331.4903665,
+    "fills": 2
   },
   {
     "timestamp": 1787994599,
