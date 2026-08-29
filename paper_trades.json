@@ -68079,8 +68079,8 @@
     "title": "Game Handicap: TES (-1.5) vs LGD Gaming (+1.5)",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 7534.745,
-    "whale_pct": 179.27,
+    "whale_usd": 8662.404574,
+    "whale_pct": 206.1,
     "whale_value_at_open": 4203.018,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -68091,8 +68091,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787976326.7209773,
-    "fills": 2
+    "last_fill_at": 1787976860.657387,
+    "fills": 3
   },
   {
     "timestamp": 1787972432,
@@ -68175,8 +68175,8 @@
     "title": "Counter-Strike: Acend vs GenOne (BO3) - CCT Europe Series #7 Playoffs",
     "outcome": "GenOne",
     "side": "BUY",
-    "whale_usd": 8908.718,
-    "whale_pct": 11.988,
+    "whale_usd": 15298.3848,
+    "whale_pct": 20.587,
     "whale_value_at_open": 74310.5961,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -68187,7 +68187,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787975979.1080134,
-    "fills": 1
+    "last_fill_at": 1787976878.5319004,
+    "fills": 2
   }
 ]
