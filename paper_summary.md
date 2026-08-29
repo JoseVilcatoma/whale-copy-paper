@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 08:01:23 (hora de Perú)
+Actualizado: 2026-08-29 08:03:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $536.15
-**Retorno acumulado:** +7.23%
+**Bankroll actual:** $537.13
+**Retorno acumulado:** +7.43%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 08:01:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $211.15)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $217.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,21 +91,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 395 | 188 | 21 | -35.72 USD |
+| RN1 | 396 | 188 | 20 | -34.74 USD |
 | ferrariChampions2026 | 325 | 193 | 12 | -48.67 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2666
-- **Aciertos:** 1715 (64.3%)
+- **Apuestas resueltas:** 2667
+- **Aciertos:** 1716 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,317.59
-- **ROI sobre lo apostado:** -0.46%
-- **Comisiones pagadas (taker fee):** $243.17 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,322.59
+- **ROI sobre lo apostado:** -0.45%
+- **Comisiones pagadas (taker fee):** $243.21 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1333 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 790 | 70.8% | 67.8% | +3.0 pp |
-| 80-94% | 370 | 87.0% | 86.8% | +0.2 pp |
+| 80-94% | 371 | 87.1% | 86.8% | +0.3 pp |
 | 95-99% (casi seguro) | 173 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -585,7 +585,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
 | RN1 | Will AO Itabaiana SE win on 2026-08-29? | No (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. Nottingham Forest FC: O | Under (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 83% | 5.00 | 1.5% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 83% | 5.00 | 1.5% | ✅ ganada | +0.98 |
 | RN1 | Will VfL Wolfsburg win on 2026-08-29? | No (BUY) | 64% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: MOUZ vs Yellow Submarine - Game  | Yellow Submarine (BUY) | 61% | 5.00 | 2.5% | 💰 vendida anticipada | +2.33 |
 | RN1 | Spread: Celtic FC (-2.5) | Falkirk FC (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |

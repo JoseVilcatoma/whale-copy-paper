@@ -1,5 +1,5 @@
 {
-  "bankroll": 536.1527790980371,
+  "bankroll": 537.1338754835792,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13910,6 +13910,11 @@
       "timestamp": 1788008226.7130594,
       "bankroll": 536.15,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oviedo (Spain), clay: Alexander Ritschard vs Sergi Perez Contri"
+    },
+    {
+      "timestamp": 1788008602.9301455,
+      "bankroll": 537.13,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Denisa Zoldakova vs Justina Mikulskyte"
     }
   ]
 }
