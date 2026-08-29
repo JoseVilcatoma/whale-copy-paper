@@ -67933,8 +67933,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 1161.125,
-    "whale_pct": 7.212,
+    "whale_usd": 1895.6057999999998,
+    "whale_pct": 11.774,
     "whale_value_at_open": 16100.5838,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -67945,8 +67945,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787963956.0725942,
-    "fills": 1
+    "last_fill_at": 1787989769.1035051,
+    "fills": 2
   },
   {
     "timestamp": 1787964782,
@@ -68055,8 +68055,8 @@
     "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 28468.236599999997,
-    "whale_pct": 159.014,
+    "whale_usd": 65618.2366,
+    "whale_pct": 366.521,
     "whale_value_at_open": 17902.9788,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -68067,8 +68067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787978410.520494,
-    "fills": 9
+    "last_fill_at": 1787989732.4691179,
+    "fills": 12
   },
   {
     "timestamp": 1787970216,
@@ -68529,5 +68529,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787989719.6185157,
     "fills": 3
+  },
+  {
+    "timestamp": 1787989791,
+    "timestamp_added": 1787989792.1638722,
+    "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
+    "wallet": "0xc9a24fa249cf907c598544a4d46c077c1edf77d3",
+    "slug": "lol-t1-fox1-2026-08-29-game-handicap-away-2pt5",
+    "title": "Game Handicap: T1 (-2.5) vs BNK FEARX (+2.5)",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 7834.9257,
+    "whale_pct": 19.149,
+    "whale_value_at_open": 40916.2064,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787989792.1638856,
+    "fills": 1
   }
 ]
