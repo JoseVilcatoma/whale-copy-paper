@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.7470557994173,
+  "bankroll": 512.4611822361989,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13750,6 +13750,11 @@
       "timestamp": 1788000357.9657986,
       "bankroll": 511.75,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Emma Lene vs Anastasija Cvetkovic"
+    },
+    {
+      "timestamp": 1788000729.708587,
+      "bankroll": 512.46,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Bilal Hasan vs. Nilson Rojas (Flyweight, Main Card)"
     }
   ]
 }

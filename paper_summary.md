@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:51:23 (hora de Perú)
+Actualizado: 2026-08-29 05:53:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $511.75
-**Retorno acumulado:** +2.35%
+**Bankroll actual:** $512.46
+**Retorno acumulado:** +2.49%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 05:51:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $196.75)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $197.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,22 +90,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 11 | 10 | 0 | -13.47 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 391 | 185 | 12 | -32.87 USD |
+| RN1 | 391 | 185 | 13 | -32.87 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 314 | 191 | 22 | -56.28 USD |
+| ferrariChampions2026 | 315 | 191 | 21 | -55.57 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2637
-- **Aciertos:** 1692 (64.2%)
+- **Apuestas resueltas:** 2638
+- **Aciertos:** 1693 (64.2%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,172.59
-- **ROI sobre lo apostado:** -0.63%
-- **Comisiones pagadas (taker fee):** $240.99 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,177.59
+- **ROI sobre lo apostado:** -0.62%
+- **Comisiones pagadas (taker fee):** $241.02 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1326 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 775 | 70.7% | 67.7% | +3.0 pp |
-| 80-94% | 366 | 86.9% | 86.8% | +0.1 pp |
+| 80-94% | 367 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 170 | 95.9% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -559,6 +559,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-fox1-2026-08-29-game1 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-tes-lgd-2026-08-29-game-handicap-away-1pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, TAIWANNUMBERONE |
 | ufc-din2-camnel-2026-08-29 | Sassy-Bucket, ferrariChampions2026 |
+| itf-ritscha-contri-2026-08-29 | RN1, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game-handicap-away-2pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, ferrariChampions2026 |
 | epl-liv-not-2026-08-29-spread-home-2pt5 | ArturitoFilito, RN1 |
@@ -568,10 +569,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Zenit (-1.5) | FK Fakel Voronezh (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will V-Varen Nagasaki win on 2026-08-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 73% | 5.00 | 2.4% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 73% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Tōkyō Verdy win on 2026-08-29? | No (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 92% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kawasaki Frontale vs. JEF United Ic | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -584,7 +586,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Kawasaki Frontale win on 2026-08-29 | Yes (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Milton Keynes Dons FC win on 2026-0 | Yes (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 43% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Bilal Hasan vs. Nilson  | Bilal Hasan (BUY) | 87% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Bilal Hasan vs. Nilson  | Bilal Hasan (BUY) | 87% | 5.00 | 0.5% | ✅ ganada | +0.71 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ArturitoFilito | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 53% | 5.00 | 92.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -597,4 +599,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | KBO: LG Twins vs. Lotte Giants | LG Twins (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Namsrai Batbayar vs. An | Andre Lima (BUY) | 70% | 5.00 | 0.3% | ✅ ganada | +2.07 |
 | ferrariChampions2026 | Will FC Mito Holly Hock win on 2026-08-2 | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 11.7% | ⏳ pendiente | — |
