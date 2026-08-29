@@ -1,5 +1,5 @@
 {
-  "bankroll": 529.5406827452239,
+  "bankroll": 531.0051327452239,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13945,6 +13945,11 @@
       "timestamp": 1788009482.6021903,
       "bankroll": 529.54,
       "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)"
+    },
+    {
+      "timestamp": 1788009881.3777664,
+      "bankroll": 531.01,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs (+1.46 USD)"
     }
   ]
 }
