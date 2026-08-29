@@ -72158,5 +72158,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788032862.1258216,
     "fills": 5
+  },
+  {
+    "timestamp": 1788033734,
+    "timestamp_added": 1788033735.246669,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tl2-sr-2026-08-29",
+    "title": "LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 1092.03,
+    "whale_pct": 0.797,
+    "whale_value_at_open": 136976.0279,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788033735.2466774,
+    "fills": 1
   }
 ]
