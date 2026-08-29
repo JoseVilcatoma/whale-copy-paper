@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.06322950333106,
+  "bankroll": 502.4439160704952,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13615,6 +13615,11 @@
       "timestamp": 1787970326.6034377,
       "bankroll": 500.06,
       "event": "won: casualbet2020 \u2014 Valorant: 100 Thieves vs Leviat\u00e1n Esports - Map 2 Winner"
+    },
+    {
+      "timestamp": 1787970643.891045,
+      "bankroll": 502.44,
+      "event": "won: casualbet2020 \u2014 Valorant: 100 Thieves vs Leviat\u00e1n Esports (BO3) - VCT Americas Stage 2 Playoffs"
     }
   ]
 }
