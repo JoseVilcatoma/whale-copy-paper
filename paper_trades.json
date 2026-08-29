@@ -72106,5 +72106,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788031226.583513,
     "fills": 7
+  },
+  {
+    "timestamp": 1788031350,
+    "timestamp_added": 1788031351.1199188,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-volynet-valento-2026-08-29",
+    "title": "Philadelphia: Katie Volynets vs Tereza Valentova",
+    "outcome": "Tereza Valentova",
+    "side": "BUY",
+    "whale_usd": 5716.507619000001,
+    "whale_pct": 52.805,
+    "whale_value_at_open": 10825.6656,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788031351.119927,
+    "fills": 1
   }
 ]
