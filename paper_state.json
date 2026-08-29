@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.1829647135947,
+  "bankroll": 491.9299647135947,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13580,6 +13580,16 @@
       "timestamp": 1787968416.6234744,
       "bankroll": 492.18,
       "event": "won: AV23IUa \u2014 Miami Marlins vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787968732.994038,
+      "bankroll": 497.06,
+      "event": "won: wr0ngw4yb3tt0r \u2014 Connecticut Sun vs. Indiana Fever: O/U 177.5"
+    },
+    {
+      "timestamp": 1787968736.783279,
+      "bankroll": 491.93,
+      "event": "lost: Sassy-Bucket \u2014 Kansas City Royals vs. Cleveland Guardians: O/U 7.5"
     }
   ]
 }

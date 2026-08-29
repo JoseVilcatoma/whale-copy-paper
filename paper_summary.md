@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 20:58:30 (hora de Perú)
+Actualizado: 2026-08-28 21:00:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $492.18
-**Retorno acumulado:** -1.56%
+**Bankroll actual:** $491.93
+**Retorno acumulado:** -1.61%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 20:58:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $322.18)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $331.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -86,23 +86,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 4 | 7 | 2 | -13.78 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| wr0ngw4yb3tt0r | 7 | 11 | 3 | -20.23 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| wr0ngw4yb3tt0r | 6 | 11 | 4 | -25.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
 | ferrariChampions2026 | 308 | 190 | 3 | -68.78 USD |
-| Sassy-Bucket | 16 | 33 | 3 | -94.08 USD |
+| Sassy-Bucket | 16 | 34 | 2 | -99.21 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2604
-- **Aciertos:** 1669 (64.1%)
+- **Apuestas resueltas:** 2606
+- **Aciertos:** 1670 (64.1%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,007.59
+- **Total apostado (suma de stakes):** $13,017.59
 - **ROI sobre lo apostado:** -0.79%
-- **Comisiones pagadas (taker fee):** $237.68 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $237.93 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -111,7 +111,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1307 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1309 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 765 | 70.5% | 67.7% | +2.7 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
@@ -569,7 +569,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ✅ ganada | +2.27 |
 | kekasaur | Will Clube Náutico Capibaribe win on 202 | Yes (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Elusive vs Zomblers (BO3 | Elusive (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 49% | 5.00 | 1.3% | ⏳ pendiente | — |
+| Sassy-Bucket | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 49% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | AV23IUa | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 60% | 5.00 | 4.5% | ❌ perdida | -5.10 |
 | Sassy-Bucket | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 47% | 5.00 | 14.7% | ❌ perdida | -5.13 |
 | AV23IUa | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 43% | 5.00 | 11.6% | ⏳ pendiente | — |
