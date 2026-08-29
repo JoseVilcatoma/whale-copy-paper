@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.9508124891572,
+  "bankroll": 500.3593490745231,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14155,6 +14155,11 @@
       "timestamp": 1788020766.226997,
       "bankroll": 500.95,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Daniel Verbeek vs Eric Vanshelboim"
+    },
+    {
+      "timestamp": 1788021365.390559,
+      "bankroll": 500.36,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Karmine Corp vs SK Gaming - Game 2 Winner (-0.59 USD)"
     }
   ]
 }
