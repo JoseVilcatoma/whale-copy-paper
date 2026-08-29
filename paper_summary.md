@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 11:01:24 (hora de Perú)
+Actualizado: 2026-08-29 11:03:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 11:01:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $103.86)
+**Capital comprometido ahora mismo:** $385.00 en 77 posiciones abiertas (disponible para nuevas apuestas: $93.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 83 | 31 | 0 | +73.67 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 83 | 31 | 1 | +73.67 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 186 | 35 | +43.74 USD |
 | TAIWANNUMBERONE | 17 | 8 | 5 | +34.12 USD |
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 33 | 24 | 2 | +26.79 USD |
+| SDTrading | 33 | 24 | 3 | +26.79 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 11 | 2 | 4 | +18.52 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
@@ -579,6 +579,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Houston Astros vs. New York Mets | New York Mets (BUY) | 57% | 5.00 | 16.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 4.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: TCU (-7.5) | TCU (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ripley86alien | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 73% | 5.00 | 87.8% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -607,5 +609,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 90% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-6.5) | Hawaii (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Stanford (-5.5) | Hawaii (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | North Carolina State vs. Virginia: O/U 5 | Under (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
