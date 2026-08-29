@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 13:43:52 (hora de Perú)
+Actualizado: 2026-08-29 13:45:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $521.96
@@ -581,7 +581,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 16.4% | ⏳ pendiente | — |
+| AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 5.5% | ⏳ pendiente | — |

@@ -71966,8 +71966,8 @@
     "title": "Will Olympique Lyonnais win on 2026-08-29?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 48370.59389999999,
-    "whale_pct": 16.362,
+    "whale_usd": 67142.355512,
+    "whale_pct": 22.712,
     "whale_value_at_open": 295626.2243,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -71978,7 +71978,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788028966.3995807,
-    "fills": 1
+    "last_fill_at": 1788029065.4298527,
+    "fills": 3
   }
 ]
