@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 22:01:07 (hora de Perú)
+Actualizado: 2026-08-28 22:03:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.53
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 22:01:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $377.53)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $372.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| Talvez10 | 1 | 0 | 1 | +4.32 USD |
+| Talvez10 | 1 | 0 | 2 | +4.32 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 0 | +4.14 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -559,6 +559,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector | Lawrence Lui (BUY) | 78% | 5.00 | 28.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 54% | 5.00 | 25.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 83.7% | ⏳ pendiente | — |
@@ -588,4 +589,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Marsborne vs Chicken Coo | Marsborne (BUY) | 69% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Under (BUY) | 45% | 5.00 | 0.4% | ✅ ganada | +5.97 |
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 94% | 5.00 | 5.5% | ✅ ganada | +0.30 |
-| ferrariChampions2026 | Pittsburgh Pirates vs. St. Louis Cardina | St. Louis Cardinals (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |

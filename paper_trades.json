@@ -68117,5 +68117,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787972433.1643593,
     "fills": 1
+  },
+  {
+    "timestamp": 1787972551,
+    "timestamp_added": 1787972551.6269915,
+    "username": "Talvez10",
+    "wallet": "0xa71093cafc0c099b4ccab24c3cb8018d817923c4",
+    "slug": "ufc-law-hecsan-2026-08-29",
+    "title": "UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)",
+    "outcome": "Lawrence Lui",
+    "side": "BUY",
+    "whale_usd": 1746.29,
+    "whale_pct": 28.196,
+    "whale_value_at_open": 6193.2875,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787972551.6270034,
+    "fills": 1
   }
 ]
