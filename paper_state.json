@@ -1,5 +1,5 @@
 {
-  "bankroll": 526.0628030415687,
+  "bankroll": 527.2628030415688,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14260,6 +14260,11 @@
       "timestamp": 1788029592.8297138,
       "bankroll": 526.06,
       "event": "won: 3edmond.dantes \u2014 Will ACF Fiorentina win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788029888.6895955,
+      "bankroll": 527.26,
+      "event": "won: ferrariChampions2026 \u2014 KBO: LG Twins vs. Lotte Giants"
     }
   ]
 }
