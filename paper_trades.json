@@ -73182,5 +73182,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788045664.4800148,
     "fills": 1
+  },
+  {
+    "timestamp": 1788045867,
+    "timestamp_added": 1788045867.9344192,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-parry-mertens-2026-08-29",
+    "title": "Monterrey Open: Diane Parry vs Elise Mertens",
+    "outcome": "Diane Parry",
+    "side": "BUY",
+    "whale_usd": 23025.650199,
+    "whale_pct": 10.674,
+    "whale_value_at_open": 215722.765,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788045868.487322,
+    "fills": 2
   }
 ]
