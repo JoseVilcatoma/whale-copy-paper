@@ -68431,5 +68431,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787987552.9970942,
     "fills": 1
+  },
+  {
+    "timestamp": 1787987682,
+    "timestamp_added": 1787987682.9854188,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "spl-kho-ahl-2026-08-29-total-2pt5",
+    "title": "Al Kholood Saudi Club vs. Al Ahli Saudi Club: O/U 2.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1854.20748,
+    "whale_pct": 9.211,
+    "whale_value_at_open": 20129.2875,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787987682.9854298,
+    "fills": 1
   }
 ]
