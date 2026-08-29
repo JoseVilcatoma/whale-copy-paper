@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 21:23:20 (hora de Perú)
+Actualizado: 2026-08-28 21:25:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $500.32
-**Retorno acumulado:** +0.06%
+**Bankroll actual:** $500.06
+**Retorno acumulado:** +0.01%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 21:23:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $350.32)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $360.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,8 +28,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 15 | 7 | 3 | +36.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| casualbet2020 | 25 | 11 | 1 | +28.64 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 24 | 11 | 2 | +25.92 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | texaskid | 7 | 3 | 2 | +16.39 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
@@ -60,6 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -82,8 +83,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| AV23IUa | 10 | 9 | 2 | -10.50 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
+| AV23IUa | 11 | 10 | 0 | -13.47 USD |
 | kekasaur | 4 | 7 | 2 | -13.78 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 7 | 11 | 3 | -20.23 USD |
@@ -96,13 +97,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2608
-- **Aciertos:** 1672 (64.1%)
+- **Apuestas resueltas:** 2611
+- **Aciertos:** 1674 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,027.59
+- **Total apostado (suma de stakes):** $13,042.59
 - **ROI sobre lo apostado:** -0.73%
-- **Comisiones pagadas (taker fee):** $238.16 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $238.47 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -111,8 +112,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1310 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 766 | 70.5% | 67.7% | +2.8 pp |
+| 40-59% | 1311 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 768 | 70.6% | 67.7% | +2.8 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
 
@@ -558,9 +559,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 54% | 5.00 | 25.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 22.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 52% | 5.00 | 4.7% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 64% | 5.00 | 87.7% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 64% | 5.00 | 87.7% | ✅ ganada | +2.72 |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 204.0% | ⏳ pendiente | — |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 13.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
@@ -572,8 +574,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 49% | 5.00 | 1.3% | ❌ perdida | -5.13 |
 | AV23IUa | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 60% | 5.00 | 4.5% | ❌ perdida | -5.10 |
 | Sassy-Bucket | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 47% | 5.00 | 14.7% | ❌ perdida | -5.13 |
-| AV23IUa | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 43% | 5.00 | 11.6% | ⏳ pendiente | — |
-| AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 182.5% | ⏳ pendiente | — |
+| AV23IUa | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 43% | 5.00 | 11.6% | ❌ perdida | -5.14 |
+| AV23IUa | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 182.5% | ✅ ganada | +2.17 |
 | AV23IUa | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 51% | 5.00 | 44.7% | ✅ ganada | +4.68 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs 9z (+1.5) | Vitality (BUY) | 53% | 5.00 | 29.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 1 W | Vitality (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -587,4 +589,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 94% | 5.00 | 5.5% | ✅ ganada | +0.30 |
 | ferrariChampions2026 | Pittsburgh Pirates vs. St. Louis Cardina | St. Louis Cardinals (BUY) | 49% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 74% | 5.00 | 5.9% | ❌ perdida | -5.07 |
-| ferrariChampions2026 | Will Deportivo Alavés vs. Villarreal CF  | No (BUY) | 72% | 5.00 | 0.7% | ✅ ganada | +1.87 |

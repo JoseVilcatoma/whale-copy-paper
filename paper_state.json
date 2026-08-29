@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.3153526917368,
+  "bankroll": 500.06322950333106,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13600,6 +13600,21 @@
       "timestamp": 1787969371.8027155,
       "bankroll": 500.32,
       "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Dream (-12.5)"
+    },
+    {
+      "timestamp": 1787970324.3491607,
+      "bankroll": 502.48,
+      "event": "won: AV23IUa \u2014 Colorado Rockies vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1787970324.500407,
+      "bankroll": 497.34,
+      "event": "lost: AV23IUa \u2014 Boston Red Sox vs. New York Yankees"
+    },
+    {
+      "timestamp": 1787970326.6034377,
+      "bankroll": 500.06,
+      "event": "won: casualbet2020 \u2014 Valorant: 100 Thieves vs Leviat\u00e1n Esports - Map 2 Winner"
     }
   ]
 }
