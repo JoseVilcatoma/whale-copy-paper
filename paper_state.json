@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.72904314496725,
+  "bankroll": 492.1829647135947,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13565,6 +13565,21 @@
       "timestamp": 1787968066.4119706,
       "bankroll": 497.73,
       "event": "won: ferrariChampions2026 \u2014 Spread: Miami Marlins (-1.5)"
+    },
+    {
+      "timestamp": 1787968411.738341,
+      "bankroll": 492.62,
+      "event": "lost: SDTrading \u2014 Kansas City Royals vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1787968414.6881628,
+      "bankroll": 487.5,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1787968416.6234744,
+      "bankroll": 492.18,
+      "event": "won: AV23IUa \u2014 Miami Marlins vs. Washington Nationals: O/U 8.5"
     }
   ]
 }
