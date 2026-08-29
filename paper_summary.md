@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 19:37:52 (hora de Perú)
+Actualizado: 2026-08-28 19:40:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $503.19
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 19:37:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $323.19)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $318.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,7 +25,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 0 | +48.89 USD |
 | SDTrading | 32 | 21 | 4 | +39.06 USD |
-| TAIWANNUMBERONE | 15 | 7 | 1 | +36.52 USD |
+| TAIWANNUMBERONE | 15 | 7 | 2 | +36.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
@@ -557,6 +557,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
 | kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ⏳ pendiente | — |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 10.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ✅ ganada | +2.27 |
@@ -586,4 +587,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Over (BUY) | 44% | 5.00 | 0.2% | ❌ perdida | -5.14 |
 | ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays: O/U | Under (BUY) | 52% | 5.00 | 3.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 52% | 5.00 | 1.3% | ⏳ pendiente | — |
-| OOOwhyOOO | ITF WOMEN - SINGLES: W35 Barueri (Brazil | Nauhany Vitoria Leme Da Silva (BUY) | 64% | 5.00 | 22.3% | ✅ ganada | +2.72 |
