@@ -68639,8 +68639,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 93984.0399,
-    "whale_pct": 1510.144,
+    "whale_usd": 119998.95894000001,
+    "whale_pct": 1928.154,
     "whale_value_at_open": 6223.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -68654,8 +68654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787992939.3283415,
-    "fills": 10
+    "last_fill_at": 1787993043.113271,
+    "fills": 16
   },
   {
     "timestamp": 1787992652,
