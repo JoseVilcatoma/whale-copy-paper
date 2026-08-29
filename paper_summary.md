@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 15:45:44 (hora de Perú)
+Actualizado: 2026-08-29 15:47:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $503.86
-**Retorno acumulado:** +0.77%
+**Bankroll actual:** $508.94
+**Retorno acumulado:** +1.79%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 15:45:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $273.86)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $283.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,8 +24,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 36 | 2 | +66.38 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 20 | 8 | 3 | +42.67 USD |
+| HomeRunHazard | 382 | 192 | 23 | +37.89 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 14 | 2 | 3 | +33.18 USD |
-| HomeRunHazard | 381 | 192 | 24 | +32.81 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2752
-- **Aciertos:** 1767 (64.2%)
+- **Apuestas resueltas:** 2753
+- **Aciertos:** 1768 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,747.59
-- **ROI sobre lo apostado:** -0.66%
-- **Comisiones pagadas (taker fee):** $251.02 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.16% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,752.59
+- **ROI sobre lo apostado:** -0.63%
+- **Comisiones pagadas (taker fee):** $251.15 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1372 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1373 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 820 | 70.6% | 67.8% | +2.8 pp |
 | 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 503.86398668226786,
+  "bankroll": 508.94006831492095,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14385,6 +14385,11 @@
       "timestamp": 1788035785.486224,
       "bankroll": 503.86,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Natus Vincere vs GIANTX - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788036402.2373996,
+      "bankroll": 508.94,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. New York Yankees: O/U 7.5"
     }
   ]
 }
