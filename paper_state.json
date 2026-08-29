@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.9198443168761,
+  "bankroll": 509.0882211284703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13735,6 +13735,11 @@
       "timestamp": 1787996659.7895205,
       "bankroll": 506.92,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)"
+    },
+    {
+      "timestamp": 1787998205.2175214,
+      "bankroll": 509.09,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Vitality vs 9z - Map 1 Winner"
     }
   ]
 }
