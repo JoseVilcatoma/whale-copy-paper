@@ -1,5 +1,5 @@
 {
-  "bankroll": 532.3680422090201,
+  "bankroll": 532.4571047090201,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13810,6 +13810,11 @@
       "timestamp": 1788002554.3588922,
       "bankroll": 532.37,
       "event": "lost: ferrariChampions2026 \u2014 Will Gamba \u014csaka vs. Sanfrecce Hiroshima end in a draw?"
+    },
+    {
+      "timestamp": 1788002707.3626876,
+      "bankroll": 532.46,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX - Game 4 Winner (+0.09 USD)"
     }
   ]
 }
