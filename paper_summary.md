@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 02:52:52 (hora de Perú)
+Actualizado: 2026-08-29 02:54:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $504.51
-**Retorno acumulado:** +0.90%
+**Bankroll actual:** $511.02
+**Retorno acumulado:** +2.20%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 02:52:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $349.51)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $366.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,20 +91,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 1 | -33.66 USD |
-| ferrariChampions2026 | 310 | 190 | 8 | -60.12 USD |
-| Sassy-Bucket | 18 | 34 | 1 | -90.21 USD |
+| ferrariChampions2026 | 311 | 190 | 7 | -59.59 USD |
+| Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2627
-- **Aciertos:** 1684 (64.1%)
+- **Apuestas resueltas:** 2629
+- **Aciertos:** 1686 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,122.59
-- **ROI sobre lo apostado:** -0.69%
-- **Comisiones pagadas (taker fee):** $240.27 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,132.59
+- **ROI sobre lo apostado:** -0.64%
+- **Comisiones pagadas (taker fee):** $240.44 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.19% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -112,9 +112,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1323 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1324 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 772 | 70.7% | 67.7% | +3.0 pp |
-| 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
+| 80-94% | 364 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -563,10 +563,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: T1 (-2.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 64% | 5.00 | 19.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 69% | 5.00 | 40.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 90% | 5.00 | 2.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 90% | 5.00 | 2.7% | ✅ ganada | +0.53 |
 | ferrariChampions2026 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Al Kholood Saudi Club vs. Al Ahli Saudi  | Over (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
-| Sassy-Bucket | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 45% | 5.00 | 50.5% | ⏳ pendiente | — |
+| Sassy-Bucket | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 45% | 5.00 | 50.5% | ✅ ganada | +5.97 |
 | HomeRunHazard | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 54% | 5.00 | 3.4% | ⏳ pendiente | — |
 | HomeRunHazard | O/U 56.5 | Over (BUY) | 49% | 5.00 | 5.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 55% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -581,7 +581,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector | Lawrence Lui (BUY) | 78% | 5.00 | 641.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 54% | 5.00 | 244.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 418.1% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 421.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 52% | 5.00 | 4.7% | ✅ ganada | +4.50 |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 64% | 5.00 | 87.7% | ✅ ganada | +2.72 |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 204.0% | ✅ ganada | +2.38 |

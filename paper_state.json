@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.51444721903647,
+  "bankroll": 511.01811388570314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13695,6 +13695,16 @@
       "timestamp": 1787982261.9393516,
       "bankroll": 504.51,
       "event": "lost: texaskid \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1787990070.6949334,
+      "bankroll": 510.49,
+      "event": "won: Sassy-Bucket \u2014 UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)"
+    },
+    {
+      "timestamp": 1787990071.4789264,
+      "bankroll": 511.02,
+      "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)"
     }
   ]
 }
