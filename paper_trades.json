@@ -72006,5 +72006,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788029669.418822,
     "fills": 1
+  },
+  {
+    "timestamp": 1788030180,
+    "timestamp_added": 1788030180.8888364,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-navi-gx-2026-08-29",
+    "title": "LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 3316.7904000000003,
+    "whale_pct": 6.798,
+    "whale_value_at_open": 48790.6414,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788030180.8888495,
+    "fills": 1
   }
 ]

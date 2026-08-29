@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 14:02:35 (hora de Perú)
+Actualizado: 2026-08-29 14:04:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $527.26
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 14:02:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $237.26)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $232.26)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 33 | 1 | +73.07 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 33 | 2 | +73.07 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 186 | 35 | +43.74 USD |
 | TAIWANNUMBERONE | 19 | 8 | 3 | +38.69 USD |
@@ -556,6 +556,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-vit-fnc-2026-08-28 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, casualbet2020 |
 | lol-vit-fnc-2026-08-28-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, DoNotTailMe |
 | wta-kalieva-valdman-2026-08-27 | OOOwhyOOO, ferrariChampions2026 |
+| lol-navi-gx-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | mlb-mia-wsh-2026-08-28-total-8pt5 | AV23IUa, ferrariChampions2026 |
 | lol-t1-fox1-2026-08-29-game1 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-t1-fox1-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
@@ -582,6 +583,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 6.8% | ⏳ pendiente | — |
 | texaskid | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners (BUY) | 50% | 5.00 | 5.2% | ⏳ pendiente | — |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
@@ -611,4 +613,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ✅ ganada | +1.60 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 90% | 5.00 | 2.6% | 💰 vendida anticipada | +0.07 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 49% | 5.00 | 6.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 1  | Karmine Corp (BUY) | 80% | 5.00 | 2.9% | 💰 vendida anticipada | -0.42 |
