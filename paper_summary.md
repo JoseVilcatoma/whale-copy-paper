@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:41:12 (hora de Perú)
+Actualizado: 2026-08-29 05:43:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.16
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 05:41:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $206.16)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $201.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 390 | 185 | 13 | -33.46 USD |
-| ferrariChampions2026 | 314 | 191 | 20 | -56.28 USD |
+| ferrariChampions2026 | 314 | 191 | 21 | -56.28 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -568,7 +568,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 73% | 5.00 | 1.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will V-Varen Nagasaki win on 2026-08-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 73% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Tōkyō Verdy win on 2026-08-29? | No (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 92% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kawasaki Frontale vs. JEF United Ic | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -577,7 +578,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Wuxi Wugou win on 2026-08-29? | No (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Vienna (Austria), | Giovanni Oradini (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Samuele Pieri (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Samuele Pieri (BUY) | 61% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kawasaki Frontale win on 2026-08-29 | Yes (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Milton Keynes Dons FC win on 2026-0 | Yes (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 43% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -597,4 +598,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 11.7% | ⏳ pendiente | — |
 | RN1 | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 76% | 5.00 | 46.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 49% | 5.00 | 4.1% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Sebastian Sorger (BUY) | 61% | 5.00 | 8.6% | ⏳ pendiente | — |
