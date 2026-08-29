@@ -71792,8 +71792,8 @@
     "title": "LoL: Karmine Corp vs SK Gaming (BO3) - LEC Regular Season",
     "outcome": "Karmine Corp",
     "side": "BUY",
-    "whale_usd": 3165.7592999999997,
-    "whale_pct": 2.065,
+    "whale_usd": 3828.1362599999998,
+    "whale_pct": 2.497,
     "whale_value_at_open": 153306.1416,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 97,
@@ -71806,8 +71806,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788020404.3622367,
-    "fills": 2
+    "last_fill_at": 1788022168.7937448,
+    "fills": 3
   },
   {
     "timestamp": 1788020599,
