@@ -1,5 +1,5 @@
 {
-  "bankroll": 508.94006831492095,
+  "bankroll": 515.9755744106687,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14390,6 +14390,16 @@
       "timestamp": 1788036402.2373996,
       "bankroll": 508.94,
       "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1788037015.6024275,
+      "bankroll": 512.6,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1788037025.750633,
+      "bankroll": 515.98,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Natus Vincere vs GIANTX (BO3) - LEC Regular Season"
     }
   ]
 }
