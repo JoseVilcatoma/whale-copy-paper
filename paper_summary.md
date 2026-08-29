@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 09:03:49 (hora de Perú)
+Actualizado: 2026-08-29 09:05:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 09:03:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $231.86)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $211.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 82 | 30 | 0 | +74.02 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 18 | +48.89 USD |
+| HomeRunHazard | 376 | 185 | 19 | +48.89 USD |
 | TAIWANNUMBERONE | 17 | 8 | 3 | +34.12 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 402 | 194 | 15 | -52.71 USD |
+| RN1 | 402 | 194 | 18 | -52.71 USD |
 | ferrariChampions2026 | 327 | 196 | 7 | -58.34 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -573,7 +573,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| AV23IUa | Spread: Juventus FC (-2.5) | Parma Calcio 1913 (BUY) | 70% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | North Carolina State vs. Virginia: O/U 5 | Under (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
+| RN1 | AFC Bournemouth vs. Everton FC: O/U 2.5 | Under (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Falkirk FC win on 2026-08-29? | No (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will AFC Bournemouth win on 2026-08-29? | No (BUY) | 58% | 5.00 | 0.3% | ⏳ pendiente | — |
+| AV23IUa | Spread: Juventus FC (-2.5) | Parma Calcio 1913 (BUY) | 70% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will Celtic FC win on 2026-08-29? | Yes (BUY) | 80% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Sheffield Wednesday FC win on 2026- | Yes (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Spread: SV 07 Elversberg (-1.5) | SV 07 Elversberg (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -599,7 +603,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 45% | 5.00 | 9.5% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Under (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 43% | 5.00 | 10.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 99% | 5.00 | 46.1% | ✅ ganada | +0.05 |
-| HomeRunHazard | Spread: New York Liberty (-8.5) | New York Liberty (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 54% | 5.00 | 8.4% | 💰 vendida anticipada | -1.52 |
-| HomeRunHazard | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 58% | 5.00 | 1.7% | ⏳ pendiente | — |
