@@ -72023,15 +72023,17 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -1.53,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788030818.5572927,
-    "fills": 6
+    "fills": 6,
+    "fee_total_usd": 0.215,
+    "closed_price": 42
   },
   {
     "timestamp": 1788030334,
@@ -72092,8 +72094,8 @@
     "title": "Will CA Rosario Central win on 2026-08-29?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 13226.3053,
-    "whale_pct": 325.668,
+    "whale_usd": 17642.2193,
+    "whale_pct": 434.401,
     "whale_value_at_open": 4061.2789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -72104,8 +72106,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788031226.583513,
-    "fills": 7
+    "last_fill_at": 1788031753.3067944,
+    "fills": 8
   },
   {
     "timestamp": 1788031350,

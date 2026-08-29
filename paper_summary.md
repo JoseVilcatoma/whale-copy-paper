@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 14:27:24 (hora de Perú)
+Actualizado: 2026-08-29 14:29:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $517.10
-**Retorno acumulado:** +3.42%
+**Bankroll actual:** $515.57
+**Retorno acumulado:** +3.11%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 14:27:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $217.10)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $220.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 33 | 2 | +73.07 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 84 | 34 | 1 | +71.54 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 19 | 8 | 3 | +38.69 USD |
 | HomeRunHazard | 376 | 187 | 34 | +38.61 USD |
@@ -584,10 +584,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Tereza Valentova (BUY) | 59% | 5.00 | 52.8% | ⏳ pendiente | — |
-| kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 325.7% | ⏳ pendiente | — |
+| kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 434.4% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Katie Volynets (BUY) | 76% | 5.00 | 217.9% | 💰 vendida anticipada | +0.08 |
 | ethanaz | Spread: USC (-20.5) | USC (BUY) | 71% | 5.00 | 91.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 17.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 17.0% | 💰 vendida anticipada | -1.53 |
 | texaskid | Seattle Mariners vs. Toronto Blue Jays | Seattle Mariners (BUY) | 50% | 5.00 | 5.2% | ⏳ pendiente | — |
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ⏳ pendiente | — |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ⏳ pendiente | — |
