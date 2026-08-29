@@ -1,5 +1,5 @@
 {
-  "bankroll": 527.3455990942003,
+  "bankroll": 517.0975990942003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14270,6 +14270,16 @@
       "timestamp": 1788030556.4457958,
       "bankroll": 527.35,
       "event": "venta anticipada: OOOwhyOOO \u2014 Philadelphia: Katie Volynets vs Tereza Valentova (+0.08 USD)"
+    },
+    {
+      "timestamp": 1788031445.6826148,
+      "bankroll": 522.21,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1788031457.3543804,
+      "bankroll": 517.1,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 9.5"
     }
   ]
 }
