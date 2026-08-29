@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:58:19 (hora de Perú)
+Actualizado: 2026-08-29 07:00:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $528.28
@@ -595,7 +595,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Zenit (-1.5) | FK Fakel Voronezh (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 4.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will V-Varen Nagasaki win on 2026-08-29? | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 73% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Tōkyō Verdy win on 2026-08-29? | No (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
