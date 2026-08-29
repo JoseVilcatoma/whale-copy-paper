@@ -69183,15 +69183,17 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.61,
     "overlaps_with": [
       "ArturitoFilito"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787998319.3265731,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.223,
+    "closed_price": 63
   },
   {
     "timestamp": 1787998526,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.3458260204956,
+  "bankroll": 525.9562426871622,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13830,6 +13830,11 @@
       "timestamp": 1788004373.531403,
       "bankroll": 525.35,
       "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Vienna (Austria), clay: Andrej Martin vs Giovanni Oradini"
+    },
+    {
+      "timestamp": 1788004506.1498032,
+      "bankroll": 525.96,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs (+0.61 USD)"
     }
   ]
 }
