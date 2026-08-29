@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 00:43:23 (hora de Perú)
+Actualizado: 2026-08-29 00:45:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $509.64
-**Retorno acumulado:** +1.93%
+**Bankroll actual:** $504.51
+**Retorno acumulado:** +0.90%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 00:43:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $404.64)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $404.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,8 +31,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 33 | 24 | 0 | +26.79 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| texaskid | 8 | 3 | 1 | +18.77 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
+| texaskid | 8 | 4 | 0 | +13.64 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -97,14 +97,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2626
+- **Apuestas resueltas:** 2627
 - **Aciertos:** 1684 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,117.59
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $240.14 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,122.59
+- **ROI sobre lo apostado:** -0.69%
+- **Comisiones pagadas (taker fee):** $240.27 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -112,7 +112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1322 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1323 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 772 | 70.7% | 67.7% | +3.0 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
@@ -575,7 +575,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 13.6% | ✅ ganada | +4.50 |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
 | kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ✅ ganada | +2.97 |
-| texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 63.3% | ⏳ pendiente | — |
+| texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 63.3% | ❌ perdida | -5.13 |
 | casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ✅ ganada | +2.27 |
 | kekasaur | Will Clube Náutico Capibaribe win on 202 | Yes (BUY) | 54% | 5.00 | 1.7% | ✅ ganada | +4.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Elusive vs Zomblers (BO3 | Elusive (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
