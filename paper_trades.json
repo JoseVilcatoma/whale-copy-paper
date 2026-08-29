@@ -73254,5 +73254,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788046388.9224794,
     "fills": 1
+  },
+  {
+    "timestamp": 1788046496,
+    "timestamp_added": 1788046496.7503588,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-nyy-2026-08-29",
+    "title": "Boston Red Sox vs. New York Yankees",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 722.4000000000001,
+    "whale_pct": 0.389,
+    "whale_value_at_open": 185544.9009,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788046496.75037,
+    "fills": 1
   }
 ]
