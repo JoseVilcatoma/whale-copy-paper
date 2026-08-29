@@ -72424,8 +72424,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 12844.0932,
-    "whale_pct": 95.923,
+    "whale_usd": 15523.9106,
+    "whale_pct": 115.936,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72436,8 +72436,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788041697.92881,
-    "fills": 5
+    "last_fill_at": 1788042589.734272,
+    "fills": 6
   },
   {
     "timestamp": 1788038103,
@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 10608.536399999999,
-    "whale_pct": 79.227,
+    "whale_usd": 12289.668399999999,
+    "whale_pct": 91.782,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788041701.5352447,
-    "fills": 5
+    "last_fill_at": 1788042590.435492,
+    "fills": 6
   },
   {
     "timestamp": 1788038109,
@@ -72559,6 +72559,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788042485.7454126,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788042681,
+    "timestamp_added": 1788042682.431838,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-col-atl-2026-08-29-spread-home-1pt5",
+    "title": "Spread: Atlanta Braves (-1.5)",
+    "outcome": "Colorado Rockies",
+    "side": "BUY",
+    "whale_usd": 4432.834,
+    "whale_pct": 1.578,
+    "whale_value_at_open": 280933.7655,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788042682.43185,
     "fills": 1
   }
 ]
