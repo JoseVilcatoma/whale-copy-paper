@@ -67957,8 +67957,8 @@
     "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 7.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 7266.072728,
-    "whale_pct": 6.358,
+    "whale_usd": 10440.562523,
+    "whale_pct": 9.136,
     "whale_value_at_open": 114276.9567,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -67969,8 +67969,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787964782.9624515,
-    "fills": 1
+    "last_fill_at": 1787967437.7239463,
+    "fills": 3
   },
   {
     "timestamp": 1787964899,
