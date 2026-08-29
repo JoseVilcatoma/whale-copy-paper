@@ -67971,5 +67971,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787964782.9624515,
     "fills": 1
+  },
+  {
+    "timestamp": 1787964899,
+    "timestamp_added": 1787964900.2887552,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-100t1-lev1-2026-08-28",
+    "title": "Valorant: 100 Thieves vs Leviat\u00e1n Esports (BO3) - VCT Americas Stage 2 Playoffs",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "whale_usd": 8668.638,
+    "whale_pct": 173.185,
+    "whale_value_at_open": 5005.4101,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787964901.036028,
+    "fills": 2
   }
 ]
