@@ -71980,5 +71980,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788029065.4298527,
     "fills": 3
+  },
+  {
+    "timestamp": 1788029669,
+    "timestamp_added": 1788029669.418814,
+    "username": "texaskid",
+    "wallet": "0xc8075693f48668a264b9fa313b47f52712fcc12b",
+    "slug": "mlb-sea-tor-2026-08-29",
+    "title": "Seattle Mariners vs. Toronto Blue Jays",
+    "outcome": "Seattle Mariners",
+    "side": "BUY",
+    "whale_usd": 1239.2492,
+    "whale_pct": 5.243,
+    "whale_value_at_open": 23634.4505,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788029669.418822,
+    "fills": 1
   }
 ]
