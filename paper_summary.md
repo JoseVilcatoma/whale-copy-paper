@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:02:47 (hora de Perú)
+Actualizado: 2026-08-29 04:04:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.70
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 04:02:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $331.70)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $321.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 26 | 1 | +67.06 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 26 | 2 | +67.06 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 3 | +48.89 USD |
 | TAIWANNUMBERONE | 15 | 7 | 6 | +36.52 USD |
@@ -90,7 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 389 | 185 | 2 | -33.66 USD |
+| RN1 | 389 | 185 | 3 | -33.66 USD |
 | ferrariChampions2026 | 312 | 190 | 12 | -53.86 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -564,12 +564,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Sebastian Sorger (BUY) | 61% | 5.00 | 2.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 73% | 5.00 | 13.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Lorenzo Carboni (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 79% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Sean Woodson vs. Jack J | Jack Jenkins (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | UFC Fight Night: Rei Tsuruya vs. Kevin B | Rei Tsuruya (BUY) | 88% | 5.00 | 3.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | UFC Fight Night: Rei Tsuruya vs. Kevin B | Rei Tsuruya (BUY) | 88% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 96% | 5.00 | 6.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 99% | 5.00 | 2300.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 99% | 5.00 | 2344.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Xiao Long vs. Francesco | Francesco Nuzzi (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 51.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-2.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -592,5 +594,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | plonker2026 | Will Coventry City FC win on 2026-08-29? | Yes (BUY) | 55% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector | Lawrence Lui (BUY) | 78% | 5.00 | 641.8% | ❌ perdida | -5.05 |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 54% | 5.00 | 244.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 421.1% | ⏳ pendiente | — |
