@@ -69080,8 +69080,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 3 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 10466.6008,
-    "whale_pct": 3.928,
+    "whale_usd": 64815.46448099999,
+    "whale_pct": 24.321,
     "whale_value_at_open": 266494.6778,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -69092,8 +69092,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787997546.7656624,
-    "fills": 2
+    "last_fill_at": 1787997776.3337965,
+    "fills": 13
   },
   {
     "timestamp": 1787997574,
@@ -69117,6 +69117,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787997574.9987698,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787997757,
+    "timestamp_added": 1787997758.254035,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-son-uma-2026-08-29",
+    "title": "UFC Fight Night: Song Yadong vs. Umar Nurmagomedov (Bantamweight, Main Card)",
+    "outcome": "Umar Nurmagomedov",
+    "side": "BUY",
+    "whale_usd": 981.6301999999998,
+    "whale_pct": 0.491,
+    "whale_value_at_open": 199874.3347,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787997758.254047,
     "fills": 1
   }
 ]
