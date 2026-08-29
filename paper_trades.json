@@ -68639,8 +68639,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 155388.81366,
-    "whale_pct": 2496.802,
+    "whale_usd": 156387.81366,
+    "whale_pct": 2512.854,
     "whale_value_at_open": 6223.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -68654,8 +68654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787994700.5830781,
-    "fills": 35
+    "last_fill_at": 1787995004.3499393,
+    "fills": 36
   },
   {
     "timestamp": 1787992652,
@@ -68876,5 +68876,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787994810.3255215,
     "fills": 1
+  },
+  {
+    "timestamp": 1787995002,
+    "timestamp_added": 1787995002.8809903,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-tes-lgd-2026-08-29-game1",
+    "title": "LoL: Top Esports vs LGD Gaming - Game 1 Winner",
+    "outcome": "LGD Gaming",
+    "side": "BUY",
+    "whale_usd": 2887.2,
+    "whale_pct": 1.43,
+    "whale_value_at_open": 201832.0749,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787995009.0135818,
+    "fills": 2
   }
 ]

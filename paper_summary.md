@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:15:13 (hora de Perú)
+Actualizado: 2026-08-29 04:17:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.21
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 04:15:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $316.21)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $311.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 2 | +66.58 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 27 | 3 | +66.58 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 3 | +48.89 USD |
 | TAIWANNUMBERONE | 15 | 7 | 6 | +36.52 USD |
@@ -564,6 +564,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 76% | 5.00 | 23.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 49% | 5.00 | 3.6% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Sebastian Sorger (BUY) | 61% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -573,7 +574,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | UFC Fight Night: Sean Woodson vs. Jack J | Jack Jenkins (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Rei Tsuruya vs. Kevin B | Rei Tsuruya (BUY) | 88% | 5.00 | 20.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 96% | 5.00 | 6.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 99% | 5.00 | 2496.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 99% | 5.00 | 2512.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Xiao Long vs. Francesco | Francesco Nuzzi (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 51.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-2.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -593,4 +594,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Wolverhampton Wanderers FC (-1.5 | Stoke City FC (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Acend vs GenOne (BO3) -  | GenOne (BUY) | 45% | 5.00 | 23.6% | ⏳ pendiente | — |
-| plonker2026 | Will Coventry City FC win on 2026-08-29? | Yes (BUY) | 55% | 5.00 | 4.8% | ⏳ pendiente | — |
