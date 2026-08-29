@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.40843129376304,
+  "bankroll": 495.84774081757257,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14545,6 +14545,11 @@
       "timestamp": 1788045356.5137694,
       "bankroll": 494.41,
       "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1788045709.4145849,
+      "bankroll": 495.85,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs LYON - Game 1 Winner (+1.44 USD)"
     }
   ]
 }

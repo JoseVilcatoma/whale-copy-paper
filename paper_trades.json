@@ -72797,13 +72797,15 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.44,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788045043.5505576,
-    "fills": 12
+    "fills": 12,
+    "fee_total_usd": 0.148,
+    "closed_price": 83
   },
   {
     "timestamp": 1788044007,
@@ -73041,8 +73043,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Aidan Mayo",
     "side": "BUY",
-    "whale_usd": 5328.8652999999995,
-    "whale_pct": 2.812,
+    "whale_usd": 9180.455399999999,
+    "whale_pct": 4.844,
     "whale_value_at_open": 189504.0763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -73053,8 +73055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788045533.4401085,
-    "fills": 2
+    "last_fill_at": 1788045757.1361854,
+    "fills": 4
   },
   {
     "timestamp": 1788045252,
