@@ -68639,8 +68639,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 2460.0,
-    "whale_pct": 39.528,
+    "whale_usd": 93984.0399,
+    "whale_pct": 1510.144,
     "whale_value_at_open": 6223.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -68654,8 +68654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787992339.9291372,
-    "fills": 2
+    "last_fill_at": 1787992939.3283415,
+    "fills": 10
   },
   {
     "timestamp": 1787992652,
@@ -68680,5 +68680,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787992670.5795019,
     "fills": 2
+  },
+  {
+    "timestamp": 1787992918,
+    "timestamp_added": 1787992919.5591233,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-rei-kev15-2026-08-29",
+    "title": "UFC Fight Night: Rei Tsuruya vs. Kevin Borjas (Flyweight, Prelims)",
+    "outcome": "Rei Tsuruya",
+    "side": "BUY",
+    "whale_usd": 4856.1792000000005,
+    "whale_pct": 3.333,
+    "whale_value_at_open": 145710.9826,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787992919.5591335,
+    "fills": 1
   }
 ]
