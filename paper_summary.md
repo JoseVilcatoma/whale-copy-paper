@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 22:57:29 (hora de Perú)
+Actualizado: 2026-08-28 22:59:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 22:57:29 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $397.92)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $392.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| plonker2026 | 8 | 7 | 0 | +8.05 USD |
+| plonker2026 | 8 | 7 | 1 | +8.05 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
@@ -559,6 +559,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| plonker2026 | Will Coventry City FC win on 2026-08-29? | Yes (BUY) | 55% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector | Lawrence Lui (BUY) | 78% | 5.00 | 28.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 54% | 5.00 | 25.2% | ⏳ pendiente | — |
@@ -588,4 +589,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z (BO3) - B | Vitality (BUY) | 76% | 5.00 | 21.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Marsborne vs Chicken Coo | Marsborne (BUY) | 69% | 5.00 | 4.7% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | Deportivo Alavés vs. Villarreal CF: O/U  | Under (BUY) | 45% | 5.00 | 0.4% | ✅ ganada | +5.97 |
-| ferrariChampions2026 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 94% | 5.00 | 5.5% | ✅ ganada | +0.30 |

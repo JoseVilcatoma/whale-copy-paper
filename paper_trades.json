@@ -68141,5 +68141,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787972551.6270034,
     "fills": 1
+  },
+  {
+    "timestamp": 1787975859,
+    "timestamp_added": 1787975860.1020498,
+    "username": "plonker2026",
+    "wallet": "0x0a39b3b29ab3b7dd753aa96fde4ecab3f2dbb0b9",
+    "slug": "epl-cov-hul-2026-08-29-cov",
+    "title": "Will Coventry City FC win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 6731.375400000001,
+    "whale_pct": 4.754,
+    "whale_value_at_open": 141581.3936,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787975860.1020648,
+    "fills": 1
   }
 ]
