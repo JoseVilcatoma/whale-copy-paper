@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.7866779882672,
+  "bankroll": 510.2820626036518,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13675,6 +13675,11 @@
       "timestamp": 1787977852.1514373,
       "bankroll": 505.79,
       "event": "won: wr0ngw4yb3tt0r \u2014 Spread: Washington Mystics (-5.5)"
+    },
+    {
+      "timestamp": 1787978171.595979,
+      "bankroll": 510.28,
+      "event": "won: Sassy-Bucket \u2014 Philadelphia Phillies vs. Los Angeles Angels: O/U 7.5"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 23:34:14 (hora de Perú)
+Actualizado: 2026-08-28 23:36:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.79
-**Retorno acumulado:** +1.16%
+**Bankroll actual:** $510.28
+**Retorno acumulado:** +2.06%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 23:34:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $405.79)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $415.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,19 +92,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
 | ferrariChampions2026 | 310 | 190 | 1 | -60.12 USD |
-| Sassy-Bucket | 16 | 34 | 2 | -99.21 USD |
+| Sassy-Bucket | 17 | 34 | 1 | -94.71 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2623
-- **Aciertos:** 1682 (64.1%)
+- **Apuestas resueltas:** 2624
+- **Aciertos:** 1683 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,102.59
-- **ROI sobre lo apostado:** -0.68%
-- **Comisiones pagadas (taker fee):** $239.77 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,107.59
+- **ROI sobre lo apostado:** -0.65%
+- **Comisiones pagadas (taker fee):** $239.89 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -112,7 +112,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1319 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1320 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 772 | 70.7% | 67.7% | +3.0 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
@@ -568,7 +568,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 52% | 5.00 | 4.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 64% | 5.00 | 87.7% | ✅ ganada | +2.72 |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 204.0% | ✅ ganada | +2.38 |
-| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 13.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 13.6% | ✅ ganada | +4.50 |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
 | kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ✅ ganada | +2.97 |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 63.3% | ⏳ pendiente | — |
