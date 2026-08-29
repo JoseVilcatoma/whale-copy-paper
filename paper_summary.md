@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 10:32:14 (hora de Perú)
+Actualizado: 2026-08-29 10:34:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 10:32:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $147.51)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $127.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,13 +23,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 83 | 31 | 0 | +73.67 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 186 | 28 | +43.74 USD |
+| HomeRunHazard | 376 | 186 | 30 | +43.74 USD |
 | TAIWANNUMBERONE | 17 | 8 | 5 | +34.12 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 33 | 24 | 1 | +26.79 USD |
+| SDTrading | 33 | 24 | 2 | +26.79 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 11 | 2 | 4 | +18.52 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| sbsigner | 0 | 0 | 1 | +0.00 USD |
+| sbsigner | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 0 | -0.62 USD |
@@ -572,11 +572,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-sea-tor-2026-08-29-total-7pt5 | HomeRunHazard, nigiri99 |
 | cs2-fut-lvg-2026-08-29 | AV23IUa, ArturitoFilito |
 | nfl-chi-ten-2026-08-29-total-36pt5 | HomeRunHazard, SDTrading |
+| mlb-cws-min-2026-08-29 | HomeRunHazard, SDTrading |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| sbsigner | Will Hull City AFC win on 2026-08-29? | No (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Minnesota Twins (-1.5) | Chicago White Sox (BUY) | 65% | 5.00 | 2.7% | ⏳ pendiente | — |
+| SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 49% | 5.00 | 85.7% | ⏳ pendiente | — |
+| HomeRunHazard | Chicago White Sox vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
 | sbsigner | Will Coventry City FC vs. Hull City AFC  | No (BUY) | 58% | 5.00 | 4.3% | ⏳ pendiente | — |
@@ -603,7 +608,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Spread: Juventus FC (-2.5) | Parma Calcio 1913 (BUY) | 70% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will Celtic FC win on 2026-08-29? | Yes (BUY) | 80% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Sheffield Wednesday FC win on 2026- | Yes (BUY) | 55% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Spread: SV 07 Elversberg (-1.5) | SV 07 Elversberg (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Eric Vanshelboim (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
-| HomeRunHazard | San Jose State vs. USC: O/U 61.5 | Under (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | SV 07 Elversberg vs. Bayer 04 Leverkusen | Over (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
