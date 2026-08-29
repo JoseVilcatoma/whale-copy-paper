@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 14:46:05 (hora de Perú)
+Actualizado: 2026-08-29 14:48:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $520.25
@@ -583,7 +583,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 59% | 5.00 | 14.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 59% | 5.00 | 123.5% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Tereza Valentova (BUY) | 59% | 5.00 | 52.8% | ⏳ pendiente | — |
 | kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 729.9% | ⏳ pendiente | — |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Katie Volynets (BUY) | 76% | 5.00 | 217.9% | 💰 vendida anticipada | +0.08 |
