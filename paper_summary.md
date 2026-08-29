@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:11:01 (hora de Perú)
+Actualizado: 2026-08-29 04:13:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.21
@@ -572,7 +572,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | UFC Fight Night: Sean Woodson vs. Jack J | Jack Jenkins (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Rei Tsuruya vs. Kevin B | Rei Tsuruya (BUY) | 88% | 5.00 | 20.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Bucharest 3 (Roma | Radu David Turcanu (BUY) | 96% | 5.00 | 6.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 99% | 5.00 | 2458.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 99% | 5.00 | 2496.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Xiao Long vs. Francesco | Francesco Nuzzi (BUY) | 46% | 5.00 | 0.8% | ✅ ganada | +5.73 |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 51.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: T1 (-2.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 63% | 5.00 | 1.1% | ⏳ pendiente | — |
