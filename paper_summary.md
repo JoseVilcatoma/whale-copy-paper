@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 04:19:25 (hora de Perú)
+Actualizado: 2026-08-29 04:21:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $511.21
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 04:19:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $311.21)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $306.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 4 | -33.66 USD |
-| ferrariChampions2026 | 312 | 190 | 12 | -53.86 USD |
+| ferrariChampions2026 | 312 | 190 | 13 | -53.86 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -564,9 +564,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 1.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will FC Mito Holly Hock win on 2026-08-2 | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 1  | LGD Gaming (BUY) | 41% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 76% | 5.00 | 23.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 49% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 49% | 5.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Sebastian Sorger (BUY) | 61% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 2 Winner | T1 (BUY) | 73% | 5.00 | 13.8% | 💰 vendida anticipada | -0.48 |
 | ferrariChampions2026 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Lorenzo Carboni (BUY) | 60% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -593,4 +594,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Liverpool FC vs. Nottingham Forest FC: O | Over (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Wolverhampton Wanderers FC (-1.5 | Stoke City FC (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Acend vs GenOne (BO3) -  | GenOne (BUY) | 45% | 5.00 | 23.6% | ⏳ pendiente | — |
