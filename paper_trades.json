@@ -68697,8 +68697,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.65,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -68814,8 +68814,8 @@
     "title": "ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Samuele Pieri vs Sebastian Sorger",
     "outcome": "Sebastian Sorger",
     "side": "BUY",
-    "whale_usd": 1892.09,
-    "whale_pct": 6.264,
+    "whale_usd": 2592.09,
+    "whale_pct": 8.581,
     "whale_value_at_open": 30206.5336,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -68826,8 +68826,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787995331.4903665,
-    "fills": 2
+    "last_fill_at": 1787996539.308738,
+    "fills": 3
   },
   {
     "timestamp": 1787994599,
@@ -68886,8 +68886,8 @@
     "title": "LoL: Top Esports vs LGD Gaming - Game 1 Winner",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 17781.625357999998,
-    "whale_pct": 8.81,
+    "whale_usd": 22376.065357999996,
+    "whale_pct": 11.086,
     "whale_value_at_open": 201832.0749,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -68898,8 +68898,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787996504.6177797,
-    "fills": 13
+    "last_fill_at": 1787996658.1279886,
+    "fills": 16
   },
   {
     "timestamp": 1787995168,
@@ -68971,6 +68971,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787996358.8814726,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787996578,
+    "timestamp_added": 1787996579.068116,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-lithen-monzon-2026-08-29",
+    "title": "ITF MEN - SINGLES: M15 Pecs (Hungary), clay: John Hallquist Lithen vs Ignacio Monzon",
+    "outcome": "Ignacio Monzon",
+    "side": "BUY",
+    "whale_usd": 642.786666,
+    "whale_pct": 1.438,
+    "whale_value_at_open": 44699.7223,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787996579.0681288,
     "fills": 1
   }
 ]
