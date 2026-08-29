@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.75474924103764,
+  "bankroll": 491.0616708096651,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14495,6 +14495,26 @@
       "timestamp": 1788042883.8024695,
       "bankroll": 501.75,
       "event": "lost: ethanaz \u2014 Spread: USC (-20.5)"
+    },
+    {
+      "timestamp": 1788043500.3966353,
+      "bankroll": 496.63,
+      "event": "lost: HomeRunHazard \u2014 Seattle Mariners vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1788043500.496838,
+      "bankroll": 491.5,
+      "event": "lost: nigiri99 \u2014 Seattle Mariners vs. Toronto Blue Jays: O/U 7.5"
+    },
+    {
+      "timestamp": 1788043504.6237679,
+      "bankroll": 496.19,
+      "event": "won: HomeRunHazard \u2014 Seattle Mariners vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1788043506.5786486,
+      "bankroll": 491.06,
+      "event": "lost: texaskid \u2014 Seattle Mariners vs. Toronto Blue Jays"
     }
   ]
 }
