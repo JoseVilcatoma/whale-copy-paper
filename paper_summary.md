@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 11:29:22 (hora de Perú)
+Actualizado: 2026-08-29 11:31:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 11:29:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $130.95)
+**Capital comprometido ahora mismo:** $375.00 en 75 posiciones abiertas (disponible para nuevas apuestas: $125.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 33 | 24 | 4 | +26.79 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 12 | 2 | 3 | +24.49 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 12 | 2 | 4 | +24.49 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
 | texaskid | 8 | 4 | 0 | +13.64 USD |
@@ -580,6 +580,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs 9INE (BO3) -  | 9INE (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 54% | 5.00 | 6.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -609,4 +610,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | CHI vs. TEN: O/U 36.5 | Under (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | Lynn Vision (BUY) | 42% | 5.00 | 26.6% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 60% | 5.00 | 29.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: TCU (-9.5) | North Carolina (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |

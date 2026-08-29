@@ -71856,5 +71856,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788020760.527781,
     "fills": 2
+  },
+  {
+    "timestamp": 1788020963,
+    "timestamp_added": 1788020963.9314356,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g2a-9ine-2026-08-29",
+    "title": "Counter-Strike: G2 Ares vs 9INE (BO3) - Logitech G Play Connect Closed Qualifier Group B",
+    "outcome": "9INE",
+    "side": "BUY",
+    "whale_usd": 646.56,
+    "whale_pct": 1.21,
+    "whale_value_at_open": 53415.5379,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788020963.9314446,
+    "fills": 1
   }
 ]
