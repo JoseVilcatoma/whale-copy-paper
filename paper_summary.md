@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:07:09 (hora de Perú)
+Actualizado: 2026-08-29 05:09:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.92
@@ -570,7 +570,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ArturitoFilito | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 53% | 5.00 | 92.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 89% | 5.00 | 2.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 3 Winner | T1 (BUY) | 69% | 5.00 | 27.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 3 Winner | T1 (BUY) | 69% | 5.00 | 28.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ArturitoFilito | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 75% | 5.00 | 11.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Gamba Ōsaka vs. Sanfrecce Hiroshima | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
