@@ -72979,5 +72979,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788044946.1409364,
     "fills": 1
+  },
+  {
+    "timestamp": 1788045081,
+    "timestamp_added": 1788045081.7635694,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-bal-oak-2026-08-29-total-9pt5",
+    "title": "Baltimore Orioles vs. Athletics: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 37513.3252,
+    "whale_pct": 91.131,
+    "whale_value_at_open": 41163.9825,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788045081.7635818,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788045170,
+    "timestamp_added": 1788045170.6960962,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-col-atl-2026-08-29",
+    "title": "Colorado Rockies vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 553.08,
+    "whale_pct": 0.292,
+    "whale_value_at_open": 189504.0763,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788045170.6961076,
+    "fills": 1
   }
 ]
