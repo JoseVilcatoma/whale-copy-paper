@@ -2,61 +2,61 @@
   "0xc8075693f48668a264b9fa313b47f52712fcc12b": {
     "username": "texaskid",
     "added_at": 1787863220.5287902,
-    "roi_pct": 717.72,
+    "roi_pct": 683.73,
     "short_term_pct": 100.0
   },
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1787890086.425708,
-    "roi_pct": 1245.85,
+    "roi_pct": 1246.6,
     "short_term_pct": 90.0
   },
   "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316": {
     "username": "SPCEXBUYER",
     "added_at": 1787916096.6074612,
-    "roi_pct": 30694.15,
+    "roi_pct": 30697.05,
     "short_term_pct": 100.0
   },
   "0xf5f92940519a72da460b1c2a606bc1230f0e87b0": {
     "username": "kekasaur",
     "added_at": 1787941469.7124658,
-    "roi_pct": 5666.03,
+    "roi_pct": 5670.13,
     "short_term_pct": 100.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1787941469.7124753,
-    "roi_pct": 1221.97,
-    "short_term_pct": 100.0
-  },
-  "0x65c18d740c8246af3353741c0b32e4b6da552988": {
-    "username": "casualbet2020",
-    "added_at": 1787950896.2902896,
-    "roi_pct": 924.68,
+    "roi_pct": 1206.94,
     "short_term_pct": 100.0
   },
   "0xc9a24fa249cf907c598544a4d46c077c1edf77d3": {
     "username": "0x7A3f9C2D8b41E6a570F2c93B1d4E8A",
     "added_at": 1787953976.8112104,
-    "roi_pct": 8944.01,
+    "roi_pct": 6682.87,
     "short_term_pct": 100.0
   },
   "0x16bb9951a36fce71e2ef57890b786145e0ba8492": {
     "username": "SDTrading",
     "added_at": 1787956784.2362013,
-    "roi_pct": 1177.13,
-    "short_term_pct": 100.0
-  },
-  "0xf28e42d20e4826f2b10a24bc952001697947cab2": {
-    "username": "ethanaz",
-    "added_at": 1787969059.026018,
-    "roi_pct": 774.66,
+    "roi_pct": 1315.48,
     "short_term_pct": 100.0
   },
   "0xa71093cafc0c099b4ccab24c3cb8018d817923c4": {
     "username": "Talvez10",
     "added_at": 1787969999.3554523,
-    "roi_pct": 825.5,
+    "roi_pct": 1266.86,
+    "short_term_pct": 100.0
+  },
+  "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
+    "username": "Sassy-Bucket",
+    "added_at": 1787970935.684212,
+    "roi_pct": 514.32,
+    "short_term_pct": 100.0
+  },
+  "0x336bf6f91a4619d54f0711a20fe468adf4d71233": {
+    "username": "ArturitoFilito",
+    "added_at": 1787970935.6842134,
+    "roi_pct": 437.63,
     "short_term_pct": 100.0
   }
 }
