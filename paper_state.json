@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.9613585971242,
+  "bankroll": 526.0628030415687,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14245,6 +14245,21 @@
       "timestamp": 1788028961.6544194,
       "bankroll": 521.96,
       "event": "lost: nigiri99 \u2014 Tottenham Hotspur FC vs. Newcastle United FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788029577.0676,
+      "bankroll": 525.19,
+      "event": "won: ferrariChampions2026 \u2014 BV Borussia 09 Dortmund vs. Hamburger SV: O/U 3.5"
+    },
+    {
+      "timestamp": 1788029577.3735366,
+      "bankroll": 520.09,
+      "event": "lost: ferrariChampions2026 \u2014 Will ACF Fiorentina win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788029592.8297138,
+      "bankroll": 526.06,
+      "event": "won: 3edmond.dantes \u2014 Will ACF Fiorentina win on 2026-08-29?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 13:52:14 (hora de Perú)
+Actualizado: 2026-08-29 13:54:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $521.96
-**Retorno acumulado:** +4.39%
+**Bankroll actual:** $526.06
+**Retorno acumulado:** +5.21%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 13:52:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $216.96)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $236.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,6 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| 3edmond.dantes | 2 | 1 | 0 | +5.35 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 1 | +4.14 USD |
@@ -63,7 +64,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| 3edmond.dantes | 1 | 1 | 1 | -0.62 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -93,20 +93,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 413 | 199 | 2 | -50.55 USD |
-| ferrariChampions2026 | 329 | 197 | 4 | -60.51 USD |
+| ferrariChampions2026 | 330 | 198 | 2 | -62.39 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2727
-- **Aciertos:** 1754 (64.3%)
+- **Apuestas resueltas:** 2730
+- **Aciertos:** 1756 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,622.59
-- **ROI sobre lo apostado:** -0.55%
-- **Comisiones pagadas (taker fee):** $248.39 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.28% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,637.59
+- **ROI sobre lo apostado:** -0.52%
+- **Comisiones pagadas (taker fee):** $248.73 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.31% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1355 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 814 | 70.5% | 67.8% | +2.7 pp |
+| 40-59% | 1357 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 815 | 70.6% | 67.8% | +2.8 pp |
 | 80-94% | 382 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
@@ -589,7 +589,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 82% | 5.00 | 2.1% | 💰 vendida anticipada | -0.59 |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 54% | 5.00 | 6.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 97% | 5.00 | 2.5% | ✅ ganada | +0.15 |
-| 3edmond.dantes | Will ACF Fiorentina win on 2026-08-29? | No (BUY) | 45% | 5.00 | 1642.8% | ⏳ pendiente | — |
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-08-29? | No (BUY) | 45% | 5.00 | 1642.8% | ✅ ganada | +5.97 |
 | SDTrading | Houston Astros vs. New York Mets | New York Mets (BUY) | 57% | 5.00 | 16.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 13.1% | 💰 vendida anticipada | -0.16 |
 | HomeRunHazard | Spread: TCU (-7.5) | TCU (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
