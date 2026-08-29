@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.15607827132743,
+  "bankroll": 511.7470557994173,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13745,6 +13745,11 @@
       "timestamp": 1787999425.1069958,
       "bankroll": 511.16,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Namsrai Batbayar vs. Andre Lima (Flyweight, Main Card)"
+    },
+    {
+      "timestamp": 1788000357.9657986,
+      "bankroll": 511.75,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Emma Lene vs Anastasija Cvetkovic"
     }
   ]
 }
