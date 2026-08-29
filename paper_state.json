@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.49690481044246,
+  "bankroll": 505.92427486273453,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14575,6 +14575,26 @@
       "timestamp": 1788046286.8965232,
       "bankroll": 497.5,
       "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1788046595.9047604,
+      "bankroll": 498.03,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1788046599.542773,
+      "bankroll": 500.0,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Atlanta Braves (-1.5)"
+    },
+    {
+      "timestamp": 1788046600.0784998,
+      "bankroll": 504.87,
+      "event": "won: RN1 \u2014 Colorado Rockies vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1788046602.4360538,
+      "bankroll": 505.92,
+      "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Atlanta Braves"
     }
   ]
 }
