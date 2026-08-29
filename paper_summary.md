@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:10:04 (hora de Perú)
+Actualizado: 2026-08-29 06:12:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $523.18
@@ -571,7 +571,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will JEF United Ichihara Chiba win on 20 | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | 1. FC Heidenheim 1846 vs. SG Dynamo Dres | Over (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Liverpool FC (-1.5) | Liverpool FC (BUY) | 43% | 5.00 | 6.1% | ⏳ pendiente | — |

@@ -69736,8 +69736,8 @@
     "title": "ITF WOMEN - SINGLES: W35 Trieste (Italy), clay: Gabriela Ce vs Pia Lovric",
     "outcome": "Gabriela Ce",
     "side": "BUY",
-    "whale_usd": 533.333333,
-    "whale_pct": 0.582,
+    "whale_usd": 1554.954954,
+    "whale_pct": 1.697,
     "whale_value_at_open": 91624.9815,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -69748,7 +69748,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788001796.3727038,
-    "fills": 1
+    "last_fill_at": 1788001816.02158,
+    "fills": 2
   }
 ]
