@@ -66233,8 +66233,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -66497,8 +66497,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "pleaseplease123"
     ],
@@ -68055,8 +68055,8 @@
     "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 14976.8706,
-    "whale_pct": 83.656,
+    "whale_usd": 18109.2306,
+    "whale_pct": 101.152,
     "whale_value_at_open": 17902.9788,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -68067,8 +68067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787972182.339117,
-    "fills": 4
+    "last_fill_at": 1787973127.0249863,
+    "fills": 6
   },
   {
     "timestamp": 1787970216,
