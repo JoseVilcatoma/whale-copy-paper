@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 23:28:08 (hora de Perú)
+Actualizado: 2026-08-28 23:30:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.29
@@ -559,7 +559,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Acend vs GenOne (BO3) -  | GenOne (BUY) | 45% | 5.00 | 20.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Acend vs GenOne (BO3) -  | GenOne (BUY) | 45% | 5.00 | 23.6% | ⏳ pendiente | — |
 | plonker2026 | Will Coventry City FC win on 2026-08-29? | Yes (BUY) | 55% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector | Lawrence Lui (BUY) | 78% | 5.00 | 28.2% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
