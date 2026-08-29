@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 00:20:47 (hora de Perú)
+Actualizado: 2026-08-29 00:22:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $509.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 00:20:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $409.64)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $404.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
-| ferrariChampions2026 | 310 | 190 | 4 | -60.12 USD |
+| ferrariChampions2026 | 310 | 190 | 5 | -60.12 USD |
 | Sassy-Bucket | 18 | 34 | 0 | -90.21 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -559,6 +559,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | BV Borussia 09 Dortmund vs. Hamburger SV | Under (BUY) | 60% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Liverpool FC vs. Nottingham Forest FC: O | Over (BUY) | 64% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Wolverhampton Wanderers FC (-1.5 | Stoke City FC (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -588,4 +589,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 1 W | Vitality (BUY) | 69% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Philadelphia: Tereza Valentova vs Julia  | Tereza Valentova (BUY) | 93% | 5.00 | 0.2% | ✅ ganada | +0.36 |
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benj | Ignacio Buse (BUY) | 56% | 5.00 | 1.2% | ✅ ganada | +3.82 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |

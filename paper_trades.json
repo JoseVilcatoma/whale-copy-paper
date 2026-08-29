@@ -68261,5 +68261,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787980829.6970053,
     "fills": 1
+  },
+  {
+    "timestamp": 1787980917,
+    "timestamp_added": 1787980918.3406596,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bun-dor-hsv-2026-08-29-total-3pt5",
+    "title": "BV Borussia 09 Dortmund vs. Hamburger SV: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3856.719999,
+    "whale_pct": 2.498,
+    "whale_value_at_open": 154420.787,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787980918.3406725,
+    "fills": 1
   }
 ]
