@@ -1,5 +1,5 @@
 {
-  "bankroll": 519.0227729166587,
+  "bankroll": 513.9977729166587,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14310,6 +14310,11 @@
       "timestamp": 1788033001.975469,
       "bankroll": 519.02,
       "event": "won: HomeRunHazard \u2014 Spread: TCU (-9.5)"
+    },
+    {
+      "timestamp": 1788033312.2645333,
+      "bankroll": 514.0,
+      "event": "lost: sbsigner \u2014 Will Hull City AFC win on 2026-08-29?"
     }
   ]
 }

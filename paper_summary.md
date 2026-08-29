@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 14:54:20 (hora de Perú)
+Actualizado: 2026-08-29 14:56:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $519.02
-**Retorno acumulado:** +3.80%
+**Bankroll actual:** $514.00
+**Retorno acumulado:** +2.80%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 14:54:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $244.02)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $244.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 1 | +4.14 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| sbsigner | 1 | 0 | 1 | +3.52 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -64,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
+| sbsigner | 1 | 1 | 0 | -1.51 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2738
+- **Apuestas resueltas:** 2739
 - **Aciertos:** 1760 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,677.59
-- **ROI sobre lo apostado:** -0.56%
-- **Comisiones pagadas (taker fee):** $249.62 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,682.59
+- **ROI sobre lo apostado:** -0.59%
+- **Comisiones pagadas (taker fee):** $249.64 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1363 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 816 | 70.5% | 67.8% | +2.7 pp |
-| 80-94% | 383 | 86.7% | 86.7% | -0.0 pp |
+| 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -607,7 +607,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 51% | 5.00 | 0.7% | ⏳ pendiente | — |
-| sbsigner | Will Hull City AFC win on 2026-08-29? | No (BUY) | 90% | 5.00 | 3.1% | ⏳ pendiente | — |
+| sbsigner | Will Hull City AFC win on 2026-08-29? | No (BUY) | 90% | 5.00 | 3.1% | ❌ perdida | -5.03 |
 | HomeRunHazard | Spread: Minnesota Twins (-1.5) | Chicago White Sox (BUY) | 65% | 5.00 | 2.7% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 49% | 5.00 | 85.7% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
