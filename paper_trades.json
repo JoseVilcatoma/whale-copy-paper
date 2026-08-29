@@ -69762,8 +69762,8 @@
     "title": "Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 6889.7978,
-    "whale_pct": 15.267,
+    "whale_usd": 11257.7978,
+    "whale_pct": 24.946,
     "whale_value_at_open": 45128.3427,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -69774,8 +69774,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788008067.7022572,
-    "fills": 3
+    "last_fill_at": 1788014217.7820141,
+    "fills": 4
   },
   {
     "timestamp": 1788002637,
