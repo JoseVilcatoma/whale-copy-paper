@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.0696928017246,
+  "bankroll": 506.26802613505794,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13725,6 +13725,11 @@
       "timestamp": 1787995968.759848,
       "bankroll": 506.07,
       "event": "lost: ferrariChampions2026 \u2014 UFC Fight Night: Sean Woodson vs. Jack Jenkins (Featherweight, Prelims)"
+    },
+    {
+      "timestamp": 1787996402.1334188,
+      "bankroll": 506.27,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Bucharest 3 (Romania), clay: Vlad Cristian Breazu vs Radu David Turcanu"
     }
   ]
 }
