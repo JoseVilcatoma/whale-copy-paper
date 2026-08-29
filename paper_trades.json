@@ -68505,5 +68505,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787988333.0103624,
     "fills": 3
+  },
+  {
+    "timestamp": 1787989678,
+    "timestamp_added": 1787989679.8938537,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-t1-fox1-2026-08-29-game-handicap-away-1pt5",
+    "title": "Game Handicap: T1 (-1.5) vs BNK FEARX (+1.5)",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 26943.0144,
+    "whale_pct": 40.47,
+    "whale_value_at_open": 66575.0985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787989719.6185157,
+    "fills": 3
   }
 ]

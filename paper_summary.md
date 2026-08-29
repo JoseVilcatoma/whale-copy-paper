@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 02:46:45 (hora de Perú)
+Actualizado: 2026-08-29 02:48:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 02:46:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $359.51)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $354.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 73 | 26 | 0 | +67.06 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 3 | +48.89 USD |
-| TAIWANNUMBERONE | 15 | 7 | 5 | +36.52 USD |
+| TAIWANNUMBERONE | 15 | 7 | 6 | +36.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -561,6 +561,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: T1 (-1.5) vs BNK FEARX (+ | T1 (BUY) | 69% | 5.00 | 40.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Ding Meng vs. Cameron N | Cameron Nelson (BUY) | 90% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 78% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Al Kholood Saudi Club vs. Al Ahli Saudi  | Over (BUY) | 54% | 5.00 | 9.2% | ⏳ pendiente | — |
@@ -590,4 +591,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ✅ ganada | +2.27 |
 | kekasaur | Will Clube Náutico Capibaribe win on 202 | Yes (BUY) | 54% | 5.00 | 1.7% | ✅ ganada | +4.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Elusive vs Zomblers (BO3 | Elusive (BUY) | 43% | 5.00 | 1.9% | ⏳ pendiente | — |
-| Sassy-Bucket | Kansas City Royals vs. Cleveland Guardia | Over (BUY) | 49% | 5.00 | 1.3% | ❌ perdida | -5.13 |
