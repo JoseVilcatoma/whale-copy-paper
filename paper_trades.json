@@ -72422,8 +72422,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 2831.913,
-    "whale_pct": 21.149,
+    "whale_usd": 5456.6325,
+    "whale_pct": 40.751,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72434,8 +72434,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788038101.5186062,
-    "fills": 1
+    "last_fill_at": 1788038995.3463695,
+    "fills": 2
   },
   {
     "timestamp": 1788038103,
@@ -72446,8 +72446,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 2204.5562,
-    "whale_pct": 16.464,
+    "whale_usd": 4403.4588,
+    "whale_pct": 32.886,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72458,8 +72458,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788038103.8576074,
-    "fills": 1
+    "last_fill_at": 1788038998.1102934,
+    "fills": 2
   },
   {
     "timestamp": 1788038109,
@@ -72470,8 +72470,8 @@
     "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 1388.6055000000001,
-    "whale_pct": 10.37,
+    "whale_usd": 2618.7390000000005,
+    "whale_pct": 19.557,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72482,8 +72482,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788038110.5145185,
-    "fills": 1
+    "last_fill_at": 1788038999.9398153,
+    "fills": 2
   },
   {
     "timestamp": 1788038865,
@@ -72507,6 +72507,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788038866.4560614,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788038979,
+    "timestamp_added": 1788038980.5669706,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-jdg-we-2026-08-30",
+    "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 3035.7112500000003,
+    "whale_pct": 5.026,
+    "whale_value_at_open": 60395.2606,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788038980.5669842,
     "fills": 1
   }
 ]
