@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 09:07:53 (hora de Perú)
+Actualizado: 2026-08-29 09:10:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $506.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 09:07:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $211.86)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $201.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 82 | 30 | 0 | +74.02 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 19 | +48.89 USD |
+| HomeRunHazard | 376 | 185 | 21 | +48.89 USD |
 | TAIWANNUMBERONE | 17 | 8 | 3 | +34.12 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -573,6 +573,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Stanford (-6.5) | Hawaii (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Stanford (-5.5) | Hawaii (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | North Carolina State vs. Virginia: O/U 5 | Under (BUY) | 51% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | AFC Bournemouth vs. Everton FC: O/U 2.5 | Under (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Falkirk FC win on 2026-08-29? | No (BUY) | 95% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -596,10 +598,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 55% | 5.00 | 10.7% | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 55% | 5.00 | 15.8% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Tampa Bay Rays: O/U | Over (BUY) | 51% | 5.00 | 11.6% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays:  | Over (BUY) | 50% | 5.00 | 9.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Minnesota Twins: O | Over (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 45% | 5.00 | 9.5% | ⏳ pendiente | — |
-| HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Under (BUY) | 47% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Over (BUY) | 43% | 5.00 | 10.2% | ⏳ pendiente | — |
