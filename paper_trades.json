@@ -73192,8 +73192,8 @@
     "title": "Monterrey Open: Diane Parry vs Elise Mertens",
     "outcome": "Diane Parry",
     "side": "BUY",
-    "whale_usd": 32872.450399,
-    "whale_pct": 15.238,
+    "whale_usd": 36579.490399,
+    "whale_pct": 16.957,
     "whale_value_at_open": 215722.765,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -73204,8 +73204,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788047474.5176814,
-    "fills": 5
+    "last_fill_at": 1788047568.1861656,
+    "fills": 6
   },
   {
     "timestamp": 1788046061,
@@ -73397,6 +73397,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788047477.2101524,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788047611,
+    "timestamp_added": 1788047611.616235,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-skc-vwh-2026-08-29-spread-away-1pt5",
+    "title": "Spread: Vancouver Whitecaps FC (-1.5)",
+    "outcome": "Sporting Kansas City",
+    "side": "BUY",
+    "whale_usd": 1158.45,
+    "whale_pct": 0.511,
+    "whale_value_at_open": 226502.7009,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788047611.616245,
     "fills": 1
   }
 ]
