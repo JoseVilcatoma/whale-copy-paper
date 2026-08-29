@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.9215357802989,
+  "bankroll": 503.19447695676945,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13535,6 +13535,11 @@
       "timestamp": 1787962428.9546745,
       "bankroll": 500.92,
       "event": "lost: wr0ngw4yb3tt0r \u2014 Will Real Racing Club win on 2026-08-28?"
+    },
+    {
+      "timestamp": 1787963684.0780292,
+      "bankroll": 503.19,
+      "event": "won: casualbet2020 \u2014 Valorant: NRG vs LOUD (BO3) - VCT Americas Stage 2 Playoffs"
     }
   ]
 }
