@@ -68383,5 +68383,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787987015.828112,
     "fills": 1
+  },
+  {
+    "timestamp": 1787987355,
+    "timestamp_added": 1787987356.4167511,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-kc-cle-2026-08-29-total-7pt5",
+    "title": "Kansas City Royals vs. Cleveland Guardians: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1308.9993,
+    "whale_pct": 3.418,
+    "whale_value_at_open": 38294.2309,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787987356.4167647,
+    "fills": 1
   }
 ]
