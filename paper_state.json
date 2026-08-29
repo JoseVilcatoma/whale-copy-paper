@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.5646026376594,
+  "bankroll": 497.5341187666917,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13635,6 +13635,11 @@
       "timestamp": 1787971271.1630507,
       "bankroll": 494.56,
       "event": "won: texaskid \u2014 Texas Rangers vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1787971588.2574224,
+      "bankroll": 497.53,
+      "event": "won: kekasaur \u2014 CA Boca Juniors vs. CA Lan\u00fas: O/U 2.5"
     }
   ]
 }

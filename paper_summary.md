@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-28 21:44:24 (hora de Perú)
+Actualizado: 2026-08-28 21:46:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.56
-**Retorno acumulado:** -1.09%
+**Bankroll actual:** $497.53
+**Retorno acumulado:** -0.49%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-28 21:44:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $374.56)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $382.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,9 +83,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| kekasaur | 5 | 7 | 1 | -10.81 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | AV23IUa | 11 | 10 | 0 | -13.47 USD |
-| kekasaur | 4 | 7 | 2 | -13.78 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 7 | 11 | 3 | -20.23 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -97,14 +97,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2615
-- **Aciertos:** 1676 (64.1%)
+- **Apuestas resueltas:** 2616
+- **Aciertos:** 1677 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,062.59
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $238.90 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,067.59
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $238.99 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -113,7 +113,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1313 | 49.9% | 50.1% | -0.2 pp |
-| 60-79% | 770 | 70.6% | 67.7% | +2.9 pp |
+| 60-79% | 771 | 70.7% | 67.7% | +3.0 pp |
 | 80-94% | 363 | 86.8% | 86.8% | -0.0 pp |
 | 95-99% (casi seguro) | 169 | 95.9% | 97.3% | -1.5 pp |
 
@@ -566,7 +566,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 204.0% | ✅ ganada | +2.38 |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 52% | 5.00 | 13.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: T1 vs BNK FEARX - Game 1 Winner | T1 (BUY) | 71% | 5.00 | 7.2% | ⏳ pendiente | — |
-| kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ⏳ pendiente | — |
+| kekasaur | CA Boca Juniors vs. CA Lanús: O/U 2.5 | Under (BUY) | 62% | 5.00 | 1.9% | ✅ ganada | +2.97 |
 | texaskid | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 63.3% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: NRG vs LOUD (BO3) - VCT Americ | NRG (BUY) | 68% | 5.00 | 119.9% | ✅ ganada | +2.27 |
 | kekasaur | Will Clube Náutico Capibaribe win on 202 | Yes (BUY) | 54% | 5.00 | 1.7% | ⏳ pendiente | — |
