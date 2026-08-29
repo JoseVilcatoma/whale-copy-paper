@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 12:02:20 (hora de Perú)
+Actualizado: 2026-08-29 12:04:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $500.36
-**Retorno acumulado:** +0.07%
+**Bankroll actual:** $498.76
+**Retorno acumulado:** -0.25%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 12:02:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $370.00 en 74 posiciones abiertas (disponible para nuevas apuestas: $130.36)
+**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $138.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 0 | 0 | +11.46 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| plonker2026 | 8 | 7 | 1 | +8.05 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
@@ -47,7 +46,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | ripley86alien | 1 | 0 | 1 | +4.14 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| sbsigner | 1 | 0 | 1 | +3.52 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
+| plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -60,7 +61,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| sbsigner | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 3edmond.dantes | 1 | 1 | 1 | -0.62 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2710
-- **Aciertos:** 1740 (64.2%)
+- **Apuestas resueltas:** 2712
+- **Aciertos:** 1741 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,537.59
-- **ROI sobre lo apostado:** -0.71%
-- **Comisiones pagadas (taker fee):** $246.94 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,547.59
+- **ROI sobre lo apostado:** -0.72%
+- **Comisiones pagadas (taker fee):** $247.16 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1346 | 50.0% | 50.0% | -0.0 pp |
+| 40-59% | 1348 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 811 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 379 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 174 | 96.0% | 97.4% | -1.4 pp |
@@ -599,7 +599,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Chicago White Sox vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 49% | 5.00 | 1.0% | ⏳ pendiente | — |
-| sbsigner | Will Coventry City FC vs. Hull City AFC  | No (BUY) | 58% | 5.00 | 4.3% | ⏳ pendiente | — |
+| sbsigner | Will Coventry City FC vs. Hull City AFC  | No (BUY) | 58% | 5.00 | 4.3% | ✅ ganada | +3.52 |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX - Game 1 Wi | Natus Vincere (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 90% | 5.00 | 2.6% | 💰 vendida anticipada | +0.07 |

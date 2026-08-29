@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.3593490745231,
+  "bankroll": 498.7630387296955,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14160,6 +14160,16 @@
       "timestamp": 1788021365.390559,
       "bankroll": 500.36,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Karmine Corp vs SK Gaming - Game 2 Winner (-0.59 USD)"
+    },
+    {
+      "timestamp": 1788023035.7631118,
+      "bankroll": 495.25,
+      "event": "lost: plonker2026 \u2014 Will Coventry City FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788023051.3273172,
+      "bankroll": 498.76,
+      "event": "won: sbsigner \u2014 Will Coventry City FC vs. Hull City AFC end in a draw?"
     }
   ]
 }
