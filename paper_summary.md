@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 09:24:44 (hora de Perú)
+Actualizado: 2026-08-29 09:26:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $506.86
-**Retorno acumulado:** +1.37%
+**Bankroll actual:** $501.71
+**Retorno acumulado:** +0.34%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 09:24:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $181.86)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $176.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 82 | 30 | 0 | +74.02 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 24 | +48.89 USD |
+| HomeRunHazard | 376 | 186 | 23 | +43.74 USD |
 | TAIWANNUMBERONE | 17 | 8 | 4 | +34.12 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -86,7 +86,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
-| AV23IUa | 11 | 10 | 1 | -13.47 USD |
+| AV23IUa | 11 | 10 | 2 | -13.47 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -98,14 +98,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2693
+- **Apuestas resueltas:** 2694
 - **Aciertos:** 1730 (64.2%)
-- **Cuota promedio de entrada:** 63.6%
+- **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,452.59
-- **ROI sobre lo apostado:** -0.67%
-- **Comisiones pagadas (taker fee):** $245.21 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,457.59
+- **ROI sobre lo apostado:** -0.71%
+- **Comisiones pagadas (taker fee):** $245.36 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -113,7 +113,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1339 | 50.0% | 50.1% | -0.0 pp |
+| 40-59% | 1340 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 801 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 379 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 174 | 96.0% | 97.4% | -1.4 pp |
@@ -573,6 +573,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 60% | 5.00 | 14.0% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: TCU (-9.5) | North Carolina (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: TCU (-8.5) | North Carolina (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 90% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -602,4 +603,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 53% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
-| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 55% | 5.00 | 15.8% | ⏳ pendiente | — |

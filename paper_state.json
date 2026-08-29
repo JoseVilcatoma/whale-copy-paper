@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.8594431947043,
+  "bankroll": 501.71144319470426,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14055,6 +14055,11 @@
       "timestamp": 1788011418.6440468,
       "bankroll": 506.86,
       "event": "won: RN1 \u2014 Liverpool FC vs. Nottingham Forest FC: O/U 4.5"
+    },
+    {
+      "timestamp": 1788013533.0737278,
+      "bankroll": 501.71,
+      "event": "lost: HomeRunHazard \u2014 Hanshin Tigers vs. Yomiuri Giants"
     }
   ]
 }
