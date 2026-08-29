@@ -1,5 +1,5 @@
 {
-  "bankroll": 489.07116175701674,
+  "bankroll": 483.9231617570167,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14110,6 +14110,11 @@
       "timestamp": 1788018524.7459657,
       "bankroll": 489.07,
       "event": "lost: RN1 \u2014 Will TSG 1899 Hoffenheim win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788018588.8625302,
+      "bankroll": 483.92,
+      "event": "lost: RN1 \u2014 Spread: SV 07 Elversberg (-1.5)"
     }
   ]
 }
