@@ -71766,8 +71766,8 @@
     "title": "Will ACF Fiorentina win on 2026-08-29?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 81242.46149999999,
-    "whale_pct": 1584.628,
+    "whale_usd": 84226.70604499998,
+    "whale_pct": 1642.836,
     "whale_value_at_open": 5126.91,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -71780,8 +71780,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788020783.7817981,
-    "fills": 6
+    "last_fill_at": 1788020921.334351,
+    "fills": 8
   },
   {
     "timestamp": 1788020278,

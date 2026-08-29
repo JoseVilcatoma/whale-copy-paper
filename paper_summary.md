@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 11:27:20 (hora de Perú)
+Actualizado: 2026-08-29 11:29:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.95
@@ -583,7 +583,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 82% | 5.00 | 1.7% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 54% | 5.00 | 6.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 97% | 5.00 | 2.1% | ⏳ pendiente | — |
-| 3edmond.dantes | Will ACF Fiorentina win on 2026-08-29? | No (BUY) | 45% | 5.00 | 1584.6% | ⏳ pendiente | — |
+| 3edmond.dantes | Will ACF Fiorentina win on 2026-08-29? | No (BUY) | 45% | 5.00 | 1642.8% | ⏳ pendiente | — |
 | SDTrading | Houston Astros vs. New York Mets | New York Mets (BUY) | 57% | 5.00 | 16.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 81% | 5.00 | 13.1% | 💰 vendida anticipada | -0.16 |
 | HomeRunHazard | Spread: TCU (-7.5) | TCU (BUY) | 50% | 5.00 | 3.2% | ⏳ pendiente | — |
