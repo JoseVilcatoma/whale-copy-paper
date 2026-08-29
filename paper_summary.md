@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 17:37:49 (hora de Perú)
+Actualizado: 2026-08-29 17:40:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.75
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 17:37:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $321.75)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $311.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 414 | 199 | 1 | -46.41 USD |
+| RN1 | 414 | 199 | 3 | -46.41 USD |
 | ferrariChampions2026 | 331 | 199 | 3 | -66.29 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -589,6 +589,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will EC Vitória win on 2026-08-29? | No (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Colorado Rockies (BUY) | 71% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -617,5 +619,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Will Olympique Lyonnais win on 2026-08-2 | Yes (BUY) | 70% | 5.00 | 22.7% | ❌ perdida | -5.08 |
 | AV23IUa | Winston-Salem Open: Arthur Fery vs Ignac | Arthur Fery (BUY) | 56% | 5.00 | 9.0% | ❌ perdida | -5.11 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ❌ perdida | -5.12 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 11.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs 9INE (BO3) -  | 9INE (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
