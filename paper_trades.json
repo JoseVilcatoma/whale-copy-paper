@@ -72424,8 +72424,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 7955.181,
-    "whale_pct": 59.411,
+    "whale_usd": 10268.0104,
+    "whale_pct": 76.684,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72436,8 +72436,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788039894.4455426,
-    "fills": 3
+    "last_fill_at": 1788040792.1809661,
+    "fills": 4
   },
   {
     "timestamp": 1788038103,
@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 6599.1202,
-    "whale_pct": 49.284,
+    "whale_usd": 8731.5116,
+    "whale_pct": 65.209,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788039895.47846,
-    "fills": 3
+    "last_fill_at": 1788040793.7803662,
+    "fills": 4
   },
   {
     "timestamp": 1788038109,
