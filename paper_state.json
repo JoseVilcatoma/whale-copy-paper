@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.4611822361989,
+  "bankroll": 523.1771282487395,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13755,6 +13755,26 @@
       "timestamp": 1788000729.708587,
       "bankroll": 512.46,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Bilal Hasan vs. Nilson Rojas (Flyweight, Main Card)"
+    },
+    {
+      "timestamp": 1788001604.6430218,
+      "bankroll": 513.98,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Vitality vs 9z (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788001604.915536,
+      "bankroll": 515.76,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Vitality vs 9z - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788001605.1756089,
+      "bankroll": 518.86,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1788001605.437824,
+      "bankroll": 523.18,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: VIT (-1.5) vs 9z (+1.5)"
     }
   ]
 }

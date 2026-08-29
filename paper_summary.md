@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:05:52 (hora de Perú)
+Actualizado: 2026-08-29 06:07:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $512.46
-**Retorno acumulado:** +2.49%
+**Bankroll actual:** $523.18
+**Retorno acumulado:** +4.64%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:05:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $187.46)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $208.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 33 | 24 | 0 | +26.79 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 11 | 2 | 3 | +18.52 USD |
 | HVAB | 19 | 7 | 0 | +14.83 USD |
 | texaskid | 8 | 4 | 0 | +13.64 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -38,7 +39,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | plonker2026 | 8 | 7 | 1 | +8.05 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 7 | 2 | 7 | +7.80 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
@@ -90,22 +90,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 11 | 10 | 0 | -13.47 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 391 | 185 | 13 | -32.87 USD |
+| RN1 | 391 | 185 | 14 | -32.87 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 315 | 191 | 23 | -55.57 USD |
+| ferrariChampions2026 | 315 | 191 | 24 | -55.57 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2638
-- **Aciertos:** 1693 (64.2%)
+- **Apuestas resueltas:** 2642
+- **Aciertos:** 1697 (64.2%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,177.59
-- **ROI sobre lo apostado:** -0.62%
-- **Comisiones pagadas (taker fee):** $241.02 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,197.59
+- **ROI sobre lo apostado:** -0.54%
+- **Comisiones pagadas (taker fee):** $241.36 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.29% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -113,8 +113,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1326 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 775 | 70.7% | 67.7% | +3.0 pp |
+| 40-59% | 1327 | 50.0% | 50.1% | -0.1 pp |
+| 60-79% | 778 | 70.8% | 67.7% | +3.1 pp |
 | 80-94% | 367 | 86.9% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 170 | 95.9% | 97.3% | -1.5 pp |
 
@@ -571,6 +571,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will JEF United Ichihara Chiba win on 20 | No (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | 1. FC Heidenheim 1846 vs. SG Dynamo Dres | Over (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Liverpool FC (-1.5) | Liverpool FC (BUY) | 43% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -599,5 +601,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming - Game 2  | LGD Gaming (BUY) | 43% | 5.00 | 6.3% | ⏳ pendiente | — |
 | ArturitoFilito | Spread: Liverpool FC (-2.5) | Nottingham Forest FC (BUY) | 75% | 5.00 | 11.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Gamba Ōsaka vs. Sanfrecce Hiroshima | No (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Pecs (Hungary), c | Ignacio Monzon (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | KBO: LG Twins vs. Lotte Giants | LG Twins (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
