@@ -1,5 +1,5 @@
 {
-  "bankroll": 525.2199571289711,
+  "bankroll": 526.7389044973922,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13860,6 +13860,11 @@
       "timestamp": 1788006083.8177724,
       "bankroll": 525.22,
       "event": "won: ferrariChampions2026 \u2014 Will JEF United Ichihara Chiba win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788006147.5994015,
+      "bankroll": 526.74,
+      "event": "won: ferrariChampions2026 \u2014 Will Kawasaki Frontale vs. JEF United Ichihara Chiba end in a draw?"
     }
   ]
 }
