@@ -1,5 +1,5 @@
 {
-  "bankroll": 506.2675503397661,
+  "bankroll": 505.8544719083935,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14465,6 +14465,16 @@
       "timestamp": 1788041317.2717535,
       "bankroll": 506.27,
       "event": "won: HomeRunHazard \u2014 Kansas City Royals vs. Cleveland Guardians: O/U 7.5"
+    },
+    {
+      "timestamp": 1788041632.5456204,
+      "bankroll": 510.95,
+      "event": "won: HomeRunHazard \u2014 San Diego Padres vs. Tampa Bay Rays: O/U 7.5"
+    },
+    {
+      "timestamp": 1788041640.2777288,
+      "bankroll": 505.85,
+      "event": "lost: kekasaur \u2014 Will CA Rosario Central win on 2026-08-29?"
     }
   ]
 }

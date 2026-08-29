@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 17:12:59 (hora de Perú)
+Actualizado: 2026-08-29 17:15:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $506.27
-**Retorno acumulado:** +1.25%
+**Bankroll actual:** $505.85
+**Retorno acumulado:** +1.17%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 17:12:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $311.27)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $320.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,11 +24,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 37 | 1 | +66.84 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 21 | 8 | 5 | +46.33 USD |
+| HomeRunHazard | 385 | 195 | 17 | +33.94 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 14 | 2 | 6 | +33.18 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| HomeRunHazard | 384 | 195 | 18 | +29.26 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 34 | 25 | 2 | +26.75 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
@@ -81,12 +81,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | quavoo | 3 | 3 | 1 | -6.11 USD |
-| kekasaur | 6 | 7 | 1 | -6.67 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
+| kekasaur | 6 | 8 | 0 | -11.76 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2767
-- **Aciertos:** 1776 (64.2%)
+- **Apuestas resueltas:** 2769
+- **Aciertos:** 1777 (64.2%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,822.59
+- **Total apostado (suma de stakes):** $13,832.59
 - **ROI sobre lo apostado:** -0.62%
-- **Comisiones pagadas (taker fee):** $252.66 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.21% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $252.87 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1383 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 824 | 70.5% | 67.8% | +2.7 pp |
+| 40-59% | 1384 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 825 | 70.4% | 67.8% | +2.6 pp |
 | 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
@@ -592,7 +592,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma (BUY) | 87% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: AUR (-1.5) vs M80 (+1.5) | Aurora Gaming (BUY) | 46% | 5.00 | 19.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming (BO | Aurora Gaming (BUY) | 75% | 5.00 | 65.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 46% | 5.00 | 76.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 46% | 5.00 | 95.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Shopify Rebellion (BUY) | 50% | 5.00 | 20.2% | 💰 vendida anticipada | -2.91 |
 | TAIWANNUMBERONE | Will South Africa win in regulation? | Yes (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 1591.7% | ⏳ pendiente | — |
@@ -605,7 +605,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | 💰 vendida anticipada | -0.04 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 59% | 5.00 | 123.5% | ✅ ganada | +3.37 |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Tereza Valentova (BUY) | 59% | 5.00 | 52.8% | ❌ perdida | -5.10 |
-| kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 729.9% | ⏳ pendiente | — |
+| kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 729.9% | ❌ perdida | -5.09 |
 | OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Katie Volynets (BUY) | 76% | 5.00 | 217.9% | 💰 vendida anticipada | +0.08 |
 | ethanaz | Spread: USC (-20.5) | USC (BUY) | 71% | 5.00 | 91.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 57% | 5.00 | 17.0% | 💰 vendida anticipada | -1.53 |
