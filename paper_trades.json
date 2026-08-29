@@ -68093,5 +68093,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787970217.0601864,
     "fills": 1
+  },
+  {
+    "timestamp": 1787972432,
+    "timestamp_added": 1787972433.1643467,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-kc-sk-2026-08-29",
+    "title": "LoL: Karmine Corp vs SK Gaming (BO3) - LEC Regular Season",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "whale_usd": 627.0525,
+    "whale_pct": 1.857,
+    "whale_value_at_open": 33760.9542,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787972433.1643593,
+    "fills": 1
   }
 ]
