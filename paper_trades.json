@@ -68605,5 +68605,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787990935.440489,
     "fills": 9
+  },
+  {
+    "timestamp": 1787991852,
+    "timestamp_added": 1787991853.5714197,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-xia-fra9-2026-08-29",
+    "title": "UFC Fight Night: Xiao Long vs. Francesco Nuzzi (Bantamweight, Prelims)",
+    "outcome": "Francesco Nuzzi",
+    "side": "BUY",
+    "whale_usd": 1098.7965,
+    "whale_pct": 0.833,
+    "whale_value_at_open": 131961.1625,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787991853.5714333,
+    "fills": 1
   }
 ]
