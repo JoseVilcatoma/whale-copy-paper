@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 17:52:21 (hora de Perú)
+Actualizado: 2026-08-29 17:54:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.06
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 17:52:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $296.06)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $276.06)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 37 | 1 | +66.84 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 37 | 3 | +66.84 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| TAIWANNUMBERONE | 21 | 8 | 5 | +46.33 USD |
+| TAIWANNUMBERONE | 21 | 8 | 6 | +46.33 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 15 | 2 | 6 | +34.96 USD |
 | HomeRunHazard | 387 | 197 | 13 | +32.70 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 414 | 199 | 6 | -46.41 USD |
-| ferrariChampions2026 | 331 | 199 | 4 | -66.29 USD |
+| ferrariChampions2026 | 331 | 199 | 5 | -66.29 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -585,16 +585,21 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-hou-nym-2026-08-29 | SDTrading, sbsigner |
 | atp-fery-buse-2026-08-29 | AV23IUa, ArturitoFilito |
 | fl1-lyo-hac-2026-08-29-lyo | AV23IUa, sbsigner |
+| lol-c9-ly-2026-08-29-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | CF Montréal (BUY) | 51% | 5.00 | 7.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | LYON (BUY) | 41% | 5.00 | 21.1% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 62% | 5.00 | 2.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Bears vs. Titans: O/U 39.5 | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: GenOne vs INOX Division  | INOX Division (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Philadelphia Union win on 2026-08-2 | No (BUY) | 56% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Philadelphia Union win on 2026-08-2 | No (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-29? | No (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -616,7 +621,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 21.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | 💰 vendida anticipada | -0.04 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX (BO3) - LEC | Natus Vincere (BUY) | 59% | 5.00 | 123.5% | ✅ ganada | +3.37 |
-| OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Tereza Valentova (BUY) | 59% | 5.00 | 52.8% | ❌ perdida | -5.10 |
-| kekasaur | Will CA Rosario Central win on 2026-08-2 | Yes (BUY) | 62% | 5.00 | 729.9% | ❌ perdida | -5.09 |
-| OOOwhyOOO | Philadelphia: Katie Volynets vs Tereza V | Katie Volynets (BUY) | 76% | 5.00 | 217.9% | 💰 vendida anticipada | +0.08 |
-| ethanaz | Spread: USC (-20.5) | USC (BUY) | 71% | 5.00 | 91.2% | ❌ perdida | -5.07 |
