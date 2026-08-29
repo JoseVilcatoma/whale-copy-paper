@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.3311985573393,
+  "bankroll": 530.3004520784662,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13845,6 +13845,11 @@
       "timestamp": 1788004945.6508074,
       "bankroll": 528.33,
       "event": "won: ferrariChampions2026 \u2014 Will V-Varen Nagasaki win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788005073.6931603,
+      "bankroll": 530.3,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Pecs (Hungary), clay: John Hallquist Lithen vs Ignacio Monzon"
     }
   ]
 }
