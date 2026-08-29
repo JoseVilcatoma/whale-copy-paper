@@ -1,5 +1,5 @@
 {
-  "bankroll": 512.4840324295964,
+  "bankroll": 515.2065324295963,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14335,6 +14335,11 @@
       "timestamp": 1788034129.1104035,
       "bankroll": 512.48,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season (-0.04 USD)"
+    },
+    {
+      "timestamp": 1788034538.4733303,
+      "bankroll": 515.21,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B"
     }
   ]
 }

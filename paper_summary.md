@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 15:14:55 (hora de Perú)
+Actualizado: 2026-08-29 15:16:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $512.48
-**Retorno acumulado:** +2.50%
+**Bankroll actual:** $515.21
+**Retorno acumulado:** +3.04%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 15:14:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $232.48)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $240.21)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,10 +25,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 379 | 189 | 29 | +42.05 USD |
 | TAIWANNUMBERONE | 19 | 8 | 4 | +38.69 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 14 | 2 | 3 | +33.18 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 13 | 2 | 4 | +30.46 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 33 | 25 | 3 | +21.67 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2742
-- **Aciertos:** 1762 (64.3%)
+- **Apuestas resueltas:** 2743
+- **Aciertos:** 1763 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,697.59
-- **ROI sobre lo apostado:** -0.60%
-- **Comisiones pagadas (taker fee):** $249.90 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,702.59
+- **ROI sobre lo apostado:** -0.58%
+- **Comisiones pagadas (taker fee):** $249.99 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.24% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1364 | 50.1% | 50.1% | +0.1 pp |
-| 60-79% | 818 | 70.5% | 67.8% | +2.7 pp |
+| 60-79% | 819 | 70.6% | 67.8% | +2.8 pp |
 | 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
@@ -588,7 +588,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | sbsigner | Will Toulouse FC win on 2026-08-29? | Yes (BUY) | 70% | 5.00 | 19.5% | ⏳ pendiente | — |
 | sbsigner | Will Olympique Lyonnais win on 2026-08-2 | No (BUY) | 55% | 5.00 | 16.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 1.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion -  | Team Liquid (BUY) | 85% | 5.00 | 2.1% | ⏳ pendiente | — |
 | ArturitoFilito | Winston-Salem Open: Arthur Fery vs Ignac | Ignacio Buse (BUY) | 45% | 5.00 | 7.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 66% | 5.00 | 20.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Team Liquid (BUY) | 91% | 5.00 | 8.1% | 💰 vendida anticipada | -0.04 |
