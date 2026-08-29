@@ -1,5 +1,5 @@
 {
-  "bankroll": 508.15511575332386,
+  "bankroll": 509.73018327678363,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14010,6 +14010,31 @@
       "timestamp": 1788011232.2105532,
       "bankroll": 508.16,
       "event": "lost: RN1 \u2014 Will Liverpool FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788011295.1037176,
+      "bankroll": 508.93,
+      "event": "won: RN1 \u2014 Will Nottingham Forest FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788011355.38432,
+      "bankroll": 511.66,
+      "event": "won: ferrariChampions2026 \u2014 Liverpool FC vs. Nottingham Forest FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788011357.622174,
+      "bankroll": 513.18,
+      "event": "won: RN1 \u2014 Spread: Liverpool FC (-2.5)"
+    },
+    {
+      "timestamp": 1788011357.9846761,
+      "bankroll": 514.78,
+      "event": "won: ArturitoFilito \u2014 Spread: Liverpool FC (-2.5)"
+    },
+    {
+      "timestamp": 1788011360.0426574,
+      "bankroll": 509.73,
+      "event": "lost: RN1 \u2014 Will Liverpool FC vs. Nottingham Forest FC end in a draw?"
     }
   ]
 }
