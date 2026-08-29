@@ -72094,8 +72094,8 @@
     "title": "Will CA Rosario Central win on 2026-08-29?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 17642.2193,
-    "whale_pct": 434.401,
+    "whale_usd": 29642.2193,
+    "whale_pct": 729.874,
     "whale_value_at_open": 4061.2789,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -72106,8 +72106,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788031753.3067944,
-    "fills": 8
+    "last_fill_at": 1788032194.5650268,
+    "fills": 9
   },
   {
     "timestamp": 1788031350,
