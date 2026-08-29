@@ -1,5 +1,5 @@
 {
-  "bankroll": 520.2488890838804,
+  "bankroll": 519.0227729166587,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14290,6 +14290,26 @@
       "timestamp": 1788032686.3087273,
       "bankroll": 520.25,
       "event": "won: HomeRunHazard \u2014 Spread: New York Liberty (-8.5)"
+    },
+    {
+      "timestamp": 1788032994.4225254,
+      "bankroll": 515.15,
+      "event": "lost: ferrariChampions2026 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Lorenzo Carboni"
+    },
+    {
+      "timestamp": 1788032999.0549989,
+      "bankroll": 510.02,
+      "event": "lost: HomeRunHazard \u2014 North Carolina vs. TCU: O/U 46.5"
+    },
+    {
+      "timestamp": 1788033001.6528265,
+      "bankroll": 514.71,
+      "event": "won: HomeRunHazard \u2014 Spread: TCU (-8.5)"
+    },
+    {
+      "timestamp": 1788033001.975469,
+      "bankroll": 519.02,
+      "event": "won: HomeRunHazard \u2014 Spread: TCU (-9.5)"
     }
   ]
 }
