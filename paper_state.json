@@ -1,5 +1,5 @@
 {
-  "bankroll": 504.1737299693957,
+  "bankroll": 501.2601799693957,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14445,6 +14445,11 @@
       "timestamp": 1788038507.66862,
       "bankroll": 504.17,
       "event": "lost: HomeRunHazard \u2014 Pittsburgh Pirates vs. St. Louis Cardinals: O/U 8.5"
+    },
+    {
+      "timestamp": 1788040311.9237025,
+      "bankroll": 501.26,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Liquid vs Shopify Rebellion (BO3) - LCS Regular Season (-2.91 USD)"
     }
   ]
 }
