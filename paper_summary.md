@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 17:54:28 (hora de Perú)
+Actualizado: 2026-08-29 17:56:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $491.06
@@ -593,8 +593,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | CF Montréal (BUY) | 51% | 5.00 | 7.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | LYON (BUY) | 41% | 5.00 | 21.1% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 62% | 5.00 | 2.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 62% | 5.00 | 15.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 63% | 5.00 | 39.0% | ⏳ pendiente | — |
 | RN1 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Bears vs. Titans: O/U 39.5 | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: GenOne vs INOX Division  | INOX Division (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
