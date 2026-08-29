@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 00:10:44 (hora de Perú)
+Actualizado: 2026-08-29 00:12:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $509.64
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 00:10:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $419.64)
+**Capital comprometido ahora mismo:** $95.00 en 19 posiciones abiertas (disponible para nuevas apuestas: $414.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 389 | 185 | 0 | -33.66 USD |
-| ferrariChampions2026 | 310 | 190 | 2 | -60.12 USD |
+| ferrariChampions2026 | 310 | 190 | 3 | -60.12 USD |
 | Sassy-Bucket | 18 | 34 | 0 | -90.21 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -559,6 +559,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Wolverhampton Wanderers FC (-1.5 | Stoke City FC (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 54% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Acend vs GenOne (BO3) -  | GenOne (BUY) | 45% | 5.00 | 23.6% | ⏳ pendiente | — |
 | plonker2026 | Will Coventry City FC win on 2026-08-29? | Yes (BUY) | 55% | 5.00 | 4.8% | ⏳ pendiente | — |
@@ -588,4 +589,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Winston-Salem Open: Ignacio Buse vs Benj | Ignacio Buse (BUY) | 56% | 5.00 | 1.2% | ✅ ganada | +3.82 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z - Map 2 W | Vitality (BUY) | 73% | 5.00 | 3.8% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs 9z (BO3) - B | Vitality (BUY) | 76% | 5.00 | 21.3% | ⏳ pendiente | — |

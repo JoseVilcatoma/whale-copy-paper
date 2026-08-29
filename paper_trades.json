@@ -68213,5 +68213,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787979589.6224244,
     "fills": 1
+  },
+  {
+    "timestamp": 1787980338,
+    "timestamp_added": 1787980338.9464908,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "elc-wol-sto-2026-08-29-spread-home-1pt5",
+    "title": "Spread: Wolverhampton Wanderers FC (-1.5)",
+    "outcome": "Stoke City FC",
+    "side": "BUY",
+    "whale_usd": 1039.5,
+    "whale_pct": 0.729,
+    "whale_value_at_open": 142677.6698,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787980338.9465036,
+    "fills": 1
   }
 ]
