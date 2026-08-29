@@ -67995,5 +67995,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787965080.288932,
     "fills": 3
+  },
+  {
+    "timestamp": 1787967090,
+    "timestamp_added": 1787967090.949581,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-100t1-lev1-2026-08-28-game2",
+    "title": "Valorant: 100 Thieves vs Leviat\u00e1n Esports - Map 2 Winner",
+    "outcome": "100 Thieves",
+    "side": "BUY",
+    "whale_usd": 17590.247027,
+    "whale_pct": 87.74,
+    "whale_value_at_open": 20048.1191,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787967109.0251026,
+    "fills": 2
   }
 ]
