@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 02:50:48 (hora de Perú)
+Actualizado: 2026-08-29 02:52:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $504.51
@@ -581,7 +581,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | UFC Fight Night: Lawrence Lui vs. Hector | Lawrence Lui (BUY) | 78% | 5.00 | 641.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Karmine Corp vs SK Gaming (BO3) - L | Karmine Corp (BUY) | 89% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | Game Handicap: TES (-1.5) vs LGD Gaming  | LGD Gaming (BUY) | 54% | 5.00 | 244.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 366.5% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: T1 vs BNK FEARX (BO5) - LCK Playoff | T1 (BUY) | 87% | 5.00 | 418.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 52% | 5.00 | 4.7% | ✅ ganada | +4.50 |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 64% | 5.00 | 87.7% | ✅ ganada | +2.72 |
 | casualbet2020 | Valorant: 100 Thieves vs Leviatán Esport | 100 Thieves (BUY) | 67% | 5.00 | 204.0% | ✅ ganada | +2.38 |

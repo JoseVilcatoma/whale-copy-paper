@@ -68055,8 +68055,8 @@
     "title": "LoL: T1 vs BNK FEARX (BO5) - LCK Playoffs",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 65618.2366,
-    "whale_pct": 366.521,
+    "whale_usd": 74858.2366,
+    "whale_pct": 418.133,
     "whale_value_at_open": 17902.9788,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -68067,8 +68067,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787989732.4691179,
-    "fills": 12
+    "last_fill_at": 1787989922.2875776,
+    "fills": 14
   },
   {
     "timestamp": 1787970216,
