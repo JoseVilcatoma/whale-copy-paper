@@ -1,5 +1,5 @@
 {
-  "bankroll": 530.4578260204955,
+  "bankroll": 525.3458260204956,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13825,6 +13825,11 @@
       "timestamp": 1788002867.9352427,
       "bankroll": 530.46,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Maribor (Slovenia), clay: Samuele Pieri vs Sebastian Sorger"
+    },
+    {
+      "timestamp": 1788004373.531403,
+      "bankroll": 525.35,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Vienna (Austria), clay: Andrej Martin vs Giovanni Oradini"
     }
   ]
 }
