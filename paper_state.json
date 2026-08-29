@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.26752220285397,
+  "bankroll": 494.40843129376304,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14530,6 +14530,21 @@
       "timestamp": 1788045047.0587635,
       "bankroll": 494.27,
       "event": "lost: sbsigner \u2014 Houston Astros vs. New York Mets"
+    },
+    {
+      "timestamp": 1788045353.8894985,
+      "bankroll": 498.25,
+      "event": "won: HomeRunHazard \u2014 San Diego Padres vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1788045355.4870462,
+      "bankroll": 493.21,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Team Liquid vs Shopify Rebellion - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788045356.5137694,
+      "bankroll": 494.41,
+      "event": "won: ferrariChampions2026 \u2014 San Diego Padres vs. Tampa Bay Rays"
     }
   ]
 }

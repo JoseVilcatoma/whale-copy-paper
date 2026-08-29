@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:15:01 (hora de Perú)
+Actualizado: 2026-08-29 18:17:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $494.27
-**Retorno acumulado:** -1.15%
+**Bankroll actual:** $494.41
+**Retorno acumulado:** -1.12%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 18:15:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $254.27)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $264.41)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,10 +21,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 37 | 3 | +66.84 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 85 | 38 | 2 | +61.80 USD |
 | TAIWANNUMBERONE | 21 | 8 | 6 | +46.33 USD |
-| HomeRunHazard | 388 | 197 | 12 | +37.38 USD |
+| HomeRunHazard | 389 | 197 | 11 | +41.36 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 15 | 2 | 6 | +34.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -93,19 +93,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 414 | 199 | 6 | -46.41 USD |
-| ferrariChampions2026 | 331 | 199 | 11 | -66.29 USD |
+| ferrariChampions2026 | 332 | 199 | 11 | -65.09 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2780
-- **Aciertos:** 1782 (64.1%)
+- **Apuestas resueltas:** 2783
+- **Aciertos:** 1784 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,887.59
+- **Total apostado (suma de stakes):** $13,902.59
 - **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $254.12 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $254.32 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.13% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -114,9 +114,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1393 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1394 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 827 | 70.4% | 67.8% | +2.6 pp |
-| 80-94% | 384 | 86.5% | 86.7% | -0.3 pp |
+| 80-94% | 386 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -574,7 +574,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bal-oak-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-sea-tor-2026-08-29-total-7pt5 | HomeRunHazard, nigiri99 |
 | bun-dor-hsv-2026-08-29-dor | nigiri99, ripley86alien |
-| mlb-bos-nyy-2026-08-29-total-7pt5 | HomeRunHazard, texaskid |
+| mlb-bos-nyy-2026-08-29-total-7pt5 | HomeRunHazard, ferrariChampions2026, texaskid |
 | lol-tl2-sr-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | cs2-fut-lvg-2026-08-29 | AV23IUa, ArturitoFilito |
 | nfl-chi-ten-2026-08-29-total-36pt5 | HomeRunHazard, SDTrading |
@@ -595,6 +595,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 44% | 5.00 | 6.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -616,7 +617,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will EC Vitória win on 2026-08-29? | No (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Colorado Rockies (BUY) | 71% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 80% | 5.00 | 0.2% | ✅ ganada | +1.20 |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | JD Gaming (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma (BUY) | 87% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: AUR (-1.5) vs M80 (+1.5) | Aurora Gaming (BUY) | 46% | 5.00 | 19.6% | ⏳ pendiente | — |
@@ -624,4 +625,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 46% | 5.00 | 156.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Team Liquid vs Shopify Rebellion (B | Shopify Rebellion (BUY) | 50% | 5.00 | 20.2% | 💰 vendida anticipada | -2.91 |
 | TAIWANNUMBERONE | Will South Africa win in regulation? | Yes (BUY) | 99% | 5.00 | 1.7% | ⏳ pendiente | — |
-| texaskid | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 54% | 5.00 | 1591.7% | ⏳ pendiente | — |
