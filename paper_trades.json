@@ -68639,8 +68639,8 @@
     "title": "LoL: T1 vs BNK FEARX - Game 1 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 119998.95894000001,
-    "whale_pct": 1928.154,
+    "whale_usd": 122118.25752000001,
+    "whale_pct": 1962.208,
     "whale_value_at_open": 6223.5139,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -68654,8 +68654,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1787993043.113271,
-    "fills": 16
+    "last_fill_at": 1787993160.6668146,
+    "fills": 18
   },
   {
     "timestamp": 1787992652,
@@ -68703,6 +68703,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1787992919.5591335,
+    "fills": 1
+  },
+  {
+    "timestamp": 1787993122,
+    "timestamp_added": 1787993123.2944145,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-sea-jac11-2026-08-29",
+    "title": "UFC Fight Night: Sean Woodson vs. Jack Jenkins (Featherweight, Prelims)",
+    "outcome": "Jack Jenkins",
+    "side": "BUY",
+    "whale_usd": 630.0,
+    "whale_pct": 0.415,
+    "whale_value_at_open": 151910.125,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787993123.2944274,
     "fills": 1
   }
 ]
