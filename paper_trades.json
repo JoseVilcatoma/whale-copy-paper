@@ -69564,8 +69564,8 @@
     "title": "Counter-Strike: Legacy vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "Team Falcons",
     "side": "BUY",
-    "whale_usd": 16546.7736,
-    "whale_pct": 14.165,
+    "whale_usd": 18421.9245,
+    "whale_pct": 15.77,
     "whale_value_at_open": 116817.6417,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -69576,8 +69576,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788009279.827664,
-    "fills": 9
+    "last_fill_at": 1788010185.7747538,
+    "fills": 10
   },
   {
     "timestamp": 1788000328,
@@ -70536,5 +70536,29 @@
     "fills": 2,
     "fee_total_usd": 0.236,
     "closed_price": 67
+  },
+  {
+    "timestamp": 1788010191,
+    "timestamp_added": 1788010192.4727354,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-pit-stl-2026-08-29-total-8pt5",
+    "title": "Pittsburgh Pirates vs. St. Louis Cardinals: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2246.9988,
+    "whale_pct": 2.684,
+    "whale_value_at_open": 83713.3449,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788010192.4727461,
+    "fills": 1
   }
 ]
