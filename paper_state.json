@@ -1,5 +1,5 @@
 {
-  "bankroll": 495.84774081757257,
+  "bankroll": 492.814983241815,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14550,6 +14550,26 @@
       "timestamp": 1788045709.4145849,
       "bankroll": 495.85,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs LYON - Game 1 Winner (+1.44 USD)"
+    },
+    {
+      "timestamp": 1788045968.4238539,
+      "bankroll": 490.72,
+      "event": "lost: HomeRunHazard \u2014 Miami Marlins vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1788045972.0494406,
+      "bankroll": 485.6,
+      "event": "lost: RN1 \u2014 Miami Marlins vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1788045972.6645982,
+      "bankroll": 488.84,
+      "event": "won: RN1 \u2014 Miami Marlins vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1788045973.452686,
+      "bankroll": 492.81,
+      "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Washington Nationals"
     }
   ]
 }

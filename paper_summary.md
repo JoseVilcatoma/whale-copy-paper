@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:25:18 (hora de Perú)
+Actualizado: 2026-08-29 18:28:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $495.85
-**Retorno acumulado:** -0.83%
+**Bankroll actual:** $492.81
+**Retorno acumulado:** -1.44%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 18:25:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $250.85)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $262.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 86 | 38 | 1 | +63.24 USD |
 | TAIWANNUMBERONE | 21 | 8 | 6 | +46.33 USD |
-| HomeRunHazard | 389 | 197 | 11 | +41.36 USD |
+| HomeRunHazard | 389 | 198 | 10 | +36.24 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 15 | 2 | 6 | +34.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -92,21 +92,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 414 | 199 | 6 | -46.41 USD |
-| ferrariChampions2026 | 332 | 199 | 15 | -65.09 USD |
+| RN1 | 415 | 200 | 4 | -48.30 USD |
+| ferrariChampions2026 | 333 | 199 | 15 | -61.11 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2783
-- **Aciertos:** 1784 (64.1%)
+- **Apuestas resueltas:** 2787
+- **Aciertos:** 1786 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,902.59
-- **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $254.32 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,922.59
+- **ROI sobre lo apostado:** -0.72%
+- **Comisiones pagadas (taker fee):** $254.78 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1394 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 827 | 70.4% | 67.8% | +2.6 pp |
+| 40-59% | 1397 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 828 | 70.4% | 67.8% | +2.6 pp |
 | 80-94% | 386 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
@@ -595,6 +595,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 45% | 5.00 | 10.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 61% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -606,16 +607,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 5.00 | 91.1% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 76% | 5.00 | 1.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 55% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 55% | 5.00 | 0.4% | ✅ ganada | +3.98 |
 | ferrariChampions2026 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | Cloud9 (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Inter Miami CF (-1.5) | CF Montréal (BUY) | 51% | 5.00 | 8.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Game Handicap: LY (-1.5) vs Cloud9 (+1.5 | LYON (BUY) | 41% | 5.00 | 31.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 62% | 5.00 | 15.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 1 Winner | LYON (BUY) | 63% | 5.00 | 85.3% | 💰 vendida anticipada | +1.44 |
-| RN1 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 60% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 60% | 5.00 | 0.5% | ✅ ganada | +3.23 |
 | RN1 | Bears vs. Titans: O/U 39.5 | Under (BUY) | 52% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: GenOne vs INOX Division  | INOX Division (BUY) | 63% | 5.00 | 1.3% | ⏳ pendiente | — |
-| RN1 | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Miami Marlins vs. Washington Nationals | Miami Marlins (BUY) | 52% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Will Philadelphia Union win on 2026-08-2 | No (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-29? | No (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -624,4 +625,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 80% | 5.00 | 0.2% | ✅ ganada | +1.20 |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | JD Gaming (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Moises Itauma vs. Filip Hrgovic | Moises Itauma (BUY) | 87% | 5.00 | 3.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: AUR (-1.5) vs M80 (+1.5) | Aurora Gaming (BUY) | 46% | 5.00 | 19.6% | ⏳ pendiente | — |
