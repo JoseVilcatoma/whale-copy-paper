@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 05:53:23 (hora de Perú)
+Actualizado: 2026-08-29 05:55:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $512.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 05:53:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $197.46)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $192.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 391 | 185 | 13 | -32.87 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 315 | 191 | 21 | -55.57 USD |
+| ferrariChampions2026 | 315 | 191 | 22 | -55.57 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -564,11 +564,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-t1-fox1-2026-08-29-game-handicap-away-2pt5 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A, ferrariChampions2026 |
 | epl-liv-not-2026-08-29-spread-home-2pt5 | ArturitoFilito, RN1 |
 | lol-tes-lgd-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ArturitoFilito |
+| itf-denchev-stanko-2026-08-29 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Rositsa Dencheva (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Oviedo (Spain), c | Alexander Ritschard (BUY) | 48% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FK Zenit (-1.5) | FK Fakel Voronezh (BUY) | 68% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Legacy vs Team Falcons ( | Team Falcons (BUY) | 64% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -598,4 +600,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M15 Pecs (Hungary), c | Ignacio Monzon (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: LG Twins vs. Lotte Giants | LG Twins (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Namsrai Batbayar vs. An | Andre Lima (BUY) | 70% | 5.00 | 0.3% | ✅ ganada | +2.07 |
-| ferrariChampions2026 | Will FC Mito Holly Hock win on 2026-08-2 | No (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
