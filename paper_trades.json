@@ -69762,8 +69762,8 @@
     "title": "Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 4508.9978,
-    "whale_pct": 9.991,
+    "whale_usd": 6889.7978,
+    "whale_pct": 15.267,
     "whale_value_at_open": 45128.3427,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -69774,8 +69774,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788007477.262503,
-    "fills": 2
+    "last_fill_at": 1788008067.7022572,
+    "fills": 3
   },
   {
     "timestamp": 1788002637,
@@ -70386,5 +70386,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788007593.9658372,
     "fills": 3
+  },
+  {
+    "timestamp": 1788008025,
+    "timestamp_added": 1788008026.5211825,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-sd-tb-2026-08-29-total-7pt5",
+    "title": "San Diego Padres vs. Tampa Bay Rays: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2460.0,
+    "whale_pct": 3.844,
+    "whale_value_at_open": 63998.0749,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788008026.521197,
+    "fills": 1
   }
 ]

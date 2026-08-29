@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 07:52:58 (hora de Perú)
+Actualizado: 2026-08-29 07:55:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $529.51
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 07:52:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $204.51)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $199.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 78 | 28 | 5 | +71.58 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 10 | +48.89 USD |
+| HomeRunHazard | 376 | 185 | 11 | +48.89 USD |
 | TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -572,6 +572,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | San Diego Padres vs. Tampa Bay Rays: O/U | Over (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays:  | Over (BUY) | 50% | 5.00 | 5.8% | ⏳ pendiente | — |
 | HomeRunHazard | Chicago White Sox vs. Minnesota Twins: O | Over (BUY) | 48% | 5.00 | 1.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Lynn Vision  | Lynn Vision (BUY) | 45% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -597,8 +598,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Liverpool FC win on 2026-08-29? | Yes (BUY) | 66% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Karlsruher SC vs. VfL Wolfsburg: O/U 5.5 | Over (BUY) | 72% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 96% | 5.00 | 1.5% | 💰 vendida anticipada | +0.09 |
-| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 10.0% | ⏳ pendiente | — |
+| HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 15.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will JEF United Ichihara Chiba win on 20 | No (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
 | RN1 | 1. FC Heidenheim 1846 vs. SG Dynamo Dres | Over (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Liverpool FC (-1.5) | Liverpool FC (BUY) | 43% | 5.00 | 6.1% | ⏳ pendiente | — |
