@@ -1,5 +1,5 @@
 {
-  "bankroll": 529.510856021114,
+  "bankroll": 536.1527790980371,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13900,6 +13900,16 @@
       "timestamp": 1788006841.95338,
       "bankroll": 529.51,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W50 Kursumlijska Banja (Serbia), clay: Rositsa Dencheva vs Anja Stankovic"
+    },
+    {
+      "timestamp": 1788008222.9231167,
+      "bankroll": 530.87,
+      "event": "won: ferrariChampions2026 \u2014 ITF MEN - SINGLES: M25 Oviedo (Spain), clay: Alexander Ritschard vs Sergi Perez Contri"
+    },
+    {
+      "timestamp": 1788008226.7130594,
+      "bankroll": 536.15,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oviedo (Spain), clay: Alexander Ritschard vs Sergi Perez Contri"
     }
   ]
 }
