@@ -1,5 +1,5 @@
 {
-  "bankroll": 494.0651133204058,
+  "bankroll": 497.72904314496725,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13560,6 +13560,11 @@
       "timestamp": 1787967755.553069,
       "bankroll": 494.07,
       "event": "won: ferrariChampions2026 \u2014 Miami Marlins vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1787968066.4119706,
+      "bankroll": 497.73,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Miami Marlins (-1.5)"
     }
   ]
 }
