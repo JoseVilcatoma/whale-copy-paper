@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 10:21:39 (hora de Perú)
+Actualizado: 2026-08-29 10:23:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $500.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 10:21:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $150.01)
+**Capital comprometido ahora mismo:** $360.00 en 72 posiciones abiertas (disponible para nuevas apuestas: $140.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 83 | 31 | 0 | +73.67 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 186 | 26 | +43.74 USD |
+| HomeRunHazard | 376 | 186 | 28 | +43.74 USD |
 | TAIWANNUMBERONE | 17 | 8 | 5 | +34.12 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -577,6 +577,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Under (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
 | sbsigner | Will Coventry City FC vs. Hull City AFC  | No (BUY) | 58% | 5.00 | 1.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Natus Vincere vs GIANTX - Game 1 Wi | Natus Vincere (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: FUT Esports vs Lynn Visi | FUT Esports (BUY) | 75% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -605,5 +607,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M25 Oldenzaal (Nether | Eric Vanshelboim (BUY) | 67% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | San Jose State vs. USC: O/U 61.5 | Under (BUY) | 50% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | SV 07 Elversberg vs. Bayer 04 Leverkusen | Over (BUY) | 74% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | Will TSG 1899 Hoffenheim win on 2026-08- | Yes (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Will 1. FC Köln win on 2026-08-29? | No (BUY) | 74% | 5.00 | 0.3% | ⏳ pendiente | — |
