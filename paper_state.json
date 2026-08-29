@@ -1,5 +1,5 @@
 {
-  "bankroll": 530.3004520784662,
+  "bankroll": 525.1724520784661,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13850,6 +13850,11 @@
       "timestamp": 1788005073.6931603,
       "bankroll": 530.3,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Pecs (Hungary), clay: John Hallquist Lithen vs Ignacio Monzon"
+    },
+    {
+      "timestamp": 1788005389.9656448,
+      "bankroll": 525.17,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX - Game 2 Winner"
     }
   ]
 }
