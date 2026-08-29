@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:56:12 (hora de Perú)
+Actualizado: 2026-08-29 06:58:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $525.96
-**Retorno acumulado:** +5.19%
+**Bankroll actual:** $528.28
+**Retorno acumulado:** +5.66%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:56:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $180.96)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $188.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 76 | 27 | 6 | +67.33 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 77 | 27 | 5 | +69.66 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | HomeRunHazard | 376 | 185 | 4 | +48.89 USD |
 | TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
@@ -575,7 +575,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Liverpool FC vs. Nottingham Forest FC: O | Under (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 83% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will VfL Wolfsburg win on 2026-08-29? | No (BUY) | 64% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: MOUZ vs Yellow Submarine - Game  | Yellow Submarine (BUY) | 61% | 5.00 | 2.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: MOUZ vs Yellow Submarine - Game  | Yellow Submarine (BUY) | 61% | 5.00 | 2.5% | 💰 vendida anticipada | +2.33 |
 | RN1 | Spread: Celtic FC (-2.5) | Falkirk FC (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. Nottingham Forest FC: B | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will Liverpool FC vs. Nottingham Forest  | No (BUY) | 80% | 5.00 | 5.3% | ⏳ pendiente | — |
