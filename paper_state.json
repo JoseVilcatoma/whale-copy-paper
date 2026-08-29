@@ -1,5 +1,5 @@
 {
-  "bankroll": 511.01811388570314,
+  "bankroll": 505.96311388570314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13705,6 +13705,11 @@
       "timestamp": 1787990071.4789264,
       "bankroll": 511.02,
       "event": "won: ferrariChampions2026 \u2014 UFC Fight Night: Ding Meng vs. Cameron Nelson (Welterweight, Prelims)"
+    },
+    {
+      "timestamp": 1787992599.1432176,
+      "bankroll": 505.96,
+      "event": "lost: Talvez10 \u2014 UFC Fight Night: Lawrence Lui vs. Hector Santiago (Bantamweight, Prelims)"
     }
   ]
 }
