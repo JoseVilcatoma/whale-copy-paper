@@ -1,5 +1,5 @@
 {
-  "bankroll": 533.7860264486118,
+  "bankroll": 536.5484379026472,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13870,6 +13870,16 @@
       "timestamp": 1788006338.4014134,
       "bankroll": 533.79,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Top Esports vs LGD Gaming - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788006526.336525,
+      "bankroll": 535.57,
+      "event": "won: ferrariChampions2026 \u2014 Will Yokohama F\u00b7Marinos win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788006526.8309262,
+      "bankroll": 536.55,
+      "event": "won: ferrariChampions2026 \u2014 Will T\u014dky\u014d Verdy win on 2026-08-29?"
     }
   ]
 }
