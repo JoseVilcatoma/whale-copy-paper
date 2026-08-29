@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 18:30:10 (hora de Perú)
+Actualizado: 2026-08-29 18:32:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $492.81
-**Retorno acumulado:** -1.44%
+**Bankroll actual:** $497.50
+**Retorno acumulado:** -0.50%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 18:30:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $262.81)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $272.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,20 +93,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 415 | 200 | 4 | -48.30 USD |
-| ferrariChampions2026 | 333 | 199 | 15 | -61.11 USD |
+| ferrariChampions2026 | 334 | 199 | 14 | -56.43 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2787
-- **Aciertos:** 1786 (64.1%)
+- **Apuestas resueltas:** 2788
+- **Aciertos:** 1787 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,922.59
-- **ROI sobre lo apostado:** -0.72%
-- **Comisiones pagadas (taker fee):** $254.78 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.11% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,927.59
+- **ROI sobre lo apostado:** -0.69%
+- **Comisiones pagadas (taker fee):** $254.90 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1397 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1398 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 828 | 70.4% | 67.8% | +2.6 pp |
 | 80-94% | 386 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
@@ -602,7 +602,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-29? | No (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 44% | 5.00 | 6.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 12.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | SDTrading | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 5.00 | 91.1% | ⏳ pendiente | — |
 | SDTrading | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
@@ -620,7 +620,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Philadelphia Union win on 2026-08-2 | No (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will EC Vitória win on 2026-08-29? | No (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
 | ferrariChampions2026 | Spread: Atlanta Braves (-1.5) | Colorado Rockies (BUY) | 71% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | San Diego Padres vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 80% | 5.00 | 0.2% | ✅ ganada | +1.20 |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | JD Gaming (BUY) | 69% | 5.00 | 5.0% | ⏳ pendiente | — |
