@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.71144319470426,
+  "bankroll": 503.5858876391487,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14060,6 +14060,11 @@
       "timestamp": 1788013533.0737278,
       "bankroll": 501.71,
       "event": "lost: HomeRunHazard \u2014 Hanshin Tigers vs. Yomiuri Giants"
+    },
+    {
+      "timestamp": 1788015496.093562,
+      "bankroll": 503.59,
+      "event": "won: RN1 \u2014 Karlsruher SC vs. VfL Wolfsburg: O/U 5.5"
     }
   ]
 }
