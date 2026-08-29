@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:26:52 (hora de Perú)
+Actualizado: 2026-08-29 06:28:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $532.46
-**Retorno acumulado:** +6.49%
+**Bankroll actual:** $530.46
+**Retorno acumulado:** +6.09%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:26:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $242.46)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $245.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,22 +90,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 11 | 10 | 0 | -13.47 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 391 | 185 | 15 | -32.87 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 392 | 186 | 14 | -34.87 USD |
 | ferrariChampions2026 | 318 | 192 | 20 | -50.37 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2649
-- **Aciertos:** 1703 (64.3%)
+- **Apuestas resueltas:** 2651
+- **Aciertos:** 1704 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,232.59
-- **ROI sobre lo apostado:** -0.47%
-- **Comisiones pagadas (taker fee):** $241.87 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.36% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,242.59
+- **ROI sobre lo apostado:** -0.48%
+- **Comisiones pagadas (taker fee):** $242.07 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1329 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 781 | 70.8% | 67.8% | +3.0 pp |
+| 60-79% | 783 | 70.8% | 67.7% | +3.0 pp |
 | 80-94% | 368 | 87.0% | 86.8% | +0.1 pp |
 | 95-99% (casi seguro) | 171 | 95.9% | 97.4% | -1.4 pp |
 
@@ -571,6 +571,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Karlsruher SC vs. VfL Wolfsburg: O/U 5.5 | Over (BUY) | 72% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 96% | 5.00 | 1.5% | 💰 vendida anticipada | +0.09 |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 1.7% | ⏳ pendiente | — |
@@ -591,7 +592,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Wuxi Wugou win on 2026-08-29? | No (BUY) | 64% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 88% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Vienna (Austria), | Giovanni Oradini (BUY) | 55% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Samuele Pieri (BUY) | 61% | 5.00 | 2.9% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Maribor (Slovenia | Samuele Pieri (BUY) | 61% | 5.00 | 2.9% | ✅ ganada | +3.10 |
 | ferrariChampions2026 | Will Kawasaki Frontale win on 2026-08-29 | Yes (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Milton Keynes Dons FC win on 2026-0 | Yes (BUY) | 42% | 5.00 | 7.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Angella Okutoyi (BUY) | 43% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -600,4 +601,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ArturitoFilito | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 53% | 5.00 | 92.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | UFC Fight Night: Song Yadong vs. Umar Nu | Umar Nurmagomedov (BUY) | 84% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 89% | 5.00 | 2.9% | ✅ ganada | +0.59 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 3 Winner | T1 (BUY) | 69% | 5.00 | 28.1% | ⏳ pendiente | — |
