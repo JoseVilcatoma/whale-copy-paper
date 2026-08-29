@@ -69355,8 +69355,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.65,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -71916,8 +71916,8 @@
     "title": "LoL: Natus Vincere vs GIANTX - Game 1 Winner",
     "outcome": "GIANTX",
     "side": "BUY",
-    "whale_usd": 12548.5366,
-    "whale_pct": 19.276,
+    "whale_usd": 15667.471,
+    "whale_pct": 24.067,
     "whale_value_at_open": 65098.8508,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -71930,7 +71930,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788024164.7601726,
-    "fills": 5
+    "last_fill_at": 1788024273.0720565,
+    "fills": 7
   }
 ]

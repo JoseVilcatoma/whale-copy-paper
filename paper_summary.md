@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 12:22:54 (hora de Perú)
+Actualizado: 2026-08-29 12:25:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $515.18
-**Retorno acumulado:** +3.04%
+**Bankroll actual:** $515.83
+**Retorno acumulado:** +3.17%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 12:22:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $165.18)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $170.83)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,19 +93,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 410 | 199 | 5 | -55.37 USD |
-| ferrariChampions2026 | 328 | 197 | 5 | -61.16 USD |
+| ferrariChampions2026 | 329 | 197 | 4 | -60.51 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2716
-- **Aciertos:** 1745 (64.2%)
+- **Apuestas resueltas:** 2717
+- **Aciertos:** 1746 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,567.59
-- **ROI sobre lo apostado:** -0.60%
-- **Comisiones pagadas (taker fee):** $247.61 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $13,572.59
+- **ROI sobre lo apostado:** -0.59%
+- **Comisiones pagadas (taker fee):** $247.64 (1.82% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.23% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1352 | 50.1% | 50.1% | +0.1 pp |
 | 60-79% | 811 | 70.5% | 67.8% | +2.7 pp |
-| 80-94% | 379 | 86.5% | 86.7% | -0.2 pp |
+| 80-94% | 380 | 86.6% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 174 | 96.0% | 97.4% | -1.4 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -581,7 +581,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 19.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Natus Vincere vs GIANTX - Game 1 Wi | GIANTX (BUY) | 53% | 5.00 | 24.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ShindeN vs Isurus (BO3)  | ShindeN (BUY) | 74% | 5.00 | 5.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 Ares vs 9INE (BO3) -  | 9INE (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Karmine Corp vs SK Gaming - Game 2  | Karmine Corp (BUY) | 82% | 5.00 | 2.1% | 💰 vendida anticipada | -0.59 |

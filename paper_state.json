@@ -1,5 +1,5 @@
 {
-  "bankroll": 515.1820784349239,
+  "bankroll": 515.8338966167421,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14190,6 +14190,11 @@
       "timestamp": 1788023980.579076,
       "bankroll": 515.18,
       "event": "won: ArturitoFilito \u2014 LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788024291.326423,
+      "bankroll": 515.83,
+      "event": "won: ferrariChampions2026 \u2014 Games Total: O/U 3.5"
     }
   ]
 }
