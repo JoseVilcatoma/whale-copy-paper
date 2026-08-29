@@ -73041,8 +73041,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Aidan Mayo",
     "side": "BUY",
-    "whale_usd": 2606.5125000000003,
-    "whale_pct": 1.375,
+    "whale_usd": 5328.8652999999995,
+    "whale_pct": 2.812,
     "whale_value_at_open": 189504.0763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -73053,8 +73053,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788045189.2727163,
-    "fills": 1
+    "last_fill_at": 1788045533.4401085,
+    "fills": 2
   },
   {
     "timestamp": 1788045252,
@@ -73107,6 +73107,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788045400.4906435,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788045441,
+    "timestamp_added": 1788045442.253385,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mex-atl-que-2026-08-29-que",
+    "title": "Will Quer\u00e9taro FC win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 603.9720000000001,
+    "whale_pct": 0.298,
+    "whale_value_at_open": 202906.4738,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788045442.2533963,
     "fills": 1
   }
 ]
