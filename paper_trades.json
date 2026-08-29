@@ -69192,5 +69192,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1787998319.3265731,
     "fills": 3
+  },
+  {
+    "timestamp": 1787998526,
+    "timestamp_added": 1787998526.7779813,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "ufc-bhasan-nilroj-2026-08-29",
+    "title": "UFC Fight Night: Bilal Hasan vs. Nilson Rojas (Flyweight, Main Card)",
+    "outcome": "Bilal Hasan",
+    "side": "BUY",
+    "whale_usd": 595.0,
+    "whale_pct": 0.279,
+    "whale_value_at_open": 213369.1158,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1787998526.7779932,
+    "fills": 1
   }
 ]
