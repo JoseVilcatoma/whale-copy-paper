@@ -1,5 +1,5 @@
 {
-  "bankroll": 513.2401157533238,
+  "bankroll": 508.15511575332386,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14005,6 +14005,11 @@
       "timestamp": 1788011107.9536164,
       "bankroll": 513.24,
       "event": "lost: ferrariChampions2026 \u2014 Spread: Liverpool FC (-1.5)"
+    },
+    {
+      "timestamp": 1788011232.2105532,
+      "bankroll": 508.16,
+      "event": "lost: RN1 \u2014 Will Liverpool FC win on 2026-08-29?"
     }
   ]
 }
