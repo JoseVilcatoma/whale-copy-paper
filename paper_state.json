@@ -1,5 +1,5 @@
 {
-  "bankroll": 521.5000077278532,
+  "bankroll": 527.0593585971242,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14215,6 +14215,31 @@
       "timestamp": 1788024927.3109527,
       "bankroll": 521.5,
       "event": "won: ArturitoFilito \u2014 Counter-Strike: FUT Esports vs Lynn Vision (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788026161.0642736,
+      "bankroll": 522.09,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Karmine Corp vs SK Gaming (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1788026164.3794358,
+      "bankroll": 525.46,
+      "event": "won: RN1 \u2014 Spread: Celtic FC (-2.5)"
+    },
+    {
+      "timestamp": 1788026170.0434864,
+      "bankroll": 526.66,
+      "event": "won: RN1 \u2014 Will Celtic FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788026170.6968422,
+      "bankroll": 526.91,
+      "event": "won: RN1 \u2014 Will Falkirk FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788026178.531271,
+      "bankroll": 527.06,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Karmine Corp vs SK Gaming (BO3) - LEC Regular Season"
     }
   ]
 }
