@@ -1,5 +1,5 @@
 {
-  "bankroll": 498.57012592199305,
+  "bankroll": 500.9508124891572,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14150,6 +14150,11 @@
       "timestamp": 1788020453.7218523,
       "bankroll": 498.57,
       "event": "won: RN1 \u2014 AFC Bournemouth vs. Everton FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788020766.226997,
+      "bankroll": 500.95,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Oldenzaal (Netherlands), clay: Daniel Verbeek vs Eric Vanshelboim"
     }
   ]
 }
