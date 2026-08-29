@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.9492383335932,
+  "bankroll": 500.0149050002599,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14080,6 +14080,11 @@
       "timestamp": 1788016123.0126588,
       "bankroll": 499.95,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Karmine Corp vs SK Gaming - Game 1 Winner (-0.42 USD)"
+    },
+    {
+      "timestamp": 1788016589.6443152,
+      "bankroll": 500.01,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Karmine Corp vs SK Gaming (BO3) - LEC Regular Season (+0.07 USD)"
     }
   ]
 }
