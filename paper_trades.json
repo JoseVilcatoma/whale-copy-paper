@@ -69980,8 +69980,8 @@
     "title": "Will Liverpool FC vs. Nottingham Forest FC end in a draw?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 5668.7300000000005,
-    "whale_pct": 4.455,
+    "whale_usd": 6765.2300000000005,
+    "whale_pct": 5.317,
     "whale_value_at_open": 127246.4159,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -69992,8 +69992,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788003931.3558025,
-    "fills": 4
+    "last_fill_at": 1788003976.5301352,
+    "fills": 5
   },
   {
     "timestamp": 1788003560,
@@ -70100,8 +70100,8 @@
     "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Denisa Zoldakova vs Justina Mikulskyte",
     "outcome": "Denisa Zoldakova",
     "side": "BUY",
-    "whale_usd": 1042.967084,
-    "whale_pct": 0.642,
+    "whale_usd": 2491.367084,
+    "whale_pct": 1.534,
     "whale_value_at_open": 162360.3388,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -70112,8 +70112,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788003863.8982275,
-    "fills": 1
+    "last_fill_at": 1788004061.941826,
+    "fills": 2
   },
   {
     "timestamp": 1788003879,
@@ -70138,5 +70138,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788003880.0012882,
     "fills": 1
+  },
+  {
+    "timestamp": 1788004046,
+    "timestamp_added": 1788004046.9173987,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra3-ita-bot-2026-08-29-ita",
+    "title": "Will AO Itabaiana SE win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 6426.0,
+    "whale_pct": 3.8,
+    "whale_value_at_open": 169121.3035,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788004053.9937258,
+    "fills": 3
   }
 ]

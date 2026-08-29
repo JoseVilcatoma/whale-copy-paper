@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 06:45:35 (hora de Perú)
+Actualizado: 2026-08-29 06:47:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $530.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 06:45:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $180.46)
+**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $175.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 392 | 186 | 25 | -34.87 USD |
+| RN1 | 392 | 186 | 26 | -34.87 USD |
 | ferrariChampions2026 | 318 | 192 | 20 | -50.37 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -571,13 +571,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Will AO Itabaiana SE win on 2026-08-29? | No (BUY) | 55% | 5.00 | 3.8% | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. Nottingham Forest FC: O | Under (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 83% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 83% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | Will VfL Wolfsburg win on 2026-08-29? | No (BUY) | 64% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: MOUZ vs Yellow Submarine - Game  | Yellow Submarine (BUY) | 61% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Spread: Celtic FC (-2.5) | Falkirk FC (BUY) | 59% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Liverpool FC vs. Nottingham Forest FC: B | No (BUY) | 46% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will Liverpool FC vs. Nottingham Forest  | No (BUY) | 80% | 5.00 | 4.5% | ⏳ pendiente | — |
+| RN1 | Will Liverpool FC vs. Nottingham Forest  | No (BUY) | 80% | 5.00 | 5.3% | ⏳ pendiente | — |
 | RN1 | Will Swansea City AFC win on 2026-08-29? | No (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Will Nottingham Forest FC win on 2026-08 | No (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 70% | 5.00 | 4.4% | ⏳ pendiente | — |
@@ -600,4 +601,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Tōkyō Verdy win on 2026-08-29? | No (BUY) | 83% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 92% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Kawasaki Frontale vs. JEF United Ic | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Spread: Liverpool FC (-1.5) | Liverpool FC (BUY) | 43% | 5.00 | 6.0% | ⏳ pendiente | — |
