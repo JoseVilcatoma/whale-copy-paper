@@ -70200,8 +70200,8 @@
     "title": "LoL: Top Esports vs LGD Gaming (BO5) - LPL Playoffs",
     "outcome": "LGD Gaming",
     "side": "BUY",
-    "whale_usd": 15158.9633,
-    "whale_pct": 6.777,
+    "whale_usd": 18894.6953,
+    "whale_pct": 8.448,
     "whale_value_at_open": 223669.1928,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -70214,8 +70214,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788007525.6009557,
-    "fills": 4
+    "last_fill_at": 1788007625.1525047,
+    "fills": 6
   },
   {
     "timestamp": 1788005976,
