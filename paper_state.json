@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.8544719083935,
+  "bankroll": 507.63578697688666,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14475,6 +14475,11 @@
       "timestamp": 1788041640.2777288,
       "bankroll": 505.85,
       "event": "lost: kekasaur \u2014 Will CA Rosario Central win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788042262.151246,
+      "bankroll": 507.64,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 Ares vs 9INE (BO3) - Logitech G Play Connect Closed Qualifier Group B"
     }
   ]
 }
