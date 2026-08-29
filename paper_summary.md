@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 08:05:35 (hora de Perú)
+Actualizado: 2026-08-29 08:07:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $539.74
-**Retorno acumulado:** +7.95%
+**Bankroll actual:** $534.66
+**Retorno acumulado:** +6.93%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 08:05:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $224.74)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $219.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 78 | 28 | 5 | +71.58 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 78 | 29 | 4 | +66.50 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| HomeRunHazard | 376 | 185 | 12 | +48.89 USD |
+| HomeRunHazard | 376 | 185 | 13 | +48.89 USD |
 | TAIWANNUMBERONE | 16 | 7 | 5 | +38.49 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -98,14 +98,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2668
-- **Aciertos:** 1717 (64.4%)
+- **Apuestas resueltas:** 2669
+- **Aciertos:** 1717 (64.3%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,327.59
-- **ROI sobre lo apostado:** -0.43%
-- **Comisiones pagadas (taker fee):** $243.30 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.39% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,332.59
+- **ROI sobre lo apostado:** -0.47%
+- **Comisiones pagadas (taker fee):** $243.37 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.35% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1333 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 791 | 70.8% | 67.8% | +3.0 pp |
+| 60-79% | 792 | 70.7% | 67.8% | +2.9 pp |
 | 80-94% | 371 | 87.1% | 86.8% | +0.3 pp |
 | 95-99% (casi seguro) | 173 | 96.0% | 97.4% | -1.4 pp |
 
@@ -572,6 +572,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 50% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 55% | 5.00 | 10.7% | ⏳ pendiente | — |
 | HomeRunHazard | San Diego Padres vs. Tampa Bay Rays: O/U | Over (BUY) | 51% | 5.00 | 7.7% | ⏳ pendiente | — |
 | HomeRunHazard | Seattle Mariners vs. Toronto Blue Jays:  | Over (BUY) | 50% | 5.00 | 5.8% | ⏳ pendiente | — |
@@ -601,4 +602,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 96% | 5.00 | 1.5% | 💰 vendida anticipada | +0.09 |
 | HomeRunHazard | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 69% | 5.00 | 15.3% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Trieste (Italy) | Gabriela Ce (BUY) | 65% | 5.00 | 1.7% | ✅ ganada | +2.61 |
-| ferrariChampions2026 | Will JEF United Ichihara Chiba win on 20 | No (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |

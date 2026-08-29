@@ -1,5 +1,5 @@
 {
-  "bankroll": 539.739183175887,
+  "bankroll": 534.661183175887,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13920,6 +13920,11 @@
       "timestamp": 1788008727.4846814,
       "bankroll": 539.74,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Trieste (Italy), clay: Gabriela Ce vs Pia Lovric"
+    },
+    {
+      "timestamp": 1788008855.59541,
+      "bankroll": 534.66,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: T1 vs BNK FEARX - Game 3 Winner"
     }
   ]
 }
