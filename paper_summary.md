@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 08:41:08 (hora de Perú)
+Actualizado: 2026-08-29 08:43:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $528.67
-**Retorno acumulado:** +5.73%
+**Bankroll actual:** $523.53
+**Retorno acumulado:** +4.71%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 08:41:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $253.67)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $248.53)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -79,7 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
-| quavoo | 1 | 2 | 1 | -6.11 USD |
+| quavoo | 1 | 2 | 2 | -6.11 USD |
 | kekasaur | 6 | 7 | 0 | -6.67 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -90,22 +90,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 398 | 188 | 18 | -31.72 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
+| RN1 | 398 | 189 | 17 | -36.86 USD |
 | ferrariChampions2026 | 326 | 195 | 9 | -55.92 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2680
+- **Apuestas resueltas:** 2681
 - **Aciertos:** 1724 (64.3%)
 - **Cuota promedio de entrada:** 63.6%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,387.59
-- **ROI sobre lo apostado:** -0.51%
-- **Comisiones pagadas (taker fee):** $244.01 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.31% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,392.59
+- **ROI sobre lo apostado:** -0.55%
+- **Comisiones pagadas (taker fee):** $244.16 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -113,7 +113,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1334 | 50.1% | 50.1% | +0.1 pp |
+| 40-59% | 1335 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 796 | 70.6% | 67.8% | +2.8 pp |
 | 80-94% | 376 | 86.7% | 86.8% | -0.1 pp |
 | 95-99% (casi seguro) | 174 | 96.0% | 97.4% | -1.4 pp |
@@ -567,11 +567,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-tes-lgd-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ArturitoFilito |
 | epl-liv-not-2026-08-29-spread-home-1pt5 | RN1, ferrariChampions2026 |
 | itf-denchev-stanko-2026-08-29 | RN1, ferrariChampions2026 |
+| mlb-sea-tor-2026-08-29-total-7pt5 | HomeRunHazard, nigiri99 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Seattle Mariners vs. Toronto Blue Jays:  | Over (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Will BV Borussia 09 Dortmund win on 2026 | Yes (BUY) | 72% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Pittsburgh Pirates vs. St. Louis Cardina | Over (BUY) | 47% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Top Esports vs LGD Gaming (BO5) - L | LGD Gaming (BUY) | 50% | 5.00 | 1.4% | 💰 vendida anticipada | +1.46 |
@@ -601,4 +603,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Nottingham Forest FC win on 2026-08 | No (BUY) | 86% | 5.00 | 4.1% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W50 Kursumlijska Ba | Anja Stankovic (BUY) | 70% | 5.00 | 4.4% | ✅ ganada | +2.07 |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Valentina Ryser (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: T1 vs BNK FEARX - Game 4 Winner | T1 (BUY) | 82% | 5.00 | 27.3% | ✅ ganada | +1.05 |

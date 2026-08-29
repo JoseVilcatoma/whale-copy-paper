@@ -1,5 +1,5 @@
 {
-  "bankroll": 528.6711157533239,
+  "bankroll": 523.5261157533239,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -13990,6 +13990,11 @@
       "timestamp": 1788010855.2756476,
       "bankroll": 528.67,
       "event": "won: RN1 \u2014 KBO: Kiwoom Heroes vs. Doosan Bears"
+    },
+    {
+      "timestamp": 1788010978.8152964,
+      "bankroll": 523.53,
+      "event": "lost: RN1 \u2014 Will Milton Keynes Dons FC win on 2026-08-29?"
     }
   ]
 }

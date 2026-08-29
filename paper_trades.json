@@ -69259,8 +69259,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -70583,6 +70583,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788010723.6569357,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788010880,
+    "timestamp_added": 1788010881.12773,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-sea-tor-2026-08-29-total-7pt5",
+    "title": "Seattle Mariners vs. Toronto Blue Jays: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1100.54,
+    "whale_pct": 0.359,
+    "whale_value_at_open": 306372.2735,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788010881.127741,
     "fills": 1
   }
 ]
