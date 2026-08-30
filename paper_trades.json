@@ -79015,5 +79015,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788107952.0935998,
     "fills": 1
+  },
+  {
+    "timestamp": 1788108179,
+    "timestamp_added": 1788108179.8199215,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-fnc-gx-2026-08-30-game2",
+    "title": "LoL: Fnatic vs GIANTX - Game 2 Winner",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "whale_usd": 1641.3481,
+    "whale_pct": 2.264,
+    "whale_value_at_open": 72504.4984,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "cerrada_venta",
+    "profit_usd": -0.05,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788108179.8199332,
+    "fills": 1,
+    "fee_total_usd": 0.25,
+    "closed_price": 52
   }
 ]
