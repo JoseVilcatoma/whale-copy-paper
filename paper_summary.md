@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:29:03 (hora de Perú)
+Actualizado: 2026-08-30 18:31:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $330.65
@@ -641,7 +641,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will SE Palmeiras win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Over (BUY) | 43% | 5.00 | 3.7% | ⏳ pendiente | — |
 | nigiri99 | Will CF Monterrey win on 2026-08-30? | Yes (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
-| nigiri99 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 74% | 5.00 | 0.5% | ⏳ pendiente | — |
+| nigiri99 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Leones Futbol Club win on 2026-08-3 | No (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Mirassol FC win on 2026-08-30? | No (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
