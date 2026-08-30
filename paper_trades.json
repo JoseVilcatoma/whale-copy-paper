@@ -77206,8 +77206,8 @@
     "title": "FC Utrecht vs. PSV: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 10379.010000000002,
-    "whale_pct": 7.283,
+    "whale_usd": 12280.54,
+    "whale_pct": 8.617,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77220,8 +77220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085925.7535903,
-    "fills": 13
+    "last_fill_at": 1788086056.1932077,
+    "fills": 15
   },
   {
     "timestamp": 1788085386,
