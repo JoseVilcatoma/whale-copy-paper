@@ -1,5 +1,5 @@
 {
-  "bankroll": 414.2212835982634,
+  "bankroll": 416.28914074112055,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15410,6 +15410,11 @@
       "timestamp": 1788095446.5282154,
       "bankroll": 414.22,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: JD Gaming vs Team WE - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788096072.6220534,
+      "bankroll": 416.29,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Kursumlijska Banja 13 (Serbia), clay: Branko Djuric vs Dmitry Popko"
     }
   ]
 }
