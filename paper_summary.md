@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 17:13:21 (hora de Perú)
+Actualizado: 2026-08-30 17:15:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $330.43
@@ -645,7 +645,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Will SE Palmeiras win on 2026-08-30? | Yes (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 1 Winner | Team Liquid (BUY) | 41% | 5.00 | 4.4% | 💰 vendida anticipada | -5.03 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid - Game 1 Winner | LYON (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
-| texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
+| texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 12.9% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | beachboy4 | US Open WTA: Lucrezia Stefanini vs Dayan | Lucrezia Stefanini (BUY) | 81% | 5.00 | 13.1% | ✅ ganada | +1.13 |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 62% | 5.00 | 14.1% | ⏳ pendiente | — |
