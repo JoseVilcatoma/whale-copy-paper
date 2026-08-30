@@ -76211,5 +76211,29 @@
     "fills": 2,
     "fee_total_usd": 0.276,
     "closed_price": 53
+  },
+  {
+    "timestamp": 1788079207,
+    "timestamp_added": 1788079208.162503,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-sultan-jiang-2026-08-30",
+    "title": "Zhangjiagang: Khumoyun Sultanov vs Fumin Jiang",
+    "outcome": "Khumoyun Sultanov",
+    "side": "BUY",
+    "whale_usd": 2207.768373,
+    "whale_pct": 1.278,
+    "whale_value_at_open": 172800.2694,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788079310.6415036,
+    "fills": 2
   }
 ]
