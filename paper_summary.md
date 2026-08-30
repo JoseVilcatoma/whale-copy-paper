@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 13:28:52 (hora de Perú)
+Actualizado: 2026-08-30 13:30:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $350.95
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 13:28:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.36 en 60 posiciones abiertas (disponible para nuevas apuestas: $55.59)
+**Capital comprometido ahora mismo:** $300.36 en 61 posiciones abiertas (disponible para nuevas apuestas: $50.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 105 | 43 | 0 | +88.59 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 10 | +48.27 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 11 | +48.27 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -630,6 +630,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Hugo Gas | Daniil Medvedev (BUY) | 89% | 5.00 | 13.5% | ⏳ pendiente | — |
 | nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -659,4 +660,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ✅ ganada | +3.60 |
 | SDTrading | San Diego Padres vs. Tampa Bay Rays | San Diego Padres (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
-| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |

@@ -79321,5 +79321,29 @@
     "fills": 3,
     "fee_total_usd": 0.16,
     "closed_price": 85
+  },
+  {
+    "timestamp": 1788114593,
+    "timestamp_added": 1788114593.8569114,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-gls1-imp11-2026-08-30",
+    "title": "Counter-Strike: Galorys vs Imperial (BO3) - ESL Challenger League South America Cup #1 Playoffs",
+    "outcome": "Imperial",
+    "side": "BUY",
+    "whale_usd": 1822.7363,
+    "whale_pct": 1.597,
+    "whale_value_at_open": 114141.3809,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788114593.8569286,
+    "fills": 1
   }
 ]
