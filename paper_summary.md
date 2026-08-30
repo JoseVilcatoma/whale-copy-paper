@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:35:16 (hora de Perú)
+Actualizado: 2026-08-30 18:39:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $330.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 18:35:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $150.65)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $135.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 20 | 8 | 1 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| quavoo | 21 | 10 | 10 | +8.21 USD |
+| quavoo | 21 | 10 | 11 | +8.21 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 217 | 8 | -44.99 USD |
+| RN1 | 449 | 217 | 10 | -44.99 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
@@ -630,13 +630,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cin-chc-2026-08-30 | RN1, SDTrading, texaskid |
 | lol-ly-tl2-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | bra-mir-pal-2026-08-30-pal | RN1, nigiri99 |
-| atp-landalu-fearnle-2026-08-30 | AV23IUa, beachboy4, nigiri99 |
+| atp-landalu-fearnle-2026-08-30 | AV23IUa, RN1, beachboy4, nigiri99 |
 | mex-tol-jua-2026-08-30-total-3pt5 | RN1, nigiri99 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 91% | 5.00 | 3.5% | ⏳ pendiente | — |
+| nigiri99 | Will FC Barcelona win on 2026-08-31? | Yes (BUY) | 90% | 5.00 | 2.7% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 3282.9% | ⏳ pendiente | — |
 | RN1 | Mirassol FC vs. SE Palmeiras: O/U 2.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -664,6 +667,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Spirit vs FURIA - Map 2  | Spirit (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 41% | 5.00 | 6.5% | 💰 vendida anticipada | -0.78 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 66% | 5.00 | 34.5% | ✅ ganada | +2.49 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 83% | 5.00 | 49.5% | ✅ ganada | +0.98 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 56% | 5.00 | 74.4% | 💰 vendida anticipada | +0.77 |
