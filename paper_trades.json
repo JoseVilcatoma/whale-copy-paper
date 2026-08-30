@@ -72520,8 +72520,8 @@
     "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 3685.3450000000003,
-    "whale_pct": 6.102,
+    "whale_usd": 7154.552000000001,
+    "whale_pct": 11.846,
     "whale_value_at_open": 60395.2606,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -72532,8 +72532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788066233.5609508,
-    "fills": 2
+    "last_fill_at": 1788075814.627168,
+    "fills": 4
   },
   {
     "timestamp": 1788042485,
@@ -76010,6 +76010,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788075472.4528587,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788075756,
+    "timestamp_added": 1788075757.2229414,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-moriya-lomakin-2026-08-30",
+    "title": "Zhangjiagang: Hiroki Moriya vs Grigoriy Lomakin",
+    "outcome": "Hiroki Moriya",
+    "side": "BUY",
+    "whale_usd": 11029.40661,
+    "whale_pct": 7.831,
+    "whale_value_at_open": 140837.4208,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788075757.2229512,
     "fills": 1
   }
 ]

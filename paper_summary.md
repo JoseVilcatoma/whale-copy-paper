@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 02:41:44 (hora de Perú)
+Actualizado: 2026-08-30 02:43:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 02:41:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $202.36)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $197.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 424 | 201 | 0 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 354 | 216 | 13 | -93.77 USD |
+| ferrariChampions2026 | 354 | 216 | 14 | -93.77 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -603,6 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Zhangjiagang: Hiroki Moriya vs Grigoriy  | Hiroki Moriya (BUY) | 98% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -632,4 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 6.3% | ✅ ganada | +1.52 |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 8.5 | Over (BUY) | 86% | 5.00 | 8.4% | ❌ perdida | -5.04 |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Los Angeles Angels (BUY) | 51% | 5.00 | 1.4% | ❌ perdida | -5.12 |
-| HomeRunHazard | Spread: UNLV Runnin' (-2.5) | UNLV Runnin' (BUY) | 58% | 5.00 | 1.4% | ❌ perdida | -5.11 |
