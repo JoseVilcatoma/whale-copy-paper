@@ -1,5 +1,5 @@
 {
-  "bankroll": 366.8464130996555,
+  "bankroll": 367.49823128147364,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15610,6 +15610,11 @@
       "timestamp": 1788107790.7937415,
       "bankroll": 366.85,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs Team Heretics - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788107851.284487,
+      "bankroll": 367.5,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs Team Heretics - Game 2 Winner"
     }
   ]
 }
