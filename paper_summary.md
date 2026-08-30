@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 22:30:31 (hora de Perú)
+Actualizado: 2026-08-29 22:32:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 22:30:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $219.17)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $214.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 419 | 200 | 3 | -34.84 USD |
+| RN1 | 419 | 200 | 4 | -34.84 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
 | ferrariChampions2026 | 348 | 213 | 14 | -95.71 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -591,7 +591,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-col-atl-2026-08-29 | RN1, ferrariChampions2026 |
 | lol-c9-ly-2026-08-29-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-c9-ly-2026-08-29-game-handicap-home-1pt5 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
-| mlb-ari-sf-2026-08-29 | HomeRunHazard, SDTrading, ferrariChampions2026 |
+| mlb-ari-sf-2026-08-29 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026 |
 | atp-mayo-andrade-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-bos-nyy-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | wta-parry-mertens-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
@@ -602,6 +602,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Maanshan 8 (China | Rigele Te (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Taipei 2 (Taiwan) | Kuan Shou Chen (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Joshua Charlton vs Takuya  | Joshua Charlton (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
@@ -631,4 +632,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NAVI (-1.5) vs G2 (+1.5) | G2 (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 108.4% | ⏳ pendiente | — |
-| Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 13.5% | ⏳ pendiente | — |
