@@ -73336,8 +73336,8 @@
     "title": "Monterrey Open: Diane Parry vs Elise Mertens",
     "outcome": "Elise Mertens",
     "side": "BUY",
-    "whale_usd": 30039.150078,
-    "whale_pct": 15.726,
+    "whale_usd": 30918.263411,
+    "whale_pct": 16.186,
     "whale_value_at_open": 191017.7492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -73348,8 +73348,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788052998.5992634,
-    "fills": 9
+    "last_fill_at": 1788053149.1747844,
+    "fills": 10
   },
   {
     "timestamp": 1788046980,
@@ -74039,6 +74039,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788052353.8257813,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788053178,
+    "timestamp_added": 1788053179.0189276,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-hou-sje-2026-08-29-sje",
+    "title": "Will San Jose Earthquakes win on 2026-08-29?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 587.2308,
+    "whale_pct": 0.264,
+    "whale_value_at_open": 222746.6579,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788053179.0189404,
     "fills": 1
   }
 ]

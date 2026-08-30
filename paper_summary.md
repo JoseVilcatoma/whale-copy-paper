@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 20:25:39 (hora de Perú)
+Actualizado: 2026-08-29 20:27:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 20:25:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $167.86)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $162.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 417 | 200 | 2 | -39.44 USD |
-| ferrariChampions2026 | 337 | 200 | 23 | -58.00 USD |
+| ferrariChampions2026 | 337 | 200 | 24 | -58.00 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -600,6 +600,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will San Jose Earthquakes win on 2026-08 | No (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | Boston Red Sox (BUY) | 69% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-29? | Yes (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -628,5 +629,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | Sporting Kansas City (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF vs. CF Montréal end  | No (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Parry vs Mertens | Mertens (BUY) | 51% | 5.00 | 2.5% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 15.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | No (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 16.2% | ⏳ pendiente | — |
