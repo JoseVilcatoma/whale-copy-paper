@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 22:24:17 (hora de Perú)
+Actualizado: 2026-08-29 22:26:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $474.08
-**Retorno acumulado:** -5.18%
+**Bankroll actual:** $474.17
+**Retorno acumulado:** -5.17%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 22:24:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $214.08)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $219.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,16 +94,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 419 | 200 | 3 | -34.84 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
-| ferrariChampions2026 | 347 | 213 | 15 | -95.81 USD |
+| ferrariChampions2026 | 348 | 213 | 14 | -95.71 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2849
-- **Aciertos:** 1823 (64.0%)
+- **Apuestas resueltas:** 2850
+- **Aciertos:** 1824 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,232.59
+- **Total apostado (suma de stakes):** $14,237.59
 - **ROI sobre lo apostado:** -0.84%
 - **Comisiones pagadas (taker fee):** $260.61 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1430 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 846 | 70.2% | 67.8% | +2.4 pp |
 | 80-94% | 394 | 86.3% | 86.7% | -0.4 pp |
-| 95-99% (casi seguro) | 179 | 96.1% | 97.4% | -1.3 pp |
+| 95-99% (casi seguro) | 180 | 96.1% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -604,7 +604,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | ITF MEN - SINGLES: M15 Maanshan 8 (China | Rigele Te (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Taipei 2 (Taiwan) | Kuan Shou Chen (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Joshua Charlton vs Takuya  | Joshua Charlton (BUY) | 58% | 5.00 | 5.0% | ⏳ pendiente | — |
+| RN1 | Zhangjiagang: Joshua Charlton vs Takuya  | Joshua Charlton (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Karmine Corp vs Team Liquid -  | Karmine Corp (BUY) | 52% | 5.00 | 25.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | San Francisco Giants (BUY) | 68% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |

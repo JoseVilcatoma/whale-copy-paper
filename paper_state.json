@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.07684080103814,
+  "bankroll": 474.17388161736466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14885,6 +14885,11 @@
       "timestamp": 1788060125.651127,
       "bankroll": 474.08,
       "event": "won: ferrariChampions2026 \u2014 Will Nashville SC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788060313.3265693,
+      "bankroll": 474.17,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF win on 2026-08-29?"
     }
   ]
 }

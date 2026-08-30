@@ -74007,8 +74007,8 @@
     "odds_at_bet": 98,
     "fee_usd": 0.005,
     "odds_ballena": 96,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.1,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -74863,8 +74863,8 @@
     "title": "Zhangjiagang: Joshua Charlton vs Takuya Kumasaka",
     "outcome": "Joshua Charlton",
     "side": "BUY",
-    "whale_usd": 8933.789999999999,
-    "whale_pct": 4.995,
+    "whale_usd": 11975.859999999999,
+    "whale_pct": 6.696,
     "whale_value_at_open": 178858.5106,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -74875,8 +74875,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788059946.1855457,
-    "fills": 3
+    "last_fill_at": 1788060358.128199,
+    "fills": 4
   },
   {
     "timestamp": 1788059958,
