@@ -70176,8 +70176,8 @@
     "title": "Baltimore Orioles vs. Athletics",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 787.1586,
-    "whale_pct": 1.679,
+    "whale_usd": 9037.9876,
+    "whale_pct": 19.283,
     "whale_value_at_open": 46869.7377,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -70188,8 +70188,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788004948.25322,
-    "fills": 1
+    "last_fill_at": 1788065532.0395334,
+    "fills": 3
   },
   {
     "timestamp": 1788005816,
@@ -74713,8 +74713,8 @@
     "title": "Philadelphia Phillies vs. Los Angeles Angels",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 10290.39505,
-    "whale_pct": 4.388,
+    "whale_usd": 11466.12265,
+    "whale_pct": 4.889,
     "whale_value_at_open": 234514.4296,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -74725,8 +74725,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788065114.9755232,
-    "fills": 4
+    "last_fill_at": 1788065599.3147137,
+    "fills": 6
   },
   {
     "timestamp": 1788058859,
