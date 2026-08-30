@@ -76045,8 +76045,8 @@
     "title": "Zhangjiagang: Omar Jasika vs Aoran Wang",
     "outcome": "Omar Jasika",
     "side": "BUY",
-    "whale_usd": 5271.63,
-    "whale_pct": 3.475,
+    "whale_usd": 11007.107600000001,
+    "whale_pct": 7.256,
     "whale_value_at_open": 151705.2849,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -76057,8 +76057,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788076546.4751344,
-    "fills": 1
+    "last_fill_at": 1788078062.5777009,
+    "fills": 3
   },
   {
     "timestamp": 1788076545,
@@ -76069,8 +76069,8 @@
     "title": "Zhangjiagang: Omar Jasika vs Aoran Wang",
     "outcome": "Omar Jasika",
     "side": "BUY",
-    "whale_usd": 4410.77,
-    "whale_pct": 5.379,
+    "whale_usd": 8579.19,
+    "whale_pct": 10.463,
     "whale_value_at_open": 81998.1409,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 93,
@@ -76083,8 +76083,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788076547.3077214,
-    "fills": 1
+    "last_fill_at": 1788078060.0845723,
+    "fills": 2
   },
   {
     "timestamp": 1788076871,
