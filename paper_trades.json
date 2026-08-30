@@ -73620,5 +73620,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788048860.4623532,
     "fills": 1
+  },
+  {
+    "timestamp": 1788048968,
+    "timestamp_added": 1788048968.7216582,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-tex-mil-2026-08-29-spread-home-3pt5",
+    "title": "Spread: Milwaukee Brewers (-3.5)",
+    "outcome": "Texas Rangers",
+    "side": "BUY",
+    "whale_usd": 4897.0012,
+    "whale_pct": 2.478,
+    "whale_value_at_open": 197599.0439,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788048968.72167,
+    "fills": 1
   }
 ]
