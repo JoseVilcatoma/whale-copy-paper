@@ -73828,8 +73828,8 @@
     "title": "Spread: UNLV Runnin' (-3.5)",
     "outcome": "Memphis",
     "side": "BUY",
-    "whale_usd": 1177.071,
-    "whale_pct": 0.566,
+    "whale_usd": 2432.0688,
+    "whale_pct": 1.169,
     "whale_value_at_open": 208084.9821,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -73840,8 +73840,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788050602.5168297,
-    "fills": 1
+    "last_fill_at": 1788057292.9574285,
+    "fills": 2
   },
   {
     "timestamp": 1788050707,

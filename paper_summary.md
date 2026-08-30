@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:34:33 (hora de Perú)
+Actualizado: 2026-08-29 21:36:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $484.12
@@ -625,7 +625,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 4.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-7.5) | Stanford (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: UNLV Runnin' (-3.5) | Memphis (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: UNLV Runnin' (-3.5) | Memphis (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Milwaukee Brewers: O/U | Under (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |
 | HomeRunHazard | Spread: Florida State (-21.5) | Florida State (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | New Mexico State vs. Florida State | Florida State (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
