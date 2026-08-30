@@ -1,5 +1,5 @@
 {
-  "bankroll": 319.2894796464999,
+  "bankroll": 326.33660159771944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15990,6 +15990,11 @@
       "timestamp": 1788126137.4443343,
       "bankroll": 319.29,
       "event": "won: nigiri99 \u2014 Minnesota Lynx vs. Atlanta Dream: O/U 178.5"
+    },
+    {
+      "timestamp": 1788127083.71895,
+      "bankroll": 326.34,
+      "event": "won: SDTrading \u2014 Texas Rangers vs. Milwaukee Brewers"
     }
   ]
 }
