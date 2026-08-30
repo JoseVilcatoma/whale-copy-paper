@@ -1,5 +1,5 @@
 {
-  "bankroll": 425.32287540604494,
+  "bankroll": 425.52120873937827,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15170,6 +15170,11 @@
       "timestamp": 1788080812.8217976,
       "bankroll": 425.32,
       "event": "won: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788082703.3701932,
+      "bankroll": 425.52,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Khumoyun Sultanov vs Fumin Jiang"
     }
   ]
 }
