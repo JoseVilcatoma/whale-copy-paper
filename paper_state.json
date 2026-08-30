@@ -1,5 +1,5 @@
 {
-  "bankroll": 492.31226991862513,
+  "bankroll": 499.473740119284,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14710,6 +14710,16 @@
       "timestamp": 1788055268.2113795,
       "bankroll": 492.31,
       "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF vs. CF Montr\u00e9al end in a draw?"
+    },
+    {
+      "timestamp": 1788055834.2326472,
+      "bankroll": 495.16,
+      "event": "won: HomeRunHazard \u2014 Texas Rangers vs. Milwaukee Brewers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788055894.8280222,
+      "bankroll": 499.47,
+      "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-3.5)"
     }
   ]
 }
