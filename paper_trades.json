@@ -76343,8 +76343,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 2696.915,
-    "whale_pct": 20.601,
+    "whale_usd": 3251.915,
+    "whale_pct": 24.841,
     "whale_value_at_open": 13090.9595,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -76357,7 +76357,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788080518.4207127,
-    "fills": 3
+    "last_fill_at": 1788080658.154229,
+    "fills": 4
   }
 ]
