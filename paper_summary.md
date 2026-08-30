@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:46:44 (hora de Perú)
+Actualizado: 2026-08-30 04:48:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.24
@@ -617,12 +617,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Como: Norbert Gombos vs Andrea de Marchi | Norbert Gombos (BUY) | 83% | 5.00 | 9.7% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Henry Bernet (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Incheon United FC vs. Jeonbuk Hyundai Mo | Under (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 95% | 5.00 | 4.3% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 84% | 5.00 | 4.8% | ⏳ pendiente | — |
+| RN1 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 84% | 5.00 | 12.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 56% | 5.00 | 44.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: JDG (-1.5) vs Team WE (+1 | JD Gaming (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 78% | 5.00 | 1.9% | ⏳ pendiente | — |

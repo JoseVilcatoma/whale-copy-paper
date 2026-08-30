@@ -76589,8 +76589,8 @@
     "title": "Zhangjiagang: Uisung Park vs Kokoro Isomura",
     "outcome": "Kokoro Isomura",
     "side": "BUY",
-    "whale_usd": 5280.266666,
-    "whale_pct": 4.78,
+    "whale_usd": 13635.246666000001,
+    "whale_pct": 12.343,
     "whale_value_at_open": 110473.441,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -76603,8 +76603,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788082055.5338414,
-    "fills": 2
+    "last_fill_at": 1788083229.9631069,
+    "fills": 6
   },
   {
     "timestamp": 1788081478,
@@ -76689,8 +76689,8 @@
     "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Denisa Zoldakova",
     "outcome": "Denisa Zoldakova",
     "side": "BUY",
-    "whale_usd": 1730.1866,
-    "whale_pct": 1.536,
+    "whale_usd": 3591.7866000000004,
+    "whale_pct": 3.188,
     "whale_value_at_open": 112656.823,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -76701,8 +76701,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788082951.5111773,
-    "fills": 2
+    "last_fill_at": 1788083250.2377098,
+    "fills": 4
   },
   {
     "timestamp": 1788082887,
@@ -76713,8 +76713,8 @@
     "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Denisa Zoldakova",
     "outcome": "Barbora Palicova",
     "side": "BUY",
-    "whale_usd": 2034.4034000000001,
-    "whale_pct": 1.153,
+    "whale_usd": 3771.5234,
+    "whale_pct": 2.137,
     "whale_value_at_open": 176474.3255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -76727,8 +76727,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788082951.6717215,
-    "fills": 2
+    "last_fill_at": 1788083250.1942818,
+    "fills": 4
   },
   {
     "timestamp": 1788082941,
