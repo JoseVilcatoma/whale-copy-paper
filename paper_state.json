@@ -1,5 +1,5 @@
 {
-  "bankroll": 341.23662739797004,
+  "bankroll": 340.44449302254156,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15815,6 +15815,36 @@
       "timestamp": 1788118560.202694,
       "bankroll": 341.24,
       "event": "won: RN1 \u2014 Will 1. FC Kaiserslautern win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788119176.1463273,
+      "bankroll": 345.92,
+      "event": "won: nigiri99 \u2014 Will Chelsea FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788119179.0099452,
+      "bankroll": 341.85,
+      "event": "lost: RN1 \u2014 Will Sunderland AFC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788119180.0181847,
+      "bankroll": 348.07,
+      "event": "won: 3edmond.dantes \u2014 Will Sunderland AFC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788119180.1183462,
+      "bankroll": 342.97,
+      "event": "lost: 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 \u2014 Will Sunderland AFC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788119180.218455,
+      "bankroll": 337.84,
+      "event": "lost: ArturitoFilito \u2014 Will Chelsea FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788119183.4917626,
+      "bankroll": 340.44,
+      "event": "won: nigiri99 \u2014 RC Deportivo A Coru\u00f1a vs. Valencia CF: 1st Half O/U 0.5"
     }
   ]
 }

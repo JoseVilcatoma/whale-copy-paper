@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 14:45:26 (hora de Perú)
+Actualizado: 2026-08-30 14:47:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $341.24
-**Retorno acumulado:** -31.75%
+**Bankroll actual:** $340.44
+**Retorno acumulado:** -31.91%
 **Peor caída desde un máximo (drawdown):** 45.68%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 14:45:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $267.68 en 54 posiciones abiertas (disponible para nuevas apuestas: $73.56)
+**Capital comprometido ahora mismo:** $238.69 en 48 posiciones abiertas (disponible para nuevas apuestas: $101.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,9 +31,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 36 | 28 | 3 | +21.05 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
+| quavoo | 14 | 6 | 12 | +8.98 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -41,7 +43,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| 3edmond.dantes | 2 | 1 | 1 | +5.35 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
@@ -54,13 +55,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| quavoo | 12 | 6 | 14 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | beachboy4 | 3 | 1 | 2 | -0.96 USD |
@@ -68,7 +67,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 1 | 3 | -2.95 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
-| ArturitoFilito | 5 | 4 | 1 | -3.42 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | HomeRunHazard | 416 | 223 | 1 | -3.71 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
@@ -78,6 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
@@ -85,6 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 8 | 2 | -6.84 USD |
 | vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
+| ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -95,20 +95,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 215 | 3 | -35.78 USD |
+| RN1 | 449 | 216 | 2 | -39.85 USD |
 | Sassy-Bucket | 19 | 36 | 3 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 369 | 231 | 8 | -148.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3024
-- **Aciertos:** 1922 (63.6%)
+- **Apuestas resueltas:** 3030
+- **Aciertos:** 1925 (63.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,097.56
+- **Total apostado (suma de stakes):** $15,126.55
 - **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $276.32 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $276.99 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1518 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 897 | 70.0% | 67.9% | +2.2 pp |
+| 40-59% | 1522 | 49.3% | 50.1% | -0.8 pp |
+| 60-79% | 899 | 70.0% | 67.8% | +2.1 pp |
 | 80-94% | 421 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
@@ -652,7 +652,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Valorant: LOUD vs MIBR (BO3) - VCT Ameri | MIBR (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 44% | 5.00 | 6.4% | 💰 vendida anticipada | +2.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 50% | 5.00 | 2.3% | 💰 vendida anticipada | -0.05 |
-| nigiri99 | RC Deportivo A Coruña vs. Valencia CF: 1 | Over (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | RC Deportivo A Coruña vs. Valencia CF: 1 | Over (BUY) | 65% | 5.00 | 0.2% | ✅ ganada | +2.61 |
 | SDTrading | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 47% | 3.19 | 0.7% | ❌ perdida | -3.27 |
 | nigiri99 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 54% | 5.00 | 0.8% | ✅ ganada | +4.14 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 69% | 5.00 | 4.8% | ✅ ganada | +2.17 |
