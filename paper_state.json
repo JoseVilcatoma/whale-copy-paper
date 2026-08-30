@@ -1,5 +1,5 @@
 {
-  "bankroll": 362.2854998631719,
+  "bankroll": 363.26659624871405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15695,6 +15695,11 @@
       "timestamp": 1788110489.7449243,
       "bankroll": 362.29,
       "event": "won: beachboy4 \u2014 US Open ATP: Kamil Majchrzak vs Hamad Medjedovic"
+    },
+    {
+      "timestamp": 1788110787.8100839,
+      "bankroll": 363.27,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Daniel Merida Aguilar vs Marton Fucsovics"
     }
   ]
 }
