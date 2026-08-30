@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 12:22:27 (hora de Perú)
+Actualizado: 2026-08-30 12:24:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $362.29
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 12:22:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $298.25 en 61 posiciones abiertas (disponible para nuevas apuestas: $64.04)
+**Capital comprometido ahora mismo:** $303.25 en 62 posiciones abiertas (disponible para nuevas apuestas: $59.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| quavoo | 10 | 5 | 12 | -1.52 USD |
+| quavoo | 10 | 5 | 13 | -1.52 USD |
 | ArturitoFilito | 4 | 3 | 3 | -1.88 USD |
 | beachboy4 | 2 | 1 | 1 | -2.16 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -620,6 +620,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ere-utr-psv-2026-08-30-total-3pt5 | RN1, ferrariChampions2026 |
 | epl-sun-ful-2026-08-30-sun | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116, 3edmond.dantes, RN1 |
 | atp-wu-walton-2026-08-30 | ArturitoFilito, ferrariChampions2026 |
+| arg-ban-riv-2026-08-30-riv | RN1, nigiri99 |
 | lal-rea-mala-2026-08-30-total-3pt5 | ferrariChampions2026, nigiri99 |
 | mlb-mia-wsh-2026-08-30-total-9pt5 | SDTrading, nigiri99 |
 
@@ -627,6 +628,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Valorant: LOUD vs MIBR (BO3) - VCT Ameri | MIBR (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 44% | 5.00 | 6.4% | 💰 vendida anticipada | +2.00 |
@@ -656,4 +658,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
-| ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ✅ ganada | +2.28 |
