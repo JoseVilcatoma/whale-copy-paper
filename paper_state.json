@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.96851829839824,
+  "bankroll": 400.64490291378286,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15525,6 +15525,16 @@
       "timestamp": 1788102987.8654268,
       "bankroll": 400.97,
       "event": "lost: ferrariChampions2026 \u2014 Chelsea FC vs. Brighton & Hove Albion FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788103549.9490068,
+      "bankroll": 396.15,
+      "event": "lost: RN1 \u2014 SV Darmstadt 98 vs. Hannover 96: O/U 1.5"
+    },
+    {
+      "timestamp": 1788103618.4598975,
+      "bankroll": 400.64,
+      "event": "won: RN1 \u2014 Will FC St. Pauli 1910 win on 2026-08-30?"
     }
   ]
 }

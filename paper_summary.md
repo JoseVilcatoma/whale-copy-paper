@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:24:57 (hora de Perú)
+Actualizado: 2026-08-30 10:27:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $400.97
-**Retorno acumulado:** -19.81%
+**Bankroll actual:** $400.64
+**Retorno acumulado:** -19.87%
 **Peor caída desde un máximo (drawdown):** 34.69%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 10:24:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.15 en 82 posiciones abiertas (disponible para nuevas apuestas: $0.82)
+**Capital comprometido ahora mismo:** $390.40 en 80 posiciones abiertas (disponible para nuevas apuestas: $10.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -89,7 +89,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
-| RN1 | 441 | 206 | 20 | -14.75 USD |
+| RN1 | 442 | 207 | 18 | -15.07 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
@@ -101,14 +101,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2970
-- **Aciertos:** 1894 (63.8%)
+- **Apuestas resueltas:** 2972
+- **Aciertos:** 1895 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,836.90
+- **Total apostado (suma de stakes):** $14,846.65
 - **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $271.37 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $271.56 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,8 +116,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1488 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 883 | 70.0% | 67.9% | +2.1 pp |
+| 40-59% | 1489 | 49.8% | 50.1% | -0.4 pp |
+| 60-79% | 884 | 69.9% | 67.9% | +2.1 pp |
 | 80-94% | 413 | 86.4% | 86.6% | -0.2 pp |
 | 95-99% (casi seguro) | 186 | 96.2% | 97.4% | -1.1 pp |
 
@@ -644,7 +644,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes (BUY) | 71% | 5.00 | 5.2% | ❌ perdida | -5.07 |
 | RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ⏳ pendiente | — |
+| RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ❌ perdida | -4.82 |
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |
 | ArturitoFilito | Will Chelsea FC win on 2026-08-30? | No (BUY) | 49% | 5.00 | 157.1% | ⏳ pendiente | — |
