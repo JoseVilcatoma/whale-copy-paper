@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 14:35:06 (hora de Perú)
+Actualizado: 2026-08-30 14:37:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $330.18
-**Retorno acumulado:** -33.96%
+**Bankroll actual:** $341.24
+**Retorno acumulado:** -31.75%
 **Peor caída desde un máximo (drawdown):** 45.68%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 14:35:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $282.68 en 57 posiciones abiertas (disponible para nuevas apuestas: $47.50)
+**Capital comprometido ahora mismo:** $267.68 en 54 posiciones abiertas (disponible para nuevas apuestas: $73.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,8 +26,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 11 | +48.27 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
+| casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| casualbet2020 | 26 | 12 | 1 | +25.90 USD |
 | SDTrading | 36 | 28 | 3 | +21.05 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -95,21 +95,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 447 | 215 | 5 | -42.35 USD |
+| RN1 | 449 | 215 | 3 | -35.78 USD |
 | Sassy-Bucket | 19 | 36 | 3 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 369 | 231 | 8 | -148.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3021
-- **Aciertos:** 1919 (63.5%)
+- **Apuestas resueltas:** 3024
+- **Aciertos:** 1922 (63.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,082.56
-- **ROI sobre lo apostado:** -1.81%
-- **Comisiones pagadas (taker fee):** $276.01 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,097.56
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $276.32 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1516 | 49.2% | 50.1% | -0.9 pp |
-| 60-79% | 896 | 70.0% | 67.9% | +2.1 pp |
+| 40-59% | 1518 | 49.3% | 50.1% | -0.8 pp |
+| 60-79% | 897 | 70.0% | 67.9% | +2.2 pp |
 | 80-94% | 421 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 

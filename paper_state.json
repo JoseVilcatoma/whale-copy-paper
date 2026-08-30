@@ -1,5 +1,5 @@
 {
-  "bankroll": 330.17800102434364,
+  "bankroll": 341.23662739797004,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15800,6 +15800,21 @@
       "timestamp": 1788118251.2432728,
       "bankroll": 330.18,
       "event": "lost: SDTrading \u2014 Miami Marlins vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1788118553.6899183,
+      "bankroll": 334.67,
+      "event": "won: casualbet2020 \u2014 Valorant: Karmine Corp vs Team Liquid (BO5) - VCT EMEA Playoffs"
+    },
+    {
+      "timestamp": 1788118558.6497178,
+      "bankroll": 336.74,
+      "event": "won: RN1 \u2014 Will PSV win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788118560.202694,
+      "bankroll": 341.24,
+      "event": "won: RN1 \u2014 Will 1. FC Kaiserslautern win on 2026-08-30?"
     }
   ]
 }
