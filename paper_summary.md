@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:14:48 (hora de Perú)
+Actualizado: 2026-08-30 07:16:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 07:14:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.88 en 83 posiciones abiertas (disponible para nuevas apuestas: $9.59)
+**Capital comprometido ahora mismo:** $420.47 en 85 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 361 | 218 | 25 | -97.41 USD |
+| ferrariChampions2026 | 361 | 218 | 27 | -97.41 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
@@ -616,6 +616,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 52% | 4.59 | 0.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Paris FC vs. OGC Nice: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrea Colombo vs Gianmarco Ferrar | Gianmarco Ferrari (BUY) | 80% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will KAA Gent vs. Club Brugge end in a d | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will FC St. Pauli 1910 win on 2026-08-30 | No (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -644,5 +646,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 45% | 5.00 | 1.7% | ✅ ganada | +5.97 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | 💰 vendida anticipada | +1.35 |
 | RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 11.3% | ⏳ pendiente | — |
-| RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |
