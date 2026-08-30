@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:47:24 (hora de Perú)
+Actualizado: 2026-08-30 18:49:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $329.62
@@ -644,7 +644,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | EC Bahia vs. SC Internacional: O/U 4.5 | Over (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Kimberly Birrell (BUY) | 42% | 5.00 | 85.2% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 65% | 5.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 91% | 5.00 | 3.5% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 91% | 5.00 | 3.7% | ⏳ pendiente | — |
 | nigiri99 | Will FC Barcelona win on 2026-08-31? | Yes (BUY) | 90% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 53% | 5.00 | 1.1% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 3282.9% | 💰 vendida anticipada | -1.03 |
