@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 22:01:36 (hora de Perú)
+Actualizado: 2026-08-29 22:03:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $478.67
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 22:01:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $208.67)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $193.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 398 | 205 | 21 | +26.60 USD |
+| HomeRunHazard | 398 | 205 | 22 | +26.60 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 418 | 200 | 1 | -39.34 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
-| ferrariChampions2026 | 346 | 211 | 16 | -86.85 USD |
+| ferrariChampions2026 | 346 | 211 | 18 | -86.85 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
@@ -602,7 +602,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | San Francisco Giants (BUY) | 68% | 5.00 | 2.7% | ⏳ pendiente | — |
+| HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Colorado Rapids SC win on 2026-08-2 | Yes (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 78% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-3.5) | Los Angeles Angels (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -617,18 +620,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury | Phoenix Mercury (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: OG vs Eternal Fire (BO3) | Eternal Fire (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-29? | Yes (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota United FC vs. Orlando City SC: | Over (BUY) | 47% | 5.00 | 0.6% | ✅ ganada | +5.51 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NAVI (-1.5) vs G2 (+1.5) | G2 (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 93.6% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 108.4% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 13.5% | ⏳ pendiente | — |
 | texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 18.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |
-| ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Under (BUY) | 53% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Jose Earthquakes win on 2026-08 | No (BUY) | 80% | 5.00 | 0.3% | ✅ ganada | +1.20 |
-| ferrariChampions2026 | Spread: New York Yankees (-2.5) | Boston Red Sox (BUY) | 69% | 5.00 | 5.5% | ❌ perdida | -5.08 |
