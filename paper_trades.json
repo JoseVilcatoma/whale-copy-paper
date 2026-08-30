@@ -76589,8 +76589,8 @@
     "title": "Zhangjiagang: Uisung Park vs Kokoro Isomura",
     "outcome": "Kokoro Isomura",
     "side": "BUY",
-    "whale_usd": 1366.6666659999999,
-    "whale_pct": 1.237,
+    "whale_usd": 5280.266666,
+    "whale_pct": 4.78,
     "whale_value_at_open": 110473.441,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -76603,8 +76603,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788081409.0948734,
-    "fills": 1
+    "last_fill_at": 1788082055.5338414,
+    "fills": 2
   },
   {
     "timestamp": 1788081478,
