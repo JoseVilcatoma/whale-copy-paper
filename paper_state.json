@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.2185460491008,
+  "bankroll": 483.0447268769875,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14860,6 +14860,16 @@
       "timestamp": 1788059072.17886,
       "bankroll": 474.22,
       "event": "won: HomeRunHazard \u2014 Hawaii vs. Stanford"
+    },
+    {
+      "timestamp": 1788059196.3442152,
+      "bankroll": 478.9,
+      "event": "won: HomeRunHazard \u2014 Spread: Stanford (-7.5)"
+    },
+    {
+      "timestamp": 1788059257.288579,
+      "bankroll": 483.04,
+      "event": "won: HomeRunHazard \u2014 Spread: Stanford (-10.5)"
     }
   ]
 }
