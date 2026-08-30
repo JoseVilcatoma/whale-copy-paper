@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.18186723282395,
+  "bankroll": 382.05986723282393,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15580,6 +15580,11 @@
       "timestamp": 1788105571.5894814,
       "bankroll": 387.18,
       "event": "won: RN1 \u2014 AIK vs. Hammarby IF: O/U 3.5"
+    },
+    {
+      "timestamp": 1788105762.6171699,
+      "bankroll": 382.06,
+      "event": "lost: RN1 \u2014 AIK vs. Hammarby IF: O/U 4.5"
     }
   ]
 }
