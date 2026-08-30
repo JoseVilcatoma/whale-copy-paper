@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 05:49:02 (hora de Perú)
+Actualizado: 2026-08-30 05:51:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.69
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 05:49:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $419.31 en 84 posiciones abiertas (disponible para nuevas apuestas: $6.38)
+**Capital comprometido ahora mismo:** $424.31 en 85 posiciones abiertas (disponible para nuevas apuestas: $1.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 427 | 203 | 16 | -32.11 USD |
+| RN1 | 427 | 203 | 17 | -32.11 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 360 | 216 | 24 | -89.49 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
@@ -614,6 +614,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Plovdiv 3: Oleksandr Ovcharenko vs Edoar | Oleksandr Ovcharenko (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 44% | 4.31 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | KBO: NC Dinos vs. Hanwha Eagles | Hanwha Eagles (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -643,4 +644,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Incheon United FC vs. Jeonbuk Hyundai Mo | Under (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
