@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 20:50:51 (hora de Perú)
+Actualizado: 2026-08-29 20:52:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $508.24
-**Retorno acumulado:** +1.65%
+**Bankroll actual:** $500.25
+**Retorno acumulado:** +0.05%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 20:50:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $163.24)
+**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $185.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 24 | 9 | 3 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 5 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| HomeRunHazard | 390 | 199 | 25 | +31.53 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 35 | 25 | 3 | +30.41 USD |
+| HomeRunHazard | 391 | 200 | 23 | +27.92 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -92,21 +92,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 417 | 200 | 2 | -39.44 USD |
-| ferrariChampions2026 | 337 | 201 | 27 | -63.10 USD |
+| RN1 | 418 | 200 | 1 | -39.34 USD |
+| ferrariChampions2026 | 338 | 203 | 24 | -67.58 USD |
 | Sassy-Bucket | 19 | 34 | 1 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2804
-- **Aciertos:** 1799 (64.2%)
+- **Apuestas resueltas:** 2810
+- **Aciertos:** 1802 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,007.59
-- **ROI sobre lo apostado:** -0.61%
-- **Comisiones pagadas (taker fee):** $256.20 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,037.59
+- **ROI sobre lo apostado:** -0.67%
+- **Comisiones pagadas (taker fee):** $256.74 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.16% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,10 +114,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1403 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 834 | 70.5% | 67.8% | +2.7 pp |
+| 40-59% | 1406 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 836 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 391 | 86.2% | 86.7% | -0.5 pp |
-| 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
+| 95-99% (casi seguro) | 177 | 96.0% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -611,7 +611,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | Boston Red Sox (BUY) | 69% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-29? | Yes (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will New York City FC win on 2026-08-29? | Yes (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will New York City FC win on 2026-08-29? | Yes (BUY) | 65% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 4.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -622,11 +622,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | New Mexico State vs. Florida State | Florida State (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 50% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-10.5) | Hawaii (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
-| HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 47% | 5.00 | 3.4% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 47% | 5.00 | 3.4% | ❌ perdida | -5.13 |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-3.5) | Texas Rangers (BUY) | 53% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Hawaii vs. Stanford | Stanford (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Bears vs. Titans | Bears (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
-| HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 76% | 5.00 | 5.0% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 76% | 5.00 | 5.0% | ✅ ganada | +1.52 |
 | ferrariChampions2026 | Inter Miami CF vs. CF Montréal: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |

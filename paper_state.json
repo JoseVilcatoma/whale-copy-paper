@@ -1,5 +1,5 @@
 {
-  "bankroll": 508.2378156596932,
+  "bankroll": 500.248369061832,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14660,6 +14660,36 @@
       "timestamp": 1788053761.4902098,
       "bankroll": 508.24,
       "event": "lost: ferrariChampions2026 \u2014 Game Handicap: LY (-1.5) vs Cloud9 (+1.5)"
+    },
+    {
+      "timestamp": 1788054707.2561195,
+      "bankroll": 508.33,
+      "event": "won: RN1 \u2014 Will EC Vit\u00f3ria win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788054709.2376077,
+      "bankroll": 514.07,
+      "event": "won: ferrariChampions2026 \u2014 Kingston 2: Aidan Mayo vs Andres Andrade"
+    },
+    {
+      "timestamp": 1788054709.784984,
+      "bankroll": 508.95,
+      "event": "lost: ferrariChampions2026 \u2014 Kingston 2: Aidan Mayo vs Andres Andrade"
+    },
+    {
+      "timestamp": 1788054711.3440423,
+      "bankroll": 510.47,
+      "event": "won: HomeRunHazard \u2014 Kingston 2: Aidan Mayo vs Andres Andrade"
+    },
+    {
+      "timestamp": 1788054712.0356352,
+      "bankroll": 505.34,
+      "event": "lost: HomeRunHazard \u2014 Kingston 2: Aidan Mayo vs Andres Andrade"
+    },
+    {
+      "timestamp": 1788054770.0545633,
+      "bankroll": 500.25,
+      "event": "lost: ferrariChampions2026 \u2014 Will New York City FC win on 2026-08-29?"
     }
   ]
 }
