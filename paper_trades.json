@@ -78917,5 +78917,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788104555.8418224,
     "fills": 1
+  },
+  {
+    "timestamp": 1788105921,
+    "timestamp_added": 1788105922.1837063,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "cs2-vit-lgc-2026-08-30-game1",
+    "title": "Counter-Strike: Vitality vs Legacy - Map 1 Winner",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 7151.6144,
+    "whale_pct": 2.138,
+    "whale_value_at_open": 334549.5235,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788106004.9827416,
+    "fills": 2
   }
 ]
