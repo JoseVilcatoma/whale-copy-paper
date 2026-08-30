@@ -1,5 +1,5 @@
 {
-  "bankroll": 418.8459659222003,
+  "bankroll": 422.36165557737274,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15145,6 +15145,11 @@
       "timestamp": 1788070212.2301512,
       "bankroll": 418.85,
       "event": "lost: HomeRunHazard \u2014 Spread: UNLV Runnin' (-4.5)"
+    },
+    {
+      "timestamp": 1788075511.9192486,
+      "bankroll": 422.36,
+      "event": "won: RN1 \u2014 Zhangjiagang: Joshua Charlton vs Takuya Kumasaka"
     }
   ]
 }
