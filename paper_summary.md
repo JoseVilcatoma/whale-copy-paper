@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:12:00 (hora de Perú)
+Actualizado: 2026-08-30 15:14:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $334.89
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 15:12:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $213.69 en 43 posiciones abiertas (disponible para nuevas apuestas: $121.20)
+**Capital comprometido ahora mismo:** $218.69 en 44 posiciones abiertas (disponible para nuevas apuestas: $116.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 2 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 2 | 2 | -8.03 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 2 | 3 | -8.03 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -631,6 +631,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid - Game 1 Winner | LYON (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | beachboy4 | US Open WTA: Lucrezia Stefanini vs Dayan | Lucrezia Stefanini (BUY) | 81% | 5.00 | 13.1% | ⏳ pendiente | — |
@@ -660,4 +661,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ✅ ganada | +1.20 |
 | nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: PLD (-1.5) vs BORRACHEIROS | Peladona (BUY) | 73% | 5.00 | 2.2% | ⏳ pendiente | — |
