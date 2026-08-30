@@ -77745,5 +77745,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788090105.4578507,
     "fills": 1
+  },
+  {
+    "timestamp": 1788090344,
+    "timestamp_added": 1788090344.91799,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-rustec-unity-2026-08-30",
+    "title": "Counter-Strike: ex-RUSTEC vs UNiTY esports (BO3) - CCT Europe Closed Qualifier: Series #8 Group C",
+    "outcome": "ex-RUSTEC",
+    "side": "BUY",
+    "whale_usd": 2177.2656,
+    "whale_pct": 0.89,
+    "whale_value_at_open": 244507.0303,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788090344.9180012,
+    "fills": 1
   }
 ]

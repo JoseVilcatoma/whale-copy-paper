@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:44:36 (hora de Perú)
+Actualizado: 2026-08-30 06:46:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.88
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 06:44:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $418.02 en 84 posiciones abiertas (disponible para nuevas apuestas: $7.86)
+**Capital comprometido ahora mismo:** $423.02 en 85 posiciones abiertas (disponible para nuevas apuestas: $2.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 95 | 40 | 4 | +77.33 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 25 | 10 | 7 | +42.26 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 16 | +36.65 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 17 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -616,6 +616,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs UNiTY espor | ex-RUSTEC (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will CA River Plate win on 2026-08-30? | No (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 2 | Over (BUY) | 63% | 4.72 | 0.5% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 3 | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -645,4 +646,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 46% | 5.00 | 4.9% | 💰 vendida anticipada | +0.16 |
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ashley Lahey (BUY) | 74% | 5.00 | 1.3% | ✅ ganada | +1.69 |
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.4% | ❌ perdida | -5.13 |
-| ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.8% | ❌ perdida | -5.13 |
