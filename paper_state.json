@@ -1,5 +1,5 @@
 {
-  "bankroll": 491.533316430253,
+  "bankroll": 492.31226991862513,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14705,6 +14705,11 @@
       "timestamp": 1788055023.1863642,
       "bankroll": 491.53,
       "event": "lost: ferrariChampions2026 \u2014 Inter Miami CF vs. CF Montr\u00e9al: O/U 3.5"
+    },
+    {
+      "timestamp": 1788055268.2113795,
+      "bankroll": 492.31,
+      "event": "won: ferrariChampions2026 \u2014 Will Inter Miami CF vs. CF Montr\u00e9al end in a draw?"
     }
   ]
 }
