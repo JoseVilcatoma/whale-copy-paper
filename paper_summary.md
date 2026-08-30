@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:48:56 (hora de Perú)
+Actualizado: 2026-08-30 04:50:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 04:48:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $71.24)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $61.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 425 | 201 | 9 | -27.32 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 359 | 216 | 21 | -90.85 USD |
+| ferrariChampions2026 | 359 | 216 | 23 | -90.85 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -612,6 +612,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: FC Midtjylland (-1.5) | FC Midtjylland (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | FC Utrecht vs. PSV: O/U 3.5 | Under (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 73% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Kursumlijska Banj | Branko Djuric (BUY) | 70% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Como: Norbert Gombos vs Andrea de Marchi | Norbert Gombos (BUY) | 83% | 5.00 | 9.7% | ⏳ pendiente | — |
@@ -640,5 +642,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Zhangjiagang: Khumoyun Sultanov vs Fumin | Khumoyun Sultanov (BUY) | 96% | 5.00 | 1.3% | ✅ ganada | +0.20 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 45% | 5.00 | 81.3% | 💰 vendida anticipada | +0.61 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BORRACHEIROS vs Peladona | Peladona (BUY) | 87% | 5.00 | 8.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 76% | 5.00 | 0.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | FC Augsburg vs. FC Schalke 04: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
