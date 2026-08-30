@@ -1,5 +1,5 @@
 {
-  "bankroll": 361.16949470405325,
+  "bankroll": 362.2854998631719,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15650,6 +15650,51 @@
       "timestamp": 1788109545.5461724,
       "bankroll": 361.17,
       "event": "won: nigiri99 \u2014 Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5)"
+    },
+    {
+      "timestamp": 1788110475.2096937,
+      "bankroll": 361.53,
+      "event": "won: nigiri99 \u2014 Real Madrid CF vs. M\u00e1laga CF: O/U 1.5"
+    },
+    {
+      "timestamp": 1788110475.8084424,
+      "bankroll": 356.4,
+      "event": "lost: nigiri99 \u2014 Spread: Real Madrid CF (-2.5)"
+    },
+    {
+      "timestamp": 1788110477.2149029,
+      "bankroll": 358.0,
+      "event": "won: nigiri99 \u2014 Spread: Real Madrid CF (-1.5)"
+    },
+    {
+      "timestamp": 1788110480.604731,
+      "bankroll": 359.97,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: SPARTA (-1.5) vs Black Phoenix (+1.5)"
+    },
+    {
+      "timestamp": 1788110481.786548,
+      "bankroll": 354.84,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Kamil Majchrzak vs Hamad Medjedovic"
+    },
+    {
+      "timestamp": 1788110486.59123,
+      "bankroll": 357.12,
+      "event": "won: ferrariChampions2026 \u2014 Real Madrid CF vs. M\u00e1laga CF: O/U 3.5"
+    },
+    {
+      "timestamp": 1788110486.9011705,
+      "bankroll": 358.24,
+      "event": "won: nigiri99 \u2014 Real Madrid CF vs. M\u00e1laga CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1788110487.9526784,
+      "bankroll": 361.09,
+      "event": "won: nigiri99 \u2014 Real Madrid CF vs. M\u00e1laga CF: O/U 3.5"
+    },
+    {
+      "timestamp": 1788110489.7449243,
+      "bankroll": 362.29,
+      "event": "won: beachboy4 \u2014 US Open ATP: Kamil Majchrzak vs Hamad Medjedovic"
     }
   ]
 }

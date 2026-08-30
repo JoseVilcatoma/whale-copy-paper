@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 12:20:22 (hora de Perú)
+Actualizado: 2026-08-30 12:22:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $361.17
-**Retorno acumulado:** -27.77%
-**Peor caída desde un máximo (drawdown):** 41.33%
+**Bankroll actual:** $362.29
+**Retorno acumulado:** -27.54%
+**Peor caída desde un máximo (drawdown):** 41.47%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 12:20:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $341.92 en 70 posiciones abiertas (disponible para nuevas apuestas: $19.25)
+**Capital comprometido ahora mismo:** $298.25 en 61 posiciones abiertas (disponible para nuevas apuestas: $64.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 103 | 43 | 0 | +84.57 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 22 | 4 | 10 | +46.30 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 9 | +48.27 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -63,12 +63,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
+| quavoo | 10 | 5 | 12 | -1.52 USD |
 | ArturitoFilito | 4 | 3 | 3 | -1.88 USD |
-| quavoo | 6 | 4 | 17 | -2.32 USD |
+| beachboy4 | 2 | 1 | 1 | -2.16 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
-| beachboy4 | 1 | 1 | 2 | -3.36 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | HomeRunHazard | 416 | 223 | 1 | -3.71 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
@@ -98,18 +98,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 447 | 214 | 6 | -37.22 USD |
 | Sassy-Bucket | 19 | 36 | 1 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 365 | 225 | 18 | -122.72 USD |
+| ferrariChampions2026 | 366 | 226 | 16 | -125.57 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2993
-- **Aciertos:** 1904 (63.6%)
+- **Apuestas resueltas:** 3002
+- **Aciertos:** 1911 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $14,948.32
-- **ROI sobre lo apostado:** -1.59%
-- **Comisiones pagadas (taker fee):** $273.44 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.24% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,991.99
+- **ROI sobre lo apostado:** -1.58%
+- **Comisiones pagadas (taker fee):** $274.11 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.25% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,9 +117,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1500 | 49.5% | 50.1% | -0.6 pp |
-| 60-79% | 890 | 69.8% | 67.8% | +1.9 pp |
-| 80-94% | 415 | 86.5% | 86.6% | -0.1 pp |
+| 40-59% | 1502 | 49.5% | 50.1% | -0.7 pp |
+| 60-79% | 894 | 69.9% | 67.8% | +2.1 pp |
+| 80-94% | 418 | 86.6% | 86.6% | -0.0 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -636,7 +636,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 69% | 5.00 | 4.8% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 45% | 5.00 | 1533.1% | ⏳ pendiente | — |
-| beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ⏳ pendiente | — |
+| beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ✅ ganada | +1.20 |
 | nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: PLD (-1.5) vs BORRACHEIROS | Peladona (BUY) | 73% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -648,12 +648,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Tampa Bay Rays | San Diego Padres (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
-| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 84.1% | ⏳ pendiente | — |
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ✅ ganada | +5.51 |
 | ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ❌ perdida | -5.11 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 89.1% | ✅ ganada | +0.05 |
 | nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ⏳ pendiente | — |
+| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
+| ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ✅ ganada | +2.28 |
