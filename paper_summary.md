@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:12:43 (hora de Perú)
+Actualizado: 2026-08-30 07:14:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $417.50
-**Retorno acumulado:** -16.50%
+**Bankroll actual:** $420.47
+**Retorno acumulado:** -15.91%
 **Peor caída desde un máximo (drawdown):** 33.10%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 07:12:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.88 en 84 posiciones abiertas (disponible para nuevas apuestas: $1.62)
+**Capital comprometido ahora mismo:** $410.88 en 83 posiciones abiertas (disponible para nuevas apuestas: $9.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,6 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 1 | 0 | 1 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -59,7 +60,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
@@ -100,14 +100,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2931
-- **Aciertos:** 1870 (63.8%)
+- **Apuestas resueltas:** 2932
+- **Aciertos:** 1871 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,642.59
-- **ROI sobre lo apostado:** -1.23%
-- **Comisiones pagadas (taker fee):** $268.06 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,647.59
+- **ROI sobre lo apostado:** -1.21%
+- **Comisiones pagadas (taker fee):** $268.16 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1474 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 867 | 70.1% | 67.9% | +2.3 pp |
+| 60-79% | 868 | 70.2% | 67.8% | +2.3 pp |
 | 80-94% | 406 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
@@ -628,7 +628,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 41.9% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 0.5 | Over (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere - Ma | G2 (BUY) | 62% | 5.00 | 112.2% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere - Ma | G2 (BUY) | 62% | 5.00 | 112.2% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | US Open WTA: Jasmine Paolini vs Veronika | Jasmine Paolini (BUY) | 89% | 5.00 | 8.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | JD Gaming (BUY) | 57% | 4.56 | 2.3% | 💰 vendida anticipada | +1.68 |
 | RN1 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 60% | 3.99 | 3.2% | ⏳ pendiente | — |

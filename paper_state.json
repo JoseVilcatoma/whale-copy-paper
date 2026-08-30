@@ -1,5 +1,5 @@
 {
-  "bankroll": 417.50331576531715,
+  "bankroll": 420.47283189434944,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15330,6 +15330,11 @@
       "timestamp": 1788090953.4773638,
       "bankroll": 417.5,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788092001.6906774,
+      "bankroll": 420.47,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: G2 vs Natus Vincere - Map 2 Winner"
     }
   ]
 }
