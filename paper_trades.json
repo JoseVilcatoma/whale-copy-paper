@@ -74234,5 +74234,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788053802.315377,
     "fills": 1
+  },
+  {
+    "timestamp": 1788055084,
+    "timestamp_added": 1788055085.400453,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "wnba-tor-phx-2026-08-29-total-176pt5",
+    "title": "Toronto Tempo vs. Phoenix Mercury: O/U 176.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 638.0,
+    "whale_pct": 0.737,
+    "whale_value_at_open": 86518.5697,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788055085.4004643,
+    "fills": 1
   }
 ]
