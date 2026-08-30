@@ -79303,21 +79303,23 @@
     "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "GIANTX",
     "side": "BUY",
-    "whale_usd": 1598.616,
-    "whale_pct": 1.338,
+    "whale_usd": 10811.0,
+    "whale_pct": 9.052,
     "whale_value_at_open": 119436.1467,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
     "fee_usd": 0.105,
     "odds_ballena": 57,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 2.17,
     "overlaps_with": [
       "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788112369.2339914,
-    "fills": 2
+    "last_fill_at": 1788112587.6012254,
+    "fills": 3,
+    "fee_total_usd": 0.16,
+    "closed_price": 85
   }
 ]

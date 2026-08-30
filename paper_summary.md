@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 12:55:43 (hora de Perú)
+Actualizado: 2026-08-30 12:57:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $355.42
-**Retorno acumulado:** -28.92%
+**Bankroll actual:** $357.59
+**Retorno acumulado:** -28.48%
 **Peor caída desde un máximo (drawdown):** 41.68%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 12:55:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $313.25 en 64 posiciones abiertas (disponible para nuevas apuestas: $42.17)
+**Capital comprometido ahora mismo:** $308.25 en 63 posiciones abiertas (disponible para nuevas apuestas: $49.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 104 | 43 | 1 | +86.42 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 105 | 43 | 0 | +88.59 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 10 | +48.27 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -630,7 +630,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 1.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Hugo Gas | Daniil Medvedev (BUY) | 89% | 5.00 | 13.5% | ⏳ pendiente | — |
 | nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 27.6% | ⏳ pendiente | — |
