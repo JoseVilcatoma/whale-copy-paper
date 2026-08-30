@@ -72950,8 +72950,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -78465,8 +78465,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.11,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.2,
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
@@ -78738,8 +78738,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -78805,8 +78805,8 @@
     "title": "Map Handicap: PLD (-1.5) vs BORRACHEIROS (+1.5)",
     "outcome": "Peladona",
     "side": "BUY",
-    "whale_usd": 1858.8357,
-    "whale_pct": 1.359,
+    "whale_usd": 3067.1098,
+    "whale_pct": 2.243,
     "whale_value_at_open": 136766.1046,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -78817,8 +78817,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111009.363459,
-    "fills": 2
+    "last_fill_at": 1788115492.4507105,
+    "fills": 3
   },
   {
     "timestamp": 1788103985,
@@ -79153,8 +79153,8 @@
     "title": "Map Handicap: IMP (-1.5) vs Galorys (+1.5)",
     "outcome": "Imperial",
     "side": "BUY",
-    "whale_usd": 503.4112999999999,
-    "whale_pct": 0.414,
+    "whale_usd": 3347.2324999999996,
+    "whale_pct": 2.753,
     "whale_value_at_open": 121588.5427,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -79165,8 +79165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111010.65211,
-    "fills": 1
+    "last_fill_at": 1788115495.1319444,
+    "fills": 2
   },
   {
     "timestamp": 1788111242,

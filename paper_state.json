@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.7044960164417,
+  "bankroll": 347.62736495349014,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15750,6 +15750,21 @@
       "timestamp": 1788114830.6661086,
       "bankroll": 340.7,
       "event": "lost: RN1 \u2014 FC St. Gallen 1879 vs. FC Thun: O/U 3.5"
+    },
+    {
+      "timestamp": 1788115444.3052156,
+      "bankroll": 342.22,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Sho Shimabukuro vs Arthur Rinderknech"
+    },
+    {
+      "timestamp": 1788115453.9170058,
+      "bankroll": 346.43,
+      "event": "won: nigiri99 \u2014 Telstar 1963 vs. AFC Ajax: O/U 3.5"
+    },
+    {
+      "timestamp": 1788115455.1989236,
+      "bankroll": 347.63,
+      "event": "won: beachboy4 \u2014 US Open ATP: Sho Shimabukuro vs Arthur Rinderknech"
     }
   ]
 }
