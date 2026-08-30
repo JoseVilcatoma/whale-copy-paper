@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 02:12:42 (hora de Perú)
+Actualizado: 2026-08-30 02:14:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $418.85
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 02:12:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $218.85)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $213.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 423 | 201 | 1 | -31.20 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 354 | 216 | 9 | -93.77 USD |
+| ferrariChampions2026 | 354 | 216 | 10 | -93.77 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -603,6 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Chelsea FC vs. Brighton & Hove Albion FC | Under (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Sheng Tang vs Filip Peliwo | Filip Peliwo (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Talia Gibson vs Donna Vekic | Talia Gibson (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming - M | Aurora Gaming (BUY) | 68% | 5.00 | 3.2% | ⏳ pendiente | — |
@@ -632,4 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: UNLV Runnin' (-2.5) | Memphis (BUY) | 49% | 5.00 | 0.6% | ✅ ganada | +5.08 |
 | HomeRunHazard | Spread: UNLV Runnin' (-4.5) | UNLV Runnin' (BUY) | 46% | 5.00 | 0.6% | ❌ perdida | -5.13 |
 | HomeRunHazard | Memphis vs. UNLV Runnin' | UNLV Runnin' (BUY) | 71% | 5.00 | 0.6% | ❌ perdida | -5.07 |
-| nigiri99 | Spread: Real Madrid CF (-2.5) | Málaga CF (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
