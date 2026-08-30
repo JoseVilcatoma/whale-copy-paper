@@ -1,5 +1,5 @@
 {
-  "bankroll": 424.3132132888538,
+  "bankroll": 425.6941343414854,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15220,6 +15220,11 @@
       "timestamp": 1788086560.7780325,
       "bankroll": 424.31,
       "event": "won: RN1 \u2014 Zhangjiagang: Uisung Park vs Kokoro Isomura"
+    },
+    {
+      "timestamp": 1788086883.6207967,
+      "bankroll": 425.69,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs (+1.38 USD)"
     }
   ]
 }

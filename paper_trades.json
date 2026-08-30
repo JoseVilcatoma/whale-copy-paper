@@ -77114,8 +77114,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.38,
     "overlaps_with": [
       "TAIWANNUMBERONE",
       "ferrariChampions2026"
@@ -77123,7 +77123,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788086705.5497682,
-    "fills": 6
+    "fills": 6,
+    "fee_total_usd": 0.066,
+    "closed_price": 98
   },
   {
     "timestamp": 1788085047,
