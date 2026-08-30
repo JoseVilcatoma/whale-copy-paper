@@ -1,5 +1,5 @@
 {
-  "bankroll": 437.08068902919575,
+  "bankroll": 426.12060606520055,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15025,6 +15025,61 @@
       "timestamp": 1788067308.7206657,
       "bankroll": 437.08,
       "event": "won: HomeRunHazard \u2014 Spread: San Francisco Giants (-1.5)"
+    },
+    {
+      "timestamp": 1788067611.4724257,
+      "bankroll": 431.97,
+      "event": "lost: texaskid \u2014 Philadelphia Phillies vs. Los Angeles Angels: O/U 7.5"
+    },
+    {
+      "timestamp": 1788067613.5091095,
+      "bankroll": 435.34,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1788067614.8712194,
+      "bankroll": 430.2,
+      "event": "lost: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1788067615.0714786,
+      "bankroll": 425.09,
+      "event": "lost: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1788067615.1716373,
+      "bankroll": 427.47,
+      "event": "won: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1788067615.2717829,
+      "bankroll": 422.34,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1788067615.371957,
+      "bankroll": 426.48,
+      "event": "won: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-2.5)"
+    },
+    {
+      "timestamp": 1788067615.6887562,
+      "bankroll": 428.97,
+      "event": "won: HomeRunHazard \u2014 Spread: Philadelphia Phillies (-3.5)"
+    },
+    {
+      "timestamp": 1788067616.0404994,
+      "bankroll": 430.33,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788067621.2553637,
+      "bankroll": 425.21,
+      "event": "lost: HomeRunHazard \u2014 Philadelphia Phillies vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788067623.072678,
+      "bankroll": 426.12,
+      "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Los Angeles Angels: O/U 6.5"
     }
   ]
 }
