@@ -72520,8 +72520,8 @@
     "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 59614.4372,
-    "whale_pct": 98.707,
+    "whale_usd": 62551.3152,
+    "whale_pct": 103.57,
     "whale_value_at_open": 60395.2606,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -72532,8 +72532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788081299.3104775,
-    "fills": 11
+    "last_fill_at": 1788081365.6577418,
+    "fills": 12
   },
   {
     "timestamp": 1788042485,
@@ -76552,6 +76552,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788081309.270337,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788081333,
+    "timestamp_added": 1788081334.55975,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-jdg-we-2026-08-30-game1",
+    "title": "LoL: JD Gaming vs Team WE - Game 1 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 14253.072100000001,
+    "whale_pct": 40.846,
+    "whale_value_at_open": 34894.5396,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788081401.7200902,
+    "fills": 4
+  },
+  {
+    "timestamp": 1788081408,
+    "timestamp_added": 1788081409.0948641,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-park-isomura-2026-08-30",
+    "title": "Zhangjiagang: Uisung Park vs Kokoro Isomura",
+    "outcome": "Kokoro Isomura",
+    "side": "BUY",
+    "whale_usd": 1366.6666659999999,
+    "whale_pct": 1.237,
+    "whale_value_at_open": 110473.441,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788081409.0948734,
     "fills": 1
   }
 ]
