@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:30:45 (hora de Perú)
+Actualizado: 2026-08-30 00:32:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $426.12
-**Retorno acumulado:** -14.78%
-**Peor caída desde un máximo (drawdown):** 30.33%
+**Bankroll actual:** $420.99
+**Retorno acumulado:** -15.80%
+**Peor caída desde un máximo (drawdown):** 30.56%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 00:30:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $201.12)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $200.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| texaskid | 8 | 7 | 1 | -1.71 USD |
 | vito3corleone | 1 | 1 | 0 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -80,6 +79,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| texaskid | 8 | 8 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2888
+- **Apuestas resueltas:** 2889
 - **Aciertos:** 1843 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,427.59
-- **ROI sobre lo apostado:** -1.16%
-- **Comisiones pagadas (taker fee):** $264.37 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,432.59
+- **ROI sobre lo apostado:** -1.20%
+- **Comisiones pagadas (taker fee):** $264.50 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1454 | 49.8% | 50.1% | -0.3 pp |
+| 40-59% | 1455 | 49.8% | 50.1% | -0.4 pp |
 | 60-79% | 855 | 70.4% | 67.8% | +2.6 pp |
 | 80-94% | 399 | 86.2% | 86.7% | -0.5 pp |
 | 95-99% (casi seguro) | 180 | 96.1% | 97.4% | -1.3 pp |
@@ -611,7 +611,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Atlanta Braves (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Under (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | nigiri99 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 75% | 5.00 | 0.1% | ⏳ pendiente | — |
-| nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
+| nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 5.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 43.1% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |

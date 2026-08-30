@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.12060606520055,
+  "bankroll": 420.99260606520056,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15080,6 +15080,11 @@
       "timestamp": 1788067623.072678,
       "bankroll": 426.12,
       "event": "won: HomeRunHazard \u2014 Philadelphia Phillies vs. Los Angeles Angels: O/U 6.5"
+    },
+    {
+      "timestamp": 1788067925.8376644,
+      "bankroll": 420.99,
+      "event": "lost: texaskid \u2014 Philadelphia Phillies vs. Los Angeles Angels: O/U 8.5"
     }
   ]
 }

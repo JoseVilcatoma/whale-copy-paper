@@ -74179,8 +74179,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -75493,8 +75493,8 @@
     "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3579.2999999999997,
-    "whale_pct": 0.886,
+    "whale_usd": 4663.34,
+    "whale_pct": 1.155,
     "whale_value_at_open": 403859.6171,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -75505,8 +75505,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788065223.3811255,
-    "fills": 1
+    "last_fill_at": 1788067901.5588017,
+    "fills": 2
   },
   {
     "timestamp": 1788066092,
