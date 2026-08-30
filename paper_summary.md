@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:35:39 (hora de Perú)
+Actualizado: 2026-08-30 00:37:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.99
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 00:35:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $200.99)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $190.99)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| quavoo | 3 | 4 | 7 | -11.23 USD |
+| quavoo | 3 | 4 | 8 | -11.23 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 421 | 201 | 3 | -38.88 USD |
-| ferrariChampions2026 | 354 | 216 | 5 | -93.77 USD |
+| ferrariChampions2026 | 354 | 216 | 6 | -93.77 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -603,6 +603,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Will Chelsea FC win on 2026-08-30? | Yes (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Daniel Merida Aguilar vs Ma | Daniel Merida Aguilar (BUY) | 83% | 5.00 | 4.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 3.6% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -631,5 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 72% | 5.00 | 3.2% | ✅ ganada | +1.87 |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 71% | 5.00 | 3.0% | ✅ ganada | +1.97 |
 | nigiri99 | Will Real Madrid CF win on 2026-08-30? | Yes (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: UNLV Runnin' (-7.5) | Memphis (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 56% | 5.00 | 0.3% | ❌ perdida | -5.11 |
