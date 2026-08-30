@@ -1,5 +1,5 @@
 {
-  "bankroll": 429.5338175710474,
+  "bankroll": 423.02155271310835,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15255,6 +15255,41 @@
       "timestamp": 1788089197.2573419,
       "bankroll": 429.53,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: JD Gaming vs Team WE - Game 3 Winner (+1.68 USD)"
+    },
+    {
+      "timestamp": 1788089368.6704993,
+      "bankroll": 424.45,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788089374.9886622,
+      "bankroll": 424.7,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788089379.5871558,
+      "bankroll": 426.97,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Amit Vales vs Vardan Manukyan"
+    },
+    {
+      "timestamp": 1788089380.0030057,
+      "bankroll": 429.14,
+      "event": "won: RN1 \u2014 ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Henry Bernet"
+    },
+    {
+      "timestamp": 1788089382.8330307,
+      "bankroll": 433.29,
+      "event": "won: RN1 \u2014 Plovdiv 3: Amit Vales vs Vardan Manukyan"
+    },
+    {
+      "timestamp": 1788089382.9331884,
+      "bankroll": 428.15,
+      "event": "lost: ferrariChampions2026 \u2014 Plovdiv 3: Amit Vales vs Vardan Manukyan"
+    },
+    {
+      "timestamp": 1788089383.03332,
+      "bankroll": 423.02,
+      "event": "lost: RN1 \u2014 Plovdiv 3: Amit Vales vs Vardan Manukyan"
     }
   ]
 }
