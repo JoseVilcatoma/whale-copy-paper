@@ -80136,5 +80136,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788131548.4333313,
     "fills": 1
+  },
+  {
+    "timestamp": 1788131735,
+    "timestamp_added": 1788131735.8317955,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-cin-chc-2026-08-30",
+    "title": "Cincinnati Reds vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 20650.0,
+    "whale_pct": 30.618,
+    "whale_value_at_open": 67443.772,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "texaskid"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788131735.8318102,
+    "fills": 1
   }
 ]
