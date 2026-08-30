@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 20:31:53 (hora de Perú)
+Actualizado: 2026-08-29 20:34:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 20:31:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $355.00 en 71 posiciones abiertas (disponible para nuevas apuestas: $142.86)
+**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $132.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 20 | 8 | 0 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| texaskid | 8 | 5 | 2 | +8.52 USD |
+| texaskid | 8 | 5 | 3 | +8.52 USD |
 | ArturitoFilito | 4 | 1 | 0 | +8.35 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 417 | 200 | 2 | -39.44 USD |
 | ferrariChampions2026 | 337 | 200 | 28 | -58.00 USD |
-| Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
+| Sassy-Bucket | 19 | 34 | 1 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
@@ -600,6 +600,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 11.6% | ⏳ pendiente | — |
+| texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -628,5 +630,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 76% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Inter Miami CF vs. CF Montréal: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 84% | 5.00 | 6.9% | 💰 vendida anticipada | +0.60 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 2 Winner | LYON (BUY) | 62% | 5.00 | 47.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will D.C. United SC win on 2026-08-29? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
