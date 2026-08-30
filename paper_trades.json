@@ -79101,8 +79101,8 @@
     "title": "Counter-Strike: Vitality vs Legacy - Map 2 Winner",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 5292.0241000000005,
-    "whale_pct": 1.5,
+    "whale_usd": 16644.3154,
+    "whale_pct": 4.719,
     "whale_value_at_open": 352728.7818,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -79115,8 +79115,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788110389.8779714,
-    "fills": 2
+    "last_fill_at": 1788111575.7429,
+    "fills": 3
   },
   {
     "timestamp": 1788110645,
@@ -79177,8 +79177,8 @@
     "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "GIANTX",
     "side": "BUY",
-    "whale_usd": 22048.107799999998,
-    "whale_pct": 22.655,
+    "whale_usd": 24474.027799999996,
+    "whale_pct": 25.147,
     "whale_value_at_open": 97322.2531,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -79189,8 +79189,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111409.2249546,
-    "fills": 5
+    "last_fill_at": 1788111668.451535,
+    "fills": 6
   },
   {
     "timestamp": 1788111289,
@@ -79227,8 +79227,8 @@
     "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 69728.99793200001,
-    "whale_pct": 22.469,
+    "whale_usd": 74829.07120300001,
+    "whale_pct": 24.113,
     "whale_value_at_open": 310332.8821,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -79241,8 +79241,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111532.5597584,
-    "fills": 20
+    "last_fill_at": 1788111668.1644418,
+    "fills": 24
   },
   {
     "timestamp": 1788111338,
