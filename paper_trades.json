@@ -72943,8 +72943,8 @@
     "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
     "outcome": "Arthur Rinderknech",
     "side": "BUY",
-    "whale_usd": 2794.02,
-    "whale_pct": 1.402,
+    "whale_usd": 19803.8925,
+    "whale_pct": 9.94,
     "whale_value_at_open": 199230.0557,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -72955,8 +72955,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788044932.4180143,
-    "fills": 1
+    "last_fill_at": 1788089609.9440336,
+    "fills": 2
   },
   {
     "timestamp": 1788044945,
@@ -77583,8 +77583,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 595.3295,
-    "whale_pct": 5.205,
+    "whale_usd": 1774.1280000000002,
+    "whale_pct": 15.51,
     "whale_value_at_open": 11438.282,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -77595,8 +77595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788089487.0025454,
-    "fills": 1
+    "last_fill_at": 1788089535.9443157,
+    "fills": 3
   },
   {
     "timestamp": 1788089525,
@@ -77620,6 +77620,34 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788089526.2629821,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788089616,
+    "timestamp_added": 1788089616.9543927,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-g2-navi-2026-08-30",
+    "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 830.01534,
+    "whale_pct": 10.735,
+    "whale_value_at_open": 7731.7035,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7",
+      "ArturitoFilito",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788089616.9544046,
     "fills": 1
   }
 ]
