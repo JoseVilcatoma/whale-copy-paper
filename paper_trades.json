@@ -72472,8 +72472,8 @@
     "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 11212.6165,
-    "whale_pct": 83.738,
+    "whale_usd": 12867.6805,
+    "whale_pct": 96.099,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72484,8 +72484,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788071858.6944528,
-    "fills": 7
+    "last_fill_at": 1788077755.5780783,
+    "fills": 8
   },
   {
     "timestamp": 1788038865,
@@ -75829,8 +75829,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming - Map 2 Winner",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 4082.1760000000004,
-    "whale_pct": 3.231,
+    "whale_usd": 6956.6212000000005,
+    "whale_pct": 5.506,
     "whale_value_at_open": 126346.6147,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -75841,8 +75841,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788071401.4817111,
-    "fills": 1
+    "last_fill_at": 1788077747.5249908,
+    "fills": 2
   },
   {
     "timestamp": 1788073256,
@@ -76159,5 +76159,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788077348.277038,
     "fills": 2
+  },
+  {
+    "timestamp": 1788077741,
+    "timestamp_added": 1788077742.3422518,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-chama-pld-2026-08-30",
+    "title": "Counter-Strike: BORRACHEIROS vs Peladona (BO3) - CCT South America Series 5 Group Stage",
+    "outcome": "Peladona",
+    "side": "BUY",
+    "whale_usd": 1430.261,
+    "whale_pct": 0.99,
+    "whale_value_at_open": 144517.3636,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788077742.3422594,
+    "fills": 1
   }
 ]
