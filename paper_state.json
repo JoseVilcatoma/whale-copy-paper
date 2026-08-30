@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.1555543502801,
+  "bankroll": 413.6150543502801,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15365,6 +15365,26 @@
       "timestamp": 1788092317.4934783,
       "bankroll": 426.16,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1788092614.2227335,
+      "bankroll": 421.1,
+      "event": "lost: ferrariChampions2026 \u2014 Will Quer\u00e9taro FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788092622.78708,
+      "bankroll": 416.0,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: JD Gaming vs Team WE - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788092623.2812326,
+      "bankroll": 410.89,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: JD Gaming vs Team WE - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788092625.8991332,
+      "bankroll": 413.62,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Nemesis vs Execration - Game 2 Winner"
     }
   ]
 }

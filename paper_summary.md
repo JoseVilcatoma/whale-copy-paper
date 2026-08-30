@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:23:00 (hora de Perú)
+Actualizado: 2026-08-30 07:25:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $426.16
-**Retorno acumulado:** -14.77%
+**Bankroll actual:** $413.62
+**Retorno acumulado:** -17.28%
 **Peor caída desde un máximo (drawdown):** 33.10%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 07:23:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $400.47 en 81 posiciones abiertas (disponible para nuevas apuestas: $25.69)
+**Capital comprometido ahora mismo:** $405.47 en 82 posiciones abiertas (disponible para nuevas apuestas: $8.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,15 +21,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 97 | 40 | 3 | +89.27 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 98 | 41 | 1 | +86.88 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 2 | 15 | +44.07 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| TAIWANNUMBERONE | 25 | 13 | 4 | +27.00 USD |
 | SDTrading | 36 | 27 | 0 | +24.32 USD |
+| TAIWANNUMBERONE | 25 | 14 | 3 | +21.90 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -91,23 +91,23 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
-| RN1 | 433 | 204 | 21 | -24.01 USD |
+| RN1 | 433 | 204 | 26 | -24.01 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 363 | 218 | 25 | -95.08 USD |
+| ferrariChampions2026 | 363 | 219 | 24 | -100.13 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2938
-- **Aciertos:** 1876 (63.9%)
+- **Apuestas resueltas:** 2942
+- **Aciertos:** 1877 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,677.59
-- **ROI sobre lo apostado:** -1.17%
-- **Comisiones pagadas (taker fee):** $268.62 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,697.59
+- **ROI sobre lo apostado:** -1.25%
+- **Comisiones pagadas (taker fee):** $268.98 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,8 +115,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1476 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 869 | 70.2% | 67.9% | +2.3 pp |
+| 40-59% | 1477 | 49.8% | 50.1% | -0.4 pp |
+| 60-79% | 872 | 70.1% | 67.9% | +2.2 pp |
 | 80-94% | 409 | 86.6% | 86.6% | -0.1 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
@@ -616,7 +616,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | AIK vs. Hammarby IF: O/U 4.5 | Under (BUY) | 51% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 1 | Under (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | FC St. Pauli 1910 vs. 1. FC Kaiserslaute | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will 1. FC Kaiserslautern win on 2026-08 | Yes (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Aberdeen FC vs. Rangers FC: O/U 2.5 | Under (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Como: Olle Wallin vs Niccolo Catini | Olle Wallin (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | AIK vs. Hammarby IF: O/U 4.5 | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will Club Brugge win on 2026-08-30? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 52% | 4.59 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Paris FC vs. OGC Nice: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
@@ -641,8 +646,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | Team WE (BUY) | 85% | 5.00 | 0.5% | 💰 vendida anticipada | -0.44 |
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | Rosenborg BK (BUY) | 50% | 5.00 | 14.1% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Oleksandr Ovcharenko vs Edoar | Oleksandr Ovcharenko (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 44% | 4.31 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
-| RN1 | KBO: NC Dinos vs. Hanwha Eagles | Hanwha Eagles (BUY) | 66% | 5.00 | 4.5% | ⏳ pendiente | — |
-| RN1 | KBO: NC Dinos vs. Hanwha Eagles | NC Dinos (BUY) | 76% | 5.00 | 2.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 45% | 5.00 | 1.7% | ✅ ganada | +5.97 |
