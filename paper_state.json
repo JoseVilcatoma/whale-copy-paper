@@ -1,5 +1,5 @@
 {
-  "bankroll": 390.3869029137829,
+  "bankroll": 383.97413955090343,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15545,6 +15545,31 @@
       "timestamp": 1788103674.8723528,
       "bankroll": 390.39,
       "event": "lost: RN1 \u2014 1. FC Magdeburg vs. Holstein Kiel: O/U 1.5"
+    },
+    {
+      "timestamp": 1788103936.2433958,
+      "bankroll": 385.24,
+      "event": "lost: RN1 \u2014 1. FC Magdeburg vs. Holstein Kiel: O/U 3.5"
+    },
+    {
+      "timestamp": 1788103936.5034232,
+      "bankroll": 380.43,
+      "event": "lost: RN1 \u2014 1. FC Magdeburg vs. Holstein Kiel: O/U 2.5"
+    },
+    {
+      "timestamp": 1788103937.2643087,
+      "bankroll": 377.51,
+      "event": "lost: RN1 \u2014 Will Club Brugge win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788103937.552193,
+      "bankroll": 379.29,
+      "event": "won: RN1 \u2014 Will KAA Gent vs. Club Brugge end in a draw?"
+    },
+    {
+      "timestamp": 1788103937.7525892,
+      "bankroll": 383.97,
+      "event": "won: RN1 \u2014 Will Club Brugge win on 2026-08-30?"
     }
   ]
 }
