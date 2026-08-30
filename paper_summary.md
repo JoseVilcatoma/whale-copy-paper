@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 23:39:10 (hora de Perú)
+Actualizado: 2026-08-29 23:41:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $464.66
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 23:39:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $154.66)
+**Capital comprometido ahora mismo:** $325.00 en 65 posiciones abiertas (disponible para nuevas apuestas: $139.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 401 | 207 | 26 | +26.47 USD |
+| HomeRunHazard | 401 | 207 | 29 | +26.47 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -603,6 +603,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.5% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 4.0% | ⏳ pendiente | — |
+| HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 8.5 | Over (BUY) | 86% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Los Angeles Angels (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-2.5) | UNLV Runnin' (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Karmine Corp vs Team Liquid (B | Karmine Corp (BUY) | 52% | 5.00 | 10.2% | ⏳ pendiente | — |
@@ -630,6 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 51% | 5.00 | 1.3% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 78% | 5.00 | 3.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Philadelphia Phillies (-3.5) | Los Angeles Angels (BUY) | 66% | 5.00 | 3.6% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
