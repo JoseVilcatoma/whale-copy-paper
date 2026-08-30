@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 03:08:46 (hora de Perú)
+Actualizado: 2026-08-30 03:10:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 03:08:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $177.36)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $172.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 424 | 201 | 1 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 354 | 216 | 16 | -93.77 USD |
+| ferrariChampions2026 | 354 | 216 | 17 | -93.77 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -597,6 +597,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-parry-mertens-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-bos-nyy-2026-08-29-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-tor-phx-2026-08-29-total-173pt5 | RN1, Sassy-Bucket |
+| lol-dk-kt-2026-08-30 | TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-phi-laa-2026-08-29-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | atp-jasika-wang-2026-08-30 | RN1, ferrariChampions2026 |
 
@@ -604,6 +605,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 76% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Augsburg vs. FC Schalke 04: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: SPARTA (-1.5) vs Black Pho | Black Phoenix (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -623,7 +625,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Will Chelsea FC win on 2026-08-30? | Yes (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Daniel Merida Aguilar vs Ma | Daniel Merida Aguilar (BUY) | 83% | 5.00 | 4.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 3.6% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 41.5% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs Legacy (+1.5 | Vitality (BUY) | 45% | 5.00 | 15.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 70% | 5.00 | 4.9% | ⏳ pendiente | — |
@@ -633,4 +635,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 5.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 46.1% | ⏳ pendiente | — |
-| HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 2.9% | ✅ ganada | +5.97 |
