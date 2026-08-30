@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 23:18:18 (hora de Perú)
+Actualizado: 2026-08-29 23:20:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.89
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 23:18:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $189.89)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $184.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| quavoo | 3 | 4 | 1 | -11.23 USD |
+| quavoo | 3 | 4 | 2 | -11.23 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -603,6 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 72% | 5.00 | 3.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 71% | 5.00 | 3.0% | ⏳ pendiente | — |
 | nigiri99 | Will Real Madrid CF win on 2026-08-30? | Yes (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -632,4 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 44% | 5.00 | 1.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury | Phoenix Mercury (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: OG vs Eternal Fire (BO3) | Eternal Fire (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |

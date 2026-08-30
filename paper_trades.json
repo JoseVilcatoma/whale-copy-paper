@@ -75099,5 +75099,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788063414.938325,
     "fills": 1
+  },
+  {
+    "timestamp": 1788063594,
+    "timestamp_added": 1788063595.0902607,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lal-rea-mala-2026-08-30-total-1pt5",
+    "title": "Real Madrid CF vs. M\u00e1laga CF: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 745.2900000000001,
+    "whale_pct": 0.143,
+    "whale_value_at_open": 522563.4319,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788063595.090271,
+    "fills": 1
   }
 ]
