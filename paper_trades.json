@@ -77827,8 +77827,8 @@
     "title": "Will FC St. Pauli 1910 win on 2026-08-30?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 543.1092000000001,
-    "whale_pct": 0.262,
+    "whale_usd": 1915.8592,
+    "whale_pct": 0.924,
     "whale_value_at_open": 207393.4833,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -77839,8 +77839,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788090986.962666,
-    "fills": 1
+    "last_fill_at": 1788093705.0789135,
+    "fills": 2
   },
   {
     "timestamp": 1788091117,
@@ -78043,8 +78043,8 @@
     "title": "Will 1. FC Kaiserslautern win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 799.6800000000001,
-    "whale_pct": 0.336,
+    "whale_usd": 2085.44,
+    "whale_pct": 0.876,
     "whale_value_at_open": 238076.7804,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -78055,8 +78055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788092653.5712163,
-    "fills": 1
+    "last_fill_at": 1788093692.5899715,
+    "fills": 2
   },
   {
     "timestamp": 1788092666,
@@ -78181,6 +78181,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788093579.2708266,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788093593,
+    "timestamp_added": 1788093593.564148,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "epl-che-bri-2026-08-30-che",
+    "title": "Will Chelsea FC win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 20528.707199999997,
+    "whale_pct": 157.074,
+    "whale_value_at_open": 13069.4365,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "nigiri99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788093680.7643101,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788093617,
+    "timestamp_added": 1788093618.3586495,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "swe-aik-hif-2026-08-30-spread-away-1pt5",
+    "title": "Spread: Hammarby IF (-1.5)",
+    "outcome": "AIK",
+    "side": "BUY",
+    "whale_usd": 820.5282050000001,
+    "whale_pct": 0.33,
+    "whale_value_at_open": 248715.0797,
+    "paper_stake_usd": 4.09,
+    "odds_at_bet": 62,
+    "fee_usd": 0.078,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788093618.3586593,
     "fills": 1
   }
 ]
