@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:03:26 (hora de Perú)
+Actualizado: 2026-08-30 09:05:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $398.41
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:03:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $389.31 en 79 posiciones abiertas (disponible para nuevas apuestas: $9.10)
+**Capital comprometido ahora mismo:** $398.41 en 81 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| vito3corleone | 1 | 1 | 0 | -2.25 USD |
+| vito3corleone | 1 | 1 | 1 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
@@ -96,7 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 364 | 220 | 22 | -100.30 USD |
+| ferrariChampions2026 | 364 | 220 | 23 | -100.30 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
@@ -619,6 +619,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |
+| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes (BUY) | 71% | 5.00 | 5.2% | ⏳ pendiente | — |
 | RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ⏳ pendiente | — |
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -647,5 +649,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 3 | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 41.9% | ✅ ganada | +1.05 |
-| RN1 | Aberdeen FC vs. Rangers FC: O/U 0.5 | Over (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere - Ma | G2 (BUY) | 62% | 5.00 | 112.2% | ✅ ganada | +2.97 |
