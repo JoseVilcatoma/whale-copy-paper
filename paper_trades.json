@@ -72520,8 +72520,8 @@
     "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 26906.6276,
-    "whale_pct": 44.551,
+    "whale_usd": 27436.164,
+    "whale_pct": 45.428,
     "whale_value_at_open": 60395.2606,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -72532,8 +72532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788080777.8646858,
-    "fills": 8
+    "last_fill_at": 1788080868.0112207,
+    "fills": 9
   },
   {
     "timestamp": 1788042485,
@@ -76245,8 +76245,8 @@
     "title": "Como: Svyatoslav Gulin vs Rudolf Molleker",
     "outcome": "Svyatoslav Gulin",
     "side": "BUY",
-    "whale_usd": 2620.89,
-    "whale_pct": 2.601,
+    "whale_usd": 4882.049999999999,
+    "whale_pct": 4.845,
     "whale_value_at_open": 100754.9717,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -76257,8 +76257,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788079518.634368,
-    "fills": 1
+    "last_fill_at": 1788080911.0125022,
+    "fills": 2
   },
   {
     "timestamp": 1788079685,
