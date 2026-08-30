@@ -1,5 +1,5 @@
 {
-  "bankroll": 422.36165557737274,
+  "bankroll": 422.97415557737276,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15150,6 +15150,11 @@
       "timestamp": 1788075511.9192486,
       "bankroll": 422.36,
       "event": "won: RN1 \u2014 Zhangjiagang: Joshua Charlton vs Takuya Kumasaka"
+    },
+    {
+      "timestamp": 1788078826.1163085,
+      "bankroll": 422.97,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 1 Winner (+0.61 USD)"
     }
   ]
 }
