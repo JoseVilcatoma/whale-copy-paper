@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:20:15 (hora de Perú)
+Actualizado: 2026-08-30 06:22:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $427.86
@@ -644,4 +644,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: FC Midtjylland (-1.5) | FC Midtjylland (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Utrecht vs. PSV: O/U 3.5 | Under (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Kursumlijska Banj | Branko Djuric (BUY) | 70% | 5.00 | 1.4% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M15 Kursumlijska Banj | Branko Djuric (BUY) | 70% | 5.00 | 2.4% | ⏳ pendiente | — |

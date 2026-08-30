@@ -76811,8 +76811,8 @@
     "title": "ITF MEN - SINGLES: M15 Kursumlijska Banja 13 (Serbia), clay: Branko Djuric vs Dmitry Popko",
     "outcome": "Branko Djuric",
     "side": "BUY",
-    "whale_usd": 1875.090225,
-    "whale_pct": 1.433,
+    "whale_usd": 3102.890225,
+    "whale_pct": 2.371,
     "whale_value_at_open": 130870.229,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -76823,8 +76823,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788088023.8490055,
-    "fills": 2
+    "last_fill_at": 1788088945.2839851,
+    "fills": 3
   },
   {
     "timestamp": 1788083150,
