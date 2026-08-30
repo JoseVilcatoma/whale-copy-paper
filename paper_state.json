@@ -1,5 +1,5 @@
 {
-  "bankroll": 371.82686723282393,
+  "bankroll": 366.70186723282393,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15595,6 +15595,11 @@
       "timestamp": 1788107090.6320415,
       "bankroll": 371.83,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: OG vs Eternal Fire (BO3) - Logitech G Play Connect Closed Qualifier Group C"
+    },
+    {
+      "timestamp": 1788107413.1011224,
+      "bankroll": 366.7,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: FK Bod\u00f8/Glimt (-1.5)"
     }
   ]
 }
