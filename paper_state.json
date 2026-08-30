@@ -1,5 +1,5 @@
 {
-  "bankroll": 423.02155271310835,
+  "bankroll": 425.877093543095,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15290,6 +15290,16 @@
       "timestamp": 1788089383.03332,
       "bankroll": 423.02,
       "event": "lost: RN1 \u2014 Plovdiv 3: Amit Vales vs Vardan Manukyan"
+    },
+    {
+      "timestamp": 1788090015.3547924,
+      "bankroll": 424.0,
+      "event": "won: RN1 \u2014 Como: Norbert Gombos vs Andrea de Marchi"
+    },
+    {
+      "timestamp": 1788090018.0519576,
+      "bankroll": 425.88,
+      "event": "won: RN1 \u2014 Como: Lorenzo Rottoli vs Giuseppe La Vela"
     }
   ]
 }
