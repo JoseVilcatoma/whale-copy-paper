@@ -1,5 +1,5 @@
 {
-  "bankroll": 350.9544960164417,
+  "bankroll": 340.7044960164417,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15740,6 +15740,16 @@
       "timestamp": 1788113899.2408953,
       "bankroll": 350.95,
       "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Talia Gibson vs Donna Vekic"
+    },
+    {
+      "timestamp": 1788114822.589606,
+      "bankroll": 345.83,
+      "event": "lost: casualbet2020 \u2014 Valorant: Karmine Corp vs Team Liquid - Map 3 Winner"
+    },
+    {
+      "timestamp": 1788114830.6661086,
+      "bankroll": 340.7,
+      "event": "lost: RN1 \u2014 FC St. Gallen 1879 vs. FC Thun: O/U 3.5"
     }
   ]
 }

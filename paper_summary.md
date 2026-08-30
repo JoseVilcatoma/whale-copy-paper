@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 13:33:00 (hora de Perú)
+Actualizado: 2026-08-30 13:35:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $350.95
-**Retorno acumulado:** -29.81%
-**Peor caída desde un máximo (drawdown):** 42.11%
+**Bankroll actual:** $340.70
+**Retorno acumulado:** -31.86%
+**Peor caída desde un máximo (drawdown):** 43.80%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 13:33:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.36 en 61 posiciones abiertas (disponible para nuevas apuestas: $50.59)
+**Capital comprometido ahora mismo:** $295.36 en 60 posiciones abiertas (disponible para nuevas apuestas: $45.34)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,9 +25,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 11 | +48.27 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| casualbet2020 | 26 | 12 | 1 | +25.90 USD |
 | SDTrading | 36 | 27 | 4 | +24.32 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| texaskid | 8 | 8 | 0 | -6.84 USD |
+| texaskid | 8 | 8 | 1 | -6.84 USD |
 | vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -95,21 +95,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 447 | 214 | 6 | -37.22 USD |
+| RN1 | 447 | 215 | 5 | -42.35 USD |
 | Sassy-Bucket | 19 | 36 | 2 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 368 | 229 | 11 | -139.36 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3009
+- **Apuestas resueltas:** 3011
 - **Aciertos:** 1914 (63.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,024.88
-- **ROI sobre lo apostado:** -1.68%
-- **Comisiones pagadas (taker fee):** $274.77 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,034.88
+- **ROI sobre lo apostado:** -1.75%
+- **Comisiones pagadas (taker fee):** $275.02 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1507 | 49.4% | 50.1% | -0.7 pp |
+| 40-59% | 1509 | 49.3% | 50.1% | -0.8 pp |
 | 60-79% | 894 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 420 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
@@ -630,6 +630,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| texaskid | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Hugo Gas | Daniil Medvedev (BUY) | 89% | 5.00 | 13.5% | ⏳ pendiente | — |
@@ -659,4 +660,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 37.4% | ✅ ganada | +0.65 |
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ✅ ganada | +3.60 |
 | SDTrading | San Diego Padres vs. Tampa Bay Rays | San Diego Padres (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
-| SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
