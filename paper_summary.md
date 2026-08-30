@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 16:40:25 (hora de Perú)
+Actualizado: 2026-08-30 16:42:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $317.38
-**Retorno acumulado:** -36.52%
+**Bankroll actual:** $319.29
+**Retorno acumulado:** -36.14%
 **Peor caída desde un máximo (drawdown):** 48.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 16:40:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $163.69 en 33 posiciones abiertas (disponible para nuevas apuestas: $153.69)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $179.29)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,10 +36,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 20 | 8 | 0 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
+| quavoo | 20 | 9 | 6 | +8.44 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
-| quavoo | 18 | 8 | 9 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -98,18 +98,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 449 | 217 | 1 | -44.99 USD |
 | Sassy-Bucket | 21 | 36 | 1 | -83.04 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 370 | 232 | 6 | -147.21 USD |
+| ferrariChampions2026 | 371 | 233 | 4 | -147.28 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3052
-- **Aciertos:** 1937 (63.5%)
+- **Apuestas resueltas:** 3057
+- **Aciertos:** 1940 (63.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,236.55
-- **ROI sobre lo apostado:** -1.85%
-- **Comisiones pagadas (taker fee):** $279.12 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,260.24
+- **ROI sobre lo apostado:** -1.83%
+- **Comisiones pagadas (taker fee):** $279.64 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.00% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1533 | 49.1% | 50.1% | -1.0 pp |
-| 60-79% | 907 | 70.0% | 67.9% | +2.1 pp |
+| 40-59% | 1537 | 49.1% | 50.1% | -1.0 pp |
+| 60-79% | 908 | 70.0% | 67.9% | +2.2 pp |
 | 80-94% | 424 | 86.8% | 86.6% | +0.2 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
@@ -646,14 +646,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
 | beachboy4 | US Open WTA: Lucrezia Stefanini vs Dayan | Lucrezia Stefanini (BUY) | 81% | 5.00 | 13.1% | ✅ ganada | +1.13 |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 62% | 5.00 | 14.1% | ⏳ pendiente | — |
-| nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 55% | 5.00 | 0.2% | ✅ ganada | +3.98 |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Over (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | texaskid | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Hugo Gas | Daniil Medvedev (BUY) | 89% | 5.00 | 13.5% | ✅ ganada | +0.59 |
-| nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
+| nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ✅ ganada | +3.10 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 27.6% | ❌ perdida | -5.12 |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 6.3% | ✅ ganada | +5.51 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 28.3% | 💰 vendida anticipada | +1.85 |

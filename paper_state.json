@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.3839261671924,
+  "bankroll": 319.2894796464999,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15965,6 +15965,31 @@
       "timestamp": 1788125499.1508315,
       "bankroll": 317.38,
       "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. New York Yankees"
+    },
+    {
+      "timestamp": 1788126130.8847256,
+      "bankroll": 312.28,
+      "event": "lost: nigiri99 \u2014 Minnesota Lynx vs. Atlanta Dream"
+    },
+    {
+      "timestamp": 1788126133.5170848,
+      "bankroll": 316.41,
+      "event": "won: ferrariChampions2026 \u2014 Minnesota Lynx vs. Atlanta Dream: O/U 176.5"
+    },
+    {
+      "timestamp": 1788126133.871981,
+      "bankroll": 312.21,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Los Angeles Dodgers (-1.5)"
+    },
+    {
+      "timestamp": 1788126135.7123902,
+      "bankroll": 315.31,
+      "event": "won: nigiri99 \u2014 Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5"
+    },
+    {
+      "timestamp": 1788126137.4443343,
+      "bankroll": 319.29,
+      "event": "won: nigiri99 \u2014 Minnesota Lynx vs. Atlanta Dream: O/U 178.5"
     }
   ]
 }
