@@ -78482,8 +78482,8 @@
     "title": "LoL: Movistar KOI vs Team Heretics - Game 1 Winner",
     "outcome": "Movistar KOI",
     "side": "BUY",
-    "whale_usd": 15689.314979999997,
-    "whale_pct": 86.324,
+    "whale_usd": 16190.173619999998,
+    "whale_pct": 89.08,
     "whale_value_at_open": 18174.8655,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -78494,8 +78494,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788101292.295452,
-    "fills": 5
+    "last_fill_at": 1788101574.0528886,
+    "fills": 6
   },
   {
     "timestamp": 1788100762,
@@ -78646,6 +78646,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788101443.4585931,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788101553,
+    "timestamp_added": 1788101554.268346,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "atp-wu-walton-2026-08-30",
+    "title": "US Open ATP: Yibing Wu vs Adam Walton",
+    "outcome": "Yibing Wu",
+    "side": "BUY",
+    "whale_usd": 9555.46,
+    "whale_pct": 68.395,
+    "whale_value_at_open": 13971.035,
+    "paper_stake_usd": 2.89,
+    "odds_at_bet": 44,
+    "fee_usd": 0.081,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788101554.2683535,
     "fills": 1
   }
 ]
