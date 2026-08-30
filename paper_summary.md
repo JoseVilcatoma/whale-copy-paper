@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:42:36 (hora de Perú)
+Actualizado: 2026-08-30 04:44:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 04:42:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $91.24)
+**Capital comprometido ahora mismo:** $345.00 en 69 posiciones abiertas (disponible para nuevas apuestas: $81.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 425 | 201 | 6 | -27.32 USD |
+| RN1 | 425 | 201 | 8 | -27.32 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 359 | 216 | 21 | -90.85 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
@@ -612,6 +612,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Como: Norbert Gombos vs Andrea de Marchi | Norbert Gombos (BUY) | 83% | 5.00 | 9.7% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Henry Bernet (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -640,5 +642,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | FC Augsburg vs. FC Schalke 04: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: SPARTA (-1.5) vs Black Pho | Black Phoenix (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 22.2% | ✅ ganada | +0.36 |
-| ferrariChampions2026 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 11.0% | ✅ ganada | +0.36 |
-| ferrariChampions2026 | Zhangjiagang: Hiroki Moriya vs Grigoriy  | Hiroki Moriya (BUY) | 98% | 5.00 | 7.8% | ✅ ganada | +0.10 |
