@@ -78853,8 +78853,8 @@
     "title": "Colorado Rockies vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 3119.1600000000003,
-    "whale_pct": 0.575,
+    "whale_usd": 4094.2800000000007,
+    "whale_pct": 0.754,
     "whale_value_at_open": 542702.1186,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -78865,8 +78865,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788104225.6906633,
-    "fills": 1
+    "last_fill_at": 1788106079.6418207,
+    "fills": 2
   },
   {
     "timestamp": 1788104319,
