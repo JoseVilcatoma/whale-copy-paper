@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:22:11 (hora de Perú)
+Actualizado: 2026-08-30 09:24:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $401.57
@@ -621,7 +621,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
-| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ⏳ pendiente | — |
 | nigiri99 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |

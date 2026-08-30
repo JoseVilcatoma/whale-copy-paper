@@ -78410,8 +78410,8 @@
     "title": "Real Madrid CF vs. M\u00e1laga CF: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 884.8000000000001,
-    "whale_pct": 0.193,
+    "whale_usd": 3250.4,
+    "whale_pct": 0.709,
     "whale_value_at_open": 458678.9107,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -78422,8 +78422,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788099250.4679673,
-    "fills": 1
+    "last_fill_at": 1788099740.1792996,
+    "fills": 3
   },
   {
     "timestamp": 1788099254,
