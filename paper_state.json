@@ -1,5 +1,5 @@
 {
-  "bankroll": 415.38713734601725,
+  "bankroll": 410.27213734601725,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15505,6 +15505,11 @@
       "timestamp": 1788102062.6041298,
       "bankroll": 415.39,
       "event": "won: RN1 \u2014 Will Ningbo Professional FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788102798.9423132,
+      "bankroll": 410.27,
+      "event": "lost: ferrariChampions2026 \u2014 Paris FC vs. OGC Nice: O/U 2.5"
     }
   ]
 }
