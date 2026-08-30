@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 14:59:44 (hora de Perú)
+Actualizado: 2026-08-30 15:01:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $330.28
@@ -639,14 +639,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Over (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | texaskid | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 4.9% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Hugo Gas | Daniil Medvedev (BUY) | 89% | 5.00 | 13.5% | ⏳ pendiente | — |
 | nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 27.6% | ❌ perdida | -5.12 |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 28.3% | 💰 vendida anticipada | +1.85 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 8.0% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 10.3% | ⏳ pendiente | — |
 | nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 7.0% | ❌ perdida | -5.08 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Valorant: LOUD vs MIBR (BO3) - VCT Ameri | MIBR (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -79153,8 +79153,8 @@
     "title": "Map Handicap: IMP (-1.5) vs Galorys (+1.5)",
     "outcome": "Imperial",
     "side": "BUY",
-    "whale_usd": 9761.002700000001,
-    "whale_pct": 8.028,
+    "whale_usd": 12517.3742,
+    "whale_pct": 10.295,
     "whale_value_at_open": 121588.5427,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -79165,8 +79165,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788119084.30803,
-    "fills": 4
+    "last_fill_at": 1788119990.89943,
+    "fills": 5
   },
   {
     "timestamp": 1788111242,
@@ -79331,8 +79331,8 @@
     "title": "Counter-Strike: Galorys vs Imperial (BO3) - ESL Challenger League South America Cup #1 Playoffs",
     "outcome": "Imperial",
     "side": "BUY",
-    "whale_usd": 5607.263199999999,
-    "whale_pct": 4.913,
+    "whale_usd": 7237.7844,
+    "whale_pct": 6.341,
     "whale_value_at_open": 114141.3809,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -79343,8 +79343,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788119084.7959473,
-    "fills": 3
+    "last_fill_at": 1788119993.5016813,
+    "fills": 4
   },
   {
     "timestamp": 1788114810,
