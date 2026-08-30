@@ -74196,8 +74196,8 @@
     "title": "Toronto Tempo vs. Phoenix Mercury: O/U 173.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 20710.55,
-    "whale_pct": 13.023,
+    "whale_usd": 21493.499499999998,
+    "whale_pct": 13.516,
     "whale_value_at_open": 159026.0224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -74208,8 +74208,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788054260.5077174,
-    "fills": 5
+    "last_fill_at": 1788054443.1723316,
+    "fills": 6
   },
   {
     "timestamp": 1788053801,
