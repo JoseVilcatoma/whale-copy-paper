@@ -75157,8 +75157,8 @@
     "title": "Connecticut Sun vs. Dallas Wings",
     "outcome": "Dallas Wings",
     "side": "BUY",
-    "whale_usd": 569.057,
-    "whale_pct": 0.142,
+    "whale_usd": 1289.417,
+    "whale_pct": 0.323,
     "whale_value_at_open": 399395.5366,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -75169,8 +75169,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788064038.2816663,
-    "fills": 1
+    "last_fill_at": 1788109924.0944083,
+    "fills": 2
   },
   {
     "timestamp": 1788064152,
