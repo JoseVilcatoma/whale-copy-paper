@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 13:53:42 (hora de Perú)
+Actualizado: 2026-08-30 13:55:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $347.63
-**Retorno acumulado:** -30.47%
+**Bankroll actual:** $349.80
+**Retorno acumulado:** -30.04%
 **Peor caída desde un máximo (drawdown):** 43.80%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 13:53:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.87 en 58 posiciones abiertas (disponible para nuevas apuestas: $61.76)
+**Capital comprometido ahora mismo:** $280.87 en 57 posiciones abiertas (disponible para nuevas apuestas: $68.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | quavoo | 11 | 5 | 14 | +2.68 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 0 | 3 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -61,7 +62,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | beachboy4 | 3 | 1 | 1 | -0.96 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3014
-- **Aciertos:** 1917 (63.6%)
+- **Apuestas resueltas:** 3015
+- **Aciertos:** 1918 (63.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,049.37
-- **ROI sobre lo apostado:** -1.70%
-- **Comisiones pagadas (taker fee):** $275.24 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,054.37
+- **ROI sobre lo apostado:** -1.68%
+- **Comisiones pagadas (taker fee):** $275.32 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -118,7 +118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1510 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 895 | 69.9% | 67.9% | +2.1 pp |
+| 60-79% | 896 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 421 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
@@ -648,7 +648,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | RC Deportivo A Coruña vs. Valencia CF: 1 | Over (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 47% | 3.19 | 0.7% | ⏳ pendiente | — |
 | nigiri99 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 54% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 69% | 5.00 | 4.8% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 69% | 5.00 | 4.8% | ✅ ganada | +2.17 |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 45% | 5.00 | 1533.1% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ✅ ganada | +1.20 |
 | nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 347.62736495349014,
+  "bankroll": 349.79574176508436,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15765,6 +15765,11 @@
       "timestamp": 1788115455.1989236,
       "bankroll": 347.63,
       "event": "won: beachboy4 \u2014 US Open ATP: Sho Shimabukuro vs Arthur Rinderknech"
+    },
+    {
+      "timestamp": 1788116076.5135748,
+      "bankroll": 349.8,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: Vitality vs Legacy - Map 1 Winner"
     }
   ]
 }
