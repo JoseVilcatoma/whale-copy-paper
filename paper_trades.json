@@ -78559,8 +78559,8 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 86973.7567,
-    "whale_pct": 12.607,
+    "whale_usd": 118784.5567,
+    "whale_pct": 17.218,
     "whale_value_at_open": 689866.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -78571,8 +78571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788101051.5940797,
-    "fills": 4
+    "last_fill_at": 1788101240.7411275,
+    "fills": 5
   },
   {
     "timestamp": 1788100946,

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:45:43 (hora de Perú)
+Actualizado: 2026-08-30 09:47:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $414.46
@@ -623,7 +623,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 12.6% | ⏳ pendiente | — |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 17.2% | ⏳ pendiente | — |
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 82.4% | ⏳ pendiente | — |
