@@ -77248,5 +77248,29 @@
     "fills": 1,
     "fee_total_usd": 0.178,
     "closed_price": 77
+  },
+  {
+    "timestamp": 1788086150,
+    "timestamp_added": 1788086151.1465554,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-dk-kt-2026-08-30-game3",
+    "title": "LoL: Dplus KIA vs KT Rolster - Game 3 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 625.5083999999999,
+    "whale_pct": 0.23,
+    "whale_value_at_open": 272291.0204,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788086151.1465664,
+    "fills": 1
   }
 ]
