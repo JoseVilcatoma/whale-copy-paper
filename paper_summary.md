@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:03:38 (hora de Perú)
+Actualizado: 2026-08-30 06:05:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $427.39
@@ -622,7 +622,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | KBO: NC Dinos vs. Hanwha Eagles | NC Dinos (BUY) | 76% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | 💰 vendida anticipada | +1.35 |
-| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 9.1% | ⏳ pendiente | — |
+| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 9.5% | ⏳ pendiente | — |
 | RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
