@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 20:29:47 (hora de Perú)
+Actualizado: 2026-08-29 20:31:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.86
@@ -600,7 +600,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Under (BUY) | 53% | 5.00 | 3.5% | ⏳ pendiente | — |
