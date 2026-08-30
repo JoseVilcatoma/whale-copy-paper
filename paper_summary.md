@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 03:42:02 (hora de Perú)
+Actualizado: 2026-08-30 03:44:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.97
@@ -612,8 +612,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 76% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Augsburg vs. FC Schalke 04: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: SPARTA (-1.5) vs Black Pho | Black Phoenix (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 10.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 10.3% | ⏳ pendiente | — |
+| RN1 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 16.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 11.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Hiroki Moriya vs Grigoriy  | Hiroki Moriya (BUY) | 98% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
