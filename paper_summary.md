@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:17:33 (hora de Perú)
+Actualizado: 2026-08-30 04:19:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 04:17:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $105.32)
+**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $95.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,9 +91,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 424 | 201 | 5 | -27.68 USD |
+| RN1 | 424 | 201 | 6 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 357 | 216 | 19 | -91.41 USD |
+| ferrariChampions2026 | 357 | 216 | 20 | -91.41 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -610,14 +610,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Incheon United FC vs. Jeonbuk Hyundai Mo | Under (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 95% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 84% | 5.00 | 1.2% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 56% | 5.00 | 40.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 56% | 5.00 | 44.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: JDG (-1.5) vs Team WE (+1 | JD Gaming (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 78% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | KT Rolster (BUY) | 45% | 5.00 | 17.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Kamil Majchrzak vs Hamad Me | Hamad Medjedovic (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | Dplus KIA (BUY) | 56% | 5.00 | 3.6% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 61% | 5.00 | 11.2% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 61% | 5.00 | 13.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Jaime Faria vs Jenson Brook | Jenson Brooksby (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Rudolf Molleker (BUY) | 49% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 24.8% | ⏳ pendiente | — |
@@ -638,5 +640,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Hanne Vandewinkel vs Karoli | Karolina Pliskova (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Chelsea FC vs. Brighton & Hove Albion FC | Under (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Sheng Tang vs Filip Peliwo | Filip Peliwo (BUY) | 81% | 5.00 | 3.2% | ✅ ganada | +1.13 |
