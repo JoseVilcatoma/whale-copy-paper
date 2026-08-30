@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 19:10:58 (hora de Perú)
+Actualizado: 2026-08-29 19:13:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $505.92
-**Retorno acumulado:** +1.18%
+**Bankroll actual:** $500.80
+**Retorno acumulado:** +0.16%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 19:10:58 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $225.92)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $225.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,9 +24,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 86 | 38 | 3 | +63.24 USD |
 | TAIWANNUMBERONE | 22 | 8 | 5 | +46.86 USD |
-| HomeRunHazard | 389 | 198 | 13 | +36.24 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 15 | 2 | 6 | +34.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
+| HomeRunHazard | 389 | 199 | 12 | +31.12 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 35 | 25 | 3 | +30.41 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2792
+- **Apuestas resueltas:** 2793
 - **Aciertos:** 1791 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,947.59
-- **ROI sobre lo apostado:** -0.63%
-- **Comisiones pagadas (taker fee):** $255.17 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,952.59
+- **ROI sobre lo apostado:** -0.66%
+- **Comisiones pagadas (taker fee):** $255.30 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1399 | 50.3% | 50.1% | +0.1 pp |
+| 40-59% | 1400 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 829 | 70.4% | 67.8% | +2.7 pp |
 | 80-94% | 388 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
@@ -603,7 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 76% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Inter Miami CF vs. CF Montréal: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 84% | 5.00 | 6.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 2 Winner | LYON (BUY) | 62% | 5.00 | 36.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 2 Winner | LYON (BUY) | 62% | 5.00 | 43.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will D.C. United SC win on 2026-08-29? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | Sporting Kansas City (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF vs. CF Montréal end  | No (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 505.92427486273453,
+  "bankroll": 500.79927486273453,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14595,6 +14595,11 @@
       "timestamp": 1788046602.4360538,
       "bankroll": 505.92,
       "event": "won: ferrariChampions2026 \u2014 Colorado Rockies vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1788048766.861613,
+      "bankroll": 500.8,
+      "event": "lost: HomeRunHazard \u2014 San Jose State vs. USC: O/U 61.5"
     }
   ]
 }
