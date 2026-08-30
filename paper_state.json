@@ -1,5 +1,5 @@
 {
-  "bankroll": 319.7715380499085,
+  "bankroll": 320.5449755499085,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15940,6 +15940,11 @@
       "timestamp": 1788123814.3459625,
       "bankroll": 319.77,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: VIT (-1.5) vs Legacy (+1.5)"
+    },
+    {
+      "timestamp": 1788124113.1236603,
+      "bankroll": 320.54,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Team Liquid - Game 2 Winner (+0.77 USD)"
     }
   ]
 }
