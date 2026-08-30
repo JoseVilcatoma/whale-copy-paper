@@ -1,5 +1,5 @@
 {
-  "bankroll": 330.2844930225416,
+  "bankroll": 334.894628849768,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15855,6 +15855,21 @@
       "timestamp": 1788119795.86321,
       "bankroll": 330.28,
       "event": "lost: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: Vitality vs Legacy - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788120705.5674846,
+      "bankroll": 330.76,
+      "event": "won: nigiri99 \u2014 Will Real Madrid CF win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788120707.7963612,
+      "bankroll": 332.73,
+      "event": "won: nigiri99 \u2014 Will Manchester United FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788120711.4462469,
+      "bankroll": 334.89,
+      "event": "won: vito3corleone \u2014 Will Stade Rennais FC 1901 win on 2026-08-30?"
     }
   ]
 }

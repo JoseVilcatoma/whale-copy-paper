@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:09:53 (hora de Perú)
+Actualizado: 2026-08-30 15:12:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $330.28
-**Retorno acumulado:** -33.94%
+**Bankroll actual:** $334.89
+**Retorno acumulado:** -33.02%
 **Peor caída desde un máximo (drawdown):** 45.68%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 15:09:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $228.69 en 46 posiciones abiertas (disponible para nuevas apuestas: $101.59)
+**Capital comprometido ahora mismo:** $213.69 en 43 posiciones abiertas (disponible para nuevas apuestas: $121.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,10 +32,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| quavoo | 16 | 6 | 10 | +11.42 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
-| quavoo | 14 | 6 | 12 | +8.98 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -78,10 +78,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| vito3corleone | 2 | 2 | 0 | -5.15 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 2 | -6.84 USD |
-| vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 2 | 2 | -8.03 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3032
-- **Aciertos:** 1925 (63.5%)
+- **Apuestas resueltas:** 3035
+- **Aciertos:** 1928 (63.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,136.55
-- **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $277.15 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,151.55
+- **ROI sobre lo apostado:** -1.77%
+- **Comisiones pagadas (taker fee):** $277.32 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -118,8 +118,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1522 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 901 | 69.8% | 67.8% | +2.0 pp |
-| 80-94% | 421 | 86.7% | 86.6% | +0.1 pp |
+| 60-79% | 903 | 69.9% | 67.9% | +2.0 pp |
+| 80-94% | 422 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
