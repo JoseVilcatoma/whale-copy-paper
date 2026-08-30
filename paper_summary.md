@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 02:45:55 (hora de Perú)
+Actualizado: 2026-08-30 02:47:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.36
@@ -617,7 +617,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | nigiri99 | Will Chelsea FC win on 2026-08-30? | Yes (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Daniel Merida Aguilar vs Ma | Daniel Merida Aguilar (BUY) | 83% | 5.00 | 4.5% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 1.5% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 3.6% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs Legacy (+1.5 | Vitality (BUY) | 45% | 5.00 | 15.3% | ⏳ pendiente | — |
