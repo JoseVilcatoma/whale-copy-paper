@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:38:49 (hora de Perú)
+Actualizado: 2026-08-30 15:40:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $339.21
@@ -633,7 +633,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | nigiri99 | CD Godoy Cruz vs. CA San Telmo: O/U 2.5 | Over (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
-| nigiri99 | Will SE Palmeiras win on 2026-08-30? | Yes (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
+| nigiri99 | Will SE Palmeiras win on 2026-08-30? | Yes (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 1 Winner | Team Liquid (BUY) | 41% | 5.00 | 4.4% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid - Game 1 Winner | LYON (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
