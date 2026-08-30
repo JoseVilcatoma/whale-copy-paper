@@ -1,5 +1,5 @@
 {
-  "bankroll": 410.27213734601725,
+  "bankroll": 400.96851829839824,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15510,6 +15510,21 @@
       "timestamp": 1788102798.9423132,
       "bankroll": 410.27,
       "event": "lost: ferrariChampions2026 \u2014 Paris FC vs. OGC Nice: O/U 2.5"
+    },
+    {
+      "timestamp": 1788102924.9759884,
+      "bankroll": 405.2,
+      "event": "lost: vito3corleone \u2014 Will Brentford FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788102985.064562,
+      "bankroll": 406.11,
+      "event": "won: nigiri99 \u2014 Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1788102987.8654268,
+      "bankroll": 400.97,
+      "event": "lost: ferrariChampions2026 \u2014 Chelsea FC vs. Brighton & Hove Albion FC: O/U 2.5"
     }
   ]
 }

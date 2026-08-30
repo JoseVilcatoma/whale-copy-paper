@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:14:36 (hora de Perú)
+Actualizado: 2026-08-30 10:16:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $410.27
-**Retorno acumulado:** -17.95%
+**Bankroll actual:** $400.97
+**Retorno acumulado:** -19.81%
 **Peor caída desde un máximo (drawdown):** 34.69%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 10:14:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.15 en 84 posiciones abiertas (disponible para nuevas apuestas: $0.12)
+**Capital comprometido ahora mismo:** $395.15 en 81 posiciones abiertas (disponible para nuevas apuestas: $5.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| vito3corleone | 1 | 1 | 2 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
@@ -82,8 +81,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 0 | -6.84 USD |
+| vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| quavoo | 4 | 4 | 15 | -8.74 USD |
+| quavoo | 5 | 4 | 14 | -7.83 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -96,19 +96,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 365 | 222 | 21 | -107.33 USD |
+| ferrariChampions2026 | 365 | 223 | 20 | -112.47 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2967
-- **Aciertos:** 1893 (63.8%)
+- **Apuestas resueltas:** 2970
+- **Aciertos:** 1894 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,821.90
-- **ROI sobre lo apostado:** -1.26%
-- **Comisiones pagadas (taker fee):** $271.12 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.57% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,836.90
+- **ROI sobre lo apostado:** -1.32%
+- **Comisiones pagadas (taker fee):** $271.37 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,9 +116,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1487 | 49.8% | 50.1% | -0.4 pp |
-| 60-79% | 882 | 70.1% | 67.8% | +2.2 pp |
-| 80-94% | 412 | 86.4% | 86.6% | -0.2 pp |
+| 40-59% | 1488 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 883 | 70.0% | 67.9% | +2.1 pp |
+| 80-94% | 413 | 86.4% | 86.6% | -0.2 pp |
 | 95-99% (casi seguro) | 186 | 96.2% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -641,7 +641,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ⏳ pendiente | — |
 | nigiri99 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |
-| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes (BUY) | 71% | 5.00 | 5.2% | ⏳ pendiente | — |
+| vito3corleone | Will Brentford FC win on 2026-08-30? | Yes (BUY) | 71% | 5.00 | 5.2% | ❌ perdida | -5.07 |
 | RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ⏳ pendiente | — |
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ⏳ pendiente | — |
