@@ -73144,8 +73144,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Andres Andrade",
     "side": "BUY",
-    "whale_usd": 5760.8958,
-    "whale_pct": 2.812,
+    "whale_usd": 21159.8983,
+    "whale_pct": 10.327,
     "whale_value_at_open": 204893.3684,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -73156,8 +73156,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788051878.8215554,
-    "fills": 2
+    "last_fill_at": 1788051920.498898,
+    "fills": 6
   },
   {
     "timestamp": 1788045663,
