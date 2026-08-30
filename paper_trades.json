@@ -79177,8 +79177,8 @@
     "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "GIANTX",
     "side": "BUY",
-    "whale_usd": 24474.027799999996,
-    "whale_pct": 25.147,
+    "whale_usd": 26148.687799999996,
+    "whale_pct": 26.868,
     "whale_value_at_open": 97322.2531,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -79189,8 +79189,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111668.451535,
-    "fills": 6
+    "last_fill_at": 1788111679.3426862,
+    "fills": 8
   },
   {
     "timestamp": 1788111289,
@@ -79227,8 +79227,8 @@
     "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 74829.07120300001,
-    "whale_pct": 24.113,
+    "whale_usd": 79055.97120300001,
+    "whale_pct": 25.475,
     "whale_value_at_open": 310332.8821,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -79241,8 +79241,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111668.1644418,
-    "fills": 24
+    "last_fill_at": 1788111695.8344254,
+    "fills": 27
   },
   {
     "timestamp": 1788111338,
