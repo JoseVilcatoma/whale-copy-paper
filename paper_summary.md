@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:02:08 (hora de Perú)
+Actualizado: 2026-08-30 10:04:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $415.39
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 10:02:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $395.15 en 81 posiciones abiertas (disponible para nuevas apuestas: $20.24)
+**Capital comprometido ahora mismo:** $405.15 en 83 posiciones abiertas (disponible para nuevas apuestas: $10.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,14 +21,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 99 | 42 | 1 | +81.82 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 99 | 42 | 2 | +81.82 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 22 | 2 | 11 | +56.51 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 36 | 27 | 2 | +24.32 USD |
+| SDTrading | 36 | 27 | 3 | +24.32 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -622,11 +622,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Tampa Bay Rays | San Diego Padres (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 39.9% | ⏳ pendiente | — |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 81.0% | ⏳ pendiente | — |
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 89.1% | ⏳ pendiente | — |
@@ -650,5 +652,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will 1. FC Kaiserslautern win on 2026-08 | Yes (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 2.5 | Under (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
 | RN1 | Como: Olle Wallin vs Niccolo Catini | Olle Wallin (BUY) | 57% | 5.00 | 1.9% | ✅ ganada | +3.66 |
-| RN1 | AIK vs. Hammarby IF: O/U 4.5 | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
-| RN1 | Will Club Brugge win on 2026-08-30? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
