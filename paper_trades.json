@@ -75685,8 +75685,8 @@
     "title": "Game Handicap: DK (-1.5) vs KT Rolster (+1.5)",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 600.0,
-    "whale_pct": 0.791,
+    "whale_usd": 1171.4279999999999,
+    "whale_pct": 1.544,
     "whale_value_at_open": 75883.6727,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -75697,8 +75697,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788067265.9707403,
-    "fills": 1
+    "last_fill_at": 1788075422.5751753,
+    "fills": 2
   },
   {
     "timestamp": 1788068195,
