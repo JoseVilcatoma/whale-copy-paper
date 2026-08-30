@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.8575737768039,
+  "bankroll": 353.57957377680395,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15705,6 +15705,16 @@
       "timestamp": 1788111101.8429308,
       "bankroll": 363.86,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Jasmine Paolini vs Veronika Erjavec"
+    },
+    {
+      "timestamp": 1788112035.6239622,
+      "bankroll": 358.72,
+      "event": "lost: ferrariChampions2026 \u2014 FC Augsburg vs. FC Schalke 04: O/U 2.5"
+    },
+    {
+      "timestamp": 1788112043.1621406,
+      "bankroll": 353.58,
+      "event": "lost: ArturitoFilito \u2014 Manchester United FC vs. Ipswich Town FC: Both Teams to Score"
     }
   ]
 }
