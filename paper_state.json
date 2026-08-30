@@ -1,5 +1,5 @@
 {
-  "bankroll": 428.29555286516506,
+  "bankroll": 427.8558175710474,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15245,6 +15245,11 @@
       "timestamp": 1788088217.550737,
       "bankroll": 428.3,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: JD Gaming vs Team WE - Game 3 Winner (-1.52 USD)"
+    },
+    {
+      "timestamp": 1788088332.8851867,
+      "bankroll": 427.86,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs (-0.44 USD)"
     }
   ]
 }

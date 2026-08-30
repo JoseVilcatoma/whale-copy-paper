@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:12:02 (hora de Perú)
+Actualizado: 2026-08-30 06:14:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $428.30
-**Retorno acumulado:** -14.34%
+**Bankroll actual:** $427.86
+**Retorno acumulado:** -14.43%
 **Peor caída desde un máximo (drawdown):** 31.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 06:12:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $428.30 en 86 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $427.86 en 86 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 93 | 39 | 6 | +75.84 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 93 | 40 | 6 | +75.40 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 25 | 9 | 8 | +47.34 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 16 | +36.65 USD |
@@ -615,10 +615,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | JD Gaming (BUY) | 57% | 4.56 | 2.3% | ⏳ pendiente | — |
 | RN1 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 60% | 3.99 | 3.2% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 1.5 | Over (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | Team WE (BUY) | 67% | 5.00 | 0.8% | 💰 vendida anticipada | -1.52 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | Team WE (BUY) | 85% | 5.00 | 0.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | Team WE (BUY) | 85% | 5.00 | 0.5% | 💰 vendida anticipada | -0.44 |
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | Rosenborg BK (BUY) | 50% | 5.00 | 14.1% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Oleksandr Ovcharenko vs Edoar | Oleksandr Ovcharenko (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 44% | 4.31 | 1.5% | ⏳ pendiente | — |
@@ -644,4 +645,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | FC Utrecht vs. PSV: O/U 3.5 | Under (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Kursumlijska Banj | Branko Djuric (BUY) | 70% | 5.00 | 1.4% | ⏳ pendiente | — |
-| RN1 | Como: Norbert Gombos vs Andrea de Marchi | Norbert Gombos (BUY) | 83% | 5.00 | 9.7% | ⏳ pendiente | — |

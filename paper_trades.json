@@ -77438,15 +77438,17 @@
     "odds_at_bet": 85,
     "fee_usd": 0.038,
     "odds_ballena": 83,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.44,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788088031.9829278,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.087,
+    "closed_price": 79
   },
   {
     "timestamp": 1788088055,
@@ -77520,6 +77522,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1788088252.3397,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788088347,
+    "timestamp_added": 1788088348.3342798,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-jdg-we-2026-08-30-game3",
+    "title": "LoL: JD Gaming vs Team WE - Game 3 Winner",
+    "outcome": "JD Gaming",
+    "side": "BUY",
+    "whale_usd": 7179.1045,
+    "whale_pct": 2.32,
+    "whale_value_at_open": 309405.441,
+    "paper_stake_usd": 4.56,
+    "odds_at_bet": 57,
+    "fee_usd": 0.098,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788088348.3342874,
     "fills": 1
   }
 ]
