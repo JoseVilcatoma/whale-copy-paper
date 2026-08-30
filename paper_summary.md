@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:28:44 (hora de Perú)
+Actualizado: 2026-08-30 00:30:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.12
@@ -606,14 +606,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 3.6% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs Legacy (+1.5 | Vitality (BUY) | 45% | 5.00 | 6.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 70% | 5.00 | 2.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs Legacy (+1.5 | Vitality (BUY) | 45% | 5.00 | 12.0% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 70% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Atlanta Braves (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Under (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |
 | nigiri99 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 75% | 5.00 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 5.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 37.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 43.1% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.9% | ❌ perdida | -5.09 |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 6.3% | ✅ ganada | +1.52 |

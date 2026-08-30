@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 19926.712599999995,
-    "whale_pct": 148.817,
+    "whale_usd": 21803.512599999995,
+    "whale_pct": 162.833,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788051595.8646288,
-    "fills": 10
+    "last_fill_at": 1788067806.716215,
+    "fills": 11
   },
   {
     "timestamp": 1788038109,
@@ -72472,8 +72472,8 @@
     "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 5136.102800000001,
-    "whale_pct": 38.358,
+    "whale_usd": 7158.594000000001,
+    "whale_pct": 53.462,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72484,8 +72484,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788049797.9127457,
-    "fills": 4
+    "last_fill_at": 1788067805.8294048,
+    "fills": 5
   },
   {
     "timestamp": 1788038865,
@@ -75445,8 +75445,8 @@
     "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 22050.6829,
-    "whale_pct": 37.258,
+    "whale_usd": 25497.385,
+    "whale_pct": 43.082,
     "whale_value_at_open": 59184.0048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -75457,8 +75457,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788066894.6030388,
-    "fills": 3
+    "last_fill_at": 1788067793.5930173,
+    "fills": 4
   },
   {
     "timestamp": 1788065104,
@@ -75589,8 +75589,8 @@
     "title": "Counter-Strike: Vitality vs Legacy - Map 2 Winner",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 2331.7308,
-    "whale_pct": 2.813,
+    "whale_usd": 4051.0427999999997,
+    "whale_pct": 4.887,
     "whale_value_at_open": 82896.484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -75601,8 +75601,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788066900.9106076,
-    "fills": 1
+    "last_fill_at": 1788067799.5592697,
+    "fills": 2
   },
   {
     "timestamp": 1788066902,
@@ -75613,8 +75613,8 @@
     "title": "Map Handicap: VIT (-1.5) vs Legacy (+1.5)",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 5245.2967,
-    "whale_pct": 6.328,
+    "whale_usd": 9941.1967,
+    "whale_pct": 11.992,
     "whale_value_at_open": 82896.484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -75625,8 +75625,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788066902.927386,
-    "fills": 1
+    "last_fill_at": 1788067797.71721,
+    "fills": 2
   },
   {
     "timestamp": 1788067106,
