@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 02:54:18 (hora de Perú)
+Actualizado: 2026-08-30 02:56:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 02:54:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $197.36)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $187.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,9 +91,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 424 | 201 | 0 | -27.68 USD |
+| RN1 | 424 | 201 | 1 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 354 | 216 | 14 | -93.77 USD |
+| ferrariChampions2026 | 354 | 216 | 15 | -93.77 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -598,11 +598,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-nyy-2026-08-29-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | wnba-tor-phx-2026-08-29-total-173pt5 | RN1, Sassy-Bucket |
 | mlb-phi-laa-2026-08-29-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| atp-jasika-wang-2026-08-30 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 5.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Omar Jasika vs Aoran Wang | Omar Jasika (BUY) | 93% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Hiroki Moriya vs Grigoriy  | Hiroki Moriya (BUY) | 98% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -631,5 +634,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 2.9% | ✅ ganada | +5.97 |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.9% | ❌ perdida | -5.09 |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 6.3% | ✅ ganada | +1.52 |
-| HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 8.5 | Over (BUY) | 86% | 5.00 | 8.4% | ❌ perdida | -5.04 |
-| HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Los Angeles Angels (BUY) | 51% | 5.00 | 1.4% | ❌ perdida | -5.12 |
