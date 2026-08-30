@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 14:24:46 (hora de Perú)
+Actualizado: 2026-08-30 14:26:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $339.57
-**Retorno acumulado:** -32.09%
-**Peor caída desde un máximo (drawdown):** 43.99%
+**Bankroll actual:** $334.43
+**Retorno acumulado:** -33.11%
+**Peor caída desde un máximo (drawdown):** 44.83%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 14:24:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $300.87 en 61 posiciones abiertas (disponible para nuevas apuestas: $38.70)
+**Capital comprometido ahora mismo:** $295.87 en 60 posiciones abiertas (disponible para nuevas apuestas: $38.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| quavoo | 11 | 5 | 16 | +2.68 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -64,6 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | beachboy4 | 3 | 1 | 2 | -0.96 USD |
+| quavoo | 11 | 6 | 15 | -2.45 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 1 | 3 | -2.95 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3017
+- **Apuestas resueltas:** 3018
 - **Aciertos:** 1918 (63.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,064.37
-- **ROI sobre lo apostado:** -1.75%
-- **Comisiones pagadas (taker fee):** $275.55 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,069.37
+- **ROI sobre lo apostado:** -1.78%
+- **Comisiones pagadas (taker fee):** $275.68 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1512 | 49.3% | 50.1% | -0.9 pp |
+| 40-59% | 1513 | 49.2% | 50.1% | -0.9 pp |
 | 60-79% | 896 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 421 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |

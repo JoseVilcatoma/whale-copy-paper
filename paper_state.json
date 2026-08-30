@@ -1,5 +1,5 @@
 {
-  "bankroll": 339.5687417650843,
+  "bankroll": 334.43374176508433,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15780,6 +15780,11 @@
       "timestamp": 1788117308.214842,
       "bankroll": 339.57,
       "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Renata Zarazua vs Polina Iatcenko"
+    },
+    {
+      "timestamp": 1788117936.743598,
+      "bankroll": 334.43,
+      "event": "lost: nigiri99 \u2014 Counter-Strike: K27 vs Nuclear TigeRES (BO3) - Moscow Cyber Games European Qualifier Group Stage"
     }
   ]
 }
