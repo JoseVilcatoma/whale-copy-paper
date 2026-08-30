@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.2398969114213,
+  "bankroll": 425.60728152680593,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15185,6 +15185,16 @@
       "timestamp": 1788082820.44484,
       "bankroll": 426.24,
       "event": "won: RN1 \u2014 Zhangjiagang: Omar Jasika vs Aoran Wang"
+    },
+    {
+      "timestamp": 1788084575.3209412,
+      "bankroll": 430.74,
+      "event": "won: RN1 \u2014 Como: Svyatoslav Gulin vs Rudolf Molleker"
+    },
+    {
+      "timestamp": 1788084576.0633779,
+      "bankroll": 425.61,
+      "event": "lost: RN1 \u2014 Como: Svyatoslav Gulin vs Rudolf Molleker"
     }
   ]
 }
