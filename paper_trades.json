@@ -76085,5 +76085,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788076547.3077214,
     "fills": 1
+  },
+  {
+    "timestamp": 1788076871,
+    "timestamp_added": 1788076872.2454796,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-blackp-sparta-2026-08-30-map-handicap-home-1pt5",
+    "title": "Map Handicap: SPARTA (-1.5) vs Black Phoenix (+1.5)",
+    "outcome": "Black Phoenix",
+    "side": "BUY",
+    "whale_usd": 620.9348,
+    "whale_pct": 0.434,
+    "whale_value_at_open": 143104.0622,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788076872.2454915,
+    "fills": 1
   }
 ]
