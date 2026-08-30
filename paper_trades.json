@@ -77803,8 +77803,8 @@
     "title": "LoL: JD Gaming vs Team WE - Game 4 Winner",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 20083.079400000002,
-    "whale_pct": 38.194,
+    "whale_usd": 22641.6794,
+    "whale_pct": 43.06,
     "whale_value_at_open": 52582.2893,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77815,8 +77815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788091148.9043465,
-    "fills": 5
+    "last_fill_at": 1788092804.678984,
+    "fills": 6
   },
   {
     "timestamp": 1788090986,

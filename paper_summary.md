@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:25:04 (hora de Perú)
+Actualizado: 2026-08-30 07:27:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $413.62
@@ -628,7 +628,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Como: Andrea Colombo vs Gianmarco Ferrar | Gianmarco Ferrari (BUY) | 80% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | Will KAA Gent vs. Club Brugge end in a d | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will FC St. Pauli 1910 win on 2026-08-30 | No (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 4 Winne | JD Gaming (BUY) | 55% | 5.00 | 38.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 4 Winne | JD Gaming (BUY) | 55% | 5.00 | 43.1% | ⏳ pendiente | — |
 | RN1 | Will Club Brugge win on 2026-08-30? | Yes (BUY) | 57% | 2.86 | 0.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs UNiTY espor | ex-RUSTEC (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will CA River Plate win on 2026-08-30? | No (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
