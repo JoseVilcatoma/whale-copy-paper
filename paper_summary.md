@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 23:45:26 (hora de Perú)
+Actualizado: 2026-08-29 23:47:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $465.05
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 23:45:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $135.05)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $130.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| quavoo | 3 | 4 | 4 | -11.23 USD |
+| quavoo | 3 | 4 | 5 | -11.23 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -603,6 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 16.4% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -632,4 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | casualbet2020 | Valorant: Karmine Corp vs Team Liquid -  | Karmine Corp (BUY) | 52% | 5.00 | 25.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | San Francisco Giants (BUY) | 68% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Colorado Rapids SC win on 2026-08-2 | Yes (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |

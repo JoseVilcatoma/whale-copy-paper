@@ -75483,5 +75483,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788065104.6444,
     "fills": 1
+  },
+  {
+    "timestamp": 1788065222,
+    "timestamp_added": 1788065223.3811154,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "epl-che-bri-2026-08-30-total-1pt5",
+    "title": "Chelsea FC vs. Brighton & Hove Albion FC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3579.2999999999997,
+    "whale_pct": 0.886,
+    "whale_value_at_open": 403859.6171,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 84,
+    "fee_usd": 0.04,
+    "odds_ballena": 82,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788065223.3811255,
+    "fills": 1
   }
 ]
