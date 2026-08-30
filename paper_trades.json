@@ -74220,8 +74220,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 35012.69376700001,
-    "whale_pct": 131.51,
+    "whale_usd": 36094.67768000001,
+    "whale_pct": 135.574,
     "whale_value_at_open": 26623.5682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -74232,8 +74232,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788069602.7372162,
-    "fills": 11
+    "last_fill_at": 1788070141.2795503,
+    "fills": 12
   },
   {
     "timestamp": 1788055084,
@@ -75236,8 +75236,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

@@ -1,5 +1,5 @@
 {
-  "bankroll": 423.9809659222003,
+  "bankroll": 418.8459659222003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15140,6 +15140,11 @@
       "timestamp": 1788069902.245978,
       "bankroll": 423.98,
       "event": "won: HomeRunHazard \u2014 Memphis vs. UNLV Runnin'"
+    },
+    {
+      "timestamp": 1788070212.2301512,
+      "bankroll": 418.85,
+      "event": "lost: HomeRunHazard \u2014 Spread: UNLV Runnin' (-4.5)"
     }
   ]
 }
