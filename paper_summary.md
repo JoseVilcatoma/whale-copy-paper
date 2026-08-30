@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:00:18 (hora de Perú)
+Actualizado: 2026-08-30 18:02:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $338.13
@@ -636,7 +636,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | nigiri99 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 55% | 5.00 | 9.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 49% | 5.00 | 23.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 49% | 5.00 | 30.1% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 48% | 5.00 | 950.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 54% | 5.00 | 52.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 63% | 5.00 | 97.0% | 💰 vendida anticipada | +0.14 |
