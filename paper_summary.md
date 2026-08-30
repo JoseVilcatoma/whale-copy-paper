@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:22:52 (hora de Perú)
+Actualizado: 2026-08-30 18:24:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $325.77
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 18:22:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $190.77)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $175.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 217 | 1 | -44.99 USD |
+| RN1 | 449 | 217 | 4 | -44.99 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
@@ -627,7 +627,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mia-wsh-2026-08-30-total-9pt5 | SDTrading, nigiri99 |
 | lol-fnc-gx-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | lol-ly-tl2-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
-| mlb-cin-chc-2026-08-30 | SDTrading, texaskid |
+| mlb-cin-chc-2026-08-30 | RN1, SDTrading, texaskid |
 | lol-ly-tl2-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | atp-landalu-fearnle-2026-08-30 | AV23IUa, beachboy4, nigiri99 |
 
@@ -635,6 +635,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will Leones Futbol Club win on 2026-08-3 | No (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will Mirassol FC win on 2026-08-30? | No (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 88% | 5.00 | 9.6% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 30.6% | ⏳ pendiente | — |
 | SDTrading | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 42% | 5.00 | 16.5% | ⏳ pendiente | — |
@@ -662,6 +665,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 1 Winner | Team Liquid (BUY) | 41% | 5.00 | 4.4% | 💰 vendida anticipada | -5.03 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid - Game 1 Winner | LYON (BUY) | 48% | 5.00 | 1.7% | ✅ ganada | +5.29 |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 12.9% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 55% | 5.00 | 2.8% | ✅ ganada | +3.98 |
-| beachboy4 | US Open WTA: Lucrezia Stefanini vs Dayan | Lucrezia Stefanini (BUY) | 81% | 5.00 | 13.1% | ✅ ganada | +1.13 |
-| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 62% | 5.00 | 14.1% | ✅ ganada | +2.97 |
