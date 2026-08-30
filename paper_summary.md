@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:14:59 (hora de Perú)
+Actualizado: 2026-08-30 00:16:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $441.44
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 00:14:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $161.44)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $151.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 89 | 38 | 0 | +73.86 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 24 | 9 | 3 | +47.29 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 9 | +36.65 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 11 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -603,11 +603,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs Legacy (+1.5 | Vitality (BUY) | 45% | 5.00 | 6.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 70% | 5.00 | 2.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Atlanta Braves (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Under (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 75% | 5.00 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 5.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 37.3% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.9% | ⏳ pendiente | — |
@@ -631,5 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Alabama A&M vs. Howard | Howard (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
 | RN1 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 93% | 5.00 | 0.9% | ✅ ganada | +0.36 |
 | RN1 | ITF MEN - SINGLES: M15 Maanshan 8 (China | Rigele Te (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Taipei 2 (Taiwan) | Kuan Shou Chen (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Joshua Charlton vs Takuya  | Joshua Charlton (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
