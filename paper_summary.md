@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 23:34:57 (hora de Perú)
+Actualizado: 2026-08-29 23:37:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $464.66
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 23:34:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $169.66)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $159.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,10 +27,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 7 | +36.65 USD |
 | SDTrading | 36 | 25 | 2 | +34.55 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| casualbet2020 | 26 | 11 | 1 | +31.02 USD |
+| casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 401 | 207 | 24 | +26.47 USD |
+| HomeRunHazard | 401 | 207 | 25 | +26.47 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -603,9 +603,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: UNLV Runnin' (-2.5) | UNLV Runnin' (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
+| casualbet2020 | Valorant: Karmine Corp vs Team Liquid (B | Karmine Corp (BUY) | 52% | 5.00 | 10.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-2.5) | Memphis (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-4.5) | UNLV Runnin' (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Memphis vs. UNLV Runnin' | UNLV Runnin' (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Memphis vs. UNLV Runnin' | UNLV Runnin' (BUY) | 71% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | Spread: Real Madrid CF (-2.5) | Málaga CF (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings | Dallas Wings (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 58.5 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -631,5 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 67% | 5.00 | 2.5% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 54% | 5.00 | 3.3% | ⏳ pendiente | — |
-| HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
