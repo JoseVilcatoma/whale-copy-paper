@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:53:20 (hora de Perú)
+Actualizado: 2026-08-30 15:55:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $328.05
@@ -634,7 +634,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Fluxo W7M vs ShindeN (BO | ShindeN (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | nigiri99 | CD Godoy Cruz vs. CA San Telmo: O/U 2.5 | Over (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
-| nigiri99 | Will SE Palmeiras win on 2026-08-30? | Yes (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
+| nigiri99 | Will SE Palmeiras win on 2026-08-30? | Yes (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 1 Winner | Team Liquid (BUY) | 41% | 5.00 | 4.4% | 💰 vendida anticipada | -5.03 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid - Game 1 Winner | LYON (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
