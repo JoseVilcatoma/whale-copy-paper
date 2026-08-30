@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:59:32 (hora de Perú)
+Actualizado: 2026-08-29 22:01:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $477.47
-**Retorno acumulado:** -4.51%
+**Bankroll actual:** $478.67
+**Retorno acumulado:** -4.27%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:59:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $212.47)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $208.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 398 | 205 | 20 | +26.60 USD |
+| HomeRunHazard | 398 | 205 | 21 | +26.60 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -94,19 +94,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 418 | 200 | 1 | -39.34 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
-| ferrariChampions2026 | 345 | 211 | 16 | -88.05 USD |
+| ferrariChampions2026 | 346 | 211 | 16 | -86.85 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2839
-- **Aciertos:** 1817 (64.0%)
+- **Apuestas resueltas:** 2840
+- **Aciertos:** 1818 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,182.59
-- **ROI sobre lo apostado:** -0.82%
-- **Comisiones pagadas (taker fee):** $259.63 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,187.59
+- **ROI sobre lo apostado:** -0.81%
+- **Comisiones pagadas (taker fee):** $259.68 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1423 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 844 | 70.1% | 67.8% | +2.4 pp |
-| 80-94% | 393 | 86.3% | 86.7% | -0.5 pp |
+| 80-94% | 394 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 179 | 96.1% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -602,6 +602,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 78% | 5.00 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-3.5) | Los Angeles Angels (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -628,7 +630,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Under (BUY) | 53% | 5.00 | 3.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will San Jose Earthquakes win on 2026-08 | No (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will San Jose Earthquakes win on 2026-08 | No (BUY) | 80% | 5.00 | 0.3% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | Boston Red Sox (BUY) | 69% | 5.00 | 5.5% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | Will Inter Miami CF win on 2026-08-29? | Yes (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |

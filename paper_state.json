@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.46904750966553,
+  "bankroll": 478.6690475096655,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14835,6 +14835,11 @@
       "timestamp": 1788058765.8718882,
       "bankroll": 477.47,
       "event": "won: ferrariChampions2026 \u2014 Minnesota United FC vs. Orlando City SC: O/U 5.5"
+    },
+    {
+      "timestamp": 1788058822.51984,
+      "bankroll": 478.67,
+      "event": "won: ferrariChampions2026 \u2014 Will San Jose Earthquakes win on 2026-08-29?"
     }
   ]
 }
