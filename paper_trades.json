@@ -79963,5 +79963,58 @@
     "fills": 3,
     "fee_total_usd": 0.18,
     "closed_price": 67
+  },
+  {
+    "timestamp": 1788130020,
+    "timestamp_added": 1788130020.9394238,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-landalu-fearnle-2026-08-30",
+    "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
+    "outcome": "Martin Landaluce",
+    "side": "BUY",
+    "whale_usd": 98125.00030000001,
+    "whale_pct": 52.245,
+    "whale_value_at_open": 187816.5409,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "nigiri99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788130020.9394398,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788130020,
+    "timestamp_added": 1788130021.729144,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-landalu-fearnle-2026-08-30",
+    "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
+    "outcome": "Jacob Fearnley",
+    "side": "BUY",
+    "whale_usd": 87521.0077,
+    "whale_pct": 950.436,
+    "whale_value_at_open": 9208.5124,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "nigiri99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788130021.7291615,
+    "fills": 1
   }
 ]

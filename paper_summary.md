@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 17:45:59 (hora de Perú)
+Actualizado: 2026-08-30 17:48:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $338.13
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 17:45:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $213.13)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $203.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 3 | 2 | 1 | +1.24 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| beachboy4 | 5 | 1 | 0 | +0.76 USD |
+| beachboy4 | 5 | 1 | 1 | +0.76 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
-| AV23IUa | 13 | 12 | 0 | -18.36 USD |
+| AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 449 | 217 | 1 | -44.99 USD |
@@ -628,11 +628,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fnc-gx-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | lol-ly-tl2-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | lol-ly-tl2-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
+| atp-landalu-fearnle-2026-08-30 | AV23IUa, beachboy4, nigiri99 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 48% | 5.00 | 950.4% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 54% | 5.00 | 52.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 63% | 5.00 | 97.0% | 💰 vendida anticipada | +0.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Voca vs Marsborne (BO3)  | Voca (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
 | nigiri99 | St. Louis City SC vs. FC Dallas: Both Te | Yes (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -661,5 +664,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Hugo Gas | Daniil Medvedev (BUY) | 89% | 5.00 | 13.5% | ✅ ganada | +0.59 |
-| nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ✅ ganada | +3.10 |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 27.6% | ❌ perdida | -5.12 |
