@@ -78482,8 +78482,8 @@
     "title": "LoL: Movistar KOI vs Team Heretics - Game 1 Winner",
     "outcome": "Movistar KOI",
     "side": "BUY",
-    "whale_usd": 1447.82073,
-    "whale_pct": 7.966,
+    "whale_usd": 2176.5213,
+    "whale_pct": 11.975,
     "whale_value_at_open": 18174.8655,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -78494,7 +78494,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788100493.3069828,
-    "fills": 1
+    "last_fill_at": 1788100569.6490088,
+    "fills": 2
   }
 ]
