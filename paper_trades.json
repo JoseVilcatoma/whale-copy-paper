@@ -74172,8 +74172,8 @@
     "title": "Philadelphia Phillies vs. Los Angeles Angels: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2281.2768,
-    "whale_pct": 2.777,
+    "whale_usd": 10220.707569,
+    "whale_pct": 12.442,
     "whale_value_at_open": 82143.7075,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -74184,8 +74184,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788054084.0261185,
-    "fills": 2
+    "last_fill_at": 1788055504.1003659,
+    "fills": 3
   },
   {
     "timestamp": 1788053608,
@@ -74220,8 +74220,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 20256.212900000002,
-    "whale_pct": 76.084,
+    "whale_usd": 24160.112900000004,
+    "whale_pct": 90.747,
     "whale_value_at_open": 26623.5682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -74232,8 +74232,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788055321.4424472,
-    "fills": 2
+    "last_fill_at": 1788055448.407711,
+    "fills": 3
   },
   {
     "timestamp": 1788055084,

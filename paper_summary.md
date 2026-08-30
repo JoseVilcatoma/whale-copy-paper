@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:03:24 (hora de Perú)
+Actualizado: 2026-08-29 21:05:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $492.31
@@ -601,9 +601,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 76.1% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 90.7% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 13.5% | ⏳ pendiente | — |
-| texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 2.8% | ⏳ pendiente | — |
+| texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 12.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
