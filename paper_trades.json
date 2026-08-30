@@ -77107,8 +77107,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 12268.2144,
-    "whale_pct": 5.489,
+    "whale_usd": 27971.001200000002,
+    "whale_pct": 12.516,
     "whale_value_at_open": 223489.0242,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -77122,8 +77122,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085174.3842835,
-    "fills": 2
+    "last_fill_at": 1788085421.9390914,
+    "fills": 4
   },
   {
     "timestamp": 1788085047,
@@ -77222,5 +77222,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788085151.9801664,
     "fills": 2
+  },
+  {
+    "timestamp": 1788085386,
+    "timestamp_added": 1788085387.080323,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-dk-kt-2026-08-30-game3",
+    "title": "LoL: Dplus KIA vs KT Rolster - Game 3 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 1255.5724,
+    "whale_pct": 0.502,
+    "whale_value_at_open": 250088.7539,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788085387.0803337,
+    "fills": 1
   }
 ]
