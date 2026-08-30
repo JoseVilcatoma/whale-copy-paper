@@ -77107,8 +77107,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 27971.001200000002,
-    "whale_pct": 12.516,
+    "whale_usd": 28790.181200000003,
+    "whale_pct": 12.882,
     "whale_value_at_open": 223489.0242,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -77122,8 +77122,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085421.9390914,
-    "fills": 4
+    "last_fill_at": 1788086396.8068469,
+    "fills": 5
   },
   {
     "timestamp": 1788085047,
@@ -77271,6 +77271,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788086286.7097974,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788086402,
+    "timestamp_added": 1788086403.0293047,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "kbo-nc-han-2026-08-30",
+    "title": "KBO: NC Dinos vs. Hanwha Eagles",
+    "outcome": "NC Dinos",
+    "side": "BUY",
+    "whale_usd": 3438.55,
+    "whale_pct": 2.339,
+    "whale_value_at_open": 147032.2242,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788086403.8053842,
     "fills": 2
   }
 ]
