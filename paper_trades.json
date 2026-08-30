@@ -73480,8 +73480,8 @@
     "title": "LoL: Cloud9 vs LYON (BO3) - LCS Regular Season",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 1255.502,
-    "whale_pct": 1.876,
+    "whale_usd": 4610.742,
+    "whale_pct": 6.891,
     "whale_value_at_open": 66911.1318,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -73494,8 +73494,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788047803.1134393,
-    "fills": 1
+    "last_fill_at": 1788048589.5080218,
+    "fills": 5
   },
   {
     "timestamp": 1788047829,
