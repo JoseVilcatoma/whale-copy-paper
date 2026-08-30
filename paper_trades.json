@@ -79101,8 +79101,8 @@
     "title": "Counter-Strike: Vitality vs Legacy - Map 2 Winner",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 615.94,
-    "whale_pct": 0.175,
+    "whale_usd": 5292.0241000000005,
+    "whale_pct": 1.5,
     "whale_value_at_open": 352728.7818,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -79115,7 +79115,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788110216.9822226,
-    "fills": 1
+    "last_fill_at": 1788110389.8779714,
+    "fills": 2
   }
 ]
