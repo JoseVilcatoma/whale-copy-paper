@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 23:47:32 (hora de Perú)
+Actualizado: 2026-08-29 23:49:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $465.05
@@ -610,7 +610,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 6.3% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 8.5 | Over (BUY) | 86% | 5.00 | 8.4% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Los Angeles Angels (BUY) | 51% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Los Angeles Angels (BUY) | 51% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-2.5) | UNLV Runnin' (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Karmine Corp vs Team Liquid (B | Karmine Corp (BUY) | 52% | 5.00 | 10.2% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-2.5) | Memphis (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |

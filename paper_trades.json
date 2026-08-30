@@ -75325,8 +75325,8 @@
     "title": "Philadelphia Phillies vs. Los Angeles Angels",
     "outcome": "Los Angeles Angels",
     "side": "BUY",
-    "whale_usd": 1603.75,
-    "whale_pct": 0.819,
+    "whale_usd": 2674.9224,
+    "whale_pct": 1.367,
     "whale_value_at_open": 195707.7419,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -75337,8 +75337,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788064669.3206868,
-    "fills": 1
+    "last_fill_at": 1788065345.5586138,
+    "fills": 2
   },
   {
     "timestamp": 1788064811,
