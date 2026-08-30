@@ -77738,8 +77738,8 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.14,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -79134,8 +79134,8 @@
     "odds_at_bet": 61,
     "fee_usd": 0.098,
     "odds_ballena": 60,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.1,
     "overlaps_with": [
       "RN1"
     ],
@@ -79563,5 +79563,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788120841.0781465,
     "fills": 4
+  },
+  {
+    "timestamp": 1788121074,
+    "timestamp_added": 1788121075.3034945,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-ly-tl2-2026-08-30-game1",
+    "title": "LoL: LYON vs Team Liquid - Game 1 Winner",
+    "outcome": "Team Liquid",
+    "side": "BUY",
+    "whale_usd": 603.532,
+    "whale_pct": 4.387,
+    "whale_value_at_open": 13757.6,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788121075.3035352,
+    "fills": 1
   }
 ]

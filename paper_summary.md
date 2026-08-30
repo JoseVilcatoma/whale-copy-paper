@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:16:08 (hora de Perú)
+Actualizado: 2026-08-30 15:18:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $334.89
-**Retorno acumulado:** -33.02%
+**Bankroll actual:** $332.85
+**Retorno acumulado:** -33.43%
 **Peor caída desde un máximo (drawdown):** 45.68%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 15:16:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $218.69 en 44 posiciones abiertas (disponible para nuevas apuestas: $116.20)
+**Capital comprometido ahora mismo:** $213.69 en 43 posiciones abiertas (disponible para nuevas apuestas: $119.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 105 | 43 | 0 | +88.59 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 105 | 43 | 1 | +88.59 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 5 | 10 | +43.19 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -30,9 +30,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 36 | 28 | 3 | +21.05 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
+| quavoo | 17 | 6 | 9 | +14.52 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| quavoo | 16 | 6 | 10 | +11.42 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -95,21 +95,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 216 | 2 | -39.85 USD |
+| RN1 | 449 | 217 | 1 | -44.99 USD |
 | Sassy-Bucket | 19 | 36 | 3 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 369 | 231 | 8 | -148.07 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3035
-- **Aciertos:** 1928 (63.5%)
+- **Apuestas resueltas:** 3037
+- **Aciertos:** 1929 (63.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,151.55
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $277.32 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,161.55
+- **ROI sobre lo apostado:** -1.78%
+- **Comisiones pagadas (taker fee):** $277.56 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1522 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 903 | 69.9% | 67.9% | +2.0 pp |
+| 40-59% | 1523 | 49.2% | 50.1% | -0.9 pp |
+| 60-79% | 904 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 422 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
@@ -626,11 +626,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-nyy-2026-08-30-total-8pt5 | Sassy-Bucket, nigiri99 |
 | mlb-mia-wsh-2026-08-30-total-9pt5 | SDTrading, nigiri99 |
 | lol-fnc-gx-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
+| lol-ly-tl2-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 1 Winner | Team Liquid (BUY) | 41% | 5.00 | 4.4% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid - Game 1 Winner | LYON (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 55% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -648,7 +650,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 28.3% | 💰 vendida anticipada | +1.85 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 10.3% | ⏳ pendiente | — |
-| nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 7.0% | ❌ perdida | -5.08 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Valorant: LOUD vs MIBR (BO3) - VCT Ameri | MIBR (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 44% | 5.00 | 6.4% | 💰 vendida anticipada | +2.00 |
@@ -660,4 +662,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 45% | 5.00 | 1533.1% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ✅ ganada | +1.20 |
 | nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
-| nigiri99 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
