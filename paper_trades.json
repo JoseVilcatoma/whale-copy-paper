@@ -77583,8 +77583,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere - Map 2 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 1774.1280000000002,
-    "whale_pct": 15.51,
+    "whale_usd": 2554.128,
+    "whale_pct": 22.33,
     "whale_value_at_open": 11438.282,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -77595,8 +77595,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788089535.9443157,
-    "fills": 3
+    "last_fill_at": 1788089758.29093,
+    "fills": 4
   },
   {
     "timestamp": 1788089525,
