@@ -80297,8 +80297,8 @@
     "title": "Will CF Monterrey win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 611.8408000000001,
-    "whale_pct": 0.243,
+    "whale_usd": 1221.8408,
+    "whale_pct": 0.486,
     "whale_value_at_open": 251372.0285,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -80309,8 +80309,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788132388.676749,
-    "fills": 1
+    "last_fill_at": 1788134161.2653134,
+    "fills": 2
   },
   {
     "timestamp": 1788132419,
