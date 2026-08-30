@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 17:25:36 (hora de Perú)
+Actualizado: 2026-08-30 17:27:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $325.21
-**Retorno acumulado:** -34.96%
+**Bankroll actual:** $325.25
+**Retorno acumulado:** -34.95%
 **Peor caída desde un máximo (drawdown):** 48.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 17:25:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $190.21)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $185.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 106 | 46 | 2 | +83.43 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 107 | 46 | 2 | +83.48 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 24 | 7 | 9 | +34.91 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| quavoo | 20 | 10 | 6 | +3.33 USD |
+| quavoo | 20 | 10 | 7 | +3.33 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -633,6 +633,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | St. Louis City SC vs. FC Dallas: Both Te | Yes (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 99% | 5.00 | 13.0% | 💰 vendida anticipada | +0.05 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 98% | 5.00 | 14.2% | 💰 vendida anticipada | -0.12 |
 | nigiri99 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Spirit vs FURIA - Map 2  | Spirit (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -661,5 +663,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 27.6% | ❌ perdida | -5.12 |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 6.3% | ✅ ganada | +5.51 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 28.3% | 💰 vendida anticipada | +1.85 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 10.3% | ⏳ pendiente | — |
-| nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ✅ ganada | +3.10 |
