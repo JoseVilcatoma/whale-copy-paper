@@ -72424,8 +72424,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 20912.5208,
-    "whale_pct": 156.179,
+    "whale_usd": 22360.8392,
+    "whale_pct": 166.996,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72436,8 +72436,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788044400.1728199,
-    "fills": 8
+    "last_fill_at": 1788056107.3508708,
+    "fills": 9
   },
   {
     "timestamp": 1788038103,
@@ -74257,6 +74257,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788055085.4004643,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788056099,
+    "timestamp_added": 1788056099.5977428,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g2-navi-2026-08-30-map-handicap-home-1pt5",
+    "title": "Map Handicap: NAVI (-1.5) vs G2 (+1.5)",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 2445.6825,
+    "whale_pct": 4.939,
+    "whale_value_at_open": 49517.093,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788056099.5977545,
     "fills": 1
   }
 ]

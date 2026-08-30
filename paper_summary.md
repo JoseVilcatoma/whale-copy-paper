@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:13:49 (hora de Perú)
+Actualizado: 2026-08-29 21:15:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:13:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $209.47)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $204.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 89 | 38 | 0 | +73.86 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 24 | 9 | 3 | +47.29 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 5 | +36.65 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 6 | +36.65 USD |
 | HomeRunHazard | 393 | 200 | 21 | +35.08 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -600,6 +600,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NAVI (-1.5) vs G2 (+1.5) | G2 (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 90.7% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 13.5% | ⏳ pendiente | — |
@@ -629,4 +630,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Hawaii vs. Stanford | Stanford (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Bears vs. Titans | Bears (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
-| HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 76% | 5.00 | 5.0% | ✅ ganada | +1.52 |
