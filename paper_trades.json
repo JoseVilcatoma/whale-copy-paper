@@ -76109,5 +76109,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788076872.2454915,
     "fills": 1
+  },
+  {
+    "timestamp": 1788077222,
+    "timestamp_added": 1788077223.131302,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "bun-aug-s04-2026-08-30-total-2pt5",
+    "title": "FC Augsburg vs. FC Schalke 04: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 917.8245,
+    "whale_pct": 0.583,
+    "whale_value_at_open": 157478.5,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788077223.1313128,
+    "fills": 1
   }
 ]
