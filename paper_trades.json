@@ -78731,8 +78731,8 @@
     "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
     "outcome": "Arthur Rinderknech",
     "side": "BUY",
-    "whale_usd": 35100.0,
-    "whale_pct": 676.729,
+    "whale_usd": 83097.7875,
+    "whale_pct": 1602.128,
     "whale_value_at_open": 5186.7145,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -78745,8 +78745,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788102466.5963259,
-    "fills": 3
+    "last_fill_at": 1788103463.373439,
+    "fills": 8
   },
   {
     "timestamp": 1788102671,

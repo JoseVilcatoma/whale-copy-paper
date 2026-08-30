@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:22:53 (hora de Perú)
+Actualizado: 2026-08-30 10:24:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $400.97
@@ -625,7 +625,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ArturitoFilito | Manchester United FC vs. Ipswich Town FC | No (BUY) | 43% | 5.00 | 16.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics (BO3) | Movistar KOI (BUY) | 98% | 5.00 | 3.6% | ⏳ pendiente | — |
-| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 676.7% | ⏳ pendiente | — |
+| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 1602.1% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 37.4% | ⏳ pendiente | — |
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ⏳ pendiente | — |
