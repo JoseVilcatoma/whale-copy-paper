@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:00:43 (hora de Perú)
+Actualizado: 2026-08-30 04:02:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $423.07
@@ -607,14 +607,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 5.0% | ⏳ pendiente | — |
+| ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 20.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Lucrezia Stefanini vs Dayan | Dayana Yastremska (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Daniel Jade (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 95% | 5.00 | 60.0% | ⏳ pendiente | — |
 | RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Svyatoslav Gulin (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Khumoyun Sultanov vs Fumin | Khumoyun Sultanov (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 45% | 5.00 | 81.3% | 💰 vendida anticipada | +0.61 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BORRACHEIROS vs Peladona | Peladona (BUY) | 87% | 5.00 | 4.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BORRACHEIROS vs Peladona | Peladona (BUY) | 87% | 5.00 | 6.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 76% | 5.00 | 0.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Augsburg vs. FC Schalke 04: O/U 2.5 | Under (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: SPARTA (-1.5) vs Black Pho | Black Phoenix (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |

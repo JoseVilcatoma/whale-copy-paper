@@ -72472,8 +72472,8 @@
     "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 12867.6805,
-    "whale_pct": 96.099,
+    "whale_usd": 15177.418000000001,
+    "whale_pct": 113.348,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72484,8 +72484,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788077755.5780783,
-    "fills": 8
+    "last_fill_at": 1788080458.863963,
+    "fills": 9
   },
   {
     "timestamp": 1788038865,
@@ -76169,8 +76169,8 @@
     "title": "Counter-Strike: BORRACHEIROS vs Peladona (BO3) - CCT South America Series 5 Group Stage",
     "outcome": "Peladona",
     "side": "BUY",
-    "whale_usd": 6970.591799999999,
-    "whale_pct": 4.823,
+    "whale_usd": 9184.6446,
+    "whale_pct": 6.355,
     "whale_value_at_open": 144517.3636,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -76181,8 +76181,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788079544.9690995,
-    "fills": 4
+    "last_fill_at": 1788080453.6894379,
+    "fills": 6
   },
   {
     "timestamp": 1788078391,
@@ -76343,8 +76343,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "Natus Vincere",
     "side": "BUY",
-    "whale_usd": 658.52,
-    "whale_pct": 5.03,
+    "whale_usd": 2696.915,
+    "whale_pct": 20.601,
     "whale_value_at_open": 13090.9595,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -76357,7 +76357,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788080442.8015237,
-    "fills": 1
+    "last_fill_at": 1788080518.4207127,
+    "fills": 3
   }
 ]
