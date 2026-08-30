@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 03:21:16 (hora de Perú)
+Actualizado: 2026-08-30 03:23:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.36
@@ -617,7 +617,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Hanne Vandewinkel vs Karoli | Karolina Pliskova (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chelsea FC vs. Brighton & Hove Albion FC | Under (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Sheng Tang vs Filip Peliwo | Filip Peliwo (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Sheng Tang vs Filip Peliwo | Filip Peliwo (BUY) | 81% | 5.00 | 3.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Talia Gibson vs Donna Vekic | Talia Gibson (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming - M | Aurora Gaming (BUY) | 68% | 5.00 | 5.5% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |

@@ -75877,8 +75877,8 @@
     "title": "Zhangjiagang: Sheng Tang vs Filip Peliwo",
     "outcome": "Filip Peliwo",
     "side": "BUY",
-    "whale_usd": 541.387,
-    "whale_pct": 0.265,
+    "whale_usd": 6432.264999999999,
+    "whale_pct": 3.154,
     "whale_value_at_open": 203917.9131,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -75889,8 +75889,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788073548.2550402,
-    "fills": 1
+    "last_fill_at": 1788078081.4081151,
+    "fills": 2
   },
   {
     "timestamp": 1788074080,
