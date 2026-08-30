@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:16:51 (hora de Perú)
+Actualizado: 2026-08-30 07:18:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $420.47
-**Retorno acumulado:** -15.91%
+**Bankroll actual:** $426.16
+**Retorno acumulado:** -14.77%
 **Peor caída desde un máximo (drawdown):** 33.10%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 07:16:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $420.47 en 85 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $390.47 en 79 posiciones abiertas (disponible para nuevas apuestas: $35.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 97 | 40 | 3 | +89.27 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 17 | +36.65 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 2 | 15 | +44.07 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -36,7 +36,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 20 | 8 | 0 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| ArturitoFilito | 4 | 1 | 1 | +8.35 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -45,9 +44,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 2 | 1 | 0 | +5.35 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| ArturitoFilito | 4 | 2 | 0 | +3.23 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 1 | 0 | 1 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -95,19 +95,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 361 | 218 | 27 | -97.41 USD |
+| ferrariChampions2026 | 363 | 218 | 25 | -95.08 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2932
-- **Aciertos:** 1871 (63.8%)
+- **Apuestas resueltas:** 2938
+- **Aciertos:** 1876 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,647.59
-- **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $268.16 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,677.59
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $268.62 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,9 +115,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1474 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 868 | 70.2% | 67.8% | +2.3 pp |
-| 80-94% | 406 | 86.5% | 86.7% | -0.2 pp |
+| 40-59% | 1476 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 869 | 70.2% | 67.9% | +2.3 pp |
+| 80-94% | 409 | 86.6% | 86.6% | -0.1 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -628,7 +628,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 2 | Over (BUY) | 63% | 4.72 | 0.5% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 3 | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 41.9% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 41.9% | ✅ ganada | +1.05 |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 0.5 | Over (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere - Ma | G2 (BUY) | 62% | 5.00 | 112.2% | ✅ ganada | +2.97 |
 | ferrariChampions2026 | US Open WTA: Jasmine Paolini vs Veronika | Jasmine Paolini (BUY) | 89% | 5.00 | 8.0% | ⏳ pendiente | — |
@@ -640,7 +640,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | Rosenborg BK (BUY) | 50% | 5.00 | 14.1% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Oleksandr Ovcharenko vs Edoar | Oleksandr Ovcharenko (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 44% | 4.31 | 1.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 81% | 5.00 | 0.8% | ✅ ganada | +1.13 |
 | RN1 | KBO: NC Dinos vs. Hanwha Eagles | Hanwha Eagles (BUY) | 66% | 5.00 | 4.5% | ⏳ pendiente | — |
 | RN1 | KBO: NC Dinos vs. Hanwha Eagles | NC Dinos (BUY) | 76% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 45% | 5.00 | 1.7% | ✅ ganada | +5.97 |

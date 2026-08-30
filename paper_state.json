@@ -1,5 +1,5 @@
 {
-  "bankroll": 420.47283189434944,
+  "bankroll": 426.1555543502801,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15335,6 +15335,36 @@
       "timestamp": 1788092001.6906774,
       "bankroll": 420.47,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: G2 vs Natus Vincere - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788092301.3767278,
+      "bankroll": 426.21,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1788092303.444024,
+      "bankroll": 427.9,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: NAVI (-1.5) vs G2 (+1.5)"
+    },
+    {
+      "timestamp": 1788092304.182245,
+      "bankroll": 429.1,
+      "event": "won: ferrariChampions2026 \u2014 Will Colorado Rapids SC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788092311.4586504,
+      "bankroll": 423.98,
+      "event": "lost: ArturitoFilito \u2014 Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1788092315.7252662,
+      "bankroll": 425.1,
+      "event": "won: ferrariChampions2026 \u2014 Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1788092317.4934783,
+      "bankroll": 426.16,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A"
     }
   ]
 }
