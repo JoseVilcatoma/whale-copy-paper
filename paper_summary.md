@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 08:31:53 (hora de Perú)
+Actualizado: 2026-08-30 08:33:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.29
@@ -619,7 +619,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ⏳ pendiente | — |
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |

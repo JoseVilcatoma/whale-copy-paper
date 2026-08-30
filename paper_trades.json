@@ -78290,8 +78290,8 @@
     "title": "FC St. Gallen 1879 vs. FC Thun: O/U 3.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 4554.299999999999,
-    "whale_pct": 1.219,
+    "whale_usd": 5224.128999999999,
+    "whale_pct": 1.398,
     "whale_value_at_open": 373636.9239,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -78302,7 +78302,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788096152.9531515,
-    "fills": 2
+    "last_fill_at": 1788096734.4266276,
+    "fills": 3
   }
 ]
