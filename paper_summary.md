@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 13:55:44 (hora de Perú)
+Actualizado: 2026-08-30 13:57:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $349.80
-**Retorno acumulado:** -30.04%
+**Bankroll actual:** $344.68
+**Retorno acumulado:** -31.06%
 **Peor caída desde un máximo (drawdown):** 43.80%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 13:55:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.87 en 57 posiciones abiertas (disponible para nuevas apuestas: $68.93)
+**Capital comprometido ahora mismo:** $280.87 en 57 posiciones abiertas (disponible para nuevas apuestas: $63.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,8 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| quavoo | 11 | 5 | 14 | +2.68 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 0 | 3 | +2.17 USD |
+| quavoo | 11 | 5 | 15 | +2.68 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -66,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | beachboy4 | 3 | 1 | 1 | -0.96 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 1 | 2 | -2.95 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | ArturitoFilito | 5 | 4 | 1 | -3.42 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3015
+- **Apuestas resueltas:** 3016
 - **Aciertos:** 1918 (63.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,054.37
-- **ROI sobre lo apostado:** -1.68%
-- **Comisiones pagadas (taker fee):** $275.32 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.15% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,059.37
+- **ROI sobre lo apostado:** -1.72%
+- **Comisiones pagadas (taker fee):** $275.44 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1510 | 49.3% | 50.1% | -0.8 pp |
+| 40-59% | 1511 | 49.3% | 50.1% | -0.8 pp |
 | 60-79% | 896 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 421 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
@@ -630,13 +630,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Over (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | texaskid | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 1.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
 | beachboy4 | US Open ATP: Daniil Medvedev vs Hugo Gas | Daniil Medvedev (BUY) | 89% | 5.00 | 13.5% | ⏳ pendiente | — |
 | nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 27.6% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 27.6% | ❌ perdida | -5.12 |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 6.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 28.3% | 💰 vendida anticipada | +1.85 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -659,4 +660,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 3200.1% | ✅ ganada | +1.20 |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 37.4% | ✅ ganada | +0.65 |
-| ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ✅ ganada | +3.60 |

@@ -79236,8 +79236,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -79392,6 +79392,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788115654.8604956,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788116243,
+    "timestamp_added": 1788116243.48032,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "wnba-min-atl-2026-08-30-total-175pt5",
+    "title": "Minnesota Lynx vs. Atlanta Dream: O/U 175.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1311.2,
+    "whale_pct": 0.194,
+    "whale_value_at_open": 675245.3572,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788116243.4803348,
     "fills": 1
   }
 ]
