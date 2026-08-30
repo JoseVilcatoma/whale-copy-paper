@@ -75373,8 +75373,8 @@
     "title": "Spread: Baltimore Orioles (-2.5)",
     "outcome": "Athletics",
     "side": "BUY",
-    "whale_usd": 7380.75,
-    "whale_pct": 3.955,
+    "whale_usd": 11793.797999999999,
+    "whale_pct": 6.32,
     "whale_value_at_open": 186597.8334,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -75385,8 +75385,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788064813.0138974,
-    "fills": 2
+    "last_fill_at": 1788064991.5751326,
+    "fills": 5
   },
   {
     "timestamp": 1788064811,
@@ -75411,5 +75411,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788064813.0146198,
     "fills": 2
+  },
+  {
+    "timestamp": 1788064982,
+    "timestamp_added": 1788064982.833462,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "cfb-mphs-unlv-2026-08-30",
+    "title": "Memphis vs. UNLV Runnin'",
+    "outcome": "Memphis",
+    "side": "BUY",
+    "whale_usd": 776.45,
+    "whale_pct": 0.36,
+    "whale_value_at_open": 215922.086,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788064982.8334723,
+    "fills": 1
   }
 ]
