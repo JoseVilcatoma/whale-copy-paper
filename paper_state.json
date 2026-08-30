@@ -1,5 +1,5 @@
 {
-  "bankroll": 419.5582835982634,
+  "bankroll": 419.3132835982634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15395,6 +15395,16 @@
       "timestamp": 1788093563.7557166,
       "bankroll": 419.56,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: GenOne vs INOX Division (BO3) - CCT Europe Series #7 Playoffs"
+    },
+    {
+      "timestamp": 1788094508.8274431,
+      "bankroll": 414.44,
+      "event": "lost: RN1 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Denisa Zoldakova"
+    },
+    {
+      "timestamp": 1788094508.9275818,
+      "bankroll": 419.31,
+      "event": "won: ferrariChampions2026 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Denisa Zoldakova"
     }
   ]
 }

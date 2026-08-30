@@ -76696,8 +76696,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -76720,8 +76720,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.88,
     "overlaps_with": [
       "RN1"
     ],
@@ -78231,6 +78231,30 @@
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
     "last_fill_at": 1788093618.3586593,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788094568,
+    "timestamp_added": 1788094569.0377223,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "swe-aik-hif-2026-08-30-total-3pt5",
+    "title": "AIK vs. Hammarby IF: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1233.96,
+    "whale_pct": 0.415,
+    "whale_value_at_open": 297396.6208,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788094569.0377362,
     "fills": 1
   }
 ]
