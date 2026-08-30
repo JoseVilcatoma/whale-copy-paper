@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.64490291378286,
+  "bankroll": 390.3869029137829,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15535,6 +15535,16 @@
       "timestamp": 1788103618.4598975,
       "bankroll": 400.64,
       "event": "won: RN1 \u2014 Will FC St. Pauli 1910 win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788103674.5793068,
+      "bankroll": 395.52,
+      "event": "lost: RN1 \u2014 FC St. Pauli 1910 vs. 1. FC Kaiserslautern: O/U 2.5"
+    },
+    {
+      "timestamp": 1788103674.8723528,
+      "bankroll": 390.39,
+      "event": "lost: RN1 \u2014 1. FC Magdeburg vs. Holstein Kiel: O/U 1.5"
     }
   ]
 }
