@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.38589109824215,
+  "bankroll": 429.81408271591135,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15230,6 +15230,16 @@
       "timestamp": 1788087689.5684547,
       "bankroll": 427.39,
       "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Ilinca Dalina Amariei vs Ashley Lahey"
+    },
+    {
+      "timestamp": 1788087992.216663,
+      "bankroll": 427.43,
+      "event": "won: TAIWANNUMBERONE \u2014 Will South Africa win in regulation?"
+    },
+    {
+      "timestamp": 1788088007.8205159,
+      "bankroll": 429.81,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Angella Okutoyi vs Anastasija Cvetkovic"
     }
   ]
 }
