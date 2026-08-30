@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:12:51 (hora de Perú)
+Actualizado: 2026-08-30 00:14:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $454.82
-**Retorno acumulado:** -9.04%
+**Bankroll actual:** $441.44
+**Retorno acumulado:** -11.71%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 00:12:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $114.82)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $161.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -25,13 +25,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 24 | 9 | 3 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 9 | +36.65 USD |
-| SDTrading | 36 | 25 | 2 | +34.55 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| SDTrading | 36 | 27 | 0 | +24.32 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| HomeRunHazard | 402 | 210 | 28 | +16.62 USD |
+| HomeRunHazard | 405 | 212 | 23 | +16.85 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
@@ -92,21 +92,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 420 | 201 | 4 | -39.24 USD |
-| ferrariChampions2026 | 350 | 213 | 12 | -90.55 USD |
+| RN1 | 421 | 201 | 3 | -38.88 USD |
+| ferrariChampions2026 | 352 | 215 | 8 | -94.28 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2860
-- **Aciertos:** 1828 (63.9%)
+- **Apuestas resueltas:** 2872
+- **Aciertos:** 1834 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,287.59
-- **ROI sobre lo apostado:** -0.97%
-- **Comisiones pagadas (taker fee):** $261.67 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,347.59
+- **ROI sobre lo apostado:** -1.06%
+- **Comisiones pagadas (taker fee):** $262.94 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.77% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,9 +114,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1438 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 846 | 70.2% | 67.8% | +2.4 pp |
-| 80-94% | 396 | 86.4% | 86.7% | -0.3 pp |
+| 40-59% | 1447 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 848 | 70.3% | 67.8% | +2.5 pp |
+| 80-94% | 397 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 180 | 96.1% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -608,7 +608,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 75% | 5.00 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 28.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 37.3% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 6.3% | ⏳ pendiente | — |
@@ -623,13 +623,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Connecticut Sun vs. Dallas Wings | Dallas Wings (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 58.5 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 72% | 5.00 | 3.2% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Baltimore Orioles (-1.5) | Baltimore Orioles (BUY) | 72% | 5.00 | 3.2% | ✅ ganada | +1.87 |
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 71% | 5.00 | 3.0% | ⏳ pendiente | — |
 | nigiri99 | Will Real Madrid CF win on 2026-08-30? | Yes (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-7.5) | Memphis (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 56% | 5.00 | 0.3% | ❌ perdida | -5.11 |
 | RN1 | Alabama A&M vs. Howard | Howard (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
-| RN1 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 93% | 5.00 | 0.9% | ✅ ganada | +0.36 |
 | RN1 | ITF MEN - SINGLES: M15 Maanshan 8 (China | Rigele Te (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Taipei 2 (Taiwan) | Kuan Shou Chen (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Joshua Charlton vs Takuya  | Joshua Charlton (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |

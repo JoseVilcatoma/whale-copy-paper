@@ -1,5 +1,5 @@
 {
-  "bankroll": 454.81562113181405,
+  "bankroll": 441.4415469631774,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14940,6 +14940,66 @@
       "timestamp": 1788066572.0531423,
       "bankroll": 454.82,
       "event": "lost: HomeRunHazard \u2014 Arizona Diamondbacks vs. San Francisco Giants: O/U 8.5"
+    },
+    {
+      "timestamp": 1788066885.7524123,
+      "bankroll": 458.33,
+      "event": "won: HomeRunHazard \u2014 Baltimore Orioles vs. Athletics"
+    },
+    {
+      "timestamp": 1788066885.9780617,
+      "bankroll": 453.21,
+      "event": "lost: HomeRunHazard \u2014 Baltimore Orioles vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1788066887.9905207,
+      "bankroll": 448.1,
+      "event": "lost: SDTrading \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788066888.0906646,
+      "bankroll": 442.98,
+      "event": "lost: SDTrading \u2014 Baltimore Orioles vs. Athletics: O/U 9.5"
+    },
+    {
+      "timestamp": 1788066888.1908116,
+      "bankroll": 437.84,
+      "event": "lost: ferrariChampions2026 \u2014 Baltimore Orioles vs. Athletics"
+    },
+    {
+      "timestamp": 1788066889.5641973,
+      "bankroll": 432.7,
+      "event": "lost: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788066889.8646493,
+      "bankroll": 437.77,
+      "event": "won: HomeRunHazard \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788066890.5656004,
+      "bankroll": 439.65,
+      "event": "won: ferrariChampions2026 \u2014 Baltimore Orioles vs. Athletics"
+    },
+    {
+      "timestamp": 1788066890.7658956,
+      "bankroll": 444.33,
+      "event": "won: ferrariChampions2026 \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788066890.966195,
+      "bankroll": 439.21,
+      "event": "lost: HomeRunHazard \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788066891.5670755,
+      "bankroll": 439.57,
+      "event": "won: RN1 \u2014 Arizona Diamondbacks vs. San Francisco Giants"
+    },
+    {
+      "timestamp": 1788066892.3135266,
+      "bankroll": 441.44,
+      "event": "won: HomeRunHazard \u2014 Spread: Baltimore Orioles (-1.5)"
     }
   ]
 }
