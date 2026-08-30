@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 23:24:35 (hora de Perú)
+Actualizado: 2026-08-29 23:26:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $474.89
-**Retorno acumulado:** -5.02%
+**Bankroll actual:** $465.49
+**Retorno acumulado:** -6.90%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 23:24:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $179.89)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $185.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,21 +92,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 420 | 200 | 5 | -34.13 USD |
-| Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
-| ferrariChampions2026 | 348 | 213 | 14 | -95.71 USD |
+| RN1 | 420 | 201 | 4 | -39.24 USD |
+| Sassy-Bucket | 19 | 35 | 1 | -89.37 USD |
+| ferrariChampions2026 | 349 | 213 | 13 | -94.87 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2851
-- **Aciertos:** 1825 (64.0%)
+- **Apuestas resueltas:** 2854
+- **Aciertos:** 1826 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,242.59
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $260.64 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,257.59
+- **ROI sobre lo apostado:** -0.90%
+- **Comisiones pagadas (taker fee):** $260.92 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,9 +114,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1430 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 1432 | 50.1% | 50.1% | -0.1 pp |
 | 60-79% | 846 | 70.2% | 67.8% | +2.4 pp |
-| 80-94% | 395 | 86.3% | 86.7% | -0.4 pp |
+| 80-94% | 396 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 180 | 96.1% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -609,7 +609,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: San Francisco Giants (-1.5) | San Francisco Giants (BUY) | 71% | 5.00 | 3.0% | ⏳ pendiente | — |
 | nigiri99 | Will Real Madrid CF win on 2026-08-30? | Yes (BUY) | 91% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-7.5) | Memphis (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 56% | 5.00 | 0.3% | ❌ perdida | -5.11 |
 | RN1 | Alabama A&M vs. Howard | Howard (BUY) | 87% | 5.00 | 0.3% | ✅ ganada | +0.71 |
 | RN1 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Maanshan 8 (China | Rigele Te (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -632,4 +632,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: UNLV Runnin' (-3.5) | UNLV Runnin' (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury | Phoenix Mercury (BUY) | 85% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury | Phoenix Mercury (BUY) | 85% | 5.00 | 0.4% | ✅ ganada | +0.84 |
