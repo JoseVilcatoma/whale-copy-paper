@@ -79589,5 +79589,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788121075.3035352,
     "fills": 1
+  },
+  {
+    "timestamp": 1788121443,
+    "timestamp_added": 1788121444.6268733,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "bra-mir-pal-2026-08-30-pal",
+    "title": "Will SE Palmeiras win on 2026-08-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1016.84,
+    "whale_pct": 0.32,
+    "whale_value_at_open": 317320.7718,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788121444.6268904,
+    "fills": 1
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:22:17 (hora de Perú)
+Actualizado: 2026-08-30 15:24:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $332.85
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 15:22:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $213.69 en 43 posiciones abiertas (disponible para nuevas apuestas: $119.16)
+**Capital comprometido ahora mismo:** $218.69 en 44 posiciones abiertas (disponible para nuevas apuestas: $114.16)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 36 | 28 | 3 | +21.05 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| quavoo | 17 | 6 | 9 | +14.52 USD |
+| quavoo | 17 | 6 | 10 | +14.52 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -632,6 +632,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Will SE Palmeiras win on 2026-08-30? | Yes (BUY) | 45% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 1 Winner | Team Liquid (BUY) | 41% | 5.00 | 4.4% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid - Game 1 Winner | LYON (BUY) | 48% | 5.00 | 1.7% | ⏳ pendiente | — |
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
@@ -661,4 +662,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 69% | 5.00 | 4.8% | ✅ ganada | +2.17 |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 45% | 5.00 | 1533.1% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ✅ ganada | +1.20 |
-| nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
