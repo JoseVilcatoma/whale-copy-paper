@@ -1,5 +1,5 @@
 {
-  "bankroll": 320.5449755499085,
+  "bankroll": 316.5588150560813,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15945,6 +15945,16 @@
       "timestamp": 1788124113.1236603,
       "bankroll": 320.54,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Team Liquid - Game 2 Winner (+0.77 USD)"
+    },
+    {
+      "timestamp": 1788124441.56624,
+      "bankroll": 315.43,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Lucrezia Stefanini vs Dayana Yastremska"
+    },
+    {
+      "timestamp": 1788124445.76762,
+      "bankroll": 316.56,
+      "event": "won: beachboy4 \u2014 US Open WTA: Lucrezia Stefanini vs Dayana Yastremska"
     }
   ]
 }
