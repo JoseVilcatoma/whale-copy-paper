@@ -78893,5 +78893,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788104502.041176,
     "fills": 13
+  },
+  {
+    "timestamp": 1788104555,
+    "timestamp_added": 1788104555.8418112,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-bos-nyy-2026-08-30",
+    "title": "Boston Red Sox vs. New York Yankees",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 85861.40639999999,
+    "whale_pct": 1533.057,
+    "whale_value_at_open": 5600.6663,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788104555.8418224,
+    "fills": 1
   }
 ]

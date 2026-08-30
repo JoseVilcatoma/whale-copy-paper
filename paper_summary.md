@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:41:47 (hora de Perú)
+Actualizado: 2026-08-30 10:43:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $383.97
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 10:41:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $377.82 en 77 posiciones abiertas (disponible para nuevas apuestas: $6.15)
+**Capital comprometido ahora mismo:** $382.82 en 78 posiciones abiertas (disponible para nuevas apuestas: $1.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 444 | 212 | 11 | -31.75 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
+| Sassy-Bucket | 19 | 36 | 1 | -94.52 USD |
 | ferrariChampions2026 | 365 | 223 | 20 | -112.47 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -624,6 +624,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 45% | 5.00 | 1533.1% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ⏳ pendiente | — |
 | nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -653,4 +654,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |
 | ArturitoFilito | Will Chelsea FC win on 2026-08-30? | No (BUY) | 49% | 5.00 | 157.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ✅ ganada | +0.05 |
