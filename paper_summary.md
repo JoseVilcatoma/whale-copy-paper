@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 19:02:45 (hora de Perú)
+Actualizado: 2026-08-29 19:04:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $505.92
@@ -603,7 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 76% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Inter Miami CF vs. CF Montréal: O/U 3.5 | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON (BO3) - LCS Regular  | LYON (BUY) | 84% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 2 Winner | LYON (BUY) | 62% | 5.00 | 27.8% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs LYON - Game 2 Winner | LYON (BUY) | 62% | 5.00 | 35.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will D.C. United SC win on 2026-08-29? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | Sporting Kansas City (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF vs. CF Montréal end  | No (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
