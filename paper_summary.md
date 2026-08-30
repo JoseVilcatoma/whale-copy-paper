@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:36:20 (hora de Perú)
+Actualizado: 2026-08-30 06:38:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $423.02
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 06:36:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $408.30 en 82 posiciones abiertas (disponible para nuevas apuestas: $14.72)
+**Capital comprometido ahora mismo:** $423.02 en 85 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,9 +92,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 431 | 204 | 15 | -26.86 USD |
+| RN1 | 431 | 204 | 17 | -26.86 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 361 | 217 | 24 | -92.35 USD |
+| ferrariChampions2026 | 361 | 217 | 25 | -92.35 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -616,9 +616,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 10.7% | ⏳ pendiente | — |
+| RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 2 | Over (BUY) | 63% | 4.72 | 0.5% | ⏳ pendiente | — |
+| RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 3 | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 41.9% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 0.5 | Over (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere - Ma | G2 (BUY) | 62% | 5.00 | 22.3% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere - Ma | G2 (BUY) | 62% | 5.00 | 112.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Jasmine Paolini vs Veronika | Jasmine Paolini (BUY) | 89% | 5.00 | 8.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | JD Gaming (BUY) | 57% | 4.56 | 2.3% | 💰 vendida anticipada | +1.68 |
 | RN1 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 60% | 3.99 | 3.2% | ⏳ pendiente | — |
@@ -635,7 +638,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | 💰 vendida anticipada | +1.35 |
 | RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 11.3% | ⏳ pendiente | — |
 | RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | KT Rolster (BUY) | 76% | 5.00 | 16.3% | 💰 vendida anticipada | +1.38 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 46% | 5.00 | 4.9% | 💰 vendida anticipada | +0.16 |
@@ -643,6 +646,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.4% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.8% | ❌ perdida | -5.13 |
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 54% | 5.00 | 6.8% | ✅ ganada | +4.14 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Nemesis vs Execration - Gam | Team Nemesis (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 67% | 5.00 | 0.7% | ✅ ganada | +2.38 |
