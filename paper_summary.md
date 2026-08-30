@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:31:03 (hora de Perú)
+Actualizado: 2026-08-30 18:33:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $330.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 18:31:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $160.65)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $155.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 217 | 7 | -44.99 USD |
+| RN1 | 449 | 217 | 8 | -44.99 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
@@ -637,6 +637,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Mirassol FC vs. SE Palmeiras: O/U 2.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will SE Palmeiras win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Over (BUY) | 43% | 5.00 | 3.7% | ⏳ pendiente | — |
@@ -666,4 +667,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 83% | 5.00 | 49.5% | ✅ ganada | +0.98 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 56% | 5.00 | 74.4% | 💰 vendida anticipada | +0.77 |
 | nigiri99 | Los Angeles Sparks vs. Seattle Storm: O/ | Under (BUY) | 50% | 5.00 | 0.2% | ✅ ganada | +4.88 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Fluxo W7M vs ShindeN (BO | ShindeN (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |

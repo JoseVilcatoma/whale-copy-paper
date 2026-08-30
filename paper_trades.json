@@ -80387,5 +80387,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788132516.1928225,
     "fills": 1
+  },
+  {
+    "timestamp": 1788132705,
+    "timestamp_added": 1788132706.4034386,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra-mir-pal-2026-08-30-total-2pt5",
+    "title": "Mirassol FC vs. SE Palmeiras: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 706.86,
+    "whale_pct": 0.309,
+    "whale_value_at_open": 228744.7943,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788132706.4034588,
+    "fills": 1
   }
 ]
