@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 03:58:43 (hora de Perú)
+Actualizado: 2026-08-30 04:00:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $423.07
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 03:58:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $148.07)
+**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $143.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,7 +36,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 20 | 8 | 0 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| ArturitoFilito | 4 | 1 | 0 | +8.35 USD |
+| ArturitoFilito | 4 | 1 | 1 | +8.35 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -588,6 +588,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-fery-buse-2026-08-29 | AV23IUa, ArturitoFilito |
 | fl1-lyo-hac-2026-08-29-lyo | AV23IUa, sbsigner |
 | lol-c9-ly-2026-08-29 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
+| cs2-g2-navi-2026-08-30 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ArturitoFilito |
 | mlb-col-atl-2026-08-29 | RN1, ferrariChampions2026 |
 | lol-c9-ly-2026-08-29-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-c9-ly-2026-08-29-game-handicap-home-1pt5 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
@@ -606,6 +607,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 5.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Lucrezia Stefanini vs Dayan | Dayana Yastremska (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Daniel Jade (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 95% | 5.00 | 60.0% | ⏳ pendiente | — |
@@ -635,4 +637,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 41.5% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs Legacy (+1.5 | Vitality (BUY) | 45% | 5.00 | 15.3% | ⏳ pendiente | — |

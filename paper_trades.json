@@ -72520,8 +72520,8 @@
     "title": "LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 7711.7848,
-    "whale_pct": 12.769,
+    "whale_usd": 11115.5316,
+    "whale_pct": 18.405,
     "whale_value_at_open": 60395.2606,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -72532,8 +72532,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788080262.173068,
-    "fills": 5
+    "last_fill_at": 1788080401.3474162,
+    "fills": 7
   },
   {
     "timestamp": 1788042485,
@@ -76332,6 +76332,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788080268.5711102,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788080442,
+    "timestamp_added": 1788080442.8015127,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "cs2-g2-navi-2026-08-30",
+    "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
+    "outcome": "Natus Vincere",
+    "side": "BUY",
+    "whale_usd": 658.52,
+    "whale_pct": 5.03,
+    "whale_value_at_open": 13090.9595,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788080442.8015237,
     "fills": 1
   }
 ]
