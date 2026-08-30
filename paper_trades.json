@@ -74268,8 +74268,8 @@
     "title": "Map Handicap: NAVI (-1.5) vs G2 (+1.5)",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 2445.6825,
-    "whale_pct": 4.939,
+    "whale_usd": 4306.8861,
+    "whale_pct": 8.698,
     "whale_value_at_open": 49517.093,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -74280,8 +74280,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788056099.5977545,
-    "fills": 1
+    "last_fill_at": 1788073224.184769,
+    "fills": 2
   },
   {
     "timestamp": 1788056585,
@@ -75842,6 +75842,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788071401.4817111,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788073256,
+    "timestamp_added": 1788073257.5177238,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-gibson-vekic-2026-08-30",
+    "title": "US Open WTA: Talia Gibson vs Donna Vekic",
+    "outcome": "Talia Gibson",
+    "side": "BUY",
+    "whale_usd": 3870.769999,
+    "whale_pct": 1.914,
+    "whale_value_at_open": 202279.4912,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788073257.5177348,
     "fills": 1
   }
 ]
