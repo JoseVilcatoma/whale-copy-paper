@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.4923609953227,
+  "bankroll": 460.3443609953227,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14910,6 +14910,11 @@
       "timestamp": 1788063989.2008007,
       "bankroll": 465.49,
       "event": "lost: RN1 \u2014 Toronto Tempo vs. Phoenix Mercury: O/U 173.5"
+    },
+    {
+      "timestamp": 1788064113.313947,
+      "bankroll": 460.34,
+      "event": "lost: Sassy-Bucket \u2014 Toronto Tempo vs. Phoenix Mercury: O/U 176.5"
     }
   ]
 }

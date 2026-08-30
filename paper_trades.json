@@ -74251,8 +74251,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -74713,8 +74713,8 @@
     "title": "Philadelphia Phillies vs. Los Angeles Angels",
     "outcome": "Philadelphia Phillies",
     "side": "BUY",
-    "whale_usd": 4104.2661,
-    "whale_pct": 1.75,
+    "whale_usd": 8728.005099999998,
+    "whale_pct": 3.722,
     "whale_value_at_open": 234514.4296,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -74725,8 +74725,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788063010.6042988,
-    "fills": 2
+    "last_fill_at": 1788064094.6774044,
+    "fills": 3
   },
   {
     "timestamp": 1788058859,
@@ -75146,6 +75146,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788063630.1049466,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788064037,
+    "timestamp_added": 1788064038.2816532,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "wnba-conn-dal-2026-08-30",
+    "title": "Connecticut Sun vs. Dallas Wings",
+    "outcome": "Dallas Wings",
+    "side": "BUY",
+    "whale_usd": 569.057,
+    "whale_pct": 0.142,
+    "whale_value_at_open": 399395.5366,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788064038.2816663,
     "fills": 1
   }
 ]
