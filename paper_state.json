@@ -1,5 +1,5 @@
 {
-  "bankroll": 338.1294828302381,
+  "bankroll": 328.70760926701973,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16045,6 +16045,21 @@
       "timestamp": 1788129859.7072458,
       "bankroll": 338.13,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion - Game 2 Winner (+0.14 USD)"
+    },
+    {
+      "timestamp": 1788131211.237789,
+      "bankroll": 338.84,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: BORRACHEIROS vs Peladona (BO3) - CCT South America Series 5 Group Stage"
+    },
+    {
+      "timestamp": 1788131212.3809578,
+      "bankroll": 333.78,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1788131213.1332655,
+      "bankroll": 328.71,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: PLD (-1.5) vs BORRACHEIROS (+1.5)"
     }
   ]
 }
