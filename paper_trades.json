@@ -75243,5 +75243,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788064272.903557,
     "fills": 1
+  },
+  {
+    "timestamp": 1788064473,
+    "timestamp_added": 1788064473.8217728,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "cfb-mphs-unlv-2026-08-30-spread-home-2pt5",
+    "title": "Spread: UNLV Runnin' (-2.5)",
+    "outcome": "Memphis",
+    "side": "BUY",
+    "whale_usd": 1134.3696,
+    "whale_pct": 0.615,
+    "whale_value_at_open": 184552.8952,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788064473.8217814,
+    "fills": 1
   }
 ]
