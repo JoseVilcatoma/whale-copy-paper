@@ -1,5 +1,5 @@
 {
-  "bankroll": 344.67874176508434,
+  "bankroll": 339.5687417650843,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15775,6 +15775,11 @@
       "timestamp": 1788116257.6284385,
       "bankroll": 344.68,
       "event": "lost: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1788117308.214842,
+      "bankroll": 339.57,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Renata Zarazua vs Polina Iatcenko"
     }
   ]
 }
