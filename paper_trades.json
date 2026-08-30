@@ -79847,8 +79847,8 @@
     "title": "LoL: Cloud9 vs Shopify Rebellion - Game 1 Winner",
     "outcome": "Cloud9",
     "side": "BUY",
-    "whale_usd": 7680.0,
-    "whale_pct": 12.265,
+    "whale_usd": 8872.6247,
+    "whale_pct": 14.17,
     "whale_value_at_open": 62617.3823,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -79859,7 +79859,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788128442.4272609,
-    "fills": 1
+    "last_fill_at": 1788128585.5133376,
+    "fills": 2
   }
 ]
