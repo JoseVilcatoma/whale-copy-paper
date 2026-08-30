@@ -1,5 +1,5 @@
 {
-  "bankroll": 366.70186723282393,
+  "bankroll": 366.8464130996555,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15600,6 +15600,16 @@
       "timestamp": 1788107413.1011224,
       "bankroll": 366.7,
       "event": "lost: ferrariChampions2026 \u2014 Spread: FK Bod\u00f8/Glimt (-1.5)"
+    },
+    {
+      "timestamp": 1788107733.1940286,
+      "bankroll": 366.8,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs Team Heretics (BO3) - LEC Regular Season"
+    },
+    {
+      "timestamp": 1788107790.7937415,
+      "bankroll": 366.85,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Movistar KOI vs Team Heretics - Game 1 Winner"
     }
   ]
 }
