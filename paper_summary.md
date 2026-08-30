@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:59:21 (hora de Perú)
+Actualizado: 2026-08-30 05:01:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.24
@@ -641,4 +641,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Svyatoslav Gulin (BUY) | 52% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Khumoyun Sultanov vs Fumin | Khumoyun Sultanov (BUY) | 96% | 5.00 | 1.3% | ✅ ganada | +0.20 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 45% | 5.00 | 81.3% | 💰 vendida anticipada | +0.61 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BORRACHEIROS vs Peladona | Peladona (BUY) | 87% | 5.00 | 8.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BORRACHEIROS vs Peladona | Peladona (BUY) | 87% | 5.00 | 10.9% | ⏳ pendiente | — |
