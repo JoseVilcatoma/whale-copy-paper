@@ -74220,8 +74220,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 28870.504204000004,
-    "whale_pct": 108.44,
+    "whale_usd": 30200.059856000003,
+    "whale_pct": 113.434,
     "whale_value_at_open": 26623.5682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -74232,8 +74232,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788058982.8580036,
-    "fills": 5
+    "last_fill_at": 1788060836.493033,
+    "fills": 6
   },
   {
     "timestamp": 1788055084,
@@ -74952,6 +74952,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788060635.6653724,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788060758,
+    "timestamp_added": 1788060758.996692,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cfb-alaam-howrd-2026-08-29",
+    "title": "Alabama A&M vs. Howard",
+    "outcome": "Howard",
+    "side": "BUY",
+    "whale_usd": 556.8774999999999,
+    "whale_pct": 0.282,
+    "whale_value_at_open": 197459.5554,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 87,
+    "fee_usd": 0.033,
+    "odds_ballena": 85,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788060758.996703,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788060788,
+    "timestamp_added": 1788060788.5520082,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "wnba-tor-phx-2026-08-29-total-173pt5",
+    "title": "Toronto Tempo vs. Phoenix Mercury: O/U 173.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 634.7,
+    "whale_pct": 0.321,
+    "whale_value_at_open": 197459.5554,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sassy-Bucket"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788060788.552019,
     "fills": 1
   }
 ]
