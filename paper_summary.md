@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 03:46:12 (hora de Perú)
+Actualizado: 2026-08-30 03:48:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.97
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 03:46:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $157.97)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $152.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 90 | 38 | 0 | +74.47 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 90 | 38 | 1 | +74.47 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 24 | 9 | 5 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 15 | +36.65 USD |
@@ -606,6 +606,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 95% | 5.00 | 60.0% | ⏳ pendiente | — |
 | RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Svyatoslav Gulin (BUY) | 52% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Khumoyun Sultanov vs Fumin | Khumoyun Sultanov (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 45% | 5.00 | 81.3% | 💰 vendida anticipada | +0.61 |
@@ -635,4 +636,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs Legacy (+1.5 | Vitality (BUY) | 45% | 5.00 | 15.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 70% | 5.00 | 4.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Colorado Rockies (-1.5) | Atlanta Braves (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Under (BUY) | 84% | 5.00 | 0.4% | ✅ ganada | +0.91 |

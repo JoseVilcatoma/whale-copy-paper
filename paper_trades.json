@@ -76259,5 +76259,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788079518.634368,
     "fills": 1
+  },
+  {
+    "timestamp": 1788079685,
+    "timestamp_added": 1788079685.7604027,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-dk-kt-2026-08-30-game1",
+    "title": "LoL: Dplus KIA vs KT Rolster - Game 1 Winner",
+    "outcome": "KT Rolster",
+    "side": "BUY",
+    "whale_usd": 5876.2064,
+    "whale_pct": 59.961,
+    "whale_value_at_open": 9800.0516,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788079691.7929542,
+    "fills": 2
   }
 ]
