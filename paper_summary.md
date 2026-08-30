@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 11:57:50 (hora de Perú)
+Actualizado: 2026-08-30 11:59:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $363.88
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 11:57:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $351.92 en 72 posiciones abiertas (disponible para nuevas apuestas: $11.96)
+**Capital comprometido ahora mismo:** $356.92 en 73 posiciones abiertas (disponible para nuevas apuestas: $6.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -61,7 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 1 | +0.00 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -626,7 +626,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 44% | 5.00 | 1.5% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Valorant: LOUD vs MIBR (BO3) - VCT Ameri | MIBR (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 44% | 5.00 | 4.0% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 50% | 5.00 | 2.3% | 💰 vendida anticipada | -0.05 |
 | nigiri99 | RC Deportivo A Coruña vs. Valencia CF: 1 | Over (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
 | SDTrading | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 47% | 3.19 | 0.7% | ⏳ pendiente | — |
@@ -655,4 +656,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ⏳ pendiente | — |
 | nigiri99 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |
