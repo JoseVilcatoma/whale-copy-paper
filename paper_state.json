@@ -1,5 +1,5 @@
 {
-  "bankroll": 337.99176060801585,
+  "bankroll": 338.1294828302381,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16040,6 +16040,11 @@
       "timestamp": 1788129317.0480983,
       "bankroll": 337.99,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Team Liquid - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788129859.7072458,
+      "bankroll": 338.13,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion - Game 2 Winner (+0.14 USD)"
     }
   ]
 }
