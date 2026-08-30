@@ -1,5 +1,5 @@
 {
-  "bankroll": 408.6794965906374,
+  "bankroll": 414.4615668585338,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15475,6 +15475,16 @@
       "timestamp": 1788100494.1783228,
       "bankroll": 408.68,
       "event": "won: ferrariChampions2026 \u2014 Incheon United FC vs. Jeonbuk Hyundai Motors FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788100805.8461983,
+      "bankroll": 414.41,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: AUR (-1.5) vs M80 (+1.5)"
+    },
+    {
+      "timestamp": 1788100821.3165126,
+      "bankroll": 414.46,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Team Vitality - Game 1 Winner"
     }
   ]
 }

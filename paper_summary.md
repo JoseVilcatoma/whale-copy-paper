@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:39:14 (hora de Perú)
+Actualizado: 2026-08-30 09:41:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $408.68
-**Retorno acumulado:** -18.26%
+**Bankroll actual:** $414.46
+**Retorno acumulado:** -17.11%
 **Peor caída desde un máximo (drawdown):** 34.69%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:39:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $391.57 en 80 posiciones abiertas (disponible para nuevas apuestas: $17.11)
+**Capital comprometido ahora mismo:** $396.57 en 81 posiciones abiertas (disponible para nuevas apuestas: $17.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 98 | 42 | 2 | +81.77 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 99 | 42 | 1 | +81.82 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 21 | 2 | 12 | +50.78 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 22 | 2 | 11 | +56.51 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| ArturitoFilito | 4 | 2 | 1 | +3.23 USD |
+| ArturitoFilito | 4 | 2 | 2 | +3.23 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -63,7 +63,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| vito3corleone | 1 | 1 | 1 | -2.25 USD |
+| vito3corleone | 1 | 1 | 2 | -2.25 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| quavoo | 4 | 4 | 13 | -8.74 USD |
+| quavoo | 4 | 4 | 14 | -8.74 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -101,14 +101,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2960
-- **Aciertos:** 1888 (63.8%)
+- **Apuestas resueltas:** 2962
+- **Aciertos:** 1890 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,787.59
-- **ROI sobre lo apostado:** -1.28%
-- **Comisiones pagadas (taker fee):** $270.66 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.55% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,797.59
+- **ROI sobre lo apostado:** -1.24%
+- **Comisiones pagadas (taker fee):** $270.80 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.59% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,10 +116,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1484 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1485 | 49.8% | 50.1% | -0.4 pp |
 | 60-79% | 881 | 70.1% | 67.8% | +2.3 pp |
 | 80-94% | 411 | 86.4% | 86.6% | -0.2 pp |
-| 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
+| 95-99% (casi seguro) | 185 | 96.2% | 97.4% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -605,6 +605,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-phi-laa-2026-08-29-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-dk-kt-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | epl-che-bri-2026-08-30-che | ArturitoFilito, nigiri99 |
+| cs2-ice-fut-2026-08-30-map-handicap-home-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ArturitoFilito, nigiri99 |
 | atp-jasika-wang-2026-08-30 | RN1, ferrariChampions2026 |
 | lol-jdg-we-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-dk-kt-2026-08-30-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
@@ -619,7 +620,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 12.0% | ⏳ pendiente | — |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
+| nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
+| ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 27.5% | ⏳ pendiente | — |
 | nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -632,7 +636,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |
 | ArturitoFilito | Will Chelsea FC win on 2026-08-30? | No (BUY) | 49% | 5.00 | 157.1% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ✅ ganada | +0.05 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 58% | 5.00 | 227.2% | ⏳ pendiente | — |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes (BUY) | 44% | 5.00 | 36.2% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 1 | Under (BUY) | 48% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -646,6 +650,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Paris FC vs. OGC Nice: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrea Colombo vs Gianmarco Ferrar | Gianmarco Ferrari (BUY) | 80% | 5.00 | 1.0% | ❌ perdida | -5.05 |
 | RN1 | Will KAA Gent vs. Club Brugge end in a d | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | Will FC St. Pauli 1910 win on 2026-08-30 | No (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 4 Winne | JD Gaming (BUY) | 55% | 5.00 | 43.1% | ❌ perdida | -5.11 |
-| RN1 | Will Club Brugge win on 2026-08-30? | Yes (BUY) | 57% | 2.86 | 0.3% | ⏳ pendiente | — |
