@@ -1,5 +1,5 @@
 {
-  "bankroll": 414.4615668585338,
+  "bankroll": 410.02268280056273,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15485,6 +15485,21 @@
       "timestamp": 1788100821.3165126,
       "bankroll": 414.46,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Shifters vs Team Vitality - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788101750.7458556,
+      "bankroll": 409.41,
+      "event": "lost: RN1 \u2014 Aberdeen FC vs. Rangers FC: O/U 1.5"
+    },
+    {
+      "timestamp": 1788101751.5457513,
+      "bankroll": 409.82,
+      "event": "won: RN1 \u2014 Aberdeen FC vs. Rangers FC: O/U 0.5"
+    },
+    {
+      "timestamp": 1788101754.2105086,
+      "bankroll": 410.02,
+      "event": "won: RN1 \u2014 Aberdeen FC vs. Rangers FC: O/U 2.5"
     }
   ]
 }
