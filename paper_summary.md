@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:22:10 (hora de Perú)
+Actualizado: 2026-08-29 21:24:13 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:22:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $204.47)
+**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $194.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 418 | 200 | 1 | -39.34 USD |
-| ferrariChampions2026 | 340 | 205 | 20 | -75.51 USD |
+| ferrariChampions2026 | 340 | 205 | 22 | -75.51 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -600,9 +600,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota United FC vs. Orlando City SC: | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NAVI (-1.5) vs G2 (+1.5) | G2 (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 90.7% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 93.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 13.5% | ⏳ pendiente | — |
 | texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 18.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -628,5 +630,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-3.5) | Texas Rangers (BUY) | 53% | 5.00 | 2.5% | ✅ ganada | +4.32 |
 | HomeRunHazard | Hawaii vs. Stanford | Stanford (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
-| HomeRunHazard | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
-| HomeRunHazard | Bears vs. Titans | Bears (BUY) | 92% | 5.00 | 0.4% | ✅ ganada | +0.41 |
