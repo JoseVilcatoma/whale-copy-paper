@@ -78877,8 +78877,8 @@
     "title": "US Open ATP: Kamil Majchrzak vs Hamad Medjedovic",
     "outcome": "Kamil Majchrzak",
     "side": "BUY",
-    "whale_usd": 128519.09680000001,
-    "whale_pct": 68.152,
+    "whale_usd": 167281.96110000004,
+    "whale_pct": 88.707,
     "whale_value_at_open": 188577.3402,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -78891,7 +78891,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788104341.5071926,
-    "fills": 5
+    "last_fill_at": 1788104502.041176,
+    "fills": 13
   }
 ]
