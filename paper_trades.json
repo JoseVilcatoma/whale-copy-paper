@@ -78559,8 +78559,8 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 558984.5567000001,
-    "whale_pct": 81.028,
+    "whale_usd": 580284.5567000001,
+    "whale_pct": 84.116,
     "whale_value_at_open": 689866.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -78571,8 +78571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788102194.2201657,
-    "fills": 9
+    "last_fill_at": 1788102419.6288865,
+    "fills": 10
   },
   {
     "timestamp": 1788100946,
@@ -78683,8 +78683,8 @@
     "title": "LoL: Movistar KOI vs Team Heretics - Game 2 Winner",
     "outcome": "Movistar KOI",
     "side": "BUY",
-    "whale_usd": 4336.8576,
-    "whale_pct": 16.897,
+    "whale_usd": 7892.783600000001,
+    "whale_pct": 30.751,
     "whale_value_at_open": 25667.0454,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -78695,8 +78695,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788102318.050469,
-    "fills": 3
+    "last_fill_at": 1788102422.7272182,
+    "fills": 4
   },
   {
     "timestamp": 1788102202,
@@ -78731,8 +78731,8 @@
     "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
     "outcome": "Arthur Rinderknech",
     "side": "BUY",
-    "whale_usd": 19500.0,
-    "whale_pct": 375.961,
+    "whale_usd": 35100.0,
+    "whale_pct": 676.729,
     "whale_value_at_open": 5186.7145,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -78745,7 +78745,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788102324.1572247,
-    "fills": 1
+    "last_fill_at": 1788102466.5963259,
+    "fills": 3
   }
 ]

@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:06:24 (hora de Perú)
+Actualizado: 2026-08-30 10:08:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $415.39
@@ -623,14 +623,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 376.0% | ⏳ pendiente | — |
+| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 676.7% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 16.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 30.8% | ⏳ pendiente | — |
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Tampa Bay Rays | San Diego Padres (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 81.0% | ⏳ pendiente | — |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 84.1% | ⏳ pendiente | — |
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 89.1% | ⏳ pendiente | — |
