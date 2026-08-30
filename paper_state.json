@@ -1,5 +1,5 @@
 {
-  "bankroll": 332.84835016124345,
+  "bankroll": 339.21475914469494,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15880,6 +15880,21 @@
       "timestamp": 1788121027.9508522,
       "bankroll": 332.85,
       "event": "won: nigiri99 \u2014 Will CA River Plate win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788121633.9272807,
+      "bankroll": 338.82,
+      "event": "won: ferrariChampions2026 \u2014 Seattle Mariners vs. Toronto Blue Jays"
+    },
+    {
+      "timestamp": 1788121638.4189036,
+      "bankroll": 333.71,
+      "event": "lost: nigiri99 \u2014 Boston Red Sox vs. New York Yankees: O/U 8.5"
+    },
+    {
+      "timestamp": 1788121639.3797271,
+      "bankroll": 339.21,
+      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. New York Yankees: O/U 8.5"
     }
   ]
 }
