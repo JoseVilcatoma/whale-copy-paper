@@ -1,5 +1,5 @@
 {
-  "bankroll": 353.57957377680395,
+  "bankroll": 355.4246848879151,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15715,6 +15715,11 @@
       "timestamp": 1788112043.1621406,
       "bankroll": 353.58,
       "event": "lost: ArturitoFilito \u2014 Manchester United FC vs. Ipswich Town FC: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788112324.206631,
+      "bankroll": 355.42,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season (+1.85 USD)"
     }
   ]
 }

@@ -79101,8 +79101,8 @@
     "title": "Counter-Strike: Vitality vs Legacy - Map 2 Winner",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 16644.3154,
-    "whale_pct": 4.719,
+    "whale_usd": 24570.4789,
+    "whale_pct": 6.966,
     "whale_value_at_open": 352728.7818,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -79115,8 +79115,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111575.7429,
-    "fills": 3
+    "last_fill_at": 1788112407.717064,
+    "fills": 4
   },
   {
     "timestamp": 1788110645,
@@ -79184,13 +79184,15 @@
     "odds_at_bet": 45,
     "fee_usd": 0.138,
     "odds_ballena": 44,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 1.85,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788111877.5329401,
-    "fills": 9
+    "fills": 9,
+    "fee_total_usd": 0.266,
+    "closed_price": 64
   },
   {
     "timestamp": 1788111289,
@@ -79291,5 +79293,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788112051.9207394,
     "fills": 1
+  },
+  {
+    "timestamp": 1788112364,
+    "timestamp_added": 1788112364.954865,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-fnc-gx-2026-08-30",
+    "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
+    "outcome": "GIANTX",
+    "side": "BUY",
+    "whale_usd": 1598.616,
+    "whale_pct": 1.338,
+    "whale_value_at_open": 119436.1467,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788112369.2339914,
+    "fills": 2
   }
 ]
