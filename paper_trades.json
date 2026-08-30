@@ -74829,5 +74829,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788058944.2481432,
     "fills": 2
+  },
+  {
+    "timestamp": 1788059857,
+    "timestamp_added": 1788059858.6643987,
+    "username": "casualbet2020",
+    "wallet": "0x65c18d740c8246af3353741c0b32e4b6da552988",
+    "slug": "val-kc3-tl1-2026-08-30-game3",
+    "title": "Valorant: Karmine Corp vs Team Liquid - Map 3 Winner",
+    "outcome": "Karmine Corp",
+    "side": "BUY",
+    "whale_usd": 1069.4904,
+    "whale_pct": 25.153,
+    "whale_value_at_open": 4251.9108,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788059858.6644094,
+    "fills": 1
   }
 ]
