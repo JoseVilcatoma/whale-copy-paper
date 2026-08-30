@@ -73608,8 +73608,8 @@
     "title": "Hawaii vs. Stanford",
     "outcome": "Stanford",
     "side": "BUY",
-    "whale_usd": 1745.5001000000002,
-    "whale_pct": 0.895,
+    "whale_usd": 2757.8851000000004,
+    "whale_pct": 1.413,
     "whale_value_at_open": 195132.7939,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -73620,8 +73620,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788048860.4623532,
-    "fills": 1
+    "last_fill_at": 1788050377.1695564,
+    "fills": 2
   },
   {
     "timestamp": 1788048968,

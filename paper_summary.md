@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 19:37:43 (hora de Perú)
+Actualizado: 2026-08-29 19:39:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.60
@@ -607,7 +607,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-3.5) | Texas Rangers (BUY) | 53% | 5.00 | 2.5% | ⏳ pendiente | — |
-| HomeRunHazard | Hawaii vs. Stanford | Stanford (BUY) | 79% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Hawaii vs. Stanford | Stanford (BUY) | 79% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | HomeRunHazard | Bears vs. Titans | Bears (BUY) | 92% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 76% | 5.00 | 5.0% | ⏳ pendiente | — |
