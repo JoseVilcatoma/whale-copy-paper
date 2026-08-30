@@ -72472,8 +72472,8 @@
     "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 9019.708,
-    "whale_pct": 67.361,
+    "whale_usd": 11212.6165,
+    "whale_pct": 83.738,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72484,8 +72484,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788068716.5319974,
-    "fills": 6
+    "last_fill_at": 1788071858.6944528,
+    "fills": 7
   },
   {
     "timestamp": 1788038865,
