@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:35:27 (hora de Perú)
+Actualizado: 2026-08-30 10:37:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $383.97
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 10:35:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $367.82 en 75 posiciones abiertas (disponible para nuevas apuestas: $16.15)
+**Capital comprometido ahora mismo:** $372.82 en 76 posiciones abiertas (disponible para nuevas apuestas: $11.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 8 | 0 | -6.84 USD |
 | vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| quavoo | 5 | 4 | 15 | -7.83 USD |
+| quavoo | 5 | 4 | 16 | -7.83 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -623,11 +623,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: PLD (-1.5) vs BORRACHEIROS | Peladona (BUY) | 73% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ArturitoFilito | Manchester United FC vs. Ipswich Town FC | No (BUY) | 43% | 5.00 | 16.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics (BO3) | Movistar KOI (BUY) | 98% | 5.00 | 3.6% | ⏳ pendiente | — |
-| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 2872.5% | ⏳ pendiente | — |
+| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 3200.1% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 37.4% | ⏳ pendiente | — |
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ⏳ pendiente | — |
@@ -652,4 +653,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ArturitoFilito | Will Chelsea FC win on 2026-08-30? | No (BUY) | 49% | 5.00 | 157.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ✅ ganada | +0.05 |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 58% | 5.00 | 227.2% | ⏳ pendiente | — |
-| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes (BUY) | 44% | 5.00 | 36.2% | ⏳ pendiente | — |

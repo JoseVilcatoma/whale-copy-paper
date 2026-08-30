@@ -78731,8 +78731,8 @@
     "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
     "outcome": "Arthur Rinderknech",
     "side": "BUY",
-    "whale_usd": 148989.1084,
-    "whale_pct": 2872.514,
+    "whale_usd": 165982.3738,
+    "whale_pct": 3200.145,
     "whale_value_at_open": 5186.7145,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -78745,8 +78745,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788103804.0936134,
-    "fills": 9
+    "last_fill_at": 1788104226.2015903,
+    "fills": 11
   },
   {
     "timestamp": 1788102671,
@@ -78842,6 +78842,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788103986.2590163,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788104225,
+    "timestamp_added": 1788104225.6906495,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-col-atl-2026-08-30",
+    "title": "Colorado Rockies vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 3119.1600000000003,
+    "whale_pct": 0.575,
+    "whale_value_at_open": 542702.1186,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788104225.6906633,
     "fills": 1
   }
 ]
