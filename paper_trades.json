@@ -73336,8 +73336,8 @@
     "title": "Monterrey Open: Diane Parry vs Elise Mertens",
     "outcome": "Elise Mertens",
     "side": "BUY",
-    "whale_usd": 7397.167200000001,
-    "whale_pct": 3.873,
+    "whale_usd": 9225.3384,
+    "whale_pct": 4.83,
     "whale_value_at_open": 191017.7492,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -73348,8 +73348,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788052613.382829,
-    "fills": 3
+    "last_fill_at": 1788052870.2645254,
+    "fills": 5
   },
   {
     "timestamp": 1788046980,
@@ -73565,8 +73565,8 @@
     "odds_at_bet": 92,
     "fee_usd": 0.02,
     "odds_ballena": 90,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.41,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

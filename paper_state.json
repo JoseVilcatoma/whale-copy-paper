@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.4461212659559,
+  "bankroll": 497.86090387465157,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14630,6 +14630,11 @@
       "timestamp": 1788051620.1381524,
       "bankroll": 497.45,
       "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Parry vs Mertens"
+    },
+    {
+      "timestamp": 1788052818.4825935,
+      "bankroll": 497.86,
+      "event": "won: HomeRunHazard \u2014 Bears vs. Titans"
     }
   ]
 }
