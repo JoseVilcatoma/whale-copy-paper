@@ -79787,5 +79787,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788127006.9741943,
     "fills": 1
+  },
+  {
+    "timestamp": 1788127191,
+    "timestamp_added": 1788127192.424585,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ts7-furia-2026-08-30-game2",
+    "title": "Counter-Strike: Spirit vs FURIA - Map 2 Winner",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 587.6871,
+    "whale_pct": 0.831,
+    "whale_value_at_open": 70684.5321,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788127192.4246078,
+    "fills": 1
   }
 ]
