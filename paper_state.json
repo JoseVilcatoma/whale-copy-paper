@@ -1,5 +1,5 @@
 {
-  "bankroll": 329.622424977423,
+  "bankroll": 316.4707225964706,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16090,6 +16090,21 @@
       "timestamp": 1788133191.0489552,
       "bankroll": 329.62,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko (-1.03 USD)"
+    },
+    {
+      "timestamp": 1788133927.703023,
+      "bankroll": 326.65,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko (-2.97 USD)"
+    },
+    {
+      "timestamp": 1788133976.2566447,
+      "bankroll": 321.52,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: IMP (-1.5) vs Galorys (+1.5)"
+    },
+    {
+      "timestamp": 1788133976.5039818,
+      "bankroll": 316.47,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Galorys vs Imperial (BO3) - ESL Challenger League South America Cup #1 Playoffs"
     }
   ]
 }

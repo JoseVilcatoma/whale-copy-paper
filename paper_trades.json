@@ -79160,8 +79160,8 @@
     "odds_at_bet": 50,
     "fee_usd": 0.125,
     "odds_ballena": 49,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -79338,8 +79338,8 @@
     "odds_at_bet": 79,
     "fee_usd": 0.052,
     "odds_ballena": 77,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -80499,8 +80499,8 @@
     "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
     "outcome": "Novak Djokovic",
     "side": "BUY",
-    "whale_usd": 9364.1795,
-    "whale_pct": 3.734,
+    "whale_usd": 11385.598447,
+    "whale_pct": 4.541,
     "whale_value_at_open": 250750.6962,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -80511,8 +80511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788133722.8786132,
-    "fills": 3
+    "last_fill_at": 1788133969.4809866,
+    "fills": 4
   },
   {
     "timestamp": 1788133190,
@@ -80556,15 +80556,17 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -2.97,
     "overlaps_with": [
       "RN1"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788133227.0464578,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.237,
+    "closed_price": 19
   },
   {
     "timestamp": 1788133247,
@@ -80599,8 +80601,8 @@
     "title": "US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino",
     "outcome": "Adrian Mannarino",
     "side": "BUY",
-    "whale_usd": 2552.9,
-    "whale_pct": 0.931,
+    "whale_usd": 7517.2083,
+    "whale_pct": 2.742,
     "whale_value_at_open": 274107.2754,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -80611,8 +80613,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788133492.0116432,
-    "fills": 1
+    "last_fill_at": 1788134000.0634408,
+    "fills": 4
   },
   {
     "timestamp": 1788133500,
@@ -80685,5 +80687,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788133771.476037,
     "fills": 1
+  },
+  {
+    "timestamp": 1788133928,
+    "timestamp_added": 1788133929.3555608,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-birrell-marcink-2026-08-30",
+    "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
+    "outcome": "Petra Marcinko",
+    "side": "BUY",
+    "whale_usd": 35703.8019,
+    "whale_pct": 788.548,
+    "whale_value_at_open": 4527.7887,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788133932.0932581,
+    "fills": 3
   }
 ]
