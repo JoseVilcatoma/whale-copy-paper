@@ -1,5 +1,5 @@
 {
-  "bankroll": 476.28099935095634,
+  "bankroll": 471.30563852621407,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14800,6 +14800,16 @@
       "timestamp": 1788058445.533343,
       "bankroll": 476.28,
       "event": "won: SDTrading \u2014 CHI vs. TEN: O/U 36.5"
+    },
+    {
+      "timestamp": 1788058575.2314146,
+      "bankroll": 471.16,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Vancouver Whitecaps FC (-1.5)"
+    },
+    {
+      "timestamp": 1788058577.056225,
+      "bankroll": 471.31,
+      "event": "won: ferrariChampions2026 \u2014 Will Sporting Kansas City win on 2026-08-29?"
     }
   ]
 }

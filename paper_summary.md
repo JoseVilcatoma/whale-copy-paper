@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:55:20 (hora de Perú)
+Actualizado: 2026-08-29 21:57:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $476.28
-**Retorno acumulado:** -4.74%
+**Bankroll actual:** $471.31
+**Retorno acumulado:** -5.74%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:55:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $196.28)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $181.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 397 | 204 | 20 | +26.81 USD |
+| HomeRunHazard | 397 | 204 | 22 | +26.81 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -94,19 +94,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 418 | 200 | 1 | -39.34 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
-| ferrariChampions2026 | 342 | 209 | 19 | -89.47 USD |
+| ferrariChampions2026 | 343 | 210 | 19 | -94.44 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2832
-- **Aciertos:** 1813 (64.0%)
+- **Apuestas resueltas:** 2834
+- **Aciertos:** 1814 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,147.59
-- **ROI sobre lo apostado:** -0.83%
-- **Comisiones pagadas (taker fee):** $258.91 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.00% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,157.59
+- **ROI sobre lo apostado:** -0.87%
+- **Comisiones pagadas (taker fee):** $259.04 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,10 +114,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1419 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1420 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 842 | 70.3% | 67.8% | +2.5 pp |
 | 80-94% | 393 | 86.3% | 86.7% | -0.5 pp |
-| 95-99% (casi seguro) | 178 | 96.1% | 97.4% | -1.3 pp |
+| 95-99% (casi seguro) | 179 | 96.1% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -602,6 +602,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Baltimore Orioles vs. Athletics | Baltimore Orioles (BUY) | 72% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Philadelphia Phillies (-3.5) | Los Angeles Angels (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 67% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -622,13 +626,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 18.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |
 | ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Under (BUY) | 53% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Jose Earthquakes win on 2026-08 | No (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | Boston Red Sox (BUY) | 69% | 5.00 | 5.5% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-29? | Yes (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | Will New York City FC win on 2026-08-29? | Yes (BUY) | 65% | 5.00 | 0.3% | ❌ perdida | -5.09 |
-| HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
-| HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 4.8% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ✅ ganada | +4.88 |
