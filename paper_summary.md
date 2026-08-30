@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:07:33 (hora de Perú)
+Actualizado: 2026-08-30 09:09:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $398.41
-**Retorno acumulado:** -20.32%
+**Bankroll actual:** $402.08
+**Retorno acumulado:** -19.58%
 **Peor caída desde un máximo (drawdown):** 34.69%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:07:33 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $398.41 en 81 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $398.41 en 81 posiciones abiertas (disponible para nuevas apuestas: $3.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| quavoo | 4 | 4 | 9 | -8.74 USD |
+| quavoo | 4 | 4 | 10 | -8.74 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
-| RN1 | 435 | 205 | 27 | -23.96 USD |
+| RN1 | 436 | 205 | 26 | -20.30 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
@@ -101,14 +101,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2953
-- **Aciertos:** 1882 (63.7%)
+- **Apuestas resueltas:** 2954
+- **Aciertos:** 1883 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,752.59
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $270.03 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,757.59
+- **ROI sobre lo apostado:** -1.32%
+- **Comisiones pagadas (taker fee):** $270.14 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1481 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1482 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 878 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 410 | 86.3% | 86.6% | -0.3 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
@@ -619,6 +619,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes (BUY) | 71% | 5.00 | 5.2% | ⏳ pendiente | — |
 | RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
@@ -633,7 +634,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | FC St. Pauli 1910 vs. 1. FC Kaiserslaute | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Kaiserslautern win on 2026-08 | Yes (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 2.5 | Under (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Como: Olle Wallin vs Niccolo Catini | Olle Wallin (BUY) | 57% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | Como: Olle Wallin vs Niccolo Catini | Olle Wallin (BUY) | 57% | 5.00 | 1.9% | ✅ ganada | +3.66 |
 | RN1 | AIK vs. Hammarby IF: O/U 4.5 | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will Club Brugge win on 2026-08-30? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 52% | 4.59 | 0.2% | ⏳ pendiente | — |
@@ -648,4 +649,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 2 | Over (BUY) | 63% | 4.72 | 0.5% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 3 | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 41.9% | ✅ ganada | +1.05 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 398.41189831687814,
+  "bankroll": 402.07582814143956,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15440,6 +15440,11 @@
       "timestamp": 1788098589.9612346,
       "bankroll": 398.41,
       "event": "won: nigiri99 \u2014 KBO: Kiwoom Heroes vs. Doosan Bears"
+    },
+    {
+      "timestamp": 1788098915.5124009,
+      "bankroll": 402.08,
+      "event": "won: RN1 \u2014 Como: Olle Wallin vs Niccolo Catini"
     }
   ]
 }
