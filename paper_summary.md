@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 02:02:22 (hora de Perú)
+Actualizado: 2026-08-30 02:04:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $418.85
@@ -603,7 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open WTA: Talia Gibson vs Donna Vekic | Talia Gibson (BUY) | 50% | 5.00 | 1.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Talia Gibson vs Donna Vekic | Talia Gibson (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming - M | Aurora Gaming (BUY) | 68% | 5.00 | 3.2% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Renata Zarazua vs Polina Ia | Renata Zarazua (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |

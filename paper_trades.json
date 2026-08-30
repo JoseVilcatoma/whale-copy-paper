@@ -75853,8 +75853,8 @@
     "title": "US Open WTA: Talia Gibson vs Donna Vekic",
     "outcome": "Talia Gibson",
     "side": "BUY",
-    "whale_usd": 3870.769999,
-    "whale_pct": 1.914,
+    "whale_usd": 4691.144099,
+    "whale_pct": 2.319,
     "whale_value_at_open": 202279.4912,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -75865,7 +75865,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788073257.5177348,
-    "fills": 1
+    "last_fill_at": 1788073381.4702263,
+    "fills": 2
   }
 ]
