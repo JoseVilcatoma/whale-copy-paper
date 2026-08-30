@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 17:03:10 (hora de Perú)
+Actualizado: 2026-08-30 17:05:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $326.34
-**Retorno acumulado:** -34.73%
+**Bankroll actual:** $330.43
+**Retorno acumulado:** -33.91%
 **Peor caída desde un máximo (drawdown):** 48.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 17:03:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $181.34)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $195.43)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 106 | 44 | 3 | +84.33 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 106 | 45 | 2 | +83.55 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 24 | 7 | 9 | +34.91 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -98,18 +98,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 449 | 217 | 1 | -44.99 USD |
 | Sassy-Bucket | 21 | 36 | 1 | -83.04 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 371 | 233 | 4 | -147.28 USD |
+| ferrariChampions2026 | 372 | 233 | 3 | -142.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3058
-- **Aciertos:** 1941 (63.5%)
+- **Apuestas resueltas:** 3059
+- **Aciertos:** 1942 (63.5%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,265.24
-- **ROI sobre lo apostado:** -1.79%
-- **Comisiones pagadas (taker fee):** $279.79 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,270.24
+- **ROI sobre lo apostado:** -1.75%
+- **Comisiones pagadas (taker fee):** $279.91 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1538 | 49.2% | 50.1% | -1.0 pp |
+| 40-59% | 1539 | 49.2% | 50.1% | -0.9 pp |
 | 60-79% | 908 | 70.0% | 67.9% | +2.2 pp |
 | 80-94% | 424 | 86.8% | 86.6% | +0.2 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
@@ -634,7 +634,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Spirit vs FURIA - Map 2  | Spirit (BUY) | 58% | 5.00 | 0.8% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 41% | 5.00 | 6.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 41% | 5.00 | 6.5% | 💰 vendida anticipada | -0.78 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 66% | 5.00 | 34.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 83% | 5.00 | 49.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 56% | 5.00 | 74.4% | 💰 vendida anticipada | +0.77 |

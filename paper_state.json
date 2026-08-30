@@ -1,5 +1,5 @@
 {
-  "bankroll": 326.33660159771944,
+  "bankroll": 330.4336625733292,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15995,6 +15995,16 @@
       "timestamp": 1788127083.71895,
       "bankroll": 326.34,
       "event": "won: SDTrading \u2014 Texas Rangers vs. Milwaukee Brewers"
+    },
+    {
+      "timestamp": 1788127397.6097949,
+      "bankroll": 325.56,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion - Game 1 Winner (-0.78 USD)"
+    },
+    {
+      "timestamp": 1788127402.5820744,
+      "bankroll": 330.43,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Hanne Vandewinkel vs Karolina Pliskova"
     }
   ]
 }
