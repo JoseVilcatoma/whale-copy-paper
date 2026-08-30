@@ -1,5 +1,5 @@
 {
-  "bankroll": 401.56855541416684,
+  "bankroll": 408.6794965906374,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15460,6 +15460,21 @@
       "timestamp": 1788099226.0801442,
       "bankroll": 401.57,
       "event": "won: RN1 \u2014 FC Utrecht vs. PSV: O/U 3.5"
+    },
+    {
+      "timestamp": 1788100485.7938428,
+      "bankroll": 403.17,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1788100491.127633,
+      "bankroll": 405.45,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: M80 vs Aurora Gaming - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788100494.1783228,
+      "bankroll": 408.68,
+      "event": "won: ferrariChampions2026 \u2014 Incheon United FC vs. Jeonbuk Hyundai Motors FC: O/U 2.5"
     }
   ]
 }

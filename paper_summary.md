@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:32:50 (hora de Perú)
+Actualizado: 2026-08-30 09:35:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $401.57
-**Retorno acumulado:** -19.69%
+**Bankroll actual:** $408.68
+**Retorno acumulado:** -18.26%
 **Peor caída desde un máximo (drawdown):** 34.69%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:32:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $401.57 en 82 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $391.57 en 80 posiciones abiertas (disponible para nuevas apuestas: $17.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 98 | 42 | 1 | +81.77 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 98 | 42 | 2 | +81.77 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 19 | 2 | 14 | +46.91 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 21 | 2 | 12 | +50.78 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -96,19 +96,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 364 | 221 | 23 | -105.44 USD |
+| ferrariChampions2026 | 365 | 221 | 22 | -102.21 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2957
-- **Aciertos:** 1885 (63.7%)
+- **Apuestas resueltas:** 2960
+- **Aciertos:** 1888 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,772.59
-- **ROI sobre lo apostado:** -1.33%
-- **Comisiones pagadas (taker fee):** $270.42 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,787.59
+- **ROI sobre lo apostado:** -1.28%
+- **Comisiones pagadas (taker fee):** $270.66 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.55% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1484 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 878 | 70.0% | 67.8% | +2.2 pp |
+| 60-79% | 881 | 70.1% | 67.8% | +2.3 pp |
 | 80-94% | 411 | 86.4% | 86.6% | -0.2 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
@@ -619,6 +619,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 8.0% | ⏳ pendiente | — |
 | nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -648,4 +649,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will FC St. Pauli 1910 win on 2026-08-30 | No (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 4 Winne | JD Gaming (BUY) | 55% | 5.00 | 43.1% | ❌ perdida | -5.11 |
 | RN1 | Will Club Brugge win on 2026-08-30? | Yes (BUY) | 57% | 2.86 | 0.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs UNiTY espor | ex-RUSTEC (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
