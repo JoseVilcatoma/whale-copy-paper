@@ -78683,8 +78683,8 @@
     "title": "LoL: Movistar KOI vs Team Heretics - Game 2 Winner",
     "outcome": "Movistar KOI",
     "side": "BUY",
-    "whale_usd": 762.9576,
-    "whale_pct": 2.973,
+    "whale_usd": 4336.8576,
+    "whale_pct": 16.897,
     "whale_value_at_open": 25667.0454,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -78695,8 +78695,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788102140.7248676,
-    "fills": 1
+    "last_fill_at": 1788102318.050469,
+    "fills": 3
   },
   {
     "timestamp": 1788102202,
@@ -78720,6 +78720,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788102203.1379092,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788102323,
+    "timestamp_added": 1788102324.1572158,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-shimabu-rinderk-2026-08-30",
+    "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
+    "outcome": "Arthur Rinderknech",
+    "side": "BUY",
+    "whale_usd": 19500.0,
+    "whale_pct": 375.961,
+    "whale_value_at_open": 5186.7145,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788102324.1572247,
     "fills": 1
   }
 ]

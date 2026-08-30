@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:04:12 (hora de Perú)
+Actualizado: 2026-08-30 10:06:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $415.39
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 10:04:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.15 en 83 posiciones abiertas (disponible para nuevas apuestas: $10.24)
+**Capital comprometido ahora mismo:** $410.15 en 84 posiciones abiertas (disponible para nuevas apuestas: $5.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
-| beachboy4 | 1 | 1 | 0 | -3.36 USD |
+| beachboy4 | 1 | 1 | 1 | -3.36 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | HomeRunHazard | 416 | 223 | 1 | -3.71 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
@@ -595,6 +595,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-col-atl-2026-08-29 | RN1, ferrariChampions2026 |
 | lol-c9-ly-2026-08-29-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-c9-ly-2026-08-29-game-handicap-home-1pt5 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| atp-shimabu-rinderk-2026-08-30 | beachboy4, ferrariChampions2026 |
 | mlb-ari-sf-2026-08-29 | HomeRunHazard, RN1, SDTrading, ferrariChampions2026 |
 | atp-mayo-andrade-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-bos-nyy-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
@@ -622,8 +623,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 376.0% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 3.0% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 16.9% | ⏳ pendiente | — |
 | ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ⏳ pendiente | — |
 | SDTrading | San Diego Padres vs. Tampa Bay Rays | San Diego Padres (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
@@ -651,4 +653,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | FC St. Pauli 1910 vs. 1. FC Kaiserslaute | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Kaiserslautern win on 2026-08 | Yes (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 2.5 | Under (BUY) | 96% | 5.00 | 0.3% | ✅ ganada | +0.20 |
-| RN1 | Como: Olle Wallin vs Niccolo Catini | Olle Wallin (BUY) | 57% | 5.00 | 1.9% | ✅ ganada | +3.66 |
