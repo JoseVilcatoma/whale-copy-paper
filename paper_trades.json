@@ -79663,5 +79663,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788122668.546918,
     "fills": 1
+  },
+  {
+    "timestamp": 1788123445,
+    "timestamp_added": 1788123446.6641402,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "wnba-la-sea-2026-08-30-total-174pt5",
+    "title": "Los Angeles Sparks vs. Seattle Storm: O/U 174.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 546.35,
+    "whale_pct": 0.202,
+    "whale_value_at_open": 270015.7643,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788123446.664156,
+    "fills": 1
   }
 ]

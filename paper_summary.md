@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:55:26 (hora de Perú)
+Actualizado: 2026-08-30 15:57:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $328.05
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 15:55:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $183.69 en 37 posiciones abiertas (disponible para nuevas apuestas: $144.36)
+**Capital comprometido ahora mismo:** $188.69 en 38 posiciones abiertas (disponible para nuevas apuestas: $139.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
-| quavoo | 18 | 8 | 8 | +6.46 USD |
+| quavoo | 18 | 8 | 9 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -632,6 +632,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Los Angeles Sparks vs. Seattle Storm: O/ | Under (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Fluxo W7M vs ShindeN (BO | ShindeN (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
 | nigiri99 | CD Godoy Cruz vs. CA San Telmo: O/U 2.5 | Over (BUY) | 42% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Will SE Palmeiras win on 2026-08-30? | Yes (BUY) | 45% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -661,4 +662,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | RC Deportivo A Coruña vs. Valencia CF: 1 | Over (BUY) | 65% | 5.00 | 0.2% | ✅ ganada | +2.61 |
 | SDTrading | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 47% | 3.19 | 0.7% | ❌ perdida | -3.27 |
 | nigiri99 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 54% | 5.00 | 0.8% | ✅ ganada | +4.14 |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 69% | 5.00 | 4.8% | ✅ ganada | +2.17 |
