@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 16143.011199999997,
-    "whale_pct": 120.56,
+    "whale_usd": 18340.907399999996,
+    "whale_pct": 136.974,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788049796.5341432,
-    "fills": 8
+    "last_fill_at": 1788050703.2579424,
+    "fills": 9
   },
   {
     "timestamp": 1788038109,
@@ -73842,5 +73842,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788050602.5168297,
     "fills": 1
+  },
+  {
+    "timestamp": 1788050707,
+    "timestamp_added": 1788050707.7919354,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "cfb-hawaii-stan-2026-08-29-spread-home-7pt5",
+    "title": "Spread: Stanford (-7.5)",
+    "outcome": "Stanford",
+    "side": "BUY",
+    "whale_usd": 2286.0,
+    "whale_pct": 1.081,
+    "whale_value_at_open": 211477.7252,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788050710.2578661,
+    "fills": 2
   }
 ]
