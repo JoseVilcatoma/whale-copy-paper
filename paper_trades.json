@@ -73043,8 +73043,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Aidan Mayo",
     "side": "BUY",
-    "whale_usd": 66429.7073,
-    "whale_pct": 35.055,
+    "whale_usd": 67273.172425,
+    "whale_pct": 35.5,
     "whale_value_at_open": 189504.0763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -73055,8 +73055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788052137.7952871,
-    "fills": 14
+    "last_fill_at": 1788052304.2586496,
+    "fills": 15
   },
   {
     "timestamp": 1788045252,
@@ -74013,6 +74013,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788051836.8516505,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788052353,
+    "timestamp_added": 1788052353.8257713,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-bos-nyy-2026-08-29-spread-home-2pt5",
+    "title": "Spread: New York Yankees (-2.5)",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 13432.04,
+    "whale_pct": 5.494,
+    "whale_value_at_open": 244473.2595,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HomeRunHazard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788052353.8257813,
     "fills": 1
   }
 ]
