@@ -75949,8 +75949,8 @@
     "title": "Map Handicap: FUT (-1.5) vs Inner Circle Esports (+1.5)",
     "outcome": "Inner Circle Esports",
     "side": "BUY",
-    "whale_usd": 5265.9381,
-    "whale_pct": 3.756,
+    "whale_usd": 8873.9876,
+    "whale_pct": 6.33,
     "whale_value_at_open": 140184.3926,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -75961,8 +75961,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788099335.1630852,
-    "fills": 2
+    "last_fill_at": 1788100225.6073632,
+    "fills": 3
   },
   {
     "timestamp": 1788074397,
@@ -78410,8 +78410,8 @@
     "title": "Real Madrid CF vs. M\u00e1laga CF: O/U 2.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 3250.4,
-    "whale_pct": 0.709,
+    "whale_usd": 3796.0,
+    "whale_pct": 0.828,
     "whale_value_at_open": 458678.9107,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -78422,8 +78422,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788099740.1792996,
-    "fills": 3
+    "last_fill_at": 1788100222.7074368,
+    "fills": 4
   },
   {
     "timestamp": 1788099254,
