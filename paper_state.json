@@ -1,5 +1,5 @@
 {
-  "bankroll": 416.28914074112055,
+  "bankroll": 400.97114074112056,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15415,6 +15415,21 @@
       "timestamp": 1788096072.6220534,
       "bankroll": 416.29,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Kursumlijska Banja 13 (Serbia), clay: Branko Djuric vs Dmitry Popko"
+    },
+    {
+      "timestamp": 1788097003.4202075,
+      "bankroll": 411.21,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: JD Gaming vs Team WE (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788097012.0262249,
+      "bankroll": 406.08,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: JDG (-1.5) vs Team WE (+1.5)"
+    },
+    {
+      "timestamp": 1788097017.9096527,
+      "bankroll": 400.97,
+      "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: JD Gaming vs Team WE - Game 4 Winner"
     }
   ]
 }
