@@ -77721,5 +77721,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788089885.3043656,
     "fills": 1
+  },
+  {
+    "timestamp": 1788090104,
+    "timestamp_added": 1788090105.45784,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "arg-ban-riv-2026-08-30-riv",
+    "title": "Will CA River Plate win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 2050.0,
+    "whale_pct": 1.161,
+    "whale_value_at_open": 176611.7014,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788090105.4578507,
+    "fills": 1
   }
 ]
