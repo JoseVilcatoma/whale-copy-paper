@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 22:42:56 (hora de Perú)
+Actualizado: 2026-08-29 22:45:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $474.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 22:42:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $204.17)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $199.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 1 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 401 | 207 | 17 | +26.47 USD |
+| HomeRunHazard | 401 | 207 | 18 | +26.47 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -603,6 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: UNLV Runnin' (-7.5) | Memphis (BUY) | 53% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Alabama A&M vs. Howard | Howard (BUY) | 87% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 93% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -632,4 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will CF América win on 2026-08-29? | Yes (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota United FC vs. Orlando City SC: | Over (BUY) | 47% | 5.00 | 0.6% | ✅ ganada | +5.51 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NAVI (-1.5) vs G2 (+1.5) | G2 (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
