@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:08:39 (hora de Perú)
+Actualizado: 2026-08-30 00:10:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $465.05
-**Retorno acumulado:** -6.99%
+**Bankroll actual:** $454.82
+**Retorno acumulado:** -9.04%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 00:08:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $115.05)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $114.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,8 +30,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 402 | 208 | 30 | +26.86 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
+| HomeRunHazard | 402 | 210 | 28 | +16.62 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2858
-- **Aciertos:** 1828 (64.0%)
+- **Apuestas resueltas:** 2860
+- **Aciertos:** 1828 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,277.59
-- **ROI sobre lo apostado:** -0.90%
-- **Comisiones pagadas (taker fee):** $261.43 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,287.59
+- **ROI sobre lo apostado:** -0.97%
+- **Comisiones pagadas (taker fee):** $261.67 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1436 | 50.1% | 50.1% | -0.1 pp |
+| 40-59% | 1438 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 846 | 70.2% | 67.8% | +2.4 pp |
 | 80-94% | 396 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 180 | 96.1% | 97.4% | -1.3 pp |
@@ -609,7 +609,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 28.5% | ⏳ pendiente | — |
-| HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 6.3% | ⏳ pendiente | — |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 8.5 | Over (BUY) | 86% | 5.00 | 8.4% | ⏳ pendiente | — |
