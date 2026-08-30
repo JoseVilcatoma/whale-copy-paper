@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:20:50 (hora de Perú)
+Actualizado: 2026-08-30 18:22:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $327.92
-**Retorno acumulado:** -34.42%
+**Bankroll actual:** $325.77
+**Retorno acumulado:** -34.85%
 **Peor caída desde un máximo (drawdown):** 48.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 18:20:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $187.92)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $190.77)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 111 | 46 | 0 | +91.42 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 111 | 46 | 1 | +91.42 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -82,7 +82,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 2 | 2 | 0 | -5.15 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| texaskid | 8 | 8 | 2 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -90,26 +89,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
+| texaskid | 8 | 9 | 1 | -11.96 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 449 | 217 | 1 | -44.99 USD |
-| Sassy-Bucket | 21 | 36 | 1 | -83.04 USD |
+| Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3068
-- **Aciertos:** 1947 (63.5%)
-- **Cuota promedio de entrada:** 63.4%
+- **Apuestas resueltas:** 3070
+- **Aciertos:** 1948 (63.5%)
+- **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,315.24
-- **ROI sobre lo apostado:** -1.79%
-- **Comisiones pagadas (taker fee):** $280.67 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,325.24
+- **ROI sobre lo apostado:** -1.81%
+- **Comisiones pagadas (taker fee):** $280.89 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1543 | 49.2% | 50.1% | -0.9 pp |
-| 60-79% | 911 | 69.9% | 67.9% | +2.1 pp |
+| 40-59% | 1544 | 49.2% | 50.1% | -1.0 pp |
+| 60-79% | 912 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 426 | 86.9% | 86.6% | +0.3 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
@@ -635,6 +635,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 88% | 5.00 | 9.6% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 30.6% | ⏳ pendiente | — |
 | SDTrading | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 42% | 5.00 | 16.5% | ⏳ pendiente | — |
 | nigiri99 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Under (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -663,5 +664,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 12.9% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 55% | 5.00 | 2.8% | ✅ ganada | +3.98 |
 | beachboy4 | US Open WTA: Lucrezia Stefanini vs Dayan | Lucrezia Stefanini (BUY) | 81% | 5.00 | 13.1% | ✅ ganada | +1.13 |
-| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 62% | 5.00 | 14.1% | ⏳ pendiente | — |
-| nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 55% | 5.00 | 0.2% | ✅ ganada | +3.98 |
+| Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 62% | 5.00 | 14.1% | ✅ ganada | +2.97 |

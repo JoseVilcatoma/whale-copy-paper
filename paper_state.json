@@ -1,5 +1,5 @@
 {
-  "bankroll": 327.9211908996728,
+  "bankroll": 325.7737070287051,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16070,6 +16070,16 @@
       "timestamp": 1788131978.4489787,
       "bankroll": 327.92,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion - Game 2 Winner (+4.33 USD)"
+    },
+    {
+      "timestamp": 1788132158.3392527,
+      "bankroll": 322.8,
+      "event": "lost: texaskid \u2014 Spread: Philadelphia Phillies (-1.5)"
+    },
+    {
+      "timestamp": 1788132159.0096366,
+      "bankroll": 325.77,
+      "event": "won: Sassy-Bucket \u2014 Philadelphia Phillies vs. Los Angeles Angels"
     }
   ]
 }
