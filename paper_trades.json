@@ -73144,8 +73144,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Andres Andrade",
     "side": "BUY",
-    "whale_usd": 894.7338000000001,
-    "whale_pct": 0.437,
+    "whale_usd": 5760.8958,
+    "whale_pct": 2.812,
     "whale_value_at_open": 204893.3684,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -73156,8 +73156,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788045604.0915167,
-    "fills": 1
+    "last_fill_at": 1788051878.8215554,
+    "fills": 2
   },
   {
     "timestamp": 1788045663,
@@ -73989,6 +73989,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788051649.470624,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788051836,
+    "timestamp_added": 1788051836.8516386,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-mia-mim-2026-08-29-mia",
+    "title": "Will Inter Miami CF win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 505.0452399999999,
+    "whale_pct": 0.226,
+    "whale_value_at_open": 223266.9834,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788051836.8516505,
     "fills": 1
   }
 ]
