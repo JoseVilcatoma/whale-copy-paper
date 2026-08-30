@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:28:22 (hora de Perú)
+Actualizado: 2026-08-29 21:30:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $499.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:28:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $189.47)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $179.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 89 | 38 | 0 | +73.86 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 24 | 9 | 3 | +47.29 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 6 | +36.65 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 7 | +36.65 USD |
 | HomeRunHazard | 393 | 200 | 21 | +35.08 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 418 | 200 | 1 | -39.34 USD |
-| ferrariChampions2026 | 340 | 205 | 23 | -75.51 USD |
+| ferrariChampions2026 | 340 | 205 | 24 | -75.51 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -591,6 +591,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-col-atl-2026-08-29 | RN1, ferrariChampions2026 |
 | lol-c9-ly-2026-08-29-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-c9-ly-2026-08-29-game-handicap-home-1pt5 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, ferrariChampions2026 |
+| mlb-ari-sf-2026-08-29 | SDTrading, ferrariChampions2026 |
 | atp-mayo-andrade-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-bos-nyy-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | wta-parry-mertens-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
@@ -600,6 +601,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: OG vs Eternal Fire (BO3) | Eternal Fire (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-29? | Yes (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota United FC vs. Orlando City SC: | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -628,5 +631,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 50% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-10.5) | Hawaii (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 47% | 5.00 | 3.4% | ❌ perdida | -5.13 |
-| HomeRunHazard | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Milwaukee Brewers (-3.5) | Texas Rangers (BUY) | 53% | 5.00 | 2.5% | ✅ ganada | +4.32 |
