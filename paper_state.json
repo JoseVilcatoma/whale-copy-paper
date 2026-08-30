@@ -1,5 +1,5 @@
 {
-  "bankroll": 383.97413955090343,
+  "bankroll": 387.18186723282395,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15570,6 +15570,16 @@
       "timestamp": 1788103937.7525892,
       "bankroll": 383.97,
       "event": "won: RN1 \u2014 Will Club Brugge win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788105571.3500252,
+      "bankroll": 386.4,
+      "event": "won: RN1 \u2014 Spread: Hammarby IF (-1.5)"
+    },
+    {
+      "timestamp": 1788105571.5894814,
+      "bankroll": 387.18,
+      "event": "won: RN1 \u2014 AIK vs. Hammarby IF: O/U 3.5"
     }
   ]
 }
