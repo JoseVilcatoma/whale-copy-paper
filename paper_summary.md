@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:18:47 (hora de Perú)
+Actualizado: 2026-08-30 18:20:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $323.59
-**Retorno acumulado:** -35.28%
+**Bankroll actual:** $327.92
+**Retorno acumulado:** -34.42%
 **Peor caída desde un máximo (drawdown):** 48.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 18:18:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $178.59)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $187.92)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 110 | 46 | 1 | +87.09 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 111 | 46 | 0 | +91.42 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -640,7 +640,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Under (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
 | SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 55% | 5.00 | 9.6% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 49% | 5.00 | 61.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 49% | 5.00 | 61.6% | 💰 vendida anticipada | +4.33 |
 | beachboy4 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 48% | 5.00 | 950.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 54% | 5.00 | 52.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 63% | 5.00 | 97.0% | 💰 vendida anticipada | +0.14 |
