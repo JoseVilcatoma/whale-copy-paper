@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:50:47 (hora de Perú)
+Actualizado: 2026-08-30 06:52:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.88
@@ -641,7 +641,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | 💰 vendida anticipada | +1.35 |
 | RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 11.3% | ⏳ pendiente | — |
 | RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.8% | ⏳ pendiente | — |
+| RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ✅ ganada | +1.87 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | KT Rolster (BUY) | 76% | 5.00 | 16.3% | 💰 vendida anticipada | +1.38 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 46% | 5.00 | 4.9% | 💰 vendida anticipada | +0.16 |
