@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:13:57 (hora de Perú)
+Actualizado: 2026-08-30 09:16:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $401.57
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:13:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $387.08 en 79 posiciones abiertas (disponible para nuevas apuestas: $14.49)
+**Capital comprometido ahora mismo:** $401.57 en 82 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| quavoo | 4 | 4 | 10 | -8.74 USD |
+| quavoo | 4 | 4 | 13 | -8.74 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -619,6 +619,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
+| nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ⏳ pendiente | — |
 | nigiri99 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |
@@ -646,6 +649,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 4 Winne | JD Gaming (BUY) | 55% | 5.00 | 43.1% | ❌ perdida | -5.11 |
 | RN1 | Will Club Brugge win on 2026-08-30? | Yes (BUY) | 57% | 2.86 | 0.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: ex-RUSTEC vs UNiTY espor | ex-RUSTEC (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
-| RN1 | Will CA River Plate win on 2026-08-30? | No (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 2 | Over (BUY) | 63% | 4.72 | 0.5% | ⏳ pendiente | — |
-| RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 3 | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
