@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:29:18 (hora de Perú)
+Actualizado: 2026-08-30 07:31:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $413.62
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 07:29:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $405.47 en 82 posiciones abiertas (disponible para nuevas apuestas: $8.15)
+**Capital comprometido ahora mismo:** $410.47 en 83 posiciones abiertas (disponible para nuevas apuestas: $3.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| 3edmond.dantes | 2 | 1 | 0 | +5.35 USD |
+| 3edmond.dantes | 2 | 1 | 1 | +5.35 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
@@ -611,11 +611,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | itf-palicov-zoldako-2026-08-30 | RN1, ferrariChampions2026 |
 | atp-vales-manukya-2026-08-30 | RN1, ferrariChampions2026 |
 | ere-utr-psv-2026-08-30-total-3pt5 | RN1, ferrariChampions2026 |
+| epl-sun-ful-2026-08-30-sun | 3edmond.dantes, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes (BUY) | 44% | 5.00 | 36.2% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 1 | Under (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | FC St. Pauli 1910 vs. 1. FC Kaiserslaute | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Kaiserslautern win on 2026-08 | Yes (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -645,4 +647,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | Team WE (BUY) | 67% | 5.00 | 0.8% | 💰 vendida anticipada | -1.52 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | Team WE (BUY) | 85% | 5.00 | 0.5% | 💰 vendida anticipada | -0.44 |
 | ferrariChampions2026 | Spread: FK Bodø/Glimt (-1.5) | Rosenborg BK (BUY) | 50% | 5.00 | 14.1% | ⏳ pendiente | — |
-| RN1 | Plovdiv 3: Oleksandr Ovcharenko vs Edoar | Oleksandr Ovcharenko (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |

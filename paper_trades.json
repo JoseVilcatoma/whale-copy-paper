@@ -78105,5 +78105,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788092701.176514,
     "fills": 1
+  },
+  {
+    "timestamp": 1788093052,
+    "timestamp_added": 1788093052.8046677,
+    "username": "3edmond.dantes",
+    "wallet": "0x983eedfbd75803602e4a6e6ea9aab6dc6b9c6748",
+    "slug": "epl-sun-ful-2026-08-30-sun",
+    "title": "Will Sunderland AFC win on 2026-08-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 272333.19,
+    "whale_pct": 36.199,
+    "whale_value_at_open": 752328.7698,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788093052.8046763,
+    "fills": 1
   }
 ]
