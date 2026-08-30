@@ -80112,5 +80112,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788131183.4115129,
     "fills": 1
+  },
+  {
+    "timestamp": 1788131547,
+    "timestamp_added": 1788131548.4333134,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-cin-chc-2026-08-30-spread-home-1pt5",
+    "title": "Spread: Chicago Cubs (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 9535.999999000001,
+    "whale_pct": 16.456,
+    "whale_value_at_open": 57947.5567,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788131548.4333313,
+    "fills": 1
   }
 ]
