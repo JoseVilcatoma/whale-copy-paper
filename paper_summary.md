@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:26:05 (hora de Perú)
+Actualizado: 2026-08-30 06:28:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $427.86
-**Retorno acumulado:** -14.43%
+**Bankroll actual:** $429.53
+**Retorno acumulado:** -14.09%
 **Peor caída desde un máximo (drawdown):** 31.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 06:26:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $427.86 en 86 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $423.30 en 85 posiciones abiertas (disponible para nuevas apuestas: $6.23)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 93 | 40 | 6 | +75.40 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 94 | 40 | 5 | +77.08 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 25 | 9 | 8 | +47.34 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 16 | +36.65 USD |
@@ -615,7 +615,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | JD Gaming (BUY) | 57% | 4.56 | 2.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | JD Gaming (BUY) | 57% | 4.56 | 2.3% | 💰 vendida anticipada | +1.68 |
 | RN1 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 60% | 3.99 | 3.2% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 1.5 | Over (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | Team WE (BUY) | 67% | 5.00 | 0.8% | 💰 vendida anticipada | -1.52 |
