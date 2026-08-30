@@ -72472,8 +72472,8 @@
     "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 2618.7390000000005,
-    "whale_pct": 19.557,
+    "whale_usd": 3870.9556000000002,
+    "whale_pct": 28.909,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72484,8 +72484,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788038999.9398153,
-    "fills": 2
+    "last_fill_at": 1788048903.020268,
+    "fills": 3
   },
   {
     "timestamp": 1788038865,
@@ -73595,6 +73595,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788048107.8225796,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788048860,
+    "timestamp_added": 1788048860.4623446,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "cfb-hawaii-stan-2026-08-29",
+    "title": "Hawaii vs. Stanford",
+    "outcome": "Stanford",
+    "side": "BUY",
+    "whale_usd": 1745.5001000000002,
+    "whale_pct": 0.895,
+    "whale_value_at_open": 195132.7939,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788048860.4623532,
     "fills": 1
   }
 ]
