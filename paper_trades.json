@@ -79937,5 +79937,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788129006.1690428,
     "fills": 1
+  },
+  {
+    "timestamp": 1788129353,
+    "timestamp_added": 1788129353.7228117,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-sr-2026-08-30-game2",
+    "title": "LoL: Cloud9 vs Shopify Rebellion - Game 2 Winner",
+    "outcome": "Cloud9",
+    "side": "BUY",
+    "whale_usd": 4268.6008,
+    "whale_pct": 76.212,
+    "whale_value_at_open": 5600.9627,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788129380.3659477,
+    "fills": 2
   }
 ]
