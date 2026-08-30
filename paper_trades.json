@@ -77057,8 +77057,8 @@
     "title": "ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Ilinca Dalina Amariei vs Ashley Lahey",
     "outcome": "Ashley Lahey",
     "side": "BUY",
-    "whale_usd": 1157.4953,
-    "whale_pct": 0.884,
+    "whale_usd": 1758.6952999999999,
+    "whale_pct": 1.343,
     "whale_value_at_open": 130988.0069,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -77069,8 +77069,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084847.6603665,
-    "fills": 2
+    "last_fill_at": 1788085300.424223,
+    "fills": 3
   },
   {
     "timestamp": 1788084939,
@@ -77182,8 +77182,8 @@
     "title": "Will FC Utrecht win on 2026-08-30?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 653.6,
-    "whale_pct": 0.459,
+    "whale_usd": 1299.6,
+    "whale_pct": 0.912,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -77194,8 +77194,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085086.0564518,
-    "fills": 1
+    "last_fill_at": 1788085293.4560528,
+    "fills": 2
   },
   {
     "timestamp": 1788085089,
