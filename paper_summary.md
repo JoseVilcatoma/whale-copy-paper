@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 19:35:38 (hora de Perú)
+Actualizado: 2026-08-29 19:37:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.60
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 19:35:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $217.60)
+**Capital comprometido ahora mismo:** $300.00 en 60 posiciones abiertas (disponible para nuevas apuestas: $207.60)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 22 | 8 | 5 | +46.86 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 5 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| HomeRunHazard | 389 | 199 | 19 | +31.12 USD |
+| HomeRunHazard | 389 | 199 | 21 | +31.12 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 35 | 25 | 3 | +30.41 USD |
@@ -599,6 +599,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Texas Rangers vs. Milwaukee Brewers: O/U | Under (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Florida State (-21.5) | Florida State (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | New Mexico State vs. Florida State | Florida State (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-10.5) | Hawaii (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
@@ -627,5 +629,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 52% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Querétaro FC win on 2026-08-29? | No (BUY) | 78% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Baltimore Orioles vs. Athletics | Athletics (BUY) | 44% | 5.00 | 6.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 21.0% | ⏳ pendiente | — |
