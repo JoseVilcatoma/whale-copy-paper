@@ -77803,8 +77803,8 @@
     "title": "LoL: JD Gaming vs Team WE - Game 4 Winner",
     "outcome": "JD Gaming",
     "side": "BUY",
-    "whale_usd": 16478.412600000003,
-    "whale_pct": 31.338,
+    "whale_usd": 20083.079400000002,
+    "whale_pct": 38.194,
     "whale_value_at_open": 52582.2893,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77815,8 +77815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788091077.0459337,
-    "fills": 4
+    "last_fill_at": 1788091148.9043465,
+    "fills": 5
   },
   {
     "timestamp": 1788090986,
@@ -77864,6 +77864,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788091118.3905137,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788091163,
+    "timestamp_added": 1788091163.8345058,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-colombo-ferrari-2026-08-30",
+    "title": "Como: Andrea Colombo vs Gianmarco Ferrari",
+    "outcome": "Gianmarco Ferrari",
+    "side": "BUY",
+    "whale_usd": 2659.090909,
+    "whale_pct": 1.044,
+    "whale_value_at_open": 254681.6164,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788091163.834518,
     "fills": 1
   }
 ]
