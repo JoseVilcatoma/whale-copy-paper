@@ -1,5 +1,5 @@
 {
-  "bankroll": 410.02268280056273,
+  "bankroll": 415.38713734601725,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15500,6 +15500,11 @@
       "timestamp": 1788101754.2105086,
       "bankroll": 410.02,
       "event": "won: RN1 \u2014 Aberdeen FC vs. Rangers FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788102062.6041298,
+      "bankroll": 415.39,
+      "event": "won: RN1 \u2014 Will Ningbo Professional FC win on 2026-08-30?"
     }
   ]
 }
