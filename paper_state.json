@@ -1,5 +1,5 @@
 {
-  "bankroll": 357.5923141982599,
+  "bankroll": 356.0794960164417,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15725,6 +15725,16 @@
       "timestamp": 1788112610.5308921,
       "bankroll": 357.59,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season (+2.17 USD)"
+    },
+    {
+      "timestamp": 1788113283.745849,
+      "bankroll": 352.48,
+      "event": "lost: ferrariChampions2026 \u2014 US Open ATP: Yibing Wu vs Adam Walton"
+    },
+    {
+      "timestamp": 1788113287.7251022,
+      "bankroll": 356.08,
+      "event": "won: ArturitoFilito \u2014 US Open ATP: Yibing Wu vs Adam Walton"
     }
   ]
 }

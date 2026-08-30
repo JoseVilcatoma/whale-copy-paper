@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 13:06:07 (hora de Perú)
+Actualizado: 2026-08-30 13:08:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $357.59
-**Retorno acumulado:** -28.48%
-**Peor caída desde un máximo (drawdown):** 41.68%
+**Bankroll actual:** $356.08
+**Retorno acumulado:** -28.78%
+**Peor caída desde un máximo (drawdown):** 41.86%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 13:06:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $308.25 en 63 posiciones abiertas (disponible para nuevas apuestas: $49.34)
+**Capital comprometido ahora mismo:** $300.36 en 61 posiciones abiertas (disponible para nuevas apuestas: $55.72)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,6 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
+| ArturitoFilito | 5 | 4 | 1 | -3.42 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | HomeRunHazard | 416 | 223 | 1 | -3.71 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
@@ -82,7 +83,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 0 | -6.84 USD |
-| ArturitoFilito | 4 | 4 | 2 | -7.02 USD |
 | vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -98,18 +98,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | RN1 | 447 | 214 | 6 | -37.22 USD |
 | Sassy-Bucket | 19 | 36 | 2 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 368 | 227 | 13 | -129.13 USD |
+| ferrariChampions2026 | 368 | 228 | 12 | -134.24 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3006
-- **Aciertos:** 1913 (63.6%)
+- **Apuestas resueltas:** 3008
+- **Aciertos:** 1914 (63.6%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,011.99
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $274.46 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.19% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,019.88
+- **ROI sobre lo apostado:** -1.65%
+- **Comisiones pagadas (taker fee):** $274.65 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1504 | 49.4% | 50.1% | -0.7 pp |
+| 40-59% | 1506 | 49.4% | 50.1% | -0.7 pp |
 | 60-79% | 894 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 420 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
@@ -656,7 +656,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 3200.1% | ⏳ pendiente | — |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 37.4% | ✅ ganada | +0.65 |
-| ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ⏳ pendiente | — |
+| ArturitoFilito | US Open ATP: Yibing Wu vs Adam Walton | Yibing Wu (BUY) | 44% | 2.89 | 68.4% | ✅ ganada | +3.60 |
 | SDTrading | San Diego Padres vs. Tampa Bay Rays | San Diego Padres (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
