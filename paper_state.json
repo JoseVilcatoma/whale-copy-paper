@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.8823786498947,
+  "bankroll": 365.88419683171287,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15630,6 +15630,11 @@
       "timestamp": 1788108258.862804,
       "bankroll": 363.88,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Fnatic vs GIANTX - Game 2 Winner (-0.05 USD)"
+    },
+    {
+      "timestamp": 1788109403.6027286,
+      "bankroll": 365.88,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Fnatic vs GIANTX - Game 2 Winner (+2.00 USD)"
     }
   ]
 }
