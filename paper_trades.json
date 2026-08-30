@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 23682.840099999994,
-    "whale_pct": 176.869,
+    "whale_usd": 25609.567599999995,
+    "whale_pct": 191.258,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788068714.4231956,
-    "fills": 12
+    "last_fill_at": 1788069602.487135,
+    "fills": 13
   },
   {
     "timestamp": 1788038109,
@@ -74220,8 +74220,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 34209.21550700001,
-    "whale_pct": 128.492,
+    "whale_usd": 35012.69376700001,
+    "whale_pct": 131.51,
     "whale_value_at_open": 26623.5682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -74232,8 +74232,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788064524.9711766,
-    "fills": 10
+    "last_fill_at": 1788069602.7372162,
+    "fills": 11
   },
   {
     "timestamp": 1788055084,
