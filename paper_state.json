@@ -1,5 +1,5 @@
 {
-  "bankroll": 425.60728152680593,
+  "bankroll": 425.7711945702842,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15195,6 +15195,11 @@
       "timestamp": 1788084576.0633779,
       "bankroll": 425.61,
       "event": "lost: RN1 \u2014 Como: Svyatoslav Gulin vs Rudolf Molleker"
+    },
+    {
+      "timestamp": 1788085056.9018285,
+      "bankroll": 425.77,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 3 Winner (+0.16 USD)"
     }
   ]
 }
