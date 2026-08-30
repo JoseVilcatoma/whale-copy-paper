@@ -73966,5 +73966,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788051595.444881,
     "fills": 1
+  },
+  {
+    "timestamp": 1788051649,
+    "timestamp_added": 1788051649.4706137,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "wta-william-kenin-2026-08-30",
+    "title": "US Open WTA: Venus Williams vs Sofia Kenin",
+    "outcome": "Sofia Kenin",
+    "side": "BUY",
+    "whale_usd": 851.1075999999999,
+    "whale_pct": 0.416,
+    "whale_value_at_open": 204560.7317,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788051649.470624,
+    "fills": 1
   }
 ]
