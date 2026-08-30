@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 20:15:10 (hora de Perú)
+Actualizado: 2026-08-29 20:17:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $497.45
@@ -628,5 +628,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | Sporting Kansas City (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF vs. CF Montréal end  | No (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Set 1 Winner: Parry vs Mertens | Mertens (BUY) | 51% | 5.00 | 2.5% | ❌ perdida | -5.12 |
-| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 3.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 3.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | No (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
