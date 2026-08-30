@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 12:34:59 (hora de Perú)
+Actualizado: 2026-08-30 12:37:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $363.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 12:34:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $308.25 en 63 posiciones abiertas (disponible para nuevas apuestas: $55.61)
+**Capital comprometido ahora mismo:** $318.25 en 65 posiciones abiertas (disponible para nuevas apuestas: $45.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,10 +60,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 3 | +0.00 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 4 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| quavoo | 10 | 5 | 13 | -1.52 USD |
+| quavoo | 10 | 5 | 14 | -1.52 USD |
 | ArturitoFilito | 4 | 3 | 3 | -1.88 USD |
 | beachboy4 | 2 | 1 | 1 | -2.16 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -624,13 +624,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lal-rea-mala-2026-08-30-total-3pt5 | ferrariChampions2026, nigiri99 |
 | mlb-bos-nyy-2026-08-30-total-8pt5 | Sassy-Bucket, nigiri99 |
 | mlb-mia-wsh-2026-08-30-total-9pt5 | SDTrading, nigiri99 |
+| lol-fnc-gx-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Los Angeles Dodgers vs. Detroit Tigers:  | Under (BUY) | 61% | 5.00 | 0.5% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | Fnatic (BUY) | 53% | 5.00 | 15.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 6.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 3.1% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 22.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -657,5 +660,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ✅ ganada | +2.84 |
 | vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 84.1% | ⏳ pendiente | — |
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ✅ ganada | +5.51 |
-| ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ❌ perdida | -5.11 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 89.1% | ✅ ganada | +0.05 |

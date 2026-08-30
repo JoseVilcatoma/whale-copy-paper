@@ -79177,8 +79177,8 @@
     "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
     "outcome": "GIANTX",
     "side": "BUY",
-    "whale_usd": 2996.9462000000003,
-    "whale_pct": 3.079,
+    "whale_usd": 22048.107799999998,
+    "whale_pct": 22.655,
     "whale_value_at_open": 97322.2531,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -79189,8 +79189,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788111257.8712249,
-    "fills": 2
+    "last_fill_at": 1788111409.2249546,
+    "fills": 5
   },
   {
     "timestamp": 1788111289,
@@ -79216,6 +79216,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788111290.2071452,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788111305,
+    "timestamp_added": 1788111305.8136816,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "lol-fnc-gx-2026-08-30",
+    "title": "LoL: Fnatic vs GIANTX (BO3) - LEC Regular Season",
+    "outcome": "Fnatic",
+    "side": "BUY",
+    "whale_usd": 47184.883200000004,
+    "whale_pct": 15.205,
+    "whale_value_at_open": 310332.8821,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788111416.3892393,
+    "fills": 11
+  },
+  {
+    "timestamp": 1788111338,
+    "timestamp_added": 1788111339.163425,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-lad-det-2026-08-30-total-8pt5",
+    "title": "Los Angeles Dodgers vs. Detroit Tigers: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3000.0,
+    "whale_pct": 0.463,
+    "whale_value_at_open": 647906.7554,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788111339.1634445,
     "fills": 1
   }
 ]
