@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 13:57:48 (hora de Perú)
+Actualizado: 2026-08-30 13:59:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $344.68
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 13:57:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.87 en 57 posiciones abiertas (disponible para nuevas apuestas: $63.81)
+**Capital comprometido ahora mismo:** $285.87 en 58 posiciones abiertas (disponible para nuevas apuestas: $58.81)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| quavoo | 11 | 5 | 15 | +2.68 USD |
+| quavoo | 11 | 5 | 16 | +2.68 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -630,6 +630,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Over (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | texaskid | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -659,4 +660,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics (BO3) | Movistar KOI (BUY) | 98% | 5.00 | 3.6% | ✅ ganada | +0.10 |
 | beachboy4 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 80% | 5.00 | 3200.1% | ✅ ganada | +1.20 |
 | SDTrading | Texas Rangers vs. Milwaukee Brewers | Texas Rangers (BUY) | 41% | 5.00 | 8.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 88% | 5.00 | 37.4% | ✅ ganada | +0.65 |
