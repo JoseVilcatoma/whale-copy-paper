@@ -74330,5 +74330,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788056617.1847124,
     "fills": 3
+  },
+  {
+    "timestamp": 1788056887,
+    "timestamp_added": 1788056887.445107,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mex-ame-pue-2026-08-29-ame",
+    "title": "Will CF Am\u00e9rica win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 700.0269000000001,
+    "whale_pct": 0.272,
+    "whale_value_at_open": 257760.6078,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788056887.4451206,
+    "fills": 1
   }
 ]
