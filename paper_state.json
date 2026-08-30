@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.05986723282393,
+  "bankroll": 376.92486723282394,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15585,6 +15585,11 @@
       "timestamp": 1788105762.6171699,
       "bankroll": 382.06,
       "event": "lost: RN1 \u2014 AIK vs. Hammarby IF: O/U 4.5"
+    },
+    {
+      "timestamp": 1788105829.9541981,
+      "bankroll": 376.92,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: FC Midtjylland (-1.5)"
     }
   ]
 }
