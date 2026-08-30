@@ -78805,8 +78805,8 @@
     "title": "Map Handicap: PLD (-1.5) vs BORRACHEIROS (+1.5)",
     "outcome": "Peladona",
     "side": "BUY",
-    "whale_usd": 787.68,
-    "whale_pct": 0.576,
+    "whale_usd": 1858.8357,
+    "whale_pct": 1.359,
     "whale_value_at_open": 136766.1046,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -78817,8 +78817,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788103821.1524506,
-    "fills": 1
+    "last_fill_at": 1788111009.363459,
+    "fills": 2
   },
   {
     "timestamp": 1788103985,
@@ -79142,6 +79142,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788110645.4713387,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788111010,
+    "timestamp_added": 1788111010.6520925,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-gls1-imp11-2026-08-30-map-handicap-home-1pt5",
+    "title": "Map Handicap: IMP (-1.5) vs Galorys (+1.5)",
+    "outcome": "Imperial",
+    "side": "BUY",
+    "whale_usd": 503.4112999999999,
+    "whale_pct": 0.414,
+    "whale_value_at_open": 121588.5427,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788111010.65211,
     "fills": 1
   }
 ]
