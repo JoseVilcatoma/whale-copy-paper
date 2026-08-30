@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:04:55 (hora de Perú)
+Actualizado: 2026-08-30 04:07:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $423.07
-**Retorno acumulado:** -15.39%
+**Bankroll actual:** $425.32
+**Retorno acumulado:** -14.94%
 **Peor caída desde un máximo (drawdown):** 31.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 04:04:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $143.07)
+**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $150.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,22 +91,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 424 | 201 | 3 | -27.68 USD |
+| RN1 | 424 | 201 | 4 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 355 | 216 | 18 | -93.67 USD |
+| ferrariChampions2026 | 357 | 216 | 16 | -91.41 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2903
-- **Aciertos:** 1851 (63.8%)
+- **Apuestas resueltas:** 2905
+- **Aciertos:** 1853 (63.8%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,502.59
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $266.02 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.65% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,512.59
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $266.11 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -116,7 +116,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1466 | 49.8% | 50.1% | -0.3 pp |
 | 60-79% | 856 | 70.3% | 67.8% | +2.5 pp |
-| 80-94% | 400 | 86.2% | 86.7% | -0.4 pp |
+| 80-94% | 402 | 86.3% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 181 | 96.1% | 97.4% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -607,6 +607,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Rudolf Molleker (BUY) | 49% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 24.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Lucrezia Stefanini vs Dayan | Dayana Yastremska (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Daniel Jade (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -626,7 +627,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Hanne Vandewinkel vs Karoli | Karolina Pliskova (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Chelsea FC vs. Brighton & Hove Albion FC | Under (BUY) | 43% | 5.00 | 2.0% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Sheng Tang vs Filip Peliwo | Filip Peliwo (BUY) | 81% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Sheng Tang vs Filip Peliwo | Filip Peliwo (BUY) | 81% | 5.00 | 3.2% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | US Open WTA: Talia Gibson vs Donna Vekic | Talia Gibson (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming - M | Aurora Gaming (BUY) | 68% | 5.00 | 7.3% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -636,4 +637,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Daniel Merida Aguilar vs Ma | Daniel Merida Aguilar (BUY) | 83% | 5.00 | 7.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 41.5% | ⏳ pendiente | — |
-| nigiri99 | Minnesota Lynx vs. Atlanta Dream | Minnesota Lynx (BUY) | 59% | 5.00 | 0.2% | ⏳ pendiente | — |

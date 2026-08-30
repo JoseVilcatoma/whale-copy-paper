@@ -1,5 +1,5 @@
 {
-  "bankroll": 423.07119639369927,
+  "bankroll": 425.32287540604494,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15160,6 +15160,16 @@
       "timestamp": 1788080124.665216,
       "bankroll": 423.07,
       "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Hiroki Moriya vs Grigoriy Lomakin"
+    },
+    {
+      "timestamp": 1788080751.9059434,
+      "bankroll": 424.2,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Sheng Tang vs Filip Peliwo"
+    },
+    {
+      "timestamp": 1788080812.8217976,
+      "bankroll": 425.32,
+      "event": "won: ferrariChampions2026 \u2014 Will CF Am\u00e9rica win on 2026-08-29?"
     }
   ]
 }
