@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:57:25 (hora de Perú)
+Actualizado: 2026-08-29 21:59:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $471.31
-**Retorno acumulado:** -5.74%
+**Bankroll actual:** $477.47
+**Retorno acumulado:** -4.51%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:57:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $181.31)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $212.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 397 | 204 | 22 | +26.81 USD |
+| HomeRunHazard | 398 | 205 | 20 | +26.60 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -94,19 +94,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 418 | 200 | 1 | -39.34 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
-| ferrariChampions2026 | 343 | 210 | 19 | -94.44 USD |
+| ferrariChampions2026 | 345 | 211 | 16 | -88.05 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2834
-- **Aciertos:** 1814 (64.0%)
+- **Apuestas resueltas:** 2839
+- **Aciertos:** 1817 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,157.59
-- **ROI sobre lo apostado:** -0.87%
-- **Comisiones pagadas (taker fee):** $259.04 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.96% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,182.59
+- **ROI sobre lo apostado:** -0.82%
+- **Comisiones pagadas (taker fee):** $259.63 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1420 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 842 | 70.3% | 67.8% | +2.5 pp |
+| 40-59% | 1423 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 844 | 70.1% | 67.8% | +2.4 pp |
 | 80-94% | 393 | 86.3% | 86.7% | -0.5 pp |
 | 95-99% (casi seguro) | 179 | 96.1% | 97.4% | -1.3 pp |
 
@@ -618,7 +618,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-29? | Yes (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Minnesota United FC vs. Orlando City SC: | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Minnesota United FC vs. Orlando City SC: | Over (BUY) | 47% | 5.00 | 0.6% | ✅ ganada | +5.51 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NAVI (-1.5) vs G2 (+1.5) | G2 (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 93.6% | ⏳ pendiente | — |
