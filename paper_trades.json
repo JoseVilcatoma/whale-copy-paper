@@ -78951,8 +78951,8 @@
     "title": "Miami Marlins vs. Washington Nationals: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2184.66,
-    "whale_pct": 0.389,
+    "whale_usd": 4448.88,
+    "whale_pct": 0.792,
     "whale_value_at_open": 561986.0742,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -78963,7 +78963,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788106210.214089,
-    "fills": 3
+    "last_fill_at": 1788106397.5024703,
+    "fills": 4
+  },
+  {
+    "timestamp": 1788106397,
+    "timestamp_added": 1788106397.7781062,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-mia-wsh-2026-08-30-total-9pt5",
+    "title": "Miami Marlins vs. Washington Nationals: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 1928.78,
+    "whale_pct": 0.675,
+    "whale_value_at_open": 285941.7699,
+    "paper_stake_usd": 3.19,
+    "odds_at_bet": 47,
+    "fee_usd": 0.085,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "nigiri99"
+    ],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788106397.778116,
+    "fills": 1
   }
 ]
