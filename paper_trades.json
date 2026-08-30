@@ -76615,8 +76615,8 @@
     "title": "Zhangjiagang: Enzo Aguiard vs Jesse Delaney",
     "outcome": "Enzo Aguiard",
     "side": "BUY",
-    "whale_usd": 10825.291147,
-    "whale_pct": 9.696,
+    "whale_usd": 16840.049813,
+    "whale_pct": 15.083,
     "whale_value_at_open": 111647.2188,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -76627,8 +76627,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084642.7097375,
-    "fills": 4
+    "last_fill_at": 1788084817.537964,
+    "fills": 7
   },
   {
     "timestamp": 1788081532,
@@ -76968,6 +76968,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788084697.2978237,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788084767,
+    "timestamp_added": 1788084767.875613,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-vales-manukya-2026-08-30",
+    "title": "Plovdiv 3: Amit Vales vs Vardan Manukyan",
+    "outcome": "Amit Vales",
+    "side": "BUY",
+    "whale_usd": 563.39,
+    "whale_pct": 0.449,
+    "whale_value_at_open": 125510.0747,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788084767.8756244,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788084815,
+    "timestamp_added": 1788084816.0817273,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-vales-manukya-2026-08-30",
+    "title": "Plovdiv 3: Amit Vales vs Vardan Manukyan",
+    "outcome": "Vardan Manukyan",
+    "side": "BUY",
+    "whale_usd": 793.4908,
+    "whale_pct": 0.422,
+    "whale_value_at_open": 188202.4915,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788084816.0817394,
     "fills": 1
   }
 ]
