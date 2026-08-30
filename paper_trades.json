@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 31944.187599999997,
-    "whale_pct": 238.566,
+    "whale_usd": 32660.475099999996,
+    "whale_pct": 243.916,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085859.9623966,
-    "fills": 16
+    "last_fill_at": 1788086768.7210681,
+    "fills": 17
   },
   {
     "timestamp": 1788038109,
@@ -76169,8 +76169,8 @@
     "title": "Counter-Strike: BORRACHEIROS vs Peladona (BO3) - CCT South America Series 5 Group Stage",
     "outcome": "Peladona",
     "side": "BUY",
-    "whale_usd": 16441.922599999998,
-    "whale_pct": 11.377,
+    "whale_usd": 19972.6586,
+    "whale_pct": 13.82,
     "whale_value_at_open": 144517.3636,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -76181,8 +76181,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084949.0285716,
-    "fills": 9
+    "last_fill_at": 1788086752.3456688,
+    "fills": 10
   },
   {
     "timestamp": 1788078391,
@@ -77107,8 +77107,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 28790.181200000003,
-    "whale_pct": 12.882,
+    "whale_usd": 36377.469000000005,
+    "whale_pct": 16.277,
     "whale_value_at_open": 223489.0242,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 76,
@@ -77122,8 +77122,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788086396.8068469,
-    "fills": 5
+    "last_fill_at": 1788086705.5497682,
+    "fills": 6
   },
   {
     "timestamp": 1788085047,
@@ -77330,8 +77330,8 @@
     "title": "Counter-Strike: G2 vs Natus Vincere (BO3) - BLAST Open Porto Group A",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 648.4004,
-    "whale_pct": 0.36,
+    "whale_usd": 1494.7004000000002,
+    "whale_pct": 0.831,
     "whale_value_at_open": 179939.3484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 81,
@@ -77345,8 +77345,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788086632.4848785,
-    "fills": 1
+    "last_fill_at": 1788086770.8103878,
+    "fills": 2
   },
   {
     "timestamp": 1788086655,
@@ -77357,8 +77357,8 @@
     "title": "Will Ningbo Professional FC win on 2026-08-30?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1207.017542,
-    "whale_pct": 0.734,
+    "whale_usd": 2400.601884,
+    "whale_pct": 1.46,
     "whale_value_at_open": 164400.9572,
     "paper_stake_usd": 4.31,
     "odds_at_bet": 44,
@@ -77369,7 +77369,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1788086664.846721,
-    "fills": 2
+    "last_fill_at": 1788086719.1240184,
+    "fills": 4
   }
 ]
