@@ -71059,8 +71059,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -72353,8 +72353,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "HomeRunHazard"
     ],
@@ -73100,8 +73100,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [
       "HomeRunHazard",
       "texaskid"
@@ -73608,8 +73608,8 @@
     "title": "Hawaii vs. Stanford",
     "outcome": "Stanford",
     "side": "BUY",
-    "whale_usd": 2757.8851000000004,
-    "whale_pct": 1.413,
+    "whale_usd": 5839.5029,
+    "whale_pct": 2.993,
     "whale_value_at_open": 195132.7939,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -73620,8 +73620,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788050377.1695564,
-    "fills": 2
+    "last_fill_at": 1788057191.7241693,
+    "fills": 4
   },
   {
     "timestamp": 1788048968,

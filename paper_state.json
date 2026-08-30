@@ -1,5 +1,5 @@
 {
-  "bankroll": 499.473740119284,
+  "bankroll": 484.122740119284,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14720,6 +14720,21 @@
       "timestamp": 1788055894.8280222,
       "bankroll": 499.47,
       "event": "won: HomeRunHazard \u2014 Spread: Milwaukee Brewers (-3.5)"
+    },
+    {
+      "timestamp": 1788057201.5336752,
+      "bankroll": 494.35,
+      "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1788057202.8093498,
+      "bankroll": 489.23,
+      "event": "lost: texaskid \u2014 Boston Red Sox vs. New York Yankees: O/U 7.5"
+    },
+    {
+      "timestamp": 1788057205.950609,
+      "bankroll": 484.12,
+      "event": "lost: ferrariChampions2026 \u2014 Boston Red Sox vs. New York Yankees: O/U 7.5"
     }
   ]
 }
