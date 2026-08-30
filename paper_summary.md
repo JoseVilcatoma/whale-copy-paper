@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:41:22 (hora de Perú)
+Actualizado: 2026-08-30 09:43:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $414.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:41:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $396.57 en 81 posiciones abiertas (disponible para nuevas apuestas: $17.89)
+**Capital comprometido ahora mismo:** $401.57 en 82 posiciones abiertas (disponible para nuevas apuestas: $12.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -83,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | texaskid | 8 | 8 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| quavoo | 4 | 4 | 14 | -8.74 USD |
+| quavoo | 4 | 4 | 15 | -8.74 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -615,15 +615,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-vales-manukya-2026-08-30 | RN1, ferrariChampions2026 |
 | ere-utr-psv-2026-08-30-total-3pt5 | RN1, ferrariChampions2026 |
 | epl-sun-ful-2026-08-30-sun | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116, 3edmond.dantes, RN1 |
+| lal-rea-mala-2026-08-30-total-3pt5 | ferrariChampions2026, nigiri99 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
+| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 10.1% | ⏳ pendiente | — |
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 27.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 82.4% | ⏳ pendiente | — |
 | nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -649,4 +651,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 52% | 4.59 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Paris FC vs. OGC Nice: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrea Colombo vs Gianmarco Ferrar | Gianmarco Ferrari (BUY) | 80% | 5.00 | 1.0% | ❌ perdida | -5.05 |
-| RN1 | Will KAA Gent vs. Club Brugge end in a d | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |

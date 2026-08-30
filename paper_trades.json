@@ -78482,8 +78482,8 @@
     "title": "LoL: Movistar KOI vs Team Heretics - Game 1 Winner",
     "outcome": "Movistar KOI",
     "side": "BUY",
-    "whale_usd": 4993.861139999999,
-    "whale_pct": 27.477,
+    "whale_usd": 14983.841159999998,
+    "whale_pct": 82.443,
     "whale_value_at_open": 18174.8655,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 99,
@@ -78494,8 +78494,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788100832.999453,
-    "fills": 3
+    "last_fill_at": 1788100963.1887436,
+    "fills": 4
   },
   {
     "timestamp": 1788100762,
@@ -78559,8 +78559,8 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2033.3836000000001,
-    "whale_pct": 0.295,
+    "whale_usd": 69417.40359999999,
+    "whale_pct": 10.062,
     "whale_value_at_open": 689866.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -78571,7 +78571,33 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788100826.8820124,
+    "last_fill_at": 1788100949.8790364,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788100946,
+    "timestamp_added": 1788100946.4791555,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lal-rea-mala-2026-08-30-total-3pt5",
+    "title": "Real Madrid CF vs. M\u00e1laga CF: O/U 3.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 899.0,
+    "whale_pct": 0.186,
+    "whale_value_at_open": 482207.8547,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788100946.4791636,
     "fills": 1
   }
 ]
