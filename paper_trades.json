@@ -75037,8 +75037,8 @@
     "title": "Will Real Madrid CF win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 3458.5,
-    "whale_pct": 0.662,
+    "whale_usd": 10685.720000000001,
+    "whale_pct": 2.045,
     "whale_value_at_open": 522586.8894,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -75049,8 +75049,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788096242.50164,
-    "fills": 2
+    "last_fill_at": 1788096438.8969693,
+    "fills": 3
   },
   {
     "timestamp": 1788063107,
