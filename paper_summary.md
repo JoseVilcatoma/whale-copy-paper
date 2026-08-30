@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:11:17 (hora de Perú)
+Actualizado: 2026-08-30 04:13:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 04:11:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $275.00 en 55 posiciones abiertas (disponible para nuevas apuestas: $150.32)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $135.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 90 | 38 | 1 | +74.47 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| TAIWANNUMBERONE | 24 | 9 | 5 | +47.29 USD |
+| TAIWANNUMBERONE | 24 | 9 | 7 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 15 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 424 | 201 | 4 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 357 | 216 | 16 | -91.41 USD |
+| ferrariChampions2026 | 357 | 216 | 17 | -91.41 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -607,12 +607,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | Dplus KIA (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Jaime Faria vs Jenson Brook | Jenson Brooksby (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Rudolf Molleker (BUY) | 49% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 24.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Lucrezia Stefanini vs Dayan | Dayana Yastremska (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Daniel Jade (BUY) | 71% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Daniel Jade (BUY) | 71% | 5.00 | 1.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 95% | 5.00 | 60.0% | ⏳ pendiente | — |
-| RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Svyatoslav Gulin (BUY) | 52% | 5.00 | 4.8% | ⏳ pendiente | — |
+| RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Svyatoslav Gulin (BUY) | 52% | 5.00 | 5.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Khumoyun Sultanov vs Fumin | Khumoyun Sultanov (BUY) | 96% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | KT Rolster (BUY) | 45% | 5.00 | 81.3% | 💰 vendida anticipada | +0.61 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: BORRACHEIROS vs Peladona | Peladona (BUY) | 87% | 5.00 | 6.4% | ⏳ pendiente | — |
@@ -634,6 +637,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open WTA: Renata Zarazua vs Polina Ia | Renata Zarazua (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
 | nigiri99 | Will Chelsea FC win on 2026-08-30? | Yes (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Daniel Merida Aguilar vs Ma | Daniel Merida Aguilar (BUY) | 83% | 5.00 | 7.6% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 3.1% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 41.5% | ⏳ pendiente | — |
