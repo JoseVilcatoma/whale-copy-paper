@@ -75795,5 +75795,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788068548.300764,
     "fills": 1
+  },
+  {
+    "timestamp": 1788068985,
+    "timestamp_added": 1788068986.2482991,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "kbo-kiw-doo-2026-08-30",
+    "title": "KBO: Kiwoom Heroes vs. Doosan Bears",
+    "outcome": "Doosan Bears",
+    "side": "BUY",
+    "whale_usd": 647.4,
+    "whale_pct": 0.164,
+    "whale_value_at_open": 394892.5123,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788068986.2483099,
+    "fills": 1
   }
 ]
