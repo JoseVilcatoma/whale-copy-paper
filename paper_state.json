@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.66132325947365,
+  "bankroll": 465.05162113181404,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14920,6 +14920,16 @@
       "timestamp": 1788064175.9517002,
       "bankroll": 464.66,
       "event": "won: ferrariChampions2026 \u2014 Toronto Tempo vs. Phoenix Mercury: O/U 172.5"
+    },
+    {
+      "timestamp": 1788065054.7022889,
+      "bankroll": 470.17,
+      "event": "won: HomeRunHazard \u2014 Memphis vs. UNLV Runnin': O/U 40.5"
+    },
+    {
+      "timestamp": 1788065054.8024454,
+      "bankroll": 465.05,
+      "event": "lost: HomeRunHazard \u2014 Memphis vs. UNLV Runnin': O/U 40.5"
     }
   ]
 }
