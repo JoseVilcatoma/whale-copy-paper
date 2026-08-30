@@ -76615,8 +76615,8 @@
     "title": "Zhangjiagang: Enzo Aguiard vs Jesse Delaney",
     "outcome": "Enzo Aguiard",
     "side": "BUY",
-    "whale_usd": 5546.950909000001,
-    "whale_pct": 4.968,
+    "whale_usd": 6195.511147000001,
+    "whale_pct": 5.549,
     "whale_value_at_open": 111647.2188,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -76627,8 +76627,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084175.4836051,
-    "fills": 2
+    "last_fill_at": 1788084257.1735342,
+    "fills": 3
   },
   {
     "timestamp": 1788081532,
@@ -76896,6 +76896,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788083440.0732841,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788084229,
+    "timestamp_added": 1788084229.864142,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "itf-okutoyi-cvetko-2026-08-30",
+    "title": "ITF WOMEN - SINGLES: W35 Verbier 2 (Switzerland), clay: Angella Okutoyi vs Anastasija Cvetkovic",
+    "outcome": "Anastasija Cvetkovic",
+    "side": "BUY",
+    "whale_usd": 1137.18,
+    "whale_pct": 0.745,
+    "whale_value_at_open": 152668.1959,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788084229.864157,
     "fills": 1
   }
 ]
