@@ -1,5 +1,5 @@
 {
-  "bankroll": 425.52120873937827,
+  "bankroll": 426.2398969114213,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15175,6 +15175,16 @@
       "timestamp": 1788082703.3701932,
       "bankroll": 425.52,
       "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Khumoyun Sultanov vs Fumin Jiang"
+    },
+    {
+      "timestamp": 1788082820.3446581,
+      "bankroll": 425.88,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Omar Jasika vs Aoran Wang"
+    },
+    {
+      "timestamp": 1788082820.44484,
+      "bankroll": 426.24,
+      "event": "won: RN1 \u2014 Zhangjiagang: Omar Jasika vs Aoran Wang"
     }
   ]
 }
