@@ -76653,5 +76653,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788081533.385289,
     "fills": 1
+  },
+  {
+    "timestamp": 1788081666,
+    "timestamp_added": 1788081666.6563494,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-aguiard-delane-2026-08-30",
+    "title": "Zhangjiagang: Enzo Aguiard vs Jesse Delaney",
+    "outcome": "Enzo Aguiard",
+    "side": "BUY",
+    "whale_usd": 1058.6186,
+    "whale_pct": 0.525,
+    "whale_value_at_open": 201533.2835,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 96,
+    "fee_usd": 0.01,
+    "odds_ballena": 94,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788081666.656359,
+    "fills": 1
   }
 ]

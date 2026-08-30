@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:19:34 (hora de Perú)
+Actualizado: 2026-08-30 04:21:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 04:19:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $330.00 en 66 posiciones abiertas (disponible para nuevas apuestas: $95.32)
+**Capital comprometido ahora mismo:** $335.00 en 67 posiciones abiertas (disponible para nuevas apuestas: $90.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 424 | 201 | 6 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 357 | 216 | 20 | -91.41 USD |
+| ferrariChampions2026 | 357 | 216 | 21 | -91.41 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -605,11 +605,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-jdg-we-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-dk-kt-2026-08-30-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | atp-park-isomura-2026-08-30 | RN1, ferrariChampions2026 |
+| atp-aguiard-delane-2026-08-30 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Incheon United FC vs. Jeonbuk Hyundai Mo | Under (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 95% | 5.00 | 4.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 84% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -639,4 +641,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Miami Marlins vs. Washington Nationals | Washington Nationals (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Seattle Mariners vs. Toronto Blue Jays | Toronto Blue Jays (BUY) | 45% | 5.00 | 1.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Hanne Vandewinkel vs Karoli | Karolina Pliskova (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
