@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 29644.537599999996,
-    "whale_pct": 221.392,
+    "whale_usd": 31944.187599999997,
+    "whale_pct": 238.566,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084964.1786401,
-    "fills": 15
+    "last_fill_at": 1788085859.9623966,
+    "fills": 16
   },
   {
     "timestamp": 1788038109,
@@ -76739,8 +76739,8 @@
     "title": "Plovdiv 3: Amit Vales vs Vardan Manukyan",
     "outcome": "Amit Vales",
     "side": "BUY",
-    "whale_usd": 670.0,
-    "whale_pct": 0.375,
+    "whale_usd": 7927.219300000001,
+    "whale_pct": 4.44,
     "whale_value_at_open": 178546.8823,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -76751,8 +76751,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788082942.0727057,
-    "fills": 1
+    "last_fill_at": 1788085864.5597515,
+    "fills": 2
   },
   {
     "timestamp": 1788082990,
@@ -76835,8 +76835,8 @@
     "title": "Games Total: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1421.88,
-    "whale_pct": 0.778,
+    "whale_usd": 2026.6575000000003,
+    "whale_pct": 1.108,
     "whale_value_at_open": 182856.4482,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -76847,8 +76847,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084960.499214,
-    "fills": 2
+    "last_fill_at": 1788085858.1049154,
+    "fills": 3
   },
   {
     "timestamp": 1788083412,
@@ -76979,8 +76979,8 @@
     "title": "Plovdiv 3: Amit Vales vs Vardan Manukyan",
     "outcome": "Amit Vales",
     "side": "BUY",
-    "whale_usd": 563.39,
-    "whale_pct": 0.449,
+    "whale_usd": 8486.0,
+    "whale_pct": 6.761,
     "whale_value_at_open": 125510.0747,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -76993,8 +76993,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084767.8756244,
-    "fills": 1
+    "last_fill_at": 1788085864.639789,
+    "fills": 3
   },
   {
     "timestamp": 1788084815,
@@ -77206,8 +77206,8 @@
     "title": "FC Utrecht vs. PSV: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 5918.610000000001,
-    "whale_pct": 4.153,
+    "whale_usd": 10379.010000000002,
+    "whale_pct": 7.283,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77220,8 +77220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085802.179407,
-    "fills": 8
+    "last_fill_at": 1788085925.7535903,
+    "fills": 13
   },
   {
     "timestamp": 1788085386,

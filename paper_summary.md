@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 05:30:28 (hora de Perú)
+Actualizado: 2026-08-30 05:32:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $422.05
@@ -615,7 +615,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | 💰 vendida anticipada | +1.35 |
-| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 4.2% | ⏳ pendiente | — |
+| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 7.3% | ⏳ pendiente | — |
 | RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -624,17 +624,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ashley Lahey (BUY) | 74% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
-| RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 54% | 5.00 | 6.8% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Nemesis vs Execration - Gam | Team Nemesis (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 67% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Midtjylland (-1.5) | FC Midtjylland (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | FC Utrecht vs. PSV: O/U 3.5 | Under (BUY) | 45% | 5.00 | 2.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Kursumlijska Banj | Branko Djuric (BUY) | 70% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Como: Norbert Gombos vs Andrea de Marchi | Norbert Gombos (BUY) | 83% | 5.00 | 9.7% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Henry Bernet (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 68% | 5.00 | 4.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
