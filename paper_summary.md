@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:45:55 (hora de Perú)
+Actualizado: 2026-08-30 07:47:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $419.56
@@ -622,7 +622,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |
 | ArturitoFilito | Will Chelsea FC win on 2026-08-30? | No (BUY) | 49% | 5.00 | 157.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ⏳ pendiente | — |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 58% | 5.00 | 217.1% | ⏳ pendiente | — |
+| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 58% | 5.00 | 227.2% | ⏳ pendiente | — |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes (BUY) | 44% | 5.00 | 36.2% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 1 | Under (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | FC St. Pauli 1910 vs. 1. FC Kaiserslaute | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
