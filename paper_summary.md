@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 20:34:01 (hora de Perú)
+Actualizado: 2026-08-29 20:36:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $497.86
-**Retorno acumulado:** -0.43%
+**Bankroll actual:** $508.24
+**Retorno acumulado:** +1.65%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 20:34:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $365.00 en 73 posiciones abiertas (disponible para nuevas apuestas: $132.86)
+**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $168.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 87 | 38 | 2 | +63.84 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 89 | 38 | 0 | +73.86 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| TAIWANNUMBERONE | 22 | 9 | 4 | +41.83 USD |
+| TAIWANNUMBERONE | 24 | 9 | 2 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 5 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | HomeRunHazard | 390 | 199 | 25 | +31.53 USD |
@@ -93,20 +93,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 417 | 200 | 2 | -39.44 USD |
-| ferrariChampions2026 | 337 | 200 | 28 | -58.00 USD |
+| ferrariChampions2026 | 337 | 201 | 27 | -63.10 USD |
 | Sassy-Bucket | 19 | 34 | 1 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2799
-- **Aciertos:** 1795 (64.1%)
+- **Apuestas resueltas:** 2804
+- **Aciertos:** 1799 (64.2%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,982.59
-- **ROI sobre lo apostado:** -0.69%
-- **Comisiones pagadas (taker fee):** $255.67 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,007.59
+- **ROI sobre lo apostado:** -0.61%
+- **Comisiones pagadas (taker fee):** $256.20 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.22% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1402 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 830 | 70.5% | 67.8% | +2.7 pp |
+| 40-59% | 1403 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 834 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 391 | 86.2% | 86.7% | -0.5 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
 
@@ -600,7 +600,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 11.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 12.5% | ⏳ pendiente | — |
 | texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |

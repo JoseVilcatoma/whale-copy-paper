@@ -72203,8 +72203,8 @@
     "odds_at_bet": 66,
     "fee_usd": 0.085,
     "odds_ballena": 65,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.49,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -72823,8 +72823,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -72849,8 +72849,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -72897,8 +72897,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.1,
     "overlaps_with": [
       "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616"
     ],
@@ -73463,8 +73463,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -74196,8 +74196,8 @@
     "title": "Toronto Tempo vs. Phoenix Mercury: O/U 173.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 18450.79,
-    "whale_pct": 11.602,
+    "whale_usd": 19860.79,
+    "whale_pct": 12.489,
     "whale_value_at_open": 159026.0224,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -74208,7 +74208,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788053618.070262,
-    "fills": 2
+    "last_fill_at": 1788053713.5867503,
+    "fills": 4
   }
 ]

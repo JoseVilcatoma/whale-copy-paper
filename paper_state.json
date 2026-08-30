@@ -1,5 +1,5 @@
 {
-  "bankroll": 497.86090387465157,
+  "bankroll": 508.2378156596932,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14635,6 +14635,31 @@
       "timestamp": 1788052818.4825935,
       "bankroll": 497.86,
       "event": "won: HomeRunHazard \u2014 Bears vs. Titans"
+    },
+    {
+      "timestamp": 1788053697.2703807,
+      "bankroll": 500.83,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs LYON - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788053758.032991,
+      "bankroll": 503.32,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Cloud9 vs LYON (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1788053760.858008,
+      "bankroll": 506.29,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Cloud9 vs LYON - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788053761.102304,
+      "bankroll": 513.34,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Game Handicap: LY (-1.5) vs Cloud9 (+1.5)"
+    },
+    {
+      "timestamp": 1788053761.4902098,
+      "bankroll": 508.24,
+      "event": "lost: ferrariChampions2026 \u2014 Game Handicap: LY (-1.5) vs Cloud9 (+1.5)"
     }
   ]
 }
