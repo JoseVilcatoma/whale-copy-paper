@@ -76615,8 +76615,8 @@
     "title": "Zhangjiagang: Enzo Aguiard vs Jesse Delaney",
     "outcome": "Enzo Aguiard",
     "side": "BUY",
-    "whale_usd": 4837.860000000001,
-    "whale_pct": 4.333,
+    "whale_usd": 5546.950909000001,
+    "whale_pct": 4.968,
     "whale_value_at_open": 111647.2188,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -76627,8 +76627,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788081478.5137541,
-    "fills": 1
+    "last_fill_at": 1788084175.4836051,
+    "fills": 2
   },
   {
     "timestamp": 1788081532,
