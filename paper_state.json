@@ -1,5 +1,5 @@
 {
-  "bankroll": 330.6487070287051,
+  "bankroll": 329.622424977423,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16085,6 +16085,11 @@
       "timestamp": 1788132471.2940767,
       "bankroll": 330.65,
       "event": "won: nigiri99 \u2014 Los Angeles Sparks vs. Seattle Storm: O/U 174.5"
+    },
+    {
+      "timestamp": 1788133191.0489552,
+      "bankroll": 329.62,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko (-1.03 USD)"
     }
   ]
 }
