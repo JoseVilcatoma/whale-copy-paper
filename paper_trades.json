@@ -75829,8 +75829,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming - Map 2 Winner",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 8480.6932,
-    "whale_pct": 6.712,
+    "whale_usd": 9266.9314,
+    "whale_pct": 7.335,
     "whale_value_at_open": 126346.6147,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -75841,8 +75841,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788078652.2498374,
-    "fills": 3
+    "last_fill_at": 1788079550.0898752,
+    "fills": 4
   },
   {
     "timestamp": 1788073256,
@@ -76169,8 +76169,8 @@
     "title": "Counter-Strike: BORRACHEIROS vs Peladona (BO3) - CCT South America Series 5 Group Stage",
     "outcome": "Peladona",
     "side": "BUY",
-    "whale_usd": 3954.6047999999996,
-    "whale_pct": 2.736,
+    "whale_usd": 6970.591799999999,
+    "whale_pct": 4.823,
     "whale_value_at_open": 144517.3636,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -76181,8 +76181,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788078650.6289117,
-    "fills": 3
+    "last_fill_at": 1788079544.9690995,
+    "fills": 4
   },
   {
     "timestamp": 1788078391,
@@ -76235,5 +76235,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788079310.6415036,
     "fills": 2
+  },
+  {
+    "timestamp": 1788079517,
+    "timestamp_added": 1788079518.6343577,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-gulin-molleke-2026-08-30",
+    "title": "Como: Svyatoslav Gulin vs Rudolf Molleker",
+    "outcome": "Svyatoslav Gulin",
+    "side": "BUY",
+    "whale_usd": 2620.89,
+    "whale_pct": 2.601,
+    "whale_value_at_open": 100754.9717,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788079518.634368,
+    "fills": 1
   }
 ]
