@@ -78731,8 +78731,8 @@
     "title": "US Open ATP: Sho Shimabukuro vs Arthur Rinderknech",
     "outcome": "Arthur Rinderknech",
     "side": "BUY",
-    "whale_usd": 83097.7875,
-    "whale_pct": 1602.128,
+    "whale_usd": 148989.1084,
+    "whale_pct": 2872.514,
     "whale_value_at_open": 5186.7145,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 80,
@@ -78745,8 +78745,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788103463.373439,
-    "fills": 8
+    "last_fill_at": 1788103804.0936134,
+    "fills": 9
   },
   {
     "timestamp": 1788102671,
@@ -78794,6 +78794,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788103161.0046265,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788103820,
+    "timestamp_added": 1788103821.15244,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-chama-pld-2026-08-30-map-handicap-home-1pt5",
+    "title": "Map Handicap: PLD (-1.5) vs BORRACHEIROS (+1.5)",
+    "outcome": "Peladona",
+    "side": "BUY",
+    "whale_usd": 787.68,
+    "whale_pct": 0.576,
+    "whale_value_at_open": 136766.1046,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788103821.1524506,
     "fills": 1
   }
 ]
