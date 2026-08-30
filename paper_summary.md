@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 11:09:20 (hora de Perú)
+Actualizado: 2026-08-30 11:11:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $376.92
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 11:09:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $368.73 en 75 posiciones abiertas (disponible para nuevas apuestas: $8.19)
+**Capital comprometido ahora mismo:** $373.73 en 76 posiciones abiertas (disponible para nuevas apuestas: $3.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 8 | 0 | -6.84 USD |
 | vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
-| quavoo | 5 | 4 | 16 | -7.83 USD |
+| quavoo | 5 | 4 | 17 | -7.83 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -625,6 +625,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Miami Marlins vs. Washington Nationals:  | Under (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 69% | 5.00 | 2.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 45% | 5.00 | 1533.1% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 88.7% | ⏳ pendiente | — |
@@ -654,4 +655,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.4% | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ❌ perdida | -4.82 |
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ✅ ganada | +0.78 |
-| RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ✅ ganada | +2.43 |
