@@ -1,5 +1,5 @@
 {
-  "bankroll": 432.83849433159844,
+  "bankroll": 437.08068902919575,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15015,6 +15015,16 @@
       "timestamp": 1788067004.3346076,
       "bankroll": 432.84,
       "event": "lost: HomeRunHazard \u2014 Spread: Baltimore Orioles (-2.5)"
+    },
+    {
+      "timestamp": 1788067306.3283935,
+      "bankroll": 435.11,
+      "event": "won: ferrariChampions2026 \u2014 Spread: Arizona Diamondbacks (-1.5)"
+    },
+    {
+      "timestamp": 1788067308.7206657,
+      "bankroll": 437.08,
+      "event": "won: HomeRunHazard \u2014 Spread: San Francisco Giants (-1.5)"
     }
   ]
 }
