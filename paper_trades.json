@@ -75075,5 +75075,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788063108.3625364,
     "fills": 1
+  },
+  {
+    "timestamp": 1788063414,
+    "timestamp_added": 1788063414.9383156,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-bal-oak-2026-08-29-spread-away-1pt5",
+    "title": "Spread: Baltimore Orioles (-1.5)",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 7155.4977,
+    "whale_pct": 3.153,
+    "whale_value_at_open": 226916.4762,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788063414.938325,
+    "fills": 1
   }
 ]
