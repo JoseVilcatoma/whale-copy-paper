@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 06:16:08 (hora de Perú)
+Actualizado: 2026-08-30 06:18:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $427.86
@@ -624,11 +624,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 3: Oleksandr Ovcharenko vs Edoar | Oleksandr Ovcharenko (BUY) | 61% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Will Ningbo Professional FC win on 2026- | No (BUY) | 44% | 4.31 | 1.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | KBO: NC Dinos vs. Hanwha Eagles | Hanwha Eagles (BUY) | 66% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | KBO: NC Dinos vs. Hanwha Eagles | Hanwha Eagles (BUY) | 66% | 5.00 | 3.1% | ⏳ pendiente | — |
 | RN1 | KBO: NC Dinos vs. Hanwha Eagles | NC Dinos (BUY) | 76% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 45% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | 💰 vendida anticipada | +1.35 |
-| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 9.5% | ⏳ pendiente | — |
+| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 11.3% | ⏳ pendiente | — |
 | RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |

@@ -77208,8 +77208,8 @@
     "title": "FC Utrecht vs. PSV: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 13554.54,
-    "whale_pct": 9.511,
+    "whale_usd": 16087.980000000003,
+    "whale_pct": 11.289,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77222,8 +77222,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788087852.033561,
-    "fills": 17
+    "last_fill_at": 1788088681.2821507,
+    "fills": 21
   },
   {
     "timestamp": 1788085386,
@@ -77308,8 +77308,8 @@
     "title": "KBO: NC Dinos vs. Hanwha Eagles",
     "outcome": "Hanwha Eagles",
     "side": "BUY",
-    "whale_usd": 1000.35,
-    "whale_pct": 0.62,
+    "whale_usd": 5013.67,
+    "whale_pct": 3.107,
     "whale_value_at_open": 161365.1292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -77320,8 +77320,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788086572.1433198,
-    "fills": 1
+    "last_fill_at": 1788088582.7096608,
+    "fills": 3
   },
   {
     "timestamp": 1788086632,
