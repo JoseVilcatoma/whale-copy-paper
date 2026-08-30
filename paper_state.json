@@ -1,5 +1,5 @@
 {
-  "bankroll": 337.61639236654554,
+  "bankroll": 332.58430700069187,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15910,6 +15910,11 @@
       "timestamp": 1788122573.1802325,
       "bankroll": 337.62,
       "event": "won: nigiri99 \u2014 Colorado Rockies vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1788122614.1853817,
+      "bankroll": 332.58,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Team Liquid - Game 1 Winner (-5.03 USD)"
     }
   ]
 }
