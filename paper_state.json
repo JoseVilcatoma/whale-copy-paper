@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.35374009169703,
+  "bankroll": 477.26674009169705,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14785,6 +14785,11 @@
       "timestamp": 1788057832.450238,
       "bankroll": 482.35,
       "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1788057953.85272,
+      "bankroll": 477.27,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
     }
   ]
 }
