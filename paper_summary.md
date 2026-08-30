@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 05:24:10 (hora de Perú)
+Actualizado: 2026-08-30 05:26:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.77
@@ -615,8 +615,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | ⏳ pendiente | — |
-| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 1.2% | ⏳ pendiente | — |
-| RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | KT Rolster (BUY) | 76% | 5.00 | 12.5% | ⏳ pendiente | — |
@@ -625,7 +625,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Nemesis vs Execration - Gam | Team Nemesis (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Nemesis vs Execration - Gam | Team Nemesis (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W35 Verbier 2 (Swit | Anastasija Cvetkovic (BUY) | 67% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: FC Midtjylland (-1.5) | FC Midtjylland (BUY) | 46% | 5.00 | 1.0% | ⏳ pendiente | — |

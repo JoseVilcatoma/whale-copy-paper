@@ -76955,8 +76955,8 @@
     "title": "Dota 2: Team Nemesis vs Execration - Game 2 Winner",
     "outcome": "Team Nemesis",
     "side": "BUY",
-    "whale_usd": 818.9,
-    "whale_pct": 0.37,
+    "whale_usd": 1368.3654000000001,
+    "whale_pct": 0.618,
     "whale_value_at_open": 221459.6158,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -76967,8 +76967,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788084697.2978237,
-    "fills": 1
+    "last_fill_at": 1788085505.9551973,
+    "fills": 2
   },
   {
     "timestamp": 1788084767,
@@ -77182,8 +77182,8 @@
     "title": "Will FC Utrecht win on 2026-08-30?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1299.6,
-    "whale_pct": 0.912,
+    "whale_usd": 1869.6,
+    "whale_pct": 1.312,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -77194,8 +77194,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085293.4560528,
-    "fills": 2
+    "last_fill_at": 1788085557.802585,
+    "fills": 3
   },
   {
     "timestamp": 1788085089,
@@ -77206,8 +77206,8 @@
     "title": "FC Utrecht vs. PSV: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 1685.3400000000001,
-    "whale_pct": 1.183,
+    "whale_usd": 2209.5,
+    "whale_pct": 1.55,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77220,8 +77220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085151.9801664,
-    "fills": 2
+    "last_fill_at": 1788085544.3890638,
+    "fills": 3
   },
   {
     "timestamp": 1788085386,
