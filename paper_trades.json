@@ -70159,8 +70159,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -71899,8 +71899,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -73706,8 +73706,8 @@
     "title": "Spread: Stanford (-10.5)",
     "outcome": "Hawaii",
     "side": "BUY",
-    "whale_usd": 991.1,
-    "whale_pct": 0.51,
+    "whale_usd": 1982.2,
+    "whale_pct": 1.019,
     "whale_value_at_open": 194474.0247,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -73718,7 +73718,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788049886.6345592,
-    "fills": 1
+    "last_fill_at": 1788049919.664267,
+    "fills": 2
   }
 ]

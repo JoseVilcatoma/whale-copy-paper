@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.9304554182901,
+  "bankroll": 507.60112126595595,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14610,6 +14610,16 @@
       "timestamp": 1788049334.4022694,
       "bankroll": 501.93,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs LYON (BO3) - LCS Regular Season (+0.60 USD)"
+    },
+    {
+      "timestamp": 1788049999.376059,
+      "bankroll": 505.91,
+      "event": "won: RN1 \u2014 Will AO Itabaiana SE win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788050001.7786968,
+      "bankroll": 507.6,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ShindeN vs Isurus (BO3) - ESL Challenger League South America Cup #1 Playoffs"
     }
   ]
 }
