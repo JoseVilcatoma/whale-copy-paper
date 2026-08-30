@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 25609.567599999995,
-    "whale_pct": 191.258,
+    "whale_usd": 27162.547599999994,
+    "whale_pct": 202.856,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788069602.487135,
-    "fills": 13
+    "last_fill_at": 1788071407.32616,
+    "fills": 14
   },
   {
     "timestamp": 1788038109,
@@ -75818,6 +75818,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788068986.2483099,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788071400,
+    "timestamp_added": 1788071401.4816983,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-m80-aur1-2026-08-30-game2",
+    "title": "Counter-Strike: M80 vs Aurora Gaming - Map 2 Winner",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "whale_usd": 4082.1760000000004,
+    "whale_pct": 3.231,
+    "whale_value_at_open": 126346.6147,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788071401.4817111,
     "fills": 1
   }
 ]

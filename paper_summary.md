@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 01:29:03 (hora de Perú)
+Actualizado: 2026-08-30 01:31:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $418.85
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 01:29:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $233.85)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $228.85)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -24,7 +24,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 89 | 38 | 0 | +73.86 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 24 | 9 | 5 | +47.29 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 11 | +36.65 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 12 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -603,6 +603,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming - M | Aurora Gaming (BUY) | 68% | 5.00 | 3.2% | ⏳ pendiente | — |
 | nigiri99 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Renata Zarazua vs Polina Ia | Renata Zarazua (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -632,4 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Spread: Real Madrid CF (-2.5) | Málaga CF (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings | Dallas Wings (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 58.5 | Over (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| nigiri99 | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
