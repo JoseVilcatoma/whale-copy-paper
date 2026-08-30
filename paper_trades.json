@@ -80026,8 +80026,8 @@
     "title": "LoL: Cloud9 vs Shopify Rebellion - Game 2 Winner",
     "outcome": "Shopify Rebellion",
     "side": "BUY",
-    "whale_usd": 3035.25,
-    "whale_pct": 30.056,
+    "whale_usd": 6223.2319,
+    "whale_pct": 61.625,
     "whale_value_at_open": 10098.551,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -80038,8 +80038,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788130841.1583328,
-    "fills": 2
+    "last_fill_at": 1788131184.0813184,
+    "fills": 4
   },
   {
     "timestamp": 1788130709,
@@ -80088,5 +80088,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788130739.3265214,
     "fills": 2
+  },
+  {
+    "timestamp": 1788131182,
+    "timestamp_added": 1788131183.4114947,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mex-tol-jua-2026-08-30-total-3pt5",
+    "title": "Deportivo Toluca FC vs. FC Ju\u00e1rez: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 597.84,
+    "whale_pct": 0.229,
+    "whale_value_at_open": 260511.871,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788131183.4115129,
+    "fills": 1
   }
 ]
