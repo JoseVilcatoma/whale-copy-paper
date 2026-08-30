@@ -75445,8 +75445,8 @@
     "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 27300.2454,
-    "whale_pct": 46.128,
+    "whale_usd": 29106.467,
+    "whale_pct": 49.18,
     "whale_value_at_open": 59184.0048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -75457,8 +75457,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788069594.1240036,
-    "fills": 5
+    "last_fill_at": 1788101130.1584272,
+    "fills": 6
   },
   {
     "timestamp": 1788065104,
@@ -75613,8 +75613,8 @@
     "title": "Map Handicap: VIT (-1.5) vs Legacy (+1.5)",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 12704.3439,
-    "whale_pct": 15.326,
+    "whale_usd": 14192.4399,
+    "whale_pct": 17.121,
     "whale_value_at_open": 82896.484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -75625,8 +75625,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788069597.9875658,
-    "fills": 3
+    "last_fill_at": 1788101134.7086601,
+    "fills": 4
   },
   {
     "timestamp": 1788067106,
@@ -78559,8 +78559,8 @@
     "title": "Will Stade Rennais FC 1901 win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 69417.40359999999,
-    "whale_pct": 10.062,
+    "whale_usd": 86973.7567,
+    "whale_pct": 12.607,
     "whale_value_at_open": 689866.3275,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -78571,8 +78571,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788100949.8790364,
-    "fills": 3
+    "last_fill_at": 1788101051.5940797,
+    "fills": 4
   },
   {
     "timestamp": 1788100946,
@@ -78598,6 +78598,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788100946.4791636,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788101033,
+    "timestamp_added": 1788101033.81427,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-cws-min-2026-08-30",
+    "title": "Chicago White Sox vs. Minnesota Twins",
+    "outcome": "Chicago White Sox",
+    "side": "BUY",
+    "whale_usd": 23493.716099999998,
+    "whale_pct": 10.274,
+    "whale_value_at_open": 228663.9624,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788101033.8142776,
     "fills": 1
   }
 ]

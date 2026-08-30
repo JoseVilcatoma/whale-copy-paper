@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:43:26 (hora de Perú)
+Actualizado: 2026-08-30 09:45:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $414.46
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:43:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $401.57 en 82 posiciones abiertas (disponible para nuevas apuestas: $12.89)
+**Capital comprometido ahora mismo:** $406.57 en 83 posiciones abiertas (disponible para nuevas apuestas: $7.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| SDTrading | 36 | 27 | 0 | +24.32 USD |
+| SDTrading | 36 | 27 | 1 | +24.32 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -621,8 +621,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SDTrading | Chicago White Sox vs. Minnesota Twins | Chicago White Sox (BUY) | 48% | 5.00 | 10.3% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 63% | 5.00 | 0.2% | ⏳ pendiente | — |
-| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 10.1% | ⏳ pendiente | — |
+| vito3corleone | Will Stade Rennais FC 1901 win on 2026-0 | Yes (BUY) | 69% | 5.00 | 12.6% | ⏳ pendiente | — |
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ⏳ pendiente | — |
 | ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 82.4% | ⏳ pendiente | — |
@@ -650,4 +651,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Club Brugge win on 2026-08-30? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 52% | 4.59 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Paris FC vs. OGC Nice: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Andrea Colombo vs Gianmarco Ferrar | Gianmarco Ferrari (BUY) | 80% | 5.00 | 1.0% | ❌ perdida | -5.05 |
