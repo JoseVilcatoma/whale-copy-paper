@@ -1,5 +1,5 @@
 {
-  "bankroll": 428.67751304194474,
+  "bankroll": 423.9809659222003,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15095,6 +15095,51 @@
       "timestamp": 1788069277.4272058,
       "bankroll": 428.68,
       "event": "won: RN1 \u2014 ITF MEN - SINGLES: M15 Maanshan 8 (China), hard: Tianhui Zhang vs Rigele Te"
+    },
+    {
+      "timestamp": 1788069892.7352774,
+      "bankroll": 423.55,
+      "event": "lost: HomeRunHazard \u2014 O/U 56.5"
+    },
+    {
+      "timestamp": 1788069895.7820263,
+      "bankroll": 429.05,
+      "event": "won: HomeRunHazard \u2014 Spread: UNLV Runnin' (-3.5)"
+    },
+    {
+      "timestamp": 1788069897.7817616,
+      "bankroll": 423.91,
+      "event": "lost: HomeRunHazard \u2014 Spread: UNLV Runnin' (-3.5)"
+    },
+    {
+      "timestamp": 1788069899.0927782,
+      "bankroll": 428.23,
+      "event": "won: HomeRunHazard \u2014 Spread: UNLV Runnin' (-7.5)"
+    },
+    {
+      "timestamp": 1788069900.1478696,
+      "bankroll": 423.11,
+      "event": "lost: HomeRunHazard \u2014 Memphis vs. UNLV Runnin': O/U 58.5"
+    },
+    {
+      "timestamp": 1788069900.9650629,
+      "bankroll": 418.04,
+      "event": "lost: HomeRunHazard \u2014 Memphis vs. UNLV Runnin'"
+    },
+    {
+      "timestamp": 1788069901.6826527,
+      "bankroll": 423.11,
+      "event": "won: HomeRunHazard \u2014 Spread: UNLV Runnin' (-2.5)"
+    },
+    {
+      "timestamp": 1788069902.1458592,
+      "bankroll": 418.01,
+      "event": "lost: HomeRunHazard \u2014 Spread: UNLV Runnin' (-2.5)"
+    },
+    {
+      "timestamp": 1788069902.245978,
+      "bankroll": 423.98,
+      "event": "won: HomeRunHazard \u2014 Memphis vs. UNLV Runnin'"
     }
   ]
 }

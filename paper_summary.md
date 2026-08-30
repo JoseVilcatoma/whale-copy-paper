@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 01:04:05 (hora de Perú)
+Actualizado: 2026-08-30 01:06:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $428.68
-**Retorno acumulado:** -14.26%
-**Peor caída desde un máximo (drawdown):** 30.56%
+**Bankroll actual:** $423.98
+**Retorno acumulado:** -15.20%
+**Peor caída desde un máximo (drawdown):** 31.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 01:04:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $193.68)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $233.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| HomeRunHazard | 412 | 217 | 11 | +6.11 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | 3edmond.dantes | 2 | 1 | 0 | +5.35 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -56,6 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
+| HomeRunHazard | 416 | 222 | 2 | +1.42 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2891
-- **Aciertos:** 1845 (63.8%)
-- **Cuota promedio de entrada:** 63.4%
+- **Apuestas resueltas:** 2900
+- **Aciertos:** 1849 (63.8%)
+- **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,442.59
-- **ROI sobre lo apostado:** -1.15%
-- **Comisiones pagadas (taker fee):** $264.69 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.69% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,487.59
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $265.77 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1456 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 855 | 70.4% | 67.8% | +2.6 pp |
+| 40-59% | 1464 | 49.8% | 50.1% | -0.3 pp |
+| 60-79% | 856 | 70.3% | 67.8% | +2.5 pp |
 | 80-94% | 400 | 86.2% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 180 | 96.1% | 97.4% | -1.3 pp |
 
@@ -619,17 +619,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 5.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Vitality vs Legacy (BO3) | Vitality (BUY) | 71% | 5.00 | 46.1% | ⏳ pendiente | — |
-| HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 2.9% | ⏳ pendiente | — |
+| HomeRunHazard | Memphis vs. UNLV Runnin' | Memphis (BUY) | 45% | 5.00 | 2.9% | ✅ ganada | +5.97 |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Baltimore Orioles (BUY) | 65% | 5.00 | 3.9% | ❌ perdida | -5.09 |
 | HomeRunHazard | Spread: Baltimore Orioles (-2.5) | Athletics (BUY) | 76% | 5.00 | 6.3% | ✅ ganada | +1.52 |
 | HomeRunHazard | Baltimore Orioles vs. Athletics: O/U 8.5 | Over (BUY) | 86% | 5.00 | 8.4% | ❌ perdida | -5.04 |
 | HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Los Angeles Angels (BUY) | 51% | 5.00 | 1.4% | ❌ perdida | -5.12 |
-| HomeRunHazard | Spread: UNLV Runnin' (-2.5) | UNLV Runnin' (BUY) | 58% | 5.00 | 1.4% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: UNLV Runnin' (-2.5) | UNLV Runnin' (BUY) | 58% | 5.00 | 1.4% | ❌ perdida | -5.11 |
 | casualbet2020 | Valorant: Karmine Corp vs Team Liquid (B | Karmine Corp (BUY) | 52% | 5.00 | 10.2% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: UNLV Runnin' (-2.5) | Memphis (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: UNLV Runnin' (-2.5) | Memphis (BUY) | 49% | 5.00 | 0.6% | ✅ ganada | +5.08 |
 | HomeRunHazard | Spread: UNLV Runnin' (-4.5) | UNLV Runnin' (BUY) | 46% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Memphis vs. UNLV Runnin' | UNLV Runnin' (BUY) | 71% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | Memphis vs. UNLV Runnin' | UNLV Runnin' (BUY) | 71% | 5.00 | 0.6% | ❌ perdida | -5.07 |
 | nigiri99 | Spread: Real Madrid CF (-2.5) | Málaga CF (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings | Dallas Wings (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
-| HomeRunHazard | Memphis vs. UNLV Runnin': O/U 58.5 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | Memphis vs. UNLV Runnin': O/U 58.5 | Over (BUY) | 51% | 5.00 | 0.4% | ❌ perdida | -5.12 |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
