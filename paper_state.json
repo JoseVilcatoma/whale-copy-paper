@@ -1,5 +1,5 @@
 {
-  "bankroll": 356.0794960164417,
+  "bankroll": 350.9544960164417,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15735,6 +15735,11 @@
       "timestamp": 1788113287.7251022,
       "bankroll": 356.08,
       "event": "won: ArturitoFilito \u2014 US Open ATP: Yibing Wu vs Adam Walton"
+    },
+    {
+      "timestamp": 1788113899.2408953,
+      "bankroll": 350.95,
+      "event": "lost: ferrariChampions2026 \u2014 US Open WTA: Talia Gibson vs Donna Vekic"
     }
   ]
 }
