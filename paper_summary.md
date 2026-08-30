@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 08:21:26 (hora de Perú)
+Actualizado: 2026-08-30 08:23:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.29
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 08:21:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $409.31 en 83 posiciones abiertas (disponible para nuevas apuestas: $6.98)
+**Capital comprometido ahora mismo:** $414.31 en 84 posiciones abiertas (disponible para nuevas apuestas: $1.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
-| RN1 | 435 | 205 | 26 | -23.96 USD |
+| RN1 | 435 | 205 | 27 | -23.96 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
@@ -619,6 +619,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | FC St. Gallen 1879 vs. FC Thun: O/U 3.5 | Under (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ⏳ pendiente | — |
 | RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.9% | ⏳ pendiente | — |
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |
@@ -648,4 +649,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere (BO3 | G2 (BUY) | 82% | 5.00 | 41.9% | ✅ ganada | +1.05 |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 0.5 | Over (BUY) | 92% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: G2 vs Natus Vincere - Ma | G2 (BUY) | 62% | 5.00 | 112.2% | ✅ ganada | +2.97 |
-| ferrariChampions2026 | US Open WTA: Jasmine Paolini vs Veronika | Jasmine Paolini (BUY) | 89% | 5.00 | 8.0% | ⏳ pendiente | — |
