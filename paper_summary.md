@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 12:32:55 (hora de Perú)
+Actualizado: 2026-08-30 12:34:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $363.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 12:32:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $298.25 en 61 posiciones abiertas (disponible para nuevas apuestas: $65.61)
+**Capital comprometido ahora mismo:** $308.25 en 63 posiciones abiertas (disponible para nuevas apuestas: $55.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 103 | 43 | 0 | +84.57 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 103 | 43 | 1 | +84.57 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 10 | +48.27 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
@@ -96,7 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 447 | 214 | 6 | -37.22 USD |
-| Sassy-Bucket | 19 | 36 | 1 | -94.52 USD |
+| Sassy-Bucket | 19 | 36 | 2 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 368 | 226 | 14 | -124.00 USD |
 
@@ -622,12 +622,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-wu-walton-2026-08-30 | ArturitoFilito, ferrariChampions2026 |
 | arg-ban-riv-2026-08-30-riv | RN1, nigiri99 |
 | lal-rea-mala-2026-08-30-total-3pt5 | ferrariChampions2026, nigiri99 |
+| mlb-bos-nyy-2026-08-30-total-8pt5 | Sassy-Bucket, nigiri99 |
 | mlb-mia-wsh-2026-08-30-total-9pt5 | SDTrading, nigiri99 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Boston Red Sox vs. New York Yankees: O/U | Over (BUY) | 47% | 5.00 | 6.3% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -656,5 +659,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Map Handicap: FUT (-1.5) vs Inner Circle | FUT Esports (BUY) | 47% | 5.00 | 0.1% | ✅ ganada | +5.51 |
 | ArturitoFilito | Map Handicap: FUT (-1.5) vs Inner Circle | Inner Circle Esports (BUY) | 55% | 5.00 | 5.7% | ❌ perdida | -5.11 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics - Gam | Movistar KOI (BUY) | 99% | 5.00 | 89.1% | ✅ ganada | +0.05 |
-| nigiri99 | Telstar 1963 vs. AFC Ajax: O/U 3.5 | Over (BUY) | 51% | 4.49 | 0.1% | ⏳ pendiente | — |
-| nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
