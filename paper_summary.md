@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 23:28:42 (hora de Perú)
+Actualizado: 2026-08-29 23:30:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $460.34
-**Retorno acumulado:** -7.93%
+**Bankroll actual:** $464.66
+**Retorno acumulado:** -7.07%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 23:28:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $180.34)
+**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $179.66)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 1 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 401 | 207 | 21 | +26.47 USD |
+| HomeRunHazard | 401 | 207 | 22 | +26.47 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| quavoo | 3 | 4 | 3 | -11.23 USD |
+| quavoo | 3 | 4 | 4 | -11.23 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
@@ -93,20 +93,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 420 | 201 | 4 | -39.24 USD |
+| ferrariChampions2026 | 350 | 213 | 12 | -90.55 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 349 | 213 | 13 | -94.87 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2855
-- **Aciertos:** 1826 (64.0%)
+- **Apuestas resueltas:** 2856
+- **Aciertos:** 1827 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,262.59
-- **ROI sobre lo apostado:** -0.94%
-- **Comisiones pagadas (taker fee):** $261.07 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.89% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,267.59
+- **ROI sobre lo apostado:** -0.91%
+- **Comisiones pagadas (taker fee):** $261.19 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1433 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1434 | 50.1% | 50.1% | -0.1 pp |
 | 60-79% | 846 | 70.2% | 67.8% | +2.4 pp |
 | 80-94% | 396 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 180 | 96.1% | 97.4% | -1.3 pp |
@@ -603,6 +603,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Memphis vs. UNLV Runnin' | UNLV Runnin' (BUY) | 71% | 5.00 | 0.4% | ⏳ pendiente | — |
+| nigiri99 | Spread: Real Madrid CF (-2.5) | Málaga CF (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings | Dallas Wings (BUY) | 90% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 58.5 | Over (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 1.5 | Over (BUY) | 93% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -631,5 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Over (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-3.5) | UNLV Runnin' (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | San Francisco Giants (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 44% | 5.00 | 1.6% | ⏳ pendiente | — |
