@@ -73216,8 +73216,8 @@
     "title": "Spread: New York Yankees (-1.5)",
     "outcome": "Boston Red Sox",
     "side": "BUY",
-    "whale_usd": 1312.0,
-    "whale_pct": 0.576,
+    "whale_usd": 5971.6912,
+    "whale_pct": 2.622,
     "whale_value_at_open": 227738.3314,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -73228,8 +73228,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788046062.0570934,
-    "fills": 1
+    "last_fill_at": 1788052017.8721633,
+    "fills": 2
   },
   {
     "timestamp": 1788046388,
