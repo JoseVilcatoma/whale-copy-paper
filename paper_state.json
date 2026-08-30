@@ -1,5 +1,5 @@
 {
-  "bankroll": 422.97415557737276,
+  "bankroll": 423.07119639369927,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15155,6 +15155,11 @@
       "timestamp": 1788078826.1163085,
       "bankroll": 422.97,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 1 Winner (+0.61 USD)"
+    },
+    {
+      "timestamp": 1788080124.665216,
+      "bankroll": 423.07,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Hiroki Moriya vs Grigoriy Lomakin"
     }
   ]
 }
