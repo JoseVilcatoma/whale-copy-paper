@@ -1,5 +1,5 @@
 {
-  "bankroll": 413.6150543502801,
+  "bankroll": 416.7137756617555,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15385,6 +15385,11 @@
       "timestamp": 1788092625.8991332,
       "bankroll": 413.62,
       "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 Dota 2: Team Nemesis vs Execration - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788093260.5599935,
+      "bankroll": 416.71,
+      "event": "won: RN1 \u2014 Plovdiv 3: Oleksandr Ovcharenko vs Edoardo Cherie Ligniere"
     }
   ]
 }
