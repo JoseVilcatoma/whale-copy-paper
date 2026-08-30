@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 19:45:59 (hora de Perú)
+Actualizado: 2026-08-29 19:47:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $507.60
@@ -604,7 +604,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Texas Rangers vs. Milwaukee Brewers: O/U | Under (BUY) | 63% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Florida State (-21.5) | Florida State (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | New Mexico State vs. Florida State | Florida State (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 50% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-10.5) | Hawaii (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |
 | HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
