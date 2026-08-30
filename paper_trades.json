@@ -75445,8 +75445,8 @@
     "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 9722.037,
-    "whale_pct": 16.427,
+    "whale_usd": 16871.1051,
+    "whale_pct": 28.506,
     "whale_value_at_open": 59184.0048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -75457,8 +75457,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788065092.752719,
-    "fills": 1
+    "last_fill_at": 1788065996.1011028,
+    "fills": 2
   },
   {
     "timestamp": 1788065104,
@@ -75469,8 +75469,8 @@
     "title": "Games Total: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1400.0423,
-    "whale_pct": 2.366,
+    "whale_usd": 2418.2105,
+    "whale_pct": 4.086,
     "whale_value_at_open": 59184.0048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -75481,8 +75481,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788065104.6444,
-    "fills": 1
+    "last_fill_at": 1788066003.1694682,
+    "fills": 2
   },
   {
     "timestamp": 1788065222,
