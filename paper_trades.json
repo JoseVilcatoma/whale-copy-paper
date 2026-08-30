@@ -77184,8 +77184,8 @@
     "title": "Will FC Utrecht win on 2026-08-30?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 2530.8,
-    "whale_pct": 1.776,
+    "whale_usd": 3192.0,
+    "whale_pct": 2.24,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -77196,8 +77196,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788086547.8262587,
-    "fills": 4
+    "last_fill_at": 1788087415.1498308,
+    "fills": 5
   },
   {
     "timestamp": 1788085089,
