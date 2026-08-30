@@ -80447,8 +80447,8 @@
     "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
     "outcome": "Martin Landaluce",
     "side": "BUY",
-    "whale_usd": 2663.96,
-    "whale_pct": 1.078,
+    "whale_usd": 4259.96,
+    "whale_pct": 1.724,
     "whale_value_at_open": 247106.1546,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -80463,8 +80463,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788133058.4934983,
-    "fills": 1
+    "last_fill_at": 1788134130.0937552,
+    "fills": 2
   },
   {
     "timestamp": 1788133111,
@@ -80713,5 +80713,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788133932.0932581,
     "fills": 3
+  },
+  {
+    "timestamp": 1788134088,
+    "timestamp_added": 1788134089.1758928,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cin-chc-2026-08-30",
+    "title": "Cincinnati Reds vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 6211.16,
+    "whale_pct": 2.132,
+    "whale_value_at_open": 291267.4679,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "SDTrading",
+      "texaskid"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788134089.1759024,
+    "fills": 1
   }
 ]
