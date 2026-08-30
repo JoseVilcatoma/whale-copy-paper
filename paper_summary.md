@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 17:58:16 (hora de Perú)
+Actualizado: 2026-08-30 18:00:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $338.13
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 17:58:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $198.13)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $188.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| SDTrading | 37 | 30 | 0 | +17.82 USD |
+| SDTrading | 37 | 30 | 1 | +17.82 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| quavoo | 20 | 10 | 7 | +3.33 USD |
+| quavoo | 20 | 10 | 8 | +3.33 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -634,12 +634,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
+| SDTrading | Cincinnati Reds vs. Chicago Cubs: O/U 9. | Under (BUY) | 55% | 5.00 | 9.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 49% | 5.00 | 23.8% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 48% | 5.00 | 950.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 54% | 5.00 | 52.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 63% | 5.00 | 97.0% | 💰 vendida anticipada | +0.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Voca vs Marsborne (BO3)  | Voca (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
-| nigiri99 | St. Louis City SC vs. FC Dallas: Both Te | Yes (BUY) | 65% | 5.00 | 0.2% | ⏳ pendiente | — |
+| nigiri99 | St. Louis City SC vs. FC Dallas: Both Te | Yes (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 99% | 5.00 | 13.0% | 💰 vendida anticipada | +0.05 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 98% | 5.00 | 14.2% | 💰 vendida anticipada | -0.12 |
 | nigiri99 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -662,5 +664,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Over (BUY) | 56% | 5.00 | 0.2% | ❌ perdida | -5.11 |
 | nigiri99 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | texaskid | Spread: Philadelphia Phillies (-1.5) | Los Angeles Angels (BUY) | 53% | 5.00 | 2.1% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Galorys vs Imperial (BO3 | Imperial (BUY) | 79% | 5.00 | 6.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 58% | 5.00 | 9.1% | 💰 vendida anticipada | +2.17 |
