@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:42:53 (hora de Perú)
+Actualizado: 2026-08-29 21:44:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $483.93
-**Retorno acumulado:** -3.21%
+**Bankroll actual:** $482.35
+**Retorno acumulado:** -3.53%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:42:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $188.93)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $222.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,10 +26,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 24 | 9 | 3 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 7 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
+| HomeRunHazard | 397 | 203 | 14 | +31.94 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 35 | 25 | 3 | +30.41 USD |
-| HomeRunHazard | 395 | 202 | 17 | +29.76 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -93,20 +93,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 418 | 200 | 1 | -39.34 USD |
-| ferrariChampions2026 | 340 | 206 | 24 | -80.62 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
+| ferrariChampions2026 | 342 | 208 | 20 | -84.38 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2822
-- **Aciertos:** 1808 (64.1%)
+- **Apuestas resueltas:** 2829
+- **Aciertos:** 1812 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,097.59
-- **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $257.87 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,132.59
+- **ROI sobre lo apostado:** -0.79%
+- **Comisiones pagadas (taker fee):** $258.58 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,9 +114,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1414 | 50.1% | 50.1% | -0.0 pp |
-| 60-79% | 838 | 70.5% | 67.8% | +2.7 pp |
-| 80-94% | 392 | 86.2% | 86.7% | -0.5 pp |
+| 40-59% | 1417 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 841 | 70.4% | 67.8% | +2.6 pp |
+| 80-94% | 393 | 86.3% | 86.7% | -0.5 pp |
 | 95-99% (casi seguro) | 178 | 96.1% | 97.4% | -1.3 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -612,16 +612,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 93.6% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 13.5% | ⏳ pendiente | — |
 | texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 18.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Sporting Kansas City win on 2026-08 | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Under (BUY) | 53% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will San Jose Earthquakes win on 2026-08 | No (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-2.5) | Boston Red Sox (BUY) | 69% | 5.00 | 5.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: New York Yankees (-2.5) | Boston Red Sox (BUY) | 69% | 5.00 | 5.5% | ❌ perdida | -5.08 |
 | ferrariChampions2026 | Will Inter Miami CF win on 2026-08-29? | Yes (BUY) | 98% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 88% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will New York City FC win on 2026-08-29? | Yes (BUY) | 65% | 5.00 | 0.3% | ❌ perdida | -5.09 |
-| HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 4.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ✅ ganada | +4.88 |
 | HomeRunHazard | Spread: Stanford (-7.5) | Stanford (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |

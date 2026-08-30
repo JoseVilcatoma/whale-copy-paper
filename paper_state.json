@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.92524516978904,
+  "bankroll": 482.35374009169703,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14750,6 +14750,41 @@
       "timestamp": 1788057704.6965106,
       "bankroll": 483.93,
       "event": "won: HomeRunHazard \u2014 Spread: Florida State (-21.5)"
+    },
+    {
+      "timestamp": 1788057829.6279373,
+      "bankroll": 487.02,
+      "event": "won: ferrariChampions2026 \u2014 Boston Red Sox vs. New York Yankees"
+    },
+    {
+      "timestamp": 1788057829.9663033,
+      "bankroll": 481.88,
+      "event": "lost: ferrariChampions2026 \u2014 Boston Red Sox vs. New York Yankees"
+    },
+    {
+      "timestamp": 1788057830.467232,
+      "bankroll": 476.78,
+      "event": "lost: HomeRunHazard \u2014 Boston Red Sox vs. New York Yankees"
+    },
+    {
+      "timestamp": 1788057830.8646786,
+      "bankroll": 483.01,
+      "event": "won: HomeRunHazard \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1788057831.608426,
+      "bankroll": 484.06,
+      "event": "won: HomeRunHazard \u2014 Boston Red Sox vs. New York Yankees"
+    },
+    {
+      "timestamp": 1788057831.9493818,
+      "bankroll": 478.98,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: New York Yankees (-2.5)"
+    },
+    {
+      "timestamp": 1788057832.450238,
+      "bankroll": 482.35,
+      "event": "won: ferrariChampions2026 \u2014 Spread: New York Yankees (-2.5)"
     }
   ]
 }
