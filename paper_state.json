@@ -1,5 +1,5 @@
 {
-  "bankroll": 502.56812126595594,
+  "bankroll": 497.4461212659559,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14625,6 +14625,11 @@
       "timestamp": 1788050934.8856742,
       "bankroll": 502.57,
       "event": "lost: TAIWANNUMBERONE \u2014 Moises Itauma vs. Filip Hrgovic"
+    },
+    {
+      "timestamp": 1788051620.1381524,
+      "bankroll": 497.45,
+      "event": "lost: ferrariChampions2026 \u2014 Set 1 Winner: Parry vs Mertens"
     }
   ]
 }

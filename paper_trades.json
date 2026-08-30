@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 18340.907399999996,
-    "whale_pct": 136.974,
+    "whale_usd": 19926.712599999995,
+    "whale_pct": 148.817,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788050703.2579424,
-    "fills": 9
+    "last_fill_at": 1788051595.8646288,
+    "fills": 10
   },
   {
     "timestamp": 1788038109,
@@ -73043,8 +73043,8 @@
     "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
     "outcome": "Aidan Mayo",
     "side": "BUY",
-    "whale_usd": 39777.261999999995,
-    "whale_pct": 20.99,
+    "whale_usd": 49046.14199999999,
+    "whale_pct": 25.881,
     "whale_value_at_open": 189504.0763,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -73055,8 +73055,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788047501.6458223,
-    "fills": 11
+    "last_fill_at": 1788051596.634012,
+    "fills": 12
   },
   {
     "timestamp": 1788045252,
@@ -73367,8 +73367,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -73941,6 +73941,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788051175.106694,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788051595,
+    "timestamp_added": 1788051595.4448702,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mls-tor-nyc-2026-08-29-nyc",
+    "title": "Will New York City FC win on 2026-08-29?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 540.0064,
+    "whale_pct": 0.274,
+    "whale_value_at_open": 197411.4965,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788051595.444881,
     "fills": 1
   }
 ]

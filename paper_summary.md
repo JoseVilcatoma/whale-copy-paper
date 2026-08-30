@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 19:58:23 (hora de Perú)
+Actualizado: 2026-08-29 20:00:27 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $502.57
-**Retorno acumulado:** +0.51%
+**Bankroll actual:** $497.45
+**Retorno acumulado:** -0.51%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 19:58:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $182.57)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $177.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -93,20 +93,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | RN1 | 417 | 200 | 2 | -39.44 USD |
-| ferrariChampions2026 | 337 | 199 | 20 | -52.88 USD |
+| ferrariChampions2026 | 337 | 200 | 20 | -58.00 USD |
 | Sassy-Bucket | 19 | 34 | 0 | -84.24 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2797
+- **Apuestas resueltas:** 2798
 - **Aciertos:** 1794 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $13,972.59
-- **ROI sobre lo apostado:** -0.65%
-- **Comisiones pagadas (taker fee):** $255.53 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.17% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $13,977.59
+- **ROI sobre lo apostado:** -0.69%
+- **Comisiones pagadas (taker fee):** $255.65 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1401 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1402 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 830 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 390 | 86.2% | 86.7% | -0.6 pp |
 | 95-99% (casi seguro) | 176 | 96.0% | 97.4% | -1.3 pp |
@@ -599,6 +599,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Will New York City FC win on 2026-08-29? | Yes (BUY) | 65% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 4.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -622,10 +623,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will D.C. United SC win on 2026-08-29? | No (BUY) | 76% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Vancouver Whitecaps FC (-1.5) | Sporting Kansas City (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Inter Miami CF vs. CF Montréal end  | No (BUY) | 86% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Set 1 Winner: Parry vs Mertens | Mertens (BUY) | 51% | 5.00 | 2.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | Set 1 Winner: Parry vs Mertens | Mertens (BUY) | 51% | 5.00 | 2.5% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 3.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | No (BUY) | 46% | 5.00 | 1.2% | ⏳ pendiente | — |
 | texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 57% | 5.00 | 31.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Boston Red Sox vs. New York Yankees | Boston Red Sox (BUY) | 41% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Valorant: FURIA Esports vs G2 Esports (B | G2 Esports (BUY) | 90% | 5.00 | 0.2% | ✅ ganada | +0.53 |
-| ferrariChampions2026 | Spread: New York Yankees (-1.5) | Boston Red Sox (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
