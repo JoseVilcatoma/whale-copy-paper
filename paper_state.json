@@ -1,5 +1,5 @@
 {
-  "bankroll": 325.7737070287051,
+  "bankroll": 330.6487070287051,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16080,6 +16080,11 @@
       "timestamp": 1788132159.0096366,
       "bankroll": 325.77,
       "event": "won: Sassy-Bucket \u2014 Philadelphia Phillies vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788132471.2940767,
+      "bankroll": 330.65,
+      "event": "won: nigiri99 \u2014 Los Angeles Sparks vs. Seattle Storm: O/U 174.5"
     }
   ]
 }
