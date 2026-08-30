@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.97114074112056,
+  "bankroll": 395.92114074112055,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15430,6 +15430,11 @@
       "timestamp": 1788097017.9096527,
       "bankroll": 400.97,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: JD Gaming vs Team WE - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788097651.0654,
+      "bankroll": 395.92,
+      "event": "lost: ferrariChampions2026 \u2014 Como: Andrea Colombo vs Gianmarco Ferrari"
     }
   ]
 }

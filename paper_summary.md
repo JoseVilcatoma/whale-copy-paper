@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 08:46:28 (hora de Perú)
+Actualizado: 2026-08-30 08:48:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $400.97
-**Retorno acumulado:** -19.81%
-**Peor caída desde un máximo (drawdown):** 33.86%
+**Bankroll actual:** $395.92
+**Retorno acumulado:** -20.82%
+**Peor caída desde un máximo (drawdown):** 34.69%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 08:46:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $399.31 en 81 posiciones abiertas (disponible para nuevas apuestas: $1.66)
+**Capital comprometido ahora mismo:** $394.31 en 80 posiciones abiertas (disponible para nuevas apuestas: $1.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,19 +96,19 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 364 | 219 | 23 | -95.25 USD |
+| ferrariChampions2026 | 364 | 220 | 22 | -100.30 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2951
+- **Apuestas resueltas:** 2952
 - **Aciertos:** 1881 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,742.59
-- **ROI sobre lo apostado:** -1.33%
-- **Comisiones pagadas (taker fee):** $269.90 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,747.59
+- **ROI sobre lo apostado:** -1.37%
+- **Comisiones pagadas (taker fee):** $269.95 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.46% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -118,7 +118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1481 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 877 | 70.0% | 67.8% | +2.2 pp |
-| 80-94% | 409 | 86.6% | 86.6% | -0.1 pp |
+| 80-94% | 410 | 86.3% | 86.6% | -0.3 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -636,7 +636,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Club Brugge win on 2026-08-30? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 52% | 4.59 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Paris FC vs. OGC Nice: O/U 2.5 | Under (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Como: Andrea Colombo vs Gianmarco Ferrar | Gianmarco Ferrari (BUY) | 80% | 5.00 | 1.0% | ⏳ pendiente | — |
+| ferrariChampions2026 | Como: Andrea Colombo vs Gianmarco Ferrar | Gianmarco Ferrari (BUY) | 80% | 5.00 | 1.0% | ❌ perdida | -5.05 |
 | RN1 | Will KAA Gent vs. Club Brugge end in a d | No (BUY) | 73% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | Will FC St. Pauli 1910 win on 2026-08-30 | No (BUY) | 52% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 4 Winne | JD Gaming (BUY) | 55% | 5.00 | 43.1% | ❌ perdida | -5.11 |
