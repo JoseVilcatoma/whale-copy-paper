@@ -77308,8 +77308,8 @@
     "title": "KBO: NC Dinos vs. Hanwha Eagles",
     "outcome": "Hanwha Eagles",
     "side": "BUY",
-    "whale_usd": 5013.67,
-    "whale_pct": 3.107,
+    "whale_usd": 7261.1125,
+    "whale_pct": 4.5,
     "whale_value_at_open": 161365.1292,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -77320,8 +77320,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788088582.7096608,
-    "fills": 3
+    "last_fill_at": 1788091666.3185577,
+    "fills": 6
   },
   {
     "timestamp": 1788086632,
