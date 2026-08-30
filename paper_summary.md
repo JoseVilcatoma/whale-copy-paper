@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 12:16:21 (hora de Perú)
+Actualizado: 2026-08-30 12:18:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $361.17
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 12:16:21 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $336.92 en 69 posiciones abiertas (disponible para nuevas apuestas: $24.25)
+**Capital comprometido ahora mismo:** $341.92 en 70 posiciones abiertas (disponible para nuevas apuestas: $19.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,7 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 0 | 1 | +0.00 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 2 | +0.00 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | ArturitoFilito | 4 | 3 | 3 | -1.88 USD |
@@ -605,6 +605,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wnba-tor-phx-2026-08-29-total-173pt5 | RN1, Sassy-Bucket |
 | lol-dk-kt-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-phi-laa-2026-08-29-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| cs2-vit-lgc-2026-08-30-game2 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | lol-dk-kt-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | epl-che-bri-2026-08-30-che | ArturitoFilito, nigiri99 |
 | cs2-ice-fut-2026-08-30-map-handicap-home-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ArturitoFilito, nigiri99 |
@@ -626,6 +627,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Valorant: LOUD vs MIBR (BO3) - VCT Ameri | MIBR (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 44% | 5.00 | 6.4% | 💰 vendida anticipada | +2.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 50% | 5.00 | 2.3% | 💰 vendida anticipada | -0.05 |
@@ -655,4 +657,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Counter-Strike: K27 vs Nuclear TigeRES ( | K27 (BUY) | 46% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Real Madrid CF vs. Málaga CF: O/U 2.5 | Over (BUY) | 81% | 5.00 | 0.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ⏳ pendiente | — |
-| nigiri99 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
