@@ -77208,8 +77208,8 @@
     "title": "FC Utrecht vs. PSV: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 12280.54,
-    "whale_pct": 8.617,
+    "whale_usd": 12921.18,
+    "whale_pct": 9.067,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77222,8 +77222,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788086056.1932077,
-    "fills": 15
+    "last_fill_at": 1788087806.920665,
+    "fills": 16
   },
   {
     "timestamp": 1788085386,
@@ -77397,5 +77397,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788086996.8770065,
     "fills": 1
+  },
+  {
+    "timestamp": 1788087747,
+    "timestamp_added": 1788087748.5234537,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "nor-bog-rbk-2026-08-30-spread-home-1pt5",
+    "title": "Spread: FK Bod\u00f8/Glimt (-1.5)",
+    "outcome": "Rosenborg BK",
+    "side": "BUY",
+    "whale_usd": 25596.789998,
+    "whale_pct": 14.14,
+    "whale_value_at_open": 181027.7433,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788087750.1723337,
+    "fills": 2
   }
 ]
