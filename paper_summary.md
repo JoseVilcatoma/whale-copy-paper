@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:51:14 (hora de Perú)
+Actualizado: 2026-08-29 21:53:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $477.27
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:51:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $197.27)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $187.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 24 | 9 | 3 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 7 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| HomeRunHazard | 397 | 203 | 19 | +31.94 USD |
+| HomeRunHazard | 397 | 203 | 21 | +31.94 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 35 | 25 | 3 | +30.41 USD |
@@ -596,11 +596,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-nyy-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | wta-parry-mertens-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-bos-nyy-2026-08-29-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
+| mlb-phi-laa-2026-08-29-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 67% | 5.00 | 2.5% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Over (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-3.5) | UNLV Runnin' (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -610,7 +613,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: OG vs Eternal Fire (BO3) | Eternal Fire (BUY) | 61% | 5.00 | 1.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 42% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Will CF América win on 2026-08-29? | Yes (BUY) | 81% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 2.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 59% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota United FC vs. Orlando City SC: | Over (BUY) | 47% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: NAVI (-1.5) vs G2 (+1.5) | G2 (BUY) | 74% | 5.00 | 4.9% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -629,5 +632,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 4.8% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ✅ ganada | +4.88 |
-| HomeRunHazard | Spread: Stanford (-7.5) | Stanford (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: UNLV Runnin' (-3.5) | Memphis (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |

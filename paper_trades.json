@@ -74316,8 +74316,8 @@
     "title": "Spread: Philadelphia Phillies (-2.5)",
     "outcome": "Los Angeles Angels",
     "side": "BUY",
-    "whale_usd": 7370.947399999999,
-    "whale_pct": 2.859,
+    "whale_usd": 10502.7501,
+    "whale_pct": 4.073,
     "whale_value_at_open": 257857.196,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -74328,8 +74328,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788056617.1847124,
-    "fills": 3
+    "last_fill_at": 1788058283.172884,
+    "fills": 4
   },
   {
     "timestamp": 1788056887,
@@ -74550,6 +74550,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788058199.6248198,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788058281,
+    "timestamp_added": 1788058282.314185,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-phi-laa-2026-08-29-spread-away-2pt5",
+    "title": "Spread: Philadelphia Phillies (-2.5)",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 4635.5973,
+    "whale_pct": 1.798,
+    "whale_value_at_open": 257829.5985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788058282.3141954,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788058282,
+    "timestamp_added": 1788058282.759014,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "mlb-phi-laa-2026-08-29-spread-away-1pt5",
+    "title": "Spread: Philadelphia Phillies (-1.5)",
+    "outcome": "Philadelphia Phillies",
+    "side": "BUY",
+    "whale_usd": 6508.002600000001,
+    "whale_pct": 2.524,
+    "whale_value_at_open": 257829.5985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788058282.7590263,
     "fills": 1
   }
 ]
