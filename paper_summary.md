@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:53:03 (hora de Perú)
+Actualizado: 2026-08-30 04:55:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.24
@@ -628,7 +628,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 56% | 5.00 | 44.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: JDG (-1.5) vs Team WE (+1 | JD Gaming (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 78% | 5.00 | 1.9% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | KT Rolster (BUY) | 45% | 5.00 | 17.6% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | KT Rolster (BUY) | 45% | 5.00 | 569.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Kamil Majchrzak vs Hamad Me | Hamad Medjedovic (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | Dplus KIA (BUY) | 56% | 5.00 | 3.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 61% | 5.00 | 13.0% | ⏳ pendiente | — |
