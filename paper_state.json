@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.3298304182901,
+  "bankroll": 501.9304554182901,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14605,6 +14605,11 @@
       "timestamp": 1788049201.92414,
       "bankroll": 501.33,
       "event": "won: ferrariChampions2026 \u2014 Valorant: FURIA Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1788049334.4022694,
+      "bankroll": 501.93,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs LYON (BO3) - LCS Regular Season (+0.60 USD)"
     }
   ]
 }
