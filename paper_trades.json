@@ -79286,8 +79286,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -79601,8 +79601,8 @@
     "title": "Will SE Palmeiras win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1884.89,
-    "whale_pct": 0.594,
+    "whale_usd": 3222.29,
+    "whale_pct": 1.015,
     "whale_value_at_open": 317320.7718,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -79613,8 +79613,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788122392.508057,
-    "fills": 2
+    "last_fill_at": 1788123181.366348,
+    "fills": 3
   },
   {
     "timestamp": 1788121601,
