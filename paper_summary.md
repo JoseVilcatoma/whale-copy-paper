@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:47:44 (hora de Perú)
+Actualizado: 2026-08-30 00:49:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $420.99
@@ -605,7 +605,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | US Open WTA: Renata Zarazua vs Polina Ia | Renata Zarazua (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
-| nigiri99 | Will Chelsea FC win on 2026-08-30? | Yes (BUY) | 51% | 5.00 | 0.1% | ⏳ pendiente | — |
+| nigiri99 | Will Chelsea FC win on 2026-08-30? | Yes (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Daniel Merida Aguilar vs Ma | Daniel Merida Aguilar (BUY) | 83% | 5.00 | 4.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: DK (-1.5) vs KT Rolster ( | Dplus KIA (BUY) | 61% | 5.00 | 0.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 1 Wi | Dplus KIA (BUY) | 67% | 5.00 | 3.6% | ⏳ pendiente | — |
