@@ -79723,8 +79723,8 @@
     "title": "LoL: LYON vs Team Liquid (BO3) - LCS Regular Season",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 4647.474,
-    "whale_pct": 27.474,
+    "whale_usd": 8366.052099999999,
+    "whale_pct": 49.458,
     "whale_value_at_open": 16915.6384,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -79737,8 +79737,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788124104.0559897,
-    "fills": 3
+    "last_fill_at": 1788124646.2035956,
+    "fills": 6
   },
   {
     "timestamp": 1788124372,

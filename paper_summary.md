@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 16:14:12 (hora de Perú)
+Actualizado: 2026-08-30 16:18:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $316.56
@@ -634,7 +634,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 66% | 5.00 | 4.7% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 83% | 5.00 | 27.5% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 83% | 5.00 | 49.5% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 56% | 5.00 | 74.4% | 💰 vendida anticipada | +0.77 |
 | nigiri99 | Los Angeles Sparks vs. Seattle Storm: O/ | Under (BUY) | 50% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Fluxo W7M vs ShindeN (BO | ShindeN (BUY) | 50% | 5.00 | 2.9% | ⏳ pendiente | — |
