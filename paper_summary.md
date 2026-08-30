@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 21:40:48 (hora de Perú)
+Actualizado: 2026-08-29 21:42:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $484.17
-**Retorno acumulado:** -3.17%
+**Bankroll actual:** $483.93
+**Retorno acumulado:** -3.21%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 21:40:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $305.00 en 61 posiciones abiertas (disponible para nuevas apuestas: $179.17)
+**Capital comprometido ahora mismo:** $295.00 en 59 posiciones abiertas (disponible para nuevas apuestas: $188.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,7 +29,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 35 | 25 | 3 | +30.41 USD |
-| HomeRunHazard | 394 | 201 | 19 | +30.00 USD |
+| HomeRunHazard | 395 | 202 | 17 | +29.76 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
@@ -99,13 +99,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2820
-- **Aciertos:** 1807 (64.1%)
+- **Apuestas resueltas:** 2822
+- **Aciertos:** 1808 (64.1%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,087.59
+- **Total apostado (suma de stakes):** $14,097.59
 - **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $257.63 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $257.87 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1412 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1414 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 838 | 70.5% | 67.8% | +2.7 pp |
 | 80-94% | 392 | 86.2% | 86.7% | -0.5 pp |
 | 95-99% (casi seguro) | 178 | 96.1% | 97.4% | -1.3 pp |
@@ -623,11 +623,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Will New York City FC win on 2026-08-29? | Yes (BUY) | 65% | 5.00 | 0.3% | ❌ perdida | -5.09 |
 | HomeRunHazard | Boston Red Sox vs. New York Yankees | New York Yankees (BUY) | 82% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Elise Mertens (BUY) | 62% | 5.00 | 4.8% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Florida State (-21.5) | New Mexico State (BUY) | 50% | 5.00 | 0.3% | ✅ ganada | +4.88 |
 | HomeRunHazard | Spread: Stanford (-7.5) | Stanford (BUY) | 51% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-3.5) | Memphis (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
 | HomeRunHazard | Texas Rangers vs. Milwaukee Brewers: O/U | Under (BUY) | 63% | 5.00 | 0.3% | ✅ ganada | +2.84 |
-| HomeRunHazard | Spread: Florida State (-21.5) | Florida State (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Florida State (-21.5) | Florida State (BUY) | 52% | 5.00 | 0.3% | ❌ perdida | -5.12 |
 | HomeRunHazard | New Mexico State vs. Florida State | Florida State (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
 | HomeRunHazard | Monterrey Open: Diane Parry vs Elise Mer | Diane Parry (BUY) | 50% | 5.00 | 0.9% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Stanford (-10.5) | Hawaii (BUY) | 54% | 5.00 | 1.0% | ⏳ pendiente | — |

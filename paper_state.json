@@ -1,5 +1,5 @@
 {
-  "bankroll": 484.17024516978904,
+  "bankroll": 483.92524516978904,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14740,6 +14740,16 @@
       "timestamp": 1788057640.3772912,
       "bankroll": 484.17,
       "event": "won: HomeRunHazard \u2014 New Mexico State vs. Florida State"
+    },
+    {
+      "timestamp": 1788057704.395981,
+      "bankroll": 479.05,
+      "event": "lost: HomeRunHazard \u2014 Spread: Florida State (-21.5)"
+    },
+    {
+      "timestamp": 1788057704.6965106,
+      "bankroll": 483.93,
+      "event": "won: HomeRunHazard \u2014 Spread: Florida State (-21.5)"
     }
   ]
 }
