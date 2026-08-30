@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 22:03:40 (hora de Perú)
+Actualizado: 2026-08-29 22:05:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $478.67
-**Retorno acumulado:** -4.27%
+**Bankroll actual:** $474.22
+**Retorno acumulado:** -5.16%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 22:03:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $285.00 en 57 posiciones abiertas (disponible para nuevas apuestas: $193.67)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $209.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,8 +30,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 398 | 205 | 22 | +26.60 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
+| HomeRunHazard | 399 | 207 | 19 | +17.65 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
@@ -92,21 +92,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 418 | 200 | 1 | -39.34 USD |
+| RN1 | 419 | 200 | 0 | -34.84 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
 | ferrariChampions2026 | 346 | 211 | 18 | -86.85 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2840
-- **Aciertos:** 1818 (64.0%)
+- **Apuestas resueltas:** 2844
+- **Aciertos:** 1820 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,187.59
-- **ROI sobre lo apostado:** -0.81%
-- **Comisiones pagadas (taker fee):** $259.68 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.02% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,207.59
+- **ROI sobre lo apostado:** -0.84%
+- **Comisiones pagadas (taker fee):** $260.07 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,8 +114,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1423 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 844 | 70.1% | 67.8% | +2.4 pp |
+| 40-59% | 1426 | 50.1% | 50.1% | +0.0 pp |
+| 60-79% | 845 | 70.2% | 67.8% | +2.4 pp |
 | 80-94% | 394 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 179 | 96.1% | 97.4% | -1.3 pp |
 
@@ -612,7 +612,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Los Angeles Angels (BUY) | 54% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Philadelphia Phillies (-1.5) | Philadelphia Phillies (BUY) | 67% | 5.00 | 2.5% | ⏳ pendiente | — |
-| HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 54% | 5.00 | 1.8% | ⏳ pendiente | — |
+| HomeRunHazard | Spread: Philadelphia Phillies (-2.5) | Philadelphia Phillies (BUY) | 54% | 5.00 | 3.3% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Under (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | Memphis vs. UNLV Runnin': O/U 40.5 | Over (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: UNLV Runnin' (-3.5) | UNLV Runnin' (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |

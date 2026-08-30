@@ -1,5 +1,5 @@
 {
-  "bankroll": 478.6690475096655,
+  "bankroll": 474.2185460491008,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14840,6 +14840,26 @@
       "timestamp": 1788058822.51984,
       "bankroll": 478.67,
       "event": "won: ferrariChampions2026 \u2014 Will San Jose Earthquakes win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788059067.5854316,
+      "bankroll": 473.55,
+      "event": "lost: HomeRunHazard \u2014 Spread: Stanford (-5.5)"
+    },
+    {
+      "timestamp": 1788059067.8257258,
+      "bankroll": 468.45,
+      "event": "lost: HomeRunHazard \u2014 Spread: Stanford (-6.5)"
+    },
+    {
+      "timestamp": 1788059070.804388,
+      "bankroll": 472.94,
+      "event": "won: RN1 \u2014 Bears vs. Titans: O/U 39.5"
+    },
+    {
+      "timestamp": 1788059072.17886,
+      "bankroll": 474.22,
+      "event": "won: HomeRunHazard \u2014 Hawaii vs. Stanford"
     }
   ]
 }
