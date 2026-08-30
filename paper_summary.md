@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 00:02:20 (hora de Perú)
+Actualizado: 2026-08-30 00:04:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $465.05
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 00:02:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $340.00 en 68 posiciones abiertas (disponible para nuevas apuestas: $125.05)
+**Capital comprometido ahora mismo:** $350.00 en 70 posiciones abiertas (disponible para nuevas apuestas: $115.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| HomeRunHazard | 402 | 208 | 28 | +26.86 USD |
+| HomeRunHazard | 402 | 208 | 30 | +26.86 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -603,6 +603,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Colorado Rockies (-1.5) | Atlanta Braves (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | Philadelphia Phillies vs. Los Angeles An | Under (BUY) | 84% | 5.00 | 0.4% | ⏳ pendiente | — |
 | nigiri99 | Spread: Real Madrid CF (-1.5) | Real Madrid CF (BUY) | 75% | 5.00 | 0.1% | ⏳ pendiente | — |
 | nigiri99 | Chelsea FC vs. Brighton & Hove Albion FC | Over (BUY) | 84% | 5.00 | 0.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 58% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -631,5 +633,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF MEN - SINGLES: M15 Maanshan 8 (China | Rigele Te (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Taipei 2 (Taiwan) | Kuan Shou Chen (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Joshua Charlton vs Takuya  | Joshua Charlton (BUY) | 58% | 5.00 | 6.7% | ⏳ pendiente | — |
-| casualbet2020 | Valorant: Karmine Corp vs Team Liquid -  | Karmine Corp (BUY) | 52% | 5.00 | 25.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | San Francisco Giants (BUY) | 68% | 5.00 | 2.7% | ⏳ pendiente | — |
