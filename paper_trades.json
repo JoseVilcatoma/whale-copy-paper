@@ -75507,5 +75507,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788065223.3811255,
     "fills": 1
+  },
+  {
+    "timestamp": 1788066092,
+    "timestamp_added": 1788066093.1612244,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "lal-rea-mala-2026-08-30-spread-home-1pt5",
+    "title": "Spread: Real Madrid CF (-1.5)",
+    "outcome": "Real Madrid CF",
+    "side": "BUY",
+    "whale_usd": 552.04,
+    "whale_pct": 0.144,
+    "whale_value_at_open": 382533.6751,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788066093.1612384,
+    "fills": 1
   }
 ]
