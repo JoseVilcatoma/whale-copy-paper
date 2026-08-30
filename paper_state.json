@@ -1,5 +1,5 @@
 {
-  "bankroll": 441.4415469631774,
+  "bankroll": 432.83849433159844,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15000,6 +15000,21 @@
       "timestamp": 1788066892.3135266,
       "bankroll": 441.44,
       "event": "won: HomeRunHazard \u2014 Spread: Baltimore Orioles (-1.5)"
+    },
+    {
+      "timestamp": 1788067003.9096665,
+      "bankroll": 436.41,
+      "event": "lost: HomeRunHazard \u2014 Baltimore Orioles vs. Athletics: O/U 8.5"
+    },
+    {
+      "timestamp": 1788067004.2344713,
+      "bankroll": 437.93,
+      "event": "won: HomeRunHazard \u2014 Spread: Baltimore Orioles (-2.5)"
+    },
+    {
+      "timestamp": 1788067004.3346076,
+      "bankroll": 432.84,
+      "event": "lost: HomeRunHazard \u2014 Spread: Baltimore Orioles (-2.5)"
     }
   ]
 }
