@@ -76938,8 +76938,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -78242,8 +78242,8 @@
     "title": "AIK vs. Hammarby IF: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 4935.84,
-    "whale_pct": 1.66,
+    "whale_usd": 7359.6900000000005,
+    "whale_pct": 2.475,
     "whale_value_at_open": 297396.6208,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -78254,8 +78254,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788094764.7712882,
-    "fills": 4
+    "last_fill_at": 1788095417.5434852,
+    "fills": 6
   },
   {
     "timestamp": 1788094726,

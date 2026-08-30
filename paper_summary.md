@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 08:08:49 (hora de Perú)
+Actualizado: 2026-08-30 08:10:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $419.31
-**Retorno acumulado:** -16.14%
+**Bankroll actual:** $414.22
+**Retorno acumulado:** -17.16%
 **Peor caída desde un máximo (drawdown):** 33.10%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 08:08:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $419.31 en 85 posiciones abiertas (disponible para nuevas apuestas: $0.00)
+**Capital comprometido ahora mismo:** $414.31 en 84 posiciones abiertas (disponible para nuevas apuestas: $0.00)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,8 +29,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | SDTrading | 36 | 27 | 0 | +24.32 USD |
-| TAIWANNUMBERONE | 25 | 14 | 3 | +21.90 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
+| TAIWANNUMBERONE | 25 | 15 | 2 | +16.81 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
@@ -101,14 +101,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2946
+- **Apuestas resueltas:** 2947
 - **Aciertos:** 1880 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,717.59
-- **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $269.41 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,722.59
+- **ROI sobre lo apostado:** -1.24%
+- **Comisiones pagadas (taker fee):** $269.50 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.59% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1479 | 49.8% | 50.1% | -0.4 pp |
-| 60-79% | 874 | 70.1% | 67.8% | +2.3 pp |
+| 60-79% | 875 | 70.1% | 67.8% | +2.2 pp |
 | 80-94% | 409 | 86.6% | 86.6% | -0.1 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
@@ -620,7 +620,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | SV Darmstadt 98 vs. Hannover 96: O/U 1.5 | Over (BUY) | 71% | 4.75 | 0.3% | ⏳ pendiente | — |
-| RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | AIK vs. Hammarby IF: O/U 3.5 | Over (BUY) | 86% | 5.00 | 2.5% | ⏳ pendiente | — |
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |
 | ArturitoFilito | Will Chelsea FC win on 2026-08-30? | No (BUY) | 49% | 5.00 | 157.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ⏳ pendiente | — |

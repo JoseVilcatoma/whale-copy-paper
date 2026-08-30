@@ -1,5 +1,5 @@
 {
-  "bankroll": 419.3132835982634,
+  "bankroll": 414.2212835982634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15405,6 +15405,11 @@
       "timestamp": 1788094508.9275818,
       "bankroll": 419.31,
       "event": "won: ferrariChampions2026 \u2014 ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Denisa Zoldakova"
+    },
+    {
+      "timestamp": 1788095446.5282154,
+      "bankroll": 414.22,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: JD Gaming vs Team WE - Game 2 Winner"
     }
   ]
 }
