@@ -1,5 +1,5 @@
 {
-  "bankroll": 501.76731643025306,
+  "bankroll": 491.533316430253,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14695,6 +14695,16 @@
       "timestamp": 1788054894.3089929,
       "bankroll": 501.77,
       "event": "won: ferrariChampions2026 \u2014 Will D.C. United SC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788055020.7664895,
+      "bankroll": 496.65,
+      "event": "lost: ferrariChampions2026 \u2014 Spread: Inter Miami CF (-1.5)"
+    },
+    {
+      "timestamp": 1788055023.1863642,
+      "bankroll": 491.53,
+      "event": "lost: ferrariChampions2026 \u2014 Inter Miami CF vs. CF Montr\u00e9al: O/U 3.5"
     }
   ]
 }
