@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 10:37:41 (hora de Perú)
+Actualizado: 2026-08-30 10:39:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $383.97
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 10:37:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $372.82 en 76 posiciones abiertas (disponible para nuevas apuestas: $11.15)
+**Capital comprometido ahora mismo:** $377.82 en 77 posiciones abiertas (disponible para nuevas apuestas: $6.15)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
-| beachboy4 | 1 | 1 | 1 | -3.36 USD |
+| beachboy4 | 1 | 1 | 2 | -3.36 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | HomeRunHazard | 416 | 223 | 1 | -3.71 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
@@ -610,6 +610,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-jasika-wang-2026-08-30 | RN1, ferrariChampions2026 |
 | lol-jdg-we-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | lol-dk-kt-2026-08-30-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
+| atp-majchrz-medjedo-2026-08-30 | beachboy4, ferrariChampions2026 |
 | atp-park-isomura-2026-08-30 | RN1, ferrariChampions2026 |
 | atp-aguiard-delane-2026-08-30 | RN1, ferrariChampions2026 |
 | itf-palicov-zoldako-2026-08-30 | RN1, ferrariChampions2026 |
@@ -623,6 +624,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Kamil Majchrzak vs Hamad Me | Kamil Majchrzak (BUY) | 80% | 5.00 | 68.2% | ⏳ pendiente | — |
 | nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: PLD (-1.5) vs BORRACHEIROS | Peladona (BUY) | 73% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -652,4 +654,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Spread: Hammarby IF (-1.5) | AIK (BUY) | 62% | 4.09 | 0.3% | ⏳ pendiente | — |
 | ArturitoFilito | Will Chelsea FC win on 2026-08-30? | No (BUY) | 49% | 5.00 | 157.1% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ✅ ganada | +0.05 |
-| 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 58% | 5.00 | 227.2% | ⏳ pendiente | — |

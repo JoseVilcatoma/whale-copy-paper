@@ -78867,5 +78867,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788104225.6906633,
     "fills": 1
+  },
+  {
+    "timestamp": 1788104319,
+    "timestamp_added": 1788104320.1084101,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-majchrz-medjedo-2026-08-30",
+    "title": "US Open ATP: Kamil Majchrzak vs Hamad Medjedovic",
+    "outcome": "Kamil Majchrzak",
+    "side": "BUY",
+    "whale_usd": 128519.09680000001,
+    "whale_pct": 68.152,
+    "whale_value_at_open": 188577.3402,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788104341.5071926,
+    "fills": 5
   }
 ]
