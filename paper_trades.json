@@ -80661,5 +80661,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788133619.1580083,
     "fills": 3
+  },
+  {
+    "timestamp": 1788133771,
+    "timestamp_added": 1788133771.4760263,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bra-bah-int-2026-08-30-int",
+    "title": "Will SC Internacional win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 713.4499999999999,
+    "whale_pct": 0.252,
+    "whale_value_at_open": 283605.8343,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 97,
+    "fee_usd": 0.008,
+    "odds_ballena": 95,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788133771.476037,
+    "fills": 1
   }
 ]
