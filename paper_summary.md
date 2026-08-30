@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:45:23 (hora de Perú)
+Actualizado: 2026-08-30 18:47:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $329.62
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 18:45:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $114.62)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $109.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 217 | 13 | -44.99 USD |
+| RN1 | 449 | 217 | 14 | -44.99 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
@@ -638,6 +638,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open ATP: Sebastian Gorzny vs Raphael | Sebastian Gorzny (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Thiago Agustin Tirante vs A | Adrian Mannarino (BUY) | 50% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | EC Bahia vs. SC Internacional: O/U 4.5 | Over (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -667,4 +668,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 54% | 5.00 | 52.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Cloud9 (BUY) | 63% | 5.00 | 97.0% | 💰 vendida anticipada | +0.14 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Voca vs Marsborne (BO3)  | Voca (BUY) | 66% | 5.00 | 1.8% | ⏳ pendiente | — |
-| nigiri99 | St. Louis City SC vs. FC Dallas: Both Te | Yes (BUY) | 65% | 5.00 | 0.6% | ⏳ pendiente | — |
