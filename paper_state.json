@@ -1,5 +1,5 @@
 {
-  "bankroll": 311.4108150560813,
+  "bankroll": 317.3839261671924,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15960,6 +15960,11 @@
       "timestamp": 1788124870.7865248,
       "bankroll": 311.41,
       "event": "lost: SDTrading \u2014 San Diego Padres vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1788125499.1508315,
+      "bankroll": 317.38,
+      "event": "won: Sassy-Bucket \u2014 Boston Red Sox vs. New York Yankees"
     }
   ]
 }
