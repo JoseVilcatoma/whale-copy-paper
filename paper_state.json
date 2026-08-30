@@ -1,5 +1,5 @@
 {
-  "bankroll": 395.92114074112055,
+  "bankroll": 398.41189831687814,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15435,6 +15435,11 @@
       "timestamp": 1788097651.0654,
       "bankroll": 395.92,
       "event": "lost: ferrariChampions2026 \u2014 Como: Andrea Colombo vs Gianmarco Ferrari"
+    },
+    {
+      "timestamp": 1788098589.9612346,
+      "bankroll": 398.41,
+      "event": "won: nigiri99 \u2014 KBO: Kiwoom Heroes vs. Doosan Bears"
     }
   ]
 }
