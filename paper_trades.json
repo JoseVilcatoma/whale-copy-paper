@@ -75867,5 +75867,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788073381.4702263,
     "fills": 2
+  },
+  {
+    "timestamp": 1788073547,
+    "timestamp_added": 1788073548.2550266,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-tang-peliwo-2026-08-30",
+    "title": "Zhangjiagang: Sheng Tang vs Filip Peliwo",
+    "outcome": "Filip Peliwo",
+    "side": "BUY",
+    "whale_usd": 541.387,
+    "whale_pct": 0.265,
+    "whale_value_at_open": 203917.9131,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 81,
+    "fee_usd": 0.047,
+    "odds_ballena": 79,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788073548.2550402,
+    "fills": 1
   }
 ]
