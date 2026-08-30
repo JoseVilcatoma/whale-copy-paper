@@ -75445,8 +75445,8 @@
     "title": "Counter-Strike: Vitality vs Legacy (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 29106.467,
-    "whale_pct": 49.18,
+    "whale_usd": 30313.741,
+    "whale_pct": 51.219,
     "whale_value_at_open": 59184.0048,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -75457,8 +75457,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788101130.1584272,
-    "fills": 6
+    "last_fill_at": 1788109208.0498977,
+    "fills": 7
   },
   {
     "timestamp": 1788065104,
@@ -75613,8 +75613,8 @@
     "title": "Map Handicap: VIT (-1.5) vs Legacy (+1.5)",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 14192.4399,
-    "whale_pct": 17.121,
+    "whale_usd": 16317.009699999999,
+    "whale_pct": 19.684,
     "whale_value_at_open": 82896.484,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -75625,8 +75625,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788101134.7086601,
-    "fills": 4
+    "last_fill_at": 1788109213.955984,
+    "fills": 5
   },
   {
     "timestamp": 1788067106,
@@ -79051,8 +79051,8 @@
     "title": "LoL: Fnatic vs GIANTX - Game 2 Winner",
     "outcome": "Fnatic",
     "side": "BUY",
-    "whale_usd": 2852.9581630000002,
-    "whale_pct": 3.953,
+    "whale_usd": 4594.006063000001,
+    "whale_pct": 6.366,
     "whale_value_at_open": 72164.3104,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -79063,8 +79063,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788109184.9099224,
-    "fills": 4
+    "last_fill_at": 1788109296.3627086,
+    "fills": 6
   },
   {
     "timestamp": 1788109096,
