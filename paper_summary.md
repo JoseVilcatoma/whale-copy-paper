@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 14:16:24 (hora de Perú)
+Actualizado: 2026-08-30 14:18:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $339.57
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 14:16:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.87 en 59 posiciones abiertas (disponible para nuevas apuestas: $48.70)
+**Capital comprometido ahora mismo:** $300.87 en 61 posiciones abiertas (disponible para nuevas apuestas: $38.70)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | beachboy4 | 3 | 1 | 2 | -0.96 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 1 | 2 | -2.95 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 1 | 3 | -2.95 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | ArturitoFilito | 5 | 4 | 1 | -3.42 USD |
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| texaskid | 8 | 8 | 1 | -6.84 USD |
+| texaskid | 8 | 8 | 2 | -6.84 USD |
 | vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -631,7 +631,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| beachboy4 | US Open WTA: Lucrezia Stefanini vs Dayan | Lucrezia Stefanini (BUY) | 81% | 5.00 | 8.2% | ⏳ pendiente | — |
+| texaskid | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 7.5% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 55% | 5.00 | 2.6% | ⏳ pendiente | — |
+| beachboy4 | US Open WTA: Lucrezia Stefanini vs Dayan | Lucrezia Stefanini (BUY) | 81% | 5.00 | 13.1% | ⏳ pendiente | — |
 | Sassy-Bucket | Philadelphia Phillies vs. Los Angeles An | Philadelphia Phillies (BUY) | 62% | 5.00 | 14.1% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 55% | 5.00 | 0.2% | ⏳ pendiente | — |
 | nigiri99 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Over (BUY) | 56% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -659,5 +661,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 69% | 5.00 | 1.4% | ⏳ pendiente | — |
 | nigiri99 | Boston Red Sox vs. New York Yankees: O/U | Under (BUY) | 55% | 5.00 | 0.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: PLD (-1.5) vs BORRACHEIROS | Peladona (BUY) | 73% | 5.00 | 2.2% | ⏳ pendiente | — |
-| ArturitoFilito | Manchester United FC vs. Ipswich Town FC | No (BUY) | 43% | 5.00 | 16.1% | ❌ perdida | -5.14 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Movistar KOI vs Team Heretics (BO3) | Movistar KOI (BUY) | 98% | 5.00 | 3.6% | ✅ ganada | +0.10 |
