@@ -79267,5 +79267,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788111339.1634445,
     "fills": 1
+  },
+  {
+    "timestamp": 1788112051,
+    "timestamp_added": 1788112051.9207244,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-medvede-gaston-2026-08-30",
+    "title": "US Open ATP: Daniil Medvedev vs Hugo Gaston",
+    "outcome": "Daniil Medvedev",
+    "side": "BUY",
+    "whale_usd": 46237.542,
+    "whale_pct": 13.496,
+    "whale_value_at_open": 342608.2476,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788112051.9207394,
+    "fills": 1
   }
 ]
