@@ -1,5 +1,5 @@
 {
-  "bankroll": 334.43374176508433,
+  "bankroll": 330.17800102434364,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15785,6 +15785,21 @@
       "timestamp": 1788117936.743598,
       "bankroll": 334.43,
       "event": "lost: nigiri99 \u2014 Counter-Strike: K27 vs Nuclear TigeRES (BO3) - Moscow Cyber Games European Qualifier Group Stage"
+    },
+    {
+      "timestamp": 1788118244.6577802,
+      "bankroll": 329.31,
+      "event": "lost: ferrariChampions2026 \u2014 Miami Marlins vs. Washington Nationals"
+    },
+    {
+      "timestamp": 1788118251.1430995,
+      "bankroll": 333.45,
+      "event": "won: nigiri99 \u2014 Miami Marlins vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1788118251.2432728,
+      "bankroll": 330.18,
+      "event": "lost: SDTrading \u2014 Miami Marlins vs. Washington Nationals: O/U 9.5"
     }
   ]
 }
