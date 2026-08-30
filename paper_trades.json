@@ -76489,8 +76489,8 @@
     "title": "LoL: Dplus KIA vs KT Rolster - Game 2 Winner",
     "outcome": "KT Rolster",
     "side": "BUY",
-    "whale_usd": 151171.682527,
-    "whale_pct": 569.332,
+    "whale_usd": 162203.31984699998,
+    "whale_pct": 610.879,
     "whale_value_at_open": 26552.454,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -76503,8 +76503,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788083704.5407045,
-    "fills": 7
+    "last_fill_at": 1788083736.9051087,
+    "fills": 11
   },
   {
     "timestamp": 1788081259,
