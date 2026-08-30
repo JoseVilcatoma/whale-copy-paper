@@ -76689,8 +76689,8 @@
     "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Denisa Zoldakova",
     "outcome": "Denisa Zoldakova",
     "side": "BUY",
-    "whale_usd": 3591.7866000000004,
-    "whale_pct": 3.188,
+    "whale_usd": 4594.186600000001,
+    "whale_pct": 4.078,
     "whale_value_at_open": 112656.823,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -76701,8 +76701,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788083250.2377098,
-    "fills": 4
+    "last_fill_at": 1788084450.9907305,
+    "fills": 5
   },
   {
     "timestamp": 1788082887,
@@ -76713,8 +76713,8 @@
     "title": "ITF WOMEN - SINGLES: W75 Bytom (Poland), clay: Barbora Palicova vs Denisa Zoldakova",
     "outcome": "Barbora Palicova",
     "side": "BUY",
-    "whale_usd": 3771.5234,
-    "whale_pct": 2.137,
+    "whale_usd": 4563.5234,
+    "whale_pct": 2.586,
     "whale_value_at_open": 176474.3255,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -76727,8 +76727,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788083250.1942818,
-    "fills": 4
+    "last_fill_at": 1788084451.404472,
+    "fills": 5
   },
   {
     "timestamp": 1788082941,

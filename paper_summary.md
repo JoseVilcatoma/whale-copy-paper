@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 05:05:32 (hora de Perú)
+Actualizado: 2026-08-30 05:07:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.24
@@ -620,8 +620,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Como: Norbert Gombos vs Andrea de Marchi | Norbert Gombos (BUY) | 83% | 5.00 | 9.7% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Henry Bernet (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 3.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 2.6% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Incheon United FC vs. Jeonbuk Hyundai Mo | Under (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 95% | 5.00 | 5.5% | ⏳ pendiente | — |
