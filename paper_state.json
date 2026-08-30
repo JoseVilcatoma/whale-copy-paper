@@ -1,5 +1,5 @@
 {
-  "bankroll": 402.07582814143956,
+  "bankroll": 401.56855541416684,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15445,6 +15445,21 @@
       "timestamp": 1788098915.5124009,
       "bankroll": 402.08,
       "event": "won: RN1 \u2014 Como: Olle Wallin vs Niccolo Catini"
+    },
+    {
+      "timestamp": 1788099225.1681588,
+      "bankroll": 396.94,
+      "event": "lost: ferrariChampions2026 \u2014 FC Utrecht vs. PSV: O/U 3.5"
+    },
+    {
+      "timestamp": 1788099225.9800067,
+      "bankroll": 397.59,
+      "event": "won: RN1 \u2014 Will FC Utrecht win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788099226.0801442,
+      "bankroll": 401.57,
+      "event": "won: RN1 \u2014 FC Utrecht vs. PSV: O/U 3.5"
     }
   ]
 }

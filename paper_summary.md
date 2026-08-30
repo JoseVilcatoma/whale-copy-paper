@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 09:11:39 (hora de Perú)
+Actualizado: 2026-08-30 09:13:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $402.08
-**Retorno acumulado:** -19.58%
+**Bankroll actual:** $401.57
+**Retorno acumulado:** -19.69%
 **Peor caída desde un máximo (drawdown):** 34.69%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 09:11:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $398.41 en 81 posiciones abiertas (disponible para nuevas apuestas: $3.67)
+**Capital comprometido ahora mismo:** $387.08 en 79 posiciones abiertas (disponible para nuevas apuestas: $14.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,24 +90,24 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 0 | -11.76 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| RN1 | 438 | 205 | 24 | -15.67 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
-| RN1 | 436 | 205 | 26 | -20.30 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
-| ferrariChampions2026 | 364 | 220 | 23 | -100.30 USD |
+| ferrariChampions2026 | 364 | 221 | 23 | -105.44 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2954
-- **Aciertos:** 1883 (63.7%)
+- **Apuestas resueltas:** 2957
+- **Aciertos:** 1885 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,757.59
-- **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $270.14 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $14,772.59
+- **ROI sobre lo apostado:** -1.33%
+- **Comisiones pagadas (taker fee):** $270.42 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -116,9 +116,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1482 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1484 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 878 | 70.0% | 67.8% | +2.2 pp |
-| 80-94% | 410 | 86.3% | 86.6% | -0.3 pp |
+| 80-94% | 411 | 86.4% | 86.6% | -0.2 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -619,6 +619,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Real Madrid CF vs. Málaga CF: O/U 3.5 | Over (BUY) | 61% | 3.67 | 1.7% | ⏳ pendiente | — |
 | nigiri99 | Spread: Atlanta Braves (-1.5) | Atlanta Braves (BUY) | 51% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Los Angeles Dodgers (-1.5) | Detroit Tigers (BUY) | 53% | 4.10 | 4.3% | ⏳ pendiente | — |
 | vito3corleone | Will Brentford FC win on 2026-08-30? | Yes (BUY) | 71% | 5.00 | 5.2% | ⏳ pendiente | — |
@@ -648,4 +649,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA River Plate win on 2026-08-30? | No (BUY) | 42% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 2 | Over (BUY) | 63% | 4.72 | 0.5% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 3 | Over (BUY) | 41% | 5.00 | 0.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Yibing Wu vs Adam Walton | Adam Walton (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
