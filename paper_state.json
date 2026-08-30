@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.248369061832,
+  "bankroll": 501.76731643025306,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14690,6 +14690,11 @@
       "timestamp": 1788054770.0545633,
       "bankroll": 500.25,
       "event": "lost: ferrariChampions2026 \u2014 Will New York City FC win on 2026-08-29?"
+    },
+    {
+      "timestamp": 1788054894.3089929,
+      "bankroll": 501.77,
+      "event": "won: ferrariChampions2026 \u2014 Will D.C. United SC win on 2026-08-29?"
     }
   ]
 }
