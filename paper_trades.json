@@ -76522,8 +76522,8 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.36,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -76596,8 +76596,8 @@
     "odds_at_bet": 84,
     "fee_usd": 0.04,
     "odds_ballena": 82,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.91,
     "overlaps_with": [
       "ferrariChampions2026"
     ],
@@ -77182,8 +77182,8 @@
     "title": "Will FC Utrecht win on 2026-08-30?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 1869.6,
-    "whale_pct": 1.312,
+    "whale_usd": 2530.8,
+    "whale_pct": 1.776,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 88,
@@ -77194,8 +77194,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085557.802585,
-    "fills": 3
+    "last_fill_at": 1788086547.8262587,
+    "fills": 4
   },
   {
     "timestamp": 1788085089,

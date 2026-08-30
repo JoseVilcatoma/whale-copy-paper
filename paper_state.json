@@ -1,5 +1,5 @@
 {
-  "bankroll": 422.04557592621643,
+  "bankroll": 424.3132132888538,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15210,6 +15210,16 @@
       "timestamp": 1788085817.2550328,
       "bankroll": 422.05,
       "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Monastir 28 (Tunisia), hard: Daniel Jade vs Nicolas Jadoun"
+    },
+    {
+      "timestamp": 1788086560.4776106,
+      "bankroll": 423.4,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Uisung Park vs Kokoro Isomura"
+    },
+    {
+      "timestamp": 1788086560.7780325,
+      "bankroll": 424.31,
+      "event": "won: RN1 \u2014 Zhangjiagang: Uisung Park vs Kokoro Isomura"
     }
   ]
 }
