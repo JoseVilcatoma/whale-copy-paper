@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 05:13:53 (hora de Perú)
+Actualizado: 2026-08-30 05:15:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.61
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 05:13:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $380.00 en 76 posiciones abiertas (disponible para nuevas apuestas: $45.61)
+**Capital comprometido ahora mismo:** $395.00 en 79 posiciones abiertas (disponible para nuevas apuestas: $30.61)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 90 | 38 | 4 | +74.47 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 90 | 38 | 5 | +74.47 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | TAIWANNUMBERONE | 24 | 9 | 9 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 16 | +36.65 USD |
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 426 | 202 | 9 | -27.95 USD |
+| RN1 | 426 | 202 | 11 | -27.95 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 359 | 216 | 24 | -90.85 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
@@ -613,7 +613,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 0.4% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 46% | 5.00 | 4.9% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ashley Lahey (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
+| RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 54% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | Dota 2: Team Nemesis vs Execration - Gam | Team Nemesis (BUY) | 64% | 5.00 | 0.4% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 2 Winne | JD Gaming (BUY) | 63% | 5.00 | 2.6% | ⏳ pendiente | — |
@@ -629,7 +632,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 96% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Incheon United FC vs. Jeonbuk Hyundai Mo | Under (BUY) | 60% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 95% | 5.00 | 15.1% | ⏳ pendiente | — |
+| RN1 | Zhangjiagang: Enzo Aguiard vs Jesse Dela | Enzo Aguiard (BUY) | 95% | 5.00 | 17.6% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 84% | 5.00 | 12.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 56% | 5.00 | 44.9% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: JDG (-1.5) vs Team WE (+1 | JD Gaming (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
@@ -640,6 +643,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 61% | 5.00 | 13.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Jaime Faria vs Jenson Brook | Jenson Brooksby (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Rudolf Molleker (BUY) | 49% | 5.00 | 2.6% | ❌ perdida | -5.13 |
-| ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 24.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Lucrezia Stefanini vs Dayan | Dayana Yastremska (BUY) | 55% | 5.00 | 0.8% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M15 Monastir 28 (Tuni | Daniel Jade (BUY) | 71% | 5.00 | 1.9% | ⏳ pendiente | — |
