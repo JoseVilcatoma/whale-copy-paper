@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 04:13:18 (hora de Perú)
+Actualizado: 2026-08-30 04:15:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $425.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 04:13:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $135.32)
+**Capital comprometido ahora mismo:** $310.00 en 62 posiciones abiertas (disponible para nuevas apuestas: $115.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 90 | 38 | 1 | +74.47 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 90 | 38 | 2 | +74.47 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| TAIWANNUMBERONE | 24 | 9 | 7 | +47.29 USD |
+| TAIWANNUMBERONE | 24 | 9 | 8 | +47.29 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 16 | 2 | 15 | +36.65 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
@@ -93,7 +93,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 424 | 201 | 4 | -27.68 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| ferrariChampions2026 | 357 | 216 | 17 | -91.41 USD |
+| ferrariChampions2026 | 357 | 216 | 19 | -91.41 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
@@ -602,13 +602,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-phi-laa-2026-08-29-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
 | lol-dk-kt-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 | atp-jasika-wang-2026-08-30 | RN1, ferrariChampions2026 |
+| lol-dk-kt-2026-08-30-game2 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | Dplus KIA (BUY) | 56% | 5.00 | 1.0% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: JDG (-1.5) vs Team WE (+1 | JD Gaming (BUY) | 49% | 5.00 | 9.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Uisung Park vs Kokoro Isom | Kokoro Isomura (BUY) | 78% | 5.00 | 1.9% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | KT Rolster (BUY) | 45% | 5.00 | 17.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Kamil Majchrzak vs Hamad Me | Hamad Medjedovic (BUY) | 47% | 5.00 | 1.1% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster - Game 2 Wi | Dplus KIA (BUY) | 56% | 5.00 | 3.6% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: JD Gaming vs Team WE - Game 1 Winne | JD Gaming (BUY) | 61% | 5.00 | 11.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Jaime Faria vs Jenson Brook | Jenson Brooksby (BUY) | 54% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | Como: Svyatoslav Gulin vs Rudolf Molleke | Rudolf Molleker (BUY) | 49% | 5.00 | 2.6% | ⏳ pendiente | — |
 | ArturitoFilito | Counter-Strike: G2 vs Natus Vincere (BO3 | Natus Vincere (BUY) | 51% | 5.00 | 24.8% | ⏳ pendiente | — |
@@ -633,7 +638,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Zhangjiagang: Sheng Tang vs Filip Peliwo | Filip Peliwo (BUY) | 81% | 5.00 | 3.2% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | US Open WTA: Talia Gibson vs Donna Vekic | Talia Gibson (BUY) | 50% | 5.00 | 2.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: M80 vs Aurora Gaming - M | Aurora Gaming (BUY) | 68% | 5.00 | 7.3% | ⏳ pendiente | — |
-| nigiri99 | KBO: Kiwoom Heroes vs. Doosan Bears | Doosan Bears (BUY) | 66% | 5.00 | 0.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Renata Zarazua vs Polina Ia | Renata Zarazua (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
-| nigiri99 | Will Manchester United FC win on 2026-08 | Yes (BUY) | 71% | 5.00 | 1.2% | ⏳ pendiente | — |
-| nigiri99 | Will Chelsea FC win on 2026-08-30? | Yes (BUY) | 51% | 5.00 | 0.4% | ⏳ pendiente | — |
