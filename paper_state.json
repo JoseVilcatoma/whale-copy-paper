@@ -1,5 +1,5 @@
 {
-  "bankroll": 507.60112126595595,
+  "bankroll": 502.56812126595594,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14620,6 +14620,11 @@
       "timestamp": 1788050001.7786968,
       "bankroll": 507.6,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ShindeN vs Isurus (BO3) - ESL Challenger League South America Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1788050934.8856742,
+      "bankroll": 502.57,
+      "event": "lost: TAIWANNUMBERONE \u2014 Moises Itauma vs. Filip Hrgovic"
     }
   ]
 }
