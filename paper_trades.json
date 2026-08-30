@@ -78623,5 +78623,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788101033.8142776,
     "fills": 1
+  },
+  {
+    "timestamp": 1788101443,
+    "timestamp_added": 1788101443.458582,
+    "username": "SDTrading",
+    "wallet": "0x16bb9951a36fce71e2ef57890b786145e0ba8492",
+    "slug": "mlb-sd-tb-2026-08-30",
+    "title": "San Diego Padres vs. Tampa Bay Rays",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 4925.8640000000005,
+    "whale_pct": 1.947,
+    "whale_value_at_open": 253007.6117,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788101443.4585931,
+    "fills": 1
   }
 ]
