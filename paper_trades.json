@@ -78771,5 +78771,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788102674.2265422,
     "fills": 2
+  },
+  {
+    "timestamp": 1788103160,
+    "timestamp_added": 1788103161.004616,
+    "username": "ArturitoFilito",
+    "wallet": "0x336bf6f91a4619d54f0711a20fe468adf4d71233",
+    "slug": "epl-mun-ips-2026-08-30-btts",
+    "title": "Manchester United FC vs. Ipswich Town FC: Both Teams to Score",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 3433.8486,
+    "whale_pct": 16.147,
+    "whale_value_at_open": 21265.5864,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788103161.0046265,
+    "fills": 1
   }
 ]
