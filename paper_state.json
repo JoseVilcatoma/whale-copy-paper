@@ -1,5 +1,5 @@
 {
-  "bankroll": 325.2543308891403,
+  "bankroll": 337.99176060801585,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16020,6 +16020,26 @@
       "timestamp": 1788128845.4219112,
       "bankroll": 325.25,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion - Game 1 Winner (+0.05 USD)"
+    },
+    {
+      "timestamp": 1788129314.8017704,
+      "bankroll": 329.23,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: LYON vs Team Liquid (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1788129315.3218958,
+      "bankroll": 334.52,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: LYON vs Team Liquid - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788129316.694128,
+      "bankroll": 335.5,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Team Liquid (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1788129317.0480983,
+      "bankroll": 337.99,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: LYON vs Team Liquid - Game 2 Winner"
     }
   ]
 }
