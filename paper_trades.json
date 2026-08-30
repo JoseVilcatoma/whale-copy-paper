@@ -78091,8 +78091,8 @@
     "title": "1. FC Magdeburg vs. Holstein Kiel: O/U 1.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 564.177801,
-    "whale_pct": 0.234,
+    "whale_usd": 1479.5778010000001,
+    "whale_pct": 0.613,
     "whale_value_at_open": 241525.1722,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -78103,8 +78103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788092701.176514,
-    "fills": 1
+    "last_fill_at": 1788094949.1936717,
+    "fills": 2
   },
   {
     "timestamp": 1788093052,
