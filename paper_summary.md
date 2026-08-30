@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 19:29:28 (hora de Perú)
+Actualizado: 2026-08-29 19:31:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $501.93
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 19:29:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $280.00 en 56 posiciones abiertas (disponible para nuevas apuestas: $221.93)
+**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $211.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -26,7 +26,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 22 | 8 | 5 | +46.86 USD |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 15 | 2 | 6 | +34.96 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
-| HomeRunHazard | 389 | 199 | 15 | +31.12 USD |
+| HomeRunHazard | 389 | 199 | 17 | +31.12 USD |
 | casualbet2020 | 26 | 11 | 0 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | SDTrading | 35 | 25 | 3 | +30.41 USD |
@@ -598,6 +598,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Spread: Stanford (-10.5) | Hawaii (BUY) | 54% | 5.00 | 0.5% | ⏳ pendiente | — |
+| HomeRunHazard | Kingston 2: Aidan Mayo vs Andres Andrade | Andres Andrade (BUY) | 47% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | Spread: Milwaukee Brewers (-3.5) | Texas Rangers (BUY) | 53% | 5.00 | 2.5% | ⏳ pendiente | — |
 | HomeRunHazard | Hawaii vs. Stanford | Stanford (BUY) | 79% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -626,5 +628,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Kingston 2: Aidan Mayo vs Andres Andrade | Aidan Mayo (BUY) | 46% | 5.00 | 21.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Colorado Rockies vs. Atlanta Braves | Atlanta Braves (BUY) | 82% | 5.00 | 0.3% | ✅ ganada | +1.05 |
 | SDTrading | Baltimore Orioles vs. Athletics: O/U 9.5 | Over (BUY) | 53% | 5.00 | 91.1% | ⏳ pendiente | — |
-| SDTrading | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 55% | 5.00 | 5.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Sho Shimabukuro vs Arthur R | Arthur Rinderknech (BUY) | 76% | 5.00 | 1.4% | ⏳ pendiente | — |

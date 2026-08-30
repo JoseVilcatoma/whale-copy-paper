@@ -72448,8 +72448,8 @@
     "title": "Counter-Strike: M80 vs Aurora Gaming (BO3) - BLAST Open Porto Group A",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 13885.470999999998,
-    "whale_pct": 103.7,
+    "whale_usd": 16143.011199999997,
+    "whale_pct": 120.56,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 75,
@@ -72460,8 +72460,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788043496.6271946,
-    "fills": 7
+    "last_fill_at": 1788049796.5341432,
+    "fills": 8
   },
   {
     "timestamp": 1788038109,
@@ -72472,8 +72472,8 @@
     "title": "Map Handicap: AUR (-1.5) vs M80 (+1.5)",
     "outcome": "Aurora Gaming",
     "side": "BUY",
-    "whale_usd": 3870.9556000000002,
-    "whale_pct": 28.909,
+    "whale_usd": 5136.102800000001,
+    "whale_pct": 38.358,
     "whale_value_at_open": 13390.0677,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -72484,8 +72484,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788048903.020268,
-    "fills": 3
+    "last_fill_at": 1788049797.9127457,
+    "fills": 4
   },
   {
     "timestamp": 1788038865,
@@ -73669,6 +73669,56 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788049049.7253695,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788049865,
+    "timestamp_added": 1788049865.4899766,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-mayo-andrade-2026-08-29",
+    "title": "Kingston 2: Aidan Mayo vs Andres Andrade",
+    "outcome": "Andres Andrade",
+    "side": "BUY",
+    "whale_usd": 3030.9998,
+    "whale_pct": 1.559,
+    "whale_value_at_open": 194474.0247,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788049865.4899907,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788049886,
+    "timestamp_added": 1788049886.6345465,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "cfb-hawaii-stan-2026-08-29-spread-home-10pt5",
+    "title": "Spread: Stanford (-10.5)",
+    "outcome": "Hawaii",
+    "side": "BUY",
+    "whale_usd": 991.1,
+    "whale_pct": 0.51,
+    "whale_value_at_open": 194474.0247,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788049886.6345592,
     "fills": 1
   }
 ]
