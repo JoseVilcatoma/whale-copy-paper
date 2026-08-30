@@ -1,5 +1,5 @@
 {
-  "bankroll": 425.6941343414854,
+  "bankroll": 427.38589109824215,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15225,6 +15225,11 @@
       "timestamp": 1788086883.6207967,
       "bankroll": 425.69,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs (+1.38 USD)"
+    },
+    {
+      "timestamp": 1788087689.5684547,
+      "bankroll": 427.39,
+      "event": "won: RN1 \u2014 ITF WOMEN - SINGLES: W15 Brasov (Romania), clay: Ilinca Dalina Amariei vs Ashley Lahey"
     }
   ]
 }

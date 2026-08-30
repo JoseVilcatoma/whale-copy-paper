@@ -76169,8 +76169,8 @@
     "title": "Counter-Strike: BORRACHEIROS vs Peladona (BO3) - CCT South America Series 5 Group Stage",
     "outcome": "Peladona",
     "side": "BUY",
-    "whale_usd": 19972.6586,
-    "whale_pct": 13.82,
+    "whale_usd": 22417.0946,
+    "whale_pct": 15.512,
     "whale_value_at_open": 144517.3636,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 87,
@@ -76181,8 +76181,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788086752.3456688,
-    "fills": 10
+    "last_fill_at": 1788087653.8669574,
+    "fills": 11
   },
   {
     "timestamp": 1788078391,
@@ -77064,8 +77064,8 @@
     "odds_at_bet": 74,
     "fee_usd": 0.065,
     "odds_ballena": 73,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.69,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,

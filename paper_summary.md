@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 05:59:25 (hora de Perú)
+Actualizado: 2026-08-30 06:01:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $425.69
-**Retorno acumulado:** -14.86%
+**Bankroll actual:** $427.39
+**Retorno acumulado:** -14.52%
 **Peor caída desde un máximo (drawdown):** 31.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 05:59:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $424.31 en 85 posiciones abiertas (disponible para nuevas apuestas: $1.38)
+**Capital comprometido ahora mismo:** $419.31 en 84 posiciones abiertas (disponible para nuevas apuestas: $8.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 427 | 203 | 17 | -32.11 USD |
+| RN1 | 428 | 203 | 16 | -30.42 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 360 | 216 | 24 | -89.49 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2913
-- **Aciertos:** 1859 (63.8%)
+- **Apuestas resueltas:** 2914
+- **Aciertos:** 1860 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,552.59
-- **ROI sobre lo apostado:** -1.18%
-- **Comisiones pagadas (taker fee):** $266.57 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.65% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,557.59
+- **ROI sobre lo apostado:** -1.17%
+- **Comisiones pagadas (taker fee):** $266.64 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1468 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 858 | 70.3% | 67.8% | +2.5 pp |
+| 60-79% | 859 | 70.3% | 67.8% | +2.5 pp |
 | 80-94% | 405 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 182 | 96.2% | 97.4% | -1.2 pp |
 
@@ -627,7 +627,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | KT Rolster (BUY) | 76% | 5.00 | 16.3% | 💰 vendida anticipada | +1.38 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 46% | 5.00 | 4.9% | 💰 vendida anticipada | +0.16 |
-| RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ashley Lahey (BUY) | 74% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | ITF WOMEN - SINGLES: W15 Brasov (Romania | Ashley Lahey (BUY) | 74% | 5.00 | 1.3% | ✅ ganada | +1.69 |
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Vardan Manukyan (BUY) | 47% | 5.00 | 2.8% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 54% | 5.00 | 6.8% | ⏳ pendiente | — |
