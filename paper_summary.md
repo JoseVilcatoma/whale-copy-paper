@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 15:40:50 (hora de Perú)
+Actualizado: 2026-08-30 15:43:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $339.21
-**Retorno acumulado:** -32.16%
+**Bankroll actual:** $337.62
+**Retorno acumulado:** -32.48%
 **Peor caída desde un máximo (drawdown):** 45.68%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 15:40:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $208.69 en 42 posiciones abiertas (disponible para nuevas apuestas: $130.52)
+**Capital comprometido ahora mismo:** $193.69 en 39 posiciones abiertas (disponible para nuevas apuestas: $143.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,12 +34,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 20 | 8 | 0 | +9.81 USD |
-| quavoo | 17 | 7 | 10 | +9.41 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
+| quavoo | 18 | 8 | 8 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -63,11 +63,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | beachboy4 | 3 | 1 | 2 | -0.96 USD |
+| HomeRunHazard | 417 | 223 | 0 | -2.35 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
-| HomeRunHazard | 416 | 223 | 1 | -3.71 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3040
-- **Aciertos:** 1931 (63.5%)
+- **Apuestas resueltas:** 3043
+- **Aciertos:** 1933 (63.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,176.55
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $277.95 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,191.55
+- **ROI sobre lo apostado:** -1.75%
+- **Comisiones pagadas (taker fee):** $278.20 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1526 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 904 | 69.9% | 67.8% | +2.1 pp |
+| 40-59% | 1527 | 49.2% | 50.1% | -0.9 pp |
+| 60-79% | 906 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 422 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
