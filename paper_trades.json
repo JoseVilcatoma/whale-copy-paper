@@ -78640,8 +78640,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.15,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -79749,8 +79749,8 @@
     "title": "LoL: LYON vs Team Liquid - Game 2 Winner",
     "outcome": "LYON",
     "side": "BUY",
-    "whale_usd": 1449.1025710000001,
-    "whale_pct": 4.686,
+    "whale_usd": 3690.4273709999998,
+    "whale_pct": 11.933,
     "whale_value_at_open": 30926.2003,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -79761,7 +79761,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788124372.907734,
-    "fills": 1
+    "last_fill_at": 1788124870.81028,
+    "fills": 3
   }
 ]

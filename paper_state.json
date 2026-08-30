@@ -1,5 +1,5 @@
 {
-  "bankroll": 316.5588150560813,
+  "bankroll": 311.4108150560813,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15955,6 +15955,11 @@
       "timestamp": 1788124445.76762,
       "bankroll": 316.56,
       "event": "won: beachboy4 \u2014 US Open WTA: Lucrezia Stefanini vs Dayana Yastremska"
+    },
+    {
+      "timestamp": 1788124870.7865248,
+      "bankroll": 311.41,
+      "event": "lost: SDTrading \u2014 San Diego Padres vs. Tampa Bay Rays"
     }
   ]
 }
