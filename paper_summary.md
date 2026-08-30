@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 18:33:11 (hora de Perú)
+Actualizado: 2026-08-30 18:35:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $330.65
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 18:33:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $155.65)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $150.65)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| HVAB | 20 | 8 | 0 | +9.81 USD |
+| HVAB | 20 | 8 | 1 | +9.81 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | quavoo | 21 | 10 | 10 | +8.21 USD |
@@ -637,6 +637,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 3282.9% | ⏳ pendiente | — |
 | RN1 | Mirassol FC vs. SE Palmeiras: O/U 2.5 | Under (BUY) | 99% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will SE Palmeiras win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -666,4 +667,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 66% | 5.00 | 34.5% | ✅ ganada | +2.49 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid (BO3) - LCS Reg | LYON (BUY) | 83% | 5.00 | 49.5% | ✅ ganada | +0.98 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: LYON vs Team Liquid - Game 2 Winner | LYON (BUY) | 56% | 5.00 | 74.4% | 💰 vendida anticipada | +0.77 |
-| nigiri99 | Los Angeles Sparks vs. Seattle Storm: O/ | Under (BUY) | 50% | 5.00 | 0.2% | ✅ ganada | +4.88 |

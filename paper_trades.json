@@ -80411,5 +80411,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788132706.4034588,
     "fills": 1
+  },
+  {
+    "timestamp": 1788132809,
+    "timestamp_added": 1788132810.6091936,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "wta-birrell-marcink-2026-08-30",
+    "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
+    "outcome": "Petra Marcinko",
+    "side": "BUY",
+    "whale_usd": 4999.9944,
+    "whale_pct": 3282.868,
+    "whale_value_at_open": 152.3057,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788132810.6092088,
+    "fills": 1
   }
 ]
