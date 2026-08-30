@@ -1,5 +1,5 @@
 {
-  "bankroll": 500.79927486273453,
+  "bankroll": 501.3298304182901,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14600,6 +14600,11 @@
       "timestamp": 1788048766.861613,
       "bankroll": 500.8,
       "event": "lost: HomeRunHazard \u2014 San Jose State vs. USC: O/U 61.5"
+    },
+    {
+      "timestamp": 1788049201.92414,
+      "bankroll": 501.33,
+      "event": "won: ferrariChampions2026 \u2014 Valorant: FURIA Esports vs G2 Esports (BO3) - VCT Americas Stage 2 Playoffs"
     }
   ]
 }
