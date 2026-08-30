@@ -78853,8 +78853,8 @@
     "title": "Colorado Rockies vs. Atlanta Braves",
     "outcome": "Atlanta Braves",
     "side": "BUY",
-    "whale_usd": 4874.240000000001,
-    "whale_pct": 0.898,
+    "whale_usd": 7465.720000000001,
+    "whale_pct": 1.376,
     "whale_value_at_open": 542702.1186,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -78865,8 +78865,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788106689.9912634,
-    "fills": 3
+    "last_fill_at": 1788107229.0314615,
+    "fills": 5
   },
   {
     "timestamp": 1788104319,
@@ -78927,8 +78927,8 @@
     "title": "Counter-Strike: Vitality vs Legacy - Map 1 Winner",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 7151.6144,
-    "whale_pct": 2.138,
+    "whale_usd": 15991.6144,
+    "whale_pct": 4.78,
     "whale_value_at_open": 334549.5235,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -78939,8 +78939,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788106004.9827416,
-    "fills": 2
+    "last_fill_at": 1788107195.9163144,
+    "fills": 3
   },
   {
     "timestamp": 1788106207,
