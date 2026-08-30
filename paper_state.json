@@ -1,5 +1,5 @@
 {
-  "bankroll": 416.7137756617555,
+  "bankroll": 419.5582835982634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15390,6 +15390,11 @@
       "timestamp": 1788093260.5599935,
       "bankroll": 416.71,
       "event": "won: RN1 \u2014 Plovdiv 3: Oleksandr Ovcharenko vs Edoardo Cherie Ligniere"
+    },
+    {
+      "timestamp": 1788093563.7557166,
+      "bankroll": 419.56,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: GenOne vs INOX Division (BO3) - CCT Europe Series #7 Playoffs"
     }
   ]
 }

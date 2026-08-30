@@ -72723,8 +72723,8 @@
     "odds_at_bet": 63,
     "fee_usd": 0.092,
     "odds_ballena": 62,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.84,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -77995,8 +77995,8 @@
     "title": "Como: Olle Wallin vs Niccolo Catini",
     "outcome": "Olle Wallin",
     "side": "BUY",
-    "whale_usd": 532.1858179999999,
-    "whale_pct": 0.229,
+    "whale_usd": 4407.565818,
+    "whale_pct": 1.899,
     "whale_value_at_open": 232085.7858,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 57,
@@ -78007,8 +78007,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788092587.7757573,
-    "fills": 1
+    "last_fill_at": 1788093460.144107,
+    "fills": 2
   },
   {
     "timestamp": 1788092615,
@@ -78158,5 +78158,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788093444.7862198,
     "fills": 3
+  },
+  {
+    "timestamp": 1788093578,
+    "timestamp_added": 1788093579.2708151,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-shft-vit-2026-08-30-game1",
+    "title": "LoL: Shifters vs Team Vitality - Game 1 Winner",
+    "outcome": "Team Vitality",
+    "side": "BUY",
+    "whale_usd": 3956.0,
+    "whale_pct": 30.62,
+    "whale_value_at_open": 12919.5099,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788093579.2708266,
+    "fills": 1
   }
 ]

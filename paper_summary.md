@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 07:37:32 (hora de Perú)
+Actualizado: 2026-08-30 07:39:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $416.71
-**Retorno acumulado:** -16.66%
+**Bankroll actual:** $419.56
+**Retorno acumulado:** -16.09%
 **Peor caída desde un máximo (drawdown):** 33.10%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 07:37:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $410.47 en 83 posiciones abiertas (disponible para nuevas apuestas: $6.24)
+**Capital comprometido ahora mismo:** $410.47 en 83 posiciones abiertas (disponible para nuevas apuestas: $9.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,9 +21,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 98 | 41 | 1 | +86.88 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 98 | 41 | 2 | +86.88 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 18 | 2 | 15 | +44.07 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 19 | 2 | 14 | +46.91 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | casualbet2020 | 26 | 11 | 2 | +31.02 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -101,14 +101,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2943
-- **Aciertos:** 1878 (63.8%)
+- **Apuestas resueltas:** 2944
+- **Aciertos:** 1879 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,702.59
-- **ROI sobre lo apostado:** -1.23%
-- **Comisiones pagadas (taker fee):** $269.08 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,707.59
+- **ROI sobre lo apostado:** -1.21%
+- **Comisiones pagadas (taker fee):** $269.17 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1477 | 49.8% | 50.1% | -0.4 pp |
-| 60-79% | 873 | 70.1% | 67.8% | +2.3 pp |
+| 60-79% | 874 | 70.1% | 67.8% | +2.3 pp |
 | 80-94% | 409 | 86.6% | 86.6% | -0.1 pp |
 | 95-99% (casi seguro) | 184 | 96.2% | 97.4% | -1.2 pp |
 
@@ -618,13 +618,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Shifters vs Team Vitality - Game 1  | Team Vitality (BUY) | 99% | 5.00 | 30.6% | ⏳ pendiente | — |
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 58% | 5.00 | 147.3% | ⏳ pendiente | — |
 | 3edmond.dantes | Will Sunderland AFC win on 2026-08-30? | Yes (BUY) | 44% | 5.00 | 36.2% | ⏳ pendiente | — |
 | RN1 | 1. FC Magdeburg vs. Holstein Kiel: O/U 1 | Under (BUY) | 48% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | FC St. Pauli 1910 vs. 1. FC Kaiserslaute | Under (BUY) | 49% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will 1. FC Kaiserslautern win on 2026-08 | Yes (BUY) | 52% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 2.5 | Under (BUY) | 96% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Como: Olle Wallin vs Niccolo Catini | Olle Wallin (BUY) | 57% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | Como: Olle Wallin vs Niccolo Catini | Olle Wallin (BUY) | 57% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | AIK vs. Hammarby IF: O/U 4.5 | Under (BUY) | 51% | 5.00 | 2.2% | ⏳ pendiente | — |
 | RN1 | Will Club Brugge win on 2026-08-30? | No (BUY) | 51% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Minnesota Lynx vs. Atlanta Dream: O/U 17 | Under (BUY) | 52% | 4.59 | 0.2% | ⏳ pendiente | — |
@@ -647,4 +648,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Sunderland AFC win on 2026-08-30? | No (BUY) | 60% | 3.99 | 3.2% | ⏳ pendiente | — |
 | RN1 | Aberdeen FC vs. Rangers FC: O/U 1.5 | Over (BUY) | 79% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE - Game 3 Winne | Team WE (BUY) | 67% | 5.00 | 0.8% | 💰 vendida anticipada | -1.52 |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: JD Gaming vs Team WE (BO5) - LPL Pl | Team WE (BUY) | 85% | 5.00 | 0.5% | 💰 vendida anticipada | -0.44 |
