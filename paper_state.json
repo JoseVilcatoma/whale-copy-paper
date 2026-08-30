@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.44449302254156,
+  "bankroll": 330.2844930225416,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15845,6 +15845,16 @@
       "timestamp": 1788119183.4917626,
       "bankroll": 340.44,
       "event": "won: nigiri99 \u2014 RC Deportivo A Coru\u00f1a vs. Valencia CF: 1st Half O/U 0.5"
+    },
+    {
+      "timestamp": 1788119788.4156363,
+      "bankroll": 335.37,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Vitality vs Legacy - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788119795.86321,
+      "bankroll": 330.28,
+      "event": "lost: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: Vitality vs Legacy - Map 2 Winner"
     }
   ]
 }

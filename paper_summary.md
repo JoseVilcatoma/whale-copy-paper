@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 14:55:40 (hora de Perú)
+Actualizado: 2026-08-30 14:57:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $340.44
-**Retorno acumulado:** -31.91%
+**Bankroll actual:** $330.28
+**Retorno acumulado:** -33.94%
 **Peor caída desde un máximo (drawdown):** 45.68%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 14:55:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $238.69 en 48 posiciones abiertas (disponible para nuevas apuestas: $101.75)
+**Capital comprometido ahora mismo:** $228.69 en 46 posiciones abiertas (disponible para nuevas apuestas: $101.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 105 | 43 | 0 | +88.59 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 4 | 11 | +48.27 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 23 | 5 | 10 | +43.19 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -64,7 +64,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | beachboy4 | 3 | 1 | 2 | -0.96 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 1 | 3 | -2.95 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
@@ -84,6 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 8 | 2 | -6.84 USD |
 | vito3corleone | 1 | 2 | 1 | -7.32 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 1 | 2 | 2 | -8.03 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3030
+- **Apuestas resueltas:** 3032
 - **Aciertos:** 1925 (63.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,126.55
-- **ROI sobre lo apostado:** -1.74%
-- **Comisiones pagadas (taker fee):** $276.99 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,136.55
+- **ROI sobre lo apostado:** -1.80%
+- **Comisiones pagadas (taker fee):** $277.15 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -118,7 +118,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1522 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 899 | 70.0% | 67.8% | +2.1 pp |
+| 60-79% | 901 | 69.8% | 67.8% | +2.0 pp |
 | 80-94% | 421 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
 
@@ -648,7 +648,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX (BO3) - LEC Regula | GIANTX (BUY) | 45% | 5.00 | 28.3% | 💰 vendida anticipada | +1.85 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: IMP (-1.5) vs Galorys (+1. | Imperial (BUY) | 50% | 5.00 | 8.0% | ⏳ pendiente | — |
 | nigiri99 | Will CA River Plate win on 2026-08-30? | Yes (BUY) | 61% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 7.0% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: Vitality vs Legacy - Map | Vitality (BUY) | 66% | 5.00 | 7.0% | ❌ perdida | -5.08 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Valorant: LOUD vs MIBR (BO3) - VCT Ameri | MIBR (BUY) | 64% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 44% | 5.00 | 6.4% | 💰 vendida anticipada | +2.00 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Fnatic vs GIANTX - Game 2 Winner | Fnatic (BUY) | 50% | 5.00 | 2.3% | 💰 vendida anticipada | -0.05 |
