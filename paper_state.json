@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.26674009169705,
+  "bankroll": 476.28099935095634,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14790,6 +14790,16 @@
       "timestamp": 1788057953.85272,
       "bankroll": 477.27,
       "event": "lost: ferrariChampions2026 \u2014 Spread: New York Yankees (-1.5)"
+    },
+    {
+      "timestamp": 1788058445.4331906,
+      "bankroll": 472.14,
+      "event": "lost: HomeRunHazard \u2014 CHI vs. TEN: O/U 36.5"
+    },
+    {
+      "timestamp": 1788058445.533343,
+      "bankroll": 476.28,
+      "event": "won: SDTrading \u2014 CHI vs. TEN: O/U 36.5"
     }
   ]
 }
