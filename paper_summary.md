@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 05:28:17 (hora de Perú)
+Actualizado: 2026-08-30 05:30:28 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $427.12
-**Retorno acumulado:** -14.58%
+**Bankroll actual:** $422.05
+**Retorno acumulado:** -15.59%
 **Peor caída desde un máximo (drawdown):** 31.05%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 05:28:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $415.00 en 83 posiciones abiertas (disponible para nuevas apuestas: $12.12)
+**Capital comprometido ahora mismo:** $410.00 en 82 posiciones abiertas (disponible para nuevas apuestas: $12.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -91,7 +91,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 426 | 202 | 15 | -27.95 USD |
+| RN1 | 426 | 203 | 14 | -33.02 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | ferrariChampions2026 | 359 | 216 | 24 | -90.85 USD |
 | Sassy-Bucket | 19 | 36 | 0 | -94.52 USD |
@@ -99,14 +99,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2910
+- **Apuestas resueltas:** 2911
 - **Aciertos:** 1857 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,537.59
-- **ROI sobre lo apostado:** -1.16%
-- **Comisiones pagadas (taker fee):** $266.40 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,542.59
+- **ROI sobre lo apostado:** -1.20%
+- **Comisiones pagadas (taker fee):** $266.48 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -115,7 +115,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1468 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 856 | 70.3% | 67.8% | +2.5 pp |
+| 60-79% | 857 | 70.2% | 67.8% | +2.4 pp |
 | 80-94% | 404 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 182 | 96.2% | 97.4% | -1.2 pp |
 
@@ -615,7 +615,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Dplus KIA vs KT Rolster - Game 3 Wi | KT Rolster (BUY) | 59% | 5.00 | 0.5% | 💰 vendida anticipada | +1.35 |
-| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 1.9% | ⏳ pendiente | — |
+| RN1 | FC Utrecht vs. PSV: O/U 3.5 | Over (BUY) | 55% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | Will FC Utrecht win on 2026-08-30? | No (BUY) | 88% | 5.00 | 1.3% | ⏳ pendiente | — |
 | RN1 | Will PSV win on 2026-08-30? | Yes (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Como: Lorenzo Rottoli vs Giuseppe La Vel | Lorenzo Rottoli (BUY) | 72% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -633,7 +633,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 73% | 5.00 | 0.8% | ⏳ pendiente | — |
 | RN1 | ITF MEN - SINGLES: M15 Kursumlijska Banj | Branko Djuric (BUY) | 70% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Como: Norbert Gombos vs Andrea de Marchi | Norbert Gombos (BUY) | 83% | 5.00 | 9.7% | ⏳ pendiente | — |
-| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Henry Bernet (BUY) | 69% | 5.00 | 1.1% | ⏳ pendiente | — |
+| RN1 | ITF MEN - SINGLES: M25 Lausanne (Switzer | Henry Bernet (BUY) | 69% | 5.00 | 2.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Amit Vales vs Vardan Manukyan | Amit Vales (BUY) | 68% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Barbora Palicova (BUY) | 50% | 5.00 | 2.6% | ⏳ pendiente | — |
 | RN1 | ITF WOMEN - SINGLES: W75 Bytom (Poland), | Denisa Zoldakova (BUY) | 52% | 5.00 | 4.1% | ⏳ pendiente | — |

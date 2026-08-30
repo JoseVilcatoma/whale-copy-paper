@@ -1,5 +1,5 @@
 {
-  "bankroll": 427.1185759262164,
+  "bankroll": 422.04557592621643,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15205,6 +15205,11 @@
       "timestamp": 1788085640.5147753,
       "bankroll": 427.12,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 3 Winner (+1.35 USD)"
+    },
+    {
+      "timestamp": 1788085817.2550328,
+      "bankroll": 422.05,
+      "event": "lost: RN1 \u2014 ITF MEN - SINGLES: M15 Monastir 28 (Tunisia), hard: Daniel Jade vs Nicolas Jadoun"
     }
   ]
 }

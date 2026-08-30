@@ -76302,8 +76302,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -76763,8 +76763,8 @@
     "title": "ITF MEN - SINGLES: M25 Lausanne (Switzerland), clay: Andrey Chepelev vs Henry Bernet",
     "outcome": "Henry Bernet",
     "side": "BUY",
-    "whale_usd": 1219.92,
-    "whale_pct": 1.075,
+    "whale_usd": 2466.586666,
+    "whale_pct": 2.173,
     "whale_value_at_open": 113517.5642,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -76775,8 +76775,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788082991.2466009,
-    "fills": 1
+    "last_fill_at": 1788085758.984593,
+    "fills": 2
   },
   {
     "timestamp": 1788082997,
@@ -77206,8 +77206,8 @@
     "title": "FC Utrecht vs. PSV: O/U 3.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 2726.38,
-    "whale_pct": 1.913,
+    "whale_usd": 5918.610000000001,
+    "whale_pct": 4.153,
     "whale_value_at_open": 142507.5123,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -77220,8 +77220,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788085589.4462314,
-    "fills": 4
+    "last_fill_at": 1788085802.179407,
+    "fills": 8
   },
   {
     "timestamp": 1788085386,
