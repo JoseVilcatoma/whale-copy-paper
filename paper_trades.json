@@ -77509,8 +77509,8 @@
     "title": "Will Sunderland AFC win on 2026-08-30?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 8334.4285,
-    "whale_pct": 4.565,
+    "whale_usd": 12068.5685,
+    "whale_pct": 6.61,
     "whale_value_at_open": 182588.449,
     "paper_stake_usd": 3.99,
     "odds_at_bet": 60,
@@ -77521,8 +77521,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": true,
     "recortado_por_tope": false,
-    "last_fill_at": 1788096245.0597026,
-    "fills": 3
+    "last_fill_at": 1788096490.3053424,
+    "fills": 6
   },
   {
     "timestamp": 1788088347,
