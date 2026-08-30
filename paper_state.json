@@ -1,5 +1,5 @@
 {
-  "bankroll": 425.877093543095,
+  "bankroll": 417.50331576531715,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -15300,6 +15300,36 @@
       "timestamp": 1788090018.0519576,
       "bankroll": 425.88,
       "event": "won: RN1 \u2014 Como: Lorenzo Rottoli vs Giuseppe La Vela"
+    },
+    {
+      "timestamp": 1788090932.659552,
+      "bankroll": 420.83,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788090939.4791162,
+      "bankroll": 415.73,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: DK (-1.5) vs KT Rolster (+1.5)"
+    },
+    {
+      "timestamp": 1788090945.351797,
+      "bankroll": 410.67,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: Dplus KIA vs KT Rolster (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788090947.526194,
+      "bankroll": 405.56,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Dplus KIA vs KT Rolster - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788090948.006599,
+      "bankroll": 411.53,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788090953.4773638,
+      "bankroll": 417.5,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Dplus KIA vs KT Rolster - Game 3 Winner"
     }
   ]
 }
