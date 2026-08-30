@@ -77769,5 +77769,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788090344.9180012,
     "fills": 1
+  },
+  {
+    "timestamp": 1788090587,
+    "timestamp_added": 1788090588.280901,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "bel1-kaa-bru-2026-08-30-bru",
+    "title": "Will Club Brugge win on 2026-08-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 627.7600000000001,
+    "whale_pct": 0.326,
+    "whale_value_at_open": 192375.2313,
+    "paper_stake_usd": 2.86,
+    "odds_at_bet": 57,
+    "fee_usd": 0.061,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": true,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788090588.2809112,
+    "fills": 1
   }
 ]
