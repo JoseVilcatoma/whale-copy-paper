@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-29 22:18:04 (hora de Perú)
+Actualizado: 2026-08-29 22:20:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $483.04
-**Retorno acumulado:** -3.39%
+**Bankroll actual:** $477.93
+**Retorno acumulado:** -4.41%
 **Peor caída desde un máximo (drawdown):** 29.20%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-29 22:18:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $223.04)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $212.93)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,21 +92,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 0 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 419 | 200 | 0 | -34.84 USD |
+| RN1 | 419 | 200 | 2 | -34.84 USD |
 | Sassy-Bucket | 19 | 34 | 2 | -84.24 USD |
-| ferrariChampions2026 | 346 | 211 | 18 | -86.85 USD |
+| ferrariChampions2026 | 346 | 212 | 17 | -91.96 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 2846
+- **Apuestas resueltas:** 2847
 - **Aciertos:** 1822 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $5.00
-- **Total apostado (suma de stakes):** $14,217.59
-- **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $260.31 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $14,222.59
+- **ROI sobre lo apostado:** -0.82%
+- **Comisiones pagadas (taker fee):** $260.42 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -114,7 +114,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1428 | 50.2% | 50.1% | +0.1 pp |
+| 40-59% | 1429 | 50.2% | 50.1% | +0.1 pp |
 | 60-79% | 845 | 70.2% | 67.8% | +2.4 pp |
 | 80-94% | 394 | 86.3% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 179 | 96.1% | 97.4% | -1.3 pp |
@@ -602,6 +602,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | ITF MEN - SINGLES: M25 Taipei 2 (Taiwan) | Kuan Shou Chen (BUY) | 80% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | Zhangjiagang: Joshua Charlton vs Takuya  | Joshua Charlton (BUY) | 58% | 5.00 | 5.0% | ⏳ pendiente | — |
 | casualbet2020 | Valorant: Karmine Corp vs Team Liquid -  | Karmine Corp (BUY) | 52% | 5.00 | 25.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | Spread: Arizona Diamondbacks (-1.5) | San Francisco Giants (BUY) | 68% | 5.00 | 2.7% | ⏳ pendiente | — |
 | HomeRunHazard | Arizona Diamondbacks vs. San Francisco G | Arizona Diamondbacks (BUY) | 51% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -630,5 +632,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Dplus KIA vs KT Rolster (BO5) - LCK | Dplus KIA (BUY) | 79% | 5.00 | 108.4% | ⏳ pendiente | — |
 | Sassy-Bucket | Toronto Tempo vs. Phoenix Mercury: O/U 1 | Over (BUY) | 48% | 5.00 | 13.5% | ⏳ pendiente | — |
 | texaskid | Philadelphia Phillies vs. Los Angeles An | Over (BUY) | 49% | 5.00 | 18.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | Spread: New York Yankees (-2.5) | New York Yankees (BUY) | 59% | 5.00 | 1.8% | ✅ ganada | +3.37 |
-| ferrariChampions2026 | Will Nashville SC win on 2026-08-29? | Yes (BUY) | 79% | 5.00 | 0.3% | ⏳ pendiente | — |

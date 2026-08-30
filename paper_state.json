@@ -1,5 +1,5 @@
 {
-  "bankroll": 483.0447268769875,
+  "bankroll": 477.9347268769875,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -14870,6 +14870,11 @@
       "timestamp": 1788059257.288579,
       "bankroll": 483.04,
       "event": "won: HomeRunHazard \u2014 Spread: Stanford (-10.5)"
+    },
+    {
+      "timestamp": 1788059999.6883113,
+      "bankroll": 477.93,
+      "event": "lost: ferrariChampions2026 \u2014 Will Philadelphia Union win on 2026-08-29?"
     }
   ]
 }
