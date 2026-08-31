@@ -83114,8 +83114,8 @@
     "title": "US Open ATP: Matteo Berrettini vs Stan Wawrinka",
     "outcome": "Matteo Berrettini",
     "side": "BUY",
-    "whale_usd": 9774.336368,
-    "whale_pct": 1.967,
+    "whale_usd": 10463.821096,
+    "whale_pct": 2.105,
     "whale_value_at_open": 497004.4884,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -83128,8 +83128,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788213898.2812312,
-    "fills": 3
+    "last_fill_at": 1788214129.1511068,
+    "fills": 4
   },
   {
     "timestamp": 1788212793,
@@ -83140,8 +83140,8 @@
     "title": "US Open ATP: Luciano Darderi vs Harry Wendelken",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 15617.913522000003,
-    "whale_pct": 3.386,
+    "whale_usd": 16324.326122000002,
+    "whale_pct": 3.539,
     "whale_value_at_open": 461226.889,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -83152,8 +83152,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788213296.8811307,
-    "fills": 6
+    "last_fill_at": 1788214124.5919333,
+    "fills": 7
   },
   {
     "timestamp": 1788212844,
@@ -83273,6 +83273,58 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788213506.832991,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788214079,
+    "timestamp_added": 1788214079.5883272,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-sf-atl-2026-06-18",
+    "title": "San Francisco Giants vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 2379.0,
+    "whale_pct": 0.514,
+    "whale_value_at_open": 463240.0119,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788214079.5883505,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788214123,
+    "timestamp_added": 1788214123.8346548,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "mlb-nym-tb-2026-08-31-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 24999.999999,
+    "whale_pct": 549.336,
+    "whale_value_at_open": 4550.9461,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x0x23kjookhaiuohduoayh8c9"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788214123.8346708,
     "fills": 1
   }
 ]
