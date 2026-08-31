@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:34:41 (hora de Perú)
+Actualizado: 2026-08-31 16:36:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $360.01
-**Retorno acumulado:** -28.00%
+**Bankroll actual:** $364.33
+**Retorno acumulado:** -27.13%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:34:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $190.01)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $194.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -88,11 +88,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IQdegen | 0 | 1 | 1 | -5.12 USD |
 | HomeRunHazard | 428 | 227 | 3 | -5.44 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
+| NiNo999 | 1 | 2 | 2 | -5.92 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
-| NiNo999 | 0 | 2 | 2 | -10.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3166
-- **Aciertos:** 2017 (63.7%)
+- **Apuestas resueltas:** 3167
+- **Aciertos:** 2018 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,805.24
-- **ROI sobre lo apostado:** -1.46%
-- **Comisiones pagadas (taker fee):** $288.89 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,810.24
+- **ROI sobre lo apostado:** -1.43%
+- **Comisiones pagadas (taker fee):** $289.01 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1584 | 49.4% | 50.1% | -0.7 pp |
+| 40-59% | 1585 | 49.5% | 50.1% | -0.6 pp |
 | 60-79% | 943 | 70.1% | 67.9% | +2.2 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
@@ -663,6 +663,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| NiNo999 | US Open ATP: Juncheng Shang vs Marco Tru | Marco Trungelliti (BUY) | 43% | 5.00 | 76362.1% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Julia Grabher vs Sorana Cir | Julia Grabher (BUY) | 41% | 5.00 | 398.4% | ⏳ pendiente | — |
 | Sunny24 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 56% | 5.00 | 51.7% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 46% | 5.00 | 39.4% | ⏳ pendiente | — |
@@ -684,7 +685,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ✅ ganada | +2.27 |
 | NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ❌ perdida | -5.11 |
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
-| NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ⏳ pendiente | — |
+| NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ✅ ganada | +4.32 |
 | HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
 | HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Kimberly Birrell (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | fRibrenlc | US Open ATP: Otto Virtanen vs Andrey Rub | Andrey Rublev (BUY) | 68% | 5.00 | 269.6% | ✅ ganada | +2.27 |
@@ -692,4 +693,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Mika Petkovic (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
-| HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Stefanos Tsitsipas (BUY) | 49% | 5.00 | 1.1% | ✅ ganada | +5.08 |

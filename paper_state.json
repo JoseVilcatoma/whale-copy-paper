@@ -1,5 +1,5 @@
 {
-  "bankroll": 360.0138167587229,
+  "bankroll": 364.33077902287386,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16605,6 +16605,11 @@
       "timestamp": 1788211195.0543125,
       "bankroll": 360.01,
       "event": "won: BBQChickenisthebesttt \u2014 Will Arsenal FC win on 2026-08-31?"
+    },
+    {
+      "timestamp": 1788212138.7410738,
+      "bankroll": 364.33,
+      "event": "won: NiNo999 \u2014 US Open WTA: Viktorija Golubic vs Diane Parry"
     }
   ]
 }
