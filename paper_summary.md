@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 23:16:56 (hora de Perú)
+Actualizado: 2026-08-30 23:19:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $295.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 23:16:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $80.86)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $75.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 13 | 12 | 2 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 458 | 218 | 14 | -28.37 USD |
+| RN1 | 458 | 218 | 15 | -28.37 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -602,7 +602,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-bos-nyy-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | wta-parry-mertens-2026-08-29 | HomeRunHazard, ferrariChampions2026 |
 | mlb-bos-nyy-2026-08-29-spread-home-2pt5 | HomeRunHazard, ferrariChampions2026 |
-| wta-william-kenin-2026-08-30 | HomeRunHazard, ferrariChampions2026 |
+| wta-william-kenin-2026-08-30 | HomeRunHazard, RN1, ferrariChampions2026 |
 | wnba-tor-phx-2026-08-29-total-173pt5 | RN1, Sassy-Bucket |
 | lol-dk-kt-2026-08-30 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, TAIWANNUMBERONE, ferrariChampions2026 |
 | mlb-phi-laa-2026-08-29-spread-away-2pt5 | HomeRunHazard, ferrariChampions2026 |
@@ -643,7 +643,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 2.5% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
+| HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 4.3% | ⏳ pendiente | — |
 | nigiri99 | Will there be a run scored in the first  | No (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | CF Monterrey vs. Atlético San Luis: O/U  | Under (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -672,4 +673,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings: O/U 16 | Under (BUY) | 49% | 5.00 | 1.9% | ❌ perdida | -5.13 |
 | RN1 | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 63% | 5.00 | 2.9% | ❌ perdida | -5.09 |
-| OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 83% | 5.00 | 788.5% | 💰 vendida anticipada | -0.70 |
