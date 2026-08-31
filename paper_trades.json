@@ -81816,5 +81816,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788188874.3799143,
     "fills": 24
+  },
+  {
+    "timestamp": 1788188978,
+    "timestamp_added": 1788188978.6594694,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mouz-fal2-2026-08-31-game2",
+    "title": "Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 13050.0,
+    "whale_pct": 5.964,
+    "whale_value_at_open": 218796.513,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788188978.65948,
+    "fills": 1
   }
 ]
