@@ -81826,8 +81826,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 57548.358,
-    "whale_pct": 26.302,
+    "whale_usd": 68919.458,
+    "whale_pct": 31.499,
     "whale_value_at_open": 218796.513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -81840,8 +81840,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189510.7105289,
-    "fills": 3
+    "last_fill_at": 1788193589.8704822,
+    "fills": 4
   },
   {
     "timestamp": 1788189287,
@@ -82096,8 +82096,8 @@
     "title": "Milwaukee Brewers vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 20837.8452,
-    "whale_pct": 158.055,
+    "whale_usd": 33346.042751,
+    "whale_pct": 252.93,
     "whale_value_at_open": 13183.9227,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -82108,8 +82108,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788191497.3347902,
-    "fills": 1
+    "last_fill_at": 1788193599.154603,
+    "fills": 3
   },
   {
     "timestamp": 1788191718,
