@@ -80802,8 +80802,8 @@
     "title": "Will Deportivo Toluca FC win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1614.2199999999998,
-    "whale_pct": 0.539,
+    "whale_usd": 4569.45,
+    "whale_pct": 1.525,
     "whale_value_at_open": 299632.2604,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 72,
@@ -80816,8 +80816,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788134461.5540354,
-    "fills": 2
+    "last_fill_at": 1788135076.3833342,
+    "fills": 3
   },
   {
     "timestamp": 1788134704,
@@ -80878,8 +80878,8 @@
     "title": "LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season",
     "outcome": "Shopify Rebellion",
     "side": "BUY",
-    "whale_usd": 759.8936,
-    "whale_pct": 1.355,
+    "whale_usd": 3265.116358,
+    "whale_pct": 5.821,
     "whale_value_at_open": 56095.6989,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -80890,7 +80890,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788134954.513491,
-    "fills": 1
+    "last_fill_at": 1788135103.4923377,
+    "fills": 3
   }
 ]
