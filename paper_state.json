@@ -1,5 +1,5 @@
 {
-  "bankroll": 294.4909474895975,
+  "bankroll": 295.86085446634166,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16240,6 +16240,16 @@
       "timestamp": 1788149311.9968364,
       "bankroll": 294.49,
       "event": "won: RN1 \u2014 Will FC Ju\u00e1rez win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788149432.949752,
+      "bankroll": 289.38,
+      "event": "lost: nigiri99 \u2014 Deportivo Toluca FC vs. FC Ju\u00e1rez: O/U 3.5"
+    },
+    {
+      "timestamp": 1788149433.8845031,
+      "bankroll": 295.86,
+      "event": "won: RN1 \u2014 Deportivo Toluca FC vs. FC Ju\u00e1rez: O/U 3.5"
     }
   ]
 }
