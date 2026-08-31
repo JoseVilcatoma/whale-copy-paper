@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.6432448713711,
+  "bankroll": 355.3546823713711,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16585,6 +16585,16 @@
       "timestamp": 1788210561.3560092,
       "bankroll": 364.64,
       "event": "lost: NiNo999 \u2014 Game Spread: Shnaider (-4.5) vs Snigur (+4.5)"
+    },
+    {
+      "timestamp": 1788210848.7382033,
+      "bankroll": 360.47,
+      "event": "venta anticipada: AGUGava \u2014 US Open WTA: Katie Volynets vs Linda Noskova (-4.17 USD)"
+    },
+    {
+      "timestamp": 1788210883.0506356,
+      "bankroll": 355.35,
+      "event": "lost: IQdegen \u2014 US Open ATP: Matteo Arnaldi vs James Duckworth"
     }
   ]
 }
