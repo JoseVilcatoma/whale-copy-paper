@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:42:50 (hora de Perú)
+Actualizado: 2026-08-31 16:44:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $364.33
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:42:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $189.33)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $169.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -99,7 +99,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | AV23IUa | 14 | 12 | 1 | -15.98 USD |
-| RN1 | 469 | 220 | 3 | -16.35 USD |
+| RN1 | 469 | 220 | 7 | -16.35 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
@@ -658,12 +658,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mil-chc-2026-08-31 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, Sunny24 |
 | epl-ast-ars-2026-08-31-ars | BBQChickenisthebesttt, vito3corleone |
 | mlb-nyy-laa-2026-08-31 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, Sunny24, monkeymashingkeyboard |
+| atp-berrett-wawrink-2026-08-30 | 0x0x23kjookhaiuohduoayh8c9, RN1 |
 | wta-volynet-noskova-2026-08-30 | 0xwise, AGUGava |
+| wta-grabher-cirstea-2026-08-30 | AGUGava, RN1 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Juncheng Shang vs Marco Tru | Marco Trungelliti (BUY) | 43% | 5.00 | 76362.1% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Julia Grabher vs Sorana Cir | Julia Grabher (BUY) | 41% | 5.00 | 398.4% | ⏳ pendiente | — |
@@ -690,7 +696,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ✅ ganada | +4.32 |
 | HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
 | HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Kimberly Birrell (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
-| fRibrenlc | US Open ATP: Otto Virtanen vs Andrey Rub | Andrey Rublev (BUY) | 68% | 5.00 | 269.6% | ✅ ganada | +2.27 |
-| HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 4.7% | ⏳ pendiente | — |
-| HomeRunHazard | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
