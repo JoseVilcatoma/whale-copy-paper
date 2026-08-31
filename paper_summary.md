@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 23:21:05 (hora de Perú)
+Actualizado: 2026-08-30 23:23:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $295.86
@@ -644,8 +644,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | RN1 | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
-| HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 4.3% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 1.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 9.1% | ⏳ pendiente | — |
 | nigiri99 | Will there be a run scored in the first  | No (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | CF Monterrey vs. Atlético San Luis: O/U  | Under (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
