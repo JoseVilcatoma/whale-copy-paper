@@ -82598,5 +82598,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788201971.4074578,
     "fills": 2
+  },
+  {
+    "timestamp": 1788202159,
+    "timestamp_added": 1788202159.572938,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "sea-ata-bol-2026-08-31-ata",
+    "title": "Will Atalanta BC win on 2026-08-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 4979.14,
+    "whale_pct": 37.38,
+    "whale_value_at_open": 13320.3487,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788202186.475432,
+    "fills": 2
   }
 ]

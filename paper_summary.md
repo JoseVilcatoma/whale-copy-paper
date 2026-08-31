@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 13:48:17 (hora de Perú)
+Actualizado: 2026-08-31 13:50:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $338.35
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 13:48:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $148.35)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $143.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,7 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 4 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | fRibrenlc | 0 | 0 | 1 | +0.00 USD |
-| BBQChickenisthebesttt | 0 | 0 | 2 | +0.00 USD |
+| BBQChickenisthebesttt | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -654,6 +654,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | Will Atalanta BC win on 2026-08-31? | Yes (BUY) | 51% | 5.00 | 37.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | CA Osasuna vs. Getafe CF: O/U 2.5 | Under (BUY) | 74% | 5.00 | 21.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ⏳ pendiente | — |
 | vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ⏳ pendiente | — |
@@ -683,4 +684,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 73% | 5.00 | 7.3% | ✅ ganada | +1.78 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Color (-1.5) vs UPGRADE (+ | Color (BUY) | 43% | 5.00 | 1.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 16.9% | ⏳ pendiente | — |
