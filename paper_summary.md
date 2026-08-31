@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 22:37:25 (hora de Perú)
+Actualizado: 2026-08-30 22:39:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $294.08
@@ -643,7 +643,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | US Open ATP: Alexander Bublik vs J.J. Wo | Alexander Bublik (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 65% | 5.00 | 4.7% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 52% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ❌ perdida | -5.03 |
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 6.2% | ⏳ pendiente | — |
