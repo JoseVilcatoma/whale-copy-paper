@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 13:44:10 (hora de Perú)
+Actualizado: 2026-08-31 13:46:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $338.35
@@ -654,7 +654,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| BBQChickenisthebesttt | CA Osasuna vs. Getafe CF: O/U 2.5 | Under (BUY) | 74% | 5.00 | 8.3% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | CA Osasuna vs. Getafe CF: O/U 2.5 | Under (BUY) | 74% | 5.00 | 21.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ⏳ pendiente | — |
 | vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ⏳ pendiente | — |

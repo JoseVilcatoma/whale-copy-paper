@@ -82584,8 +82584,8 @@
     "title": "CA Osasuna vs. Getafe CF: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 1231.7509,
-    "whale_pct": 8.276,
+    "whale_usd": 3181.7509,
+    "whale_pct": 21.377,
     "whale_value_at_open": 14883.9529,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -82596,7 +82596,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788201637.4657087,
-    "fills": 1
+    "last_fill_at": 1788201971.4074578,
+    "fills": 2
   }
 ]
