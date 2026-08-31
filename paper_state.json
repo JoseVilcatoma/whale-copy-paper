@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.34973380468466,
+  "bankroll": 376.7322893602402,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16685,6 +16685,16 @@
       "timestamp": 1788215266.3401008,
       "bankroll": 381.35,
       "event": "won: HomeRunHazard \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko"
+    },
+    {
+      "timestamp": 1788217069.600019,
+      "bankroll": 376.2,
+      "event": "lost: AGUGava \u2014 US Open WTA: Julia Grabher vs Sorana Cirstea"
+    },
+    {
+      "timestamp": 1788217070.100915,
+      "bankroll": 376.73,
+      "event": "won: RN1 \u2014 US Open WTA: Julia Grabher vs Sorana Cirstea"
     }
   ]
 }
