@@ -1,5 +1,5 @@
 {
-  "bankroll": 297.2498562260379,
+  "bankroll": 292.65241178159346,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16215,6 +16215,16 @@
       "timestamp": 1788145070.185768,
       "bankroll": 297.25,
       "event": "lost: RN1 \u2014 Cincinnati Reds vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788145380.7365386,
+      "bankroll": 297.78,
+      "event": "won: nigiri99 \u2014 Connecticut Sun vs. Dallas Wings"
+    },
+    {
+      "timestamp": 1788145444.4435406,
+      "bankroll": 292.65,
+      "event": "lost: nigiri99 \u2014 Connecticut Sun vs. Dallas Wings: O/U 165.5"
     }
   ]
 }
