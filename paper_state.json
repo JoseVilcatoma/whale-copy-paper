@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.5121963770116,
+  "bankroll": 376.81634531318184,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16720,6 +16720,11 @@
       "timestamp": 1788218377.1270566,
       "bankroll": 376.51,
       "event": "won: RN1 \u2014 US Open ATP: Matteo Berrettini vs Stan Wawrinka"
+    },
+    {
+      "timestamp": 1788218503.813265,
+      "bankroll": 376.82,
+      "event": "won: RN1 \u2014 US Open ATP: Alexander Blockx vs Tomas Barrios"
     }
   ]
 }
