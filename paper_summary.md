@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 14:29:59 (hora de Perú)
+Actualizado: 2026-08-31 14:32:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $338.35
-**Retorno acumulado:** -32.33%
+**Bankroll actual:** $340.62
+**Retorno acumulado:** -31.88%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 14:29:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $118.35)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $125.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -51,6 +51,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
+| fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -61,7 +62,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| fRibrenlc | 0 | 0 | 1 | +0.00 USD |
 | BBQChickenisthebesttt | 0 | 0 | 4 | +0.00 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | +0.00 USD |
 | Sunny24 | 0 | 0 | 1 | +0.00 USD |
@@ -107,14 +107,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3150
-- **Aciertos:** 2004 (63.6%)
+- **Apuestas resueltas:** 3151
+- **Aciertos:** 2005 (63.6%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,725.24
-- **ROI sobre lo apostado:** -1.64%
-- **Comisiones pagadas (taker fee):** $287.37 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,730.24
+- **ROI sobre lo apostado:** -1.63%
+- **Comisiones pagadas (taker fee):** $287.45 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -123,7 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1577 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 934 | 69.9% | 67.9% | +2.0 pp |
+| 60-79% | 935 | 69.9% | 67.9% | +2.1 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
@@ -673,7 +673,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
 | HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Kimberly Birrell (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
-| fRibrenlc | US Open ATP: Otto Virtanen vs Andrey Rub | Andrey Rublev (BUY) | 68% | 5.00 | 269.6% | ⏳ pendiente | — |
+| fRibrenlc | US Open ATP: Otto Virtanen vs Andrey Rub | Andrey Rublev (BUY) | 68% | 5.00 | 269.6% | ✅ ganada | +2.27 |
 | HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |

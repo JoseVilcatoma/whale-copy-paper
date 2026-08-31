@@ -1,5 +1,5 @@
 {
-  "bankroll": 338.35068942347215,
+  "bankroll": 340.6236305999427,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16510,6 +16510,11 @@
       "timestamp": 1788201843.7349079,
       "bankroll": 338.35,
       "event": "won: HomeRunHazard \u2014 US Open WTA: Aoi Ito vs Oksana Selekhmeteva"
+    },
+    {
+      "timestamp": 1788204654.8284585,
+      "bankroll": 340.62,
+      "event": "won: fRibrenlc \u2014 US Open ATP: Otto Virtanen vs Andrey Rublev"
     }
   ]
 }
