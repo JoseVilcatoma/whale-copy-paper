@@ -81282,8 +81282,8 @@
     "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
     "outcome": "Mariano Navone",
     "side": "BUY",
-    "whale_usd": 45702.647399,
-    "whale_pct": 8.767,
+    "whale_usd": 47622.647399,
+    "whale_pct": 9.136,
     "whale_value_at_open": 521275.2838,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -81297,8 +81297,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788148014.9707625,
-    "fills": 18
+    "last_fill_at": 1788148249.1687734,
+    "fills": 19
   },
   {
     "timestamp": 1788147407,
@@ -81346,6 +81346,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788147721.8848817,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788148235,
+    "timestamp_added": 1788148235.913567,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-mon1-asl-2026-08-30-total-3pt5",
+    "title": "CF Monterrey vs. Atl\u00e9tico San Luis: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 620.06,
+    "whale_pct": 0.106,
+    "whale_value_at_open": 584584.1033,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788148235.9135768,
     "fills": 1
   }
 ]
