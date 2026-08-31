@@ -1,5 +1,5 @@
 {
-  "bankroll": 326.54067654673526,
+  "bankroll": 327.1924947285534,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16135,6 +16135,11 @@
       "timestamp": 1788138289.2859385,
       "bankroll": 326.54,
       "event": "won: nigiri99 \u2014 CD Godoy Cruz vs. CA San Telmo: O/U 2.5"
+    },
+    {
+      "timestamp": 1788138904.907811,
+      "bankroll": 327.19,
+      "event": "won: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion - Game 2 Winner"
     }
   ]
 }
