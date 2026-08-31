@@ -1,5 +1,5 @@
 {
-  "bankroll": 345.6869636278859,
+  "bankroll": 350.3175524228119,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16525,6 +16525,16 @@
       "timestamp": 1788206279.782162,
       "bankroll": 345.69,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: FUT Esports vs Vitality - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788208265.2822733,
+      "bankroll": 352.17,
+      "event": "won: RN1 \u2014 US Open ATP: Sebastian Gorzny vs Raphael Collignon"
+    },
+    {
+      "timestamp": 1788208334.0598395,
+      "bankroll": 350.32,
+      "event": "venta anticipada: 0xwise \u2014 US Open WTA: Katie Volynets vs Linda Noskova (-1.85 USD)"
     }
   ]
 }

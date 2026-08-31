@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 15:30:12 (hora de Perú)
+Actualizado: 2026-08-31 15:32:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $345.69
-**Retorno acumulado:** -30.86%
+**Bankroll actual:** $350.32
+**Retorno acumulado:** -29.94%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 15:30:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $125.69)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $130.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,10 +65,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | +0.00 USD |
 | Sunny24 | 0 | 0 | 1 | +0.00 USD |
-| IQdegen | 0 | 0 | 1 | +0.00 USD |
-| 0xwise | 0 | 0 | 1 | +0.00 USD |
+| IQdegen | 0 | 0 | 2 | +0.00 USD |
+| AGUGava | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
+| 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
@@ -98,9 +99,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | AV23IUa | 14 | 12 | 1 | -15.98 USD |
+| RN1 | 469 | 220 | 3 | -16.35 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| RN1 | 468 | 220 | 4 | -22.83 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
@@ -109,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3153
-- **Aciertos:** 2007 (63.7%)
+- **Apuestas resueltas:** 3154
+- **Aciertos:** 2008 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,740.24
-- **ROI sobre lo apostado:** -1.60%
-- **Comisiones pagadas (taker fee):** $287.61 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.23% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,745.24
+- **ROI sobre lo apostado:** -1.55%
+- **Comisiones pagadas (taker fee):** $287.76 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -124,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1578 | 49.4% | 50.1% | -0.7 pp |
+| 40-59% | 1579 | 49.4% | 50.1% | -0.7 pp |
 | 60-79% | 936 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
@@ -660,7 +661,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xwise | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 55% | 5.00 | 267.1% | ⏳ pendiente | — |
+| AGUGava | Aston Villa FC vs. Arsenal FC: O/U 2.5 | Under (BUY) | 89% | 5.00 | 92.7% | ⏳ pendiente | — |
+| IQdegen | US Open ATP: Matteo Arnaldi vs James Duc | Matteo Arnaldi (BUY) | 53% | 5.00 | 45.6% | ⏳ pendiente | — |
+| 0xwise | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 55% | 5.00 | 267.1% | 💰 vendida anticipada | -1.85 |
 | IQdegen | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 59% | 5.00 | 19.3% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 38.4% | ⏳ pendiente | — |
 | Sunny24 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 39.3% | ⏳ pendiente | — |
@@ -688,5 +691,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Arthur Fils (BUY) | 54% | 5.00 | 0.9% | ❌ perdida | -5.12 |
 | HomeRunHazard | US Open WTA: Qinwen Zheng vs Kristina Li | Qinwen Zheng (BUY) | 91% | 5.00 | 3.4% | ✅ ganada | +0.47 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 59% | 5.00 | 66.4% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 254.1% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 297.8% | ⏳ pendiente | — |
