@@ -82799,5 +82799,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788207460.01253,
     "fills": 1
+  },
+  {
+    "timestamp": 1788207562,
+    "timestamp_added": 1788207563.041092,
+    "username": "0xwise",
+    "wallet": "0x0e604be17c231a33dc01e38a722c7fe3984e3bad",
+    "slug": "wta-volynet-noskova-2026-08-30",
+    "title": "US Open WTA: Katie Volynets vs Linda Noskova",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "whale_usd": 11969.059998000002,
+    "whale_pct": 267.099,
+    "whale_value_at_open": 4481.1382,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788207563.0411065,
+    "fills": 1
   }
 ]
