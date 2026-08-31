@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:07:56 (hora de Perú)
+Actualizado: 2026-08-31 16:09:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $369.75
-**Retorno acumulado:** -26.05%
+**Bankroll actual:** $364.64
+**Retorno acumulado:** -27.07%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:07:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $189.75)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $189.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -85,7 +85,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| NiNo999 | 0 | 1 | 3 | -5.13 USD |
 | vito3corleone | 2 | 2 | 1 | -5.15 USD |
 | HomeRunHazard | 428 | 227 | 3 | -5.44 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
@@ -93,6 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
+| NiNo999 | 0 | 2 | 2 | -10.24 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3162
+- **Apuestas resueltas:** 3163
 - **Aciertos:** 2015 (63.7%)
-- **Cuota promedio de entrada:** 63.5%
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,785.24
-- **ROI sobre lo apostado:** -1.43%
-- **Comisiones pagadas (taker fee):** $288.51 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,790.24
+- **ROI sobre lo apostado:** -1.46%
+- **Comisiones pagadas (taker fee):** $288.61 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1582 | 49.5% | 50.1% | -0.6 pp |
+| 40-59% | 1583 | 49.5% | 50.1% | -0.6 pp |
 | 60-79% | 941 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
@@ -678,7 +678,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ❌ perdida | -5.05 |
 | vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ✅ ganada | +2.27 |
-| NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
+| NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ❌ perdida | -5.11 |
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |

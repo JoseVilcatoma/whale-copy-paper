@@ -1,5 +1,5 @@
 {
-  "bankroll": 369.7512448713711,
+  "bankroll": 364.6432448713711,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16580,6 +16580,11 @@
       "timestamp": 1788210251.8697133,
       "bankroll": 369.75,
       "event": "won: BBQChickenisthebesttt \u2014 Will Atalanta BC win on 2026-08-31?"
+    },
+    {
+      "timestamp": 1788210561.3560092,
+      "bankroll": 364.64,
+      "event": "lost: NiNo999 \u2014 Game Spread: Shnaider (-4.5) vs Snigur (+4.5)"
     }
   ]
 }
