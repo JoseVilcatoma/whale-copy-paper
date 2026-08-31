@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 18:07:17 (hora de Perú)
+Actualizado: 2026-08-31 18:09:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $373.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 18:07:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $188.24)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $183.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -104,7 +104,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| Sassy-Bucket | 22 | 36 | 1 | -80.07 USD |
+| Sassy-Bucket | 22 | 36 | 2 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 375 | 234 | 0 | -146.62 USD |
 
@@ -670,6 +670,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sassy-Bucket | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Juncheng Shang vs Marco Tru | Juncheng Shang (BUY) | 84% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Fortaleza EC win on 2026-08-31? | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | Cincinnati Reds (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -699,4 +700,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 46% | 5.00 | 39.4% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 56% | 5.00 | 18.1% | 💰 vendida anticipada | -4.17 |
 | AGUGava | Aston Villa FC vs. Arsenal FC: O/U 2.5 | Under (BUY) | 89% | 5.00 | 92.7% | 💰 vendida anticipada | +0.24 |
-| IQdegen | US Open ATP: Matteo Arnaldi vs James Duc | Matteo Arnaldi (BUY) | 53% | 5.00 | 45.6% | ❌ perdida | -5.12 |

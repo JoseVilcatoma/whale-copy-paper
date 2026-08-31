@@ -83575,5 +83575,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788217067.2773018,
     "fills": 1
+  },
+  {
+    "timestamp": 1788217730,
+    "timestamp_added": 1788217731.2122521,
+    "username": "Sassy-Bucket",
+    "wallet": "0x4bff30af91642dc7d2b19a8664378fe55c45fc26",
+    "slug": "mlb-mil-chc-2026-08-31-total-8pt5",
+    "title": "Milwaukee Brewers vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1843.9544999999998,
+    "whale_pct": 1.599,
+    "whale_value_at_open": 115350.2609,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788217731.212268,
+    "fills": 1
   }
 ]
