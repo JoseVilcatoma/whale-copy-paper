@@ -1,5 +1,5 @@
 {
-  "bankroll": 315.67273427481837,
+  "bankroll": 310.63973427481835,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16185,6 +16185,11 @@
       "timestamp": 1788144144.7710767,
       "bankroll": 315.67,
       "event": "lost: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Valorant: LOUD vs MIBR (BO3) - VCT Americas Stage 2 Playoffs"
+    },
+    {
+      "timestamp": 1788144887.5945332,
+      "bankroll": 310.64,
+      "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 11.5"
     }
   ]
 }

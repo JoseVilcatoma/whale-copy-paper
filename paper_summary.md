@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 21:53:50 (hora de Perú)
+Actualizado: 2026-08-30 21:55:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $315.67
-**Retorno acumulado:** -36.87%
-**Peor caída desde un máximo (drawdown):** 48.63%
+**Bankroll actual:** $310.64
+**Retorno acumulado:** -37.87%
+**Peor caída desde un máximo (drawdown):** 48.76%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 21:53:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $75.67)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $75.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -63,7 +63,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
-| HomeRunHazard | 417 | 223 | 2 | -2.35 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
@@ -82,6 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 2 | 2 | 0 | -5.15 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
+| HomeRunHazard | 417 | 224 | 1 | -7.38 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3085
+- **Apuestas resueltas:** 3086
 - **Aciertos:** 1957 (63.4%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,400.24
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $282.22 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,405.24
+- **ROI sobre lo apostado:** -1.86%
+- **Comisiones pagadas (taker fee):** $282.25 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -119,7 +119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1552 | 49.2% | 50.1% | -1.0 pp |
 | 60-79% | 915 | 69.8% | 67.9% | +2.0 pp |
-| 80-94% | 429 | 86.9% | 86.6% | +0.3 pp |
+| 80-94% | 430 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 189 | 96.3% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -642,7 +642,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
+| HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ❌ perdida | -5.03 |
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 3.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs SPARTA (+1. | SPARTA (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) -  | Spirit (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
