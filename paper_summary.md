@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:53:06 (hora de Perú)
+Actualizado: 2026-08-31 16:55:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $377.69
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:53:06 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $202.69)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $197.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -54,7 +54,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
-| Sunny24 | 1 | 0 | 2 | +2.17 USD |
+| Sunny24 | 1 | 0 | 3 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -666,12 +666,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunny24 | San Francisco Giants vs. Atlanta Braves: | Under (BUY) | 47% | 5.00 | 14.9% | ⏳ pendiente | — |
 | Sassy-Bucket | San Francisco Giants vs. Atlanta Braves: | Under (BUY) | 47% | 5.00 | 15.6% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Roman Andres Burruchaga vs  | Karen Khachanov (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | Spread: Tampa Bay Rays (-1.5) | New York Mets (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Luciano Darderi vs Harry We | Luciano Darderi (BUY) | 70% | 5.00 | 1.3% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Luciano Darderi vs Harry We | Luciano Darderi (BUY) | 70% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 2.3% | ⏳ pendiente | — |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
@@ -695,4 +696,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ❌ perdida | -5.05 |
 | vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ✅ ganada | +2.49 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ✅ ganada | +2.27 |
-| NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ❌ perdida | -5.11 |

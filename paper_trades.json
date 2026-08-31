@@ -83088,8 +83088,8 @@
     "title": "US Open WTA: Julia Grabher vs Sorana Cirstea",
     "outcome": "Sorana Cirstea",
     "side": "BUY",
-    "whale_usd": 5042.463320000001,
-    "whale_pct": 1.015,
+    "whale_usd": 12099.09249,
+    "whale_pct": 2.434,
     "whale_value_at_open": 497004.4884,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -83102,8 +83102,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788212817.7030833,
-    "fills": 2
+    "last_fill_at": 1788213196.208689,
+    "fills": 4
   },
   {
     "timestamp": 1788212643,
@@ -83140,8 +83140,8 @@
     "title": "US Open ATP: Luciano Darderi vs Harry Wendelken",
     "outcome": "Luciano Darderi",
     "side": "BUY",
-    "whale_usd": 5826.794622,
-    "whale_pct": 1.263,
+    "whale_usd": 15617.913522000003,
+    "whale_pct": 3.386,
     "whale_value_at_open": 461226.889,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -83152,8 +83152,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788213181.5516872,
-    "fills": 3
+    "last_fill_at": 1788213296.8811307,
+    "fills": 6
   },
   {
     "timestamp": 1788212844,
@@ -83225,6 +83225,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788213164.6710236,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788213211,
+    "timestamp_added": 1788213212.4124012,
+    "username": "Sunny24",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "mlb-sf-atl-2026-06-18-f5-total-4pt5",
+    "title": "San Francisco Giants vs. Atlanta Braves: 1st 5 Innings O/U 4.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 8999.999999000001,
+    "whale_pct": 14.863,
+    "whale_value_at_open": 60551.3378,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788213212.4124184,
     "fills": 1
   }
 ]
