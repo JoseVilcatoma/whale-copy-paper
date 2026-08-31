@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 06:18:17 (hora de Perú)
+Actualizado: 2026-08-31 06:20:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $316.86
-**Retorno acumulado:** -36.63%
+**Bankroll actual:** $322.75
+**Retorno acumulado:** -35.45%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 06:18:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $186.86)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $202.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 27 | 11 | 9 | +22.68 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 28 | 11 | 8 | +26.20 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -90,9 +90,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| AV23IUa | 14 | 12 | 1 | -15.98 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| AV23IUa | 13 | 12 | 2 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | RN1 | 465 | 220 | 7 | -30.03 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3122
-- **Aciertos:** 1983 (63.5%)
+- **Apuestas resueltas:** 3124
+- **Aciertos:** 1985 (63.5%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,585.24
-- **ROI sobre lo apostado:** -1.80%
-- **Comisiones pagadas (taker fee):** $284.88 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,595.24
+- **ROI sobre lo apostado:** -1.76%
+- **Comisiones pagadas (taker fee):** $285.06 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1563 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 927 | 69.8% | 67.9% | +1.9 pp |
+| 40-59% | 1564 | 49.3% | 50.1% | -0.8 pp |
+| 60-79% | 928 | 69.8% | 67.9% | +2.0 pp |
 | 80-94% | 439 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 193 | 96.4% | 97.4% | -1.0 pp |
 
@@ -664,7 +664,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ❌ perdida | -5.03 |
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 6.2% | ❌ perdida | -5.04 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs SPARTA (+1. | SPARTA (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
-| AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) -  | Spirit (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
+| AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) -  | Spirit (BUY) | 67% | 5.00 | 38.1% | ✅ ganada | +2.38 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 45% | 5.00 | 40.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 47% | 5.00 | 174.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 71% | 5.00 | 120.7% | ⏳ pendiente | — |

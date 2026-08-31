@@ -1,5 +1,5 @@
 {
-  "bankroll": 316.85740791330994,
+  "bankroll": 322.7537841356465,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16370,6 +16370,16 @@
       "timestamp": 1788163219.9556723,
       "bankroll": 316.86,
       "event": "won: RN1 \u2014 Will EC Bahia win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788175192.54422,
+      "bankroll": 320.37,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Spirit vs FURIA - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788175195.904505,
+      "bankroll": 322.75,
+      "event": "won: AV23IUa \u2014 Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A"
     }
   ]
 }
