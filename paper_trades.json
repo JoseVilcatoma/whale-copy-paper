@@ -81629,8 +81629,8 @@
     "title": "Counter-Strike: Color vs UPGRADE (BO3) - Moscow Cyber Games European Qualifier Playoffs",
     "outcome": "Color",
     "side": "BUY",
-    "whale_usd": 6107.786999999999,
-    "whale_pct": 7.959,
+    "whale_usd": 6806.499199999999,
+    "whale_pct": 8.869,
     "whale_value_at_open": 76743.3374,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -81641,8 +81641,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189762.1784582,
-    "fills": 3
+    "last_fill_at": 1788191113.123071,
+    "fills": 4
   },
   {
     "timestamp": 1788178510,
@@ -81876,8 +81876,8 @@
     "title": "Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 17701.9504,
-    "whale_pct": 11.142,
+    "whale_usd": 26891.864800000003,
+    "whale_pct": 16.926,
     "whale_value_at_open": 158881.107,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -81888,8 +81888,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788190204.0625365,
-    "fills": 2
+    "last_fill_at": 1788191113.0332756,
+    "fills": 3
   },
   {
     "timestamp": 1788189314,
@@ -81998,8 +81998,8 @@
     "title": "Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 5282.766,
-    "whale_pct": 3.576,
+    "whale_usd": 10877.749,
+    "whale_pct": 7.363,
     "whale_value_at_open": 147725.8468,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 42,
@@ -82010,8 +82010,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788190208.6935687,
-    "fills": 1
+    "last_fill_at": 1788191114.069847,
+    "fills": 2
   },
   {
     "timestamp": 1788190213,
@@ -82062,5 +82062,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788190650.09157,
     "fills": 11
+  },
+  {
+    "timestamp": 1788191110,
+    "timestamp_added": 1788191111.9745607,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-fut-vit-2026-08-31-game1",
+    "title": "Counter-Strike: FUT Esports vs Vitality - Map 1 Winner",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 1106.7618,
+    "whale_pct": 0.766,
+    "whale_value_at_open": 144440.5212,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788191111.9745722,
+    "fills": 1
   }
 ]
