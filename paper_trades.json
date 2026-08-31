@@ -83250,5 +83250,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788213212.4124184,
     "fills": 1
+  },
+  {
+    "timestamp": 1788213506,
+    "timestamp_added": 1788213506.8329759,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-blockx-barrios-2026-08-30",
+    "title": "US Open ATP: Alexander Blockx vs Tomas Barrios",
+    "outcome": "Alexander Blockx",
+    "side": "BUY",
+    "whale_usd": 4685.56,
+    "whale_pct": 1.114,
+    "whale_value_at_open": 420577.09,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788213506.832991,
+    "fills": 1
   }
 ]
