@@ -83374,5 +83374,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788214745.5393279,
     "fills": 3
+  },
+  {
+    "timestamp": 1788215040,
+    "timestamp_added": 1788215041.2192714,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "mlb-nyy-laa-2026-08-31",
+    "title": "New York Yankees vs. Los Angeles Angels",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 24499.999999,
+    "whale_pct": 22.876,
+    "whale_value_at_open": 107097.4881,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+      "Sunny24",
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788215041.2192843,
+    "fills": 1
   }
 ]
