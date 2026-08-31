@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 17:17:40 (hora de Perú)
+Actualizado: 2026-08-31 17:19:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $377.69
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 17:17:40 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $177.69)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $172.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -72,7 +72,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
-| NiNo999 | 2 | 2 | 3 | -3.08 USD |
+| NiNo999 | 2 | 2 | 4 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
@@ -668,6 +668,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| NiNo999 | Baltimore Orioles vs. Colorado Rockies:  | Over (BUY) | 63% | 5.00 | 30.9% | ⏳ pendiente | — |
 | NiNo999 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 79.3% | ⏳ pendiente | — |
 | NiNo999 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 5.00 | 549.3% | ⏳ pendiente | — |
 | RN1 | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -697,4 +698,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x0x23kjookhaiuohduoayh8c9 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 80% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 69% | 5.00 | 87.6% | ✅ ganada | +2.17 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 55% | 5.00 | 5.4% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | Will Atalanta BC win on 2026-08-31? | Yes (BUY) | 51% | 5.00 | 37.4% | ✅ ganada | +4.68 |
