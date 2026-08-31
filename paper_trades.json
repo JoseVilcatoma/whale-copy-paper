@@ -83040,8 +83040,8 @@
     "title": "US Open ATP: Dalibor Svrcina vs Valentin Royer",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 11684.359615,
-    "whale_pct": 2.347,
+    "whale_usd": 14303.719615,
+    "whale_pct": 2.873,
     "whale_value_at_open": 497936.2698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -83052,8 +83052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788213157.3195865,
-    "fills": 5
+    "last_fill_at": 1788213374.2992814,
+    "fills": 6
   },
   {
     "timestamp": 1788212602,
@@ -83212,8 +83212,8 @@
     "title": "San Francisco Giants vs. Atlanta Braves: O/U 8.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 4007.0719249999997,
-    "whale_pct": 15.64,
+    "whale_usd": 6560.991925,
+    "whale_pct": 25.609,
     "whale_value_at_open": 25620.1655,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -83224,8 +83224,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788213164.6710236,
-    "fills": 1
+    "last_fill_at": 1788213430.2309165,
+    "fills": 3
   },
   {
     "timestamp": 1788213211,
