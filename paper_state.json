@@ -1,5 +1,5 @@
 {
-  "bankroll": 320.7691100346637,
+  "bankroll": 310.5191100346637,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16405,6 +16405,16 @@
       "timestamp": 1788180451.695816,
       "bankroll": 320.77,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: HOTU (-1.5) vs SPARTA (+1.5)"
+    },
+    {
+      "timestamp": 1788181075.562508,
+      "bankroll": 315.64,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788181077.6651082,
+      "bankroll": 310.52,
+      "event": "lost: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner"
     }
   ]
 }
