@@ -82452,5 +82452,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788198118.189252,
     "fills": 1
+  },
+  {
+    "timestamp": 1788198241,
+    "timestamp_added": 1788198242.1763606,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "wta-koeverm-mcnally-2026-08-30-set-handicap-away-1pt5",
+    "title": "Set Handicap: McNally (-1.5) vs Koevermans (+1.5)",
+    "outcome": "McNally",
+    "side": "BUY",
+    "whale_usd": 11499.999999,
+    "whale_pct": 14.152,
+    "whale_value_at_open": 81257.7669,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788198242.1763725,
+    "fills": 1
   }
 ]
