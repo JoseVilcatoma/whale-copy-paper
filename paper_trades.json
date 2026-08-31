@@ -83064,8 +83064,8 @@
     "title": "US Open WTA: Ann Li vs Antonia Ruzic",
     "outcome": "Ann Li",
     "side": "BUY",
-    "whale_usd": 1022.3052000000001,
-    "whale_pct": 0.205,
+    "whale_usd": 1551.097138,
+    "whale_pct": 0.312,
     "whale_value_at_open": 497936.2698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -83076,8 +83076,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788212602.697311,
-    "fills": 1
+    "last_fill_at": 1788213956.8310008,
+    "fills": 2
   },
   {
     "timestamp": 1788212630,
