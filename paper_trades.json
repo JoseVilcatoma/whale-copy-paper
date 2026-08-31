@@ -81429,8 +81429,8 @@
     "title": "US Open WTA: Venus Williams vs Sofia Kenin",
     "outcome": "Sofia Kenin",
     "side": "BUY",
-    "whale_usd": 24578.939457,
-    "whale_pct": 13.13,
+    "whale_usd": 28442.939457,
+    "whale_pct": 15.195,
     "whale_value_at_open": 187190.8333,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -81441,8 +81441,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788150226.1153767,
-    "fills": 10
+    "last_fill_at": 1788151031.1825244,
+    "fills": 11
   },
   {
     "timestamp": 1788149882,
@@ -81453,8 +81453,8 @@
     "title": "US Open WTA: Venus Williams vs Sofia Kenin",
     "outcome": "Sofia Kenin",
     "side": "BUY",
-    "whale_usd": 15635.279000000002,
-    "whale_pct": 2.84,
+    "whale_usd": 20022.169100000003,
+    "whale_pct": 3.637,
     "whale_value_at_open": 550557.0807,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -81467,8 +81467,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788150226.1221516,
-    "fills": 5
+    "last_fill_at": 1788150987.2108562,
+    "fills": 6
   },
   {
     "timestamp": 1788150056,
