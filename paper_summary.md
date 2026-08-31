@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 21:43:36 (hora de Perú)
+Actualizado: 2026-08-30 21:45:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $315.67
@@ -647,8 +647,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs SPARTA (+1. | SPARTA (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) -  | Spirit (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 45% | 5.00 | 12.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 47% | 5.00 | 64.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 71% | 5.00 | 34.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 47% | 5.00 | 95.1% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 71% | 5.00 | 64.2% | ⏳ pendiente | — |
 | kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 84.9% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 47% | 5.00 | 51.0% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 74% | 5.00 | 59.5% | 💰 vendida anticipada | -1.57 |

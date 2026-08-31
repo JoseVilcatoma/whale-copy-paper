@@ -81084,8 +81084,8 @@
     "title": "Map Handicap: FAL (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 5991.351199999999,
-    "whale_pct": 34.554,
+    "whale_usd": 11130.967299999998,
+    "whale_pct": 64.195,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -81096,8 +81096,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788143397.9381704,
-    "fills": 2
+    "last_fill_at": 1788144301.1836042,
+    "fills": 3
   },
   {
     "timestamp": 1788142497,
@@ -81108,8 +81108,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 11248.5606,
-    "whale_pct": 64.873,
+    "whale_usd": 16486.6358,
+    "whale_pct": 95.083,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -81120,8 +81120,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788143400.3606172,
-    "fills": 2
+    "last_fill_at": 1788144299.3903096,
+    "fills": 3
   },
   {
     "timestamp": 1788142498,
