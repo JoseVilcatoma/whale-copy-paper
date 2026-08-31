@@ -1,5 +1,5 @@
 {
-  "bankroll": 378.3843392341545,
+  "bankroll": 373.2443392341545,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16705,6 +16705,11 @@
       "timestamp": 1788217261.5353796,
       "bankroll": 378.38,
       "event": "won: RN1 \u2014 US Open ATP: Dalibor Svrcina vs Valentin Royer"
+    },
+    {
+      "timestamp": 1788217446.487937,
+      "bankroll": 373.24,
+      "event": "lost: nigiri99 \u2014 US Open ATP: Yannick Hanfmann vs Alejandro Tabilo"
     }
   ]
 }
