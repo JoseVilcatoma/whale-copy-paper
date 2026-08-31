@@ -1,5 +1,5 @@
 {
-  "bankroll": 314.90591464197337,
+  "bankroll": 319.78091464197337,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16125,6 +16125,11 @@
       "timestamp": 1788136433.0636086,
       "bankroll": 314.91,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open ATP: Mariano Navone vs Novak Djokovic (-1.57 USD)"
+    },
+    {
+      "timestamp": 1788137980.2783325,
+      "bankroll": 319.78,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Fluxo W7M vs ShindeN (BO3) - ESL Challenger League South America Cup #1 Playoffs"
     }
   ]
 }
