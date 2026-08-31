@@ -1,5 +1,5 @@
 {
-  "bankroll": 319.79913626983506,
+  "bankroll": 317.2614439621428,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16450,6 +16450,16 @@
       "timestamp": 1788197866.342459,
       "bankroll": 319.8,
       "event": "won: SPCEXBUYER \u2014 Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788199718.672881,
+      "bankroll": 314.66,
+      "event": "lost: HomeRunHazard \u2014 Porto: Mika Petkovic vs Tiago Torres"
+    },
+    {
+      "timestamp": 1788199718.873197,
+      "bankroll": 317.26,
+      "event": "won: HomeRunHazard \u2014 Porto: Mika Petkovic vs Tiago Torres"
     }
   ]
 }
