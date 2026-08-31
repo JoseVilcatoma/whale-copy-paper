@@ -81741,5 +81741,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788184676.640185,
     "fills": 3
+  },
+  {
+    "timestamp": 1788185708,
+    "timestamp_added": 1788185708.7065272,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-wal2-33-2026-08-31",
+    "title": "Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Walczaki",
+    "side": "BUY",
+    "whale_usd": 1005.5894,
+    "whale_pct": 0.641,
+    "whale_value_at_open": 156994.7476,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788185708.7065403,
+    "fills": 1
   }
 ]
