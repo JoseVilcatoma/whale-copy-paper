@@ -1,5 +1,5 @@
 {
-  "bankroll": 307.36336355579044,
+  "bankroll": 303.21645994133263,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16425,6 +16425,16 @@
       "timestamp": 1788194762.463719,
       "bankroll": 307.36,
       "event": "lost: SPCEXBUYER \u2014 Counter-Strike: MOUZ vs Team Falcons - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788197742.6400943,
+      "bankroll": 302.24,
+      "event": "lost: NiNo999 \u2014 US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic"
+    },
+    {
+      "timestamp": 1788197744.184282,
+      "bankroll": 303.22,
+      "event": "won: beachboy4 \u2014 US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic"
     }
   ]
 }
