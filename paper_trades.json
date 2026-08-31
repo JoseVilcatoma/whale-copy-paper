@@ -81765,5 +81765,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788185708.7065403,
     "fills": 1
+  },
+  {
+    "timestamp": 1788186141,
+    "timestamp_added": 1788186141.8827446,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "atp-vachero-kovacev-2026-08-30",
+    "title": "US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic",
+    "outcome": "Aleksandar Kovacevic",
+    "side": "BUY",
+    "whale_usd": 24999.999999000003,
+    "whale_pct": 74.428,
+    "whale_value_at_open": 33589.6281,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788186141.8827553,
+    "fills": 1
   }
 ]
