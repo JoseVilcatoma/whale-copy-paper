@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 19:34:15 (hora de Perú)
+Actualizado: 2026-08-30 19:36:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $314.91
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 19:34:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $59.91)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $54.91)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| HVAB | 20 | 12 | 0 | +3.54 USD |
+| HVAB | 20 | 12 | 1 | +3.54 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -641,6 +641,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 47% | 5.00 | 51.0% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 74% | 5.00 | 59.5% | 💰 vendida anticipada | -1.57 |
 | nigiri99 | US Open ATP: Yannick Hanfmann vs Alejand | Yannick Hanfmann (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -670,4 +671,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will SE Palmeiras win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Over (BUY) | 43% | 5.00 | 3.7% | ⏳ pendiente | — |
 | nigiri99 | Will CF Monterrey win on 2026-08-30? | Yes (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
-| nigiri99 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
