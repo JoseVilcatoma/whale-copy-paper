@@ -1,5 +1,5 @@
 {
-  "bankroll": 316.4707225964706,
+  "bankroll": 317.2887660747314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16105,6 +16105,11 @@
       "timestamp": 1788133976.5039818,
       "bankroll": 316.47,
       "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Galorys vs Imperial (BO3) - ESL Challenger League South America Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1788134851.4886448,
+      "bankroll": 317.29,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season (+0.82 USD)"
     }
   ]
 }

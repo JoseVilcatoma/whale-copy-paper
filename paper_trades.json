@@ -80499,8 +80499,8 @@
     "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
     "outcome": "Novak Djokovic",
     "side": "BUY",
-    "whale_usd": 11385.598447,
-    "whale_pct": 4.541,
+    "whale_usd": 15123.598447,
+    "whale_pct": 6.031,
     "whale_value_at_open": 250750.6962,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -80511,8 +80511,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788133969.4809866,
-    "fills": 4
+    "last_fill_at": 1788134835.929925,
+    "fills": 5
   },
   {
     "timestamp": 1788133190,
@@ -80750,8 +80750,8 @@
     "title": "Connecticut Sun vs. Dallas Wings: O/U 165.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 2480.64,
-    "whale_pct": 0.875,
+    "whale_usd": 5400.639999999999,
+    "whale_pct": 1.905,
     "whale_value_at_open": 283552.3993,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -80762,8 +80762,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788134617.570514,
-    "fills": 3
+    "last_fill_at": 1788134750.1971934,
+    "fills": 6
   },
   {
     "timestamp": 1788134370,
@@ -80835,12 +80835,38 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
+    "status": "cerrada_venta",
+    "profit_usd": 0.82,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788134704.5359674,
+    "fills": 1,
+    "fee_total_usd": 0.269,
+    "closed_price": 56
+  },
+  {
+    "timestamp": 1788134786,
+    "timestamp_added": 1788134786.5454447,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-tol-jua-2026-08-30-jua",
+    "title": "Will FC Ju\u00e1rez win on 2026-08-30?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 702.0,
+    "whale_pct": 0.232,
+    "whale_value_at_open": 303108.8217,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
     "status": "pending",
     "profit_usd": 0.0,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788134704.5359674,
+    "last_fill_at": 1788134786.5454543,
     "fills": 1
   }
 ]
