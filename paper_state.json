@@ -1,5 +1,5 @@
 {
-  "bankroll": 322.7537841356465,
+  "bankroll": 323.2022753637167,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16380,6 +16380,16 @@
       "timestamp": 1788175195.904505,
       "bankroll": 322.75,
       "event": "won: AV23IUa \u2014 Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A"
+    },
+    {
+      "timestamp": 1788175506.8470209,
+      "bankroll": 323.0,
+      "event": "won: RN1 \u2014 Zhangjiagang: Enzo Aguiard vs Jesse Delaney"
+    },
+    {
+      "timestamp": 1788175506.947181,
+      "bankroll": 323.2,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Enzo Aguiard vs Jesse Delaney"
     }
   ]
 }
