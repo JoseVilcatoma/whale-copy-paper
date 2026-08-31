@@ -81395,5 +81395,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788148481.7071714,
     "fills": 1
+  },
+  {
+    "timestamp": 1788149457,
+    "timestamp_added": 1788149458.3416767,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "mlb-cws-hou-2026-08-31-nrfi",
+    "title": "Will there be a run scored in the first inning?: Chicago White Sox vs. Houston Astros",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 807.7199999999999,
+    "whale_pct": 0.328,
+    "whale_value_at_open": 246167.5919,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788149458.341688,
+    "fills": 1
   }
 ]
