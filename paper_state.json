@@ -1,5 +1,5 @@
 {
-  "bankroll": 322.0674947285534,
+  "bankroll": 324.6728024208611,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16145,6 +16145,11 @@
       "timestamp": 1788139026.051779,
       "bankroll": 322.07,
       "event": "lost: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season"
+    },
+    {
+      "timestamp": 1788139823.7878141,
+      "bankroll": 324.67,
+      "event": "won: nigiri99 \u2014 St. Louis City SC vs. FC Dallas: Both Teams to Score"
     }
   ]
 }
