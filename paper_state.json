@@ -1,5 +1,5 @@
 {
-  "bankroll": 294.07616488090184,
+  "bankroll": 294.4909474895975,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16235,6 +16235,11 @@
       "timestamp": 1788146567.803581,
       "bankroll": 294.08,
       "event": "won: RN1 \u2014 EC Bahia vs. SC Internacional: O/U 4.5"
+    },
+    {
+      "timestamp": 1788149311.9968364,
+      "bankroll": 294.49,
+      "event": "won: RN1 \u2014 Will FC Ju\u00e1rez win on 2026-08-30?"
     }
   ]
 }
