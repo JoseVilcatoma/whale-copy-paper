@@ -80994,5 +80994,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788135721.5666785,
     "fills": 1
+  },
+  {
+    "timestamp": 1788135916,
+    "timestamp_added": 1788135916.4959378,
+    "username": "OOOwhyOOO",
+    "wallet": "0x8546a601f7c7cc3dae7141f20b0e09e42bbf35b8",
+    "slug": "atp-navone-djokovi-2026-08-30",
+    "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+    "outcome": "Novak Djokovic",
+    "side": "BUY",
+    "whale_usd": 18501.207599999998,
+    "whale_pct": 59.48,
+    "whale_value_at_open": 31104.974,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 74,
+    "fee_usd": 0.065,
+    "odds_ballena": 73,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788135916.4959512,
+    "fills": 1
   }
 ]
