@@ -1,5 +1,5 @@
 {
-  "bankroll": 303.7667168840261,
+  "bankroll": 308.8427985166792,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16345,6 +16345,11 @@
       "timestamp": 1788162268.409922,
       "bankroll": 303.77,
       "event": "won: RN1 \u2014 Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788162584.9480557,
+      "bankroll": 308.84,
+      "event": "won: nigiri99 \u2014 Golden State Valkyries vs. Portland Fire: O/U 158.5"
     }
   ]
 }
