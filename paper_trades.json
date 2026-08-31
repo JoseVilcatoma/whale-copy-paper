@@ -82134,5 +82134,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788191719.0219657,
     "fills": 1
+  },
+  {
+    "timestamp": 1788191855,
+    "timestamp_added": 1788191855.8976164,
+    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+    "wallet": "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf",
+    "slug": "mlb-sea-bos-2026-08-31-total-8pt5",
+    "title": "Seattle Mariners vs. Boston Red Sox: O/U 8.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 26032.317865999998,
+    "whale_pct": 66.448,
+    "whale_value_at_open": 39176.8558,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788191858.3123589,
+    "fills": 3
   }
 ]
