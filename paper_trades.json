@@ -82476,5 +82476,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788198242.1763725,
     "fills": 1
+  },
+  {
+    "timestamp": 1788198283,
+    "timestamp_added": 1788198283.5270357,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "wta-snigur-shnaide-2026-08-30-game-handicap-away-4pt5",
+    "title": "Game Spread: Shnaider (-4.5) vs Snigur (+4.5)",
+    "outcome": "Snigur",
+    "side": "BUY",
+    "whale_usd": 1999.999999,
+    "whale_pct": 2.461,
+    "whale_value_at_open": 81257.7669,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 57,
+    "fee_usd": 0.108,
+    "odds_ballena": 56,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788198283.5270476,
+    "fills": 1
   }
 ]
