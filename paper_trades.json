@@ -81486,8 +81486,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -81560,8 +81560,8 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.59,
     "overlaps_with": [
       "RN1"
     ],
@@ -81619,5 +81619,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788176161.7512903,
     "fills": 3
+  },
+  {
+    "timestamp": 1788177619,
+    "timestamp_added": 1788177619.7419438,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-color-upgrad-2026-08-31",
+    "title": "Counter-Strike: Color vs UPGRADE (BO3) - Moscow Cyber Games European Qualifier Playoffs",
+    "outcome": "Color",
+    "side": "BUY",
+    "whale_usd": 2753.307,
+    "whale_pct": 3.588,
+    "whale_value_at_open": 76743.3374,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788177619.7419612,
+    "fills": 1
   }
 ]

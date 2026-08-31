@@ -1,5 +1,5 @@
 {
-  "bankroll": 323.2022753637167,
+  "bankroll": 325.8611100346637,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16390,6 +16390,16 @@
       "timestamp": 1788175506.947181,
       "bankroll": 323.2,
       "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Enzo Aguiard vs Jesse Delaney"
+    },
+    {
+      "timestamp": 1788177611.1619709,
+      "bankroll": 325.27,
+      "event": "won: RN1 \u2014 Zhangjiagang: Koki Matsuda vs Fanming Meng"
+    },
+    {
+      "timestamp": 1788177611.2621093,
+      "bankroll": 325.86,
+      "event": "won: HomeRunHazard \u2014 Zhangjiagang: Koki Matsuda vs Fanming Meng"
     }
   ]
 }
