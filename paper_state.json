@@ -1,5 +1,5 @@
 {
-  "bankroll": 308.8427985166792,
+  "bankroll": 316.85740791330994,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16350,6 +16350,26 @@
       "timestamp": 1788162584.9480557,
       "bankroll": 308.84,
       "event": "won: nigiri99 \u2014 Golden State Valkyries vs. Portland Fire: O/U 158.5"
+    },
+    {
+      "timestamp": 1788163217.363963,
+      "bankroll": 312.99,
+      "event": "won: nigiri99 \u2014 Will EC Bahia win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788163218.270147,
+      "bankroll": 314.68,
+      "event": "won: nigiri99 \u2014 Will Deportivo Toluca FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788163219.855473,
+      "bankroll": 316.55,
+      "event": "won: RN1 \u2014 Will Deportivo Toluca FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788163219.9556723,
+      "bankroll": 316.86,
+      "event": "won: RN1 \u2014 Will EC Bahia win on 2026-08-30?"
     }
   ]
 }
