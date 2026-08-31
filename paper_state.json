@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.81634531318184,
+  "bankroll": 378.98472212477606,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16725,6 +16725,11 @@
       "timestamp": 1788218503.813265,
       "bankroll": 376.82,
       "event": "won: RN1 \u2014 US Open ATP: Alexander Blockx vs Tomas Barrios"
+    },
+    {
+      "timestamp": 1788219370.2724938,
+      "bankroll": 378.98,
+      "event": "won: RN1 \u2014 US Open WTA: Ann Li vs Antonia Ruzic"
     }
   ]
 }

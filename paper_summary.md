@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 18:34:15 (hora de Perú)
+Actualizado: 2026-08-31 18:36:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $376.82
-**Retorno acumulado:** -24.64%
+**Bankroll actual:** $378.98
+**Retorno acumulado:** -24.20%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 18:34:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $201.82)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $208.98)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -97,8 +97,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
+| RN1 | 475 | 222 | 7 | -14.03 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| RN1 | 474 | 222 | 8 | -16.20 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3189
-- **Aciertos:** 2033 (63.8%)
+- **Apuestas resueltas:** 3190
+- **Aciertos:** 2034 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,920.24
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $291.10 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,925.24
+- **ROI sobre lo apostado:** -1.34%
+- **Comisiones pagadas (taker fee):** $291.18 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -126,7 +126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1597 | 49.5% | 50.1% | -0.6 pp |
-| 60-79% | 948 | 70.0% | 67.9% | +2.1 pp |
+| 60-79% | 949 | 70.1% | 67.9% | +2.2 pp |
 | 80-94% | 448 | 86.8% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
@@ -691,7 +691,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Luciano Darderi vs Harry We | Luciano Darderi (BUY) | 70% | 5.00 | 3.5% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 2.1% | ✅ ganada | +2.07 |
 | RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 2.4% | ✅ ganada | +0.53 |
-| RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.3% | ✅ ganada | +2.17 |
 | RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 4.0% | ✅ ganada | +0.98 |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Juncheng Shang vs Marco Tru | Marco Trungelliti (BUY) | 43% | 5.00 | 76362.1% | ⏳ pendiente | — |
