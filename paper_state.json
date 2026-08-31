@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.1787660747314,
+  "bankroll": 316.47398896629767,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16115,6 +16115,11 @@
       "timestamp": 1788135193.4455395,
       "bankroll": 317.18,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season (-0.11 USD)"
+    },
+    {
+      "timestamp": 1788135315.9078355,
+      "bankroll": 316.47,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko (-0.70 USD)"
     }
   ]
 }

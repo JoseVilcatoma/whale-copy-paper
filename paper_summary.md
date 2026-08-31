@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 19:13:44 (hora de Perú)
+Actualizado: 2026-08-30 19:15:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $317.18
-**Retorno acumulado:** -36.56%
+**Bankroll actual:** $316.47
+**Retorno acumulado:** -36.71%
 **Peor caída desde un máximo (drawdown):** 48.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 19:13:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $77.18)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $71.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 112 | 47 | 1 | +92.13 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 112 | 47 | 2 | +92.13 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -42,8 +42,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| HVAB | 20 | 10 | 1 | +5.81 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| HVAB | 20 | 11 | 0 | +5.11 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -95,7 +95,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 217 | 19 | -44.99 USD |
+| RN1 | 449 | 217 | 20 | -44.99 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
@@ -639,14 +639,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 78% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
 | RN1 | Will FC Juárez win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 46% | 5.00 | 2.3% | 💰 vendida anticipada | +0.82 |
 | RN1 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 72% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings: O/U 16 | Under (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 63% | 5.00 | 2.4% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 83% | 5.00 | 788.5% | ⏳ pendiente | — |
+| RN1 | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 63% | 5.00 | 2.9% | ⏳ pendiente | — |
+| OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 83% | 5.00 | 788.5% | 💰 vendida anticipada | -0.70 |
 | RN1 | Will SC Internacional win on 2026-08-30? | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Sebastian Gorzny vs Raphael | Sebastian Gorzny (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -667,5 +669,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Will Leones Futbol Club win on 2026-08-3 | No (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | Will Mirassol FC win on 2026-08-30? | No (BUY) | 89% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion - Game  | Shopify Rebellion (BUY) | 88% | 5.00 | 17.4% | ⏳ pendiente | — |
-| SDTrading | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 30.6% | ⏳ pendiente | — |

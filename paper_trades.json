@@ -80704,15 +80704,17 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.7,
     "overlaps_with": [
       "RN1"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788133932.0932581,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.102,
+    "closed_price": 73
   },
   {
     "timestamp": 1788134088,
@@ -80723,8 +80725,8 @@
     "title": "Cincinnati Reds vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 6954.2572,
-    "whale_pct": 2.388,
+    "whale_usd": 8415.8572,
+    "whale_pct": 2.889,
     "whale_value_at_open": 291267.4679,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -80738,8 +80740,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788135183.4107063,
-    "fills": 2
+    "last_fill_at": 1788135224.9337292,
+    "fills": 3
   },
   {
     "timestamp": 1788134323,
@@ -80894,5 +80896,53 @@
     "fills": 3,
     "fee_total_usd": 0.11,
     "closed_price": 78
+  },
+  {
+    "timestamp": 1788135293,
+    "timestamp_added": 1788135293.6537945,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mlb-cin-chc-2026-08-30-total-8pt5",
+    "title": "Cincinnati Reds vs. Chicago Cubs: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 900.05,
+    "whale_pct": 0.28,
+    "whale_value_at_open": 321263.2669,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788135293.653805,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788135338,
+    "timestamp_added": 1788135338.7053747,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-sr-2026-08-30",
+    "title": "LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "whale_usd": 1285.3,
+    "whale_pct": 1.704,
+    "whale_value_at_open": 75423.585,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788135340.9606402,
+    "fills": 2
   }
 ]
