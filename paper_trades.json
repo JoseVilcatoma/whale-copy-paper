@@ -81543,5 +81543,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788150532.679566,
     "fills": 1
+  },
+  {
+    "timestamp": 1788151433,
+    "timestamp_added": 1788151433.9698548,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-matsuda-meng-2026-08-30",
+    "title": "Zhangjiagang: Koki Matsuda vs Fanming Meng",
+    "outcome": "Koki Matsuda",
+    "side": "BUY",
+    "whale_usd": 2743.7886,
+    "whale_pct": 1.55,
+    "whale_value_at_open": 177030.1642,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788151435.9701176,
+    "fills": 3
   }
 ]
