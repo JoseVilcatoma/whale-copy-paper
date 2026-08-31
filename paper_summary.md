@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 10:25:11 (hora de Perú)
+Actualizado: 2026-08-31 10:27:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.52
@@ -656,7 +656,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 5.6% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 46% | 5.00 | 26.3% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 78.4% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 91.0% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Valentin Vacherot vs Aleksa | Aleksandar Kovacevic (BUY) | 49% | 5.00 | 74.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Walczaki vs BET-M 33 (BO | Walczaki (BUY) | 44% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
