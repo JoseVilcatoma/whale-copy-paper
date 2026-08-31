@@ -83040,8 +83040,8 @@
     "title": "US Open ATP: Dalibor Svrcina vs Valentin Royer",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 14303.719615,
-    "whale_pct": 2.873,
+    "whale_usd": 19747.867396,
+    "whale_pct": 3.966,
     "whale_value_at_open": 497936.2698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -83052,8 +83052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788213374.2992814,
-    "fills": 6
+    "last_fill_at": 1788213673.1449451,
+    "fills": 8
   },
   {
     "timestamp": 1788212602,

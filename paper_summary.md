@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:59:18 (hora de Perú)
+Actualizado: 2026-08-31 17:01:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $377.69
@@ -675,7 +675,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 2.4% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 2.9% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 4.0% | ⏳ pendiente | — |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Juncheng Shang vs Marco Tru | Marco Trungelliti (BUY) | 43% | 5.00 | 76362.1% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Julia Grabher vs Sorana Cir | Julia Grabher (BUY) | 41% | 5.00 | 398.4% | ⏳ pendiente | — |
