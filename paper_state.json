@@ -1,5 +1,5 @@
 {
-  "bankroll": 295.9083595168467,
+  "bankroll": 298.3991170926043,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16255,6 +16255,11 @@
       "timestamp": 1788150242.5922782,
       "bankroll": 295.91,
       "event": "won: HomeRunHazard \u2014 US Open ATP: Alexander Bublik vs J.J. Wolf"
+    },
+    {
+      "timestamp": 1788150362.2285118,
+      "bankroll": 298.4,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Voca vs Marsborne (BO3) - ESL Challenger League North America Cup #1 Playoffs"
     }
   ]
 }
