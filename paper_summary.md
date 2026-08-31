@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 00:58:53 (hora de Perú)
+Actualizado: 2026-08-31 01:00:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $303.07
@@ -650,7 +650,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Zhangjiagang: Khumoyun Sultanov vs Joshu | Khumoyun Sultanov (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
 | RN1 | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 4.0% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 5.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 23.2% | ⏳ pendiente | — |
 | nigiri99 | Will there be a run scored in the first  | No (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 76% | 5.00 | 0.5% | ✅ ganada | +1.52 |
