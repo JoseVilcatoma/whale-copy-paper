@@ -1,5 +1,5 @@
 {
-  "bankroll": 298.3991170926043,
+  "bankroll": 300.948107272637,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16260,6 +16260,31 @@
       "timestamp": 1788150362.2285118,
       "bankroll": 298.4,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Voca vs Marsborne (BO3) - ESL Challenger League North America Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1788150485.7193096,
+      "bankroll": 293.38,
+      "event": "lost: RN1 \u2014 US Open ATP: Mariano Navone vs Novak Djokovic"
+    },
+    {
+      "timestamp": 1788150486.6208572,
+      "bankroll": 298.88,
+      "event": "won: OOOwhyOOO \u2014 US Open ATP: Mariano Navone vs Novak Djokovic"
+    },
+    {
+      "timestamp": 1788150487.6452508,
+      "bankroll": 293.85,
+      "event": "lost: HomeRunHazard \u2014 US Open ATP: Mariano Navone vs Novak Djokovic"
+    },
+    {
+      "timestamp": 1788150487.745456,
+      "bankroll": 298.34,
+      "event": "won: HomeRunHazard \u2014 US Open ATP: Mariano Navone vs Novak Djokovic"
+    },
+    {
+      "timestamp": 1788150487.8456526,
+      "bankroll": 300.95,
+      "event": "won: RN1 \u2014 US Open ATP: Mariano Navone vs Novak Djokovic"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 23:27:12 (hora de Perú)
+Actualizado: 2026-08-30 23:29:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $298.40
-**Retorno acumulado:** -40.32%
+**Bankroll actual:** $300.95
+**Retorno acumulado:** -39.81%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 23:27:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $78.40)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $100.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -44,7 +45,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| HVAB | 20 | 12 | 1 | +3.54 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 24 | 13 | 8 | +2.72 USD |
@@ -81,8 +81,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 2 | 2 | 0 | -5.15 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 418 | 224 | 4 | -7.33 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
+| HomeRunHazard | 419 | 225 | 3 | -7.87 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
@@ -94,7 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 13 | 12 | 2 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 458 | 218 | 16 | -28.37 USD |
+| RN1 | 459 | 219 | 14 | -30.78 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -102,14 +102,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3100
-- **Aciertos:** 1965 (63.4%)
+- **Apuestas resueltas:** 3105
+- **Aciertos:** 1968 (63.4%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,475.24
-- **ROI sobre lo apostado:** -1.93%
-- **Comisiones pagadas (taker fee):** $283.42 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.10% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,500.24
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $283.81 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,9 +117,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1557 | 49.1% | 50.1% | -1.0 pp |
-| 60-79% | 920 | 69.7% | 67.8% | +1.8 pp |
-| 80-94% | 432 | 86.8% | 86.6% | +0.2 pp |
+| 40-59% | 1559 | 49.2% | 50.1% | -0.9 pp |
+| 60-79% | 921 | 69.7% | 67.8% | +1.9 pp |
+| 80-94% | 434 | 86.4% | 86.6% | -0.2 pp |
 | 95-99% (casi seguro) | 191 | 96.3% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -644,6 +644,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Zhangjiagang: Khumoyun Sultanov vs Joshu | Khumoyun Sultanov (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 2.8% | ⏳ pendiente | — |
@@ -653,17 +654,17 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Monterrey vs. Atlético San Luis: O/U  | Under (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Hiroki Moriya vs S D Prajw | Hiroki Moriya (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open ATP: Alexander Bublik vs J.J. Wo | Alexander Bublik (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
-| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 65% | 5.00 | 9.1% | ⏳ pendiente | — |
-| HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 52% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 65% | 5.00 | 9.1% | ✅ ganada | +2.61 |
+| HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 52% | 5.00 | 1.7% | ✅ ganada | +4.50 |
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ❌ perdida | -5.03 |
-| HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 6.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 6.2% | ❌ perdida | -5.04 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs SPARTA (+1. | SPARTA (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) -  | Spirit (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 45% | 5.00 | 40.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 47% | 5.00 | 174.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 71% | 5.00 | 120.7% | ⏳ pendiente | — |
 | kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 84.9% | ⏳ pendiente | — |
-| OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 47% | 5.00 | 51.0% | ⏳ pendiente | — |
+| OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 47% | 5.00 | 51.0% | ✅ ganada | +5.51 |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 74% | 5.00 | 59.5% | 💰 vendida anticipada | -1.57 |
 | nigiri99 | US Open ATP: Yannick Hanfmann vs Alejand | Yannick Hanfmann (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -673,4 +674,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will FC Juárez win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 46% | 5.00 | 2.3% | 💰 vendida anticipada | +0.82 |
 | RN1 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 72% | 5.00 | 1.5% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
