@@ -83088,8 +83088,8 @@
     "title": "US Open WTA: Julia Grabher vs Sorana Cirstea",
     "outcome": "Sorana Cirstea",
     "side": "BUY",
-    "whale_usd": 2105.114953,
-    "whale_pct": 0.424,
+    "whale_usd": 5042.463320000001,
+    "whale_pct": 1.015,
     "whale_value_at_open": 497004.4884,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -83102,8 +83102,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788212630.4071715,
-    "fills": 1
+    "last_fill_at": 1788212817.7030833,
+    "fills": 2
   },
   {
     "timestamp": 1788212643,
@@ -83153,6 +83153,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788212794.809973,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788212844,
+    "timestamp_added": 1788212845.2729118,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "mlb-nym-tb-2026-08-31-spread-home-1pt5",
+    "title": "Spread: Tampa Bay Rays (-1.5)",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 788.827722,
+    "whale_pct": 1.87,
+    "whale_value_at_open": 42181.446,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788212845.2729275,
     "fills": 1
   }
 ]

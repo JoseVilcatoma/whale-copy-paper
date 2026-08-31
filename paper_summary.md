@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:46:56 (hora de Perú)
+Actualizado: 2026-08-31 16:49:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.32
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:46:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $204.32)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $199.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,7 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | +0.00 USD |
+| 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
@@ -666,9 +666,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x0x23kjookhaiuohduoayh8c9 | Spread: Tampa Bay Rays (-1.5) | New York Mets (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Luciano Darderi vs Harry We | Luciano Darderi (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 1.0% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
@@ -695,4 +696,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ❌ perdida | -5.11 |
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ✅ ganada | +4.32 |
-| HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
