@@ -81146,5 +81146,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788142499.2363448,
     "fills": 1
+  },
+  {
+    "timestamp": 1788142715,
+    "timestamp_added": 1788142715.546179,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "cs2-ts7-furia-2026-08-30",
+    "title": "Counter-Strike: Spirit vs FURIA (BO3) - BLAST Open Porto Group A",
+    "outcome": "Spirit",
+    "side": "BUY",
+    "whale_usd": 64388.12820000001,
+    "whale_pct": 38.088,
+    "whale_value_at_open": 169051.2867,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788142716.016177,
+    "fills": 2
   }
 ]
