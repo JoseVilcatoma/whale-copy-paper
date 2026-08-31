@@ -1,5 +1,5 @@
 {
-  "bankroll": 303.06886652247016,
+  "bankroll": 298.3421643948106,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16305,6 +16305,21 @@
       "timestamp": 1788152864.8624325,
       "bankroll": 303.07,
       "event": "won: RN1 \u2014 Will Leones Futbol Club win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788156880.1821556,
+      "bankroll": 297.98,
+      "event": "lost: nigiri99 \u2014 Will CF Monterrey win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788156881.9843802,
+      "bankroll": 303.48,
+      "event": "won: kekasaur \u2014 Will CF Monterrey win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788156883.6719933,
+      "bankroll": 298.34,
+      "event": "lost: RN1 \u2014 CF Monterrey vs. Atl\u00e9tico San Luis: O/U 3.5"
     }
   ]
 }
