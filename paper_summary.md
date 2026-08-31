@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:30:35 (hora de Perú)
+Actualizado: 2026-08-31 16:32:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:30:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $205.01)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $195.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -53,7 +53,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
-| Sunny24 | 1 | 0 | 0 | +2.17 USD |
+| Sunny24 | 1 | 0 | 1 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AGUGava | 1 | 1 | 0 | -3.93 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| monkeymashingkeyboard | 0 | 1 | 2 | -5.08 USD |
+| monkeymashingkeyboard | 0 | 1 | 3 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -656,12 +656,15 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-fut-vit-2026-08-31 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | cs2-fut-vit-2026-08-31-game2 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Sunny24 |
 | epl-ast-ars-2026-08-31-ars | BBQChickenisthebesttt, vito3corleone |
+| mlb-nyy-laa-2026-08-31 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, Sunny24, monkeymashingkeyboard |
 | wta-volynet-noskova-2026-08-30 | 0xwise, AGUGava |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunny24 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 56% | 5.00 | 51.7% | ⏳ pendiente | — |
+| monkeymashingkeyboard | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 46% | 5.00 | 39.4% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 56% | 5.00 | 18.1% | 💰 vendida anticipada | -4.17 |
 | AGUGava | Aston Villa FC vs. Arsenal FC: O/U 2.5 | Under (BUY) | 89% | 5.00 | 92.7% | 💰 vendida anticipada | +0.24 |
 | IQdegen | US Open ATP: Matteo Arnaldi vs James Duc | Matteo Arnaldi (BUY) | 53% | 5.00 | 45.6% | ❌ perdida | -5.12 |
@@ -690,5 +693,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Mika Petkovic (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
 | HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Stefanos Tsitsipas (BUY) | 49% | 5.00 | 1.1% | ✅ ganada | +5.08 |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Tiago Torres (BUY) | 43% | 5.00 | 0.6% | ❌ perdida | -5.14 |
-| HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Arthur Fils (BUY) | 54% | 5.00 | 0.9% | ❌ perdida | -5.12 |
-| HomeRunHazard | US Open WTA: Qinwen Zheng vs Kristina Li | Qinwen Zheng (BUY) | 91% | 5.00 | 3.4% | ✅ ganada | +0.47 |

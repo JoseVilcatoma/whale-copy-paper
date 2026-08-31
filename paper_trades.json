@@ -82903,5 +82903,58 @@
     "fills": 1,
     "fee_total_usd": 0.154,
     "closed_price": 11
+  },
+  {
+    "timestamp": 1788211919,
+    "timestamp_added": 1788211920.0595214,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-nyy-laa-2026-08-31",
+    "title": "New York Yankees vs. Los Angeles Angels",
+    "outcome": "Los Angeles Angels",
+    "side": "BUY",
+    "whale_usd": 9000.0,
+    "whale_pct": 39.387,
+    "whale_value_at_open": 22850.4119,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 46,
+    "fee_usd": 0.135,
+    "odds_ballena": 45,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788211920.05954,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788211919,
+    "timestamp_added": 1788211920.7973888,
+    "username": "Sunny24",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "mlb-nyy-laa-2026-08-31",
+    "title": "New York Yankees vs. Los Angeles Angels",
+    "outcome": "New York Yankees",
+    "side": "BUY",
+    "whale_usd": 17999.999998999996,
+    "whale_pct": 51.692,
+    "whale_value_at_open": 34821.7258,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788211920.7974072,
+    "fills": 1
   }
 ]
