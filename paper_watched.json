@@ -2,61 +2,61 @@
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1788029671.8277488,
-    "roi_pct": 2789.01,
+    "roi_pct": 2834.19,
     "short_term_pct": 90.0
   },
   "0x0e604be17c231a33dc01e38a722c7fe3984e3bad": {
     "username": "0xwise",
     "added_at": 1788150721.1927211,
-    "roi_pct": 613.06,
+    "roi_pct": 501.33,
     "short_term_pct": 100.0
   },
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1788183996.7097065,
-    "roi_pct": 338.27,
+    "roi_pct": 344.28,
     "short_term_pct": 80.0
   },
   "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c": {
     "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
     "added_at": 1788188194.1274817,
-    "roi_pct": 421.73,
+    "roi_pct": 1123.6,
     "short_term_pct": 100.0
   },
   "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
     "username": "beachboy4",
     "added_at": 1788197543.030405,
-    "roi_pct": 220.4,
-    "short_term_pct": 100.0
-  },
-  "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8": {
-    "username": "fRibrenlc",
-    "added_at": 1788200345.339315,
-    "roi_pct": 163.96,
+    "roi_pct": 220.16,
     "short_term_pct": 100.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1788201276.8401415,
-    "roi_pct": 224.08,
+    "roi_pct": 224.42,
     "short_term_pct": 100.0
   },
   "0x088ba59031e4bac4cc7b344581e3d908258221cc": {
     "username": "IQdegen",
     "added_at": 1788207346.7624018,
-    "roi_pct": 254.08,
-    "short_term_pct": 100.0
-  },
-  "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21": {
-    "username": "HongYunX",
-    "added_at": 1788207346.7624075,
-    "roi_pct": 166.3,
+    "roi_pct": 192.64,
     "short_term_pct": 100.0
   },
   "0x0353aaf82abbd3e69c00059df0a825bc198fc2ff": {
     "username": "AGUGava",
     "added_at": 1788208283.151857,
-    "roi_pct": 792.05,
+    "roi_pct": 1230.34,
+    "short_term_pct": 100.0
+  },
+  "0x4bff30af91642dc7d2b19a8664378fe55c45fc26": {
+    "username": "Sassy-Bucket",
+    "added_at": 1788210613.5496478,
+    "roi_pct": 16718.73,
+    "short_term_pct": 100.0
+  },
+  "0x208927449ac85131e4f34d0c499bfae71a24712e": {
+    "username": "Sunny24",
+    "added_at": 1788210613.549663,
+    "roi_pct": 502.41,
     "short_term_pct": 100.0
   }
 }
