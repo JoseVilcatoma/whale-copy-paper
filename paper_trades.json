@@ -82746,5 +82746,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788204446.7817025,
     "fills": 1
+  },
+  {
+    "timestamp": 1788206701,
+    "timestamp_added": 1788206701.8930907,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-sf-atl-2026-06-18",
+    "title": "San Francisco Giants vs. Atlanta Braves",
+    "outcome": "Atlanta Braves",
+    "side": "BUY",
+    "whale_usd": 6389.0176,
+    "whale_pct": 38.431,
+    "whale_value_at_open": 16624.544,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788206701.8931043,
+    "fills": 1
   }
 ]
