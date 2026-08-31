@@ -82500,5 +82500,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788198283.5270476,
     "fills": 1
+  },
+  {
+    "timestamp": 1788199319,
+    "timestamp_added": 1788199320.0446167,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "cs2-fut-vit-2026-08-31",
+    "title": "Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B",
+    "outcome": "Vitality",
+    "side": "BUY",
+    "whale_usd": 503.82741200000004,
+    "whale_pct": 0.463,
+    "whale_value_at_open": 108725.9659,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788199320.0446262,
+    "fills": 1
   }
 ]
