@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 13:29:35 (hora de Perú)
+Actualizado: 2026-08-31 13:31:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $317.78
@@ -653,7 +653,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 99.3% | ⏳ pendiente | — |
+| vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 175.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ⏳ pendiente | — |
 | NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
