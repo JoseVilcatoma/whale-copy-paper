@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 20:35:41 (hora de Perú)
+Actualizado: 2026-08-30 20:37:43 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $329.96
@@ -642,7 +642,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 83.4% | ⏳ pendiente | — |
+| kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 84.9% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 47% | 5.00 | 51.0% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 74% | 5.00 | 59.5% | 💰 vendida anticipada | -1.57 |
 | nigiri99 | US Open ATP: Yannick Hanfmann vs Alejand | Yannick Hanfmann (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
