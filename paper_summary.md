@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 19:21:51 (hora de Perú)
+Actualizado: 2026-08-30 19:23:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $316.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 19:21:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $66.47)
+**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $61.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| quavoo | 21 | 10 | 12 | +8.21 USD |
+| quavoo | 21 | 10 | 13 | +8.21 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
@@ -640,6 +640,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | US Open ATP: Yannick Hanfmann vs Alejand | Yannick Hanfmann (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 50% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
@@ -666,7 +667,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will SE Palmeiras win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Over (BUY) | 43% | 5.00 | 3.7% | ⏳ pendiente | — |
-| nigiri99 | Will CF Monterrey win on 2026-08-30? | Yes (BUY) | 63% | 5.00 | 0.7% | ⏳ pendiente | — |
+| nigiri99 | Will CF Monterrey win on 2026-08-30? | Yes (BUY) | 63% | 5.00 | 1.0% | ⏳ pendiente | — |
 | nigiri99 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 74% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. Chicago Cubs | Cincinnati Reds (BUY) | 41% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | Will Leones Futbol Club win on 2026-08-3 | No (BUY) | 94% | 5.00 | 0.4% | ⏳ pendiente | — |

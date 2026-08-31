@@ -80297,8 +80297,8 @@
     "title": "Will CF Monterrey win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1796.0407999999998,
-    "whale_pct": 0.714,
+    "whale_usd": 2413.1807999999996,
+    "whale_pct": 0.96,
     "whale_value_at_open": 251372.0285,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -80309,8 +80309,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788135182.9691014,
-    "fills": 3
+    "last_fill_at": 1788135806.7245598,
+    "fills": 4
   },
   {
     "timestamp": 1788132419,
@@ -80969,6 +80969,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788135689.3188834,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788135720,
+    "timestamp_added": 1788135721.566668,
+    "username": "nigiri99",
+    "wallet": "0xdc41c39b95453c943174f369926018f6963bdd7e",
+    "slug": "atp-hanfman-tabilo-2026-08-30",
+    "title": "US Open ATP: Yannick Hanfmann vs Alejandro Tabilo",
+    "outcome": "Yannick Hanfmann",
+    "side": "BUY",
+    "whale_usd": 557.28,
+    "whale_pct": 0.188,
+    "whale_value_at_open": 296096.0865,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788135721.5666785,
     "fills": 1
   }
 ]
