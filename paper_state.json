@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.2887660747314,
+  "bankroll": 317.1787660747314,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16110,6 +16110,11 @@
       "timestamp": 1788134851.4886448,
       "bankroll": 317.29,
       "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season (+0.82 USD)"
+    },
+    {
+      "timestamp": 1788135193.4455395,
+      "bankroll": 317.18,
+      "event": "venta anticipada: 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 \u2014 LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season (-0.11 USD)"
     }
   ]
 }

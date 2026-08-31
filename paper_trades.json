@@ -80297,8 +80297,8 @@
     "title": "Will CF Monterrey win on 2026-08-30?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1221.8408,
-    "whale_pct": 0.486,
+    "whale_usd": 1796.0407999999998,
+    "whale_pct": 0.714,
     "whale_value_at_open": 251372.0285,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -80309,8 +80309,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788134161.2653134,
-    "fills": 2
+    "last_fill_at": 1788135182.9691014,
+    "fills": 3
   },
   {
     "timestamp": 1788132419,
@@ -80723,8 +80723,8 @@
     "title": "Cincinnati Reds vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 6211.16,
-    "whale_pct": 2.132,
+    "whale_usd": 6954.2572,
+    "whale_pct": 2.388,
     "whale_value_at_open": 291267.4679,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -80738,8 +80738,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788134089.1759024,
-    "fills": 1
+    "last_fill_at": 1788135183.4107063,
+    "fills": 2
   },
   {
     "timestamp": 1788134323,
@@ -80885,12 +80885,14 @@
     "odds_at_bet": 78,
     "fee_usd": 0.055,
     "odds_ballena": 76,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788135103.4923377,
-    "fills": 3
+    "fills": 3,
+    "fee_total_usd": 0.11,
+    "closed_price": 78
   }
 ]
