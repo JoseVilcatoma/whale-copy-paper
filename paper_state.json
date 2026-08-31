@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.0525792676332,
+  "bankroll": 382.25257926763317,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16735,6 +16735,11 @@
       "timestamp": 1788220008.0695395,
       "bankroll": 381.05,
       "event": "won: RN1 \u2014 US Open ATP: Luciano Darderi vs Harry Wendelken"
+    },
+    {
+      "timestamp": 1788220637.3549132,
+      "bankroll": 382.25,
+      "event": "won: RN1 \u2014 US Open ATP: Roman Andres Burruchaga vs Karen Khachanov"
     }
   ]
 }

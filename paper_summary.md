@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 18:56:43 (hora de Perú)
+Actualizado: 2026-08-31 18:58:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $381.05
-**Retorno acumulado:** -23.79%
+**Bankroll actual:** $382.25
+**Retorno acumulado:** -23.55%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 18:56:43 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $216.05)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $222.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,8 +96,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
+| RN1 | 477 | 222 | 5 | -10.76 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
-| RN1 | 476 | 222 | 6 | -11.96 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3191
-- **Aciertos:** 2035 (63.8%)
+- **Apuestas resueltas:** 3192
+- **Aciertos:** 2036 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,930.24
+- **Total apostado (suma de stakes):** $15,935.24
 - **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $291.25 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $291.30 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -127,7 +127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1597 | 49.5% | 50.1% | -0.6 pp |
 | 60-79% | 950 | 70.1% | 67.9% | +2.2 pp |
-| 80-94% | 448 | 86.8% | 86.7% | +0.1 pp |
+| 80-94% | 449 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -686,7 +686,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Alexander Blockx vs Tomas B | Alexander Blockx (BUY) | 94% | 5.00 | 1.1% | ✅ ganada | +0.30 |
 | Sunny24 | San Francisco Giants vs. Atlanta Braves: | Under (BUY) | 47% | 5.00 | 14.9% | ⏳ pendiente | — |
 | Sassy-Bucket | San Francisco Giants vs. Atlanta Braves: | Under (BUY) | 47% | 5.00 | 25.6% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Roman Andres Burruchaga vs  | Karen Khachanov (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Roman Andres Burruchaga vs  | Karen Khachanov (BUY) | 80% | 5.00 | 0.2% | ✅ ganada | +1.20 |
 | 0x0x23kjookhaiuohduoayh8c9 | Spread: Tampa Bay Rays (-1.5) | New York Mets (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Luciano Darderi vs Harry We | Luciano Darderi (BUY) | 70% | 5.00 | 3.5% | ✅ ganada | +2.07 |
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 2.1% | ✅ ganada | +2.07 |
