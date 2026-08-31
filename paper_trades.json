@@ -82646,5 +82646,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788202290.207201,
     "fills": 3
+  },
+  {
+    "timestamp": 1788202914,
+    "timestamp_added": 1788202914.4852686,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "epl-ast-ars-2026-08-31-ars",
+    "title": "Will Arsenal FC win on 2026-08-31?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 19943.279400000003,
+    "whale_pct": 87.597,
+    "whale_value_at_open": 22767.0777,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "vito3corleone"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788202919.563492,
+    "fills": 6
   }
 ]
