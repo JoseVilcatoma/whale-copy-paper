@@ -82956,5 +82956,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788211920.7974072,
     "fills": 1
+  },
+  {
+    "timestamp": 1788212057,
+    "timestamp_added": 1788212057.5237813,
+    "username": "AGUGava",
+    "wallet": "0x0353aaf82abbd3e69c00059df0a825bc198fc2ff",
+    "slug": "wta-grabher-cirstea-2026-08-30",
+    "title": "US Open WTA: Julia Grabher vs Sorana Cirstea",
+    "outcome": "Julia Grabher",
+    "side": "BUY",
+    "whale_usd": 9774.133059,
+    "whale_pct": 398.373,
+    "whale_value_at_open": 2453.5145,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788212060.390703,
+    "fills": 4
   }
 ]

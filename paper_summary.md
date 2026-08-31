@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:32:38 (hora de Perú)
+Actualizado: 2026-08-31 16:34:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $360.01
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:32:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $195.01)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $190.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,7 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
-| AGUGava | 1 | 1 | 0 | -3.93 USD |
+| AGUGava | 1 | 1 | 1 | -3.93 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | monkeymashingkeyboard | 0 | 1 | 3 | -5.08 USD |
@@ -663,6 +663,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AGUGava | US Open WTA: Julia Grabher vs Sorana Cir | Julia Grabher (BUY) | 41% | 5.00 | 398.4% | ⏳ pendiente | — |
 | Sunny24 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 56% | 5.00 | 51.7% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 46% | 5.00 | 39.4% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 56% | 5.00 | 18.1% | 💰 vendida anticipada | -4.17 |
@@ -692,4 +693,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Mika Petkovic (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
 | HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Stefanos Tsitsipas (BUY) | 49% | 5.00 | 1.1% | ✅ ganada | +5.08 |
-| HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Tiago Torres (BUY) | 43% | 5.00 | 0.6% | ❌ perdida | -5.14 |
