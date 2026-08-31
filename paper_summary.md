@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 10:14:41 (hora de Perú)
+Actualizado: 2026-08-31 10:16:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 10:14:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $180.52)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $160.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,13 +22,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
-| BOOMBOYS.Kiritych | 37 | 17 | 2 | +63.68 USD |
+| BOOMBOYS.Kiritych | 37 | 17 | 3 | +63.68 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 28 | 13 | 11 | +15.99 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 28 | 13 | 14 | +15.99 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -649,15 +649,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 46% | 5.00 | 6.0% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 43.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Color (-1.5) vs UPGRADE (+ | Color (BUY) | 43% | 5.00 | 1.7% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 5.6% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 46% | 5.00 | 20.3% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 56.5% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Valentin Vacherot vs Aleksa | Aleksandar Kovacevic (BUY) | 49% | 5.00 | 74.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Walczaki vs BET-M 33 (BO | Walczaki (BUY) | 44% | 5.00 | 2.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Walczaki vs BET-M 33 (BO | Walczaki (BUY) | 44% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SAW Youngsters vs Honvéd | SAW Youngsters (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: ex-RUSTEC (-1.5) vs Bushid | Bushido Wildcats (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: BW (-1.5) vs ex-RUSTEC (+1 | ex-RUSTEC (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs UPGRADE (BO3) - | Color (BUY) | 70% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs UPGRADE (BO3) - | Color (BUY) | 70% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 11.0% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs Aurora Gaming | Aurora Gaming (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 89% | 5.00 | 1.6% | ✅ ganada | +0.59 |
@@ -675,7 +679,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 52% | 5.00 | 1.7% | ✅ ganada | +4.50 |
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ❌ perdida | -5.03 |
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 6.2% | ❌ perdida | -5.04 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs SPARTA (+1. | SPARTA (BUY) | 63% | 5.00 | 2.3% | ❌ perdida | -5.09 |
-| AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) -  | Spirit (BUY) | 67% | 5.00 | 38.1% | ✅ ganada | +2.38 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 45% | 5.00 | 40.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 47% | 5.00 | 174.1% | ⏳ pendiente | — |
