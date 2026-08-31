@@ -1,5 +1,5 @@
 {
-  "bankroll": 298.3421643948106,
+  "bankroll": 299.88910904088885,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16320,6 +16320,21 @@
       "timestamp": 1788156883.6719933,
       "bankroll": 298.34,
       "event": "lost: RN1 \u2014 CF Monterrey vs. Atl\u00e9tico San Luis: O/U 3.5"
+    },
+    {
+      "timestamp": 1788158146.4014547,
+      "bankroll": 298.99,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Venus Williams vs Sofia Kenin"
+    },
+    {
+      "timestamp": 1788158151.4747627,
+      "bankroll": 299.58,
+      "event": "won: HomeRunHazard \u2014 US Open WTA: Venus Williams vs Sofia Kenin"
+    },
+    {
+      "timestamp": 1788158151.5749016,
+      "bankroll": 299.89,
+      "event": "won: RN1 \u2014 US Open WTA: Venus Williams vs Sofia Kenin"
     }
   ]
 }

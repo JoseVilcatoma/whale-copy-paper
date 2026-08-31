@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 01:33:51 (hora de Perú)
+Actualizado: 2026-08-31 01:35:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $298.34
-**Retorno acumulado:** -40.33%
+**Bankroll actual:** $299.89
+**Retorno acumulado:** -40.02%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 01:33:51 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $123.34)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $139.89)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 420 | 225 | 3 | -7.62 USD |
+| HomeRunHazard | 421 | 225 | 2 | -7.03 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -95,21 +95,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 2 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 461 | 220 | 11 | -34.10 USD |
+| RN1 | 462 | 220 | 10 | -33.80 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 373 | 234 | 2 | -147.47 USD |
+| ferrariChampions2026 | 374 | 234 | 1 | -146.82 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3112
-- **Aciertos:** 1973 (63.4%)
+- **Apuestas resueltas:** 3115
+- **Aciertos:** 1976 (63.4%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,535.24
-- **ROI sobre lo apostado:** -1.92%
-- **Comisiones pagadas (taker fee):** $284.27 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.09% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,550.24
+- **ROI sobre lo apostado:** -1.91%
+- **Comisiones pagadas (taker fee):** $284.34 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -119,7 +119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1561 | 49.2% | 50.1% | -0.9 pp |
 | 60-79% | 923 | 69.7% | 67.9% | +1.8 pp |
-| 80-94% | 435 | 86.4% | 86.7% | -0.2 pp |
+| 80-94% | 438 | 86.5% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 193 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -650,8 +650,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | Zhangjiagang: Khumoyun Sultanov vs Joshu | Khumoyun Sultanov (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
 | RN1 | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 5.6% | ⏳ pendiente | — |
-| HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 23.2% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 5.6% | ✅ ganada | +0.30 |
+| HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 23.2% | ✅ ganada | +0.59 |
 | nigiri99 | Will there be a run scored in the first  | No (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 76% | 5.00 | 0.5% | ✅ ganada | +1.52 |
 | RN1 | CF Monterrey vs. Atlético San Luis: O/U  | Under (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
