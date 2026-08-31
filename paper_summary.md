@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:18:09 (hora de Perú)
+Actualizado: 2026-08-31 16:20:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $355.35
-**Retorno acumulado:** -28.93%
+**Bankroll actual:** $360.01
+**Retorno acumulado:** -28.00%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:18:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $190.35)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $205.01)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
+| BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -59,7 +60,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 6 | 1 | 1 | +1.74 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
-| BBQChickenisthebesttt | 2 | 1 | 1 | +1.32 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
@@ -70,6 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
+| vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
@@ -85,7 +86,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | IQdegen | 0 | 1 | 1 | -5.12 USD |
-| vito3corleone | 2 | 2 | 1 | -5.15 USD |
 | HomeRunHazard | 428 | 227 | 3 | -5.44 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3164
-- **Aciertos:** 2015 (63.7%)
+- **Apuestas resueltas:** 3166
+- **Aciertos:** 2017 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,795.24
-- **ROI sobre lo apostado:** -1.49%
-- **Comisiones pagadas (taker fee):** $288.73 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.33% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,805.24
+- **ROI sobre lo apostado:** -1.46%
+- **Comisiones pagadas (taker fee):** $288.89 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -126,7 +126,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1584 | 49.4% | 50.1% | -0.7 pp |
-| 60-79% | 941 | 70.0% | 67.9% | +2.1 pp |
+| 60-79% | 943 | 70.1% | 67.9% | +2.2 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
@@ -671,12 +671,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunny24 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 39.3% | ✅ ganada | +2.17 |
 | monkeymashingkeyboard | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 55% | 5.00 | 179.3% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 80% | 5.00 | 2.3% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 69% | 5.00 | 87.6% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 69% | 5.00 | 87.6% | ✅ ganada | +2.17 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 55% | 5.00 | 5.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Atalanta BC win on 2026-08-31? | Yes (BUY) | 51% | 5.00 | 37.4% | ✅ ganada | +4.68 |
 | BBQChickenisthebesttt | CA Osasuna vs. Getafe CF: O/U 2.5 | Under (BUY) | 74% | 5.00 | 21.4% | ✅ ganada | +1.69 |
 | BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ❌ perdida | -5.05 |
-| vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ⏳ pendiente | — |
+| vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ✅ ganada | +2.49 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ✅ ganada | +2.27 |
 | NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ❌ perdida | -5.11 |
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |

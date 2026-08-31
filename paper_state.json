@@ -1,5 +1,5 @@
 {
-  "bankroll": 355.3546823713711,
+  "bankroll": 360.0138167587229,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16595,6 +16595,16 @@
       "timestamp": 1788210883.0506356,
       "bankroll": 355.35,
       "event": "lost: IQdegen \u2014 US Open ATP: Matteo Arnaldi vs James Duckworth"
+    },
+    {
+      "timestamp": 1788211194.7515624,
+      "bankroll": 357.85,
+      "event": "won: vito3corleone \u2014 Will Arsenal FC win on 2026-08-31?"
+    },
+    {
+      "timestamp": 1788211195.0543125,
+      "bankroll": 360.01,
+      "event": "won: BBQChickenisthebesttt \u2014 Will Arsenal FC win on 2026-08-31?"
     }
   ]
 }
