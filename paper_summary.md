@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 09:29:32 (hora de Perú)
+Actualizado: 2026-08-31 09:31:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.52
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 09:29:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $190.52)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $185.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -22,7 +22,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
-| BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
+| BOOMBOYS.Kiritych | 37 | 17 | 1 | +63.68 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -640,7 +640,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | wta-birrell-marcink-2026-08-30 | OOOwhyOOO, RN1 |
 | atp-navone-djokovi-2026-08-30 | HomeRunHazard, OOOwhyOOO, RN1 |
 | cs2-g2-aur1-2026-08-31-game1 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
-| cs2-mouz-fal2-2026-08-31 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
+| cs2-mouz-fal2-2026-08-31 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, SPCEXBUYER |
 | atp-palan-leong-2026-08-30 | RN1, ferrariChampions2026 |
 | atp-matsuda-meng-2026-08-30 | HomeRunHazard, RN1 |
 
@@ -648,8 +648,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 1.2% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Valentin Vacherot vs Aleksa | Aleksandar Kovacevic (BUY) | 49% | 5.00 | 74.4% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Walczaki vs BET-M 33 (BO | Walczaki (BUY) | 44% | 5.00 | 0.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Walczaki vs BET-M 33 (BO | Walczaki (BUY) | 44% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SAW Youngsters vs Honvéd | SAW Youngsters (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: ex-RUSTEC (-1.5) vs Bushid | Bushido Wildcats (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
@@ -677,4 +678,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 45% | 5.00 | 40.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 47% | 5.00 | 174.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 71% | 5.00 | 120.7% | ⏳ pendiente | — |
-| kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 84.9% | ✅ ganada | +5.51 |
