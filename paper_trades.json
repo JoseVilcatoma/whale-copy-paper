@@ -81569,5 +81569,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788151435.9701176,
     "fills": 3
+  },
+  {
+    "timestamp": 1788155118,
+    "timestamp_added": 1788155119.6003244,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-g2-aur1-2026-08-31-map-handicap-away-1pt5",
+    "title": "Map Handicap: G2 (-1.5) vs Aurora Gaming (+1.5)",
+    "outcome": "Aurora Gaming",
+    "side": "BUY",
+    "whale_usd": 1148.637,
+    "whale_pct": 1.377,
+    "whale_value_at_open": 83414.4097,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788155119.600334,
+    "fills": 1
   }
 ]
