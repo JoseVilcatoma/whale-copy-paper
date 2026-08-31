@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.3089490126478,
+  "bankroll": 317.7814545071533,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16465,6 +16465,11 @@
       "timestamp": 1788199781.1176238,
       "bankroll": 317.31,
       "event": "won: HomeRunHazard \u2014 US Open WTA: Harriet Dart vs Peyton Stearns"
+    },
+    {
+      "timestamp": 1788199966.79032,
+      "bankroll": 317.78,
+      "event": "won: HomeRunHazard \u2014 US Open WTA: Qinwen Zheng vs Kristina Liutova"
     }
   ]
 }
