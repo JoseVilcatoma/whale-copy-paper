@@ -81316,8 +81316,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 98,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -81429,8 +81429,8 @@
     "title": "US Open WTA: Venus Williams vs Sofia Kenin",
     "outcome": "Sofia Kenin",
     "side": "BUY",
-    "whale_usd": 17120.934656999998,
-    "whale_pct": 9.146,
+    "whale_usd": 24578.939457,
+    "whale_pct": 13.13,
     "whale_value_at_open": 187190.8333,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 89,
@@ -81441,8 +81441,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788150181.043036,
-    "fills": 8
+    "last_fill_at": 1788150226.1153767,
+    "fills": 10
   },
   {
     "timestamp": 1788149882,
@@ -81453,8 +81453,8 @@
     "title": "US Open WTA: Venus Williams vs Sofia Kenin",
     "outcome": "Sofia Kenin",
     "side": "BUY",
-    "whale_usd": 6522.376400000001,
-    "whale_pct": 1.185,
+    "whale_usd": 15635.279000000002,
+    "whale_pct": 2.84,
     "whale_value_at_open": 550557.0807,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 94,
@@ -81467,8 +81467,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788150181.2499337,
-    "fills": 2
+    "last_fill_at": 1788150226.1221516,
+    "fills": 5
   },
   {
     "timestamp": 1788150056,
@@ -81492,6 +81492,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788150056.931016,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788150205,
+    "timestamp_added": 1788150205.5347826,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-palan-leong-2026-08-30",
+    "title": "Zhangjiagang: Dominik Palan vs Mitsuki Wei Kang Leong",
+    "outcome": "Mitsuki Wei Kang Leong",
+    "side": "BUY",
+    "whale_usd": 1246.8979310000002,
+    "whale_pct": 0.743,
+    "whale_value_at_open": 167825.1467,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 97,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788150205.5347927,
     "fills": 1
   }
 ]

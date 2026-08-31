@@ -1,5 +1,5 @@
 {
-  "bankroll": 295.86085446634166,
+  "bankroll": 295.9083595168467,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16250,6 +16250,11 @@
       "timestamp": 1788149433.8845031,
       "bankroll": 295.86,
       "event": "won: RN1 \u2014 Deportivo Toluca FC vs. FC Ju\u00e1rez: O/U 3.5"
+    },
+    {
+      "timestamp": 1788150242.5922782,
+      "bankroll": 295.91,
+      "event": "won: HomeRunHazard \u2014 US Open ATP: Alexander Bublik vs J.J. Wolf"
     }
   ]
 }
