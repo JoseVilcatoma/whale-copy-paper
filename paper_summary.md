@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 10:29:20 (hora de Perú)
+Actualizado: 2026-08-31 10:31:24 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $312.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 10:29:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $162.49)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $147.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 29 | 13 | 13 | +17.96 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 29 | 13 | 15 | +17.96 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -59,7 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | beachboy4 | 5 | 1 | 1 | +0.76 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 0 | +0.56 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 1 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | NiNo999 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -650,10 +650,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs FUT Esports  | Vitality (BUY) | 42% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
 | SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Color (-1.5) vs UPGRADE (+ | Color (BUY) | 43% | 5.00 | 1.7% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 5.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 11.1% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 46% | 5.00 | 26.3% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 91.0% | ⏳ pendiente | — |
@@ -677,6 +680,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | CF Monterrey vs. Atlético San Luis: O/U  | Under (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
 | HomeRunHazard | Zhangjiagang: Hiroki Moriya vs S D Prajw | Hiroki Moriya (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
 | HomeRunHazard | US Open ATP: Alexander Bublik vs J.J. Wo | Alexander Bublik (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
-| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 65% | 5.00 | 9.1% | ✅ ganada | +2.61 |
-| HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 52% | 5.00 | 1.7% | ✅ ganada | +4.50 |
-| HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ❌ perdida | -5.03 |
