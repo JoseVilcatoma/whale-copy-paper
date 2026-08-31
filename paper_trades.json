@@ -82690,8 +82690,8 @@
     "odds_at_bet": 80,
     "fee_usd": 0.05,
     "odds_ballena": 78,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.2,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -83122,8 +83122,8 @@
     "odds_at_bet": 70,
     "fee_usd": 0.075,
     "odds_ballena": 69,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.07,
     "overlaps_with": [
       "0x0x23kjookhaiuohduoayh8c9"
     ],

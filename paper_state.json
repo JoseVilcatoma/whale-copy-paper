@@ -1,5 +1,5 @@
 {
-  "bankroll": 373.2443392341545,
+  "bankroll": 376.5121963770116,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16710,6 +16710,16 @@
       "timestamp": 1788217446.487937,
       "bankroll": 373.24,
       "event": "lost: nigiri99 \u2014 US Open ATP: Yannick Hanfmann vs Alejandro Tabilo"
+    },
+    {
+      "timestamp": 1788218375.9427207,
+      "bankroll": 374.44,
+      "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 US Open ATP: Matteo Berrettini vs Stan Wawrinka"
+    },
+    {
+      "timestamp": 1788218377.1270566,
+      "bankroll": 376.51,
+      "event": "won: RN1 \u2014 US Open ATP: Matteo Berrettini vs Stan Wawrinka"
     }
   ]
 }

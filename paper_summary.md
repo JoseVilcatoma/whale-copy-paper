@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 18:17:37 (hora de Perú)
+Actualizado: 2026-08-31 18:19:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $373.24
-**Retorno acumulado:** -25.35%
+**Bankroll actual:** $376.51
+**Retorno acumulado:** -24.70%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 18:17:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $183.24)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $196.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -60,11 +60,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
+| 0x0x23kjookhaiuohduoayh8c9 | 1 | 0 | 2 | +1.20 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
@@ -99,8 +99,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
+| RN1 | 473 | 222 | 9 | -16.50 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| RN1 | 472 | 222 | 10 | -18.57 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3186
-- **Aciertos:** 2030 (63.7%)
+- **Apuestas resueltas:** 3188
+- **Aciertos:** 2032 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,905.24
-- **ROI sobre lo apostado:** -1.37%
-- **Comisiones pagadas (taker fee):** $290.96 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.45% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,915.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $291.08 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -126,8 +126,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1597 | 49.5% | 50.1% | -0.6 pp |
-| 60-79% | 947 | 70.0% | 67.9% | +2.1 pp |
-| 80-94% | 446 | 86.8% | 86.7% | +0.1 pp |
+| 60-79% | 948 | 70.0% | 67.9% | +2.1 pp |
+| 80-94% | 447 | 86.8% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -689,7 +689,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Roman Andres Burruchaga vs  | Karen Khachanov (BUY) | 80% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | Spread: Tampa Bay Rays (-1.5) | New York Mets (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Luciano Darderi vs Harry We | Luciano Darderi (BUY) | 70% | 5.00 | 3.5% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 2.1% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 2.1% | ✅ ganada | +2.07 |
 | RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 2.4% | ✅ ganada | +0.53 |
 | RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 4.0% | ✅ ganada | +0.98 |
