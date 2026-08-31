@@ -81653,8 +81653,8 @@
     "title": "Map Handicap: BW (-1.5) vs ex-RUSTEC (+1.5)",
     "outcome": "ex-RUSTEC",
     "side": "BUY",
-    "whale_usd": 18401.1621,
-    "whale_pct": 22.477,
+    "whale_usd": 21997.6974,
+    "whale_pct": 26.87,
     "whale_value_at_open": 81868.3207,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -81665,8 +81665,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788179413.7426648,
-    "fills": 2
+    "last_fill_at": 1788180312.3972595,
+    "fills": 3
   },
   {
     "timestamp": 1788178512,
@@ -81677,8 +81677,8 @@
     "title": "Map Handicap: ex-RUSTEC (-1.5) vs Bushido Wildcats (+1.5)",
     "outcome": "Bushido Wildcats",
     "side": "BUY",
-    "whale_usd": 18438.9174,
-    "whale_pct": 22.523,
+    "whale_usd": 22055.7456,
+    "whale_pct": 26.941,
     "whale_value_at_open": 81868.3207,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -81689,7 +81689,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788179415.1363897,
-    "fills": 2
+    "last_fill_at": 1788180315.2396975,
+    "fills": 3
   }
 ]
