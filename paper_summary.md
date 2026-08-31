@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 21:51:47 (hora de Perú)
+Actualizado: 2026-08-30 21:53:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $315.67
@@ -643,7 +643,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ⏳ pendiente | — |
-| HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 3.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: HOTU (-1.5) vs SPARTA (+1. | SPARTA (BUY) | 63% | 5.00 | 2.3% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: Spirit vs FURIA (BO3) -  | Spirit (BUY) | 67% | 5.00 | 38.1% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 45% | 5.00 | 12.5% | ⏳ pendiente | — |

@@ -81204,8 +81204,8 @@
     "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
     "outcome": "Novak Djokovic",
     "side": "BUY",
-    "whale_usd": 2829.3815999999997,
-    "whale_pct": 1.109,
+    "whale_usd": 8589.3815,
+    "whale_pct": 3.366,
     "whale_value_at_open": 255142.8452,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -81219,8 +81219,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788143685.9331622,
-    "fills": 3
+    "last_fill_at": 1788144808.1587338,
+    "fills": 4
   },
   {
     "timestamp": 1788143649,
