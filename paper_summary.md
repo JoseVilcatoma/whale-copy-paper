@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 00:00:34 (hora de Perú)
+Actualizado: 2026-08-31 00:02:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $301.20
-**Retorno acumulado:** -39.76%
+**Bankroll actual:** $302.76
+**Retorno acumulado:** -39.45%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 00:00:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $101.20)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $112.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -94,22 +94,22 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 13 | 12 | 2 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 459 | 219 | 14 | -30.78 USD |
+| RN1 | 460 | 219 | 13 | -29.26 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 372 | 234 | 3 | -147.52 USD |
+| ferrariChampions2026 | 373 | 234 | 2 | -147.47 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3106
-- **Aciertos:** 1969 (63.4%)
+- **Apuestas resueltas:** 3108
+- **Aciertos:** 1971 (63.4%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,505.24
-- **ROI sobre lo apostado:** -1.91%
-- **Comisiones pagadas (taker fee):** $283.83 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.08% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,515.24
+- **ROI sobre lo apostado:** -1.90%
+- **Comisiones pagadas (taker fee):** $283.89 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -118,9 +118,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1559 | 49.2% | 50.1% | -0.9 pp |
-| 60-79% | 921 | 69.7% | 67.8% | +1.9 pp |
+| 60-79% | 922 | 69.7% | 67.9% | +1.9 pp |
 | 80-94% | 434 | 86.4% | 86.6% | -0.2 pp |
-| 95-99% (casi seguro) | 192 | 96.4% | 97.4% | -1.0 pp |
+| 95-99% (casi seguro) | 193 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -647,12 +647,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | HomeRunHazard | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 89% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Khumoyun Sultanov vs Joshu | Khumoyun Sultanov (BUY) | 68% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
 | RN1 | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 70% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 94% | 5.00 | 3.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Venus Williams vs Sofia Ken | Sofia Kenin (BUY) | 89% | 5.00 | 23.2% | ⏳ pendiente | — |
 | nigiri99 | Will there be a run scored in the first  | No (BUY) | 55% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 76% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 76% | 5.00 | 0.5% | ✅ ganada | +1.52 |
 | RN1 | CF Monterrey vs. Atlético San Luis: O/U  | Under (BUY) | 44% | 5.00 | 0.1% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Hiroki Moriya vs S D Prajw | Hiroki Moriya (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
 | HomeRunHazard | US Open ATP: Alexander Bublik vs J.J. Wo | Alexander Bublik (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |

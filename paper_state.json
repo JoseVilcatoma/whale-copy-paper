@@ -1,5 +1,5 @@
 {
-  "bankroll": 301.19826516737385,
+  "bankroll": 302.7647175862999,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16290,6 +16290,16 @@
       "timestamp": 1788151802.8671653,
       "bankroll": 301.2,
       "event": "won: HomeRunHazard \u2014 Zhangjiagang: Hiroki Moriya vs S D Prajwal Dev"
+    },
+    {
+      "timestamp": 1788152555.6023667,
+      "bankroll": 302.72,
+      "event": "won: RN1 \u2014 Zhangjiagang: Dominik Palan vs Mitsuki Wei Kang Leong"
+    },
+    {
+      "timestamp": 1788152556.103481,
+      "bankroll": 302.76,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Dominik Palan vs Mitsuki Wei Kang Leong"
     }
   ]
 }

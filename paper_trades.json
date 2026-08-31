@@ -81388,8 +81388,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -81510,8 +81510,8 @@
     "odds_at_bet": 99,
     "fee_usd": 0.003,
     "odds_ballena": 97,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.05,
     "overlaps_with": [
       "RN1"
     ],
