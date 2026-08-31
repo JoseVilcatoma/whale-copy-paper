@@ -80750,8 +80750,8 @@
     "title": "Connecticut Sun vs. Dallas Wings: O/U 165.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 934.0799999999999,
-    "whale_pct": 0.329,
+    "whale_usd": 1719.84,
+    "whale_pct": 0.607,
     "whale_value_at_open": 283552.3993,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -80762,8 +80762,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788134324.378763,
-    "fills": 1
+    "last_fill_at": 1788134437.4961195,
+    "fills": 2
   },
   {
     "timestamp": 1788134370,
@@ -80792,5 +80792,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788134371.174809,
     "fills": 1
+  },
+  {
+    "timestamp": 1788134460,
+    "timestamp_added": 1788134461.1092634,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "mex-tol-jua-2026-08-30-tol",
+    "title": "Will Deportivo Toluca FC win on 2026-08-30?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 1614.2199999999998,
+    "whale_pct": 0.539,
+    "whale_value_at_open": 299632.2604,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "nigiri99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788134461.5540354,
+    "fills": 2
   }
 ]
