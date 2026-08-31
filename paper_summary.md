@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 11:27:26 (hora de Perú)
+Actualizado: 2026-08-31 11:29:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $312.49
@@ -653,7 +653,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 59% | 5.00 | 66.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 9.4% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 252.9% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 297.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Valentin Vacherot vs Aleksa | Valentin Vacherot (BUY) | 83% | 5.00 | 164.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
