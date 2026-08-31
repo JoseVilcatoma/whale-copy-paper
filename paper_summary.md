@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 13:37:52 (hora de Perú)
+Actualizado: 2026-08-31 13:39:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $337.61
-**Retorno acumulado:** -32.48%
+**Bankroll actual:** $337.57
+**Retorno acumulado:** -32.49%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 13:37:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $142.61)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $147.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -62,6 +62,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 4 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | fRibrenlc | 0 | 0 | 1 | +0.00 USD |
+| BBQChickenisthebesttt | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -82,7 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 0 | 1 | 3 | -5.13 USD |
 | vito3corleone | 2 | 2 | 1 | -5.15 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
-| HomeRunHazard | 426 | 226 | 6 | -6.18 USD |
+| HomeRunHazard | 427 | 227 | 4 | -6.22 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -104,13 +105,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3147
-- **Aciertos:** 2002 (63.6%)
-- **Cuota promedio de entrada:** 63.5%
+- **Apuestas resueltas:** 3149
+- **Aciertos:** 2003 (63.6%)
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,710.24
+- **Total apostado (suma de stakes):** $15,720.24
 - **ROI sobre lo apostado:** -1.65%
-- **Comisiones pagadas (taker fee):** $287.09 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $287.33 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -119,7 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1575 | 49.3% | 50.1% | -0.8 pp |
+| 40-59% | 1577 | 49.3% | 50.1% | -0.8 pp |
 | 60-79% | 934 | 69.9% | 67.9% | +2.0 pp |
 | 80-94% | 442 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
@@ -653,6 +654,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 39.6% | ⏳ pendiente | — |
 | vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ⏳ pendiente | — |
 | NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
@@ -665,9 +667,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Mika Petkovic (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
-| HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Stefanos Tsitsipas (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
+| HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Stefanos Tsitsipas (BUY) | 49% | 5.00 | 1.1% | ✅ ganada | +5.08 |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Tiago Torres (BUY) | 43% | 5.00 | 0.6% | ❌ perdida | -5.14 |
-| HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Arthur Fils (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
+| HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Arthur Fils (BUY) | 54% | 5.00 | 0.9% | ❌ perdida | -5.12 |
 | HomeRunHazard | US Open WTA: Qinwen Zheng vs Kristina Li | Qinwen Zheng (BUY) | 91% | 5.00 | 3.4% | ✅ ganada | +0.47 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 59% | 5.00 | 66.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 9.4% | ⏳ pendiente | — |
@@ -682,4 +684,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Color (-1.5) vs UPGRADE (+ | Color (BUY) | 43% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 16.9% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 50% | 5.00 | 0.4% | ❌ perdida | -5.12 |
-| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 46% | 5.00 | 31.5% | ✅ ganada | +5.73 |

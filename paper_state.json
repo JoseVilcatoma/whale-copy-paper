@@ -1,5 +1,5 @@
 {
-  "bankroll": 337.61065430244696,
+  "bankroll": 337.57173593510004,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16495,6 +16495,16 @@
       "timestamp": 1788201280.198321,
       "bankroll": 337.61,
       "event": "won: SPCEXBUYER \u2014 Map Handicap: FAL (-1.5) vs MOUZ (+1.5)"
+    },
+    {
+      "timestamp": 1788201592.275904,
+      "bankroll": 332.5,
+      "event": "lost: HomeRunHazard \u2014 US Open ATP: Stefanos Tsitsipas vs Arthur Fils"
+    },
+    {
+      "timestamp": 1788201592.3760471,
+      "bankroll": 337.57,
+      "event": "won: HomeRunHazard \u2014 US Open ATP: Stefanos Tsitsipas vs Arthur Fils"
     }
   ]
 }
