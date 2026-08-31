@@ -1,5 +1,5 @@
 {
-  "bankroll": 316.47398896629767,
+  "bankroll": 314.90591464197337,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16120,6 +16120,11 @@
       "timestamp": 1788135315.9078355,
       "bankroll": 316.47,
       "event": "venta anticipada: OOOwhyOOO \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko (-0.70 USD)"
+    },
+    {
+      "timestamp": 1788136433.0636086,
+      "bankroll": 314.91,
+      "event": "venta anticipada: OOOwhyOOO \u2014 US Open ATP: Mariano Navone vs Novak Djokovic (-1.57 USD)"
     }
   ]
 }
