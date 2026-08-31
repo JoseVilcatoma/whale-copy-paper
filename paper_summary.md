@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 10:27:15 (hora de Perú)
+Actualizado: 2026-08-31 10:29:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $310.52
-**Retorno acumulado:** -37.90%
+**Bankroll actual:** $312.49
+**Retorno acumulado:** -37.50%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 10:27:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $155.52)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $162.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 28 | 13 | 14 | +15.99 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 29 | 13 | 13 | +17.96 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -103,14 +103,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3131
-- **Aciertos:** 1989 (63.5%)
+- **Apuestas resueltas:** 3132
+- **Aciertos:** 1990 (63.5%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,630.24
-- **ROI sobre lo apostado:** -1.83%
-- **Comisiones pagadas (taker fee):** $285.53 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,635.24
+- **ROI sobre lo apostado:** -1.82%
+- **Comisiones pagadas (taker fee):** $285.60 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -119,7 +119,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1566 | 49.2% | 50.1% | -0.9 pp |
-| 60-79% | 930 | 69.8% | 67.9% | +1.9 pp |
+| 60-79% | 931 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 440 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 195 | 96.4% | 97.4% | -1.0 pp |
 
@@ -665,7 +665,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: BW (-1.5) vs ex-RUSTEC (+1 | ex-RUSTEC (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs UPGRADE (BO3) - | Color (BUY) | 70% | 5.00 | 8.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 11.0% | ❌ perdida | -5.12 |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs Aurora Gaming | Aurora Gaming (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs Aurora Gaming | Aurora Gaming (BUY) | 71% | 5.00 | 1.4% | ✅ ganada | +1.97 |
 | HomeRunHazard | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 89% | 5.00 | 1.6% | ✅ ganada | +0.59 |
 | HomeRunHazard | Zhangjiagang: Khumoyun Sultanov vs Joshu | Khumoyun Sultanov (BUY) | 68% | 5.00 | 0.5% | ✅ ganada | +2.27 |
 | ferrariChampions2026 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
