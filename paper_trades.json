@@ -81084,8 +81084,8 @@
     "title": "Map Handicap: FAL (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 15676.740099999997,
-    "whale_pct": 90.412,
+    "whale_usd": 20184.884299999998,
+    "whale_pct": 116.412,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -81096,8 +81096,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788146116.4366655,
-    "fills": 5
+    "last_fill_at": 1788147014.221794,
+    "fills": 6
   },
   {
     "timestamp": 1788142497,
@@ -81108,8 +81108,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 25359.6762,
-    "whale_pct": 146.256,
+    "whale_usd": 30188.376300000004,
+    "whale_pct": 174.105,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -81120,8 +81120,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788146114.798429,
-    "fills": 5
+    "last_fill_at": 1788147017.9906359,
+    "fills": 6
   },
   {
     "timestamp": 1788142498,
@@ -81132,8 +81132,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 4446.8218,
-    "whale_pct": 25.646,
+    "whale_usd": 7095.672,
+    "whale_pct": 40.923,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -81144,8 +81144,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788146119.4247012,
-    "fills": 3
+    "last_fill_at": 1788147020.860769,
+    "fills": 4
   },
   {
     "timestamp": 1788142715,
@@ -81244,6 +81244,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788143650.097927,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788146989,
+    "timestamp_added": 1788146989.4169092,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "atp-navone-djokovi-2026-08-30",
+    "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
+    "outcome": "Mariano Navone",
+    "side": "BUY",
+    "whale_usd": 3357.9981000000002,
+    "whale_pct": 1.691,
+    "whale_value_at_open": 198542.892,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "OOOwhyOOO",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788146989.4169173,
     "fills": 1
   }
 ]
