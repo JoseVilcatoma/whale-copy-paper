@@ -81091,8 +81091,8 @@
     "odds_at_bet": 71,
     "fee_usd": 0.073,
     "odds_ballena": 70,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -81115,8 +81115,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.51,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -81732,8 +81732,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7"
     ],
@@ -81806,8 +81806,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7",
       "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140"
@@ -81955,8 +81955,8 @@
     "odds_at_bet": 73,
     "fee_usd": 0.068,
     "odds_ballena": 72,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.78,
     "overlaps_with": [
       "0x29b52d98ac9ef9414b04164246c95BC63d7"
     ],
@@ -82536,8 +82536,8 @@
     "title": "Will Arsenal FC win on 2026-08-31?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 2400902.1533000004,
-    "whale_pct": 229.195,
+    "whale_usd": 2566335.1133000003,
+    "whale_pct": 244.987,
     "whale_value_at_open": 1047537.8072,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 66,
@@ -82548,7 +82548,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788201220.3218248,
-    "fills": 11
+    "last_fill_at": 1788201245.2539585,
+    "fills": 12
   }
 ]

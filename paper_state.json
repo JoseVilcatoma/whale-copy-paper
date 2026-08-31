@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.7814545071533,
+  "bankroll": 337.61065430244696,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16470,6 +16470,31 @@
       "timestamp": 1788199966.79032,
       "bankroll": 317.78,
       "event": "won: HomeRunHazard \u2014 US Open WTA: Qinwen Zheng vs Kristina Liutova"
+    },
+    {
+      "timestamp": 1788201278.312626,
+      "bankroll": 319.75,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: FAL (-1.5) vs MOUZ (+1.5)"
+    },
+    {
+      "timestamp": 1788201278.6042075,
+      "bankroll": 325.26,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788201279.5973575,
+      "bankroll": 330.54,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788201279.7976894,
+      "bankroll": 335.83,
+      "event": "won: SPCEXBUYER \u2014 Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788201280.198321,
+      "bankroll": 337.61,
+      "event": "won: SPCEXBUYER \u2014 Map Handicap: FAL (-1.5) vs MOUZ (+1.5)"
     }
   ]
 }
