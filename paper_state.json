@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.7322893602402,
+  "bankroll": 378.3843392341545,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16695,6 +16695,16 @@
       "timestamp": 1788217070.100915,
       "bankroll": 376.73,
       "event": "won: RN1 \u2014 US Open WTA: Julia Grabher vs Sorana Cirstea"
+    },
+    {
+      "timestamp": 1788217194.8081083,
+      "bankroll": 377.4,
+      "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Elusive vs Zomblers (BO3) - ESL Challenger League North America Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1788217261.5353796,
+      "bankroll": 378.38,
+      "event": "won: RN1 \u2014 US Open ATP: Dalibor Svrcina vs Valentin Royer"
     }
   ]
 }

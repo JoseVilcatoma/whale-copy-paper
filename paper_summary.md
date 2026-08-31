@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 17:59:03 (hora de Perú)
+Actualizado: 2026-08-31 18:01:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $376.73
-**Retorno acumulado:** -24.65%
+**Bankroll actual:** $378.38
+**Retorno acumulado:** -24.32%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 17:59:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $176.73)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $188.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 40 | 14 | 4 | +59.56 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 41 | 14 | 3 | +60.23 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -100,7 +100,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| RN1 | 471 | 222 | 11 | -19.55 USD |
+| RN1 | 472 | 222 | 10 | -18.57 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3184
-- **Aciertos:** 2029 (63.7%)
+- **Apuestas resueltas:** 3185
+- **Aciertos:** 2030 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,895.24
-- **ROI sobre lo apostado:** -1.35%
-- **Comisiones pagadas (taker fee):** $290.77 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,900.24
+- **ROI sobre lo apostado:** -1.34%
+- **Comisiones pagadas (taker fee):** $290.82 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -127,7 +127,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1596 | 49.6% | 50.1% | -0.5 pp |
 | 60-79% | 947 | 70.0% | 67.9% | +2.1 pp |
-| 80-94% | 445 | 86.7% | 86.7% | +0.0 pp |
+| 80-94% | 446 | 86.8% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -691,7 +691,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 2.4% | ✅ ganada | +0.53 |
 | RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.3% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 4.0% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 4.0% | ✅ ganada | +0.98 |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Juncheng Shang vs Marco Tru | Marco Trungelliti (BUY) | 43% | 5.00 | 76362.1% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Julia Grabher vs Sorana Cir | Julia Grabher (BUY) | 41% | 5.00 | 398.4% | ❌ perdida | -5.15 |
