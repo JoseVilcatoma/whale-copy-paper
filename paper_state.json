@@ -1,5 +1,5 @@
 {
-  "bankroll": 329.9594690875278,
+  "bankroll": 320.76273427481834,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16155,6 +16155,31 @@
       "timestamp": 1788139951.000853,
       "bankroll": 329.96,
       "event": "won: RN1 \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1788142281.9835517,
+      "bankroll": 324.82,
+      "event": "lost: nigiri99 \u2014 Will SE Palmeiras win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788142283.2143934,
+      "bankroll": 319.71,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 9.5"
+    },
+    {
+      "timestamp": 1788142284.3132617,
+      "bankroll": 320.3,
+      "event": "won: RN1 \u2014 Will Mirassol FC win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788142285.501133,
+      "bankroll": 320.72,
+      "event": "won: RN1 \u2014 Will SE Palmeiras win on 2026-08-30?"
+    },
+    {
+      "timestamp": 1788142286.0268784,
+      "bankroll": 320.76,
+      "event": "won: RN1 \u2014 Mirassol FC vs. SE Palmeiras: O/U 2.5"
     }
   ]
 }
