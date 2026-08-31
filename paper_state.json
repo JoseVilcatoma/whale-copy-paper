@@ -1,5 +1,5 @@
 {
-  "bankroll": 300.948107272637,
+  "bankroll": 301.19826516737385,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16285,6 +16285,11 @@
       "timestamp": 1788150487.8456526,
       "bankroll": 300.95,
       "event": "won: RN1 \u2014 US Open ATP: Mariano Navone vs Novak Djokovic"
+    },
+    {
+      "timestamp": 1788151802.8671653,
+      "bankroll": 301.2,
+      "event": "won: HomeRunHazard \u2014 Zhangjiagang: Hiroki Moriya vs S D Prajwal Dev"
     }
   ]
 }
