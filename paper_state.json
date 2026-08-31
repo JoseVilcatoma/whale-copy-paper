@@ -1,5 +1,5 @@
 {
-  "bankroll": 325.8611100346637,
+  "bankroll": 320.7691100346637,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16400,6 +16400,11 @@
       "timestamp": 1788177611.2621093,
       "bankroll": 325.86,
       "event": "won: HomeRunHazard \u2014 Zhangjiagang: Koki Matsuda vs Fanming Meng"
+    },
+    {
+      "timestamp": 1788180451.695816,
+      "bankroll": 320.77,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: HOTU (-1.5) vs SPARTA (+1.5)"
     }
   ]
 }
