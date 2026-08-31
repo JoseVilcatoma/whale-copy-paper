@@ -1,5 +1,5 @@
 {
-  "bankroll": 342.3153873566995,
+  "bankroll": 345.6869636278859,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16520,6 +16520,11 @@
       "timestamp": 1788206032.71758,
       "bankroll": 342.32,
       "event": "won: BBQChickenisthebesttt \u2014 CA Osasuna vs. Getafe CF: O/U 2.5"
+    },
+    {
+      "timestamp": 1788206279.782162,
+      "bankroll": 345.69,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: FUT Esports vs Vitality - Map 1 Winner"
     }
   ]
 }
