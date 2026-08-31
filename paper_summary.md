@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 13:42:04 (hora de Perú)
+Actualizado: 2026-08-31 13:44:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $337.57
-**Retorno acumulado:** -32.49%
+**Bankroll actual:** $338.35
+**Retorno acumulado:** -32.33%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 13:42:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $142.57)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $148.35)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,8 +82,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | NiNo999 | 0 | 1 | 3 | -5.13 USD |
 | vito3corleone | 2 | 2 | 1 | -5.15 USD |
+| HomeRunHazard | 428 | 227 | 3 | -5.44 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
-| HomeRunHazard | 427 | 227 | 4 | -6.22 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -105,13 +105,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3149
-- **Aciertos:** 2003 (63.6%)
-- **Cuota promedio de entrada:** 63.4%
+- **Apuestas resueltas:** 3150
+- **Aciertos:** 2004 (63.6%)
+- **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,720.24
-- **ROI sobre lo apostado:** -1.65%
-- **Comisiones pagadas (taker fee):** $287.33 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $15,725.24
+- **ROI sobre lo apostado:** -1.64%
+- **Comisiones pagadas (taker fee):** $287.37 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.18% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -122,7 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1577 | 49.3% | 50.1% | -0.8 pp |
 | 60-79% | 934 | 69.9% | 67.9% | +2.0 pp |
-| 80-94% | 442 | 86.7% | 86.7% | -0.0 pp |
+| 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -666,7 +666,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | fRibrenlc | US Open ATP: Otto Virtanen vs Andrey Rub | Andrey Rublev (BUY) | 68% | 5.00 | 269.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 4.7% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
-| HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
+| HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ✅ ganada | +0.78 |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Mika Petkovic (BUY) | 65% | 5.00 | 0.5% | ✅ ganada | +2.61 |
 | HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Stefanos Tsitsipas (BUY) | 49% | 5.00 | 1.1% | ✅ ganada | +5.08 |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Tiago Torres (BUY) | 43% | 5.00 | 0.6% | ❌ perdida | -5.14 |

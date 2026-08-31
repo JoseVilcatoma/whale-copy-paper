@@ -1,5 +1,5 @@
 {
-  "bankroll": 337.57173593510004,
+  "bankroll": 338.35068942347215,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16505,6 +16505,11 @@
       "timestamp": 1788201592.3760471,
       "bankroll": 337.57,
       "event": "won: HomeRunHazard \u2014 US Open ATP: Stefanos Tsitsipas vs Arthur Fils"
+    },
+    {
+      "timestamp": 1788201843.7349079,
+      "bankroll": 338.35,
+      "event": "won: HomeRunHazard \u2014 US Open WTA: Aoi Ito vs Oksana Selekhmeteva"
     }
   ]
 }
