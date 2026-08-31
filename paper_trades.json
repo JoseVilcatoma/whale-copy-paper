@@ -82428,5 +82428,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788197303.8976789,
     "fills": 1
+  },
+  {
+    "timestamp": 1788198117,
+    "timestamp_added": 1788198118.1892426,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "wta-golubic-parry-2026-08-30",
+    "title": "US Open WTA: Viktorija Golubic vs Diane Parry",
+    "outcome": "Diane Parry",
+    "side": "BUY",
+    "whale_usd": 12499.999999,
+    "whale_pct": 17.843,
+    "whale_value_at_open": 70054.4456,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788198118.189252,
+    "fills": 1
   }
 ]
