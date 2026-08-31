@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 22:18:44 (hora de Perú)
+Actualizado: 2026-08-30 22:20:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $292.65
-**Retorno acumulado:** -41.47%
+**Bankroll actual:** $292.80
+**Retorno acumulado:** -41.44%
 **Peor caída desde un máximo (drawdown):** 51.73%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 22:18:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $92.65)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $97.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,20 +95,20 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 2 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 454 | 218 | 15 | -36.69 USD |
+| RN1 | 455 | 218 | 14 | -36.54 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3093
-- **Aciertos:** 1959 (63.3%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 3094
+- **Aciertos:** 1960 (63.3%)
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,440.24
+- **Total apostado (suma de stakes):** $15,445.24
 - **ROI sobre lo apostado:** -1.97%
-- **Comisiones pagadas (taker fee):** $282.99 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $283.00 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** -0.14% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -120,7 +120,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1555 | 49.1% | 50.1% | -1.0 pp |
 | 60-79% | 918 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 431 | 86.8% | 86.6% | +0.2 pp |
-| 95-99% (casi seguro) | 189 | 96.3% | 97.4% | -1.1 pp |
+| 95-99% (casi seguro) | 190 | 96.3% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -664,7 +664,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Connecticut Sun vs. Dallas Wings: O/U 16 | Under (BUY) | 49% | 5.00 | 1.9% | ❌ perdida | -5.13 |
 | RN1 | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 63% | 5.00 | 2.9% | ❌ perdida | -5.09 |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 83% | 5.00 | 788.5% | 💰 vendida anticipada | -0.70 |
-| RN1 | Will SC Internacional win on 2026-08-30? | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Will SC Internacional win on 2026-08-30? | No (BUY) | 97% | 5.00 | 0.3% | ✅ ganada | +0.15 |
 | RN1 | US Open ATP: Sebastian Gorzny vs Raphael | Sebastian Gorzny (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Thiago Agustin Tirante vs A | Adrian Mannarino (BUY) | 50% | 5.00 | 2.7% | ⏳ pendiente | — |

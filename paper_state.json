@@ -1,5 +1,5 @@
 {
-  "bankroll": 292.65241178159346,
+  "bankroll": 292.7990509568512,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16225,6 +16225,11 @@
       "timestamp": 1788145444.4435406,
       "bankroll": 292.65,
       "event": "lost: nigiri99 \u2014 Connecticut Sun vs. Dallas Wings: O/U 165.5"
+    },
+    {
+      "timestamp": 1788146442.8778286,
+      "bankroll": 292.8,
+      "event": "won: RN1 \u2014 Will SC Internacional win on 2026-08-30?"
     }
   ]
 }
