@@ -1,11 +1,11 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 21:55:52 (hora de Perú)
+Actualizado: 2026-08-30 21:57:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $310.64
-**Retorno acumulado:** -37.87%
-**Peor caída desde un máximo (drawdown):** 48.76%
+**Bankroll actual:** $297.25
+**Retorno acumulado:** -40.55%
+**Peor caída desde un máximo (drawdown):** 51.29%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
 **Modo de apuesta:** monto fijo de $5.00 por apuesta
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 21:55:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $75.64)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $87.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -30,7 +30,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 11 | 9 | +20.19 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| SDTrading | 37 | 31 | 2 | +12.71 USD |
 | quavoo | 23 | 11 | 10 | +12.44 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -51,6 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
+| SDTrading | 37 | 33 | 0 | +2.47 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -89,27 +89,27 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | kekasaur | 6 | 8 | 1 | -11.76 USD |
-| texaskid | 8 | 9 | 1 | -11.96 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
+| texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 13 | 12 | 2 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 453 | 217 | 17 | -38.65 USD |
+| RN1 | 454 | 218 | 15 | -36.69 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3086
-- **Aciertos:** 1957 (63.4%)
-- **Cuota promedio de entrada:** 63.4%
+- **Apuestas resueltas:** 3091
+- **Aciertos:** 1958 (63.3%)
+- **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,405.24
-- **ROI sobre lo apostado:** -1.86%
-- **Comisiones pagadas (taker fee):** $282.25 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** -0.03% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,430.24
+- **ROI sobre lo apostado:** -1.94%
+- **Comisiones pagadas (taker fee):** $282.84 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** -0.11% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,8 +117,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1552 | 49.2% | 50.1% | -1.0 pp |
-| 60-79% | 915 | 69.8% | 67.9% | +2.0 pp |
+| 40-59% | 1554 | 49.2% | 50.1% | -0.9 pp |
+| 60-79% | 918 | 69.6% | 67.8% | +1.8 pp |
 | 80-94% | 430 | 86.7% | 86.6% | +0.1 pp |
 | 95-99% (casi seguro) | 189 | 96.3% | 97.4% | -1.1 pp |
 
@@ -662,7 +662,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 72% | 5.00 | 1.5% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings: O/U 16 | Under (BUY) | 49% | 5.00 | 1.9% | ⏳ pendiente | — |
-| RN1 | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 63% | 5.00 | 2.9% | ⏳ pendiente | — |
+| RN1 | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 63% | 5.00 | 2.9% | ❌ perdida | -5.09 |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 83% | 5.00 | 788.5% | 💰 vendida anticipada | -0.70 |
 | RN1 | Will SC Internacional win on 2026-08-30? | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Sebastian Gorzny vs Raphael | Sebastian Gorzny (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 310.63973427481835,
+  "bankroll": 297.2498562260379,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16190,6 +16190,31 @@
       "timestamp": 1788144887.5945332,
       "bankroll": 310.64,
       "event": "lost: HomeRunHazard \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 11.5"
+    },
+    {
+      "timestamp": 1788145066.3461587,
+      "bankroll": 305.54,
+      "event": "lost: texaskid \u2014 Cincinnati Reds vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788145067.7072759,
+      "bankroll": 300.39,
+      "event": "lost: SDTrading \u2014 Spread: Chicago Cubs (-1.5)"
+    },
+    {
+      "timestamp": 1788145067.8074389,
+      "bankroll": 295.29,
+      "event": "lost: SDTrading \u2014 Cincinnati Reds vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788145068.1965728,
+      "bankroll": 302.34,
+      "event": "won: RN1 \u2014 Cincinnati Reds vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788145070.185768,
+      "bankroll": 297.25,
+      "event": "lost: RN1 \u2014 Cincinnati Reds vs. Chicago Cubs"
     }
   ]
 }
