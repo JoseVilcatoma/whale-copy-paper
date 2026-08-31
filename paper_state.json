@@ -1,5 +1,5 @@
 {
-  "bankroll": 319.78091464197337,
+  "bankroll": 326.54067654673526,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16130,6 +16130,11 @@
       "timestamp": 1788137980.2783325,
       "bankroll": 319.78,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Fluxo W7M vs ShindeN (BO3) - ESL Challenger League South America Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1788138289.2859385,
+      "bankroll": 326.54,
+      "event": "won: nigiri99 \u2014 CD Godoy Cruz vs. CA San Telmo: O/U 2.5"
     }
   ]
 }
