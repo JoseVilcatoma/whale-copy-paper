@@ -82510,8 +82510,8 @@
     "title": "Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B",
     "outcome": "Vitality",
     "side": "BUY",
-    "whale_usd": 194025.39190200003,
-    "whale_pct": 178.454,
+    "whale_usd": 226744.83520200005,
+    "whale_pct": 208.547,
     "whale_value_at_open": 108725.9659,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 68,
@@ -82524,7 +82524,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788199924.3033073,
-    "fills": 14
+    "last_fill_at": 1788200093.6314282,
+    "fills": 16
   }
 ]
