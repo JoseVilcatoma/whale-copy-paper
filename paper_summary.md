@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 16:44:53 (hora de Perú)
+Actualizado: 2026-08-31 16:46:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $364.33
-**Retorno acumulado:** -27.13%
+**Bankroll actual:** $374.32
+**Retorno acumulado:** -25.14%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 16:44:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $169.33)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $204.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,14 +29,15 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
+| quavoo | 28 | 14 | 3 | +13.62 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| quavoo | 27 | 14 | 4 | +8.54 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -58,7 +59,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| beachboy4 | 6 | 1 | 1 | +1.74 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -68,6 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
+| IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
@@ -85,7 +86,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| IQdegen | 0 | 1 | 1 | -5.12 USD |
 | HomeRunHazard | 428 | 227 | 3 | -5.44 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | NiNo999 | 1 | 2 | 2 | -5.92 USD |
@@ -97,11 +97,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
+| RN1 | 470 | 221 | 6 | -14.99 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| AV23IUa | 14 | 12 | 1 | -15.98 USD |
-| RN1 | 469 | 220 | 7 | -16.35 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| AV23IUa | 14 | 13 | 0 | -21.10 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3167
-- **Aciertos:** 2018 (63.7%)
+- **Apuestas resueltas:** 3173
+- **Aciertos:** 2022 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,810.24
-- **ROI sobre lo apostado:** -1.43%
-- **Comisiones pagadas (taker fee):** $289.01 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,840.24
+- **ROI sobre lo apostado:** -1.37%
+- **Comisiones pagadas (taker fee):** $289.75 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.46% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -125,7 +125,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1585 | 49.5% | 50.1% | -0.6 pp |
+| 40-59% | 1591 | 49.5% | 50.1% | -0.6 pp |
 | 60-79% | 943 | 70.1% | 67.9% | +2.2 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
@@ -666,10 +666,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | US Open ATP: Luciano Darderi vs Harry We | Luciano Darderi (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 0.4% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 1.7% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 2.2% | ⏳ pendiente | — |
 | Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Juncheng Shang vs Marco Tru | Marco Trungelliti (BUY) | 43% | 5.00 | 76362.1% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Julia Grabher vs Sorana Cir | Julia Grabher (BUY) | 41% | 5.00 | 398.4% | ⏳ pendiente | — |
@@ -679,7 +680,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AGUGava | Aston Villa FC vs. Arsenal FC: O/U 2.5 | Under (BUY) | 89% | 5.00 | 92.7% | 💰 vendida anticipada | +0.24 |
 | IQdegen | US Open ATP: Matteo Arnaldi vs James Duc | Matteo Arnaldi (BUY) | 53% | 5.00 | 45.6% | ❌ perdida | -5.12 |
 | 0xwise | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 55% | 5.00 | 267.1% | 💰 vendida anticipada | -1.85 |
-| IQdegen | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 59% | 5.00 | 19.3% | ⏳ pendiente | — |
+| IQdegen | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 59% | 5.00 | 19.3% | ✅ ganada | +3.37 |
 | monkeymashingkeyboard | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 38.4% | ⏳ pendiente | — |
 | Sunny24 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 39.3% | ✅ ganada | +2.17 |
 | monkeymashingkeyboard | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 55% | 5.00 | 179.3% | ⏳ pendiente | — |
@@ -695,4 +696,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ✅ ganada | +4.32 |
 | HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
-| HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Kimberly Birrell (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |

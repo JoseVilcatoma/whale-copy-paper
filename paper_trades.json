@@ -79830,8 +79830,8 @@
     "odds_at_bet": 49,
     "fee_usd": 0.128,
     "odds_ballena": 48,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.08,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -79980,8 +79980,8 @@
     "odds_at_bet": 54,
     "fee_usd": 0.115,
     "odds_ballena": 53,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "nigiri99"
     ],
@@ -80006,8 +80006,8 @@
     "odds_at_bet": 48,
     "fee_usd": 0.13,
     "odds_ballena": 47,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 5.29,
     "overlaps_with": [
       "AV23IUa",
       "nigiri99"
@@ -80454,8 +80454,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "AV23IUa",
       "beachboy4",
@@ -80783,8 +80783,8 @@
     "odds_at_bet": 43,
     "fee_usd": 0.143,
     "odds_ballena": 42,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 6.48,
     "overlaps_with": [
       "AV23IUa",
       "beachboy4",
@@ -82787,8 +82787,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "AV23IUa",
       "RN1",
@@ -83040,8 +83040,8 @@
     "title": "US Open ATP: Dalibor Svrcina vs Valentin Royer",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 8344.171199999999,
-    "whale_pct": 1.676,
+    "whale_usd": 10915.599771,
+    "whale_pct": 2.192,
     "whale_value_at_open": 497936.2698,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -83052,8 +83052,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788212644.792344,
-    "fills": 3
+    "last_fill_at": 1788212731.1093073,
+    "fills": 4
   },
   {
     "timestamp": 1788212602,
@@ -83129,6 +83129,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788212644.2961252,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788212793,
+    "timestamp_added": 1788212794.8099608,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-darderi-wendelk-2026-08-30",
+    "title": "US Open ATP: Luciano Darderi vs Harry Wendelken",
+    "outcome": "Luciano Darderi",
+    "side": "BUY",
+    "whale_usd": 1414.2892160000001,
+    "whale_pct": 0.307,
+    "whale_value_at_open": 461226.889,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788212794.809973,
     "fills": 1
   }
 ]

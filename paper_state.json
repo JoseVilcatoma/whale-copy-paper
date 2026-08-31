@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.33077902287386,
+  "bankroll": 374.3180105701242,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16610,6 +16610,36 @@
       "timestamp": 1788212138.7410738,
       "bankroll": 364.33,
       "event": "won: NiNo999 \u2014 US Open WTA: Viktorija Golubic vs Diane Parry"
+    },
+    {
+      "timestamp": 1788212764.8522146,
+      "bankroll": 369.41,
+      "event": "won: nigiri99 \u2014 US Open ATP: Martin Landaluce vs Jacob Fearnley"
+    },
+    {
+      "timestamp": 1788212764.9524024,
+      "bankroll": 364.29,
+      "event": "lost: AV23IUa \u2014 US Open ATP: Martin Landaluce vs Jacob Fearnley"
+    },
+    {
+      "timestamp": 1788212765.0525763,
+      "bankroll": 369.58,
+      "event": "won: beachboy4 \u2014 US Open ATP: Martin Landaluce vs Jacob Fearnley"
+    },
+    {
+      "timestamp": 1788212765.152783,
+      "bankroll": 364.46,
+      "event": "lost: RN1 \u2014 US Open ATP: Martin Landaluce vs Jacob Fearnley"
+    },
+    {
+      "timestamp": 1788212765.6277637,
+      "bankroll": 370.95,
+      "event": "won: RN1 \u2014 US Open ATP: Martin Landaluce vs Jacob Fearnley"
+    },
+    {
+      "timestamp": 1788212770.6385477,
+      "bankroll": 374.32,
+      "event": "won: IQdegen \u2014 US Open ATP: Martin Landaluce vs Jacob Fearnley"
     }
   ]
 }
