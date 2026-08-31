@@ -80475,8 +80475,8 @@
     "title": "Will FC Barcelona win on 2026-08-31?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 7312.8,
-    "whale_pct": 2.722,
+    "whale_usd": 8036.16,
+    "whale_pct": 2.992,
     "whale_value_at_open": 268616.0945,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -80487,8 +80487,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788133111.5007453,
-    "fills": 1
+    "last_fill_at": 1788157684.7903101,
+    "fills": 2
   },
   {
     "timestamp": 1788133119,
@@ -81479,8 +81479,8 @@
     "title": "Zhangjiagang: Koki Matsuda vs Fanming Meng",
     "outcome": "Koki Matsuda",
     "side": "BUY",
-    "whale_usd": 1003.1357999999999,
-    "whale_pct": 0.192,
+    "whale_usd": 1775.3224659999998,
+    "whale_pct": 0.339,
     "whale_value_at_open": 523575.4697,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -81491,8 +81491,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788150056.931016,
-    "fills": 1
+    "last_fill_at": 1788157776.8908687,
+    "fills": 2
   },
   {
     "timestamp": 1788150205,
