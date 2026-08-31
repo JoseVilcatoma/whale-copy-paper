@@ -1,5 +1,5 @@
 {
-  "bankroll": 317.2614439621428,
+  "bankroll": 317.3089490126478,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16460,6 +16460,11 @@
       "timestamp": 1788199718.873197,
       "bankroll": 317.26,
       "event": "won: HomeRunHazard \u2014 Porto: Mika Petkovic vs Tiago Torres"
+    },
+    {
+      "timestamp": 1788199781.1176238,
+      "bankroll": 317.31,
+      "event": "won: HomeRunHazard \u2014 US Open WTA: Harriet Dart vs Peyton Stearns"
     }
   ]
 }

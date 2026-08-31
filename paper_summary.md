@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 13:08:45 (hora de Perú)
+Actualizado: 2026-08-31 13:10:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $317.26
-**Retorno acumulado:** -36.55%
+**Bankroll actual:** $317.31
+**Retorno acumulado:** -36.54%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 13:08:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $92.26)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $97.31)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 2 | 2 | 0 | -5.15 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
-| HomeRunHazard | 424 | 226 | 8 | -6.70 USD |
+| HomeRunHazard | 425 | 226 | 7 | -6.65 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -104,11 +104,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3140
-- **Aciertos:** 1995 (63.5%)
-- **Cuota promedio de entrada:** 63.4%
+- **Apuestas resueltas:** 3141
+- **Aciertos:** 1996 (63.5%)
+- **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,675.24
+- **Total apostado (suma de stakes):** $15,680.24
 - **ROI sobre lo apostado:** -1.78%
 - **Comisiones pagadas (taker fee):** $286.53 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.04% _(referencia: cuánto pesan las comisiones)_
@@ -122,7 +122,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1572 | 49.2% | 50.1% | -0.9 pp |
 | 60-79% | 932 | 69.8% | 67.9% | +2.0 pp |
 | 80-94% | 441 | 86.6% | 86.7% | -0.1 pp |
-| 95-99% (casi seguro) | 195 | 96.4% | 97.4% | -1.0 pp |
+| 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -653,11 +653,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 94.8% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 174.9% | ⏳ pendiente | — |
 | NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ⏳ pendiente | — |
-| HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ⏳ pendiente | — |
+| HomeRunHazard | US Open WTA: Harriet Dart vs Peyton Stea | Harriet Dart (BUY) | 99% | 5.00 | 0.8% | ✅ ganada | +0.05 |
 | HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Kimberly Birrell (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
 | fRibrenlc | US Open ATP: Otto Virtanen vs Andrey Rub | Andrey Rublev (BUY) | 68% | 5.00 | 269.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 4.7% | ⏳ pendiente | — |
