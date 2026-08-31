@@ -1,5 +1,5 @@
 {
-  "bankroll": 383.9167104258241,
+  "bankroll": 381.34973380468466,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16655,6 +16655,36 @@
       "timestamp": 1788214955.9792292,
       "bankroll": 383.92,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs"
+    },
+    {
+      "timestamp": 1788215263.21938,
+      "bankroll": 378.83,
+      "event": "lost: RN1 \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko"
+    },
+    {
+      "timestamp": 1788215264.0424435,
+      "bankroll": 380.9,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Color vs UPGRADE (BO3) - Moscow Cyber Games European Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788215264.6081488,
+      "bankroll": 375.78,
+      "event": "lost: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: SAW Youngsters vs Honv\u00e9d (BO3) - CCT Europe Closed Qualifier: Series #8 Group D"
+    },
+    {
+      "timestamp": 1788215264.9411774,
+      "bankroll": 382.26,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: Color (-1.5) vs UPGRADE (+1.5)"
+    },
+    {
+      "timestamp": 1788215266.2399454,
+      "bankroll": 377.21,
+      "event": "lost: HomeRunHazard \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko"
+    },
+    {
+      "timestamp": 1788215266.3401008,
+      "bankroll": 381.35,
+      "event": "won: HomeRunHazard \u2014 US Open WTA: Kimberly Birrell vs Petra Marcinko"
     }
   ]
 }
