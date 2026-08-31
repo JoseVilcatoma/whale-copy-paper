@@ -1,5 +1,5 @@
 {
-  "bankroll": 302.1620502173594,
+  "bankroll": 303.7667168840261,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16340,6 +16340,11 @@
       "timestamp": 1788160367.2933302,
       "bankroll": 302.16,
       "event": "won: HomeRunHazard \u2014 Zhangjiagang: Khumoyun Sultanov vs Joshua Charlton"
+    },
+    {
+      "timestamp": 1788162268.409922,
+      "bankroll": 303.77,
+      "event": "won: RN1 \u2014 Will CA Gimnasia y Esgrima de Mendoza win on 2026-08-30?"
     }
   ]
 }
