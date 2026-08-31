@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 20:31:34 (hora de Perú)
+Actualizado: 2026-08-30 20:33:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $324.67
-**Retorno acumulado:** -35.07%
+**Bankroll actual:** $329.96
+**Retorno acumulado:** -34.01%
 **Peor caída desde un máximo (drawdown):** 48.63%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 20:31:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $84.67)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $94.96)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -95,21 +95,21 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | AV23IUa | 13 | 12 | 1 | -18.36 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| RN1 | 449 | 217 | 21 | -44.99 USD |
+| RN1 | 450 | 217 | 20 | -39.70 USD |
 | Sassy-Bucket | 22 | 36 | 0 | -80.07 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 372 | 234 | 2 | -147.52 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3078
-- **Aciertos:** 1953 (63.5%)
+- **Apuestas resueltas:** 3079
+- **Aciertos:** 1954 (63.5%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,365.24
-- **ROI sobre lo apostado:** -1.77%
-- **Comisiones pagadas (taker fee):** $281.70 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.06% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,370.24
+- **ROI sobre lo apostado:** -1.74%
+- **Comisiones pagadas (taker fee):** $281.83 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -117,7 +117,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1549 | 49.2% | 50.1% | -0.9 pp |
+| 40-59% | 1550 | 49.2% | 50.1% | -0.9 pp |
 | 60-79% | 914 | 69.9% | 67.9% | +2.0 pp |
 | 80-94% | 427 | 86.9% | 86.6% | +0.3 pp |
 | 95-99% (casi seguro) | 188 | 96.3% | 97.4% | -1.1 pp |
@@ -642,13 +642,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 68.6% | ⏳ pendiente | — |
+| kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 69.7% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 47% | 5.00 | 51.0% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 74% | 5.00 | 59.5% | 💰 vendida anticipada | -1.57 |
 | nigiri99 | US Open ATP: Yannick Hanfmann vs Alejand | Yannick Hanfmann (BUY) | 44% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Will EC Bahia win on 2026-08-30? | Yes (BUY) | 94% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 50% | 5.00 | 3.4% | ❌ perdida | -5.12 |
-| RN1 | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 78% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
 | RN1 | Will FC Juárez win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 46% | 5.00 | 2.3% | 💰 vendida anticipada | +0.82 |

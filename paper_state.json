@@ -1,5 +1,5 @@
 {
-  "bankroll": 324.6728024208611,
+  "bankroll": 329.9594690875278,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16150,6 +16150,11 @@
       "timestamp": 1788139823.7878141,
       "bankroll": 324.67,
       "event": "won: nigiri99 \u2014 St. Louis City SC vs. FC Dallas: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788139951.000853,
+      "bankroll": 329.96,
+      "event": "won: RN1 \u2014 Cincinnati Reds vs. Chicago Cubs: O/U 8.5"
     }
   ]
 }
