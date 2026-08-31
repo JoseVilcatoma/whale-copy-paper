@@ -1,5 +1,5 @@
 {
-  "bankroll": 377.6930740621877,
+  "bankroll": 383.9167104258241,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16650,6 +16650,11 @@
       "timestamp": 1788213080.6216407,
       "bankroll": 377.69,
       "event": "won: NiNo999 \u2014 Set Handicap: McNally (-1.5) vs Koevermans (+1.5)"
+    },
+    {
+      "timestamp": 1788214955.9792292,
+      "bankroll": 383.92,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Walczaki vs BET-M 33 (BO3) - NODWIN Clutch Series Playoffs"
     }
   ]
 }
