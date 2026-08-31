@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 10:21:03 (hora de Perú)
+Actualizado: 2026-08-31 10:23:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $310.52
@@ -650,20 +650,20 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 73% | 5.00 | 0.9% | ⏳ pendiente | — |
+| SPCEXBUYER | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 67% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Color (-1.5) vs UPGRADE (+ | Color (BUY) | 43% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 5.6% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 50% | 5.00 | 0.4% | ⏳ pendiente | — |
 | SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 46% | 5.00 | 26.3% | ⏳ pendiente | — |
-| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 69.1% | ⏳ pendiente | — |
+| SPCEXBUYER | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 73.4% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Valentin Vacherot vs Aleksa | Aleksandar Kovacevic (BUY) | 49% | 5.00 | 74.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Walczaki vs BET-M 33 (BO | Walczaki (BUY) | 44% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 48% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: SAW Youngsters vs Honvéd | SAW Youngsters (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: ex-RUSTEC (-1.5) vs Bushid | Bushido Wildcats (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: BW (-1.5) vs ex-RUSTEC (+1 | ex-RUSTEC (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs UPGRADE (BO3) - | Color (BUY) | 70% | 5.00 | 5.2% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs UPGRADE (BO3) - | Color (BUY) | 70% | 5.00 | 8.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 11.0% | ❌ perdida | -5.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs Aurora Gaming | Aurora Gaming (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 89% | 5.00 | 1.6% | ✅ ganada | +0.59 |

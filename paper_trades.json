@@ -81629,8 +81629,8 @@
     "title": "Counter-Strike: Color vs UPGRADE (BO3) - Moscow Cyber Games European Qualifier Playoffs",
     "outcome": "Color",
     "side": "BUY",
-    "whale_usd": 4023.8189999999995,
-    "whale_pct": 5.243,
+    "whale_usd": 6107.786999999999,
+    "whale_pct": 7.959,
     "whale_value_at_open": 76743.3374,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -81641,8 +81641,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189310.0402772,
-    "fills": 2
+    "last_fill_at": 1788189762.1784582,
+    "fills": 3
   },
   {
     "timestamp": 1788178510,
@@ -81799,8 +81799,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 76167.669425,
-    "whale_pct": 69.104,
+    "whale_usd": 80926.889425,
+    "whale_pct": 73.422,
     "whale_value_at_open": 110221.1921,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -81814,8 +81814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189645.842063,
-    "fills": 40
+    "last_fill_at": 1788189761.9636052,
+    "fills": 43
   },
   {
     "timestamp": 1788188978,
@@ -81948,8 +81948,8 @@
     "title": "Map Handicap: FAL (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 2764.6056,
-    "whale_pct": 0.927,
+    "whale_usd": 3484.5984,
+    "whale_pct": 1.169,
     "whale_value_at_open": 298126.1605,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -81962,7 +81962,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189474.625448,
-    "fills": 1
+    "last_fill_at": 1788189775.4025953,
+    "fills": 2
   }
 ]
