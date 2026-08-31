@@ -82770,5 +82770,34 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788206701.8931043,
     "fills": 1
+  },
+  {
+    "timestamp": 1788207459,
+    "timestamp_added": 1788207460.012516,
+    "username": "IQdegen",
+    "wallet": "0x088ba59031e4bac4cc7b344581e3d908258221cc",
+    "slug": "atp-landalu-fearnle-2026-08-30",
+    "title": "US Open ATP: Martin Landaluce vs Jacob Fearnley",
+    "outcome": "Jacob Fearnley",
+    "side": "BUY",
+    "whale_usd": 3182.71284,
+    "whale_pct": 19.34,
+    "whale_value_at_open": 16456.2867,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "RN1",
+      "beachboy4",
+      "nigiri99"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788207460.01253,
+    "fills": 1
   }
 ]

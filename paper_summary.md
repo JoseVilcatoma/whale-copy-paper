@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 15:15:57 (hora de Perú)
+Actualizado: 2026-08-31 15:18:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $345.69
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 15:15:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $135.69)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $130.69)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | +0.00 USD |
 | Sunny24 | 0 | 0 | 1 | +0.00 USD |
+| IQdegen | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -637,7 +638,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-cin-chc-2026-08-30 | RN1, SDTrading, texaskid |
 | lol-ly-tl2-2026-08-30-game1 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | bra-mir-pal-2026-08-30-pal | RN1, nigiri99 |
-| atp-landalu-fearnle-2026-08-30 | AV23IUa, RN1, beachboy4, nigiri99 |
+| atp-landalu-fearnle-2026-08-30 | AV23IUa, IQdegen, RN1, beachboy4, nigiri99 |
 | mex-tol-jua-2026-08-30-total-3pt5 | RN1, nigiri99 |
 | mex-tol-jua-2026-08-30-tol | RN1, nigiri99 |
 | mex-mon1-asl-2026-08-30-mon1 | kekasaur, nigiri99 |
@@ -658,6 +659,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| IQdegen | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 59% | 5.00 | 19.3% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 38.4% | ⏳ pendiente | — |
 | Sunny24 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 39.3% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 55% | 5.00 | 179.3% | ⏳ pendiente | — |
@@ -687,4 +689,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 254.1% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 297.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 59% | 5.00 | 0.8% | ✅ ganada | +3.37 |
-| beachboy4 | US Open ATP: Valentin Vacherot vs Aleksa | Valentin Vacherot (BUY) | 83% | 5.00 | 164.0% | ✅ ganada | +0.98 |
