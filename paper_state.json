@@ -1,5 +1,5 @@
 {
-  "bankroll": 320.76273427481834,
+  "bankroll": 315.67273427481837,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16180,6 +16180,11 @@
       "timestamp": 1788142286.0268784,
       "bankroll": 320.76,
       "event": "won: RN1 \u2014 Mirassol FC vs. SE Palmeiras: O/U 2.5"
+    },
+    {
+      "timestamp": 1788144144.7710767,
+      "bankroll": 315.67,
+      "event": "lost: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Valorant: LOUD vs MIBR (BO3) - VCT Americas Stage 2 Playoffs"
     }
   ]
 }
