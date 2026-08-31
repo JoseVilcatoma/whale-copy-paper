@@ -1,5 +1,5 @@
 {
-  "bankroll": 340.6236305999427,
+  "bankroll": 342.3153873566995,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16515,6 +16515,11 @@
       "timestamp": 1788204654.8284585,
       "bankroll": 340.62,
       "event": "won: fRibrenlc \u2014 US Open ATP: Otto Virtanen vs Andrey Rublev"
+    },
+    {
+      "timestamp": 1788206032.71758,
+      "bankroll": 342.32,
+      "event": "won: BBQChickenisthebesttt \u2014 CA Osasuna vs. Getafe CF: O/U 2.5"
     }
   ]
 }

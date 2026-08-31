@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 14:52:57 (hora de Perú)
+Actualizado: 2026-08-31 14:55:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $340.62
-**Retorno acumulado:** -31.88%
+**Bankroll actual:** $342.32
+**Retorno acumulado:** -31.54%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 14:52:57 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $125.62)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $132.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -57,12 +57,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 6 | 1 | 1 | +1.74 USD |
+| BBQChickenisthebesttt | 1 | 0 | 3 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| BBQChickenisthebesttt | 0 | 0 | 4 | +0.00 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | +0.00 USD |
 | Sunny24 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -107,14 +107,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3151
-- **Aciertos:** 2005 (63.6%)
+- **Apuestas resueltas:** 3152
+- **Aciertos:** 2006 (63.6%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,730.24
-- **ROI sobre lo apostado:** -1.63%
-- **Comisiones pagadas (taker fee):** $287.45 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.20% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,735.24
+- **ROI sobre lo apostado:** -1.62%
+- **Comisiones pagadas (taker fee):** $287.51 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.21% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -123,7 +123,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1577 | 49.3% | 50.1% | -0.8 pp |
-| 60-79% | 935 | 69.9% | 67.9% | +2.1 pp |
+| 60-79% | 936 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
@@ -664,7 +664,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BBQChickenisthebesttt | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 69% | 5.00 | 87.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 55% | 5.00 | 5.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Atalanta BC win on 2026-08-31? | Yes (BUY) | 51% | 5.00 | 37.4% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | CA Osasuna vs. Getafe CF: O/U 2.5 | Under (BUY) | 74% | 5.00 | 21.4% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | CA Osasuna vs. Getafe CF: O/U 2.5 | Under (BUY) | 74% | 5.00 | 21.4% | ✅ ganada | +1.69 |
 | BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ⏳ pendiente | — |
 | vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ⏳ pendiente | — |
