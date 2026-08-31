@@ -80246,8 +80246,8 @@
     "title": "Cincinnati Reds vs. Chicago Cubs",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 812.0,
-    "whale_pct": 0.349,
+    "whale_usd": 1624.0,
+    "whale_pct": 0.698,
     "whale_value_at_open": 232720.7931,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -80261,8 +80261,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788132221.380271,
-    "fills": 1
+    "last_fill_at": 1788134970.9411323,
+    "fills": 2
   },
   {
     "timestamp": 1788132319,
@@ -80867,6 +80867,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788134786.5454543,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788134954,
+    "timestamp_added": 1788134954.5134673,
+    "username": "0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616",
+    "wallet": "0xf201a19b43471261a3c1ba9247335d55270e527e",
+    "slug": "lol-c9-sr-2026-08-30",
+    "title": "LoL: Cloud9 vs Shopify Rebellion (BO3) - LCS Regular Season",
+    "outcome": "Shopify Rebellion",
+    "side": "BUY",
+    "whale_usd": 759.8936,
+    "whale_pct": 1.355,
+    "whale_value_at_open": 56095.6989,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788134954.513491,
     "fills": 1
   }
 ]
