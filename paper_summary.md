@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 19:15:46 (hora de Perú)
+Actualizado: 2026-08-30 19:17:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $316.47
@@ -639,7 +639,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 50% | 5.00 | 1.7% | ⏳ pendiente | — |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 50% | 5.00 | 3.4% | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ⏳ pendiente | — |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 78% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
 | RN1 | Will FC Juárez win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -656,7 +656,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | EC Bahia vs. SC Internacional: O/U 4.5 | Over (BUY) | 79% | 5.00 | 0.2% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Kimberly Birrell (BUY) | 42% | 5.00 | 85.2% | 💰 vendida anticipada | -2.97 |
 | RN1 | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 65% | 5.00 | 1.6% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 91% | 5.00 | 6.0% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 91% | 5.00 | 6.4% | ⏳ pendiente | — |
 | nigiri99 | Will FC Barcelona win on 2026-08-31? | Yes (BUY) | 90% | 5.00 | 2.7% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 3282.9% | 💰 vendida anticipada | -1.03 |
