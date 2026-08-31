@@ -81603,8 +81603,8 @@
     "title": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
     "outcome": "G2",
     "side": "BUY",
-    "whale_usd": 10333.28,
-    "whale_pct": 10.31,
+    "whale_usd": 10979.12,
+    "whale_pct": 10.955,
     "whale_value_at_open": 100223.7608,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -81617,7 +81617,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788174818.252688,
-    "fills": 2
+    "last_fill_at": 1788176161.7512903,
+    "fills": 3
   }
 ]
