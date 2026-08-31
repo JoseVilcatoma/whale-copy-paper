@@ -2,61 +2,61 @@
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1788029671.8277488,
-    "roi_pct": 2772.88,
+    "roi_pct": 2740.77,
     "short_term_pct": 90.0
   },
   "0x0e604be17c231a33dc01e38a722c7fe3984e3bad": {
     "username": "0xwise",
     "added_at": 1788150721.1927211,
-    "roi_pct": 854.16,
+    "roi_pct": 1088.36,
     "short_term_pct": 70.0
   },
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1788183996.7097065,
-    "roi_pct": 1347.55,
+    "roi_pct": 476.43,
     "short_term_pct": 90.0
   },
   "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c": {
     "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
     "added_at": 1788188194.1274817,
-    "roi_pct": 511.35,
+    "roi_pct": 509.33,
     "short_term_pct": 100.0
   },
   "0xc2e7800b5af46e6093872b177b7a5e7f0563be51": {
     "username": "beachboy4",
     "added_at": 1788197543.030405,
-    "roi_pct": 943.59,
-    "short_term_pct": 100.0
-  },
-  "0x3dfb153c197d4c19d3b31c1ecd2c7b6860eeabaf": {
-    "username": "0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185",
-    "added_at": 1788198476.205167,
-    "roi_pct": 84.63,
+    "roi_pct": 114.95,
     "short_term_pct": 100.0
   },
   "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8": {
     "username": "fRibrenlc",
     "added_at": 1788200345.339315,
-    "roi_pct": 144.72,
+    "roi_pct": 844.04,
     "short_term_pct": 80.0
   },
   "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
     "username": "BrotherObama",
     "added_at": 1788201276.8401415,
-    "roi_pct": 220.05,
+    "roi_pct": 230.27,
     "short_term_pct": 100.0
-  },
-  "0x208927449ac85131e4f34d0c499bfae71a24712e": {
-    "username": "Sunny24",
-    "added_at": 1788201276.840144,
-    "roi_pct": 112.68,
-    "short_term_pct": 90.0
   },
   "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9": {
     "username": "0x0x23kjookhaiuohduoayh8c9",
     "added_at": 1788203151.0022035,
-    "roi_pct": 99.17,
+    "roi_pct": 128.1,
+    "short_term_pct": 100.0
+  },
+  "0x71fd39416bad80da493030c92d125e2cdc1777df": {
+    "username": "Biarritz",
+    "added_at": 1788205016.8498902,
+    "roi_pct": 280.91,
+    "short_term_pct": 100.0
+  },
+  "0x16602a38e8fb4498ffee0ea81e08d2b421825598": {
+    "username": "BBQChickenisthebesttt",
+    "added_at": 1788205016.8498983,
+    "roi_pct": 112.88,
     "short_term_pct": 100.0
   }
 }
