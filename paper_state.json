@@ -1,5 +1,5 @@
 {
-  "bankroll": 302.7647175862999,
+  "bankroll": 303.06886652247016,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16300,6 +16300,11 @@
       "timestamp": 1788152556.103481,
       "bankroll": 302.76,
       "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Dominik Palan vs Mitsuki Wei Kang Leong"
+    },
+    {
+      "timestamp": 1788152864.8624325,
+      "bankroll": 303.07,
+      "event": "won: RN1 \u2014 Will Leones Futbol Club win on 2026-08-30?"
     }
   ]
 }
