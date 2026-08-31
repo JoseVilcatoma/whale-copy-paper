@@ -82168,8 +82168,8 @@
     "title": "US Open WTA: Qinwen Zheng vs Kristina Liutova",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 7060.031980000001,
-    "whale_pct": 2.555,
+    "whale_usd": 9264.49294,
+    "whale_pct": 3.352,
     "whale_value_at_open": 276349.8265,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -82180,8 +82180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788197132.5908337,
-    "fills": 2
+    "last_fill_at": 1788197157.2323072,
+    "fills": 3
   },
   {
     "timestamp": 1788196766,
@@ -82216,8 +82216,8 @@
     "title": "Porto: Mika Petkovic vs Tiago Torres",
     "outcome": "Tiago Torres",
     "side": "BUY",
-    "whale_usd": 978.9989999999999,
-    "whale_pct": 0.346,
+    "whale_usd": 1818.9989999999998,
+    "whale_pct": 0.642,
     "whale_value_at_open": 283258.4325,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -82228,8 +82228,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788196776.875752,
-    "fills": 1
+    "last_fill_at": 1788197204.5791173,
+    "fills": 2
   },
   {
     "timestamp": 1788196807,
@@ -82336,8 +82336,8 @@
     "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
     "outcome": "Petra Marcinko",
     "side": "BUY",
-    "whale_usd": 4983.2034,
-    "whale_pct": 1.687,
+    "whale_usd": 13846.6034,
+    "whale_pct": 4.686,
     "whale_value_at_open": 295470.4234,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -82351,7 +82351,31 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788197121.031462,
-    "fills": 1
+    "last_fill_at": 1788197162.5621357,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788197150,
+    "timestamp_added": 1788197150.9868894,
+    "username": "fRibrenlc",
+    "wallet": "0x6f3e7f25baa7d2d49e15e2d2957ff3dec62cbcf8",
+    "slug": "atp-virtane-rublev-2026-08-31",
+    "title": "US Open ATP: Otto Virtanen vs Andrey Rublev",
+    "outcome": "Andrey Rublev",
+    "side": "BUY",
+    "whale_usd": 14716.1011,
+    "whale_pct": 269.591,
+    "whale_value_at_open": 5458.6776,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788197152.9817283,
+    "fills": 2
   }
 ]
