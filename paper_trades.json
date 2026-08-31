@@ -81799,8 +81799,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 64368.808225,
-    "whale_pct": 58.4,
+    "whale_usd": 76167.669425,
+    "whale_pct": 69.104,
     "whale_value_at_open": 110221.1921,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -81814,8 +81814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189501.7319522,
-    "fills": 37
+    "last_fill_at": 1788189645.842063,
+    "fills": 40
   },
   {
     "timestamp": 1788188978,
