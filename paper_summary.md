@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 22:41:38 (hora de Perú)
+Actualizado: 2026-08-30 22:43:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $294.08
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 22:41:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $89.08)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $84.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 2 | 2 | 0 | -5.15 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
-| HomeRunHazard | 417 | 224 | 3 | -7.38 USD |
+| HomeRunHazard | 417 | 224 | 4 | -7.38 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
@@ -642,8 +642,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | Zhangjiagang: Hiroki Moriya vs S D Prajw | Hiroki Moriya (BUY) | 95% | 5.00 | 0.4% | ⏳ pendiente | — |
 | HomeRunHazard | US Open ATP: Alexander Bublik vs J.J. Wo | Alexander Bublik (BUY) | 99% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 65% | 5.00 | 5.0% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 65% | 5.00 | 6.6% | ⏳ pendiente | — |
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 52% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | Cincinnati Reds vs. Chicago Cubs: O/U 11 | Under (BUY) | 87% | 5.00 | 0.7% | ❌ perdida | -5.03 |
 | HomeRunHazard | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 86% | 5.00 | 6.2% | ⏳ pendiente | — |
@@ -671,4 +672,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Sebastian Gorzny vs Raphael | Sebastian Gorzny (BUY) | 43% | 5.00 | 0.6% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 1.8% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Thiago Agustin Tirante vs A | Adrian Mannarino (BUY) | 50% | 5.00 | 2.7% | ⏳ pendiente | — |
-| RN1 | EC Bahia vs. SC Internacional: O/U 4.5 | Over (BUY) | 79% | 5.00 | 0.2% | ✅ ganada | +1.28 |
