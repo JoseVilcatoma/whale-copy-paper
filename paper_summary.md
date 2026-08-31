@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 19:03:39 (hora de Perú)
+Actualizado: 2026-08-30 19:05:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $316.47
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 19:03:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $81.47)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $76.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -21,7 +21,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 | Apostador | Ganadas | Perdidas | Pendientes | Resultado simulado |
 |---|---|---|---|---|
-| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 111 | 46 | 1 | +91.42 USD |
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 111 | 46 | 2 | +91.42 USD |
 | BOOMBOYS.Kiritych | 37 | 17 | 0 | +63.68 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
@@ -639,6 +639,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 46% | 5.00 | 2.3% | ⏳ pendiente | — |
 | RN1 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | nigiri99 | Connecticut Sun vs. Dallas Wings: O/U 16 | Under (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -668,4 +669,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | SDTrading | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 60% | 5.00 | 30.6% | ⏳ pendiente | — |
 | SDTrading | Spread: Chicago Cubs (-1.5) | Chicago Cubs (BUY) | 42% | 5.00 | 16.5% | ⏳ pendiente | — |
 | nigiri99 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Under (BUY) | 54% | 5.00 | 0.2% | ⏳ pendiente | — |
-| nigiri99 | Golden State Valkyries vs. Portland Fire | Under (BUY) | 49% | 5.00 | 0.4% | ⏳ pendiente | — |
