@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 15:57:41 (hora de Perú)
+Actualizado: 2026-08-31 15:59:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $350.56
-**Retorno acumulado:** -29.89%
+**Bankroll actual:** $365.07
+**Retorno acumulado:** -26.99%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 15:57:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $130.56)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $180.07)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 33 | 13 | 12 | +34.78 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 37 | 13 | 8 | +49.91 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -52,12 +52,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
+| Sunny24 | 1 | 0 | 0 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | beachboy4 | 6 | 1 | 1 | +1.74 USD |
-| BBQChickenisthebesttt | 1 | 0 | 3 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -65,16 +65,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | AGUGava | 1 | 0 | 1 | +0.24 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 0 | 0 | 1 | +0.00 USD |
-| Sunny24 | 0 | 0 | 1 | +0.00 USD |
 | IQdegen | 0 | 0 | 2 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
+| BBQChickenisthebesttt | 1 | 1 | 2 | -3.36 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 4 | 4 | 1 | -3.68 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | monkeymashingkeyboard | 0 | 1 | 2 | -5.08 USD |
@@ -110,14 +110,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3154
-- **Aciertos:** 2008 (63.7%)
+- **Apuestas resueltas:** 3161
+- **Aciertos:** 2014 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,745.24
-- **ROI sobre lo apostado:** -1.55%
-- **Comisiones pagadas (taker fee):** $287.76 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.27% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,780.24
+- **ROI sobre lo apostado:** -1.46%
+- **Comisiones pagadas (taker fee):** $288.38 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -125,8 +125,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1579 | 49.4% | 50.1% | -0.7 pp |
-| 60-79% | 936 | 70.0% | 67.9% | +2.1 pp |
+| 40-59% | 1581 | 49.5% | 50.1% | -0.6 pp |
+| 60-79% | 941 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 443 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
@@ -668,16 +668,16 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xwise | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 55% | 5.00 | 267.1% | 💰 vendida anticipada | -1.85 |
 | IQdegen | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 59% | 5.00 | 19.3% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 65% | 5.00 | 38.4% | ⏳ pendiente | — |
-| Sunny24 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 39.3% | ⏳ pendiente | — |
+| Sunny24 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 69% | 5.00 | 39.3% | ✅ ganada | +2.17 |
 | monkeymashingkeyboard | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 55% | 5.00 | 179.3% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 80% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 69% | 5.00 | 87.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 55% | 5.00 | 5.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Atalanta BC win on 2026-08-31? | Yes (BUY) | 51% | 5.00 | 37.4% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | CA Osasuna vs. Getafe CF: O/U 2.5 | Under (BUY) | 74% | 5.00 | 21.4% | ✅ ganada | +1.69 |
-| BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | Atalanta BC vs. Bologna FC 1909: O/U 1.5 | Over (BUY) | 78% | 5.00 | 100.7% | ❌ perdida | -5.05 |
 | vito3corleone | Will Arsenal FC win on 2026-08-31? | Yes (BUY) | 66% | 5.00 | 245.0% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 68% | 5.00 | 214.8% | ✅ ganada | +2.27 |
 | NiNo999 | Game Spread: Shnaider (-4.5) vs Snigur ( | Snigur (BUY) | 57% | 5.00 | 2.5% | ⏳ pendiente | — |
 | NiNo999 | Set Handicap: McNally (-1.5) vs Koeverma | McNally (BUY) | 63% | 5.00 | 14.2% | ⏳ pendiente | — |
 | NiNo999 | US Open WTA: Viktorija Golubic vs Diane  | Diane Parry (BUY) | 53% | 5.00 | 17.8% | ⏳ pendiente | — |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 350.5556086025872,
+  "bankroll": 365.06932330274367,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16540,6 +16540,41 @@
       "timestamp": 1788208924.1830285,
       "bankroll": 350.56,
       "event": "venta anticipada: AGUGava \u2014 Aston Villa FC vs. Arsenal FC: O/U 2.5 (+0.24 USD)"
+    },
+    {
+      "timestamp": 1788209940.2566147,
+      "bankroll": 352.72,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788209940.8887646,
+      "bankroll": 355.1,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: FUT Esports vs Vitality - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788209941.530423,
+      "bankroll": 361.86,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: VIT (-1.5) vs FUT Esports (+1.5)"
+    },
+    {
+      "timestamp": 1788209941.8457084,
+      "bankroll": 365.68,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Games Total: O/U 2.5"
+    },
+    {
+      "timestamp": 1788209943.9319463,
+      "bankroll": 367.96,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: FUT Esports vs Vitality (BO3) - BLAST Open Porto Group B"
+    },
+    {
+      "timestamp": 1788209944.5806384,
+      "bankroll": 362.9,
+      "event": "lost: BBQChickenisthebesttt \u2014 Atalanta BC vs. Bologna FC 1909: O/U 1.5"
+    },
+    {
+      "timestamp": 1788209945.6121075,
+      "bankroll": 365.07,
+      "event": "won: Sunny24 \u2014 Counter-Strike: FUT Esports vs Vitality - Map 2 Winner"
     }
   ]
 }
