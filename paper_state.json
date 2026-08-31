@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.3180105701242,
+  "bankroll": 377.6930740621877,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16640,6 +16640,16 @@
       "timestamp": 1788212770.6385477,
       "bankroll": 374.32,
       "event": "won: IQdegen \u2014 US Open ATP: Martin Landaluce vs Jacob Fearnley"
+    },
+    {
+      "timestamp": 1788213076.4667873,
+      "bankroll": 374.85,
+      "event": "won: nigiri99 \u2014 Will FC Barcelona win on 2026-08-31?"
+    },
+    {
+      "timestamp": 1788213080.6216407,
+      "bankroll": 377.69,
+      "event": "won: NiNo999 \u2014 Set Handicap: McNally (-1.5) vs Koevermans (+1.5)"
     }
   ]
 }
