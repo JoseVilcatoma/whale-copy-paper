@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 19:01:39 (hora de Perú)
+Actualizado: 2026-08-30 19:03:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $316.47
@@ -641,7 +641,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | RN1 | Will Deportivo Toluca FC win on 2026-08- | Yes (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Jacob Fearnley (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
-| nigiri99 | Connecticut Sun vs. Dallas Wings: O/U 16 | Under (BUY) | 49% | 5.00 | 0.6% | ⏳ pendiente | — |
+| nigiri99 | Connecticut Sun vs. Dallas Wings: O/U 16 | Under (BUY) | 49% | 5.00 | 0.9% | ⏳ pendiente | — |
 | RN1 | Cincinnati Reds vs. Chicago Cubs | Chicago Cubs (BUY) | 63% | 5.00 | 2.1% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 83% | 5.00 | 788.5% | ⏳ pendiente | — |
 | RN1 | Will SC Internacional win on 2026-08-30? | No (BUY) | 97% | 5.00 | 0.3% | ⏳ pendiente | — |
