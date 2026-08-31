@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 06:12:09 (hora de Perú)
+Actualizado: 2026-08-31 06:14:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $316.86
@@ -646,7 +646,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 9.8% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 10.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs Aurora Gaming | Aurora Gaming (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 89% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Khumoyun Sultanov vs Joshu | Khumoyun Sultanov (BUY) | 68% | 5.00 | 0.5% | ✅ ganada | +2.27 |
