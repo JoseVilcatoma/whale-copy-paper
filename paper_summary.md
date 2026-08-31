@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 10:35:34 (hora de Perú)
+Actualizado: 2026-08-31 10:37:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $312.49
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 10:35:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $147.49)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $142.49)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| beachboy4 | 5 | 1 | 1 | +0.76 USD |
+| beachboy4 | 5 | 1 | 2 | +0.76 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 1 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | NiNo999 | 0 | 0 | 1 | +0.00 USD |
@@ -645,11 +645,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-mouz-fal2-2026-08-31-game2 | 0x29b52d98ac9ef9414b04164246c95BC63d7, SPCEXBUYER |
 | atp-palan-leong-2026-08-30 | RN1, ferrariChampions2026 |
 | atp-matsuda-meng-2026-08-30 | HomeRunHazard, RN1 |
+| atp-vachero-kovacev-2026-08-30 | NiNo999, beachboy4 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| beachboy4 | US Open ATP: Valentin Vacherot vs Aleksa | Valentin Vacherot (BUY) | 83% | 5.00 | 164.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Games Total: O/U 2.5 | Under (BUY) | 56% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: VIT (-1.5) vs FUT Esports  | Vitality (BUY) | 42% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 57% | 5.00 | 8.4% | ⏳ pendiente | — |
@@ -679,4 +681,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Zhangjiagang: Dominik Palan vs Mitsuki W | Mitsuki Wei Kang Leong (BUY) | 76% | 5.00 | 0.5% | ✅ ganada | +1.52 |
 | RN1 | CF Monterrey vs. Atlético San Luis: O/U  | Under (BUY) | 44% | 5.00 | 0.1% | ❌ perdida | -5.14 |
 | HomeRunHazard | Zhangjiagang: Hiroki Moriya vs S D Prajw | Hiroki Moriya (BUY) | 95% | 5.00 | 0.4% | ✅ ganada | +0.25 |
-| HomeRunHazard | US Open ATP: Alexander Bublik vs J.J. Wo | Alexander Bublik (BUY) | 99% | 5.00 | 0.7% | ✅ ganada | +0.05 |
