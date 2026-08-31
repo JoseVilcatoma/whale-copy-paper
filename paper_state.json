@@ -1,5 +1,5 @@
 {
-  "bankroll": 312.48836355579044,
+  "bankroll": 307.36336355579044,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16420,6 +16420,11 @@
       "timestamp": 1788190095.2905352,
       "bankroll": 312.49,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Map Handicap: G2 (-1.5) vs Aurora Gaming (+1.5)"
+    },
+    {
+      "timestamp": 1788194762.463719,
+      "bankroll": 307.36,
+      "event": "lost: SPCEXBUYER \u2014 Counter-Strike: MOUZ vs Team Falcons - Map 1 Winner"
     }
   ]
 }
