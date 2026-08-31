@@ -81084,8 +81084,8 @@
     "title": "Map Handicap: FAL (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 11900.416499999998,
-    "whale_pct": 68.633,
+    "whale_usd": 15676.740099999997,
+    "whale_pct": 90.412,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 71,
@@ -81096,8 +81096,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788145205.6009684,
-    "fills": 4
+    "last_fill_at": 1788146116.4366655,
+    "fills": 5
   },
   {
     "timestamp": 1788142497,
@@ -81108,8 +81108,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 21386.8508,
-    "whale_pct": 123.344,
+    "whale_usd": 25359.6762,
+    "whale_pct": 146.256,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -81120,8 +81120,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788145209.3746767,
-    "fills": 4
+    "last_fill_at": 1788146114.798429,
+    "fills": 5
   },
   {
     "timestamp": 1788142498,
@@ -81132,8 +81132,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 2165.5022,
-    "whale_pct": 12.489,
+    "whale_usd": 4446.8218,
+    "whale_pct": 25.646,
     "whale_value_at_open": 17339.228,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -81144,8 +81144,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788143404.1023972,
-    "fills": 2
+    "last_fill_at": 1788146119.4247012,
+    "fills": 3
   },
   {
     "timestamp": 1788142715,
@@ -81204,8 +81204,8 @@
     "title": "US Open ATP: Mariano Navone vs Novak Djokovic",
     "outcome": "Novak Djokovic",
     "side": "BUY",
-    "whale_usd": 12910.38,
-    "whale_pct": 5.06,
+    "whale_usd": 14386.7199,
+    "whale_pct": 5.639,
     "whale_value_at_open": 255142.8452,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 86,
@@ -81219,8 +81219,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788145327.094806,
-    "fills": 5
+    "last_fill_at": 1788146085.8376002,
+    "fills": 6
   },
   {
     "timestamp": 1788143649,
