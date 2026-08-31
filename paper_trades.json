@@ -82120,8 +82120,8 @@
     "title": "Seattle Mariners vs. Boston Red Sox: O/U 7.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 3319.8749009999997,
-    "whale_pct": 9.41,
+    "whale_usd": 89631.364901,
+    "whale_pct": 254.067,
     "whale_value_at_open": 35278.6042,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -82132,8 +82132,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788191719.0219657,
-    "fills": 1
+    "last_fill_at": 1788203093.7646513,
+    "fills": 6
   },
   {
     "timestamp": 1788191855,

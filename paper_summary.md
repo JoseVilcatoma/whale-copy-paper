@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 14:02:59 (hora de Perú)
+Actualizado: 2026-08-31 14:05:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $338.35
@@ -677,7 +677,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Arthur Fils (BUY) | 54% | 5.00 | 0.9% | ❌ perdida | -5.12 |
 | HomeRunHazard | US Open WTA: Qinwen Zheng vs Kristina Li | Qinwen Zheng (BUY) | 91% | 5.00 | 3.4% | ✅ ganada | +0.47 |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 59% | 5.00 | 66.4% | ⏳ pendiente | — |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 9.4% | ⏳ pendiente | — |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 254.1% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 297.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: FUT Esports vs Vitality  | Vitality (BUY) | 59% | 5.00 | 0.8% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Valentin Vacherot vs Aleksa | Valentin Vacherot (BUY) | 83% | 5.00 | 164.0% | ✅ ganada | +0.98 |
