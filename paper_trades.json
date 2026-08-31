@@ -81799,8 +81799,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons (BO3) - BLAST Open Porto Group B",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 62241.106786000004,
-    "whale_pct": 56.469,
+    "whale_usd": 64368.808225,
+    "whale_pct": 58.4,
     "whale_value_at_open": 110221.1921,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -81814,8 +81814,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189374.9494247,
-    "fills": 35
+    "last_fill_at": 1788189501.7319522,
+    "fills": 37
   },
   {
     "timestamp": 1788188978,
@@ -81826,8 +81826,8 @@
     "title": "Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 44424.45,
-    "whale_pct": 20.304,
+    "whale_usd": 57548.358,
+    "whale_pct": 26.302,
     "whale_value_at_open": 218796.513,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -81840,8 +81840,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189321.6036878,
-    "fills": 2
+    "last_fill_at": 1788189510.7105289,
+    "fills": 3
   },
   {
     "timestamp": 1788189287,
@@ -81937,6 +81937,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788189316.46665,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788189474,
+    "timestamp_added": 1788189474.6254368,
+    "username": "SPCEXBUYER",
+    "wallet": "0xcd30f4698c6f5f3829893e68e183a8e5ea18f316",
+    "slug": "cs2-mouz-fal2-2026-08-31-map-handicap-home-1pt5",
+    "title": "Map Handicap: FAL (-1.5) vs MOUZ (+1.5)",
+    "outcome": "MOUZ",
+    "side": "BUY",
+    "whale_usd": 2764.6056,
+    "whale_pct": 0.927,
+    "whale_value_at_open": 298126.1605,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788189474.625448,
     "fills": 1
   }
 ]
