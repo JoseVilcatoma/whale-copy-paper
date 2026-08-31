@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-30 21:14:38 (hora de Perú)
+Actualizado: 2026-08-30 21:16:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $320.76
@@ -13,7 +13,7 @@ Actualizado: 2026-08-30 21:14:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $110.76)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $95.76)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -27,7 +27,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 11 | 5 | +20.19 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 26 | 11 | 8 | +20.19 USD |
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | SDTrading | 37 | 31 | 2 | +12.71 USD |
@@ -642,6 +642,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons - M | MOUZ (BUY) | 45% | 5.00 | 4.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MOUZ vs Team Falcons (BO | MOUZ (BUY) | 47% | 5.00 | 32.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: FAL (-1.5) vs MOUZ (+1.5) | MOUZ (BUY) | 71% | 5.00 | 3.7% | ⏳ pendiente | — |
 | kekasaur | Will CF Monterrey win on 2026-08-30? | No (BUY) | 47% | 5.00 | 84.9% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Mariano Navone (BUY) | 47% | 5.00 | 51.0% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open ATP: Mariano Navone vs Novak Djo | Novak Djokovic (BUY) | 74% | 5.00 | 59.5% | 💰 vendida anticipada | -1.57 |
@@ -669,6 +672,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Martin Landaluce vs Jacob F | Martin Landaluce (BUY) | 53% | 5.00 | 1.7% | ⏳ pendiente | — |
 | OOOwhyOOO | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 3282.9% | 💰 vendida anticipada | -1.03 |
 | RN1 | Mirassol FC vs. SE Palmeiras: O/U 2.5 | Under (BUY) | 99% | 5.00 | 0.3% | ✅ ganada | +0.05 |
-| RN1 | Will CA Gimnasia y Esgrima de Mendoza wi | Yes (BUY) | 75% | 5.00 | 0.2% | ⏳ pendiente | — |
-| RN1 | Will SE Palmeiras win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.7% | ✅ ganada | +0.41 |
-| RN1 | Deportivo Toluca FC vs. FC Juárez: O/U 3 | Over (BUY) | 43% | 5.00 | 3.7% | ⏳ pendiente | — |
