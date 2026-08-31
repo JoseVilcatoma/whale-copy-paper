@@ -81948,8 +81948,8 @@
     "title": "Map Handicap: FAL (-1.5) vs MOUZ (+1.5)",
     "outcome": "MOUZ",
     "side": "BUY",
-    "whale_usd": 3484.5984,
-    "whale_pct": 1.169,
+    "whale_usd": 4708.5984,
+    "whale_pct": 1.579,
     "whale_value_at_open": 298126.1605,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -81962,8 +81962,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788189775.4025953,
-    "fills": 2
+    "last_fill_at": 1788190391.5747457,
+    "fills": 3
   },
   {
     "timestamp": 1788190161,
