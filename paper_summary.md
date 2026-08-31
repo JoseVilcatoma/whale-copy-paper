@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 07:29:57 (hora de Perú)
+Actualizado: 2026-08-31 07:32:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $325.86
@@ -646,8 +646,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: ex-RUSTEC (-1.5) vs Bushid | Bushido Wildcats (BUY) | 52% | 5.00 | 14.3% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: BW (-1.5) vs ex-RUSTEC (+1 | ex-RUSTEC (BUY) | 52% | 5.00 | 14.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: ex-RUSTEC (-1.5) vs Bushid | Bushido Wildcats (BUY) | 52% | 5.00 | 22.5% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: BW (-1.5) vs ex-RUSTEC (+1 | ex-RUSTEC (BUY) | 52% | 5.00 | 22.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs UPGRADE (BO3) - | Color (BUY) | 70% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs Aurora Gaming | Aurora Gaming (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
