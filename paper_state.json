@@ -1,5 +1,5 @@
 {
-  "bankroll": 303.21645994133263,
+  "bankroll": 319.79913626983506,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16435,6 +16435,21 @@
       "timestamp": 1788197744.184282,
       "bankroll": 303.22,
       "event": "won: beachboy4 \u2014 US Open ATP: Valentin Vacherot vs Aleksandar Kovacevic"
+    },
+    {
+      "timestamp": 1788197863.5998828,
+      "bankroll": 308.09,
+      "event": "won: RN1 \u2014 US Open ATP: Thiago Agustin Tirante vs Adrian Mannarino"
+    },
+    {
+      "timestamp": 1788197864.8528926,
+      "bankroll": 314.06,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788197866.342459,
+      "bankroll": 319.8,
+      "event": "won: SPCEXBUYER \u2014 Counter-Strike: MOUZ vs Team Falcons - Map 2 Winner"
     }
   ]
 }
