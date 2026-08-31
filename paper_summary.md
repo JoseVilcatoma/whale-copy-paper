@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 06:08:03 (hora de Perú)
+Actualizado: 2026-08-31 06:10:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $316.86
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 06:08:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $191.86)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $186.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 3 | 3 | 0 | -3.85 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 3 | 3 | 1 | -3.85 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | HomeRunHazard | 422 | 225 | 1 | -4.76 USD |
@@ -638,6 +638,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-mon1-asl-2026-08-30-mon1 | kekasaur, nigiri99 |
 | wta-birrell-marcink-2026-08-30 | OOOwhyOOO, RN1 |
 | atp-navone-djokovi-2026-08-30 | HomeRunHazard, OOOwhyOOO, RN1 |
+| cs2-g2-aur1-2026-08-31-game1 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | atp-palan-leong-2026-08-30 | RN1, ferrariChampions2026 |
 | atp-matsuda-meng-2026-08-30 | HomeRunHazard, RN1 |
 
@@ -645,6 +646,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 9.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: G2 (-1.5) vs Aurora Gaming | Aurora Gaming (BUY) | 71% | 5.00 | 1.4% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Koki Matsuda vs Fanming Me | Koki Matsuda (BUY) | 89% | 5.00 | 1.6% | ⏳ pendiente | — |
 | HomeRunHazard | Zhangjiagang: Khumoyun Sultanov vs Joshu | Khumoyun Sultanov (BUY) | 68% | 5.00 | 0.5% | ✅ ganada | +2.27 |
@@ -674,4 +676,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 50% | 5.00 | 3.4% | ❌ perdida | -5.12 |
 | RN1 | Cincinnati Reds vs. Chicago Cubs: O/U 8. | Over (BUY) | 48% | 5.00 | 0.3% | ✅ ganada | +5.29 |
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | LoL: Cloud9 vs Shopify Rebellion (BO3) - | Shopify Rebellion (BUY) | 78% | 5.00 | 5.8% | 💰 vendida anticipada | -0.11 |
-| RN1 | Will FC Juárez win on 2026-08-30? | No (BUY) | 92% | 5.00 | 0.2% | ✅ ganada | +0.41 |

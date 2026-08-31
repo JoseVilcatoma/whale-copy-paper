@@ -81593,5 +81593,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788155119.600334,
     "fills": 1
+  },
+  {
+    "timestamp": 1788174509,
+    "timestamp_added": 1788174509.709391,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "cs2-g2-aur1-2026-08-31-game1",
+    "title": "Counter-Strike: G2 vs Aurora Gaming - Map 1 Winner",
+    "outcome": "G2",
+    "side": "BUY",
+    "whale_usd": 9800.0,
+    "whale_pct": 9.778,
+    "whale_value_at_open": 100223.7608,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x29b52d98ac9ef9414b04164246c95BC63d7"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788174509.7094042,
+    "fills": 1
   }
 ]
