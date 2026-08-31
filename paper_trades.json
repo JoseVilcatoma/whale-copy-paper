@@ -82866,12 +82866,40 @@
     "odds_at_bet": 89,
     "fee_usd": 0.027,
     "odds_ballena": 87,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 0.24,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788208292.8240638,
-    "fills": 4
+    "fills": 4,
+    "fee_total_usd": 0.043,
+    "closed_price": 94
+  },
+  {
+    "timestamp": 1788208878,
+    "timestamp_added": 1788208879.3001215,
+    "username": "AGUGava",
+    "wallet": "0x0353aaf82abbd3e69c00059df0a825bc198fc2ff",
+    "slug": "wta-volynet-noskova-2026-08-30",
+    "title": "US Open WTA: Katie Volynets vs Linda Noskova",
+    "outcome": "Katie Volynets",
+    "side": "BUY",
+    "whale_usd": 5497.9341,
+    "whale_pct": 18.088,
+    "whale_value_at_open": 30395.3809,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0xwise"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788208879.3001328,
+    "fills": 1
   }
 ]

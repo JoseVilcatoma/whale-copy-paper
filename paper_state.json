@@ -1,5 +1,5 @@
 {
-  "bankroll": 350.3175524228119,
+  "bankroll": 350.5556086025872,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16535,6 +16535,11 @@
       "timestamp": 1788208334.0598395,
       "bankroll": 350.32,
       "event": "venta anticipada: 0xwise \u2014 US Open WTA: Katie Volynets vs Linda Noskova (-1.85 USD)"
+    },
+    {
+      "timestamp": 1788208924.1830285,
+      "bankroll": 350.56,
+      "event": "venta anticipada: AGUGava \u2014 Aston Villa FC vs. Arsenal FC: O/U 2.5 (+0.24 USD)"
     }
   ]
 }
