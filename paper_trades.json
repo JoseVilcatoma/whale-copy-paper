@@ -83114,8 +83114,8 @@
     "title": "US Open ATP: Matteo Berrettini vs Stan Wawrinka",
     "outcome": "Matteo Berrettini",
     "side": "BUY",
-    "whale_usd": 1682.3490960000004,
-    "whale_pct": 0.338,
+    "whale_usd": 9774.336368,
+    "whale_pct": 1.967,
     "whale_value_at_open": 497004.4884,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -83128,8 +83128,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788212644.2961252,
-    "fills": 1
+    "last_fill_at": 1788213898.2812312,
+    "fills": 3
   },
   {
     "timestamp": 1788212793,
