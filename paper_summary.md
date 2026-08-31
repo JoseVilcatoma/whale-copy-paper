@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 12:23:28 (hora de Perú)
+Actualizado: 2026-08-31 12:25:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $307.36
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 12:23:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $87.36)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $82.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,7 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| HomeRunHazard | 423 | 225 | 7 | -4.17 USD |
+| HomeRunHazard | 423 | 225 | 8 | -4.17 USD |
 | monkeymashingkeyboard | 0 | 1 | 0 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -637,7 +637,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mex-tol-jua-2026-08-30-total-3pt5 | RN1, nigiri99 |
 | mex-tol-jua-2026-08-30-tol | RN1, nigiri99 |
 | mex-mon1-asl-2026-08-30-mon1 | kekasaur, nigiri99 |
-| wta-birrell-marcink-2026-08-30 | OOOwhyOOO, RN1 |
+| wta-birrell-marcink-2026-08-30 | HomeRunHazard, OOOwhyOOO, RN1 |
 | atp-navone-djokovi-2026-08-30 | HomeRunHazard, OOOwhyOOO, RN1 |
 | cs2-g2-aur1-2026-08-31-game1 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | cs2-mouz-fal2-2026-08-31-map-handicap-home-1pt5 | 0x29b52d98ac9ef9414b04164246c95BC63d7, SPCEXBUYER |
@@ -651,13 +651,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HomeRunHazard | US Open WTA: Kimberly Birrell vs Petra M | Petra Marcinko (BUY) | 78% | 5.00 | 1.7% | ⏳ pendiente | — |
 | HomeRunHazard | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 46% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open WTA: Aoi Ito vs Oksana Selekhmet | Oksana Selekhmeteva (BUY) | 86% | 5.00 | 0.6% | ⏳ pendiente | — |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Mika Petkovic (BUY) | 65% | 5.00 | 0.5% | ⏳ pendiente | — |
 | HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Stefanos Tsitsipas (BUY) | 49% | 5.00 | 1.1% | ⏳ pendiente | — |
 | HomeRunHazard | Porto: Mika Petkovic vs Tiago Torres | Tiago Torres (BUY) | 43% | 5.00 | 0.3% | ⏳ pendiente | — |
 | HomeRunHazard | US Open ATP: Stefanos Tsitsipas vs Arthu | Arthur Fils (BUY) | 54% | 5.00 | 0.9% | ⏳ pendiente | — |
-| HomeRunHazard | US Open WTA: Qinwen Zheng vs Kristina Li | Qinwen Zheng (BUY) | 91% | 5.00 | 2.2% | ⏳ pendiente | — |
+| HomeRunHazard | US Open WTA: Qinwen Zheng vs Kristina Li | Qinwen Zheng (BUY) | 91% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 59% | 5.00 | 66.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 9.4% | ⏳ pendiente | — |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 297.8% | ⏳ pendiente | — |
@@ -680,4 +681,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: ex-RUSTEC (-1.5) vs Bushid | Bushido Wildcats (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: BW (-1.5) vs ex-RUSTEC (+1 | ex-RUSTEC (BUY) | 52% | 5.00 | 26.9% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Color vs UPGRADE (BO3) - | Color (BUY) | 70% | 5.00 | 8.9% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: G2 vs Aurora Gaming - Ma | G2 (BUY) | 50% | 5.00 | 11.0% | ❌ perdida | -5.12 |

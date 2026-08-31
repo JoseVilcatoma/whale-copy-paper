@@ -82168,8 +82168,8 @@
     "title": "US Open WTA: Qinwen Zheng vs Kristina Liutova",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 6110.7489000000005,
-    "whale_pct": 2.211,
+    "whale_usd": 7060.031980000001,
+    "whale_pct": 2.555,
     "whale_value_at_open": 276349.8265,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -82180,8 +82180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788196658.7459166,
-    "fills": 1
+    "last_fill_at": 1788197132.5908337,
+    "fills": 2
   },
   {
     "timestamp": 1788196766,
@@ -82325,6 +82325,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788196863.0341783,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788197120,
+    "timestamp_added": 1788197121.031449,
+    "username": "HomeRunHazard",
+    "wallet": "0x5268527977f700f9bf9b6d5cd843859e4e70135d",
+    "slug": "wta-birrell-marcink-2026-08-30",
+    "title": "US Open WTA: Kimberly Birrell vs Petra Marcinko",
+    "outcome": "Petra Marcinko",
+    "side": "BUY",
+    "whale_usd": 4983.2034,
+    "whale_pct": 1.687,
+    "whale_value_at_open": 295470.4234,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 78,
+    "fee_usd": 0.055,
+    "odds_ballena": 76,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "OOOwhyOOO",
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788197121.031462,
     "fills": 1
   }
 ]
