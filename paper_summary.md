@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 03:51:02 (hora de Perú)
+Actualizado: 2026-09-01 03:53:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.22
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 03:51:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $304.22)
+**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $299.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -69,7 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 0 | +0.05 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | no1dodgersfan | 0 | 0 | 2 | +0.00 USD |
-| tikstt | 0 | 0 | 2 | +0.00 USD |
+| tikstt | 0 | 0 | 3 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -681,9 +681,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| tikstt | Will Swansea City AFC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 5.6% | ⏳ pendiente | — |
 | tikstt | Will Portsmouth FC win on 2026-09-01? | No (BUY) | 54% | 5.00 | 45.4% | ⏳ pendiente | — |
 | UpTheBlues | Will Portsmouth FC win on 2026-09-01? | Yes (BUY) | 48% | 5.00 | 1.8% | ⏳ pendiente | — |
-| tikstt | Will Birmingham City FC win on 2026-09-0 | No (BUY) | 64% | 5.00 | 222.5% | ⏳ pendiente | — |
+| tikstt | Will Birmingham City FC win on 2026-09-0 | No (BUY) | 64% | 5.00 | 279.5% | ⏳ pendiente | — |
 | no1dodgersfan | Yomiuri Giants vs. Yokohama BayStars | Yomiuri Giants (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 73% | 5.00 | 334.4% | ⏳ pendiente | — |
 | asd147 | CSyD Defensa y Justicia vs. CA Platense: | Under (BUY) | 99% | 5.00 | 7.3% | ✅ ganada | +0.05 |
@@ -710,4 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 85% | 5.00 | 1.2% | ❌ perdida | -5.04 |
 | RN1 | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 68% | 5.00 | 0.6% | ✅ ganada | +2.27 |
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 57% | 5.00 | 0.7% | ⏳ pendiente | — |
-| RN1 | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
