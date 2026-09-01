@@ -85019,8 +85019,8 @@
     "title": "US Open ATP: Jesper de Jong vs Francesco Passaro",
     "outcome": "Jesper de Jong",
     "side": "BUY",
-    "whale_usd": 780.3299999999999,
-    "whale_pct": 0.526,
+    "whale_usd": 3171.2811619999993,
+    "whale_pct": 2.137,
     "whale_value_at_open": 148396.1541,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -85033,7 +85033,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788262967.7475505,
-    "fills": 1
+    "last_fill_at": 1788263578.235988,
+    "fills": 4
   }
 ]
