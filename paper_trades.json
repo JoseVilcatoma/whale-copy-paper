@@ -84913,5 +84913,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788261278.3896284,
     "fills": 1
+  },
+  {
+    "timestamp": 1788261559,
+    "timestamp_added": 1788261559.9804122,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "wta-oliynyk-brantme-2026-08-30",
+    "title": "US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier",
+    "outcome": "Reese Brantmeier",
+    "side": "BUY",
+    "whale_usd": 4999.9992,
+    "whale_pct": 31.347,
+    "whale_value_at_open": 15950.6675,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 50,
+    "fee_usd": 0.125,
+    "odds_ballena": 49,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788261559.980424,
+    "fills": 1
   }
 ]
