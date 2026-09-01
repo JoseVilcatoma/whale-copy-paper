@@ -1,5 +1,5 @@
 {
-  "bankroll": 390.2879029533194,
+  "bankroll": 393.87351406443054,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17150,6 +17150,21 @@
       "timestamp": 1788299246.8616362,
       "bankroll": 390.29,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Filip Misolic vs Francisco Cerundolo"
+    },
+    {
+      "timestamp": 1788300497.3323739,
+      "bankroll": 396.26,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: TLN Pirates vs Karmine Corp Blue (BO5) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1788300498.4080215,
+      "bankroll": 398.98,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: KCB (-1.5) vs TLN Pirates (+1.5)"
+    },
+    {
+      "timestamp": 1788300501.0359976,
+      "bankroll": 393.87,
+      "event": "lost: DoNotTailMe \u2014 LoL: TLN Pirates vs Karmine Corp Blue (BO5) - LFL Playoffs"
     }
   ]
 }
