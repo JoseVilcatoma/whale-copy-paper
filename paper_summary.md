@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 05:37:31 (hora de Perú)
+Actualizado: 2026-09-01 05:39:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 05:37:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $239.37)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $234.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -113,7 +113,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 375 | 234 | 4 | -146.62 USD |
+| ferrariChampions2026 | 375 | 234 | 5 | -146.62 USD |
 
 ## Análisis general
 
@@ -681,6 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open ATP: Filip Misolic vs Francisco  | Francisco Cerundolo (BUY) | 95% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Saint-Palais-sur-Mer: Aurora Zantede | Aurora Zantedeschi (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Nick Hardt vs Marco Cecchinato | Nick Hardt (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Maximus Jones vs Oskari Paldani | Maximus Jones (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -710,4 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ✅ ganada | +0.36 |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ✅ ganada | +0.05 |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
-| Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ✅ ganada | +3.10 |

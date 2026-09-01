@@ -84721,5 +84721,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788258937.6048706,
     "fills": 1
+  },
+  {
+    "timestamp": 1788259082,
+    "timestamp_added": 1788259083.4867399,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-misolic-cerundo-2026-08-30",
+    "title": "US Open ATP: Filip Misolic vs Francisco Cerundolo",
+    "outcome": "Francisco Cerundolo",
+    "side": "BUY",
+    "whale_usd": 14067.701198,
+    "whale_pct": 6.842,
+    "whale_value_at_open": 205597.6596,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788259096.5432937,
+    "fills": 2
   }
 ]
