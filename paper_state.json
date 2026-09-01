@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.8685834705668,
+  "bankroll": 391.24015974175325,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17025,6 +17025,11 @@
       "timestamp": 1788264278.6038024,
       "bankroll": 387.87,
       "event": "won: Flaznorp \u2014 Plovdiv 3: Eric Vanshelboim vs Calvin Hemery"
+    },
+    {
+      "timestamp": 1788264589.1885097,
+      "bankroll": 391.24,
+      "event": "won: Flaznorp \u2014 Como: Olle Wallin vs Johan Nikles"
     }
   ]
 }

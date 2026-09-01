@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 07:07:52 (hora de Perú)
+Actualizado: 2026-09-01 07:09:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $387.87
-**Retorno acumulado:** -22.43%
+**Bankroll actual:** $391.24
+**Retorno acumulado:** -21.75%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 07:07:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $212.87)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $221.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,13 +31,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | quavoo | 30 | 15 | 2 | +12.99 USD |
+| Flaznorp | 14 | 2 | 7 | +11.92 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 2 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| Flaznorp | 13 | 2 | 8 | +8.55 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -117,14 +117,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3247
-- **Aciertos:** 2072 (63.8%)
+- **Apuestas resueltas:** 3248
+- **Aciertos:** 2073 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,210.24
-- **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $295.89 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,215.24
+- **ROI sobre lo apostado:** -1.30%
+- **Comisiones pagadas (taker fee):** $295.99 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -132,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1624 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1625 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 961 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 458 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
@@ -684,7 +684,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Lucie Havlickova vs Anna Bo | Anna Bondar (BUY) | 62% | 5.00 | 18.8% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
-| Flaznorp | Como: Olle Wallin vs Johan Nikles | Johan Nikles (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
+| Flaznorp | Como: Olle Wallin vs Johan Nikles | Johan Nikles (BUY) | 59% | 5.00 | 0.9% | ✅ ganada | +3.37 |
 | AV23IUa | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 65% | 5.00 | 4.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 68% | 5.00 | 35.1% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Oleksandra Oliynykova vs Re | Reese Brantmeier (BUY) | 50% | 5.00 | 31.3% | ⏳ pendiente | — |
