@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.6169667432435,
+  "bankroll": 381.1018737199877,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17000,6 +17000,11 @@
       "timestamp": 1788259543.372417,
       "bankroll": 374.62,
       "event": "won: Flaznorp \u2014 Manacor: Charles Broom vs Mathys Erhard"
+    },
+    {
+      "timestamp": 1788261735.8333058,
+      "bankroll": 381.1,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Daniel Siniakov vs Georgii Kravchenko"
     }
   ]
 }
