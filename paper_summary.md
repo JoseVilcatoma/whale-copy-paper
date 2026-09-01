@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 06:57:30 (hora de Perú)
+Actualizado: 2026-09-01 06:59:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $387.03
-**Retorno acumulado:** -22.59%
+**Bankroll actual:** $387.28
+**Retorno acumulado:** -22.54%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 06:57:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $207.03)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $212.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| Flaznorp | 11 | 2 | 10 | +7.71 USD |
+| Flaznorp | 12 | 2 | 9 | +7.96 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -117,13 +117,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3245
-- **Aciertos:** 2070 (63.8%)
+- **Apuestas resueltas:** 3246
+- **Aciertos:** 2071 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,200.24
+- **Total apostado (suma de stakes):** $16,205.24
 - **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $295.85 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $295.86 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1624 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 961 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
-| 95-99% (casi seguro) | 203 | 96.6% | 97.4% | -0.8 pp |
+| 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -687,7 +687,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 65% | 5.00 | 4.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 68% | 5.00 | 35.1% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Oleksandra Oliynykova vs Re | Reese Brantmeier (BUY) | 50% | 5.00 | 31.3% | ⏳ pendiente | — |
-| Flaznorp | Plovdiv 3: Pol Martin Tiffon vs Juan Pab | Pol Martin Tiffon (BUY) | 95% | 5.00 | 1.3% | ⏳ pendiente | — |
+| Flaznorp | Plovdiv 3: Pol Martin Tiffon vs Juan Pab | Pol Martin Tiffon (BUY) | 95% | 5.00 | 1.3% | ✅ ganada | +0.25 |
 | Flaznorp | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Eric Vanshelboim vs Calvin He | Calvin Hemery (BUY) | 89% | 5.00 | 1.5% | ⏳ pendiente | — |
 | Flaznorp | Will Shanghai Shenhua FC win on 2026-09- | No (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |

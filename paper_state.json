@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.0274480477401,
+  "bankroll": 387.27760594247695,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17015,6 +17015,11 @@
       "timestamp": 1788262851.2393959,
       "bankroll": 387.03,
       "event": "won: ferrariChampions2026 \u2014 Manacor: Maximus Jones vs Oskari Paldanius"
+    },
+    {
+      "timestamp": 1788263906.0086274,
+      "bankroll": 387.28,
+      "event": "won: Flaznorp \u2014 Plovdiv 3: Pol Martin Tiffon vs Juan Pablo Ficovich"
     }
   ]
 }
