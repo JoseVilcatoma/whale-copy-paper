@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 18:43:05 (hora de Perú)
+Actualizado: 2026-09-01 18:45:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $395.08
@@ -689,7 +689,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 30.9% | ⏳ pendiente | — |
+| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 61.9% | ⏳ pendiente | — |
 | Painfulvoid | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 10.3% | ⏳ pendiente | — |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 42% | 5.00 | 11.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 61% | 5.00 | 36.2% | ⏳ pendiente | — |
