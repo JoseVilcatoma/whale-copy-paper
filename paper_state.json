@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.2100011556064,
+  "bankroll": 395.0820011556064,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17200,6 +17200,11 @@
       "timestamp": 1788303605.000056,
       "bankroll": 400.21,
       "event": "won: AV23IUa \u2014 US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier"
+    },
+    {
+      "timestamp": 1788303910.7538786,
+      "bankroll": 395.08,
+      "event": "lost: UpTheBlues \u2014 Torino FC vs. AC Monza: Both Teams to Score"
     }
   ]
 }
