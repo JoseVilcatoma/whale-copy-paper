@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 00:17:19 (hora de Perú)
+Actualizado: 2026-09-01 00:19:26 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $374.72
-**Retorno acumulado:** -25.06%
+**Bankroll actual:** $384.18
+**Retorno acumulado:** -23.16%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 00:17:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $90.00 en 18 posiciones abiertas (disponible para nuevas apuestas: $284.72)
+**Capital comprometido ahora mismo:** $70.00 en 14 posiciones abiertas (disponible para nuevas apuestas: $314.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| Flaznorp | 7 | 2 | 1 | +5.95 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
+| 0x4f2 | 1 | 0 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
@@ -63,13 +65,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| Flaznorp | 6 | 2 | 2 | +0.66 USD |
-| NiNo999 | 5 | 4 | 1 | +0.40 USD |
 | UpTheBlues | 1 | 0 | 0 | +0.36 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 0 | +0.05 USD |
 | no1dodgersfan | 0 | 0 | 1 | +0.00 USD |
-| 0x4f2 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -84,6 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunny24 | 2 | 2 | 0 | -3.57 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| NiNo999 | 5 | 5 | 0 | -4.69 USD |
 | Painfulvoid | 0 | 1 | 1 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -91,13 +91,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
+| monkeymashingkeyboard | 2 | 3 | 1 | -5.59 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
-| monkeymashingkeyboard | 1 | 3 | 2 | -9.57 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -115,14 +115,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3229
-- **Aciertos:** 2058 (63.7%)
+- **Apuestas resueltas:** 3233
+- **Aciertos:** 2061 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,120.24
-- **ROI sobre lo apostado:** -1.41%
-- **Comisiones pagadas (taker fee):** $294.52 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,140.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $294.99 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -130,8 +130,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1615 | 49.6% | 50.1% | -0.5 pp |
-| 60-79% | 958 | 69.8% | 67.9% | +2.0 pp |
+| 40-59% | 1618 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 959 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 199 | 96.5% | 97.4% | -0.9 pp |
 
@@ -678,7 +678,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 7.0% | ⏳ pendiente | — |
+| 0x4f2 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 7.0% | ✅ ganada | +5.29 |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 54% | 5.00 | 6.3% | ⏳ pendiente | — |
 | no1dodgersfan | Counter-Strike: THUNDER dOWNUNDER vs Gro | THUNDER dOWNUNDER (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Painfulvoid | Athletics vs. Texas Rangers | Texas Rangers (BUY) | 65% | 5.00 | 12.4% | ⏳ pendiente | — |
@@ -688,7 +688,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
 | Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ✅ ganada | +3.10 |
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ✅ ganada | +0.25 |
-| Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
+| Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ✅ ganada | +5.29 |
 | Flaznorp | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 82% | 5.00 | 0.9% | ✅ ganada | +1.05 |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Over (BUY) | 65% | 5.00 | 0.8% | ❌ perdida | -5.09 |
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Boston Red Sox (BUY) | 87% | 5.00 | 0.6% | ✅ ganada | +0.71 |

@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.7233500057621,
+  "bankroll": 384.1835924300046,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16935,6 +16935,26 @@
       "timestamp": 1788238705.990453,
       "bankroll": 374.72,
       "event": "won: NiNo999 \u2014 Philadelphia Phillies vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1788239959.6108148,
+      "bankroll": 378.7,
+      "event": "won: monkeymashingkeyboard \u2014 Baltimore Orioles vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788239959.9658375,
+      "bankroll": 373.61,
+      "event": "lost: NiNo999 \u2014 Baltimore Orioles vs. Colorado Rockies: O/U 9.5"
+    },
+    {
+      "timestamp": 1788239961.0698051,
+      "bankroll": 378.9,
+      "event": "won: Flaznorp \u2014 Baltimore Orioles vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788239961.5706253,
+      "bankroll": 384.18,
+      "event": "won: 0x4f2 \u2014 Baltimore Orioles vs. Colorado Rockies"
     }
   ]
 }
