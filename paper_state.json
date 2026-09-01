@@ -1,5 +1,5 @@
 {
-  "bankroll": 402.24326657354237,
+  "bankroll": 397.1152665735424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17105,6 +17105,11 @@
       "timestamp": 1788294230.1203332,
       "bankroll": 402.24,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights (BO5) - Prime League 1st Division Playoffs"
+    },
+    {
+      "timestamp": 1788295487.210256,
+      "bankroll": 397.12,
+      "event": "lost: DoNotTailMe \u2014 LoL: TLN Pirates vs Karmine Corp Blue - Game 2 Winner"
     }
   ]
 }
