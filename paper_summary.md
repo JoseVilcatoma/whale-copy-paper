@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 04:43:49 (hora de Perú)
+Actualizado: 2026-09-01 04:45:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $374.22
-**Retorno acumulado:** -25.16%
+**Bankroll actual:** $374.27
+**Retorno acumulado:** -25.15%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 04:43:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $264.22)
+**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $269.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 8 | 2 | 4 | +7.31 USD |
+| Flaznorp | 9 | 2 | 3 | +7.36 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
@@ -117,12 +117,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3239
-- **Aciertos:** 2064 (63.7%)
+- **Apuestas resueltas:** 3240
+- **Aciertos:** 2065 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,170.24
-- **ROI sobre lo apostado:** -1.41%
+- **Total apostado (suma de stakes):** $16,175.24
+- **ROI sobre lo apostado:** -1.40%
 - **Comisiones pagadas (taker fee):** $295.50 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
 
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1622 | 49.6% | 50.1% | -0.5 pp |
 | 60-79% | 960 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
-| 95-99% (casi seguro) | 200 | 96.5% | 97.4% | -0.9 pp |
+| 95-99% (casi seguro) | 201 | 96.5% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -685,7 +685,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Torino FC vs. AC Monza: Both Teams to Sc | Yes (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Huddersfield Town AFC win on 2026-0 | No (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Will Sheffield Wednesday FC win on 2026- | No (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | Zhangjiagang: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 99% | 5.00 | 5.0% | ⏳ pendiente | — |
+| Flaznorp | Zhangjiagang: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 99% | 5.00 | 5.0% | ✅ ganada | +0.05 |
 | Flaznorp | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff (BUY) | 95% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | US Open WTA: Kaitlin Quevedo vs Elise Me | Elise Mertens (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
 | tikstt | Will Swansea City AFC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 15.1% | ⏳ pendiente | — |

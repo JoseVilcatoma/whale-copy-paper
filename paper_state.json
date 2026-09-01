@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.2222629816751,
+  "bankroll": 374.26976803218014,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16985,6 +16985,11 @@
       "timestamp": 1788248008.8668098,
       "bankroll": 374.22,
       "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Seattle Mariners vs. Boston Red Sox: O/U 7.5"
+    },
+    {
+      "timestamp": 1788255947.2480795,
+      "bankroll": 374.27,
+      "event": "won: Flaznorp \u2014 Zhangjiagang: Ilya Ivashka vs Yi Zhou"
     }
   ]
 }
