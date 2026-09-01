@@ -1,5 +1,5 @@
 {
-  "bankroll": 389.8577827025747,
+  "bankroll": 392.1782289295503,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17125,6 +17125,16 @@
       "timestamp": 1788297987.8556867,
       "bankroll": 389.86,
       "event": "lost: UpTheBlues \u2014 Will Sheffield Wednesday FC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788298305.3707705,
+      "bankroll": 392.13,
+      "event": "won: AV23IUa \u2014 US Open ATP: Mattia Bellucci vs Zsombor Piros"
+    },
+    {
+      "timestamp": 1788298310.6461227,
+      "bankroll": 392.18,
+      "event": "won: 00XyXyzzyxzzqyej233j2j32h4h35 \u2014 US Open ATP: Mattia Bellucci vs Zsombor Piros"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 16:29:42 (hora de Perú)
+Actualizado: 2026-09-01 16:31:56 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $389.86
-**Retorno acumulado:** -22.03%
+**Bankroll actual:** $392.18
+**Retorno acumulado:** -21.56%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 16:29:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $164.86)
+**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $177.18)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 27 | 19 | 3 | +0.80 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 0 | +0.37 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 1 | +0.05 USD |
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 0 | 0 | +0.10 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | tikstt | 0 | 0 | 3 | +0.00 USD |
 | HongYunX | 0 | 0 | 1 | +0.00 USD |
@@ -108,7 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| AV23IUa | 14 | 13 | 6 | -21.10 USD |
+| AV23IUa | 15 | 13 | 5 | -18.83 USD |
 | RN1 | 483 | 227 | 0 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -118,14 +118,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3267
-- **Aciertos:** 2085 (63.8%)
+- **Apuestas resueltas:** 3269
+- **Aciertos:** 2087 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,310.24
-- **ROI sobre lo apostado:** -1.30%
-- **Comisiones pagadas (taker fee):** $297.80 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,320.24
+- **ROI sobre lo apostado:** -1.28%
+- **Comisiones pagadas (taker fee):** $297.88 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -134,9 +134,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1633 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 970 | 69.8% | 67.9% | +1.9 pp |
+| 60-79% | 971 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 460 | 86.7% | 86.7% | +0.1 pp |
-| 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
+| 95-99% (casi seguro) | 205 | 96.6% | 97.4% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -691,7 +691,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 2.3% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 69% | 5.00 | 75.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 43% | 5.00 | 101.7% | ⏳ pendiente | — |
-| 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 99% | 5.00 | 149.3% | ⏳ pendiente | — |
+| 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 99% | 5.00 | 149.3% | ✅ ganada | +0.05 |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue (B | Karmine Corp Blue (BUY) | 56% | 5.00 | 39.7% | ⏳ pendiente | — |
 | AV23IUa | US Open WTA: Oleksandra Oliynykova vs Re | Oleksandra Oliynykova (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Mou | Corentin Moutet (BUY) | 69% | 5.00 | 3535.0% | ⏳ pendiente | — |
