@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 12:27:39 (hora de Perú)
+Actualizado: 2026-09-01 12:29:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $396.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 12:27:39 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $171.05)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $166.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -107,7 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| AV23IUa | 14 | 13 | 4 | -21.10 USD |
+| AV23IUa | 14 | 13 | 5 | -21.10 USD |
 | RN1 | 483 | 227 | 0 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Marcos Giron vs Ignacio Bus | Ignacio Buse (BUY) | 61% | 5.00 | 6.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 49% | 5.00 | 29.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 63% | 5.00 | 2.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Philadelphia Phillies vs. Arizona Diamon | Over (BUY) | 52% | 5.00 | 39.1% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 45% | 5.00 | 129.3% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Rafael Jodar vs Thanasi Kok | Rafael Jodar (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Filip Misolic vs Francisco  | Francisco Cerundolo (BUY) | 95% | 5.00 | 6.8% | ⏳ pendiente | — |

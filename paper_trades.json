@@ -85443,5 +85443,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788282571.0240328,
     "fills": 3
+  },
+  {
+    "timestamp": 1788283698,
+    "timestamp_added": 1788283699.982407,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-giron-buse-2026-08-30",
+    "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
+    "outcome": "Ignacio Buse",
+    "side": "BUY",
+    "whale_usd": 19849.379999999997,
+    "whale_pct": 6.916,
+    "whale_value_at_open": 286996.3871,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788283703.7255065,
+    "fills": 2
   }
 ]
