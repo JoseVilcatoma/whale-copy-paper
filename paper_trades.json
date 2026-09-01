@@ -83854,8 +83854,8 @@
     "title": "Will CA Barracas Central win on 2026-08-31?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 664.0,
-    "whale_pct": 0.48,
+    "whale_usd": 1323.02,
+    "whale_pct": 0.957,
     "whale_value_at_open": 138200.6707,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -83866,8 +83866,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788225667.3720567,
-    "fills": 1
+    "last_fill_at": 1788226281.1066537,
+    "fills": 2
   },
   {
     "timestamp": 1788225727,
@@ -83926,8 +83926,8 @@
     "title": "Detroit Tigers vs. Minnesota Twins: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 530.5,
-    "whale_pct": 0.374,
+    "whale_usd": 1340.5,
+    "whale_pct": 0.945,
     "whale_value_at_open": 141834.882,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 82,
@@ -83938,7 +83938,59 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788226115.805795,
+    "last_fill_at": 1788226334.6327887,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788226250,
+    "timestamp_added": 1788226250.7111194,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-bal-col-2026-08-31",
+    "title": "Baltimore Orioles vs. Colorado Rockies",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 995.93,
+    "whale_pct": 0.69,
+    "whale_value_at_open": 144363.8091,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788226250.71113,
     "fills": 1
+  },
+  {
+    "timestamp": 1788226300,
+    "timestamp_added": 1788226301.1638553,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-shelton-grieksp-2026-08-30",
+    "title": "US Open ATP: Ben Shelton vs Tallon Griekspoor",
+    "outcome": "Ben Shelton",
+    "side": "BUY",
+    "whale_usd": 5293.168794,
+    "whale_pct": 3.667,
+    "whale_value_at_open": 144363.8091,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788226359.3447301,
+    "fills": 2
   }
 ]
