@@ -85539,5 +85539,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788285373.3902485,
     "fills": 2
+  },
+  {
+    "timestamp": 1788286241,
+    "timestamp_added": 1788286241.8539588,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-tlnpir-kcb-2026-09-01-game3",
+    "title": "LoL: TLN Pirates vs Karmine Corp Blue - Game 3 Winner",
+    "outcome": "Karmine Corp Blue",
+    "side": "BUY",
+    "whale_usd": 1364.782,
+    "whale_pct": 7.913,
+    "whale_value_at_open": 17246.9199,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788286241.8539734,
+    "fills": 1
   }
 ]
