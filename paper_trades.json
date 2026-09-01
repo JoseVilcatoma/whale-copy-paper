@@ -85059,5 +85059,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788264208.651539,
     "fills": 1
+  },
+  {
+    "timestamp": 1788265194,
+    "timestamp_added": 1788265195.1309006,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ucam1-bar-2026-09-01",
+    "title": "LoL: UCAM Esports Club vs Bar\u00e7a eSports (BO5) - LES Final Four",
+    "outcome": "UCAM Esports Club",
+    "side": "BUY",
+    "whale_usd": 11390.309700000002,
+    "whale_pct": 214.055,
+    "whale_value_at_open": 5321.2129,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 79,
+    "fee_usd": 0.052,
+    "odds_ballena": 77,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788265195.1309326,
+    "fills": 1
   }
 ]
