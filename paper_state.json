@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.37752160603264,
+  "bankroll": 381.45360323868573,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16875,6 +16875,11 @@
       "timestamp": 1788231306.2096293,
       "bankroll": 376.38,
       "event": "won: Flaznorp \u2014 Chicago White Sox vs. Houston Astros: O/U 8.5"
+    },
+    {
+      "timestamp": 1788231750.790698,
+      "bankroll": 381.45,
+      "event": "won: RN1 \u2014 Will Fortaleza EC win on 2026-08-31?"
     }
   ]
 }
