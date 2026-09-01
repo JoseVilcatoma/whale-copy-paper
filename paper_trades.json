@@ -84419,8 +84419,8 @@
     "title": "US Open WTA: Zeynep Sonmez vs Coco Gauff",
     "outcome": "Coco Gauff",
     "side": "BUY",
-    "whale_usd": 1142.97,
-    "whale_pct": 0.932,
+    "whale_usd": 2273.65,
+    "whale_pct": 1.853,
     "whale_value_at_open": 122681.0389,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 95,
@@ -84431,8 +84431,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788253585.6963904,
-    "fills": 1
+    "last_fill_at": 1788256090.1055036,
+    "fills": 2
   },
   {
     "timestamp": 1788253730,
@@ -84552,6 +84552,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788255667.1906347,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788256083,
+    "timestamp_added": 1788256084.0825438,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-bergs-taberne-2026-08-30",
+    "title": "US Open ATP: Zizou Bergs vs Carlos Taberner",
+    "outcome": "Zizou Bergs",
+    "side": "BUY",
+    "whale_usd": 753.48,
+    "whale_pct": 0.613,
+    "whale_value_at_open": 122959.6105,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 94,
+    "fee_usd": 0.015,
+    "odds_ballena": 92,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788256084.0825553,
     "fills": 1
   }
 ]
