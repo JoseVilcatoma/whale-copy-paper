@@ -84803,8 +84803,8 @@
     "title": "San Diego Padres vs. Cincinnati Reds",
     "outcome": "Cincinnati Reds",
     "side": "BUY",
-    "whale_usd": 8588.807541999999,
-    "whale_pct": 129.275,
+    "whale_usd": 17388.807542,
+    "whale_pct": 261.729,
     "whale_value_at_open": 6643.8174,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -84815,8 +84815,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788281270.4894505,
-    "fills": 3
+    "last_fill_at": 1788286693.1518953,
+    "fills": 4
   },
   {
     "timestamp": 1788260714,
