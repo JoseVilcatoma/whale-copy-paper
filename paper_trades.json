@@ -84498,8 +84498,8 @@
     "odds_at_bet": 46,
     "fee_usd": 0.135,
     "odds_ballena": 45,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -85688,6 +85688,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788294688.001306,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788297014,
+    "timestamp_added": 1788297015.135802,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "atp-jong-passaro-2026-08-30",
+    "title": "US Open ATP: Jesper de Jong vs Francesco Passaro",
+    "outcome": "Francesco Passaro",
+    "side": "BUY",
+    "whale_usd": 16999.999999,
+    "whale_pct": 101.65,
+    "whale_value_at_open": 16724.0457,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788297015.1358185,
     "fills": 1
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.08478270257467,
+  "bankroll": 394.9497827025747,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17115,6 +17115,11 @@
       "timestamp": 1788296735.9558582,
       "bankroll": 400.08,
       "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 US Open WTA: Lucie Havlickova vs Anna Bondar"
+    },
+    {
+      "timestamp": 1788297046.2151904,
+      "bankroll": 394.95,
+      "event": "lost: UpTheBlues \u2014 Will Huddersfield Town AFC win on 2026-09-01?"
     }
   ]
 }
