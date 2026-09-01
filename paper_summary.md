@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 07:20:18 (hora de Perú)
+Actualizado: 2026-09-01 07:22:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $387.32
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 07:20:18 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $222.32)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $212.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
-| TAIWANNUMBERONE | 25 | 17 | 1 | +6.60 USD |
+| TAIWANNUMBERONE | 25 | 17 | 2 | +6.60 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -107,7 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| AV23IUa | 14 | 13 | 3 | -21.10 USD |
+| AV23IUa | 14 | 13 | 4 | -21.10 USD |
 | RN1 | 483 | 227 | 0 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -682,6 +682,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: TLN Pirates vs Karmine Corp Blue (B | TLN Pirates (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
+| AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Lucie Havlickova vs Anna Bo | Anna Bondar (BUY) | 62% | 5.00 | 18.8% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
@@ -710,5 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Sheffield Wednesday FC win on 2026- | No (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Zhangjiagang: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 99% | 5.00 | 5.0% | ✅ ganada | +0.05 |
 | Flaznorp | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff (BUY) | 95% | 5.00 | 1.9% | ⏳ pendiente | — |
-| Flaznorp | US Open WTA: Kaitlin Quevedo vs Elise Me | Elise Mertens (BUY) | 84% | 5.00 | 2.7% | ⏳ pendiente | — |
-| tikstt | Will Swansea City AFC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 15.1% | ⏳ pendiente | — |
