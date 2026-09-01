@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 07:30:43 (hora de Perú)
+Actualizado: 2026-09-01 07:32:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $389.59
@@ -686,7 +686,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Lucie Havlickova vs Anna Bo | Anna Bondar (BUY) | 62% | 5.00 | 18.8% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 4.4% | ⏳ pendiente | — |
 | Flaznorp | Como: Olle Wallin vs Johan Nikles | Johan Nikles (BUY) | 59% | 5.00 | 0.9% | ✅ ganada | +3.37 |
 | AV23IUa | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 65% | 5.00 | 4.7% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 68% | 5.00 | 35.1% | ⏳ pendiente | — |
