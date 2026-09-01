@@ -84817,5 +84817,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788260380.5937846,
     "fills": 2
+  },
+  {
+    "timestamp": 1788260714,
+    "timestamp_added": 1788260714.8473468,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "chfa-dy-shs-2026-09-01-shs",
+    "title": "Will Shanghai Shenhua FC win on 2026-09-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 519.379999,
+    "whale_pct": 0.422,
+    "whale_value_at_open": 123207.3016,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788260714.8473582,
+    "fills": 1
   }
 ]
