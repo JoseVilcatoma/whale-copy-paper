@@ -84937,5 +84937,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788261559.980424,
     "fills": 1
+  },
+  {
+    "timestamp": 1788262231,
+    "timestamp_added": 1788262232.2405717,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-bellucc-piros-2026-08-30",
+    "title": "US Open ATP: Mattia Bellucci vs Zsombor Piros",
+    "outcome": "Mattia Bellucci",
+    "side": "BUY",
+    "whale_usd": 8750.159393,
+    "whale_pct": 9.609,
+    "whale_value_at_open": 91064.6336,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788262237.3823767,
+    "fills": 2
   }
 ]
