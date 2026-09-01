@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.37241598671693,
+  "bankroll": 396.0543375553444,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17050,6 +17050,11 @@
       "timestamp": 1788267136.7205691,
       "bankroll": 391.37,
       "event": "won: no1dodgersfan \u2014 Counter-Strike: THUNDER dOWNUNDER vs Ground Zero (BO3) - ESL Challenger League Oceania Cup #1 Playoffs"
+    },
+    {
+      "timestamp": 1788272583.7799568,
+      "bankroll": 396.05,
+      "event": "won: no1dodgersfan \u2014 Yomiuri Giants vs. Yokohama BayStars"
     }
   ]
 }
