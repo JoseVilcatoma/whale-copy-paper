@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 11:47:50 (hora de Perú)
+Actualizado: 2026-09-01 11:49:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $396.05
@@ -707,7 +707,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Eric Vanshelboim vs Calvin He | Calvin Hemery (BUY) | 89% | 5.00 | 1.5% | ✅ ganada | +0.59 |
 | Flaznorp | Will Shanghai Shenhua FC win on 2026-09- | No (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
-| monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 45% | 5.00 | 47.3% | ⏳ pendiente | — |
+| monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 45% | 5.00 | 129.3% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Rafael Jodar vs Thanasi Kok | Rafael Jodar (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Filip Misolic vs Francisco  | Francisco Cerundolo (BUY) | 95% | 5.00 | 6.8% | ⏳ pendiente | — |
