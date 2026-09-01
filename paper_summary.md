@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 15:22:48 (hora de Perú)
+Actualizado: 2026-09-01 15:24:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $407.33
-**Retorno acumulado:** -18.53%
+**Bankroll actual:** $402.24
+**Retorno acumulado:** -19.55%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 15:22:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $182.33)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $182.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| TAIWANNUMBERONE | 27 | 18 | 4 | +5.88 USD |
 | 0x4f2 | 1 | 0 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -65,6 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| TAIWANNUMBERONE | 27 | 19 | 3 | +0.80 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 0 | +0.37 USD |
 | UpTheBlues | 1 | 0 | 4 | +0.36 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
@@ -117,14 +117,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3262
+- **Apuestas resueltas:** 3263
 - **Aciertos:** 2084 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,285.24
-- **ROI sobre lo apostado:** -1.19%
-- **Comisiones pagadas (taker fee):** $297.27 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,290.24
+- **ROI sobre lo apostado:** -1.22%
+- **Comisiones pagadas (taker fee):** $297.35 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.60% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -133,7 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1631 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 967 | 69.9% | 67.9% | +2.0 pp |
+| 60-79% | 968 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 460 | 86.7% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
 
@@ -702,7 +702,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 150.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: HLE (-1.5) vs T1 (+1.5) | T1 (BUY) | 59% | 5.00 | 43.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: KCB (-1.5) vs TLN Pirates | TLN Pirates (BUY) | 64% | 5.00 | 23.5% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 67% | 5.00 | 47.9% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 67% | 5.00 | 47.9% | ❌ perdida | -5.08 |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Daria Kasatkina vs Paula Ba | Paula Badosa (BUY) | 55% | 5.00 | 24.0% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ✅ ganada | +3.10 |

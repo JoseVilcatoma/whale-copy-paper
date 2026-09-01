@@ -1,5 +1,5 @@
 {
-  "bankroll": 407.32526657354236,
+  "bankroll": 402.24326657354237,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17100,6 +17100,11 @@
       "timestamp": 1788293919.2923095,
       "bankroll": 407.33,
       "event": "won: NiNo999 \u2014 Set Handicap: Basavareddy (-2.5) vs Schoolkate (+2.5)"
+    },
+    {
+      "timestamp": 1788294230.1203332,
+      "bankroll": 402.24,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights (BO5) - Prime League 1st Division Playoffs"
     }
   ]
 }
