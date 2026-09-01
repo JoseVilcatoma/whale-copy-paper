@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 03:57:04 (hora de Perú)
+Actualizado: 2026-09-01 03:59:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.22
@@ -681,7 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| tikstt | Will Swansea City AFC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 5.6% | ⏳ pendiente | — |
+| tikstt | Will Swansea City AFC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 15.1% | ⏳ pendiente | — |
 | tikstt | Will Portsmouth FC win on 2026-09-01? | No (BUY) | 54% | 5.00 | 45.4% | ⏳ pendiente | — |
 | UpTheBlues | Will Portsmouth FC win on 2026-09-01? | Yes (BUY) | 48% | 5.00 | 1.8% | ⏳ pendiente | — |
 | tikstt | Will Birmingham City FC win on 2026-09-0 | No (BUY) | 64% | 5.00 | 279.5% | ⏳ pendiente | — |

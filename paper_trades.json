@@ -84371,8 +84371,8 @@
     "title": "Will Swansea City AFC win on 2026-09-01?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1768.4004,
-    "whale_pct": 5.621,
+    "whale_usd": 4764.6144,
+    "whale_pct": 15.143,
     "whale_value_at_open": 31463.3227,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -84383,7 +84383,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788252672.4311926,
-    "fills": 1
+    "last_fill_at": 1788253037.7211156,
+    "fills": 2
   }
 ]
