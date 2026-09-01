@@ -84971,8 +84971,8 @@
     "title": "US Open ATP: Alex Molcan vs Benjamin Bonzi",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 4278.026666,
-    "whale_pct": 3.61,
+    "whale_usd": 5584.906666,
+    "whale_pct": 4.713,
     "whale_value_at_open": 118501.9844,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 65,
@@ -84983,8 +84983,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788262605.8392377,
-    "fills": 3
+    "last_fill_at": 1788263119.212627,
+    "fills": 4
   },
   {
     "timestamp": 1788262372,
