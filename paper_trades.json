@@ -85597,8 +85597,8 @@
     "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
     "outcome": "Corentin Moutet",
     "side": "BUY",
-    "whale_usd": 131131.8747,
-    "whale_pct": 2525.659,
+    "whale_usd": 183537.8039,
+    "whale_pct": 3535.02,
     "whale_value_at_open": 5191.9873,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -85609,7 +85609,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788288388.3822763,
-    "fills": 4
+    "last_fill_at": 1788288619.7476907,
+    "fills": 6
   }
 ]
