@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 16:11:00 (hora de Perú)
+Actualizado: 2026-09-01 16:13:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $394.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 16:11:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $179.95)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $174.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -75,7 +75,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| NiNo999 | 6 | 5 | 1 | -2.42 USD |
+| NiNo999 | 6 | 5 | 2 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -679,12 +679,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-jong-passaro-2026-08-30 | AV23IUa, Flaznorp, NiNo999 |
 | wta-oliynyk-brantme-2026-08-30 | 0x0x23kjookhaiuohduoayh8c9, AV23IUa |
 | atp-bellucc-piros-2026-08-30 | 00XyXyzzyxzzqyej233j2j32h4h35, AV23IUa |
+| atp-molcan-bonzi-2026-08-30 | AV23IUa, NiNo999 |
 | lol-tlnpir-kcb-2026-09-01 | DoNotTailMe, TAIWANNUMBERONE |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 69% | 5.00 | 75.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 43% | 5.00 | 101.7% | ⏳ pendiente | — |
 | 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 99% | 5.00 | 149.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue (B | Karmine Corp Blue (BUY) | 56% | 5.00 | 39.7% | ⏳ pendiente | — |
@@ -714,4 +716,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ✅ ganada | +1.28 |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Lucie Havlickova vs Anna Bo | Anna Bondar (BUY) | 62% | 5.00 | 18.8% | ✅ ganada | +2.97 |
 | AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 14.8% | ⏳ pendiente | — |
-| Flaznorp | Como: Olle Wallin vs Johan Nikles | Johan Nikles (BUY) | 59% | 5.00 | 0.9% | ✅ ganada | +3.37 |

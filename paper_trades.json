@@ -85716,5 +85716,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788297015.1358185,
     "fills": 1
+  },
+  {
+    "timestamp": 1788297092,
+    "timestamp_added": 1788297092.655973,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "atp-molcan-bonzi-2026-08-30",
+    "title": "US Open ATP: Alex Molcan vs Benjamin Bonzi",
+    "outcome": "Benjamin Bonzi",
+    "side": "BUY",
+    "whale_usd": 25000.0,
+    "whale_pct": 75.673,
+    "whale_value_at_open": 33036.7885,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788297092.6559875,
+    "fills": 1
   }
 ]
