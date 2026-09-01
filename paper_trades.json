@@ -84457,5 +84457,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788253740.6360068,
     "fills": 3
+  },
+  {
+    "timestamp": 1788254476,
+    "timestamp_added": 1788254476.7317486,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "el1-wyc-swe-2026-09-01-swe",
+    "title": "Will Sheffield Wednesday FC win on 2026-09-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 571.02,
+    "whale_pct": 0.768,
+    "whale_value_at_open": 74368.4513,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788254476.7317624,
+    "fills": 1
   }
 ]
