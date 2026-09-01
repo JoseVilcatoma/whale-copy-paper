@@ -85035,5 +85035,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788263704.5862243,
     "fills": 5
+  },
+  {
+    "timestamp": 1788264207,
+    "timestamp_added": 1788264208.6515272,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "wta-havlick-bondar-2026-08-30",
+    "title": "US Open WTA: Lucie Havlickova vs Anna Bondar",
+    "outcome": "Anna Bondar",
+    "side": "BUY",
+    "whale_usd": 3071.2707,
+    "whale_pct": 18.793,
+    "whale_value_at_open": 16342.5178,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788264208.651539,
+    "fills": 1
   }
 ]

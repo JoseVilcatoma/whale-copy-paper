@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 07:01:35 (hora de Perú)
+Actualizado: 2026-09-01 07:03:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $387.28
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 07:01:35 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $212.28)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $207.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 30 | 15 | 2 | +12.99 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 1 | +9.52 USD |
+| 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 2 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Lucie Havlickova vs Anna Bo | Anna Bondar (BUY) | 62% | 5.00 | 18.8% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 3.0% | ⏳ pendiente | — |
 | Flaznorp | Como: Olle Wallin vs Johan Nikles | Johan Nikles (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 65% | 5.00 | 4.7% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open WTA: Kaitlin Quevedo vs Elise Me | Elise Mertens (BUY) | 84% | 5.00 | 2.7% | ⏳ pendiente | — |
 | tikstt | Will Swansea City AFC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 15.1% | ⏳ pendiente | — |
 | tikstt | Will Portsmouth FC win on 2026-09-01? | No (BUY) | 54% | 5.00 | 45.4% | ⏳ pendiente | — |
-| UpTheBlues | Will Portsmouth FC win on 2026-09-01? | Yes (BUY) | 48% | 5.00 | 1.8% | ⏳ pendiente | — |
