@@ -85203,5 +85203,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788268764.6327903,
     "fills": 1
+  },
+  {
+    "timestamp": 1788269892,
+    "timestamp_added": 1788269893.6740355,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-use1-khk-2026-09-01",
+    "title": "LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights (BO5) - Prime League 1st Division Playoffs",
+    "outcome": "Unicorns Of Love Sexy Edition",
+    "side": "BUY",
+    "whale_usd": 9225.7638,
+    "whale_pct": 47.926,
+    "whale_value_at_open": 19250.1448,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788269893.6740491,
+    "fills": 1
   }
 ]
