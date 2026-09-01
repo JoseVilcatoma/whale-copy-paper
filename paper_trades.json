@@ -83916,5 +83916,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788226083.9939306,
     "fills": 1
+  },
+  {
+    "timestamp": 1788226115,
+    "timestamp_added": 1788226115.8057842,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-det-min-2026-08-31-total-9pt5",
+    "title": "Detroit Tigers vs. Minnesota Twins: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 530.5,
+    "whale_pct": 0.374,
+    "whale_value_at_open": 141834.882,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788226115.805795,
+    "fills": 1
   }
 ]
