@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 06:32:46 (hora de Perú)
+Actualizado: 2026-09-01 06:34:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $382.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 06:32:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $207.88)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $202.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| Flaznorp | 11 | 2 | 9 | +7.71 USD |
+| Flaznorp | 11 | 2 | 10 | +7.71 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -681,6 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Como: Olle Wallin vs Johan Nikles | Johan Nikles (BUY) | 59% | 5.00 | 0.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 65% | 5.00 | 2.5% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 68% | 5.00 | 35.1% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Oleksandra Oliynykova vs Re | Reese Brantmeier (BUY) | 50% | 5.00 | 31.3% | ⏳ pendiente | — |
@@ -710,4 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | tikstt | Will Portsmouth FC win on 2026-09-01? | No (BUY) | 54% | 5.00 | 45.4% | ⏳ pendiente | — |
 | UpTheBlues | Will Portsmouth FC win on 2026-09-01? | Yes (BUY) | 48% | 5.00 | 1.8% | ⏳ pendiente | — |
 | tikstt | Will Birmingham City FC win on 2026-09-0 | No (BUY) | 64% | 5.00 | 279.5% | ⏳ pendiente | — |
-| no1dodgersfan | Yomiuri Giants vs. Yokohama BayStars | Yomiuri Giants (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |

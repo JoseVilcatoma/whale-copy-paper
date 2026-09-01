@@ -84985,5 +84985,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788262355.362953,
     "fills": 2
+  },
+  {
+    "timestamp": 1788262372,
+    "timestamp_added": 1788262372.7028475,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-wallin-nikles-2026-09-01",
+    "title": "Como: Olle Wallin vs Johan Nikles",
+    "outcome": "Johan Nikles",
+    "side": "BUY",
+    "whale_usd": 1153.079999,
+    "whale_pct": 0.854,
+    "whale_value_at_open": 135060.4213,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788262372.7028615,
+    "fills": 1
   }
 ]
