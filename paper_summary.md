@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 16:40:11 (hora de Perú)
+Actualizado: 2026-09-01 16:42:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $392.18
-**Retorno acumulado:** -21.56%
+**Bankroll actual:** $390.04
+**Retorno acumulado:** -21.99%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 16:40:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $215.00 en 43 posiciones abiertas (disponible para nuevas apuestas: $177.18)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $185.04)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ChonkyChocolateCake | 43 | 27 | 3 | +18.87 USD |
+| ChonkyChocolateCake | 44 | 28 | 1 | +16.73 USD |
 | Flaznorp | 15 | 2 | 6 | +15.74 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | quavoo | 30 | 15 | 2 | +12.99 USD |
@@ -118,14 +118,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3269
-- **Aciertos:** 2087 (63.8%)
+- **Apuestas resueltas:** 3271
+- **Aciertos:** 2088 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,320.24
-- **ROI sobre lo apostado:** -1.28%
-- **Comisiones pagadas (taker fee):** $297.88 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,330.24
+- **ROI sobre lo apostado:** -1.29%
+- **Comisiones pagadas (taker fee):** $298.09 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -133,8 +133,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1633 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 971 | 69.8% | 67.9% | +1.9 pp |
+| 40-59% | 1634 | 49.7% | 50.1% | -0.4 pp |
+| 60-79% | 972 | 69.9% | 67.9% | +2.0 pp |
 | 80-94% | 460 | 86.7% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 205 | 96.6% | 97.4% | -0.8 pp |
 
@@ -695,8 +695,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue (B | Karmine Corp Blue (BUY) | 56% | 5.00 | 39.7% | ⏳ pendiente | — |
 | AV23IUa | US Open WTA: Oleksandra Oliynykova vs Re | Oleksandra Oliynykova (BUY) | 52% | 5.00 | 0.7% | ⏳ pendiente | — |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Mou | Corentin Moutet (BUY) | 69% | 5.00 | 3535.0% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 62% | 5.00 | 13.8% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | Karmine Corp Blue (BUY) | 56% | 5.00 | 7.9% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 62% | 5.00 | 13.8% | ✅ ganada | +2.97 |
+| DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | Karmine Corp Blue (BUY) | 56% | 5.00 | 7.9% | ❌ perdida | -5.11 |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 15.0% | ✅ ganada | +5.97 |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 61% | 5.00 | 17.3% | ❌ perdida | -5.10 |

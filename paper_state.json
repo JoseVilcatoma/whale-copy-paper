@@ -1,5 +1,5 @@
 {
-  "bankroll": 392.1782289295503,
+  "bankroll": 390.0377450585826,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17135,6 +17135,16 @@
       "timestamp": 1788298310.6461227,
       "bankroll": 392.18,
       "event": "won: 00XyXyzzyxzzqyej233j2j32h4h35 \u2014 US Open ATP: Mattia Bellucci vs Zsombor Piros"
+    },
+    {
+      "timestamp": 1788298939.0172482,
+      "bankroll": 387.07,
+      "event": "lost: DoNotTailMe \u2014 LoL: TLN Pirates vs Karmine Corp Blue - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788298939.117475,
+      "bankroll": 390.04,
+      "event": "won: DoNotTailMe \u2014 LoL: TLN Pirates vs Karmine Corp Blue - Game 3 Winner"
     }
   ]
 }
