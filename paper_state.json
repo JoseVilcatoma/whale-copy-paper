@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.9752477448464,
+  "bankroll": 376.8843781851463,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16790,6 +16790,26 @@
       "timestamp": 1788227667.2152042,
       "bankroll": 363.98,
       "event": "lost: RN1 \u2014 Spread: San Diego Padres (-1.5)"
+    },
+    {
+      "timestamp": 1788227911.259577,
+      "bankroll": 367.07,
+      "event": "venta anticipada: NiNo999 \u2014 Seattle Mariners vs. Boston Red Sox (+3.10 USD)"
+    },
+    {
+      "timestamp": 1788227940.786595,
+      "bankroll": 373.56,
+      "event": "venta anticipada: NiNo999 \u2014 US Open ATP: Juncheng Shang vs Marco Trungelliti (+6.48 USD)"
+    },
+    {
+      "timestamp": 1788227982.430571,
+      "bankroll": 375.83,
+      "event": "won: RN1 \u2014 Detroit Tigers vs. Minnesota Twins: O/U 8.5"
+    },
+    {
+      "timestamp": 1788227984.2750516,
+      "bankroll": 376.88,
+      "event": "won: Flaznorp \u2014 Detroit Tigers vs. Minnesota Twins: O/U 9.5"
     }
   ]
 }
