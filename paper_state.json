@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.25257926763317,
+  "bankroll": 361.80257926763323,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16740,6 +16740,26 @@
       "timestamp": 1788220637.3549132,
       "bankroll": 382.25,
       "event": "won: RN1 \u2014 US Open ATP: Roman Andres Burruchaga vs Karen Khachanov"
+    },
+    {
+      "timestamp": 1788226100.3567297,
+      "bankroll": 377.17,
+      "event": "lost: monkeymashingkeyboard \u2014 San Francisco Giants vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1788226101.7040803,
+      "bankroll": 372.03,
+      "event": "lost: Sassy-Bucket \u2014 San Francisco Giants vs. Atlanta Braves: O/U 8.5"
+    },
+    {
+      "timestamp": 1788226102.1869512,
+      "bankroll": 366.95,
+      "event": "lost: RN1 \u2014 San Francisco Giants vs. Atlanta Braves"
+    },
+    {
+      "timestamp": 1788226105.4038687,
+      "bankroll": 361.8,
+      "event": "lost: Sassy-Bucket \u2014 Milwaukee Brewers vs. Chicago Cubs: O/U 8.5"
     }
   ]
 }

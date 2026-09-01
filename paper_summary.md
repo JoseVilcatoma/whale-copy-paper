@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 20:26:25 (hora de Perú)
+Actualizado: 2026-08-31 20:28:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $382.25
-**Retorno acumulado:** -23.55%
+**Bankroll actual:** $361.80
+**Retorno acumulado:** -27.64%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 20:26:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $162.25)
+**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $156.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| Flaznorp | 0 | 0 | 4 | +0.00 USD |
+| Flaznorp | 0 | 0 | 5 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
@@ -79,7 +79,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| monkeymashingkeyboard | 0 | 1 | 4 | -5.08 USD |
 | Painfulvoid | 0 | 1 | 0 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -94,31 +93,32 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
+| monkeymashingkeyboard | 0 | 2 | 3 | -10.17 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| RN1 | 477 | 222 | 11 | -10.76 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| RN1 | 477 | 223 | 10 | -15.84 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
-| Sassy-Bucket | 22 | 36 | 2 | -80.07 USD |
+| Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
 | ferrariChampions2026 | 375 | 234 | 0 | -146.62 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3192
-- **Aciertos:** 2036 (63.8%)
+- **Apuestas resueltas:** 3196
+- **Aciertos:** 2036 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,935.24
-- **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $291.30 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.51% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,955.24
+- **ROI sobre lo apostado:** -1.44%
+- **Comisiones pagadas (taker fee):** $291.75 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -126,8 +126,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1597 | 49.5% | 50.1% | -0.6 pp |
-| 60-79% | 950 | 70.1% | 67.9% | +2.2 pp |
+| 40-59% | 1599 | 49.5% | 50.1% | -0.6 pp |
+| 60-79% | 952 | 70.0% | 67.9% | +2.1 pp |
 | 80-94% | 449 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
@@ -672,6 +672,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Over (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Boston Red Sox (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Will CA Barracas Central win on 2026-08- | No (BUY) | 82% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -684,7 +685,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 57% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
-| Sassy-Bucket | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
+| Sassy-Bucket | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 42% | 5.00 | 1.6% | ❌ perdida | -5.14 |
 | RN1 | US Open ATP: Juncheng Shang vs Marco Tru | Juncheng Shang (BUY) | 84% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Fortaleza EC win on 2026-08-31? | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | Cincinnati Reds (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
@@ -696,9 +697,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | Baltimore Orioles vs. Colorado Rockies:  | Over (BUY) | 63% | 5.00 | 30.9% | ⏳ pendiente | — |
 | NiNo999 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 79.3% | ⏳ pendiente | — |
 | NiNo999 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 5.00 | 549.3% | ⏳ pendiente | — |
-| RN1 | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 66% | 5.00 | 0.5% | ⏳ pendiente | — |
+| RN1 | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 66% | 5.00 | 0.5% | ❌ perdida | -5.08 |
 | RN1 | US Open ATP: Alexander Blockx vs Tomas B | Alexander Blockx (BUY) | 94% | 5.00 | 1.1% | ✅ ganada | +0.30 |
 | Sunny24 | San Francisco Giants vs. Atlanta Braves: | Under (BUY) | 47% | 5.00 | 14.9% | ⏳ pendiente | — |
-| Sassy-Bucket | San Francisco Giants vs. Atlanta Braves: | Under (BUY) | 47% | 5.00 | 25.6% | ⏳ pendiente | — |
+| Sassy-Bucket | San Francisco Giants vs. Atlanta Braves: | Under (BUY) | 47% | 5.00 | 25.6% | ❌ perdida | -5.13 |
 | RN1 | US Open ATP: Roman Andres Burruchaga vs  | Karen Khachanov (BUY) | 80% | 5.00 | 0.2% | ✅ ganada | +1.20 |
-| 0x0x23kjookhaiuohduoayh8c9 | Spread: Tampa Bay Rays (-1.5) | New York Mets (BUY) | 56% | 5.00 | 1.9% | ⏳ pendiente | — |
