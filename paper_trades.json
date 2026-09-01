@@ -84249,8 +84249,8 @@
     "title": "LoL: Gen.G vs KT Rolster - Game 1 Winner",
     "outcome": "Gen.G",
     "side": "BUY",
-    "whale_usd": 150663.78405500003,
-    "whale_pct": 150.341,
+    "whale_usd": 318850.020495,
+    "whale_pct": 318.166,
     "whale_value_at_open": 100214.8467,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -84261,7 +84261,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788250324.0333183,
-    "fills": 15
+    "last_fill_at": 1788250436.7333112,
+    "fills": 33
   }
 ]
