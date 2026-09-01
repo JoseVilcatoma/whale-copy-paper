@@ -1,5 +1,5 @@
 {
-  "bankroll": 380.471353890766,
+  "bankroll": 379.3472629816751,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16970,6 +16970,16 @@
       "timestamp": 1788247388.985815,
       "bankroll": 380.47,
       "event": "won: asd147 \u2014 CSyD Defensa y Justicia vs. CA Platense: O/U 2.5"
+    },
+    {
+      "timestamp": 1788247697.2420747,
+      "bankroll": 384.45,
+      "event": "won: nigiri99 \u2014 Will there be a run scored in the first inning?: Chicago White Sox vs. Houston Astros"
+    },
+    {
+      "timestamp": 1788247697.9794097,
+      "bankroll": 379.35,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Seattle Mariners vs. Boston Red Sox: O/U 8.5"
     }
   ]
 }
