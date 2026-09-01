@@ -85587,5 +85587,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788286857.710204,
     "fills": 2
+  },
+  {
+    "timestamp": 1788287350,
+    "timestamp_added": 1788287351.3900156,
+    "username": "beachboy4",
+    "wallet": "0xc2e7800b5af46e6093872b177b7a5e7f0563be51",
+    "slug": "atp-sweeny-moutet-2026-08-30",
+    "title": "US Open ATP: Dane Sweeny vs Corentin Moutet",
+    "outcome": "Corentin Moutet",
+    "side": "BUY",
+    "whale_usd": 20350.4646,
+    "whale_pct": 391.959,
+    "whale_value_at_open": 5191.9873,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788287351.3900287,
+    "fills": 1
   }
 ]
