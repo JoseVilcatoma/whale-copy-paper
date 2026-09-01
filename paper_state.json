@@ -1,5 +1,5 @@
 {
-  "bankroll": 396.0543375553444,
+  "bankroll": 399.8729089839158,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17055,6 +17055,11 @@
       "timestamp": 1788272583.7799568,
       "bankroll": 396.05,
       "event": "won: no1dodgersfan \u2014 Yomiuri Giants vs. Yokohama BayStars"
+    },
+    {
+      "timestamp": 1788284152.986599,
+      "bankroll": 399.87,
+      "event": "won: Flaznorp \u2014 Will Shanghai Shenhua FC win on 2026-09-01?"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 12:33:50 (hora de Perú)
+Actualizado: 2026-09-01 12:36:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $396.05
-**Retorno acumulado:** -20.79%
+**Bankroll actual:** $399.87
+**Retorno acumulado:** -20.03%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 12:33:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $166.05)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $174.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,9 +29,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | ChonkyChocolateCake | 41 | 25 | 2 | +19.15 USD |
+| Flaznorp | 15 | 2 | 6 | +15.74 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | quavoo | 30 | 15 | 2 | +12.99 USD |
-| Flaznorp | 14 | 2 | 7 | +11.92 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 4 | +9.52 USD |
@@ -117,14 +117,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3253
-- **Aciertos:** 2077 (63.8%)
+- **Apuestas resueltas:** 3254
+- **Aciertos:** 2078 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,240.24
-- **ROI sobre lo apostado:** -1.26%
-- **Comisiones pagadas (taker fee):** $296.43 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.56% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,245.24
+- **ROI sobre lo apostado:** -1.24%
+- **Comisiones pagadas (taker fee):** $296.54 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -132,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1627 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1628 | 49.8% | 50.1% | -0.4 pp |
 | 60-79% | 963 | 69.9% | 67.9% | +2.0 pp |
 | 80-94% | 459 | 86.7% | 86.7% | +0.0 pp |
 | 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
@@ -708,7 +708,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Plovdiv 3: Pol Martin Tiffon vs Juan Pab | Pol Martin Tiffon (BUY) | 95% | 5.00 | 1.3% | ✅ ganada | +0.25 |
 | Flaznorp | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Eric Vanshelboim vs Calvin He | Calvin Hemery (BUY) | 89% | 5.00 | 1.5% | ✅ ganada | +0.59 |
-| Flaznorp | Will Shanghai Shenhua FC win on 2026-09- | No (BUY) | 56% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Will Shanghai Shenhua FC win on 2026-09- | No (BUY) | 56% | 5.00 | 0.4% | ✅ ganada | +3.82 |
 | monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 45% | 5.00 | 129.3% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Rafael Jodar vs Thanasi Kok | Rafael Jodar (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
