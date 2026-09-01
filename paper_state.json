@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.27760594247695,
+  "bankroll": 387.8685834705668,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17020,6 +17020,11 @@
       "timestamp": 1788263906.0086274,
       "bankroll": 387.28,
       "event": "won: Flaznorp \u2014 Plovdiv 3: Pol Martin Tiffon vs Juan Pablo Ficovich"
+    },
+    {
+      "timestamp": 1788264278.6038024,
+      "bankroll": 387.87,
+      "event": "won: Flaznorp \u2014 Plovdiv 3: Eric Vanshelboim vs Calvin Hemery"
     }
   ]
 }
