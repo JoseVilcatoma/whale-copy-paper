@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.1026735065821,
+  "bankroll": 372.5052387239734,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16895,6 +16895,26 @@
       "timestamp": 1788236805.7688847,
       "bankroll": 382.1,
       "event": "won: HomeRunHazard \u2014 New York Yankees vs. Los Angeles Angels: O/U 8.5"
+    },
+    {
+      "timestamp": 1788237753.5874407,
+      "bankroll": 376.99,
+      "event": "lost: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788237753.871697,
+      "bankroll": 382.73,
+      "event": "won: monkeymashingkeyboard \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788237753.971884,
+      "bankroll": 377.62,
+      "event": "lost: Sunny24 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788237754.4029503,
+      "bankroll": 372.51,
+      "event": "lost: NiNo999 \u2014 New York Yankees vs. Los Angeles Angels"
     }
   ]
 }
