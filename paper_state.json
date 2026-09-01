@@ -1,5 +1,5 @@
 {
-  "bankroll": 394.9497827025747,
+  "bankroll": 389.8577827025747,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17120,6 +17120,11 @@
       "timestamp": 1788297046.2151904,
       "bankroll": 394.95,
       "event": "lost: UpTheBlues \u2014 Will Huddersfield Town AFC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788297987.8556867,
+      "bankroll": 389.86,
+      "event": "lost: UpTheBlues \u2014 Will Sheffield Wednesday FC win on 2026-09-01?"
     }
   ]
 }
