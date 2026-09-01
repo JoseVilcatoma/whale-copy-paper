@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 16:15:01 (hora de Perú)
+Actualizado: 2026-09-01 16:17:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $394.95
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 16:15:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $174.95)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $169.95)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,6 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 1 | +0.05 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | tikstt | 0 | 0 | 3 | +0.00 USD |
+| HongYunX | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -686,6 +687,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| HongYunX | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 2.3% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 69% | 5.00 | 75.7% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 43% | 5.00 | 101.7% | ⏳ pendiente | — |
 | 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 99% | 5.00 | 149.3% | ⏳ pendiente | — |
@@ -715,4 +717,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 24.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ✅ ganada | +1.28 |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Lucie Havlickova vs Anna Bo | Anna Bondar (BUY) | 62% | 5.00 | 18.8% | ✅ ganada | +2.97 |
-| AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 14.8% | ⏳ pendiente | — |

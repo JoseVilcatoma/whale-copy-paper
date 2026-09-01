@@ -85742,5 +85742,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788297092.6559875,
     "fills": 1
+  },
+  {
+    "timestamp": 1788297346,
+    "timestamp_added": 1788297346.8949673,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "brco-cam-cru-2026-09-01-total-1pt5",
+    "title": "CA Mineiro vs. Cruzeiro EC: O/U 1.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 508.58823500000005,
+    "whale_pct": 2.334,
+    "whale_value_at_open": 21793.2631,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788297346.8949811,
+    "fills": 1
   }
 ]
