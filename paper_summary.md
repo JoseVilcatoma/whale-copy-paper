@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 07:43:09 (hora de Perú)
+Actualizado: 2026-09-01 07:45:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $389.59
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 07:43:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $214.59)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $209.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 14 | 2 | 7 | +11.92 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 2 | +9.52 USD |
+| 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 3 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x0x23kjookhaiuohduoayh8c9 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: TLN Pirates vs Karmine Corp Blue (B | TLN Pirates (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Torino FC vs. AC Monza: Both Teams to Sc | Yes (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Huddersfield Town AFC win on 2026-0 | No (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Will Sheffield Wednesday FC win on 2026- | No (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
-| Flaznorp | Zhangjiagang: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 99% | 5.00 | 5.0% | ✅ ganada | +0.05 |
