@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.1018737199877,
+  "bankroll": 382.8831887884808,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17005,6 +17005,11 @@
       "timestamp": 1788261735.8333058,
       "bankroll": 381.1,
       "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Daniel Siniakov vs Georgii Kravchenko"
+    },
+    {
+      "timestamp": 1788261857.4832528,
+      "bankroll": 382.88,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: Gen.G vs KT Rolster - Game 1 Winner"
     }
   ]
 }

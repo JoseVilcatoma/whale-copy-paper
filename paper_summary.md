@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 06:22:37 (hora de Perú)
+Actualizado: 2026-09-01 06:24:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $381.10
-**Retorno acumulado:** -23.78%
+**Bankroll actual:** $382.88
+**Retorno acumulado:** -23.42%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 06:22:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $211.10)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $217.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,6 +64,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 0 | +0.37 USD |
 | UpTheBlues | 1 | 0 | 4 | +0.36 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 0 | +0.05 USD |
@@ -73,7 +74,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 1 | -1.41 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -117,14 +117,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3243
-- **Aciertos:** 2068 (63.8%)
+- **Apuestas resueltas:** 3244
+- **Aciertos:** 2069 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,190.24
-- **ROI sobre lo apostado:** -1.36%
-- **Comisiones pagadas (taker fee):** $295.66 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.47% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,195.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $295.73 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.48% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -133,7 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1623 | 49.7% | 50.1% | -0.4 pp |
-| 60-79% | 960 | 69.8% | 67.9% | +1.9 pp |
+| 60-79% | 961 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 203 | 96.6% | 97.4% | -0.8 pp |
 
@@ -709,5 +709,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Portsmouth FC win on 2026-09-01? | Yes (BUY) | 48% | 5.00 | 1.8% | ⏳ pendiente | — |
 | tikstt | Will Birmingham City FC win on 2026-09-0 | No (BUY) | 64% | 5.00 | 279.5% | ⏳ pendiente | — |
 | no1dodgersfan | Yomiuri Giants vs. Yokohama BayStars | Yomiuri Giants (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 73% | 5.00 | 334.4% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 73% | 5.00 | 334.4% | ✅ ganada | +1.78 |
 | asd147 | CSyD Defensa y Justicia vs. CA Platense: | Under (BUY) | 99% | 5.00 | 7.3% | ✅ ganada | +0.05 |
