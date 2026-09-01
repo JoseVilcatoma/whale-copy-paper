@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 22:17:16 (hora de Perú)
+Actualizado: 2026-08-31 22:19:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $381.45
-**Retorno acumulado:** -23.71%
+**Bankroll actual:** $381.50
+**Retorno acumulado:** -23.70%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 22:17:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $251.45)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $256.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,7 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | Flaznorp | 6 | 2 | 2 | +0.66 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 0 | 0 | 1 | +0.00 USD |
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 0 | +0.05 USD |
 | UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -113,11 +113,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3218
-- **Aciertos:** 2052 (63.8%)
+- **Apuestas resueltas:** 3219
+- **Aciertos:** 2053 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,065.24
+- **Total apostado (suma de stakes):** $16,070.24
 - **ROI sobre lo apostado:** -1.37%
 - **Comisiones pagadas (taker fee):** $293.43 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.46% _(referencia: cuánto pesan las comisiones)_
@@ -131,7 +131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1607 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 957 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 456 | 86.6% | 86.7% | -0.0 pp |
-| 95-99% (casi seguro) | 198 | 96.5% | 97.4% | -0.9 pp |
+| 95-99% (casi seguro) | 199 | 96.5% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -679,7 +679,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Painfulvoid | Athletics vs. Texas Rangers | Texas Rangers (BUY) | 65% | 5.00 | 12.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs SPARTA ( | Team Nemesis (BUY) | 68% | 5.00 | 356.9% | ⏳ pendiente | — |
 | UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ⏳ pendiente | — |
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ✅ ganada | +0.05 |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
 | Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ✅ ganada | +3.10 |
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ✅ ganada | +0.25 |

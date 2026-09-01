@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.45360323868573,
+  "bankroll": 381.50110828919077,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16880,6 +16880,11 @@
       "timestamp": 1788231750.790698,
       "bankroll": 381.45,
       "event": "won: RN1 \u2014 Will Fortaleza EC win on 2026-08-31?"
+    },
+    {
+      "timestamp": 1788232698.09116,
+      "bankroll": 381.5,
+      "event": "won: 00xaaxaxaxsasdasddasdjj233j2j32h4h35 \u2014 US Open ATP: Grigor Dimitrov vs Alexei Popyrin"
     }
   ]
 }
