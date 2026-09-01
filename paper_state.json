@@ -1,5 +1,5 @@
 {
-  "bankroll": 390.0377450585826,
+  "bankroll": 390.2879029533194,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17145,6 +17145,11 @@
       "timestamp": 1788298939.117475,
       "bankroll": 390.04,
       "event": "won: DoNotTailMe \u2014 LoL: TLN Pirates vs Karmine Corp Blue - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788299246.8616362,
+      "bankroll": 390.29,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Filip Misolic vs Francisco Cerundolo"
     }
   ]
 }
