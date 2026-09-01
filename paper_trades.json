@@ -84697,5 +84697,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788258778.8561559,
     "fills": 1
+  },
+  {
+    "timestamp": 1788258936,
+    "timestamp_added": 1788258937.6048584,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "itf-zanted-monno-2026-09-01",
+    "title": "W50 Saint-Palais-sur-Mer: Aurora Zantedeschi vs Amandine Monnot",
+    "outcome": "Aurora Zantedeschi",
+    "side": "BUY",
+    "whale_usd": 1400.88,
+    "whale_pct": 0.716,
+    "whale_value_at_open": 195748.1835,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788258937.6048706,
+    "fills": 1
   }
 ]
