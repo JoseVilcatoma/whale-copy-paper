@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 23:50:53 (hora de Perú)
+Actualizado: 2026-08-31 23:52:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $372.51
-**Retorno acumulado:** -25.50%
+**Bankroll actual:** $375.71
+**Retorno acumulado:** -24.86%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 23:50:53 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $262.51)
+**Capital comprometido ahora mismo:** $100.00 en 20 posiciones abiertas (disponible para nuevas apuestas: $275.71)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -64,9 +64,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | Flaznorp | 6 | 2 | 2 | +0.66 USD |
+| UpTheBlues | 1 | 0 | 0 | +0.36 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 0 | +0.05 USD |
-| UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | no1dodgersfan | 0 | 0 | 1 | +0.00 USD |
 | 0x4f2 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
@@ -105,8 +105,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
+| RN1 | 483 | 226 | 1 | -19.45 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
-| RN1 | 482 | 226 | 2 | -22.29 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
@@ -115,14 +115,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3225
-- **Aciertos:** 2055 (63.7%)
+- **Apuestas resueltas:** 3227
+- **Aciertos:** 2057 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,100.24
-- **ROI sobre lo apostado:** -1.42%
-- **Comisiones pagadas (taker fee):** $294.17 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.41% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,110.24
+- **ROI sobre lo apostado:** -1.40%
+- **Comisiones pagadas (taker fee):** $294.28 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.43% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -131,8 +131,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1613 | 49.6% | 50.1% | -0.5 pp |
-| 60-79% | 957 | 69.8% | 67.9% | +1.9 pp |
-| 80-94% | 456 | 86.6% | 86.7% | -0.0 pp |
+| 60-79% | 958 | 69.8% | 67.9% | +2.0 pp |
+| 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 199 | 96.5% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -683,7 +683,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | no1dodgersfan | Counter-Strike: THUNDER dOWNUNDER vs Gro | THUNDER dOWNUNDER (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Painfulvoid | Athletics vs. Texas Rangers | Texas Rangers (BUY) | 65% | 5.00 | 12.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs SPARTA ( | Team Nemesis (BUY) | 68% | 5.00 | 552.7% | ⏳ pendiente | — |
-| UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
+| UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ✅ ganada | +0.36 |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ✅ ganada | +0.05 |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
 | Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ✅ ganada | +3.10 |
@@ -696,7 +696,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
 | Flaznorp | US Open ATP: Martin Damm vs Frances Tiaf | Frances Tiafoe (BUY) | 78% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | New York Mets vs. Tampa Bay Rays: O/U 7. | Under (BUY) | 92% | 5.00 | 1.6% | ✅ ganada | +0.41 |
-| RN1 | Will O'Higgins FC win on 2026-08-31? | No (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
+| RN1 | Will O'Higgins FC win on 2026-08-31? | No (BUY) | 63% | 5.00 | 0.6% | ✅ ganada | +2.84 |
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 85% | 5.00 | 1.2% | ❌ perdida | -5.04 |
 | RN1 | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 68% | 5.00 | 0.6% | ✅ ganada | +2.27 |

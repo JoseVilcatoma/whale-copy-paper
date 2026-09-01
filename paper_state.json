@@ -1,5 +1,5 @@
 {
-  "bankroll": 372.5052387239734,
+  "bankroll": 375.7090907465028,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16915,6 +16915,16 @@
       "timestamp": 1788237754.4029503,
       "bankroll": 372.51,
       "event": "lost: NiNo999 \u2014 New York Yankees vs. Los Angeles Angels"
+    },
+    {
+      "timestamp": 1788238323.7162879,
+      "bankroll": 375.35,
+      "event": "won: RN1 \u2014 Will O'Higgins FC win on 2026-08-31?"
+    },
+    {
+      "timestamp": 1788238324.2850885,
+      "bankroll": 375.71,
+      "event": "won: UpTheBlues \u2014 Will CD Universidad Cat\u00f3lica vs. O'Higgins FC end in a draw?"
     }
   ]
 }
