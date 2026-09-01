@@ -1,5 +1,5 @@
 {
-  "bankroll": 364.24052601328293,
+  "bankroll": 373.27880029455724,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16855,6 +16855,21 @@
       "timestamp": 1788230358.6170752,
       "bankroll": 364.24,
       "event": "won: Flaznorp \u2014 Will CA Barracas Central win on 2026-08-31?"
+    },
+    {
+      "timestamp": 1788230799.016002,
+      "bankroll": 368.74,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788230801.087876,
+      "bankroll": 373.23,
+      "event": "won: Sunny24 \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788230803.1380079,
+      "bankroll": 373.28,
+      "event": "won: RN1 \u2014 Milwaukee Brewers vs. Chicago Cubs"
     }
   ]
 }

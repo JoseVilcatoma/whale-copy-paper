@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 21:45:41 (hora de Perú)
+Actualizado: 2026-08-31 21:47:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $364.24
-**Retorno acumulado:** -27.15%
+**Bankroll actual:** $373.28
+**Retorno acumulado:** -25.34%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 21:45:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $219.24)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $243.28)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,15 +37,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 29 | 15 | 3 | +9.01 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 3 | 3 | +8.72 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
+| Sunny24 | 2 | 0 | 2 | +6.67 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 4 | 3 | 4 | +4.22 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -56,7 +57,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
-| Sunny24 | 1 | 0 | 3 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -105,7 +105,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
-| RN1 | 480 | 226 | 4 | -27.42 USD |
+| RN1 | 481 | 226 | 3 | -27.37 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
@@ -113,14 +113,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3213
-- **Aciertos:** 2047 (63.7%)
+- **Apuestas resueltas:** 3216
+- **Aciertos:** 2050 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,040.24
-- **ROI sobre lo apostado:** -1.48%
-- **Comisiones pagadas (taker fee):** $292.96 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.35% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,055.24
+- **ROI sobre lo apostado:** -1.42%
+- **Comisiones pagadas (taker fee):** $293.20 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -128,10 +128,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1604 | 49.6% | 50.1% | -0.5 pp |
+| 40-59% | 1606 | 49.6% | 50.1% | -0.5 pp |
 | 60-79% | 956 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 456 | 86.6% | 86.7% | -0.0 pp |
-| 95-99% (casi seguro) | 197 | 96.4% | 97.4% | -0.9 pp |
+| 95-99% (casi seguro) | 198 | 96.5% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -695,7 +695,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 68% | 5.00 | 0.6% | ✅ ganada | +2.27 |
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 57% | 5.00 | 0.7% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 84% | 5.00 | 0.7% | ✅ ganada | +0.91 |
-| RN1 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
+| RN1 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 99% | 5.00 | 1.2% | ✅ ganada | +0.05 |
 | Sassy-Bucket | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 42% | 5.00 | 1.6% | ❌ perdida | -5.14 |
 | RN1 | US Open ATP: Juncheng Shang vs Marco Tru | Juncheng Shang (BUY) | 84% | 5.00 | 0.3% | ❌ perdida | -5.04 |
 | RN1 | Will Fortaleza EC win on 2026-08-31? | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
