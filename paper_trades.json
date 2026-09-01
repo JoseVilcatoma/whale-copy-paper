@@ -85831,15 +85831,17 @@
     "odds_at_bet": 42,
     "fee_usd": 0.145,
     "odds_ballena": 41,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.05,
     "overlaps_with": [
       "monkeymashingkeyboard"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788305919.8047056,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.292,
+    "closed_price": 44
   },
   {
     "timestamp": 1788306008,
@@ -85890,5 +85892,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788306198.9160435,
     "fills": 2
+  },
+  {
+    "timestamp": 1788306353,
+    "timestamp_added": 1788306353.7858253,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-tor-cle-2026-09-01-spread-home-1pt5",
+    "title": "Spread: Cleveland Guardians (-1.5)",
+    "outcome": "Toronto Blue Jays",
+    "side": "BUY",
+    "whale_usd": 569.4263,
+    "whale_pct": 2.386,
+    "whale_value_at_open": 23864.5733,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788306353.7858365,
+    "fills": 1
   }
 ]

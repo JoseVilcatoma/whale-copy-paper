@@ -1,5 +1,5 @@
 {
-  "bankroll": 395.0820011556064,
+  "bankroll": 395.02842972703496,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17205,6 +17205,11 @@
       "timestamp": 1788303910.7538786,
       "bankroll": 395.08,
       "event": "lost: UpTheBlues \u2014 Torino FC vs. AC Monza: Both Teams to Score"
+    },
+    {
+      "timestamp": 1788306369.7746909,
+      "bankroll": 395.03,
+      "event": "venta anticipada: 0x4f2 \u2014 San Diego Padres vs. Cincinnati Reds (-0.05 USD)"
     }
   ]
 }
