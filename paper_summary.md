@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 15:10:17 (hora de Perú)
+Actualizado: 2026-09-01 15:12:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $404.18
@@ -690,7 +690,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 62% | 5.00 | 13.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | Karmine Corp Blue (BUY) | 56% | 5.00 | 7.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 15.0% | ⏳ pendiente | — |
-| monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
+| monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 61% | 5.00 | 17.3% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Marcos Giron vs Ignacio Bus | Ignacio Buse (BUY) | 61% | 5.00 | 12.7% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 49% | 5.00 | 29.0% | ⏳ pendiente | — |
