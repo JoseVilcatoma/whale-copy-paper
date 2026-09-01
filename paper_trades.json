@@ -85285,8 +85285,8 @@
     "title": "New York Mets vs. Tampa Bay Rays",
     "outcome": "Tampa Bay Rays",
     "side": "BUY",
-    "whale_usd": 13439.2176,
-    "whale_pct": 119.842,
+    "whale_usd": 16912.3356,
+    "whale_pct": 150.813,
     "whale_value_at_open": 11214.1069,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -85297,8 +85297,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788273319.9334536,
-    "fills": 1
+    "last_fill_at": 1788279906.0580597,
+    "fills": 2
   },
   {
     "timestamp": 1788274513,
