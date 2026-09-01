@@ -85942,5 +85942,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788306667.104191,
     "fills": 1
+  },
+  {
+    "timestamp": 1788306685,
+    "timestamp_added": 1788306685.7754123,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-sf-pit-2026-09-01",
+    "title": "San Francisco Giants vs. Pittsburgh Pirates",
+    "outcome": "Pittsburgh Pirates",
+    "side": "BUY",
+    "whale_usd": 3999.9959999999996,
+    "whale_pct": 16.277,
+    "whale_value_at_open": 24575.175,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788306685.7754226,
+    "fills": 1
   }
 ]
