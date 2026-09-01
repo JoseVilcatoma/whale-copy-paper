@@ -1,5 +1,5 @@
 {
-  "bankroll": 400.1983051950516,
+  "bankroll": 404.1772142859607,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17080,6 +17080,11 @@
       "timestamp": 1788292027.1301932,
       "bankroll": 400.2,
       "event": "lost: TAIWANNUMBERONE \u2014 LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788292342.8523898,
+      "bankroll": 404.18,
+      "event": "won: DoNotTailMe \u2014 LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights - Game 2 Winner"
     }
   ]
 }

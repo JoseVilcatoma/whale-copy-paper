@@ -85364,8 +85364,8 @@
     "odds_at_bet": 55,
     "fee_usd": 0.112,
     "odds_ballena": 54,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -85636,6 +85636,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788289927.5867853,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788292286,
+    "timestamp_added": 1788292286.6357796,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-tlnpir-kcb-2026-09-01",
+    "title": "LoL: TLN Pirates vs Karmine Corp Blue (BO5) - LFL Playoffs",
+    "outcome": "Karmine Corp Blue",
+    "side": "BUY",
+    "whale_usd": 4501.277000000001,
+    "whale_pct": 39.728,
+    "whale_value_at_open": 11330.1792,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788292286.6357882,
     "fills": 1
   }
 ]
