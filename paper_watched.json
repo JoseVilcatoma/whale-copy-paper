@@ -2,7 +2,7 @@
   "0x204f72f35326db932158cba6adff0b9a1da95e14": {
     "username": "swisstony",
     "added_at": 1788029671.8277488,
-    "roi_pct": 3544.74,
+    "roi_pct": 3544.78,
     "short_term_pct": 90.0
   },
   "0x0e604be17c231a33dc01e38a722c7fe3984e3bad": {
@@ -50,13 +50,13 @@
   "0xdc41c39b95453c943174f369926018f6963bdd7e": {
     "username": "nigiri99",
     "added_at": 1788219069.2681236,
-    "roi_pct": 410.8,
+    "roi_pct": 410.74,
     "short_term_pct": 100.0
   },
-  "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998": {
-    "username": "BrotherObama",
-    "added_at": 1788220008.18843,
-    "roi_pct": 215.92,
+  "0x2005d16a84ceefa912d4e380cd32e7ff827875ea": {
+    "username": "RN1",
+    "added_at": 1788220944.113483,
+    "roi_pct": 914.02,
     "short_term_pct": 100.0
   }
 }
