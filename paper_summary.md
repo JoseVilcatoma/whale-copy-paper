@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 20:34:41 (hora de Perú)
+Actualizado: 2026-08-31 20:36:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $361.80
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 20:34:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $141.80)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $136.80)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,7 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| Flaznorp | 0 | 0 | 8 | +0.00 USD |
+| Flaznorp | 0 | 0 | 9 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
@@ -674,6 +674,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 82% | 5.00 | 0.9% | ⏳ pendiente | — |
@@ -703,4 +704,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 79.3% | ⏳ pendiente | — |
 | NiNo999 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 5.00 | 549.3% | ⏳ pendiente | — |
 | RN1 | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 66% | 5.00 | 0.5% | ❌ perdida | -5.08 |
-| RN1 | US Open ATP: Alexander Blockx vs Tomas B | Alexander Blockx (BUY) | 94% | 5.00 | 1.1% | ✅ ganada | +0.30 |

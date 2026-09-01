@@ -83992,5 +83992,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788226359.3447301,
     "fills": 2
+  },
+  {
+    "timestamp": 1788226559,
+    "timestamp_added": 1788226559.5886068,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "mlb-cws-hou-2026-08-31-total-8pt5",
+    "title": "Chicago White Sox vs. Houston Astros: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 600.0,
+    "whale_pct": 0.393,
+    "whale_value_at_open": 152656.7909,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788226559.5886188,
+    "fills": 1
   }
 ]
