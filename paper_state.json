@@ -1,5 +1,5 @@
 {
-  "bankroll": 384.1835924300046,
+  "bankroll": 385.538848840261,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16955,6 +16955,11 @@
       "timestamp": 1788239961.5706253,
       "bankroll": 384.18,
       "event": "won: 0x4f2 \u2014 Baltimore Orioles vs. Colorado Rockies"
+    },
+    {
+      "timestamp": 1788240270.6368933,
+      "bankroll": 385.54,
+      "event": "won: Flaznorp \u2014 US Open ATP: Martin Damm vs Frances Tiafoe"
     }
   ]
 }
