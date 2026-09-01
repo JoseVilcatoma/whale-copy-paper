@@ -85117,8 +85117,8 @@
     "title": "LoL: TLN Pirates vs Karmine Corp Blue (BO5) - LFL Playoffs",
     "outcome": "TLN Pirates",
     "side": "BUY",
-    "whale_usd": 1415.544742,
-    "whale_pct": 8.197,
+    "whale_usd": 2022.901884,
+    "whale_pct": 11.713,
     "whale_value_at_open": 17270.0321,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -85129,8 +85129,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788274915.3598318,
-    "fills": 2
+    "last_fill_at": 1788275658.4289207,
+    "fills": 3
   },
   {
     "timestamp": 1788266162,
