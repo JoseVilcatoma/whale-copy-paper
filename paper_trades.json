@@ -85237,8 +85237,8 @@
     "title": "Game Handicap: KCB (-1.5) vs TLN Pirates (+1.5)",
     "outcome": "TLN Pirates",
     "side": "BUY",
-    "whale_usd": 3747.7313999999997,
-    "whale_pct": 13.125,
+    "whale_usd": 6720.0777,
+    "whale_pct": 23.534,
     "whale_value_at_open": 28554.4856,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -85249,8 +85249,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788270235.2937562,
-    "fills": 1
+    "last_fill_at": 1788274953.893402,
+    "fills": 2
   },
   {
     "timestamp": 1788271374,
@@ -85322,6 +85322,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788274514.388649,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788274937,
+    "timestamp_added": 1788274937.7550924,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "atp-basavar-schoolk-2026-08-30-set-handicap-home-2pt5",
+    "title": "Set Handicap: Basavareddy (-2.5) vs Schoolkate (+2.5)",
+    "outcome": "Schoolkate",
+    "side": "BUY",
+    "whale_usd": 7499.999999,
+    "whale_pct": 9.015,
+    "whale_value_at_open": 83197.6186,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788274937.7551084,
     "fills": 1
   }
 ]
