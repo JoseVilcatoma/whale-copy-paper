@@ -1,5 +1,5 @@
 {
-  "bankroll": 365.39831792028497,
+  "bankroll": 363.9752477448464,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16780,6 +16780,16 @@
       "timestamp": 1788226725.038053,
       "bankroll": 365.4,
       "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 Miami Marlins vs. Washington Nationals: O/U 8.5"
+    },
+    {
+      "timestamp": 1788227662.5659256,
+      "bankroll": 369.06,
+      "event": "won: 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 \u2014 San Diego Padres vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1788227667.2152042,
+      "bankroll": 363.98,
+      "event": "lost: RN1 \u2014 Spread: San Diego Padres (-1.5)"
     }
   ]
 }
