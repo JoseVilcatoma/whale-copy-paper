@@ -1,5 +1,5 @@
 {
-  "bankroll": 373.27880029455724,
+  "bankroll": 376.37752160603264,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16870,6 +16870,11 @@
       "timestamp": 1788230803.1380079,
       "bankroll": 373.28,
       "event": "won: RN1 \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788231306.2096293,
+      "bankroll": 376.38,
+      "event": "won: Flaznorp \u2014 Chicago White Sox vs. Houston Astros: O/U 8.5"
     }
   ]
 }

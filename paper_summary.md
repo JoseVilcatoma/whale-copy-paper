@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 21:54:07 (hora de Perú)
+Actualizado: 2026-08-31 21:56:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $373.28
-**Retorno acumulado:** -25.34%
+**Bankroll actual:** $376.38
+**Retorno acumulado:** -24.72%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 21:54:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $243.28)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $251.38)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -65,6 +65,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 4 | 3 | 3 | +1.37 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| Flaznorp | 6 | 2 | 2 | +0.66 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 0 | 0 | 1 | +0.00 USD |
 | UpTheBlues | 0 | 0 | 1 | +0.00 USD |
@@ -73,7 +74,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| Flaznorp | 5 | 2 | 3 | -2.44 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
@@ -113,14 +113,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3216
-- **Aciertos:** 2050 (63.7%)
+- **Apuestas resueltas:** 3217
+- **Aciertos:** 2051 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,055.24
-- **ROI sobre lo apostado:** -1.42%
-- **Comisiones pagadas (taker fee):** $293.20 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.40% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,060.24
+- **ROI sobre lo apostado:** -1.40%
+- **Comisiones pagadas (taker fee):** $293.30 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -129,7 +129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1606 | 49.6% | 50.1% | -0.5 pp |
-| 60-79% | 956 | 69.8% | 67.9% | +1.9 pp |
+| 60-79% | 957 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 456 | 86.6% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 198 | 96.5% | 97.4% | -0.9 pp |
 
@@ -679,7 +679,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ⏳ pendiente | — |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
-| Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
+| Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ✅ ganada | +3.10 |
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ✅ ganada | +0.25 |
 | Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 82% | 5.00 | 0.9% | ✅ ganada | +1.05 |
