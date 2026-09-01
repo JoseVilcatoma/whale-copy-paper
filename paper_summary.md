@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 21:31:01 (hora de Perú)
+Actualizado: 2026-08-31 21:33:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $368.68
-**Retorno acumulado:** -26.26%
+**Bankroll actual:** $363.59
+**Retorno acumulado:** -27.28%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 21:31:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $208.68)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $208.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | Sunny24 | 1 | 0 | 3 | +2.17 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
-| Flaznorp | 3 | 0 | 7 | +2.01 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
@@ -75,6 +74,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
+| Flaznorp | 3 | 1 | 6 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
@@ -112,14 +112,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3209
+- **Apuestas resueltas:** 3210
 - **Aciertos:** 2045 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,020.24
-- **ROI sobre lo apostado:** -1.45%
-- **Comisiones pagadas (taker fee):** $292.62 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.37% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,025.24
+- **ROI sobre lo apostado:** -1.48%
+- **Comisiones pagadas (taker fee):** $292.71 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -128,7 +128,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1603 | 49.5% | 50.1% | -0.6 pp |
-| 60-79% | 954 | 69.9% | 67.9% | +2.0 pp |
+| 60-79% | 955 | 69.8% | 67.9% | +2.0 pp |
 | 80-94% | 455 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 197 | 96.4% | 97.4% | -0.9 pp |
 
@@ -684,7 +684,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Over (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Boston Red Sox (BUY) | 87% | 5.00 | 0.6% | ✅ ganada | +0.71 |
 | Flaznorp | Will CA Barracas Central win on 2026-08- | No (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
-| Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
 | Flaznorp | US Open ATP: Martin Damm vs Frances Tiaf | Frances Tiafoe (BUY) | 78% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | New York Mets vs. Tampa Bay Rays: O/U 7. | Under (BUY) | 92% | 5.00 | 1.6% | ✅ ganada | +0.41 |
 | RN1 | Will O'Higgins FC win on 2026-08-31? | No (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |

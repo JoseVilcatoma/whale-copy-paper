@@ -1,5 +1,5 @@
 {
-  "bankroll": 368.6830434690457,
+  "bankroll": 363.5930434690457,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16835,6 +16835,11 @@
       "timestamp": 1788229853.7821872,
       "bankroll": 368.68,
       "event": "lost: RN1 \u2014 US Open ATP: Juncheng Shang vs Marco Trungelliti"
+    },
+    {
+      "timestamp": 1788229979.6025174,
+      "bankroll": 363.59,
+      "event": "lost: Flaznorp \u2014 CA Tigre vs. CA Barracas Central: O/U 0.5"
     }
   ]
 }
