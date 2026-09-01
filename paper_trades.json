@@ -85766,5 +85766,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788297346.8949811,
     "fills": 1
+  },
+  {
+    "timestamp": 1788297821,
+    "timestamp_added": 1788297822.5501137,
+    "username": "NiNo999",
+    "wallet": "0xcd65c3279408a33866a9129bed6943064cb6ee96",
+    "slug": "atp-marozsa-zheng-2026-08-30",
+    "title": "US Open ATP: Fabian Marozsan vs Michael Zheng",
+    "outcome": "Michael Zheng",
+    "side": "BUY",
+    "whale_usd": 19999.999999,
+    "whale_pct": 48.184,
+    "whale_value_at_open": 41507.6128,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788297822.5501268,
+    "fills": 1
   }
 ]
