@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 20:32:39 (hora de Perú)
+Actualizado: 2026-08-31 20:34:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $361.80
@@ -681,7 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Boston Red Sox (BUY) | 87% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Will CA Barracas Central win on 2026-08- | No (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
-| Flaznorp | US Open ATP: Martin Damm vs Frances Tiaf | Frances Tiafoe (BUY) | 78% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Martin Damm vs Frances Tiaf | Frances Tiafoe (BUY) | 78% | 5.00 | 2.1% | ⏳ pendiente | — |
 | RN1 | New York Mets vs. Tampa Bay Rays: O/U 7. | Under (BUY) | 92% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | Will O'Higgins FC win on 2026-08-31? | No (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |

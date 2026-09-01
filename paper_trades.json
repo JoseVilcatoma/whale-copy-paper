@@ -83806,8 +83806,8 @@
     "title": "US Open ATP: Martin Damm vs Frances Tiafoe",
     "outcome": "Frances Tiafoe",
     "side": "BUY",
-    "whale_usd": 1088.26965,
-    "whale_pct": 0.808,
+    "whale_usd": 2826.51965,
+    "whale_pct": 2.099,
     "whale_value_at_open": 134655.8106,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 78,
@@ -83818,8 +83818,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788225269.7893498,
-    "fills": 1
+    "last_fill_at": 1788226361.3378909,
+    "fills": 2
   },
   {
     "timestamp": 1788225287,
