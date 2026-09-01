@@ -85179,5 +85179,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788266713.4256954,
     "fills": 1
+  },
+  {
+    "timestamp": 1788268763,
+    "timestamp_added": 1788268764.6327784,
+    "username": "0x0x23kjookhaiuohduoayh8c9",
+    "wallet": "0x9c3ce009c9b039956665cecc4cd14de862b5e8c9",
+    "slug": "wta-kasatki-badosa-2026-08-30",
+    "title": "US Open WTA: Daria Kasatkina vs Paula Badosa",
+    "outcome": "Paula Badosa",
+    "side": "BUY",
+    "whale_usd": 4999.995,
+    "whale_pct": 24.02,
+    "whale_value_at_open": 20815.8396,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788268764.6327903,
+    "fills": 1
   }
 ]

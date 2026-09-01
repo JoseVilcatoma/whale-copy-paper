@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 08:18:10 (hora de Perú)
+Actualizado: 2026-09-01 08:20:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $391.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 08:18:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $216.37)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $211.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 14 | 2 | 7 | +11.92 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 3 | +9.52 USD |
+| 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 4 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Daria Kasatkina vs Paula Ba | Paula Badosa (BUY) | 55% | 5.00 | 24.0% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: TLN Pirates vs Karmine Corp Blue (B | TLN Pirates (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Como: Thiago Seyboth Wild vs Martin Krum | Thiago Seyboth Wild (BUY) | 98% | 5.00 | 1.6% | ✅ ganada | +0.10 |
 | UpTheBlues | Torino FC vs. AC Monza: Both Teams to Sc | Yes (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Huddersfield Town AFC win on 2026-0 | No (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
-| UpTheBlues | Will Sheffield Wednesday FC win on 2026- | No (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
