@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 09:05:32 (hora de Perú)
+Actualizado: 2026-09-01 09:07:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $391.37
@@ -682,7 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| TAIWANNUMBERONE | Game Handicap: HLE (-1.5) vs T1 (+1.5) | T1 (BUY) | 59% | 5.00 | 2.5% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: HLE (-1.5) vs T1 (+1.5) | T1 (BUY) | 59% | 5.00 | 43.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: KCB (-1.5) vs TLN Pirates | TLN Pirates (BUY) | 64% | 5.00 | 13.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 67% | 5.00 | 47.9% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Daria Kasatkina vs Paula Ba | Paula Badosa (BUY) | 55% | 5.00 | 24.0% | ⏳ pendiente | — |
