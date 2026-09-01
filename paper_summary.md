@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 18:55:32 (hora de Perú)
+Actualizado: 2026-09-01 18:57:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $395.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 18:55:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $220.03)
+**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $210.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,7 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| 0x4f2 | 1 | 1 | 4 | +5.24 USD |
+| 0x4f2 | 1 | 1 | 5 | +5.24 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
+| GoalLineGhost | 27 | 10 | 1 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | Sunny24 | 2 | 2 | 0 | -3.57 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
@@ -684,16 +684,19 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-molcan-bonzi-2026-08-30 | AV23IUa, NiNo999 |
 | mlb-det-min-2026-09-01 | 0x4f2, AV23IUa |
 | lol-tlnpir-kcb-2026-09-01 | DoNotTailMe, TAIWANNUMBERONE |
+| brco-cam-cru-2026-09-01-total-1pt5 | GoalLineGhost, HongYunX |
 | mlb-mia-kc-2026-09-01 | 0x4f2, Painfulvoid |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 32.5% | ⏳ pendiente | — |
+| GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ⏳ pendiente | — |
+| 0x4f2 | Atlanta Braves vs. Washington Nationals | Washington Nationals (BUY) | 80% | 5.00 | 3.2% | ⏳ pendiente | — |
+| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 40.2% | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0x4f2 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 68% | 5.00 | 2.4% | ⏳ pendiente | — |
-| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 61.9% | ⏳ pendiente | — |
+| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 97.3% | ⏳ pendiente | — |
 | Painfulvoid | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 10.3% | ⏳ pendiente | — |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 42% | 5.00 | 11.0% | 💰 vendida anticipada | -0.05 |
 | ExplosiveNinja | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 61% | 5.00 | 36.2% | ⏳ pendiente | — |
@@ -718,5 +721,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | Set Handicap: Basavareddy (-2.5) vs Scho | Schoolkate (BUY) | 68% | 5.00 | 9.0% | ✅ ganada | +2.27 |
 | TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 59% | 5.00 | 4.3% | ❌ perdida | -5.10 |
 | monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 191.8% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: HLE (-1.5) vs T1 (+1.5) | T1 (BUY) | 59% | 5.00 | 43.6% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: KCB (-1.5) vs TLN Pirates | TLN Pirates (BUY) | 64% | 5.00 | 23.5% | ✅ ganada | +2.72 |
