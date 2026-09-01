@@ -85453,8 +85453,8 @@
     "title": "US Open ATP: Marcos Giron vs Ignacio Buse",
     "outcome": "Ignacio Buse",
     "side": "BUY",
-    "whale_usd": 19849.379999999997,
-    "whale_pct": 6.916,
+    "whale_usd": 32861.774999999994,
+    "whale_pct": 11.45,
     "whale_value_at_open": 286996.3871,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -85465,7 +85465,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788283703.7255065,
-    "fills": 2
+    "last_fill_at": 1788284280.7548954,
+    "fills": 8
   }
 ]
