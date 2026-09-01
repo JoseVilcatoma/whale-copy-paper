@@ -84215,5 +84215,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788234711.8722274,
     "fills": 2
+  },
+  {
+    "timestamp": 1788247251,
+    "timestamp_added": 1788247252.0518534,
+    "username": "asd147",
+    "wallet": "0xa16a1302ca05463f30faebeb5c045767fde233a1",
+    "slug": "arg-def-pla-2026-08-31-total-2pt5",
+    "title": "CSyD Defensa y Justicia vs. CA Platense: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 540.21924,
+    "whale_pct": 7.313,
+    "whale_value_at_open": 7386.6525,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 100,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788247252.0518713,
+    "fills": 1
   }
 ]
