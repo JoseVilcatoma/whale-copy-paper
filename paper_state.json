@@ -1,5 +1,5 @@
 {
-  "bankroll": 380.423848840261,
+  "bankroll": 380.471353890766,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16965,6 +16965,11 @@
       "timestamp": 1788245211.3890188,
       "bankroll": 380.42,
       "event": "lost: RN1 \u2014 US Open WTA: Maya Joint vs Liudmila Samsonova"
+    },
+    {
+      "timestamp": 1788247388.985815,
+      "bankroll": 380.47,
+      "event": "won: asd147 \u2014 CSyD Defensa y Justicia vs. CA Platense: O/U 2.5"
     }
   ]
 }
