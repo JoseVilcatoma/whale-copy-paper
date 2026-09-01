@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 12:54:51 (hora de Perú)
+Actualizado: 2026-09-01 12:57:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $399.87
@@ -682,7 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 6.0% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 15.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 61% | 5.00 | 17.3% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Marcos Giron vs Ignacio Bus | Ignacio Buse (BUY) | 61% | 5.00 | 12.7% | ⏳ pendiente | — |
