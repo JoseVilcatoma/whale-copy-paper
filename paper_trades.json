@@ -84601,5 +84601,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788256785.156957,
     "fills": 4
+  },
+  {
+    "timestamp": 1788257708,
+    "timestamp_added": 1788257708.9830804,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-ldp-ef1-2026-09-01",
+    "title": "Counter-Strike: largadosypelados vs Eternal Fire (BO3) - Logitech G Play Connect Closed Qualifier Group C",
+    "outcome": "Eternal Fire",
+    "side": "BUY",
+    "whale_usd": 522.8000000000001,
+    "whale_pct": 0.777,
+    "whale_value_at_open": 67251.4282,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 82,
+    "fee_usd": 0.045,
+    "odds_ballena": 80,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788257708.9830925,
+    "fills": 1
   }
 ]

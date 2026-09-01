@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 05:14:48 (hora de Perú)
+Actualizado: 2026-09-01 05:16:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.27
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 05:14:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $259.27)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $254.27)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 41 | 14 | 4 | +60.23 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 41 | 14 | 5 | +60.23 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -681,6 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: largadosypelados vs Eter | Eternal Fire (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Charles Broom vs Mathys Erhard | Mathys Erhard (BUY) | 95% | 5.00 | 11.5% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Zizou Bergs vs Carlos Taber | Zizou Bergs (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
 | Flaznorp | Como: Thiago Seyboth Wild vs Martin Krum | Thiago Seyboth Wild (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
@@ -710,4 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ✅ ganada | +5.29 |
 | Flaznorp | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 82% | 5.00 | 0.9% | ✅ ganada | +1.05 |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Over (BUY) | 65% | 5.00 | 0.8% | ❌ perdida | -5.09 |
-| Flaznorp | Spread: Seattle Mariners (-2.5) | Boston Red Sox (BUY) | 87% | 5.00 | 0.6% | ✅ ganada | +0.71 |
