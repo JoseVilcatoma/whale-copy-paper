@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.36680884850665,
+  "bankroll": 374.6169667432435,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16995,6 +16995,11 @@
       "timestamp": 1788257910.6116261,
       "bankroll": 374.37,
       "event": "won: Flaznorp \u2014 Como: Thiago Seyboth Wild vs Martin Krumich"
+    },
+    {
+      "timestamp": 1788259543.372417,
+      "bankroll": 374.62,
+      "event": "won: Flaznorp \u2014 Manacor: Charles Broom vs Mathys Erhard"
     }
   ]
 }
