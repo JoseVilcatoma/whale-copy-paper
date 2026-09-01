@@ -84287,5 +84287,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788251344.369131,
     "fills": 1
+  },
+  {
+    "timestamp": 1788252514,
+    "timestamp_added": 1788252515.1927285,
+    "username": "tikstt",
+    "wallet": "0xe4a785280932b1de883176e17284a4ad19194a1d",
+    "slug": "elc-bir-sot-2026-09-01-bir",
+    "title": "Will Birmingham City FC win on 2026-09-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 11302.4646,
+    "whale_pct": 222.528,
+    "whale_value_at_open": 5079.1261,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788252515.192741,
+    "fills": 1
   }
 ]
