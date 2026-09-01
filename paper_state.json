@@ -1,5 +1,5 @@
 {
-  "bankroll": 405.0523253970718,
+  "bankroll": 407.32526657354236,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17095,6 +17095,11 @@
       "timestamp": 1788293604.591494,
       "bankroll": 405.05,
       "event": "won: DoNotTailMe \u2014 LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788293919.2923095,
+      "bankroll": 407.33,
+      "event": "won: NiNo999 \u2014 Set Handicap: Basavareddy (-2.5) vs Schoolkate (+2.5)"
     }
   ]
 }
