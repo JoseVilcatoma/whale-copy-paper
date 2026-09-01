@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 20:05:37 (hora de Perú)
+Actualizado: 2026-08-31 20:07:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $382.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 20:05:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $222.25)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $207.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
-| quavoo | 29 | 15 | 1 | +9.01 USD |
+| quavoo | 29 | 15 | 2 | +9.01 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
@@ -96,7 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| RN1 | 477 | 222 | 5 | -10.76 USD |
+| RN1 | 477 | 222 | 7 | -10.76 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
@@ -655,7 +655,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-vachero-kovacev-2026-08-30 | NiNo999, beachboy4 |
 | cs2-fut-vit-2026-08-31 | 0x29b52d98ac9ef9414b04164246c95BC63d7, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 | cs2-fut-vit-2026-08-31-game2 | 0x29b52d98ac9ef9414b04164246c95BC63d7, Sunny24 |
-| mlb-mil-chc-2026-08-31 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, Sunny24 |
+| mlb-mil-chc-2026-08-31 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, RN1, Sunny24 |
 | epl-ast-ars-2026-08-31-ars | BBQChickenisthebesttt, vito3corleone |
 | mlb-nyy-laa-2026-08-31 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, NiNo999, Sunny24, monkeymashingkeyboard |
 | atp-berrett-wawrink-2026-08-30 | 0x0x23kjookhaiuohduoayh8c9, RN1 |
@@ -670,6 +670,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 57% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 84% | 5.00 | 0.7% | ⏳ pendiente | — |
+| RN1 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 99% | 5.00 | 1.2% | ⏳ pendiente | — |
 | Sassy-Bucket | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 42% | 5.00 | 1.6% | ⏳ pendiente | — |
 | RN1 | US Open ATP: Juncheng Shang vs Marco Tru | Juncheng Shang (BUY) | 84% | 5.00 | 0.3% | ⏳ pendiente | — |
 | RN1 | Will Fortaleza EC win on 2026-08-31? | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -697,6 +700,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | US Open ATP: Juncheng Shang vs Marco Tru | Marco Trungelliti (BUY) | 43% | 5.00 | 76362.1% | ⏳ pendiente | — |
 | AGUGava | US Open WTA: Julia Grabher vs Sorana Cir | Julia Grabher (BUY) | 41% | 5.00 | 398.4% | ❌ perdida | -5.15 |
 | Sunny24 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 56% | 5.00 | 51.7% | ⏳ pendiente | — |
-| monkeymashingkeyboard | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 46% | 5.00 | 39.4% | ⏳ pendiente | — |
-| AGUGava | US Open WTA: Katie Volynets vs Linda Nos | Katie Volynets (BUY) | 56% | 5.00 | 18.1% | 💰 vendida anticipada | -4.17 |
-| AGUGava | Aston Villa FC vs. Arsenal FC: O/U 2.5 | Under (BUY) | 89% | 5.00 | 92.7% | 💰 vendida anticipada | +0.24 |
