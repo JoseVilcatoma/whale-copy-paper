@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.5930434690457,
+  "bankroll": 363.18796503767317,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16840,6 +16840,16 @@
       "timestamp": 1788229979.6025174,
       "bankroll": 363.59,
       "event": "lost: Flaznorp \u2014 CA Tigre vs. CA Barracas Central: O/U 0.5"
+    },
+    {
+      "timestamp": 1788230172.2772303,
+      "bankroll": 358.51,
+      "event": "lost: Flaznorp \u2014 Instituto AC C\u00f3rdoba vs. CA San Lorenzo de Almagro: O/U 1.5"
+    },
+    {
+      "timestamp": 1788230172.5777783,
+      "bankroll": 363.19,
+      "event": "won: Flaznorp \u2014 Instituto AC C\u00f3rdoba vs. CA San Lorenzo de Almagro: O/U 1.5"
     }
   ]
 }

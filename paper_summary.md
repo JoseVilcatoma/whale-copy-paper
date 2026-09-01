@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 21:35:09 (hora de Perú)
+Actualizado: 2026-08-31 21:37:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $363.59
-**Retorno acumulado:** -27.28%
+**Bankroll actual:** $363.19
+**Retorno acumulado:** -27.36%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 21:35:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $208.59)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $218.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,9 +74,9 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
-| Flaznorp | 3 | 1 | 6 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
+| Flaznorp | 4 | 2 | 4 | -3.49 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -112,13 +112,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3210
-- **Aciertos:** 2045 (63.7%)
+- **Apuestas resueltas:** 3212
+- **Aciertos:** 2046 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,025.24
-- **ROI sobre lo apostado:** -1.48%
-- **Comisiones pagadas (taker fee):** $292.71 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $16,035.24
+- **ROI sobre lo apostado:** -1.49%
+- **Comisiones pagadas (taker fee):** $292.92 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.34% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -127,8 +127,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1603 | 49.5% | 50.1% | -0.6 pp |
-| 60-79% | 955 | 69.8% | 67.9% | +2.0 pp |
+| 40-59% | 1604 | 49.6% | 50.1% | -0.5 pp |
+| 60-79% | 956 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 455 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 197 | 96.4% | 97.4% | -0.9 pp |
 
@@ -676,12 +676,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ⏳ pendiente | — |
-| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
+| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
 | Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ✅ ganada | +0.25 |
 | Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
 | Flaznorp | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 82% | 5.00 | 0.9% | ✅ ganada | +1.05 |
-| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Over (BUY) | 65% | 5.00 | 0.8% | ⏳ pendiente | — |
+| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Over (BUY) | 65% | 5.00 | 0.8% | ❌ perdida | -5.09 |
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Boston Red Sox (BUY) | 87% | 5.00 | 0.6% | ✅ ganada | +0.71 |
 | Flaznorp | Will CA Barracas Central win on 2026-08- | No (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
