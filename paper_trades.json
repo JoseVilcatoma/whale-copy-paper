@@ -84529,5 +84529,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788254549.719222,
     "fills": 1
+  },
+  {
+    "timestamp": 1788255666,
+    "timestamp_added": 1788255667.1906228,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-wild-krumich-2026-08-31",
+    "title": "Como: Thiago Seyboth Wild vs Martin Krumich",
+    "outcome": "Thiago Seyboth Wild",
+    "side": "BUY",
+    "whale_usd": 1950.8199949999998,
+    "whale_pct": 1.561,
+    "whale_value_at_open": 124937.5733,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 98,
+    "fee_usd": 0.005,
+    "odds_ballena": 96,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788255667.1906347,
+    "fills": 1
   }
 ]

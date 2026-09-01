@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 04:39:44 (hora de Perú)
+Actualizado: 2026-09-01 04:41:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.22
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 04:39:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $105.00 en 21 posiciones abiertas (disponible para nuevas apuestas: $269.22)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $264.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 8 | 2 | 3 | +7.31 USD |
+| Flaznorp | 8 | 2 | 4 | +7.31 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
@@ -681,6 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Como: Thiago Seyboth Wild vs Martin Krum | Thiago Seyboth Wild (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Torino FC vs. AC Monza: Both Teams to Sc | Yes (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Huddersfield Town AFC win on 2026-0 | No (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Will Sheffield Wednesday FC win on 2026- | No (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
@@ -710,4 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Spread: Seattle Mariners (-2.5) | Boston Red Sox (BUY) | 87% | 5.00 | 0.6% | ✅ ganada | +0.71 |
 | Flaznorp | Will CA Barracas Central win on 2026-08- | No (BUY) | 82% | 5.00 | 1.0% | ✅ ganada | +1.05 |
 | Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ❌ perdida | -5.09 |
-| Flaznorp | US Open ATP: Martin Damm vs Frances Tiaf | Frances Tiafoe (BUY) | 78% | 5.00 | 2.1% | ✅ ganada | +1.36 |
