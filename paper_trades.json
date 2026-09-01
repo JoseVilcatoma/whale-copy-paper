@@ -84092,5 +84092,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788230375.9394047,
     "fills": 1
+  },
+  {
+    "timestamp": 1788232481,
+    "timestamp_added": 1788232482.72986,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-nem-sparta-2026-09-01",
+    "title": "Counter-Strike: Team Nemesis vs SPARTA (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "Team Nemesis",
+    "side": "BUY",
+    "whale_usd": 12991.0722,
+    "whale_pct": 356.868,
+    "whale_value_at_open": 3640.2976,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 68,
+    "fee_usd": 0.08,
+    "odds_ballena": 67,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788232482.729873,
+    "fills": 1
   }
 ]
