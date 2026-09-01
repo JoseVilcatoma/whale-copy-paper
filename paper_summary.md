@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 02:33:01 (hora de Perú)
+Actualizado: 2026-09-01 02:35:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $379.35
-**Retorno acumulado:** -24.13%
+**Bankroll actual:** $374.22
+**Retorno acumulado:** -25.16%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 02:33:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $50.00 en 10 posiciones abiertas (disponible para nuevas apuestas: $329.35)
+**Capital comprometido ahora mismo:** $45.00 en 9 posiciones abiertas (disponible para nuevas apuestas: $329.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,7 +73,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
-| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 5 | 1 | -1.49 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -95,6 +94,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 2 | 3 | 1 | -5.59 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
+| 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
@@ -116,14 +116,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3238
+- **Apuestas resueltas:** 3239
 - **Aciertos:** 2064 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,165.24
-- **ROI sobre lo apostado:** -1.37%
-- **Comisiones pagadas (taker fee):** $295.37 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.45% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,170.24
+- **ROI sobre lo apostado:** -1.41%
+- **Comisiones pagadas (taker fee):** $295.50 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -131,7 +131,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1621 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1622 | 49.6% | 50.1% | -0.5 pp |
 | 60-79% | 960 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 200 | 96.5% | 97.4% | -0.9 pp |
