@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 13:19:42 (hora de Perú)
+Actualizado: 2026-09-01 13:21:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $399.87
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 13:19:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $154.87)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $149.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ChonkyChocolateCake | 41 | 25 | 5 | +19.15 USD |
+| ChonkyChocolateCake | 41 | 25 | 6 | +19.15 USD |
 | Flaznorp | 15 | 2 | 6 | +15.74 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | quavoo | 30 | 15 | 2 | +12.99 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 62% | 5.00 | 13.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | Karmine Corp Blue (BUY) | 56% | 5.00 | 7.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 15.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 48% | 5.00 | 1.5% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Oleksandra Oliynykova vs Re | Reese Brantmeier (BUY) | 50% | 5.00 | 31.3% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Pol Martin Tiffon vs Juan Pab | Pol Martin Tiffon (BUY) | 95% | 5.00 | 1.3% | ✅ ganada | +0.25 |
 | Flaznorp | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 44% | 5.00 | 0.9% | ⏳ pendiente | — |
-| Flaznorp | Plovdiv 3: Eric Vanshelboim vs Calvin He | Calvin Hemery (BUY) | 89% | 5.00 | 1.5% | ✅ ganada | +0.59 |
