@@ -1,5 +1,5 @@
 {
-  "bankroll": 392.44015974175323,
+  "bankroll": 387.3181597417532,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17035,6 +17035,11 @@
       "timestamp": 1788264898.7393048,
       "bankroll": 392.44,
       "event": "won: ferrariChampions2026 \u2014 W50 Saint-Palais-sur-Mer: Aurora Zantedeschi vs Amandine Monnot"
+    },
+    {
+      "timestamp": 1788265020.3656406,
+      "bankroll": 387.32,
+      "event": "lost: ferrariChampions2026 \u2014 Porto: Nick Hardt vs Marco Cecchinato"
     }
   ]
 }
