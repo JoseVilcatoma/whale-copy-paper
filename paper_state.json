@@ -1,5 +1,5 @@
 {
-  "bankroll": 393.87351406443054,
+  "bankroll": 397.2047355878408,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17165,6 +17165,21 @@
       "timestamp": 1788300501.0359976,
       "bankroll": 393.87,
       "event": "lost: DoNotTailMe \u2014 LoL: TLN Pirates vs Karmine Corp Blue (BO5) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1788302665.000371,
+      "bankroll": 388.74,
+      "event": "lost: UpTheBlues \u2014 Will Portsmouth FC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788302665.100597,
+      "bankroll": 392.89,
+      "event": "won: tikstt \u2014 Will Portsmouth FC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788302665.5033548,
+      "bankroll": 397.2,
+      "event": "won: tikstt \u2014 Will Swansea City AFC win on 2026-09-01?"
     }
   ]
 }
