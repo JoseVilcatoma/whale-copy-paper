@@ -1,5 +1,5 @@
 {
-  "bankroll": 397.1152665735424,
+  "bankroll": 400.08478270257467,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17110,6 +17110,11 @@
       "timestamp": 1788295487.210256,
       "bankroll": 397.12,
       "event": "lost: DoNotTailMe \u2014 LoL: TLN Pirates vs Karmine Corp Blue - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788296735.9558582,
+      "bankroll": 400.08,
+      "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 US Open WTA: Lucie Havlickova vs Anna Bondar"
     }
   ]
 }
