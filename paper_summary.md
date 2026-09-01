@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 05:58:06 (hora de Perú)
+Actualizado: 2026-09-01 06:00:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.62
@@ -681,7 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 45% | 5.00 | 23.7% | ⏳ pendiente | — |
+| monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 45% | 5.00 | 47.3% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Rafael Jodar vs Thanasi Kok | Rafael Jodar (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Filip Misolic vs Francisco  | Francisco Cerundolo (BUY) | 95% | 5.00 | 6.8% | ⏳ pendiente | — |
