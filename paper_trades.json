@@ -85227,5 +85227,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788269893.6740491,
     "fills": 1
+  },
+  {
+    "timestamp": 1788270234,
+    "timestamp_added": 1788270235.2937438,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-tlnpir-kcb-2026-09-01-game-handicap-home-1pt5",
+    "title": "Game Handicap: KCB (-1.5) vs TLN Pirates (+1.5)",
+    "outcome": "TLN Pirates",
+    "side": "BUY",
+    "whale_usd": 3747.7313999999997,
+    "whale_pct": 13.125,
+    "whale_value_at_open": 28554.4856,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788270235.2937562,
+    "fills": 1
   }
 ]
