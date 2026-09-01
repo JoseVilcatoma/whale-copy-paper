@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 20:36:47 (hora de Perú)
+Actualizado: 2026-08-31 20:38:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $361.80
-**Retorno acumulado:** -27.64%
+**Bankroll actual:** $365.40
+**Retorno acumulado:** -26.92%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 20:36:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $136.80)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $155.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,6 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 0 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | quavoo | 29 | 15 | 3 | +9.01 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
@@ -60,12 +61,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
-| 0x0x23kjookhaiuohduoayh8c9 | 1 | 0 | 2 | +1.20 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 3 | 3 | 5 | +0.56 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
-| Flaznorp | 0 | 0 | 9 | +0.00 USD |
+| Flaznorp | 0 | 0 | 10 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
@@ -73,7 +73,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
-| NiNo999 | 2 | 2 | 6 | -3.08 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | GoalLineGhost | 27 | 10 | 0 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
@@ -91,6 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HomeRunHazard | 429 | 228 | 1 | -6.35 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
+| NiNo999 | 2 | 3 | 5 | -8.21 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
 | monkeymashingkeyboard | 0 | 2 | 3 | -10.17 USD |
@@ -98,8 +98,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
+| RN1 | 478 | 223 | 9 | -15.43 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
-| RN1 | 477 | 223 | 10 | -15.84 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
@@ -111,14 +111,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3196
-- **Aciertos:** 2036 (63.7%)
+- **Apuestas resueltas:** 3200
+- **Aciertos:** 2039 (63.7%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $15,955.24
-- **ROI sobre lo apostado:** -1.44%
-- **Comisiones pagadas (taker fee):** $291.75 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.39% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $15,975.24
+- **ROI sobre lo apostado:** -1.42%
+- **Comisiones pagadas (taker fee):** $292.13 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.41% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -126,9 +126,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1599 | 49.5% | 50.1% | -0.6 pp |
+| 40-59% | 1602 | 49.5% | 50.1% | -0.6 pp |
 | 60-79% | 952 | 70.0% | 67.9% | +2.1 pp |
-| 80-94% | 449 | 86.9% | 86.7% | +0.2 pp |
+| 80-94% | 450 | 86.9% | 86.7% | +0.2 pp |
 | 95-99% (casi seguro) | 196 | 96.4% | 97.4% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -674,6 +674,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ⏳ pendiente | — |
 | Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ⏳ pendiente | — |
@@ -683,7 +684,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Will CA Barracas Central win on 2026-08- | No (BUY) | 82% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Flaznorp | CA Tigre vs. CA Barracas Central: O/U 0. | Over (BUY) | 64% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Martin Damm vs Frances Tiaf | Frances Tiafoe (BUY) | 78% | 5.00 | 2.1% | ⏳ pendiente | — |
-| RN1 | New York Mets vs. Tampa Bay Rays: O/U 7. | Under (BUY) | 92% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | New York Mets vs. Tampa Bay Rays: O/U 7. | Under (BUY) | 92% | 5.00 | 1.6% | ✅ ganada | +0.41 |
 | RN1 | Will O'Higgins FC win on 2026-08-31? | No (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
@@ -696,11 +697,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Fortaleza EC win on 2026-08-31? | No (BUY) | 49% | 5.00 | 0.2% | ⏳ pendiente | — |
 | RN1 | Spread: San Diego Padres (-1.5) | Cincinnati Reds (BUY) | 65% | 5.00 | 0.1% | ⏳ pendiente | — |
 | RN1 | US Open WTA: Maya Joint vs Liudmila Sams | Liudmila Samsonova (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0x0x23kjookhaiuohduoayh8c9 | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 52% | 5.00 | 3.5% | ⏳ pendiente | — |
+| 0x0x23kjookhaiuohduoayh8c9 | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 52% | 5.00 | 3.5% | ✅ ganada | +4.50 |
 | NiNo999 | Philadelphia Phillies vs. Arizona Diamon | Philadelphia Phillies (BUY) | 54% | 5.00 | 18.8% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Philadelphia Phillies vs. Arizona Diamon | Arizona Diamondbacks (BUY) | 48% | 5.00 | 6.7% | ⏳ pendiente | — |
 | NiNo999 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 56% | 5.00 | 22.9% | ⏳ pendiente | — |
 | NiNo999 | Baltimore Orioles vs. Colorado Rockies:  | Over (BUY) | 63% | 5.00 | 30.9% | ⏳ pendiente | — |
 | NiNo999 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 79.3% | ⏳ pendiente | — |
-| NiNo999 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 5.00 | 549.3% | ⏳ pendiente | — |
-| RN1 | San Francisco Giants vs. Atlanta Braves | Atlanta Braves (BUY) | 66% | 5.00 | 0.5% | ❌ perdida | -5.08 |
+| NiNo999 | Spread: Tampa Bay Rays (-1.5) | Tampa Bay Rays (BUY) | 47% | 5.00 | 549.3% | ❌ perdida | -5.13 |

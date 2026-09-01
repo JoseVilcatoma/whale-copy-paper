@@ -1,5 +1,5 @@
 {
-  "bankroll": 361.80257926763323,
+  "bankroll": 365.39831792028497,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16760,6 +16760,26 @@
       "timestamp": 1788226105.4038687,
       "bankroll": 361.8,
       "event": "lost: Sassy-Bucket \u2014 Milwaukee Brewers vs. Chicago Cubs: O/U 8.5"
+    },
+    {
+      "timestamp": 1788226663.3898504,
+      "bankroll": 362.22,
+      "event": "won: RN1 \u2014 New York Mets vs. Tampa Bay Rays: O/U 7.5"
+    },
+    {
+      "timestamp": 1788226723.0443501,
+      "bankroll": 366.04,
+      "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1788226723.5249457,
+      "bankroll": 360.9,
+      "event": "lost: NiNo999 \u2014 Spread: Tampa Bay Rays (-1.5)"
+    },
+    {
+      "timestamp": 1788226725.038053,
+      "bankroll": 365.4,
+      "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 Miami Marlins vs. Washington Nationals: O/U 8.5"
     }
   ]
 }
