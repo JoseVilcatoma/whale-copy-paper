@@ -85405,8 +85405,8 @@
     "title": "Toronto Blue Jays vs. Cleveland Guardians",
     "outcome": "Cleveland Guardians",
     "side": "BUY",
-    "whale_usd": 907.68,
-    "whale_pct": 2.033,
+    "whale_usd": 26578.811,
+    "whale_pct": 59.522,
     "whale_value_at_open": 44653.5682,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -85417,8 +85417,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788280493.9478962,
-    "fills": 1
+    "last_fill_at": 1788292973.103325,
+    "fills": 3
   },
   {
     "timestamp": 1788282473,
