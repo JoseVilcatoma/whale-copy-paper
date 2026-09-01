@@ -2,7 +2,7 @@
   "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e": {
     "username": "0x4f2",
     "added_at": 1788239573.1303322,
-    "roi_pct": 655.25,
+    "roi_pct": 654.87,
     "short_term_pct": 100.0
   },
   "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
@@ -14,7 +14,7 @@
   "0xb8ef617fd5d960e61e56c50d2971697300b32864": {
     "username": "no1dodgersfan",
     "added_at": 1788276765.2635112,
-    "roi_pct": 252.32,
+    "roi_pct": 251.1,
     "short_term_pct": 100.0
   },
   "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21": {
@@ -26,25 +26,25 @@
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1788297640.78545,
-    "roi_pct": 341.79,
+    "roi_pct": 339.02,
     "short_term_pct": 100.0
   },
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1788297640.785455,
-    "roi_pct": 87.62,
+    "roi_pct": 85.28,
     "short_term_pct": 100.0
   },
   "0xdb859a551fcf56e49416160911476bea7307152f": {
     "username": "AV23IUa",
     "added_at": 1788298590.6763272,
-    "roi_pct": 114.36,
+    "roi_pct": 106.48,
     "short_term_pct": 100.0
   },
   "0x73e3fec494611d73c170cb2f23850fd998b21be9": {
     "username": "ExplosiveNinja",
     "added_at": 1788300492.55787,
-    "roi_pct": 165.8,
+    "roi_pct": 143.49,
     "short_term_pct": 100.0
   },
   "0x397062018dfb77e855608fe23223592bc82c44ce": {
@@ -56,7 +56,7 @@
   "0xd6966eb1ae7b52320ba7ab1016680198c9e08a49": {
     "username": "Painfulvoid",
     "added_at": 1788301439.1705513,
-    "roi_pct": 270.19,
+    "roi_pct": 270.11,
     "short_term_pct": 30.0
   }
 }
