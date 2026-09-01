@@ -85371,5 +85371,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788278875.3421621,
     "fills": 2
+  },
+  {
+    "timestamp": 1788280384,
+    "timestamp_added": 1788280385.0297973,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-phi-ari-2026-09-01-total-7pt5",
+    "title": "Philadelphia Phillies vs. Arizona Diamondbacks: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 2549.4900000000002,
+    "whale_pct": 7.978,
+    "whale_value_at_open": 31955.5098,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788280385.0298111,
+    "fills": 1
   }
 ]
