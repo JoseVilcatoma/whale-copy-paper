@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 17:13:36 (hora de Perú)
+Actualizado: 2026-09-01 17:15:40 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $393.87
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 17:13:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $208.87)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $203.87)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -104,7 +104,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
+| ExplosiveNinja | 6 | 6 | 1 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -687,6 +687,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 61% | 5.00 | 18.1% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Fabian Marozsan vs Michael  | Michael Zheng (BUY) | 62% | 5.00 | 48.2% | ⏳ pendiente | — |
 | HongYunX | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 2.3% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 69% | 5.00 | 75.7% | ⏳ pendiente | — |
@@ -716,4 +717,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ✅ ganada | +3.10 |
 | TAIWANNUMBERONE | LoL: TLN Pirates vs Karmine Corp Blue (B | TLN Pirates (BUY) | 45% | 5.00 | 11.7% | ✅ ganada | +5.97 |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 24.1% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ✅ ganada | +1.28 |
