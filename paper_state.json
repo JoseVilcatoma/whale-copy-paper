@@ -1,5 +1,5 @@
 {
-  "bankroll": 405.3013051950516,
+  "bankroll": 400.1983051950516,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17075,6 +17075,11 @@
       "timestamp": 1788290769.8681946,
       "bankroll": 405.3,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: largadosypelados vs Eternal Fire (BO3) - Logitech G Play Connect Closed Qualifier Group C"
+    },
+    {
+      "timestamp": 1788292027.1301932,
+      "bankroll": 400.2,
+      "event": "lost: TAIWANNUMBERONE \u2014 LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights - Game 1 Winner"
     }
   ]
 }

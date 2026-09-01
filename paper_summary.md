@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 14:45:09 (hora de Perú)
+Actualizado: 2026-09-01 14:47:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $405.30
-**Retorno acumulado:** -18.94%
+**Bankroll actual:** $400.20
+**Retorno acumulado:** -19.96%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 14:45:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $160.30)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $160.20)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | quavoo | 30 | 15 | 2 | +12.99 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
-| TAIWANNUMBERONE | 27 | 17 | 5 | +10.98 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 4 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -46,6 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
+| TAIWANNUMBERONE | 27 | 18 | 4 | +5.88 USD |
 | 0x4f2 | 1 | 0 | 0 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -117,14 +117,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3257
+- **Apuestas resueltas:** 3258
 - **Aciertos:** 2081 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,260.24
-- **ROI sobre lo apostado:** -1.21%
-- **Comisiones pagadas (taker fee):** $296.74 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.62% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,265.24
+- **ROI sobre lo apostado:** -1.24%
+- **Comisiones pagadas (taker fee):** $296.84 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.59% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -132,7 +132,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1628 | 49.8% | 50.1% | -0.4 pp |
+| 40-59% | 1629 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 965 | 69.9% | 67.9% | +2.1 pp |
 | 80-94% | 460 | 86.7% | 86.7% | +0.1 pp |
 | 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
@@ -696,7 +696,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Philadelphia Phillies vs. Arizona Diamon | Over (BUY) | 52% | 5.00 | 39.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 55% | 5.00 | 132.3% | ⏳ pendiente | — |
 | NiNo999 | Set Handicap: Basavareddy (-2.5) vs Scho | Schoolkate (BUY) | 68% | 5.00 | 9.0% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 59% | 5.00 | 4.3% | ❌ perdida | -5.10 |
 | monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 150.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: HLE (-1.5) vs T1 (+1.5) | T1 (BUY) | 59% | 5.00 | 43.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: KCB (-1.5) vs TLN Pirates | TLN Pirates (BUY) | 64% | 5.00 | 23.5% | ⏳ pendiente | — |
