@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 07:34:52 (hora de Perú)
+Actualizado: 2026-09-01 07:37:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $389.59
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 07:34:52 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $219.59)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $214.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
-| TAIWANNUMBERONE | 25 | 17 | 2 | +6.60 USD |
+| TAIWANNUMBERONE | 25 | 17 | 3 | +6.60 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: TLN Pirates vs Karmine Corp Blue (B | TLN Pirates (BUY) | 45% | 5.00 | 3.6% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 0.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Huddersfield Town AFC win on 2026-0 | No (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Will Sheffield Wednesday FC win on 2026- | No (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Zhangjiagang: Ilya Ivashka vs Yi Zhou | Ilya Ivashka (BUY) | 99% | 5.00 | 5.0% | ✅ ganada | +0.05 |
-| Flaznorp | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff (BUY) | 95% | 5.00 | 1.9% | ⏳ pendiente | — |

@@ -85131,5 +85131,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788265311.7405565,
     "fills": 1
+  },
+  {
+    "timestamp": 1788266162,
+    "timestamp_added": 1788266163.3518841,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-ucam1-bar-2026-09-01-game-handicap-away-1pt5",
+    "title": "Game Handicap: UCAM (-1.5) vs Bar\u00e7a eSports (+1.5)",
+    "outcome": "UCAM Esports Club",
+    "side": "BUY",
+    "whale_usd": 735.0,
+    "whale_pct": 4.27,
+    "whale_value_at_open": 17213.0032,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788266163.3518994,
+    "fills": 1
   }
 ]
