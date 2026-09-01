@@ -1,5 +1,5 @@
 {
-  "bankroll": 397.2047355878408,
+  "bankroll": 398.11711654022173,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17180,6 +17180,11 @@
       "timestamp": 1788302665.5033548,
       "bankroll": 397.2,
       "event": "won: tikstt \u2014 Will Swansea City AFC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788303289.1470294,
+      "bankroll": 398.12,
+      "event": "won: Flaznorp \u2014 US Open WTA: Kaitlin Quevedo vs Elise Mertens"
     }
   ]
 }
