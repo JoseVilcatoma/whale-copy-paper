@@ -84263,5 +84263,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788250469.762885,
     "fills": 38
+  },
+  {
+    "timestamp": 1788251343,
+    "timestamp_added": 1788251344.3691177,
+    "username": "no1dodgersfan",
+    "wallet": "0xb8ef617fd5d960e61e56c50d2971697300b32864",
+    "slug": "npb-yom-yok-2026-09-01",
+    "title": "Yomiuri Giants vs. Yokohama BayStars",
+    "outcome": "Yomiuri Giants",
+    "side": "BUY",
+    "whale_usd": 1331.0,
+    "whale_pct": 2.642,
+    "whale_value_at_open": 50375.5666,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788251344.369131,
+    "fills": 1
   }
 ]
