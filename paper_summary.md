@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 05:33:16 (hora de Perú)
+Actualizado: 2026-09-01 05:35:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.37
@@ -683,7 +683,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|---|---|---|
 | ferrariChampions2026 | Porto: Nick Hardt vs Marco Cecchinato | Nick Hardt (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Maximus Jones vs Oskari Paldani | Maximus Jones (BUY) | 54% | 5.00 | 1.2% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Daniel Siniakov vs Georgii Kr | Georgii Kravchenko (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Daniel Siniakov vs Georgii Kr | Georgii Kravchenko (BUY) | 43% | 5.00 | 2.2% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: largadosypelados vs Eter | Eternal Fire (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Charles Broom vs Mathys Erhard | Mathys Erhard (BUY) | 95% | 5.00 | 11.5% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Zizou Bergs vs Carlos Taber | Zizou Bergs (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |

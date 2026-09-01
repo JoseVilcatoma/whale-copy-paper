@@ -84635,8 +84635,8 @@
     "title": "Plovdiv 3: Daniel Siniakov vs Georgii Kravchenko",
     "outcome": "Georgii Kravchenko",
     "side": "BUY",
-    "whale_usd": 697.3231030000001,
-    "whale_pct": 0.369,
+    "whale_usd": 4141.412814,
+    "whale_pct": 2.189,
     "whale_value_at_open": 189166.6156,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -84647,8 +84647,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788258576.9382741,
-    "fills": 1
+    "last_fill_at": 1788258832.3381455,
+    "fills": 2
   },
   {
     "timestamp": 1788258760,
