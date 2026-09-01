@@ -1,5 +1,5 @@
 {
-  "bankroll": 375.7090907465028,
+  "bankroll": 374.7233500057621,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16925,6 +16925,16 @@
       "timestamp": 1788238324.2850885,
       "bankroll": 375.71,
       "event": "won: UpTheBlues \u2014 Will CD Universidad Cat\u00f3lica vs. O'Higgins FC end in a draw?"
+    },
+    {
+      "timestamp": 1788238705.8902867,
+      "bankroll": 370.58,
+      "event": "lost: monkeymashingkeyboard \u2014 Philadelphia Phillies vs. Arizona Diamondbacks"
+    },
+    {
+      "timestamp": 1788238705.990453,
+      "bankroll": 374.72,
+      "event": "won: NiNo999 \u2014 Philadelphia Phillies vs. Arizona Diamondbacks"
     }
   ]
 }
