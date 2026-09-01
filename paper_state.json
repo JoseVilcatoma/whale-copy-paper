@@ -1,5 +1,5 @@
 {
-  "bankroll": 389.5911009182238,
+  "bankroll": 391.37241598671693,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17045,6 +17045,11 @@
       "timestamp": 1788265585.36771,
       "bankroll": 389.59,
       "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Nemesis vs SPARTA (BO3) - NODWIN Clutch Series Playoffs"
+    },
+    {
+      "timestamp": 1788267136.7205691,
+      "bankroll": 391.37,
+      "event": "won: no1dodgersfan \u2014 Counter-Strike: THUNDER dOWNUNDER vs Ground Zero (BO3) - ESL Challenger League Oceania Cup #1 Playoffs"
     }
   ]
 }
