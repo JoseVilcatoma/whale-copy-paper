@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.3681082891908,
+  "bankroll": 382.1026735065821,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16890,6 +16890,11 @@
       "timestamp": 1788234276.5236723,
       "bankroll": 376.37,
       "event": "lost: Sunny24 \u2014 San Francisco Giants vs. Atlanta Braves: 1st 5 Innings O/U 4.5"
+    },
+    {
+      "timestamp": 1788236805.7688847,
+      "bankroll": 382.1,
+      "event": "won: HomeRunHazard \u2014 New York Yankees vs. Los Angeles Angels: O/U 8.5"
     }
   ]
 }
