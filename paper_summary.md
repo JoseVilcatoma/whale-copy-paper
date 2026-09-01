@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 01:45:38 (hora de Perú)
+Actualizado: 2026-09-01 01:47:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $385.54
-**Retorno acumulado:** -22.89%
+**Bankroll actual:** $380.42
+**Retorno acumulado:** -23.92%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 01:45:38 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $65.00 en 13 posiciones abiertas (disponible para nuevas apuestas: $320.54)
+**Capital comprometido ahora mismo:** $60.00 en 12 posiciones abiertas (disponible para nuevas apuestas: $320.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -105,8 +105,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| RN1 | 483 | 226 | 1 | -19.45 USD |
 | AV23IUa | 14 | 13 | 0 | -21.10 USD |
+| RN1 | 483 | 227 | 0 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
@@ -115,14 +115,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3234
-- **Aciertos:** 2062 (63.8%)
+- **Apuestas resueltas:** 3235
+- **Aciertos:** 2062 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,145.24
-- **ROI sobre lo apostado:** -1.34%
-- **Comisiones pagadas (taker fee):** $295.04 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.49% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,150.24
+- **ROI sobre lo apostado:** -1.37%
+- **Comisiones pagadas (taker fee):** $295.16 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.46% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -130,7 +130,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1618 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1619 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 960 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 199 | 96.5% | 97.4% | -0.9 pp |
@@ -707,4 +707,4 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Juncheng Shang vs Marco Tru | Juncheng Shang (BUY) | 84% | 5.00 | 0.3% | ❌ perdida | -5.04 |
 | RN1 | Will Fortaleza EC win on 2026-08-31? | No (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
 | RN1 | Spread: San Diego Padres (-1.5) | Cincinnati Reds (BUY) | 65% | 5.00 | 0.1% | ❌ perdida | -5.09 |
-| RN1 | US Open WTA: Maya Joint vs Liudmila Sams | Liudmila Samsonova (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
+| RN1 | US Open WTA: Maya Joint vs Liudmila Sams | Liudmila Samsonova (BUY) | 54% | 5.00 | 0.3% | ❌ perdida | -5.12 |
