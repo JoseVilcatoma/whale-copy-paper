@@ -84875,8 +84875,8 @@
     "title": "US Open ATP: Jesper de Jong vs Francesco Passaro",
     "outcome": "Francesco Passaro",
     "side": "BUY",
-    "whale_usd": 588.24,
-    "whale_pct": 0.458,
+    "whale_usd": 1176.9099999999999,
+    "whale_pct": 0.917,
     "whale_value_at_open": 128305.2542,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -84887,8 +84887,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788261273.9782877,
-    "fills": 1
+    "last_fill_at": 1788262967.741869,
+    "fills": 2
   },
   {
     "timestamp": 1788261277,
@@ -85008,6 +85008,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788262372.7028615,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788262967,
+    "timestamp_added": 1788262967.747543,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "atp-jong-passaro-2026-08-30",
+    "title": "US Open ATP: Jesper de Jong vs Francesco Passaro",
+    "outcome": "Jesper de Jong",
+    "side": "BUY",
+    "whale_usd": 780.3299999999999,
+    "whale_pct": 0.526,
+    "whale_value_at_open": 148396.1541,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 58,
+    "fee_usd": 0.105,
+    "odds_ballena": 57,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788262967.7475505,
     "fills": 1
   }
 ]
