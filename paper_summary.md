@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 03:14:13 (hora de Perú)
+Actualizado: 2026-09-01 03:16:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.22
@@ -679,7 +679,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 73% | 5.00 | 318.2% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 73% | 5.00 | 334.4% | ⏳ pendiente | — |
 | asd147 | CSyD Defensa y Justicia vs. CA Platense: | Under (BUY) | 99% | 5.00 | 7.3% | ✅ ganada | +0.05 |
 | 0x4f2 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 7.0% | ✅ ganada | +5.29 |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 54% | 5.00 | 6.3% | ⏳ pendiente | — |
