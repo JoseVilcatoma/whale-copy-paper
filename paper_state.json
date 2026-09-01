@@ -1,5 +1,5 @@
 {
-  "bankroll": 382.8831887884808,
+  "bankroll": 387.0274480477401,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17010,6 +17010,11 @@
       "timestamp": 1788261857.4832528,
       "bankroll": 382.88,
       "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: Gen.G vs KT Rolster - Game 1 Winner"
+    },
+    {
+      "timestamp": 1788262851.2393959,
+      "bankroll": 387.03,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Maximus Jones vs Oskari Paldanius"
     }
   ]
 }
