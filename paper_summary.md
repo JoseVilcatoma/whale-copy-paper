@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 18:53:28 (hora de Perú)
+Actualizado: 2026-09-01 18:55:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $395.03
@@ -690,7 +690,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 16.3% | ⏳ pendiente | — |
+| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 32.5% | ⏳ pendiente | — |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0x4f2 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 68% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 61.9% | ⏳ pendiente | — |

@@ -85952,8 +85952,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates",
     "outcome": "Pittsburgh Pirates",
     "side": "BUY",
-    "whale_usd": 3999.9959999999996,
-    "whale_pct": 16.277,
+    "whale_usd": 7980.99,
+    "whale_pct": 32.476,
     "whale_value_at_open": 24575.175,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 92,
@@ -85964,7 +85964,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788306685.7754226,
-    "fills": 1
+    "last_fill_at": 1788306866.2246292,
+    "fills": 2
   }
 ]
