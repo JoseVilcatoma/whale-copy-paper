@@ -84841,5 +84841,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788260714.8473582,
     "fills": 1
+  },
+  {
+    "timestamp": 1788261178,
+    "timestamp_added": 1788261179.505457,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-vanshel-hemery-2026-08-31",
+    "title": "Plovdiv 3: Eric Vanshelboim vs Calvin Hemery",
+    "outcome": "Calvin Hemery",
+    "side": "BUY",
+    "whale_usd": 1865.9751979999999,
+    "whale_pct": 1.48,
+    "whale_value_at_open": 126071.1058,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 89,
+    "fee_usd": 0.027,
+    "odds_ballena": 87,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788261181.0976412,
+    "fills": 2
   }
 ]
