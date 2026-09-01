@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 07:14:03 (hora de Perú)
+Actualizado: 2026-09-01 07:16:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $391.24
-**Retorno acumulado:** -21.75%
+**Bankroll actual:** $392.44
+**Retorno acumulado:** -21.51%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 07:14:03 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $221.24)
+**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $227.44)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -113,18 +113,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 377 | 234 | 3 | -136.00 USD |
+| ferrariChampions2026 | 378 | 234 | 2 | -134.80 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3248
-- **Aciertos:** 2073 (63.8%)
+- **Apuestas resueltas:** 3249
+- **Aciertos:** 2074 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,215.24
-- **ROI sobre lo apostado:** -1.30%
-- **Comisiones pagadas (taker fee):** $295.99 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.53% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,220.24
+- **ROI sobre lo apostado:** -1.29%
+- **Comisiones pagadas (taker fee):** $296.04 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.54% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -134,7 +134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1625 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 961 | 69.8% | 67.9% | +1.9 pp |
-| 80-94% | 458 | 86.7% | 86.7% | -0.0 pp |
+| 80-94% | 459 | 86.7% | 86.7% | +0.0 pp |
 | 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -696,7 +696,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Rafael Jodar vs Thanasi Kok | Rafael Jodar (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Filip Misolic vs Francisco  | Francisco Cerundolo (BUY) | 95% | 5.00 | 6.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | W50 Saint-Palais-sur-Mer: Aurora Zantede | Aurora Zantedeschi (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
+| ferrariChampions2026 | W50 Saint-Palais-sur-Mer: Aurora Zantede | Aurora Zantedeschi (BUY) | 80% | 5.00 | 0.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Porto: Nick Hardt vs Marco Cecchinato | Nick Hardt (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Maximus Jones vs Oskari Paldani | Maximus Jones (BUY) | 54% | 5.00 | 1.2% | ✅ ganada | +4.14 |
 | ferrariChampions2026 | Plovdiv 3: Daniel Siniakov vs Georgii Kr | Georgii Kravchenko (BUY) | 43% | 5.00 | 2.2% | ✅ ganada | +6.48 |

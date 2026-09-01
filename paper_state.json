@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.24015974175325,
+  "bankroll": 392.44015974175323,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17030,6 +17030,11 @@
       "timestamp": 1788264589.1885097,
       "bankroll": 391.24,
       "event": "won: Flaznorp \u2014 Como: Olle Wallin vs Johan Nikles"
+    },
+    {
+      "timestamp": 1788264898.7393048,
+      "bankroll": 392.44,
+      "event": "won: ferrariChampions2026 \u2014 W50 Saint-Palais-sur-Mer: Aurora Zantedeschi vs Amandine Monnot"
     }
   ]
 }
