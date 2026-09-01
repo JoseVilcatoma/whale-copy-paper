@@ -1,5 +1,5 @@
 {
-  "bankroll": 376.8843781851463,
+  "bankroll": 372.5605046219279,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16810,6 +16810,16 @@
       "timestamp": 1788227984.2750516,
       "bankroll": 376.88,
       "event": "won: Flaznorp \u2014 Detroit Tigers vs. Minnesota Twins: O/U 9.5"
+    },
+    {
+      "timestamp": 1788228541.999138,
+      "bankroll": 377.6,
+      "event": "won: Flaznorp \u2014 Spread: Seattle Mariners (-2.5)"
+    },
+    {
+      "timestamp": 1788228609.0580947,
+      "bankroll": 372.56,
+      "event": "lost: RN1 \u2014 Seattle Mariners vs. Boston Red Sox"
     }
   ]
 }
