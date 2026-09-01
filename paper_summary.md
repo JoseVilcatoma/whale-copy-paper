@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 22:15:08 (hora de Perú)
+Actualizado: 2026-08-31 22:17:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $381.45
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 22:15:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $256.45)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $251.45)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -81,7 +81,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
-| Painfulvoid | 0 | 1 | 0 | -5.08 USD |
+| Painfulvoid | 0 | 1 | 1 | -5.08 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -676,6 +676,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Painfulvoid | Athletics vs. Texas Rangers | Texas Rangers (BUY) | 65% | 5.00 | 12.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs SPARTA ( | Team Nemesis (BUY) | 68% | 5.00 | 356.9% | ⏳ pendiente | — |
 | UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ⏳ pendiente | — |
@@ -705,4 +706,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x0x23kjookhaiuohduoayh8c9 | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 52% | 5.00 | 3.5% | ✅ ganada | +4.50 |
 | NiNo999 | Philadelphia Phillies vs. Arizona Diamon | Philadelphia Phillies (BUY) | 54% | 5.00 | 18.8% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Philadelphia Phillies vs. Arizona Diamon | Arizona Diamondbacks (BUY) | 48% | 5.00 | 6.7% | ⏳ pendiente | — |
-| NiNo999 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 56% | 5.00 | 22.9% | ⏳ pendiente | — |
