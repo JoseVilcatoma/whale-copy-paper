@@ -1,5 +1,5 @@
 {
-  "bankroll": 404.24874421944185,
+  "bankroll": 405.3013051950516,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17070,6 +17070,11 @@
       "timestamp": 1788289543.245485,
       "bankroll": 404.25,
       "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: UCAM (-1.5) vs Bar\u00e7a eSports (+1.5)"
+    },
+    {
+      "timestamp": 1788290769.8681946,
+      "bankroll": 405.3,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: largadosypelados vs Eternal Fire (BO3) - Logitech G Play Connect Closed Qualifier Group C"
     }
   ]
 }
