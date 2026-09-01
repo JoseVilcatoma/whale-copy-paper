@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 13:42:09 (hora de Perú)
+Actualizado: 2026-09-01 13:44:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $399.87
@@ -682,7 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| beachboy4 | US Open ATP: Dane Sweeny vs Corentin Mou | Corentin Moutet (BUY) | 69% | 5.00 | 774.8% | ⏳ pendiente | — |
+| beachboy4 | US Open ATP: Dane Sweeny vs Corentin Mou | Corentin Moutet (BUY) | 69% | 5.00 | 1522.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 62% | 5.00 | 13.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | Karmine Corp Blue (BUY) | 56% | 5.00 | 7.9% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 15.0% | ⏳ pendiente | — |
