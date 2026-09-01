@@ -84395,8 +84395,8 @@
     "title": "US Open WTA: Kaitlin Quevedo vs Elise Mertens",
     "outcome": "Elise Mertens",
     "side": "BUY",
-    "whale_usd": 1675.26,
-    "whale_pct": 1.366,
+    "whale_usd": 3349.7,
+    "whale_pct": 2.73,
     "whale_value_at_open": 122681.0389,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -84407,8 +84407,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788253566.6355326,
-    "fills": 1
+    "last_fill_at": 1788256808.0197985,
+    "fills": 2
   },
   {
     "timestamp": 1788253585,
@@ -84577,5 +84577,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788256084.0825553,
     "fills": 1
+  },
+  {
+    "timestamp": 1788256723,
+    "timestamp_added": 1788256724.079364,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-broom-erhard-2026-09-01",
+    "title": "Manacor: Charles Broom vs Mathys Erhard",
+    "outcome": "Mathys Erhard",
+    "side": "BUY",
+    "whale_usd": 14155.185483,
+    "whale_pct": 11.49,
+    "whale_value_at_open": 123199.9485,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 95,
+    "fee_usd": 0.013,
+    "odds_ballena": 93,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788256785.156957,
+    "fills": 4
   }
 ]
