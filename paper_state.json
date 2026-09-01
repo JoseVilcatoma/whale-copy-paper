@@ -1,5 +1,5 @@
 {
-  "bankroll": 363.18796503767317,
+  "bankroll": 364.24052601328293,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16850,6 +16850,11 @@
       "timestamp": 1788230172.5777783,
       "bankroll": 363.19,
       "event": "won: Flaznorp \u2014 Instituto AC C\u00f3rdoba vs. CA San Lorenzo de Almagro: O/U 1.5"
+    },
+    {
+      "timestamp": 1788230358.6170752,
+      "bankroll": 364.24,
+      "event": "won: Flaznorp \u2014 Will CA Barracas Central win on 2026-08-31?"
     }
   ]
 }
