@@ -2,19 +2,19 @@
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1788183996.7097065,
-    "roi_pct": 142.8,
+    "roi_pct": 141.18,
     "short_term_pct": 90.0
   },
   "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e": {
     "username": "0x4f2",
     "added_at": 1788239573.1303322,
-    "roi_pct": 655.11,
+    "roi_pct": 652.88,
     "short_term_pct": 100.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1788263066.1970963,
-    "roi_pct": 197.68,
+    "roi_pct": 202.33,
     "short_term_pct": 100.0
   },
   "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
@@ -26,37 +26,37 @@
   "0xb8ef617fd5d960e61e56c50d2971697300b32864": {
     "username": "no1dodgersfan",
     "added_at": 1788276765.2635112,
-    "roi_pct": 166.38,
+    "roi_pct": 170.43,
     "short_term_pct": 100.0
   },
   "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21": {
     "username": "HongYunX",
     "added_at": 1788286258.415922,
-    "roi_pct": 593.43,
-    "short_term_pct": 100.0
-  },
-  "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c": {
-    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
-    "added_at": 1788287209.021605,
-    "roi_pct": 185.14,
+    "roi_pct": 572.99,
     "short_term_pct": 100.0
   },
   "0x58f8f1138be2192696378629fc9aa23c7910dc70": {
     "username": "bloodmaster",
     "added_at": 1788290935.9892597,
-    "roi_pct": 207.45,
+    "roi_pct": 205.89,
     "short_term_pct": 100.0
   },
-  "0xc430e5b17128df7ce78d69fa28bc7de038641ebf": {
-    "username": "Gourmet1",
-    "added_at": 1788290935.9892683,
-    "roi_pct": 146.05,
+  "0xf23c5bc7b547867eb6532920144562718aa49f81": {
+    "username": "DoNotTailMe",
+    "added_at": 1788291888.45101,
+    "roi_pct": 117.81,
     "short_term_pct": 100.0
   },
-  "0x397062018dfb77e855608fe23223592bc82c44ce": {
-    "username": "11vsldfdsgfkjgos",
-    "added_at": 1788290935.9892724,
-    "roi_pct": 127.02,
+  "0x3413c803c3a6efc8d963afbce2dcee48d3738ff2": {
+    "username": "CyberScore.live",
+    "added_at": 1788291888.4510128,
+    "roi_pct": 117.71,
+    "short_term_pct": 100.0
+  },
+  "0xdb859a551fcf56e49416160911476bea7307152f": {
+    "username": "AV23IUa",
+    "added_at": 1788291888.451015,
+    "roi_pct": 88.74,
     "short_term_pct": 100.0
   }
 }
