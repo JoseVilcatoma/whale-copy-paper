@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 09:35:19 (hora de Perú)
+Actualizado: 2026-09-01 09:37:23 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $396.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 09:35:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $206.05)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $201.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -92,7 +92,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| monkeymashingkeyboard | 2 | 3 | 2 | -5.59 USD |
+| monkeymashingkeyboard | 2 | 3 | 3 | -5.59 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 119.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: HLE (-1.5) vs T1 (+1.5) | T1 (BUY) | 59% | 5.00 | 43.6% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: KCB (-1.5) vs TLN Pirates | TLN Pirates (BUY) | 64% | 5.00 | 13.1% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 67% | 5.00 | 47.9% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Plovdiv 3: Daniel Siniakov vs Georgii Kr | Georgii Kravchenko (BUY) | 43% | 5.00 | 2.2% | ✅ ganada | +6.48 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: largadosypelados vs Eter | Eternal Fire (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Charles Broom vs Mathys Erhard | Mathys Erhard (BUY) | 95% | 5.00 | 11.5% | ✅ ganada | +0.25 |
-| Flaznorp | US Open ATP: Zizou Bergs vs Carlos Taber | Zizou Bergs (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
