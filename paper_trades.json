@@ -84068,5 +84068,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788229665.546994,
     "fills": 9
+  },
+  {
+    "timestamp": 1788230375,
+    "timestamp_added": 1788230375.9393907,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "chi1-cuc-ohf-2026-08-31-draw",
+    "title": "Will CD Universidad Cat\u00f3lica vs. O'Higgins FC end in a draw?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 993.72,
+    "whale_pct": 0.744,
+    "whale_value_at_open": 133651.4432,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 93,
+    "fee_usd": 0.017,
+    "odds_ballena": 91,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788230375.9394047,
+    "fills": 1
   }
 ]

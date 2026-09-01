@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 21:39:24 (hora de Perú)
+Actualizado: 2026-08-31 21:41:30 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $364.24
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 21:39:24 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $224.24)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $219.24)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -67,6 +67,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 0 | 0 | 1 | +0.00 USD |
+| UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
@@ -675,6 +676,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ⏳ pendiente | — |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ⏳ pendiente | — |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
 | Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
@@ -704,4 +706,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Philadelphia Phillies vs. Arizona Diamon | Arizona Diamondbacks (BUY) | 48% | 5.00 | 6.7% | ⏳ pendiente | — |
 | NiNo999 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 56% | 5.00 | 22.9% | ⏳ pendiente | — |
 | NiNo999 | Baltimore Orioles vs. Colorado Rockies:  | Over (BUY) | 63% | 5.00 | 30.9% | ⏳ pendiente | — |
-| NiNo999 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 61% | 5.00 | 79.3% | 💰 vendida anticipada | +3.10 |
