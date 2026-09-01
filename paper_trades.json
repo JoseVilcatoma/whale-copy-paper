@@ -84044,5 +84044,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788226682.7400994,
     "fills": 1
+  },
+  {
+    "timestamp": 1788229506,
+    "timestamp_added": 1788229507.0618522,
+    "username": "00xaaxaxaxsasdasddasdjj233j2j32h4h35",
+    "wallet": "0x1f7105a18d9f36aef7c83e5df210e57cf487b2e4",
+    "slug": "atp-dimitro-popyrin-2026-08-30",
+    "title": "US Open ATP: Grigor Dimitrov vs Alexei Popyrin",
+    "outcome": "Alexei Popyrin",
+    "side": "BUY",
+    "whale_usd": 39715.4853,
+    "whale_pct": 191.193,
+    "whale_value_at_open": 20772.4853,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 99,
+    "fee_usd": 0.003,
+    "odds_ballena": 99,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788229529.5643694,
+    "fills": 5
   }
 ]
