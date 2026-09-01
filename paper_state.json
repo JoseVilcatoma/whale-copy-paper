@@ -1,5 +1,5 @@
 {
-  "bankroll": 387.3181597417532,
+  "bankroll": 389.5911009182238,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17040,6 +17040,11 @@
       "timestamp": 1788265020.3656406,
       "bankroll": 387.32,
       "event": "lost: ferrariChampions2026 \u2014 Porto: Nick Hardt vs Marco Cecchinato"
+    },
+    {
+      "timestamp": 1788265585.36771,
+      "bankroll": 389.59,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: Team Nemesis vs SPARTA (BO3) - NODWIN Clutch Series Playoffs"
     }
   ]
 }
