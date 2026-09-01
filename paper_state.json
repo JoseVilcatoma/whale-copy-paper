@@ -1,5 +1,5 @@
 {
-  "bankroll": 372.5605046219279,
+  "bankroll": 368.6830434690457,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16820,6 +16820,21 @@
       "timestamp": 1788228609.0580947,
       "bankroll": 372.56,
       "event": "lost: RN1 \u2014 Seattle Mariners vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1788229787.127191,
+      "bankroll": 373.47,
+      "event": "won: RN1 \u2014 US Open ATP: Ben Shelton vs Tallon Griekspoor"
+    },
+    {
+      "timestamp": 1788229788.279769,
+      "bankroll": 373.72,
+      "event": "won: Flaznorp \u2014 US Open ATP: Ben Shelton vs Tallon Griekspoor"
+    },
+    {
+      "timestamp": 1788229853.7821872,
+      "bankroll": 368.68,
+      "event": "lost: RN1 \u2014 US Open ATP: Juncheng Shang vs Marco Trungelliti"
     }
   ]
 }
