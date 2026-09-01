@@ -84140,5 +84140,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788232569.0659833,
     "fills": 1
+  },
+  {
+    "timestamp": 1788233392,
+    "timestamp_added": 1788233392.4769497,
+    "username": "no1dodgersfan",
+    "wallet": "0xb8ef617fd5d960e61e56c50d2971697300b32864",
+    "slug": "cs2-thunde-gz1-2026-09-01",
+    "title": "Counter-Strike: THUNDER dOWNUNDER vs Ground Zero (BO3) - ESL Challenger League Oceania Cup #1 Playoffs",
+    "outcome": "THUNDER dOWNUNDER",
+    "side": "BUY",
+    "whale_usd": 820.625142,
+    "whale_pct": 1.127,
+    "whale_value_at_open": 72827.4227,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 73,
+    "fee_usd": 0.068,
+    "odds_ballena": 72,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788233392.4769614,
+    "fills": 1
   }
 ]
