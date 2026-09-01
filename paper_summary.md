@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 22:51:00 (hora de Perú)
+Actualizado: 2026-08-31 22:53:03 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $376.37
@@ -678,7 +678,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 6.1% | ⏳ pendiente | — |
+| 0x4f2 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 7.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 54% | 5.00 | 6.3% | ⏳ pendiente | — |
 | no1dodgersfan | Counter-Strike: THUNDER dOWNUNDER vs Gro | THUNDER dOWNUNDER (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Painfulvoid | Athletics vs. Texas Rangers | Texas Rangers (BUY) | 65% | 5.00 | 12.4% | ⏳ pendiente | — |

@@ -84198,8 +84198,8 @@
     "title": "Baltimore Orioles vs. Colorado Rockies",
     "outcome": "Baltimore Orioles",
     "side": "BUY",
-    "whale_usd": 3999.9960999999994,
-    "whale_pct": 6.109,
+    "whale_usd": 4604.0583,
+    "whale_pct": 7.031,
     "whale_value_at_open": 65481.5018,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -84213,7 +84213,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788234630.0935113,
-    "fills": 1
+    "last_fill_at": 1788234711.8722274,
+    "fills": 2
   }
 ]
