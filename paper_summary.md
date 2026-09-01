@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 11:06:07 (hora de Perú)
+Actualizado: 2026-09-01 11:08:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $396.05
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 11:06:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $191.05)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $186.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| ChonkyChocolateCake | 41 | 25 | 0 | +19.15 USD |
+| ChonkyChocolateCake | 41 | 25 | 1 | +19.15 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | quavoo | 30 | 15 | 2 | +12.99 USD |
 | Flaznorp | 14 | 2 | 7 | +11.92 USD |
@@ -682,6 +682,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 55% | 5.00 | 132.3% | ⏳ pendiente | — |
 | NiNo999 | Set Handicap: Basavareddy (-2.5) vs Scho | Schoolkate (BUY) | 68% | 5.00 | 9.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 59% | 5.00 | 4.3% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 119.8% | ⏳ pendiente | — |
@@ -711,4 +712,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | W50 Saint-Palais-sur-Mer: Aurora Zantede | Aurora Zantedeschi (BUY) | 80% | 5.00 | 0.7% | ✅ ganada | +1.20 |
 | ferrariChampions2026 | Porto: Nick Hardt vs Marco Cecchinato | Nick Hardt (BUY) | 51% | 5.00 | 0.5% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Manacor: Maximus Jones vs Oskari Paldani | Maximus Jones (BUY) | 54% | 5.00 | 1.2% | ✅ ganada | +4.14 |
-| ferrariChampions2026 | Plovdiv 3: Daniel Siniakov vs Georgii Kr | Georgii Kravchenko (BUY) | 43% | 5.00 | 2.2% | ✅ ganada | +6.48 |

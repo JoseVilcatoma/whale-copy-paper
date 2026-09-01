@@ -85347,5 +85347,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788274937.7551084,
     "fills": 1
+  },
+  {
+    "timestamp": 1788278788,
+    "timestamp_added": 1788278789.673099,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-use1-khk-2026-09-01-game2",
+    "title": "LoL: Unicorns Of Love Sexy Edition vs Kaufland Hangry Knights - Game 2 Winner",
+    "outcome": "Unicorns Of Love Sexy Edition",
+    "side": "BUY",
+    "whale_usd": 4832.1836,
+    "whale_pct": 132.332,
+    "whale_value_at_open": 3651.568,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788278875.3421621,
+    "fills": 2
   }
 ]
