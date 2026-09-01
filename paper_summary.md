@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 20:09:55 (hora de Perú)
+Actualizado: 2026-08-31 20:12:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $382.25
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 20:09:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $192.25)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $182.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -96,7 +96,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| RN1 | 477 | 222 | 9 | -10.76 USD |
+| RN1 | 477 | 222 | 11 | -10.76 USD |
 | ExplosiveNinja | 6 | 6 | 0 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
@@ -671,6 +671,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| RN1 | New York Mets vs. Tampa Bay Rays: O/U 7. | Under (BUY) | 92% | 5.00 | 1.6% | ⏳ pendiente | — |
+| RN1 | Will O'Higgins FC win on 2026-08-31? | No (BUY) | 63% | 5.00 | 0.6% | ⏳ pendiente | — |
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 85% | 5.00 | 1.2% | ⏳ pendiente | — |
 | RN1 | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 68% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -699,5 +701,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | US Open ATP: Matteo Berrettini vs Stan W | Matteo Berrettini (BUY) | 70% | 5.00 | 2.1% | ✅ ganada | +2.07 |
 | RN1 | US Open WTA: Julia Grabher vs Sorana Cir | Sorana Cirstea (BUY) | 90% | 5.00 | 2.4% | ✅ ganada | +0.53 |
 | RN1 | US Open WTA: Ann Li vs Antonia Ruzic | Ann Li (BUY) | 69% | 5.00 | 0.3% | ✅ ganada | +2.17 |
-| RN1 | US Open ATP: Dalibor Svrcina vs Valentin | Dalibor Svrcina (BUY) | 83% | 5.00 | 4.0% | ✅ ganada | +0.98 |
-| Sunny24 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 52% | 5.00 | 74.7% | ⏳ pendiente | — |
