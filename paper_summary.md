@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 22:48:55 (hora de Perú)
+Actualizado: 2026-08-31 22:51:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $376.37
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 22:48:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $246.37)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $241.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -70,6 +70,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 1 | 0 | 0 | +0.05 USD |
 | UpTheBlues | 0 | 0 | 1 | +0.00 USD |
 | no1dodgersfan | 0 | 0 | 1 | +0.00 USD |
+| 0x4f2 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 5 | 4 | 0 | -1.41 USD |
@@ -663,7 +664,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | epl-ast-ars-2026-08-31-ars | BBQChickenisthebesttt, vito3corleone |
 | mlb-nyy-laa-2026-08-31 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185, NiNo999, Sunny24, monkeymashingkeyboard |
 | atp-berrett-wawrink-2026-08-30 | 0x0x23kjookhaiuohduoayh8c9, RN1 |
-| mlb-bal-col-2026-08-31 | Flaznorp, monkeymashingkeyboard |
+| mlb-bal-col-2026-08-31 | 0x4f2, Flaznorp, monkeymashingkeyboard |
 | mlb-sf-atl-2026-06-18 | RN1, monkeymashingkeyboard |
 | wta-volynet-noskova-2026-08-30 | 0xwise, AGUGava |
 | wta-grabher-cirstea-2026-08-30 | AGUGava, RN1 |
@@ -677,6 +678,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x4f2 | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 6.1% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 54% | 5.00 | 6.3% | ⏳ pendiente | — |
 | no1dodgersfan | Counter-Strike: THUNDER dOWNUNDER vs Gro | THUNDER dOWNUNDER (BUY) | 73% | 5.00 | 1.1% | ⏳ pendiente | — |
 | Painfulvoid | Athletics vs. Texas Rangers | Texas Rangers (BUY) | 65% | 5.00 | 12.4% | ⏳ pendiente | — |
@@ -706,4 +708,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will Fortaleza EC win on 2026-08-31? | No (BUY) | 49% | 5.00 | 0.2% | ✅ ganada | +5.08 |
 | RN1 | Spread: San Diego Padres (-1.5) | Cincinnati Reds (BUY) | 65% | 5.00 | 0.1% | ❌ perdida | -5.09 |
 | RN1 | US Open WTA: Maya Joint vs Liudmila Sams | Liudmila Samsonova (BUY) | 54% | 5.00 | 0.3% | ⏳ pendiente | — |
-| 0x0x23kjookhaiuohduoayh8c9 | Miami Marlins vs. Washington Nationals:  | Over (BUY) | 52% | 5.00 | 3.5% | ✅ ganada | +4.50 |

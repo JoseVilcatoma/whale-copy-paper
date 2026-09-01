@@ -84188,5 +84188,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788233539.6577573,
     "fills": 1
+  },
+  {
+    "timestamp": 1788234629,
+    "timestamp_added": 1788234630.0934882,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-bal-col-2026-08-31",
+    "title": "Baltimore Orioles vs. Colorado Rockies",
+    "outcome": "Baltimore Orioles",
+    "side": "BUY",
+    "whale_usd": 3999.9960999999994,
+    "whale_pct": 6.109,
+    "whale_value_at_open": 65481.5018,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 48,
+    "fee_usd": 0.13,
+    "odds_ballena": 47,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Flaznorp",
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788234630.0935113,
+    "fills": 1
   }
 ]
