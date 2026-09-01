@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 21:26:48 (hora de Perú)
+Actualizado: 2026-08-31 21:28:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $372.56
@@ -675,7 +675,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 191.2% | ⏳ pendiente | — |
+| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ⏳ pendiente | — |
 | Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
 | Flaznorp | Chicago White Sox vs. Houston Astros: O/ | Over (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ⏳ pendiente | — |
