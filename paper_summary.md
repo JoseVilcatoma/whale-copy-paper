@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 14:04:36 (hora de Perú)
+Actualizado: 2026-09-01 14:06:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $399.87
-**Retorno acumulado:** -20.03%
+**Bankroll actual:** $404.25
+**Retorno acumulado:** -19.15%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 14:04:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $144.87)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $159.25)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,6 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | quavoo | 30 | 15 | 2 | +12.99 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
+| TAIWANNUMBERONE | 27 | 17 | 5 | +10.98 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 3 | 0 | 4 | +9.52 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
@@ -41,7 +42,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 1 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
-| TAIWANNUMBERONE | 25 | 17 | 7 | +6.60 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
@@ -117,14 +117,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3254
-- **Aciertos:** 2078 (63.9%)
+- **Apuestas resueltas:** 3256
+- **Aciertos:** 2080 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,245.24
-- **ROI sobre lo apostado:** -1.24%
-- **Comisiones pagadas (taker fee):** $296.54 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,255.24
+- **ROI sobre lo apostado:** -1.21%
+- **Comisiones pagadas (taker fee):** $296.69 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -133,7 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1628 | 49.8% | 50.1% | -0.4 pp |
-| 60-79% | 963 | 69.9% | 67.9% | +2.0 pp |
+| 60-79% | 965 | 69.9% | 67.9% | +2.1 pp |
 | 80-94% | 459 | 86.7% | 86.7% | +0.0 pp |
 | 95-99% (casi seguro) | 204 | 96.6% | 97.4% | -0.8 pp |
 
@@ -701,10 +701,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 67% | 5.00 | 47.9% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Daria Kasatkina vs Paula Ba | Paula Badosa (BUY) | 55% | 5.00 | 24.0% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ✅ ganada | +3.10 |
 | TAIWANNUMBERONE | LoL: TLN Pirates vs Karmine Corp Blue (B | TLN Pirates (BUY) | 45% | 5.00 | 11.7% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 24.1% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: UCAM Esports Club vs Barça eSports  | UCAM Esports Club (BUY) | 79% | 5.00 | 214.1% | ✅ ganada | +1.28 |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Lucie Havlickova vs Anna Bo | Anna Bondar (BUY) | 62% | 5.00 | 18.8% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jesper de Jong vs Francesco | Jesper de Jong (BUY) | 58% | 5.00 | 14.8% | ⏳ pendiente | — |
 | Flaznorp | Como: Olle Wallin vs Johan Nikles | Johan Nikles (BUY) | 59% | 5.00 | 0.9% | ✅ ganada | +3.37 |

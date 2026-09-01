@@ -1,5 +1,5 @@
 {
-  "bankroll": 399.8729089839158,
+  "bankroll": 404.24874421944185,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17060,6 +17060,16 @@
       "timestamp": 1788284152.986599,
       "bankroll": 399.87,
       "event": "won: Flaznorp \u2014 Will Shanghai Shenhua FC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788289542.1566968,
+      "bankroll": 401.15,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: UCAM Esports Club vs Bar\u00e7a eSports (BO5) - LES Final Four"
+    },
+    {
+      "timestamp": 1788289543.245485,
+      "bankroll": 404.25,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: UCAM (-1.5) vs Bar\u00e7a eSports (+1.5)"
     }
   ]
 }
