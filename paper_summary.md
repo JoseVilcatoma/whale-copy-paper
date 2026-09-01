@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 18:36:59 (hora de Perú)
+Actualizado: 2026-09-01 18:39:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $395.08
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 18:36:59 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $245.08)
+**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $240.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -47,7 +47,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| 0x4f2 | 1 | 0 | 0 | +5.29 USD |
+| 0x4f2 | 1 | 0 | 1 | +5.29 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
@@ -677,6 +677,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-phi-ari-2026-08-31 | NiNo999, monkeymashingkeyboard |
 | atp-shelton-grieksp-2026-08-30 | Flaznorp, RN1 |
 | elc-por-der-2026-09-01-por | UpTheBlues, tikstt |
+| mlb-sd-cin-2026-09-01 | 0x4f2, monkeymashingkeyboard |
 | atp-jong-passaro-2026-08-30 | AV23IUa, Flaznorp, NiNo999 |
 | wta-oliynyk-brantme-2026-08-30 | 0x0x23kjookhaiuohduoayh8c9, AV23IUa |
 | atp-bellucc-piros-2026-08-30 | 00XyXyzzyxzzqyej233j2j32h4h35, AV23IUa |
@@ -687,6 +688,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x4f2 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 42% | 5.00 | 11.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 61% | 5.00 | 36.2% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Fabian Marozsan vs Michael  | Michael Zheng (BUY) | 62% | 5.00 | 48.2% | ⏳ pendiente | — |
 | HongYunX | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 2.3% | ⏳ pendiente | — |
@@ -716,4 +718,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x0x23kjookhaiuohduoayh8c9 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 53% | 5.00 | 3.0% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | Game Handicap: UCAM (-1.5) vs Barça eSpo | UCAM Esports Club (BUY) | 61% | 5.00 | 4.3% | ✅ ganada | +3.10 |
 | TAIWANNUMBERONE | LoL: TLN Pirates vs Karmine Corp Blue (B | TLN Pirates (BUY) | 45% | 5.00 | 11.7% | ✅ ganada | +5.97 |
-| AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 50% | 5.00 | 24.1% | ⏳ pendiente | — |
