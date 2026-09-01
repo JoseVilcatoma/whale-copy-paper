@@ -1,5 +1,5 @@
 {
-  "bankroll": 398.11711654022173,
+  "bankroll": 400.2100011556064,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17185,6 +17185,21 @@
       "timestamp": 1788303289.1470294,
       "bankroll": 398.12,
       "event": "won: Flaznorp \u2014 US Open WTA: Kaitlin Quevedo vs Elise Mertens"
+    },
+    {
+      "timestamp": 1788303598.4105163,
+      "bankroll": 400.84,
+      "event": "won: tikstt \u2014 Will Birmingham City FC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788303600.953321,
+      "bankroll": 395.71,
+      "event": "lost: 0x0x23kjookhaiuohduoayh8c9 \u2014 US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier"
+    },
+    {
+      "timestamp": 1788303605.000056,
+      "bankroll": 400.21,
+      "event": "won: AV23IUa \u2014 US Open WTA: Oleksandra Oliynykova vs Reese Brantmeier"
     }
   ]
 }
