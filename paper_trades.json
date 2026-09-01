@@ -84174,8 +84174,8 @@
     "title": "Milwaukee Brewers vs. Chicago Cubs",
     "outcome": "Chicago Cubs",
     "side": "BUY",
-    "whale_usd": 5497.561530000001,
-    "whale_pct": 16.0,
+    "whale_usd": 11367.126747000002,
+    "whale_pct": 33.082,
     "whale_value_at_open": 34359.9908,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -84186,8 +84186,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788298786.3329096,
-    "fills": 3
+    "last_fill_at": 1788299510.250584,
+    "fills": 4
   },
   {
     "timestamp": 1788234629,
