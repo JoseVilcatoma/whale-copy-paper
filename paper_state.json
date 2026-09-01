@@ -1,5 +1,5 @@
 {
-  "bankroll": 381.50110828919077,
+  "bankroll": 376.3681082891908,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16885,6 +16885,11 @@
       "timestamp": 1788232698.09116,
       "bankroll": 381.5,
       "event": "won: 00xaaxaxaxsasdasddasdjj233j2j32h4h35 \u2014 US Open ATP: Grigor Dimitrov vs Alexei Popyrin"
+    },
+    {
+      "timestamp": 1788234276.5236723,
+      "bankroll": 376.37,
+      "event": "lost: Sunny24 \u2014 San Francisco Giants vs. Atlanta Braves: 1st 5 Innings O/U 4.5"
     }
   ]
 }

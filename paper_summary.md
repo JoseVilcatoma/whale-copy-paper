@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-08-31 22:42:34 (hora de Perú)
+Actualizado: 2026-08-31 22:44:44 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $381.50
-**Retorno acumulado:** -23.70%
+**Bankroll actual:** $376.37
+**Retorno acumulado:** -24.73%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-08-31 22:42:34 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $246.50)
+**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $246.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -40,7 +40,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 3 | 3 | +8.72 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
-| Sunny24 | 2 | 0 | 2 | +6.67 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -62,6 +61,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
+| Sunny24 | 2 | 1 | 1 | +1.54 USD |
 | NiNo999 | 4 | 3 | 3 | +1.37 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -114,14 +114,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3219
+- **Apuestas resueltas:** 3220
 - **Aciertos:** 2053 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,070.24
-- **ROI sobre lo apostado:** -1.37%
-- **Comisiones pagadas (taker fee):** $293.43 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.46% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,075.24
+- **ROI sobre lo apostado:** -1.40%
+- **Comisiones pagadas (taker fee):** $293.57 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.43% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -129,7 +129,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1607 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1608 | 49.6% | 50.1% | -0.5 pp |
 | 60-79% | 957 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 456 | 86.6% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 199 | 96.5% | 97.4% | -0.9 pp |
