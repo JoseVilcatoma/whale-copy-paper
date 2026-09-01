@@ -85429,8 +85429,8 @@
     "title": "LoL: TLN Pirates vs Karmine Corp Blue - Game 2 Winner",
     "outcome": "TLN Pirates",
     "side": "BUY",
-    "whale_usd": 3158.0,
-    "whale_pct": 24.617,
+    "whale_usd": 3716.542352,
+    "whale_pct": 28.971,
     "whale_value_at_open": 12828.4719,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -85441,7 +85441,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788282497.9574866,
-    "fills": 2
+    "last_fill_at": 1788282571.0240328,
+    "fills": 3
   }
 ]
