@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 05:16:48 (hora de Perú)
+Actualizado: 2026-09-01 05:18:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $374.27
-**Retorno acumulado:** -25.15%
+**Bankroll actual:** $374.37
+**Retorno acumulado:** -25.13%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 05:16:48 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $254.27)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $259.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 9 | 2 | 5 | +7.36 USD |
+| Flaznorp | 10 | 2 | 4 | +7.46 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
@@ -117,13 +117,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3240
-- **Aciertos:** 2065 (63.7%)
+- **Apuestas resueltas:** 3241
+- **Aciertos:** 2066 (63.7%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,175.24
+- **Total apostado (suma de stakes):** $16,180.24
 - **ROI sobre lo apostado:** -1.40%
-- **Comisiones pagadas (taker fee):** $295.50 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $295.51 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.42% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 40-59% | 1622 | 49.6% | 50.1% | -0.5 pp |
 | 60-79% | 960 | 69.8% | 67.9% | +1.9 pp |
 | 80-94% | 457 | 86.7% | 86.7% | -0.0 pp |
-| 95-99% (casi seguro) | 201 | 96.5% | 97.4% | -0.9 pp |
+| 95-99% (casi seguro) | 202 | 96.5% | 97.4% | -0.9 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -684,7 +684,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: largadosypelados vs Eter | Eternal Fire (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Charles Broom vs Mathys Erhard | Mathys Erhard (BUY) | 95% | 5.00 | 11.5% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Zizou Bergs vs Carlos Taber | Zizou Bergs (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
-| Flaznorp | Como: Thiago Seyboth Wild vs Martin Krum | Thiago Seyboth Wild (BUY) | 98% | 5.00 | 1.6% | ⏳ pendiente | — |
+| Flaznorp | Como: Thiago Seyboth Wild vs Martin Krum | Thiago Seyboth Wild (BUY) | 98% | 5.00 | 1.6% | ✅ ganada | +0.10 |
 | UpTheBlues | Torino FC vs. AC Monza: Both Teams to Sc | Yes (BUY) | 49% | 5.00 | 1.6% | ⏳ pendiente | — |
 | UpTheBlues | Will Huddersfield Town AFC win on 2026-0 | No (BUY) | 46% | 5.00 | 0.7% | ⏳ pendiente | — |
 | UpTheBlues | Will Sheffield Wednesday FC win on 2026- | No (BUY) | 63% | 5.00 | 0.8% | ⏳ pendiente | — |

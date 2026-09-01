@@ -1,5 +1,5 @@
 {
-  "bankroll": 374.26976803218014,
+  "bankroll": 374.36680884850665,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -16990,6 +16990,11 @@
       "timestamp": 1788255947.2480795,
       "bankroll": 374.27,
       "event": "won: Flaznorp \u2014 Zhangjiagang: Ilya Ivashka vs Yi Zhou"
+    },
+    {
+      "timestamp": 1788257910.6116261,
+      "bankroll": 374.37,
+      "event": "won: Flaznorp \u2014 Como: Thiago Seyboth Wild vs Martin Krumich"
     }
   ]
 }
