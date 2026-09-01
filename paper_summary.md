@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 04:05:09 (hora de Perú)
+Actualizado: 2026-09-01 04:07:09 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.22
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 04:05:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $75.00 en 15 posiciones abiertas (disponible para nuevas apuestas: $299.22)
+**Capital comprometido ahora mismo:** $85.00 en 17 posiciones abiertas (disponible para nuevas apuestas: $289.22)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -38,7 +38,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 8 | 2 | 0 | +7.31 USD |
+| Flaznorp | 8 | 2 | 2 | +7.31 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | TAIWANNUMBERONE | 25 | 17 | 0 | +6.60 USD |
@@ -681,6 +681,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | US Open WTA: Zeynep Sonmez vs Coco Gauff | Coco Gauff (BUY) | 95% | 5.00 | 0.9% | ⏳ pendiente | — |
+| Flaznorp | US Open WTA: Kaitlin Quevedo vs Elise Me | Elise Mertens (BUY) | 84% | 5.00 | 1.4% | ⏳ pendiente | — |
 | tikstt | Will Swansea City AFC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 15.1% | ⏳ pendiente | — |
 | tikstt | Will Portsmouth FC win on 2026-09-01? | No (BUY) | 54% | 5.00 | 45.4% | ⏳ pendiente | — |
 | UpTheBlues | Will Portsmouth FC win on 2026-09-01? | Yes (BUY) | 48% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -709,5 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Will O'Higgins FC win on 2026-08-31? | No (BUY) | 63% | 5.00 | 0.6% | ✅ ganada | +2.84 |
 | nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 93% | 5.00 | 0.6% | ⏳ pendiente | — |
 | RN1 | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 85% | 5.00 | 1.2% | ❌ perdida | -5.04 |
-| RN1 | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 68% | 5.00 | 0.6% | ✅ ganada | +2.27 |
-| nigiri99 | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 57% | 5.00 | 0.7% | ⏳ pendiente | — |
