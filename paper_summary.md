@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 05:29:07 (hora de Perú)
+Actualizado: 2026-09-01 05:31:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 05:29:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $259.37)
+**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $254.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -113,7 +113,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 375 | 234 | 0 | -146.62 USD |
+| ferrariChampions2026 | 375 | 234 | 1 | -146.62 USD |
 
 ## Análisis general
 
@@ -681,6 +681,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Plovdiv 3: Daniel Siniakov vs Georgii Kr | Georgii Kravchenko (BUY) | 43% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: largadosypelados vs Eter | Eternal Fire (BUY) | 82% | 5.00 | 0.8% | ⏳ pendiente | — |
 | Flaznorp | Manacor: Charles Broom vs Mathys Erhard | Mathys Erhard (BUY) | 95% | 5.00 | 11.5% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Zizou Bergs vs Carlos Taber | Zizou Bergs (BUY) | 94% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -710,4 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | US Open ATP: Ben Shelton vs Tallon Griek | Ben Shelton (BUY) | 95% | 5.00 | 3.7% | ✅ ganada | +0.25 |
 | Flaznorp | Baltimore Orioles vs. Colorado Rockies | Baltimore Orioles (BUY) | 48% | 5.00 | 0.7% | ✅ ganada | +5.29 |
 | Flaznorp | Detroit Tigers vs. Minnesota Twins: O/U  | Over (BUY) | 82% | 5.00 | 0.9% | ✅ ganada | +1.05 |
-| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Over (BUY) | 65% | 5.00 | 0.8% | ❌ perdida | -5.09 |

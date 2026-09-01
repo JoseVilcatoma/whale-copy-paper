@@ -84625,5 +84625,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788257708.9830925,
     "fills": 1
+  },
+  {
+    "timestamp": 1788258576,
+    "timestamp_added": 1788258576.938262,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-siniako-kravche-2026-08-31",
+    "title": "Plovdiv 3: Daniel Siniakov vs Georgii Kravchenko",
+    "outcome": "Georgii Kravchenko",
+    "side": "BUY",
+    "whale_usd": 697.3231030000001,
+    "whale_pct": 0.369,
+    "whale_value_at_open": 189166.6156,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788258576.9382741,
+    "fills": 1
   }
 ]
