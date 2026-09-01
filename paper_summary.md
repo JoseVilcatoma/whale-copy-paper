@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 05:45:49 (hora de Perú)
+Actualizado: 2026-09-01 05:47:55 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $374.62
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 05:45:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $239.62)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $229.62)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,7 +37,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| Flaznorp | 11 | 2 | 3 | +7.71 USD |
+| Flaznorp | 11 | 2 | 5 | +7.71 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | beachboy4 | 7 | 1 | 0 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
@@ -681,6 +681,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 94% | 5.00 | 1.6% | ⏳ pendiente | — |
+| Flaznorp | US Open ATP: Rafael Jodar vs Thanasi Kok | Rafael Jodar (BUY) | 90% | 5.00 | 1.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Filip Misolic vs Francisco  | Francisco Cerundolo (BUY) | 95% | 5.00 | 6.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | W50 Saint-Palais-sur-Mer: Aurora Zantede | Aurora Zantedeschi (BUY) | 80% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Porto: Nick Hardt vs Marco Cecchinato | Nick Hardt (BUY) | 51% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -709,5 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Painfulvoid | Athletics vs. Texas Rangers | Texas Rangers (BUY) | 65% | 5.00 | 12.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs SPARTA ( | Team Nemesis (BUY) | 68% | 5.00 | 552.7% | ⏳ pendiente | — |
 | UpTheBlues | Will CD Universidad Católica vs. O'Higgi | No (BUY) | 93% | 5.00 | 0.7% | ✅ ganada | +0.36 |
-| 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | US Open ATP: Grigor Dimitrov vs Alexei P | Alexei Popyrin (BUY) | 99% | 5.00 | 210.4% | ✅ ganada | +0.05 |
-| Flaznorp | Instituto AC Córdoba vs. CA San Lorenzo  | Under (BUY) | 51% | 5.00 | 0.5% | ✅ ganada | +4.68 |
