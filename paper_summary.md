@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 06:30:45 (hora de Perú)
+Actualizado: 2026-09-01 06:32:46 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $382.88
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 06:30:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $212.88)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $207.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -107,7 +107,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| AV23IUa | 14 | 13 | 1 | -21.10 USD |
+| AV23IUa | 14 | 13 | 2 | -21.10 USD |
 | RN1 | 483 | 227 | 0 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -681,7 +681,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| AV23IUa | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 68% | 5.00 | 9.6% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 65% | 5.00 | 2.5% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 68% | 5.00 | 35.1% | ⏳ pendiente | — |
 | 0x0x23kjookhaiuohduoayh8c9 | US Open WTA: Oleksandra Oliynykova vs Re | Reese Brantmeier (BUY) | 50% | 5.00 | 31.3% | ⏳ pendiente | — |
 | Flaznorp | Plovdiv 3: Pol Martin Tiffon vs Juan Pab | Pol Martin Tiffon (BUY) | 95% | 5.00 | 1.3% | ⏳ pendiente | — |
 | Flaznorp | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 44% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -710,4 +711,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | UpTheBlues | Will Portsmouth FC win on 2026-09-01? | Yes (BUY) | 48% | 5.00 | 1.8% | ⏳ pendiente | — |
 | tikstt | Will Birmingham City FC win on 2026-09-0 | No (BUY) | 64% | 5.00 | 279.5% | ⏳ pendiente | — |
 | no1dodgersfan | Yomiuri Giants vs. Yokohama BayStars | Yomiuri Giants (BUY) | 51% | 5.00 | 2.6% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Gen.G vs KT Rolster - Game 1 Winner | Gen.G (BUY) | 73% | 5.00 | 334.4% | ✅ ganada | +1.78 |
