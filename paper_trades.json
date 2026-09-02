@@ -86829,8 +86829,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -88345,8 +88345,8 @@
     "odds_at_bet": 91,
     "fee_usd": 0.022,
     "odds_ballena": 89,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -0.16,
     "overlaps_with": [
       "AV23IUa",
       "monkeymashingkeyboard"
@@ -88354,7 +88354,9 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788391792.1783817,
-    "fills": 1
+    "fills": 1,
+    "fee_total_usd": 0.049,
+    "closed_price": 89
   },
   {
     "timestamp": 1788392262,

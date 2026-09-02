@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.8170170377811,
+  "bankroll": 476.0298075946818,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17755,6 +17755,16 @@
       "timestamp": 1788392431.2180207,
       "bankroll": 472.82,
       "event": "venta anticipada: 0x4f2 \u2014 San Francisco Giants vs. Pittsburgh Pirates (+1.77 USD)"
+    },
+    {
+      "timestamp": 1788392974.1411116,
+      "bankroll": 472.66,
+      "event": "venta anticipada: 0x4f2 \u2014 New York Mets vs. Tampa Bay Rays (-0.16 USD)"
+    },
+    {
+      "timestamp": 1788392986.6718516,
+      "bankroll": 476.03,
+      "event": "won: AV23IUa \u2014 US Open ATP: Denis Shapovalov vs Luca Van Assche"
     }
   ]
 }

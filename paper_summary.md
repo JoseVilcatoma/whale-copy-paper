@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 18:48:07 (hora de Perú)
+Actualizado: 2026-09-02 18:50:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $472.82
-**Retorno acumulado:** -5.44%
+**Bankroll actual:** $476.03
+**Retorno acumulado:** -4.79%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 18:48:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $352.82)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $366.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,6 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
+| AV23IUa | 23 | 14 | 4 | +6.26 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
@@ -58,7 +59,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
-| AV23IUa | 22 | 14 | 5 | +2.89 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
@@ -82,7 +82,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| 0x4f2 | 9 | 6 | 1 | -1.15 USD |
+| 0x4f2 | 9 | 7 | 0 | -1.31 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
@@ -123,14 +123,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3386
-- **Aciertos:** 2165 (63.9%)
+- **Apuestas resueltas:** 3387
+- **Aciertos:** 2166 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,905.24
-- **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $309.58 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,910.24
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $309.69 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.09% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -138,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1695 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1696 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1013 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 470 | 86.4% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -710,7 +710,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
-| 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 91% | 5.00 | 4.5% | ⏳ pendiente | — |
+| 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 91% | 5.00 | 4.5% | 💰 vendida anticipada | -0.16 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 44% | 5.00 | 18.5% | 💰 vendida anticipada | +1.77 |
 | Talvez10 | Miami Marlins vs. Kansas City Royals: O/ | Under (BUY) | 47% | 5.00 | 87.8% | ⏳ pendiente | — |
 | kekasaur | Will Boca Juniors win on 2026-09-02? | Yes (BUY) | 53% | 5.00 | 64.3% | ⏳ pendiente | — |
