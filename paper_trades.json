@@ -87446,5 +87446,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788359212.844578,
     "fills": 1
+  },
+  {
+    "timestamp": 1788359332,
+    "timestamp_added": 1788359332.9669676,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "cs2-big5-nemi1-2026-09-02",
+    "title": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 5182.2729,
+    "whale_pct": 2.381,
+    "whale_value_at_open": 217690.6974,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "0x99a093771ad58bcfc3023cd75566415f"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788359332.96698,
+    "fills": 1
   }
 ]

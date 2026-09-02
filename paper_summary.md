@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 09:28:25 (hora de Perú)
+Actualizado: 2026-09-02 09:30:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 09:28:25 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $228.13)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $223.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 18 | 2 | 3 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 9 | 5 | 1 | +12.57 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 9 | 5 | 2 | +12.57 USD |
 | monkeymashingkeyboard | 7 | 4 | 3 | +11.87 USD |
 | ChonkyChocolateCake | 44 | 29 | 0 | +11.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -698,11 +698,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | jap-hol-kas-2026-09-02-kas | GoalLineGhost, HongYunX |
 | lol-hle1-t1-2026-09-02-game2 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, TheMafiaa |
 | mlb-sd-cin-2026-09-02-total-9pt5 | monkeymashingkeyboard, pleaseplease123 |
+| cs2-big5-nemi1-2026-09-02 | 0x99a093771ad58bcfc3023cd75566415f, 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs Nuclear TigeRES | Nuclear TigeRES (BUY) | 44% | 5.00 | 8.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | Nemiga (BUY) | 65% | 5.00 | 24.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 66% | 5.00 | 15.9% | ⏳ pendiente | — |
@@ -732,4 +734,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurka | Ben Shelton (BUY) | 71% | 5.00 | 31.6% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Daniel Merida Aguilar vs An | Daniel Merida Aguilar (BUY) | 44% | 5.00 | 16.2% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Brandon Nakashima vs Alex M | Brandon Nakashima (BUY) | 70% | 5.00 | 36.5% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 4  | Hanwha Life Esports (BUY) | 56% | 5.00 | 5.3% | ✅ ganada | +3.82 |
