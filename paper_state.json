@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.53792516876445,
+  "bankroll": 459.76156153240083,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17570,6 +17570,11 @@
       "timestamp": 1788372970.3328762,
       "bankroll": 453.54,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs 3DMAX - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788373895.4070926,
+      "bankroll": 459.76,
+      "event": "won: AV23IUa \u2014 US Open ATP: Daniel Merida Aguilar vs Andrey Rublev"
     }
   ]
 }
