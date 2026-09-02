@@ -87190,8 +87190,8 @@
     "title": "San Diego Padres vs. Cincinnati Reds: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 13353.845099999999,
-    "whale_pct": 58.775,
+    "whale_usd": 15204.742199999999,
+    "whale_pct": 66.921,
     "whale_value_at_open": 22720.4664,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -87202,8 +87202,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788355921.5285642,
-    "fills": 1
+    "last_fill_at": 1788357423.9689753,
+    "fills": 2
   },
   {
     "timestamp": 1788356041,
@@ -87360,8 +87360,8 @@
     "title": "Counter-Strike: BIG vs Nemiga - Map 2 Winner",
     "outcome": "BIG",
     "side": "BUY",
-    "whale_usd": 2112.9195999999997,
-    "whale_pct": 32.619,
+    "whale_usd": 2743.1249,
+    "whale_pct": 42.349,
     "whale_value_at_open": 6477.4969,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 79,
@@ -87372,7 +87372,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788357282.417968,
-    "fills": 1
+    "last_fill_at": 1788357398.9027543,
+    "fills": 2
   }
 ]

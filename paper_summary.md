@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 08:55:45 (hora de Perú)
+Actualizado: 2026-09-02 08:57:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.40
@@ -703,14 +703,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 32.6% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 42.3% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 12.6% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 10.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 16.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 - Map 2 Winn | Color (BUY) | 43% | 5.00 | 6.1% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/ | Over (BUY) | 49% | 5.00 | 430.6% | ⏳ pendiente | — |
-| monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 52% | 5.00 | 58.8% | ⏳ pendiente | — |
+| monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 52% | 5.00 | 66.9% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Athletics vs. Texas Rangers: O/U 7.5 | Over (BUY) | 54% | 5.00 | 19.7% | ⏳ pendiente | — |
 | Gourmet1 | US Open ATP: Jaume Munar vs Arthur Rinde | Arthur Rinderknech (BUY) | 62% | 5.00 | 26.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Galions vs TLN Pirates (BO5) - LFL  | Galions (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
