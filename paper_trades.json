@@ -87108,5 +87108,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788353266.0322294,
     "fills": 1
+  },
+  {
+    "timestamp": 1788353469,
+    "timestamp_added": 1788353469.5451498,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-gal-tlnpir-2026-09-02",
+    "title": "LoL: Galions vs TLN Pirates (BO5) - LFL Playoffs",
+    "outcome": "Galions",
+    "side": "BUY",
+    "whale_usd": 1246.666666,
+    "whale_pct": 1.348,
+    "whale_value_at_open": 92476.6033,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 90,
+    "fee_usd": 0.025,
+    "odds_ballena": 88,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788353469.5451632,
+    "fills": 1
   }
 ]
