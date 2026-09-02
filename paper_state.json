@@ -1,5 +1,5 @@
 {
-  "bankroll": 397.0892872895296,
+  "bankroll": 397.3934362256998,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17315,6 +17315,11 @@
       "timestamp": 1788326399.3510501,
       "bankroll": 397.09,
       "event": "venta anticipada: 00XyXyzzyxzzqyej233j2j32h4h35 \u2014 US Open ATP: Alexander Zverev vs Lorenzo Sonego (-1.00 USD)"
+    },
+    {
+      "timestamp": 1788330448.4753637,
+      "bankroll": 397.39,
+      "event": "won: Flaznorp \u2014 US Open ATP: Alexander Zverev vs Lorenzo Sonego"
     }
   ]
 }
