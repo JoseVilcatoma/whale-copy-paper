@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.6688208410844,
+  "bankroll": 399.5607952000588,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17335,6 +17335,16 @@
       "timestamp": 1788334867.1446981,
       "bankroll": 391.67,
       "event": "won: monkeymashingkeyboard \u2014 Philadelphia Phillies vs. Arizona Diamondbacks: O/U 7.5"
+    },
+    {
+      "timestamp": 1788338990.383066,
+      "bankroll": 394.27,
+      "event": "won: Painfulvoid \u2014 Athletics vs. Texas Rangers"
+    },
+    {
+      "timestamp": 1788338993.6072338,
+      "bankroll": 399.56,
+      "event": "won: pleaseplease123 \u2014 New York Yankees vs. Los Angeles Angels: O/U 7.5"
     }
   ]
 }
