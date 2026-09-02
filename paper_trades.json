@@ -87018,8 +87018,8 @@
     "title": "Counter-Strike: BIG vs Nemiga - Map 1 Winner",
     "outcome": "BIG",
     "side": "BUY",
-    "whale_usd": 1466.0842,
-    "whale_pct": 9.148,
+    "whale_usd": 3565.2841980000003,
+    "whale_pct": 22.245,
     "whale_value_at_open": 16027.0283,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 63,
@@ -87030,8 +87030,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788351527.2218635,
-    "fills": 1
+    "last_fill_at": 1788352693.001823,
+    "fills": 3
   },
   {
     "timestamp": 1788352096,
