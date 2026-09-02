@@ -87156,5 +87156,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788353720.4940739,
     "fills": 3
+  },
+  {
+    "timestamp": 1788353832,
+    "timestamp_added": 1788353833.5235076,
+    "username": "monkeymashingkeyboard",
+    "wallet": "0x684baa57c338c2549aec0aa3f034f695d72a8409",
+    "slug": "mlb-oak-tex-2026-09-02-total-7pt5",
+    "title": "Athletics vs. Texas Rangers: O/U 7.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 3727.49,
+    "whale_pct": 19.663,
+    "whale_value_at_open": 18957.0365,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788353846.7179708,
+    "fills": 2
   }
 ]
