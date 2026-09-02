@@ -86569,5 +86569,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788343196.212863,
     "fills": 1
+  },
+  {
+    "timestamp": 1788344879,
+    "timestamp_added": 1788344879.8259068,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "chfa-yun-cho-2026-09-02-yun",
+    "title": "Will Yunnan Yukun win on 2026-09-02?",
+    "outcome": "Yes",
+    "side": "BUY",
+    "whale_usd": 711.0003,
+    "whale_pct": 1.298,
+    "whale_value_at_open": 54770.0994,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 54,
+    "fee_usd": 0.115,
+    "odds_ballena": 53,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788344879.825919,
+    "fills": 1
   }
 ]
