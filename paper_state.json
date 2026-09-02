@@ -1,5 +1,5 @@
 {
-  "bankroll": 384.1834786087287,
+  "bankroll": 386.6742361844863,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17255,6 +17255,11 @@
       "timestamp": 1788312287.5257227,
       "bankroll": 384.18,
       "event": "won: 0x4f2 \u2014 New York Mets vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1788312407.278678,
+      "bankroll": 386.67,
+      "event": "won: 0x4f2 \u2014 Spread: Tampa Bay Rays (-2.5)"
     }
   ]
 }
