@@ -1,5 +1,5 @@
 {
-  "bankroll": 447.32580876664804,
+  "bankroll": 451.4700680259073,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17560,6 +17560,11 @@
       "timestamp": 1788370800.1787238,
       "bankroll": 447.33,
       "event": "lost: AV23IUa \u2014 US Open ATP: Brandon Nakashima vs Alex Michelsen"
+    },
+    {
+      "timestamp": 1788371724.277747,
+      "bankroll": 451.47,
+      "event": "won: GoalLineGhost \u2014 Will Yunnan Yukun win on 2026-09-02?"
     }
   ]
 }
