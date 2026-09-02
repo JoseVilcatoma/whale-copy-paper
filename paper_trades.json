@@ -87898,8 +87898,8 @@
     "title": "Counter-Strike: K27 vs GamerLegion (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "K27",
     "side": "BUY",
-    "whale_usd": 547.029,
-    "whale_pct": 2.233,
+    "whale_usd": 1224.6878,
+    "whale_pct": 4.999,
     "whale_value_at_open": 24497.6998,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 46,
@@ -87910,8 +87910,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788368294.821118,
-    "fills": 1
+    "last_fill_at": 1788371247.0873642,
+    "fills": 2
   },
   {
     "timestamp": 1788369002,
@@ -88020,8 +88020,8 @@
     "title": "Baltimore Orioles vs. Colorado Rockies: O/U 11.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 8334.488500000001,
-    "whale_pct": 3.122,
+    "whale_usd": 43667.4685,
+    "whale_pct": 16.356,
     "whale_value_at_open": 266988.5182,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 54,
@@ -88032,7 +88032,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788370528.6021824,
-    "fills": 1
+    "last_fill_at": 1788371263.371424,
+    "fills": 2
   }
 ]
