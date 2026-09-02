@@ -87718,5 +87718,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788365166.2848706,
     "fills": 1
+  },
+  {
+    "timestamp": 1788366435,
+    "timestamp_added": 1788366436.4101064,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-koia-ucam1-2026-09-02-game2",
+    "title": "LoL: \u2060Movistar KOI F\u00e9nix vs UCAM Esports Club - Game 2 Winner",
+    "outcome": "\u2060Movistar KOI F\u00e9nix",
+    "side": "BUY",
+    "whale_usd": 855.041,
+    "whale_pct": 13.126,
+    "whale_value_at_open": 6514.3006,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788366436.4101174,
+    "fills": 1
   }
 ]
