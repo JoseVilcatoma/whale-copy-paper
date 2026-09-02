@@ -1,5 +1,5 @@
 {
-  "bankroll": 380.1075287014931,
+  "bankroll": 384.1834786087287,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17245,6 +17245,16 @@
       "timestamp": 1788311343.3825805,
       "bankroll": 380.11,
       "event": "won: Flaznorp \u2014 US Open WTA: Zeynep Sonmez vs Coco Gauff"
+    },
+    {
+      "timestamp": 1788312283.6044538,
+      "bankroll": 384.09,
+      "event": "won: monkeymashingkeyboard \u2014 New York Mets vs. Tampa Bay Rays"
+    },
+    {
+      "timestamp": 1788312287.5257227,
+      "bankroll": 384.18,
+      "event": "won: 0x4f2 \u2014 New York Mets vs. Tampa Bay Rays"
     }
   ]
 }
