@@ -88353,5 +88353,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788391792.1783817,
     "fills": 1
+  },
+  {
+    "timestamp": 1788392262,
+    "timestamp_added": 1788392262.992917,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-nyy-laa-2026-09-02-total-6pt5",
+    "title": "New York Yankees vs. Los Angeles Angels: O/U 6.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 530.9200000000001,
+    "whale_pct": 0.169,
+    "whale_value_at_open": 314074.6184,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788392262.9929311,
+    "fills": 1
   }
 ]
