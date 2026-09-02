@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.7768577752499,
+  "bankroll": 469.6488577752499,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17685,6 +17685,11 @@
       "timestamp": 1788383703.4057267,
       "bankroll": 474.78,
       "event": "won: TAIWANNUMBERONE \u2014 LoL: Galions vs TLN Pirates (BO5) - LFL Playoffs"
+    },
+    {
+      "timestamp": 1788384655.4942548,
+      "bankroll": 469.65,
+      "event": "lost: pleaseplease123 \u2014 Atlanta Braves vs. Washington Nationals: O/U 9.5"
     }
   ]
 }
