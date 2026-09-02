@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.7310776614331,
+  "bankroll": 463.3676428788244,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17580,6 +17580,16 @@
       "timestamp": 1788375149.2812333,
       "bankroll": 462.73,
       "event": "won: Gourmet1 \u2014 US Open ATP: Jaume Munar vs Arthur Rinderknech"
+    },
+    {
+      "timestamp": 1788375464.1561089,
+      "bankroll": 457.63,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: K27 vs GamerLegion (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788375464.2563326,
+      "bankroll": 463.37,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: K27 vs GamerLegion (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }
