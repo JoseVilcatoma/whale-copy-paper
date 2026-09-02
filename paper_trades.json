@@ -88182,5 +88182,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788382391.3353422,
     "fills": 2
+  },
+  {
+    "timestamp": 1788382634,
+    "timestamp_added": 1788382634.7035105,
+    "username": "0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816",
+    "wallet": "0xbc43c8bfbc4d77c2fc9011adad38ba43b88996d3",
+    "slug": "atp-darderi-svrcina-2026-09-02",
+    "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
+    "outcome": "Dalibor Svrcina",
+    "side": "BUY",
+    "whale_usd": 504.0,
+    "whale_pct": 2.073,
+    "whale_value_at_open": 24317.0276,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788382634.7035232,
+    "fills": 1
   }
 ]
