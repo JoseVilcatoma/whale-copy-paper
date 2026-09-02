@@ -87532,8 +87532,8 @@
     "title": "New York Yankees vs. Los Angeles Angels",
     "outcome": "Los Angeles Angels",
     "side": "BUY",
-    "whale_usd": 816.3240000000001,
-    "whale_pct": 1.74,
+    "whale_usd": 1401.736,
+    "whale_pct": 2.987,
     "whale_value_at_open": 46924.6678,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -87544,8 +87544,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788360791.5920775,
-    "fills": 1
+    "last_fill_at": 1788362097.6925957,
+    "fills": 2
   },
   {
     "timestamp": 1788361070,
@@ -87606,8 +87606,8 @@
     "title": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Nemiga",
     "side": "BUY",
-    "whale_usd": 2228.70737,
-    "whale_pct": 27.074,
+    "whale_usd": 9024.662368000001,
+    "whale_pct": 109.63,
     "whale_value_at_open": 8231.9397,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -87620,8 +87620,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788361886.8808994,
-    "fills": 3
+    "last_fill_at": 1788362187.928368,
+    "fills": 6
   },
   {
     "timestamp": 1788361973,
@@ -87632,8 +87632,8 @@
     "title": "Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 621.9135000000001,
-    "whale_pct": 5.162,
+    "whale_usd": 1516.3134990000003,
+    "whale_pct": 12.585,
     "whale_value_at_open": 12048.5267,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -87644,7 +87644,31 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788361973.9003716,
+    "last_fill_at": 1788362092.2027287,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788362190,
+    "timestamp_added": 1788362191.0564225,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-koia-ucam1-2026-09-02-game1",
+    "title": "LoL: \u2060Movistar KOI F\u00e9nix vs UCAM Esports Club - Game 1 Winner",
+    "outcome": "\u2060Movistar KOI F\u00e9nix",
+    "side": "BUY",
+    "whale_usd": 883.6887,
+    "whale_pct": 68.355,
+    "whale_value_at_open": 1292.8,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788362191.0564342,
     "fills": 1
   }
 ]

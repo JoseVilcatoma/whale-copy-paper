@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 10:14:47 (hora de Perú)
+Actualizado: 2026-09-02 10:16:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $432.51
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 10:14:47 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $197.51)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $192.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 9 | 5 | 2 | +12.57 USD |
 | monkeymashingkeyboard | 7 | 4 | 4 | +11.87 USD |
-| ChonkyChocolateCake | 44 | 29 | 0 | +11.62 USD |
+| ChonkyChocolateCake | 44 | 29 | 1 | +11.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -705,11 +705,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 41% | 5.00 | 5.2% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 27.1% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | ⁠Movistar KOI Fénix (BUY) | 62% | 5.00 | 68.4% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 41% | 5.00 | 12.6% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 109.6% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: | Over (BUY) | 49% | 5.00 | 73.0% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 59% | 5.00 | 31.1% | ⏳ pendiente | — |
-| pleaseplease123 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
+| pleaseplease123 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | Color (BUY) | 43% | 5.00 | 38.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 60% | 5.00 | 44.9% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -734,4 +735,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 71.0% | ❌ perdida | -5.09 |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 556.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
-| AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
