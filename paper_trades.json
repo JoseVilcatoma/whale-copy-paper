@@ -85784,8 +85784,8 @@
     "odds_at_bet": 62,
     "fee_usd": 0.095,
     "odds_ballena": 61,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 2.97,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -88118,8 +88118,8 @@
     "title": "Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs",
     "outcome": "Phantom",
     "side": "BUY",
-    "whale_usd": 27018.5945,
-    "whale_pct": 63.687,
+    "whale_usd": 29084.6145,
+    "whale_pct": 68.557,
     "whale_value_at_open": 42423.9735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -88130,8 +88130,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788386475.6395462,
-    "fills": 7
+    "last_fill_at": 1788389161.3226643,
+    "fills": 8
   },
   {
     "timestamp": 1788380375,

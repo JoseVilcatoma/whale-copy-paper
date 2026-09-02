@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.496968886361,
+  "bankroll": 473.4664850153933,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17700,6 +17700,11 @@
       "timestamp": 1788388456.984795,
       "bankroll": 470.5,
       "event": "won: GoalLineGhost \u2014 FC Luzern vs. FC Vaduz: O/U 3.5"
+    },
+    {
+      "timestamp": 1788389089.3406203,
+      "bankroll": 473.47,
+      "event": "won: NiNo999 \u2014 US Open ATP: Fabian Marozsan vs Michael Zheng"
     }
   ]
 }
