@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 20:14:27 (hora de Perú)
+Actualizado: 2026-09-01 20:16:31 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $380.11
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 20:14:27 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $195.11)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $190.11)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -80,7 +80,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| GoalLineGhost | 27 | 10 | 2 | -3.29 USD |
+| GoalLineGhost | 27 | 10 | 3 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 0 | -3.52 USD |
 | Sunny24 | 2 | 2 | 0 | -3.57 USD |
 | BrotherObama | 1 | 1 | 0 | -3.97 USD |
@@ -693,6 +693,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 10.1% | ⏳ pendiente | — |
 | UpTheBlues | Spread: CA Mineiro (-1.5) | Cruzeiro EC (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | No (BUY) | 71% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 58% | 5.00 | 6.4% | ⏳ pendiente | — |
@@ -722,4 +723,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 15.0% | ✅ ganada | +5.97 |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 61% | 5.00 | 17.3% | ❌ perdida | -5.10 |
-| AV23IUa | US Open ATP: Marcos Giron vs Ignacio Bus | Ignacio Buse (BUY) | 61% | 5.00 | 12.7% | ⏳ pendiente | — |
