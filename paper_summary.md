@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 19:37:03 (hora de Perú)
+Actualizado: 2026-09-01 19:39:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $379.86
@@ -708,7 +708,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 97.3% | 💰 vendida anticipada | +0.94 |
 | Painfulvoid | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 10.3% | ⏳ pendiente | — |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 42% | 5.00 | 11.0% | 💰 vendida anticipada | -0.05 |
-| ExplosiveNinja | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 61% | 5.00 | 36.2% | ⏳ pendiente | — |
+| ExplosiveNinja | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 61% | 5.00 | 38.9% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Fabian Marozsan vs Michael  | Michael Zheng (BUY) | 62% | 5.00 | 48.2% | ⏳ pendiente | — |
 | HongYunX | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 2.3% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 69% | 5.00 | 75.7% | ⏳ pendiente | — |
