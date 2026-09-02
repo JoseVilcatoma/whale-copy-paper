@@ -1,5 +1,5 @@
 {
-  "bankroll": 451.4700680259073,
+  "bankroll": 453.53792516876445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17565,6 +17565,11 @@
       "timestamp": 1788371724.277747,
       "bankroll": 451.47,
       "event": "won: GoalLineGhost \u2014 Will Yunnan Yukun win on 2026-09-02?"
+    },
+    {
+      "timestamp": 1788372970.3328762,
+      "bankroll": 453.54,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs 3DMAX - Map 1 Winner"
     }
   ]
 }

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 13:15:12 (hora de Perú)
+Actualizado: 2026-09-02 13:17:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $451.47
-**Retorno acumulado:** -9.71%
+**Bankroll actual:** $453.54
+**Retorno acumulado:** -9.29%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 13:15:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $206.47)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $213.54)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -37,12 +37,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 12 | 7 | 6 | +10.45 USD |
 | GoalLineGhost | 35 | 11 | 1 | +10.40 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 11 | 7 | 7 | +8.38 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | HongYunX | 3 | 1 | 1 | +6.58 USD |
@@ -122,14 +122,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3349
-- **Aciertos:** 2141 (63.9%)
+- **Apuestas resueltas:** 3350
+- **Aciertos:** 2142 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,720.24
-- **ROI sobre lo apostado:** -0.89%
-- **Comisiones pagadas (taker fee):** $305.80 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,725.24
+- **ROI sobre lo apostado:** -0.88%
+- **Comisiones pagadas (taker fee):** $305.87 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.95% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -138,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1677 | 50.0% | 50.1% | -0.1 pp |
-| 60-79% | 997 | 69.9% | 67.8% | +2.1 pp |
+| 60-79% | 998 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 467 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
@@ -716,7 +716,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | GamerLegion (BUY) | 61% | 5.00 | 14.4% | ⏳ pendiente | — |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 43% | 5.00 | 38.2% | ⏳ pendiente | — |
 | Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 62% | 5.00 | 946.5% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 1 Wi | MIBR (BUY) | 70% | 5.00 | 3.6% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 1 Wi | MIBR (BUY) | 70% | 5.00 | 3.6% | ✅ ganada | +2.07 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Heroic (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | UCAM Esports Club (BUY) | 64% | 5.00 | 67.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | ⁠Movistar KOI Fénix (BUY) | 66% | 5.00 | 13.1% | ⏳ pendiente | — |
