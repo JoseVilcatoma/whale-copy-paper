@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 12:21:42 (hora de Perú)
+Actualizado: 2026-09-02 12:23:48 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $448.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 12:21:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $208.42)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $198.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -41,7 +41,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 11 | 7 | 4 | +8.38 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 11 | 7 | 6 | +8.38 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | HongYunX | 3 | 1 | 1 | +6.58 USD |
@@ -706,6 +706,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ⏳ pendiente | — |
 | pleaseplease123 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 92% | 5.00 | 11.1% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | K27 (BUY) | 46% | 5.00 | 2.2% | ⏳ pendiente | — |
@@ -734,5 +736,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 82.2% | ❌ perdida | -5.03 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 109.0% | ❌ perdida | -5.09 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 33.8% | ✅ ganada | +4.50 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ❌ perdida | -5.11 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 - Map 2 Winn | Color (BUY) | 43% | 5.00 | 91.8% | ✅ ganada | +6.48 |
