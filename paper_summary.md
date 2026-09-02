@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 05:08:01 (hora de Perú)
+Actualizado: 2026-09-02 05:10:05 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $402.79
-**Retorno acumulado:** -19.44%
+**Bankroll actual:** $408.33
+**Retorno acumulado:** -18.33%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 05:08:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $247.79)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $268.33)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,6 +56,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
+| HongYunX | 1 | 0 | 3 | +2.38 USD |
+| GoalLineGhost | 29 | 10 | 2 | +2.32 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 4 | 2 | 1 | +2.25 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
@@ -71,10 +73,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 3 | +0.37 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| HongYunX | 0 | 0 | 4 | +0.00 USD |
 | TheMafiaa | 0 | 0 | 2 | +0.00 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
-| GoalLineGhost | 28 | 10 | 3 | -0.06 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -110,7 +110,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| UpTheBlues | 1 | 4 | 1 | -20.12 USD |
+| UpTheBlues | 2 | 4 | 0 | -19.34 USD |
 | RN1 | 483 | 227 | 0 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -120,14 +120,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3307
-- **Aciertos:** 2112 (63.9%)
+- **Apuestas resueltas:** 3310
+- **Aciertos:** 2115 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,510.24
-- **ROI sobre lo apostado:** -1.20%
-- **Comisiones pagadas (taker fee):** $301.41 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,525.24
+- **ROI sobre lo apostado:** -1.16%
+- **Comisiones pagadas (taker fee):** $301.61 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -136,8 +136,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1654 | 49.8% | 50.1% | -0.4 pp |
-| 60-79% | 981 | 69.9% | 67.8% | +2.1 pp |
-| 80-94% | 464 | 86.6% | 86.7% | -0.1 pp |
+| 60-79% | 983 | 70.0% | 67.8% | +2.1 pp |
+| 80-94% | 465 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -714,14 +714,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will LDU Quito win on 2026-09-01? | No (BUY) | 60% | 5.00 | 1.6% | ✅ ganada | +3.23 |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 48% | 5.00 | 47.2% | ✅ ganada | +5.29 |
 | GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 13.7% | ⏳ pendiente | — |
-| UpTheBlues | Spread: CA Mineiro (-1.5) | Cruzeiro EC (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
+| UpTheBlues | Spread: CA Mineiro (-1.5) | Cruzeiro EC (BUY) | 86% | 5.00 | 1.1% | ✅ ganada | +0.78 |
 | GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | No (BUY) | 71% | 5.00 | 6.7% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 58% | 5.00 | 6.4% | ❌ perdida | -5.11 |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 98% | 5.00 | 2.9% | ✅ ganada | +0.10 |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays: O/U 7. | Over (BUY) | 57% | 5.00 | 8.8% | 💰 vendida anticipada | +0.32 |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 65% | 5.00 | 7.7% | ✅ ganada | +2.61 |
 | 0x4f2 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
-| GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ⏳ pendiente | — |
+| GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ✅ ganada | +2.38 |
 | 0x4f2 | Atlanta Braves vs. Washington Nationals | Washington Nationals (BUY) | 80% | 5.00 | 3.2% | 💰 vendida anticipada | -1.19 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 40.2% | ✅ ganada | +0.41 |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ❌ perdida | -5.11 |

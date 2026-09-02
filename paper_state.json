@@ -1,5 +1,5 @@
 {
-  "bankroll": 402.79412853339215,
+  "bankroll": 408.3344551560926,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17350,6 +17350,21 @@
       "timestamp": 1788339947.1757789,
       "bankroll": 402.79,
       "event": "won: GoalLineGhost \u2014 Will LDU Quito win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788343739.7039444,
+      "bankroll": 405.17,
+      "event": "won: HongYunX \u2014 CA Mineiro vs. Cruzeiro EC: O/U 1.5"
+    },
+    {
+      "timestamp": 1788343740.2618794,
+      "bankroll": 407.56,
+      "event": "won: GoalLineGhost \u2014 CA Mineiro vs. Cruzeiro EC: O/U 1.5"
+    },
+    {
+      "timestamp": 1788343740.84485,
+      "bankroll": 408.33,
+      "event": "won: UpTheBlues \u2014 Spread: CA Mineiro (-1.5)"
     }
   ]
 }
