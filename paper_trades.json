@@ -88264,8 +88264,8 @@
     "title": "Will Boca Juniors win on 2026-09-02?",
     "outcome": "Yes",
     "side": "BUY",
-    "whale_usd": 1040.0,
-    "whale_pct": 25.384,
+    "whale_usd": 2633.8415999999997,
+    "whale_pct": 64.286,
     "whale_value_at_open": 4097.0686,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -88276,7 +88276,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788388071.2474284,
-    "fills": 1
+    "last_fill_at": 1788388115.586862,
+    "fills": 3
   }
 ]
