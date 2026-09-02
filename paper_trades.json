@@ -86846,8 +86846,8 @@
     "title": "US Open ATP: Lloyd Harris vs Stefanos Tsitsipas",
     "outcome": "Stefanos Tsitsipas",
     "side": "BUY",
-    "whale_usd": 689.3237999999999,
-    "whale_pct": 0.278,
+    "whale_usd": 1686.2012999999997,
+    "whale_pct": 0.681,
     "whale_value_at_open": 247608.8219,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 70,
@@ -86858,8 +86858,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788346624.6109204,
-    "fills": 1
+    "last_fill_at": 1788374278.7517784,
+    "fills": 2
   },
   {
     "timestamp": 1788346644,
