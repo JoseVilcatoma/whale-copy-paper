@@ -1,5 +1,5 @@
 {
-  "bankroll": 405.1867086772193,
+  "bankroll": 405.16074949354584,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17375,6 +17375,11 @@
       "timestamp": 1788344062.7223775,
       "bankroll": 405.19,
       "event": "lost: GoalLineGhost \u2014 Will Cruzeiro EC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788349603.726012,
+      "bankroll": 405.16,
+      "event": "anulado tras 3+ d\u00edas sin resolver (precio 0.50): 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: ex-RUSTEC vs UNiTY esports (BO3) - CCT Europe Closed Qualifier: Series #8 Group C"
     }
   ]
 }
