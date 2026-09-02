@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 19:01:45 (hora de Perú)
+Actualizado: 2026-09-01 19:03:49 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $395.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 19:01:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $215.97)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $205.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| 0x4f2 | 2 | 1 | 4 | +6.18 USD |
+| 0x4f2 | 2 | 1 | 6 | +6.18 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -691,6 +691,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 65% | 5.00 | 7.7% | ⏳ pendiente | — |
+| 0x4f2 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ⏳ pendiente | — |
 | 0x4f2 | Atlanta Braves vs. Washington Nationals | Washington Nationals (BUY) | 80% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 40.2% | ⏳ pendiente | — |
@@ -719,5 +721,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Philadelphia Phillies vs. Arizona Diamon | Over (BUY) | 52% | 5.00 | 39.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 55% | 5.00 | 132.3% | ✅ ganada | +3.98 |
 | NiNo999 | Set Handicap: Basavareddy (-2.5) vs Scho | Schoolkate (BUY) | 68% | 5.00 | 9.0% | ✅ ganada | +2.27 |
-| TAIWANNUMBERONE | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 59% | 5.00 | 4.3% | ❌ perdida | -5.10 |
-| monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 55% | 5.00 | 191.8% | ⏳ pendiente | — |
