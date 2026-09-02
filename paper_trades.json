@@ -87132,5 +87132,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788353469.5451632,
     "fills": 1
+  },
+  {
+    "timestamp": 1788353560,
+    "timestamp_added": 1788353560.5483189,
+    "username": "Gourmet1",
+    "wallet": "0xc430e5b17128df7ce78d69fa28bc7de038641ebf",
+    "slug": "atp-munar-rinderk-2026-09-02",
+    "title": "US Open ATP: Jaume Munar vs Arthur Rinderknech",
+    "outcome": "Arthur Rinderknech",
+    "side": "BUY",
+    "whale_usd": 4458.536297000001,
+    "whale_pct": 16.456,
+    "whale_value_at_open": 27093.021,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788353569.1820178,
+    "fills": 2
   }
 ]

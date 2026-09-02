@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 07:52:04 (hora de Perú)
+Actualizado: 2026-09-02 07:54:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.08
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 07:52:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $226.08)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $221.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -76,6 +76,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
 | 0b1 | 0 | 0 | 1 | +0.00 USD |
+| Gourmet1 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -701,6 +702,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Gourmet1 | US Open ATP: Jaume Munar vs Arthur Rinde | Arthur Rinderknech (BUY) | 62% | 5.00 | 16.5% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Galions vs TLN Pirates (BO5) - LFL  | Galions (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka (BUY) | 74% | 5.00 | 165.5% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 1 Wi | Nemiga (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -730,4 +732,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TheMafiaa | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 66% | 5.00 | 109.8% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 34.3% | ❌ perdida | -5.15 |
-| HongYunX | Will Avispa Fukuoka win on 2026-09-02? | No (BUY) | 61% | 5.00 | 36.4% | ⏳ pendiente | — |
