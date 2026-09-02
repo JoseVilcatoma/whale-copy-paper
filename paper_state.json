@@ -1,5 +1,5 @@
 {
-  "bankroll": 466.9390368182184,
+  "bankroll": 469.9085529472507,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17605,6 +17605,11 @@
       "timestamp": 1788376022.8007722,
       "bankroll": 466.94,
       "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs 3DMAX - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788376713.0248764,
+      "bankroll": 469.91,
+      "event": "won: DoNotTailMe \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs UCAM Esports Club - Game 1 Winner"
     }
   ]
 }
