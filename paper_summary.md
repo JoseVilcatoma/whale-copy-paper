@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 04:03:37 (hora de Perú)
+Actualizado: 2026-09-02 04:05:37 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $399.56
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 04:03:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $254.56)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $249.56)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 2 | +0.37 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 3 | +0.37 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | HongYunX | 0 | 0 | 4 | +0.00 USD |
@@ -697,6 +697,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 41% | 5.00 | 33.8% | ⏳ pendiente | — |
 | TheMafiaa | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 66% | 5.00 | 43.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 34.3% | ⏳ pendiente | — |
@@ -726,4 +727,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | Cincinnati Reds (BUY) | 42% | 5.00 | 11.0% | 💰 vendida anticipada | -0.05 |
 | ExplosiveNinja | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 61% | 5.00 | 38.9% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Fabian Marozsan vs Michael  | Michael Zheng (BUY) | 62% | 5.00 | 48.2% | ⏳ pendiente | — |
-| HongYunX | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 2.3% | ⏳ pendiente | — |

@@ -86495,5 +86495,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788339633.737595,
     "fills": 1
+  },
+  {
+    "timestamp": 1788339881,
+    "timestamp_added": 1788339881.600499,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "lol-hle1-t1-2026-09-02-game2",
+    "title": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
+    "outcome": "T1",
+    "side": "BUY",
+    "whale_usd": 77908.30611,
+    "whale_pct": 33.758,
+    "whale_value_at_open": 230783.1247,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788339928.2556999,
+    "fills": 10
   }
 ]
