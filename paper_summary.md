@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 08:39:26 (hora de Perú)
+Actualizado: 2026-09-02 08:41:29 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $426.37
-**Retorno acumulado:** -14.73%
+**Bankroll actual:** $435.40
+**Retorno acumulado:** -12.92%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 08:39:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $231.37)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $265.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,6 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 18 | 2 | 3 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 9 | 5 | 0 | +12.57 USD |
 | monkeymashingkeyboard | 7 | 4 | 3 | +11.87 USD |
 | ChonkyChocolateCake | 44 | 29 | 0 | +11.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -46,12 +47,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | GoalLineGhost | 34 | 11 | 2 | +6.26 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 8 | 5 | 1 | +6.09 USD |
 | TheMafiaa | 1 | 0 | 1 | +5.97 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 3 | 1 | 2 | +4.90 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 4 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
@@ -83,6 +83,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
+| BrotherObama | 2 | 2 | 0 | -2.36 USD |
 | NiNo999 | 6 | 5 | 3 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
@@ -103,13 +104,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
-| BrotherObama | 1 | 2 | 1 | -9.12 USD |
 | AV23IUa | 17 | 13 | 11 | -9.45 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
-| ExplosiveNinja | 6 | 6 | 1 | -11.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
+| ExplosiveNinja | 6 | 7 | 0 | -16.45 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
 | UpTheBlues | 2 | 4 | 0 | -19.34 USD |
@@ -122,14 +122,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3325
-- **Aciertos:** 2126 (63.9%)
+- **Apuestas resueltas:** 3330
+- **Aciertos:** 2129 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,600.24
-- **ROI sobre lo apostado:** -1.05%
-- **Comisiones pagadas (taker fee):** $303.21 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.78% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,625.24
+- **ROI sobre lo apostado:** -0.99%
+- **Comisiones pagadas (taker fee):** $303.82 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.83% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -137,8 +137,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1663 | 49.8% | 50.1% | -0.3 pp |
-| 60-79% | 988 | 70.1% | 67.8% | +2.3 pp |
+| 40-59% | 1666 | 49.9% | 50.1% | -0.2 pp |
+| 60-79% | 990 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 466 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
@@ -710,9 +710,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TAIWANNUMBERONE | LoL: Galions vs TLN Pirates (BO5) - LFL  | Galions (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka (BUY) | 74% | 5.00 | 165.5% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 1 Wi | Nemiga (BUY) | 51% | 5.00 | 3.8% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 45% | 5.00 | 14.1% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 45% | 5.00 | 14.1% | ✅ ganada | +5.97 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 1 Wi | BIG (BUY) | 63% | 5.00 | 22.2% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 71.0% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 71.0% | ❌ perdida | -5.09 |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 556.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |

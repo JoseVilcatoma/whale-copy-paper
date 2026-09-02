@@ -1,5 +1,5 @@
 {
-  "bankroll": 426.37275556840916,
+  "bankroll": 435.40253556102635,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17445,6 +17445,31 @@
       "timestamp": 1788355176.4039657,
       "bankroll": 426.37,
       "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: Hanwha Life Esports vs T1 - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788356420.573019,
+      "bankroll": 421.27,
+      "event": "lost: ExplosiveNinja \u2014 Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788356420.6731627,
+      "bankroll": 428.03,
+      "event": "won: BrotherObama \u2014 Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788356420.7736628,
+      "bankroll": 434.52,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788356424.6205487,
+      "bankroll": 429.43,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788356425.0047615,
+      "bankroll": 435.4,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }
