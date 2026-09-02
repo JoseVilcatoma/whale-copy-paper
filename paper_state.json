@@ -1,5 +1,5 @@
 {
-  "bankroll": 419.1826078686513,
+  "bankroll": 426.37275556840916,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17435,6 +17435,16 @@
       "timestamp": 1788353922.9491146,
       "bankroll": 419.18,
       "event": "won: HongYunX \u2014 Will Avispa Fukuoka win on 2026-09-02?"
+    },
+    {
+      "timestamp": 1788355173.5476885,
+      "bankroll": 422.55,
+      "event": "won: TAIWANNUMBERONE \u2014 Game Handicap: HLE (-1.5) vs T1 (+1.5)"
+    },
+    {
+      "timestamp": 1788355176.4039657,
+      "bankroll": 426.37,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: Hanwha Life Esports vs T1 - Game 4 Winner"
     }
   ]
 }
