@@ -86883,5 +86883,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788346645.004167,
     "fills": 1
+  },
+  {
+    "timestamp": 1788346817,
+    "timestamp_added": 1788346818.4177005,
+    "username": "AV23IUa",
+    "wallet": "0xdb859a551fcf56e49416160911476bea7307152f",
+    "slug": "mlb-nym-tb-2026-09-02",
+    "title": "New York Mets vs. Tampa Bay Rays",
+    "outcome": "Tampa Bay Rays",
+    "side": "BUY",
+    "whale_usd": 943.2539999999999,
+    "whale_pct": 0.374,
+    "whale_value_at_open": 251962.612,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788346818.4177155,
+    "fills": 1
   }
 ]
