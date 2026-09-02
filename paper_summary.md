@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 10:57:12 (hora de Perú)
+Actualizado: 2026-09-02 10:59:15 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.55
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 10:57:12 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $211.55)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $206.55)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -33,7 +33,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 9 | 5 | 2 | +12.57 USD |
 | monkeymashingkeyboard | 7 | 4 | 4 | +11.87 USD |
-| ChonkyChocolateCake | 44 | 29 | 1 | +11.62 USD |
+| ChonkyChocolateCake | 44 | 29 | 2 | +11.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -705,6 +705,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| DoNotTailMe | LoL: Bushido Wildcats vs SU Esports - Ga | SU Esports (BUY) | 67% | 5.00 | 88.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | ⁠Movistar KOI Fénix (BUY) | 62% | 5.00 | 68.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 41% | 5.00 | 43.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 277.2% | ⏳ pendiente | — |
@@ -734,4 +735,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 1 Wi | BIG (BUY) | 63% | 5.00 | 22.2% | ✅ ganada | +2.84 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 71.0% | ❌ perdida | -5.09 |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 556.3% | ⏳ pendiente | — |
-| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |

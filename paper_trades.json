@@ -87670,5 +87670,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788362191.0564342,
     "fills": 1
+  },
+  {
+    "timestamp": 1788364669,
+    "timestamp_added": 1788364669.7028444,
+    "username": "DoNotTailMe",
+    "wallet": "0xf23c5bc7b547867eb6532920144562718aa49f81",
+    "slug": "lol-bw-su-2026-09-02-game2",
+    "title": "LoL: Bushido Wildcats vs SU Esports - Game 2 Winner",
+    "outcome": "SU Esports",
+    "side": "BUY",
+    "whale_usd": 2429.5907110000003,
+    "whale_pct": 88.783,
+    "whale_value_at_open": 2736.5494,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788364680.157422,
+    "fills": 2
   }
 ]
