@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 08:33:14 (hora de Perú)
+Actualizado: 2026-09-02 08:35:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 08:33:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $236.37)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $231.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| pleaseplease123 | 5 | 4 | 0 | +1.77 USD |
+| pleaseplease123 | 5 | 4 | 1 | +1.77 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -697,11 +697,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-mgc-k271-2026-09-02 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, BrotherObama |
 | jap-hol-kas-2026-09-02-kas | GoalLineGhost, HongYunX |
 | lol-hle1-t1-2026-09-02-game2 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, TheMafiaa |
+| mlb-sd-cin-2026-09-02-total-9pt5 | monkeymashingkeyboard, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/ | Over (BUY) | 49% | 5.00 | 430.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 52% | 5.00 | 58.8% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Athletics vs. Texas Rangers: O/U 7.5 | Over (BUY) | 54% | 5.00 | 19.7% | ⏳ pendiente | — |
 | Gourmet1 | US Open ATP: Jaume Munar vs Arthur Rinde | Arthur Rinderknech (BUY) | 62% | 5.00 | 26.8% | ⏳ pendiente | — |
@@ -731,4 +733,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | degenfren | US Open ATP: Dino Prizmic vs Tommy Paul | Tommy Paul (BUY) | 83% | 5.00 | 105.2% | ⏳ pendiente | — |
 | TheMafiaa | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 45% | 5.00 | 33.9% | ✅ ganada | +5.97 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 41% | 5.00 | 54.8% | ✅ ganada | +7.05 |
-| TheMafiaa | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 66% | 5.00 | 109.8% | ⏳ pendiente | — |
