@@ -87312,8 +87312,8 @@
     "title": "Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "DENDELE CS",
     "side": "BUY",
-    "whale_usd": 705.5999990000001,
-    "whale_pct": 10.893,
+    "whale_usd": 1796.7999989999998,
+    "whale_pct": 27.739,
     "whale_value_at_open": 6477.4969,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -87324,8 +87324,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788357270.1606042,
-    "fills": 1
+    "last_fill_at": 1788362075.3559167,
+    "fills": 2
   },
   {
     "timestamp": 1788357272,
@@ -87622,5 +87622,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788361886.8808994,
     "fills": 3
+  },
+  {
+    "timestamp": 1788361973,
+    "timestamp_added": 1788361973.9003556,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-dendel-eye-2026-09-02",
+    "title": "Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "EYEBALLERS",
+    "side": "BUY",
+    "whale_usd": 621.9135000000001,
+    "whale_pct": 5.162,
+    "whale_value_at_open": 12048.5267,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788361973.9003716,
+    "fills": 1
   }
 ]
