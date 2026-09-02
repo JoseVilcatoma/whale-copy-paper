@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.76156153240083,
+  "bankroll": 462.7310776614331,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17575,6 +17575,11 @@
       "timestamp": 1788373895.4070926,
       "bankroll": 459.76,
       "event": "won: AV23IUa \u2014 US Open ATP: Daniel Merida Aguilar vs Andrey Rublev"
+    },
+    {
+      "timestamp": 1788375149.2812333,
+      "bankroll": 462.73,
+      "event": "won: Gourmet1 \u2014 US Open ATP: Jaume Munar vs Arthur Rinderknech"
     }
   ]
 }

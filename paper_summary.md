@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 13:50:31 (hora de Perú)
+Actualizado: 2026-09-02 13:52:39 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $459.76
-**Retorno acumulado:** -8.05%
+**Bankroll actual:** $462.73
+**Retorno acumulado:** -7.45%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 13:50:31 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $219.76)
+**Capital comprometido ahora mismo:** $235.00 en 47 posiciones abiertas (disponible para nuevas apuestas: $227.73)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -56,6 +56,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
+| Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
@@ -76,7 +77,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
 | 0b1 | 0 | 0 | 1 | +0.00 USD |
-| Gourmet1 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -122,14 +122,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3351
-- **Aciertos:** 2143 (64.0%)
+- **Apuestas resueltas:** 3352
+- **Aciertos:** 2144 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,730.24
-- **ROI sobre lo apostado:** -0.84%
-- **Comisiones pagadas (taker fee):** $306.01 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.99% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,735.24
+- **ROI sobre lo apostado:** -0.82%
+- **Comisiones pagadas (taker fee):** $306.11 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -138,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1678 | 50.1% | 50.1% | -0.1 pp |
-| 60-79% | 998 | 69.9% | 67.8% | +2.1 pp |
+| 60-79% | 999 | 70.0% | 67.8% | +2.1 pp |
 | 80-94% | 467 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
@@ -721,7 +721,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Heroic (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | UCAM Esports Club (BUY) | 64% | 5.00 | 67.1% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | ⁠Movistar KOI Fénix (BUY) | 66% | 5.00 | 13.1% | ⏳ pendiente | — |
-| HongYunX | Burnley FC vs. Middlesbrough FC: O/U 2.5 | Under (BUY) | 41% | 5.00 | 12.2% | ⏳ pendiente | — |
+| HongYunX | Burnley FC vs. Middlesbrough FC: O/U 2.5 | Under (BUY) | 41% | 5.00 | 32.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Bushido Wildcats vs SU Esports - Ga | SU Esports (BUY) | 67% | 5.00 | 185.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | ⁠Movistar KOI Fénix (BUY) | 62% | 5.00 | 68.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 41% | 5.00 | 43.8% | ✅ ganada | +7.05 |
