@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 12:34:05 (hora de Perú)
+Actualizado: 2026-09-02 12:36:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $448.42
-**Retorno acumulado:** -10.32%
+**Bankroll actual:** $452.40
+**Retorno acumulado:** -9.52%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 12:34:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $198.42)
+**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $202.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -48,6 +48,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | GoalLineGhost | 34 | 11 | 2 | +6.26 USD |
+| 0x0x23kjookhaiuohduoayh8c9 | 5 | 2 | 0 | +6.23 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
@@ -61,14 +62,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
-| 0x0x23kjookhaiuohduoayh8c9 | 4 | 2 | 1 | +2.25 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| pleaseplease123 | 5 | 4 | 4 | +1.77 USD |
+| pleaseplease123 | 5 | 4 | 5 | +1.77 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -122,14 +122,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3346
-- **Aciertos:** 2139 (63.9%)
+- **Apuestas resueltas:** 3347
+- **Aciertos:** 2140 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,705.24
-- **ROI sobre lo apostado:** -0.91%
-- **Comisiones pagadas (taker fee):** $305.50 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.92% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,710.24
+- **ROI sobre lo apostado:** -0.89%
+- **Comisiones pagadas (taker fee):** $305.61 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.94% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -137,7 +137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1675 | 50.0% | 50.1% | -0.1 pp |
+| 40-59% | 1676 | 50.0% | 50.1% | -0.1 pp |
 | 60-79% | 996 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 467 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -706,6 +706,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 54% | 5.00 | 3.1% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ⏳ pendiente | — |
 | pleaseplease123 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
@@ -735,4 +736,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 52.4% | ❌ perdida | -5.05 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 82.2% | ❌ perdida | -5.03 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 109.0% | ❌ perdida | -5.09 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 33.8% | ✅ ganada | +4.50 |

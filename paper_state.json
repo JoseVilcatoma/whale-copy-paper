@@ -1,5 +1,5 @@
 {
-  "bankroll": 448.4218996757389,
+  "bankroll": 452.400808766648,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17550,6 +17550,11 @@
       "timestamp": 1788368938.6327527,
       "bankroll": 448.42,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788370493.0096455,
+      "bankroll": 452.4,
+      "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 US Open WTA: Daria Kasatkina vs Paula Badosa"
     }
   ]
 }
