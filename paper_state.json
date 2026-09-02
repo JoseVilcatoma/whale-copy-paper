@@ -1,5 +1,5 @@
 {
-  "bankroll": 407.88498255587643,
+  "bankroll": 409.20843201172136,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17400,6 +17400,26 @@
       "timestamp": 1788351105.8516064,
       "bankroll": 407.88,
       "event": "won: TheMafiaa \u2014 LoL: Hanwha Life Esports vs T1 - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788351417.3458865,
+      "bankroll": 402.77,
+      "event": "lost: HongYunX \u2014 Will Vissel K\u014dbe win on 2026-09-02?"
+    },
+    {
+      "timestamp": 1788351418.876603,
+      "bankroll": 405.26,
+      "event": "won: GoalLineGhost \u2014 Shimizu S-Pulse vs. FC T\u014dky\u014d: O/U 2.5"
+    },
+    {
+      "timestamp": 1788351419.122112,
+      "bankroll": 407.43,
+      "event": "won: GoalLineGhost \u2014 Will FC Machida Zelvia vs. Kawasaki Frontale end in a draw?"
+    },
+    {
+      "timestamp": 1788351419.3869162,
+      "bankroll": 409.21,
+      "event": "won: GoalLineGhost \u2014 Will Kawasaki Frontale win on 2026-09-02?"
     }
   ]
 }
