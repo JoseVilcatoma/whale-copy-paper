@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 09:51:26 (hora de Perú)
+Actualizado: 2026-09-02 09:53:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 09:51:26 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $213.13)
+**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $208.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -68,7 +68,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
-| pleaseplease123 | 5 | 4 | 1 | +1.77 USD |
+| pleaseplease123 | 5 | 4 | 2 | +1.77 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
@@ -705,6 +705,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| pleaseplease123 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | Color (BUY) | 43% | 5.00 | 7.1% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 60% | 5.00 | 44.9% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
@@ -734,4 +735,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Valentin Vacherot vs Kamil  | Valentin Vacherot (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Ts | Stefanos Tsitsipas (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Denis Shapovalov vs Luca Va | Denis Shapovalov (BUY) | 59% | 5.00 | 17.5% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurka | Ben Shelton (BUY) | 71% | 5.00 | 31.6% | ⏳ pendiente | — |
