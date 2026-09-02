@@ -86931,5 +86931,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788348503.9346647,
     "fills": 1
+  },
+  {
+    "timestamp": 1788349314,
+    "timestamp_added": 1788349315.566993,
+    "username": "TAIWANNUMBERONE",
+    "wallet": "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd",
+    "slug": "lol-fox1-dk-2026-09-03",
+    "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 1083.7078,
+    "whale_pct": 0.829,
+    "whale_value_at_open": 130744.0871,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 75,
+    "fee_usd": 0.062,
+    "odds_ballena": 74,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788349315.5670056,
+    "fills": 1
   }
 ]

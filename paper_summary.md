@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 06:40:15 (hora de Perú)
+Actualizado: 2026-09-02 06:42:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $405.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 06:40:15 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $200.19)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $195.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -35,7 +35,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
-| TAIWANNUMBERONE | 29 | 19 | 1 | +9.49 USD |
+| TAIWANNUMBERONE | 29 | 19 | 2 | +9.49 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
@@ -700,6 +700,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
 | AV23IUa | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 61% | 5.00 | 0.4% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Valentin Vacherot vs Kamil  | Valentin Vacherot (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -729,4 +730,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 71% | 5.00 | 54.1% | 💰 vendida anticipada | -1.00 |
 | GoalLineGhost | Will LDU Quito win on 2026-09-01? | No (BUY) | 60% | 5.00 | 1.6% | ✅ ganada | +3.23 |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 48% | 5.00 | 47.2% | ✅ ganada | +5.29 |
-| GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 13.7% | ❌ perdida | -5.12 |
