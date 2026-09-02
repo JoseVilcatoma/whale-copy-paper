@@ -87556,8 +87556,8 @@
     "title": "Counter-Strike: Color vs B8 (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 3753.2452999999996,
-    "whale_pct": 42.04,
+    "whale_usd": 5842.9416,
+    "whale_pct": 65.446,
     "whale_value_at_open": 8927.8835,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -87570,8 +87570,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788362495.997097,
-    "fills": 3
+    "last_fill_at": 1788362964.6640835,
+    "fills": 6
   },
   {
     "timestamp": 1788361254,
@@ -87606,8 +87606,8 @@
     "title": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Nemiga",
     "side": "BUY",
-    "whale_usd": 17966.647174,
-    "whale_pct": 218.255,
+    "whale_usd": 22820.884024000003,
+    "whale_pct": 277.224,
     "whale_value_at_open": 8231.9397,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -87620,8 +87620,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788362663.4484682,
-    "fills": 12
+    "last_fill_at": 1788362978.6886446,
+    "fills": 14
   },
   {
     "timestamp": 1788361973,
