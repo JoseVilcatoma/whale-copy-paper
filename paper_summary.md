@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 07:10:54 (hora de Perú)
+Actualizado: 2026-09-02 07:12:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $394.86
-**Retorno acumulado:** -21.03%
+**Bankroll actual:** $407.88
+**Retorno acumulado:** -18.42%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 07:10:54 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $205.00 en 41 posiciones abiertas (disponible para nuevas apuestas: $189.86)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $212.88)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,6 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
+| TheMafiaa | 1 | 0 | 1 | +5.97 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -58,6 +59,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | HongYunX | 1 | 0 | 3 | +2.38 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 7 | 5 | 2 | +2.27 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 4 | 2 | 1 | +2.25 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
@@ -71,7 +73,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| TheMafiaa | 0 | 0 | 2 | +0.00 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -87,7 +88,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunny24 | 2 | 2 | 0 | -3.57 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | 0x4f2 | 7 | 5 | 0 | -4.38 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 5 | 3 | -4.78 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -120,14 +120,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3314
-- **Aciertos:** 2116 (63.9%)
+- **Apuestas resueltas:** 3316
+- **Aciertos:** 2118 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,545.24
-- **ROI sobre lo apostado:** -1.24%
-- **Comisiones pagadas (taker fee):** $302.09 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.58% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,555.24
+- **ROI sobre lo apostado:** -1.16%
+- **Comisiones pagadas (taker fee):** $302.38 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.66% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1657 | 49.7% | 50.1% | -0.5 pp |
+| 40-59% | 1659 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 984 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 465 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -719,8 +719,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 88% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Yunnan Yukun win on 2026-09-02? | Yes (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | degenfren | US Open ATP: Dino Prizmic vs Tommy Paul | Tommy Paul (BUY) | 83% | 5.00 | 105.2% | ⏳ pendiente | — |
-| TheMafiaa | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 45% | 5.00 | 33.9% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 41% | 5.00 | 54.8% | ⏳ pendiente | — |
+| TheMafiaa | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 45% | 5.00 | 33.9% | ✅ ganada | +5.97 |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 41% | 5.00 | 54.8% | ✅ ganada | +7.05 |
 | TheMafiaa | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 66% | 5.00 | 109.8% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 34.3% | ❌ perdida | -5.15 |

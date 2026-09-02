@@ -1,5 +1,5 @@
 {
-  "bankroll": 394.8647494935458,
+  "bankroll": 407.88498255587643,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17390,6 +17390,16 @@
       "timestamp": 1788349858.1745944,
       "bankroll": 394.86,
       "event": "lost: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: magic vs K27 (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788351105.7514243,
+      "bankroll": 401.91,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 LoL: Hanwha Life Esports vs T1 - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788351105.8516064,
+      "bankroll": 407.88,
+      "event": "won: TheMafiaa \u2014 LoL: Hanwha Life Esports vs T1 - Game 2 Winner"
     }
   ]
 }
