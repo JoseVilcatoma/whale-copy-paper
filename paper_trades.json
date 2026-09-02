@@ -86418,5 +86418,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788337943.7262766,
     "fills": 1
+  },
+  {
+    "timestamp": 1788338417,
+    "timestamp_added": 1788338418.2101157,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "cs2-mgc-k271-2026-09-02",
+    "title": "Counter-Strike: magic vs K27 (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "K27",
+    "side": "BUY",
+    "whale_usd": 12000.0,
+    "whale_pct": 10.011,
+    "whale_value_at_open": 119869.6361,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "BrotherObama"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788338418.2101278,
+    "fills": 1
   }
 ]
