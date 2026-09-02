@@ -88168,8 +88168,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 44297.836200000005,
-    "whale_pct": 11.982,
+    "whale_usd": 79805.7207,
+    "whale_pct": 21.586,
     "whale_value_at_open": 369714.8734,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -88180,8 +88180,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788382391.3353422,
-    "fills": 2
+    "last_fill_at": 1788385799.5874877,
+    "fills": 3
   },
   {
     "timestamp": 1788382634,
