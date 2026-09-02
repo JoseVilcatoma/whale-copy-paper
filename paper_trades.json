@@ -87572,5 +87572,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788361070.3273602,
     "fills": 1
+  },
+  {
+    "timestamp": 1788361254,
+    "timestamp_added": 1788361255.050492,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-atl-wsh-2026-09-02-total-9pt5",
+    "title": "Atlanta Braves vs. Washington Nationals: O/U 9.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 34900.8624,
+    "whale_pct": 72.996,
+    "whale_value_at_open": 47812.1996,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788361255.0505042,
+    "fills": 1
   }
 ]
