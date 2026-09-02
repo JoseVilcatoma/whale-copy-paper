@@ -87214,8 +87214,8 @@
     "title": "San Diego Padres vs. Cincinnati Reds: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 52731.2617,
-    "whale_pct": 635.98,
+    "whale_usd": 98931.2617,
+    "whale_pct": 1193.189,
     "whale_value_at_open": 8291.3343,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -87228,8 +87228,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788362443.5166538,
-    "fills": 3
+    "last_fill_at": 1788364766.4732635,
+    "fills": 4
   },
   {
     "timestamp": 1788356981,
@@ -87582,8 +87582,8 @@
     "title": "Atlanta Braves vs. Washington Nationals: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 96577.35542,
-    "whale_pct": 201.993,
+    "whale_usd": 97777.35542,
+    "whale_pct": 204.503,
     "whale_value_at_open": 47812.1996,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -87594,8 +87594,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788363048.9917321,
-    "fills": 7
+    "last_fill_at": 1788364790.9068427,
+    "fills": 8
   },
   {
     "timestamp": 1788361508,
@@ -87680,8 +87680,8 @@
     "title": "LoL: Bushido Wildcats vs SU Esports - Game 2 Winner",
     "outcome": "SU Esports",
     "side": "BUY",
-    "whale_usd": 2429.5907110000003,
-    "whale_pct": 88.783,
+    "whale_usd": 5070.8977110000005,
+    "whale_pct": 185.303,
     "whale_value_at_open": 2736.5494,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 67,
@@ -87692,7 +87692,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788364680.157422,
-    "fills": 2
+    "last_fill_at": 1788364799.8195248,
+    "fills": 4
   }
 ]

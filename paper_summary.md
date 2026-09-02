@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 10:59:15 (hora de Perú)
+Actualizado: 2026-09-02 11:01:17 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $436.55
@@ -705,11 +705,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| DoNotTailMe | LoL: Bushido Wildcats vs SU Esports - Ga | SU Esports (BUY) | 67% | 5.00 | 88.8% | ⏳ pendiente | — |
+| DoNotTailMe | LoL: Bushido Wildcats vs SU Esports - Ga | SU Esports (BUY) | 67% | 5.00 | 185.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | ⁠Movistar KOI Fénix (BUY) | 62% | 5.00 | 68.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 41% | 5.00 | 43.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 277.2% | ⏳ pendiente | — |
-| pleaseplease123 | Atlanta Braves vs. Washington Nationals: | Over (BUY) | 49% | 5.00 | 202.0% | ⏳ pendiente | — |
+| pleaseplease123 | Atlanta Braves vs. Washington Nationals: | Over (BUY) | 49% | 5.00 | 204.5% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 59% | 5.00 | 65.4% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | Color (BUY) | 43% | 5.00 | 62.9% | ⏳ pendiente | — |
@@ -724,7 +724,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 33.8% | ✅ ganada | +4.50 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ❌ perdida | -5.11 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 - Map 2 Winn | Color (BUY) | 43% | 5.00 | 91.8% | ✅ ganada | +6.48 |
-| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/ | Over (BUY) | 49% | 5.00 | 636.0% | ⏳ pendiente | — |
+| pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/ | Over (BUY) | 49% | 5.00 | 1193.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 52% | 5.00 | 111.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Athletics vs. Texas Rangers: O/U 7.5 | Over (BUY) | 54% | 5.00 | 19.7% | ⏳ pendiente | — |
 | Gourmet1 | US Open ATP: Jaume Munar vs Arthur Rinde | Arthur Rinderknech (BUY) | 62% | 5.00 | 26.8% | ⏳ pendiente | — |
