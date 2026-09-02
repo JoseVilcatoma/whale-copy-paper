@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.8963621314034,
+  "bankroll": 472.27704869856757,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17670,6 +17670,11 @@
       "timestamp": 1788380800.0508716,
       "bankroll": 469.9,
       "event": "won: monkeymashingkeyboard \u2014 Athletics vs. Texas Rangers: O/U 7.5"
+    },
+    {
+      "timestamp": 1788381754.0616739,
+      "bankroll": 472.28,
+      "event": "won: DoNotTailMe \u2014 LoL: Bushido Wildcats vs SU Esports - Game 2 Winner"
     }
   ]
 }
