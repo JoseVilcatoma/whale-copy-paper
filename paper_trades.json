@@ -88044,8 +88044,8 @@
     "title": "Counter-Strike: Eternal Fire vs Heroic (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 1136.5773,
-    "whale_pct": 4.131,
+    "whale_usd": 1743.1041,
+    "whale_pct": 6.335,
     "whale_value_at_open": 27514.5422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -88056,7 +88056,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788372287.7040665,
-    "fills": 2
+    "last_fill_at": 1788372437.5309658,
+    "fills": 3
   }
 ]
