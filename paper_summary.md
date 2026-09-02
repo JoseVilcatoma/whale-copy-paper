@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 16:13:56 (hora de Perú)
+Actualizado: 2026-09-02 16:15:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $472.28
-**Retorno acumulado:** -5.54%
+**Bankroll actual:** $474.78
+**Retorno acumulado:** -5.04%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 16:13:56 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $302.28)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $314.78)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,8 +31,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Flaznorp | 18 | 2 | 3 | +17.20 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
+| TAIWANNUMBERONE | 31 | 19 | 1 | +13.39 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | monkeymashingkeyboard | 8 | 5 | 3 | +10.89 USD |
@@ -90,6 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | 0x4f2 | 8 | 6 | 0 | -2.92 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| AV23IUa | 20 | 14 | 7 | -3.73 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -97,7 +98,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0xd3A0b4E941B557D33A8EFd5a51c581e7c79cF136-1787996319116 | 0 | 1 | 0 | -5.11 USD |
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
-| AV23IUa | 19 | 14 | 8 | -5.70 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
 | kekasaur | 7 | 8 | 0 | -6.25 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
@@ -123,14 +123,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3371
-- **Aciertos:** 2156 (64.0%)
+- **Apuestas resueltas:** 3373
+- **Aciertos:** 2158 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,830.24
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $307.99 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,840.24
+- **ROI sobre lo apostado:** -0.75%
+- **Comisiones pagadas (taker fee):** $308.09 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.08% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -139,8 +139,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1685 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1010 | 69.9% | 67.8% | +2.1 pp |
-| 80-94% | 468 | 86.3% | 86.7% | -0.4 pp |
+| 60-79% | 1011 | 69.9% | 67.8% | +2.1 pp |
+| 80-94% | 469 | 86.4% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -713,7 +713,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 43% | 5.00 | 2.1% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 55% | 5.00 | 12.0% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 42% | 5.00 | 6.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 58% | 5.00 | 46.8% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 58% | 5.00 | 49.7% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 5.00 | 11.3% | ⏳ pendiente | — |
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Eternal Fire (BUY) | 69% | 5.00 | 6.3% | ✅ ganada | +2.17 |

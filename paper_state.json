@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.27704869856757,
+  "bankroll": 474.7768577752499,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17675,6 +17675,16 @@
       "timestamp": 1788381754.0616739,
       "bankroll": 472.28,
       "event": "won: DoNotTailMe \u2014 LoL: Bushido Wildcats vs SU Esports - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788383700.552489,
+      "bankroll": 474.25,
+      "event": "won: AV23IUa \u2014 US Open ATP: Ben Shelton vs Hubert Hurkacz"
+    },
+    {
+      "timestamp": 1788383703.4057267,
+      "bankroll": 474.78,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: Galions vs TLN Pirates (BO5) - LFL Playoffs"
     }
   ]
 }
