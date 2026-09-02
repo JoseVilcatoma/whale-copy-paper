@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 19:16:17 (hora de Perú)
+Actualizado: 2026-09-01 19:18:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $379.86
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 19:16:17 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $194.86)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $189.86)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -108,7 +108,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
-| UpTheBlues | 1 | 4 | 0 | -20.12 USD |
+| UpTheBlues | 1 | 4 | 1 | -20.12 USD |
 | RN1 | 483 | 227 | 0 | -24.57 USD |
 | Donghui | 2 | 7 | 0 | -24.94 USD |
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
@@ -693,6 +693,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| UpTheBlues | Spread: CA Mineiro (-1.5) | Cruzeiro EC (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
 | GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | No (BUY) | 71% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 58% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 98% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -722,4 +723,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox | Seattle Mariners (BUY) | 48% | 5.00 | 2.8% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 61% | 5.00 | 17.3% | ❌ perdida | -5.10 |
 | AV23IUa | US Open ATP: Marcos Giron vs Ignacio Bus | Ignacio Buse (BUY) | 61% | 5.00 | 12.7% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 49% | 5.00 | 29.0% | ❌ perdida | -5.13 |

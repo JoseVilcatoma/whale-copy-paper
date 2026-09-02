@@ -86172,5 +86172,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788308163.0183415,
     "fills": 1
+  },
+  {
+    "timestamp": 1788308237,
+    "timestamp_added": 1788308238.2395635,
+    "username": "UpTheBlues",
+    "wallet": "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+    "slug": "brco-cam-cru-2026-09-01-spread-home-1pt5",
+    "title": "Spread: CA Mineiro (-1.5)",
+    "outcome": "Cruzeiro EC",
+    "side": "BUY",
+    "whale_usd": 640.0799999999999,
+    "whale_pct": 1.094,
+    "whale_value_at_open": 58520.0557,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788308238.2395778,
+    "fills": 1
   }
 ]
