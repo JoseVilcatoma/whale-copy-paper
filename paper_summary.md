@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 13:33:50 (hora de Perú)
+Actualizado: 2026-09-02 13:35:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $459.76
@@ -707,7 +707,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Eternal Fire (BUY) | 69% | 5.00 | 6.3% | ⏳ pendiente | — |
-| pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 54% | 5.00 | 16.7% | ⏳ pendiente | — |
+| pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 54% | 5.00 | 16.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ⏳ pendiente | — |
 | pleaseplease123 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
