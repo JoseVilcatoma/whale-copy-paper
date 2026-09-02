@@ -88118,8 +88118,8 @@
     "title": "Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs",
     "outcome": "Phantom",
     "side": "BUY",
-    "whale_usd": 14134.078599999999,
-    "whale_pct": 33.316,
+    "whale_usd": 19856.033799999997,
+    "whale_pct": 46.804,
     "whale_value_at_open": 42423.9735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -88130,8 +88130,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788381956.2688248,
-    "fills": 3
+    "last_fill_at": 1788382862.0752926,
+    "fills": 4
   },
   {
     "timestamp": 1788380375,
@@ -88205,6 +88205,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788382634.7035232,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788382864,
+    "timestamp_added": 1788382865.4106512,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-is-nemi1-2026-09-03",
+    "title": "Counter-Strike: Iberian Soul vs Nemiga (BO3) - Stake Ranked Episode 4: Closed Qualifier Playoffs",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 1764.6750000000002,
+    "whale_pct": 4.141,
+    "whale_value_at_open": 42618.5669,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788382865.4106655,
     "fills": 1
   }
 ]
