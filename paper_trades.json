@@ -88034,5 +88034,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788371263.371424,
     "fills": 2
+  },
+  {
+    "timestamp": 1788372102,
+    "timestamp_added": 1788372103.2872312,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-ef1-hero-2026-09-02",
+    "title": "Counter-Strike: Eternal Fire vs Heroic (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "Eternal Fire",
+    "side": "BUY",
+    "whale_usd": 544.0,
+    "whale_pct": 1.977,
+    "whale_value_at_open": 27514.5422,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788372103.287246,
+    "fills": 1
   }
 ]

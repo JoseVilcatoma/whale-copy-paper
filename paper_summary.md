@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 13:00:50 (hora de Perú)
+Actualizado: 2026-09-02 13:02:51 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $451.47
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 13:00:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $211.47)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $206.47)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -42,7 +42,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 11 | 7 | 6 | +8.38 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 11 | 7 | 7 | +8.38 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | HongYunX | 3 | 1 | 1 | +6.58 USD |
@@ -706,6 +706,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Eternal Fire (BUY) | 69% | 5.00 | 2.0% | ⏳ pendiente | — |
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 54% | 5.00 | 16.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ⏳ pendiente | — |
@@ -735,4 +736,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 66% | 5.00 | 15.9% | ✅ ganada | +2.49 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 52.4% | ❌ perdida | -5.05 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 82.2% | ❌ perdida | -5.03 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 109.0% | ❌ perdida | -5.09 |
