@@ -86394,5 +86394,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788335963.734315,
     "fills": 2
+  },
+  {
+    "timestamp": 1788337942,
+    "timestamp_added": 1788337943.726261,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "jap-avi-ura-2026-09-02-avi",
+    "title": "Will Avispa Fukuoka win on 2026-09-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 5400.0,
+    "whale_pct": 36.428,
+    "whale_value_at_open": 14823.7323,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 61,
+    "fee_usd": 0.098,
+    "odds_ballena": 60,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788337943.7262766,
+    "fills": 1
   }
 ]
