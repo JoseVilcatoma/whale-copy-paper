@@ -1,5 +1,5 @@
 {
-  "bankroll": 385.33385523210535,
+  "bankroll": 392.6210844930405,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17280,6 +17280,16 @@
       "timestamp": 1788313847.782174,
       "bankroll": 385.33,
       "event": "won: monkeymashingkeyboard \u2014 San Diego Padres vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788315740.368978,
+      "bankroll": 390.02,
+      "event": "won: Painfulvoid \u2014 Miami Marlins vs. Kansas City Royals"
+    },
+    {
+      "timestamp": 1788315740.9624135,
+      "bankroll": 392.62,
+      "event": "won: 0x4f2 \u2014 Miami Marlins vs. Kansas City Royals"
     }
   ]
 }
