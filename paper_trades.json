@@ -86370,5 +86370,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788335064.86438,
     "fills": 1
+  },
+  {
+    "timestamp": 1788335923,
+    "timestamp_added": 1788335924.5251267,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "jap-fct1-vis-2026-09-02-vis",
+    "title": "Will Vissel K\u014dbe win on 2026-09-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 7856.75,
+    "whale_pct": 129.577,
+    "whale_value_at_open": 6063.3996,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 53,
+    "fee_usd": 0.117,
+    "odds_ballena": 52,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788335963.734315,
+    "fills": 2
   }
 ]
