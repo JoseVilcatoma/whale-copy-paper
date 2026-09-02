@@ -87632,8 +87632,8 @@
     "title": "Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "EYEBALLERS",
     "side": "BUY",
-    "whale_usd": 2620.3134980000004,
-    "whale_pct": 21.748,
+    "whale_usd": 5277.913494,
+    "whale_pct": 43.805,
     "whale_value_at_open": 12048.5267,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -87644,8 +87644,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788362435.9856665,
-    "fills": 3
+    "last_fill_at": 1788364065.424461,
+    "fills": 5
   },
   {
     "timestamp": 1788362190,
