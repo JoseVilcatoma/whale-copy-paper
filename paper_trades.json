@@ -86715,5 +86715,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788345446.7262685,
     "fills": 1
+  },
+  {
+    "timestamp": 1788345989,
+    "timestamp_added": 1788345990.0938623,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "lol-hle1-t1-2026-09-02-game4",
+    "title": "LoL: Hanwha Life Esports vs T1 - Game 4 Winner",
+    "outcome": "Hanwha Life Esports",
+    "side": "BUY",
+    "whale_usd": 34954.711444,
+    "whale_pct": 5.268,
+    "whale_value_at_open": 663538.6283,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788346039.1653063,
+    "fills": 7
   }
 ]
