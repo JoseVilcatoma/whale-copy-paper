@@ -87240,8 +87240,8 @@
     "title": "Counter-Strike: Color vs B8 - Map 2 Winner",
     "outcome": "Color",
     "side": "BUY",
-    "whale_usd": 1735.199999,
-    "whale_pct": 20.979,
+    "whale_usd": 3443.567099,
+    "whale_pct": 41.634,
     "whale_value_at_open": 8270.985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -87252,8 +87252,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788357687.090976,
-    "fills": 2
+    "last_fill_at": 1788358162.165715,
+    "fills": 4
   },
   {
     "timestamp": 1788357230,
