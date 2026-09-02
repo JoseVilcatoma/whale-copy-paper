@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 14:05:01 (hora de Perú)
+Actualizado: 2026-09-02 14:07:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.59
-**Retorno acumulado:** -6.08%
+**Bankroll actual:** $466.94
+**Retorno acumulado:** -6.61%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 14:05:01 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $249.59)
+**Capital comprometido ahora mismo:** $210.00 en 42 posiciones abiertas (disponible para nuevas apuestas: $256.94)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -36,13 +36,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ChonkyChocolateCake | 44 | 29 | 4 | +11.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 13 | 8 | 4 | +11.08 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
 | GoalLineGhost | 35 | 11 | 1 | +10.40 USD |
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 14 | 9 | 2 | +8.43 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | HongYunX | 3 | 1 | 1 | +6.58 USD |
@@ -122,14 +122,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3355
-- **Aciertos:** 2146 (64.0%)
+- **Apuestas resueltas:** 3357
+- **Aciertos:** 2147 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,750.24
-- **ROI sobre lo apostado:** -0.78%
-- **Comisiones pagadas (taker fee):** $306.48 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,760.24
+- **ROI sobre lo apostado:** -0.80%
+- **Comisiones pagadas (taker fee):** $306.71 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -137,8 +137,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1680 | 50.1% | 50.1% | +0.0 pp |
-| 60-79% | 1000 | 69.9% | 67.8% | +2.1 pp |
+| 40-59% | 1681 | 50.1% | 50.1% | -0.0 pp |
+| 60-79% | 1001 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 467 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
@@ -709,8 +709,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Eternal Fire (BUY) | 69% | 5.00 | 6.3% | ⏳ pendiente | — |
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 54% | 5.00 | 41.2% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ❌ perdida | -5.14 |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ✅ ganada | +2.49 |
 | pleaseplease123 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 92% | 5.00 | 11.1% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | K27 (BUY) | 46% | 5.00 | 5.0% | ✅ ganada | +5.73 |
