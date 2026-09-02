@@ -86545,5 +86545,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788340165.0453548,
     "fills": 2
+  },
+  {
+    "timestamp": 1788343195,
+    "timestamp_added": 1788343196.212847,
+    "username": "degenfren",
+    "wallet": "0x979fc186184ae75754d32c4ef68d8ca00f744032",
+    "slug": "atp-prizmic-paul-2026-09-02",
+    "title": "US Open ATP: Dino Prizmic vs Tommy Paul",
+    "outcome": "Tommy Paul",
+    "side": "BUY",
+    "whale_usd": 16017.142500000002,
+    "whale_pct": 105.213,
+    "whale_value_at_open": 15223.588,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 83,
+    "fee_usd": 0.043,
+    "odds_ballena": 81,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788343196.212863,
+    "fills": 1
   }
 ]
