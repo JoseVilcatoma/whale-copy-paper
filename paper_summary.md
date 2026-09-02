@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 05:54:11 (hora de Perú)
+Actualizado: 2026-09-02 05:56:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $405.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 05:54:11 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $165.00 en 33 posiciones abiertas (disponible para nuevas apuestas: $240.19)
+**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $225.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -102,7 +102,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
-| AV23IUa | 17 | 13 | 3 | -9.45 USD |
+| AV23IUa | 17 | 13 | 6 | -9.45 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -700,6 +700,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurka | Ben Shelton (BUY) | 71% | 5.00 | 31.6% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Daniel Merida Aguilar vs An | Daniel Merida Aguilar (BUY) | 44% | 5.00 | 7.1% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Brandon Nakashima vs Alex M | Brandon Nakashima (BUY) | 70% | 5.00 | 36.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 4  | Hanwha Life Esports (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kawasaki Frontale win on 2026-09-02 | No (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |
 | GoalLineGhost | Will FC Machida Zelvia vs. Kawasaki Fron | No (BUY) | 69% | 5.00 | 3.4% | ⏳ pendiente | — |
@@ -727,6 +730,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 58% | 5.00 | 6.4% | ❌ perdida | -5.11 |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 98% | 5.00 | 2.9% | ✅ ganada | +0.10 |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays: O/U 7. | Over (BUY) | 57% | 5.00 | 8.8% | 💰 vendida anticipada | +0.32 |
-| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 65% | 5.00 | 7.7% | ✅ ganada | +2.61 |
-| 0x4f2 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
-| GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ✅ ganada | +2.38 |
