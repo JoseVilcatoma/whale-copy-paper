@@ -1,5 +1,5 @@
 {
-  "bankroll": 397.3934362256998,
+  "bankroll": 387.1734362256998,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17320,6 +17320,16 @@
       "timestamp": 1788330448.4753637,
       "bankroll": 397.39,
       "event": "won: Flaznorp \u2014 US Open ATP: Alexander Zverev vs Lorenzo Sonego"
+    },
+    {
+      "timestamp": 1788333285.0162914,
+      "bankroll": 392.28,
+      "event": "lost: monkeymashingkeyboard \u2014 Milwaukee Brewers vs. Chicago Cubs"
+    },
+    {
+      "timestamp": 1788333287.6666102,
+      "bankroll": 387.17,
+      "event": "lost: 0x4f2 \u2014 Milwaukee Brewers vs. Chicago Cubs"
     }
   ]
 }
