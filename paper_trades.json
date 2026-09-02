@@ -88118,8 +88118,8 @@
     "title": "Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs",
     "outcome": "Phantom",
     "side": "BUY",
-    "whale_usd": 29084.6145,
-    "whale_pct": 68.557,
+    "whale_usd": 29590.4145,
+    "whale_pct": 69.749,
     "whale_value_at_open": 42423.9735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -88130,8 +88130,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788389161.3226643,
-    "fills": 8
+    "last_fill_at": 1788391885.8931744,
+    "fills": 9
   },
   {
     "timestamp": 1788380375,
@@ -88325,6 +88325,33 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788391640.7025523,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788391791,
+    "timestamp_added": 1788391792.1783683,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-nym-tb-2026-09-02",
+    "title": "New York Mets vs. Tampa Bay Rays",
+    "outcome": "New York Mets",
+    "side": "BUY",
+    "whale_usd": 1181.543772,
+    "whale_pct": 4.508,
+    "whale_value_at_open": 26209.1982,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788391792.1783817,
     "fills": 1
   }
 ]
