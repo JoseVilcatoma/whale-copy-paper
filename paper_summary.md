@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 19:03:49 (hora de Perú)
+Actualizado: 2026-09-01 19:05:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $395.97
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 19:03:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $205.97)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $195.97)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -46,7 +46,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
-| 0x4f2 | 2 | 1 | 6 | +6.18 USD |
+| 0x4f2 | 2 | 1 | 8 | +6.18 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
@@ -684,6 +684,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-molcan-bonzi-2026-08-30 | AV23IUa, NiNo999 |
 | mlb-det-min-2026-09-01 | 0x4f2, AV23IUa |
 | lol-tlnpir-kcb-2026-09-01 | DoNotTailMe, TAIWANNUMBERONE |
+| mlb-nym-tb-2026-09-01 | 0x4f2, monkeymashingkeyboard |
 | brco-cam-cru-2026-09-01-total-1pt5 | GoalLineGhost, HongYunX |
 | mlb-mia-kc-2026-09-01 | 0x4f2, Painfulvoid |
 
@@ -691,6 +692,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x4f2 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 98% | 5.00 | 2.9% | ⏳ pendiente | — |
+| 0x4f2 | New York Mets vs. Tampa Bay Rays: O/U 7. | Over (BUY) | 57% | 5.00 | 8.8% | ⏳ pendiente | — |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 65% | 5.00 | 7.7% | ⏳ pendiente | — |
 | 0x4f2 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 66% | 5.00 | 1.3% | ⏳ pendiente | — |
 | GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ⏳ pendiente | — |
@@ -719,5 +722,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 49% | 5.00 | 29.0% | ❌ perdida | -5.13 |
 | monkeymashingkeyboard | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 63% | 5.00 | 59.5% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Philadelphia Phillies vs. Arizona Diamon | Over (BUY) | 52% | 5.00 | 39.1% | ⏳ pendiente | — |
-| DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Unicorns Of Love Sexy Edition (BUY) | 55% | 5.00 | 132.3% | ✅ ganada | +3.98 |
-| NiNo999 | Set Handicap: Basavareddy (-2.5) vs Scho | Schoolkate (BUY) | 68% | 5.00 | 9.0% | ✅ ganada | +2.27 |
