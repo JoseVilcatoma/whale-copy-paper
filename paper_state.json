@@ -1,5 +1,5 @@
 {
-  "bankroll": 452.400808766648,
+  "bankroll": 447.32580876664804,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17555,6 +17555,11 @@
       "timestamp": 1788370493.0096455,
       "bankroll": 452.4,
       "event": "won: 0x0x23kjookhaiuohduoayh8c9 \u2014 US Open WTA: Daria Kasatkina vs Paula Badosa"
+    },
+    {
+      "timestamp": 1788370800.1787238,
+      "bankroll": 447.33,
+      "event": "lost: AV23IUa \u2014 US Open ATP: Brandon Nakashima vs Alex Michelsen"
     }
   ]
 }
