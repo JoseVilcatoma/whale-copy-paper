@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 18:27:41 (hora de Perú)
+Actualizado: 2026-09-02 18:29:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $470.74
-**Retorno acumulado:** -5.85%
+**Bankroll actual:** $471.05
+**Retorno acumulado:** -5.79%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 18:27:41 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $350.74)
+**Capital comprometido ahora mismo:** $115.00 en 23 posiciones abiertas (disponible para nuevas apuestas: $356.05)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 4 | 1 | 0 | +13.63 USD |
 | TAIWANNUMBERONE | 31 | 19 | 1 | +13.39 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| Flaznorp | 18 | 3 | 2 | +12.06 USD |
+| Flaznorp | 19 | 3 | 1 | +12.36 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -123,14 +123,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3385
-- **Aciertos:** 2164 (63.9%)
+- **Apuestas resueltas:** 3386
+- **Aciertos:** 2165 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,900.24
+- **Total apostado (suma de stakes):** $16,905.24
 - **ROI sobre lo apostado:** -0.77%
-- **Comisiones pagadas (taker fee):** $309.57 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
+- **Comisiones pagadas (taker fee):** $309.58 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1695 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1013 | 70.0% | 67.8% | +2.2 pp |
-| 80-94% | 469 | 86.4% | 86.7% | -0.4 pp |
+| 80-94% | 470 | 86.4% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)

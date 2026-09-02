@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.74127719252,
+  "bankroll": 471.0454261286902,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17745,6 +17745,11 @@
       "timestamp": 1788391310.3423352,
       "bankroll": 470.74,
       "event": "lost: pleaseplease123 \u2014 Seattle Mariners vs. Boston Red Sox"
+    },
+    {
+      "timestamp": 1788391730.4450705,
+      "bankroll": 471.05,
+      "event": "won: Flaznorp \u2014 US Open ATP: Zizou Bergs vs Carlos Taberner"
     }
   ]
 }
