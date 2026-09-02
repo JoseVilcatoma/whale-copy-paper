@@ -1,5 +1,5 @@
 {
-  "bankroll": 433.12504349753425,
+  "bankroll": 432.5124281129189,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17480,6 +17480,16 @@
       "timestamp": 1788358301.2754533,
       "bankroll": 433.13,
       "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: BIG vs Nemiga - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788361697.3925173,
+      "bankroll": 428.02,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: DENDELE CS vs EYEBALLERS - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788361697.4927096,
+      "bankroll": 432.51,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: DENDELE CS vs EYEBALLERS - Map 1 Winner"
     }
   ]
 }

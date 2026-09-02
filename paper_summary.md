@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 10:06:10 (hora de Perú)
+Actualizado: 2026-09-02 10:08:36 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $433.13
-**Retorno acumulado:** -13.37%
+**Bankroll actual:** $432.51
+**Retorno acumulado:** -13.50%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 10:06:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $193.13)
+**Capital comprometido ahora mismo:** $230.00 en 46 posiciones abiertas (disponible para nuevas apuestas: $202.51)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,12 +58,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 4 | 2 | 11 | +2.62 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 4 | 2 | 1 | +2.25 USD |
 | Painfulvoid | 2 | 1 | 0 | +2.21 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 5 | 3 | 9 | +2.01 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
@@ -122,13 +122,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3332
-- **Aciertos:** 2130 (63.9%)
-- **Cuota promedio de entrada:** 63.5%
+- **Apuestas resueltas:** 3334
+- **Aciertos:** 2131 (63.9%)
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,635.24
+- **Total apostado (suma de stakes):** $16,645.24
 - **ROI sobre lo apostado:** -1.01%
-- **Comisiones pagadas (taker fee):** $304.04 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $304.27 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.82% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -137,7 +137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1667 | 49.9% | 50.1% | -0.3 pp |
+| 40-59% | 1669 | 49.9% | 50.1% | -0.3 pp |
 | 60-79% | 991 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 466 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -705,11 +705,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 11.9% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 18.1% | ⏳ pendiente | — |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: | Over (BUY) | 49% | 5.00 | 73.0% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 59% | 5.00 | 10.1% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 59% | 5.00 | 31.1% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 1.7% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | Color (BUY) | 43% | 5.00 | 7.1% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | Color (BUY) | 43% | 5.00 | 38.2% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 60% | 5.00 | 44.9% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs Nuclear TigeRES | Nuclear TigeRES (BUY) | 44% | 5.00 | 8.8% | ⏳ pendiente | — |
@@ -718,8 +718,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 52.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 82.2% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 10.9% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 33.8% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 33.8% | ✅ ganada | +4.50 |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ❌ perdida | -5.11 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 - Map 2 Winn | Color (BUY) | 43% | 5.00 | 91.8% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/ | Over (BUY) | 49% | 5.00 | 430.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 52% | 5.00 | 111.2% | ⏳ pendiente | — |

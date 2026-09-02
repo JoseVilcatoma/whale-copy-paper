@@ -87271,8 +87271,8 @@
     "odds_at_bet": 57,
     "fee_usd": 0.108,
     "odds_ballena": 56,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.11,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -87295,8 +87295,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.5,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -87506,8 +87506,8 @@
     "title": "Counter-Strike: Color vs B8 (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Color",
     "side": "BUY",
-    "whale_usd": 705.599999,
-    "whale_pct": 7.127,
+    "whale_usd": 3777.5999979999997,
+    "whale_pct": 38.157,
     "whale_value_at_open": 9900.0601,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -87520,8 +87520,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788360526.6520588,
-    "fills": 1
+    "last_fill_at": 1788361680.91776,
+    "fills": 3
   },
   {
     "timestamp": 1788360790,
@@ -87556,8 +87556,8 @@
     "title": "Counter-Strike: Color vs B8 (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "B8",
     "side": "BUY",
-    "whale_usd": 897.9594999999998,
-    "whale_pct": 10.058,
+    "whale_usd": 2780.9221,
+    "whale_pct": 31.149,
     "whale_value_at_open": 8927.8835,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -87570,8 +87570,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788361070.3273602,
-    "fills": 1
+    "last_fill_at": 1788361616.0634181,
+    "fills": 2
   },
   {
     "timestamp": 1788361254,
@@ -87606,8 +87606,8 @@
     "title": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Nemiga",
     "side": "BUY",
-    "whale_usd": 979.5,
-    "whale_pct": 11.899,
+    "whale_usd": 1486.89,
+    "whale_pct": 18.062,
     "whale_value_at_open": 8231.9397,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 51,
@@ -87620,7 +87620,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788361508.9164672,
-    "fills": 1
+    "last_fill_at": 1788361622.8359473,
+    "fills": 2
   }
 ]
