@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 03:43:07 (hora de Perú)
+Actualizado: 2026-09-02 03:45:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $391.67
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 03:43:07 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $246.67)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $241.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -66,7 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 1 | +0.37 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 2 | +0.37 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | HongYunX | 0 | 0 | 4 | +0.00 USD |
@@ -688,7 +688,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-tlnpir-kcb-2026-09-01 | DoNotTailMe, TAIWANNUMBERONE |
 | mlb-nym-tb-2026-09-01 | 0x4f2, monkeymashingkeyboard |
 | brco-cam-cru-2026-09-01-total-1pt5 | GoalLineGhost, HongYunX |
-| cs2-mibr-ef1-2026-09-02 | BrotherObama, ExplosiveNinja |
+| cs2-mibr-ef1-2026-09-02 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, BrotherObama, ExplosiveNinja |
 | mlb-mia-kc-2026-09-01 | 0x4f2, Painfulvoid |
 | cs2-mgc-k271-2026-09-02 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, BrotherObama |
 
@@ -696,6 +696,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 43% | 5.00 | 3.3% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 10.0% | ⏳ pendiente | — |
 | HongYunX | Will Avispa Fukuoka win on 2026-09-02? | No (BUY) | 61% | 5.00 | 36.4% | ⏳ pendiente | — |
 | HongYunX | Will Vissel Kōbe win on 2026-09-02? | No (BUY) | 53% | 5.00 | 129.6% | ⏳ pendiente | — |
@@ -725,4 +726,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | NiNo999 | US Open ATP: Fabian Marozsan vs Michael  | Michael Zheng (BUY) | 62% | 5.00 | 48.2% | ⏳ pendiente | — |
 | HongYunX | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 2.3% | ⏳ pendiente | — |
 | NiNo999 | US Open ATP: Alex Molcan vs Benjamin Bon | Benjamin Bonzi (BUY) | 69% | 5.00 | 75.7% | ⏳ pendiente | — |
-| NiNo999 | US Open ATP: Jesper de Jong vs Francesco | Francesco Passaro (BUY) | 43% | 5.00 | 101.7% | ⏳ pendiente | — |
