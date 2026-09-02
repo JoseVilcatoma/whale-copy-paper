@@ -87230,5 +87230,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788356042.06038,
     "fills": 2
+  },
+  {
+    "timestamp": 1788356981,
+    "timestamp_added": 1788356981.783504,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-color-b8-2026-09-02-game2",
+    "title": "Counter-Strike: Color vs B8 - Map 2 Winner",
+    "outcome": "Color",
+    "side": "BUY",
+    "whale_usd": 504.0,
+    "whale_pct": 6.094,
+    "whale_value_at_open": 8270.985,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788356981.7835188,
+    "fills": 1
   }
 ]
