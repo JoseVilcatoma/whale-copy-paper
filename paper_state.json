@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.7521028721441,
+  "bankroll": 469.8963621314034,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17665,6 +17665,11 @@
       "timestamp": 1788379217.8607996,
       "bankroll": 465.75,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Eternal Fire vs Heroic (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788380800.0508716,
+      "bankroll": 469.9,
+      "event": "won: monkeymashingkeyboard \u2014 Athletics vs. Texas Rangers: O/U 7.5"
     }
   ]
 }
