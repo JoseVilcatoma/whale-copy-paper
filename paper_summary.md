@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 08:31:09 (hora de Perú)
+Actualizado: 2026-09-02 08:33:14 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $426.37
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 08:31:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $185.00 en 37 posiciones abiertas (disponible para nuevas apuestas: $241.37)
+**Capital comprometido ahora mismo:** $190.00 en 38 posiciones abiertas (disponible para nuevas apuestas: $236.37)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -31,7 +31,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Flaznorp | 18 | 2 | 3 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
-| monkeymashingkeyboard | 7 | 4 | 2 | +11.87 USD |
+| monkeymashingkeyboard | 7 | 4 | 3 | +11.87 USD |
 | ChonkyChocolateCake | 44 | 29 | 0 | +11.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
@@ -702,6 +702,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 52% | 5.00 | 58.8% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Athletics vs. Texas Rangers: O/U 7.5 | Over (BUY) | 54% | 5.00 | 19.7% | ⏳ pendiente | — |
 | Gourmet1 | US Open ATP: Jaume Munar vs Arthur Rinde | Arthur Rinderknech (BUY) | 62% | 5.00 | 26.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Galions vs TLN Pirates (BO5) - LFL  | Galions (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -731,4 +732,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | TheMafiaa | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 45% | 5.00 | 33.9% | ✅ ganada | +5.97 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 41% | 5.00 | 54.8% | ✅ ganada | +7.05 |
 | TheMafiaa | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 66% | 5.00 | 109.8% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
