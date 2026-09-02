@@ -87336,8 +87336,8 @@
     "title": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "BIG",
     "side": "BUY",
-    "whale_usd": 816.0768,
-    "whale_pct": 12.599,
+    "whale_usd": 1409.4388,
+    "whale_pct": 21.759,
     "whale_value_at_open": 6477.4969,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -87348,8 +87348,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788357273.2392495,
-    "fills": 1
+    "last_fill_at": 1788358543.6176372,
+    "fills": 2
   },
   {
     "timestamp": 1788357281,
@@ -87374,5 +87374,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788357848.818648,
     "fills": 3
+  },
+  {
+    "timestamp": 1788358551,
+    "timestamp_added": 1788358551.7945285,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-dendel-eye-2026-09-02-game2",
+    "title": "Counter-Strike: DENDELE CS vs EYEBALLERS - Map 2 Winner",
+    "outcome": "DENDELE CS",
+    "side": "BUY",
+    "whale_usd": 2079.999997,
+    "whale_pct": 15.858,
+    "whale_value_at_open": 13116.0644,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 66,
+    "fee_usd": 0.085,
+    "odds_ballena": 65,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788358561.8263154,
+    "fills": 2
   }
 ]
