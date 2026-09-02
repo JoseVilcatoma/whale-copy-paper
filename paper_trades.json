@@ -87874,8 +87874,8 @@
     "title": "Counter-Strike: K27 vs GamerLegion (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "GamerLegion",
     "side": "BUY",
-    "whale_usd": 1561.599999,
-    "whale_pct": 6.619,
+    "whale_usd": 3385.599999,
+    "whale_pct": 14.351,
     "whale_value_at_open": 23591.5161,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 61,
@@ -87886,8 +87886,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788368306.347368,
-    "fills": 2
+    "last_fill_at": 1788369008.9562612,
+    "fills": 5
   },
   {
     "timestamp": 1788368294,
@@ -87911,6 +87911,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788368294.821118,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788369002,
+    "timestamp_added": 1788369002.716342,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-sd-cin-2026-09-02",
+    "title": "San Diego Padres vs. Cincinnati Reds",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 1281.7896,
+    "whale_pct": 11.129,
+    "whale_value_at_open": 11517.8658,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 92,
+    "fee_usd": 0.02,
+    "odds_ballena": 90,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sunny24"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788369002.7163541,
     "fills": 1
   }
 ]
