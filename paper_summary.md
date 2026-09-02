@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 07:21:16 (hora de Perú)
+Actualizado: 2026-09-02 07:23:18 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $409.21
-**Retorno acumulado:** -18.16%
+**Bankroll actual:** $416.08
+**Retorno acumulado:** -16.78%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 07:21:16 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $229.21)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $246.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,15 +43,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
+| GoalLineGhost | 34 | 11 | 2 | +6.26 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | TheMafiaa | 1 | 0 | 1 | +5.97 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| GoalLineGhost | 33 | 11 | 3 | +5.61 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 2 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
+| HongYunX | 2 | 1 | 1 | +3.48 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
@@ -83,7 +84,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | NiNo999 | 6 | 5 | 3 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
-| HongYunX | 1 | 1 | 2 | -2.74 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | Sunny24 | 2 | 2 | 0 | -3.57 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -120,14 +120,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3320
-- **Aciertos:** 2121 (63.9%)
+- **Apuestas resueltas:** 3322
+- **Aciertos:** 2123 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,575.24
-- **ROI sobre lo apostado:** -1.15%
-- **Comisiones pagadas (taker fee):** $302.73 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.67% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,585.24
+- **ROI sobre lo apostado:** -1.11%
+- **Comisiones pagadas (taker fee):** $302.90 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.71% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -135,9 +135,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1660 | 49.7% | 50.1% | -0.4 pp |
+| 40-59% | 1661 | 49.7% | 50.1% | -0.4 pp |
 | 60-79% | 987 | 70.1% | 67.9% | +2.3 pp |
-| 80-94% | 465 | 86.7% | 86.7% | -0.0 pp |
+| 80-94% | 466 | 86.7% | 86.7% | -0.0 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -717,7 +717,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will FC Machida Zelvia vs. Kawasaki Fron | No (BUY) | 69% | 5.00 | 3.4% | ✅ ganada | +2.17 |
 | GoalLineGhost | Shimizu S-Pulse vs. FC Tōkyō: O/U 2.5 | Under (BUY) | 66% | 5.00 | 2.3% | ✅ ganada | +2.49 |
 | GoalLineGhost | FC Luzern vs. FC Vaduz: O/U 3.5 | Under (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
-| GoalLineGhost | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 88% | 5.00 | 1.5% | ⏳ pendiente | — |
+| GoalLineGhost | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 88% | 5.00 | 1.5% | ✅ ganada | +0.65 |
 | GoalLineGhost | Will Yunnan Yukun win on 2026-09-02? | Yes (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | degenfren | US Open ATP: Dino Prizmic vs Tommy Paul | Tommy Paul (BUY) | 83% | 5.00 | 105.2% | ⏳ pendiente | — |
 | TheMafiaa | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 45% | 5.00 | 33.9% | ✅ ganada | +5.97 |
@@ -727,6 +727,6 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 34.3% | ❌ perdida | -5.15 |
 | HongYunX | Will Avispa Fukuoka win on 2026-09-02? | No (BUY) | 61% | 5.00 | 36.4% | ⏳ pendiente | — |
 | HongYunX | Will Vissel Kōbe win on 2026-09-02? | No (BUY) | 53% | 5.00 | 129.6% | ❌ perdida | -5.12 |
-| HongYunX | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 44% | 5.00 | 30.2% | ⏳ pendiente | — |
+| HongYunX | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 44% | 5.00 | 30.2% | ✅ ganada | +6.22 |
 | BrotherObama | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 67.4% | ❌ perdida | -5.15 |
 | BrotherObama | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 42% | 5.00 | 67.4% | ⏳ pendiente | — |
