@@ -86593,5 +86593,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788344879.825919,
     "fills": 1
+  },
+  {
+    "timestamp": 1788344912,
+    "timestamp_added": 1788344912.483192,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "jap-hol-kas-2026-09-02-kas",
+    "title": "Will Kashima Antlers win on 2026-09-02?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 819.0468,
+    "whale_pct": 1.495,
+    "whale_value_at_open": 54770.0994,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 88,
+    "fee_usd": 0.03,
+    "odds_ballena": 86,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "HongYunX"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788344912.4832036,
+    "fills": 1
   }
 ]

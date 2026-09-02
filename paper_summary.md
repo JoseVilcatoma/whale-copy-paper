@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 05:28:28 (hora de Perú)
+Actualizado: 2026-09-02 05:30:32 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $405.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 05:28:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $270.19)
+**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $265.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
-| GoalLineGhost | 30 | 11 | 1 | -0.83 USD |
+| GoalLineGhost | 30 | 11 | 2 | -0.83 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
@@ -693,12 +693,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | cs2-mibr-ef1-2026-09-02 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, BrotherObama, ExplosiveNinja |
 | mlb-mia-kc-2026-09-01 | 0x4f2, Painfulvoid |
 | cs2-mgc-k271-2026-09-02 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, BrotherObama |
+| jap-hol-kas-2026-09-02-kas | GoalLineGhost, HongYunX |
 | lol-hle1-t1-2026-09-02-game2 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140, TheMafiaa |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 88% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Yunnan Yukun win on 2026-09-02? | Yes (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | degenfren | US Open ATP: Dino Prizmic vs Tommy Paul | Tommy Paul (BUY) | 83% | 5.00 | 105.2% | ⏳ pendiente | — |
 | TheMafiaa | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 45% | 5.00 | 33.9% | ⏳ pendiente | — |
@@ -728,4 +730,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ❌ perdida | -5.11 |
 | 0x4f2 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 68% | 5.00 | 2.4% | ❌ perdida | -5.08 |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 97.3% | 💰 vendida anticipada | +0.94 |
-| Painfulvoid | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 10.3% | ✅ ganada | +4.68 |
