@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 17:01:08 (hora de Perú)
+Actualizado: 2026-09-02 17:03:12 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $469.65
@@ -714,7 +714,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 43% | 5.00 | 2.1% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 55% | 5.00 | 21.6% | ⏳ pendiente | — |
 | pleaseplease123 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 42% | 5.00 | 6.2% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 58% | 5.00 | 59.3% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 58% | 5.00 | 63.7% | ⏳ pendiente | — |
 | monkeymashingkeyboard | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 63% | 5.00 | 11.3% | ⏳ pendiente | — |
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 44% | 5.00 | 0.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Eternal Fire (BUY) | 69% | 5.00 | 6.3% | ✅ ganada | +2.17 |
