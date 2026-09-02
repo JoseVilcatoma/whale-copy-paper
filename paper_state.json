@@ -1,5 +1,5 @@
 {
-  "bankroll": 408.3344551560926,
+  "bankroll": 405.1867086772193,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17365,6 +17365,16 @@
       "timestamp": 1788343740.84485,
       "bankroll": 408.33,
       "event": "won: UpTheBlues \u2014 Spread: CA Mineiro (-1.5)"
+    },
+    {
+      "timestamp": 1788344062.6222277,
+      "bankroll": 410.3,
+      "event": "won: GoalLineGhost \u2014 Will Cruzeiro EC win on 2026-09-01?"
+    },
+    {
+      "timestamp": 1788344062.7223775,
+      "bankroll": 405.19,
+      "event": "lost: GoalLineGhost \u2014 Will Cruzeiro EC win on 2026-09-01?"
     }
   ]
 }
