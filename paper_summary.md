@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 02:37:19 (hora de Perú)
+Actualizado: 2026-09-02 02:39:20 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $387.17
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 02:37:19 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $120.00 en 24 posiciones abiertas (disponible para nuevas apuestas: $267.17)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $262.17)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -84,7 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 27 | 10 | 4 | -3.29 USD |
 | pleaseplease123 | 4 | 4 | 1 | -3.52 USD |
 | Sunny24 | 2 | 2 | 0 | -3.57 USD |
-| BrotherObama | 1 | 1 | 0 | -3.97 USD |
+| BrotherObama | 1 | 1 | 1 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | 0x4f2 | 7 | 5 | 0 | -4.38 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -688,12 +688,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-tlnpir-kcb-2026-09-01 | DoNotTailMe, TAIWANNUMBERONE |
 | mlb-nym-tb-2026-09-01 | 0x4f2, monkeymashingkeyboard |
 | brco-cam-cru-2026-09-01-total-1pt5 | GoalLineGhost, HongYunX |
+| cs2-mibr-ef1-2026-09-02 | BrotherObama, ExplosiveNinja |
 | mlb-mia-kc-2026-09-01 | 0x4f2, Painfulvoid |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 42% | 5.00 | 67.4% | ⏳ pendiente | — |
 | 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 71% | 5.00 | 54.1% | 💰 vendida anticipada | -1.00 |
 | GoalLineGhost | Will LDU Quito win on 2026-09-01? | No (BUY) | 60% | 5.00 | 1.6% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 48% | 5.00 | 47.2% | ⏳ pendiente | — |
@@ -723,4 +725,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open WTA: Oleksandra Oliynykova vs Re | Oleksandra Oliynykova (BUY) | 52% | 5.00 | 0.7% | ✅ ganada | +4.50 |
 | beachboy4 | US Open ATP: Dane Sweeny vs Corentin Mou | Corentin Moutet (BUY) | 69% | 5.00 | 3535.0% | ❌ perdida | -5.08 |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 62% | 5.00 | 13.8% | ✅ ganada | +2.97 |
-| DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | Karmine Corp Blue (BUY) | 56% | 5.00 | 7.9% | ❌ perdida | -5.11 |

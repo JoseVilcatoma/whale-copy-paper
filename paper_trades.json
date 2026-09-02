@@ -86296,5 +86296,31 @@
     "fills": 1,
     "fee_total_usd": 0.158,
     "closed_price": 59
+  },
+  {
+    "timestamp": 1788334739,
+    "timestamp_added": 1788334739.5545006,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "cs2-mibr-ef1-2026-09-02",
+    "title": "Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "Eternal Fire",
+    "side": "BUY",
+    "whale_usd": 9997.9402,
+    "whale_pct": 67.408,
+    "whale_value_at_open": 14831.979,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ExplosiveNinja"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788334739.5545132,
+    "fills": 1
   }
 ]
