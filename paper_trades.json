@@ -87190,8 +87190,8 @@
     "title": "San Diego Padres vs. Cincinnati Reds: O/U 9.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 15204.742199999999,
-    "whale_pct": 66.921,
+    "whale_usd": 25270.790699999998,
+    "whale_pct": 111.225,
     "whale_value_at_open": 22720.4664,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 52,
@@ -87202,8 +87202,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788357423.9689753,
-    "fills": 2
+    "last_fill_at": 1788358598.5026577,
+    "fills": 3
   },
   {
     "timestamp": 1788356041,
@@ -87240,8 +87240,8 @@
     "title": "Counter-Strike: Color vs B8 - Map 2 Winner",
     "outcome": "Color",
     "side": "BUY",
-    "whale_usd": 3981.047099,
-    "whale_pct": 48.133,
+    "whale_usd": 6129.047098,
+    "whale_pct": 74.103,
     "whale_value_at_open": 8270.985,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -87252,8 +87252,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788358412.6345463,
-    "fills": 5
+    "last_fill_at": 1788358615.5594077,
+    "fills": 7
   },
   {
     "timestamp": 1788357230,
