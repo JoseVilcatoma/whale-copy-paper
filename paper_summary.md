@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 07:04:50 (hora de Perú)
+Actualizado: 2026-09-02 07:06:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $394.86
@@ -700,7 +700,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 36.0% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 40.5% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 556.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
