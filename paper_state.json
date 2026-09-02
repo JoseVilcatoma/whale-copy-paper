@@ -1,5 +1,5 @@
 {
-  "bankroll": 471.0454261286902,
+  "bankroll": 472.8170170377811,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17750,6 +17750,11 @@
       "timestamp": 1788391730.4450705,
       "bankroll": 471.05,
       "event": "won: Flaznorp \u2014 US Open ATP: Zizou Bergs vs Carlos Taberner"
+    },
+    {
+      "timestamp": 1788392431.2180207,
+      "bankroll": 472.82,
+      "event": "venta anticipada: 0x4f2 \u2014 San Francisco Giants vs. Pittsburgh Pirates (+1.77 USD)"
     }
   ]
 }
