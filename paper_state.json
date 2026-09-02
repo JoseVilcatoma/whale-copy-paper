@@ -1,5 +1,5 @@
 {
-  "bankroll": 474.6383190838057,
+  "bankroll": 468.6457260605499,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17630,6 +17630,31 @@
       "timestamp": 1788377026.738404,
       "bankroll": 474.64,
       "event": "won: pleaseplease123 \u2014 San Diego Padres vs. Cincinnati Reds: O/U 9.5"
+    },
+    {
+      "timestamp": 1788378894.887092,
+      "bankroll": 469.55,
+      "event": "lost: DoNotTailMe \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs UCAM Esports Club - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788378894.9873297,
+      "bankroll": 472.28,
+      "event": "won: DoNotTailMe \u2014 LoL: \u2060Movistar KOI F\u00e9nix vs UCAM Esports Club - Game 2 Winner"
+    },
+    {
+      "timestamp": 1788378895.5028813,
+      "bankroll": 467.18,
+      "event": "lost: Sunny24 \u2014 San Diego Padres vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788378895.6030095,
+      "bankroll": 473.67,
+      "event": "won: 0x4f2 \u2014 San Diego Padres vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788378895.7031524,
+      "bankroll": 468.65,
+      "event": "lost: 0x4f2 \u2014 San Diego Padres vs. Cincinnati Reds"
     }
   ]
 }
