@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 08:53:45 (hora de Perú)
+Actualizado: 2026-09-02 08:55:45 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $435.40
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 08:53:45 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $260.40)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $235.40)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -50,7 +50,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 1 | 0 | 1 | +5.97 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 3 | 1 | 3 | +4.90 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 3 | 1 | 8 | +4.90 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
@@ -703,6 +703,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 32.6% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 12.6% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 10.9% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 16.8% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 - Map 2 Winn | Color (BUY) | 43% | 5.00 | 6.1% | ⏳ pendiente | — |
 | pleaseplease123 | San Diego Padres vs. Cincinnati Reds: O/ | Over (BUY) | 49% | 5.00 | 430.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | San Diego Padres vs. Cincinnati Reds: O/ | Under (BUY) | 52% | 5.00 | 58.8% | ⏳ pendiente | — |
@@ -728,8 +733,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Kawasaki Frontale win on 2026-09-02 | No (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
 | GoalLineGhost | Will FC Machida Zelvia vs. Kawasaki Fron | No (BUY) | 69% | 5.00 | 3.4% | ✅ ganada | +2.17 |
 | GoalLineGhost | Shimizu S-Pulse vs. FC Tōkyō: O/U 2.5 | Under (BUY) | 66% | 5.00 | 2.3% | ✅ ganada | +2.49 |
-| GoalLineGhost | FC Luzern vs. FC Vaduz: O/U 3.5 | Under (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
-| GoalLineGhost | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 88% | 5.00 | 1.5% | ✅ ganada | +0.65 |
-| GoalLineGhost | Will Yunnan Yukun win on 2026-09-02? | Yes (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
-| degenfren | US Open ATP: Dino Prizmic vs Tommy Paul | Tommy Paul (BUY) | 83% | 5.00 | 105.2% | ⏳ pendiente | — |
-| TheMafiaa | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 45% | 5.00 | 33.9% | ✅ ganada | +5.97 |
