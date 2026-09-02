@@ -87422,5 +87422,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788358976.6455016,
     "fills": 3
+  },
+  {
+    "timestamp": 1788359212,
+    "timestamp_added": 1788359212.8445637,
+    "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
+    "wallet": "0xd570e634aeb745d6501566dba5f81a555cc7e4f8",
+    "slug": "cs2-mgc-ntr-2026-09-02",
+    "title": "Counter-Strike: magic vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "Nuclear TigeRES",
+    "side": "BUY",
+    "whale_usd": 17200.0,
+    "whale_pct": 8.755,
+    "whale_value_at_open": 196468.4878,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788359212.844578,
+    "fills": 1
   }
 ]
