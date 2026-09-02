@@ -87546,5 +87546,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788360791.5920775,
     "fills": 1
+  },
+  {
+    "timestamp": 1788361070,
+    "timestamp_added": 1788361070.3273482,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-color-b8-2026-09-02",
+    "title": "Counter-Strike: Color vs B8 (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "B8",
+    "side": "BUY",
+    "whale_usd": 897.9594999999998,
+    "whale_pct": 10.058,
+    "whale_value_at_open": 8927.8835,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 59,
+    "fee_usd": 0.103,
+    "odds_ballena": 58,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TheMafiaa"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788361070.3273602,
+    "fills": 1
   }
 ]
