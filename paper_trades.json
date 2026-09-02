@@ -87336,8 +87336,8 @@
     "title": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "BIG",
     "side": "BUY",
-    "whale_usd": 2150.1731499999996,
-    "whale_pct": 33.195,
+    "whale_usd": 3095.2735799999996,
+    "whale_pct": 47.785,
     "whale_value_at_open": 6477.4969,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -87348,8 +87348,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788358714.5027037,
-    "fills": 3
+    "last_fill_at": 1788360680.7087626,
+    "fills": 4
   },
   {
     "timestamp": 1788357281,
