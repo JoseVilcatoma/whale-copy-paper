@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 09:18:10 (hora de Perú)
+Actualizado: 2026-09-02 09:20:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $433.13
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 09:18:10 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $238.13)
+**Capital comprometido ahora mismo:** $200.00 en 40 posiciones abiertas (disponible para nuevas apuestas: $233.13)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -58,7 +58,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | quavoo | 30 | 17 | 0 | +2.86 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 4 | 2 | 7 | +2.62 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 4 | 2 | 8 | +2.62 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
 | fRibrenlc | 1 | 0 | 0 | +2.27 USD |
 | 0x0x23kjookhaiuohduoayh8c9 | 4 | 2 | 1 | +2.25 USD |
@@ -703,9 +703,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | Nemiga (BUY) | 65% | 5.00 | 18.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 66% | 5.00 | 15.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 52.4% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 21.8% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 33.2% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 10.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 33.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ⏳ pendiente | — |
@@ -732,4 +733,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Brandon Nakashima vs Alex M | Brandon Nakashima (BUY) | 70% | 5.00 | 36.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 4  | Hanwha Life Esports (BUY) | 56% | 5.00 | 5.3% | ✅ ganada | +3.82 |
 | GoalLineGhost | Will Kawasaki Frontale win on 2026-09-02 | No (BUY) | 73% | 5.00 | 1.2% | ✅ ganada | +1.78 |
-| GoalLineGhost | Will FC Machida Zelvia vs. Kawasaki Fron | No (BUY) | 69% | 5.00 | 3.4% | ✅ ganada | +2.17 |

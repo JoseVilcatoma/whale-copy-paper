@@ -87336,8 +87336,8 @@
     "title": "Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "BIG",
     "side": "BUY",
-    "whale_usd": 1409.4388,
-    "whale_pct": 21.759,
+    "whale_usd": 2150.1731499999996,
+    "whale_pct": 33.195,
     "whale_value_at_open": 6477.4969,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 90,
@@ -87348,8 +87348,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788358543.6176372,
-    "fills": 2
+    "last_fill_at": 1788358714.5027037,
+    "fills": 3
   },
   {
     "timestamp": 1788357281,
@@ -87397,6 +87397,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788358561.8263154,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788358798,
+    "timestamp_added": 1788358798.49119,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-big5-nemi1-2026-09-02-game2",
+    "title": "Counter-Strike: BIG vs Nemiga - Map 2 Winner",
+    "outcome": "Nemiga",
+    "side": "BUY",
+    "whale_usd": 1630.73524,
+    "whale_pct": 18.425,
+    "whale_value_at_open": 8850.7657,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788358807.250531,
     "fills": 2
   }
 ]
