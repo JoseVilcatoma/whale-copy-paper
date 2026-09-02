@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 17:26:05 (hora de Perú)
+Actualizado: 2026-09-02 17:28:07 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $464.52
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 17:26:05 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $155.00 en 31 posiciones abiertas (disponible para nuevas apuestas: $309.52)
+**Capital comprometido ahora mismo:** $160.00 en 32 posiciones abiertas (disponible para nuevas apuestas: $304.52)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -99,7 +99,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | Talvez10 | 1 | 2 | 0 | -5.85 USD |
-| kekasaur | 7 | 8 | 0 | -6.25 USD |
+| kekasaur | 7 | 8 | 1 | -6.25 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
@@ -709,6 +709,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| kekasaur | Will Boca Juniors win on 2026-09-02? | Yes (BUY) | 53% | 5.00 | 25.4% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: DEPO vs Lynn Vision (BO3 | Lynn Vision (BUY) | 86% | 5.00 | 1.5% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs Nemiga ( | Nemiga (BUY) | 56% | 5.00 | 4.1% | ⏳ pendiente | — |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 43% | 5.00 | 2.1% | ⏳ pendiente | — |
@@ -738,4 +739,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 277.2% | ✅ ganada | +4.68 |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: | Over (BUY) | 49% | 5.00 | 204.5% | ❌ perdida | -5.13 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 59% | 5.00 | 65.4% | ✅ ganada | +3.37 |
-| pleaseplease123 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 4.4% | ⏳ pendiente | — |
