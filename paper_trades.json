@@ -88058,5 +88058,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788372437.5309658,
     "fills": 3
+  },
+  {
+    "timestamp": 1788374674,
+    "timestamp_added": 1788374674.8969288,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-bal-col-2026-09-02-total-10pt5",
+    "title": "Baltimore Orioles vs. Colorado Rockies: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 1006.3419,
+    "whale_pct": 0.381,
+    "whale_value_at_open": 264467.5283,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788374674.8969405,
+    "fills": 1
   }
 ]
