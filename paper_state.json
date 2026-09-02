@@ -1,5 +1,5 @@
 {
-  "bankroll": 473.4664850153933,
+  "bankroll": 482.6165875373475,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17705,6 +17705,26 @@
       "timestamp": 1788389089.3406203,
       "bankroll": 473.47,
       "event": "won: NiNo999 \u2014 US Open ATP: Fabian Marozsan vs Michael Zheng"
+    },
+    {
+      "timestamp": 1788390040.7843328,
+      "bankroll": 476.57,
+      "event": "won: AV23IUa \u2014 US Open ATP: Marcos Giron vs Ignacio Buse"
+    },
+    {
+      "timestamp": 1788390043.321232,
+      "bankroll": 483.61,
+      "event": "won: HongYunX \u2014 Burnley FC vs. Middlesbrough FC: O/U 2.5"
+    },
+    {
+      "timestamp": 1788390043.847365,
+      "bankroll": 487.76,
+      "event": "won: pleaseplease123 \u2014 Baltimore Orioles vs. Colorado Rockies: O/U 11.5"
+    },
+    {
+      "timestamp": 1788390044.199193,
+      "bankroll": 482.62,
+      "event": "lost: pleaseplease123 \u2014 Baltimore Orioles vs. Colorado Rockies: O/U 10.5"
     }
   ]
 }
