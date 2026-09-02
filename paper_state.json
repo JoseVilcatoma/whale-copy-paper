@@ -1,5 +1,5 @@
 {
-  "bankroll": 464.5238577752499,
+  "bankroll": 470.496968886361,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17695,6 +17695,11 @@
       "timestamp": 1788387513.5107372,
       "bankroll": 464.52,
       "event": "lost: monkeymashingkeyboard \u2014 Seattle Mariners vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788388456.984795,
+      "bankroll": 470.5,
+      "event": "won: GoalLineGhost \u2014 FC Luzern vs. FC Vaduz: O/U 3.5"
     }
   ]
 }
