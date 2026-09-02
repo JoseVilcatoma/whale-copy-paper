@@ -86244,5 +86244,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788312025.9121585,
     "fills": 1
+  },
+  {
+    "timestamp": 1788312140,
+    "timestamp_added": 1788312141.1976411,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "ecu1-ldu-mur-2026-09-01-ldu",
+    "title": "Will LDU Quito win on 2026-09-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 519.2143900000001,
+    "whale_pct": 1.597,
+    "whale_value_at_open": 32510.6656,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788312141.1976511,
+    "fills": 1
   }
 ]
