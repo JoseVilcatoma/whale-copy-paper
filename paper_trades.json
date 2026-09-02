@@ -88230,5 +88230,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788382865.4106655,
     "fills": 1
+  },
+  {
+    "timestamp": 1788385577,
+    "timestamp_added": 1788385577.868947,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-dep-lvg-2026-09-03",
+    "title": "Counter-Strike: DEPO vs Lynn Vision (BO3) - IEM Beijing: Asian Qualifier Playoffs",
+    "outcome": "Lynn Vision",
+    "side": "BUY",
+    "whale_usd": 707.28,
+    "whale_pct": 1.485,
+    "whale_value_at_open": 47643.626,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 86,
+    "fee_usd": 0.035,
+    "odds_ballena": 84,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788385577.8689587,
+    "fills": 1
   }
 ]
