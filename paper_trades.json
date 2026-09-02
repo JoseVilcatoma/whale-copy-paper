@@ -87694,5 +87694,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788364799.8195248,
     "fills": 4
+  },
+  {
+    "timestamp": 1788365165,
+    "timestamp_added": 1788365166.284855,
+    "username": "HongYunX",
+    "wallet": "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21",
+    "slug": "elc-bur-mid-2026-09-02-total-2pt5",
+    "title": "Burnley FC vs. Middlesbrough FC: O/U 2.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 719.22,
+    "whale_pct": 12.232,
+    "whale_value_at_open": 5880.025,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 41,
+    "fee_usd": 0.148,
+    "odds_ballena": 40,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788365166.2848706,
+    "fills": 1
   }
 ]
