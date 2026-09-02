@@ -86268,5 +86268,33 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788312141.1976511,
     "fills": 1
+  },
+  {
+    "timestamp": 1788326358,
+    "timestamp_added": 1788326359.0449133,
+    "username": "00XyXyzzyxzzqyej233j2j32h4h35",
+    "wallet": "0x1f7105a18d9f36aef7c83e5df210e57cf487b2e4",
+    "slug": "atp-zverev-sonego-2026-08-30",
+    "title": "US Open ATP: Alexander Zverev vs Lorenzo Sonego",
+    "outcome": "Alexander Zverev",
+    "side": "BUY",
+    "whale_usd": 2499.9939999999997,
+    "whale_pct": 54.054,
+    "whale_value_at_open": 4625.0025,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "cerrada_venta",
+    "profit_usd": -1.0,
+    "overlaps_with": [
+      "Flaznorp"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788326359.0449257,
+    "fills": 1,
+    "fee_total_usd": 0.158,
+    "closed_price": 59
   }
 ]

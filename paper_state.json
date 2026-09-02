@@ -1,5 +1,5 @@
 {
-  "bankroll": 398.0925337684028,
+  "bankroll": 397.0892872895296,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17310,6 +17310,11 @@
       "timestamp": 1788317329.9700086,
       "bankroll": 398.09,
       "event": "lost: 0x4f2 \u2014 Detroit Tigers vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1788326399.3510501,
+      "bankroll": 397.09,
+      "event": "venta anticipada: 00XyXyzzyxzzqyej233j2j32h4h35 \u2014 US Open ATP: Alexander Zverev vs Lorenzo Sonego (-1.00 USD)"
     }
   ]
 }
