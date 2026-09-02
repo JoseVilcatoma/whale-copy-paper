@@ -88132,5 +88132,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788380154.0293834,
     "fills": 1
+  },
+  {
+    "timestamp": 1788380375,
+    "timestamp_added": 1788380375.9891613,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-mil-chc-2026-09-02",
+    "title": "Milwaukee Brewers vs. Chicago Cubs",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 17273.7141,
+    "whale_pct": 6.166,
+    "whale_value_at_open": 280130.144,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 42,
+    "fee_usd": 0.145,
+    "odds_ballena": 41,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "monkeymashingkeyboard"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788380375.989172,
+    "fills": 1
   }
 ]
