@@ -87343,8 +87343,8 @@
     "odds_at_bet": 90,
     "fee_usd": 0.025,
     "odds_ballena": 88,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.03,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -87463,8 +87463,8 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 7.05,
     "overlaps_with": [
       "0x99a093771ad58bcfc3023cd75566415f"
     ],
@@ -87613,8 +87613,8 @@
     "odds_at_bet": 51,
     "fee_usd": 0.122,
     "odds_ballena": 50,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 4.68,
     "overlaps_with": [
       "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140"
     ],
@@ -87813,6 +87813,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788366959.4092891,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788367064,
+    "timestamp_added": 1788367064.9570181,
+    "username": "Sunny24",
+    "wallet": "0x208927449ac85131e4f34d0c499bfae71a24712e",
+    "slug": "mlb-sd-cin-2026-09-02",
+    "title": "San Diego Padres vs. Cincinnati Reds",
+    "outcome": "San Diego Padres",
+    "side": "BUY",
+    "whale_usd": 51980.999999,
+    "whale_pct": 946.457,
+    "whale_value_at_open": 5492.1669,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 62,
+    "fee_usd": 0.095,
+    "odds_ballena": 61,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788367064.9570282,
     "fills": 1
   }
 ]

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 11:36:13 (hora de Perú)
+Actualizado: 2026-09-02 11:38:16 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $439.04
-**Retorno acumulado:** -12.19%
+**Bankroll actual:** $445.75
+**Retorno acumulado:** -10.85%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 11:36:13 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $250.00 en 50 posiciones abiertas (disponible para nuevas apuestas: $189.04)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $205.75)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,10 +28,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 10 | 5 | 1 | +19.62 USD |
 | Flaznorp | 18 | 2 | 3 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 9 | 5 | 2 | +12.57 USD |
 | monkeymashingkeyboard | 7 | 4 | 4 | +11.87 USD |
 | ChonkyChocolateCake | 44 | 29 | 4 | +11.62 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -40,7 +40,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HVAB | 21 | 12 | 0 | +9.05 USD |
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 8 | 4 | 8 | +8.54 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 9 | 5 | 6 | +8.19 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | HongYunX | 3 | 1 | 1 | +6.58 USD |
@@ -88,7 +88,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| Sunny24 | 2 | 2 | 0 | -3.57 USD |
+| Sunny24 | 2 | 2 | 1 | -3.57 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | 0x4f2 | 7 | 5 | 0 | -4.38 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
@@ -122,14 +122,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3338
-- **Aciertos:** 2134 (63.9%)
+- **Apuestas resueltas:** 3341
+- **Aciertos:** 2136 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,665.24
-- **ROI sobre lo apostado:** -0.97%
-- **Comisiones pagadas (taker fee):** $304.63 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.86% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,680.24
+- **ROI sobre lo apostado:** -0.93%
+- **Comisiones pagadas (taker fee):** $304.93 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.90% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -137,9 +137,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1670 | 49.9% | 50.1% | -0.2 pp |
+| 40-59% | 1672 | 49.9% | 50.1% | -0.2 pp |
 | 60-79% | 994 | 70.0% | 67.8% | +2.2 pp |
-| 80-94% | 466 | 86.7% | 86.7% | -0.0 pp |
+| 80-94% | 467 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -705,6 +705,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 62% | 5.00 | 946.5% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 1 Wi | MIBR (BUY) | 70% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Heroic (BUY) | 75% | 5.00 | 3.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | UCAM Esports Club (BUY) | 64% | 5.00 | 67.1% | ⏳ pendiente | — |
@@ -713,18 +714,18 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | DoNotTailMe | LoL: Bushido Wildcats vs SU Esports - Ga | SU Esports (BUY) | 67% | 5.00 | 185.3% | ⏳ pendiente | — |
 | DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | ⁠Movistar KOI Fénix (BUY) | 62% | 5.00 | 68.4% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 41% | 5.00 | 43.8% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 277.2% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 51% | 5.00 | 277.2% | ✅ ganada | +4.68 |
 | pleaseplease123 | Atlanta Braves vs. Washington Nationals: | Over (BUY) | 49% | 5.00 | 204.5% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 59% | 5.00 | 65.4% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 41% | 5.00 | 3.0% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | Color (BUY) | 43% | 5.00 | 62.9% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 60% | 5.00 | 44.9% | ⏳ pendiente | — |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 41% | 5.00 | 2.4% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 41% | 5.00 | 2.4% | ✅ ganada | +7.05 |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs Nuclear TigeRES | Nuclear TigeRES (BUY) | 44% | 5.00 | 8.8% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | Nemiga (BUY) | 65% | 5.00 | 24.8% | ✅ ganada | +2.61 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 66% | 5.00 | 15.9% | ✅ ganada | +2.49 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 52.4% | ❌ perdida | -5.05 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 82.2% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga (BO3) - IE | BIG (BUY) | 90% | 5.00 | 82.2% | ❌ perdida | -5.03 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 64% | 5.00 | 109.0% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | EYEBALLERS (BUY) | 52% | 5.00 | 33.8% | ✅ ganada | +4.50 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 57% | 5.00 | 5.4% | ❌ perdida | -5.11 |
@@ -734,4 +735,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | monkeymashingkeyboard | Athletics vs. Texas Rangers: O/U 7.5 | Over (BUY) | 54% | 5.00 | 19.7% | ⏳ pendiente | — |
 | Gourmet1 | US Open ATP: Jaume Munar vs Arthur Rinde | Arthur Rinderknech (BUY) | 62% | 5.00 | 26.8% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: Galions vs TLN Pirates (BO5) - LFL  | Galions (BUY) | 90% | 5.00 | 1.3% | ⏳ pendiente | — |
-| 0b1 | US Open ATP: Jiri Lehecka vs Toby Samuel | Jiri Lehecka (BUY) | 74% | 5.00 | 165.5% | ⏳ pendiente | — |

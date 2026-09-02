@@ -1,5 +1,5 @@
 {
-  "bankroll": 439.0414003577283,
+  "bankroll": 445.7454438775753,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17510,6 +17510,21 @@
       "timestamp": 1788364918.4057288,
       "bankroll": 439.04,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: DENDELE CS vs EYEBALLERS - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788367074.6653483,
+      "bankroll": 434.02,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788367074.8656955,
+      "bankroll": 441.06,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788367075.648752,
+      "bankroll": 445.75,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: BIG vs Nemiga (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }
