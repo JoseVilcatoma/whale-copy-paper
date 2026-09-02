@@ -88158,5 +88158,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788380375.989172,
     "fills": 1
+  },
+  {
+    "timestamp": 1788382256,
+    "timestamp_added": 1788382256.9760907,
+    "username": "pleaseplease123",
+    "wallet": "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1",
+    "slug": "mlb-sf-pit-2026-09-02-total-8pt5",
+    "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
+    "outcome": "Over",
+    "side": "BUY",
+    "whale_usd": 29252.961000000003,
+    "whale_pct": 7.912,
+    "whale_value_at_open": 369714.8734,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788382256.9761028,
+    "fills": 1
   }
 ]
