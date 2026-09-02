@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.6488577752499,
+  "bankroll": 464.5238577752499,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17690,6 +17690,11 @@
       "timestamp": 1788384655.4942548,
       "bankroll": 469.65,
       "event": "lost: pleaseplease123 \u2014 Atlanta Braves vs. Washington Nationals: O/U 9.5"
+    },
+    {
+      "timestamp": 1788387513.5107372,
+      "bankroll": 464.52,
+      "event": "lost: monkeymashingkeyboard \u2014 Seattle Mariners vs. Boston Red Sox: O/U 8.5"
     }
   ]
 }
