@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 07:27:30 (hora de Perú)
+Actualizado: 2026-09-02 07:29:34 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $416.08
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 07:27:30 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $246.08)
+**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $241.08)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -49,7 +49,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 2 | +4.02 USD |
+| 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 3 | +4.02 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | BBQChickenisthebesttt | 3 | 1 | 0 | +3.49 USD |
 | HongYunX | 2 | 1 | 1 | +3.48 USD |
@@ -700,8 +700,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 45% | 5.00 | 9.3% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 1 Wi | BIG (BUY) | 63% | 5.00 | 9.1% | ⏳ pendiente | — |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 64.4% | ⏳ pendiente | — |
+| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs Eternal Fire (BO | MIBR (BUY) | 64% | 5.00 | 71.0% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Seattle Mariners vs. Boston Red Sox: O/U | Under (BUY) | 50% | 5.00 | 556.3% | ⏳ pendiente | — |
 | TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA (BO5) - LCK  | Dplus KIA (BUY) | 75% | 5.00 | 0.8% | ⏳ pendiente | — |
 | AV23IUa | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -729,4 +730,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | HongYunX | Will Vissel Kōbe win on 2026-09-02? | No (BUY) | 53% | 5.00 | 129.6% | ❌ perdida | -5.12 |
 | HongYunX | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 44% | 5.00 | 30.2% | ✅ ganada | +6.22 |
 | BrotherObama | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 67.4% | ❌ perdida | -5.15 |
-| BrotherObama | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 42% | 5.00 | 67.4% | ⏳ pendiente | — |
