@@ -1,5 +1,5 @@
 {
-  "bankroll": 463.3676428788244,
+  "bankroll": 469.5912792424608,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17590,6 +17590,11 @@
       "timestamp": 1788375464.2563326,
       "bankroll": 463.37,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: K27 vs GamerLegion (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788375772.5474367,
+      "bankroll": 469.59,
+      "event": "won: 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 \u2014 Counter-Strike: magic vs Nuclear TigeRES (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }

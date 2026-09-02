@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 14:00:50 (hora de Perú)
+Actualizado: 2026-09-02 14:03:01 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $463.37
-**Retorno acumulado:** -7.33%
+**Bankroll actual:** $469.59
+**Retorno acumulado:** -6.08%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 14:00:50 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $225.00 en 45 posiciones abiertas (disponible para nuevas apuestas: $238.37)
+**Capital comprometido ahora mismo:** $220.00 en 44 posiciones abiertas (disponible para nuevas apuestas: $249.59)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -28,7 +28,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 10 | 5 | 1 | +19.62 USD |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
 | Flaznorp | 18 | 2 | 3 | +17.20 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | TAIWANNUMBERONE | 30 | 19 | 2 | +12.86 USD |
@@ -122,14 +122,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3354
-- **Aciertos:** 2145 (64.0%)
+- **Apuestas resueltas:** 3355
+- **Aciertos:** 2146 (64.0%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,745.24
-- **ROI sobre lo apostado:** -0.82%
-- **Comisiones pagadas (taker fee):** $306.34 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.01% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,750.24
+- **ROI sobre lo apostado:** -0.78%
+- **Comisiones pagadas (taker fee):** $306.48 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.05% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -137,7 +137,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1679 | 50.1% | 50.1% | -0.0 pp |
+| 40-59% | 1680 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1000 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 467 | 86.5% | 86.7% | -0.2 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -732,7 +732,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Color vs B8 (BO3) - IEM  | Color (BUY) | 43% | 5.00 | 62.9% | ❌ perdida | -5.14 |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 60% | 5.00 | 44.9% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: BIG vs Nemiga (BO3) - IE | Nemiga (BUY) | 41% | 5.00 | 2.4% | ✅ ganada | +7.05 |
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs Nuclear TigeRES | Nuclear TigeRES (BUY) | 44% | 5.00 | 8.8% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs Nuclear TigeRES | Nuclear TigeRES (BUY) | 44% | 5.00 | 8.8% | ✅ ganada | +6.22 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | Nemiga (BUY) | 65% | 5.00 | 24.8% | ✅ ganada | +2.61 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: DENDELE CS vs EYEBALLERS | DENDELE CS (BUY) | 66% | 5.00 | 15.9% | ✅ ganada | +2.49 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: BIG vs Nemiga - Map 2 Wi | BIG (BUY) | 79% | 5.00 | 52.4% | ❌ perdida | -5.05 |
