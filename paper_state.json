@@ -1,5 +1,5 @@
 {
-  "bankroll": 379.36074412099424,
+  "bankroll": 385.33385523210535,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17275,6 +17275,11 @@
       "timestamp": 1788312903.6008477,
       "bankroll": 379.36,
       "event": "lost: beachboy4 \u2014 US Open ATP: Dane Sweeny vs Corentin Moutet"
+    },
+    {
+      "timestamp": 1788313847.782174,
+      "bankroll": 385.33,
+      "event": "won: monkeymashingkeyboard \u2014 San Diego Padres vs. Cincinnati Reds"
     }
   ]
 }
