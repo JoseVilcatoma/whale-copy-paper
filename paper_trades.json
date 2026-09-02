@@ -86148,5 +86148,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788307605.0183287,
     "fills": 1
+  },
+  {
+    "timestamp": 1788308162,
+    "timestamp_added": 1788308163.0183263,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "brco-cam-cru-2026-09-01-cru",
+    "title": "Will Cruzeiro EC win on 2026-09-01?",
+    "outcome": "No",
+    "side": "BUY",
+    "whale_usd": 630.56,
+    "whale_pct": 3.19,
+    "whale_value_at_open": 19765.3996,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 71,
+    "fee_usd": 0.073,
+    "odds_ballena": 70,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788308163.0183415,
+    "fills": 1
   }
 ]
