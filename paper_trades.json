@@ -87790,5 +87790,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788366690.3234615,
     "fills": 1
+  },
+  {
+    "timestamp": 1788366958,
+    "timestamp_added": 1788366959.409265,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-mibr-3dmax-2026-09-02-game1",
+    "title": "Counter-Strike: MIBR vs 3DMAX - Map 1 Winner",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 766.799998,
+    "whale_pct": 3.64,
+    "whale_value_at_open": 21067.0096,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 70,
+    "fee_usd": 0.075,
+    "odds_ballena": 69,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788366959.4092891,
+    "fills": 1
   }
 ]
