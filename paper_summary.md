@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 20:33:08 (hora de Perú)
+Actualizado: 2026-09-01 20:35:11 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $384.44
-**Retorno acumulado:** -23.11%
+**Bankroll actual:** $379.36
+**Retorno acumulado:** -24.13%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 20:33:08 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $175.00 en 35 posiciones abiertas (disponible para nuevas apuestas: $209.44)
+**Capital comprometido ahora mismo:** $170.00 en 34 posiciones abiertas (disponible para nuevas apuestas: $209.36)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -39,7 +39,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Sunshine.Smile | 8 | 4 | 0 | +8.99 USD |
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| beachboy4 | 7 | 1 | 1 | +7.03 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -61,6 +60,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x0x23kjookhaiuohduoayh8c9 | 4 | 2 | 1 | +2.25 USD |
 | 0x547f2917D51F2e63ab382DCF641d4E0240162937-1782667852436 | 5 | 3 | 0 | +2.04 USD |
 | sulumos | 1 | 0 | 0 | +1.96 USD |
+| beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -118,14 +118,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3292
+- **Apuestas resueltas:** 3293
 - **Aciertos:** 2101 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,435.24
-- **ROI sobre lo apostado:** -1.32%
-- **Comisiones pagadas (taker fee):** $299.93 (1.82% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.50% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,440.24
+- **ROI sobre lo apostado:** -1.35%
+- **Comisiones pagadas (taker fee):** $300.01 (1.82% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.47% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -134,7 +134,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1645 | 49.7% | 50.1% | -0.5 pp |
-| 60-79% | 977 | 69.9% | 67.9% | +2.1 pp |
+| 60-79% | 978 | 69.8% | 67.9% | +2.0 pp |
 | 80-94% | 462 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
@@ -719,7 +719,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Mattia Bellucci vs Zsombor  | Mattia Bellucci (BUY) | 99% | 5.00 | 149.3% | ✅ ganada | +0.05 |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue (B | Karmine Corp Blue (BUY) | 56% | 5.00 | 39.7% | ❌ perdida | -5.11 |
 | AV23IUa | US Open WTA: Oleksandra Oliynykova vs Re | Oleksandra Oliynykova (BUY) | 52% | 5.00 | 0.7% | ✅ ganada | +4.50 |
-| beachboy4 | US Open ATP: Dane Sweeny vs Corentin Mou | Corentin Moutet (BUY) | 69% | 5.00 | 3535.0% | ⏳ pendiente | — |
+| beachboy4 | US Open ATP: Dane Sweeny vs Corentin Mou | Corentin Moutet (BUY) | 69% | 5.00 | 3535.0% | ❌ perdida | -5.08 |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | TLN Pirates (BUY) | 62% | 5.00 | 13.8% | ✅ ganada | +2.97 |
 | DoNotTailMe | LoL: TLN Pirates vs Karmine Corp Blue -  | Karmine Corp Blue (BUY) | 56% | 5.00 | 7.9% | ❌ perdida | -5.11 |
 | DoNotTailMe | LoL: Unicorns Of Love Sexy Edition vs Ka | Kaufland Hangry Knights (BUY) | 45% | 5.00 | 15.0% | ✅ ganada | +5.97 |

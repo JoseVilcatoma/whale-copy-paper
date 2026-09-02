@@ -1,5 +1,5 @@
 {
-  "bankroll": 384.4387441209942,
+  "bankroll": 379.36074412099424,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17270,6 +17270,11 @@
       "timestamp": 1788312594.216381,
       "bankroll": 384.44,
       "event": "lost: 0x4f2 \u2014 Spread: Cleveland Guardians (-1.5)"
+    },
+    {
+      "timestamp": 1788312903.6008477,
+      "bankroll": 379.36,
+      "event": "lost: beachboy4 \u2014 US Open ATP: Dane Sweeny vs Corentin Moutet"
     }
   ]
 }
