@@ -86428,8 +86428,8 @@
     "title": "Counter-Strike: magic vs K27 (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "K27",
     "side": "BUY",
-    "whale_usd": 24000.0,
-    "whale_pct": 20.022,
+    "whale_usd": 41127.9304,
+    "whale_pct": 34.311,
     "whale_value_at_open": 119869.6361,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -86442,8 +86442,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788339327.4251184,
-    "fills": 2
+    "last_fill_at": 1788339554.8651211,
+    "fills": 3
   },
   {
     "timestamp": 1788338613,
