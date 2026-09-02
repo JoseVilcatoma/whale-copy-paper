@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 21:41:28 (hora de Perú)
+Actualizado: 2026-09-01 21:43:38 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $397.91
-**Retorno acumulado:** -20.42%
+**Bankroll actual:** $398.32
+**Retorno acumulado:** -20.34%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 21:41:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $247.91)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $253.32)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| 0x4f2 | 6 | 3 | 3 | +5.43 USD |
+| 0x4f2 | 7 | 3 | 2 | +5.84 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
@@ -118,13 +118,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3297
-- **Aciertos:** 2105 (63.8%)
+- **Apuestas resueltas:** 3298
+- **Aciertos:** 2106 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,460.24
-- **ROI sobre lo apostado:** -1.24%
-- **Comisiones pagadas (taker fee):** $300.49 (1.83% del capital apostado)
+- **Total apostado (suma de stakes):** $16,465.24
+- **ROI sobre lo apostado:** -1.23%
+- **Comisiones pagadas (taker fee):** $300.51 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.59% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1648 | 49.8% | 50.1% | -0.4 pp |
 | 60-79% | 979 | 69.9% | 67.9% | +2.0 pp |
-| 80-94% | 462 | 86.6% | 86.7% | -0.1 pp |
+| 80-94% | 463 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -705,7 +705,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | Spread: Tampa Bay Rays (-2.5) | Tampa Bay Rays (BUY) | 66% | 5.00 | 1.3% | ✅ ganada | +2.49 |
 | GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ⏳ pendiente | — |
 | 0x4f2 | Atlanta Braves vs. Washington Nationals | Washington Nationals (BUY) | 80% | 5.00 | 3.2% | 💰 vendida anticipada | -1.19 |
-| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 40.2% | ⏳ pendiente | — |
+| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 40.2% | ✅ ganada | +0.41 |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ⏳ pendiente | — |
 | 0x4f2 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 68% | 5.00 | 2.4% | ❌ perdida | -5.08 |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 97.3% | 💰 vendida anticipada | +0.94 |
