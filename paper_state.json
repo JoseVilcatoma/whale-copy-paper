@@ -1,5 +1,5 @@
 {
-  "bankroll": 395.9686356093879,
+  "bankroll": 391.16771455675627,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17215,6 +17215,16 @@
       "timestamp": 1788307089.5861635,
       "bankroll": 395.97,
       "event": "venta anticipada: 0x4f2 \u2014 Miami Marlins vs. Kansas City Royals (+0.94 USD)"
+    },
+    {
+      "timestamp": 1788307608.6591668,
+      "bankroll": 390.85,
+      "event": "lost: 0x0x23kjookhaiuohduoayh8c9 \u2014 San Francisco Giants vs. Pittsburgh Pirates: O/U 7.5"
+    },
+    {
+      "timestamp": 1788307654.3854513,
+      "bankroll": 391.17,
+      "event": "venta anticipada: 0x4f2 \u2014 New York Mets vs. Tampa Bay Rays: O/U 7.5 (+0.32 USD)"
     }
   ]
 }
