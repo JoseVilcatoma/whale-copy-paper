@@ -1,5 +1,5 @@
 {
-  "bankroll": 468.6457260605499,
+  "bankroll": 465.7521028721441,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17655,6 +17655,16 @@
       "timestamp": 1788378895.7031524,
       "bankroll": 468.65,
       "event": "lost: 0x4f2 \u2014 San Diego Padres vs. Cincinnati Reds"
+    },
+    {
+      "timestamp": 1788379217.5602822,
+      "bankroll": 463.58,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Eternal Fire vs Heroic (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788379217.8607996,
+      "bankroll": 465.75,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Eternal Fire vs Heroic (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }
