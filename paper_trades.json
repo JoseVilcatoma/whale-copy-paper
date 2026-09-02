@@ -86261,8 +86261,8 @@
     "odds_at_bet": 60,
     "fee_usd": 0.1,
     "odds_ballena": 59,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.23,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -86505,8 +86505,8 @@
     "title": "LoL: Hanwha Life Esports vs T1 - Game 2 Winner",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 77908.30611,
-    "whale_pct": 33.758,
+    "whale_usd": 126386.41951900002,
+    "whale_pct": 54.764,
     "whale_value_at_open": 230783.1247,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 41,
@@ -86517,7 +86517,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788339928.2556999,
-    "fills": 10
+    "last_fill_at": 1788339993.3241827,
+    "fills": 22
   }
 ]

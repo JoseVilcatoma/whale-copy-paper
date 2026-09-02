@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 04:05:37 (hora de Perú)
+Actualizado: 2026-09-02 04:07:41 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $399.56
-**Retorno acumulado:** -20.09%
+**Bankroll actual:** $402.79
+**Retorno acumulado:** -19.44%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 04:05:37 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $249.56)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $257.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -73,6 +73,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | HongYunX | 0 | 0 | 4 | +0.00 USD |
 | TheMafiaa | 0 | 0 | 1 | +0.00 USD |
+| GoalLineGhost | 28 | 10 | 3 | -0.06 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
@@ -83,7 +84,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
-| GoalLineGhost | 27 | 10 | 4 | -3.29 USD |
 | Sunny24 | 2 | 2 | 0 | -3.57 USD |
 | BrotherObama | 1 | 1 | 2 | -3.97 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
@@ -119,14 +119,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3306
-- **Aciertos:** 2111 (63.9%)
+- **Apuestas resueltas:** 3307
+- **Aciertos:** 2112 (63.9%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,505.24
-- **ROI sobre lo apostado:** -1.22%
-- **Comisiones pagadas (taker fee):** $301.31 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.61% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,510.24
+- **ROI sobre lo apostado:** -1.20%
+- **Comisiones pagadas (taker fee):** $301.41 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.63% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -135,7 +135,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
 | 40-59% | 1654 | 49.8% | 50.1% | -0.4 pp |
-| 60-79% | 980 | 69.9% | 67.9% | +2.0 pp |
+| 60-79% | 981 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 464 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
@@ -697,7 +697,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 41% | 5.00 | 33.8% | ⏳ pendiente | — |
+| 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 2  | T1 (BUY) | 41% | 5.00 | 54.8% | ⏳ pendiente | — |
 | TheMafiaa | Counter-Strike: Color vs B8 (BO3) - IEM  | B8 (BUY) | 66% | 5.00 | 43.2% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 43% | 5.00 | 3.6% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 34.3% | ⏳ pendiente | — |
@@ -707,7 +707,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BrotherObama | Counter-Strike: magic vs K27 (BO3) - IEM | K27 (BUY) | 41% | 5.00 | 67.4% | ⏳ pendiente | — |
 | BrotherObama | Counter-Strike: MIBR vs Eternal Fire (BO | Eternal Fire (BUY) | 42% | 5.00 | 67.4% | ⏳ pendiente | — |
 | 00XyXyzzyxzzqyej233j2j32h4h35 | US Open ATP: Alexander Zverev vs Lorenzo | Alexander Zverev (BUY) | 71% | 5.00 | 54.1% | 💰 vendida anticipada | -1.00 |
-| GoalLineGhost | Will LDU Quito win on 2026-09-01? | No (BUY) | 60% | 5.00 | 1.6% | ⏳ pendiente | — |
+| GoalLineGhost | Will LDU Quito win on 2026-09-01? | No (BUY) | 60% | 5.00 | 1.6% | ✅ ganada | +3.23 |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 48% | 5.00 | 47.2% | ✅ ganada | +5.29 |
 | GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 13.7% | ⏳ pendiente | — |
 | UpTheBlues | Spread: CA Mineiro (-1.5) | Cruzeiro EC (BUY) | 86% | 5.00 | 1.1% | ⏳ pendiente | — |
