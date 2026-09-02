@@ -1,5 +1,5 @@
 {
-  "bankroll": 435.40253556102635,
+  "bankroll": 433.12504349753425,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17470,6 +17470,16 @@
       "timestamp": 1788356425.0047615,
       "bankroll": 435.4,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788358301.1752422,
+      "bankroll": 438.25,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: BIG vs Nemiga - Map 1 Winner"
+    },
+    {
+      "timestamp": 1788358301.2754533,
+      "bankroll": 433.13,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: BIG vs Nemiga - Map 1 Winner"
     }
   ]
 }
