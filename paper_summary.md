@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 05:56:14 (hora de Perú)
+Actualizado: 2026-09-02 05:58:19 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $405.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 05:56:14 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $180.00 en 36 posiciones abiertas (disponible para nuevas apuestas: $225.19)
+**Capital comprometido ahora mismo:** $195.00 en 39 posiciones abiertas (disponible para nuevas apuestas: $210.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -102,7 +102,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
-| AV23IUa | 17 | 13 | 6 | -9.45 USD |
+| AV23IUa | 17 | 13 | 9 | -9.45 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
@@ -700,6 +700,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| AV23IUa | US Open ATP: Valentin Vacherot vs Kamil  | Valentin Vacherot (BUY) | 57% | 5.00 | 1.1% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Ts | Stefanos Tsitsipas (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Denis Shapovalov vs Luca Va | Denis Shapovalov (BUY) | 59% | 5.00 | 17.5% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurka | Ben Shelton (BUY) | 71% | 5.00 | 31.6% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Daniel Merida Aguilar vs An | Daniel Merida Aguilar (BUY) | 44% | 5.00 | 7.1% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Brandon Nakashima vs Alex M | Brandon Nakashima (BUY) | 70% | 5.00 | 36.5% | ⏳ pendiente | — |
@@ -727,6 +730,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | Yes (BUY) | 53% | 5.00 | 13.7% | ❌ perdida | -5.12 |
 | UpTheBlues | Spread: CA Mineiro (-1.5) | Cruzeiro EC (BUY) | 86% | 5.00 | 1.1% | ✅ ganada | +0.78 |
 | GoalLineGhost | Will Cruzeiro EC win on 2026-09-01? | No (BUY) | 71% | 5.00 | 6.7% | ✅ ganada | +1.97 |
-| 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 58% | 5.00 | 6.4% | ❌ perdida | -5.11 |
-| 0x4f2 | New York Mets vs. Tampa Bay Rays | Tampa Bay Rays (BUY) | 98% | 5.00 | 2.9% | ✅ ganada | +0.10 |
-| 0x4f2 | New York Mets vs. Tampa Bay Rays: O/U 7. | Over (BUY) | 57% | 5.00 | 8.8% | 💰 vendida anticipada | +0.32 |
