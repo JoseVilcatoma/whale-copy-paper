@@ -1,5 +1,5 @@
 {
-  "bankroll": 386.6742361844863,
+  "bankroll": 384.4387441209942,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17260,6 +17260,16 @@
       "timestamp": 1788312407.278678,
       "bankroll": 386.67,
       "event": "won: 0x4f2 \u2014 Spread: Tampa Bay Rays (-2.5)"
+    },
+    {
+      "timestamp": 1788312592.1409273,
+      "bankroll": 389.52,
+      "event": "won: monkeymashingkeyboard \u2014 Toronto Blue Jays vs. Cleveland Guardians"
+    },
+    {
+      "timestamp": 1788312594.216381,
+      "bankroll": 384.44,
+      "event": "lost: 0x4f2 \u2014 Spread: Cleveland Guardians (-1.5)"
     }
   ]
 }
