@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 05:30:32 (hora de Perú)
+Actualizado: 2026-09-02 05:32:35 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $405.19
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 05:30:32 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $140.00 en 28 posiciones abiertas (disponible para nuevas apuestas: $265.19)
+**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $260.19)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -77,7 +77,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
-| GoalLineGhost | 30 | 11 | 2 | -0.83 USD |
+| GoalLineGhost | 30 | 11 | 3 | -0.83 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
@@ -700,6 +700,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| GoalLineGhost | FC Luzern vs. FC Vaduz: O/U 3.5 | Under (BUY) | 45% | 5.00 | 0.9% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kashima Antlers win on 2026-09-02? | No (BUY) | 88% | 5.00 | 1.5% | ⏳ pendiente | — |
 | GoalLineGhost | Will Yunnan Yukun win on 2026-09-02? | Yes (BUY) | 54% | 5.00 | 1.3% | ⏳ pendiente | — |
 | degenfren | US Open ATP: Dino Prizmic vs Tommy Paul | Tommy Paul (BUY) | 83% | 5.00 | 105.2% | ⏳ pendiente | — |
@@ -729,4 +730,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 40.2% | ✅ ganada | +0.41 |
 | 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ❌ perdida | -5.11 |
 | 0x4f2 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 68% | 5.00 | 2.4% | ❌ perdida | -5.08 |
-| 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 97.3% | 💰 vendida anticipada | +0.94 |

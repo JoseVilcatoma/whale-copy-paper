@@ -86619,5 +86619,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788344912.4832036,
     "fills": 1
+  },
+  {
+    "timestamp": 1788345051,
+    "timestamp_added": 1788345052.0227435,
+    "username": "GoalLineGhost",
+    "wallet": "0x0346afae2603313d2bbee96b628536c8cbe352a5",
+    "slug": "sui-luz-vad-2026-09-02-total-3pt5",
+    "title": "FC Luzern vs. FC Vaduz: O/U 3.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 519.6356,
+    "whale_pct": 0.899,
+    "whale_value_at_open": 57776.6554,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788345052.0227566,
+    "fills": 1
   }
 ]
