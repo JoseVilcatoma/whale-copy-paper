@@ -1,5 +1,5 @@
 {
-  "bankroll": 482.6165875373475,
+  "bankroll": 470.74127719252,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17725,6 +17725,26 @@
       "timestamp": 1788390044.199193,
       "bankroll": 482.62,
       "event": "lost: pleaseplease123 \u2014 Baltimore Orioles vs. Colorado Rockies: O/U 10.5"
+    },
+    {
+      "timestamp": 1788391306.4572315,
+      "bankroll": 477.48,
+      "event": "lost: Flaznorp \u2014 US Open ATP: Jesper de Jong vs Francesco Passaro"
+    },
+    {
+      "timestamp": 1788391306.5574317,
+      "bankroll": 480.99,
+      "event": "won: AV23IUa \u2014 US Open ATP: Jesper de Jong vs Francesco Passaro"
+    },
+    {
+      "timestamp": 1788391306.6576002,
+      "bankroll": 475.85,
+      "event": "lost: NiNo999 \u2014 US Open ATP: Jesper de Jong vs Francesco Passaro"
+    },
+    {
+      "timestamp": 1788391310.3423352,
+      "bankroll": 470.74,
+      "event": "lost: pleaseplease123 \u2014 Seattle Mariners vs. Boston Red Sox"
     }
   ]
 }

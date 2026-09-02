@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 18:19:46 (hora de Perú)
+Actualizado: 2026-09-02 18:21:57 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $482.62
-**Retorno acumulado:** -3.48%
+**Bankroll actual:** $470.74
+**Retorno acumulado:** -5.85%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 18:19:46 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $352.62)
+**Capital comprometido ahora mismo:** $110.00 en 22 posiciones abiertas (disponible para nuevas apuestas: $360.74)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -29,12 +29,12 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
 | IMAREALPERSON | 29 | 10 | 0 | +27.06 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 11 | 5 | 0 | +25.84 USD |
-| Flaznorp | 18 | 2 | 3 | +17.20 USD |
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | HongYunX | 4 | 1 | 0 | +13.63 USD |
 | TAIWANNUMBERONE | 31 | 19 | 1 | +13.39 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
+| Flaznorp | 18 | 3 | 2 | +12.06 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -58,8 +58,8 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
+| AV23IUa | 22 | 14 | 5 | +2.89 USD |
 | quavoo | 30 | 17 | 0 | +2.86 USD |
-| NiNo999 | 8 | 5 | 1 | +2.72 USD |
 | 0xE30E74595517de48f1FB19f4553dd3d9F1E96B87-1772612985000 | 2 | 0 | 0 | +2.69 USD |
 | TeGeeLP | 2 | 3 | 0 | +2.69 USD |
 | SDTrading | 37 | 33 | 0 | +2.47 USD |
@@ -73,7 +73,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| pleaseplease123 | 7 | 6 | 4 | +0.72 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | degenfren | 0 | 0 | 1 | +0.00 USD |
@@ -82,16 +81,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
-| AV23IUa | 21 | 14 | 6 | -0.63 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
+| NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | 0x4f2 | 8 | 6 | 0 | -2.92 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
+| pleaseplease123 | 7 | 7 | 3 | -4.39 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
 | winwin518168 | 0 | 1 | 0 | -5.11 USD |
@@ -123,14 +123,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3381
-- **Aciertos:** 2163 (64.0%)
+- **Apuestas resueltas:** 3385
+- **Aciertos:** 2164 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,880.24
-- **ROI sobre lo apostado:** -0.70%
-- **Comisiones pagadas (taker fee):** $309.07 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.13% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $16,900.24
+- **ROI sobre lo apostado:** -0.77%
+- **Comisiones pagadas (taker fee):** $309.57 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.06% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -138,7 +138,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1691 | 50.1% | 50.1% | +0.1 pp |
+| 40-59% | 1695 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1013 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 469 | 86.4% | 86.7% | -0.4 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -722,7 +722,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | pleaseplease123 | Baltimore Orioles vs. Colorado Rockies:  | Under (BUY) | 54% | 5.00 | 41.2% | ✅ ganada | +4.14 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | 3DMAX (BUY) | 43% | 5.00 | 3.9% | ❌ perdida | -5.14 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 2 Wi | MIBR (BUY) | 66% | 5.00 | 4.2% | ✅ ganada | +2.49 |
-| pleaseplease123 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.0% | ⏳ pendiente | — |
+| pleaseplease123 | Seattle Mariners vs. Boston Red Sox | Boston Red Sox (BUY) | 57% | 5.00 | 2.0% | ❌ perdida | -5.11 |
 | 0x4f2 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 92% | 5.00 | 11.1% | ❌ perdida | -5.02 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | K27 (BUY) | 46% | 5.00 | 5.0% | ✅ ganada | +5.73 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: K27 vs GamerLegion (BO3) | GamerLegion (BUY) | 61% | 5.00 | 14.4% | ❌ perdida | -5.10 |
