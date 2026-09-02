@@ -87142,8 +87142,8 @@
     "title": "US Open ATP: Jaume Munar vs Arthur Rinderknech",
     "outcome": "Arthur Rinderknech",
     "side": "BUY",
-    "whale_usd": 4458.536297000001,
-    "whale_pct": 16.456,
+    "whale_usd": 7252.141097000001,
+    "whale_pct": 26.768,
     "whale_value_at_open": 27093.021,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 62,
@@ -87154,7 +87154,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788353569.1820178,
-    "fills": 2
+    "last_fill_at": 1788353720.4940739,
+    "fills": 3
   }
 ]
