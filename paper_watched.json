@@ -29,12 +29,6 @@
     "roi_pct": 3227.51,
     "short_term_pct": 100.0
   },
-  "0x760f1063f9f07d5125de802b16775a967b7f326a": {
-    "username": "",
-    "added_at": 1788311701.4929974,
-    "roi_pct": 196.3,
-    "short_term_pct": 100.0
-  },
   "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
     "username": "monkeymashingkeyboard",
     "added_at": 1788312640.681965,
@@ -56,7 +50,13 @@
   "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
     "username": "pleaseplease123",
     "added_at": 1788315446.9712095,
-    "roi_pct": 191.14,
+    "roi_pct": 203.1,
+    "short_term_pct": 100.0
+  },
+  "0xdb859a551fcf56e49416160911476bea7307152f": {
+    "username": "AV23IUa",
+    "added_at": 1788317310.1026928,
+    "roi_pct": 323.15,
     "short_term_pct": 100.0
   }
 }

@@ -1,5 +1,5 @@
 {
-  "bankroll": 398.3225337684028,
+  "bankroll": 398.0925337684028,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17300,6 +17300,16 @@
       "timestamp": 1788317012.5051775,
       "bankroll": 398.32,
       "event": "won: 0x4f2 \u2014 San Francisco Giants vs. Pittsburgh Pirates"
+    },
+    {
+      "timestamp": 1788317327.9208868,
+      "bankroll": 403.2,
+      "event": "won: AV23IUa \u2014 Detroit Tigers vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1788317329.9700086,
+      "bankroll": 398.09,
+      "event": "lost: 0x4f2 \u2014 Detroit Tigers vs. Minnesota Twins"
     }
   ]
 }

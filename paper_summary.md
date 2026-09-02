@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-01 21:47:49 (hora de Perú)
+Actualizado: 2026-09-01 21:49:54 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $398.32
-**Retorno acumulado:** -20.34%
+**Bankroll actual:** $398.09
+**Retorno acumulado:** -20.38%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-01 21:47:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $253.32)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $263.09)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -45,7 +45,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
 | hi774c | 2 | 0 | 0 | +6.20 USD |
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
-| 0x4f2 | 7 | 3 | 2 | +5.84 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | 0x99a093771ad58bcfc3023cd75566415f | 2 | 0 | 0 | +4.02 USD |
@@ -67,6 +66,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
+| 0x4f2 | 7 | 4 | 1 | +0.73 USD |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | 6 | 4 | 0 | +0.37 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 0 | 0 | +0.10 USD |
@@ -100,11 +100,11 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | sbsigner | 2 | 3 | 0 | -7.75 USD |
 | ArturitoFilito | 5 | 5 | 0 | -8.55 USD |
 | AGUGava | 1 | 2 | 0 | -9.08 USD |
+| AV23IUa | 17 | 13 | 3 | -9.45 USD |
 | SineNooneEI | 0 | 2 | 0 | -10.26 USD |
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | ExplosiveNinja | 6 | 6 | 1 | -11.35 USD |
-| AV23IUa | 16 | 13 | 4 | -14.33 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -118,13 +118,13 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3298
-- **Aciertos:** 2106 (63.9%)
+- **Apuestas resueltas:** 3300
+- **Aciertos:** 2107 (63.8%)
 - **Cuota promedio de entrada:** 63.5%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,465.24
+- **Total apostado (suma de stakes):** $16,475.24
 - **ROI sobre lo apostado:** -1.23%
-- **Comisiones pagadas (taker fee):** $300.51 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $300.74 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +0.59% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -133,7 +133,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1648 | 49.8% | 50.1% | -0.4 pp |
+| 40-59% | 1650 | 49.8% | 50.1% | -0.4 pp |
 | 60-79% | 979 | 69.9% | 67.9% | +2.0 pp |
 | 80-94% | 463 | 86.6% | 86.7% | -0.1 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
@@ -706,7 +706,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | GoalLineGhost | CA Mineiro vs. Cruzeiro EC: O/U 1.5 | Over (BUY) | 67% | 5.00 | 5.0% | ⏳ pendiente | — |
 | 0x4f2 | Atlanta Braves vs. Washington Nationals | Washington Nationals (BUY) | 80% | 5.00 | 3.2% | 💰 vendida anticipada | -1.19 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | Pittsburgh Pirates (BUY) | 92% | 5.00 | 40.2% | ✅ ganada | +0.41 |
-| 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ⏳ pendiente | — |
+| 0x4f2 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 58% | 5.00 | 5.2% | ❌ perdida | -5.11 |
 | 0x4f2 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 68% | 5.00 | 2.4% | ❌ perdida | -5.08 |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 97.3% | 💰 vendida anticipada | +0.94 |
 | Painfulvoid | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 51% | 5.00 | 10.3% | ✅ ganada | +4.68 |
