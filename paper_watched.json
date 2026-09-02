@@ -2,37 +2,25 @@
   "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e": {
     "username": "0x4f2",
     "added_at": 1788341133.9798405,
-    "roi_pct": 427.04,
+    "roi_pct": 427.36,
     "short_term_pct": 100.0
   },
   "0x208927449ac85131e4f34d0c499bfae71a24712e": {
     "username": "Sunny24",
     "added_at": 1788349559.082313,
-    "roi_pct": 1778.06,
+    "roi_pct": 173.29,
     "short_term_pct": 100.0
   },
   "0xe015b5a2a299167be835a2fd1e86f09c49e06ffd": {
     "username": "TAIWANNUMBERONE",
     "added_at": 1788353263.8439088,
-    "roi_pct": 485.04,
+    "roi_pct": 487.52,
     "short_term_pct": 100.0
   },
   "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c": {
     "username": "0x99a093771ad58bcfc3023cd75566415f",
     "added_at": 1788356960.8760188,
-    "roi_pct": 329.25,
-    "short_term_pct": 100.0
-  },
-  "0xf23c5bc7b547867eb6532920144562718aa49f81": {
-    "username": "DoNotTailMe",
-    "added_at": 1788361602.9617155,
-    "roi_pct": 837.12,
-    "short_term_pct": 100.0
-  },
-  "0xafd492974cd531aae7786210438ae46b42047e61": {
-    "username": "TheMafiaa",
-    "added_at": 1788362602.3015594,
-    "roi_pct": 295.99,
+    "roi_pct": 254.76,
     "short_term_pct": 100.0
   },
   "0xc72d7dcdb23597d143a83536fb97b1d7db7efc21": {
@@ -50,13 +38,25 @@
   "0xd570e634aeb745d6501566dba5f81a555cc7e4f8": {
     "username": "0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140",
     "added_at": 1788366301.4703135,
-    "roi_pct": 277.94,
+    "roi_pct": 270.7,
     "short_term_pct": 100.0
   },
   "0x5e9458202b5817a72cf81105ec8a30e6f3705ba1": {
     "username": "pleaseplease123",
     "added_at": 1788366301.4703155,
-    "roi_pct": 276.96,
+    "roi_pct": 279.17,
+    "short_term_pct": 100.0
+  },
+  "0x684baa57c338c2549aec0aa3f034f695d72a8409": {
+    "username": "monkeymashingkeyboard",
+    "added_at": 1788367226.0594902,
+    "roi_pct": 154.57,
+    "short_term_pct": 100.0
+  },
+  "0x760f1063f9f07d5125de802b16775a967b7f326a": {
+    "username": "",
+    "added_at": 1788367226.0594926,
+    "roi_pct": 144.45,
     "short_term_pct": 100.0
   }
 }
