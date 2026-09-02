@@ -86454,8 +86454,8 @@
     "title": "Counter-Strike: MIBR vs Eternal Fire (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "Eternal Fire",
     "side": "BUY",
-    "whale_usd": 5880.0,
-    "whale_pct": 3.344,
+    "whale_usd": 6408.135593,
+    "whale_pct": 3.644,
     "whale_value_at_open": 175834.8015,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -86469,7 +86469,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788338614.3075354,
-    "fills": 1
+    "last_fill_at": 1788339302.7221248,
+    "fills": 2
   }
 ]
