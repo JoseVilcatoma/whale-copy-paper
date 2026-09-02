@@ -1,5 +1,5 @@
 {
-  "bankroll": 446.46477772451937,
+  "bankroll": 448.4218996757389,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17540,6 +17540,16 @@
       "timestamp": 1788367685.8900728,
       "bankroll": 446.46,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Color vs B8 (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788368937.5063448,
+      "bankroll": 441.37,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788368938.6327527,
+      "bankroll": 448.42,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: DENDELE CS vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }
