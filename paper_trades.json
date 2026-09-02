@@ -87838,5 +87838,31 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788367064.9570282,
     "fills": 1
+  },
+  {
+    "timestamp": 1788367535,
+    "timestamp_added": 1788367535.617848,
+    "username": "0x4f2",
+    "wallet": "0x4f29e103339919c4baaea2a60195cf1c8bb27a7e",
+    "slug": "mlb-sd-cin-2026-09-02",
+    "title": "San Diego Padres vs. Cincinnati Reds",
+    "outcome": "Cincinnati Reds",
+    "side": "BUY",
+    "whale_usd": 3523.17,
+    "whale_pct": 38.25,
+    "whale_value_at_open": 9210.9552,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 43,
+    "fee_usd": 0.143,
+    "odds_ballena": 42,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "Sunny24"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788367535.61786,
+    "fills": 1
   }
 ]
