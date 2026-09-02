@@ -1,5 +1,5 @@
 {
-  "bankroll": 391.16771455675627,
+  "bankroll": 379.85737080675625,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17225,6 +17225,21 @@
       "timestamp": 1788307654.3854513,
       "bankroll": 391.17,
       "event": "venta anticipada: 0x4f2 \u2014 New York Mets vs. Tampa Bay Rays: O/U 7.5 (+0.32 USD)"
+    },
+    {
+      "timestamp": 1788307877.8355072,
+      "bankroll": 389.98,
+      "event": "venta anticipada: 0x4f2 \u2014 Atlanta Braves vs. Washington Nationals (-1.19 USD)"
+    },
+    {
+      "timestamp": 1788307917.710895,
+      "bankroll": 384.87,
+      "event": "lost: nigiri99 \u2014 Seattle Mariners vs. Boston Red Sox: O/U 8.5"
+    },
+    {
+      "timestamp": 1788307917.910214,
+      "bankroll": 379.86,
+      "event": "lost: nigiri99 \u2014 Seattle Mariners vs. Boston Red Sox: O/U 7.5"
     }
   ]
 }
