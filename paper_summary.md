@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 06:32:01 (hora de Perú)
+Actualizado: 2026-09-02 06:34:06 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $405.19
@@ -706,7 +706,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Lloyd Harris vs Stefanos Ts | Stefanos Tsitsipas (BUY) | 70% | 5.00 | 0.3% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Denis Shapovalov vs Luca Va | Denis Shapovalov (BUY) | 59% | 5.00 | 17.5% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Ben Shelton vs Hubert Hurka | Ben Shelton (BUY) | 71% | 5.00 | 31.6% | ⏳ pendiente | — |
-| AV23IUa | US Open ATP: Daniel Merida Aguilar vs An | Daniel Merida Aguilar (BUY) | 44% | 5.00 | 7.1% | ⏳ pendiente | — |
+| AV23IUa | US Open ATP: Daniel Merida Aguilar vs An | Daniel Merida Aguilar (BUY) | 44% | 5.00 | 16.2% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Brandon Nakashima vs Alex M | Brandon Nakashima (BUY) | 70% | 5.00 | 36.5% | ⏳ pendiente | — |
 | 0xd9670ea74384c1e1b9dc1e4267ffadaf4cdd140 | LoL: Hanwha Life Esports vs T1 - Game 4  | Hanwha Life Esports (BUY) | 56% | 5.00 | 5.3% | ⏳ pendiente | — |
 | GoalLineGhost | Will Kawasaki Frontale win on 2026-09-02 | No (BUY) | 73% | 5.00 | 1.2% | ⏳ pendiente | — |

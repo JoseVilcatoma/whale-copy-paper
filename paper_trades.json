@@ -86773,8 +86773,8 @@
     "title": "US Open ATP: Daniel Merida Aguilar vs Andrey Rublev",
     "outcome": "Daniel Merida Aguilar",
     "side": "BUY",
-    "whale_usd": 8173.4313999999995,
-    "whale_pct": 7.063,
+    "whale_usd": 18696.3914,
+    "whale_pct": 16.156,
     "whale_value_at_open": 115726.688,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -86785,8 +86785,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788346527.4543247,
-    "fills": 1
+    "last_fill_at": 1788348820.0156534,
+    "fills": 2
   },
   {
     "timestamp": 1788346556,
