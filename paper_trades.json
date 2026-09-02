@@ -85261,8 +85261,8 @@
     "title": "Game Handicap: HLE (-1.5) vs T1 (+1.5)",
     "outcome": "T1",
     "side": "BUY",
-    "whale_usd": 19775.78,
-    "whale_pct": 60.765,
+    "whale_usd": 20326.0,
+    "whale_pct": 62.455,
     "whale_value_at_open": 32544.9375,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -85273,8 +85273,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788325876.367909,
-    "fills": 3
+    "last_fill_at": 1788332485.5280757,
+    "fills": 4
   },
   {
     "timestamp": 1788273319,
