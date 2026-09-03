@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.040851988869,
+  "bankroll": 462.5714075444246,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18410,6 +18410,11 @@
       "timestamp": 1788467087.3621192,
       "bankroll": 462.04,
       "event": "won: ferrariChampions2026 \u2014 US Open ATP: Taylor Fritz vs Mattia Bellucci"
+    },
+    {
+      "timestamp": 1788467401.906804,
+      "bankroll": 462.57,
+      "event": "won: ferrariChampions2026 \u2014 US Open WTA: Oleksandra Oliynykova vs Alexandra Eala"
     }
   ]
 }
