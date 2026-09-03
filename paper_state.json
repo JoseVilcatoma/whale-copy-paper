@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.4062761462172,
+  "bankroll": 459.656434040954,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18280,6 +18280,11 @@
       "timestamp": 1788445395.2257764,
       "bankroll": 459.41,
       "event": "lost: ferrariChampions2026 \u2014 Manacor: Billy Harris vs Jay Dylan Friend"
+    },
+    {
+      "timestamp": 1788446823.4759636,
+      "bankroll": 459.66,
+      "event": "won: ferrariChampions2026 \u2014 Plovdiv 3: Yanaki Milev vs Ignacio Parisca"
     }
   ]
 }
