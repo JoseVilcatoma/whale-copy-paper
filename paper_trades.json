@@ -88993,5 +88993,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788406330.0884473,
     "fills": 2
+  },
+  {
+    "timestamp": 1788406676,
+    "timestamp_added": 1788406676.6122162,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-santill-ivashka-2026-09-02",
+    "title": "Zhangjiagang: Akira Santillan vs Ilya Ivashka",
+    "outcome": "Ilya Ivashka",
+    "side": "BUY",
+    "whale_usd": 729.029189,
+    "whale_pct": 0.501,
+    "whale_value_at_open": 145613.9315,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788406676.612229,
+    "fills": 1
   }
 ]
