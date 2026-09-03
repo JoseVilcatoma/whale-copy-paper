@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 15:57:49 (hora de Perú)
+Actualizado: 2026-09-03 15:59:52 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $457.42
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 15:57:49 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $202.42)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $197.42)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 407 | 253 | 23 | -162.51 USD |
+| ferrariChampions2026 | 407 | 253 | 24 | -162.51 USD |
 
 ## Análisis general
 
@@ -742,11 +742,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Keyd (-1.5) vs Procyon Gam | Keyd (BUY) | 56% | 5.00 | 25.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Keyd vs Procyon Gaming ( | Keyd (BUY) | 82% | 5.00 | 2.9% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Keyd vs Procyon Gaming ( | Keyd (BUY) | 82% | 5.00 | 5.2% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 46% | 5.00 | 1.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: 3DMAX vs HOTU (BO3) - NO | 3DMAX (BUY) | 42% | 5.00 | 4.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Yawara Esports vs paiN A | Yawara Esports (BUY) | 71% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -771,4 +772,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Luca Potenza vs Joel Schwaerzle | Luca Potenza (BUY) | 85% | 5.00 | 0.7% | ✅ ganada | +0.84 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | MIBR (BUY) | 46% | 5.00 | 94.2% | ✅ ganada | +5.73 |
-| 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | EYEBALLERS (BUY) | 51% | 5.00 | 13.2% | ❌ perdida | -5.12 |
