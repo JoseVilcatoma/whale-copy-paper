@@ -1,5 +1,5 @@
 {
-  "bankroll": 461.56834649436354,
+  "bankroll": 462.040851988869,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18405,6 +18405,11 @@
       "timestamp": 1788458750.0330577,
       "bankroll": 461.57,
       "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: Rare Atom vs FlyQuest (BO3) - IEM Beijing: Asian Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788467087.3621192,
+      "bankroll": 462.04,
+      "event": "won: ferrariChampions2026 \u2014 US Open ATP: Taylor Fritz vs Mattia Bellucci"
     }
   ]
 }
