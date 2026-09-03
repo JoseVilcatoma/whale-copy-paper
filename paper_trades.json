@@ -90337,5 +90337,57 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788424976.7563207,
     "fills": 1
+  },
+  {
+    "timestamp": 1788425369,
+    "timestamp_added": 1788425370.655886,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-aboian-sorger-2026-09-03",
+    "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
+    "outcome": "Valerio Aboian",
+    "side": "BUY",
+    "whale_usd": 7533.881399999999,
+    "whale_pct": 5.885,
+    "whale_value_at_open": 128023.9524,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 45,
+    "fee_usd": 0.138,
+    "odds_ballena": 44,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788425404.0949605,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788425403,
+    "timestamp_added": 1788425404.3411512,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "atp-aboian-sorger-2026-09-03",
+    "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
+    "outcome": "Valerio Aboian",
+    "side": "BUY",
+    "whale_usd": 3007.49822,
+    "whale_pct": 5.504,
+    "whale_value_at_open": 54639.0372,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 44,
+    "fee_usd": 0.14,
+    "odds_ballena": 43,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788425404.8309104,
+    "fills": 2
   }
 ]
