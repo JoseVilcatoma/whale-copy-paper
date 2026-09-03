@@ -88878,8 +88878,8 @@
     "title": "Will CF Am\u00e9rica win on 2026-09-02?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 81326.71919999999,
-    "whale_pct": 288.419,
+    "whale_usd": 83298.085163,
+    "whale_pct": 295.411,
     "whale_value_at_open": 28197.4009,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -88890,8 +88890,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788404945.907727,
-    "fills": 10
+    "last_fill_at": 1788405053.5201595,
+    "fills": 12
   },
   {
     "timestamp": 1788404816,
@@ -88902,8 +88902,8 @@
     "title": "US Open WTA: Lanlana Tararudee vs Linda Noskova",
     "outcome": "Linda Noskova",
     "side": "BUY",
-    "whale_usd": 1680.0,
-    "whale_pct": 0.979,
+    "whale_usd": 3840.513333,
+    "whale_pct": 2.238,
     "whale_value_at_open": 171627.3841,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 98,
@@ -88914,7 +88914,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788404816.855723,
-    "fills": 1
+    "last_fill_at": 1788405024.8549259,
+    "fills": 2
   }
 ]
