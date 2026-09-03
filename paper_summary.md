@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 14:54:20 (hora de Perú)
+Actualizado: 2026-09-03 14:56:22 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $461.57
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 14:54:20 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $201.57)
+**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $196.57)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -52,7 +52,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | ripley86alien | 2 | 0 | 0 | +5.92 USD |
 | Satisfied | 2 | 1 | 0 | +5.26 USD |
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
-| monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
+| monkeymashingkeyboard | 9 | 7 | 1 | +3.91 USD |
 | AV23IUa | 26 | 16 | 6 | +3.84 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 1 | 1 | 0 | +3.30 USD |
@@ -733,6 +733,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-blg-we-2026-09-03 | ferrariChampions2026, zofgkt1111 |
 | lal-rso-cel-2026-09-03-total-2pt5 | Flaznorp, ferrariChampions2026 |
 | atp-damas-kuzmano-2026-09-03 | Flaznorp, ferrariChampions2026 |
+| mlb-mil-chc-2026-09-03-total-8pt5 | ferrariChampions2026, monkeymashingkeyboard |
 | mlb-sf-pit-2026-09-03-total-8pt5 | ferrariChampions2026, pleaseplease123 |
 | mlb-sf-pit-2026-09-03-total-9pt5 | ferrariChampions2026, pleaseplease123 |
 | cs2-3dmax-hotu-2026-09-03 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
@@ -741,6 +742,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: Keyd (-1.5) vs Procyon Gam | Keyd (BUY) | 56% | 5.00 | 23.8% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Keyd vs Procyon Gaming ( | Keyd (BUY) | 82% | 5.00 | 2.9% | ⏳ pendiente | — |
@@ -770,4 +772,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | MIBR (BUY) | 46% | 5.00 | 94.2% | ✅ ganada | +5.73 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs EYEBALLERS - Map | EYEBALLERS (BUY) | 51% | 5.00 | 13.2% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Maks Kasnikowski (BUY) | 55% | 5.00 | 1.4% | ❌ perdida | -5.11 |
-| ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 61% | 5.00 | 3.6% | ⏳ pendiente | — |
