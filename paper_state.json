@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.5714075444246,
+  "bankroll": 457.42340754442455,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18415,6 +18415,11 @@
       "timestamp": 1788467401.906804,
       "bankroll": 462.57,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Oleksandra Oliynykova vs Alexandra Eala"
+    },
+    {
+      "timestamp": 1788468932.2914805,
+      "bankroll": 457.42,
+      "event": "lost: ferrariChampions2026 \u2014 Chicago White Sox vs. Houston Astros"
     }
   ]
 }
