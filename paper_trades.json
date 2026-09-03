@@ -92153,5 +92153,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788448784.6722221,
     "fills": 1
+  },
+  {
+    "timestamp": 1788449253,
+    "timestamp_added": 1788449254.134955,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-clarke-martine-2026-09-03",
+    "title": "Como: Jay Clarke vs Pedro Martinez",
+    "outcome": "Jay Clarke",
+    "side": "BUY",
+    "whale_usd": 1481.6520000000003,
+    "whale_pct": 0.723,
+    "whale_value_at_open": 204960.8611,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 69,
+    "fee_usd": 0.078,
+    "odds_ballena": 68,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788449254.1349642,
+    "fills": 1
   }
 ]
