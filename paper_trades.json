@@ -89797,8 +89797,8 @@
     "title": "Zhangjiagang: Bernard Tomic vs Kasidit Samrej",
     "outcome": "Bernard Tomic",
     "side": "BUY",
-    "whale_usd": 2630.7152370000003,
-    "whale_pct": 11.108,
+    "whale_usd": 3295.3352370000002,
+    "whale_pct": 13.914,
     "whale_value_at_open": 23684.0001,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -89809,8 +89809,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788419082.1307929,
-    "fills": 2
+    "last_fill_at": 1788419499.6787117,
+    "fills": 3
   },
   {
     "timestamp": 1788419207,
