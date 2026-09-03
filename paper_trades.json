@@ -91897,8 +91897,8 @@
     "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 57710.879382,
-    "whale_pct": 29.151,
+    "whale_usd": 67158.70101,
+    "whale_pct": 33.924,
     "whale_value_at_open": 197970.2533,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -91909,8 +91909,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788470413.6218107,
-    "fills": 9
+    "last_fill_at": 1788470693.781065,
+    "fills": 10
   },
   {
     "timestamp": 1788445175,
@@ -92091,8 +92091,8 @@
     "title": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
     "outcome": "Benjamin Bonzi",
     "side": "BUY",
-    "whale_usd": 18193.025127,
-    "whale_pct": 9.479,
+    "whale_usd": 18731.421854,
+    "whale_pct": 9.76,
     "whale_value_at_open": 191922.2652,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 48,
@@ -92103,8 +92103,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788470280.010573,
-    "fills": 7
+    "last_fill_at": 1788470617.0424647,
+    "fills": 8
   },
   {
     "timestamp": 1788448505,
@@ -92509,8 +92509,8 @@
     "title": "US Open ATP: Benjamin Bonzi vs Ignacio Buse",
     "outcome": "Ignacio Buse",
     "side": "BUY",
-    "whale_usd": 11809.741181,
-    "whale_pct": 3.928,
+    "whale_usd": 17512.308181,
+    "whale_pct": 5.825,
     "whale_value_at_open": 300656.2511,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -92521,8 +92521,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788470033.5448081,
-    "fills": 6
+    "last_fill_at": 1788470699.8738694,
+    "fills": 8
   },
   {
     "timestamp": 1788469969,
