@@ -89823,8 +89823,8 @@
     "title": "US Open ATP: Luciano Darderi vs Dalibor Svrcina",
     "outcome": "Dalibor Svrcina",
     "side": "BUY",
-    "whale_usd": 12167.496033,
-    "whale_pct": 13.198,
+    "whale_usd": 15366.497033,
+    "whale_pct": 16.668,
     "whale_value_at_open": 92191.0075,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 44,
@@ -89837,8 +89837,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788448578.2682447,
-    "fills": 5
+    "last_fill_at": 1788448634.6490448,
+    "fills": 6
   },
   {
     "timestamp": 1788419924,
@@ -91945,8 +91945,8 @@
     "title": "Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez",
     "outcome": "Alejo Sanchez Quilez",
     "side": "BUY",
-    "whale_usd": 11088.142087,
-    "whale_pct": 5.722,
+    "whale_usd": 13837.426807,
+    "whale_pct": 7.14,
     "whale_value_at_open": 193788.0472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -91957,8 +91957,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788446398.1682217,
-    "fills": 4
+    "last_fill_at": 1788448613.9783573,
+    "fills": 5
   },
   {
     "timestamp": 1788446147,
