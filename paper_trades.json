@@ -90180,15 +90180,17 @@
     "odds_at_bet": 41,
     "fee_usd": 0.148,
     "odds_ballena": 40,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": 7.05,
     "overlaps_with": [
       "TAIWANNUMBERONE"
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788423328.5232666,
-    "fills": 4
+    "fills": 4,
+    "fee_total_usd": 0.148,
+    "closed_price": 100
   },
   {
     "timestamp": 1788423350,
@@ -90699,6 +90701,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788428811.1534612,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788429281,
+    "timestamp_added": 1788429282.3193986,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-visker-marcos-2026-09-03",
+    "title": "Porto: Niels Visker vs Pedro Vives Marcos",
+    "outcome": "Pedro Vives Marcos",
+    "side": "BUY",
+    "whale_usd": 2157.4,
+    "whale_pct": 1.191,
+    "whale_value_at_open": 181193.4422,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 47,
+    "fee_usd": 0.133,
+    "odds_ballena": 46,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788429282.3194113,
     "fills": 1
   }
 ]

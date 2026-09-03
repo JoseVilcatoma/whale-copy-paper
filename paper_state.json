@@ -1,5 +1,5 @@
 {
-  "bankroll": 470.79409668291044,
+  "bankroll": 477.84121863413,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18060,6 +18060,11 @@
       "timestamp": 1788427027.8202097,
       "bankroll": 470.79,
       "event": "lost: ferrariChampions2026 \u2014 Zhangjiagang: Bernard Tomic vs Kasidit Samrej"
+    },
+    {
+      "timestamp": 1788429361.13487,
+      "bankroll": 477.84,
+      "event": "venta anticipada: BBQChickenisthebesttt \u2014 LoL: BNK FEARX vs Dplus KIA - Game 1 Winner (+7.05 USD)"
     }
   ]
 }
