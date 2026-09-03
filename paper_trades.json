@@ -89157,5 +89157,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788408209.8303485,
     "fills": 4
+  },
+  {
+    "timestamp": 1788408501,
+    "timestamp_added": 1788408502.4234478,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-stl-lad-2026-09-02-total-10pt5",
+    "title": "St. Louis Cardinals vs. Los Angeles Dodgers: O/U 10.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 3463.219218,
+    "whale_pct": 2.671,
+    "whale_value_at_open": 129644.447,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 52,
+    "fee_usd": 0.12,
+    "odds_ballena": 51,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788408502.9870267,
+    "fills": 2
   }
 ]
