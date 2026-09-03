@@ -90712,8 +90712,8 @@
     "title": "Porto: Niels Visker vs Pedro Vives Marcos",
     "outcome": "Pedro Vives Marcos",
     "side": "BUY",
-    "whale_usd": 14645.795928,
-    "whale_pct": 8.083,
+    "whale_usd": 18774.755928,
+    "whale_pct": 10.362,
     "whale_value_at_open": 181193.4422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -90724,8 +90724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788434551.6527734,
-    "fills": 8
+    "last_fill_at": 1788434678.4456072,
+    "fills": 9
   },
   {
     "timestamp": 1788429759,
@@ -91032,8 +91032,8 @@
     "title": "Plovdiv 3: Nikita Mashtakov vs Juan Manuel La Serna",
     "outcome": "Juan Manuel La Serna",
     "side": "BUY",
-    "whale_usd": 2998.1114450000005,
-    "whale_pct": 1.833,
+    "whale_usd": 6471.174626,
+    "whale_pct": 3.957,
     "whale_value_at_open": 163548.4735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 91,
@@ -91044,8 +91044,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788433998.2835426,
-    "fills": 1
+    "last_fill_at": 1788434648.9777951,
+    "fills": 2
   },
   {
     "timestamp": 1788434011,
