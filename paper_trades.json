@@ -88295,8 +88295,8 @@
     "odds_at_bet": 47,
     "fee_usd": 0.133,
     "odds_ballena": 46,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.13,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -88367,8 +88367,8 @@
     "title": "New York Yankees vs. Los Angeles Angels: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 35362.7625,
-    "whale_pct": 11.259,
+    "whale_usd": 41218.2693,
+    "whale_pct": 13.124,
     "whale_value_at_open": 314074.6184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -88379,8 +88379,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788397757.2426434,
-    "fills": 13
+    "last_fill_at": 1788398035.6197462,
+    "fills": 14
   },
   {
     "timestamp": 1788393182,

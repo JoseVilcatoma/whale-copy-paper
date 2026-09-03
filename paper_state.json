@@ -1,5 +1,5 @@
 {
-  "bankroll": 477.1243252210038,
+  "bankroll": 471.9913252210038,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17775,6 +17775,11 @@
       "timestamp": 1788395507.8237298,
       "bankroll": 477.12,
       "event": "won: 0b1 \u2014 US Open ATP: Jiri Lehecka vs Toby Samuel"
+    },
+    {
+      "timestamp": 1788398036.3226314,
+      "bankroll": 471.99,
+      "event": "lost: Talvez10 \u2014 Miami Marlins vs. Kansas City Royals: O/U 8.5"
     }
   ]
 }
