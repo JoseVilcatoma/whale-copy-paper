@@ -91006,8 +91006,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA - Game 4 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 16595.5052,
-    "whale_pct": 54.609,
+    "whale_usd": 17554.6859,
+    "whale_pct": 57.766,
     "whale_value_at_open": 30389.4991,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -91020,8 +91020,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788434143.2406642,
-    "fills": 2
+    "last_fill_at": 1788434412.1469686,
+    "fills": 3
   },
   {
     "timestamp": 1788433997,
@@ -91117,6 +91117,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788434333.8080056,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788434393,
+    "timestamp_added": 1788434394.6227868,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-damas-kuzmano-2026-09-03",
+    "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
+    "outcome": "Dimitar Kuzmanov",
+    "side": "BUY",
+    "whale_usd": 1340.13,
+    "whale_pct": 0.78,
+    "whale_value_at_open": 171751.2014,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 67,
+    "fee_usd": 0.082,
+    "odds_ballena": 66,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788434394.6228006,
     "fills": 1
   }
 ]
