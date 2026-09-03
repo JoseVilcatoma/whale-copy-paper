@@ -90097,8 +90097,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 6165.679499000001,
-    "whale_pct": 6.018,
+    "whale_usd": 7000.429499000001,
+    "whale_pct": 6.833,
     "whale_value_at_open": 102457.3886,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 73,
@@ -90111,8 +90111,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788436495.0976617,
-    "fills": 9
+    "last_fill_at": 1788436623.5944605,
+    "fills": 10
   },
   {
     "timestamp": 1788422994,
@@ -91217,6 +91217,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788436483.7094705,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788436664,
+    "timestamp_added": 1788436664.4287689,
+    "username": "Flaznorp",
+    "wallet": "0x821dab0565ebf5b327f51db06223fdcfe01acf16",
+    "slug": "atp-damas-kuzmano-2026-09-03",
+    "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
+    "outcome": "Dimitar Kuzmanov",
+    "side": "BUY",
+    "whale_usd": 599.04,
+    "whale_pct": 0.302,
+    "whale_value_at_open": 198479.612,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 80,
+    "fee_usd": 0.05,
+    "odds_ballena": 78,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788436664.4287815,
     "fills": 1
   }
 ]
