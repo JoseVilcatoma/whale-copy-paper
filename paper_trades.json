@@ -88494,8 +88494,8 @@
     "title": "Counter-Strike: MIBR vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
     "outcome": "MIBR",
     "side": "BUY",
-    "whale_usd": 25237.320400000004,
-    "whale_pct": 71.584,
+    "whale_usd": 26071.598800000003,
+    "whale_pct": 73.951,
     "whale_value_at_open": 35255.45,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -88506,8 +88506,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788401767.2343075,
-    "fills": 7
+    "last_fill_at": 1788404490.099114,
+    "fills": 8
   },
   {
     "timestamp": 1788393870,
@@ -88878,8 +88878,8 @@
     "title": "Will CF Am\u00e9rica win on 2026-09-02?",
     "outcome": "No",
     "side": "BUY",
-    "whale_usd": 23760.3944,
-    "whale_pct": 84.264,
+    "whale_usd": 32160.3888,
+    "whale_pct": 114.054,
     "whale_value_at_open": 28197.4009,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -88890,7 +88890,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788404463.2166688,
-    "fills": 5
+    "last_fill_at": 1788404594.4352157,
+    "fills": 6
   }
 ]

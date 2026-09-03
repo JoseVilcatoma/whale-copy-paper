@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 22:01:17 (hora de Perú)
+Actualizado: 2026-09-02 22:03:21 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.26
@@ -714,7 +714,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| kekasaur | Will CF América win on 2026-09-02? | No (BUY) | 56% | 5.00 | 84.3% | ⏳ pendiente | — |
+| kekasaur | Will CF América win on 2026-09-02? | No (BUY) | 56% | 5.00 | 114.1% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Milwaukee Brewers (BUY) | 96% | 5.00 | 2.0% | 💰 vendida anticipada | +0.09 |
 | 0x4f2 | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 98% | 5.00 | 1.1% | 💰 vendida anticipada | -0.12 |
 | Feromont | Miami Marlins vs. Kansas City Royals | Miami Marlins (BUY) | 74% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -729,7 +729,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ⏳ pendiente | — |
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 440.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 71.6% | ⏳ pendiente | — |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 74.0% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ⏳ pendiente | — |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | 💰 vendida anticipada | -0.60 |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | San Francisco Giants (BUY) | 53% | 5.00 | 13.1% | ✅ ganada | +4.32 |
