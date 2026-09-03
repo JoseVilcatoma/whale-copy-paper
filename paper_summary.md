@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 23:11:00 (hora de Perú)
+Actualizado: 2026-09-02 23:13:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $465.69
-**Retorno acumulado:** -6.86%
+**Bankroll actual:** $458.82
+**Retorno acumulado:** -8.24%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 23:11:00 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $320.69)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $323.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 0x7A3f9C2D8b41E6a570F2c93B1d4E8A | 3 | 0 | 0 | +8.83 USD |
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| AV23IUa | 25 | 15 | 1 | +6.89 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -70,6 +69,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | beachboy4 | 7 | 2 | 0 | +1.95 USD |
 | 0x32b484581fc5606dE9C1e43AF4636b6Be9BC8B21-1774274303653 | 3 | 2 | 0 | +1.93 USD |
 | ic4cream | 1 | 0 | 0 | +1.78 USD |
+| AV23IUa | 25 | 16 | 0 | +1.77 USD |
 | 0b1 | 1 | 0 | 0 | +1.69 USD |
 | Feromont | 1 | 0 | 2 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
@@ -83,7 +83,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
-| 1winstreak1 | 1 | 1 | 3 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
@@ -91,6 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
 | CORGI8 | 1 | 2 | 0 | -3.22 USD |
+| 1winstreak1 | 2 | 2 | 2 | -3.36 USD |
 | mikesports | 1 | 1 | 0 | -4.17 USD |
 | jtwyslljy | 0 | 1 | 0 | -5.10 USD |
 | Gooooooollllllllll | 0 | 1 | 0 | -5.10 USD |
@@ -125,14 +125,14 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3404
-- **Aciertos:** 2177 (64.0%)
+- **Apuestas resueltas:** 3407
+- **Aciertos:** 2178 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,995.24
-- **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $311.31 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,010.24
+- **ROI sobre lo apostado:** -0.80%
+- **Comisiones pagadas (taker fee):** $311.65 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.03% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -140,7 +140,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1704 | 50.1% | 50.1% | +0.0 pp |
+| 40-59% | 1707 | 50.1% | 50.1% | -0.0 pp |
 | 60-79% | 1020 | 70.0% | 67.8% | +2.2 pp |
 | 80-94% | 471 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 209 | 96.7% | 97.4% | -0.7 pp |
@@ -715,6 +715,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 1winstreak1 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 47% | 5.00 | 15.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
 | 0x4f2 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 10.9% | 💰 vendida anticipada | -0.94 |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Los Angeles Dodgers (BUY) | 96% | 5.00 | 11.4% | ⏳ pendiente | — |
@@ -735,13 +736,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 43% | 5.00 | 9.7% | 💰 vendida anticipada | -2.12 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Map Handicap: MIBR (-1.5) vs EYEBALLERS  | MIBR (BUY) | 41% | 5.00 | 1.0% | ⏳ pendiente | — |
 | Feromont | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 58% | 5.00 | 34.8% | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Detroit Tigers (BUY) | 59% | 5.00 | 20.2% | ✅ ganada | +3.37 |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Team Nemesis vs HOTU (BO | Team Nemesis (BUY) | 53% | 5.00 | 5.3% | ⏳ pendiente | — |
 | 1winstreak1 | Chicago White Sox vs. Houston Astros: O/ | Under (BUY) | 58% | 5.00 | 4.5% | ✅ ganada | +3.52 |
 | kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ❌ perdida | -5.14 |
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 440.0% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 74.0% | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ⏳ pendiente | — |
+| 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ❌ perdida | -5.12 |
 | 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | 💰 vendida anticipada | -0.60 |
-| 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | San Francisco Giants (BUY) | 53% | 5.00 | 13.1% | ✅ ganada | +4.32 |

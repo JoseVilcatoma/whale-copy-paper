@@ -1,5 +1,5 @@
 {
-  "bankroll": 465.6894965174894,
+  "bankroll": 458.82207278867577,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17885,6 +17885,21 @@
       "timestamp": 1788408540.339738,
       "bankroll": 465.69,
       "event": "venta anticipada: 0x4f2 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (-0.94 USD)"
+    },
+    {
+      "timestamp": 1788408751.2329228,
+      "bankroll": 460.57,
+      "event": "lost: AV23IUa \u2014 Detroit Tigers vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1788408753.3055353,
+      "bankroll": 455.45,
+      "event": "lost: 1winstreak1 \u2014 Detroit Tigers vs. Minnesota Twins"
+    },
+    {
+      "timestamp": 1788408753.8062246,
+      "bankroll": 458.82,
+      "event": "won: 1winstreak1 \u2014 Detroit Tigers vs. Minnesota Twins"
     }
   ]
 }
