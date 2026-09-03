@@ -90297,8 +90297,8 @@
     "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
     "outcome": "Sebastian Sorger",
     "side": "BUY",
-    "whale_usd": 1867.3200000000002,
-    "whale_pct": 1.52,
+    "whale_usd": 2703.298431,
+    "whale_pct": 2.201,
     "whale_value_at_open": 122810.374,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -90311,8 +90311,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788424886.450593,
-    "fills": 2
+    "last_fill_at": 1788425778.107923,
+    "fills": 3
   },
   {
     "timestamp": 1788424976,
@@ -90323,8 +90323,8 @@
     "title": "Plovdiv 3: Federico Iannaccone vs Maxim Mrva",
     "outcome": "Maxim Mrva",
     "side": "BUY",
-    "whale_usd": 679.051111,
-    "whale_pct": 0.519,
+    "whale_usd": 2603.939111,
+    "whale_pct": 1.99,
     "whale_value_at_open": 130847.1729,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 84,
@@ -90335,8 +90335,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788424976.7563207,
-    "fills": 1
+    "last_fill_at": 1788425715.0917313,
+    "fills": 2
   },
   {
     "timestamp": 1788425369,
@@ -90347,8 +90347,8 @@
     "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
     "outcome": "Valerio Aboian",
     "side": "BUY",
-    "whale_usd": 7533.881399999999,
-    "whale_pct": 5.885,
+    "whale_usd": 8290.9314,
+    "whale_pct": 6.476,
     "whale_value_at_open": 128023.9524,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -90361,8 +90361,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788425404.0949605,
-    "fills": 3
+    "last_fill_at": 1788425794.0243702,
+    "fills": 4
   },
   {
     "timestamp": 1788425403,
@@ -90414,6 +90414,59 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788425491.6585298,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788425676,
+    "timestamp_added": 1788425676.9751425,
+    "username": "0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354",
+    "wallet": "0xc32359bbc920b365a05cd310b9a998508c980077",
+    "slug": "atp-aboian-sorger-2026-09-03",
+    "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
+    "outcome": "Sebastian Sorger",
+    "side": "BUY",
+    "whale_usd": 2689.5330000000004,
+    "whale_pct": 9.55,
+    "whale_value_at_open": 28162.5453,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "RN1",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788425752.0581875,
+    "fills": 2
+  },
+  {
+    "timestamp": 1788425791,
+    "timestamp_added": 1788425791.4073486,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "lol-fox1-dk-2026-09-03-game-handicap-home-1pt5",
+    "title": "Game Handicap: DK (-1.5) vs BNK FEARX (+1.5)",
+    "outcome": "BNK FEARX",
+    "side": "BUY",
+    "whale_usd": 656.1369510000001,
+    "whale_pct": 0.5,
+    "whale_value_at_open": 131133.3581,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 72,
+    "fee_usd": 0.07,
+    "odds_ballena": 71,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788425791.4073617,
     "fills": 1
   }
 ]
