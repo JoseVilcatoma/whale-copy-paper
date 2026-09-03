@@ -88439,8 +88439,8 @@
     "title": "New York Mets vs. Tampa Bay Rays",
     "outcome": "New York Mets",
     "side": "BUY",
-    "whale_usd": 7593.203,
-    "whale_pct": 26.261,
+    "whale_usd": 8438.023000000001,
+    "whale_pct": 29.182,
     "whale_value_at_open": 28914.6975,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -88454,8 +88454,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788393607.1115787,
-    "fills": 2
+    "last_fill_at": 1788393700.0595543,
+    "fills": 3
   },
   {
     "timestamp": 1788393622,
@@ -88481,6 +88481,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788393623.0203404,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788393690,
+    "timestamp_added": 1788393696.6819391,
+    "username": "0x29b52d98ac9ef9414b04164246c95BC63d7",
+    "wallet": "0x29b52d98ac9ef9414b04164246c95bc63d74cc6c",
+    "slug": "cs2-mibr-eye-2026-09-03",
+    "title": "Counter-Strike: MIBR vs EYEBALLERS (BO3) - IEM Beijing: Global Qualifier Playoffs",
+    "outcome": "MIBR",
+    "side": "BUY",
+    "whale_usd": 2657.6046,
+    "whale_pct": 7.538,
+    "whale_value_at_open": 35255.45,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 64,
+    "fee_usd": 0.09,
+    "odds_ballena": 63,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788393696.6819499,
     "fills": 1
   }
 ]

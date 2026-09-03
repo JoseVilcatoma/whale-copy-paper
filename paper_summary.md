@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 19:00:23 (hora de Perú)
+Actualizado: 2026-09-02 19:02:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $476.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 19:00:23 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $346.03)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $341.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -23,7 +23,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 |---|---|---|---|---|
 | 0xF201A19b43471261A3c1Ba9247335d55270e527e-1763824114616 | 113 | 48 | 0 | +87.66 USD |
 | BOOMBOYS.Kiritych | 40 | 18 | 0 | +71.36 USD |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 43 | 15 | 5 | +63.52 USD |
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | 43 | 15 | 6 | +63.52 USD |
 | swisstony | 83 | 18 | 0 | +32.30 USD |
 | 0x9f15613ebf1f36d4bc679e1211d1fc567cf9bdb3 | 24 | 13 | 0 | +30.79 USD |
 | casualbet2020 | 27 | 12 | 0 | +30.40 USD |
@@ -711,8 +711,9 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 7.5% | ⏳ pendiente | — |
 | 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ⏳ pendiente | — |
-| 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 26.3% | ⏳ pendiente | — |
+| 0x4f2 | New York Mets vs. Tampa Bay Rays | New York Mets (BUY) | 69% | 5.00 | 29.2% | ⏳ pendiente | — |
 | 0x4f2 | San Francisco Giants vs. Pittsburgh Pira | San Francisco Giants (BUY) | 53% | 5.00 | 13.1% | ⏳ pendiente | — |
 | 1winstreak1 | Miami Marlins vs. Kansas City Royals | Kansas City Royals (BUY) | 49% | 5.00 | 6.6% | ⏳ pendiente | — |
 | pleaseplease123 | New York Yankees vs. Los Angeles Angels: | Over (BUY) | 53% | 5.00 | 0.2% | ⏳ pendiente | — |
@@ -740,4 +741,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Sunny24 | San Diego Padres vs. Cincinnati Reds | San Diego Padres (BUY) | 62% | 5.00 | 946.5% | ❌ perdida | -5.09 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: MIBR vs 3DMAX - Map 1 Wi | MIBR (BUY) | 70% | 5.00 | 3.6% | ✅ ganada | +2.07 |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Eternal Fire vs Heroic ( | Heroic (BUY) | 75% | 5.00 | 3.3% | ❌ perdida | -5.06 |
-| DoNotTailMe | LoL: ⁠Movistar KOI Fénix vs UCAM Esports | UCAM Esports Club (BUY) | 64% | 5.00 | 67.1% | ✅ ganada | +2.72 |
