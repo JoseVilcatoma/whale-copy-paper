@@ -89684,8 +89684,8 @@
     "odds_at_bet": 95,
     "fee_usd": 0.013,
     "odds_ballena": 93,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.25,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -89708,8 +89708,8 @@
     "odds_at_bet": 88,
     "fee_usd": 0.03,
     "odds_ballena": 86,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.65,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -91115,8 +91115,8 @@
     "odds_at_bet": 52,
     "fee_usd": 0.12,
     "odds_ballena": 51,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -91389,8 +91389,8 @@
     "odds_at_bet": 53,
     "fee_usd": 0.117,
     "odds_ballena": 52,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.12,
     "overlaps_with": [
       "Flaznorp"
     ],
@@ -91554,8 +91554,8 @@
     "title": "US Open WTA: Cristina Bucsa vs Himeno Sakatsume",
     "outcome": "Cristina Bucsa",
     "side": "BUY",
-    "whale_usd": 1648.2753,
-    "whale_pct": 0.601,
+    "whale_usd": 9799.908537,
+    "whale_pct": 3.573,
     "whale_value_at_open": 274260.783,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -91566,8 +91566,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788439050.184969,
-    "fills": 1
+    "last_fill_at": 1788470439.812015,
+    "fills": 2
   },
   {
     "timestamp": 1788439444,
@@ -91897,8 +91897,8 @@
     "title": "US Open ATP: Alexander Blockx vs Marco Trungelliti",
     "outcome": "Alexander Blockx",
     "side": "BUY",
-    "whale_usd": 45637.323737,
-    "whale_pct": 23.053,
+    "whale_usd": 57710.879382,
+    "whale_pct": 29.151,
     "whale_value_at_open": 197970.2533,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 85,
@@ -91909,8 +91909,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788470224.4367356,
-    "fills": 7
+    "last_fill_at": 1788470413.6218107,
+    "fills": 9
   },
   {
     "timestamp": 1788445175,
@@ -92459,8 +92459,8 @@
     "title": "US Open WTA: Qinwen Zheng vs Yulia Putintseva",
     "outcome": "Yulia Putintseva",
     "side": "BUY",
-    "whale_usd": 9188.9375,
-    "whale_pct": 3.088,
+    "whale_usd": 10088.9375,
+    "whale_pct": 3.39,
     "whale_value_at_open": 297590.0672,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 50,
@@ -92471,8 +92471,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788470312.6194198,
-    "fills": 2
+    "last_fill_at": 1788470388.1015706,
+    "fills": 3
   },
   {
     "timestamp": 1788469895,
@@ -92483,8 +92483,8 @@
     "title": "Tampa Bay Rays vs. Texas Rangers",
     "outcome": "Texas Rangers",
     "side": "BUY",
-    "whale_usd": 25812.0214,
-    "whale_pct": 81.445,
+    "whale_usd": 67850.97869999999,
+    "whale_pct": 214.092,
     "whale_value_at_open": 31692.4278,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -92497,8 +92497,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469916.7389154,
-    "fills": 2
+    "last_fill_at": 1788470446.6464953,
+    "fills": 3
   },
   {
     "timestamp": 1788469962,
@@ -92575,6 +92575,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788470123.9190128,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788470379,
+    "timestamp_added": 1788470380.5580177,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-mil-chc-2026-09-03-spread-away-1pt5",
+    "title": "Spread: Milwaukee Brewers (-1.5)",
+    "outcome": "Chicago Cubs",
+    "side": "BUY",
+    "whale_usd": 5606.9234,
+    "whale_pct": 1.752,
+    "whale_value_at_open": 320031.8173,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 60,
+    "fee_usd": 0.1,
+    "odds_ballena": 59,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788470380.5580263,
     "fills": 1
   }
 ]

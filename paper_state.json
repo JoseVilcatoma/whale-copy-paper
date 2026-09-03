@@ -1,5 +1,5 @@
 {
-  "bankroll": 462.00194225075563,
+  "bankroll": 452.6669183273106,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18450,6 +18450,26 @@
       "timestamp": 1788469244.3046036,
       "bankroll": 462.0,
       "event": "won: BBQChickenisthebesttt \u2014 Will Toulouse FC win on 2026-09-03?"
+    },
+    {
+      "timestamp": 1788470375.4173775,
+      "bankroll": 462.25,
+      "event": "won: Flaznorp \u2014 1st Half Spread: RC Celta de Vigo (-1.5)"
+    },
+    {
+      "timestamp": 1788470375.7238863,
+      "bankroll": 462.9,
+      "event": "won: Flaznorp \u2014 1st Half Spread: Real Sociedad de F\u00fatbol (-1.5)"
+    },
+    {
+      "timestamp": 1788470379.4911928,
+      "bankroll": 457.78,
+      "event": "lost: Flaznorp \u2014 Real Sociedad de F\u00fatbol vs. RC Celta de Vigo: O/U 2.5"
+    },
+    {
+      "timestamp": 1788470380.0501754,
+      "bankroll": 452.67,
+      "event": "lost: ferrariChampions2026 \u2014 Real Sociedad de F\u00fatbol vs. RC Celta de Vigo: O/U 2.5"
     }
   ]
 }

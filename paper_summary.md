@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 16:19:22 (hora de Perú)
+Actualizado: 2026-09-03 16:21:25 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $462.00
-**Retorno acumulado:** -7.60%
+**Bankroll actual:** $452.67
+**Retorno acumulado:** -9.47%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 16:19:22 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $255.00 en 51 posiciones abiertas (disponible para nuevas apuestas: $207.00)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $212.67)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 1 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| Flaznorp | 23 | 6 | 5 | +3.58 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 1 | 1 | 0 | +3.30 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
@@ -85,6 +84,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
+| Flaznorp | 25 | 7 | 2 | -0.64 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
 | zofgkt1111 | 3 | 2 | 0 | -1.38 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 408 | 254 | 25 | -165.46 USD |
+| ferrariChampions2026 | 408 | 255 | 25 | -170.58 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3506
-- **Aciertos:** 2239 (63.9%)
+- **Apuestas resueltas:** 3510
+- **Aciertos:** 2241 (63.8%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,505.24
-- **ROI sobre lo apostado:** -0.85%
-- **Comisiones pagadas (taker fee):** $320.36 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,525.24
+- **ROI sobre lo apostado:** -0.90%
+- **Comisiones pagadas (taker fee):** $320.64 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.93% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,10 +142,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1751 | 50.3% | 50.1% | +0.2 pp |
+| 40-59% | 1753 | 50.3% | 50.1% | +0.1 pp |
 | 60-79% | 1055 | 69.7% | 67.8% | +1.9 pp |
-| 80-94% | 483 | 85.7% | 86.7% | -1.0 pp |
-| 95-99% (casi seguro) | 217 | 96.3% | 97.3% | -1.0 pp |
+| 80-94% | 484 | 85.7% | 86.7% | -1.0 pp |
+| 95-99% (casi seguro) | 218 | 96.3% | 97.3% | -1.0 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -743,11 +743,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | Spread: Milwaukee Brewers (-1.5) | Chicago Cubs (BUY) | 60% | 5.00 | 1.8% | ⏳ pendiente | — |
 | BrotherObama | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 48% | 5.00 | 27.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 41% | 5.00 | 0.2% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Ignacio Buse (BUY) | 43% | 5.00 | 3.9% | ⏳ pendiente | — |
-| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 81.4% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.1% | ⏳ pendiente | — |
+| pleaseplease123 | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 47% | 5.00 | 214.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Yulia Putintseva (BUY) | 50% | 5.00 | 3.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.9% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
@@ -770,6 +771,5 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ✅ ganada | +5.51 |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.8% | ❌ perdida | -5.08 |
-| ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 23.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 29.2% | ⏳ pendiente | — |
 | pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 93.6% | ⏳ pendiente | — |
-| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 135.0% | ⏳ pendiente | — |
