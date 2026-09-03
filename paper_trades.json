@@ -90158,8 +90158,8 @@
     "odds_at_bet": 76,
     "fee_usd": 0.06,
     "odds_ballena": 75,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 1.52,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -91332,8 +91332,8 @@
     "title": "Manacor: Billy Harris vs Jay Dylan Friend",
     "outcome": "Jay Dylan Friend",
     "side": "BUY",
-    "whale_usd": 659.997391,
-    "whale_pct": 0.283,
+    "whale_usd": 3847.4178910000005,
+    "whale_pct": 1.653,
     "whale_value_at_open": 232814.8824,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -91344,8 +91344,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788437678.2045562,
-    "fills": 1
+    "last_fill_at": 1788438203.3695233,
+    "fills": 2
   },
   {
     "timestamp": 1788437795,
@@ -91432,8 +91432,8 @@
     "title": "Porto: Miguel Damas vs Dimitar Kuzmanov",
     "outcome": "Miguel Damas",
     "side": "BUY",
-    "whale_usd": 12522.9577,
-    "whale_pct": 5.271,
+    "whale_usd": 15874.355275000002,
+    "whale_pct": 6.681,
     "whale_value_at_open": 237597.0327,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -91446,8 +91446,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788437929.3869035,
-    "fills": 1
+    "last_fill_at": 1788438260.921401,
+    "fills": 3
   },
   {
     "timestamp": 1788438023,
@@ -91471,6 +91471,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788438023.7417183,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788438167,
+    "timestamp_added": 1788438167.5109494,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-nedic-feldbau-2026-09-03",
+    "title": "Como: Andrej Nedic vs Kilian Feldbausch",
+    "outcome": "Kilian Feldbausch",
+    "side": "BUY",
+    "whale_usd": 1777.777777,
+    "whale_pct": 0.671,
+    "whale_value_at_open": 265087.803,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 65,
+    "fee_usd": 0.087,
+    "odds_ballena": 64,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788438167.5109572,
     "fills": 1
   }
 ]
