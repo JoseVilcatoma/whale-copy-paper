@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 16:03:55 (hora de Perú)
+Actualizado: 2026-09-03 16:06:00 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.00
@@ -742,7 +742,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 6.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Qinwen Zheng vs Yulia Putin | Qinwen Zheng (BUY) | 56% | 5.00 | 7.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Tristan Schoolkate vs Flavi | Flavio Cobolli (BUY) | 88% | 5.00 | 3.6% | ⏳ pendiente | — |
 | monkeymashingkeyboard | Milwaukee Brewers vs. Chicago Cubs: O/U  | Under (BUY) | 52% | 5.00 | 88.0% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | Will Toulouse FC win on 2026-09-03? | No (BUY) | 72% | 5.00 | 18.0% | ✅ ganada | +1.87 |

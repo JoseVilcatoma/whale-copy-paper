@@ -90073,8 +90073,8 @@
     "title": "US Open ATP: Alexei Popyrin vs Alejandro Tabilo",
     "outcome": "Alejandro Tabilo",
     "side": "BUY",
-    "whale_usd": 12475.264855000001,
-    "whale_pct": 12.699,
+    "whale_usd": 16046.147954,
+    "whale_pct": 16.335,
     "whale_value_at_open": 98234.6715,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 59,
@@ -90087,8 +90087,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469398.0165813,
-    "fills": 4
+    "last_fill_at": 1788469547.381407,
+    "fills": 6
   },
   {
     "timestamp": 1788422789,
@@ -92435,8 +92435,8 @@
     "title": "US Open WTA: Qinwen Zheng vs Yulia Putintseva",
     "outcome": "Qinwen Zheng",
     "side": "BUY",
-    "whale_usd": 20992.552099999997,
-    "whale_pct": 6.888,
+    "whale_usd": 21503.438252999997,
+    "whale_pct": 7.055,
     "whale_value_at_open": 304778.3934,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -92447,7 +92447,7 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788469391.3359401,
-    "fills": 3
+    "last_fill_at": 1788469457.9454038,
+    "fills": 4
   }
 ]
