@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 05:54:50 (hora de Perú)
+Actualizado: 2026-09-03 05:56:53 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.50
@@ -734,7 +734,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Jan-Lennard Struff (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | ⏳ pendiente | — |
 | AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 57% | 5.00 | 0.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Niels Visker (BUY) | 64% | 5.00 | 0.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Porto: Niels Visker vs Pedro Vives Marco | Niels Visker (BUY) | 64% | 5.00 | 2.3% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | Dplus KIA (BUY) | 69% | 5.00 | 34.0% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 3 Win | BNK FEARX (BUY) | 43% | 5.00 | 34.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | KBO: SSG Landers vs. Kiwoom Heroes | SSG Landers (BUY) | 43% | 5.00 | 0.5% | ⏳ pendiente | — |
