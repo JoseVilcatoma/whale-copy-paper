@@ -90712,8 +90712,8 @@
     "title": "Porto: Niels Visker vs Pedro Vives Marcos",
     "outcome": "Pedro Vives Marcos",
     "side": "BUY",
-    "whale_usd": 12508.571928,
-    "whale_pct": 6.903,
+    "whale_usd": 13912.831928,
+    "whale_pct": 7.678,
     "whale_value_at_open": 181193.4422,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -90724,8 +90724,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788433877.9223707,
-    "fills": 6
+    "last_fill_at": 1788434187.9077797,
+    "fills": 7
   },
   {
     "timestamp": 1788429759,
@@ -91006,8 +91006,8 @@
     "title": "LoL: BNK FEARX vs Dplus KIA - Game 4 Winner",
     "outcome": "Dplus KIA",
     "side": "BUY",
-    "whale_usd": 14999.9948,
-    "whale_pct": 49.359,
+    "whale_usd": 16595.5052,
+    "whale_pct": 54.609,
     "whale_value_at_open": 30389.4991,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 60,
@@ -91020,8 +91020,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788433887.145477,
-    "fills": 1
+    "last_fill_at": 1788434143.2406642,
+    "fills": 2
   },
   {
     "timestamp": 1788433997,
