@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 23:40:02 (hora de Perú)
+Actualizado: 2026-09-02 23:42:02 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $455.68
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 23:40:02 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $330.68)
+**Capital comprometido ahora mismo:** $135.00 en 27 posiciones abiertas (disponible para nuevas apuestas: $320.68)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -32,7 +32,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | GoalLineGhost | 36 | 11 | 0 | +16.37 USD |
 | ChonkyChocolateCake | 47 | 30 | 0 | +14.61 USD |
 | HongYunX | 4 | 1 | 0 | +13.63 USD |
-| TAIWANNUMBERONE | 31 | 19 | 1 | +13.39 USD |
+| TAIWANNUMBERONE | 31 | 19 | 3 | +13.39 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
 | Flaznorp | 19 | 3 | 1 | +12.36 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
@@ -715,6 +715,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 65% | 5.00 | 6.6% | ⏳ pendiente | — |
+| TAIWANNUMBERONE | LoL: BNK FEARX vs Dplus KIA - Game 1 Win | Dplus KIA (BUY) | 65% | 5.00 | 6.6% | ⏳ pendiente | — |
 | 0x4f2 | New York Yankees vs. Los Angeles Angels | New York Yankees (BUY) | 44% | 5.00 | 3.2% | ⏳ pendiente | — |
 | 1winstreak1 | New York Yankees vs. Los Angeles Angels | Los Angeles Angels (BUY) | 47% | 5.00 | 19.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | St. Louis Cardinals vs. Los Angeles Dodg | Under (BUY) | 52% | 5.00 | 2.7% | ⏳ pendiente | — |
@@ -743,5 +745,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | kekasaur | Will Deportivo Toluca FC win on 2026-09- | Yes (BUY) | 57% | 5.00 | 6.4% | ⏳ pendiente | — |
 | 0x4f2 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 44% | 5.00 | 10.5% | ❌ perdida | -5.14 |
 | kekasaur | Deportivo Toluca FC vs. Club León FC: O/ | Under (BUY) | 43% | 5.00 | 440.0% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: MIBR vs EYEBALLERS (BO3) | MIBR (BUY) | 64% | 5.00 | 74.0% | ⏳ pendiente | — |
-| 1winstreak1 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 51% | 5.00 | 11.0% | ❌ perdida | -5.12 |
