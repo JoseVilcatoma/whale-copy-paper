@@ -1,5 +1,5 @@
 {
-  "bankroll": 453.84563537711904,
+  "bankroll": 454.45820059451034,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18350,6 +18350,16 @@
       "timestamp": 1788448823.9547155,
       "bankroll": 453.85,
       "event": "won: AV23IUa \u2014 Counter-Strike: magic vs BIG (BO3) - IEM Beijing: Global Qualifier Playoffs"
+    },
+    {
+      "timestamp": 1788449005.760414,
+      "bankroll": 448.72,
+      "event": "lost: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs EYEBALLERS - Map 2 Winner"
+    },
+    {
+      "timestamp": 1788449005.860562,
+      "bankroll": 454.46,
+      "event": "won: 0x99a093771ad58bcfc3023cd75566415f \u2014 Counter-Strike: MIBR vs EYEBALLERS - Map 2 Winner"
     }
   ]
 }
