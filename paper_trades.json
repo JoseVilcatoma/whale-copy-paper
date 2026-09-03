@@ -89586,8 +89586,8 @@
     "odds_at_bet": 64,
     "fee_usd": 0.09,
     "odds_ballena": 63,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.09,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -89778,8 +89778,8 @@
     "odds_at_bet": 67,
     "fee_usd": 0.082,
     "odds_ballena": 66,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "lost",
+    "profit_usd": -5.08,
     "overlaps_with": [
       "Flaznorp"
     ],
@@ -89928,8 +89928,8 @@
     "odds_at_bet": 59,
     "fee_usd": 0.103,
     "odds_ballena": 58,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 3.37,
     "overlaps_with": [
       "Flaznorp"
     ],
@@ -90297,8 +90297,8 @@
     "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
     "outcome": "Sebastian Sorger",
     "side": "BUY",
-    "whale_usd": 2703.298431,
-    "whale_pct": 2.201,
+    "whale_usd": 20726.704831000003,
+    "whale_pct": 16.877,
     "whale_value_at_open": 122810.374,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -90311,8 +90311,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788425778.107923,
-    "fills": 3
+    "last_fill_at": 1788426742.4059029,
+    "fills": 7
   },
   {
     "timestamp": 1788424976,
@@ -90531,8 +90531,8 @@
     "title": "Plovdiv 3: Federico Iannaccone vs Maxim Mrva",
     "outcome": "Federico Iannaccone",
     "side": "BUY",
-    "whale_usd": 3167.546086,
-    "whale_pct": 2.392,
+    "whale_usd": 3977.546086,
+    "whale_pct": 3.004,
     "whale_value_at_open": 132403.3689,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 55,
@@ -90545,7 +90545,33 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788426662.2106721,
-    "fills": 2
+    "last_fill_at": 1788426764.7610478,
+    "fills": 3
+  },
+  {
+    "timestamp": 1788426717,
+    "timestamp_added": 1788426718.4688098,
+    "username": "BBQChickenisthebesttt",
+    "wallet": "0x16602a38e8fb4498ffee0ea81e08d2b421825598",
+    "slug": "lol-fox1-dk-2026-09-03-game2",
+    "title": "LoL: BNK FEARX vs Dplus KIA - Game 2 Winner",
+    "outcome": "Dplus KIA",
+    "side": "BUY",
+    "whale_usd": 6200.0,
+    "whale_pct": 16.648,
+    "whale_value_at_open": 37242.6612,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 63,
+    "fee_usd": 0.092,
+    "odds_ballena": 62,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "TAIWANNUMBERONE"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788426718.4688246,
+    "fills": 1
   }
 ]

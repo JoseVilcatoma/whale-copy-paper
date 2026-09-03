@@ -1,5 +1,5 @@
 {
-  "bankroll": 481.8216870783906,
+  "bankroll": 475.02126334957705,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18025,6 +18025,21 @@
       "timestamp": 1788425930.843044,
       "bankroll": 481.82,
       "event": "venta anticipada: 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 \u2014 Plovdiv 3: Valerio Aboian vs Sebastian Sorger (-1.02 USD)"
+    },
+    {
+      "timestamp": 1788426713.0360365,
+      "bankroll": 476.73,
+      "event": "lost: Flaznorp \u2014 Zhangjiagang: Khumoun Sultanov vs Enzo Aguiard"
+    },
+    {
+      "timestamp": 1788426714.7687142,
+      "bankroll": 471.65,
+      "event": "lost: ferrariChampions2026 \u2014 Zhangjiagang: Khumoun Sultanov vs Enzo Aguiard"
+    },
+    {
+      "timestamp": 1788426715.397567,
+      "bankroll": 475.02,
+      "event": "won: ferrariChampions2026 \u2014 Zhangjiagang: Khumoun Sultanov vs Enzo Aguiard"
     }
   ]
 }

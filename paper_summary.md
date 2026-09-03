@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 04:11:04 (hora de Perú)
+Actualizado: 2026-09-03 04:13:08 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $481.82
-**Retorno acumulado:** -3.64%
+**Bankroll actual:** $475.02
+**Retorno acumulado:** -5.00%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 04:11:04 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $211.82)
+**Capital comprometido ahora mismo:** $260.00 en 52 posiciones abiertas (disponible para nuevas apuestas: $215.02)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -34,7 +34,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | HongYunX | 4 | 1 | 0 | +13.63 USD |
 | TAIWANNUMBERONE | 31 | 19 | 4 | +13.39 USD |
 | 0xcF609D3256f0f37f0595E5Dc64012Fa3a8fEa6f5-1771809916847 | 4 | 0 | 0 | +13.04 USD |
-| Flaznorp | 19 | 3 | 7 | +12.36 USD |
 | 3edmond.dantes | 3 | 1 | 0 | +11.57 USD |
 | tikstt | 3 | 0 | 0 | +11.18 USD |
 | sentrio | 5 | 2 | 0 | +10.49 USD |
@@ -44,6 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Feromont | 3 | 1 | 0 | +7.80 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
+| Flaznorp | 19 | 4 | 6 | +7.27 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -55,7 +55,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Lakersfan111 | 11 | 8 | 0 | +4.18 USD |
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
-| BBQChickenisthebesttt | 3 | 1 | 1 | +3.49 USD |
+| BBQChickenisthebesttt | 3 | 1 | 2 | +3.49 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -122,18 +122,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 384 | 237 | 17 | -134.69 USD |
+| ferrariChampions2026 | 385 | 238 | 15 | -136.40 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3425
-- **Aciertos:** 2190 (63.9%)
+- **Apuestas resueltas:** 3428
+- **Aciertos:** 2191 (63.9%)
 - **Cuota promedio de entrada:** 63.3%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,100.24
-- **ROI sobre lo apostado:** -0.69%
-- **Comisiones pagadas (taker fee):** $313.54 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.14% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,115.24
+- **ROI sobre lo apostado:** -0.73%
+- **Comisiones pagadas (taker fee):** $313.81 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +1.10% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -141,8 +141,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1720 | 50.2% | 50.1% | +0.1 pp |
-| 60-79% | 1022 | 70.1% | 67.8% | +2.3 pp |
+| 40-59% | 1721 | 50.2% | 50.1% | +0.1 pp |
+| 60-79% | 1024 | 69.9% | 67.8% | +2.1 pp |
 | 80-94% | 472 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 211 | 96.2% | 97.4% | -1.1 pp |
 
@@ -715,6 +715,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-mia-kc-2026-09-02 | 0x4f2, 1winstreak1, Feromont |
 | mlb-stl-lad-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE |
+| lol-fox1-dk-2026-09-03-game2 | BBQChickenisthebesttt, TAIWANNUMBERONE |
 | atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
@@ -726,7 +727,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Federico Iannaccone (BUY) | 55% | 5.00 | 2.4% | ⏳ pendiente | — |
+| BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 63% | 5.00 | 16.6% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Federico Iannaccone (BUY) | 55% | 5.00 | 3.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 84% | 5.00 | 1.3% | ⏳ pendiente | — |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 53% | 5.00 | 20.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Game Handicap: DK (-1.5) vs BNK FEARX (+ | BNK FEARX (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
@@ -735,7 +737,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 44% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 45% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 84% | 5.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 2.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 16.9% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 54% | 5.00 | 1.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Katerina Sin | Naomi Osaka (BUY) | 80% | 5.00 | 6.3% | ⏳ pendiente | — |
@@ -750,9 +752,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs Etern | Nuclear TigeRES (BUY) | 52% | 5.00 | 8.0% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 64% | 5.00 | 32.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 60% | 5.00 | 25.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Enzo Aguiard (BUY) | 59% | 5.00 | 4.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Enzo Aguiard (BUY) | 59% | 5.00 | 4.2% | ✅ ganada | +3.37 |
 | RN1 | W75 Tianjin: Jiaqi Wang vs YeXin Ma | Jiaqi Wang (BUY) | 95% | 5.00 | 1.9% | ✅ ganada | +0.25 |
 | ExplosiveNinja | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 63% | 5.00 | 68.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
-| RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 73% | 5.00 | 13.9% | ⏳ pendiente | — |
