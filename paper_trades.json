@@ -91921,8 +91921,8 @@
     "title": "Como: Jay Clarke vs Pedro Martinez",
     "outcome": "Pedro Martinez",
     "side": "BUY",
-    "whale_usd": 5874.710400000001,
-    "whale_pct": 2.942,
+    "whale_usd": 8039.660400000001,
+    "whale_pct": 4.027,
     "whale_value_at_open": 199661.0635,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 69,
@@ -91933,8 +91933,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788445176.1694183,
-    "fills": 1
+    "last_fill_at": 1788446863.648185,
+    "fills": 2
   },
   {
     "timestamp": 1788446131,
@@ -91982,6 +91982,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788446147.5425403,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788446843,
+    "timestamp_added": 1788446843.6484046,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-ra1-fly-2026-09-03",
+    "title": "Counter-Strike: Rare Atom vs FlyQuest (BO3) - IEM Beijing: Asian Qualifier Playoffs",
+    "outcome": "FlyQuest",
+    "side": "BUY",
+    "whale_usd": 554.4000000000001,
+    "whale_pct": 16.492,
+    "whale_value_at_open": 3361.6927,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788446843.648413,
     "fills": 1
   }
 ]
