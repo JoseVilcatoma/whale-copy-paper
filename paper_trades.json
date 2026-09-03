@@ -90139,5 +90139,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788422995.2027438,
     "fills": 1
+  },
+  {
+    "timestamp": 1788423200,
+    "timestamp_added": 1788423200.976879,
+    "username": "RN1",
+    "wallet": "0x2005d16a84ceefa912d4e380cd32e7ff827875ea",
+    "slug": "cs2-3dmax-inf6-2026-09-03",
+    "title": "Counter-Strike: 3DMAX vs Infinite (BO3) - NODWIN Clutch Series Playoffs",
+    "outcome": "3DMAX",
+    "side": "BUY",
+    "whale_usd": 4530.7452,
+    "whale_pct": 15.172,
+    "whale_value_at_open": 29862.7178,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 76,
+    "fee_usd": 0.06,
+    "odds_ballena": 75,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788423202.4342227,
+    "fills": 2
   }
 ]
