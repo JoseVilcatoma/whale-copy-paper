@@ -1,5 +1,5 @@
 {
-  "bankroll": 456.6792107197102,
+  "bankroll": 455.68408571971025,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17910,6 +17910,11 @@
       "timestamp": 1788409702.9502187,
       "bankroll": 456.68,
       "event": "lost: kekasaur \u2014 Will Boca Juniors win on 2026-09-02?"
+    },
+    {
+      "timestamp": 1788410057.3876383,
+      "bankroll": 455.68,
+      "event": "venta anticipada: Feromont \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (-1.00 USD)"
     }
   ]
 }
