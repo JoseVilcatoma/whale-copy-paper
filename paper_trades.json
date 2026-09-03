@@ -88391,8 +88391,8 @@
     "title": "Miami Marlins vs. Kansas City Royals",
     "outcome": "Kansas City Royals",
     "side": "BUY",
-    "whale_usd": 616.1,
-    "whale_pct": 6.592,
+    "whale_usd": 2603.5,
+    "whale_pct": 27.857,
     "whale_value_at_open": 9345.891,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 49,
@@ -88403,8 +88403,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788393182.61159,
-    "fills": 1
+    "last_fill_at": 1788396293.5682306,
+    "fills": 2
   },
   {
     "timestamp": 1788393316,
