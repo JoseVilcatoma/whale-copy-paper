@@ -91695,5 +91695,29 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788443450.080686,
     "fills": 1
+  },
+  {
+    "timestamp": 1788443690,
+    "timestamp_added": 1788443690.8322043,
+    "username": "0x99a093771ad58bcfc3023cd75566415f",
+    "wallet": "0x6e2c0e9474af7d720e5aba2a5b0bb6f723b7787c",
+    "slug": "cs2-mibr-eye-2026-09-03-game2",
+    "title": "Counter-Strike: MIBR vs EYEBALLERS - Map 2 Winner",
+    "outcome": "EYEBALLERS",
+    "side": "BUY",
+    "whale_usd": 1943.9999990000001,
+    "whale_pct": 13.235,
+    "whale_value_at_open": 14688.8656,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 51,
+    "fee_usd": 0.122,
+    "odds_ballena": 50,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788443690.8322163,
+    "fills": 1
   }
 ]
