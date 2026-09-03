@@ -1,5 +1,5 @@
 {
-  "bankroll": 469.4334309145163,
+  "bankroll": 466.82107549282955,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17860,6 +17860,16 @@
       "timestamp": 1788405915.684747,
       "bankroll": 469.43,
       "event": "won: AV23IUa \u2014 US Open ATP: Valentin Vacherot vs Kamil Majchrzak"
+    },
+    {
+      "timestamp": 1788406227.344787,
+      "bankroll": 470.41,
+      "event": "won: degenfren \u2014 US Open ATP: Dino Prizmic vs Tommy Paul"
+    },
+    {
+      "timestamp": 1788406282.1072507,
+      "bankroll": 466.82,
+      "event": "venta anticipada: 0x4f2 \u2014 Detroit Tigers vs. Minnesota Twins (-3.59 USD)"
     }
   ]
 }

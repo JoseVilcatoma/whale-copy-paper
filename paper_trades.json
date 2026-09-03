@@ -86563,8 +86563,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "won",
+    "profit_usd": 0.98,
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
@@ -88957,8 +88957,8 @@
     "odds_at_bet": 83,
     "fee_usd": 0.043,
     "odds_ballena": 81,
-    "status": "pending",
-    "profit_usd": 0.0,
+    "status": "cerrada_venta",
+    "profit_usd": -3.59,
     "overlaps_with": [
       "1winstreak1",
       "AV23IUa"
@@ -88966,6 +88966,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788405994.1645455,
-    "fills": 2
+    "fills": 2,
+    "fee_total_usd": 0.099,
+    "closed_price": 25
+  },
+  {
+    "timestamp": 1788406316,
+    "timestamp_added": 1788406316.8608422,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-fritz-bellucc-2026-09-02",
+    "title": "US Open ATP: Taylor Fritz vs Mattia Bellucci",
+    "outcome": "Taylor Fritz",
+    "side": "BUY",
+    "whale_usd": 11488.749998000001,
+    "whale_pct": 7.444,
+    "whale_value_at_open": 154333.0891,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 91,
+    "fee_usd": 0.022,
+    "odds_ballena": 89,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788406316.8608556,
+    "fills": 1
   }
 ]

@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-02 22:29:55 (hora de Perú)
+Actualizado: 2026-09-02 22:31:59 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $469.43
-**Retorno acumulado:** -6.11%
+**Bankroll actual:** $466.82
+**Retorno acumulado:** -6.64%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-02 22:29:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $130.00 en 26 posiciones abiertas (disponible para nuevas apuestas: $339.43)
+**Capital comprometido ahora mismo:** $125.00 en 25 posiciones abiertas (disponible para nuevas apuestas: $341.82)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -74,10 +74,10 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | Feromont | 1 | 0 | 2 | +1.69 USD |
 | ethBELIVER | 1 | 1 | 0 | +1.64 USD |
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
+| degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
-| degenfren | 0 | 0 | 1 | +0.00 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
@@ -86,7 +86,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | 1winstreak1 | 1 | 1 | 2 | -1.61 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
-| 0x4f2 | 12 | 11 | 1 | -2.16 USD |
 | BrotherObama | 2 | 2 | 0 | -2.36 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
@@ -100,6 +99,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | WTSA | 0 | 1 | 0 | -5.12 USD |
 | vibing123 | 0 | 1 | 0 | -5.12 USD |
 | pleaseplease123 | 8 | 8 | 2 | -5.55 USD |
+| 0x4f2 | 12 | 12 | 0 | -5.75 USD |
 | kekasaur | 7 | 8 | 4 | -6.25 USD |
 | 0x3DFb153c197D4C19D3B31c1ecD2c7B6860eeabAf-1722957908185 | 5 | 6 | 0 | -6.61 USD |
 | alaskabaked | 1 | 2 | 0 | -6.84 USD |
@@ -121,17 +121,17 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 379 | 235 | 2 | -139.67 USD |
+| ferrariChampions2026 | 379 | 235 | 3 | -139.67 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3402
-- **Aciertos:** 2175 (63.9%)
+- **Apuestas resueltas:** 3403
+- **Aciertos:** 2176 (63.9%)
 - **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $16,985.24
+- **Total apostado (suma de stakes):** $16,990.24
 - **ROI sobre lo apostado:** -0.76%
-- **Comisiones pagadas (taker fee):** $311.26 (1.83% del capital apostado)
+- **Comisiones pagadas (taker fee):** $311.30 (1.83% del capital apostado)
 - **ROI que habría dado SIN comisiones:** +1.07% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
@@ -142,7 +142,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 |---|---|---|---|---|
 | 40-59% | 1704 | 50.1% | 50.1% | +0.0 pp |
 | 60-79% | 1020 | 70.0% | 67.8% | +2.2 pp |
-| 80-94% | 470 | 86.4% | 86.7% | -0.4 pp |
+| 80-94% | 471 | 86.4% | 86.7% | -0.3 pp |
 | 95-99% (casi seguro) | 208 | 96.6% | 97.4% | -0.7 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
@@ -714,7 +714,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 4.8% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Taylor Fritz vs Mattia Bell | Taylor Fritz (BUY) | 91% | 5.00 | 7.4% | ⏳ pendiente | — |
+| 0x4f2 | Detroit Tigers vs. Minnesota Twins | Minnesota Twins (BUY) | 83% | 5.00 | 4.8% | 💰 vendida anticipada | -3.59 |
 | ferrariChampions2026 | Spread: New York Yankees (-1.5) | New York Yankees (BUY) | 42% | 5.00 | 1.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Lanlana Tararudee vs Linda  | Linda Noskova (BUY) | 98% | 5.00 | 2.2% | ⏳ pendiente | — |
 | kekasaur | Will CF América win on 2026-09-02? | No (BUY) | 56% | 5.00 | 310.2% | ⏳ pendiente | — |
@@ -743,4 +744,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Talvez10 | Miami Marlins vs. Kansas City Royals: O/ | Under (BUY) | 47% | 5.00 | 87.8% | ❌ perdida | -5.13 |
 | kekasaur | Will Boca Juniors win on 2026-09-02? | Yes (BUY) | 53% | 5.00 | 64.3% | ⏳ pendiente | — |
 | 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: DEPO vs Lynn Vision (BO3 | Lynn Vision (BUY) | 86% | 5.00 | 1.5% | ⏳ pendiente | — |
-| 0x29b52d98ac9ef9414b04164246c95BC63d7 | Counter-Strike: Iberian Soul vs Nemiga ( | Nemiga (BUY) | 56% | 5.00 | 4.1% | ⏳ pendiente | — |
