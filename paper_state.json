@@ -1,5 +1,5 @@
 {
-  "bankroll": 451.94187527844497,
+  "bankroll": 454.664375278445,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18380,6 +18380,11 @@
       "timestamp": 1788452162.1250482,
       "bankroll": 451.94,
       "event": "won: ferrariChampions2026 \u2014 Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez"
+    },
+    {
+      "timestamp": 1788454162.1082149,
+      "bankroll": 454.66,
+      "event": "won: ferrariChampions2026 \u2014 Manacor: Edas Butvilas vs Remy Bertola"
     }
   ]
 }
