@@ -1,10 +1,10 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 08:30:55 (hora de Perú)
+Actualizado: 2026-09-03 08:32:58 (hora de Perú)
 
 **Bankroll inicial:** $500.00
-**Bankroll actual:** $472.67
-**Retorno acumulado:** -5.47%
+**Bankroll actual:** $462.03
+**Retorno acumulado:** -7.59%
 **Peor caída desde un máximo (drawdown):** 52.27%
 **Posiciones recortadas por el tope de seguridad (25% máx. por posición):** 0
 
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 08:30:55 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $290.00 en 58 posiciones abiertas (disponible para nuevas apuestas: $182.67)
+**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $222.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -55,7 +55,6 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | monkeymashingkeyboard | 9 | 7 | 0 | +3.91 USD |
 | Baronen11 | 1 | 0 | 0 | +3.82 USD |
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | 1 | 1 | 0 | +3.30 USD |
-| TAIWANNUMBERONE | 31 | 21 | 2 | +3.21 USD |
 | Wiretransferxyz | 8 | 4 | 0 | +3.20 USD |
 | Gourmet1 | 1 | 0 | 0 | +2.97 USD |
 | plonker2026 | 8 | 8 | 0 | +2.94 USD |
@@ -78,15 +77,16 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | dauntlesswitness | 1 | 0 | 0 | +1.13 USD |
 | degenfren | 1 | 0 | 0 | +0.98 USD |
 | kilian7kilian | 1 | 0 | 0 | +0.91 USD |
-| zofgkt1111 | 1 | 1 | 3 | +0.37 USD |
 | johnbaster | 1 | 0 | 0 | +0.25 USD |
 | 0x4f2 | 14 | 16 | 0 | +0.22 USD |
 | asd147 | 1 | 0 | 0 | +0.05 USD |
 | 0xBc43c8bfBC4d77c2FC9011adaD38Ba43b88996d3-1765231687816 | 0 | 0 | 1 | +0.00 USD |
+| TAIWANNUMBERONE | 32 | 22 | 0 | -0.29 USD |
 | theowalcott | 5 | 4 | 0 | -0.44 USD |
 | itsonlyamatteroftime | 1 | 1 | 0 | -0.61 USD |
 | HomeRunHazard | 430 | 228 | 0 | -0.62 USD |
 | 00xaaxaxaxsasdasddasdjj233j2j32h4h35 | 2 | 1 | 0 | -0.90 USD |
+| zofgkt1111 | 3 | 2 | 0 | -1.38 USD |
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | 1winstreak1 | 5 | 4 | 0 | -1.99 USD |
@@ -113,7 +113,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | kluckkluck | 0 | 2 | 0 | -10.27 USD |
 | crisp1973 | 1 | 3 | 0 | -10.43 USD |
 | Talvez10 | 1 | 3 | 0 | -10.98 USD |
-| ExplosiveNinja | 7 | 7 | 1 | -13.35 USD |
+| ExplosiveNinja | 7 | 7 | 2 | -13.35 USD |
 | Djdjdjekekek | 23 | 22 | 0 | -15.55 USD |
 | wr0ngw4yb3tt0r | 9 | 12 | 0 | -16.45 USD |
 | texaskid | 8 | 10 | 0 | -17.06 USD |
@@ -123,18 +123,18 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 391 | 243 | 30 | -139.37 USD |
+| ferrariChampions2026 | 395 | 245 | 24 | -144.78 USD |
 
 ## Análisis general
 
-- **Apuestas resueltas:** 3459
-- **Aciertos:** 2208 (63.8%)
-- **Cuota promedio de entrada:** 63.3%
+- **Apuestas resueltas:** 3470
+- **Aciertos:** 2215 (63.8%)
+- **Cuota promedio de entrada:** 63.4%
 - **Stake promedio:** $4.99
-- **Total apostado (suma de stakes):** $17,270.24
-- **ROI sobre lo apostado:** -0.80%
-- **Comisiones pagadas (taker fee):** $316.67 (1.83% del capital apostado)
-- **ROI que habría dado SIN comisiones:** +1.04% _(referencia: cuánto pesan las comisiones)_
+- **Total apostado (suma de stakes):** $17,325.24
+- **ROI sobre lo apostado:** -0.86%
+- **Comisiones pagadas (taker fee):** $317.32 (1.83% del capital apostado)
+- **ROI que habría dado SIN comisiones:** +0.98% _(referencia: cuánto pesan las comisiones)_
 
 ### ¿Aciertan más o menos de lo que promete la cuota?
 
@@ -142,10 +142,10 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Rango de cuota | Apuestas | Acierto real | Cuota promedio | Diferencia |
 |---|---|---|---|---|
-| 40-59% | 1736 | 50.3% | 50.1% | +0.2 pp |
-| 60-79% | 1035 | 69.7% | 67.8% | +1.9 pp |
-| 80-94% | 476 | 85.9% | 86.7% | -0.8 pp |
-| 95-99% (casi seguro) | 212 | 96.2% | 97.4% | -1.1 pp |
+| 40-59% | 1737 | 50.3% | 50.1% | +0.2 pp |
+| 60-79% | 1041 | 69.6% | 67.8% | +1.9 pp |
+| 80-94% | 478 | 85.8% | 86.7% | -1.0 pp |
+| 95-99% (casi seguro) | 214 | 96.3% | 97.4% | -1.1 pp |
 
 ## Mercados donde coincidieron 2+ vigilados (para calibrar el tope futuro)
 
@@ -717,6 +717,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | mlb-stl-lad-2026-09-02 | 0x4f2, 1winstreak1, Feromont, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game1 | BBQChickenisthebesttt, TAIWANNUMBERONE |
 | lol-fox1-dk-2026-09-03-game2 | BBQChickenisthebesttt, TAIWANNUMBERONE, zofgkt1111 |
+| cs2-vp-fnc-2026-09-03 | 0x29b52d98ac9ef9414b04164246c95BC63d7, ExplosiveNinja |
 | atp-sultano-aguiard-2026-09-02 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
@@ -736,6 +737,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ExplosiveNinja | Counter-Strike: Virtus.pro vs fnatic (BO | fnatic (BUY) | 58% | 5.00 | 59.9% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: magic vs BIG (BO3) - IEM | magic (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Himeno Sa | Cristina Bucsa (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Felix Balshaw vs Alexandre Mull | Felix Balshaw (BUY) | 66% | 5.00 | 4.1% | ⏳ pendiente | — |
@@ -748,7 +750,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Boston Red Sox vs. Baltimore Orioles | Baltimore Orioles (BUY) | 45% | 5.00 | 2.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Manacor: Billy Harris vs Jay Dylan Frien | Jay Dylan Friend (BUY) | 55% | 5.00 | 1.7% | ⏳ pendiente | — |
 | Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Miguel Damas (BUY) | 47% | 5.00 | 0.7% | ⏳ pendiente | — |
-| ferrariChampions2026 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 96% | 5.00 | 0.4% | ⏳ pendiente | — |
+| ferrariChampions2026 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 96% | 5.00 | 0.4% | ✅ ganada | +0.20 |
 | ferrariChampions2026 | Chicago White Sox vs. Houston Astros | Chicago White Sox (BUY) | 41% | 5.00 | 1.9% | ⏳ pendiente | — |
 | Flaznorp | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 80% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Maria Timofeeva vs Elise Me | Elise Mertens (BUY) | 76% | 5.00 | 5.5% | ⏳ pendiente | — |
@@ -756,13 +758,12 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | Flaznorp | Porto: Niels Visker vs Pedro Vives Marco | Pedro Vives Marcos (BUY) | 98% | 5.00 | 0.3% | ✅ ganada | +0.10 |
 | ferrariChampions2026 | Porto: Miguel Damas vs Dimitar Kuzmanov | Dimitar Kuzmanov (BUY) | 67% | 5.00 | 13.0% | ⏳ pendiente | — |
 | Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ❌ perdida | -5.03 |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Johan Nikles (BUY) | 59% | 5.00 | 8.8% | ✅ ganada | +3.37 |
 | ferrariChampions2026 | Plovdiv 3: Nikita Mashtakov vs Juan Manu | Juan Manuel La Serna (BUY) | 91% | 5.00 | 4.8% | ✅ ganada | +0.47 |
-| zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 60% | 5.00 | 57.8% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 60% | 5.00 | 57.8% | ✅ ganada | +3.23 |
 | AV23IUa | Tampa Bay Rays vs. Texas Rangers | Texas Rangers (BUY) | 48% | 5.00 | 6.6% | ⏳ pendiente | — |
-| zofgkt1111 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 99% | 5.00 | 2.0% | ⏳ pendiente | — |
+| zofgkt1111 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 99% | 5.00 | 2.0% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Filip Jianu (BUY) | 49% | 5.00 | 1.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Jan-Lennard Struff (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | 💰 vendida anticipada | +3.10 |
-| AV23IUa | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 57% | 5.00 | 26.0% | ⏳ pendiente | — |

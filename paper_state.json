@@ -1,5 +1,5 @@
 {
-  "bankroll": 472.67353972130275,
+  "bankroll": 462.0275185704596,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18215,6 +18215,61 @@
       "timestamp": 1788441998.2873054,
       "bankroll": 472.67,
       "event": "won: BBQChickenisthebesttt \u2014 LoL: BNK FEARX vs Dplus KIA - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788442301.6145077,
+      "bankroll": 474.28,
+      "event": "won: TAIWANNUMBERONE \u2014 LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788442305.3654091,
+      "bankroll": 469.18,
+      "event": "lost: TAIWANNUMBERONE \u2014 Game Handicap: DK (-1.5) vs BNK FEARX (+1.5)"
+    },
+    {
+      "timestamp": 1788442306.7268953,
+      "bankroll": 470.96,
+      "event": "won: ferrariChampions2026 \u2014 LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788442306.827027,
+      "bankroll": 465.85,
+      "event": "lost: ferrariChampions2026 \u2014 Game Handicap: DK (-1.5) vs BNK FEARX (+1.5)"
+    },
+    {
+      "timestamp": 1788442307.2103603,
+      "bankroll": 467.73,
+      "event": "won: ferrariChampions2026 \u2014 Game Handicap: DK (-1.5) vs BNK FEARX (+1.5)"
+    },
+    {
+      "timestamp": 1788442307.507761,
+      "bankroll": 468.64,
+      "event": "won: ferrariChampions2026 \u2014 Games Total: O/U 3.5"
+    },
+    {
+      "timestamp": 1788442308.2145479,
+      "bankroll": 463.58,
+      "event": "lost: ferrariChampions2026 \u2014 LoL: BNK FEARX vs Dplus KIA (BO5) - LCK Playoffs"
+    },
+    {
+      "timestamp": 1788442309.45234,
+      "bankroll": 463.63,
+      "event": "won: zofgkt1111 \u2014 LoL: Bilibili Gaming vs Team WE (BO5) - LPL Playoffs"
+    },
+    {
+      "timestamp": 1788442309.903002,
+      "bankroll": 466.86,
+      "event": "won: zofgkt1111 \u2014 LoL: BNK FEARX vs Dplus KIA - Game 4 Winner"
+    },
+    {
+      "timestamp": 1788442310.3741624,
+      "bankroll": 461.83,
+      "event": "lost: zofgkt1111 \u2014 LoL: Bilibili Gaming vs Team WE - Game 3 Winner"
+    },
+    {
+      "timestamp": 1788442311.673881,
+      "bankroll": 462.03,
+      "event": "won: ferrariChampions2026 \u2014 LoL: Bilibili Gaming vs Team WE (BO5) - LPL Playoffs"
     }
   ]
 }
