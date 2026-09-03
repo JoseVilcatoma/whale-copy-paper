@@ -1,5 +1,5 @@
 {
-  "bankroll": 459.2323584107019,
+  "bankroll": 454.08935841070195,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18300,6 +18300,11 @@
       "timestamp": 1788447825.735857,
       "bankroll": 459.23,
       "event": "won: ferrariChampions2026 \u2014 Como: Andrej Nedic vs Kilian Feldbausch"
+    },
+    {
+      "timestamp": 1788447889.5828032,
+      "bankroll": 454.09,
+      "event": "lost: ferrariChampions2026 \u2014 KBO: SSG Landers vs. Kiwoom Heroes"
     }
   ]
 }
