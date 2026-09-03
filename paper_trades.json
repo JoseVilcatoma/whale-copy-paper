@@ -91618,5 +91618,32 @@
     "recortado_por_tope": false,
     "last_fill_at": 1788442303.4046233,
     "fills": 1
+  },
+  {
+    "timestamp": 1788442976,
+    "timestamp_added": 1788442976.8297694,
+    "username": "BrotherObama",
+    "wallet": "0x8a8685a792c184e5c2ee8c7d4d4baba7c2c94998",
+    "slug": "mlb-bos-bal-2026-09-03",
+    "title": "Boston Red Sox vs. Baltimore Orioles",
+    "outcome": "Boston Red Sox",
+    "side": "BUY",
+    "whale_usd": 14999.999998999998,
+    "whale_pct": 22.033,
+    "whale_value_at_open": 68079.5307,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 55,
+    "fee_usd": 0.112,
+    "odds_ballena": 54,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "AV23IUa",
+      "ferrariChampions2026"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788442976.8297784,
+    "fills": 1
   }
 ]

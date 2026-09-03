@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 08:41:09 (hora de Perú)
+Actualizado: 2026-09-03 08:43:10 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $462.03
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 08:41:09 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $222.03)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $217.03)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -90,7 +90,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | IQdegen | 1 | 1 | 0 | -1.75 USD |
 | 0xwise | 0 | 1 | 0 | -1.85 USD |
 | 1winstreak1 | 5 | 4 | 0 | -1.99 USD |
-| BrotherObama | 2 | 2 | 0 | -2.36 USD |
+| BrotherObama | 2 | 2 | 1 | -2.36 USD |
 | NiNo999 | 8 | 6 | 0 | -2.42 USD |
 | predictionlegend | 3 | 3 | 0 | -2.50 USD |
 | vito3corleone | 3 | 2 | 0 | -2.66 USD |
@@ -727,7 +727,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | atp-iannacc-mrva-2026-09-03 | RN1, ferrariChampions2026 |
 | atp-visker-marcos-2026-09-03 | Flaznorp, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game3 | BBQChickenisthebesttt, zofgkt1111 |
-| mlb-bos-bal-2026-09-03 | AV23IUa, ferrariChampions2026 |
+| mlb-bos-bal-2026-09-03 | AV23IUa, BrotherObama, ferrariChampions2026 |
 | lol-fox1-dk-2026-09-03-game4 | BBQChickenisthebesttt, zofgkt1111 |
 | lol-blg-we-2026-09-03 | ferrariChampions2026, zofgkt1111 |
 | lal-rso-cel-2026-09-03-total-2pt5 | Flaznorp, ferrariChampions2026 |
@@ -737,6 +737,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| BrotherObama | Boston Red Sox vs. Baltimore Orioles | Boston Red Sox (BUY) | 55% | 5.00 | 22.0% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Virtus.pro vs fnatic (BO | fnatic (BUY) | 58% | 5.00 | 59.9% | ⏳ pendiente | — |
 | AV23IUa | Counter-Strike: magic vs BIG (BO3) - IEM | magic (BUY) | 70% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Cristina Bucsa vs Himeno Sa | Cristina Bucsa (BUY) | 64% | 5.00 | 0.6% | ⏳ pendiente | — |
@@ -766,4 +767,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE (BO5) -  | Bilibili Gaming (BUY) | 99% | 5.00 | 2.0% | ✅ ganada | +0.05 |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Filip Jianu (BUY) | 49% | 5.00 | 1.9% | ❌ perdida | -5.13 |
 | ferrariChampions2026 | US Open ATP: Jan-Lennard Struff vs Franc | Jan-Lennard Struff (BUY) | 41% | 5.00 | 1.2% | ⏳ pendiente | — |
-| BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 4 Win | Dplus KIA (BUY) | 61% | 5.00 | 6.0% | 💰 vendida anticipada | +3.10 |
