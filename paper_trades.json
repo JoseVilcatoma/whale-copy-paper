@@ -88118,8 +88118,8 @@
     "title": "Counter-Strike: Phantom vs OG (BO3) - Logitech G Play Connect Closed Qualifier Playoffs",
     "outcome": "Phantom",
     "side": "BUY",
-    "whale_usd": 31409.6831,
-    "whale_pct": 74.038,
+    "whale_usd": 32070.249699999997,
+    "whale_pct": 75.595,
     "whale_value_at_open": 42423.9735,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 58,
@@ -88130,8 +88130,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788396383.723745,
-    "fills": 11
+    "last_fill_at": 1788397293.1633058,
+    "fills": 12
   },
   {
     "timestamp": 1788380375,
@@ -88367,8 +88367,8 @@
     "title": "New York Yankees vs. Los Angeles Angels: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 6315.4,
-    "whale_pct": 2.011,
+    "whale_usd": 19262.88,
+    "whale_pct": 6.133,
     "whale_value_at_open": 314074.6184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -88379,8 +88379,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788397192.3225343,
-    "fills": 3
+    "last_fill_at": 1788397291.6755404,
+    "fills": 9
   },
   {
     "timestamp": 1788393182,
