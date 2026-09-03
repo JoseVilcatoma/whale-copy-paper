@@ -88950,8 +88950,8 @@
     "title": "Detroit Tigers vs. Minnesota Twins",
     "outcome": "Minnesota Twins",
     "side": "BUY",
-    "whale_usd": 784.6342099999999,
-    "whale_pct": 2.565,
+    "whale_usd": 1474.28101,
+    "whale_pct": 4.819,
     "whale_value_at_open": 30595.2491,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 83,
@@ -88965,7 +88965,7 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788405876.7334573,
-    "fills": 1
+    "last_fill_at": 1788405994.1645455,
+    "fills": 2
   }
 ]
