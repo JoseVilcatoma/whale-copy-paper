@@ -90349,8 +90349,8 @@
     "title": "Plovdiv 3: Valerio Aboian vs Sebastian Sorger",
     "outcome": "Valerio Aboian",
     "side": "BUY",
-    "whale_usd": 9046.9314,
-    "whale_pct": 7.067,
+    "whale_usd": 9717.331199999999,
+    "whale_pct": 7.59,
     "whale_value_at_open": 128023.9524,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -90363,8 +90363,8 @@
     ],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788431442.5003576,
-    "fills": 5
+    "last_fill_at": 1788432645.3220735,
+    "fills": 6
   },
   {
     "timestamp": 1788425403,
@@ -90923,6 +90923,30 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788432550.7695265,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788432743,
+    "timestamp_added": 1788432744.0716312,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "atp-nikles-jianu-2026-09-03",
+    "title": "Como: Johan Nikles vs Filip Jianu",
+    "outcome": "Filip Jianu",
+    "side": "BUY",
+    "whale_usd": 2781.744,
+    "whale_pct": 1.908,
+    "whale_value_at_open": 145810.4441,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 49,
+    "fee_usd": 0.128,
+    "odds_ballena": 48,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788432744.0716465,
     "fills": 1
   }
 ]
