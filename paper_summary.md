@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 04:29:36 (hora de Perú)
+Actualizado: 2026-09-03 04:31:42 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.79
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 04:29:36 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $240.00 en 48 posiciones abiertas (disponible para nuevas apuestas: $230.79)
+**Capital comprometido ahora mismo:** $245.00 en 49 posiciones abiertas (disponible para nuevas apuestas: $225.79)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -43,7 +43,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Feromont | 3 | 1 | 0 | +7.80 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 19 | 4 | 6 | +7.27 USD |
+| Flaznorp | 19 | 4 | 7 | +7.27 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -720,13 +720,14 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-fox1-dk-2026-09-03-game-handicap-home-1pt5 | TAIWANNUMBERONE, ferrariChampions2026 |
 | atp-tomic-samrej-2026-09-02 | RN1, ferrariChampions2026 |
 | atp-popyrin-tabilo-2026-09-02 | AV23IUa, ferrariChampions2026 |
-| atp-aboian-sorger-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, RN1, ferrariChampions2026 |
+| atp-aboian-sorger-2026-09-03 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354, Flaznorp, RN1, ferrariChampions2026 |
 | atp-iannacc-mrva-2026-09-03 | RN1, ferrariChampions2026 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 89% | 5.00 | 0.8% | ⏳ pendiente | — |
 | BBQChickenisthebesttt | LoL: BNK FEARX vs Dplus KIA - Game 2 Win | Dplus KIA (BUY) | 63% | 5.00 | 28.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Federico Iannaccone (BUY) | 55% | 5.00 | 13.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Games Total: O/U 3.5 | Over (BUY) | 84% | 5.00 | 1.3% | ⏳ pendiente | — |
@@ -737,7 +738,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 44% | 5.00 | 5.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 45% | 5.00 | 6.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 84% | 5.00 | 3.1% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 16.9% | ⏳ pendiente | — |
+| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 33.3% | ⏳ pendiente | — |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 53% | 5.00 | 6.1% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Bernard Tomic (BUY) | 54% | 5.00 | 1.1% | ❌ perdida | -5.12 |
 | ferrariChampions2026 | US Open WTA: Naomi Osaka vs Katerina Sin | Naomi Osaka (BUY) | 80% | 5.00 | 6.3% | ⏳ pendiente | — |
@@ -756,4 +757,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | RN1 | W75 Tianjin: Jiaqi Wang vs YeXin Ma | Jiaqi Wang (BUY) | 95% | 5.00 | 1.9% | ✅ ganada | +0.25 |
 | ExplosiveNinja | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
 | AV23IUa | US Open ATP: Jan-Lennard Struff vs Franc | Francisco Cerundolo (BUY) | 63% | 5.00 | 68.3% | ⏳ pendiente | — |
-| ferrariChampions2026 | US Open ATP: Luciano Darderi vs Dalibor  | Dalibor Svrcina (BUY) | 44% | 5.00 | 1.7% | ⏳ pendiente | — |
