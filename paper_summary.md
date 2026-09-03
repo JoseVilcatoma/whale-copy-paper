@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 18:15:42 (hora de Perú)
+Actualizado: 2026-09-03 18:17:50 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $431.64
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 18:15:42 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $145.00 en 29 posiciones abiertas (disponible para nuevas apuestas: $286.64)
+**Capital comprometido ahora mismo:** $150.00 en 30 posiciones abiertas (disponible para nuevas apuestas: $281.64)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 421 | 260 | 10 | -166.55 USD |
+| ferrariChampions2026 | 421 | 260 | 11 | -166.55 USD |
 
 ## Análisis general
 
@@ -745,7 +745,8 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
-| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 0.5% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open ATP: Botic van de Zandschulp vs  | Botic van de Zandschulp (BUY) | 47% | 5.00 | 1.2% | ⏳ pendiente | — |
+| ferrariChampions2026 | US Open WTA: Maria Sakkari vs Yulia Star | Maria Sakkari (BUY) | 72% | 5.00 | 14.0% | ⏳ pendiente | — |
 | ferrariChampions2026 | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 45% | 5.00 | 0.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Gael Monfils vs Learner Tie | Learner Tien (BUY) | 85% | 5.00 | 4.3% | ⏳ pendiente | — |
 | Feromont | Milwaukee Brewers vs. Chicago Cubs | Chicago Cubs (BUY) | 48% | 5.00 | 24.2% | ⏳ pendiente | — |
@@ -774,4 +775,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Jay Clarke (BUY) | 69% | 5.00 | 1.8% | ✅ ganada | +2.17 |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys (BUY) | 81% | 5.00 | 2.7% | ✅ ganada | +1.13 |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Nadia Podoro | Iga Swiatek (BUY) | 99% | 5.00 | 1.1% | ✅ ganada | +0.05 |
-| ferrariChampions2026 | US Open ATP: Benjamin Bonzi vs Ignacio B | Benjamin Bonzi (BUY) | 48% | 5.00 | 9.8% | ⏳ pendiente | — |
