@@ -88367,8 +88367,8 @@
     "title": "New York Yankees vs. Los Angeles Angels: O/U 6.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 530.9200000000001,
-    "whale_pct": 0.169,
+    "whale_usd": 6315.4,
+    "whale_pct": 2.011,
     "whale_value_at_open": 314074.6184,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 53,
@@ -88379,8 +88379,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788392262.9929311,
-    "fills": 1
+    "last_fill_at": 1788397192.3225343,
+    "fills": 3
   },
   {
     "timestamp": 1788393182,
@@ -88518,8 +88518,8 @@
     "title": "Deportivo Toluca FC vs. Club Le\u00f3n FC: O/U 2.5",
     "outcome": "Under",
     "side": "BUY",
-    "whale_usd": 16045.6086,
-    "whale_pct": 377.125,
+    "whale_usd": 18722.2644,
+    "whale_pct": 440.035,
     "whale_value_at_open": 4254.722,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 43,
@@ -88530,8 +88530,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788396483.3116865,
-    "fills": 5
+    "last_fill_at": 1788397109.4960852,
+    "fills": 6
   },
   {
     "timestamp": 1788393929,
