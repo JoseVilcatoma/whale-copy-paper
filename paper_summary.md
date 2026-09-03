@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 03:37:54 (hora de Perú)
+Actualizado: 2026-09-03 03:40:04 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $482.85
@@ -735,7 +735,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | AV23IUa | US Open ATP: Alexei Popyrin vs Alejandro | Alexei Popyrin (BUY) | 43% | 5.00 | 25.4% | ⏳ pendiente | — |
 | ExplosiveNinja | Counter-Strike: Nuclear TigeRES vs Etern | Nuclear TigeRES (BUY) | 52% | 5.00 | 8.0% | ⏳ pendiente | — |
 | RN1 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 64% | 5.00 | 32.9% | ⏳ pendiente | — |
-| ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 60% | 5.00 | 24.3% | ⏳ pendiente | — |
+| ferrariChampions2026 | Zhangjiagang: Bernard Tomic vs Kasidit S | Kasidit Samrej (BUY) | 60% | 5.00 | 25.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Zhangjiagang: Khumoun Sultanov vs Enzo A | Enzo Aguiard (BUY) | 59% | 5.00 | 4.2% | ⏳ pendiente | — |
 | RN1 | W75 Tianjin: Jiaqi Wang vs YeXin Ma | Jiaqi Wang (BUY) | 95% | 5.00 | 1.9% | ✅ ganada | +0.25 |
 | ExplosiveNinja | Counter-Strike: Phantom vs OG (BO3) - Lo | Phantom (BUY) | 61% | 5.00 | 1.9% | ⏳ pendiente | — |
