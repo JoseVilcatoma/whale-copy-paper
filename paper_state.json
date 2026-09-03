@@ -1,5 +1,5 @@
 {
-  "bankroll": 456.23082769737107,
+  "bankroll": 460.0493991259425,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -18395,6 +18395,11 @@
       "timestamp": 1788456606.1993032,
       "bankroll": 456.23,
       "event": "won: ferrariChampions2026 \u2014 US Open WTA: Maria Timofeeva vs Elise Mertens"
+    },
+    {
+      "timestamp": 1788458132.5508084,
+      "bankroll": 460.05,
+      "event": "won: 0x29b52d98ac9ef9414b04164246c95BC63d7 \u2014 Counter-Strike: B8 vs HOTU (BO3) - IEM Beijing: Global Qualifier Playoffs"
     }
   ]
 }
