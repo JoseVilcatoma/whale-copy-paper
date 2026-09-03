@@ -1,5 +1,5 @@
 {
-  "bankroll": 487.9309163589784,
+  "bankroll": 482.8109163589784,
   "history": [
     {
       "timestamp": 1787082773.8926868,
@@ -17980,6 +17980,11 @@
       "timestamp": 1788412596.105171,
       "bankroll": 487.93,
       "event": "venta anticipada: Feromont \u2014 St. Louis Cardinals vs. Los Angeles Dodgers (+4.14 USD)"
+    },
+    {
+      "timestamp": 1788413175.96954,
+      "bankroll": 482.81,
+      "event": "lost: ferrariChampions2026 \u2014 St. Louis Cardinals vs. Los Angeles Dodgers: O/U 10.5"
     }
   ]
 }
