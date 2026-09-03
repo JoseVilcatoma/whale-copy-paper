@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 10:28:44 (hora de Perú)
+Actualizado: 2026-09-03 10:30:47 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $454.46
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 10:28:44 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $265.00 en 53 posiciones abiertas (disponible para nuevas apuestas: $189.46)
+**Capital comprometido ahora mismo:** $270.00 en 54 posiciones abiertas (disponible para nuevas apuestas: $184.46)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -123,7 +123,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | danielwolfmorales3pddb6dl6 | 15 | 23 | 0 | -33.20 USD |
 | Sassy-Bucket | 22 | 38 | 0 | -90.34 USD |
 |  | 62 | 51 | 0 | -114.47 USD |
-| ferrariChampions2026 | 400 | 250 | 30 | -160.14 USD |
+| ferrariChampions2026 | 400 | 250 | 31 | -160.14 USD |
 
 ## Análisis general
 
@@ -733,11 +733,13 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | lol-blg-we-2026-09-03 | ferrariChampions2026, zofgkt1111 |
 | lal-rso-cel-2026-09-03-total-2pt5 | Flaznorp, ferrariChampions2026 |
 | atp-damas-kuzmano-2026-09-03 | Flaznorp, ferrariChampions2026 |
+| mlb-sf-pit-2026-09-03-total-9pt5 | ferrariChampions2026, pleaseplease123 |
 
 ## Últimas 30 apuestas de papel (detalle)
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| ferrariChampions2026 | San Francisco Giants vs. Pittsburgh Pira | Under (BUY) | 56% | 5.00 | 2.9% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Jay Clarke (BUY) | 69% | 5.00 | 0.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Madison Keys vs Anna Bondar | Madison Keys (BUY) | 81% | 5.00 | 2.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open WTA: Iga Swiatek vs Nadia Podoro | Iga Swiatek (BUY) | 99% | 5.00 | 1.1% | ⏳ pendiente | — |
@@ -747,11 +749,11 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | BBQChickenisthebesttt | Will Real Sociedad de Fútbol win on 2026 | Yes (BUY) | 54% | 5.00 | 11.9% | ⏳ pendiente | — |
 | 0x99a093771ad58bcfc3023cd75566415f | Counter-Strike: Rare Atom vs FlyQuest (B | FlyQuest (BUY) | 76% | 5.00 | 16.5% | ⏳ pendiente | — |
 | ferrariChampions2026 | Toronto Blue Jays vs. Cleveland Guardian | Cleveland Guardians (BUY) | 52% | 5.00 | 1.8% | ⏳ pendiente | — |
-| ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.1% | ⏳ pendiente | — |
+| ferrariChampions2026 | Manacor: Maks Kasnikowski vs Alejo Sanch | Alejo Sanchez Quilez (BUY) | 47% | 5.00 | 7.6% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Jay Clarke vs Pedro Martinez | Pedro Martinez (BUY) | 69% | 5.00 | 7.8% | ⏳ pendiente | — |
 | ferrariChampions2026 | US Open ATP: Alexander Blockx vs Marco T | Alexander Blockx (BUY) | 85% | 5.00 | 0.3% | ⏳ pendiente | — |
-| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 19.9% | ⏳ pendiente | — |
-| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 71.3% | ⏳ pendiente | — |
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 45% | 5.00 | 59.7% | ⏳ pendiente | — |
+| pleaseplease123 | San Francisco Giants vs. Pittsburgh Pira | Over (BUY) | 56% | 5.00 | 74.4% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Andrej Nedic (BUY) | 56% | 5.00 | 2.5% | ✅ ganada | +3.82 |
 | ferrariChampions2026 | Plovdiv 3: Yanaki Milev vs Ignacio Paris | Yanaki Milev (BUY) | 95% | 5.00 | 0.3% | ✅ ganada | +0.25 |
 | ferrariChampions2026 | Spread: Cleveland Guardians (-1.5) | Toronto Blue Jays (BUY) | 69% | 5.00 | 3.8% | ⏳ pendiente | — |
@@ -767,4 +769,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | ferrariChampions2026 | Manacor: Felix Balshaw vs Alexandre Mull | Felix Balshaw (BUY) | 66% | 5.00 | 4.1% | ✅ ganada | +2.49 |
 | ferrariChampions2026 | Miami Marlins vs. Kansas City Royals: O/ | Over (BUY) | 56% | 5.00 | 0.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Andrej Nedic vs Kilian Feldbausch | Kilian Feldbausch (BUY) | 65% | 5.00 | 0.7% | ❌ perdida | -5.09 |
-| ferrariChampions2026 | US Open WTA: Oleksandra Oliynykova vs Al | Alexandra Eala (BUY) | 90% | 5.00 | 6.3% | ⏳ pendiente | — |

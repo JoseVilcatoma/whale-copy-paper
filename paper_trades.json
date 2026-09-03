@@ -90690,8 +90690,8 @@
     "title": "US Open ATP: Felix Auger-Aliassime vs Karen Khachanov",
     "outcome": "Felix Auger-Aliassime",
     "side": "BUY",
-    "whale_usd": 9603.416341,
-    "whale_pct": 5.46,
+    "whale_usd": 36516.743341,
+    "whale_pct": 20.761,
     "whale_value_at_open": 175887.0344,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 74,
@@ -90702,8 +90702,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788448531.2637885,
-    "fills": 3
+    "last_fill_at": 1788449440.0346406,
+    "fills": 8
   },
   {
     "timestamp": 1788429281,
@@ -91849,8 +91849,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 8.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 29351.934,
-    "whale_pct": 71.295,
+    "whale_usd": 30624.661272,
+    "whale_pct": 74.386,
     "whale_value_at_open": 41169.7642,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 56,
@@ -91861,8 +91861,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788446280.1673813,
-    "fills": 2
+    "last_fill_at": 1788449430.1052926,
+    "fills": 3
   },
   {
     "timestamp": 1788444925,
@@ -91873,8 +91873,8 @@
     "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 9.5",
     "outcome": "Over",
     "side": "BUY",
-    "whale_usd": 8212.141,
-    "whale_pct": 19.947,
+    "whale_usd": 24558.616,
+    "whale_pct": 59.652,
     "whale_value_at_open": 41169.7642,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 45,
@@ -91885,8 +91885,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788446307.648118,
-    "fills": 2
+    "last_fill_at": 1788449434.5876129,
+    "fills": 7
   },
   {
     "timestamp": 1788445128,
@@ -91945,8 +91945,8 @@
     "title": "Manacor: Maks Kasnikowski vs Alejo Sanchez Quilez",
     "outcome": "Alejo Sanchez Quilez",
     "side": "BUY",
-    "whale_usd": 13837.426807,
-    "whale_pct": 7.14,
+    "whale_usd": 14695.001707,
+    "whale_pct": 7.583,
     "whale_value_at_open": 193788.0472,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 47,
@@ -91957,8 +91957,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788448613.9783573,
-    "fills": 5
+    "last_fill_at": 1788449324.7345126,
+    "fills": 6
   },
   {
     "timestamp": 1788446147,
@@ -92176,6 +92176,32 @@
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
     "last_fill_at": 1788449254.1349642,
+    "fills": 1
+  },
+  {
+    "timestamp": 1788449433,
+    "timestamp_added": 1788449434.1343825,
+    "username": "ferrariChampions2026",
+    "wallet": "0xfe787d2da716d60e8acff57fb87eb13cd4d10319",
+    "slug": "mlb-sf-pit-2026-09-03-total-9pt5",
+    "title": "San Francisco Giants vs. Pittsburgh Pirates: O/U 9.5",
+    "outcome": "Under",
+    "side": "BUY",
+    "whale_usd": 6732.4400000000005,
+    "whale_pct": 2.902,
+    "whale_value_at_open": 231959.195,
+    "paper_stake_usd": 5.0,
+    "odds_at_bet": 56,
+    "fee_usd": 0.11,
+    "odds_ballena": 55,
+    "status": "pending",
+    "profit_usd": 0.0,
+    "overlaps_with": [
+      "pleaseplease123"
+    ],
+    "recortado_por_bankroll": false,
+    "recortado_por_tope": false,
+    "last_fill_at": 1788449434.1343918,
     "fills": 1
   }
 ]
