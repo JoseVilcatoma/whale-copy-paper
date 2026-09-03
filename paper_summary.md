@@ -1,6 +1,6 @@
 # Paper trading — resultado de la simulación
 
-Actualizado: 2026-09-03 06:17:28 (hora de Perú)
+Actualizado: 2026-09-03 06:19:33 (hora de Perú)
 
 **Bankroll inicial:** $500.00
 **Bankroll actual:** $470.50
@@ -13,7 +13,7 @@ Actualizado: 2026-09-03 06:17:28 (hora de Perú)
 **Filtro de cuota mínima:** solo se replican apuestas de 40% o más
 **Comisión de Polymarket:** taker fee con coeficiente 0.05 (deportes) — se paga al entrar gane o pierda, y otra vez al vender anticipadamente. Mínimo de orden: 5 acciones.
 **Slippage aplicado:** 2.0% — entramos siempre a peor precio que la ballena (su orden mueve el mercado y reaccionamos después). Sin esto la simulación sería optimista.
-**Capital comprometido ahora mismo:** $315.00 en 63 posiciones abiertas (disponible para nuevas apuestas: $155.50)
+**Capital comprometido ahora mismo:** $320.00 en 64 posiciones abiertas (disponible para nuevas apuestas: $150.50)
 
 _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición._
 
@@ -44,7 +44,7 @@ _Todavía sin tope por mercado ni límite de pérdida — fase de solo medición
 | TheMafiaa | 2 | 0 | 0 | +8.46 USD |
 | Feromont | 3 | 1 | 0 | +7.80 USD |
 | SnakeBall | 9 | 2 | 0 | +7.66 USD |
-| Flaznorp | 19 | 4 | 7 | +7.27 USD |
+| Flaznorp | 19 | 4 | 8 | +7.27 USD |
 | 11vsldfdsgfkjgos | 3 | 0 | 0 | +6.61 USD |
 | no1dodgersfan | 2 | 0 | 0 | +6.46 USD |
 | ethanaz | 2 | 1 | 0 | +6.39 USD |
@@ -731,6 +731,7 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 
 | Apostador | Mercado | Apostó a | Precio | Stake ($) | % real ballena | Estado | Resultado |
 |---|---|---|---|---|---|---|---|
+| Flaznorp | Real Sociedad de Fútbol vs. RC Celta de  | Over (BUY) | 52% | 5.00 | 1.2% | ⏳ pendiente | — |
 | zofgkt1111 | LoL: Bilibili Gaming vs Team WE - Game 3 | Bilibili Gaming (BUY) | 87% | 5.00 | 4.3% | ⏳ pendiente | — |
 | ferrariChampions2026 | Como: Johan Nikles vs Filip Jianu | Johan Nikles (BUY) | 59% | 5.00 | 4.7% | ⏳ pendiente | — |
 | ferrariChampions2026 | Plovdiv 3: Nikita Mashtakov vs Juan Manu | Juan Manuel La Serna (BUY) | 91% | 5.00 | 1.8% | ⏳ pendiente | — |
@@ -760,4 +761,3 @@ _Si la cuota dice 70%, deberían ganar ~70% de esas apuestas. Ganar MENOS de lo 
 | 0x2a075c15e5d5a133b2cd6C882A93C879E6CF00D8-1772812507354 | Plovdiv 3: Valerio Aboian vs Sebastian S | Sebastian Sorger (BUY) | 56% | 5.00 | 9.6% | 💰 vendida anticipada | -1.02 |
 | RN1 | Plovdiv 3: Federico Iannaccone vs Maxim  | Maxim Mrva (BUY) | 75% | 5.00 | 1.0% | ❌ perdida | -5.06 |
 | RN1 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 44% | 5.00 | 5.5% | ⏳ pendiente | — |
-| ferrariChampions2026 | Plovdiv 3: Valerio Aboian vs Sebastian S | Valerio Aboian (BUY) | 45% | 5.00 | 7.6% | ⏳ pendiente | — |
