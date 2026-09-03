@@ -89003,8 +89003,8 @@
     "title": "Zhangjiagang: Akira Santillan vs Ilya Ivashka",
     "outcome": "Ilya Ivashka",
     "side": "BUY",
-    "whale_usd": 729.029189,
-    "whale_pct": 0.501,
+    "whale_usd": 4900.003935000001,
+    "whale_pct": 3.365,
     "whale_value_at_open": 145613.9315,
     "paper_stake_usd": 5.0,
     "odds_at_bet": 64,
@@ -89015,8 +89015,8 @@
     "overlaps_with": [],
     "recortado_por_bankroll": false,
     "recortado_por_tope": false,
-    "last_fill_at": 1788406676.612229,
-    "fills": 1
+    "last_fill_at": 1788407283.1369452,
+    "fills": 2
   },
   {
     "timestamp": 1788406733,
